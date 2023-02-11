@@ -1,0 +1,834 @@
+
+
+JULY 18, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Luis von Ahn, Co-Founder and CEO of Duolingo — How to Be (Truly) Mission-Driven, Monetization Experiments, 10x Growth, Org Chart Iterations for Impacting Metrics, The Intricate Path to an IPO, Best Hiring Practices, Catching Exam Cheaters, The Allure of Toto Toilets, The Future of Duolingo, and How to Stand Out in Your Career (#607)
+
+
+Please enjoy this transcript of my interview with Luis von Ahn (@LuisvonAhn), an entrepreneur and consulting professor at Carnegie Mellon University, who is considered one of the pioneers of crowdsourcing. He is known for co-inventing CAPTCHAs, being a MacArthur fellow, and selling two companies to Google in his twenties.
+
+He is currently the co-founder and CEO of Duolingo, a language-learning platform created to bring free language education to the world. With more than 500 million users, it is now the most popular language-learning platform and the most downloaded education app in the world.
+
+Luis has been named one of the Brilliant 10 by Popular Science, one of the 50 Best Brains in Science by Discover, one of the Innovators Under 35 by MIT Technology Review, and one of the 100 Most Creative People in Business by Fast Company. Luis also won the 2018 Lemelson-MIT prize, the largest cash prize for invention in the U.S.
+
+Please enjoy!
+
+
+
+
+#607: Luis von Ahn, Co-Founder and CEO of Duolingo — How to Be (Truly) Mission-Driven, Monetization Experiments, 10x Growth, Org Chart Iterations for Impacting Metrics, The Intricate Path to an IPO, Best Hiring Practices, Catching Exam Cheaters, The Allure of Toto Toilets, The Future of Duolingo, and How to Stand Out in Your Career
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of the Tim Ferriss show.
+
+My guest today is Luis von Ahn. You can find him on Twitter at Luis L-U-I-S V-O-N A-H-N. Luis is an entrepreneur and consulting professor at Carnegie Mellon University who’s considered one of the pioneers of crowdsourcing. He is known for co-inventing CAPTCHAs, being a MacArthur fellow, and selling two companies to Google in his 20s.
+
+He’s currently the co-founder and CEO of Duolingo, a language learning platform created to bring free language education to the world. With more than 500 million users, it is now the most popular language learning platform and the most downloaded education app in the world.
+
+Luis has been named one of the Brilliant 10 by Popular Science, one of the 50 Best Brains in Science by Discover, one of the Innovators Under 35 by MIT Technology Review, and one of the 100 Most Creative People in Business by Fast Company. Luis also won the 2018 Lemelson-MIT Prize, the largest cash prize for invention in the United States.
+
+Luis, it has been a while since we spoke. Last, it was 2016 when we had a conversation on this podcast. Welcome back. It’s nice to see you.
+
+Luis von Ahn: Thank you for having me, Tim.
+
+Tim Ferriss: I thought we could start with just a few bits of trivia, a little bit of history. Why don’t we start with why the Duolingo owl is green. Would you mind just explaining that for people?
+
+Luis von Ahn: Hopefully, most people have seen the Duolingo owl. It’s our mascot. First of all, it’s an owl because in most Western countries, owls represent knowledge. Turns out this is just not true at all in Asia. Now that we’ve been expanding to Asia, people ask us, “Why the hell are you using an owl? Owls are just vicious animals.” Okay. It’s an owl.
+
+It’s green, and it is a ridiculous reason why it’s green. When we were getting started, my co-founder, Severin, who’s an amazing guy — his last name is Hacker, Severin Hacker.
+
+Tim Ferriss: Best name ever.
+
+Luis von Ahn: I still think it’s made up. He swears it’s not. This is a computer science person whose last name is Hacker.
+
+We were getting started, and we had a design team that was working on our logo and everything. We wanted a mascot. We thought it was important to have a mascot because, well, it would help people learn, and it would make our brand iconic, et cetera. That turned out to be true. We came up with the idea of an owl. We were just talking about things.
+
+Severin was not very involved in the design process at all. At some point, the designers asked him, “Well, is there anything you care about in terms of design?” He said, “Look. There’s only one thing I care about. It is that I hate the color green.” So we thought it would be funny if he was the co-founder of a company where most of our colors were green. He’s had to live with that for 10 years.
+
+Tim Ferriss: All right. We will try to not replicate too much of the first conversation, but I think a little connective tissue and context for folks would be helpful. So I’m going to try to do a quick recap of a few points. I want you to correct anything that I get wrong, and certainly add in any color that you think would be helpful.
+
+You were born and raised in Guatemala. You were raised by two parents, both medical doctors. You ended up — I think it started with receiving a Commodore 64, much to your disappointment, instead of a Nintendo, becoming involved with taking things apart and learning computer science.
+
+Flash forward, you, skipping a lot of steps here, had developed a technology and a company, reCAPTCHA, which, after about a year and a half, sold to Google. Most people have filled out a CAPTCHA or reCAPTCHA to prove they’re not a robot or a bot.
+
+A year and a half later, this Severin Hacker you’ve already mentioned, who was then a PhD student of yours, was looking for a PhD project. That led to a conversation, including the observation that, number one, language, or I should say education was important to both you, and that in your home country of Guatemala, education was, in a sense, an obstacle to overcoming socioeconomic barriers, and to elevating your life, because of the cost involved. The rich were able to educate themselves and perpetuate that cycle of wealth, whereas the poor were not. There were many, many different facets of this which led then to what would later become Duolingo.
+
+Is that roughly accurate?
+
+Luis von Ahn: That’s exactly right. That’s exactly right. We can wrap up now. We’re done.
+
+Tim Ferriss: We’re done. We’re done.
+
+All right. You and I, I don’t know when you and I — I can’t recall offhand when we first connected. I want to say it was somewhere between 2010 and 2012. It must’ve been.
+
+Luis von Ahn: I think it was around 2010 or 2011.
+
+Tim Ferriss: Yeah, so right in that range, and early, early days with respect to Duolingo. The last time we spoke, you had — this was in 2016, last time we spoke on the podcast, roughly 60 employees. Could you just give us a then and now comparison of Duolingo then, Duolingo now, what the biggest differences are?
+
+Luis von Ahn: Yeah, we’ve grown a lot as a company, of course. We now have about 600 employees, so of course 10X in employees. Back then, we were a privately held company, VC-funded. We are now a publicly traded company. That was a big milestone for us.
+
+Another big thing that changed between 2016 and now is we really figured out how to monetize Duolingo. When we launched Duolingo, the thing we cared the most about is that it was a free way to learn languages. At first, we just weren’t concerned too much about figuring out how to make money. The way we supported ourselves was through venture capital. We just kept on raising more and more venture capital.
+
+At the time, the prevailing wisdom was, “Hey, don’t worry too much about making money. Just grow your users.” This is what we did. The way we grew our users, by the way, is not through marketing, because since we weren’t making any money, we thought it was a waste of our money to spend to acquire users if we weren’t making money on the other side. So the way we grew our users was just by making the product better and better. It grew through word of mouth.
+
+I think one thing that happened is around 2015, 2016, we had raised a bunch of venture capital, probably around $100 million total at the time. We still weren’t monetizing at all, but we had grown to a pretty good amount of active users. We raised a round of funding from, at the time it was called Google Capital. Now, it’s called Capital G.
+
+The partner that was on our board, Laela Sturdy, took me out to a bar and she said, “Listen. You’ve been raising a lot of capital, and your valuation keeps going up and up.” At the time, I think we were valued at something like half a billion dollars or something. “But right now, you’re just raising money from Google. Let me tell you, there is no bigger fool. You’re not going to find another bigger fool to raise money at a higher valuation with no revenue. You’ve got to figure out how to make money.”
+
+She gave me enough drinks that convinced me to promise her that, next time we spoke, in six months, I would have figured out how to make money.
+
+So I went back and like, “All right, everybody. We got to figure out how to make money.” We did, but it was very important to us — we really cared that we — 
+
+The easiest way to make money when you’re teaching somebody is just to charge them to learn. That’s how education monetizes. It was very important for us that we didn’t do that, because the mission of our company was really related to giving access to education to everybody for free. So we were a little constrained here.
+
+In the end, we ended up finding a monetization model that worked out really well, which is this freemium model that is similar to what the dating apps do, or what Spotify does, which is you don’t have to pay, but you may have to see some ads at the end of a lesson. We make money from the ads. If you don’t like the ads, you can pay us to subscribe to a premium version of Duolingo, and then we turn off the ads, and we give you a few extra perks.
+
+That combo worked out really well, well enough that that is basically what we used to IPO. It has grown to hundreds of millions of dollars of revenue. So that worked out really well.
+
+We’re also very proud that, because of that, Duolingo — it used to be that Duolingo was the most downloaded app in the education category. It still is. But now it’s also the top grossing app in the education category. We make more money than all other education apps, and we’re very proud that you can still use Duolingo entirely for free. Even though most other education apps, you have to pay to use them. Ours — in fact, something like 97 percent of our active users use Duolingo for free. Still, we make more money than all other education apps. We’re very proud of that. The monetization was a big shift in our company.
+
+Tim Ferriss: I have questions about the monetization, and then I want to come back to Laela and talk about org chart. Maybe another conversation, maybe fewer drinks.
+
+Luis von Ahn: Happy to talk about — also, Laela’s one of my favorite people. Laela’s awesome.
+
+Tim Ferriss: Yeah. We’re going to come back to Laela and give her more credit. Do you remember what types of drinks she was feeding you? Do you have any idea, or did the memory go out the window?
+
+Luis von Ahn: I don’t know that night. Honestly, I don’t know.
+
+Tim Ferriss: Yeah, no problem.
+
+Luis von Ahn: It was at a bar near the Duolingo office. It’s about a block away from the Duolingo office. Kelly’s. Kelly’s Bar.
+
+Tim Ferriss: Kelly’s Bar. All right. The scene of the crime. We’re going to come back to that.
+
+I wanted to return to monetization. I’ll just mention to folks, as foreshadowing, the reason I’m interested in talking about the org chart is because, again, this will test my memory of the first conversation, but as I recall, when you sold reCAPTCHA to Google, you had maybe six, seven, or eight employees, something like that. Is that roughly — 
+
+Luis von Ahn: Exactly. About 10.
+
+Tim Ferriss: Yeah, okay. Around 10 employees. Yeah. Right. Let’s round it to 10.
+
+Then for a while, I want to say maybe into the 30 to 40 employee range, you had a very flat organizational structure, so to speak. Effectively a lack of hierarchy at Duolingo. Although you had a lot of experience with computer science, certainly, and product development, and thinking about the technical side of things, building a company of 600 people was not one of them at that point in time.
+
+Luis von Ahn: I had no previous knowledge of how to do this. No.
+
+Tim Ferriss: Yeah. Right. That’s why I want to come back to the org chart.
+
+But first, on the monetization side, what are some of the things that you tried that didn’t quite work? Why did they not work, just in terms of whether primary or ancillary models? Because that, I recall, as someone who is one of the pioneers of crowdsourcing, you certainly have come up with many different ideas for how you might approach this.
+
+Luis von Ahn: Yeah. okay. The first thing we tried, and this is before the Laela talk, and it was just very early on, we tried this. It was a really clever idea, but ultimately, I just don’t think it was a very good way to monetize.
+
+Very early on, when we had started Duolingo, what we said we would do is, look, there were all these people that were learning a language on Duolingo for free. We thought, rather than giving them ads or charging them, we would get them to do some work for us in exchange of the learning. The idea was the following. In fact, we built this and it worked.
+
+The idea was the following. Imagine you were a Spanish speaker who was learning English on Duolingo. You would learn for free, et cetera. At the end of your lesson, we would say, “Hey. You just practiced food words. Do you want to practice with a real world news article about food that is in English? You’re learning English. And to practice, can you help us translate that into your native language of Spanish?”
+
+We would give you a paragraph of that or something, and then we would give many people the same paragraph, and try to get them to translate it. It turned out that actually got really good translations.
+
+What ended up happening is we signed a contract with CNN, where CNN would send us all their news in English. Then our users, to practice their English, would translate those articles into Spanish. Then we combined all of the different translations into one translation. We had all this multi-step process to clean up the translation, et cetera. Then we would send back a translated version to CNN into Spanish that they could post in their Spanish site. They would pay us for that.
+
+We signed a contract with CNN. We signed a contract with Buzzfeed. This worked. It sounds very clever. The problem is, as a monetization technique — 
+
+First of all, translation is a bad business to be in. Computers are getting better and better at it. Even without computers, it’s just a race to the bottom in terms of price, because you can always just find somebody else to do it cheaper for you. That was one thing.
+
+Then we just ended up realizing this was not an easy way to make too much money. The other thing is we started realizing — because that’s where the money was coming from, we started realizing we were spending a lot of our thinking time and a lot of our development time on making sure the translations were accurate. Whereas to begin with, what we wanted to do was make an education company. We wanted to spend most of our time teaching better rather than cleaning up translations.
+
+So at some point very early in the company, we weren’t making very — we were making thousands of dollars, not a lot of money. We decided — we took this hard decision. This must have been like 2013 or something. We took the hard decision to stop that. We’re like, “We’re not going to do that. We’re not going to worry about making money. We’re just going to do venture capital for a while. Don’t worry about it.” So that was one.
+
+The other one is, after the Laela conversation, when we needed to really figure out how to make a lot of money — the thing is, when you have a half a billion dollar valuation, you’ve got to make a lot of money. When you’re making zero, you can’t make it so that you’re only going to make $100,000 a year. To justify half a billion dollar valuation, you have to make —
+
+Tim Ferriss: You can’t turn it into a lifestyle business for yourself?
+
+Luis von Ahn: No, no. You’ve got to be making at least tens of millions, if not hundreds of millions of dollars in revenue to have that. So the first thing we thought — by the way, when Laela said, “You have to monetize,” I went back to the company. At the time, we had maybe 60, 70 employees. I said, “Okay. Well, we had to figure out how to make money.”
+
+The first question everybody had was, “Why?” I was like, “Well, companies make money. That’s how they support themselves.” They’re like, “Well, we’ve been fine without that.” Then I had to explain you just cannot raise venture capital forever.
+
+Then it’s like, “Okay, fine. We understand you. We have to make money. How are we going to do it?” Then I would say, “Well, maybe we can put an ad at the end of every lesson. They’re like, “No, no, no. Ads are evil. Don’t put an ad.” “Okay. How about a subscription, though?” “You can’t charge people. You can’t do that.”
+
+It’s like the whole company was basically against monetizing. It took us about six months to finally convince everybody that monetization was not a bad thing, and that, in reality, what it would allow is if we could make a lot of money, we could use that to invest it and to teach better. People actually finally understood it, but it took a while.
+
+In that time, at some point, one of the first few things that changed was people were like, “Okay. You know what? We could do ads. We could do ads, but they can’t be the crappy ads that are all out there. Let’s do a clever idea.” The clever idea was — 
+
+It’s a great idea. We just never made it work. I don’t know if — at some point, I do want to go back to it. Can we show ads in the language that the people are learning? So if you’re learning Spanish, could we show you some ads in Spanish?
+
+I think that’s a really good idea, because it’s a win-win situation. The person wants to actually hear the ad or see the ad. They practice, and then we make money off of it. There’s one big problem for that, which is that usually companies — their budget doesn’t work that way.
+
+For example, in the US and you’re advertising to American consumers — Coca-Cola, I’m sure has an ad in German, but they just do not want to show the German ad. That’s just not what they want to show, because “No, no, no, no. In German, we have a very different narrative. That’s just not what we want to do. We want to show the American ad.” We’re like, “Can we show the German ad?”
+
+We never got it to work, but I thought it was a good idea. Never got it to work. In the end, now we reverted to showing standard app ads that we show that are what you’re supposed to get if you are in the US. You get the English ads.
+
+Tim Ferriss: May I, just because I’m overcaffeinated, just throw something out there really quickly?
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: Which is — I’m sure with your technical abilities, you could figure this out. Or the advertiser could just supply the raw text, of course, for close captioning that they would use otherwise. But you could show the translated subtitles in the target language, say, of German.
+
+Luis von Ahn: Yeah. In fact, that is a good idea. We probably should at some point. There’s one other complication with this, which is right now, the ads we show, they’re programmatic ads that come from like Google and Facebook. We show Google and Facebook ads. Google and Facebook are the ones who serve us the ads.
+
+If we wanted to do something like this, we would have to have our own ad sales force. We would have to go and contact companies, and ask them to do that. That’s doable, and probably you can make more money per ad impression if you do that. But it’s the pain in the ass of having, basically, an ad sales team.
+
+So we just — so far, that hasn’t been. Because our monetization, particularly subscription, has done so well, we haven’t felt the need to do that. I mean, at some point maybe we’ll do it, but we just haven’t felt the need to do that.
+
+Tim Ferriss: I want to give you credit where credit is due on — I’m sure there are many things I could give you credit for, but one is a relentless focus and ability to refocus.
+
+I want to mention an article for folks, it’s very short, that they might find interesting. It’s called “The Top Idea In Your Mind.” It’s by Paul Graham, which relates back to the point you made of realizing that you’re not in the business of tidying up the last five percent of translations that you have sourced from your users. In fact, you’re an education company first and foremost, right? Being able to say no to a good, even a profitable, activity in order to remain focused, just as you would not want to necessarily build your internal sales team, because it would just detract from the focus and resources.
+
+I want to return with a question about the months it took to convince the team, the employees, to get behind monetization of some form or another. How did you do that? How much of it was like, “Here is the mission?”
+
+Presumably, they care about the mission of the company, but they also care about the value of their equity and want liquidity at some point. So you could just say like, “Hey, guys. If we keep raising venture capital, there might be secondary sales, but at some point, both the investors and employees will want to be able to cash in on at least some of the value of their equity. That’s part of the reason you came to this company rather than going to work for someone else.” What was the conversation or the process of persuasion?
+
+Luis von Ahn: It’s interesting. The first few employees that we hired at Duolingo — by the way, it’s an interesting — I think a lot of it has to do with the fact that we have a really good company culture, but also that we’re in Pittsburgh. Our employee churn is very low. Employees stay for a very long time at Duolingo. So the majority of people that started at Duolingo 10 years ago, they’re still around.
+
+The thing about these people was — the first few employees that we hired were people from Carnegie Mellon University, because I was a professor there. Basically, I just knew who the best students were, and I’m like, “You. You want to come work for us?”
+
+All these people at the time had offers for the usual suspects, Google and Facebook and the usual suspects. At the time, we had just raised our Series A, but we could not compete salary wise with Google or Facebook or anything like that. Now, we can compete. Our salaries are comparable to Google or Facebook, but back then, we just couldn’t.
+
+So the people that took a job with Duolingo were taking a major pay cut, sometimes like a 50 percent pay cut. We were paying half the salary that they would’ve gotten at Google. They had offers at Google, and they took the job. The reason they took the job was they really cared about the mission. So I like to tell — 
+
+Severin and I care about the mission. These first few employees were zealots. They were like, “Look. This is the main thing that matters to me.”
+
+So these people, for years, have been the guardians of the culture. Duolingo was a very mission-driven company. Of course, it has to do with Severin and I, but I think it also has to do with these first few employees who just really care and they’re still around.
+
+So when we were starting to monetize, the discussion was really never about, “Hey. You could make a lot of money off of your shares,” or whatever. That just didn’t resonate all that well.
+
+Tim Ferriss: Yeah, for sure.
+
+Luis von Ahn: What ended up resonating the most was, “Hey, look. Right now, we have about 60 employees. We could hire way more employees if we can make a lot of money. The majority of them can be working on improving how well we teach.” That really resonated, and it became true.
+
+Today, most of our employees are actually working on making our product better in terms of how well we teach, how engaging it is. It is because we make hundreds of millions dollars per year. We use that to fuel the mission. I think there was just a shift in thinking that really worked. We believe it. I think that the company now believes that.
+
+Tim Ferriss: I’m glad I asked. I’m glad I asked. These stories matter. I don’t know the answers, by the way, people listening. Luis has been busy, to put it mildly, so we don’t always catch up very frequently. This is an excuse for us to catch up as well.
+
+Let me ask you a question that I would ask if we were just having drinks over dinner. Would not ask you to make any promises about monetization to me, but the broader question, since you mentioned computers getting better at translation, so this doesn’t directly relate to Duolingo, I don’t think, but it might in some indirect way.
+
+For people who don’t know a bit of the history, if we look back at, say, reCAPTCHA, part of what fascinated me about reCAPTCHA is like, all right, if you — and I think you did — run the basic arithmetic on how many human hours were going into verifying that each individual is not, in fact, a bot, you began to wonder, is there a way to put these human hours to work for some benevolent purpose or a positive purpose? At least one facet of that ended up being helping to digitize books.
+
+Luis von Ahn: Yup.
+
+Tim Ferriss: Using human eyes and then just the law of large numbers to ultimately get a good transcription of digital books that machines were having a hard time with.
+
+What are some of the most interesting things or interesting developments that you are seeing with respect to crowdsourcing versus just raw computing power, or new technological, pure, machine-driven technologies?
+
+Luis von Ahn: Well, computers are just getting a lot better at things compared to 10 years ago, 20 years ago, AI is just a lot better.
+
+For example, it used to be that CAPTCHAs were mainly these distorted characters. At this point, computers are almost as good, if not better, than humans at reading these distorted characters. So showing some distorted characters is not a good test to distinguish humans from computers anymore.
+
+If you’ve seen with reCAPTCHA lately, what they show you is these images of like find the traffic light or find the stop sign. What they’re doing there is they’re crowdsourcing things for mapping software or self-driving cars, where self-driving cars may take a lot of pictures for things, and they may see 90 percent, I don’t know the exact fraction, but they may see 90 percent of traffic lights and realize that it’s a traffic light, but for some of them, they just can’t quite tell.
+
+So what reCAPTCHA is doing is it’s taking some of the things where the computer’s not super sure about, and it’s getting people to tell them. That’s helping to improve the technology. That’s something — I really like that application. I think it’s worked out pretty well. That’s helping to improve technology.
+
+Now in case of language translation, that’s gotten pretty good, if you try it. If you’re going to go to Germany or something, it’s good enough to, if you don’t know any German, to just — you speak to it and it speaks out something. You sort of can communicate.
+
+People have asked us about Duolingo. It’s like, “Well, are people still going to need to learn a language, given that translation getting better and better?”
+
+It’s one of those where I don’t think this is going to affect us at all. There are these use cases, like if you’re going to go on a business trip for two days, and you really have no interest in learning a language, yeah, sure. Use Google Translate or use whatever it is you need to use.
+
+But there’s a couple of things. First of all, no matter how perfect the translation is, there is this thing that happens that there’s always going to be a delay, even if it’s like super computing power, et cetera, because word order changes.
+
+German is a good example. In German, usually the verb is at the end. So a German sentence, the way you would say it kind of in English is like, “I did something yesterday. I did it really fast. I did it with my friend. What I did was running.” That’s kind of the — so you have to wait until the verb comes out to start saying it in English, because in English you would say, “I ran with my friend yesterday really fast.” So there’s always this pause that makes conversations pretty awkward. You can’t really live your life that way.
+
+The majority of language learning is either to learn English and actually, say, move to the US, or actually learn English for business reasons, et cetera. You actually want to learn English.
+
+Then the other big chunk is hobby. People are still going to learn as a hobby, because it’s the same reason why we learn all kinds of things that computers could do really well, like music.
+
+So I just don’t think that’s going to affect us as a company in terms of language learning.
+
+Tim Ferriss: Yeah. I don’t either. I have been incredibly impressed, specifically with Google Translate, with respect to, in my case, East Asian languages, because I do still communicate a fair amount in Japanese, and to a lesser extent Mandarin. But the translation specifically in Japanese has improved tremendously from even — 
+
+Luis von Ahn: Yeah. It’s good.
+
+Tim Ferriss: Yeah, yeah. It’s incredible. You want to talk about sentence construction and word order changing, certainly in Japanese, that is true, because it’s — 
+
+Just for people who are interested in this kind of thing, but don’t know very much about it, if you have, say, “I eat the apple,” in English, it’s subject, verb, object. In Japanese, generally speaking, it’s going to be subject, object, verb. So, “I the apple eat.” “I to the school go.” That kind of thing. It’s improved a lot, but there is that delay, as you mentioned.
+
+If I look at the — let’s see. I’m looking at duolingo.com/courses right now. This may not be the best representation of use on the platform, but I’m curious to know who the primary users are in the pie chart, if you’re just going to break down the top few categories, and what they’re learning.
+
+I was surprised to look at courses for English speakers. It looks like Spanish is number one. Okay. Not too surprised there. Then French. Okay. Interesting. Very interesting, because French is certainly spoken by the French diaspora and other places, not just in France, but — 
+
+Luis von Ahn: It’s a result of colonialism.
+
+Tim Ferriss: Right, exactly. That’s what I figured.
+
+Luis von Ahn: French is a result of colonialism. Yes.
+
+Tim Ferriss: Colonialism. But then you have Japanese, Korean, German, Italian, Hindi, Chinese. Hindi, Chinese — I think specifically Chinese, I would’ve expected to be a little larger.
+
+Luis von Ahn: Larger? Yeah.
+
+Tim Ferriss: I was astonished that Japanese and Korean, especially Korean, because I could even chalk up Japanese to nerdy tech folks who are Japanophiles and love Japanimation and so on. I could chalk up some of that to that, which may not have any accuracy to it at all. But then Korea —
+
+Luis von Ahn: It’s 100 percent accurate.
+
+Tim Ferriss: Okay. All right. Great. Then Korean, though.
+
+Luis von Ahn: Yes.
+
+Tim Ferriss: I was like, “Why Korean? Why is Korean number four?”
+
+Luis von Ahn: K-pop. K-pop.
+
+Tim Ferriss: Oh, K-pop.
+
+Luis von Ahn: K-pop is humongous. K-pop and also Korean TV shows — on Netflix, there’s just been — Korean entertainment is really gaining a lot.
+
+Tim Ferriss: Right. Squid — yeah. The Squid Game.
+
+Luis von Ahn: Yeah. The Squid Game, that movie — what was it called? The one that won the Oscar?
+
+Tim Ferriss: I know the one you’re talking about.
+
+Luis von Ahn: Parasite.
+
+Tim Ferriss: Parasite.
+
+Luis von Ahn: Stuff like that, it really — Korean influence just keeps growing and growing. It is interesting. More people in Duolingo learning Japanese or Korean than Chinese.
+
+Chinese is an interesting one. Chinese is — there’s the size of the language in terms of native speakers. Chinese is very large.
+
+Tim Ferriss: In this case, we’re talking about Mandarin, right?
+
+Luis von Ahn: Mandarin Chinese. It’s the largest language in terms of native speakers. Then there’s a different number, which is the number of people who want to learn it. We have a pretty good idea of the people who want to learn it, because when we offer it on Duolingo, we can see how many people actually learn it.
+
+There’s some that are flipped. Mandarin Chinese is flipped in that. There’s a lot of people who speak it natively. Not that many people are learning it. I don’t know exactly off the top of my head, but about one percent of our active users are learning Chinese, which I would’ve expected it to be higher. In particular, part of the reason why I would’ve expected it to be higher is because the circles that we move in, I assume they’re similar to the circles you move in, is educated people, tech people. They always have their kids learning Chinese. This is a thing. “My kids are learning Chinese.”
+
+Tim Ferriss: Yeah. This is a thing. This is a thing. You go to Palo Alto, it’s like every other parent has their kids in bilingual nursery school or whatever.
+
+Luis von Ahn: Yeah. So you think the whole world’s learning Chinese, but this is actually not the case. I think if you go anywhere in middle America, the school only offers Spanish. That’s just to begin with.
+
+I think there’s just a number of reasons, but I think probably the biggest reason for Chinese that not as many people are learning, it’s just a very hard language to learn. I think people know it. They’re like, “That’s hard.”
+
+In the US, our top languages are exactly as you said, Spanish, which makes sense. We are very close to Mexico and Latin America, and it’s just a very large language. French, which I think is a beautiful language and everything, but I think a lot of it — that one is the opposite of Chinese in that the number of people learning it versus the number of people who are native speakers, it’s just a lot of interest for French given the number of native speakers. Then Chinese and Korean are pretty high up, and Italian and German.
+
+Now you were asking about the types of users in Duolingo. I think we have two big buckets of users. In my head, I classify them as two big buckets.
+
+One big bucket, which is about, call it 50 to 60 percent of our users, is people learning English. These are people who are usually not in the US. Some of them are in the US, but they’re usually not in the US. They’re usually in a non-English speaking country, and they’re learning English. The reason they’re learning English is they actually want to learn English, then the reason is because they want to get ahead in life. So either they want to get into a better educational institution or they just want to get a better job. The thing about English that is so magical is that anywhere you live, if you speak English, just by speaking English, you can make more money. And it’s direct. So for example, if you used to be a waiter, now you can be a waiter at a hotel, makes more money. If you used to be a, I don’t know, personal assistant, now you can be a personal assistant for somebody in a multinational corporation or something. So knowing English just gives you better opportunities in life. And it’s by far the most learned language in the world, certainly by far the most learned language on Duolingo, and those people are very committed. And then the other big bucket of people are people who are English speakers already who are learning another language.
+
+So think of this as a person in the US who’s learning Spanish or French, et cetera. They’re pretty different. It’s more of a hobby. Obviously I’m generalizing here. I mean there are some people obviously who need to move to Spain and they’re going to learn Spanish for that. But for the majority, it’s more of a hobby that they’re learning Japanese or Spanish or whatever. The funny thing about these people is when you ask them, “What would you do if Duolingo went away?” The most common answer is, “I would spend more time on Instagram.” They’re not that committed. They’re like, “Ah, you know what? I like it. The reason I’m learning Spanish on Duolingo is because you see, I used to, I don’t know, play a lot of, whatever, Clash Royale or some game, and it was a complete waste of my time. Now I’m using Duolingo. It’s pretty fun and at the very least at the end of the day, I’m learning some Spanish.” So they’re an interesting group of people. The other thing to say is in the US, 80 percent of our users were not learning a language before Duolingo.
+
+So we’re completely growing the market. That is not true in a country like Brazil where people are mainly learning English. These people were learning English before Duolingo; they’ll continue learning English even if Duolingo were to go away. So these are the two big groups of people, I’d say.
+
+Tim Ferriss: I’d love to just get a fact check if you know here, I mean maybe the math is so easy that it’s almost self-evident. But I recall someone saying to me, which makes sense although I haven’t done the math on it, that there are more people who speak English or are learning English in China as Chinese nationals than all of the native speakers of English in the world combined. I would have to imagine if that’s true — 
+
+Luis von Ahn: That’s probably — 
+
+Tim Ferriss: Close to true. Yeah. I would imagine that that might be something like India as well, I mean although you do have the British history, so maybe there are — 
+
+Luis von Ahn: It’s probably close. Native speakers of English, let’s think about that. There’s 300 million-ish in the US. But then there’s the UK too.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And Australia, Canada, etc. They probably combine that another 100 million-ish.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: So very rough numbers here. We’re talking about 400 million-ish.
+
+Tim Ferriss: Yeah. It seems like China’s probably not quite — 
+
+Luis von Ahn: China could have that. Well, it could. But there’s a big, big but here. They may all be claiming to be learning English and in reality, they may be learning English, but the learning outcomes may not be so good. So it’s like yes, they’re learning English, but maybe they know how to say, “Hello,” and “Good morning,” and “Where’s the bathroom,” but that’s about it. So it’s not clear that they’re really good in English — I do not believe that in China, there are 400 million really, really fluent native speakers. I don’t believe that to be true.
+
+Tim Ferriss: Yeah, I don’t believe that either. And anyone who travels widely in China I think would probably have that conclusion.
+
+Luis von Ahn: It’s just not the case. Yeah.
+
+Tim Ferriss: So let’s, as I promised earlier, come back because I’d love to talk about some of your lessons learned, key decisions in a growing company of this size for the first time. And there are many ways we can tackle this. We’ll talk about the personal, so just in terms of personal management, work life balance if that exists, lessons learned, but let’s also come back to the org chart and Laela. Could you describe how that was done, what it ended up looking like, what were the implications, and just walk us through that? And I remember in our first conversation, I told the story of, and maybe not the best example since it ultimately has been superseded by Netflix and superior technology, but Blockbuster, back in the day when Blockbuster as a company was about to become a Blockbuster, brought in I believe someone from McDonald’s, an exec, to specifically help them with org chart design. I’ve never designed an org chart. So could you just describe what happened and where you landed with it?
+
+Luis von Ahn: Yeah. I mean we’ve gone through a bunch of different org charts. I mean when we were from zero to call it 30 employees, org chart was very flat, as in I was managing everybody. And that was that. And maybe I took it a little too far, but I actually think for the first zero to N where N is around maybe 20 to 30 people, the best thing you can do as a CEO is be a micromanager. I actually believe that. When you are such a small company, usually you don’t quite yet have product market fit, you haven’t really figured everything out. You have one goal, get to product market fit. And I don’t think you should be in the business of coaching people for this or that. No, no. Just I think you should micromanage people to get to product market fit. I actually believe that. At some point, it really shifts even if you love micromanaging, which I love micromanaging, but I’ve learned not to do that anymore. Even if you love it, at some point you just can’t do it as well.
+
+And it is in your best interest to start actually developing people. And that shift should happen maybe around 20, I don’t know the exact number, that is when you should really start having a couple of managers. I think splitting things up into teams. What we did then, it’s not like we had a pretty good idea of exactly what our org chart should look like, but what we did was we hired our first manager that wasn’t me. This was I don’t know, seven years ago, something like that. It’s a woman that’s still with us, she’s now the head of all of engineering. She used to be a director of engineering at Google. And I knew her because after selling reCAPTCHA, I spent some time at Google. I knew her, I really liked her. Her name is Natalie Glance. She’s amazing. And she took a much smaller job at Duolingo. She was managing, it’s just a larger job that she had and she took a smaller job at Duolingo, I think she really believed in us. And she helped us, well from her is where I learned how to manage people really much better.
+
+She actually knew how to manage people. And she really helped us start having a structure of, “Well we have some managers.” And that really made a big difference starting to have teams. Then the thing that we did after that is we discovered this idea of metrics-based teams, which to this day we use and I think has been a really, really good thing. I think this is not the common thing. Although some companies do it, it’s not the common thing. So at Duolingo, the standard thing that you would have in a company, for example, at Duolingo, I don’t know, the app has a bunch of different features. One of the features could be we have a leaderboard for example, we have a leaderboard, that’s a feature. In many companies, a normal thing to do is that you have a leaderboard team, a team that owns that big feature. So just you split it up by feature. These are feature-based teams. We do not do feature-based teams, we do metrics-based teams. So we don’t have a team that owns the leaderboard.
+
+Instead, we have a bunch of teams that own each a single metric. So, for example, a metric that we have is time spent learning. What they own is the number of minutes per day that the average user uses Duolingo for. And it turns out that changes to the leaderboard can increase or decrease time spent learning if you do the right or the wrong thing. So that team messes with the leaderboard a lot, but they don’t own it. The only thing they do is they have this one metric and every quarter, it has to increase. And so they just work on increasing this one metric and they run hundreds of AB tests to increase this metric. So soon after Natalie showed up, we discovered these metric-based teams. And our first metric-based team was a retention team which is look, all you have to do is make sure that users come back every day. And that team has done all kinds of things, really optimized the streak on Duolingo, so this notion of a streak that people have.
+
+Tim Ferriss: Yeah. People have used it, what, every day for seven years? I was looking at — 
+
+Luis von Ahn: Oh, yeah, yeah, yeah. The streak is crazy. Well the number’s a little larger, but now that we’re a public company, we can’t reveal numbers as — the latest number we’ve revealed is that we have one and a half million daily active users that have a streak longer than a year, meaning they have not missed a single day in the last year or longer. And so that’s a very powerful mechanic. The retention team has worked on that. So basically, what we did is we discovered these metric-based teams and what we do now at Duolingo is when we care about a metric that we want to optimize, so a metric could be daily revenue or whatever it is, we form a team around that metric. And that has worked out pretty well. And so that’s one big shift with us that happened. And then the other big shift that happened is — so that worked out pretty well. At some point, we had 50 teams. I don’t know, maybe a little less, maybe 40 teams. And that started to become, we use the term, “Goat rodeo.” It started to become this craziness.
+
+And so what we did is we decided to pull the teams together that were similar to each other into this thing called areas. So now for example, we have a monetization area. Inside the monetization area, we have a team that owns ad revenue per day. We have a team that owns subscription revenue per day. And then we have another area called the growth area where it’s just growing our active users. We have a team that owns time spent learning. We have a team that owns retention. We have another team that owns new user retention, et cetera. And so we split up into areas and that’s how we’re split up now. And the shift for me, it went from micromanager to learning how to manage to now, what I do is I’m a manager of managers. Well I’m a manager of managers of managers of managers, but at some point, that doesn’t matter that much. You’re just a manager of managers is what matters. And I’ve learned how to start managing managers much better. I’ve gotten good at it.
+
+Tim Ferriss: All right. Last time we spoke, I have a number of followups here. Let me ask the easy one, might not be the easy one to answer, but the easy, simple question first which is why a daily metric as opposed to a different time interval, like a weekly for instance, in terms of revenue or something else?
+
+Luis von Ahn: There’s two reasons for daily stuff. One is we’re really big believers that you should be using Duolingo every day. And just basically, you don’t have to use Duolingo every day to learn a language, but we really want to build a habit. And the best habits are daily, I think, because it’s hard to have these habits that are like, “Well every three days, I do something.” That’s just hard. It’s much better to have a habit like brush my teeth, just do it every day. So we try to build habits every day. And so for us, this is one of the reasons why we look daily. The other reason why we look daily is that we run a lot of AB tests and looking at the daily timeframe allows us to move faster because we just don’t have — imagine that our timeframe was a month. We say, “Look, how many people do X in a month?” We have to wait a whole month to figure out what that number is.
+
+Tim Ferriss: Right. So is that because you’re just controlling for confounding factors if you’re running — if you’re changing multiple variables at the same time, it just becomes too difficult to attribute causations. So the lag time — 
+
+Luis von Ahn: That’s for sure.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: That’s exactly right. So whereas if you look at daily stuff, it’s much faster. So for example, for revenue, we look at daily, well daily bookings to be precise is basically the amount of money that comes into Duolingo, we look at that a lot and we optimize that and it really is nice because for example, if we make a change, you can see tomorrow what happened in the change day. You can already see, “Ah, yes, daily bookings increased by 10 percent.” You can see it in one day. So those are the two reasons why we look at the daily. I mean we’ve talked about starting to do hourly. We haven’t quite done that. I know one of the difficulties with our leads, it’s just pretty big differences in terms of times. I mean for example, 9:00 p.m., around 9:00 p.m. is the most popular time to learn a language. But there are times for example, 4:00 a.m., there’s just not very many users. And so looking at hourly makes it a little harder. But yeah, we do daily.
+
+Tim Ferriss: So before we move on, I’d love to just clarify one thing that you said and that is related to the micromanaging and whether that point is at 10 people, 20, 30, but it was related to being pre-product market fit. Would it be safe to say that if you have product market fit, let’s just say you’ve created a business model and a business that is generating revenue that is found its match that it would potentially make sense to develop people sooner than the 10 people, 20 people or whatever the head count might be?
+
+Luis von Ahn: Yeah, I think that makes sense. I mean I think that makes sense. Hopefully you’re not in a period where you’re doing this zero to 20 employees for eight years or something. Hopefully that period only lasts one or two years.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And in that time, you probably just need to be trying to figure out product market fit. If you’re going to be in that for several years, I do think it starts making sense developing people.
+
+Tim Ferriss: So to, let’s say, just hop back to our first conversation, there were two books that you mentioned as being particularly helpful or that you would recommend, maybe both, one was Zero to One by Peter Thiel, and the other was The Hard Thing About Hard Things, if I’m getting the title right, I can never remember this title by Ben Horowitz.
+
+Luis von Ahn: Yes.
+
+Tim Ferriss: And I’m wondering if now, flashing forward from 2016 to present, you’ve gone from 60 to 600 or so people, a lot has changed, you’ve gone from private to public, are there any other books or resources or thinkers who you have found particularly helpful or helpful at all in the last handful of years?
+
+Luis von Ahn: One book that I really liked, and we make all managers read it at Duolingo, it’s an oldie, it’s an oldie, but a really good one, is High Output Management by Andy Grove. Yeah, it’s just a how to manual. He doesn’t bother with his life story or whatever. I mean there’s a little bit of that, but it really is just very practical. It’s like, “Look, I have found that when you’re doing performance reviews, you can talk to the people before giving another review or after, you should always just do it after,” it’s just stuff like that. It’s just these little things that are just like, “I have found that this is better than that.”
+
+And another one that it’s just off the top of my head is when somebody tells you that they want to quit, drop everything you’re doing, if you don’t want them to quit. If you want them to quit, yeah, let them quit. But otherwise, drop everything you’re doing and make this your highest priority, because one of the main reasons people quit is because they don’t think that you think they’re important. And so it’s just very, very valuable advice like that that is just super applicable immediately to everything you’re doing. So I really think that book has helped me a lot to become a better manager.
+
+Tim Ferriss: We are going to discuss a number of facets of Duolingo and new developments and so on. Before we get to that, I asked a number of questions last time that I think you may have new answers to. So I’m going to just ask those, think there are four at least in front of me, and then we’ll zig and zag back into Duolingo-related things. So the first is what is one of the best or most worthwhile investments you’ve ever made? That could be an investment of money, time, energy, pick your currency.
+
+Luis von Ahn: Well I mean the easy answer for that is Duolingo, although I mean I’ve been at this for so long that it was not an easy investment. I mean obviously, it has been very good. I’ll give a counterintuitive one that has really helped me. I’ll say it’s a weird one. I have an aging mother and I think a lot of people my age have aging parents. I used to worry a lot about her because she used to live in Guatemala and Guatemala is a dangerous place. And she’s pretty old. I mean she had me at an old age, she had me at age 42, so she’s 85. And she used to drive still in Guatemala and it was this whole thing.
+
+A lot of my mental energy was, and it’s not 80 percent of my mental energy, but it was a significant fraction of my mental energy was just worrying that she was okay. And the investment that I did is she moved in with me. And it’s a weird thing. I mean my house is large enough that this is fine, we get along well and everything, but I feel so much better about it. I mean I’m just not worried about her. She’s there, she’s thriving, and she essentially keeps to herself. It’s not like she bothers me all that much, but I’m just not worried about it.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And, well, I freed up, I don’t know, call it four percent of my mental energy that I was spending on that, it’s freed up and I just have more time to worry about other things.
+
+Tim Ferriss: The next question is in the last five years, what new belief, behavior, or habit has most improved your life? And at the time, the first conversation we had on the podcast, it was starting Duolingo in Pittsburgh. So a slightly oblique answer to the question, but I’m wondering if you have a different answer to that or an additional answer to that now.
+
+Luis von Ahn: Well I think a personal one, if we go on the personal one, a habit that has really changed my life in the last few years is strength training.
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Luis von Ahn: I used to always just do cardio to work out and that was the main thing. But one thing that happened is I was, I don’t know the year, maybe 2017 in January, first of all, I don’t love the winter in the Northeastern United States. I am from Guatemala. I’m not used to this, this makes no sense. How could you have a place where people just die outside if they don’t do anything? It’s ridiculous. But anyways, I don’t love the winter. It was January. I was not having a great January. I also got sick, I had some sort of a flu, and I was not doing super well. And I went to the office finally after all this and I didn’t look so good I guess. And somebody that worked at the office, who’s worked with us for a very long time, Denis, looked at me and he’s like, “Luis, you need Garry.” And I’m like, “Well, I don’t know what you’re talking about.”
+
+He’s like, “What are you doing tomorrow at 6:30 a.m.?” I’m like, “Nothing.” “Garry will show up.” Anyways, turns out Garry shows up. Garry, he was his personal trainer, Denis’ personal trainer, Garry is quite a personality. He used to be the strength trainer for the Pittsburgh Steelers and then the strength trainer for University of Pittsburgh basketball team. And now, he just has this roster of clients of all these rich people from Pittsburgh who are not athletes. Certainly, I was not an athlete. And Garry shows up and he’s like, “All right, I’m going to make you stronger.” And he gives you some weights and then he laughs at how weak you are. He laughs. I’m like, “What, are you supposed to make me feel good?” He’s like, “Oh, my God, you can’t even do, whatever, 40 pound dumbbells for bench press, what are you doing?”
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And so he laughs at you and I’ve been with him since 2017. It has really changed my life. I mean I used to have all kinds of aches and pains, no longer. I mean it turns out, you know a lot more about this than me, but I think if you start working out doing strength training after age, call it 35 or so, it’s pretty hard to build big muscle. So it’s not like I’ve built humongous muscle, but I’m just a lot healthier and certainly a lot stronger. And so this has really changed my life. So Garry’s awesome, big fan.
+
+Tim Ferriss: Wow. I guess Denis deserves some significant thanks too for just taking — 
+
+Luis von Ahn: Oh, Denis is also awesome. No, he just looked at me and I must have looked like hell. He just looked at me, he’s like, “You need Garry.”
+
+Tim Ferriss: Enough said, not going to elaborate.
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: How many times per week do you do resistance training now?
+
+Luis von Ahn: Three times a week.
+
+Tim Ferriss: Three times a week.
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: All right. We’ll give this a shot, we’ll see if this question goes anywhere and then we’re going to zoom back to Duolingo and related topics. What purchase of $100 or less has most positively impacted your life in recent memory? And of course, listeners love specifics. Yeah.
+
+Luis von Ahn: Easy, easy. An electric toothbrush. I got the Oral-B iO. This changes your life. I mean you can’t go back. You can’t go back. And I’ll tell you, when I started dating my current significant other, one of the first few things that I did was I saw that she was slumming it with a regular toothbrush. So I just on Amazon ordered her my first gift to her was an electric toothbrush. And we’ve been together for longer, I’ve given her significantly more expensive gifts, to this day, best gift I’ve ever given her. It really just changes your life. See, if you’re not brushing with an electric toothbrush, you’re doing it wrong.
+
+Tim Ferriss: I didn’t expect this to come up in this conversation, but I’m going to plus one that and mention that I recently went to a new dentist very highly recommended by a separate doctor I work with, apparently top of the top as far as dentists go. I was nervous to go because I’d not been to a dentist since COVID, now this is probably flashing back — 
+
+Luis von Ahn: A common thing, a common thing.
+
+Tim Ferriss: Yeah, common. So I was terrified that it was just going to be a complete war field of issues, but it was mostly fine. But the point he made to me was with his recommendations, he said number one, you need to use an electric toothbrush of some type because it will prevent you from applying too much pressure. And there are other benefits to it, but I apparently brush my teeth like I’m trying to take old grout off of a tile or something. And I just destroy my gums. And it’s not that I’m trying to push really, really strongly, but I do nonetheless. And I end up with bleeding gums and all of this nonsense. And since using an electric toothbrush, as far as that problem goes, problem solved.
+
+Luis von Ahn: It’s one of those where you just don’t realize because people had told me this before, but you just don’t realize how much it changes your life. Another similar one, it’s not a hundred dollars, but it is really life changing is a Japanese toilet.
+
+Tim Ferriss: Okay. Did you get the full Japanese toilet or the — 
+
+Luis von Ahn: The full total Japanese toilet. Again, more than a hundred bucks, but life-changing. Now, it does cause a problem which is I now really — it’s not like I can’t, really don’t like going to the bathroom anywhere but my house because it’s just a significantly better experience.
+
+Tim Ferriss: All right. For people who may be curious, I have a couple of friends who are obsessed with TOTO toilets, do you have a specific model? Can you recall which you decided on?
+
+Luis von Ahn: Neorest.
+
+Tim Ferriss: Neorest.
+
+Luis von Ahn: TOTO Neorest and it is — hold on, it is a specific one. TOTO Neorest NX1. Let me tell you, obviously the main feature is that it uses a bidet feature where it cleans you with water, which after you start thinking about, it is barbaric that people in the United States and most Western countries do not use water to clean themselves. It really is after you think about it.
+
+Tim Ferriss: Barbaric. No, I like that. I’m a fan.
+
+Luis von Ahn: Well just think about this, I mean if you were to touch with your finger some cow poop — 
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: Would you not wash your hands with water? Would you just use a towel to — no, you wouldn’t just because you would feel like it’s still dirty. And so think about that. Anyways, so it obviously has that bidet feature, but it has all kinds of other stuff including white noise so that other people can’t hear you. It has features. It is good.
+
+Tim Ferriss: All right. So now, let me give an alternative here because I’m guessing that the Neo, this particular model is, I mean it’s probably at least a few thousand dollars. Yeah, it’s probably at least a few thousand dollars. I will give people an alternative if they want somewhere between the Bugatti of toilets and the barbaric practice that you’ve already outlined. You can get, and actually I was given as a gift, a Washlet TOTO seat. So it effectively replaces your toilet seat on your preexisting toilet and it’s a few hundred dollars. You plug it into a wall and it has a lot of the same features. So I’ll just mention it is pleasant to use. And I never thought I would have a Japanese toilet or I suppose a hybrid Japanese toilet which I have now. But when I was in Japan when I was 15, there’s some basic features. I mean when it is freezing and it gets cold in certain parts of Japan — 
+
+Luis von Ahn: A seat warmer.
+
+Tim Ferriss: Yeah, when it’s freezing and you go in and you sit down and it’s warm, that has a material impact on your day-to-day experience.
+
+Luis von Ahn: But see, this is the thing about toilet and the toothbrush. I mean the thing is these are things that you do every single day. It’s like also spending money on a good mattress, it matters. These are things that you just do it every day. And I understand, some of these things can be pricey, but I would not skimp too much on things that you do every day.
+
+Tim Ferriss: You mentioned the mattress, I will also plus one that and then we can get out of the domestic objects category. But I spent a little bit of time in Panama in 2005 and got to stay with this lovely couple, and the matriarch of the family, this mother, God, I wish I could remember her name, she was really an incredible woman, very smart, and she said to me — it’s still stuck with me. She said, “There are two things you should invest in. Make sure you invest to the extent that you can.” She didn’t caveat that, but she said, “Make sure you invest your bed and your shoes, because if you’re not in one, you’re going to be in the other,” and I was like, “Huh, that’s good advice.”
+
+Luis von Ahn: Makes a lot of sense.
+
+Tim Ferriss: That’s really good advice.
+
+Luis von Ahn: It makes a lot of sense. With mattresses, mattresses can be expensive, but you don’t have to go super nuts. Just don’t buy the $50 mattress. Probably, you shouldn’t do that, but yeah.
+
+Tim Ferriss: It makes a difference, and your bed is — I’ll offer another hybrid option. I didn’t realize I had so many opinions on all these domestic — 
+
+Luis von Ahn: A pillow top? A pillow top?
+
+Tim Ferriss: Yes, yes.
+
+Luis von Ahn: Yes.
+
+Tim Ferriss: Let’s just say you can’t afford to get a new mattress and the mattress is iffy — 
+
+Luis von Ahn: Pillow top really helps. Yeah.
+
+Tim Ferriss: — get a good pillow top, and it will make a difference. It makes a huge difference. If you can’t afford that, get a better pillow. This is another thing.
+
+Luis von Ahn: Oh, yeah.
+
+Tim Ferriss: I’ll put a few pillow options in the show notes because I do have opinions on pillows. I don’t test — there are some people who are like, “I’ve tested 10 mail order mattresses this year.” I’m like, “I don’t have the time for that,” but I will test the pillows.
+
+Luis von Ahn: No, no, no. The pillows, much easier. Yeah. That’s much easier. The other thing I don’t know much about — I was recently reading about the history of beds, and this is a few hundred years ago, not that long ago. Most people didn’t have a bed. People slept on a bunch of clothes, basically. They would just pile up some clothes, and that’s where they slept. Beds were just piles of clothes.
+
+Tim Ferriss: Wow. How far we’ve come when people are — read a little history, you realize that a lot of improvements have been made. All right. Let’s go from indoor to outdoor. I have your last answer here. If you could have a gigantic billboard anywhere with anything on it, this is metaphorically speaking, getting a message out, assuming people would understand it, let’s just take that as assumed, what would it say, and why? It could be a few words, a paragraph. It could be an image. It could be anything. Your answer last time was it would be a billboard right across the street from Google’s office here in Pittsburgh that would say, “We at Duolingo are hiring, and yes, we can match your salary.” So do you have any new possible answers to that question?
+
+Luis von Ahn: Yeah. I mean, I think the word has gotten out a lot more about the Duolingo hiring, and we get inbound applicants where I don’t think that billboard is as necessary anymore. By the way, we did have a billboard. This is not the one that we do, but we did have a billboard that was pretty successful in San Francisco that was for Duolingo that said, “Work in tech, own a house, move to Pittsburgh,” or something like that, and — 
+
+Tim Ferriss: That’s clever. That’s clever.
+
+Luis von Ahn: — it got us a good number of employees. It really actually worked with people who were like, oh, it turns out if you move to Pittsburgh with a tech salary, which basically, our salaries are the same as what you would have in Silicon Valley, you can own a pretty nice house.
+
+Tim Ferriss: Work in tech, own a house. What was it? What was the last — 
+
+Luis von Ahn: Move to Pittsburgh. Move to Pittsburgh.
+
+Tim Ferriss: That’s great. You know what that reminds me of, is that it really covers a lot and tells a whole story in very short form. I don’t know if you’ve ever heard the story in six words by Hemingway, “For sale: baby shoes, never worn.” It kind of makes me think of — 
+
+Luis von Ahn: Oh, wow. Yeah.
+
+Tim Ferriss: — your billboard. Yeah. Incredible.
+
+Luis von Ahn: Yeah, yeah, yeah, yeah, yeah.
+
+Tim Ferriss: All right.
+
+Luis von Ahn: I don’t know what I would do now. I mean, probably something silly. I mean, I don’t know if you’ve seen all the Duolingo memes with the owl trying to kidnap your family and stuff like that.
+
+Tim Ferriss: I have not.
+
+Luis von Ahn: Well, they’re pretty popular. They’re pretty popular on TikTok, of basically saying — the idea is that our notifications can be pretty passive-aggressive. So, for example, we have a notification on the app that if — we send you a notification every day to remind you to practice, but if you don’t practice for five days, we stop sending you notifications. At some point, it occurred to us that we could have a notification that said — when we stop, we actually should tell you to stop, that we’re stopping, as in we should be nice and tell you, “Hey, we’re stopping.” So the last notification we send before we stop is, “Hey, these notifications don’t seem to be working, and we’re going to stop sending them for now.” It comes from the owl, and a lot of people consider this very passive-aggressive.
+
+By the way, this notification gets people to come back a lot because they feel bad. They’re like, “Oh, my god. I’m not giving up on my Spanish or my French or whatever.” So it gets people to come back quite a bit, but that notification has really gotten all kinds of people to talk more and more about our notifications, and there’s a whole persona that has evolved, not by us. It’s like the internet has evolved that whole persona for our owl, that it kidnaps your family if you’re not learning Spanish, and there’s a number of taglines that they have, that the owl would say. So, for example, one is, “Spanish or vanish,” or it’s like, “French or the trench, Japanese or your knees.” They just come up with a lot of these. So I would just have a fun billboard that just says “Spanish or vanish” somewhere.
+
+Tim Ferriss: Spanish or vanish. Sometimes it’s the little thing that get people talking. We won’t get into it right now, but people should Google Derek Sivers, S-I-V-E-R-S, CD Baby, that was his company at the time, email. It’s a confirmation email that they would send out when orders came in. It was an automated email, so people can just search Derek Sivers CD Baby email. We’ll put it in the show notes as well. All right. Coming back to present day, I have notes in front of me, one of which is related to mission and mission-steering business decisions. What I think many people, including myself, sometimes hear “mission,” we’re like, “Oh, boy. Here we go. This is going to be some type of thing on a wall in Office Space or some type of lead-with-integrity type thing from a GE-type of company.” We’re going to be like, “All right. Well, what does that mean, and does that really have an impact on people on day-to-day basis?” What do you mean when you talk about mission?
+
+Luis von Ahn: Yeah. So I feel similarly to you. I’m distrustful when people say that. It is interesting that at Duolingo I think it really has to do with this first group of employees that we talked about before that were pretty big zealots on our mission that we really — most every decision that we make at Duolingo is very mission-oriented, and our mission — there’s a statement of the mission that sounds good, and I’ll say the statement, but I’ll explain it more. So the statement is to develop the best education in the world and make it universally available. The real driving force is we want to make sure that everybody who wants to learn can do so. Now, we’re not out there giving people phones or anything like that. We do assume that you have some sort of smart device, and the reason for that assumption is that’s just — the world’s going that way. These days, you can get an Android device for 30 bucks.
+
+So it is going that way. We make sure that our app works on very low-end Android devices, for example, but we really want to make sure that anybody who wants to learn a language, well, languages, but we’re expanding to teaching other things too, but anybody who wants to learn a language can do so without having to pay us. This matters to us. Yeah. Most of the decisions we make are related to this, but one of the things that I think has really affected my thinking, and certainly the company behavior, is we are all really big believers that — yeah, the mission, we like the mission and it’s great. We’re all really big believers that that mission is actually well aligned with the long-term success of our company as a business entity, so as an actual moneymaking, publicly traded company, it is aligned with the long-term success.
+
+Let me explain. For example, we could say tomorrow, “You know what? Screw it. You have to pay to use Duolingo.” My guess is we would, not my guess, I’m pretty sure we would make a lot more money if we did that. Our number of users would go down, but a good number of them would also pay us, and we would make a lot more money, and next quarter would be an amazing quarter for us. It would be an amazing quarter for us. I don’t know the off the top of my head, but our revenue probably would, I don’t know, 10X, some crazy number in one quarter. It would just go nuts. However, what that would do is it would completely stifle our growth because the way Duolingo has grown is through word of mouth. We have all these people who use us for free. They don’t pay us. We make some money off them from the ads, but most of our money comes from our subscription.
+
+But what’s really useful about all these people that use us is they use us, they have a good experience, and they tell their friends, and the vast majority of our users, really, the overwhelming majority of our users, when you ask them, “How’d you find out about Duolingo?” it’s like, “A friend told me,” or, “My significant other told me,” or whatever. It’s basically word of mouth. I really do believe that having a really great free user experience, it’s what’s best for the business in the long run, again, not next quarter, but if you take the long view, which we are at Duolingo — I mean, we’ve been at this for 10 years. I’m going to stick around Duolingo probably forever. I really love working here, et cetera.
+
+So my view now is a long-term view. I mean, I’m here thinking about the next 10 years, the next 20 years, et cetera, and I really think that if we do the right thing for our users in terms of actually being able to learn a language really well, and without having to pay us, that is actually what’s going to optimize our revenue in the long term. So I believe that. I think most everybody in the company believes that, and I think that alignment has made it so that a lot of decisions are a lot easier, because we do hire a bunch of people who are like, “What the hell are you talking about, mission?” This is people who went to whatever business school and everything. It’s like, “Well, I’m just here to make money.” So we do hire some such people, but I think once they understand that we really — it’s not like we don’t want to make money. It’s not like we — we really are big believers that there’s real long-term alignment here. I think that really, that aligns everybody.
+
+Tim Ferriss: What other ways does the long view impact decision making? So maybe give another example or two as to how that informs not just the culture, but how you make decisions. You already mentioned one, which would be the decision to keep it free for the majority of users versus force pay subscription upon everyone and then have a short-term game for all of these long-term sacrifices. Can you think of any other ways in which taking the longer view affects decision making?
+
+Luis von Ahn: I’ll tell you another one. I’ll tell you another one that has worked out really well for us, but it has to do — one of the things about taking advice from certain companies that I’ve learned is taking individual pieces of advice sometimes doesn’t work because it only works for that company in the context of that company.
+
+Tim Ferriss: Totally.
+
+Luis von Ahn: We have a very specific context, which is, again, because our culture is good, because Pittsburgh is not quite Silicon Valley, et cetera, we have low employee churn. If you see a Silicon Valley company, a lot of times — I mean, by the way, Silicon Valley’s amazing. These companies operate really well, but one of the things that is common in Silicon Valley is people don’t stay at jobs for very long, and companies have become optimized for that. They’re optimized for it. They’re very good at operating excellent companies when the assumption is that people are going to stay there for two, three years, and they get really good at that. At Duolingo, people stay for much longer than that. People stay for a pretty long time, and where we take the long view in doing this is in hiring. We are really picky with hiring, and it’s because people stick around for a long time that it really matters. If they’re going to be here for eight years, it matters — it’s okay to wait a couple of months to find somebody that is probably going to be 20 percent better for this job than not — 
+
+Tim Ferriss: Yeah, totally.
+
+Luis von Ahn: — because overall, however, if you are a company where you have pretty high churn, probably this is not as worthwhile. So, it’s just for us, this has been a pretty good thing for — taking the long view in hiring has been good for us.
+
+Tim Ferriss: Well, I’ll like to ask more about that specifically. So I am trying to get better at hiring, myself, and had some maybe beginner’s luck where I did really well in the beginning, had people stick around for a long time, but have had a couple of misses in the last few years, and it’s been hard — 
+
+Luis von Ahn: This happens.
+
+Tim Ferriss: Yeah. It does happen, and it’s been hard for me to really deconstruct the reasons for that in a post-game analysis, although I do think that there were some unnecessary rushing to the hiring process. So we talked — 
+
+Luis von Ahn: Ah, yes.
+
+Tim Ferriss: — in our last conversation about hiring, and you mentioned that you’ve learned how expensive hiring mistakes can be. No doubt, you’ve learned that more than once.
+
+Luis von Ahn: Yep, yep, yep.
+
+Tim Ferriss: So you guys are very strict in your interviews, and you described the process. I’d love to see if this has changed, and if it is different for nontechnical roles, but in 2016 it was number one, resume screen, good GPA, internships, and so on. Number two, two phone screens, which includes problem solving. Number three, bringing remaining candidates on site where they have four different areas, some of which involved more problem solving, as well as paired programming, during which they fix a bug. So this seems to be specific for technical candidates. I’m wondering if you have anything to add to this, if you could maybe elaborate on what taking your time and looking for that extra 20 percent looks like, and I suppose I’m most interested in nontechnical roles since I am not hiring for real technical capabilities, but anything you have to say on any of those points would be interesting.
+
+Luis von Ahn: Yeah. Yeah. That interview is pretty similar to what we do now. I think the specific actual questions may have changed a little bit. What we look for in resumes may have changed a little bit, but the overall is pretty similar, and that is for technical hires. Nontechnical hires, it really depends. That’s another thing about hiring. I mean, it really depends on what function you’re hiring for. So, for example, designers, what matters a lot is their portfolio, and the portfolio is this magical thing. Portfolios are amazing because within 30 seconds, by looking at a portfolio, you can tell a lot. You don’t even have to do all that much interviewing or anything. Just looking at a portfolio, yep, it’s good. The other beautiful thing about portfolios, by the way, is that they’re — it’s so nice because they’re really good for diversity in that you don’t have to know this person’s name. You don’t have to know what they look like. You don’t have to know anything. It’s just the work speaks for itself.
+
+So this is the beautiful thing about design, but that’s very rare. Usually, most fields don’t have a thing like the portfolio where you just look at it and you’re like, “This is it.” So I think outside of these, you have to get really good at interviewing, and you’ve got to figure out — there’s a few things that really work out. One is work product. So whatever it is that they’re supposed to do, you have them do some of that. It could be that they do it offline, as in they don’t have to do it in front of you. It could be like, “Look, in order to apply, you have to write this thing,” or whatever it is. “You can take your time. Just send it to us as part of the application.” Work product is really good. I think that really tells you whether — it has to be pretty close to what they’re supposed to do when you hire them.
+
+So that’s really good. I think there’s another one, which is just general intelligence stuff, which you may or may not want to do, but there are some pretty simple kind of — there’s this three-question IQ test that you can Google for, which is just — it’s not going to give you an exact precise — with just three questions, you’re not going to be able to get an exact IQ, but basically, if people can solve all three of these questions, they’re pretty good with cognitive abilities. I think you may want to do that. Then the other one is just more of these behavioral interviews that you ask these questions that you really do — it does make a difference for nontechnical stuff. I mean, things like, “Talk about a failure. Tell me about a time you failed,” and the types of things you’re looking for is, A, do they recognize that they have failed? The wrong answer, the horrible ones is this failure, not failure, where they tell you — 
+
+Tim Ferriss: Yeah. “I just care too much.”
+
+Luis von Ahn: Yeah, yeah, yeah, or it starts looking like a failure, but actually, it was a home run. You’re like, “No, no, no, no, no, a real failure.” So you want to understand that they understand when they failed. The other thing you want to hear there is did they blame others or themselves. It’s very telling when they tell you about a failure, it’s a real failure, but they’re like, “But you know what? I knew what to do the whole time. It’s just my manager was dumb,” or whatever. That’s a very bad sign because, look, everybody’s failed, and there’s at least one instance, usually many, where it really was your fault. I want to hear about that, not about how you always knew all along, and you’re always right, and it’s just your manager sucked or somebody else, because when you do end up hiring them, these are the type of people that would probably blame everybody else for their failures, and you don’t want that.
+
+So there are these behavioral interviews that I think really work out pretty well. So we do apply all of those, but one of the things that I have learned a lot is, and we employ it at Duolingo, when you are the hiring manager, so the person that’s actually going to work with them, and usually you’re hiring somebody because you have a need, you’re like, “Well, I need a designer on my team,” or, “I need,” whatever it is, “I need this on my team, and I have the need,” you’re extremely biased towards hiring because you’re like, “Look, I just need to get this done. I just want to get it.” So one of the things we do is ultimately at Duolingo, the decisions are not by the hiring manager. Hiring manager can have a lot of input, but there’s somebody else that is like, and a lot of times that’s me, who’s like, “I understand you’re in deep pain right now and you need another person, but this person does not pass our bar.”
+
+It’s not that I’m that good at the bar. It’s just that I’m a different person. So I make the same when I’m hiring for an executive or something, I have a bias towards hiring because I’m like, “Man, I don’t want to spend more time looking for this whatever, head of whatever.” By the way, we did this for our CFO, our chief financial officer. We took a long time, and at some point I almost gave up. I’m like, “I’ll just take whoever. It doesn’t matter.” We didn’t do that. I was lucky that we’d ended up — I mean, I had spent about a year — 
+
+Tim Ferriss: Yeah, it’s a long time.
+
+Luis von Ahn: — looking for our CFO, and thank God we waited. I mean, our CFO Matt Skaruppa’s amazing. Thank God we waited, but in the middle there, after, I don’t know, nine months or so, I started faltering. I started being like, “Just take whoever.” So it’s not that I’m that good at holding our bar, but I’m very good at holding our bar when it’s not me, and I think — 
+
+Tim Ferriss: Yeah, that makes sense.
+
+Luis von Ahn: — to me, that’s a big piece of advice. Have somebody else hold the bar.
+
+Tim Ferriss: Okay. So this is actually a very opportune time to segue. So the two things I’m going to cover, well, I’m going to cover, that’s not true, the royal I, that you are going to cover, that I’d love to explore, are number one, how did you decide to go public? When did you decide it was the right time to pursue that, and the CFO may somehow be involved with that, but the question after that is going to be, what’s next? New products. You alluded to something beyond language learning.
+
+Luis von Ahn: Language learning, yeah.
+
+Tim Ferriss: Certainly, I would love to hear more about that, but let’s begin with the going public question and just how you thought about that and made decisions around it, and then from there into new products, new revenue streams, things like that.
+
+Luis von Ahn: Okay. So first of all, the idea of going public, for example, last time we talked, I don’t know exactly what was going on six years ago in my head, but the idea of going public I think around then just seemed so foreign, so that’s never going to happen, or I was just not thinking about that. Once we figured out our revenue and we figured out that we could make a lot of revenue, the first time this really was discussed was we were having a meeting with one of our board members. His name is Bing Gordon, and he’s — Bing is a legendary guy in Silicon Valley.
+
+Tim Ferriss: Very famous.
+
+Luis von Ahn: Very famous, says a lot of crazy stuff, a lot of really good crazy stuff, but also, sometimes it’s just really crazy stuff. He was just sitting there, and we were talking about our revenue, and he said, “Look. You’re going to make this much revenue next year, you’re going to make that much revenue the year after that, and then you’re going to go public,” and we were like, “What?” It just completely — “Really? You can do that? You can just go public? That’s a thing?” and he’s like, “Yeah, why not?” That’s where it clicked, and we were like, “Oh, okay, maybe.”
+
+We started thinking about it, and then when we got to the point we were basically breaking even, which happened — Bing talked about that, maybe the year after that, we were already breaking, or we were roughly breaking even. I mean, it was not exactly breaking even. We were pretty close to breaking even. We were like, “Oh, maybe we should consider going public.” The first step if you’re going to go public, or the first step you need is you need a CFO. Maybe you can go public without a CFO, but it seems like a really bad idea. Don’t do that. So step one is — 
+
+Tim Ferriss: Generally, ill advised.
+
+Luis von Ahn: Yes. So step one is you need a CFO, and a CFO that knows how to take you public. A lot of people give you the advice that you should hire a CFO that has taken a company public. That is hard for many reasons. For one, there’s just not very many such people. Secondly, CFOs turn out to be very highly paid individuals, and when you go public, you get paid a lot as a CFO. So what ends up happening is a lot of these people who are CFOs who’ve taken a company public are just very rich, and they don’t want to work for you anymore. They’re just like, “Whatever. I have my house in the Hamptons, and this is where I am, and I’m just not going to go to work for you.”
+
+So it’s just a very limited pool of people who have taken a company public once. So there’s that, and then we did interview some people, and they had good experience. What we ended up doing for CFO is not take somebody who has taken a company public, but he obviously knew finance, et cetera. He came from Goldman Sachs. But we maximized for intelligence and grit, and that was a really good move for us, and that worked out for us.
+
+Tim Ferriss: Quick question. So, intelligence, I can see how you test for intelligence. How do you assess grit?
+
+Luis von Ahn: I think a lot of it has to do from references. I mean, this Matt that we hired, we knew a few people that knew him, and the reference were just — they were true. The thing, they were true. They’ll tell you, “Oh, Matt Skaruppa is the hardest working and also most honest guy I’ve ever met,” and I’m like, to me, the words honest and CFO just don’t go together that much. I don’t know if I was biased against that. But then we hired a guy that is the most honest guy. Some of us call him the Boy Scout because it’s just like, this guy just a good guy. So we hired Matt, and by the way, the other thing with Matt is Matt was going to be based in New York right before COVID. We hired Matt — I don’t know. His first day was maybe a month before COVID. It’s probably February of 2020 or something like that.
+
+He was going to be based in New York, but we’re headquartered in Pittsburgh. We have an office in New York with about 100 people. He was going to be in that office, but he knew he had to travel a lot to Pittsburgh. On his first day, he shows up with, I don’t know, he had like 10 slides, a deck with his travel plans for the next two years. He had pie charts of fraction of time he was going to spend in Pittsburgh, in New York, on the plane, all this stuff that he had done a massive analysis, what a consultant would do for some sort of analysis. He’s like, “This is my travel schedule for the next two years,” and I’m like, “Wow.” I would’ve never have done anything like this, but I see we hired the right person. He must’ve spent hours and hours on this, and then, poor guy, COVID came, and then that travel plan went down the train and he just didn’t have to travel.
+
+But anyways, you hire a CFO. That’s the first thing, and then for me, I think what really mattered was our revenue, and this seems to be what matters the most, is our revenue predictable? Is our finance predictable? If your finances are not predictable, you should not go public. You’re going to have a real bad time. So you want to know that your finances are predictable, and by predictable I mean I’ve learned how predictable — you need to be able to predict your finances with a year out and be like three percent away. So this is a pretty good prediction that you have pretty good forecasting.
+
+So you have to do that, and have to have a path to real profitability. That’s the other thing. If you don’t have either of those, I would say I would not go public. You’re just going to have a really bad time. The other thing to say about having gone public, I’m very happy we did. The company operates better. You know what? I think of it as — when nobody visits you in your house, you don’t have to clean all that much, and it’s not a very clean house. If nobody ever visits you, you kind of live like a slob. But if there’s going to be a visit coming, you’re like, “Oh, shit. I’ve got to — “
+
+Tim Ferriss: Once a quarter.
+
+Luis von Ahn: Well, it’s not once a quarter because — 
+
+Tim Ferriss: No, I know. I’m kidding.
+
+Luis von Ahn: — I now work under constant scrutiny, but basically, I think what happened is once — the process of going public forced us to do all these things much better.
+
+Tim Ferriss: Yeah, totally.
+
+Luis von Ahn: There were all these processes that they were just not well set up as a process, or we may not even have had a process, and it’s like, “No, we’re going to go public now. Now we have to have a process now.” So at this point, our house is pretty clean because we get visits all the time, and the thing about living in a clean house is you feel good about it. It’s just better. It’s just better. It’s just better. So I’m very happy that we went public.
+
+Tim Ferriss: Yeah. I just want to say also to folks who may be listening and have a small business and they’re like, “I’m never going public. This isn’t relevant to me,” what I would say is — there are books that you can read that I think are interesting. As a thought exercise at the very least, there’s a book called Built to Sell. I think the author’s name is John Warrillow, and if someone wants to improve their own business, let’s just say it’s a smaller business with five employees, pretend like you’re going to sell it. Pretend like you are going to sell it in 12 months, and you will go through — 
+
+Luis von Ahn: You renovate the bathroom is what you’re saying.
+
+Tim Ferriss: Yeah. You’re going to renovate the bathroom and you’re going to realize, “Oh, yeah. The duct tape on that part of the plumbing, no one’s going to buy that. That’s not going to pass the inspection, so we’re going to have to fix that.” You can go through a very similar housecleaning process where you build system, you remove yourself as a bottleneck for certain decisions and so on that can be hugely, hugely beneficial. So I’ll just mention the parallels there. What have been the biggest challenges — 
+
+Luis von Ahn: It’s a really good point. Of being public?
+
+Tim Ferriss: Yeah, or being a publicly — I don’t want to make it too abstract. I mean, there are the challenges of being a publicly traded company. I’m just wondering, being the CEO of a publicly traded company.
+
+Luis von Ahn: You know what? A lot of people assumed that my job was going to change a lot. It hasn’t, and the other thing is we worked really hard to make sure that our culture didn’t change a lot. If you ask a random, which I have, if you ask a random Duolingo employee, “How does it feel before and after?” they’ll tell you very little changed. There’s a couple of things. You can’t really give forward-looking statements as much, or you can’t say, “Well, next year we’re going to make this much revenue,” or whatever. Just don’t do that. Stuff like that, but it’s minor, I would say, and I think my job in particular, the only real change is now I have to spend — well, I have a deal with our head of investment relations, I have to spend 12 hours a quarter on talking to investors or analysts. So that’s that. Well, the reason I have this deal is you can spend 100 percent of your time doing that, and — 
+
+Tim Ferriss: For sure.
+
+Luis von Ahn: — I love talking to investors and analysts, love talking to them, but you can’t run a company when you spend 100 percent of your time talking to them. You can’t do that. So I give her 12 hours a quarter, and — 
+
+Tim Ferriss: How did you settle on 12 hours? I’m just so curious. Is that one hour a week?
+
+Luis von Ahn: No. We negotiated. We negotiated. I started with five. She’s like, “You can’t do that,” and she’s like, “How about 20?” In the end, we just settled on 12. But I think that’s about the biggest change. I don’t think there’s much else. Oh, I guess I have to write a — you don’t have to do this, by the way. I just learned. I was very clueless before going public about what it really meant to be a publicly traded company. One of the things I recently learned is you don’t have to have earnings calls or shareholder letters. You don’t have to do this. I thought you did, and we do them. We do them every quarter. It turns out you don’t. This is not a legal requirement of any kind, but it’s probably a good idea to do it.
+
+Anyways, the other thing, I have to write a shareholder letter. We do shareholder letters, and I have to do that every quarter. But other than that, it’s been good. I mean, we’re fortunate that — the stock market has been pretty choppy. We’re fortunate that our stock has held up pretty well, and so there are some companies for whom they’re down 90 percent from when they went public or something like that. That must be very tough. We’re fortunate that that’s just not the case.
+
+Tim Ferriss: Yeah. That’s when the activists start circling in the waters.
+
+Luis von Ahn: Yeah. Yeah. It’s fortunate, but I also think the thing we made sure of is we both had a highly forecastable business, and a good path to good profitability. I think if you have those two, you’re going to do okay. Last year in particular, you saw a number of companies that were either not very forecastable or just did not care at all about profitability, and I think in today’s climate that’s just not so great.
+
+Tim Ferriss: Yeah. Yeah. That’s sort of tying an arm behind your back when you get into the boxing ring. You might win. You might, but it does make it a little more challenging.
+
+Luis von Ahn: You know what else does not help? I don’t know if you’ve watched this show, WeCrashed, which by the way is an excellent show. It’s the story of WeWork. I love it. 
+
+Tim Ferriss: Yeah. I saw episode one, actually, at South by Southwest.
+
+Luis von Ahn: I love that show, but one of the things that does not help is investment bankers will tell you what you want to hear. They’re supposed to be there to coach you, but they make money if you go public. And they make a ton of money if you go public. So it is common that they’ll tell you, “Yeah, of course, you’re ready to go public. Of course.”
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And I just don’t think they are as brutally honest as they should be in that respect.
+
+Tim Ferriss: Yeah. Well, it’s like the old Buffett-ism, “Don’t ask a barber if you need a haircut.”
+
+Luis von Ahn: Right.
+
+Tim Ferriss: Being aware of the incentives involved is important, which is also, it can be true for reward. It could be true for punishment or pain, as you were mentioning earlier, with hiring. Right? If you are in the hot seat and you are facing the consequences of a lack of a hire, you are going to be strongly incentivized and you might use motivated reasoning to push for a faster hire than you should.
+
+Luis von Ahn: Yes. And the crazy thing about that is that, you may not even be malicious. I’m not saying that. It’s just these incentives work that way. I’m not saying the investment bankers are even malicious or anything. They’re just in their way of viewing the world, they’re like, “Yeah, it’s good for you to go public. It just is.”
+
+Tim Ferriss: Yeah. It’s just human nature.
+
+Luis von Ahn: Yep.
+
+Tim Ferriss: All right. Looking towards the future, new products, revenue streams. What’s coming?
+
+Luis von Ahn: Yeah. We’re very excited by this. So, historically, Duolingo has been language learning. We’ve thought — that’s the thing. We teach languages. By now, we’re the largest way to learn languages in the world. We’re most popular than any other way to learn languages including public school systems. So that’s awesome.
+
+But our mission has always been more general. We really like all of education. We started with language learning. So we’re starting to expand to other things. We’ve launched already a literacy app. That’s different from language learning in that it’s your native language, you just need to learn how to read. So this is an app for kids. Right now, it’s only in English. It’s Duolingo ABC that teaches kids.
+
+When we were working on it, we thought kids three to six — turns out kids get — there’s a downward pressure for learning how to read earlier and earlier. So some of our top users for the app are actually two. So there’s these kids that are age two that are learning how to read on our app, which I’m like, when I was two, I don’t even think I knew how to walk when I was two. I don’t know. But, somehow these kids are learning how to read at age two with the app. So we started with that.
+
+We’re working on a math app that is going to come out this year, where the idea is you’re going to be able to learn some math. We’re starting with elementary school math. And not first grade, so not counting, but we’re starting with basic arithmetic and fractions and stuff like that.
+
+One of the interesting things about that is that — well, the reason we’re starting with elementary school math is because that’s where you start seeing a divergence in people who are, quote unquote, good at math versus not, right around when you have to learn multiplication and division and stuff like that. So we want to get to kids then.
+
+That’s one thing, but there’s another thing. And I think it’s going to be for the growth of the app. It’s actually pretty fun for adults in that we’ve made it into — it feels a lot like a game. Duolingo. I have the app on my phone. It feels a lot like a game. And this third to fifth grade math is right at the level where adults find it challenging, but doable. So, if we were to give most adults ninth grade math, they can’t do it. Most of them are like, “That’s too hard.” But, if you’re giving adults some fraction problems or multiplication or stuff like that, it’s kind of like brain training. So we actually think this app is going to grow, both for students who are elementary school students, but also people who just want to get a little better at math and do some brain training. More adults.
+
+And so the app is going to cater to both and we’re very excited by that. And again, I have a PhD in computer science. You would think that I am good at math, but I’m loving basic multiplication here. I’m not learning it. It’s just everyday brain training. We’re very, very excited by that project.
+
+Tim Ferriss: Okay. So the math is going to launch in 2022. I am very much looking forward to that and it’s timely for me. It’s been on my brain. And if you can just allow me to be a little self indulgent and talk for a second. It’s a bit later in my life trajectory, but in ninth grade I was very good at math and I had a math teacher who just brutalized the male students in the class. I don’t know why she did this, but she just really had an ax to grind. And basically all of the male cohort in that class stopped taking math, myself included.
+
+Luis von Ahn: Wow.
+
+Tim Ferriss: And my brother had the opposite experience and ended up with PhD in statistics and is about as quant heavy as you can imagine. He had a very, very good teacher. And I’ve always had — on some level, I consider myself numerate, but in a very basic way. And I’ve wanted to rekindle some of those capabilities or at least the interest in math. And concurrent with that, one of my closest friends is about to go to grad school and will need to take an intro to stats class, but this friend also stopped math quite early. Didn’t have the support structure that I did. So, for her, it was probably in the earlier elementary school years. So I’ve been thinking a lot about this. How do you make it not just learnable, but hopefully on some level interesting and enjoyable and rewarding? So I’ve been looking at — I can’t remember his name. There’s a professor who was at Harvey Mudd who developed a book called Mathemagics.
+
+Luis von Ahn: Yeah, I’ve heard of that one. Yeah.
+
+Tim Ferriss: Yeah. And I feel like some of those techniques might be considered cheap tricks, but I do find that it is very rewarding if you teach someone how to, say, multiply double-digit numbers by 11. And it’s a trick. Sure.
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: It doesn’t apply to 12, but it shows people that they can do something they thought they couldn’t do. So I’m very excited to see the math program.
+
+Luis von Ahn: Yeah. The other thing that we’ve learned at Duolingo — what we did with the original Duolingo app, the language learning app, is we got really good at getting you to repeat stuff over and over again. And the way you learn a language is by a lot of repetition. And I really believe this to be true also of the type of elementary school math. And so one of the things that’s awesome about this product is that it really is fun and we’ve made it so that repeating these multiplication or whatever is actually fun because you get all these, this progress bars and points and stuff like that. And it just feels fun. You’re doing exactly what you’re supposed to be doing. The way you get much better at this math is by repeating it 10,000 times. It’s just how you get better at it.
+
+Tim Ferriss: So is there anything else that you have coming that you’d like to talk about or anything else that you’re working on that you’re particularly excited about?
+
+Luis von Ahn: The thing that I’m really excited about, in addition to all these things, is a project that people in the US don’t know us so much for this project, but it’s a pretty successful and amazing project. It’s called the Duolingo English Test.
+
+So what it is is a standardized English proficiency exam. So basically you go there, you take a test for call it 30 minutes, 30 to 45 minutes. And then at the end, you get a score from 0 to 160 about how good your English is. That’s it. That’s the product. It turns out that doing this is pretty necessary in most countries in the world. Again, not that necessary in the US because everybody speaks English, but if you want to get a work visa in the UK, you have to take a standardized English exam. If you want to come to college in the US from a nonspeaking — an English-speaking country, you have to take a standardized English exam. If you want to get promoted in Japan, in most jobs, you have to take a standardized English exam.
+
+So there’s all these reasons for taking these. And we made our own test. The reason we made our own test is because before our test, all these standardized English tests, you had to go to a physical testing center to take them.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: To actually go somewhere and take a paper test, et cetera. We thought that was ridiculous. So we made our own that you can take it online. And it’s been really, really successful and a really rewarding project because what this has done — so, by now, our test is now accepted, for example, by 4,200 academic programs in the world. So, if you want to apply to most universities in the US, if you want to apply to MIT or Stanford, they accept our test as proof of English proficiency.
+
+So this is great, but the reason this has been so rewarding is that we’re getting all these people to take this test that simply could not take a standardized English proficiency exam before. People who live far away from cities. They just couldn’t. It turned out that in the Democratic Republic of Congo, there was just no way to take a standardized English test. They just couldn’t. So if you were there and you wanted to apply to a place like a US university, you had to fly somewhere to actually take the test, which is kind of ridiculous. So it’s been very rewarding to do this. And I’m very excited by this project because first of all, we keep getting more and more acceptance on it.
+
+And so the hope is that this will become the standard for English proficiency. So what we’re hoping to do, and not just for English, we’re hoping to do it for every language out there, at least the big languages, is we’re hoping to change so that when somebody asks you “How much French do you know?” or “How much English do you know?” we want the answer to be, “Oh, I am a Duolingo 65,” or, “I’m a Duolingo 90.” That’s what we want the answer to be. That’s not true today, but that’s what we want. And it would be a lot better because, for example, the most common answers for how much French you know are 1) “I took four years of high school French,” which doesn’t answer anything. The other one is “I’m intermediate,” which is also like, what the hell does that even mean? So we really want people to say, “I’m a Duolingo 65 in French.”
+
+And our approach for this is going to be the test is one-sided, which gives our score legitimacy. Look, that score is good enough for you to get into MIT or Duke or whatever. That’s good. We don’t have that yet, but we’re going to start putting that score in the app. We’re going to start putting an estimated score of the Duolingo English test or the Duolingo Spanish test once we have a Spanish test. We don’t yet have a Spanish test. We’re going to start putting in the app. That gives it scale. So, pretty soon, literally hundreds of millions of people are going to have an estimated score. And the hope is that people start putting in their estimate, et cetera, et cetera.
+
+And I think if we’re able to do that, this will be, not only good for the world, but also for the company, there will be a very defensible position because we own the scale. So I’m very excited by that.
+
+Tim Ferriss: I want to share a little bit of backstory and then I want to ask a question about how you actually do this testing. So the backstory that I wanted to share briefly is that you’re very good at catching cheaters. You have a history of catching cheaters. So I don’t want to spend too much time on this, but I’ll just give a quick recap.
+
+So you have taught at Carnegie Mellon and my recollection, this is shorthand here based on notes I have, but you tell students they were not to Google certain answers for specific homework assignments.
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: Then you would create honeypot websites with the answers to homework questions and the websites would record IP addresses. Then you would call out the cheaters and tell the class. If they confessed, they would simply get a zero, but if he, meaning you, had to do the work of figuring out who it was, you would report them. And they got so scared of your tricks that they eventually all stopped cheating. So you have a history — 
+
+Luis von Ahn: Yeah.
+
+Tim Ferriss: Of catching people who are trying to game the system. In the case of remote aptitude testing — 
+
+Luis von Ahn: Yep.
+
+Tim Ferriss: For English, are you still using the front-facing camera and microphone on a phone? Or how do you set it up such that it is hard to game the system?
+
+Luis von Ahn: Yeah. We’ve spent a lot of effort to make sure. That is one of the hardest problems you have to solve. If you are testing an English proficiency for high stakes test. And that’s, by the way, that’s the reason why they force people to go to testing centers.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: Because they wanted to make sure they weren’t cheating. It turns out we are able to solve this and we just use a number of tricks. Obviously, we turn on the front-facing camera of the device. Right now, the test only works on computers. We did not do it for phones. So you have to take it on a computer. Front-facing camera of the device. We have a real human watch you do the test.
+
+We also have artificial intelligence that looks at where you’re looking, and that turns out to be really powerful. When you are taking a test, it is very predictable where you’re going to be looking. On the screen, there is the area that has the question. We need to see that you actually went and read that and your eyes scanned that. Then you’re probably going to be looking where you’re typing, et cetera. So you can pretty well tell that is actually the person taking the test as opposed to being taken by somebody else.
+
+We also do all kinds of other things. We record all the ambient noise. We also lock down your computer. As in you have to download an app that turns off everything in your computer and also tells us whether your computer is connected to external devices, whether you have all kinds of, for example, some headphones that are telling you the answer or whatever.
+
+So we do a lot of that. And the way we know we catch cheaters is that we actually have a program where we pay people to try to cheat and we see whether they’re successful or not.
+
+Tim Ferriss: That’s great. Yeah. You red team your own system. Yeah. Nice.
+
+Luis von Ahn: We do. And that’s been really good and every now and then they’re able to find something that passes through and then we patch it. And I’ll tell you, even though this is the new technology and everything and people would say like, but it’s still computers. Maybe they’re doing something weird. It’s a hell of a lot easier to cheat in offline testing centers. Because the way people cheat in these offline testing centers is so easy and it’s as follows. Most of these testing centers are in developing countries. The person who is the attendant or the person who works at the testing center is not a highly paid employee in a developing country. Turns out non-highly paid employees in developing countries will take a hundred bucks bribe for, well, almost anything.
+
+So this is how you cheat there. This is low-fidelity, the old-school cheating, which is “Here’s 100 bucks. Just say that I took the test, but actually here’s my friend who actually speaks English. Let them take the test. Thanks, bye.” So that is how people cheat. People actually cheat that way. You cannot cheat that way with our test because you cannot see who’s proctoring you. You can’t communicate with them, et cetera. So we feel pretty good about the anti-testing mechanics here.
+
+Tim Ferriss: Yeah. I’m glad I asked. That covered a lot more than I expected we would cover. Do you still eat Greek yogurt for breakfast? At least last time we spoke, you did the same breakfast for two to three years, as an example of one decision that removes 1,000 decisions, or have you decided to swap in a new breakfast for yourself?
+
+Luis von Ahn: I swapped in very similar, but now it’s just a little jug of Muscle Milk because my trainer, Garry, on his first date — Garry’s a funny guy. He only cares about strength. He said, “Let’s have the nutrition conversation.” And I’m like, “Okay.” And he said, “Drink Muscle Milk.” And then I’m like, “Anything else?” He’s like, “Nope. Just drink Muscle Milk.” “Thanks.” That was his nutrition conversation. Good talk. Good talk. I was hoping he’d be like, “Well, eat this type of whatever vegetable and this after that.” Nothing. He’s just like, “Just drink some Muscle Milk.” So it’s what I do for breakfast.
+
+Tim Ferriss: Hey, keeps it simple. Daily habit. Yep. Just like brushing your teeth. All right. Two more questions, maybe three. And then we can bring this to a close and land the plane. All right.
+
+So next question is more generalized. What advice would you give to a smart, driven, say, college student, you could pick a different age, about to enter the real world? And secondarily, if you want to take a stab at this, what advice should they ignore?
+
+Luis von Ahn: If they wanted — for me, the biggest advice is — it depends on what you want. You want to get a job? You want to work? You want to work or do you want to just play video games? If you want to play video games, go play video games. Whatever. That’s fine.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: But, if you actually want to get a job, I would say the most important thing is find a way to become useful. And I don’t know if it’s just always — I am getting older and I don’t know if it’s just always people talking about the younger generations this way, but it’s just a lot of times, a lot of the gen Zs, it used to be even millennials, but the gen Zs, they show up and they’re like, “What are you going to do for me?” And it’s like, “Well, can you do this?” “No, no, no. I don’t like that. That’s not a good learning opportunity for me.” Or, “You hired me to be a software engineer. I’m not going to do — that’s not my job. I’m not going to do that. That’s not my job.”
+
+The attitude of just finding a way to become useful gets you a lot farther.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: Certainly at Duolingo, but I think in most places in life where it’s just like, “Oh, you need me to do this? This is what’s actually needed? Yeah, I’ll do it. I’m pretty smart. I’ll figure it out. I’ll do it.” And now obviously, if you’re hired to be a software engineer, you should not go and, I don’t know, build a building because you don’t even know how to do that. But just find ways to become useful and crucial for the company will get you a lot more perks and promotions than having this attitude of, “What are you going to do for me?” That’s just my sense. And I see that a lot of the “What are you going to do for me?” attitude.
+
+Tim Ferriss: Yeah. Just to add to that, the opposite would be something like, and I think I’m getting this right, so a friend of mine, Kelly Starret, very well known performance coach, PT, has written many books. Works with tons of professional athletes, the top tier of elite military. And he also happened to be, I would say, he might disagree, but Olympic-level whitewater kayaker for a period of time. And I went on a river trip with him and he mentioned to everybody as this priming talk or as part of this orientation, he said, “There are really four words that will make the biggest difference in this trip, and it’s ‘How can I help?'” And he’s just like, “Everybody should ask that. It seems so rudimentary, but I would agree with you and, man, if you just take that attitude, like you’re on a river trip, how can I help if you’ve got some extra time or slack, it really will distinguish you.” It seems kind of — 
+
+Luis von Ahn: It really does. Yeah. It is amazing. And I see it. Of course, we hire a lot of people and everybody we hire is pretty awesome. But the ones that have more of this attitude just get farther in life just because they’re just there. They’re like, “How can I help? I just need to help.” I have a story of, it’s two separate employees. This is early Duolingo where we didn’t have a blog. We, of course, now have a blog for stuff. One just kept complaining we didn’t have a blog. He’s like, “I can’t believe we don’t have a blog. Why don’t we have a blog? It’s ridiculous we don’t have a blog,” but never did anything. Another one started and they just said, “I noticed we don’t have a blog, so I started one and here, it’s linked to the website.” That is the attitude that helps a lot more than just being like, “I can’t believe we don’t have a blog. How about you do something about it?”
+
+Tim Ferriss: Okay. Last question for me. And then there’s just a closing question of, if there’s anything else you’d like to add, say or direct the listeners to in any way.
+
+In the last handful of years, what have you become better at saying no to? Could be distractions, invitations, anything. Are there any new realizations or approaches that have helped you to say no to more? Maybe that’s not even a problem you have, but I figured I would ask.
+
+Luis von Ahn: No, I have a problem saying no. And I’ve definitely become better at saying no. In some cases I just don’t have the time, but it is a problem. The problem is I’m a people pleaser. I want to please the people in front of me, whoever they are. Sometimes even if they are a random stranger emailing me some stuff, I still am a people pleaser.
+
+So for me the big trick — this is not that new, but it is a big trick that I learned a little while ago, specifically for invitations and stuff like that, which is I used to say yes to an invitation to give a talk next year. Just go give a talk next year. And I used to say yes, because I thought, man, next year I won’t be that busy or whatever. And if you change your framing to say — whenever somebody asks you to do something a long time from now, change the framing and say, “What if it was tomorrow? Would you want to do this or not?” Almost invariably the answer is “No, I definitely don’t want to do this tomorrow.” And then you should answer based on that.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: And I think that has helped me say no to a lot of things where you just say okay. Because it’s not necessarily a trick that people use, although sometimes maybe it is a trick, but I just get asked to do certain things months from now. And I never think about, man, I’m actually going to have to do it and it’s going to suck. I just never think about that. So I’m just like, ah, months from now, it doesn’t matter. It doesn’t matter. You really should get a lot better at that. And just think about what if it was tomorrow?
+
+Tim Ferriss: What would you do if it were tomorrow? Good advice. Good advice. Luis, is there anything else that you would like to add? Any requests of the audience? Of course, people can find you on Twitter, @LuisvonAhn. They can find Duolingo at Duolingo.com or anywhere they find their apps, most certainly they can find it. Anything else that you would like to add or mention, draw attention to or closing comments?
+
+Luis von Ahn: I do have one thing. Although you’re welcome to cut it if you don’t think it’s going to be all that interesting. But, I would be remiss if I didn’t say this and it is about my country, Guatemala.
+
+I would like to call attention, particularly here in the United States, about the level of corruption there. And you’re like, okay, who cares? Guatemala is corrupt. First of all, it’s extremely corrupt. And there are real consequences for the United States. And in particular, one of them is probably illegal immigration. Guatemala is, I believe, the second country with largest illegal immigration into the United States. There’s literally millions of illegal immigrants from Guatemala here in the United States. And you can be very concerned about that. And not only can you be very concerned about the treatment of them in the border, which I think is horrendous, but once they’re here, you can be very concerned about that. And the sole reason why they’re leaving so much is because the country’s extremely corrupt and just cannot handle itself basically.
+
+And the reason I like to call attention to that is because I do believe the United States and their foreign policy can actually help with this in many ways. And unfortunately that is just not something that’s happening too much, but I do believe that as long as Guatemala continues to be this corrupt, there will continue being a lot of illegal immigration. There’s all kinds of stuff. The thing is it’s so close to the US that it has become a hub for, basically, international crime. And when they’re close to the US, that means some of that crime spills over to here. So far it hasn’t happened. We haven’t seen a terrorist attack where the terrorist came through Guatemala, but I wouldn’t be surprised if that happens. It’s just extremely corrupt place and they just funnel stuff from there.
+
+So, given that it’s so close to this country, I think this is of importance. And of course I have a self-serving reason for saying this. I would like my country to do better, but at this point, the level of corruption there is unbelievable. That’s the one thing that I would like to call attention to.
+
+Tim Ferriss: That’s why I asked. I think this is a perfectly fine place to talk about this. And let me ask you a follow up. For those policy makers, people listening who may actually be able to look at this more closely and have an impact. Do you have any specific recommendations or requests — 
+
+Luis von Ahn: I do.
+
+Tim Ferriss: Of them?
+
+Luis von Ahn: I do. A number of them. Probably one of the biggest ones is there’s a free trade agreement with Guatemala. The same one as NAFTA. There’s a free trade agreement with Mexico and Guatemala, et cetera. There are clauses there that are anti-corruption clauses. They are being overlooked. It is known that there is a lot of corruption in a lot of these countries. And I think that the US can say, “You know what? It’s clear you’re that corrupt. We’re going to clamp down on NAFTA unless you fix your problem.” And this would get these countries to fix their problems because they care about something like NAFTA because they make a lot of money off of it. Money moves things. So that’s one thing.
+
+Another one is considering — there are sanctions that they put to individuals. The US has done these things where certain individuals, they just consider them so corrupt that they’re like, “Sorry, you cannot enter this country anymore. We don’t even want you to come visit — a shopping trip to Miami or whatever. No, no. We don’t want that.”
+
+Crazy story. Some of the highest government officials in Guatemala, including our attorney general, is banned from entering the United States because they’re considered so corrupt. Applying more of that. That actually has real teeth. And in particular, applying that to corrupt businesspeople because they all love their nice mansion in Miami. I bring up Miami because Latin Americans love Miami. They love having mansions there. They all have their nice mansion in Miami, et cetera. If suddenly they cannot come to the US, that’s bad and it looks bad for their kids because their kids, they love to come to Miami and their kids’ friends love — so this is the type of stuff that I think has teeth that the US can do.
+
+Tim Ferriss: Well, thank you Luis. I did not see that coming and I’m glad you brought it up. Is there — 
+
+Luis von Ahn: I thought about this problem a lot. I thought about this.
+
+Tim Ferriss: Yeah.
+
+Luis von Ahn: I poured millions of dollars to try to improve. I own a good fraction of the oldest running newspaper in Guatemala and we do a lot of stuff against corruption. So I’ve poured a lot of money onto this, but unfortunately — I think the corruption problem in Guatemala could be solved with some money, but I think it’s billions of dollars. Unfortunately, I have not dropped that amount. But I put in millions of dollars to try to fix this.
+
+Tim Ferriss: What I might do is ask you, after we stop this recording, we’ll get maybe a few links for policymakers who may be interested in learning more about this and the different resources they might want to educate themselves on, whether it’s trade agreements or otherwise. So we’ll get some links and put those in the show notes as well. And Luis, thank you for making the time. It’s nice to see you, man. It’s been a little while and for those who you can’t see the video, I appreciate the Matrix-like background that you have as well. It’s very compelling.
+
+Luis von Ahn: Thank you, Tim. I’m in a great studio here near the Duolingo offices.
+
+Tim Ferriss: And hope to see you in person not too long from now. So maybe we can, next time you’re in New York City, we can figure out a way to break some bread or have a drink.
+
+Luis von Ahn: I would love that. If you’re in New York City, I’m there very often. I would love that.
+
+Tim Ferriss: All right. Wonderful. Well, Luis, thank you so much. And I always enjoy our conversations. As I mentioned before, people can find you @LuisvonAhn on Twitter, Duolingo.com, and we’ll link to everything in the show notes at tim.blog/podcast. And to everyone listening, be just a little kinder than necessary today. And thank you so much for tuning in and until next time. Take care.
+
+
+TAGS
+LUIS VON AHN
+	

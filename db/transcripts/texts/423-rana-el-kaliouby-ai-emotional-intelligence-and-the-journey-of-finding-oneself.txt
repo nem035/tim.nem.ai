@@ -1,0 +1,448 @@
+
+
+MAY 13, 2020 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Rana el Kaliouby — AI, Emotional Intelligence, and the Journey of Finding Oneself (#423)
+
+
+Please enjoy this transcript of my interview with Rana el Kaliouby, PhD (@Kaliouby), co-founder and CEO of Affectiva and author of the new book Girl Decoded: A Scientist’s Quest to Reclaim Our Humanity by Bringing Emotional Intelligence to Technology.
+
+A passionate advocate for humanizing technology, ethics in AI, and diversity, Rana has been recognized on Fortune magazine’s 40 Under 40 list and as one of Forbes magazine’s Top 50 Women in Tech. Rana is a World Economic Forum Young Global Leader and a newly minted Young Presidents’ Organization member. She co-hosted the PBS series NOVA Wonders, and appears in the YouTube Originals Series The Age of A.I., hosted by Robert Downey, Jr.
+
+Rana holds a PhD from the University of Cambridge and did her postdoctoral research at MIT. Transcripts may contain a few typos—with some episodes lasting 2+ hours, it can be difficult to catch minor errors.
+
+
+#423: Rana el Kaliouby — AI, Emotional Intelligence, and The Journey of Finding Oneself
+
+
+
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show. This episode has video if you want to check it out on youtube.com/TimFerriss, but audio only will still work and I’ll keep this intro short. I’m going to jump straight to the guest. My guest today is a pioneer in Emotion AI — we’ll define what that means — Rana el Kaliouby, Ph.D., who is also Co-Founder and CEO of Affectiva, and author of the new book Girl Decoded: A Scientist’s Quest to Reclaim Our Humanity by Bringing Emotional Intelligence to Technology.
+
+A passionate advocate for humanizing technology, ethics in AI, and diversity, Rana has been recognized on Fortune’s 40 Under 40 list and as one of Forbes’ Top 50 Women in Tech. Rana is a World Economic Forum Young Global Leader and co-hosted a PBS NOVA series Wonders and she’s also appeared on and appears in the YouTube original series The Age of AI hosted by Robert Downey Jr. Rana holds a Ph.D. from the University of Cambridge and a Post Doctorate from MIT. You can find her on LinkedIn, Kaliouby, Twitter @Kaliouby, K-A-L-I-O-U-B-Y, by the way, Instagram @ranaelkaliouby, website, ranaelkaliouby.com. Rana, welcome to the show.
+
+Rana el Kaliouby: Thank you for having me. I’m excited.
+
+Tim Ferriss: I am excited to have you on and we have so much ground to cover and I thought I would begin with a question that will hopefully open up a whole different doors — a whole different set of doors, I think, is the proper English expression — that we could potentially walk through. It’s related to a book. This is Affective Computing. Correct me if I’m getting any of the pronunciation wrong by Rosalind Picard, P-I-C-A-R-D. How did this book come into your life?
+
+Rana el Kaliouby: I am Egyptian, so I grew up in Cairo and around the Middle East. But at the time, this is like 1998, I had just graduated from computer science from the American University in Cairo. My career plan at the time was to become faculty, like I really wanted to teach. And so I knew to teach, I had to do my masters and PhD. It was all very calculated. And so I was looking for a thesis topic and my fiance at the time went on Amazon and he said, “Oh, there’s this really interesting book by this MIT professor called Rosalind Picard called Affective Computing.”
+
+We ordered it through Amazon. It took about three months to ship to Cairo. It got held in customs for reasons I don’t really understand, but eventually I got hold of the book and I read it and I think it’s safe to say that it changed my life because — the thesis in the book is that computers need to understand human emotions just the way people do. I read the book and I was just fascinated by this idea. I made that my research topic and it became my obsession and it just really changed the trajectory of my life.
+
+Tim Ferriss: What besides the thesis in the book had such an impact on you, or was it just that worldview, that perspective, or was there more to the book or more to the author?
+
+Rana el Kaliouby: Yeah, that’s a great question. Let’s talk about the author first. Roz is one of the few, and I mean this was true back then, it’s still true today, she’s one of the few kind of female computer science, machine learning engineers, professors in the space. I kind of learned about her over the years. Actually she ended up being my co-founder many years later and there’s a story around that. But essentially I was just fascinated by her. She’s a mom. She has three boys. I just thought she was a rock star. So that was kind of one part of it.
+
+But just the way she wrote the book and how she — I’m very expressive as a human being and I just really like, I think emotions really matter and the way we communicate nonverbally is very important. It struck me that when we think of technology, that piece of how we communicate is completely missing. And I was like, “Oh, yeah. It seems so obvious.” So I just got fascinated by the thesis. I got fascinated by the implications, like what happens when technology becomes kind of clued into how we communicate. That’s going to open up a whole new world of possibilities, and I was intrigued by that.
+
+Tim Ferriss: So let’s travel back to that point in time. You were with your then-fiance and this book is ordered. At the time you’re planning on becoming a teacher, a professor. Why were you on that track to begin with? I mean, take us back to Egypt at that time. Were there many women striving to be faculty members in similar departments? I’m assuming computer science or perhaps it was a different department. Maybe you could tell us more.
+
+Rana el Kaliouby: Yeah. I went to the American University in Cairo and I studied computer science as an undergrad. At the time, most of the faculty were guys except for one female faculty, Dr. Hoda Hosny, which became my role model and my mentor. I just wanted to be like her. She was awesome. She was very smart, very approachable, very fashionable. I was like, “Ooh, I like that.” I just wanted to be like her. And so I devised a plan. And I was also — I mean, I’m a geek. I’m a geek and I’m proud of it. I kind of devised a plan. I was like, “So I’ll graduate top of my class,” which I did. And then I was like, “Okay, I’ll go get a master’s and PhD abroad because that’s what you do, and then I’ll come back and I’ll join the faculty.”
+
+And so, at the time, because I was getting married to my fiance and he had a company based in Cairo, coming to the US was not an option because it was way too far. So he was like, “I’ll let you go study in the UK because it’s kind of close enough.” So I applied to Cambridge and got in. That was kind of the impetus for going abroad and focusing on this research.
+
+Tim Ferriss: When did you then end up going to the US, was that a difficult conversation with your family or your then-fiance? Walk us through how that happened because it doesn’t sound like that would have been just a hop, skip, and a jump, two-second conversation. Walk us through that experience.
+
+Rana el Kaliouby: Yeah. Okay. So then I moved to Cambridge University in the UK, not Cambridge, Massachusetts.
+
+Tim Ferriss: The real Cambridge, you mean.
+
+Rana el Kaliouby: The real Cambridge, the original Cambridge. I got married. Basically, I got married and then got the scholarship to go study at Cambridge and my husband — so he’s now my husband, right? Well, he’s my ex now, but at the time he was my husband. He was very supportive. He was like, “You’ve got to go. This is your dream. I’ll support you. We’ll have a long-distance relationship.” Now my family — my parents and his parents — were horrified. They were like, “What! You can’t do that.” So I do like to give him credit for making this happen and being supportive.
+
+I ended up in Cambridge and he was in Cairo. We did that for five years and towards the end of my PhD, Roz Picard was visiting Cambridge, UK, to give a talk there and I ended up meeting her in person and we totally hit it off. She said, “Why don’t you come work with me at MIT as a postdoc?” And I was like, “Oh my God, this is a dream come true. I’ve been following you forever and this is why…” I told her my story. But then I caveated and I said, “Just you know I’ve been married for the last five years and have had a long-distance relationship, so I have to go back to Cairo. Otherwise…” And I actually really said that, I said, “Otherwise, in Islam, because I’m Muslim, my husband can marry up to four women and if I don’t show up eventually he’ll just marry more women.” I said it half-jokingly, right? She was like, “That’s fine. Just commute from Cairo.” And so I commuted from Cairo to Boston for a good three or four years going back and forth between MIT and Cairo.
+
+Tim Ferriss: How often did you go back and forth? Or how often did you go back to Cairo, maybe is a better way to ask it.
+
+Rana el Kaliouby: Initially I would spend a couple of months in Cairo and then go spend a few weeks in Boston and then I would move with my kids to Boston over the summer. The summer break we’d just all go there. Initially that was okay. This was between 2006 to 2009. It was okay. Things began to kind of really fall apart when I decided to start the company. At MIT we started to get a lot of interest in the technology. This being MIT, they really encourage you to spin out, right?
+
+In 2009 she and I started Affectiva. I was literally spending two weeks in Cairo, two weeks in Boston, two weeks in Cairo, two weeks in Boston. It was insane. That was when like, just, it was out of balance. Everything was out of balance. It was tough. I’m divorced now, so you can imagine how that didn’t go very well. It was just — I think in retrospect it was just not a very healthy lifestyle. Yeah, I wouldn’t want to be in that place again. I wouldn’t want others to be in that, like talk publicly about that time. Yeah.
+
+Tim Ferriss: Yeah. It sounds difficult. Sounds like it would have been very difficult. Well, let’s hop around chronologically a little bit. We’re going to come back of course to starting the company and that decision. But for people who don’t have any real first-hand exposure to the Middle East, much less Egypt for instance, what was it like growing up in Egypt, and based on at least some of my reading, you for instance wore a hijab for quite some time and we’re not talking a short period of time. Maybe you could also speak to that.
+
+Rana el Kaliouby: Yeah. And it sounds like you’ve spent some time in — you’ve been to Jordan. It sounds like you’ve spent a little bit of time.
+
+Tim Ferriss: I’ve spent some time in Jordan. I’ve spent some time in a few places in the Middle East, but not in Egypt. Never made it to Egypt. We chatted a little bit before we started recording and I only have a few words here and there in Arabic, but it’s Levantine Arabic, right? It’s what you would run across in Jordan or Lebanon. And I remember though, having many people recommend that I not study the sort of standard Arabic, textbook Arabic, but that I study Egyptian Arabic because as they put all the entertainment and movies that I might want to consume would be in Egyptian Arabic. Needless to say, I didn’t get that far, but I haven’t spent any time in Egypt.
+
+Rana el Kaliouby: Well, your Arabic’s pretty good and you’re right about the Egyptian accent. That’s kind of the most common. But I think the key thing is there’s no one Middle East and there’s no one form. I grew up in a family that’s kind of in an interesting way quite conservative but also quite liberal. My parents were very pro-education. They sent us to the — they put all their money towards our schooling and they made a point during the summers that we travel abroad and experience kind of other cultures. I think that’s why I was so comfortable moving from one country to another and ending up in the United States. I tried to — 
+
+Tim Ferriss: Sorry to interject, but what did your parents do professionally?
+
+Rana el Kaliouby: My parents met — so my dad taught computer programming in the ’70s and my mom was probably the first female programmer in the Middle East. She attended his class and he hit on her and they ended up getting married. So I guess I should give them a little bit of credit for ending up being a computer scientist. I’m sure they had something to do with that. So they both, my mom was a computer programmer at the National Bank of Kuwait. So we were in Kuwait for a while. My dad is, he’s always worked in technology.
+
+Tim Ferriss: And culturally, what was it like where you grew up or within the family? You said that they were, for instance, on one hand very, I’m not sure what the right, cosmopolitan perhaps in their perspective and drive related to education. What were the other ingredients in the household?
+
+Rana el Kaliouby: There was definitely clear gender roles. Even though my mom worked her entire life, it was always, she was not allowed to ever talk about her job post — she would leave work at 3:00 p.m., be home like whatever, 4:00 p.m. when we got back from school, and that was it. She was never allowed to take a conference call at home in the evening, never allowed to travel for work. I didn’t realize that until I was an adult. I just assumed this was the way it was. But it did hamper her career progression. And it was this implicit understanding that this is your role, this is my role, and we all stick in our lanes. So that was interesting.
+
+We were, for example, I have two younger sisters, so we’re three daughters. I was not allowed to date until after college. Very, very strict. I basically married the first guy I met, right? That’s interesting. I have a debate with my 16-year-old daughter right now who’s a junior in high school about — she’s like, “But Mom, we’re in the US now. Like, that’s a different set of rules.” Anyways, so there’s that too, right? So it’s kind of interesting, right? Very strict, very conservative, but also “Go kick ass” kind of thing.
+
+Tim Ferriss: How did you relate to, for instance, the not dating until college. I think that’s what you just said, if I’m remembering correctly. At the time, were you accepting of that, resistant to that? Did you embrace that? How did you relate to it at the time?
+
+Rana el Kaliouby: I was like, I called myself a nice Egyptian girl. I never challenged my parents. It’s the weirdest thing. Lots of trust. They trusted me, I trusted them. I never challenged the rules. I just was super obedient and I was always looking for the gold star, right? I was the gold star daughter. Yeah. And so now I’m kind of trying to redefine what that really means.
+
+Tim Ferriss: And for people who are maybe thinking to themselves, “I can’t believe Tim asked about a hijab. That’s so stereotypical. How dare he?” First of all, it’s based on my own research and reading in preparation for this conversation. Could you speak to, as I understand it, your decision to wear a hijab and when you wore it and why you stopped?
+
+Rana el Kaliouby: Yes. This is actually like — I’m glad you asked that because a lot of people just assume that I was forced to wear it. I was actually one of the first women in my family to decide to put it on. And so, even my family were like, “Really, you’re going to wear a hijab?” And I did that because it was a time in my life where I became very religious and very spiritual. I wanted to do it and I asked — 
+
+Tim Ferriss: How old were you at the time?
+
+Rana el Kaliouby: I was probably in my 20s. Yeah, of course. This was 22 or 23. Just gotten married, was just about to move to Cambridge, and I decided. Actually what happened is one of my dad’s really close friends got a heart attack and just died unexpectedly. I don’t know, it just really hit me. So I decided to put it on and I wore it for 12 years through Cambridge, through MIT. And then in 2012 came a whole host of factors, right? When I first wore it actually and moved to Cambridge, that was during September 11th.
+
+My parents thought I was like this Muslim in the UK. They were concerned for my safety. And so I actually switched the hijab for a hat. I wore a hat for a few months in Cambridge. It was really — because you’re supposed to wear it everywhere. So I would show up to class in hats and just like, it was really awkward. And then I just decided to go back to my hijab. And I think people were often always respectful. I never felt discriminated against and I just felt like people were curious, right? Like I got all sorts of interesting questions. But yeah, 2012 I decided to take it off.
+
+Tim Ferriss: What was the host of factors, if you don’t mind me prying a little bit? What suddenly, or not so suddenly, maybe it was over a period of time, but what were the things that prompted you taking it off?
+
+Rana el Kaliouby: I think at the time I was doing the commute between Boston and Cairo, right? I don’t know, I realized that the closest people, my closest friends and my closest contacts in the US were not Muslims, but they were awesome people and we shared the same core values, right? Yeah, maybe they didn’t pray five times a day, but they were very honest, high integrity, hardworking, like all of the things I cared about. And so I just started thinking all the assumptions around religion and acceptance of the other. I don’t know, I just had a ton of questions. That was one factor.
+
+And then the political situation in Egypt was quite challenging. That was at the time where the Muslim Brotherhood were taking over and they were rolling back all of the women’s rights and all of that. And so I was like, “Ooh, that’s not my Islam. That’s not what I subscribe to.” And I was going through the divorce and it just felt like I needed a Rana 2.0. It just didn’t feel like me anymore. I just wanted to feel and look cool.
+
+It’s quite actually controversial to take it off. And so I was really, really scared what people around me would think. So there was a lot of fear. It took a lot of courage to take that step. But yeah, I did it and I would just tell people “It’s the same me,” right? I didn’t really fundamentally change at the core.
+
+Tim Ferriss: Sure. Thank you for answering that. I think it’s so important. We’re going to get, of course, I mean very quickly. In fact, we’re going to jump around a bit stochastically here. I’m sure I’m using that word incorrectly, but nonetheless here we go. But I really find that at least these types of conversations with longer format allow you to begin to understand the connective tissue and sort of sub currents that have formed people as they then turn into these people on the marquee who are doing these incredible things professionally. So I appreciate you sharing and I think it’s important to have that background.
+
+Let’s talk about the — one of many things that jumped out at me as I was prepping for this and I know that this is not in order, but using, if I’m getting this correct, Emotion AI or affective, let’s see if I can get this correctly, computing to help those with autism or who are on the spectrum of I guess it’d be, this is going to sound redundant, but autistic spectrum disorder. I’m not sure what the proper kind of DSM terminology is right now. I would love to get there, but on the way there, could you just define what artificial intelligence is for those who may be confused because it’s used so frequently, often misused, in the context of what you do. And then what we’re going to be talking about is one example of that. What is artificial intelligence?
+
+Rana el Kaliouby: Artificial intelligence is this field of study that is trying to replicate human intelligence, right? But if you look at human intelligence — and then there’s ways to affect that. So for example, machine learning is a subcategory within the field of computer science, which allows you to implement artificial intelligence. So it’s kind of a mechanism to get you to artificial intelligence. Now, there’s all sorts of forms of artificial intelligence. The part that I find the most exciting is this idea that, okay, if you look at human intelligence, we have IQ, which is your cognitive intelligence and of course it’s really important. But we also know from years and years of research that your emotional intelligence is equally important.
+
+People who have higher EQs or emotion quotients, they’re just more likable people. They’re more persuasive. You can get them to follow you and get inspired. And actually people with higher EQs are just better partners and they’re better leaders and everything. So I think that this is true for technology that interacts with people as well. So it’s not just — so I think technology that’s like interacting with us on a day-to-day basis, like your device or social robot or Siri or whatever, Alexa, need to have both IQ and EQ. And the conversation has always focused very heavily on the IQ and I’m an advocate for bringing EQ into the equation.
+
+Tim Ferriss: Let’s use that as a segue. The technology that you ended up working on as it relates to autism and many other things, how did that come about and what form did it take?
+
+Rana el Kaliouby: When I first got to Cambridge, so here I was, I was like a new bride, just like my first experience living away from my family and I get to Cambridge and I just focus on work, on coding. And so I had this aha moment that, Oh my God, I was spending more time on my laptop than I was with any other person. But this laptop was completely oblivious to how I was feeling, right? But I think even worse, I had this realization that a lot of our communication is mediated through technology.
+
+Often the most kind of ubiquitous form of communication is actually through text, which if you look at how humans communicate, less than 10 percent of how we communicate is text, is the words we use. 90 percent is nonverbal. Facial expressions, hand gestures, vocal intonations, and all of that I felt just got lost in how I communicated, particularly with my husband at the time. I just felt like I wanted to change that. So I wanted to build Emotion AI to make human-computer interfaces better. But ultimately it’s all about human connection. I want to make sure that as we move to a more digital universe, we’re not losing our EQ, right? We still can reserve and even maybe augment our emotional intelligence.
+
+And this is where autism came in because it was a clear example. It’s almost an extreme example of people who struggle with EQ and where technology could be a hearing aid. People wear hearing aids to augment their hearing. And I was like, what if you could build an emotional prosthetic that could help augment your EQ? Yeah. So that was like — well, it looked like Google Glass. This was before Google Glass existed. So say I have autism, I would put on these glasses, they had little cameras, the camera would point outward at whoever I was interacting with, so say I’m talking to you and it would say, “Oh, Tim looks really interested in what you’re saying. He’s nodding his head.” Or, “Tim looks bored to death. Maybe you should stop talking and ask a question or something.” You don’t look like you’re bored to death, I hope.
+
+Tim Ferriss: I hope not. That sort of thousand-yard stare, like dumb deer look is just my standard. So don’t take it personally.
+
+Rana el Kaliouby: So it would analyze people’s expressions in real-time and feed the kids real-time feedback and it would give them almost positive reinforcement every time they even looked at a face because individuals on the autism spectrum find it really, really hard to even engage in a face-to-face conversation because it’s so overwhelming.
+
+Tim Ferriss: And this would be visual feedback on the lens of the glasses that they would see or was it audio feedback? What type of feedback did they receive?
+
+Rana el Kaliouby: This was back in 2006, so it was even before smart — it was really early on. We had the feedback be auditory through a Bluetooth kind of like headset or whatever, ear pods. But now we work with a company called Brain Power and they actually use Google Glass and our technology and the feedback is visual through the Google Glass heads-up display.
+
+Tim Ferriss: This is fascinating to me on so many levels. One expression that jumped to mind as you were describing autism, and just for simplicity we’ll use the term autism being an extreme case to study. It comes from, I want to think a documentary called Objectified about design and industrial design. And there’s an expression that I want to say someone from frog Design used and that is “The extremes inform the mean but not vice versa.”
+
+Rana el Kaliouby: Interesting.
+
+Tim Ferriss: In the sense that by starting with the extreme cases, so in this case in the doc, it was designing, I think, hedge clippers or something for say, the paraplegic and the morbidly obese. If you solve for those edge cases then you’ll find applications for the people in the middle. This use of technology with people with an autism diagnosis is interesting to me first for that. Just that corollary. And then second, I’d love to know if you observed any learning curve that carried over to non-augmented reality in the sense that, did you observe anyone with autism after being given positive feedback for certain behaviors, right? If we’re looking at sort of shaping of behavior, did you see that carry over, or were they much like someone with a hearing aid, dependent on the hearing aid?
+
+Rana el Kaliouby: That is the key question. We totally saw improvement in the kids we were working with while they wore the device. We didn’t get round to testing through this particular grant whether this learning generalized beyond the device, but this is what Brain Power, this company is totally focused on. So they’ve now deployed about 400 of these Google Glass devices and the key question is, is this an augmentation device or is it a learning device and can you learn off of it? I don’t know the answer to that. It’s still very early days.
+
+Tim Ferriss: I would, I mean, this is pure speculation on my part, which is maybe irresponsible because obviously the studies need to be done. But I would imagine I’d be very surprised if there isn’t some degree of carryover assuming that working memory and memory consolidation and these various things are functioning in these subjects, I’d be astonished if there weren’t some degree of carryover. I mean, if they can understand the feedback loop, it would certainly imply to me if they’ve — 
+
+Rana el Kaliouby: Right. Once you get that feedback loop working. I think you’re right. I mean, there are like —  I’ll never forget this. One of the kids who we worked with at the school in Providence, he would never make any face eye contact with me. And this one particular day after six months of this training program, he lowers, he had this iPad between me and him and then he lowered it and he made direct eye contact and it was just this powerful moment of human connection. I don’t think you can unlearn that or undo that. Do you know what I mean? I’m sure for him, I hope for him he can build on that.
+
+Tim Ferriss: Yeah. Amazing. Well, I can’t wait to see what comes to that as they deploy more units and gather more data. When did you — oh, sorry. Go ahead.
+
+Rana el Kaliouby: Well, I was going to ask you, because it’s kind of an adjacent area, but I don’t know if you were planning to go there at some point. The applications generally to mental health, right?
+
+Tim Ferriss: Yeah, let’s talk about — 
+
+Rana el Kaliouby: Like depression. Because that’s an area that I’m very passionate about and I feel like this technology can really help.
+
+Tim Ferriss: Well, let’s jump right into it. I think that’s a great place to go. Where is this being deployed or where could it be deployed? And we could focus on the mental health if you want to focus on that first. We could certainly touch on that first.
+
+Rana el Kaliouby: Just because, I mean it’s not directly related to autism, but it was this realization that, oh my goodness, in the mental health space, the gold standard. When you go to a doctor today, they don’t ask you like, “Tim, what’s your temperature or blood pressure?” They just measure it, right? But in mental health, the gold standard is still a survey. On a scale from one to 10, how depressed are you? Are you six or eight? Or how suicidal are you? And that’s like how accurate that will be.
+
+Tim Ferriss: How do you answer that, right?
+
+Rana el Kaliouby: Right. And also you see a doctor like what? Once a week. Like what happens in all the instances when you’re not with that person? That’s really powerful data, right? I feel like this kind of technology — and then the other piece of it is we’re always on our devices. So that’s an opportunity to collect your baseline and then know if you deviate from it because we know that there are very strong facial and vocal biomarkers of things like depression and suicidal intent in Parkinson’s. So I feel very strongly that there are applications where this technology can just bring objective data to quantifying these things.
+
+Tim Ferriss: I bet. That strikes me as so important, as you noted, because we’re really still in the Stone Age when it comes to psychiatric diagnostics related to most of what we would consider mental health or mental health disorders, right? What you’re describing allows you to gather a baseline over time, right? Longitudinally you can gather a tremendous amount of data because my baseline is going to be different from half the people I met in Silicon Valley who were bordering on the spectrum or on the spectrum. I mean, the facial expression baseline and the tonality baseline is going to be very different. So you need, much like you would with blood tests and biomarkers, you need to know what your baseline range is and as you mentioned, surveys are so problematic.
+
+I remember recently I did a number of experiments where these were with sort of biochemical interventions. It’s a long story that I won’t get into right now, but in the first session, they said, “Well, from zero to 10, how anxious are you feeling?” I said, “I have literally no idea how to answer that.” But I know I’m going to be coming in for five sessions, so I’m going to give you a five now and then the next time I come in, at least we can figure out if I’m feeling more or less. If I start at a two then where am I going to go if I’m feeling less anxious? So let me start with a five. But it becomes very muddy, right? It kind of — 
+
+Rana el Kaliouby: And cognitive. You’ve thought through, like it’s not really how anxious, it’s you kind of —
+
+Tim Ferriss: Yeah, I’m verbalizing the whole thing. So that’s exciting. What other applications are you most excited about? And is it mostly focused on recognition of facial characteristics at this point?
+
+Rana el Kaliouby: I mean, yeah, our main product is basically mapping your, like using computer vision to understand what your face is saying. We’ve also added voice, like vocal intonations as well. It’s a quite complex problem as I’m sure you would imagine, right? I’m sure we can think of situations where you’ve misread people’s facial expressions, right? So it’s not just about detecting a smile, it’s like what type of smile? What else is happening on the face? Are you furrowing your eyebrows? Are you squinting, are you’re smirking? All of that. The idea is to take all of that information and infer how’s the person feeling or what are they thinking?
+
+And the applications, I mean, we’re focused — as a company, we’re focused on two particular industries. One is a market research, so just kind of trying to understand how do consumers emotionally engage with products and services and content. So when they listen to your podcast, are they rolling their eyes or are they like —
+
+Tim Ferriss: That’s 50 percent, for sure.
+
+Rana el Kaliouby: But how are they emotionally engaging with content? That’s a key question. And that of course drives a lot of consumer behavior, like word of mouth or purchase decisions and things like that. So that’s one area. And then the other area where we’re very focused on is the automotive industry. So detecting things like driver fatigue, if you’re texting while driving, or distraction. And then there’s applications in the robo-taxi world when we get there.
+
+Tim Ferriss: Robo-taxi meaning autonomous vehicles or?
+
+Rana el Kaliouby: Yes. Yes, yes, yes.
+
+Tim Ferriss: Okay. We’re going to come back to autonomous in a minute, but have you had companies or people reach out to you for, for instance, analysis of microexpressions, if that’s even a real term, I’ve heard it used, related to truth versus lying? And the reason I ask is that I have a friend who I went to school with, so a classmate who ended up working with former people from the intelligence community at a firm, and their sole job is to watch political announcements, earnings announcements, et cetera, to try to parse as humans what they believe is true and what they believe is untrue.
+
+And there are companies that pay and I’m sure governments that pay lots of money for their interpretation. But you might say to yourself, well, that’s interesting also because at one point in time, humans were the best chess players in the world, now computers are. Have you had people reach out to you for those types of applications?
+
+Rana el Kaliouby: The answer is yes. First of all, microexpressions is a real term and it represents — when you’re lying, basically there’s this leak, like a facial expression leak. It’s usually a very short-lived, subtle, fleeting facial expression, like an eye twitch or a lip twitch. And with the right frame rate, like if you’re using a high-speed camera, you can actually detect that, right? Our technology can totally do that today. Now, that doesn’t mean that we do that. We’re very values-driven. Our first use case was autism. And I think the whole, not I think, the whole thesis of the company and my mission is to just bridge the connection gap between people.
+
+And so we have very clear values around opt-in and privacy. And so we’ve turned millions and millions of dollars of potential funding and business basically from the government that wanted us to pivot towards this lie detection and surveillance universe. Sometimes it was hard. There was a time when we almost ran out of money as a company and we had this opportunity to take almost $40 million from an intelligence agency. We have to think hard about it because we didn’t know if we had an alternative so it could have meant the end of this whole Affectiva journey. But it’s not at all why we started the company and it did not match our North Star and I just — anyways, we veered away from that and we were able to raise less money, but from investors who we felt shared our vision for where we could take this.
+
+Tim Ferriss: Well, I commend you for that and that’s hard as hell to do especially when you might face an existential financial threat as a startup.
+
+Rana el Kaliouby: Exactly.
+
+Tim Ferriss: I suspect we’ll probably come back to this sort of light versus dark utopian versus dystopian later. We might not. But I can park that for a second to come back to autonomous and we’re not going to belabor autonomous, but I find autonomous cars, meaning self-driving cars, an interesting thought exercise because I think this is a good time to hop back to autonomous vehicles, self-driving cars. That is in part because from my understanding, and I’m not a computer scientist, but speaking to people in Silicon Valley when I was there and certainly speaking to technologists now, that many of the questions that used to be thought exercises and say, philosophy classes, epistemology 101, et cetera or ethics 101, the trolley scenario where you have to choose between killing one person of one type or five people of another type, let’s just say five elderly versus one school child, et cetera.
+
+These types of decisions are now decisions that on some level need to actually be thought about, encoded into how a vehicle behaves. I bring that up because in some respects I suppose many people would think of emotions as not necessarily the final frontier, but something that seems innately human, difficult for computers to understand. And so I wonder, what have you learned in trying to teach computers how to understand emotions or view emotions about your own emotions? How’s that impacted, if at all, how you relate to your own emotions or expression?
+
+Rana el Kaliouby: Yeah, a lot. By the way, I was not expecting that to be the question. I thought it was going to be an autonomous vehicles question.
+
+Tim Ferriss: It was a bit of a left-turn!
+
+Rana el Kaliouby: No, it’s great.
+
+Tim Ferriss: It’s not the perfect segue, but we’ll work with it.
+
+Rana el Kaliouby: Yeah. It’s been tough because I just shut out my emotions for the long — I mean, it’s really ironic, but I just grew up in a very like, we work hard, we like no nonsense. And so, I just shut out my emotions and I didn’t acknowledge it to others. So I always looked like I was strong and always bubbly and happy and just never ever shared or showed my true emotions. But I also think it’s even worse than that. I think I never acknowledged my own emotions to myself until quite recently actually. When I was going through a divorce and moving to the United States with my kids as a single mom and starting the company, there was just a lot going on and I took on journaling.
+
+I journal a lot and that’s where I started just really embracing my emotions, like the good and the bad and the ugly, right? I’m just getting it all out there. I just learned a lot about what it looks like and what it feels like to have these emotions. And so in a really interesting way, this journey of figuring out how to teach machines kind of a range of emotions is also a personal journey for me to learn about my own emotions and accept them and even share them with others.
+
+I’ve kind of made a 360 or 180, whatever, where I started as being this kind of very like, there’s always walls and barriers around me and now I’m taking those down and I feel like — it’s been amazing because when you share with people, people reciprocate. And what I often felt like, “Oh, nobody else in the universe feels the same way,” I’m wrong. When I share, people are like, “Oh, my God, this resonates so much with me. I’ve been through something similar.” And just this builds this amazing connection. So yeah, I don’t know if that answers your question.
+
+Tim Ferriss: No, it does. What do you think are — and we’re going to come back to journaling for sure. What are any misconceptions that people have about emotion? I don’t know if there are any, but how would you respond to that?
+
+Rana el Kaliouby: Yeah. When we first started Affectiva, Roz and I were out raising money for the company, right? And so we were these two women scientists raising money from a male-dominated Silicon Valley, which is where we did most of our pitching, and we were pitching an emotion company.
+
+Tim Ferriss: Yeah. Sand Hill Road, lots of blue button-downs.
+
+Rana el Kaliouby: Exactly. And so we would avoid using the word “emotion” at any cost. That’s why we actually called the company Affectiva, because affect is a synonym for emotion, but it doesn’t have the same kind of feministic connotations of emotion, like who needs emotions? And so we would avoid talking about it like ever. It’s the E word. You never bring up the E word. But I think the world has moved from that point. I mean, this was 20 years ago. Well, I started researching in this space 20 years ago. We started Affectiva 10 years ago. I think now there’s more realization that emotions matter, emotions drive our decisions in good ways and sometimes irrational ways. Emotions are at the center of how we empathize and connect and learn and memory, right? I think I do actually realize businesses, but also just the average drill, has more respect for emotions. So that’s been good.
+
+Tim Ferriss: Let’s talk about Sand Hill Road for a second. I’ll describe Sand Hill Road for folks who might not know it, and why would you know it unless you’ve spent time near it? Sand Hill Road, if you can imagine Silicon Valley as a city, which it isn’t. It’s an entire area. But let’s just pretend it’s a city. And then there is a gated community where the masters of finance live and they’re kind of like the Iron Bank in Game of Thrones. If you want money, chances are, at least this was certainly true in the ’90s, and the early 2000s it spread out more. There were more financial options. But if you want the highest density of people who can write big checks and who have prestigious firm names, then Sand Hill Road is this one spot where you have just office next to office next to office next to office next to office. Based on some of my reading you also, I don’t know at what point, but had your son Adam with you, right?
+
+Rana el Kaliouby: Right.
+
+Tim Ferriss: And so I would love for you to speak to what that experience was like, number one, and then number two, what worked in the pitch or what did you find actually grabbed people? Was it in the pitch or in the deck, whatever you might remember from the presentation that worked.
+
+Rana el Kaliouby: I remember. Okay. This is 2009 and I decide we must be getting so much commercial interest in the technology. And so I originally thought the solution was to just hire more PhD students in the lab. The lab director at the time, Frank Moss, said, “No, no, no. This is not research anymore. You’ve got to leave the lab, like start a company.” So we put together a pitch deck and we were very lucky, we had a lot of mentors at MIT who would poke at it and say, “No, no, no. This doesn’t work. Iterate. Dah, dah, dah.” Anyways, we were eventually ready and in the fall of 2009, we headed to the Bay Area to do our Sand Hill Road show.
+
+I mean, we were able to get all the meetings we wanted, so that was great. But I showed up with my six-month-old son, Adam. We had lined up a babysitter to take him on during the day when we were presenting. But this one particular day she bailed on me. She called me in the morning. She’s like, “I’m not feeling well. Can’t take him.” I’m like, “What?” You’re not going to ditch an investor meeting. So I show up with him in the car seat and I walk in and there was this very nice-looking, kind of kind-looking assistant at the front desk. I said, “Hey, can you keep an eye on him? He’s a really good baby. We’re just going to go have the meeting inside.” She didn’t have an option, really. Like I wasn’t asking her for permission. I was like, “Here you go, take him.”
+
+It was good. It worked out. He was well-behaved, I mean. So you just make it work, right? Actually we hired our first CEO that way too. We had dinner with this guy who, again, in the Bay Area. Same trip, Bay Area. It was an introduction through one of our potential investors. I showed up with Adam and I was like, “Do you mind? I don’t know where to leave him.” And he was like, “No, it’s fine. I have three boys. It’s okay.” And so I was like, okay, he’s a good guy. We’re going to hire you. So that was that. I just had to make it work, right?
+
+And then on the pitch, like what worked for the pitch, we had live demos of the technology. We would show up with an actual live device that could measure your emotions. It would track your expressions in real-time so you would see a real-time kind of readout of your facial expressions. And we always, always, I mean, people were just fascinated by the technology. They didn’t know it existed. It would always open up people’s minds to potential applications. People would say, “Oh, have you thought about using it in retail or automotive or dating?” It would just get people’s creative juices flowing.
+
+So I think that worked, but I don’t think that it was enough to get people over the, “Oh my God, you are so different.” Everything is so different, right? Like women scientists, I wore the hijab at the time, emotions, it was too alien, I think. So it was tough. We got a lot of nos.
+
+Tim Ferriss: Yeah. So you got a lot of nos. Who, if you’re comfortable saying, I have no idea, but I would imagine it’s somewhere in the public record. Who ended up saying yes and why do you think they said yes instead of all — 
+
+Rana el Kaliouby: The nos.
+
+Tim Ferriss: In contrast to all the nos?
+
+Rana el Kaliouby: Our very first check came from the Wallenberg Family of Sweden. Very wealthy family, very philanthropic and just had a lot of active investments. The main person there, Peter Wallenberg, knew Roz from before and had basically told her, “Anytime you need money, just call me up.” So she did that, he invested. But we were able to raise money from Kleiner Perkins. So Mary Meeker was on our board for a while. She was awesome. We did end up raising money from Silicon Valley essentially.
+
+Tim Ferriss: Well, not just Silicon Valley, but for people who don’t know, Kleiner Perkins is considered one of the blue chips. And I mean that’s top tier.
+
+Rana el Kaliouby: Yup. And at the time they had just made their investment in Spotify and they could really see how your emotions and understanding your emotions could drive music selection and just user experience in general. So they saw that potential.
+
+Tim Ferriss: And Mary, specifically, I think she still does this, every year puts out her sort of annual, I don’t know how to properly describe it. What would be like trend forecast? I don’t know the proper descriptor to use. Clearly I’m not fully on top of it, but if people look up Mary Meeker, M-E-E-K-E-R, very, very impressive woman. Why do you think — well, I guess you’ve already in part answered this. Was it a fast yes for Kleiner Perkins, or did it take a while to court them?
+
+Rana el Kaliouby: Actually that was an inbound from Solina Chau, who heads up the Horizons Ventures fund, which is the venture fund for Li Ka-shing, who’s this super top billionaire in China. She emailed us out of the blue and said, “I want to invest in you guys.” And we were like, “But we’re not raising.” We had just raised our round of funding. She was like, “I don’t care. I’m just going to invest in you.” Okay. She’s awesome. She sounds awesome. So we met her and she co-invests with Mary often. So we met both of them in the Spotify offices, I think it was in New York, and they were just amazed. Aside from everything, I was like, “Wow, these two women are just powerhouses.” So they were really, they just made it happen. It was amazing. I will say this is not my typical experience raising money. That was an outlier.
+
+Tim Ferriss: I mean, I think the really, really good investors who can see where the puck is going, are outliers to begin with, right? So you’re just not going to run into that many. One of the common traits I’ve seen, particularly with really, I don’t want to call it pure technology play, but something that is deeply technical, the investors who are best at that will often reach out to authors of white papers and say, “Hey, I know you haven’t built a company, but you should and I want to give you all the money.” They tend to be — 
+
+Rana el Kaliouby: Right. You should probably listen to them, right?
+
+Tim Ferriss: Yeah. A lot of them are really, really good. You mentioned dating. Could you speak to that for a second? Because obviously putting aside the truth/not truth application, that was one that did jump to mind partially because I want to say I at some point read a report of some psychologists, maybe it was a behavioral psychologist, who could look at video footage of couples and predict with some unbelievable high percentage hit rate, like 95 percent accuracy, whether they would still be together a year later or 10 years later or whatever it was. I can’t recall the exact specs on that. What do you think the applications are for dating or could be? Or do you think that’s, is that a fool’s errand?
+
+Rana el Kaliouby: I think there’s definitely a play there. The guy you’re talking about is John Gottman and he focuses on couples therapy, and you’re right. Just from watching a few seconds of video of a couple kind of interacting with each other, he looked for expressions like an upper lip raiser, which is an expression of contempt, and he was able to predict if they’re getting divorced or will they be able to work through that. But let’s back up, like dating, right? I think there’s huge potential there. I mean, I think maybe that’s the killer app or whatever because when you’re seeing people’s profiles, you subconsciously, like perk up if somebody looks interesting, or you’re like, “Meh,” right? You have all these subconscious expressions.
+
+If you are able to capture those, I think that could be really fascinating. But I think the real killer feature would be if you’re able to take all of my non-verbals as I’m going through all these profiles or even as you start engaging with somebody online and turn it into a “Will we have chemistry when we meet in the real world?” because that’s the key question, right?
+
+Tim Ferriss: Right.
+
+Rana el Kaliouby: And so if you can use all of that information and turn it into a predictor of level of chemistry, like butterfly effect when you meet a person in the real IRL, I think that’s really interesting. I haven’t figured out how to do that, but I think there’s a lot of application. Do you agree? I don’t know.
+
+Tim Ferriss: I do agree. Yeah. I mean, I think it could be a huge application. I don’t know what form it would take precisely, but if you imagine something like — I’m  showing my age here, maybe — but you have effectively a Tinder or a Pandora where you’re thumbing up/thumbing down and then over time based on the Emotion AI analysis of those profile pics or better yet video, if there were short video clips maybe —
+
+Rana el Kaliouby: Exactly.
+
+Tim Ferriss: Then you could effectively create a signature of attraction, right? Or a signature of excitement or a signature of fill in the blank that is read by the camera on your laptop or on your phone. I think people would pay for that. Certainly. I mean let’s just say you had a dating app and there was a $5 pro feature per month that added that capability on top of your normally static non-interactive kind of personal, you as user do all the heavy lifting version. I think that’s something a lot of people would pay for. So I find that personally very, very interesting. I mean, I’m very happy with my girlfriend! 
+
+Rana el Kaliouby: Let’s do it. Let’s build it. Or maybe somebody in your audience is going to take it on.
+
+Tim Ferriss: Yeah, exactly.
+
+Rana el Kaliouby: I‘d pay for it. So there you go. We have two potentially — 
+
+Tim Ferriss: A proven market of two is more than a lot of startups have when they get going. Let’s talk about the journaling. You mentioned the journaling. I’d love to hear about the journaling and anything else that you do to ground yourself or keep yourself centered when things are difficult because you’ve, and we may come back to this, but you’ve had tough times, you’ve had challenging times, you’ve had a lot on your plate at once. Could you speak to the journaling and any other practices that you have that have helped you?
+
+Rana el Kaliouby: I think you journal too, right?
+
+Tim Ferriss: I do.
+
+Rana el Kaliouby: I’m pretty sure I’ve you talk about that. I use an app called Day One. I’ve now been journaling, I would say eight or nine years pretty consistently. I find that first of all, it’s a way of just letting it all out, right? So I journal very openly. Hopefully my journal will never get hacked because if it does, I’m in trouble. All my secrets are in this journal and I can’t just hide it under my bed. It’s out there in the cloud. So anyway, I just journal very openly. Interestingly, a while ago I went back and looked at the most frequently occurring word that I use and lonely was up there. Fear was another one. So a lot of fear, a lot of loneliness.
+
+So it’s a way of getting it out there. But what I also find interesting is I often log celebration. So I’ll say, “I am grateful for my kids. I’m grateful for — everything’s falling apart, but you know what? I’m in good health. I’m grateful for that.” I always put something, however big or small, and I just acknowledge. I try to celebrate something. So that helps. 
+
+So I guess the third way the journal is very powerful in my experience is I can look back at all these times when it was really challenging and when I felt like, “Oh, my God, I might not get through this.” And I look back and I was like, “It worked out.” Like when we were moving to the US with my two kids and I was newly divorced, life’s falling apart. My parents were like, “You can’t do this. You are going to fail. The kids are going to be miserable.” And I write all of that. A lot of fear, a lot of fear, a lot of fear. And then we moved over here and we love it. It’s amazing. And so I can look back at these times and actually when it’s challenging, like right now it’s challenging for all of us, and I just, it just helps me have this conviction that this will pass. It’ll pass, it’ll be fine. Yeah, I don’t know. Does that ring true?
+
+Tim Ferriss: Yeah, it does ring true and it’s very helpful. What do you like about Day One and do you journal three times a week, five times a week? If it’s kind of when you feel the need, what are the indicators that you need to do it? What does the actual practice look like? Is it in the morning? Any specifics that you could share would be super helpful.
+
+Rana el Kaliouby: What I love the most about Day One is it’s just super easy and it allows for multimedia, right? So sometimes I’ll just take a screenshot of a cute text chat and I’ll just, that chat will go into my journal, right? So there’s that. Or sometimes if I’m on a flight back from wherever and I just have a few moments, I’ll just get on and say, “Flying back from Austin. I just finished dah, dah, dah, and it felt really good,” or “It didn’t feel really good.” Or “I just finished a call with an investor; it sucks,” whatever. Right?
+
+So there’s no — it’s not like I have a fixed time because I find that very hard to do. It’s usually very impetus-driven, right? I want to make sure that I log an event or log a thought or log a feeling. Sometimes I’ll write essays. Some of my entries are super long and sometimes it’s just two sentences. I try to not make it super structured because then it’s hard to implement.
+
+Tim Ferriss: Yeah, I think that complexity is not your friend when it comes to implementation. Are there any books that you’ve turned to often or re-read often or gifted often? Any of those things that come to mind?
+
+Rana el Kaliouby: I’ve recently been gifting — I must have given this book to at least three or four people because I recently read it — The Obstacle is the Way. This idea that we all run into obstacles and we have a choice, we can just call it the end of the road or we just find a way to work through it or around it or on top of it or whatever. That’s just like really resonating with me right now. I’ve been gifting the book, even though I think the book’s a few years old now.
+
+Tim Ferriss: That’s fine. Yeah. It’s written by Ryan Holiday, who lives about 30 to 40 minutes from where I’m sitting right now.
+
+Rana el Kaliouby: I know you’re, I could kind of infer that you guys are good friends.
+
+Tim Ferriss: Yeah. Believe it or not, I don’t think you know this, but I actually was the publisher of his audiobook version because I saw a pre-print version of the book and I said, “If you want to do something with audio, let me help you.” And so we published the audio version together.
+
+Rana el Kaliouby: That is so cool. I did not know that.
+
+Tim Ferriss: Yeah, small world. Super small world. What about fiction? Do you read fiction or do you not read fiction?
+
+Rana el Kaliouby: I do. My favorite book, which I’ve now read a few times also is Jhumpa Lahiri’s The Namesake. Have you read it?
+
+Tim Ferriss: No, I have not read it. Why is it so good for you?
+
+Rana el Kaliouby: It tells the story of this Indian young man who moves to Boston to study, do his PhD. So he does that and then he brings over a wife. He gets married and brings over his Indian wife and they settle in Massachusetts. They start off in Cambridge in this small apartment, which I did too. And then they move to the suburbs and they have kids and then their kids grow up with this internal conflict of whether they are American, are they Indian, are they both? What does that mean? It follows the journey of this family. I first read it in 2008 when I was between Cairo and MIT and it was becoming clear that my life is gravitating towards Boston with every trip. And I just read it on this flight back to Cairo. I’ll never forget this. I was just bawling. I was just crying. It just hit home in such a weird way because I think I was at this, fork road?
+
+Tim Ferriss: Yeah. Fork or crossroads.
+
+Rana el Kaliouby: Crossroad and it just like, it really hit home. And then I re-read it a few months ago and I cried just the same because I feel like, Oh my God, I’ve progressed, right? I’m in the suburbs, my kids are in school here. I think my kids are grappling with, and all of us, like me and my kids are grappling with, okay, how Egyptian are we? How American are we? And how do you bring the two together in a way that’s true to who we are? So I love that book. I highly recommend it. It’s amazing.
+
+Tim Ferriss: It also strikes me that in the last few weeks I’ve been reading more fiction. I was a nonfiction purist for decades.
+
+Rana el Kaliouby: All the self-help books?
+
+Tim Ferriss: Yeah. I mean, well, you name it. I mean, self-help. If we want to go all the way back to Ben Franklin, then yes. So self-help/biography. In some respects, all books are self-help, if that makes sense, even fiction. But I find that in the times we’re in right now, and at the time of this recording, of course, the novel coronavirus, COVID-19, et cetera, are causing a lot of self-quarantine, isolation, et cetera. So the words that you mentioned, loneliness, lonely, fear, I think those feelings are going to become more and more present for more people.
+
+And that fiction, really good fiction, at least for me, has the effect of lessening both of those feelings, even if it’s just for the period of time that you’re reading, particularly the books that can elicit or paint a picture that really emotive landscape of feelings that you’re having, just in the way that you’ve shared your emotions, thinking you’re the only person in the world having them and people say, “Oh, my God, that really resonates with me,” and you feel less alone in doing so. Both of you, I would imagine. So I’ve been reading more fiction, so this will go on my list.
+
+Rana el Kaliouby: Do you have a recommendation?
+
+Tim Ferriss: I do, actually. I hesitate to recommend books that I’m only partially through, but I feel quite confident in this one. Bear with me two seconds because it’s literally two feet from me and I’m going to grab it.
+
+Rana el Kaliouby: I got it. Okay.
+
+Tim Ferriss: All right. It’s this book here, which is, I’ll read it, Little, Big. So Little, Big by John Crowley, like Aleister Crowley. Little, Big by John Crowley. This is, I suppose you could consider it a fantasy novel. It’s a bit difficult in the beginning. I’m going to warn people that you really need to give it at least 30 pages. I tried this book two or three times. It was gifted to me by my brother who has a very, very high bar for all books. He’s a math and stats wiz, also can read very, very dense comp-type stuff. Just has a very high bar for any books that he’ll read, start to finish. I couldn’t get into it because I quit within the first 20 pages. And now that I’m 50 or 60 pages in, I’m 60 pages in, I’m just loving it.
+
+To give you an idea. I mean, this is, I’ve never seen — I don’t want to spend too much time on this because this is about you and not me, but I do think that fiction is a really good medicine for people right now. Just listen to some of these cover quotes there. And you, by the way, we’re going to talk about your book. You have some amazing blurbs from people. Listen to a few of these. This is for Little, Big. Here’s the cover quote. “I always regularly reread a book that I wish more people would read. Little, Big; it is literally the most enchanting 20th-century book I know.” Harold Bloom.
+
+Rana el Kaliouby: Amazing.
+
+Tim Ferriss: And then you’ve got, Los Angeles Herald Examiner says, “The kind of book around which cults are formed and rightly so. There’s magic here.” It just goes on and on. Ursula K. Le Guin, I believe I’m getting that name pronounced correctly, says, “This book is indescribable; splendid madness or a delightful sanity or both. Persons who enter this book are advised that they will leave it a different size than when they came in.” It is a fucking weird book. I’m going to warn you in advance. It’s very strange and that’s part of the reason that I like it so much. It’s very weird. It’s got that kind of Gabriel Garcia Marquez sort of like Colombian surrealism. It’s very odd, but so far I’m finding it enjoyable.
+
+Rana el Kaliouby: I will go add it to my list. I will make sure I stick through the first 30 pages.
+
+Tim Ferriss: And I would recommend getting it on Kindle because John Crowley’s vocabulary is impressively broad. It’s kind of like when I read His Dark Materials and The Golden Compass, which are categorized as young adult novels, but then contain extremely niche nautical terminology. So you’ll want to be able to look words up is what I’m saying because I’m underlining words every page or two that I don’t actually know the meaning to. And that’s my dog barking. If you hear it, that’s Molly, because we’re quarantine verite on this audio. Let’s talk about your book. Why, with all the things you have going on, why a book? I, of all people, know books, to do well, take a lot of focus, they take a lot of energy. Why a book? Why now?
+
+Rana el Kaliouby: First of all, if I knew how much work it would have been — it’s pretty much like a startup, right? If you knew really how much work it would take, maybe I wouldn’t have done it. But the initial reason I decided to write the book, this has been almost three years in the making, it was originally going to be an AI book, right? AI needs empathy, it needs emotion, it’s all about Emotion AI and why do we need Emotion AI and how do you build Emotion AI and what are the applications. It was, what are the ethics and moral implications of all of that. And then I had a meeting with an editor that was interested in the book, Roger Scholl at Penguin Random House. It was a lunch meeting.
+
+He’s like, “Oh, tell me your story.” And I was like, “Well, I grew up in Cairo and dah, dah, dah. And then I got a job and then I moved to Cambridge.” And he was like, “That’s the book.” I was like, “What?” He was like, “Well, your story of moving from this nice Egyptian obedient young woman to CEO of an AI venture-backed company in the US, that journey of personal transformation could resonate with people.” And so we pivoted. The book became more of a memoir, which makes me sound like I’m 80 years old. I’m not. It’s just this juxtaposition of my personal journey with why and how I built this category of AI called Emotion AI. I mean, my reality is that both journeys are very intertwined and so the book kind of puts that forth.
+
+Tim Ferriss: What did you learn in the course of writing the book? Was there anything that came out that surprised you thinking that you’re able to clarify in the process of writing? What did you learn or what surprised you about the process?
+
+Rana el Kaliouby: The biggest thing I learned — I was midway, not mid, maybe a third into writing the book when I read Michelle Obama’s Becoming, and it was just so vulnerable. I was like, “I want to be open in how I write about this.” So I went back and kind of, not rewrote, but just re-thought how I’m going to approach this. The thing that struck me the most was my relationship to my dad.
+
+Tim Ferriss: Your relationship to your dad?
+
+Rana el Kaliouby: Yeah. And actually, so I narrated the audiobook and — 
+
+Tim Ferriss: It’s a lot of work.
+
+Rana el Kaliouby: Oh, my God, yes. Tell me about it.
+
+Tim Ferriss: Well done.
+
+Rana el Kaliouby: There was one part in the book where I talk about my dad and I just totally broke down. It’s this very interesting relationship. I love my dad, love my dad, and he’s been so supportive of my journey and my aspirations, but at the same time he is very strict. For the longest time I just assumed because I broke the mold of what is expected of me that he was not proud of me. For the longest time I just — I still feel that way sometimes that I wonder if he would rather have had me stay in Egypt, be an awesome wife, be an awesome mom, and give up all of that. I don’t think so.
+
+I mean, he was in the US a few months ago and he visited the team and he met the Affectiva crew. I think he looked proud in the picture. When you analyze his expressions, he kind of looked proud. But so writing through that, my mom and my sisters read an early version of the book and they were like, “You can’t publish it like that. Dad’s coming out in a very bad light.” And I was like, “What?” So I had to go back and just really explore my relationship with him.
+
+Tim Ferriss: Was that difficult? Was it confusing? How would you describe looking that closely at your relationship with your dad over time? I think a lot of people have complex relationships with at least one parent. What was that like for you? Because I have found it’s writing about many subjects, extremely difficult, sort of emotionally impactful, unsettling sometimes. What was that? How would you describe the experience of looking at it so closely for the purposes of writing?
+
+Rana el Kaliouby: I just had to really dig deep, right? I had just probably written off or closed off major chapters in my life where I just wouldn’t talk about it or I talk about it in one sentence. I’d never go really deep. My relationship with my dad is one of them. So I had to like — look, I just broke this pencil. Oh, my God. So yeah, it’s still ongoing, as you can see. That’s interesting. Okay. I’m going to put this down. I think it’s just super complex and very multilayered, right? Through the divorce, he was very adamant that he took a very balanced view between my relationship and my ex. And so he almost like — he was an arbitrator, right?
+
+He wasn’t exclusively on my side. I felt like he was very balanced, which I, on the one hand, think is great, but part of me was like, “Dad, you’re my dad! You’ve got to be on my side!” But I think he did it for the greater good. So I had to just work through these things. One day he called me up, I was in Boston and he was like, “Quit Affectiva, just sell it.” I was like, “What! It’s my company?” He was like, “You’ve got to come back home, fix your marriage.” Like, done with this company. I know where he’s coming from. He’s coming from a place of love. But it took me a while to process that, right? So things like that. But he’s awesome.
+
+Tim Ferriss: Feel free to not answer this if you don’t want to, but what, if anything, do you think has been unsaid to your dad that would be helpful to say to your dad? Is there anything that comes to mind or was there anything that came out in the book that you feel strongly about? I don’t mean to dwell on this. I just, I think this is part of what makes you you and that’s why I’m asking.
+
+Rana el Kaliouby: What do I tell my dad? I guess I just — I do want my dad to know that I love him. I guess he’s very close to both my sisters in a way that I don’t think I’ve let myself be open in that way. But I would like to because I feel like someday I will regret not — I look back and I’ll say, “Bummer, I should have really taken that step.” So, I guess I would like him to know that I would love to explore kind of a closer relationship. I think that would be cool. I think having written that book, I’m a lot more open to doing that.
+
+Tim Ferriss: It’s beautiful. Thank you for answering that.
+
+Rana el Kaliouby: Now he has to listen to it.
+
+Tim Ferriss: Now he has to listen to it.
+
+Rana el Kaliouby: Now you have to give him this.
+
+Tim Ferriss: Well, there are a few people who listen to this. It may get back to him! Shipping a book, publishing a book is much like, as you said, starting a startup. It’s difficult. You hope to have some type of driver behind climbing this mountain that pays off at some point. What impact, and we mentioned it at the top of the episode, but Girl Decoded is the title of the book, subtitle, A Scientist’s Quest to Reclaim Our Humanity by Bringing Emotional Intelligence to Technology. What would make this book a home run for you? Not necessarily in terms of numbers of copies sold, bestseller lists and all that, but in terms of impact. And it could just be on a handful of people. It doesn’t need to be millions of people, but what would make this worth it for you?
+
+Rana el Kaliouby: I would want — not just women, actually — I think people assume that this is mainly targeted, it’s a story that’s mainly — it’s not at all just mainly targeted at women. I think it’s more about people embracing their own voice and their own path and their own emotions and having faith that they can do it, right? I mean, I still have so much doubt in my brain probably because of my cultural upbringing that it just all feels surreal to me.
+
+Like imposter syndrome plus, plus, right? All the time and I have to work through it and I have to negotiate with that voice and in a way like I’m my biggest obstacle in a sad way, right? And so I just want people to know that it doesn’t have to be that way and you can work through it. And so when people reach out to me and they’re like, “I follow you and I just want you to know that you’ve inspired me or you’ve kind of propelled me to try X, Y, and Z,” that just makes my day. That’s what helps get through all of the crap that’s out there. Am I allowed to say crap?
+
+Tim Ferriss: You’re allowed to say crap. I dropped an f-bomb earlier, you’re good with the C word. At least that C word! You can say whatever you want, you just have to live with the consequences. You can use the E word as well. We’ve been doing a good job of using the E word.
+
+Rana el Kaliouby: Yes, we have.
+
+Tim Ferriss: I think that this is really important. I really hope the book does well. I haven’t read the book, but I think that your story is really compelling. It also, I think, highlights — for me, at least — your story and also the technology that you’re helping to develop, that we’re all in this together and that it’s not meant to sound cliched and kumbaya, but particularly when we’re experiencing, say, a scare and possible health crisis as we are right now, it’s very easy to feel isolated. And one thing that struck me as I was doing reading about the technology and so on, that I think the word “diversity” has become a hot button in the sense that it’s something that a lot of people overuse.
+
+It’s something that other people avoid using at all costs because they’ve become over-sensitive or — I shouldn’t say over-sensitive — sensitive to it. But just as you were mentioning, your cultural background and how expressions differ across culture. If you want to develop a good technology for, say, AI deployment, you need diverse data sets, right? And then it just like that’s a necessity. It’s not a luxury, it’s not an option. If you want good technology in certainly this type of technology, you need to have complete data sets and diverse data sets. I find that practically and metaphorically reassuring, if that makes sense.
+
+Rana el Kaliouby: Yeah, absolutely. If you’re going to deploy this technology, which we do in 19 countries around the world, you can’t just train it on people that look like you, Tim, right? Which would be the default data set. And so we really prioritize the diversity of the data, but you can’t get to the diversity of the data unless you have a diverse team of people who are thinking about the data and the algorithm and how robust it is globally and cross-culturally. So that’s where I think the conversation about diversity and inclusion becomes really real because you want a diverse group of minds and brains thinking about this problem and how to solve it in a way that works for everybody.
+
+And it’s not just diversity of gender or ethnicity, which is what people usually gravitate to. We think diversity of age is very important because we have a high school internship program for high school kids where we bring them in and of course they learn a lot, but we learn a lot from them too because their experience growing up with technology is very different than, say, mine.
+
+I’m 41 and these kids just have very different experience growing up with devices and technologies, and we want their perspective and they are going to be the ones who are kind of stuck with this technology, right? So I think they need to have a voice around the table as well. So all kinds of diversity, not just — and even our CMO is an art historian and she is very involved in product strategy. So we want her around the table too. It’s not just machine learning folks like me. So yeah, I think it’s really, really key.
+
+Tim Ferriss: And the cultural piece is huge too, right? Because you could have, for those who don’t know, I mean, I look like a Danish man, which I am in part — the huge, fat head, bald now at this point. But you can find people like me in Scandinavia. You can find people like me here in the US who look like me. You can find people who look somewhat like me, even in Egypt, right? I have some Egyptian friends who either have blue eyes and in the case of my friends, red hair. But once you’re bald, the hair color matters less. Albania, et cetera.
+
+Culturally they’re going to express quite differently where it’s possible they would. So I’m excited to see where the technology goes. I hope that it veers more in an enabling benevolent or at least neutral direction as opposed to sort of dystopian police-state direction. But I suspect we’ll have a bit of both. And at least speaking for one person, I’m glad that you have the ethical direction and sort of values that you’ve put in place for making decisions, right? Because you’ll have to ultimately — you have to program that decision-making framework into the company in the same way that you’ll be programming rules and decision making possibly into the lines of code that dictate the behaviors of artificial intelligence.
+
+Rana el Kaliouby: But I really think — I mean, one goal of the book is to spark public dialogue around human-centric AI because I really think there is so much amazing potential for this technology. We’ve talked about some of it: mental health, autism, safer roads, you name it. And yes, there are lots of potential for abuse. But who’s making the decision? It’s us. We as a society are the ones who are veering it in whatever direction.
+
+We are going to spend mindshare and investment money to steer it in the direction we want it to and I really want the public to be part of that conversation. Just the same way there is a movement towards greener products or fair trade or whatever, we need the same in AI. I think the consumer can have a voice in prioritizing or really kind of supporting companies that have these strong core values and supporting less of the companies that don’t.
+
+Tim Ferriss: Vote with your wallet; vote with your voice.
+
+Rana el Kaliouby: Yeah, exactly.
+
+Tim Ferriss: Is there anything, and this is sometimes a difficult question for folks to answer, but just to tie up here. If you had a billboard, metaphorically speaking, something that you could use to get a message out to billions of people, limited real estate. So you could put a quote, a word, a sentence, anything non-commercial on this. What might you, a question, an image, what might you put on that billboard to convey, to share with billions of people. Anything come to mind?
+
+Rana el Kaliouby: That’s a tough one. A billboard. Embrace your emotions. That’s the call to action. Yeah.
+
+Tim Ferriss: I love it.
+
+Rana el Kaliouby: I don’t know.
+
+Tim Ferriss: Yeah, that works for me.
+
+Rana el Kaliouby:  #Embrace your emotions!
+
+Tim Ferriss: #Embrace your emotions. Yeah. It’s like you will be with your emotions whether you like it or not, whether you try to silence them or not. So, I think it’s more —
+
+Rana el Kaliouby: Right. So just like, yeah.
+
+Tim Ferriss: Better to embrace. Embrace your emotions. I think that’s perfect — 
+
+Rana el Kaliouby: I think there’s power in that, I think there’s power, right? There’s power in that. It’s actually powerful. That’s what we want to convey.
+
+Tim Ferriss: Yeah, absolutely. Is there anything else that you would like to say before we wrap up here today?
+
+Rana el Kaliouby: No. I’m just easy to find if people want to reach out and share their stories or their input or ideas.
+
+Tim Ferriss: On social, are you more active anywhere in particular? Do you have a preferred social location?
+
+Rana el Kaliouby: LinkedIn seems to, this is pretty new, but I think there’s a lot of conversation on LinkedIn.
+
+Tim Ferriss: And that’s Kaliouby. I would imagine there aren’t too many people on LinkedIn for the exact same name. That’s my guess. Does your name mean anything? It might not. My name really doesn’t have much meaning to it. But does yours have any meaning to it?
+
+Rana el Kaliouby: My first name means serenity. Serene, right? Which I have to work on. I’m not that serene. I need to get into my zone. Yeah. I need to practice meditation or something. Been on my New Year’s resolutions forever. And then my last name is el Kaliouby, as in from Qalyub or Qalyubia, which is a governorate in Egypt. It’s a place in Egypt.
+
+Tim Ferriss: Serenity, Rana. Don’t we all need a little bit more serenity? This has been a really fun conversation for me. People can find you on LinkedIn. That’s Kaliouby. We’ll link to all this in the show notes. Of course on Twitter @Kaliouby. Once again, that’s K-A-L-I-O-U-B-Y. Instagram @ranaelkaliouby. And the website where you can find all of this, it’s probably the easiest home base, which is ranaelkaliouby.com. And for everybody listening, you can find all of the links to everything we’ve discussed, including the book at tim.blog/podcast. Rana, thank you so much for taking the time today. This has been a lot of fun for me.
+
+Rana el Kaliouby: Thank you. Thank you for having me!
+
+Tim Ferriss: And for everybody out there listening and watching, don’t be an upper lip raiser. I’ve got all sorts of new labels for folks. Be well, be safe, and thanks for tuning in.
+
+
+TAGS
+RANA EL KALIOUBY
+	

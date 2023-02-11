@@ -1,0 +1,424 @@
+
+
+FEBRUARY 2, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Investing Wisdom from Marc Andreessen, Peter Thiel, Reid Hoffman, Chris Sacca, and Others (#270)
+
+
+Please enjoy this transcript of a Roundtable Episode on investing, inspired by my episode with Ray Dalio and featuring Marc Andreessen, Chris Sacca, Reid Hoffman, Peter Thiel, Seth Godin, and yours truly. 
+
+
+
+#270: Investing Wisdom from Marc Andreessen, Peter Thiel, Reid Hoffman, Chris Sacca, and Others
+
+Tim Ferriss: Well, hello, ladies and gentlemen. Welcome to The Tim Ferriss Show. This is Tim Ferriss. And, every episode – as you may know – it’s my job to deconstruct world-class performers to tease out the habits, routines, tactics, et cetera that make them the best at what they do.
+
+After nearly 300 of these conversations, you or I start to spot patterns – at least, common skills. I sometimes like to put together themed episodes that pull the best advice and tidbits from one particular area – in this case, investing – from multiple geniuses and top-of-the-heap competitors. So, this episode contains some of the best lessons I’ve come across related to investing – or, more generally speaking, making money, growing your personal wealth, et cetera.
+
+And, if you look at the best investors – whether that is for their personal finances, or, say, fund finances – and, these are two very different things that I’ll mention briefly – you’ll notice that the frameworks they use to make decisions have to be very refined, and this is often the case for, say, poker phenoms as well, which is why I like to look at people who appear to be gamblers who are, in fact, investors. They’re very good at resource allocation and thinking through asymmetrical reward – capped downside, but potentially, near limitless upside, et cetera – and how they make those decisions.
+
+So, whether or not you’re interested in investing, the thinking systems represented by the people you’re going to hear from are very valuable and can be applied to rational decision-making so you are less emotionally reactive.
+
+Okay – a few caveats. 1). I am not an investment advisor or professional. I do not play one on the internet. So, what works for me may not work for you. Talk to your registered, qualified, professional financial people and consult a common-sense specialist before doing anything really stupid, please.
+
+You need to create systems and procedures that work for you, and your risk tolerance is probably very different from the people you’ll hear from. Nonetheless, you’re going to hear from people who I consider to be some of the smartest investors on the planet, including billionaires, legends from the world of finance, and so on.
+
+Part of what sparked me to put this together was the popularity of a recent episode, which was an interview I did with Ray Dalio. Ray Dalio has been called the Steve Jobs of investing, and he is the founder and…I supposed you could talk along the lines of “manager” – I think he’s currently the CIO – of the world’s largest hedge fund, Bridgewater Associates, with $160 billion under management. If you want to hear that, which catalyzed this, you can listen to that separately at tim.blog/Ray. It was a super-popular episode, so you can check that out.
+
+But, Ray does not appear in this one. Instead, we have a different cast of characters. So, coming up, I talk to Marc Andreesen. Marc is the cofounder of Andreesen Horowitz, one of the most successful venture capital firms in the world. Marc also co-created the highly influential Mosaic internet browser, and he cofounded Netscape, cofounded Loud Cloud, which sold to Hewlett Packard for a cool $1.6 billion. He’s rightly considered one of the founding fathers of the modern web.
+
+Marc Andreessen: And then, the other thing we have in venture is when we make a decision, we then become committed to that company in that category, so we can’t invest in their competitors, including their competitors that don’t even exist yet.
+
+Tim Ferriss: Then, we have my friend and super angel investor – also a venture capital investor – Chris Sacca, who shares some of his wisdom as it relates to investing.
+
+Chris Sacca: I only get involved in deals where I know I can personally impact the outcome.
+
+Tim Ferriss: I also talk to the so-called – and, he doesn’t call himself this, but other people do – “Oracle of Silicon Valley,” Reid Hoffman, one of the nicest guys you will ever meet. Reid is the cofounder and executive chairman of LinkedIn. He was previously executive vice president at PayPal, which was purchased by eBay for $1.5 billion.
+
+Reid Hoffman: The reason why companies frequently rise and fall is because they learned to play one game, they got good at it, and then the marketplace changed. Now, it’s a new kind of game, and you have to adjust to playing that new game. That’s actually part of recognizing when a strategy applies.
+
+Tim Ferriss: Next up, I speak with Peter Thiel, a name that has certainly had a lot of buzz in the last few years. He’s one of the cofounders of PayPal and the first outside investor in Facebook.
+
+Peter Thiel: But, I think the fundamental philosophical question of, “What do people agree merely by convention, and what is the truth?”
+
+Tim Ferriss: Finally, I speak with Seth Godin, who is a fantastic reality check whenever I’m confused by something that perhaps I’m optimizing from a mathematical standpoint. He never fails to deliver a lot of very powerful common-sense advice that is not common at all. In fact, it’s usually something that should be obvious, but is hidden in plain sight, and so, I rely on him a lot for good advice. He’s one of the best marketing minds in the world. He’s crafted an incredible life for himself. He’s the author of 18 bestselling books at last count. What you might not know is that he’s also founded several companies.
+
+Seth Godin: Once you have enough for beans and rice, and taking care of your family, and a few other things, money is a story.
+
+Tim Ferriss: So, without further ado, let’s get started, and I’ll kick it off with just a few comments and precautionary notes. No. 1 is that anything I mention is going to be “Your miles may vary,” meaning that investing – allocating resources, making decisions – depends a lot on very highly personalized factors.
+
+I should also draw a distinction between personal finances – so, you might ask someone who has $10,000.00 in the bank, $100,000.00 in the bank, $1 million in the bank or more, how they would create a portfolio for their personal finances with that capital. That is a very different question than, “How do you invest risk capital?” or “How do you invest in high-risk, high-potential-return asset classes?”
+
+Many of the people you’re going to hear from have both personal finances, of course, but they also manage funds, and the economics and mathematics of funds are such that the risks are contained because… For instance, in a venture capital fund – how does that work? The way venture capital works – and, I’m going to oversimply this is the interests of time – you say, “I want to create a venture capital fund.”
+
+So, Tim Ferriss decides he wants to create a venture capital fund, and I want to invest in blockchain and cryptocurrency-related companies. That’s not something I’m doing, but let’s just say that’s the case. It’s a highly speculative – and in some cases, high-risk – asset class. I don’t want to risk all of my money doing this, but I know people who want to participate in cryptocurrency.
+
+So, I’m going to go talk to sovereign wealth funds, pension funds, or groups that have endowments – for instance, for universities – who have a percentage that is put to the side for venture capital or something even higher-risk as a capitalization. I go to them and say, “I have this unique approach to finding very promising blockchain companies, and here’s my investment thesis.” I show them a fancy PowerPoint and hopefully convince them to give me money. This is not my money. I may have some of my own money in the fund, but not necessarily.
+
+And then, what happens is I have, say, $30 million from these assorted folks. Those are my limited partners. I am the “owner” of the venture capital firm, so I’m the general partner. I could have other general partners. And, in the most primitive terms possible, I will probably have what’s called a 2-and-20 structure. So, what this means is for the money that I have in a given fund – I raised $30 million for Ferriss Crypto 1 – I will get a 2 percent management fee based on my assets under management.
+
+It’s a little more complicated than that, but for the sake of simplicity, let’s say I get 2 percent of that $30 million if it’s all deployed into investments each year. And then, you get a 20 percent profit share, effectively. So, if that $30 million becomes $60 million, I get 20 percent of that $30 million upside, or $6 million.
+
+You can see how, as you start to raise bigger funds that are $100 million, $500 million, and then you’re raising a new fund every few years, how the numbers get very big if you are good. Now, the important point here is not the structure of venture capital funds. If you’re interested in that, I highly recommend a book called Venture Deals. There’s also one called Zero Gravity that goes into venture capital works. But, it is to point out that the way you will invest other people’s money in high-risk asset classes is not generally how you are going to invest all of your personal finances.
+
+So, many of the folks that you will hear from are operating from a fund basis – that is what they are known for – and they don’t discuss their personal finances publicly. So, I will give you a personal finances example with the express understanding that it does not mean you should mimic it.
+
+But, I have found that as a heuristic, it’s very helpful for me to think of my investing – to use a term from Nassim Taleb, who wrote The Black Swan and Fooled by Randomness – as barbell investing. This means that if you look at the risk profile of different investments from extremely low risk – and, maybe in another podcast, we’ll come back and talk about different ways to define risk – so, that could be treasury bills, cash, or any number of things.
+
+All the way to the far right, you have extremely high-risk investing. That could be certain types of currency. It could certainly be early-stage startups and so on. I then have a barbell representation in terms of capital allocation. That means that I’m putting the vast majority of what I have into extremely conservative investments.
+
+For many people, that might be low-cost index funds, for instance, whether that’s through a service like WealthFront, which I am involved with as an investor myself – in the company itself, that is – or Vanguard, or Dimensional Funds. And then, I go all the way to the other end, and I also invest – with a cap – a small percentage of my liquid net worth in highly speculative but potentially high-return startups.
+
+I only do that in this barbell distribution because I have advantages, and I would not recommend that anyone invest in higher-risk asset classes – meaning there is a 20 to 50 percent chance that you will go to zero in that particular investment.
+
+Those are somewhat arbitrary numbers, but not that far off if you assume that at least 3 out of 5 startups you invest in are probably going to go to zero or be the walking dead for a period of time before having a soft landing where the company gets bought for a nominal sum, and because you invested early, you’re not in line in such a way that you get any return, et cetera.
+
+So, just assume that when you’re on the far-right side of the barbell, you’re putting in money that you can afford to lose that will not negatively impact your lifestyle one iota if it goes to zero. That is the rationale, or at least the mentality you have to have. In such cases, you should not play in said sandbox unless you have – and, this is only one of many advantages you could have – an informational advantage, which I have after 17 years in Silicon Valley where I know people who know a lot of things, so I have an information flow advantage.
+
+Then, you could have an analytical advantage, which Renaissance – which is a hedge fund – might have. That’s very quantitative. You could have a behavioral advantage, which I don’t think I have. Case in point: I’m a very bad public equities investor. Warren Buffett would have an emotional or behavioral advantage insofar as he and Charlie Munger appear to have little to no emotional response to what they would call “Mr. Market,” but the up-and-down fluctuations, which can sometimes be wild and cause people to sell at the wrong time or buy at the wrong time.
+
+I have found I’m particularly sensitive to selling at the wrong time. So, for anything that would present itself as a handicap, given that weakness I’ve identified in myself, I should let someone else make the decisions, or automate it with low-cost index funds of some type.
+
+So, those are the prefacing statements. Sorry it took a little longer than expected, but those were all very important to cover before we get into the nitty-gritty. So, find what works for yourself, ignore what doesn’t, create what is uniquely your own, but do not risk what you can’t afford to lose. While the barbell approach, for instance, has been very helpful for me, it is not appropriate for many people out there listening. All right, let’s get to the rest.
+
+Marc Andreesen, @PMarca on Twitter, is a legendary figure in Silicon Valley and worldwide. Even in the epicenter of tech, it’s very hard to find a more fascinating icon. Like I said, he’s considered to be one of the founding fathers of the modern web/internet, which makes him one of the few humans to create software categories used by more than a billion people – multiple software companies.
+
+Marc is now a cofounder and general partner of the VC firm Andreesen Horowitz, where he has quickly become one of the most influential and dominant tech investors in the world.
+
+You see a lot of people who change their mind almost too frequently with inconsequential facts. How do you think about advising a company that’s struggling as to whether they should stay the course or pivot, as they would say?
+
+Marc Andreessen: So, we see both cases – well, failure cases. We see companies that are – this fail fast thing is completely out of hand. I’m old fashioned. I come from “People like to succeed.” I like to say that before this word “pivot,” we didn’t have – when I was a founder, when I first started out, we didn’t have the word “pivot.” We didn’t have a fancy word for it. We just called it a fuckup.
+
+I’m old-fashioned on this. I like to succeed. I think succeeding should be the goal, not failing, and certainly not failing fast, slow, or any other form of failing. So, I get really cranked up about this. But, we do see companies where, literally, every time we meet them, they’ve pivoted. Every time I meet them, they’re off to something new. It’s like watching a rabbit go through a maze. They’re never going to converge on anything because they’re never going to put the time into actually figuring it out and getting it right.
+
+But then, you do see the other case, and this is where the fail-fast thing from. You see the case where people are absolutely determined – will just pound their head against the same wall for years and years. You admire them for their determination, but at a certain point, it just becomes obstinance, and then, at some point, it becomes self-destructiveness. It becomes Don Quixote. You’re tilting against windmills arbitrarily.
+
+So, those are poles. We do see behavior at the poles. The question you’re asking is, of course, the key question, which is what’s in the middle? How do you know? Frankly, I don’t think there’s an answer to that – or, the answer is judgment. I think that’s the test.
+
+Basically, I think there are a couple key tests for founders – or investors, for that matter – in these kinds of decisions. I think that’s one of the really core tests. Do you fundamentally have the judgment to make that call, knowing that either way could be the big mistake? Nobody’s going to tell you – you’re not going to get any confirmation from anybody that you made the right call. If you change and succeed, that’s great, but by the way, you might have succeeded at the old thing even better. If you change and fail, you’ll never know whether the old thing would have worked.
+
+In science, they call it the counterfactual. You never know the counterfactual. The way my brain is wired, I’m always thinking in terms of the counterfactual, so I’m always thinking of the way things could have been. The world evolved in a certain way as a consequence of people making all these decisions on the fly. People could have very easily made a different set of decisions; the world could have ended up in a very different place.
+
+And so, the idea that you’re ever going to know the consequence of your decision is probably a fallacy – or, what the alternative would have been, the relative result of your decision. And so, I just think you basically have to fall back on judgment, and you have to fall back on some sense of the intangibles.
+
+Tim Ferriss: When you’re looking to stress-test ideas…and, when we look at it in the case of a partner meeting here – so, you mentioned hedge fund managers, and I read a profile of Ray Dalio from Bridgewater Capital at one point, and they talked about his meetings, and how they stress-test ideas, and how people defend ideas – how does a good partner meeting go? If someone proposes a substantial investment, what happens from that point to a yes or no decision?
+
+Marc Andreessen: So, a hedge fund manager can reverse himself. If he makes a bad trade, the next day, he can turn around and take the opposite trade. We don’t get to do that. So, when we invest, it’s knowing that we’re in for ten-plus years. That’s our basic assumption. By the way, when we make an investment decision, it’s a commitment of dollars. It’s also a commitment of somebody’s time, and the organization’s time and bandwidth, and there’s only so much of that.
+
+And then, the other thing we have in venture is that when we make a decision, we become committed to that company in that category, so we can’t invest in their competitors, including their competitors that don’t even exist yet. For example, the investors in Friendster were more likely than not completely – maybe unwilling but also unable to invest in Facebook when it came on because they were conflicted. The founder of Friendster would have said, “You can’t invest in a competitive company.”
+
+And so, our decisions are big decisions, and they have serious consequences for the future of the firm. So, on the one hand, it’s very important to us to have a full discussion, get all the facts on the table, and really vet these things out. On the other hand, we’re trying to preserve the contrarianism that’s at the core of what we do, the strong non-consensus views. We’re trying to be able to invest in things that are unusual and odd that other people aren’t taking seriously.
+
+One of our theories about venture capital is that… So, everybody thinks that in investing, you either make a good investment or a bad investment. I actually think that’s not the big issue. I think the issue – at least in venture capital – is whether you make a good investment or a great investment, and I think good is the enemy of great.
+
+We see many companies that are just fine. The founders are good, and the market seems good, the product seems good, the customers kind of like it, they get a little revenue, and it’s all fine. But, those companies tend never to go anywhere.
+
+Every once in a while, we’ll see these companies that have are extremely strong, that have this special, wonderful thing going on that may have all kinds of problems and issues, but there’s something at the core of what it is that’s really special and magical. Those are the ones that we’re trying to do. We’re trying to stock our portfolio with just investments like that.
+
+So, to capture that, you can’t have – it would be very easy, in a conversation about the weakness of something, to beat the idea to death, and you never invest. So, the rule that we have – and then, you would only invest in the consensus ones; you would only invest in the very good ones as opposed to the great ones, and then you would fail as a firm. So, we have to get both things at the same time. We have to try really hard to encourage the strong non-consensus thinking, but also have the full discussion to make sure that we really stress-test that thinking.
+
+So, the way we do it is that each of our GPs has the ability to pull the trigger on a deal without a vote or without consensus, and what we say is if the person closest to the deal has a very strong degree of positive commitment and enthusiasm about it, then we should do that investment even if everybody else in the room thinks this is the stupidest thing they’ve ever heard of.
+
+However, you don’t get to just go do that completely on your own without stress-testing your own thinking, so it’s the responsibility of everybody else in the room to stress-test the thinking. If necessary, we create a red team. We’ll formally create the countervailing force, and we’ll designate some set of people to counterargue the other side.
+
+Tim Ferriss: It’s like a debate team.
+
+Marc Andreessen:    Yeah, basically. And then, the way that we try to – and, this is fraught with all kinds of ways this can go wrong. What if I bring a deal, or if Ben brings a deal, or the new person brings in a deal? What Ben and I try to do is do this to each other. Whenever he brings in a deal, I just beat the shit out of it. I may think it’s the best idea I’ve ever heard, and I’ll just trash the crap out of it and try to get everybody else to pile on.
+
+And then, at the end of it, if he’s still pounding the table, saying, “No, no, this is the thing,” then we all say, “Okay, we’re all in; we’re all behind you.” It’s a disagreeing commit kind of culture. By the way, he does the same thing to me. It’s the torture test.
+
+Tim Ferriss: What are some of the keys to fighting well? It seems key to many different types of relationships – personal, business, or otherwise – the ability to resolve conflicts, or just fight well and make up. So, it seems like you and Ben have – not my words – fought like cats and dogs, but you always get over it.
+
+Marc Andreessen: We prefer “old married couple.”
+
+Tim Ferriss: “Old married couple!” There is a story – I don’t know if it’s accurate – about Netscape’s early days and something related to an interview with a journalist. Do you know the story I’m talking about?
+
+Marc Andreessen: It’s in Ben’s book.
+
+Tim Ferriss: Oh, right. So, here we go –
+
+Marc Andreessen: Including the email you’re about to reference.
+
+Tim Ferriss: So, could you describe this for people who are unfamiliar?
+
+Marc Andreessen: I really think you – for that, you have to read Ben’s book. Let’s just say we started out our relationship with vigorous disagreement, and we’ve continued that to this day.
+
+Tim Ferriss: But, how do you –
+
+Marc Andreessen: This is a family podcast. I don’t want to use –
+
+Tim Ferriss: Oh, it’s not a family podcast.
+
+Marc Andreessen: If you want all the bad words, read Ben’s book, The Hard Thing About Hard Things. It’s in the book.
+
+Tim Ferriss: I’ll put it in the show notes. How do you – you guys got off to a very aggressive start. How did you identify that Ben was someone worth having those types of disputes with, that there was a value in what he brought to the table, as opposed to just another person that you were butting heads with who was not worth keeping at the table?
+
+Marc Andreessen:    Honestly, there were three things. One is that he would talk back to me and argue right back at me.
+
+Tim Ferriss: He wouldn’t just go into the fetal position?
+
+Marc Andreessen: He wouldn’t just roll over. He would argue right back. A lot of what – if you just observe a lot of companies or investment firms over time, there’s a temptation for everything to become a hierarchy, and then people have trepidations about speaking truth to power.
+
+A lot of what I’ve always found that the wise and smart leaders are trying to do is find the people in the organization who will talk back. It’s one of the ways to get ahead. There are certain organizations where the way to get ahead is to talk back to the leadership. That’s how you get noticed. There are other organizations where that doesn’t work at all, and I would recommend getting out of those as fast as possible.
+
+We try to be – at, least Ben and I want to be – the organization where people will speak truth to power and argue back at us, just like anybody else, which is why he and I argue so much. We want to set the model, set the precedent.
+
+So, that was one, that he would talk back to me. The second is that he was often, if not always, right. I wouldn’t say “always” because nobody is, but he was very smart and had very clear thinking. The third thing is that I saw early on that he was amazing working with people, which is not something that I think has ever necessarily been true of me, but he was just – watching him in front of a group of people was routinely magical in terms of how he could communicate people in a very clear way and how he could be very fact-based, but make people feel in a fundamental way. And so, that combination made it clear that he was somebody very special.
+
+Tim Ferriss: Chris Sacca, @Sacca on Twitter, S-A-C-C-A, is a billionaire founder of one of the most successful venture capital funds in history. It may end up the most successful in history. It is called LOWERCASE capital, and you can think on that for a second. It took me a while to figure out why that was so funny, which is embarrassing to admit. He’s an early-stage investor in many companies that have exploded, including Twitter, Uber, Instagram, Kickstarter, and many more.
+
+In this segment, we specifically discuss how Chris chooses founders and investments, what differentiates Wall Street from Silicon Valley investors, and total immersion theory.
+
+Chris Sacca: The total immersion thing is like a religion. When you get it, you get it. I went from dragging my ass around the pool, kicking too hard and paddling too hard, to – when total immersion hit me, I could suddenly swim a couple miles and get bored. So, I was just there as an apostle. When you were like, “I’m struggling with swimming,” I was just geeking out. In the same way you can get going on lifting techniques and stuff like that, I’m like, “You’re in my world right now. I’m going to talk about swimming.”
+
+But, the same with the investing stuff. I was really lucky that when it came time for me to get started as an investor, I had many guys there paying it forward and teaching me about the game – guys like Josh Kopelman at First Round, Tony Conrad at True Ventures – really being generous with their time and helping me figure out what was going on. The guys at Industry Ventures were indispensable for me – Hans Swildens and his team.
+
+And so, for me, when you came along and started asking questions about that, not only did I feel like I was paying it forward again, but it in the same way that you and I never invest in a simple idea – the execution is everything – I don’t feel like I’m really giving any secret away by telling you what the approach is. You still have to execute it, right?
+
+So, I can give you my lens on how I think about this stuff…things other people have taught me, and things that I think I might have improved upon, but I can lay that playbook on you, and if you’re not good at this, you can’t fake it. And so, I don’t have any fear of disclosing my secrets to B-teamers because they’re not going to end up competing with me. In your case, you’re good at it, so it’s become an incredible side business for you in addition to everything you do with media. But, there’s no fear in putting that stuff out there.
+
+The other lesson they taught me is that if I get to you and teach you some of this stuff, you’re going to naturally be an ally of mine in this industry. So, if I can get in there and teach you how I think about the world, how I can be helpful to companies, and you start using that same method, then we’re going to end up doing deals together, and you and I have, and we’ve made a fair amount of money doing that. So, I don’t want to leave that unanswered.
+
+Tim Ferriss: Well, I…it’s been really fun to watch you evolve, grow, and experiment in investing. Coming back – we can rewind the clock back to your upbringing a little later on, but since we’re on the topic, what were some of the pieces of advice that you were given early on by the guys that you mentioned or other people that helped you to approach early-stage investing in a more intelligent way?
+
+Chris Sacca: A couple of guys have said things that I’ve now taken in an amalgam and have codified. I have rules for investing now that were definitely influenced by a lot of these guys giving me advice and things that I’ve now put to work. One is that I only get involved in deals where I know I can personally impact the outcome. Now, there’s no guarantee that I can take it from X to sold or X to IPO, but I need to know that I can have a material impact and make something more likely to succeed.
+
+So, the second rule I’ve developed – and, again, this has been influenced by guys along the way who have given me advice – is to start with something that’s already great that you can make more awesome, but don’t start with something shitty that you think you can make good. That’s hard.
+
+When you work in a company – and, I know a lot of your listeners work in big companies – you have to work on the shit that somebody hands you. So, you’re dealt the 2-7, and you’re like, “Okay, that’s what the boss gave me. I’ve got to play this hand out.”
+
+When you get into investing, your default stance should be “no,” because most deals suck. Most deals won’t make money. Most companies will fail. When you see your first deal, your temptation is always, “I know I can be helpful to these guys. I know I can make this shitty thing better.” And so, your first few deals are always the worst.
+
+Tim Ferriss: That’s how I lost $50,000.00 on my first deal, and I was just like, “Ugh…” It was 25 percent of what I had hypothetically allocated to two years. It was like, “Oh, my God.”
+
+Chris Sacca: It’s because you get in that room, and you’re like, “Okay, I know how I can make this thing better,” and you forget that you need to start from something that’s already independently pretty damn good, and then make it better.
+
+So, our third principle is “Give yourself a chance to get rich,” and that was something that was influenced more by all these fund investors who are like, “Hey, it’s all well and good to throw $25,000.00 around in some of these deals, but most of them won’t be home runs. Most of them won’t turn into unicorns. Most of them are going to require a ton of work. A bunch of those will fail, but a bunch of them will be successful to the tune of doubling that money, but over years and years of work.”
+
+And so, I’ve sold companies – I sold a company to Amazon where I saw 3x on a $50,000.00 investment in a fund. By the time my fund got paid back, and I got my part back, and I had been busting my ass in that company for a couple of years, I barely had money left to buy the guys dinner to celebrate the deal.
+
+So, that’s another thing – leave yourself enough room to benefit from scale, going in at prices that are low enough that if the company is as successful as we think it’s going to be, we’ve given ourselves a chance to get rich.
+
+And then, the fourth thing that we evolved internally – or, that I involved – is to be proud of every deal. There’s stuff that I’ve passed on that I don’t regret at all. It seemed like a great way to make money, but I don’t want to have to explain to my kids that that’s how I made money. So, those are the guiding principles that have been shaped.
+
+Tim Ferriss: Categorically, what would some of those be?
+
+Chris Sacca: Mistyped domains. That’s a great way to make money. People are stupid, and they mistype stuff all the time, and you can put ads on sites that don’t really look like ads. Subscription businesses that make it impossible for you to cancel your subscription –
+
+Tim Ferriss: Right, the forced fulfillment, forced continuity.
+
+Chris Sacca: You can sign up online, but you need to send them a postcard to cancel – that kind of stuff. I see that stuff. People making unsubstantiated claims about the effectiveness of their stuff. This anonymous content stuff that is just going in bad places.
+
+So, I just want to be really proud of our deals. Those are some principles that have been shaped by a lot of these guys who have given me this advice along the way.
+
+Tim Ferriss: When you meet with founders for the first time, what are – is there anything that disqualifies them quickly? Are there certain red flags that you look for?
+
+Chris Sacca: This has evolved over time. I have now been doing this for a while, and I’ve done over 100 deals, and I’ve seen a bunch of those work out, and I’ve seen a bunch of them not work out. I read all the posts that my peers in the industry write, other VCs… Everyone is constantly stabbing at, “What is the rule? How do you get into one of these meetings?”
+
+So, let me have a couple of parameters first. One is that I almost only invest in things that are already live in production. No hypotheticals, no ideas. I think there might be one exception to that, and it was a particularly gifted entrepreneur that I’d already worked with before, but other than that, we look for stuff that already has actual users, that can demonstrate that the team is capable of building and launching stuff together, and getting out there into the market.
+
+That said, the one thing that will turn me off right now is if I see that in the pitch, the founder is trying to convince themself. If I can pick up on any hint that they don’t believe in this story in their marrow, then it’s no dice. As I look at all the most successful founders I’ve backed, the thing they have is inevitability of success. There are no conditional statements coming out of their mouths. There’s no, “Well, if it works, it would be rad.”
+
+Instead, it’s just always – you talked to Kevin Systrom at Instagram when he was working on it himself. He was literally a sole guy working on a product, and he’s like, “So, when we get to 50 million users, we’ll roll out this other stuff,” and you’re just like, “Wait…” He’s peering into the future, looking through you into something in the future, and you’re just like, “I’ve got to go along for the ride with this guy.”
+
+It’s the same thing when you talk to Evan Williams. When it comes to talking about the likelihood of success of his products, he just knows. He just knew Twitter would be a big thing. He knows Medium will be a big thing. He doesn’t need to convince you of that right now. He just knows. You talk to Patrick and John Collison at Stripe, and of course, they’re building for this thing to be a big, dominant company, and it just will be. You’ve spent time with Travis. You’re an investor in Uber. Was there any doubt at any time that Uber would dominate the planet? There’s no doubt.
+
+Tim Ferriss: Can you share a – there’s an anecdote – I think we’ve probably talked about it over drinks at some point – the Wii Tennis.
+
+Chris Sacca: Travis and Wii Tennis? Yeah.
+
+Tim Ferriss: Could you tell the story?
+
+Chris Sacca: So, a few years ago, we were up at my house. We live up in the mountains in Truckee. It was over the holidays, so my parents were there. I think it was actually New Year’s Day. So, Travis and I had been – we have a tradition up there. On New Year’s Eve, we go snowshoeing at midnight and drink champagne out in the meadow, so I think we were pretty…it was a pretty rough morning.
+
+But, Travis was sitting on the couch, and my dad sensed some weakness, and he challenged him to a game of Wii Tennis on the Nintendo Wii. My dad’s not a bad player. He’s pretty good. So, Travis is like, “Okay, Mr. Sacca, sure.” He picks up the controller, and they play the first couple of games, and they’re tight games, but Travis wins them. My dad is there taking full swings with the paddle, breaking a little sweat, and Travis is still a little blurry from the night before, barely breaking his wrist, and he’s beating my dad, and my dad’s like, “What the hell is this?”
+
+And then, there was that Inigo Montoya moment, Princess Bride-style, where Travis turns to my dad and says, “I’m sorry, but I’m not left-handed” – I forget if it was left or right, but he switches hands at the controller, and the next three games, my dad never touches the ball. There were no points scored on any of Travis’ serves. My dad’s like, “What the hell is going on? What is this?”
+
+And, after the torture got to be too much, Travis just says, “Let me take you to the global leaderboard. I’m sorry. I didn’t mean to be holding out on you.” He goes to the global leaderboard, and Travis Kalanick was ranked No. 2 in the world at Wii Tennis.
+
+Tim Ferriss: In his spare time.
+
+Chris Sacca: Now, Uber was a thing then. Literally he was already building a startup, but he’s just so obsessive and competitive, and that’s the thing. We look across the portfolio at all of the most kick-ass companies. It’s something they just have right up front. They’re not hoping and praying for success. They know it’s going to happen.
+
+Tim Ferriss: What books or resources outside of personal relationships in these mentors that you’ve had, the Kopelmans and so on – are there any particular books or resources that have helped you become a better investor?
+
+Chris Sacca: Yeah, though I think most of those are not business books per se –
+
+Tim Ferriss: Perfect. That’s great.
+
+Chris Sacca: – because…so, I didn’t get a business degree. I didn’t do an MBA. I took a couple of classes – enough to show me it was a total farce. I did get a law degree, which is an even bigger farce, but that’s for another episode. So, I never had formal business training, and I tried to look at a few of those “instant MBA” books and stuff like that. I even bought some books on venture capital, and they’re just so goofy. By the way, part of that is because now, we have so many great venture capitalist bloggers who are an open book about the industry, who teach it.
+
+Brad Feld comes to mind first – a longtime friend and mentor. Brad – @FeldThoughts – has done a series over the years where he breaks down each aspect of a term sheet, how to understand it, and the deal documents. “These are the things we think are important, and these are the things we think could go away.” Josh Kopelman and his team have done a lot of work on that.
+
+We’ve now seen why Combinator and the guys at Fenwick and West and Coolie are building templated documents that are really watered down, and pro-entrepreneur, and have taken out a lot of the legacy bullshit that didn’t need to be in those documents. So, there’s a lot of this learning that can happen now without having to buy books or go to school, so that’s been fantastic.
+
+But, where I worry about the Valley and about investors as well as entrepreneurs is in the development of everything off the ball a little bit. As a 40-year-old, the people my age who were computer science majors in college – that was a major just like any other major. They still had to go get a summer job. They mowed lawns and waited tables. They had time in their curriculum to study abroad or volunteer. They had these really well-rounded lives.
+
+And so, working with people my age and older at Google who were computer scientists was great because they had not just these amazing math and science skills, but a diversity of experience that informed great product decisions as well as collegiality.
+
+What ended up happening is that computer science degrees got so popular and so valuable that those kids didn’t have to pay for school much anymore, and their only work experience was TAing a class, not actually getting their ass kicked digging ditches or anything. The curriculum was rigorous enough that these guys didn’t get to go study abroad, and there was no opportunity to do volunteer work and live in the developing world at all.
+
+As a result, I found that we were starting to have a generation of not just entitled – people talk about the entitlement of millennials when it comes to work ethic, but they weren’t just entitled. They had such narrow-band perspectives on the world.
+
+They were missing empathy, so they weren’t able to put themselves in the shoes of the folks they might be building a product for or what the problems of the world might be. And so, I am constantly looking for opportunities for myself and for the founders we work with to broaden the scope that they have on the world such that they can build something on a more informed basis – an emotionally informed basis.
+
+I really think empathy is a word that’s been reduced to a signal. “Somebody hurt their foot and I feel bad for them.” Instead, I think – much more poignantly – empathy is about, “Can I see the world through that person’s lens? Can I figure out what matters to them? What are they afraid of? What’s bothering them? What do they think is limiting them right now? What’s their hope?” If I can do that, then it’s a lot easier to build something for them, sell it to them, help them, and build a longer-term partnership with that person.
+
+Tim Ferriss: Reid Hoffman – I’ve mentioned him already – @ReidHoffman, both on LinkedIn and Twitter – is often referred to as “The Oracle of Silicon Valley” because of his investing track record, which includes Facebook, Airbnb, Flickr, and many more. Noted venture capitalist David Sze, whom many entrepreneurs I know love – he’s incredible in his own right – says of Reid, “[He] is arguably the most successful angel investor in the past decade.”
+
+As a quick step back, I talked about venture capitalists – angel investors are typically investing with their own ships, so they do not have a 2-and-20. They have a 0-and-100 split. No management fee, and 100 percent of the returns or the losses.
+
+In this short conversation, you will learn how Reid processes questions to make better investment decisions.
+
+If you were giving advice to someone leaving Stanford undergrad, and they had no gaming background, what would you recommend they do to try to develop strategic ability or thinking?
+
+Reid Hoffman: There’s a lot of different paths to it. Most people think they’re better at strategy than they are, and so, you really have to hold up a very clear – you have to have a very deep self-awareness of, “Am I, in fact, really good at it?” Having an idea or saying – for example, you say, “Well, I’ll just do this.”
+
+A real strategy is actually build off of what your competitors are doing, what their mindset is, what their assets are, how they’re going to move, how you’re going to move, what your edges are, what’s the way you can make that work, how it is that when they’re playing against you, you can still play to win.
+
+So, games are a very good way to do that, and getting a lot of different exposure – not to computer games, because AI strategies are usually not that interesting – against other people is very useful. I think it’s also useful to read some military strategy, which I did as a child – Sun Tzu, Von Clausewitz, other folks, more modern folks – and think about what the set of principles is when you’re thinking about how to win a game that’s in contention, in conflict.
+
+And then, a lot of people also have some sports knowledge on this, too, although one of the things that’s frequently a little limiting on sports is that the game that a person tends to – they tend to be like, “I play soccer” or “I play football” or “I play basketball,” and then they have a deep sense of what the strategy is there, but they haven’t played enough different games in enough different circumstances.
+
+It’s like understanding, “What happens if I change these four rules in basketball?” How would you play the strategy now? That’s the kind of thing, because most of the circumstances you find yourselves in, you have to figure out what the current game looks like and how you play it, and that’s also the reason why company frequently rise and fall. They learned to play one game, they got good at it, the marketplace changed, and now it’s a new kind of game, and you have to adjust to playing that new game. That’s part of recognizing when a strategy applies.
+
+Tim Ferriss: Absolutely. I was just having a conversation with someone about the rise and fall of Kodak yesterday, and of course, this is the disruptive theme that one encounters so much in Silicon Valley. I wasn’t planning on asking this, but I’d be so curious to hear: Given your experience with regulatory risk and so on, what do you feel – if you have an opinion – Uber has done well, and what could they have executed more effectively or strategically?
+
+Reid Hoffman: What they’ve done well is essentially quickly deploying their product so that it’s clear that there’s a bunch of people who are benefiting from it, both consumers and drivers, in various circumstances so that there’s an ecosystem of people by which you go, “Look, see? We can actually add a lot of positive to the system.” I think that’s been one of the things that they’ve done most positively within it.
+
+On the negative side, the company tends to be very combative, and when you think about the mental space in which regulators tend to operate, they tend to have gone into that job because they view themselves as protectors of important groups of society, whether they’re consumers, workers, or other folks.
+
+And so, they don’t tend to respond very well – it’s not a competitive game with them. It’s not that you bulldoze through them or over them. What they want is to know that their concerns are being answered, and it’s frustrating to the company because the regulators are being triggered by competitive interests like taxicab companies and other kinds of things which want the world to stay exactly as it is, which is not good for anyone. “The way that we’re going to run is the way we were running in the 1950s, and that’s the way we’re going to be running in 3000.”
+
+That’s obviously not a very good idea, so innovation and its pushback is frustrating, but nevertheless, when you’re interfacing with regulators, you have to interface with them with the understanding that they may be conservative, they may be slow to change, they may be risk-averse, but their goal is a mission of protecting society, so you should interface with them on that channel more than on the, “Get out of my way; I’m innovating. I’ll treat you like I treat a competitor.” That creates a lot of unnecessary friction.
+
+Tim Ferriss: Right. That makes sense. You are considered a company-builder. You’ve had an integral part in building some massive successes. But, you’re also very well-regarded as an investor, and I would love it if you could tell the story of getting introduced to Mark Zuckerberg, and how you decided to be one of the first investors in Facebook.
+
+Reid Hoffman: Actually, I could have told you I was interested in investing in Facebook even before Mark Zuckerberg. I tracked the product. I thought it was extremely well done. When I tracked it, he and his cofounders – Dustin, Chris, and others – were in Boston, going to Harvard, so as an angel investor, it was too much of a hassle. As a venture capitalist, I would have flown out there. As an angel, it was too much of a hassle.
+
+And so, I went, “Oh, that’s cool,” and went back to it. And then, I got this call from Sean Parker, whom I’d known from his work at Plaxo, and as a good product inventor and good systems thinker on these things, and Sean said, “I just met these really good guys – Mark Zuckerberg and others – who are doing this thing called Facebook that I’m joining, and it’s really awesome.”
+
+I’m like, “Oh, that’s really cool. Are you moving to Boston?” He’s like, “No, they’re here.” I’m like, “Oh, that’s interesting.” He’s like, “Yeah, and we’re looking for an investor.” I’m like, “I would definitely like to meet with them. I’m super interested in this.” One of the things I said, which I think totally – even though it’s been the most expensive economic decision I’ve ever made in my life, but all in a good outcome.
+
+I said, “When I led the Series A in Friendster, I got a lot of pushback on having my cake and eating it too because I don’t see any conflict between Friendster and LinkedIn. It generated all this stuff. Part of having integrity and a high sense of ethics, but having done some work on appearing to have it. So, what I think we should do is have Peter Thiel lead the round and I’ll follow, because then Peter can be the board member, and even though I’m super interested in this, I think that’s probably the best thing to happen.”
+
+And so, my very first meeting with Zuckerberg was at Peter Thiel’s office with Sean, who I’d known, and with Zuck, and Matt Cohler was there as well. He was working for me at the time. That was our very first meeting. Basically, the meeting was very confirmatory because we’d already seen the product, already known the product was amazing, already seen it having traction, and what I learned from the meeting – which was hardly a surprise, especially now in retrospect – was that Zuckerberg was extremely smart, very much a learning machine, very good at the evolution at technologies.
+
+But, I was already more or less positive – if he’d said, “I don’t want to meet with you, but would you put in money?”, I probably would have put in money anyway.
+
+Tim Ferriss: Right. What was Mark Pincus’ role at that point, or his involvement with Facebook?
+
+Reid Hoffman: Pincus had also known Sean Parker back from the Napster days. Pincus had done an early startup called Freeloader. But, part of how Mark got involved in the Facebook investment was that separately, Mark and I had bought a patent called the Six Degrees patent, which describes the viral expansion of a system.
+
+Again, on the X basis, I said, “Look, Mark and I are partners on this. We’re actually trying to protect all these new Web 2.0 viral companies. That’s our principal goal in going and buying this patent. But, given that Facebook is also in this, I should also split the investment with Mark because basically, it’s part of being a good partner with him.” So, that’s part of how Mark – he had also known Sean Parker, and Sean had talked to him about it as well, so there’s a bunch of different things, but that’s fundamentally how Pincus also became a Series A investor in Facebook.
+
+Tim Ferriss: Peter Thiel, @PeterThiel on Twitter, has been involved with some of the most dynamic companies to emerge from Silicon Valley, both as a founder and investor. He also certainly has some fascinating stories related to Gawker media and others, which we may talk about another time.
+
+Peter’s first startup was PayPal, which he cofounded in 1998 and led to a $1.5 billion acquisition by eBay in 2002. After eBay, Peter founded Clarion Capital Management, a global macro hedge fund. He’s done so much. He’s also launched Palantir Technologies, an analytical software company – I suppose that’s an understatement – which now books more than $1 billion in revenue per year, and he serves as the chair of that company’s board. Peter has invested in more than 100 startups, he was the first outside investor in Facebook, and he consistently questions assumptions, which allows him to think differently.
+
+Why do so many investors spray and pray instead of focusing on just five to seven companies in each fund, like you do at Founder’s Fund? The second part of the question is do you have any rules that you follow, or tips for those who want to invest in early-stage ventures more intelligently?
+
+Peter Thiel: I think people would say that they spray and pray because of some sort of portfolio theory or diversification theory, and if that’s true, that might work. I don’t actually believe that to be true. I think the real reason people spray and pray in their investing is because they lack conviction, and perhaps because they’re too lazy to spend the time to try to figure out what companies are ultimately going to work.
+
+One of the reasons I do not like that sort of approach to investing is that I don’t think it’s good to treat companies as lottery tickets. I think it’s terrible to treat the founders of companies as lottery tickets, and I think it’s not just a bad moral thing to treat people as lottery tickets, I also think it’s bad as an investor.
+
+As an investor, once you say that there’s a small probability of a big payoff – small number times big number normally equals a small number. So, once you’re thinking in lottery-ticket terms, you’ve already psyched yourself into writing checks without thinking, and are therefore losing money.
+
+And so, I think the anti-lottery-ticket approach is to try to be concentrated because that forces you to have high levels of conviction before you write a check of any size, and then I think you’ll do much better.
+
+Tim Ferriss: What does philosophy have to do with business, and how has your study of philosophy helped you in your investing and career today?
+
+Peter Thiel: I’m not sure how much the formal study of philosophy matters, but I think the fundamental philosophical question is one that’s important for all of us, and it’s always this question of, “What do people agree merely by convention, and what is the truth?” I think the fundamental distinction in a society is that there’s a consensus of things that people believe to be true, and maybe the conventions are right, and maybe they’re not. We never want to let convention be a shortcut for truth. We always need to ask, “Is this true?”
+
+This is always what I get at with this indirect question. “Tell me something that’s true that very few people agree with you on.” Silicon Valley is a place that is laden with conventional thinking, and one of the reasons that it may afflict Silicon Valley even more than the rest of our society is that there are so few markers.
+
+One of the things we’re focused on in Silicon Valley is the future, and the future is not always a clear thing. People can be uncertain about it, and when they’re uncertain about the future, they will try to find shortcuts involving looking at what other people say about the future, and when everybody is simply listening to everybody else, that’s the definition of a bubble or a mass psychosocial insanity. And so, I think this question of trying to think for yourself or break through convention is always important, but perhaps so even more in Silicon Valley than in most places.
+
+Tim Ferriss: What do you think the future of education looks like?
+
+Peter Thiel: I don’t like the word “education” because it is such an extraordinary abstraction. I’m very much in favor of “learning.” I’m very skeptical of credentialing or the abstraction called “education.” So, there are all these granular questions. What is it that you’re learning? Why are you learning it? Are you going to college because it’s a four-year party? Is it a consumption decision? Is it an investment decision, where you’re investing in your future? Is it insurance? Or, is it a tournament where you’re just beating other people, and are elite universities really like Studio 54, where it’s like an exclusive nightclub?
+
+I think if we move beyond the education bubble that we’re living in today, the future will be one in which people can speak about these things more clearly, and we will talk about whether it’s an investment decision, a tournament, or a trade or vocational skill that you’re developing.
+
+I think engineering is the opposite of education because it’s a specific skill that people are learning, and as a discipline, it cuts most against the banality that we’re always told – you’re learning how to learn, or you’re not learning anything in particular, you don’t know why you’re learning things. Engineering is the anti-education in that sense, and I think in some ways, it’s a paradigm for the way I think it will be more in the future.
+
+I think we will have much less of a one-size-fits-all approach. I think the big tract institutions are delivering less and less and charging more and more. And so, I think we are at a point where things will look very different.
+
+One of my friends suggested that we are at a point in education that’s like the place where the Catholic Church was on the eve of the Reformation. It had become a very corrupt institution. It was charging more and more for indulgences. People though they could only get saved by going to the Catholic Church, just like people today believe that salvation involves getting a college diploma, and if you don’t get a college diploma, you’re going to go to hell.
+
+I think my answer is in some ways like that of the reformers in the 16th century. It is the same disturbing answer, that you’re going to figure out your salvation on your own.
+
+Tim Ferriss: What are your daily habits and routines?
+
+Peter Thiel: I always feel I’m a terrible person answering that question, since things are very unstructured in many ways, but I’d say that one thing I try to do every day is to have a conversation with some of the smartest people I know and continue to develop my thinking. So, I’m trying to learn new things, I find that I learn them from other people, and it’s often people with whom I’ve had conversations for a long time.
+
+So, it’s not an MTB approach where you talk to a new smart person every day. It’s one where you have sustained conversations with a group of friends or people you’ve been working with for a long time, and you come back to thinking about some of these questions, and that’s how I find I continue to learn every day and expand my thinking about the world.
+
+Tim Ferriss: What one thing would you most like to change about yourself or improve on?
+
+Peter Thiel: It’s always hard to answer this since it begs the question of why I haven’t already improved on it, but I would say that when I look back on my younger self, I was insanely competitive, and when you’re very competitive, you get good at the thing you’re competing with people on, but it comes at the expense of losing out on many other things. So, if you’re a competitive chess player, you might get very good at chess, but neglect to develop other things because you’re focused on beating your competitors rather than on doing something that’s important or valuable.
+
+And so, I’ve become much more self-aware over the years about the problematic nature of a lot of the competitions and rivalries that we get caught up in, and I would not pretend to have extricated myself from this altogether. So, I think it’s something to reflect on every day, and think about, “How can I become less competitive in order to become more successful?”
+
+Tim Ferriss: What did you want to achieve by writing Zero to One?
+
+Peter Thiel: When you write a book like this, you’re trying to reach as broad an audience as possible. There’s much that I’ve learned in the last 15 years as both an entrepreneur and investor in the technology industry, and I wanted to share some of these lessons, not just at Stanford, but also in Silicon Valley and with the wider world.
+
+I think this question of technology is critical to our society in building a better future in the 21st century, and I think there’s both an alarmist and a hopeful part of this book. The alarmist part is if we do not get our act together and innovate more, we will have a bleak and stagnant century ahead of us. On the other hand, the positive side is that there’s absolutely nothing about “All the great ideas have been found.” It’s not the case that all the low-hanging fruit has been picked.
+
+There are a great deal of things that can be done and that people can achieve. There are many great secrets left to be unlocked in the decades ahead. And so, I think it’s primarily a cultural question of what we need to do to get back to the future.
+
+Tim Ferriss: Seth Godin, on Twitter @ThisIsSethsBlog… I was having trouble with my “th.” That part of English is hard, folks. Have you ever noticed that, that a lot of other people speak other languages? Anyway, Seth Godin has one of the most popular blogs in the world. You can find it by simply typing “Seth” into Google, and he will pop right up.
+
+In 2013, Seth was inducted into the Direct Marketing Hall of Fame. He has founded several companies, including Yoyodyne and Squidoo. He also turned the book publishing world on its ear by launching a series of four books via Kickstarter. He’s done a lot of experimenting in publishing, so I watch him very closely. That campaign reached its goal in just three hours and became the most successful book project – at least then – in Kickstarter history.
+
+What opportunities were you offered – it doesn’t have to be specific – that you’re glad you turned down? Are there any particular examples that come to mind? If not, I can move on, but I’m just curious if there are any opportunities that you’ve turned down. For instance, one of mine would be every reality TV show I’ve ever had. I’m thrilled, and I was extremely tempted early on, but in retrospect, I’m extremely happy I said no to all of that.
+
+Seth Godin: Yes. That’s a great point. TV runs deep in our culture. They wanted me to be on that super famous one, and then that other one, and I never hesitated in saying no because that’s the moment when you decide who you want to be. So, I paid extra careful attention to the question and extra careful attention to my answer, and it resonated.
+
+I would say the biggest shift – which is, for Silicon Valley people, hard to get your arms around because there’s a game being played there, and it’s a game I’ve opted out of – is when I was at Yahoo during the renaissance in 1999, Bill Gross – who’s a super nice guy – came to me and asked me to be head of marketing for the company he was building. It had Steven Spielberg on the board. It was teed up to be the seventh next IPO, and there were $1 billion in stock options on the table.
+
+I said to myself, “Well, if I say yes to this, I’ve decided what I do for the rest of my life, which is say yes to the next one, because I don’t need to say yes to this to buy cilantro and vodka. Why would I say yes? It’s because I like the game.”
+
+And, I didn’t say yes, and even though the $1 billion in stock options never came around, I think I’d be even more proud of it if they had because money is a story. Once you have enough for beans and rice, and taking care of your family, and a few other things, money is a story, and you can tell yourself any story you want about money, and it’s better to tell yourself a story about money that you can happily live with.
+
+Tim Ferriss: Could you elaborate on that a little bit? What is your story about money? Is it what you just said? This is a really important point, and it’s something I’ve been trying to mull over in the last year in particular.
+
+Seth Godin: Well, let me start with the marketing story about money, which is this: Take a $10.00 bill and go to the bus station, walk up to someone, and say, “I’ll sell you this $10.00 bill for $1.00.” You should actually do this. No one will buy it from you.
+
+There are a few reasons for this. The first reason is no one goes to the bus station hoping to make a financial transaction. The second one is only an insane person would try to sell you a real $10.00 bill for $1.00, and dealing with insane people is tricky. So, it must not be a real $10.00 and you should just walk away.
+
+Now, let’s try a different thing. Put a $10.00 bill in your neighbor’s mailbox when he’s not home and run away. Do it the next day and the third day. On the fourth day, ring your neighbor’s doorbell and say, “I’m the guy who left three $10.00 bills in your mailbox. Here’s another one. Do you want to buy it for $1.00?” You’ll sell it because your neighbor knows you’re crazy, but you’re crazy in a very particular way, and you’ve earned the trust that it’s a real $10.00 bill. So, we assume that $10.00 bills are worth $10.00, but it’s a mutual belief, and if the belief isn’t present, they’re worth nothing.
+
+Now, we get to our internal narrative about money. Is money that number – it’s not even pieces of paper anymore, it’s a number on a screen – is that a reflection of your worth as a human? One of the things that Derek said on your podcast – that I sort of disagree with – is that being rich is a signal – a symbol – that you’ve created a lot of value for a lot of people.
+
+I think lots of times, that’s actually not true, and there are lots of ways to create value for people, and most of them do not involve money. So, what we have to decide – once we’re okay, once we’re not living on $3.00 a day, once we have a roof, once we have healthcare – how much more money we get and what we’re going to trade for it. We always trade something for it unless we’re fortunate enough that the very thing we want to do is the thing that also gives us our maximum income.
+
+I don’t think that merely because some blog decides that people with big valuations are doing better means you should listen to them.
+
+Tim Ferriss: So, when you think of the word – if you even think of this word – when you hear the word “successful,” who’s the first person that comes to mind for you and why?
+
+Seth Godin: My parents were successful because of how many people they mattered to. My friend Jacqueline Novogratz, who I think should win the Nobel Prize, who runs the Acumen Fund, is insanely successful. She’s changing whole continents of the earth by bringing an idea to the fore and doing it relentlessly year after year. And then, I think about people in my neighborhood who are successful because they get to shovel their neighbor’s walk who’s elderly and it snowed last night. That privilege and that trust lets them live a successful life.
+
+Tim Ferriss: Is there anything you’ve changed your mind about in the last few years?
+
+Seth Godin: Other than the web being dumb?
+
+Tim Ferriss: Other than the web being dumb.
+
+Seth Godin: Yeah, there are a bunch of things. I’ve changed my mind in each direction about the book industry – about it not mattering, then about it mattering, then about it being in a sad but slow decline. I’ve changed my mind about the big companies in the center of our internet. I think that they changed around the same time I changed my mind – maybe before that.
+
+They went from being really profoundly useful, important public goods that created enormous value to being public companies where there’s so much pressure on management by everyone who works there to make the stock price go up that they don’t often make decisions for the public good anymore, and I was probably naïve to think that they would keep doing it, but they are stopping.
+
+Tim Ferriss: What is something that you believe that other people think is crazy or insane? This is a bastardization of a Peter Thiel question that I use in interviews sometimes.
+
+Seth Godin: I think that deep down, I am certain that people are plastic – in the positive sense – flexible, and able to grow. I think almost everything is made, not born, and that makes people uncomfortable because it puts them on the hook, but I truly believe it.
+
+Tim Ferriss: Well, there you have it, folks. The collected wisdom – just a small sampling – from some of the smartest investing minds I’ve ever bumped into.
+
+Now, I want to hear from you. Please let me know – what did you like about this episode? What do you want to hear more of? What did you not like? What topics or themes would you be most likely to explore? Please let me know. I love your feedback. Just ping me on Twitter @TFerriss, or you can leave a comment at tim.blog/podcast, and until next time – and as always – thank you guys so much for listening.
+
+
+TAGS
+CHRIS SACCA, INVESTING, MARC ANDREESSEN, PETER THIEL, REID HOFFMAN, SETH GODIN
+	

@@ -1,0 +1,425 @@
+
+
+MAY 28, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Edward O. Thorp, A Man for All Markets — Beating Blackjack and Roulette, Beating the Stock Market, Spotting Bernie Madoff Early, and Knowing When Enough Is Enough (#596)
+
+
+Please enjoy this transcript of my interview with Edward O. Thorp (@edwardothorp), author of the bestseller Beat the Dealer, which transformed the game of blackjack. His subsequent book, Beat the Market, coauthored with Sheen T. Kassouf, influenced securities markets around the globe. He is also the author of A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market.
+
+Edward was one of the world’s best blackjack players and investors, and his hedge funds were profitable every year for 29 years. He lives in Newport Beach, California.
+
+
+
+
+
+#596: Edward O. Thorp, A Man For All Markets — Beating Blackjack and Roulette, Beating the Stock Market, Spotting Bernie Madoff Early, and Knowing When Enough is Enough
+
+
+
+
+DISCLAIMER FROM TIM FERRISS: I am not an investment adviser. There are risks involved in placing any investment in securities or in Bitcoin or in cryptocurrencies or in anything. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear listener or reader. Everything you’re going to hear in this interview is for informational entertainment purposes only.
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss and welcome to another episode of The Tim Ferriss Show. I’m going to keep my intro short because I want to jump straight into the conversation. My guest today is Edward O. Thorp. He is the author of the bestseller Beat the Dealer, which transformed the game of blackjack. His subsequent book, Beat the Market, co-authored with Sheen T. Kassouf, influenced securities markets around the globe. He’s also the author of A Man For All Markets, subtitled From Las Vegas to Wall Street, How I Beat the Dealer and the Market.
+
+Thorp was one of the world’s best blackjack players and investors and his hedge funds were profitable every year for 29 years. He lives in Newport Beach, California, and his website is edwardothorp.com. Ed, it is so nice to see you, and thank you for making the time.
+
+Edward O. Thorp: Pleasure to be here, Tim. I’ve enjoyed many of your podcasts.
+
+Tim Ferriss: It’s lovely to finally connect and perhaps we’ll get to the small world that connected us at some point, but I thought we could begin with a little bit of background for people who may not have the entire context, and then we can fill in the gaps. So perhaps you could speak to a little bit of your growing up and your formal education, if you wouldn’t mind.
+
+Edward O. Thorp: I was born in Chicago during the reign of Herbert Hoover, president number 31. I’ve seen 16 presidents. I moved out to California with my parents during World War II, and basically grew up in California, went through junior high school and high school out here, and then went to UC Berkeley and UCLA. And I got a Bachelor’s degree and a Master’s degree in physics. And then in the middle of my PhD for physics, I realized I needed more math. So I started taking it and then I saw I could graduate more rapidly in mathematics. So I got my PhD in math instead. And then I went on to teach at UCLA, MIT, New Mexico State University, and finally, University of California Irvine.
+
+Tim Ferriss: Now how did gambling or interest in those types of applications of physics or mathematics enter the picture for you?
+
+Edward O. Thorp: Well, I’m a curious person and you could say that it happened purely by chance. When I was teaching at UCLA, I got interested in beating blackjack. Somebody told me about an article that would’ve let me play almost even. So, one Christmas vacation, my wife and I went out. It was actually Christmas vacation of 1958, just after I got my PhD. We went out to Las Vegas and I’d never gambled because I knew it was a loser for most people, and the odds were against you, but I bet $10. I played for about 40 minutes and I had an interesting experience. The first 20 minutes, I had a little card telling me what to do and people thought I was a fool who knew nothing about the game. They were right that I knew nothing about the game, but the card made me much smarter than the other players.
+
+And so I made some remarkable plays that attracted their attention. And then they all hovered around, they wanted to see how I was making these plays. In one of them, I got a seven card 21, which is very rare and in most places, paid a bonus. They didn’t pay bonus in this particular place, but they thought I was trying for that and I somehow managed to produce it. So I realized they didn’t know much about the game, really. I went back and read carefully the statistics article and realized that I could see, from my math background, how to actually devise the system to beat the game. Then I set about to do it. About that time, I moved from UCLA to MIT and I had access to the big computers at MIT. This was back in 1959. They had an IBM 704, which was a refrigerator-size machine that served 30 New England universities.
+
+So I taught myself how to program. And as I worked my way through with my ideas, I saw that I had a winning system and it was just a matter of finishing all the calculations, so I went ahead and did that. Then I wanted to get this system published because I thought that from my experience in mathematics and what I’d seen happen elsewhere, other people would claim they did it and grab the credit. That annoyed me because it had already happened to me in mathematics a couple of times.
+
+So I went shopping for somebody who could get me quick publication and turned out that on the MIT campus, there was a man who I knew nothing about named Claude Shannon, who was an Institute professor. And he was a member of the National Academy of Sciences. So he could get me, if he approved of what I wrote, a quick publication in the proceedings of the National Academy, it would only take a couple of months to get it out.
+
+So I looked him up one day and the secretary at MIT’s math department said, “There’s no point in going to see him. He doesn’t see people. He’s very private. And if you do get to see him, you’re only going to have five minutes.” I finally managed to see him at lunch for five minutes. And after we talked, he said, “Well, it looks like you’ve got all the main ideas here. Yes, I’ll put this through, but we have to change the title.”
+
+The title was A Winning Strategy for Blackjack and he changed it to something like A Favorable Strategy for 21, which sounded better. He didn’t want to make too bold a statement for the National Academy and make it look like this just a gambling paper. So anyhow, the paper got sent in and it caused a sensation because I had submitted an abstract to the American Mathematical Society meeting in Washington, DC, where I was going to present.
+
+By the way, they initially rejected the abstract saying that, “This is just another fool with a system that doesn’t work, because we know you can’t beat gambling games.” But on the abstract committee was a person I knew well from UCLA, a number theorist named John Selfridge, became quite well known in number theory. And he said, “Well, if Thorp says it’s true, it probably is. So you should accept this abstract.” So I went there and I presented, and I thought there’d be about 50 mathematicians in the audience.
+
+But instead there were 300 people. It was jammed. And a lot of people were very odd looking. They had pinky rings on and sunglasses and tropical shirts in the middle of winter. So after I finish, they lunge for my little handout. I brought 50 handouts thinking that’s all I would need there. I basically tossed the handouts out and left as quickly as I could. Then it was picked up by a fellow named Tom Wolfe, who became a famous American novelist. He was a young reporter then, and he wrote a piece for AP, which went across the country, so it got massive press. That led to me writing a book and telling everybody how to do it after a couple of years.
+
+Between the time I wrote the book though, and when I told people how to do it by publishing, I went out and played blackjack myself and proved the system worked. I figured that there’s no point in writing a book unless I knew it really worked. I knew it worked in theory, but what if you actually tried to do it? And a lot of things, they seem to work in theory, but when you get down and actually put something to the test, you find out there are all kinds of things you didn’t think of. It turned out in this case it worked very well. We made in one weekend with a test $11,000, which is about that with a zero on the end in today’s money. This is in about 20 hours of serious play. So I had lunch money at MIT for a very long time thereafter.
+
+Tim Ferriss: Ed, let me just jump in for a moment. So a couple of questions, I could have a thousand follow up questions, but I’ll limit it to a handful. The first was for that 11,000, which would be, say 110,000 in today’s dollars, 20 hours of serious play. Do you recall roughly what the bank roll was or the — 
+
+Edward O. Thorp: It was $10,000.
+
+Tim Ferriss: — starting capital. Oh, that was the starting? Okay, got it.
+
+Edward O. Thorp: Yeah. We started and we added 11,000.
+
+Tim Ferriss: I see — 
+
+Edward O. Thorp: So we a little more than doubled it.
+
+Tim Ferriss: On top of that.
+
+Edward O. Thorp: And my prediction before we went was that that’s what would happen.
+
+Tim Ferriss: So it panned out. All right. Two other questions, rewinding a bit to your earlier story. When you were first sitting at that blackjack table, if I heard you correctly you said you had a little card. If I heard you correctly. Could you describe what was on the card?
+
+Edward O. Thorp: Yeah. It was a set of rules for hitting and standing, doubling down and pair splitting. And it was the best way to play with a high degree of approximation. It was the best way to play against a full deck or what was left of a randomly shuffled deck if you didn’t know anything more about the cards that had been used up. And my contribution after I understood this was to figure out what would happen when some of the cards are missing from the deck, because the cards that are used up are not a representative sample of the cards in the deck, they can vary quite erratically. For example, you might use all the aces early and that would be bad for the player, or you might use none of them up until late in the game and that would be quite good for the player.
+
+Tim Ferriss: And with Claude Shannon, the person who doesn’t meet anyone, you said you were able to get five minutes at lunch. Why were you able to get time with Claude? Or why do you think he was willing to spend time with you?
+
+Edward O. Thorp: It turns out that he was willing to spend five minutes, I think probably just to get rid of me, but after we talked, he kept asking me questions and it became 15 minutes. Then he approved the paper that I wanted to submit. And then he said, “What else are you working on?” So I said, “Well, there’s another project, which actually I started before blackjack and which got me interested in gambling.” That’s a way of beating roulette. And Claude Shannon, it turns out, was probably the king of gadgeteers. He built many ingenious machines over the course of his life. He built robots that would run mazes, machines that would play chess.
+
+He just loved all that sort of thing. And he had a house full of gadgets and equipment, hundreds of thousands of dollars worth, valued in money back in 1958, ’59. So when he heard about roulette and I explained to him what my ideas were there, he got very excited. So we continued to talk and this five minute meeting became half an hour and then an hour. And then we adjourned to the cafeteria at MIT to grab a bite. And we went on for another couple of hours and we decided that we would join together and make an all-out effort to build a machine that would allow us to predict the outcome of our roulette game. 
+
+Tim Ferriss: And the house in casinos have had to — I was going to say “adapt,” but really counteract your strategies and tools by changing the rules. So could you say more about what you then devised in the case of roulette?
+
+Edward O. Thorp: Well, what we did was we built a small computer that had about 11 transistors in it, 11 or 12. I don’t remember which because we had two versions and I forget whether we ended up with the 11 or 12 transistor version. The computers now at the MIT Museum in Cambridge, it’s been on exhibit in various parts of the world at one time or another.
+
+In any case, over about a nine or 10 month period, we worked in Shannon’s basement almost full time. We built this wearable computer. It turned out to be the first wearable computer, according to the MIT media lab. One person would wear the computer and enter a push-button information about the position and velocity of the ball and the rotating wheel in the center. And then the computer would instantly — there’s a trick there. I do mean instantly. It would instantly tell you where to bet. So the other person would sit at the roulette table, apparently not connected with the observer who was busy putting in the roulette information. That person would hear a series of musical tones. And when the musical tone stopped, the last tone in the octave would tell him what section of the wheel to bet on.
+
+We divided the wheel into eight sections with a little bit of overlap. So the person who bet, which happened to be me, was able to quickly put down money on five neighboring numbers on the wheel. Had a massive edge of 44 percent, so the piles of dimes we started out with, with our experiment, dime chips became huge piles of dimes very quickly. So the computer worked wonderfully. Well,
+
+Tim Ferriss: I want to take a step back just for people who are listening and say that there are many reasons that I wanted to have this conversation with you. It is not specifically related to gambling in the sense that what most — there are many things that interest me about your life and your thinking and my hope is that for people listening, they get a window into at least two things. One would be your methods of thinking frameworks for thinking, how you think about thinking.
+
+And then also your personal approach to health and fitness, because as people may have picked up with some of the references, could you tell everyone listening what your age is as we speak today?
+
+Edward O. Thorp: I’m 89.
+
+Tim Ferriss: And for those people who can’t see video, you look like you’re in your 60s. And I am just beyond excited to hop right into that. So we’re going to jump around quite a bit. We want to do this exactly chronologically, but could you perhaps describe your approach to health and fitness? And you could tackle that starting wherever you like. Is it just that you were given the right parents and out of the box have tremendous genetics? Is there more to it? How would you begin to unpack this?
+
+Edward O. Thorp: I wandered into health and fitness by accident initially, just like I’ve wandered into blackjack and roulette. I’m curious and always looking for things to understand. I liked the idea of self-improvement too. So I was walking behind the student co-op one night when I was about 20 and heard a bunch of clanking. And I looked down in the basement and there were some fairly burly guys down there pumping iron. And I walked in and I said, “This is a waste of time. This is ridiculous.” So one of them said to me, “I’ll bet you a milkshake that if you work out with us for a year, just one hour an evening three evenings a week, you’ll double your strength,” in a set of exercises that they described. So I said, “I don’t believe it. Let’s try it.”
+
+So I went down and the four exercises were the squat with a barbell on a rack, the military overhead press, the bench press, and deadlift. No, it wasn’t deadlift. It was something else. I forgot the fourth one at the moment, but I’ll think of it.
+
+Tim Ferriss: Yeah. Clean and jerk, maybe? Who knows? Or a bent row. Yeah, just throwing out guesses.
+
+Edward O. Thorp: Yeah. It was something along those lines.
+
+Tim Ferriss: But a compound exercise like the others.
+
+Edward O. Thorp: Yeah. So there was a fourth exercise. Anyhow, what happened was, I was a — I wouldn’t say 98-pound weakling, but maybe a 150-pound weakling. And at the end of a year, I could military press 185, which was at least double what I started with. I could bench press 375. I could do 15 at 325. Oh, yeah, I could squat with 375. I could do sets. I forget what the other one was. I wish I could remember it.
+
+In any case, I was astounded that all this came to pass, so it made me pay attention to strength, at least. And some time went by and I did a little swimming because I got interested in scuba diving. Then one day in my 30s I was jogging along the beach with my brother-in-law and he said, “Let’s go for a little jog.” I went for about a quarter mile and I was a gasping. I was 35 then, I remember, and I said, “This is awful. I’m in terrible shape. I have to do something about this.”
+
+So they had a book on aerobics by somebody named Ken Cooper who had a lab down in Texas and started in large part the aerobics revolution that swept the country. So I started keeping track of his points. He gave you points for various degrees of aerobic effort. I think if you did a mile in between 12 and 15 minutes you got one point. You did between like 10-and-a-half and 12, you got two points, and so forth. So I started trying to run a mile a day and I did that — well, I ran a mile every Saturday to start with, and then one Saturday I just had to try a little farther, so I ran two. And then three. And then I said, “I’ll try a 10-mile race.” So I ran a 10-mile race, which was kind of foolish, but I finished and I did reasonably well.
+
+So then I said, “I’ll try a marathon.” So then I got into marathon running and I really liked that. I did that for about 20 years until I hurt my back weight lifting. All my bad events have been from pushing myself athletically. So hurting my back was probably the worst single thing. I herniated a disc, so I had to stop heavy pounding and heavy running.
+
+But 20 years of road running and, well, more than that, maybe 25 years and marathoning gave me, I think, a very good base for going forward. So now I do things like I’ll walk about three miles three or four times a week. And I spend about two days in the gym doing stretching and strength exercising, core strengthening and so on. A lot of emphasis on core because of my back, which is just fine now.
+
+Tim Ferriss: I was just going to ask how your approach seems like it has evolved and changed over time. Say, after 50 years of age or in the last, say, 40 years or so, are there any particular changes that you made in addition to the core strengthening to support the back that you think have contributed to your longevity?
+
+Edward O. Thorp: I’ve evolved. I try to listen to my body. So I do what I enjoy. The rule I started to follow was some is better than none. And more, up to a point, is better than less. So there’s no excuse. I mean, if you tell yourself, “Gee, I’m not going to do this because I can’t do the whole program.” That’s a big mistake. Just start doing it. I found that if you start doing it and you get used to it, you find more and more things that you kind of like that you could build on and then you just keep getting better at it. I was probably in my best shape at around 55 to 65 because of all this.
+
+Tim Ferriss: Wow. That is inspiring. I am just about to turn 45 and even amongst my, just to say, age cohort, it’s very common for me to see people giving up even in their 40s and blaming it on age. But with you sitting in front of me, describing your trajectory and adaptive habits, I feel like those excuses don’t hold a whole lot of weight. Is there any other advice?
+
+Edward O. Thorp: One thing that’s pretty neat is race walking. I did that for a while and that’s something that is lower impact than running, but you can get the same kind of aerobic workout. So that’s something I direct people towards.
+
+Tim Ferriss: What does your strength training look like now or over the last few decades?
+
+Edward O. Thorp: Well, as I get older, it declines. I get weaker and it gets a little harder to do things. I feel a little tireder. I can’t do as many reps or sets of things. So I have a mix of things that I do now. I will do squats and usually now just body weight. I try to, I’ll do dumbbell squats or lunges with a lot of emphasis on one leg and then shift and do a lot of weight on the other leg, do pull-ups. I think the best I’ve done recently, which is not very much is four underhand pull ups and two overhand pull ups. I used to be able, 10 years ago, I could do a dozen of each and let’s see what else. Well, I do a lot of back exercises regularly on the mat, and that’s very helpful for keeping my back in shape and keeping my core in pretty good condition.
+
+Tim Ferriss: So we may come back to this, but let’s segue and go back in time yet again, and look at investing. How did finance or investing enter the scene for you?
+
+Edward O. Thorp: The way I got to finance and investing was that I made money at blackjack and from book royalties. And so this first time in my life I had any spare of money before that, as an academic, my wife and I were living from month to month with no surplus and then kids were coming and that made it even tougher. So once I had some money from both gambling and book royalties, I wanted to figure out what to do with it. And so investing made good sense to me. I would put some capital aside and let it grow. I started out by making a lot of foolish beginner mistakes, which cost me, and then I decided to sit down and really figure this thing out. And so I began to study investing in my spare time. So I spent the summer 1964, which was, I guess the third year I was at New Mexico State, just reading all summer in a big bookstore in Beverly Hills, Martindale’s, reading all the investment books and newspapers they had.
+
+And then I started again in the summer of ’65 reading whatever I could find. And I happened to get a little book on warrants, common stock purchase warrants, which were the forerunner to what people call options now. And when I saw that a light came on and I realized that I could mathematicize this and I could figure out how to value these things. And if I did that, I’d probably be ahead of the crowd who didn’t know how to do these things and so I’d probably have an edge. By chance, I came to UC Irvine when it opened in the fall of 1965. And I was telling one of the deans there about this idea that I had and that I was working on. And he said, “Oh, we have someone else who does that,” and turned out to be Sheen Kassouf. And so the two of us hooked up and Sheen Kassouf had actually been doing it in practice, and he’d already made an elementary model for trying to judge warrants.
+
+So we decided to write a book together and work out more of the details and theory. And so that became the book Beat the Market, and that launched both of us into separate businesses. And so I began to do what I call warrant hedges. And basically, you buy a cheap warrant and you short common stock against it, that’s one way, or you buy an overpriced warrant and you short it;, I said buy, you short an overpriced warrant and you buy the common stock against it to hedge the risk, because they tend to move together. and in the case of the overpriced warrant, as it collapses toward zero or toward its conversion value, you capture an excess return. And what I found was that you could make a steady 25 percent a year with practically no risk doing this. So I was doing it for myself and then word spread around UCI campus and people wanted to sign up.
+
+So I signed up the dean of the graduate division and I also signed up the secretary to the chancellor and some people in the math department and so forth. So I was managing a whole collection of little accounts for people and they were making 25 percent a year and they kept telling everybody about it. And the dean of the graduate division happened to be an investor also with a fellow named Warren Buffett. And Warren Buffett was, at that point, shutting down his partnership because everything was overpriced back in 1968, prices were crazy and the dean of the graduate division wanted to know where to move his money to. So he introduced me to Warren Buffett to check me out, to see if that might be a good place to put it. And so Warren and I got along fine and apparently I passed the test because the dean gave me his money to invest.
+
+And so I got to know Warren Buffett and I was sorry to see that he was going out of business because I thought, as I told my wife then, “This is going to be the richest man in the world.” We’ll come back to that a little later. I think you’ll find the follow up to that quite interesting. So I mean, I got the idea of forming a hedge fund from Warren Buffett who was just closing down his hedge fund. And so I went into business managing accounts and then merged the accounts into the hedge fund and started this hedge fund or private limited partnership. And that ran for about 20 years and used ideas that I kept generating, mathematical finance ideas, to staying ahead of other investors and making excess returns. And in 20 years we only had three down months out of all those months. And those down months were less than one percent.
+
+So basically just printed money every month and made just under 20 percent annualized during that time. So here was a, I’m very risk averse as you’ll find as we continue to talk, and so this thing ran with extremely low risk, but yet had very high return. So that was my entree into investing.
+
+Tim Ferriss: That’s one hell of an entree, 20 percent to 25 percent annually. Let’s touch on a few points here. So there were two other people who I believe read, Beat the Market or were influenced by it, Fisher Black and Myron Scholes. Could you just perhaps fill in the dots with that because Nassim Taleb refers to the Black-Scholes model with a different name. Could you perhaps just fill in the gaps there for people who are listening?
+
+Edward O. Thorp: I actually figured out what this model was back in the middle of 1967 and I decided that I would just use it for myself and then later I kept it quiet for my own investors. The idea was to basically make a lot of money out of it for everybody. And it was fun to me just to develop it and apply it to various things. Now, Fisher Black and Myron Scholes read Beat the Market, which was the launching pad for me into finding this model. And it was also a launching pad for them and they saw how to improve the ideas in Beat the Market. And they made a mathematical finance model that valued warrants and options very accurately. So it was based on a set of assumptions that are fairly narrow, but pretty good. And I thought that I was the only one who had this model.
+
+So when the Chicago Board Options Exchange opened in 1973, I thought I’d have the field to myself, but unfortunately Fisher Black and Myron Scholes published the idea and they did a better job of the model than I did because they had very tight mathematics behind their derivation. I had to make a couple of assumptions to get to the same point, but there were reasonable assumptions which turned out to stand up in practice and in theory later on. So in any case, they published the model and I thought, oh, I have this hedge fund I’ve been running for a few years, it’s been doing well. We were going to make a lot of money in options, but now Black and Scholes have told everybody what the secret is. But people didn’t catch on right away. So when the Chicago Board Options Exchange opened for business in April 1973, the only people on the floor were my traders. It was like having machine guns against bows and arrows. We wanted to — 
+
+Tim Ferriss: I was going to say Scholes, for people who don’t know Scholes went on to win the Nobel Prize for Economics in 1997.
+
+Edward O. Thorp: Yes. And Black would’ve been there too if he hadn’t died of cancer before that.
+
+Robert Merton was at MIT where they’d2 been doing a lot of good theoretical work on the development of warrants and options. And so he wrote some beautiful papers about this theory, about the same time that Black and Scholes were doing their work. So the prize was awarded jointly to Merton and Scholes, and I will say this about the prize, the people who publish are the ones who get the prizes, the people who don’t publish, it doesn’t matter what they figured out or when they figured it out, they don’t get the prizes. And in a sense they don’t deserve to because if you don’t publish, you haven’t really proven to the world that you really did this on the one hand. And you haven’t really changed the world in the same way that people who published do.
+
+So I think the people who don’t publish don’t have claims to these prizes, but having the tool in place turned out to be revolutionary for my life, because I was able to use this tool. And I had some shortcuts in using it that other people didn’t have for a very long time because I developed it myself beforehand and they didn’t get around to seeing it the way I saw it. These shortcuts were very useful. We stayed ahead of the marching legions of PhDs who came later and we stayed ahead of them all the way through, into the time I closed my partnership in 1988.
+
+Tim Ferriss: Let me hop in for a moment here to ask a few questions about your meeting, or at least one, with Warren Buffett. Why in that meeting did you come away saying you thought he would end up being the richest man in the world? What did you see or hear or observe in that meeting that led you to that?
+
+Edward O. Thorp: I saw that he was compounding at a higher rate of return, that he’d been doing it for a long time, that he was very smart and that he really knew a tremendous amount about companies. So he was a good evaluator of companies. So he had this and he demonstrated a very edge already, he’d been running his partnerships from 1956 to 1968 and had about a 30 percent before fee annualized return rate. And I was sorry that he was going out of business and that things looked so bleak from the standpoint of stock pricing to him at that time.
+
+The interesting follow up to that story, what Warren Buffett did at that point was he decided to make a poor textile company in, I forget where it was, somewhere in New England called Berkshire Hathaway, decided to make that his own little mutual fund, private mutual fund. And he bought up as many shares as he could. And he didn’t particularly encourage his exiting partners to take shares in that company because he wanted them himself. They didn’t have a choice, they could take cash or they could take shares in Berkshire and not knowing what to do, many of them just took cash and exited. Some of them took Berkshire though. Berkshire, I think was, they would’ve gotten it at something like $12 a share in 1964, now it’s a little under $500,000 a share.
+
+Tim Ferriss: Oops.
+
+Edward O. Thorp: So the Berkshire story is interesting. I knew how smart he was and I said, “The way he’s compounded, he’s going to be, my opinion, the richest man in the world in a while, it’ll just take time.” And I lost track of him. I figured he was just working for his own account and there was no opportunity for an investor. And that was largely the case, but then up in 1982, I happened to see an article about Berkshire Hathaway and I saw that he was running it and then I decided to take a look and I said, “Oh, it’s gone from 12 to 982. So is the opportunity gone?” Many people who owned it had sold on the way up taking their enormous profit of a multiple of five or 10 or 15. And I said, “I know what he’s doing. I know this man, I know what he’s going to do. I’m buying at 982, even though I missed out the move from 12 to 982.” And of course, buying at 982 turned out to be a good move.
+
+Tim Ferriss: Yeah, I would say so. 
+
+Let me ask you, if you were teaching, let’s just say what could be undergraduate or graduate seminar in investing now. So you were teaching a class of neophytes how to invest and some are, say mathematically inclined and some are not, it’s a very mixed group. What types of tools or thinking frameworks, heuristics, mental models, anything, would you focus on in the first handful of lectures?
+
+Edward O. Thorp: Well, the first thing I would tell them is the answer is really easy for almost everybody, but you’re not going to believe me until you work through yourself and understand it. And I’ll tell you the answer to start with and then I’ll try to convince you that’s the right answer. So I’ll just tell you the answer to start with. The answer is, if you’re a long-term investor, you should just buy and hold equities. And the best place to have bought and hold equities has been the US for the last couple of hundred years, overall. Equities here have compounded at about 10 or 10 and a half percent for 200 years. The data for the first hundred years is not as good as the data for the last hundred, but the data for the last hundred is quite good and very well documented. How does that do against everybody else?
+
+Well, you can prove by logical mathematical arguments, and I won’t go into all the details here, some of it’s in my book, it’s also in other places, you can prove that if a person simply buys the index and holds it, he will outperform most or all the other players. And he will simply up, the people who buy and hold the index will beat the whole collection of people who don’t do that. They do way better on average, the ones who don’t do that, pay trading costs, they have more volatility from diversification generally from lack of diversification and they often pay investment advisors and all this and they also pay taxes when they trade. So the upshot is that you might make 10 and a half percent if you don’t pay all these people. You might make eight or seven or six percent if you pay the crowd of people waiting to “help you,” so that’s the simple answer for people who don’t know anything about investing.
+
+Now you might say, “Well, yeah, but I’m pretty smart, I hear all these stories, I listen to Cramer on TV, jumps around and makes a lot of noise and sounds good, so why can’t I do better?” Well, the academics have something called the efficient market theory in which they claim that you can’t do better. Now I’ve already explained that that’s wrong; you can find instances where you can do better. Warren Buffett apparently did much better. I found, with my hedge fund, I could do much better, but the kind of work you have to put in to do much better is substantial. It doesn’t seem like it at first, but when you get into it, there are all kinds of details and follow ups and things to be checked out. And you end up spending a substantial amount of time and energy figuring out how to do it better.
+
+And for everybody who finds out how to do it better, the rest of the crowd who isn’t buying the index is doing a little bit worse because you can show that the whole collection of people who don’t buy the index are themselves as a group like the index, because everybody as a group is like the index, you subtract the index part out and the rest is like the index too. And so the people who aren’t buying the index, but are like the index as a group are busy paying all these costs, taxes, investors, investment advisors, and so forth. So on average, that whole group does worse. So you’re starting, you’re paying basically casino vigorish, whatever, if you’re not indexing and you’ve got to beat that in order to do better than the indexes.
+
+And obviously the group can’t beat that, so it’s only a small collection of people, some by luck and some by skill who end up doing better. So you basically, if any, against the odds, if you just step in and buy stories and invest in various mutual funds that are actively managed and so forth. So that’s what I would tell people. Now, on the other side of the coin, if you really are interested in investing, it’s worth educating yourself and trying to do it because you will learn a lot about investing. You might actually find a way to win and you’ll learn about how the world works and a lot about life too. The things you learn from what seems like a narrow, specialized field, generalizes very widely to all kinds of things if you’re the kind of person who can take a lesson in one part of life and transport it to another part of life.
+
+Tim Ferriss: What are some of those transferable lessons in your mind?
+
+Edward O. Thorp: Well, let’s take risk as a good example, you learn about investment risk and how you want to avoid very great risks or minimize them. If you take that because great investment risks can take you out of the game altogether. So you might have a thing where you multiply your money by 10 times, but you might also lose it all. Some things that are via highly volatile, like buying cryptocurrency are in this category where you may have the chance of a very large gain, but also the chance of a very large loss. And if you lose most of your capital, it’s very hard to climb back out. For instance, if you lose 90 percent of your capital, you’ve got to multiply what’s left by 10 in order to get back to even, which means you’ve got to make 900 percent to offset that 90 percent loss. That’s not going to be easy to do. It takes a long time. So you want to avoid really bad outcomes.
+
+So I applied that, for example, to COVID, I thought about what to do and how to deal with it. And I said, at my age, the stats from China, which came over in early 2020, showed that people 85 and up were dying at the rate of, if they were male, 18 percent of those who got it. And even now the death rate is very high for those who get it, if they’re unvaccinated, it’s probably pretty close to that and if they’re vaccinated, it’s maybe a 10th that. So I consider that a risk that can take me out of the game with fairly high probability, so I’m going to avoid getting COVID if I possibly can, I’m going to mask up, I’m going to avoid crowds, I’m going to think about what the risks of various activities are that I do and decide whether it’s worth it.
+
+And so I did my own analysis of COVID and its risks and tried to be very careful from then on. And I think it’s paid off and it’s paid off for my family too. I’ve passed this information down to people around me.
+
+Tim Ferriss: Do you have any recommendations for, and this might sound a little meta, but how people should think about long-term thinking or the long term? Because the recommendation for, say, an equity index or index ETFs was predicated on investing and holding for a long period of time. What would you consider the minimal viable long period of time, if you have an answer to that, and how can people become more aware of their own weaknesses related to short-termism or short-term thinking and switch to more long-term?
+
+Edward O. Thorp: I tend to be a long-term thinker. You might say, “Oh, if you’re 89, how can you be a long-term thinker?” Well, I have children and grandchildren and I also am feeling pretty good and staying in good shape, so 89 may not be all that old at this point. In any case, I would say that if you’re looking out 15 or 20 years or more, yeah, maybe you have a dynasty trust or something like that, or you have descendants and you yourself expect to live 15 or 20 years or more, The best investment I think is to buy almost entirely equities and hold it. You might want to have a little cash around, but I think Buffett recommends 90 percent index and 10 percent bonds or short term, intermediate term bonds for cash. That does just about as well as a hundred percent equities, I just put it all in equities because I have enough so I don’t have to worry about fluctuations up and down.
+
+If you have a shorter time horizon, you may want to do things differently. It depends on how much you’re going to need and how much you have. I have a set of rules that are a little bit helpful here. I’ll start with what I’ll call the four percent rule. Suppose that you’re going to retire and you want enough to last you, from your capital, throughout the rest of your life. I would say a pretty good working rule is to put it mostly in equities, and spend four percent of your capital each year, or less if you can, and that ought to last you from say the 60s until the end of your life. It’s not guaranteed, but pretty good chance it will. Then I have the two percent rule, which I found by studies, both mathematical and by simulation of stock returns. If you only drain two percent out per year, then that money will probably grow in perpetuity. There’s a small chance it’ll be extinguished by really bad downturns, but very small. There is an organization that freezes people, and they asked me for advice about how to invest their endowment fund.
+
+Tim Ferriss: Freezing, meaning cryogenically freezing?
+
+Edward O. Thorp: Cryogenics, yes. And so I said, for the endowment fund, which is going to get people out of being frozen, sometime in the far future 50, 100, 200 years out, for that fund you’re going to want to invest long-term and let it run, because that’s going to get you the most money down the road. And if you’re going to attempt to reanimate somebody, there’s no specific timetable. If you don’t have enough money to reanimate them at a certain time, you can wait a few years and let the money grow a little more. So you want money to grow to as big an amount as possible in the far future. And so the two percent rule for the endowment fund, I think was a pretty good rule for spending, because all the simulations showed that it would grow to a very large amount over a period of time.
+
+So that’s long-term thinking. Intermediate term, I think of that as maybe 5 to 15 or 20 years. And there something like the four percent rule that I described might be good. And for short term, it’s just a matter of what your needs are and what you’re going to have to come up with. And people are in various ranges of wealth. There’s what you might call poor, where you don’t have very much to save or put aside. And you’re going to be hard to retire and hard to make it. Then there may be middle class people who can put a moderate amount away. I know somebody, for example, she has saved about a million and a half and she is in her mid-50s. I think she’ll be fine. So I’ve explained to her: “Pile it all in equities and let it rip.” She gets scared every so often when there’s a downturn and she calls me and I tell her, “Just hold fast,” and then it goes back up. She said, “I’m really glad I held fast.”
+
+A lot of people are at what I call scared rabbits. And when the market goes up, they get confident and they start buying. And then it drops, and then they get really scared at the bottom and they sell out and then it goes back up and they buy again and it drops and they get really scared at the bottom and they go back out again. So they seem to have the worst of it all the time.
+
+Tim Ferriss: Yeah. Doesn’t feel good to go through life as a scared rabbit. And it certainly hurts your financial standing.
+
+Edward O. Thorp: That’s where thinking for yourself comes in. You won’t hold fast to something unless you understand it yourself. There’s an old saying, “Give a person a fish and they eat for a day, teach a person to fish and they eat for a lifetime.” And it’s a similar thing for thinking. If you give somebody advice about a problem, they might solve that one problem. If you teach them how to think about problems, they can solve problems for the rest of their life. And so that’s the way to go. And also if you give them advice and they don’t understand what the advice is or how to think about it, there’s a good chance they won’t take their advice. I’ll give you an example.
+
+Back in 1991, I was invited to review the portfolio of McKinsey and Company back in New York. And so they had a profit sharing and a pension plan. And I came and I looked at all the things they had and the things they had were really quite good. But there was one very strange investment they had, it printed out one or two percent a month, every month. They’ve been doing it for years. They had a record going back into the late ’60s, supposedly. And I said, “How do they do this?” And they said, “Well, we don’t know exactly. They tell us that they won’t explain what their method is, but we can show you our accounts.”
+
+So I looked at their accounts and I saw that this account bought stock and it put option positions on call, called collars. They had a put option a little below the stock price and they bought a call option a little bit above. And the two things paid for themselves, were self-financing. So they didn’t have, apparently, a whole lot of risk, but I could show that in a down market, they would lose in a down month and in an up month they would win. But they won every month. And the reason they won every month was because a mysterious trade was put on involving S&P Index options. And it was always in the right direction. So if they were going to lose, it would be a winner. And if they’re going to win, it would be a loser. So I said, “This is not possible.”
+
+I said, “I want to go over and look at this place.” So they called the person in charge, who happened to be, at that time, Peter Madoff, the brother of Bernie Madoff, Bernie was off in Europe, raising money. This is 1991, mind you. And so when Peter Madoff heard I was coming, he said, “No, I won’t let him in the front door.” So I held my nose and I said, “I want to take a better look at all this.” So I looked at all their trades and I saw that half the trades never happened when I researched them. That is, there was no trades occurred on any exchange at the prices they were making them at for these options.
+
+Another quarter of the trades had so much volume that the volume couldn’t have happened, because there wasn’t that much volume on the exchanges where they traded. The last quarter of the trades, which consisted of 40, there were 160 to start with. The last quarter of the trades didn’t happen anywhere. There was no explanation. And so I said, “Okay, let’s look at some of the trades that actually could have happened.” So I went to a vice president of Bear Stearns, rest in peace, and said, “We do a lot of business together. I’d like to ask you a special favor, which you might or might not be able to grant. I’m going to give you 10 options trades. And I’d like to know who was on the other side of these trades. In particular, was Madoff and Company on the other side of any of them?”
+
+So they researched the trades and they came back and said, “No, can’t find any trades of any Madoff and Company.” So I said to McKinsey, “This is a fraud.” And they said, “But we’re making 20 percent a year.” And I said, “Well, you’re making 16 percent a year currently in your other investments. If I’m right, this 20 percent is not real. And the roof’s going to fall in some day and you might lose your jobs. On the other hand, if I am right, and you move, you have saved this problem. If I’m wrong and you move, you’re only going from 20 percent to 16 percent. So it makes a lot of sense to just exit.” So they exited in two months.
+
+And we inquired of everybody we knew, I, through my network, they, through their network to find out who had investments with Madoff and how much they had. Now, we could only cover a small part of the territory because our network was not comprehensive. And it turned out that about half a billion, we were able to identify. Now, that meant that there was a lot more than half a billion out there. How much more? We couldn’t say, but things were looking very bad. On the other hand, how could you challenge Madoff? He was a pillar of the National Association of Securities. I think he’d been a past president. He’d been on committees there. He was the biggest third market that is off the exchange maker in the country. So a respected person and well known to everybody. And he had thousands of investors, as it turned out.
+
+And because he had so many investors, everybody knew it had to be right, because surely those people had checked it all out. Now, the finale of the story is that when I was doing this, the person who invited me, who was a hedge fund manager himself, who invited me to do this for McKinsey, he had been an advisor to them. This person believed in Madoff and continued to go out and raise money for him. And in 2008, when the news came out that Madoff was a fraud, my son called me up and said, “You know, Dad, the stuff you’ve been telling me about for 17 years, it finally happened. It blew up.”
+
+Anyhow, this fellow who had been running a fund of funds and included Madoff in that fund of funds, that’s a special type of hedge fund that invests in other hedge funds. He had been doing this and had a very big fund of funds. He was raising money for Madoff the same week that the bad news came out and he had his own personal money and his family’s money and trust fund money with Madoff. But I had explained everything to him in great detail, I knew him quite well. At the time, back in 1991, that McKinsey and Company had this analysis explained to them and decided to pull out. So the whole point of this is here’s a person who had all the information. It was explained very clearly, and he just didn’t believe it. And he himself was in an investment business and was very successful.
+
+But he was a reporter in times past, and his family made a lot of money in the ’30s. He came from a rich family in Chicago. And the way he figured things out was he would poll people and he would ask people what they thought about something. It would be like I asked you, “What’s the best diet pill I can take?” You’d probably say, “There aren’t any good ones.” And I’d probably agree with you.
+
+Tim Ferriss: Right.
+
+Edward O. Thorp: He’d ask a hundred people. And then they would in fact be a poll and he’d go by the poll. So just imagine that you asked 10,000 people whether they thought you could travel faster than light, and all but one said, “Yep, you can do it. I saw it on TV.” And only one guy said, “No, you can’t do it. Albert Einstein.” So a guy like him would overwhelmingly reject Einstein and believe the 10,000 average people who just said, “Yeah, you could do it.” Because, the poll was 9,999 to one on one side. So he doesn’t think for himself, he lets the crowd think for him. And that I think is a fundamental mistake that many people make. They let the crowd do their thinking. They don’t figure it out for themselves.
+
+Tim Ferriss: Let’s talk about toolkits and bring in, we don’t have to focus on him necessarily, but since Warren Buffett came up earlier, you have then his partner, Charlie Munger, who is well known for mental models. And I think Buffett describes him as having the best 60-second mind he’s ever met. Something like that. What mental models do you find helpful or would you teach in that class that I mentioned earlier? And you could really approach it in any way that you think is sensible, but how should people think about mental shortcuts or mental models? And are there any that come to mind that you think are particularly valuable?
+
+Edward O. Thorp: I’ll tell you about a few and I’ll tell you where to get more.
+
+Tim Ferriss: Perfect.
+
+Edward O. Thorp: Let’s take a notion that economists call by their priestly name. Externalities. Have you heard of that term?
+
+Tim Ferriss: I have. I have heard the term.
+
+Edward O. Thorp: Okay. Good. Most people have not as it turns out, so you’re way ahead already.
+
+Tim Ferriss: We’ll see where we go.
+
+Edward O. Thorp: An externality, simplistically, is a consequence that’s of somebody’s action that’s generally not intended and it’s usually bad, but it’s sometimes good. I’ll give you examples of each of varying sizes. Here’s a bad one that happened to me actually last week. I go out to get in my car and I find out that the tire’s flat. I look and I see a sheet metal screw in the sidewall, which means that this tire’s going to have to be replaced. So I end up taking care of the problem. Where did the problem come from? Most likely, I think, down the road from me, there’s been a lot of construction going on. I’ve noticed as I go for walks, that pieces of metal are often lying in the road, sheet metal screws, nails, other things that aren’t good for tires. I pick them up when I happen to walk by, but I don’t get them all.
+
+And the workers are carelessly depositing more. Not very many, but it only takes one to give me a flat. So this is an unintended bad consequence of the work going on there. Who benefits? Well, the homeowner does because he doesn’t have to police his guys to clean up carefully and sweep the streets afterwards. He doesn’t have to spend another $5 a day on sweeping labor to make sure that none of these things are there, but it cost me $500 for a new tire. Unfortunately it’s a Tesla Plaid with a 10 and a half inch wide Michelin tire. So the tires are not cheap. So this is an unintended bad consequence for me, that saves a very small amount for the guy who’s doing the construction a few rows down.
+
+Let’s take a little bigger one. When I was a chemistry student back at age 14 in 1946, teaching myself. I mean there wasn’t a decent chemistry class around. I came across a fellow named Svante Arrhenius, a great Swedish physical chemist from the latter part of the 19th century. He at that time, and I learned it then, did a study of how gases in the atmosphere trap heat. And he explained how much the heat trapping power was of various gases, including carbon dioxide. And he explained very clearly how much carbon dioxide would contribute to global warming as it increased. So this was known way back then. And I knew it as a 14-year-old and the mechanism is obvious. You can sit behind a plate glass window when the sun is shining and feel everything heat up around you, the greenhouse effect. So it’s simple, it’s obvious, it’s got plenty of science behind it.
+
+What do people do now? Well, they create a negative externality by polluting. People drive around in cars and dump CO2 into the atmosphere. And each individual is convenienced by being able to drive around in his car, but he contributes to a global problem. A problem that won’t come back perhaps to haunt him if he doesn’t live long enough or may be so gradual he doesn’t notice it. But everybody together is busy contributing this major externality to the world. Which leads to a second little mental model. It’s called the tragedy of the commons. It’s a pretty famous thing by a guy named Garrett Hardin and the simple example is you’ve got a village with a little green in the middle and it’s got a lot of grass growing and only a few people live in the village. So one guy has sheep and he lets his sheep graze on the green and there’s plenty of grass. So there’s not a problem.
+
+A few more people move in, they get some sheep, they turn a loose on the green. Pretty soon, there are too many sheep for the green. It’s all eaten up. So each person acts in his own self-interest but collectively what they do is against the common good. So that’s, another little mental model or idea. Though the whole collection of these things that are out there, that are very valuable for thinking purposes. One collection is there’s a 50-item collection that came out under Inc. on the internet from Elon Musk. And it’s quite good. There’s also Charlie Munger’s book
+
+Tim Ferriss: Poor Charlie’s Almanack.
+
+Which has a lot of these things embedded in it. One of my favorites, it has a strange name of fundamental attribution error. And I didn’t like the name. I said, “Charlie, why are you calling thisi fundamental attribution error?” Well, Charlie actually just picked it up from sociology and psychology. That’s what they call it. And I thought that’s a terrible name, you should call it something else. But as I thought about it some more, I decided it’s actually not a bad name after all.
+
+Roughly speaking, what it does is it’s a human tendency to make assumptions that are not fully justified by the evidence. For instance, you go to lunch and the person you invited doesn’t show up. So you begin to speculate. “Well, maybe he just forgot. He’s a forgetful guy. Or maybe since we had a little quarrel two weeks ago, maybe that was it. Maybe he’s just mad and he’s going to show me.” Or something of that sort. You start making up stuff to try to explain it, but you don’t have the evidence for it. It turns out that he had a car accident on the way, and he’s busy dealing with all the fall off from the car accident. And two hours later, you find out what actually happened and it’s too bad and he apologizes profusely, but you didn’t have any idea what actually happened. You just started making stuff up. That is something that humans do over and over and we’re wired for it. It’s evolutionary. It ties into famous book Thinking, Fast and Slow.
+
+Tim Ferriss: Daniel Kahneman.
+
+Edward O. Thorp: Yes, exactly. And so he has an example there of you’re in the forest and you hear a roar. You don’t stop to find out where the roar is coming from. You run up the nearest tree because it might be a lion. In fact, it might be something entirely different, but you don’t take any chances. You react. And if it’s not a lion, you’ve made fundamental attribution error. You attributed it to being lion when it wasn’t, but it saved your life often when it wasn’t an attribution error.
+
+That ties in with something else, which is learning how to think. If you think fast, it’s kind of emotionally from the gut, responding without really reflecting. You will make a lot of mistakes. Sometimes though it’s a way of saving your life. For example, somebody yells fire, you’re at the door of the theater, you run out the door immediately, before you find out whether there is a fire. There might or might not have been, but running out the door before there’s time to reflect, in which case it might be too late, is a good thing to do. And I hold the door for everybody else too, as I run out.
+
+Tim Ferriss: And I just want to mention a few things on the externalities piece in thinking about the unintended secondary or tertiary effects on the collective, there can also be positive externalities or externally benefit in an instance for, like if you were to buy fire insurance for your house, your neighbor might be a little bit safer. So it can go both ways.
+
+Edward O. Thorp: That’s a good example. And it’s one that actually was a real life experience for me right here. We had a fire here, wildfire, couple of months ago, we all had to evacuate and I have Chubb and they have of wildfire insurance. And so I have that. And so Chubb actually had a water truck out here, which protected not only me, but lots of other people in the neighborhood.
+
+Tim Ferriss: So is the next step after identifying these externalities, for instance, in the case of the construction site, thinking about how to somehow create and enforce incentives, such that someone is acting to the benefit of the collective, for instance, the construction site?
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: Where someone’s not spending $5, but it costs individuals who are affected $500 to replace a given tire. I’m sure there are a million different examples of this. Does that then lead to a study of incentives?
+
+Edward O. Thorp: Yes, that’s a good point that if somebody creates an externality that’s negative, a good thing to do is to tax it. What we’ve learned is if you tax something, you get less of it, so. Let’s take carbon for example. If you tax carbon, you’ll get less of it in the air. So a carbon tax is the rational, logical solution to the whole pollution problem.
+
+All you have to do is make the tax big enough and people find other ways to do things than pollute with carbon. However, that leads to another thought principle, which is the difference between rational solutions to social problems. A rational solution is one that is generally good for almost everybody, as opposed to a select few.
+
+You can have rational solutions to social problems, but you often can’t get them implemented. So you also have to think about what can you actually accomplish politically. And there’s a great book about that. There’s a professor at Yale, the strolling professor of political science, Ian Shapiro.
+
+I happened to listen. I listen to podcasts, yours included, when I go for my walks. And his course was one of the ones I listened to. It’s absolutely great. It talks about how to actually get something done politically. And we’ve seen that for example, the Biden administration has had great difficulty getting very much of what it wants to do passed.
+
+And they could learn a lot from this professor who has a lot of good things to tell them. He has a book called The Wolf at the Door, which is fairly recent, which basically explains the things that I learned in his political science course a few months ago. And it tells you how to form coalitions that can win and how to pass things that will stay in place.
+
+For example, Social Security stayed in place because it had a strong constituency that it created right away. And that constituency was going to defend it forever after. And politically, even though some politicians and occasional political parties have tried to destroy it, they have not been successful because the consistency is so embedded and so strong now.
+
+So anyhow, he has a clear description of how you can actually get things done. And he believes, I think, that you can make incremental progress, discouraging as though it seems these days, by doing the right way of putting coalitions together and defending against blocking coalitions. So it’s a very insightful course.
+
+Anybody who wants to get something done evolutionarily, I would recommend reading his book. And I might say, we’re in a crisis of democracy now, in my opinion. And we have, simplistically, we have three paths. There’s devolution, which I think, oh, we’re undergoing now. There’s evolution, which I hope is the way things work out, in which we fix things and things get better.
+
+And then there’s revolution, which is extremely ugly and unpleasant. And one of your previous interviewees, Ray Dalio, has a book that I think is very well worth reading, even though it’s a tough slog. And maybe I’d change the writing a bit, but it’s a real contribution to thinking about the crisis that we’re going through now.
+
+And it talks about the Changing World Order, I think that’s the name of the book, and the rise of China as an empire and the decline of The United States as an empire. And I think that we have some serious thinking to do. We can’t just sit back on our laurels and say, “We’ve been so great. We’ve been the world superpower,” and hope that it’s going to last. We have to do things differently. So anyhow, that, I’d recommend that.
+
+Tim Ferriss: I also would second that recommendation. Francis Fukuyama has also some fantastic writing that is worth exploring. And I have that Dalio book within 15 feet of me here, where I sit right now. And as speaking as someone who studied also in China, myself at a pretty fascinating time to be there.
+
+I was around in Beijing at Tsinghua University in 1996. And I’ve tracked things pretty closely since that it’s definitely worthwhile to read up also on the history of China, because that is going to, and is coming to bear as we speak on the entire, is it three dimensional chess of geopolitics, which is fascinating and also at times terrifying, certainly.
+
+Edward O. Thorp: Yes.
+
+Tim Ferriss: Let me ask you if I may, what other investors aside from Warren Buffett impress you? And they could be people who are no longer actively investing, they could be current. But are there any other investors who come to mind who have particularly impressed you outside of Buffett?
+
+And the reason I ask for people who are wondering is related to what you said earlier, that by studying investing, by participating in investing, you get to stress test and look at how other people stress test thinking and cognitive biases and so on. Is there anyone who comes to mind for you outside of Buffett?
+
+Edward O. Thorp: Well, there are people in the hedge fund world who have done remarkable jobs at various times, but they’re not accessible to your listeners or to most people. For example, let’s take Jim Simons of Renaissance.
+
+Tim Ferriss: Right.
+
+Edward O. Thorp: Renaissance Partners is basically a private operation at this point. But it’s been extraordinarily successful, uses PhDs and computers and math and code breaking and so forth. And it has from around 1989 or ’90 on been spectacular in its performance, probably the best risk adjusted record in the world from that time forward.
+
+Tim Ferriss: And for people who want to read more about Jim Simons, there’s a book called, The Man Who Solved The Market, which is a good read. Although you’re probably not going to be able to, as you mentioned, Ed, emulate the sort of quants approach that he is taking for a million and one reasons, but absolutely fascinating story. Any other names who come to mind?
+
+Edward O. Thorp: Oh, well, I’m trying to think of who I would give money to, to invest. I don’t have anybody now that I’d give money to to invest. There are a few good hedge funds around, but they take too much for the general partner and leave too little for the limited partner. And they also generate income that is highly taxed if you’re a taxable investor. So they’re only good for nonprofits at this point or tax exempt investors.
+
+Tim Ferriss: What about past investors, say, in decades past who you would’ve given money to willingly? Does anyone come to mind?
+
+Edward O. Thorp: Well, I did give money to Ken Griffin’s Citadel from the time it started. I think I was investor number one after —
+
+Tim Ferriss: Wow, nice work.
+
+Edward O. Thorp: — Frank Meyer, who was the other general partner with Ken Griffin. Frank Meyer was a longtime friend of mine from the past. So that’s how I learned about it. And actually had Ken Griffin out to the house, when he was about 18 or 19, and I had just started up with Frank and talked to them about how my hedge fund Princeton Newport worked.
+
+And we discussed that some length the idea of profit centers and subsidiary businesses. And I handed him boxes of prospectus that were hard to get on all kinds of convertible securities. These things would come out when the securities were issued and then they would no longer be findable anywhere.
+
+They were just rare books. So I handed him my whole collection of cartons of these things. And so I had a very good ride with him. And I finally exited recently because the taxes take too big a bite out of the returns that I get.
+
+And it’s just simpler to invest in an index fund. I end up better off than if I were to remain in a Citadel. Also, it’s complicated, you get all kinds of papers. I had four feet of paperwork when I finally boxed it all up at the end.
+
+Tim Ferriss: That is a lot of paperwork.
+
+Edward O. Thorp: Yes.
+
+Tim Ferriss: Now what, I know you had the introduction, but what was it at the time about Ken Griffin and Citadel that made it pass muster for you? What did you see that made you —
+
+Edward O. Thorp: Well, they were going to follow the exact plan that I was following when I shut down Princeton Newport, so that was good.
+
+Tim Ferriss: Got it.
+
+Edward O. Thorp: And I knew Frank and he was smart and capable. And Ken seemed very smart and capable and energetic. So they were doing what I would be doing had I stayed in business.
+
+Tim Ferriss: So let’s talk about staying in business. Because I had a question that I wanted to make sure I touched upon. And there are a million others that I would love to talk about, but could you please speak to having enough? You’ve spoken about, or at least written about, how your hedge fund could have taken over your life and you could have just ended up as a capital accumulator as your full-time.
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: Full-time job plus. How did you make the decision to wind it down? And how do you think about having enough? Because it doesn’t strike me as something I come across often with people who are really good at investing.
+
+Edward O. Thorp: The way I got into the investment world, I was an academic and I was curious and I found things interesting. And I wasn’t really in there to get rich, I was in there to deal with interesting math problems that kept coming up, black jack, roulette was a math slash physics problem. Investing was for me, lots and lots of math. So I enjoyed that.
+
+So I just do things I like, and I don’t worry about money. As my former sister-in-law once said, “Do what you love and the money will follow.” She wrote a book with that title. And I said, “That’s right. Do what you love and the money may follow. And if it does, that’s fine. If it doesn’t, you’re still doing what you love.”
+
+And what’s important in life, I think is the journey and the people you know and you spend your time with and how you spend your time otherwise also. So that’s how I looked at things. And I started out as a child of The Great Depression, so I knew what it was like to have basically no money. I used to sleep four or five hours a night in high school and get up at two or three in the morning and deliver newspapers.
+
+And I made $25 a month, which seemed like really big money. And I saved part of that for college and invested part of it in science equipment, chemistry, telescopes, electronics, and so forth too, just because I liked playing with those things and learning about them. So my goal wasn’t to make money, it was to have a good life and enjoy myself and have fun.
+
+And it just so happened that it turned out a lot of money too. So what I found though in the investment world is lots of people go in it for the money. And when they do, they keep going and going and going. And it’s a validation of them and they can’t stop. They end up with oh, five or 10 villas, a yacht, a jet.
+
+And let’s imagine you have five houses, just as take an example, how much of your time are you going to spend in each house? You can’t be on average more than a fifth, just by math, and you’re not going to be in your house all the time anyhow, you’re going to be vacationing, traveling, meeting, and so on.
+
+So maybe it’s a sixth or seventh of the time on average. Now some houses you’re going to spend more time in and some less. So you may spend a 10th or 15th of your time or none of your time almost in one of those houses. So you end up with a whole lot of stuff to manage and take care of.
+
+And you end up hiring people to do that so you don’t have to do it. And then you have to manage those people. And then you have to hire people to manage the people who manage the people, and so on. It’s like running your business. It’s terrible. You don’t get to enjoy the important part of your life, which is time.
+
+Tim Ferriss: Did you have a set point at which point you knew you were going to exit the business, so to speak, or was there a particular day that prompted particular experience that prompted you to say “Enough is enough; I want out?” Do you remember what the catalyst was, if there was one?
+
+Edward O. Thorp: I wasn’t having fun anymore. It was turning into work. And I said, “Well, I don’t need to do this. I have enough wealth. I’m never going to spend it all. Why keep doing this?” So I decided to wind it down. It was fun for a long time because there were challenging problems. And it was challenging to try to figure out new things and to deal with all the issues that came up.
+
+But when it became bureaucratic and paperwork and a grind where I had to do things I didn’t want to do, that was enough. It was time to go. And it was the same thing in academia. I loved academia, but there were aspects to it that became burdensome, committee meetings, endless reviews, grant proposals.
+
+What I liked was research and teaching and the people that I met there, the students and the faculty that were smart and challenging. And if it was only that, I’d still be there. But it wasn’t only that. And I found other things that were equally or more fulfilling. So anyhow, I just migrate to where I want to be. I don’t have a set thing that I have to keep doing.
+
+Tim Ferriss: So let’s explore that a little bit further. Nassim Taleb, who many people will know because of books like Fooled By Randomness, The Black Swan, Antifragile, wrote the foreword to your memoir.
+
+And in that he writes about your restraint, not getting caught up in the golden feathers of large structures, multiple offices, morning meetings, et cetera. And he highlights the value or the fact that you value independence. So what does independence mean to you and how did you spend your time after winding down the investment side of things?
+
+Edward O. Thorp: Well, I spent my time reading, traveling, exercising, enjoying my family and my friends, and learning things that I could learn. And then it’s also entertaining to casually manage my investments. I might just interject here that one of the things that makes you independent is to accumulate capital because then the capital can grow on its own if it’s simply invested as I described before, in, for example, an index fund.
+
+And once you have capital, then you have the chance of independence. If you have enough capital, it will support you indefinitely. So when you’ve achieved that goal, there’s no point in spending time doing anything you don’t like doing if you can help it. I have to do some things you don’t like, like gather all your tax information together every year, or go in for routine medical appointments.
+
+Tim Ferriss: Is there anything that you are particularly interested in learning more about now or in the process of learning about, or looking forward to learning about?
+
+Edward O. Thorp: What I’ve focused on for the last year or so is reading about what’s going on in American society, what may happen. I don’t think we can predict for sure what’s going to happen, but we can map out scenarios. We can map out possibilities. We won’t get them all, but we can map out quite a few of them and ask ourselves, “What will we do if scenario A, scenario B, scenario C materializes?” and have some sort of preparation and readiness for that. 
+
+And I won’t go into a list of extreme scenarios, except maybe a few. You could have an autocratic country where a minority pretty much rules everything and dictates everybody else. You could have a turbulent country where a large part of the country, maybe a majority, is badly upset and just wants to bust everything up and start over somehow.
+
+So you could have the choices I described, a devolution, evolution, or revolution. And I don’t know how it’s going to play out, but it’s worth thinking about what might happen and whether there’s anything any of us can do about it. And I don’t think there’s much an individual can do on a grand scale unless he happens to be in a position of great importance or manages to get himself in a position of great importance.
+
+But I think there’s a lot that an individual can do on a small scale. And I think the best thing we can do is teach everybody to think for themselves so they don’t just take what they’re told in the press, for example, or in the other forms of the media, internet, Twitter, so on.
+
+They don’t just take that and sop it up and believe it, but they question it and they ask whether in fact it might not be true and what the motives are of the people who are putting these things out and so forth. And when you begin to think for yourself, the whole world changes and becomes much clearer, in my opinion, and you can manage your life much better.
+
+Tim Ferriss: Fundamental attribution error.
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: Learning about things like that and putting your own thinking under examination. Ed, this has been so fun. And I know that there are a million other things we could talk about. And hopefully we’ll have a chance to do a round two at some point, but I wanted to be respectful of your time and perhaps begin to bring this to a close.
+
+Is there anything else that you would like to mention or call attention to, any request of my audience that you would like to make? People can certainly find you online at edwardothorp.com. And I’ll link to that as well as your books and everything else that we’ve discussed in the show notes at tim.blog/podcast. Is there anything else that you would like to bring up before we end this round one conversation?
+
+Edward O. Thorp: Well, I’ll tell you one story that you probably read in my book. It’s about Joseph Heller and Kurt Vonnegut. 
+
+Tim Ferriss: Yes, please.
+
+Edward O. Thorp: Joseph Heller wrote his famous book, Catch-22, of which they made a movie way back maybe 50 years ago. I’m not sure exactly when. But it was very well known and famous at the time.
+
+And Kurt Vonnegut is well known too for a variety of books. And Joseph Heller died, I’m not sure when, maybe early 2000s. And Kurt Vonnegut was writing in The New Yorker about him. And he said, “Joseph Heller and I were at a hedge fund mogul’s house.” I’m not sure if it was hedge fund mogul, but somebody very, very rich in New York.
+
+“And I said to Joseph Heller, ‘You’ve made a lot of money out of Catch-22. This guy makes as much money in a day as you’re ever going to make. He’s got penthouses and yachts and jets and villas and models falling off his arm and so on.'”
+
+And Joseph Heller looked back and said, “I have something he’ll never have.” Kurt Vonnegut was puzzled and he said, “What’s that?”  Heller said, “I have enough.” And that’s something that people who endlessly chase money to the end don’t figure out: that you can have enough and it’s better than not having enough.
+
+Tim Ferriss: And it’s certainly better than never being sated and — 
+
+Edward O. Thorp: Yes.
+
+Tim Ferriss: Staying on that sort of compulsive track. And I am so endlessly fascinated by you, your story, your lessons learned. And I really hope we have a chance to have another conversation because I have still so many different notes and questions that I would love to tackle.
+
+But we’ll leave people wanting more. And hopefully we will make time to have that second conversation. But thank you so much for taking the time today, Ed. It’s been a real joy to spend this time with you.
+
+Edward O. Thorp: Well, I enjoyed it very much. It was a pleasure to meet you. And now I know that since I’m on your podcast, my wife will listen to me.
+
+Tim Ferriss: Well, one can hope, one can hope, one can hope. And to everybody listening, thank you for tuning in as always. And until next time, try not to act like a scared rabbit and be just a little bit kinder than you think you need to be. And as always, thank you for tuning in.
+
+Edward O. Thorp: Thank you.
+
+
+TAGS
+ED THORP
+	

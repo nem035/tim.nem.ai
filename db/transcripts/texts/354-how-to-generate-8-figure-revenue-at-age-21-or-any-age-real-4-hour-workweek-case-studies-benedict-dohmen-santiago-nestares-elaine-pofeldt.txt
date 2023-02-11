@@ -1,0 +1,774 @@
+
+
+JANUARY 2, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Benedict Dohmen and Santiago Nestares with Elaine Pofeldt (#354)
+
+
+
+
+Please enjoy this transcript of my interview with Santiago Nestares and Benedict Dohmen, 21-year-old cofounders of Benitago Group, a company which has introduced 120 consumer products and is on track for nine-figure revenue in 2019.
+
+We were joined by Elaine Pofeldt (@elainepofeldt), an independent journalist and speaker and the author of The Million-Dollar, One-Person Business: Make Great Money. Work the Way You Like. Have the Life You Want, in which she looks at how entrepreneurs are scaling to $1 million in revenue prior to hiring employees.
+
+
+
+
+
+#354: Real 4-Hour Workweek Case Studies — How to Generate 8-Figure Revenue at Age 21 (Or Any Age)
+
+Tim Ferriss: Hello, ladies and germs. This is Tim Ferriss. And welcome to another episode of the Tim Ferriss Show. And this episode is a case study episode, the most requested type of episode that I’ve been somewhat negligent in providing. And today, we have three folks with me, two co-founders, and then Elaine Pofeldt. And Elaine, it’s nice to have you back on the show. And could you perhaps just describe for a moment – aside from being a very accomplished journalist, you are an author. And what book of yours is most relevant to the conversation we’re going to be having?
+
+Elaine Pofeldt: Well, there’s only one book so far. It’s The Million-Dollar, One-Person Business. And what it looks at is how non-employee businesses, those with no employees except for the owners are scaling to $1 million in revenue and beyond. And it’s great to be here, Tim.
+
+Tim Ferriss: It’s a subject that is endlessly fascinating to me; and to many of my listeners, one they wish I would explore more. So here we are. And I have two young gentlemen across from me. I don’t know them that well. So they may not be gentlemen. But I suspect they are. They’re very well-behaved so far. We have Benedict Dohmen and Santiago Nestares, both 21. Is that currently the case? Great, 21. So well-aged silver foxes. They met as computer science students at Dartmouth College. I’ve heard of that school. Very, very good institution. And they worked very long hours in the library, both of them suffering from back pain.
+
+This is relevant because they began collaborating on a prototype for a product that ended up being called the Supportiback and, in the process of developing it, gathered a lot of feedback from members of the Dartmouth community including a local hospital president and professors as well as students studying engineering and medicine. So we will revisit a lot of what we’re discussing in this little intro/summary. They also experimented with pay-per-click marketing, set up a system for testing and tracking keywords using Excel Spreadsheets or Spreadsheets. They launched the product first on Amazon in the UK. And Benedict, Ben, who’s from Germany (es freut mich!) transferred to Cambridge University to be closer to his family. Santiago is based where we are recording this right now, which is Austin, Texas.
+
+And when it seemed their first small order was in danger of selling out – this, I definitely want to talk about – they arranged financing from their supplier and were off and running. They’ve since entered the US market on Amazon. And this year, they’re on track for eight-figure revenue. That means this year, 2018. Next year, on track for nine-figure revenue.
+
+And they are in the process of introducing more than 120 consumer products which range across many, many different categories including beauty, skincare, pet supplies, baby supplies, food, and nutrition. And, in a sense – I hope we will have time to get to this. Maybe that’ll be a round two, but I think we can get into it – they are hoping to become an alternative to very large consumer products companies through a strategy of applying their scaleup strategies that they have tested successfully themselves to brands they acquire. So that’s a mouthful, but I think it gives a nice overview of the landscape. Ben and Santi, welcome to the show.
+
+Santiago Nestares: Thank you.
+
+Benedict Dohmen: Thank you for having us.
+
+Tim Ferriss: And I thought, Elaine, maybe I’d let you kick this one off.
+
+Elaine Pofeldt: Sure. That sounds great. Well, Ben and Santi, one of the things I loved about your story so much was the wonderful friendship that you have. Tell us how that came to be.
+
+Benedict Dohmen: Yes. Sure. So we met originally at Dartmouth College. We were studying computer science, nerdy quarters up into the library during our labs, our classes. We met because we were one of the last few guys in the library. And it so happens that at those hours, you do eventually approach the other people around and see what they’re working on, what their strengths are, and also helping each other out. So that’s originally how we got close. And yeah. It really kicked off from there.
+
+Elaine Pofeldt: And so how did you find out you both had back pain?
+
+Santiago Nestares: I’ll add onto his answer. He needed my help a bit in the lab. So I was always helping him out. And that’s why.
+
+Benedict Dohmen: That is inaccurate.
+
+Santiago Nestares: So inevitably, when you’re over the computer, you don’t have the best posture. And we started getting a bit of back pain that developed over time, especially when it gets to 3:00-4:00 a.m. So we took the really nerdy approach of trying to figure out why is this happening back when it seemed like something that only happened to really old people. So we started geeking out and reading research. Luckily, we had access to the Dartmouth-Hitchcock Hospital, which is renowned in back pain and started learning more about it and discovered that posture was the core driver for back pain. And it’s something that a lot of Americans are suffering – people around the world –  because our bodies are simply not designed to be sitting down, especially hunched over a computer all day.
+
+Benedict Dohmen: Yeah, especially given the new phrase, “Sitting is the new smoking.” That was the guideline there.
+
+Tim Ferriss: My friend Kelly Starrett would agree. He may have even come up with that phrase. I’m not sure where it originated. How did you guys then go from complaining about a common problem and doing some homework on it and research to considering creating a product or starting a company? Because I’m sure, especially in this day and age – you guys met how long ago?
+
+Santiago Nestares: Two years ago, now. Two and a half.
+
+Benedict Dohmen: Two and a half years ago.
+
+Tim Ferriss: Two and a half, three years ago? That there are lots of folks now hoping to learn to code or hoping to learn computer science because it has become very clear that that is an enormous asset in entrepreneurship. So I think there are more entrepreneurs than ever within CS departments. But at what point did you guys decide that this was something you might consider as a business?
+
+Santiago Nestares: Well, we initially developed the product mostly for ourselves. We started looking at what products were out there that were already working. Big believer that you don’t have to reinvent the wheel, just make it slightly better. So we took products out there, started tweaking with them, initially just for our own use. So we were not trying to make it a commercial – it was not in our heads. So we came up with our two versions, one of them –
+
+Tim Ferriss: So you were buying off the shelf and then modifying them?
+
+Santiago Nestares: A combination of many things. So we bought a whole bunch, discarded like 95%. The few that worked, then we started tweaking them and making them better, adding padding. We’re not engineers, but we were trying to figure it out just to increase our – it’s called proper reception. It’s basically our awareness of poor posture that was leading to back pain. And made our two versions, one for Ben and one for myself. And with time, we started seeing that our friends who were also young – which we did not expect – to also have a bit of back pain.
+
+They were also coming to us and saying, “Hey, I’m pulling an all-nighter tonight. Can I use your product?” Or, “Hey, I’m going to go on a trip to New York. Can I take the product with me?” So that’s when we took a step back and said, “Look, there’s clearly a need for it. We don’t know how we’re going to sell it or commercialize it. But let’s just burn the ships approach. And let’s just make an order. And then we’ll figure out how we’re going to sell it once they land.” So that’s how the first order came about. There’s a bit of a story behind it, but yeah.
+
+Benedict Dohmen: And I think that’s also where what you just mentioned, the computer science background, especially is a hotbed or a breeding ground for a lot of modern-day entrepreneurs. Now, this is a physical product, right? So it’s not a software.
+
+Tim Ferriss: Yeah. You’re moving atoms around.
+
+Benedict Dohmen: Exactly.
+
+Tim Ferriss: Not just –
+
+Benedict Dohmen: Not just zeros and ones. But we see computer science as a toolkit or a toolset that enables us to enhance our products, per se, and the physical products. So it’s definitely very – we’ve seen a lot of value in having that as our background.
+
+Tim Ferriss: So you said there’s a bit of a story behind that first order. Let’s talk about it. How much money did you guys spend on that first order? And where did it come from? Why did you have the confidence –
+
+Benedict Dohmen: Yeah. It was under $2,000. That was our whole budget. We’d put together our savings here and there as college students. So we started figuring out where are things even made. We had no idea. So we figured out China was a main player, especially when it comes to physical products and started learning how Alibaba was a great catalog for a lot of suppliers, not necessarily the product that we wanted to make because it didn’t exist. We were trying to make it differently. But you could see by seeing the other similar products who were the key manufacturers out there in China. But obviously, with $2,000, you can’t get really far when it comes to manufacturing a really big order. But we refused to take the approach of, “We need an investor,” and take that as an excuse not to move forward.
+
+So we made up this whole story that we were a massive company out of Boston, and we had a big board meeting coming up and we had over 100 board members that we wanted to distribute samples to so that they would decide together if we were going to place the big order. And the big order was going to be $1 million-plus. But bear with me, we only have $2,000 right now for this. So I don’t know if they believed it or not, but they saw something in it. And they said, “Look, let’s go with it.” I’m sure the margins were great for them for those $2,000. But that’s how the first 100 units came about. They put it on the ship and sent it. And then we said, “Now we have 30 days to figure out how we’re going to sell it.” So that was the story.
+
+Tim Ferriss: Now was the reason you have 30 days because it was net-30 turns for payment? Or did you set that for yourselves as a deadline?
+
+Santiago Nestares: So the first order wasn’t – there were no terms as of yet. It was just 30 days that it took to ship via sea.
+
+Tim Ferriss: Oh, I see, to get it over on the containers or whatever, it was going to take 30 days. So what were you hatching at that time? So Ben, maybe take a stab at this. You were, I’m sure, starting to think about how you might sell these things. Were there any resources, websites, books, or anything that you guys were using to try to educate yourselves on entrepreneurship, marketing, sales, anything at all?
+
+Benedict Dohmen: Absolutely. And at that point, we – so we had the time window of around 30 days to figure out how would we sell these first “sample units.” We delved into, first of all, researching what distribution channels were out there looking at retail and especially online e-commerce distribution channels such as Amazon, Shopify, Walmart. There’s a whole range. We are big believers in focus, so finding one solution and then sticking with that until it works even though there might be roadblocks on the way. And so what we did was we spoke to some people, actually some friends of ours who had resold a product on Amazon and I think eBay before. They showed us some basic marketing approaches or tactics relevant to Amazon and eBay. And we decided to go with Amazon and test that out and see if it worked for our product because obviously, there’s also a certain dependency.
+
+Some channels work better for other products, etc. With that as a starting ground, we then had to figure out, “Okay. Let’s use this as a base. But how do we actually market our product specifically on Amazon?” Now that entailed multiple parts, just basic marketing principles, essentially. Part of that was figuring out the copywriting. So I personally read around four books on copywriting within those 30 days. I took around a two-day deep dive in copywriting 101 taught by myself that was reading The Boron Letters.
+
+Tim Ferriss: How do you spell that?
+
+Benedict Dohmen: B-O-R-O-N.
+
+Tim Ferriss: The Boron Letters.
+
+Benedict Dohmen: The Boron Letters. Very good.
+
+Tim Ferriss: Any other books you remember?
+
+Benedict Dohmen: Yeah. There was another one called Cashvertising.
+
+Tim Ferriss: Cashvertising?
+
+Benedict Dohmen: Yes, which was very helpful. Recommended. So multiple. And then I synthesized all the tactics or all the learnings from those books into one big note document. I came up essentially with a 20-step sales letter formula synthesizing the different advices from the different books and also blogs on top of that.
+
+Tim Ferriss: Your copy algorithm for product description.
+
+Benedict Dohmen: Essentially, yes. And then tried to apply that to the Amazon sales page.
+
+Tim Ferriss: Do you recall what some of the steps were at this point?
+
+Benedict Dohmen: That was a long time ago. I can tell you that the key principles which have benefited us most in terms of copywriting and sales have been focusing on the benefits rather than the features. A lot of mistakes we see being made or incorrect approaches people often take is they focus on the features of the products. But what consumers or customers actually care about is what benefits them, ultimately. So constantly focusing on that is the 80/20 or the one thing to copywriting as the main guiding principle.
+
+Tim Ferriss: Well, this makes me think of the iPod which, for those of you who weren’t born in the dinosaur ages, the iPod was this device about the size of a brick, initially, that played songs. No telephone. And it was not the first MP3 player that you could put in your pocket. But it was arguably the first to, instead of describing and selling the product in terms of the number of gigabytes it could hold and technical specs, said something – and I might be getting this slightly off – but, “1,000 songs in your pocket,” and making the connection much more clear between the purchase and the benefits that you’d derive from it.
+
+Okay. So you guys are figuring out copywriting. How are you at this point at all in the beginning separating responsibilities or investigating different things? Or are you guys all doing everything at that point? You have 30 days before these “sample” products arrive. How are you thinking of partnering on this? Because you don’t want to duplicate each other’s effort constantly because that’s redundant and would seem to be particularly abhorrent to computer science students. So how are you thinking about working together?
+
+Santiago Nestares: I wish we would have planned it. It was more like, “Well, we’re all in this same boat together. Let’s see how we can get there faster.” Now, I think it’s more we’ve divided that and compartmentalized that a little bit better. I did gravitate a bit more towards the keyword science behind it. And Ben was more around the copywriting and sales science behind it. We took the same approach to everything. It’s can you make a formula for it to work every time? So I took a bit more the pay-per-click approach to it. So I started understanding how did keyword-based algorithms work on platforms like Amazon and why were certain products displayed.
+
+Tim Ferriss: How did you figure that out? Or if someone came to you and said, “I want to figure that out,” what would your advice be?
+
+Santiago Nestares: The first thing I would say is go understand the basics because it actually takes a while – it took a while for me to understand what a keyword-based search is and how long-tail keywords are different than short-tail keywords and different types of matches. So I looked at a course by Brian Johnson. It starts from the basics, and it’s a deep dive into what PBC is, specifically, specifically on Amazon. And then once you understand that, what we realized was a lot of those were – they really had no statistical backing to a lot of the methods that they were using to optimize – there were good rules of thumb. But they were not necessarily the best.
+
+So to get an edge on that market and to get an edge on the keywords that we were bidding and to understand what truly are the keywords that we want to go after that are most likely to convert to our product, we started developing an algorithm or a simple formula as to what was the right bid for that specific keyword. And that was all based on when is it statistically significant to discard a keyword, whether it’s to keep bidding or to adjust that bid.
+
+Elaine Pofeldt: Am I correct you did this all on Excel Spreadsheets at the time?
+
+Santiago Nestares: Yes. So a lot of people think when they hear formulas, algorithms – and you can even name it AI because nowadays, they name a lot of things AI.
+
+Tim Ferriss: Don’t forget deep learning.
+
+Santiago Nestares: Ultimately, it was just a simple formula. You can run it on an Excel sheet. Deep learning, yeah.
+
+Benedict Dohmen: It was very deep.
+
+Santiago Nestares: It was all done on Excel sheets. And that’s when we said, “Look…” And I think we got a big edge, and that helped us kick start or give that initial momentum to those hundred units that we had. But then when it started to show up organically on the –
+
+Tim Ferriss: So these 100 units arrive. Just describe the day. So you guys are doing all this homework. Describe the day when this stuff lands.
+
+Santiago Nestares: Well, we didn’t even see it. So it went straight from China to our fulfillment network. We leveraged Amazon Fulfillment, FBA, as a fulfillment partner. They’re the most efficient we found. And yet to this day, we still use them. We never saw the products then – we did get some samples to do some quality control. But we really didn’t see the whole shipment. So it was very abstract to us. You think about a hundred units, and you actually don’t even know how it looks. I still –
+
+Tim Ferriss: Probably better for you guys in some ways.
+
+Santiago Nestares: It was probably better. So they arrived. And I remember I was actually just sitting down at home. I was back with my family. And I think Ben was also back in Germany with his family. And I just looked up in the phone from an hour to the next. And we saw we’d sold the first day a quarter of our inventory. So that caught us off guard. And that’s when we said, “Okay. We’re onto something. We’ve done something right. And let’s figure out what is it that we did right, so we can do it over and over.”
+
+Elaine Pofeldt: Now were you worried that you might just sell out completely and not be able to fulfill the orders?
+
+Benedict Dohmen: We knew we’re going to sell out at that point.
+
+Santiago Nestares: But the worry was nothing compared to the excitement or overwhelm from actually having thought to have found a formula for some sort of success in that marketplace.
+
+Tim Ferriss: What did you do right when you look back? And what I’m also trying to – just so you guys have an idea of what I’m going to try to do in this interview, there are certain things that people will have trouble replicating if they don’t have certain types of training. Replicating isn’t the right word. Learning from. Right? And then there are other principles and so on that, they can borrow and apply and learn from that you guys have used.
+
+So I’ll try to separate those two at different points just because not everyone coming in is going to have the technical capabilities that you guys have or the statistical familiarity. But looking back, what did you guys do right? So you sold, you said, a quarter of your inventory from one hour to the next. On one hand, you’re like, “High-five. Awesome.” And then, on the other hand, you’re like, “Oh, shit. Okay. This is turning out differently than maybe we would have expected. Good news.” But what did you do right? What did you guys do right?
+
+Benedict Dohmen: Should I take it?
+
+Santiago Nestares: So I think what we did right – we still reflect on it today. Every time we do a big move, we go back and think, “What did we do right and wrong?” and constantly try to learn from our experience. I think what we did right then was take computer science approach at developing the product. It all starts in the product. You can have amazing copy, and you need to have amazing copy. You can have an amazing keyword strategy, and you need to have it. But it all boils down to the product because you have a good product that’ll convert best. And you really can outbid any competitor and any keyword or any search ranking.
+
+Tim Ferriss: Also relates to returns, customer service issues, all of that.
+
+Santiago Nestares: All of that, it will take care of itself if you start off with having something good to offer. But honestly, we were not back pain experts. We still aren’t. And we’re not experts in the pet industry. We’re not experts in the beauty industry. What we did really well was take the customer as the expert. Don’t take anything else or anyone else as an expert. But take the customer. And how can we apply what we’ve learned, like the lean startup methodology, the Agile method that a lot of software companies use –
+
+Tim Ferriss: So Lean Startup Methodology. Eric Ries?
+
+Santiago Nestares: Yeah.
+
+Benedict Dohmen: Yes.
+
+Tim Ferriss: That school?
+
+Santiago Nestares: Very influential.
+
+Benedict Dohmen: Really, really important book for us.
+
+Tim Ferriss: Eric’s a good guy.
+
+Santiago Nestares: Yeah. So taking that approach that was so common in the software to the product development is – our only goal at that point was, “Let’s hear what’s working out there. Let’s hear what isn’t. Let’s put those two things together.” Initially, it was for us. Eventually, for the market. And then it was, “How can we get those products on the ship as quickly as we can so that we can start selling? Because the day we start selling is the day we start learning.”
+
+Tim Ferriss: The day you start getting feedback. And this is sometimes, for people who are not familiar, referred to as the MVP or I think it’s minimal or minimally viable product. So how do you ship in the context of lean startup, very often, software, which is very easy to iterate – physical product’s a little more challenging. But how can you get something out into the real world with real people who are not your friends trying to tell you what you want to hear so you can get feedback that can inform better decisions?
+
+Benedict Dohmen: Yes. And a very important concept we learned – most relevant, that is – there’s a clear distinction between feedback and failure. So usually, what a lot of people react – say they ship out a product, be it a software or a physical product, whatever, into the market. And they get zero sales. Or they get very disappointed with very few sales. A lot of people see that as failure and decide to give up. If you take the MVP approach, you see that as feedback.
+
+So with that feedback in hand, you can then course correct and actually identify the triggers or the variables that caused the low sales or that caused your miss of expectations and then work on those and tweak them. And then it’s ready again and ship out the next version or the next product and see how that compares to the previous version. So I think that, for us, that was very crucial to understand the distinction between feedback and failure. Failure is when you give up, feedback is positive because it allows you to iterate, to get better.
+
+Tim Ferriss: Yeah. And just having that mindset creates a lens through which you look at things very differently. And it affects the questions that you ask, right? So before we started recording, we were chatting about podcasting a little bit. And I want to say it was like the first or second question you guys honed in on was, “How do you learn what’s working or not in the world of podcasting?” which turns out to be somewhat challenging from a technical perspective given the lack of really deep and specific analytics. But that was one of your very first questions.
+
+And if you do not have that feedback-oriented mindset, it’s very easy – whether something works or fails or is somewhere in between – to just decide what you’re going to do next without looking at what happened but really spending time on the post-game analysis and figuring out, “All right. Is this one-off? Is it a problem that – can we replicate the problem? Do we think it’s because the website’s taking too long to load?” Obviously, it’s slightly different with Amazon. But, “Do we think it’s because the price is too high? Is there a way, not necessarily on Amazon, where we can offer an exit pop-up that gives people a discount to test that hypothesis?” Then your approach becomes very, very different. Okay. So you guys are launching your MVP. You’ve taken a lean startup/Agile development approach to product development. You’ve now figured out – what was the name of that book? Cash…
+
+Santiago Nestares: Cashvertising.
+
+Elaine Pofeldt: Cashvertising.
+
+Tim Ferriss: Cashvertising. God. So good. So terrible. So bad, it’s good. Cashvertising. And what are you using to track your sales at this point? Is there an Amazon dashboard that you use to track that? Or what are you watching?
+
+Benedict Dohmen: Yes. So Amazon has internal dashboards just in the Seller Central which is the approach we took. We can see basic reporting on sessions, conversion rates, the overall sales. As we grew, we then also expanded into third-party softwares though that give a more clear picture, a more organized, more structured – because especially in the beginnings, Amazon’s internal reports and their structure can be very confusing. And you can for pretty cheap already get a third-party software that shows you all the key metrics you actually care about in a very clear and structured format.
+
+Tim Ferriss: What are some of those options?
+
+Benedict Dohmen: So we used one called Sellics.
+
+Tim Ferriss: Sellex? S-E-L-L-E-X?
+
+Benedict Dohmen: S-E-L-L-I-C-S.
+
+Tim Ferriss: Oh, all right.
+
+Elaine Pofeldt: What does that mean? Is that just a brand name?
+
+Benedict Dohmen: That’s their brand name.
+
+Elaine Pofeldt: It’s just a brand name. Okay.
+
+Santiago Nestares: We also used CashCowPro at one point.
+
+Tim Ferriss: Say again?
+
+Santiago Nestares: CashCowPro.
+
+Tim Ferriss: CashCowPro.
+
+Santiago Nestares: Like a cash cow business, cash cow. And then with CashCowPro, they’re really, really affordable. And knowing your metrics is really important.
+
+Tim Ferriss: Now, speaking as someone who has not sold anything on Amazon and looked at the UI or the options split testing, is it po – this is more for my personal curiosity. But I’m sure there’s somebody out there wondering the same thing. On Amazon, can you test different price points, like automatically serve $29.99 to 30% of the audience and $19.99 to another 30% of the audience and so on and so forth?
+
+Benedict Dohmen: It’s tricky. Overall, from a high level, there are many different variables. There might be a deal of the day running or a lightning deal. There are so many variables, it’s very hard to control for price or for the images. There are certain tools out there who have tried to give it some type of testing. There’s one called Splitly. That’s S-P –
+
+Tim Ferriss: Splitly. Yeah.
+
+Benedict Dohmen: Yeah. Splitly. What they do is they subsequently test image one against image two or price point one against price point two. You can’t do it simultaneously. So you can’t do normal AB testing. But it’s a close approximation. And even within that, the price range – very tactically on Amazon, you can jump the price from, say, $19.99 to $9.99. Or especially the inverse. So you can’t just drastically raise the price because Amazon will then disallow you to – on the buy box, which is a crucial part to your conversion rate – so there are certain intricacies but some approximations as to get some rough idea and some rough testing.
+
+Tim Ferriss: Why did you guys decide on Amazon versus – was it primarily to simplify the Fulfilled by Amazon component of the entire process? Or were there other reasons? Amazon is, of course, a behemoth outside of China, certainly, and in the United States highly dominant. But were there other reasons you guys chose Amazon as your primary platform?
+
+Santiago Nestares: So what we discovered – because again, it’s really easy for new-time entrepreneurs to get caught up in reasons or complicating things and making it as hard as possible to get to the ultimate goal which is get to our customer. We were trying to simplify everything down to, “How can we get this product in front of the right customer as quickly as we can?”
+
+And Amazon offered the fulfillment side which pretty much removed all the operation intricacies for us. And it also enabled us to go to the whole European market as well with the flip of a switch, so to say. And then additionally, it also simplified all the marketing. There’re already active people going into Amazon trying to find solutions for their problem. People that are problem-aware are people that are product-aware. There’re people going out there saying, “I need a cushion for my back,” or, “I need a pillow to sleep better because I have back pain.” And they’re searching for that.
+
+Tim Ferriss: And they’re looking to buy as opposed to find information.
+
+Santiago Nestares: They have really high buying intent. So instead of figuring out, “How do we create awareness? How do we create product awareness and eventually get those down the funnel?” which is a game or a sign in and of itself, we were like, “All we have to figure out is how do we convince those that are already going into Amazon that, ‘Look, we are the best solution for them’? And we truly believe in our products. We think they’re better than the ones out there. So all we have to do is demonstrate that.” So that allowed us to do it really, really easily. And Amazon, additionally, is growing. Online is growing over retail. So it made the most sense to us. And still, today, we rely on Amazon as one of our main partners.
+
+Tim Ferriss: How do you, coming back to the MVP and customer feedback, get actionable feedback? So part of the reason I use Amazon as much as I do is to very deliberately avoid interaction with many merchants. I do not want to get email. I do not want to get questionnaires. I do not want to have any more interaction than absolutely necessary. So how do you guys get feedback on products?
+
+Benedict Dohmen: We aggregate a whole bunch of data. And that data comes from within Amazon but also off Amazon. Within Amazon, some of the main sections we look at are reviews, feedbacks, competitors’ reviews, competitors’ feedbacks, products in the same industry or category, their reviews, their feedbacks. So feedback and reviews from many different –
+
+Tim Ferriss: I suppose questions too, right? Because you have the questions and answers –
+
+Tim Ferriss: — So you can see what’s confusing people.
+
+Benedict Dohmen: That’s another way. And then we scrape all of that. We have bots that aggregate that and put them into a Google sheet, essentially, analyze it by keyword frequency or some search query frequency. And then we try to see some statistical trends as to, “All right. This complaint with the memory foam, this complaint has come up X many times or potentially that many purchases. It’s roughly statistically significant. This is something we should add to our list to then implement on our product development and on the sourcing and manufacturing side.” And then off Amazon as well, looking at social media engagement, social media postings, etc., aggregating all of that and then combining that and synthesizing with the on Amazon data to come up with a list of features we can then implement on the sourcing side.
+
+And the way that works is we have this list of features for every product that we would like to implement where we see from the real customers that they crave or in some way desire that because it’s a different story if people say, “Okay, this pillow –” if you have two people saying, “It’s too firm for me,” and two other people saying, “It’s too soft.” That is in no way statistically significant. So we have this list of suggestions. And then we speak with our manufacturers in China depending on where the products are. Some are sourced in the EU, some in the US, all over. We speak with them to evaluate the feasibility of this feature of incorporating that, the costs of it, how fast can they turn it around, will it affect the lead times as to how fast they’re going to even produce then all the subsequent batches, and a whole bunch of smaller decisions. If we decide to go ahead and it makes sense from a cost-benefit perspective, we implement that into the next cycle.
+
+So the next order, we already have version N+1. If we decide at this point it doesn’t make sense to implement that, then we keep it on our hold list, and we revisit in, say, three, six, nine orders down the line. We revisit, “Okay. Does it make sense now? Does it complement any of the other features we’ve just incorporated in the past orders?” etc.
+
+Tim Ferriss: And I don’t know if this is too much secret sauce discussion, but I’ll let you decide. When you say bots – this is a word that gets thrown a lot into media that people have seen. It’s, I think, generally poorly understood, the terms scraping and bots and so on. Are you guys using off – have you used off-the-shelf programs or services for that? Are these things that you guys have coded yourselves? What does that look like?
+
+Benedict Dohmen: To answer your question, we’ve – it’s a great question, by the way. We have computer science backgrounds. So we coded it ourselves in Python and some libraries that are out there, anyone can use. It’s just a way to automate it, to automate the process. Anyone can do this. It’s just it will then require more manual work which would otherwise be done by a script. So anyone can go into 50 listings of competitors’ products, look at their reviews, put them into an Excel sheet, and then look over and count the number of words or the number of queries and then map them out, essentially. “These are the queries we had. Forty-five of them over all these reviews, etc.”
+
+Tim Ferriss: Yeah. Or just display as many as possible, then Ctrl F and search for whichever term, right? It’ll show you right at the top of the browser how many occurrences.
+
+Santiago Nestares: That’s how we did it the first time. Super simple.
+
+Elaine Pofeldt: Have you found that the information you gathered in the European market was directly relevant to the US market? Are there differences in terms of the types of feedback that comes in?
+
+Tim Ferriss: Did you launch initially in Europe?
+
+Elaine Pofeldt: Yes, right?
+
+Santiago Nestares: Yup.
+
+Tim Ferriss: So okay. Yeah. That’s a great question. So walk us through that.
+
+Benedict Dohmen: Yeah. So there are certain differences between consumers in Europe and the US based on what we’ve seen. Obviously, our dataset is very limited based on our own products as well as our own personal experience. To give an example, German consumers – I’m German, myself – tend to focus more heavily on technical aspects of the product.
+
+Tim Ferriss: Shocker.
+
+Benedict Dohmen: And the American direct response – to Germans, it seems very salesy and very off-putting. Even with Europe, you have the Germans. You have the French, Spanish, Italian –
+
+Tim Ferriss: Very different.
+
+Benedict Dohmen: — the British. They all have very different consumer behaviors in a sense. And so you have to cater the copy and adjust it slightly to each.
+
+Elaine Pofeldt: What about the keywords? Would you change those also?
+
+Benedict Dohmen: Well, the keywords are independent of that because the keyword “pillow,” for instance, is the same.
+
+Elaine Pofeldt: Oh. So they’re generics?
+
+Benedict Dohmen: Exactly.
+
+Tim Ferriss: Then the product copy you use to convert them is different.
+
+Benedict Dohmen: There you go. Yes.
+
+Tim Ferriss: Why did you choose to launch outside of the US first? In the US would be more uniform in a sense where it’s like, “Okay. Yes, people in New York are different from people in Louisiana, are different from people in Nebraska, kind of.” But culturally, they’re probably going to be closer or more similar than Italians versus Germans I would think.
+
+Santiago Nestares: So back then, it would have probably made more sense to launch in the US. Ben had a German background. We believed that we would have an edge at least with the German marketplace. And I probably must have been at some econ class and taken some macro parallels to it that. Nowadays, I just laugh at myself for it because it doesn’t really make a difference. But that, it was mostly serendipity. We decided to go Europe.
+
+We’ve discovered some advantages in terms of they’re stricter in terms of regulation. So it forced us to put our products through regulatory processes that then are really easy to go through once we bring them into the US. The market is considerably smaller. It’s about three times smaller in terms of Amazon sizes. So it allowed us also to experiment and to get that feedback on a smaller sandbox. And then once those products got to the point where they were very successful, and most people were really happy with them, we could flip them over to the US.
+
+Tim Ferriss: Yeah. That is a very common practice for a lot of big companies in the sense that – I believe Nike is one of them that does a good amount of their testing in New Zealand. So they want to test on a native English-speaking market. But if it is a catastrophic flop, they don’t want it to be in Times Square or necessarily in the larger playground or sandbox of the US, let’s say. So they do a good amount of their research and initial testing and iteration in a place like New Zealand. So let’s backtrack for a second. Look at the phone. “OMG. We’ve sold a quarter of our inventory.” So I’m coming back to what I said I would definitely come back to. And here’s the line. “When it seemed their first small order was in danger of selling out quickly,” I would say that this story qualifies, “they arranged financing from their supplier and were off and running.”
+
+Walk us through that. “…arranged financing from their supplier.” This is really important I think because – and I don’t even know the story, but most people think – and this is particularly true I think in startup land where people hear the word startup. And I think particularly for a lot of people who are 20-22-year-old, however old CS students, it’s like, “Oh, go out, venture capital, Sand Hill Road, Silicon Valley, raise a bunch of money.” And they have that particular narrative when they think of financing. This is something that is not that uncommon. But it’s something very few people know about. So can you walk us through this?
+
+Santiago Nestares: Yeah. So from the get-go, Ben and I, we went in with the mentality of removing obstacles rather than coming up with obstacles. And we had –
+
+Tim Ferriss: What do you mean by that?
+
+Santiago Nestares: So this is a great example is, “Do you need an investor to put your second order, otherwise you’ll run out of stock?” That is an obstacle that you might actually be putting there by yourself. So we had this problem, which was we needed to make a way bigger order now. We did have the profits from the initial order. We had a clear proof of concept. And we had heard this narrative where you need investors to scale. But we said, “There must be a better way out there. There must be a quicker way out there. So we went to our biggest partner so far, our company that thought we were a massive company out of Boston, and said, “Look. We’re going to place this bigger order. But as we are a big company, we expect good terms.” So we convinced them to give us the good payment terms.
+
+Tim Ferriss: And for those people who are wondering, what are good payment terms in this situation? What did you ask – first, did you ask for specific terms? Or did you say, “What are the best terms you can offer?” What was the approach?
+
+Santiago Nestares: No. We came in really demanding because we were a big company out of Boston. So we said, “Look, we’re going to be placing a bigger order.” Again, we were pursuing the cash flow. We were pursuing profit. We were not pursuing an investor and have a tank and spend that money and then figure out what we’re going to do. So at all points, we knew that we needed to be profitable, one. The biggest issue with physical products companies though is today, you have to put the order that you’re going to sell in three months. So if your sales are up today and you expect them to be even bigger – and this problem we still encounter on a day to day basis – we’re going to have to put in more capital today to hopefully make up for the sales tomorrow. So we said, “Okay. They can be our biggest partner,” came up to them and said, “Big companies like Walmart expect 60-day credit terms, 100 net.” And they were like, “No. That’s not happening.”
+
+Tim Ferriss: Now, explain for people what that means. Sixty-day credit and then –
+
+Santiago Nestares: It means they produce the whole thing. They do the whole batch. And then 60 days after you get it, you pay for it.
+
+Tim Ferriss: And then?
+
+Santiago Nestares: Then, obviously, they said no. We went back and forth.
+
+Tim Ferriss: But what was the second part of the terms? So you said –
+
+Santiago Nestares: 100%. So –
+
+Tim Ferriss: — something, something, net.
+
+Santiago Nestares: — 60-day, 100% net.
+
+Tim Ferriss: Oh, 100% net. Sorry. I misheard you. I got it.
+
+Santiago Nestares: It’s usually a net. So we basically don’t put any penny up front, and they send the whole thing. And we pay them 60 days after it arrives. Obviously, that didn’t work out very well. But the ultimate thing that we understood, both of us, is that our scaling – obviously, after that point, they started understanding we’re not that big company. We’re a small company. But we’d been really successful with that initial order. And things got down to earth. But they understood that we were a key player in their scale and their scalability; they were going to grow with us the same way they’re a big player in our scalability. So when you understand that, you’re both trying to help each other. And usually, the objections they have to giving you credit terms is not because they don’t want to. It’s because they have risk objections. They also might be cash-strapped.
+
+So you want to sit down with them and have that honest conversation and say, “Look, what guarantees can I give you over this inventory?” or, “What things can I do to ease your cash flow? How can I guarantee that I’m going to pay this back in 30 days?” So I think we managed to get somewhere near 50/50. Or maybe it was 70 needed to be paid by the time it left. And the other 30 needed to be paid 60 days after. And since then, every time, we go back to the table, and we always ask for better terms as we continue to scale. Every time we have a bigger order, that’s a good opportunity to say, “Look, can we get better payment terms to do this big order?”
+
+Tim Ferriss: I want to highlight something which is you didn’t assume – well, maybe you did. But you didn’t stop at the no. You investigated the fears behind the no. This is really important because there may be other ways to address fears that do not include paying for everything up front. There may be other ways that you can address it, right? And that can range from – not necessarily in this case – but getting a cosigner for a particular deal so that worst-case scenario, they have someone to hold financially accountable who is not you or A, B, C, D, or E, right? Committing to the next four orders in some type of contractual way so that they don’t think – they mitigate the risk of getting burned on one particular deal. There are many different ways. Or maybe they say no because they don’t know who you are.
+
+Can you provide them with references of some type who’ll allow them to sell their supervisor on approving this because they’ve only been on the job for 30 days, and they’re not comfortable yet taking the risk to approve that particular deal? There’s a great book I would recommend to folks called Getting Past No, which I think is the more practical cousin of Getting to Yes. And it’s actually written, and I think it’s authored by one of the co-authors of Getting to Yes. Did you guys just figure out negotiating on the fly? Or did you read anything related to that? Or –
+
+Benedict Dohmen: It was mostly on the fly, trying to put ourselves in the other party’s shoes and then making our decision based on that. So it’s principles from game theory which we took a class on at school.
+
+Tim Ferriss: Yeah. That helps a lot. All right. And Elaine, feel free to jump in at any time since you’re certainly more familiar with their story than I am. But you are then able to achieve what you set out to achieve in a sense, which is to get favorable enough terms that you can get more inventory?
+
+Santiago Nestares: Yup.
+
+Tim Ferriss: All right. What happens then? So you have more product on the way. What were some of the best decisions that you guys made from that point on? What were some of the critical decisions? Because a lot of people try to sell products online, whether they’re physical or digital. And most of them go into it unprepared. Most of them do not learn from their mistakes. Many of them do not apply any type of rigor to their analytics or minding and very basic things. And that’s, keep in mind, coming from me. And I am about as innumerate as you can possibly be. I chose my university based on a lack of math requirements. I’m not exactly a quant. But very basic, simple arithmetic and not fooling yourself that two customer reviews that say X is cool means that definitively, across the board, everyone thinks X is cool.
+
+Santiago Nestares: That’s all you need.
+
+Tim Ferriss: Right. It’s really basic stuff. Super basic. But you guys have done very well. You have a very steep trajectory on sales. You’re launching new products. So at this point, you have the Supportiback, right? And you have more units coming in. What were some of the smartest decisions that you guys made or worse decisions – both are important – in the months that followed?
+
+Benedict Dohmen: One of the key decisions – and then Santiago, you can add to that – diving into the first one was to focus. And we’re big believers in the Pareto Principle, in honing in on what’s working and keeping on that and getting better at that and not getting distracted, removing distractions.
+
+Elaine Pofeldt: And then you had mentioned to me you’re fans of The 4-Hour Workweek. Was that what made you think along those lines?
+
+Benedict Dohmen: Absolutely. Tim, you mention it in The 4-Hour Workweek. Focus on removing distractions has definitely been one of the key decisions, even if it was an unknown decision, so an unseen, so to say because you neglect something. You don’t see, then you neglect it. So what that meant in this particular case was we had many options to expand into different channels, say walmart.com, jet.com, even eBay where we could figure it out. But one of the key decisions we did was to focus in and home in on Amazon, in growing both our expertise as well as our sales on that platform. And unknowingly, one of the effects that had is – the way Amazon works from a very high level is the more sales you have, the more sales you have.
+
+So it’s a snowball or a cumulative advanced attribution, however, you want to call it, in that Amazon ultimately cares about transactions on their site. So the more transactions you have on their site, the more they like you. And what the more they like you means is they rank you higher. They give you access to advertisement, etc., to a whole bunch of other benefits based off of that.
+
+Elaine Pofeldt: So you classified those other sites then as distractions, it sounds like.
+
+Benedict Dohmen: Yes. So Warren Buffett and Charlie Munger are big idols of ours. And Warren Buffett mentions – one of his concepts in distractions and focus is there are 20 things you want to do right now, we’re really burning to do. For us, that was expanding to other channels like Walmart. But you have to scrap them all and focus on the one thing that ultimately will push you forward. And real distractions are things you’re dying to do. So we applied that in our case and kept on focusing on Amazon. I think that was crucial.
+
+Elaine Pofeldt: And does one of you reign the other in? Is one of you better at narrowing the focus? Or do you both do that for each other?
+
+Benedict Dohmen: It’s both for each other. And I think there’s a lot of value in a partnership, in particular, that point because one can easily lose track and get distracted oneself. But having a second pair of eyes is definitely where two plus two is way greater than four in that sense.
+
+Tim Ferriss: You guys have mentioned – well, before we started recording and also now, Warren Buffett and Munger. Yes, they’re very successful investors. That’s great. And they’re certainly among the best the world has ever seen. But beyond that, or maybe in addition to that, why are these two so interesting to you guys? And when you say, “We idolize them,” that’s great. But does that mean you study them? And if you study them, how do you study them?
+
+Santiago Nestares: That’s a good question. I think what we admire the most out of them is their constant pursuit of truth and rationality, is how do we really understand the reality and keep emotion and irrationality out of it as much as possible. They even admit there’s no such thing as perfection in that, but they’re always striving to do that. So the most studying we do is both on what they have to say – one of my favorite pieces of Charlie Munger’s speech in Harvard I think in 19 – you can look it up on YouTube, Charlie Munger Harvard.
+
+Tim Ferriss: Yeah. If you just look up “Charlie Munger commencement.” I think it’s also in Poor Charlie’s Almanack –
+
+Santiago Nestares: Yeah, it’s also in there.
+
+Tim Ferriss: — in the newer additions.
+
+Santiago Nestares: What they have to say – pretty much any insight into their lives – I know they’re usually pretty private, but there’s plenty of content out there for you that you can see. But it’s that pursuit of being rational and staying down to earth and keeping emotions out of things that have helped us both in our personal lives and our relationship as co-founders, as in our ability to dissect the business and focus on the few things that actually move the needle.
+
+Tim Ferriss: Ben, what about you? And as it relates to that dynamic duo, are there any resources that you would recommend?
+
+Benedict Dohmen: Poor Charlie’s Almanack is definitely there. I think there’s another book, From Darwin to Munger.
+
+Tim Ferriss: Yup. Peter Bevelin. Seeking Wisdom, I think is the title. And then From Darwin to Munger or Munger to Darwin is also a really good collection.
+
+Benedict Dohmen: And then the speeches on YouTube. I think Munger has one at USC. It’s a commencement speech, which is very valuable.
+
+Tim Ferriss: And I also would recommend to folks who may not explicitly have an interest in what you think of as investing which is picking stocks, let’s just say, to read the annual letters to Berkshire Hathaway shareholders by Buffett. There are collections of these letters. And it will help you to hone or, at the very least, test your own thinking so that you become more clear about how you are reaching your conclusions, which translates to better investment of time, energy, attention, capital, which certainly transfers to just about everything. All right. So getting back to the main story – the storyline that we’ve been traveling along here – when did you begin to expand outside of your first product, and how did you make that decision?
+
+Santiago Nestares: So back to when I mentioned that we took a pause to understand what had worked, we understood, again, it was our approach at product development, how we took our CS background to developing the best back pain product and –
+
+Tim Ferriss: I’m going to interrupt you because I’m being a jerk but also because I want to – we are definitely going to get to the expansion of product line. But I realize maybe we skipped a chapter really early which was before you ordered your product and you were getting feedback from people at Dartmouth. What did that look like? Because this is really hands on. It’s something people can do with communities around them. How did you elicit feedback in the very early days? Because you guys are systems thinkers, right? So you’re not going to be like, “Hey, do you like it?” And they’re like, “Yeah, I like it.” You’re like, “Okay, great. Let’s go buy a container full of product.” No, you’re not going to do that. So what did you do?
+
+Santiago Nestares: Look, limited feedback is better than no feedback. We took it with a big grain of salt. We lined up a whole bunch of people and said, “Look, withdraw yourself from the product as much as you can,” and said, “What do you think of this? Use it for a few hours.” We did a couple of different tests. One was like, “Use it for a few hours.” And right beforehand, we would ask them, “How much pain are you in right now?”
+
+And then, “How much pain are you in after?” How statistically significant was that or how valid is it probably isn’t very valid. But then we reached out to the CEO of the Dartmouth-Hitchcock. He was nice enough. All his background is on back pain. He was nice enough to meet with us and give us his opinion on his best practices. But again, that was not the pillar or the core of how the product was developed because ultimately, our biggest expert is the customer and their behavior, their consumer behavior. So we took that with a bit of a grain of salt, took it as a guiding reference. But it was, “How can we get to the market as quickly as we can?” And that’s when the true learning started.
+
+Tim Ferriss: What were things that you modified in the product? I don’t think we touched upon this yet. So the Supportiback. That was your undergrad and master’s degrees setting you up for the later products I would assume in a lot of respects, right? So what were some of the early changes that you made to the product and that were important in retrospect? And why?
+
+Santiago Nestares: Yeah. So we actually worked on three products, initially. They launched in a bit of a different timing. But the three were the brace, the pillow, and the lumbar support. All of those were Supportiback products. I’ll give you the example of the pillow because it’s the most substantial or clear changes that we did. So we started looking at – again, approached what other pillows are doing. We knew that the pillow – let me backtrack. So there’re three core points in your life when you have back pain, where you’re not moving, and when you’re at poor posture. It’s when you’re sleeping, usually when you’re commuting if you commute by car like a majority of the people in the US, and when you are sitting at work.
+
+So our customers kept coming back to us for those three products. So what we set off to do with pillow – and we started looking at different types of pillows, understood that memory foam was the best material, again, looking at the trends, what material has gotten the best feedback in terms of solving the issue which was back pain. That was, by far, memory foam. And there were different densities of it. So that’s when Ben came in. And he was like, “Well, but some people say too hard, too soft. How can you pinpoint the Goldilocks –
+
+Tim Ferriss: The optimal density. So how can we –
+
+Santiago Nestares: — pinpoint the optimal density. And then once it started selling, we started getting feedback from the customers. Clear trend saying, “Look, the memory foam is great. But it retains a lot of heat, and it’s making our faces really itchy.” Within two to three days, we’re not really using the product. I’m throwing it to the side and using my normal pillow.” So we were saying, “How can we make this cooler or solve this issue that those –”
+
+Tim Ferriss: Literally cooler.
+
+Santiago Nestares: Yeah. So we started looking at other industries and how had memory foam products before – not trying to reinvent the wheel, just trying to solve the issue the simplest way possible. Found that we could add a little, thin layer of Cool Gel on top and then even pinpoint it down to what was the width of that, later, how big would you want to make it, and added that specific layer to the product. Made that change, and within – as soon as that product hit the market, it became the bestselling pillow in all of the UK marketplace. It actually became the best-selling pillow in all of home and kitchen as a category for a few days.
+
+Elaine Pofeldt: Santi, could I just stop you for a second? How did you know about the materials? This seems like it would be totally alien to most of us.
+
+Santiago Nestares: We didn’t. So that was what we did right. Our own ignorance pushed us to take the right approach, and that’s taking the customer as the ultimate decider. So we said, “Look, we don’t know what a memory foam is. So let’s buy all the memory foam pillows and let’s see which ones have the best feedback on this specific memory foam as the enabler to solve the problem.”
+
+Elaine Pofeldt: So you looked at their comments on Amazon about those pillows, and then you extrapolated –
+
+Santiago Nestares: Exactly. Again, same approach.
+
+Elaine Pofeldt: Where you’re using your basic approach? Okay.
+
+Santiago Nestares: We’re just iterating on the same thing that we’d done right. And then we literally took a sample out of the memory foam, sent it to our supplier, and said, “Can you make it out of this memory foam?” They examined it. They said, “This is the type of density. This is the color. This is exactly how we’re going to do it.” It was very systematic. For us, if we couldn’t do it again with any product, we wouldn’t even do it even if we thought that we could input our own opinions into it and make it different. We said, “That is not iterable. Let’s not do it that way.”
+
+Tim Ferriss: Question on manufacturer. I don’t think I asked. So there are a million and one manufacturers out there. And for every one good story, I hear, I hear 20 awful stories. How did you end up – and you don’t have to mention the specific manufacturer, but how did you pick them? And did you make mistakes in the beginning and have to replace your manufacturer? How did you go about vetting and selecting who you ended up selecting?
+
+Benedict Dohmen: So overall, the approach we took was, “Let’s put in the upfront work in the vetting because that will make our lives down the line way easier instead of having to deal with a lot of issues, quality assurance, etc.” So Santiago already mentioned we initially reached out via Alibaba to around – again, a very numeric driven approach to finding a supplier. Reached out to I think around 30 or 40 different suppliers all within the categories of the products through Alibaba. I think we also looked at 1688.com, which is another comparable site. And within Alibaba, you also have certain metrics. There’s a gold star rating. There are metrics on how long they’ve been on the platform for. And even Alibaba, I guess given to their own history, has instituted quality checks from within of their own people or employees, going to the factories, taking photos, verifying all the certifications are accurate, etc.
+
+So that was a good ground basis to work off. A lot of the vetting came from speaking with the manufacturers themselves, in how professional they would behave and how effectively they would communicate, what companies – under non-disclosure, but what type of companies, what size of companies they had worked with in the past, example of products they’ve worked and produced themselves in the past. So many different variables we looked at to vet them. And ultimately like a checklist where they had to tick off different boxes.
+
+Tim Ferriss: What were some of the questions you asked on the phone? So you have 30 to 40 you reach out to. How many of those would you say you guys called?
+
+Benedict Dohmen: Well, we contacted all of them. And it’s like a marketing funnel. You have certain dropout. And then we obviously cut off a certain percentage because it’s a huge time investment on our end to speak with 50 different people simultaneously. So we had an initial cutoff in terms of poor communication. And that was indicated by, say, poor English, some certifications they could not hold up, etc.
+
+Tim Ferriss: Meaning they couldn’t provide certificates to show you?
+
+Benedict Dohmen: Exactly. So that was a big cutoff. Then another step in the funnel was actually having a lawyer go over the certifications and counterchecking them that they were accurate and not fake. There are basic lawyers who can do that for $100-$200. So that was another state of –
+
+Tim Ferriss: How did you find the lawyers?
+
+Benedict Dohmen: Google search.
+
+Tim Ferriss: Got it. And those were based in the US? Or based –
+
+Benedict Dohmen: Those were based in Europe, actually.
+
+Tim Ferriss: Based in Europe? Got it.
+
+Benedict Dohmen: Yeah. But the lawyer can be from anywhere because these organizations are global, their certifications.
+
+Tim Ferriss: What do you search on Google for something like that? What might you search?
+
+Benedict Dohmen: Yeah. So it depends, again, on the category of product you’re manufacturing. A general good certification to have is Good Manufacturing Practice –
+
+Tim Ferriss: GMP.
+
+Benedict Dohmen: GMP. So you can look up for a GMP certificate lawyer approval verification, etc., and you’ll get a whole bunch of results. So very practical, again.
+
+Elaine Pofeldt: And were you going to your classes at this time? How did you actually find time to do all of this?
+
+Benedict Dohmen: And that’s a great question. Going back to 4-Hour Workweek, that’s another point where that was very influential to us because we had limited time. Obviously, there was attendance at class. And we had to do labs, etc., which took up a lot of time. So the time we had available, we had to use very focused…again, Pareto Principle, focusing on the few things that matter.
+
+Tim Ferriss: Let me just pause you for one second. So Pareto Principle, for people who are not familiar with that term, is often also called the 80/20 principle. And in very, very simple terms – there’s a lot of nuance to it. But the idea or the premise being – it’s more of a conceptual framework. But it ends up manifesting pretty accurately in a lot of different areas, whether it’s agriculture or looking at profit per customer or headache per supplier, that 80% of – say, in the case of profit, 80% of the profit that you generate will be produced by 20% of your products, 20% of your customers. And doing that type of analysis to identify the really, really good and also the really, really bad so you can make more informed decisions. And 80/20, it doesn’t mean – it doesn’t have to add up to 100.
+
+It could be the 95/5 principle where 5% produce 95% of your headache with your accounts receivable. It could be any number of things like that. But that’s named after Vilfredo Pareto. So sorry to interrupt. Yeah. So you’ve got your labs. You’ve got your classes. You have limited time. So you’re really having to focus on the things that matter.
+
+Benedict Dohmen: Exactly. And the funny note – we’ve actually seen instances where people who dedicate full-time, say, to a business or to the entrepreneurial pursuits end up being less effective than people who are only pursuing it part-time just because they get distracted. They get lost. They don’t use their time effectively. And ultimately, the people who have a full-time job or are in college can use the limited time they have available on the things that matter, parallel distribution, and also use them effectively focused, not being on the phone, seeing all the messages from the wife, from the partner, from work, etc. So I think again that we use that from The 4-Hour Workweek, the concept of focusing in on what matters, systematizing the rest. And that’s been very, very influential for us.
+
+Tim Ferriss: Yeah. It’s true for a lot of folks which is in part why whether it’s in The 4-Hour Workweek or outside of that, I often talk about the 80/20 principle or Pareto Principle being used in tandem with Parkinson’s Law. And Parkinson ’s Law is a semi – it was initially written about in more of a humorous satire-like context. But the applications are really practical. So the purpose of the Parkinson’s Law is that a task will swell in complexity, fill the time that you allot it. So the more time you have for something, the more complicated you will be inclined to make it. And this is also not just within entrepreneurship but even in writing. You have someone like Khaled Hosseini who wrote The Kite Runner who was, I believe, a full-time physician at the time. So he had to use tiny chunks of time here and there to really focus. It was not an option not to focus because his time was so limited.
+
+So it can be a very useful forcing function. And the reason I mention that is that a lot of people who – there are many people, myself included – I do this all the time too. So it’s a matter of conditioning yourself to use this lens. But it’s very easy to look at a perceived lack of time as a weakness. But if you view it instead as a forcing function where, when you focus, you have to focus, you cannot get away with checking social media every five minutes and get anything done, then it can be a real asset. So you guys were using what? Nights? Weekends? When were you actually finding the time? Or was it in separate chunks?
+
+Santiago Nestares: So the first thing we said is, “Let’s apply the 20/80 to the classes. So what are the things that we actually have to do to still get our good grades but not necessarily spend 100% of the time that normally people would spend?” And then the time that was opened by that, then say, “Now we have this little bit of time. What can we do for the business in that 20 to produce the 80% of the results?” And then note on the 20/80 is sometimes – so it’s really easy to identify, say, when you’re not doing the 20 of the 80, say with social media or with wasting your time.
+
+But often, it’s even harder to identify it when you’re doing things that seem productive, when you’re saying, “Okay, I’m going to spend –” you spent four hours trying to get the image perfect. And that often is just as bad as spending those four hours on social media. So it’s harder to identify that and always be aware of – one big concept or one big book that has helped us fight through that has been The ONE Thing by –
+
+Benedict Dohmen: Gary Kelly. He’s actually in Austin.
+
+Tim Ferriss: Gary Kelly. Another local. Huge, huge real estate empire for people who don’t know the name. Gigantic.
+
+Santiago Nestares: So we used that concept. And we combined the carving out of the classes versus the carving out of the business, carving out that 80% that doesn’t make much of a difference. And that’s how we made time for it. And we had time – we do work hard. We work pretty much all day, every day of the week. But we do have time for leisure, to space out the mind, and do things that we also find fun.
+
+Tim Ferriss: So two quick notes on that, and then we’re going to come back to introducing new products. So I wanted to hit the manufacturing. Then we’ve taken a slight side road, not a divergence because it’s all convergence. But the two things I wanted to mention are, number one, that – I suppose it’s really just one thing. And that is that the less people are thinking to themselves, “Wait a second. This is The 4-Hour Workweek guy. And these two just said they work all the time. How does he reconcile those two?” It’s actually really easy because the title is more of a metaphor. And the case studies within the book even are very, very, very different.
+
+And the objective is to maximize your practical output per hour. And then if you want to build a business that covers your expenses and helps you put your kids through school, and then you spend the rest of your time exploring other passions, that’s one path. If you want to build like you guys are doing right now, an eight-figure, nine-figure business, that is another path. But the tools that you would use, 80/20, Pareto, etc., are all – it’s the same toolkit applied to a different project. So products. You started not with one. You started with three. And how did you then go from the initial three to expanding? And was that always the plan?
+
+Santiago Nestares: So no. Initially, the plan was solve our own issue. Then it was getting those products into the market. But what happened is those people kept coming back to us and saying, “Okay. So cool. I have these products. What else? I’m still getting back pain in this and this other area in my life.” Or, “Do you have a solution for this?” or, “This solves my lower back pain. But what about my upper back pain?” So we started listening to that as much as we could and started seeing, “How can we help our customers for longer and with more things?” Again, really CS approach, data-driven, started understanding, researching a lot of the keywords, what are the best-selling products in terms of back pain, how can we add a value, created a list of candidate products that we were going to launch and said we’re going to launch another 22 into the market.
+
+Tim Ferriss: Okay. So you’re data-driven. How did you decide on 22?
+
+Santiago Nestares: It was a combination of what we thought we could get out of payment terms from our suppliers versus the profits that we had originally made because we were reinvesting 100% of everything.
+
+Tim Ferriss: Got it. So for growth purposes, the max number you could afford to launch based on the assumptions you had, which were grounded in your data you had thus far, was 22? You could utilize 30. You were really playing more Russian roulette with potential finances.
+
+Benedict Dohmen: We were potentially going to run out of stock.
+
+Elaine Pofeldt: Can I ask a question? Are there any areas of decision making on the products where emotion intervenes? You guys seem like you’re naturally very good at applying rules and discipline. But do you ever just say, “I just really love this product?” Or do you not allow that when you’re making the decisions?
+
+Santiago Nestares: We think we don’t allow it. I hope we don’t. But emotion is always there. We try to make it as numerical as possible and as rational. But there’s always something.
+
+Benedict Dohmen: There’s no perfection.
+
+Santiago Nestares: But yeah. We decided to launch the – 22 is also going to be interesting because it was going to force us to do it in a systematic way. We only had a few hours a week from our school, and we would need to develop 22 products. So everything needed to be formulaic and systematic. So that was when we started laying the groundwork for the systems that we currently have in place for the big launch that we’ll talk about after the 120. So yeah. That’s how we selected the products and then replicated the same cycle that we’d done for those initial first and three to those 22 is, “What are the other competitors doing? What are they doing wrong? What are they doing right? What do the people want? And how can we get it all together in a single product? And how can we get it to market as quickly as possible?”
+
+So we set ourselves a deadline of three months from the point we decided to the point that it’s going to be selling. That includes the shipping three months for 22 products. And that includes shipping by sea, which is a month, to Europe, and about a month to manufacture. So we only had a month to actually get it all ready to order.
+
+Tim Ferriss: Okay. So the two of you guys, clearly very smart. You’re very analytical. And just before I forget, a quick pause. If you guys find yourselves getting really fatigued and worn down by the business, you should launch something just for shits and giggles. No, seriously. I’ve done that just to resuscitate my enthusiasm. For instance, I’m just envisioning in my head you could have some type of ridiculous rainbow unicorn slippers that you engineer so that every time someone buys one of your products, customers also buy just to inject a little bit of fun. Could be worth it. But where was I going with that? I got off track with –
+
+Santiago Nestares: Rainbow slippers by Tim Ferriss.
+
+Tim Ferriss: Yeah, exactly. Signature series. So you guys are well-educated, smart. You’re in your professional sports prime in a way. You guys have a lot of energetic resources. And if you have to just live on Red Bull and ramen, you can do that. But that sounds like a task you guys can’t do by yourselves. And it also sounds like a task that would be very hard to script because God forbid you’re scripting the copy. I could see some really ridiculous stuff coming out.
+
+Santiago Nestares: Don’t give Ben ideas.
+
+Tim Ferriss: Yeah. So did you have, and do you have help? And if so what does that look like?
+
+Santiago Nestares: Yeah. Do you want to take it?
+
+Benedict Dohmen: You can take it.
+
+Santiago Nestares: Okay. So we scout the team. I don’t know if you guys are familiar with Dartmouth, but it’s pretty much a little town in the middle of snow. So there’s really not much room to hire full-time people besides that we were running. We were still in school. So we went to a platform like Upwork. There’s many of them out there. I started looking for freelancers that would help us execute some of these tasks. And what we actually were surprised to find is the quality and the level of the people in those platforms. They’re very, very smart people, very educated.
+
+Tim Ferriss: So you mentioned Upwork. Any others that really come to mind for you?
+
+Santiago Nestares: For the most part, we used Upwork. There’s freelancer.com, FreeeUp. We’ve mostly stuck with Upwork. So we were completely surprised by the quality and the level of specialty of the people on those platforms. And we started hiring remote people that would dedicate one or two hours of their day – they usually had other clients as well – that would do a very specific task. So say copywriting. We would hire a copywriter in each of the languages –
+
+Tim Ferriss: Here’s our 20-point checklist. Follow this.
+
+Benedict Dohmen: Or improve it.
+
+Santiago Nestares: creating SOPs.
+
+Tim Ferriss: Or improve it.
+
+Santiago Nestares: Created the SOPs.
+
+Tim Ferriss: SOP?
+
+Santiago Nestares: Yeah. SOP is standard operating procedure. It’s fancy word for checklist.
+
+Tim Ferriss: And are you communicating with them via email, Slack, something else?
+
+Santiago Nestares: Created a Slack for all of us. Everyone’s in there. Facilitates a lot of the things. And that’s how we start running those processes.
+
+Tim Ferriss: And now, much like with the manufacturers on any job board or freelancer community, there are going to be some amazing people. And there are also going to be some clowns. So how do you guys qualify or disqualify people really quickly?
+
+Benedict Dohmen: Yeah. Great question.
+
+Santiago Nestares: That’s our biggest question.
+
+Benedict Dohmen: Yeah. That’s a very big question for which we don’t have a full answer. But it’s our most pressing question. We took a similar approach to the copywriting initially, so same as those first 30 days, tried to do as much research as possible looking at companies who do hiring and especially the selection part correctly. A really good book is The Who interview.
+
+Tim Ferriss: Yeah. Who is a great –
+
+Benedict Dohmen: It’s a very good process.
+
+Tim Ferriss: It’s basically a streamlined, shorter version of Topgrading, which a lot of my startups – which are venture-backed but same, same. The best of them still operate with very similar metrics and mentality. Yeah. Who is a very good book.
+
+Benedict Dohmen: Another one called Work Rules, which is by Laszlo Bock. It’s on Google’s insight, how they go about hiring and selecting candidates and some other really interesting thoughts. My whole library at home, I have around 10 books I think just dedicated to hiring and selecting people. So it’s a very important issue to us.
+
+Tim Ferriss: So what have you found to be – I know you don’t have a perfect answer. And maybe that doesn’t exist. But what are things that you have implemented that you’ve found helpful for qualifying or disqualifying people quickly?
+
+Benedict Dohmen: Absolutely. So based on the research we’ve done, similar processes with the 20-point copywriting formula, with interviewing, we found a few key principles which are – the main ones are structured interviewing is – so if you incorporate some structure to your interviewing process, that will give you, on average, better results over the long run. On what structured interviewing means, you have a multi-step process. So that can mean a phone screen and then a cultural interview where you assess the culture and then a reference call and then maybe a work sample.
+
+Tim Ferriss: And Who does a good job of – that’s one example, but they provide that structure.
+
+Benedict Dohmen: Yes, exactly. We actually base ourselves off the process in Who. So that’s a key principle. And also, having the interview questions predefined because otherwise, what happens is candidates tell their own story and cater it to what you want to hear in our echo chambers, in a sense, of what you’ve told them about the position or what they read on the job description with –
+
+Tim Ferriss: It also makes it very difficult to compare candidate to candidate if you have different interviews.
+
+Benedict Dohmen: Exactly. So having those questions predefined, and then there are certain questions for the areas you want to assess, which are most likely to yield a better assessment than other questions. Having those predefined and also stating beforehand, “This is what a good answer looks like. This is what a bad answer looks like. This is what a mediocre looks like,” that is very helpful in getting some rigor into the selection process to avoid just going for people who you like, who you relate with, who have similar backgrounds than you, etc. Secondly, we found that reference calls and heavy referencing – so that means at least probably three to four references and then asking those references to provide another reference –
+
+Tim Ferriss: Which is very important because, of course, job applicants who provide you references are banking on the fact that those references are going to give positive reviews.
+
+Santiago Nestares: Because we ask the same questions to try to correct for that as well.
+
+Tim Ferriss: And what would be an example of that?
+
+Santiago Nestares: So for example, we had a candidate where we were trying to test out for his or her work ethic because obviously, if you ask somebody, “Do you work hard?” they’re always going to say yes, regardless of how you ask that question. So the best way is to say how others assess their work ethic. But if they’re counting on the reference to give a good reference, they won’t tell you, “Of course, he has a good work ethic.” So we’ve done a couple. We obviously won’t say all the tricks. But one of the tricks is that we go up to the reference and say, “Look,” to the candidate – we’ll call him Jim. “Hey, look. Jim said sometimes he struggles to stay motivated and to work really long nights. What are your thoughts on that?”
+
+Tim Ferriss: Which Jim has not said?
+
+Santiago Nestares: Right. So then based on their reaction – because if somebody’s really, really hard working, they’ll say, “Oh, Jim is never –
+
+Tim Ferriss: “Really? That’s strange.”
+
+Santiago Nestares: “That’s weird. They’ve always been…” They’ll react that way. Whereas, if they’re actually not, “Yeah, Jim’s been struggling. But look, it’s just because the boss…” and they’ll come up with a reason to save him. But then it clearly shows. Those are a few ways that you can angle the question.
+
+Tim Ferriss: Yeah. Another one which a friend of mine told me, and I thought it was quite clever which applies in the US – and there’s some legal restrictions and guidelines around this kind of thing because many people will be terrified to say anything that might jeopardize the person’s hiring for legal reasons. And so one way to get around that is to – if you ensure that you send people an email – so you don’t get them on the phone. You either leave a voicemail or send them an email which is, “I’m interviewing so and so for a potential position. I would love to know how much you would recommend them. No need to reply unless it is an eight or higher.” And then they have plausible deniability. And they can always say, “I never got it.” And you have to make sure you have a sample size that’s significant enough or you know that these people are in contact so that that works, and you don’t get a false negative if that makes sense.
+
+But that would be another approach. In terms of quick vetting, I’ll give one more. Another tactic that was shared with me by a friend who’s a multiple-time New York Times bestselling author and runs a number of businesses and hires a lot of contractors – and what he’ll do is he’ll have some type of – he’ll start with a work test. He’ll start with a test of some type that has a very fast turnaround. It’s like, “48 hours. This needs to be done.”
+
+And the first step is very often to respond with certain types of information. But at the very end of the work task, it will say, “Do not reply via message or email. Call this phone number and leave a message with your answer.” And it has to be in a larger context that it’s easy to miss. And he’s testing for attention to detail and doing things on time. That’s basically his first hurdle. And it immediately screens out 99% of the people who just do not pay attention. All right. So how many folks do you have helping you at the moment?
+
+Santiago Nestares: So we use the freelancer approach. By the way, one last thing I wanted to add to that. Work samples are the biggest indicator to job success. So if you can make somebody – on Upwork, a clear way or easy way to filter people out, say, “Hey. This is what I need to do,” is do a shorter version of whatever they need to do. Easiest way to clear out through people. But anyway –
+
+Benedict Dohmen: Really important note. There’re some really good resources on YouTube. I think it’s Y Combinator and Stanford. Or Y Combinator taught a class at Stanford. And there are some really good lectures there on teambuilding. There’s one with Vinod Khosla from Khosla Ventures. He’s great on hiring. He believes hiring is the one thing to scale. And there’s another lecture with – I think his name is Ben Silbermann –
+
+Tim Ferriss: Silbermann, of Pinterest.
+
+Benedict Dohmen: — of Pinterest and the two Stripe cofounders.
+
+Tim Ferriss: Yeah, the Collison brothers.
+
+Benedict Dohmen: Yup. And they also talk about hiring, teambuilding. Incredible value right there. So I recommend that to anyone who’s looking to hire or vet people. It’s been of great value.
+
+Tim Ferriss: Yeah. That’s a tremendous series of classes. I think they may have made some of them into podcasts as well, so people can check it out. I’ll put all these in the show notes for everybody. So you were going to say –
+
+Santiago Nestares: So I was saying – yeah. So we started hiring freelancers, all from the college dorm and saying – to work out through those little pieces of the system. Compiled everything on an Excel sheet, and everyone knew what needed to be done. And within a month, those 22 products were live. And we’ve kept those people in place. There are about 26 right now.
+
+Tim Ferriss: 26 freelancers?
+
+Santiago Nestares: Freelancers. Some of which we only use on an on-demand business. So we don’t have a copywriter sitting along doing copy all day. Just when we launch a new product, they might come in. But there’re about 12 to 14 that are pretty much every day running the day-to-day systems of our company. So that’s how we launched the 22 products. They were very successful. As soon as they hit the market, we started iterating on them. And still, to this day, we iterate on them and try to make them better, have constant talks about how can we improve those 22, and took a step back and said – by then, we were already on track to the eight figures, so above the $10 million.
+
+And we said, “Look, we’ve done something right. We’ve scaled it up.” And we started learning a bit more about how the bigger market and the consumer packed goods and just packaged goods in general worked. And so Ben and I researched into how CPG companies were doing their development, again, acknowledging that our key component to success was our ability to use data as the development guideline or as the north star.
+
+Tim Ferriss: And CPG, for folks, is consumer packaged goods which can range from protein bars to –
+
+Santiago Nestares: Shampoo.
+
+Tim Ferriss: — shampoo, to just about anything. Think Procter & Gamble or any of these large brands.
+
+Santiago Nestares: Exactly. So we started learning how they were doing a lot of the development, not any in specific, just in general. But they were doing a lot of the product development. It was usually not very data-driven. They would have focus groups that were not statistically significant. And there was not real consumer behavior or purchasing intent. And they really didn’t – and the reason why we discovered, they weren’t really putting a lot of effort into the development is because they have all the leverage from all the household brands that they use then to push new products into the market and eventually hopefully become a household brand. So they have a lot of leverage into the distributors and the retailers. So there was no incentive there. But the digital arrow was allowing us to change that.
+
+And that’s what we’d been doing with Supportiback without really knowing it is going straight to the customer and saying, “Look, we can make it better. What can we do better about this product? And how can we make a better product for you?” So we said, “Can we replicate that approach across the bigger industries such as beauty and skin care and the pet supplies and pet food and baby and even nutrition?” So Ben and I said, “Look, if we want to get to that point, we obviously need to have people that have been there, done that, sort of as professors come in and tell us how to scale to that point.” So that’s when we decided to take a big turn in life and put these studies on hold and come here to Austin and build what we call the exec team or the people above us, even, that’ll help us scale to that portion.
+
+Tim Ferriss: And one thing that folks might not realize – and I didn’t know this until I actually got to Austin – is that some of the best CPG entrepreneurs and investors in the country, maybe in the world, are here in Austin. And a lot of that is thanks to a university known as Whole Foods because the alumni, former execs, and so on and serial entrepreneurs who have built consumables companies, whether that’s EPIC bar or Deep Eddy Vodka or whatever you might find, tend to stay in the area. So you have this very dense network of people who really understand how to build CPG companies, whether that’s cold brew coffee or the shampoo or gluten-free tortillas or fill in the blank.
+
+There are many, many examples here. And I had no idea before I got here. So are you guys looking to build or buy or both, meaning are you looking to build all these brands, which you guys have shown you can do? Are you looking to buy or acquire in some fashion companies or products? How are you guys thinking about that?
+
+Benedict Dohmen: So we don’t see it as mutually exclusive. We are very good at ramping a brand up from scratch. And we’ve done that and are doing that many times over now with the additional products and then creating a longer-term higher growth curve because of our product development process, etc. So acquiring right now an early stage brand or a company that would fit our portfolio does not currently justify the premium we would pay for that.
+
+However, once these other brands are also up and at the same level as Supportiback and growing, it’s definitely within our trajectory to look at other brands we can bring in that fit strategically with our current brand portfolio and then to bring them in, to roll them up, to leverage any complementary products, audiences, etc. So it’s definitely conservation. We’ve been speaking with other back pain brands already for Supportiback. So it’s within the trajectory. From the early stage, it doesn’t justify the price premium.
+
+Tim Ferriss: I should say there are options C, D, and E, and so on, not just 100% build or 100% buy. For instance, there is almost infinite number of ways you can structure an acquisition where you might have – not that you necessarily want to get into exchanges of equity, but you could have an equity component where you’re giving a piece of the company as opposed to upfront cash. You could avoid that or, in combination with that, have very elaborate earnout clauses where people, they’re getting paid for their brand, but only after they have been assimilated and proven that they can transport their skills and/or perhaps their customer base and so on to the portfolio products. So there are ways to do it where you can mitigate against the upfront cost. But it is fascinating world that we won’t get into just yet today. But what I want to ask you guys because we’re going to wrap up in just a little bit here is among other things: why?
+
+So what I mean by that is – a different way to phrase that would be what for? And what I mean by that is you’re growing. You are going to be hopefully accelerating growth based on your current enthusiasm for it which seems very palpable. Where do you want this to be in three or five years? What do you guys try to do? And I might stress test your answer a little bit. So we’ll see. But yeah. What are you guys trying to do? And why is it worth all the time and energy and so on that you’re putting into it?
+
+Santiago Nestares: So I’ll start with the why. I think Ben and I have both a really big drive for delivering value. And I know this sounds a bit abstract, but I think the role of the entrepreneur in the world is to find ways to do things better or more efficiently and then try to do that as many times over with the help of other people. So that’s something that’s really driving us. And when we find a way to do things better, it’s like, “How can we do more of it?” And it becomes almost like a drug until, “Okay. We found a better way to do better products.” And we see that direct impact on the people that we’re giving them. So the back pain products, people go back and say, “Look, it actually helped.” And when it comes to one of the few products that we’ve tested in the other industries, this product is much better than the one I had.
+
+And that fuels a lot of what we do. Now how does that tie into the company and where we want to go is again, all we’re doing is replicating that first, initial back pain product that we’re doing. It’s the same concept. It is how can we deliver a better product, a better packaged good to our customer? And I think that the big companies have done it a specific way. And that way is changing, and it’s gotten better with digital. So we want Benitago Group to become the new – I hate the word conglomerate, but the new group of brands or a new accelerator for products, a launch platform for new and better products for customers around the world where we actually give them a voice. And that is reflected in the quality of the products that they’re getting. That’s the ultimate vision. How does that look like in terms of size? I have no idea. How does that look like in terms of structure? I have no idea.
+
+As long as our core focus or the way we lead our actions is how can we do that initial value deliver that we proved with our Supportiback back in our college dorms? How can we deliver that same value many, many, many times over? So we’re doing it 120 times. Hopefully, we’ll do it more and more times over. But obviously, it’s not just the one time that you launch it. It’s, “How can we iterate it many, many, many times over?” Does that answer a bit?
+
+Tim Ferriss: It does. It does. It does. I should have had you in separate rooms.
+
+Santiago Nestares: It’s a bit abstract.
+
+Benedict Dohmen: Yeah. And then a lot of the intrinsic motivation for – I speak I think both on behalf of Santiago and myself – comes from learning and actually going back to computer science, just solving problems.
+
+Tim Ferriss: Yeah. I think part of – I barely know you guys, of course. But part of what seems – I’m using something very non-quantitative right now which is just my intuitive feel of you guys is that you get a real high from creating the recipe and seeing if you can replicate, right?
+
+Santiago Nestares: Yeah.
+
+Benedict Dohmen: Yes.
+
+Tim Ferriss: Like, “Did we get it right?”
+
+Santiago Nestares: It’s the same feeling you get when you debug a program, and it works. And you’re like, “Boom. Now I can do the same operation a billion times.” Same thing.
+
+Benedict Dohmen: Yeah. It’s exactly that and the growth, the personal growth, working on new challenges every day, figuring out solutions to complex problems like hiring, how do we best approach that, what are best practices, how about product development, just constantly learning, finding new problems to solve, even if the problems on a day to day basis, breaking them down, making them small, solving reverse engineering. It’s just –
+
+Santiago Nestares: And learning from the people that work for us as well. They’re so good at what they do because they have been hyper-focused and hyper-specialized that it’s almost like a classroom. A lot of people say, “Oh, but then you’re in pause in school. How does it feel to not continue to learn?” It was like it’s the completely the opposite. We’ve continued to learn. It’s like having a teacher work with you every day from which you can learn a lot. So that is also a big driving force of why we want to keep going.
+
+Tim Ferriss: Who are some of the entrepreneurs or leaders you guys most look up to or think about modeling or studying? Let’s start with you.
+
+Santiago Nestares: You got me off base. It depends on what. So I don’t have –
+
+Tim Ferriss: You can pick the context.
+
+Santiago Nestares: If I have to choose one, I’d obviously choose the Charlie Munger and Warren Buffett because they’re – but if I had to choose an entrepreneur –
+
+Tim Ferriss: You can choose as many as you like. There’s no limit.
+
+Santiago Nestares: It depends for what. There’re people that are really good at hiring. There are people that are –
+
+Tim Ferriss: Like who? I want names.
+
+Benedict Dohmen: Vinod Khosla, Ben Silbermann, Paul English, co-founder of Kayak, Brian Goldberg, who’s a local here who runs SkinnyPop Popcorn and Amplify Snack Brands. There’s Paul Graham, Sam Altman.
+
+Santiago Nestares: Sorry for the other people we didn’t mention.
+
+Tim Ferriss: That’s okay. This isn’t an Oscars acceptance speech. You don’t have to – it’s all right.
+
+Benedict Dohmen: I have a list of around – so in my personal notes, every time I learn something about people and hiring, I add it so that it’s a massive list of around, I think by now, 15 pages, all tips on hiring. Every note I take, every – it’s like a personal notebook. Every time I learn something about hiring, how to hire better, how to manage people better, I add it to my list. And I constantly carry that around. And there are 50-plus people’s advice in there.
+
+Tim Ferriss: Yeah. Wow. Maybe you’ll have a book someday.
+
+Elaine Pofeldt: Where does that passion for constant learning come from? Is that just intrinsic to who you are? Did that come from somewhere external?
+
+Benedict Dohmen: It’s just intrinsic, constantly wanting to get better and growing and being a better self tomorrow or going to bed at night knowing I’ve learned something, and I’m a better person in whatever dimension that may be than when I woke up.
+
+Tim Ferriss: Are there any books or resources you guys are going through right now, either something you just finished, something you’re reading or digesting or thinking about right now or something you’re about to start reading?
+
+Benedict Dohmen: Yeah. So overall, on reading and books, a core principle we follow – and we’ve learned our lesson in that we got distracted by a lot of reading and research.
+
+Tim Ferriss: Sure. It’s a great way to procrastinate.
+
+Benedict Dohmen: Exactly. Same –
+
+Santiago Nestares: It’s one of those 80 – it hides itself.
+
+Tim Ferriss: It’s a sneaky one.
+
+Santiago Nestares: It’s a sneaky one.
+
+Benedict Dohmen: You feel like you’re being productive when, in fact, you aren’t. So taking that into account and limiting the amount of time you spend learning from a book or in a classroom or a course but just executing, actually getting stuff done, that’s been a big learning overall. We take the approach of we try to focus all the books we read, all the courses we take on anything we can apply within the next 90 days or be it six months because we want to read for practicality.
+
+Tim Ferriss: Yeah. Otherwise, you’re just going to have to reread it again later anyway.
+
+Benedict Dohmen: And we do reread a lot of the books. And I’m very ignorant. I’m very young. But something I’ve seen a lot of people do is they read many, many books, and they never revisit them. So just from a mathematical perspective, there’s also a distribution in the quality of books. And some of the books you’ve already read are much higher in quality and in potential impact than any book currently on your book list. So rereading that and actually honing in on key concepts, just normal learning principles like spacing out, repetition, can be much more valuable than reading another book.
+
+Tim Ferriss: Yup. Is there a particular book then you’re reading at the moment or about to read?
+
+Benedict Dohmen: Right now, I think it’s called High Velocity Hiring, which is how do you hire for scale because as we’re approaching the next year with nine figures in prediction, that’s going to take a whole different organizational structure. And with a key constraint being growth in terms of time.
+
+Santiago Nestares: From a personal side, we’re reading two of Rolf Dobelli’s books. One is The Art of Thinking Clearly and The Art of a Good Life, which have been –
+
+Tim Ferriss: What was the author’s name again?
+
+Santiago Nestares: Rolf Dobelli.
+
+Benedict Dohmen: Rolf Dobelli. It’s D-O-B-E-L-L-I, Dobelli. He’s from Switzerland. Absolutely great books. They teach psychological concepts. So a lot of biases.
+
+Tim Ferriss: How did you guys choose those books? Because we’re talking about how much time you can chew up and misspend on books. So selection, it’s like hiring people or vetting people. How did you guys end up both reading those books?
+
+Santiago Nestares: It’s referrals is how we sourced the list. So we look for people we’ve admired that have been successful at that specific thing, and we ask them. And we keep a list. And then we categorize them depending on what problem it solves. So in the case of hiring – and we have a list of hiring – so if we’re having a hiring issue, we go and try to read those. So it’s mainly refer – I don’t remember who referred over Rolf Dobelli.
+
+Tim Ferriss: That’s okay. Similar process.
+
+Santiago Nestares: Yeah. But ultimately, a note on the reading and the learning is that the ultimate teacher is experiences. The best way to learn is experimenting. And you can sit down and read seven books on hiring. But you’ll learn way more the time you hire a person and then it ends up being a really bad hire. So you can be a victim of thinking paralysis and sit down and contemplate, “What are the different books I can read on hiring?” And that’s good to have some knowledge ahead of time. But then ultimately take the leap and do whatever is it that you’re trying to do. And you’ll learn way more from the feedback. And reflect on what you did right and wrong as well.
+
+Tim Ferriss: Yeah. It makes me think of something that was imparted to me by a woman named Kathy Sierra, very smart, which was focusing on just in time information instead of just in case information.
+
+Benedict Dohmen: Yeah. That’s a good way to put it.
+
+Tim Ferriss: It makes a huge, huge difference. Well, this has been really fun. Elaine, do you have any last questions that you’d like to ask before we wrap up with these gents?
+
+Elaine Pofeldt: I do have one question. For the listeners who are not very mathematical, what advice would you give them if they wanted to follow your lead?
+
+Santiago Nestares: I would say you have an advantage because you keep it simple. We’ve been victims of overcomplicating a lot of things because we find ways to overcomplicate it. So you don’t really need math. Try to understand the world from a trend perspective. So all that takes is just read the basics on stats, what is a correlation versus just a number and what establishes a correlation. But other than that, you really don’t need – if it’s too complicated, it’s probably not the way. There’re very simply ways of doing everything. So you probably have an edge on that.
+
+Tim Ferriss: Yeah. One of my friends, Nick Ganju, is one of the co-founders of Zocdoc. Very CS, quantitative. And I want to say – I might be getting this wrong. He’s been on the podcast, so somebody might be able to correct me here. But I believe he recommended a book called How to Measure Anything, which is very helpful for taking fuzzy thinking and making it more discrete, easier to examine which doesn’t mean – I’ve never taken calculus, for God’s sake. So I’m like, “Calculate the what? Hypotenuse? Oh, Jesus.” I’m about as basic as it gets. But you don’t need a lot. You just need to really get good at measuring what matters.
+
+And very few things matter a lot. And you need to be very good at pausing and checking your assumptions among other things. So guys, where can people, if you would like them to learn more about you or just follow what you guys are up to if that’s even an option – but for those people like – who knows? Maybe Ben Silbermann who’s been in one of my books or one of these people, maybe they’re listening to the podcast, and they’re like, “Oh, maybe I should send a hand wave to these folks.” Is there any way to do that? So it’s Benitago Group, right? B-E-N-I-T-A-G-O?
+
+Benedict Dohmen: Benitago. B-E-N-I-T-A-G-O.
+
+Santiago Nestares: Yeah. Benitago.com. And we are both on LinkedIn. And we pride ourselves on not having any other social media outlet out there.
+
+Benedict Dohmen: We are focused on growing.
+
+Tim Ferriss: Yeah. And I think that is a fantastic policy. Well, thank you, guys, for taking the time. I know that you have lots of exciting things coming up. So I wish you well.
+
+Santiago Nestares: Thanks to you, Tim.
+
+Tim Ferriss: And Elaine, thank you for spending time with us as well.
+
+Elaine Pofeldt: Thank you, Tim. This was fun.
+
+Tim Ferriss: And to everybody listening, we will have links to everything, all the books and so on, resources, Upwork, The ONE Thing, 1688, CashCowPro –
+
+Santiago Nestares: You forgot Cashvertise.
+
+Tim Ferriss: Cashvertise. And don’t forget to Cashvertise. Will all be available in the show notes at tim.blog/podcast. And until next time, thank you for listening.
+
+
+TAGS
+BENEDICT DOHMEN, ELAINE POFELDT, SANTIAGO NESTARES
+	

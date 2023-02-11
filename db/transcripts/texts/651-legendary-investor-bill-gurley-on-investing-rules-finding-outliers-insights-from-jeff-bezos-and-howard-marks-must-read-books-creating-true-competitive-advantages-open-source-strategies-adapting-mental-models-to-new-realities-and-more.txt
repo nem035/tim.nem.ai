@@ -1,0 +1,767 @@
+
+
+JANUARY 25, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Legendary Investor Bill Gurley on Investing Rules, Finding Outliers, Insights from Jeff Bezos and Howard Marks, Must-Read Books, Creating True Competitive Advantages, Open-Source Strategies, Adapting Mental Models to New Realities, and More (#651)
+
+
+Please enjoy this transcript of my interview with Bill Gurley (@bgurley), a general partner at Benchmark for more than 20 years. Before entering the venture capital business, Bill spent four years on Wall Street as a top-ranked research analyst, including three years at Credit Suisse First Boston.
+
+Bill also maintains a blog on the evolution and economics of high-technology businesses called Above the Crowd.
+
+Over his venture career, he has worked with such companies as GrubHub, Nextdoor, OpenTable, Stitch Fix, Uber, and Zillow.
+
+Bill has a BS in computer science from the University of Florida and an MBA from the University of Texas. He is also a chartered financial analyst. Bill is a board trustee at the Santa Fe Institute, a research and education center focused on the study and understanding of complex adaptive systems.
+
+
+
+
+#651: Legendary Investor Bill Gurley on Investing Rules, Finding Outliers, Insights from Jeff Bezos and Howard Marks, Must-Read Books, Creating True Competitive Advantages, Open-Source Strategies, Adapting Mental Models to New Realities, and More
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show, where it is my job to deconstruct world class performers across many, many disciplines. My guest today, I’m so happy to have him, is Bill Gurley. You can find him on Twitter @bgurley. That’s G-U-R-L-E-Y. Bill has spent more than 20 years as a general partner at Benchmark. Before entering the venture capital business, Bill spent four years on Wall Street as a top ranked research analyst, including three years at Credit — got a little Elmer Fudd, hold on, including three years at Credit Suisse First Boston. Bill also maintains a blog on the evolution and economics of high-technology businesses called Above the Crowd, which you can find at abovethecrowd.com.
+
+Over his venture career, he has worked with such companies as GrubHub, Next door, OpenTable, Stitch Fix, Uber and Zillow among many others. Bill has BS in computer science from the University of Florida and an MBA from the University of Texas. He’s also chartered financial analyst. Bill is a board trustee at the Santa Fe Institute, a research and education center focused on the study and understanding of complex adaptive systems. Bill, nice to see you. Thanks for making the time.
+
+Bill Gurley: Thanks for having me.
+
+Tim Ferriss: All right, so I wanted to start with a number of things that I’ve seen pop up repeatedly in various forms in doing prep for this conversation. And the first I wanted to get your take on and expansion on is Michael Porter’s book Competitive Strategy: Techniques for Analyzing Industries and Competitors, which you have described I believe as the most efficient short-form MBA that one can find. Could you please explain what this book is and if you still hold that opinion, why you hold that opinion?
+
+Bill Gurley: If you do go to get an MBA like in the first semester or whatever, they usually make you take a corporate strategy course and it’s the first book assigned. It’s like extremely well known business book. There’s a belief in Silicon Valley that an MBA’s worthless and that people shit on it all the time.
+
+Yet, I would say 80 percent or 90 percent of the entrepreneurs I meet would benefit greatly by reading the first three chapters of this book. And it’s really just about trying to understand the dynamics of industry. One of the most common mistakes entrepreneurs make is they come up with some kind of technological breakthrough in their own mind, but they don’t spend any time analyzing the industry structure or whether the go-to market is going to be possible or not. And the book just has a wonderful framework for thinking about the competitive dynamics of an industry and whether or not you’d be able to break in or be successful or maintain success.
+
+Tim Ferriss: Well, this actually makes me think more broadly of frameworks and recipes as it were for making decisions. So back in the day, you were a sell-side analyst and I would love for you to define what that is and also just define buy-side versus sell-side. And at that time, at one point at least, “…the top three analysts covering the PC industry retired…” And I’m reading from a transcript on Medium, “…Dan Benton, David Korus…” if I’m pronouncing that — 
+
+Bill Gurley: That’s correct.
+
+Tim Ferriss: “…and Charlie Wolf…” and then “…Charlie became the advisor for young analysts…” so you got to work with him. Here’s the part that’s of interest to me. So “Dan and David became friends, so they both gave me all their [financial] models.” And I’m curious what they gave you. What were those models? And do you still use any of those models?
+
+Bill Gurley: No, no, no. So to be specific, but let me start with the sell versus buy. So and the industry’s changed over the years, but a sell-side analyst is someone who does research on behalf of an investment bank that is presumably going to make money from trading on their trading desk that someone sends your way because they valued the research. So you’re providing research to help sell stocks. That’s how you’re going to get paid. The buy-side is anyone at a mutual fund who’s trading for their own account. So if you’re a buy-side analyst, you don’t publish. It doesn’t get public because you’re using that as proprietary information. The sell-side stuff gets broadcast broadly. And usually when someone changes estimates or you hear about a ratings change, that’s usually a sell-side analyst that has made a decision to change something. And that’s what ends up on CNBC.
+
+Tim Ferriss: And so a sell-side analyst, this is going to sound very naive, but a sell-side analyst could make a recommendation to buy, right? They could make a recommendation like a strong buy recommendation or a strong sell or somewhere in between the two. That’s I think where my Long Island brain was having trouble grasping the basics.
+
+Bill Gurley: There’s a controversy about that because the bank makes money in multiple ways and they question whether people are biased or not. And then you had the whole Henry Blodget thing from the 2000 period. So it’s complicated.
+
+Tim Ferriss: And could you describe, I know that you don’t at this point use them any longer, but the company-specific models, what were the models [inaudible]?
+
+Bill Gurley: I was super fortunate my entire career by being in places where windows opened up that I was able to take advantage of. But the situation you described, I landed on Wall Street very fortunately, started covering an industry, and there’s a magazine called Institutional Investor that pulls the buy-side and ranks the analyst and the top three analyst in the category I entered all retired within one year. And they all became friends partially from my own networking, like I was reaching out to them, but the models they shared were the models they had built on the companies we all covered. So their own particular version of Dell Financials or Compaq or Microsoft. And so it just helped me have a better understanding. I could see what they did, that kind of thing.
+
+Tim Ferriss: Got it. So what I’m trying to unpack also through the course of this conversation is just how you think about models and making decisions. I find that interesting. So this is hopping around a little bit, but you did not pursue Google as an investment in 2002 and you had some investing rules of thumb in place. And I suppose what I’m wondering is how you think about rules as an investor in the sense that it seems like perhaps to be consistently great you need rules, but if you have rules, you’re inevitably going to miss some great opportunities. But perhaps that’s okay. How do you think about rules? Was missing Google the result of a flaw in the set of rules that you had at the time? Or was it just sort of a collateral miss that was — 
+
+Bill Gurley: Well, let me work my way back to it because it’s clearly the biggest mistake of my career. So I thought about it a lot. So I think any investor starts with just building bedrock and that comes from reading. And there’s a ton of books in history. You can go through all the Buffett letters as an example. You can read Peter Lynch’s One Up On Wall Street. There’s my good friend Mike Mauboussin who has put out some amazing books that are a lot more nuanced about stock prices, that kind of thing. A Random Walk Down Wall Street by Burton Malkiel.
+
+And then you build your bedrock and then you’re out there and you’re looking for an opportunity. So I think public stocks are a little different than venture, but there’s some overlap. But you’re looking for a reality that you think is going to emerge. It’s not priced into the stock. So that requires you both to know or to think you know where the world’s going. And also to know what the expectations are currently embedded in the stock because if you just have the same opinion that’s already embedded, you’re not going to make any money. There’s a great piece by Howard Marks where he talks about you have to be right and contrarian. Yeah, you can’t just be right. You have to be right and contrarian, and that’s more difficult.
+
+There’s a famous saying that I’m sure it’s been uttered on your podcast before, but kind of strong opinions, loosely held.
+
+Tim Ferriss: Yes.
+
+Bill Gurley: I think all investors have to work within that framework because things change. There’s many, many variables. None of them are constant, they’re all dynamic. And the minute you set a very hard rule, then you might be setting yourself up for a mistake. And venture, I have found, is a world where that happens frequently. And so the Google example, and it’s really important to say that we didn’t lay chase. There were 25 employees Larry and Sergey presented, they presented to I’m sure a whole bunch of firms. And we didn’t lay chase. We should have laid chase, but we didn’t. At the time, Yahoo was at $10 down from, like, 80. Excite was going bankrupt. So search didn’t look that exciting from an external viewpoint.
+
+You had two PhD founders who had never been a CEO before and were insistent they were going to be good as a CEO. Normally that’s a red flag. Yeah, PhD founders. And there was just a number of things where you would make a list and say, “Oops, this probably isn’t what you want to do.” Now I’d like to highlight, and I always do, the two best venture capitalists in the world at the time, John Doerr, Mike Moritz kind of locked hands and said yes.
+
+And so it’d be erroneous for me to say, “Oh, if you were a well-studied venture catalyst, you obviously get to know at that point in time because the two bests didn’t.” And I think it’s just the subtlety of the game. There’s a great reality in venture that a lot of people talk about now, but you can only lose one time your money. And in a case like Google, you make, what? 10,000 times your money. And that asymmetric result means you have to bias towards positive in a situation like that because the odds are just ridiculously different.
+
+So what should have happened is I remember one of my partners looking at Larry and saying, “What does it take to get this deal done right now?” Because he was a closer tie and Larry said “120 pre.” And we should have said, “How about 150?” If I could go back, but you can’t go back. Deal got done at 80. So below what Larry had told us, but still obviously historic.
+
+Tim Ferriss: So how did you then revise your rules of thumb or rules moving forward after that, if at all? Is a case like that granted it turned into what Google is now, so it’s easy to maybe punish yourself for not laying chase. But how did things change after that?
+
+Bill Gurley: After that, the firm did Twitter, Snapchat, Uber, we got some right.
+
+Tim Ferriss: Yeah, you did.
+
+Bill Gurley: And around that time I remember we used to give a book out to our LPs, our limited partners, our investors at every annual meeting. And I think Bruce had just read The Rational Optimist, which is a Matt Ridley book. And he started using a phrase at our partner meeting, “What could go right?” And because of this asymmetric outcome thing where you could make 10,000 times your money and only lose once on the downside, it was the right frame of mind. So it’s very easy to get into a trap in venture where getting no right feels like a win. And it’s just not that, I mean obviously you can’t do every deal, you can’t do every investment, you go broke. But getting overly jazzed about correctly identifying a negative or a no, it’s just not that big a deal. It’s not the job. The job is to find the outliers.
+
+Tim Ferriss: So my experience, granted it’s limited in some respects, my experience and perception of Benchmark ’cause you guys are very, very selective more, let me rephrase that, more selective than a lot of venture capital firms and a lot of angels who, maybe like the poker player who doesn’t mind his or her bank roll, yes, you can only use 1X your money, but if you do lose all of your money, the jig is up, right?
+
+Bill Gurley: That’s the problem with the complete opposite theory. You can’t just do every investment you meet. And we have another challenge, Tim, which is we’ve for a variety of reasons have chosen a strategy where we don’t let our money walk around without our work product and our involvement. And so we go on a board if we make an investment and we usually become the largest shareholder on the board. And as a result, our limitation is our board seats more than the capital actually.
+
+Tim Ferriss: It’s a tie.
+
+Bill Gurley: You can’t do 20 of them, like not well.
+
+Tim Ferriss: Yeah. So you mentioned Howard Marks, Oaktree Capital, who’s been on the podcast twice. Very, very impressive fellow. So I’ve seen you mention two investors, I’m sure you’ve mentioned more, but two have come up repeatedly in various interviews and so on. Howard Marks and Stan Druckenmiller. Could you please speak to what makes them impressive or interesting to you?
+
+Bill Gurley: Some time in the last four or five years when interest rates wouldn’t get away from zero for so long, I told myself I have to learn more about macro because I just know nothing and it’s causing all kind of problems in my industry. I had been reading Howard’s work for years. One of the things I just love about people like Howard and Buffett does it, but people who archive their thought process just as part of their own process. But it’s quite kind if you’re a learner in the field, to have someone of that capability that insists upon writing these letters and making them public, which they’ve done. So I started reading Howard’s work when I was on the sell-side 25 years ago and I’ve gotten to know him now and in addition to being very, very bright, he’s also just a wonderful human and fun to interact with.
+
+There aren’t many people, if you study financial history, most people in Buffett included will tell you, “Macro is impossible. You shouldn’t even try.” And the two individuals you mentioned are two of the only ones that are known for being successful in macro investing. Howard mostly by being one of the most successful and longest tenured investor in the bond market and Stan for taking more kind of single individual bets that are macro in nature going back to his success with Soros, he’s become re-famous in the past 12 months for predicting the inflation situation we’re in and being very loud about it.
+
+Tim Ferriss: If you don’t mind, just give a definition — it could be simple — of macro investing for people who may not know that term.
+
+Bill Gurley: Macro, if you go to business school, the there’s two economic class you can take: microeconomics and macroeconomics. Microeconomics is a lot about what’s discussed in competitive strategy, the Michael Porter book. So it’s about the interaction between firms within an industry pricing, that kind of thing, competitive dynamics. Macro is the study of economies writ large. And I’m fascinated with complex systems. Our economy is certainly one of those things as is weather and whatnot, which is why I’ve gotten involved with the Santa Fe Institute. But they’re nearly impossible to predict. And it’s where you get into real, real trouble. There might be a variable you’re not tracking that has never flipped from zero to one. And when it does flip from zero to one, all your models, all your planning are out the window because this other thing’s different this time. I mean it’s why no one can predict the weather more than five days in front of us because it is just too dynamic and too complex. And most people feel that way about macro.
+
+Tim Ferriss: Let me go back in time a little bit, revisiting the sell-side analyst side of things. So I believe at one point, and I could be getting the terminology wrong, but you are an Institutional Investor, which you already mentioned Institutional Investor, All-American — or All-America —  Research Team –
+
+Bill Gurley: Partly because there’s three people that left the field, but yes.
+
+Tim Ferriss: So what allows someone to land on that list? How do they choose the people?
+
+Bill Gurley: So it’s a poll of your customers. It’s a poll of the buy-side. So they literally poll the buy-side in each industry and say, “Who was most helpful?” I will tell you that, and I don’t know, this probably came from some book I read in business school, but when I showed up, and this is a framework someone could use. But when I showed up on Wall Street in one of the very first weekly meetings, they introduced us to the sales force. The sales force is the individual at your firm responsible for that account, for Fidelity, for Wellington, for Teachers of Texas, or whatever. And they own the relationship.
+
+And somewhere in my youthful wisdom, I decided to ask each salesperson, is there one client that will spend 30 to 45 minutes with me as a new analyst and just tell me what they want. I’m just going to ask them questions. I’m not going to have anything for them. I just want to know how I can serve them best. And I did 20 of those interviews before I had started the job. And that’s a roundabout answer to how do you get on the list because I knew what they were looking for at that point.
+
+Tim Ferriss: So what made you a good analyst? And let me explain why I’m asking. I’m asking because one of the advantages that you bring to a board, which you’ve already discussed to a board of a startup in the art of company building is your in-depth understanding of how the public markets work and if a company is aiming for going public and so on, you have knowledge that intimidates or befuddles a lot of folks who might otherwise want to be on the board. So I’m curious to know what made you a good analyst?
+
+Bill Gurley: The thing I learned in those interviews, both in terms of the — because I would also ask him, “Who does a really good job of this?” And then if I could, I’d try and befriend that person. But what I heard frequently back was, look, and this is a little different from what the world perceives, “I don’t really need you to make this buy or sell recommendation. What I would really get a huge benefit from is if you provide a point of view or a piece of analysis that causes us to think differently about a particular company or industry. And you go off and do some work that other people haven’t thought of that causes us to question that makes us want to talk to you and hear what you’re thinking.”
+
+And so that became really the essence of what I was focused on and partially from listening to them and partially from mimicking and copying David Korus, who you mentioned, I started doing a weekly fax at the time and David was doing that before he quit. And so I started doing it too. And interestingly, the Wall Street firm tries to keep your content closed within their customer set. And this is not very loyal to my firm, but it became very obvious to me that a sell-side analyst that was more well known was more powerful, more impactful. And so I intentionally started expanding the distribution of this weekly pieces as far and wide as I could.
+
+Tim Ferriss: How did you expand that distribution?
+
+Bill Gurley: I would leverage the sales force and get them to give me fax numbers. That’s that’s where I started. I then started developing industry relationships, which is important because you’re covering these companies, you start going to investor days. The buy-side is talking to these companies as well. And so I started getting some of them on board. And then probably the most successful hack of my career happened when I was invited to attend Stewart Alsop’s Agenda conference, which I think was in Phoenix at the time. And used to be, it was the conference everyone went to. So Gates would be in the front row, Ellison would be there. They would stay for the whole thing. You could walk up and talk to them. Michael Dell was there. Everyone was there.
+
+Tim Ferriss: How many analysts were invited to such an event?
+
+Bill Gurley: I don’t know. Charlie had been invited and Charlie got me in and I don’t even remember. Rick Sherlund was probably there. He’s a famous Microsoft analyst and it’s kind of what code is today. But the difference way back then was the most famous founder CEOs sat through the whole thing and were available the whole time. Today, if one of them speaking, they come in the back door, they go on stage, they leave. They’re not around. So it was pretty cool.
+
+Tim Ferriss: And what was the hack at the conference?
+
+Bill Gurley: So this was around the time where the Palm Pilot launched. And so in the lobby of the conference was they were selling them. They weren’t free, they were selling them, selling a Palm pilot. And I think it was like $200, $300, I can’t remember. But they had put the contact information for every attendee at the conference in the Palm Pilot. So I ran some quick math. People weren’t really doing cost of customer acquisition back then, but I think it was like 70 cents a name or something like that of the most influential people in the entire tech industry. And so I bought the Palm Pilot, I took it home, and I spammed the 400 or 500 most important people in the tech industry with my weekly newsletter.
+
+Tim Ferriss: Did you end up developing close or closer relationships with any of them because of that newsletter?
+
+Bill Gurley: I think so. And I think also just a reputation and if the content you produce is — I mean it’s actually not that surprising today. There’s plenty of content influencers all over the place now with Substack and everything. It was just a version of that when there weren’t as many people doing it. And it started with fax and became email. And today I just mostly tweeted. I don’t force the distribution out of these other things anymore and I’m not as frequent. But yeah, I mean it’s a common way to build reputation in a network and I mean you do this with your own line, so.
+
+Tim Ferriss: Yeah, I do. I do. So let’s come back to the point you made of helping your clients think differently, right? Yeah. Presenting them with something that helps them to think differently. And I’d like to connect that to a story I’d love you to tell, which is about what you learned from a food analyst. And the question that might come before that is how did you meet the food analyst? Why were you even having a conversation?
+
+Bill Gurley: Yeah, so when I arrived at — well, first of all, the analysts share a floor. So we’re all physically proximate. So the person that covers food or telcos or electric utilities, we’re all in the same group. And the firm had efforts underway, which Charlie Wolf ended up running to try and educate the analyst in a common framework or whatever so that we would all be better at what we do and that kind of thing. And I mean, I guess birds of a feather flock together for reasons I don’t remember, me and Michael J. Mauboussin, the food analyst, started spending a lot of time together and we’re still close friends today. He’s involved at Santa Fe and I’d see him frequently and he’s done amazing things himself and released several books and he’s quite well known.
+
+So we started hanging out together. He had just read a bunch of books on a framework called Return On Invested Capital, which Stern Stewart had published on. McKinsey had a book called Valuation, they still do, that uses this type of analysis. And he was spreading it. It was the word proselytizing through the analyst group. And I was a sponge at that point in time. So I say sure. So I took the framework and ran it on all of my companies. It turned out just by happenstance that Dell stood out like a sore thumb with ridiculously high ROIC numbers versus the rest of the industry. Like night and day, like 20 to one, wasn’t even close. And in fact, it was so ridiculous the first time I showed him, Michael didn’t believe it was true. And so we got in the numbers and that kind of thing.
+
+There’s probably 10 super lucky things that happened in my life, but him giving me that framework and then at the exact same time, Dell as a company had made two stumbles. They had an options trade that went bad and their laptops had caught on fire. And so the stock was in the ditch. It was trading at six times earnings. And we had discovered, if you will, through this framework that they had a massive competitive advantage because of this return on invested capital thing. And so we went to a strong buy on a broken stock and it went up 100X in the public markets from there. And I became close friends with Michael and Tom Meredith, who was CFO at the time. They did all the work. I was just along for the ride, but it was very fortunate.
+
+Tim Ferriss: That helped put Bill Gurley on the map in the same way that maybe eBay really thrust Benchmark into the limelight.
+
+Bill Gurley: Very much so, very much so. Especially with the buy-side community.
+
+Tim Ferriss: So Michael, I just wanted to double-check this. There’s a chance I’ve read a book of his. Did he write a book called Think Twice: Harnessing the Power of Counterintuition, or is that a different Michael?
+
+Bill Gurley: He’s written four or five books and he’s, he’s got great content. He did a Google Talk that’s on YouTube that I’d highly recommend people watch. It’s just fascinating. He’s been on O’Shaughnessy a couple times, so yeah, he’s worth checking out.
+
+Tim Ferriss: So in that particular case of proselytizing, did Michael do that? Was he proselytizing and sharing this ROIC idea because he had peers who were non-competitive and is sort of a deposit in the karmic bank account to hopefully have some reciprocation? Or is he just a nice guy? It just seems like the environment, that would not be true in all environments, right?
+
+Bill Gurley: Yeah.
+
+Tim Ferriss: That someone would take this new insight and share it widely.
+
+Bill Gurley: I think he’s a natural learner, and maybe that’s what you would attribute Howard Marks’ writing to. You ask people who do that, when you ask Buffett, “Why do you write your letters?” I think people believe that it helps their mental frameworks if they write stuff down, and it challenges them. Even when I write a blog post, from the minute I have an idea or a compulsion to say, “Hey, I’m going to write about this topic,” the process through which you actually put the words to paper and structure the paragraphs, structure the argument, you get smarter. Sometimes you decide, “Oops, I was wrong.” You learn by putting it all together.
+
+And Michael’s always been that way. He’s pretty much built a career out of being someone who studies companies, valuation frameworks, how investors win. I mean, he’s gone deep on things like Myers-Briggs on different investors and structural, how do you organize an investment team to be most — all kinds of stuff like that. And it’s what fascinates him, and he’s a synthesizer. And I think some of the best non-fiction writers are synthesizers. People say, “Oh, Michael Porter, Competitive Strategy,” 14 other people had written that stuff before. Well, he wrote it in a really compact way that’s easy to read. That’s super helpful. And Michael does that with — he goes out and reads the stuff that’s super hard to read, that’s overly academic or whatnot, and packages in a way that people can consume.
+
+Tim Ferriss: Yeah. I remember Kevin Kelly said to me once, and I’m paraphrasing, but I really enjoy Kevin Kelly. For people who don’t know, look him up, KK.org, and he was saying, “I don’t write to express what I think. I write in order to think or discover what I think or clarify what I think.” So the taking of the ROIC from, in this case, let’s just say food and applying it to Dell, was this sort of translational move. 
+
+So I want to read something from, I think this was a Vox interview, and you can’t believe everything you read on the internet, but it would make sense.
+
+So this is related to OpenTable. So, “Having come out of OpenTable being successful,” this is quoting you, “I was trying to think of other industries where, if you put a network on top of [it, that] would absorb waste and make it more efficient and more usable.” And this is within the context of looking for something that would basically appear like Uber. So not working within the taxi framework but with black cars. And I’m just curious where else you’ve applied that type of translation where you see a case study or a successful proof of a network being laid on top of something and then applying it to something else. Are there other examples of translating in that way?
+
+Bill Gurley: Absolutely. And by the way, OpenTable was built on top. Our impetus to do OpenTable was based upon something like that. So in 1996, Brian Arthur, who was at the Santa Fe Institute back then, published an article in Harvard Business Review called “Increasing Returns and the Two Worlds of Business.” And it was really the first piece that talked about network effects. Of course, Microsoft was already starting to really take off, but this idea of network effects is that some industries are going to be structured where you get win or take most, and the more successful you are, you get locked in. And Brian talked about things just like the Microsoft UIs. You know how Word works, you get comfortable with how it works, and then switching has cost and those kind of things, and sharing documents and collaboration. And Zoom obviously has massive network effects. So we started looking for those things because they tend to cause outlier outcomes.
+
+So I can remember, and this gets into back to your rule stuff, when I met with Chuck Templeton, the founder of OpenTable, and he had three restaurants. You had to believe a lot to get from that point to the global phenomenon that it became. And the bet that we talked about making when we said, “Okay, let’s go do this thing,” is “If we get enough restaurants on this thing, then the consumers will come. And if the consumers come, then people will have to get on.” And that’s what happened. But you had to believe it because otherwise, at the time, we were selling PCs to restaurant owners, and guess what? They didn’t have connectivity at the time. So we had to partner with someone to get broadband installed, which wasn’t easy. I mean, it was all bad. So your normal work set, we’re putting a piece of hardware in a small to medium business that didn’t have a lot of money, and we had to provision broadband.
+
+So you would normally go, “Don’t do that.” But I remember my favorite proof point of that network effect, and then I’ll get to some of the other models. At one point we were reviewing the sales force productivity, and our model when we scaled up the business that we had or each salesperson had to close four restaurants a month. And at the time we were up to 7.7, so we were feeling pretty good. Things were starting to break our way. And in the board meeting, they laid out the list of all the salespeople, and one of them had done 35, 35 restaurants in a month. And so I asked the question, “Who is that salesperson?” And OpenTable started in San Francisco, and we played local game. We didn’t go everywhere at once. We built liquidity city by city.
+
+Anyway, at the time, that salesperson was the one salesperson left in San Francisco where we had 90 percent penetration. And so the 35 were coming out of that last 10. And that individual was basically taking orders. And that to me was like, “Oh, yeah, the network effects really working here.” So anyway, we look for that. Some other frameworks, SaaS.
+
+Tim Ferriss: Could I actually pause for one second before you get to SaaS? So you talked about you have to believe, you mentioned you have to believe a lot of things can go right in order to invest in a business like OpenTable at the time. So now I would love to know what contributed to your ability to have conviction? I mean, how much of it was potential network effects versus total addressable market versus founder versus other stuff?
+
+Bill Gurley: Oh, I mean, I would say in some of these verticals, both OpenTable and Uber, there were years and years and years where everyone thought the TAM was too small. In fact, oh, here’s a great story. So this was in ’99, so this is a 23-year-old story, but I had successfully recruited a CFO from a public company, which you could do back in those glory days to come into OpenTable. And one day I showed up early for a board meeting, and the CFO comes to me and he says, “Bill, I’m going to quit.” And I said, “Okay.” I go, “Why are you going to quit?” And he goes, “This business will never work.” And I said, “Okay, why will it never work?” And he says, “Well, my model says it’ll never work.” So I said, “Show me your model.”
+
+So we look at the model and I dive in, and he has frozen penetration in each city at 17 percent. And he had come from a retail business. And I go, “Why’d you freeze it at 17 percent?” And he said, “Oh, no one gets more than 17 percent market share, all the businesses I’ve worked with.” And because I believed in network effects, I was like, “We’re going to get 99. We’re not stopping at 17, we’re going to get 99 percent. You don’t understand how this is going to work.” And that’s because I believed in network effects and he didn’t. When we filed the S-1, I really wanted to FedEx it.
+
+Tim Ferriss: Did he stay or did he leave?
+
+Bill Gurley: No, he left. He quit, and I decided not to FedEx in the S-1. I figured he had seen, but by then we were kicking off massive cash flow.
+
+Tim Ferriss: Yeah, yeah.
+
+Bill Gurley: It’s cool.
+
+Tim Ferriss: Yeah. So you’re talking about models, and I interrupted you. You were going to jump to SaaS.
+
+Bill Gurley: Yeah, I was just going to mention a bunch of them. I mean — 
+
+Tim Ferriss: Yeah, please.
+
+Bill Gurley: Yeah. So I did my first SaaS deal in ’99, and that category of companies is still bearing fruit. People have made tons of money, and now it’s common but at the time it wasn’t. And you transformed an entire industry, open source, Benchmark probably had, I don’t know, eight or nine successful open source companies where you’ve used that model to attack an industry that’s preexisting, but where someone has proprietary technology. Social networks, I mean, we were fortunate to be in Twitter, Snapchat, Instagram, and Matt Cohler, who was a partner at Benchmark, developed kind of a sixth sense on what a breakout social network looks like. And we’ve had a few that missed too, but the outsized nature of the winds are so high. So there’s like four or five different ones that we look for, network effects, open source, and you get good at it.
+
+You start to understand what works, what doesn’t, what leads to success, what doesn’t. I mean, there’s nuances. In open source, with that business model, which is you’re basically packaging support and reliability, because someone could just download it for free so how do you charge? And this goes back to Michael Porter, but if you have a very consolidated industry of big companies, they don’t pay. They just hire the people that know how to use the product. MySQL is an example. Google and Yahoo were two of the biggest customers, never paid us a penny. You need that product to go into the corporate world where people want that kind of handholding, and that’s where you get paid. So you can’t just be, “Oh, I love open source,” because then you get into something where it’s serving a much more finite set of customers, and then you can’t make the model work. So you have to learn the esoteric nuances. But anyway, yeah, there are many veins and venture that get mined over and over and over again if they’re big enough.
+
+Tim Ferriss: And this is maybe a novice question, but I’m curious, what rules did you guys have around bet sizing? To use maybe a poker analogy. How do you think about the parameters around the size of the check that you cut? Just in terms of long-term strategy.
+
+Bill Gurley: Benchmark’s a very particular firm, and we’ve stayed — we’ve wandered off course a couple times, but we’ve always come back to our kind of home base. And we’ve remained committed and focused to very early stage investing, and we’re pretty much market takers on what that first check size is.
+
+Tim Ferriss: What do you mean by that?
+
+Bill Gurley: I mean, there’s a competitive dynamic in the industry that kind of defines what a series A check looks like or sometimes series B. If we thought something was going to be an outsized winner, we wouldn’t miss it because market was saying that had to be 15 or five. It’s more like a ticket. Like refining — 
+
+Tim Ferriss: 15 or five, you’re talking about 15 or five million, right?
+
+Bill Gurley: Yeah.
+
+Tim Ferriss: So would the guiding principle in a case that be the percentage of ownership that you would end up with?
+
+Bill Gurley: Yeah. Much more, something we care way more about than the size of the check. Yeah, yeah. And we’re not the only one. A lot of venture firms operate that way.
+
+Tim Ferriss: Yeah, sure.
+
+Bill Gurley: Yeah. So board seat is the constraint, and then ownership is the optimization variable, whatever the math is that follows out of that is what you take.
+
+Tim Ferriss: So to be right and contrarian, I mean, I guess sometimes in venture, I’m not sure if it — I mean, I’m curious how you cultivate that in partner meetings. What is the format of a successful partner meeting when someone’s getting up and saying, “Here’s my deal.”
+
+Bill Gurley: Well, one thing I would offer as a preamble to at least our process is the founding partners of Benchmark did something that hadn’t been done before in venture, which is they created an equal partnership. And most business partnerships, and this includes private equity and law firms and real estate firms, there’s a hierarchy. And the people that have been there the longest sit at the very top, and they take an outsized amount. And some of our founding partners had worked at those firms and felt like the young people did more of the work, and therefore it wasn’t conducive to the right type of internal behavior. And so they created this notion of an equal partnership. And even today when we go hire a new partner, they come in and they have an equal seat at the table. We just divide the pie, which is very different.
+
+The reason I think that’s important to any discussion about our own processes is I think that has a number of dynamics that kind of emerge from being equal. I think everyone’s voice is heard, whereas if you had a hierarchical firm and big boss walked in and said, “Blah, blah, blah,” that was carry still much more weight, right?
+
+Tim Ferriss: Yeah.
+
+Bill Gurley: And so you feel like your voice is heard when you come in. I think we root for one another. So if I’m at a hierarchical firm that’s up or out, I’m kind of competing with my peers here because we’re going to divide it equally. I want our new partners to be as successful as they possibly can, and I felt that on the way in, and I feel the desire to do it on the way out. And those are just natural emergent properties. And the answer, so then to come around to your question, how do you be contrarian? How do you have — well, I mentioned we have this phrase, “What could go right?”
+
+You’re just constantly thinking devil’s advocate in your mind and devil’s advocate on the positive side, like what would it take for this thing to break out? Are we making a mistake? Could you imagine this being really, really big? And what would have to happen for that to happen. When someone new comes along, you’d be surprised. I have specific memories of new partners coming in, and we’ll just tell them, “Bring all the companies you meet in. Just bring them in.” And those companies will present, and then we talk about them afterwards, and that’s — 
+
+Tim Ferriss: Into the partner meeting?
+
+Bill Gurley: Yeah. And that’s where the learning process gets passed down. I’m sure just like storytelling in a tribe 300 years ago or 400 years ago, right? That is that dynamic. And it’s weird. A lot of people say venture is at the end of the day, a pattern recognition job, but we also talked about those rules can get you in trouble. So you’re trying to create these kind of loose pattern recognition so that you can be helpful and identify things, and then you want to pass those along. And then you got to constantly check it because of what we said about how you could miss something.
+
+But when that new partner comes in and those are happening, I can remember, and I’ll leave the names out, but one of the new partners, he brought in company one, “No,” company two, “No.” He was very frustrated. And then company 10 he brought in, and we were like, “Try and close that immediately,” just the complete opposite. And he remembers that too. But you’re starting to learn, you’re starting to pick up the collective wisdom of the group. And it is a bit of an art form because in that window between when you meet a company and when you might try and close the investment, I bet you the average is under 60 days.
+
+Tim Ferriss: Oh, yeah, yeah, yeah. For sure.
+
+Bill Gurley: It might even be closer to three weeks. And so it all happened super fast.
+
+Tim Ferriss: Was there any feedback that you recall or could just hypothetically imagine you gave that new partner that helped him or her to hone in on the 10th that was then a “Yes, close this immediately?”
+
+Bill Gurley: Yeah. But I mean, a lot of it goes back to what you might pick up in competitive strategy. The two books that I would put for the venture community, for the startup community that I would put as next level right on top of Competitive Strategy or Innovator’s Dilemma, which does an amazing job of describing why startups can compete with big companies. Amazing. And Crossing the Chasm, which does a really good job of explaining how a startup should kind of sequence their customer base as they grow. And they’re both fundamental. And you just pick up a number of these different things, and I’ll give you an example because you start to develop intuition. So a company where we had a quick yes on that I’m on the board of is called HackerOne. So at the time of HackerOne’s founding, there were four companies that used white hat hackers to make their sites more secure.
+
+Microsoft, Google, Facebook, and Mozilla, they were the only four. No one else did it. And yet people would say, I remember seeing an interview with Sheryl Sandberg where she said, someone asked her about privacy and security, and she says, “Well, the best thing we have is this bug bounty program.” And she talks about it for a while and the crowd applauds. And so one of the individuals that worked on the Facebook program came up with a business idea of, “Why don’t we build this for the other companies in the universe, like every other company in the universe?”
+
+And when they presented, we didn’t even discuss the company. The minute they left, we were like, “Okay, how are we going to close this?” Everyone had just jumped to “Yes,” because it seemed so tautological, that there’s no way this thing’s great for these four companies and no one else. And it turned out that those four companies had a group of 20 or 30 people running the program, which other companies couldn’t do. So it was just natural that if you ran that as a service, people would jump in. That’s one that we got too fast.
+
+Tim Ferriss: So you’ve mentioned a number of your partners, Matt Cohler, who was also very helpful for Uber, seems to be very good at using himself as the guinea pig. Very smart guy. What are some of the lessons you’ve learned from your partners? And that could be anyone, Fenton, Lasky, Cohler, anyone. You don’t even necessarily have to mention names. I’m just curious what their superpowers are or what you have adapted, learned from them.
+
+Bill Gurley: So I’d probably go back to some of the founding partners because those were the ones that I learned from.
+
+Tim Ferriss: Let’s do it.
+
+Bill Gurley: One of them, I’d say from Bruce Dunlevie, is just have a really big tent. We’re in a networking business where you’re trying to look under every rock for the next possible deal. And cutting off avenues of information or flow is just a really stupid idea. And so it ties in with what could go right, but just be super open-minded. And so Bruce had been involved with a company that I think was in a software tool space, the name escapes me. We could look it up. And had developed a lot of friendships, went down the organizational chart at the company. And one day, one of the engineers from that company comes to him and says, “I’m working on this marketplace thing called eBay.” And he was from a different industry, Bruce, but because he had developed that relationship that came in, now, it turned out that Bob Kagle was much more excited about eBay than Bruce was.
+
+And so Bruce made that intro because we’re equal partnership, that’s all cool. And Bob ends up doing the deal and becomes the number-one-ranked VC in the land. But it all came from that relationship. So big tent. The older I get, I just take the time, be kind, be available, it pays off. At least in our industry, it pays off big time. So that’s one. Venture, another one is just, and this is more specific to venture, but unless you’re super lucky — there were two VCs I know that were very fortunate, Cohler and Roelof, both at Sequoia who — Roelof with YouTube and Matt with Instagram, where they had a hit two years in.
+
+But for the vast majority of venture capitalists, they don’t have a liquidity event till year eight or nine. And so it’s easy to doubt yourself. And three years in, people like to use the child age analogy, you’ve got 12-year-olds becoming 13-year-olds, and your whole portfolio’s like that with acne all over their face, and you can really lose confidence. So one thing that a lot of my partners did was just like, “It’s going to be okay, get back out there. You’re good. You’re doing fine.” That kind of thing, which was way more helpful than you could possibly imagine because the anxiety was spiking.
+
+Tim Ferriss: So I want to come back to open source in a minute, but first I’m wondering, you’ve mentioned a number of books that are broadly applicable to entrepreneurship, and I’m sure translate to, as you mentioned, investing in a number of capacities. If you were advising someone or just mentoring someone who wanted to learn how to be a good angel investor or venture capitalist in tech, what might you suggest to them in terms of approach or resources, books, anything?
+
+Bill Gurley: I’ll give you a few more books and then obviously the world’s different today, the content consumption is so different. But there’s a book I love called Startup by Kaplan.
+
+Tim Ferriss: Yeah. I bought that when I first moved to Silicon Valley in ’99. That was one of the very first books.
+
+Bill Gurley: Yeah, it’s just fantastic. He was in the — what do they call that world? Because it’s where General Magic was. It was like the first portable computers. Every one of them failed, every one, but they all raised massive amounts of money. He, on his ride home every day, had a cassette tape and left an archive or a diary, which makes the book so good because the detail is fantastic. But they had the best venture capitalists, they had the best advisors, they had the best executives, and the executives that were in — this was GO Corp, I think, that were there. All went on to do amazing things. But this company failed hard, failed hard. And I think it’s nice to combine a book of failure with all the books of success. I just think it’s super educational. Interestingly, if you read that, you should probably also simultaneously watch the General Magic documentary.
+
+Tim Ferriss: It’s so good. Yeah.
+
+Bill Gurley: Because they were a competitor with GO, so it’d be — and the same story. And the people there all went on to wild success.
+
+Tim Ferriss: Yeah. It’s like the Jodorowsky’s Dune where Giger, who went on to create the iconic design for Alien and Aliens. I mean, they’re just these failures that contain an all-star team and fail for any number of factors, but General Magic, I just want to second that recommendation.
+
+Bill Gurley: Yeah, it’s fantastic.
+
+Tim Ferriss: If people want an additional inside look, listen to my interview with Tony Fadell, which goes into great depth on that. 
+
+Bill Gurley: And on Tony, I’d read his new book, Build.
+
+Tim Ferriss: It’s solid. It’s very strong. Yeah.
+
+Bill Gurley: And it’s got a lot of frameworks, and you can agree with them or not agree with them. But I do think entrepreneurs benefit from frameworks because just running by the seat of your pants, you need a framework for having weekly meetings. You need a framework for executive recruiting. You need a framework for development of your team. And there are a lot of good ones. There’s probably 20 good ones of each of those, but the worst thing you can possibly do is have no framework and just kind of seat of your pants. And by the way, that’s the most frequent solution, the absolute no framework. I would mention Shoe Dog. I don’t know if the reality had as many near-death experiences as the book makes it sound like, but it’s good to see the tenacity you need. This is the Phil Knight Nike book, but the tenacity you need to make it is high. You shouldn’t start — if you’re starting a company because you think it’s going to be a good lifestyle, holy shit. You’re in for a rude awakening.
+
+Tim Ferriss: Yeah. So the same writer who penned Shoe Dog in reality is the same person who did Open, the autobiography of Agassi, which is another spectacular book. 
+
+Bill Gurley: And apparently the new Harry book that I — 
+
+Tim Ferriss: Oh, no kidding. All right. That’s a selling point because I think it’s Moehringer is a spectacular, spectacular — 
+
+Bill Gurley: J.D. Moehringer, yeah, yeah. He’s fantastic.
+
+Tim Ferriss: Okay. So Shoe Dog. So far, these are company-building books, which is totally valid, of course.
+
+Bill Gurley: For kind of high-tech macro, if there is such a thing, I think Ridley’s two books, The Rational Optimist and How Innovation Works, they’re just fantastic and spectacular. They’re much higher level, but they’re really, really good.
+
+Tim Ferriss: What makes them good?
+
+Bill Gurley: Well, the first book, Ridley has this point of view that I think is very hard to dispute, that the vast majority of wealth creation and increase of standard of living for humans on the planet come from two things, commerce and ideas. What he calls “ideas having sex.” So if you think about if someone comes up with a new farming technique, the marginal cost of that is zero. And if you pass it along to someone, their productivity improves. And so it’s super powerful in my mind, especially when I think about people. A lot of people on the planet want to improve the standard of living of a lot of people. And I look at what Deng Xiaoping did in China and say, I don’t know that any other human in the history of the world has unlocked as much standard of living increase as this one human by bringing capitalism to China. And anyway, it’s something that really speaks to me in terms — 
+
+Tim Ferriss: On a much smaller scale, but people should study Lee Kuan Yew and well, just the whole Singapore story. I mean, basically taking it from a swamp to what it is today is just an incredible, but I agree on the Deng Xiaoping piece.
+
+Bill Gurley: Yeah. So then and on other content, the world’s way different now, right? With podcasts and blogs and Twitter and all these kind of things so no matter what you’re doing, but especially if you want to do venture attack, there’s lots of people that talk their book, that talk their game like follow, listen, read, consume, consume, read, read, read, read. I don’t think you can get too much information.
+
+Tim Ferriss: Well, let’s segue to open source. What else do you think open source might be able to solve? And I’ve had some reasonably direct experience with watching, I suppose one example of what you described, which is Automattic and very good friend Matt Mullenweg. I’m an advisor to Automattic, and for those who don’t know, Matt, who’s been on the show multiple times, was a lead developer of WordPress, very familiar with open source, and then has built a sort of services and enterprise grade secure, stable solution for many different businesses and people in the form of Automattic. So I’m deeply interested in this, and I know you are as well. You’re a big fan of open source. What else do you think open source could be applied to or might be applied to?
+
+Bill Gurley: Yeah. So first of all, I think people are relatively familiar with the big individual software projects. Linux being the most well known. It’s over 20 years old now. It’s clearly the most used operating system in the world. And what people might not know about it is a lot of scientists believe it’s the most secure. And that’s kind of counterintuitive. Oh, all the code’s public, how could it be the most secure? But it gets beat up the most, because it’s used the most. There’s a great piece of writing, an incredible piece of writing called The Cathedral and the Bazaar that was the first kind of magnum opus on why this open source thing might work. And another thing people don’t get is The Cathedral and the Bazaar compared– Like, are you trying to build up the Gaudí’s Church or Bizarre, which is super flat and wide and obviously built by lots of people.
+
+And the thing is, open source is way better at complex problems than simple problems. And it’s the very complex problems that’d be hard for a single company to do. And so if you’re building an operating system, it might have all kind of edges on how it integrates with other systems, different drivers you might need, and the world is able to build that, whereas an individual company would be very difficult. And so we started to see that in MySQL and there’ve been others like MongoDB and we’re in one called Elastic and there’ve been a lot of successful companies around single software frameworks. Something started happening about 10 to 15 years ago, which is people started using open source in more complex ways and in sometimes using it defensively rather than offensively. So the most well known is probably Android. So Apple had come out with this smartphone, you could only get it on AT&T.
+
+It’s scared the shit out of everybody, not just Google, but it’s scared the out of all the other telcos. It’s scared the out of all the other handset manufacturers. And so Google did this clever thing they said, “Oh, we’re going to create a competitor, but it’s going to be open source so you can trust us.” Now there’s different versions of how open something is, and Android’s not very open, but at the time, compared to the threat of Apple, it seemed like a much better trade. And so they got the world behind them on this thing, and it took off. Since then, that model’s been repeated in some esoteric ways. Facebook has something called The Open Compute Project and if you want your hardware to go into the Facebook data server room, it has to be compatible with their open source framework.
+
+And what that means is no one can have an IP claim against Facebook because you’ve basically sworn off your IP. So they’re commoditizing the stuff they’re going to purchase. Since then, AT&T and China Mobile have worked with The Linux Foundation to do the same thing for the wireless and wire line equipment stack. So they’re defining open standards for their next gen products. And if you’re a supplier that wants to sell to them, you have to agree to those standards. And once again, you’re out of the IP game so they don’t get held up. It’s very clever stuff.
+
+Tim Ferriss: Would you mind just expanding on that a little bit? The IP piece?
+
+Bill Gurley: Well, let’s go to the Facebook one because it’s more understandable. It’s called the Open Compute Foundation. It’s managed by the Linux Foundation acts as a steward much in the way that the crypto world thinks DAO manages this loose federation. The Linux Foundation does that. Linux has been a DAO for 25 years, it’s super interesting. So that group, they’re like a nonprofit overseer of the project break ties. They do patent defense, which I think is super interesting. So they pull patents in, no one sues within the open source project, but if someone were to come attack it, you’d go out after. So anyway, Facebook has all these equipment in their data center, networking equipment, storage equipment, computers, software. So they just created this thing called the Open Compute Foundation that defines open standards for how all these products work. And so if you want to be on their purchasing list, you say, “Yes, we are compatible with this open standard.” And once again, it basically commoditizes that equipment. And once again, so — 
+
+Tim Ferriss: It just gives Facebook more leverage with — 
+
+Bill Gurley: Yes but now — 
+
+Tim Ferriss: A broader spectrum of suppliers.
+
+Bill Gurley: Every one of these things has a website and you can go see and so now Amazon and Google, they’re all a part of Open Compute.
+
+Tim Ferriss: I got it. If I’m understanding you correctly, tell me if I’m missing something, they’re trying to create conditions such that they wouldn’t end up back in the day when I moved to Silicon Valley, I worked in storage area networking, and EMC at the time was pretty famous for being a black box. If anything broke, if anything went wrong, you needed EMC to fix it or upgrade it and so to avoid being held hostage or losing leverage with suppliers, Facebook made this move. Is that a fair description?
+
+Bill Gurley: Absolutely. And then another high profile one, Google was very worried about Amazon.
+
+Tim Ferriss: It’s genius. I mean, it’s very smart.
+
+Bill Gurley: Oh, it’s super clever. Amazon was very afraid of — I mean Google was very afraid of Amazon running away with the cloud services business in AWS. And so they had a piece of technology called Kubernetes, and this was right around when Docker and containerization took off, and Kubernetes was an orchestration layer for containers. And Google decided, Hey — 
+
+Tim Ferriss: What a bizarre name. What was it? Kubernetes? Sounds like an Italian pasta.
+
+Bill Gurley: Yeah. Well, here’s the thing though. They decided that it was in their best interest to take this technology and gift it to an open source consortium. They got the Linux Foundation to manage it, and they went out and recruited IBM and HP and all these other vendors to say, “Oh, yeah, we’ll support Kubernetes,” because everyone wanted to make sure that people weren’t locked in to Amazon. And eventually it got so successful that Amazon had to announce support for Kubernetes. And now if you need to move a workload from Google to Amazon, there’s a common framework for which to do that and so you’re less locked in.
+
+Tim Ferriss: So this seems like it’s become, at least based on the examples you gave, a very refined, reliable counterpunch that Google uses.
+
+Bill Gurley: I call it defensive corporate strategy.
+
+Tim Ferriss: Yeah.
+
+Bill Gurley: I’ll give you two more very recently. Well, there’s always been OpenStreetMaps. And that’s kind of interesting because it’s data rather than — but the OpenStreetMap team was very kind of non-commercial. So they didn’t like when Apple — and Google’s obviously running away with the maps business so if you just look this up within the past four weeks, there’s a new open source map group that’s going to live on top of OpenStreetMap that has Facebook and Microsoft and the other parties that don’t want Google to run away with it. And quite frankly, I think that’s pretty cool. If you talk to — actually, someone you should have on if I think that would be really cool is Jim Zemlin, who’s run The Linux Foundation for this whole time.
+
+Tim Ferriss: Oh, good idea.
+
+Bill Gurley: He’s a huge believer and this kind of ties into Matt Ridley’s “ideas having sex” that not having IP is actually great for the world because it just creates constraints for people being able to take advantage of things. And so mapping’s super interesting to me because it’s data oriented. There’s something called RISC-V, which is an open source processor, believe it or not, that has a lot of momentum now. You’ll see people on the earnings calls for ARM, they’ll start, “Is this a competitor? Is this going to be a problem?” Because it’s completely free licensed and China is a big backer of open source, and you could understand why because the West has accused them of IP thefts. So this is where you can’t be accused.
+
+Tim Ferriss: Safe space. So they– Safe space.
+
+Bill Gurley: They’re investing like crazy. But I wonder what’s possible. I’ll give you some kind of grander ideas. First of all, I think autonomous vehicles should definitely be open source. I think everyone benefits, safety’s higher, communication layers are better. The idea that you would use artificial intelligence to figure out whether a light is red, yellow, or green is really stupid because it’s a state machine. It is in one of those three states and that could be communicated into the software. You don’t need to infer that, that’s a known thing, but you need a common language. And your test suites could all be used by everyone.
+
+Academia could be working on the same thing that the corporations are, safety’s higher, easier for government to get involved if it’s a single standard. And I wonder about other things like the NIH gives out $40 billion a year and many of these projects end up as research that leads to a drug that leads to having a 17-year patent life and gets sold at 300 grand a year or whatever. Why wouldn’t we say, if you take NIH dollars, your research is open source? Why do we use government dollars to fund stuff that becomes proprietary? That didn’t make any sense to me.
+
+Tim Ferriss: Yeah. This is something that you and I can have a conversation about separately.
+
+Bill Gurley: I look at the state of nuclear energy where the costs are high because of regulation, not because of the actual product and I wonder, what if the globe had a standard for fission-based nuclear reactor? Wouldn’t we get to lower price points, wouldn’t we get to safer products, wouldn’t they get more involved? It seems possible to me.
+
+Tim Ferriss: Are there any companies that are on a short list of companies you would love to see exist or types of companies, like anything that’s just kind of a bee in your bonnet or has been for any period of time?
+
+Bill Gurley: Yeah I can give you a few. So, and this one’s kind of well known in the venture industry, but everybody talks about something called the interest graph, and they wonder why there isn’t an internet website that kind of links everyone that is tied to a specific interest. And there are companies that people talk about as being close, like Pinterest or Quora or Twitter, but I don’t think any of them have really pulled it off.
+
+Tim Ferriss: Would Reddit fall anywhere?
+
+Bill Gurley: Sure. Especially with some of the subreddits they’re getting close and people talk about kind of a holy grail, but there’s not anyone that’s I think just really nailed it, really, really nailed it. And if you did, you would have this combination of really cool unlock for people because you’d get connect– if you were into quilting, you’d be immediately connected with everyone else that’s on your level and you could imagine that kind of thing. But then the advertising performance would just be off the charts because you’ve kind of bucketed everyone into these places. I actually think Twitter still has a huge opportunity on this front, but it’d have to build a top-down version of Twitter rather than this feed thing, which is super hard for a lot of people.
+
+Tim Ferriss: What do you mean by top-down?
+
+Bill Gurley: I think you could take all of the information that’s flowing in Twitter and all of the influencers that are in there and build an algorithm that would score who’s smart about certain things. Let’s make it super simple to convey the point. If you look at stocks, so they already have a new idea, unique individual identifier for each stock with the dollar symbol thing. But right now, you could do a search, but there’s a ton of noise. What if you had a page where, for each stock, you had a list of the top stories of the day, and that could be pulled out of the Twitter feed by knowing which people are the axes on that individual stock, which you could infer simply with the data that’s already in there. And so you could imagine that for sports teams. So I could have Twitter sports that is a top-down version that’s using the information in the feed, but then presents it more like a standard newspaper would, if you understand what I’m getting at.
+
+Tim Ferriss: Yeah. Yeah, I think I do.
+
+Bill Gurley: So anyway, that one’s one. I’m highly interested in people, feel free to reach out in any variation or new take on LinkedIn. I just think it kind of stopped and it stopped 10 years ago. One idea that — 
+
+Tim Ferriss: Aren’t you semi-retired, Bill? Aren’t you semi-retired?
+
+Bill Gurley: People will probably steal your — 
+
+Tim Ferriss: Your version of retirement is super intense.
+
+Bill Gurley: Yeah. People may steal this and that’s okay, but I hope they reach out to me. It feels to me like you could have page rank for people. And so I don’t think the skill thing on LinkedIn works because it’s public so you get all this performance art where people are just being nice. But what if you had people maybe privately opining on who they think is smartest on particular topics? You can develop a really cool product that would be unique to each individual. Because what you see, Tim, would be different than what I see because it starts by who you trust and then what you see is there — anyway, I think that’s a really interesting concept.
+
+Tim Ferriss: Yeah, I wonder if Twitter could actually use the literal page rank by correlating sort of verified account, that’s become kind of unusable for me because it was kind of pay for play for a while so it’s it difficult to filter now. But if people have websites that are their personal websites, just looking at the page rank, I mean seems like from a shooting side, pretty easy to do.
+
+Bill Gurley: I think one thing Twitter could do that would just be a super industry is create a leaderboard for every topic under the sun. And then the things you could build once you had that would be super compelling.
+
+Tim Ferriss: Yeah. Let’s talk about Twitter, specifically a tweet thread, and feel free to amend this, but I’d love to have you walk me through this particular thread. This is from spring of 2022. It’s not that long ago, and here it goes. So there are four points under an intro and I’ll just read it if you don’t mind. 
+
+“An entire generation of entrepreneurs and tech investors built their entire perspectives on valuation during the second  half of a 13-year amazing bull market run. The ‘unlearning’ process could be painful, surprising, and unsettling to many. I anticipate denial.” Number one.
+
+And maybe we could just do these point by point. Well, we don’t have to. I’ll do two at a time. 
+
+“1) Previous ‘all-time’ highs are completely irrelevant. It’s not ‘cheap’ because it is down 70%. Forget those prices happened.”
+
+Yeah, I screwed myself on that first one. 
+
+“2) Valuation multiples are always a hack proxy. Dangerous to use. If you insist, 10X should be considered AMAZING and an upper limit. Over that, silly.”
+
+So let’s just sit on those two for a second. Would you mind just expanding on either or both of those?
+
+Bill Gurley: There’s an unfortunate reality in the venture world that really became very crystal clear to me through a conversation with Howard Marks, actually. But it’s structurally set up. People talk about boom, bust, and cycles, but this is set up more like a sawtooth. So risk on happens very slowly, almost like the rollercoaster [makes sound of slowly climbing roller coaster].]
+
+But when it crashes, and if it’s interesting to you, I explain or do my best job of explaining why it’s structured this way, when it crashes it happens all at once so it’s more like a sawtooth than a sine wave and it just crashes and it’s painful. And that just happened and it looks like it happens every 7 to 15 years. And I thought this was going to happen six years ago. I even wrote some things. I was way early. It took six more years and it got ridiculously crazy. But it took so long from ’09, which was the last kind of — and ’09 wasn’t as hard a reset as ’01 but from ’09 to 2013, because so many entrepreneurs are young, you had people grow up that had never seen a reset and risk on is a lot like the bull frog. You don’t know what’s happening. You’re just — 
+
+Tim Ferriss: Would you mind just quickly defining risk on for people listening, what do you mean by that?
+
+Bill Gurley: So the community as a whole takes on more risk gradually without realizing they’re doing it and their mental models and their frameworks adjust daily to what’s happening. And so their thought about how the world works is really a window of five years, or maybe three years, not 30 years. Because for many of them, they don’t have the 30-year perspective and when the going gets good, greed takes over and you weigh the data points that feel good to you and are going to make you look — 
+
+Tim Ferriss: Yeah a lot of confirmation bias. Yeah.
+
+Bill Gurley: Oh, like crazy, and so then you’ve shortened your window to the last 12 months. This is how the world works. And because things got so sloppy with interest rates being near zero, speculation so high, money everywhere, we taught a lot of people not only valuation things that will never be true again, but growth at all costs. Spend as much money as you can, you can raise money every nine months if you want to because you could, the failure rate of companies in the five years prior to this reset is probably the super low, probably the lowest it’s ever been, failure rate of startups just because it was so easy to raise money. And so you develop mental models and then the world shifts dramatically, 180 degrees, whatever you want to say. It couldn’t be more dramatic how fast it shifted and even today, entrepreneurs will say, well, I just need to hold on until things get back to normal and I’m not the only one.
+
+Tim Ferriss: Not normal.
+
+Bill Gurley: This is normal, dude. That was a fantasy you were in and you need to forget it fast, but you can’t. And there’s another painful thing that I don’t even jest about because it creates real problems and it’s actually quite unfortunate, but founders, whatever that peak valuation is, they ran the math where they took their ownership, they multiplied it by that number, and they thought about their net worth that way. And that can just be super destructive once it’s no longer true. It’s just — 
+
+Tim Ferriss: You mean psychologically destructive?
+
+Bill Gurley: Psychologically yeah, I think it’s super difficult to come to terms with once you’ve been through that.
+
+Tim Ferriss: What do you mean by valuation multiples are always a hack proxy?
+
+Bill Gurley: So this gets into some of the earlier stuff we talked about, just about how deep you go on investing history and understanding investors. But Silicon Valley, if there was a scale of financial sophistication between one and 10, and you would say a really smart person in New York is an 8.5, the average Silicon Valley person on financial literacy is a two.
+
+And it’s funny because they make fun of Wall Street, but it’s just out of ignorance, they don’t know anything. And so most of them think about valuation by a price to revenue multiple, which couldn’t be a cruder tool. And at one point I wrote a blog post called “The Keys to the 10X Revenue Club,” and I took all the public tech stocks and laid them end to end based on price to revenue and one of them was at 20 and one of them was at 0.1 and it was just a big curve. So there’s no line there. There’s no reason to believe that that price to revenue is how you should value anything. But just because it’s easy, and these companies are young and immature, it’s hard to do DCF. It’s hard to do something more sophisticated. It’s the common language of the group.
+
+But things changed overnight. And so someone was pointing out, I think on Twitter, that and they used price to gross margin instead of price revenue. Still, Twilio went from 70 times gross margin to three in a very short window. I mean, talk about valuation reset, that is just radical. And so it shakes the industry and no one’s going to feel sorry for Silicon Valley. And I’m not trying to elicit empathy, but in terms of understanding what happens, it is so foundational, the change is so radical that the best thing you can possibly have happen is if you can adjust your mental models fast and get on with the new world, but it’s very hard for people to do. And, by the way, I write that kind of stuff in part to help the industry, and I’m super grateful, Sequoia in ’09 put out, there’s a famous deck they put out “[R.I.P.] Good Times” or something like that. And these things help people adjust faster, right? Having minimal models that — having structure, having smart people tell them, “Okay,” it gets them there faster.
+
+Tim Ferriss: So that I think relates to number three, and you mentioned DCF, just for people who don’t have that reference, discounted cash flow. So number three is: 
+
+“3) You may be shocked to learn that people want to value your company on FCF…” 
+
+That’s free cash flow free. Am I getting that right?
+
+Bill Gurley: Yeah.
+
+Tim Ferriss: Yep. “…and earnings. Facebook trades at 14X GAAP EPS…” 
+
+Am I pronouncing that correctly?
+
+Bill Gurley: Yes, yes.
+
+Tim Ferriss: Yes. “…and is growing 23%. What earnings multiple are you assuming?” 
+
+So could you just walk us through that bullet?
+
+Bill Gurley: Yeah, yeah. No, I’m going to use a little bit of detail so you can understand. But the point that — so if you think all companies should — 
+
+Tim Ferriss: I am, at best, at two on the financial literacy.
+
+Bill Gurley: If you think all companies should trade it like 10X revenue, here’s one of the most successful companies of all time that is producing massive amounts of positive cash flow and GAAP-audited earnings that’s trading at a very low multiple of those GAAP earnings. And earnings are a small percentage of your revenue, right? So if you’re trading at 10 times revenue, you’re probably trading at 50 times earnings. And here they’re trading at 14. Or you may not even have earnings because there’s a great graph, we should try and find it one so that someone can see a link of the percentage of companies at IPO that are profitable and it’s this nice cyclical wave that goes with these boom-bust cycles because Wall Street — 
+
+Tim Ferriss: We’ll find it and put it in the show notes.
+
+Bill Gurley: So Wall Street does risk on also, right? And so in really dark times, the percentage of companies that are profitable is like 90, but by 2020, 2021, that number’s five percent. The vast majority of companies are losing money as they go public and Wall Street’s encouraging that behavior. And so I’ve often said the venture like Wall Street is the buyer of what venture capital produces and if Wall Street wants high-growth, money-losing businesses, we will create as many as they can possibly consume. Because those are a lot easier to build than the profitable ones, way easier, which is part of the cycle, that’s part of why you end up in this cycle thing. So anyway, the point of highlighting that is just to try and get entrepreneurs and founders reset on where the world is today and where valuations are.
+
+Tim Ferriss: I’m sorry to interrupt, and I’m sure a lot of people listening will think this is a stupid question because they already know the answer, but why did you highlight Facebook in the way that you highlighted Facebook?
+
+Bill Gurley: Just because I think on a historical basis, Facebook is trading at a very low multiple. It looks like a very weak stock. I mean, Coca-Cola for years traded at 30, 35 times earnings, Facebook is at 14 — or Meta, whatever they like to be called. And 23 percent is a pretty impressive growth rate for a company like this.
+
+Tim Ferriss: Yeah. For sure.
+
+Bill Gurley: Coke is less than 10 percent growth, like five or three.
+
+Tim Ferriss: Yeah. Since you mentioned Meta, I mean on one level I really have to admire the just doubling down on the Metaverse, what is your take on this direction?
+
+Bill Gurley: So years ago, I read Snow Crash when it came out.
+
+Tim Ferriss: Oh, so good.
+
+Bill Gurley: Thought it was the best thing that I had ever consumed. And I was in hook, line, and sinker. so when Philip Rosedale started Second Life, I was knocking on his door. I served on that board for 12 years. I have immense knowledge on this kind of immersive stuff and Philip and I actually did a postmortem podcast recently, which I would point people to. What we found is I think there’s a difference between the kind of gaming stuff and this idea that people want to live experiences like they do in the real world in this virtual world. And what we learned in that second category, and I see this in the Facebook demos and stuff, like, “Oh, we’re going to do a board meeting in-world,” or whatever, is that that doesn’t make a lot of sense. The number of people that love escapism, first of all, young people do.
+
+Tim Ferriss: Yeah, you don’t want to wait in line at the postal office in your Second Life.
+
+Bill Gurley: Right. Well, but young people do it. They role-play a lot and so that makes sense. And then a handful of adults do it. They have wooden swords in the park or Burning Man is that experience. But it’s not a high percentage of humans. And one thing we found quite interestingly is a lot of the people that love it are looking for an escape so they may actually have mental health problems or they’re in a tough spot in their life. And it reminds you that both Snow Crash and Ready Player One were dystopian novels, right?
+
+Tim Ferriss: Yeah, totally.
+
+Bill Gurley: People were escaping a world that sucked. And so we did a bunch of in world board meetings there, and this is pre-Zoom. Zoom is an amazing substitute, which is one of the frameworks from competitive strategy, to the notion of being in world. And so it’s got even harder, because I think Zoom’s way better for a board meeting than making everyone get an avatar and sitting around. I just don’t think that’s going to happen. So it’s a long answer, but I think the premise they have is wrong. I don’t think this becomes the next platform, the next smartphone. I don’t see that.
+
+Tim Ferriss: So how do you reconcile that with the position that they’re trading cheaply? I guess that’s just based on the math, but is the — 
+
+Bill Gurley: Oh, I think Wall Street’s on my side on this one. I think if they shut down the VR effort, not only– Well, the profitability would soar because they’re spending real money, like five to 10 billion a year, but I think the stock doubles. Doubles.
+
+Tim Ferriss: Where would you suggest they redirect their resources if they were to cancel — 
+
+Bill Gurley: I don’t even take credit for this because people are saying it all over Twitter. There’s really good buzz on some of their AI tools and the world’s super excited about that.
+
+Tim Ferriss: Yes, they are, my God. Look at OpenAI and the Microsoft investment and so on. It’s incredible.
+
+Bill Gurley: I think it’s a longer conversation, but I think WhatsApp has some interesting things going on. What’s happening there?
+
+Tim Ferriss: Did you give a teaser of what you — 
+
+Bill Gurley: Yeah, and if you read about WhatsApp in India it has a similar place in the world that Tencent with WeChat does in China, they’ve accomplished more. So those things are more interesting to me.
+
+Tim Ferriss: So I’m curious, I’ve had Mark Zuckerberg on the podcast and he’s a man of strong conviction. I’m curious from your perspective, like zero to a hundred percent, where would you put the likelihood that he would ever can the VR efforts and redirection?
+
+Bill Gurley: It’s funny, a lot of people love to discuss this, and what’s that other– There’s a bias when you get pot committed, to me that’s confirmation bias too, but if you’ve already bought something, you like it way more.
+
+Tim Ferriss: Oh, yeah, sunk cost, well, sunk cost fallacy.
+
+Bill Gurley: Yeah, yeah, yeah. It’s super hard. And he’s had people telling him what I just said for two years now. So it’s interesting because if you look at other big bets like that, I think the two most amazing are AWS and Android. They were both kind of out of left field, not part of their core business, but super successful. And I think you’ve already run the clock, you’ve already spent way more than either of those did in the development of those things. And you just don’t have the numbers. There was a thing going around Twitter that the year-over-year sales of headsets is down globally for the industry. It’s not happening.
+
+Tim Ferriss: All right, let’s hop to number four. 
+
+“4) Revenue and earnings QUALITY matter.”
+
+Could you please explain the word “quality?”
+
+Bill Gurley: Yeah, it’s interesting that that’s like a nuanced thing. If you talk to someone who’d been investing on Wall Street for 15 years, you could talk about revenue or earnings quality and they would know exactly what you were talking about, but it’s not something the average person would know. And if that blog post again that I wrote called “The Keys to the 10x Revenue Club,” I go through 12 different things that signify quality, but — 
+
+Tim Ferriss: And we’ll link to that in the show notes.
+
+Bill Gurley: Yeah, so I mean, a simple one is margins. If you are reselling used cars and your revenue is the price of the cars you’re selling, but you’re only making 10 percent on a car, that’s really low revenue quality compared to a SaaS vendor with 90 percent gross margins. When their incremental dollar of revenue creates 90 cents of gross margin, yours creates 7 cents of gross margin. You can’t value those companies both on price to revenue. They’re very different. So that would be revenue quality. Earning qualities typically relates to cash flow. So you might have really good GAAP earnings, but because of different factors in your business, your cash flows may not be nearly as good.
+
+It could be timing differences, those kind of things. And so anyway, you’d go through the posts that I wrote, but they’re just elements of whether or not you have a competitive advantage whether or not you have churn in your business, is this customer going to stay around forever or they might leave tomorrow? One of the reasons Coca-Cola trades at a high multiple is everyone imagines Coke will still be here 50 years from now. They have no reason not to believe that. Whereas some of these tech companies, why is Facebook at 14? They don’t know. Could TikTok take away their business and then they’re done overnight? Those become bigger risks for tech companies sometimes because they look like they might be disruptable.
+
+Tim Ferriss: You mentioned, and you also write about and speak about competitive advantage a lot, let me rephrase that question, what are some lesser known or undervalued competitive advantages?
+
+Bill Gurley: Well, I mean we already talked about network effect, that’s one that just comes to mind right away. Lock in we had hinted at is there reasons why switching costs, which is also it’s in the Porter book. Are there switching costs that make it hard to leave for a customer to leave? How many substitutes are there for your product? How unique is it? Right? That’s a competitive advantage. It’s like are you an N of one? And some of the network effect companies become that way. I could create an Instagram competitor, but I don’t have everyone on it. So the user experience is a function of everyone being on it so it’s hard to compete with that thing. So you have a strong competitive advantage. It could be performance like an enterprise product, you look at something like Snowflake. People just say, “This database does things no other database will do,” and so then that becomes a competitive advantage. But how hard is it for someone to find an alternative to you and trade you out is an easy way of being.
+
+Tim Ferriss: This is not directly related to competitive advantage, but I wanted to just revisit the total addressable market and your OpenTable story with the spreadsheet or the model that had been capped at 17 percent and you were like, “We’re going to 99 percent, it’s not 70 percent.” Just to reflect back also on Uber, since you and I were both along for that ride, pun intended, and in the early days there were three black cars, two or three black cars in the very, very early days sort of prototyping. And I remember sitting with Garrett and looking at some of the potential market sizes, but the assumption always was that the pie could grow and should grow if Uber’s functioning effectively and that’s what ended up happening. So you can’t say there are 700 black cars in San Francisco, what percentage of those will use Uber, and the upper limit is 700 because then in the matter of a handful of years you have a thousand plus black cars because of the rider demand. So I just wanted to mention that since you’d also mentioned it earlier.
+
+Bill Gurley: Yeah, I wrote a very long piece on this because there’s a famous, I think NYU professor, his last name’s not coming to me right now, but he’s famous for valuation work. He’s always on CNBC and he wrote a piece that said Uber wouldn’t be worth more than, I don’t know if it was two or three billion dollars and I wrote a reply called “How to Miss by a Mile.”
+
+Tim Ferriss: Aswath Damodaran, I believe.
+
+Bill Gurley: Yes it is and he’s wonderful. I called him before I published it just to tell him it was coming, but it was a classic mistake. He basically took the taxi market and said, “That’s the upper limit,” and that’s just the wrong, like, math we made, or Travis and the team made this thing so convenient and so available that it was a product that’s 10x better than the taxi market. And by the time I wrote that, I already knew that Uber in San Francisco was 20x bigger than the taxi market in San Francisco. So I already knew he was wrong with that analysis. We’d already belonged through it, but he didn’t know that.
+
+And I mentioned in that article, there’s a couple of classic examples of this, there was one where McKinsey was hired to calculate the global market for mobile phones and came back with 900,000. And I have found you get into more trouble with this kind of TAM conservatism, then it hurts you more than it helps you as an investor. If you feel like something’s super disruptive and it’s unlocking things like your optionality to build on top of, that’s going to be pretty spectacular.
+
+Tim Ferriss: I was just going to say, it makes me think of esports versus any comparable you might use with, I don’t know, live viewership of sports or whatever. It’s just not the same thing. So that was the one through four points. Jeff Bezos, I think either retweeted or replied to that tweet thread and with was very complimentary. You have spent time with Jeff. What do you think are some of the most underappreciated aspects related to Jeff in any capacity?
+
+Bill Gurley: Well, I mean he’s probably the best entrepreneur that I’ve ever been around or got to know. It’s remarkable and it’s multifaceted. Here’s one that I think is not well discussed so he has a bunch of traits that make him a great entrepreneur. The company today is at such a radical scale that there’s no way, and I mean he’s in the chairman role, he’s not touching all the decisions, he’s not touching all the product decisions, he has built a organizational framework to take what Jeff Bezos believes and run the whole company that way and that’s not well dissected, not well understood. But here’s a great story, I’m riding in an Uber, this is about eight or years ago, maybe seven, and I always talk to him. I always talk to the drivers because I’m a shareholder and always talk to the driver and I’m asking him something about whether we can stop.
+
+He goes, “Well, I’ve got to get back down to San Jose by 2:30.” And I’m like, “What happens at 2:30?” He goes, “I have to meet at the Amazon warehouse at 2:30.” I go, “What’s going on?” He goes, “Oh, they’ve got this new program they’re running where you show up at 2:30 and they have all these burner phones and they load your car with packages and give you a manifest and then they booked a ride over Uber.” And so this was the early days of same-day delivery.
+
+Tim Ferriss: Yeah, that’s cool.
+
+Bill Gurley: This is a company that’s worked tens, hundred billions of dollars that is running an experiment on top of Uber and I know for a fact that most of the companies I’ve worked with that have gotten over 20 or 30 million in revenue would not run that experiment because someone would say, oh, we won’t know how to do the accounting, that’s too much of a hack, like whatever. But this large company was super comfortable running this kind of hack experiment on this other company.
+
+He showed me the manifest. I looked at all this stuff. Of course, I called Uber immediately thereafter and briefed him that we were being used in a — but unbelievable, I mean, just unbelievable. No other large company would do that project, none, zero. And so somehow he’s institutionalized this kind of experimentation and risk seeking, and he’s talked about it. There’s a great interview with him from Code that you should try and find for the show notes from four or five years ago and I could watch it over and over and over. It’s like the Eagles documentary I could just watch it again and again. But it’s fascinating, someone asked him, “When do you stop and experiment?” And he said, “When the last person with judgment gives up.”
+
+Tim Ferriss: Oh, when would he stop experimenting?
+
+Bill Gurley: Yeah.
+
+Tim Ferriss: Could you just say that one more time?
+
+Bill Gurley: They ask him, “When does a internal experiment get killed?” And he said, “When the last person with good judgment gives up.” And that’s not how other big companies work. They don’t run experiments that way. In fact, one of the reasons startups can compete with big companies is because most big company experiments, they run one test and if it fails, they quit. And a startup can’t quit because they have to shut down if they quit. So they run experiment one and two and three and four and five, and then they pivot and do six and seven and eight, and they stay up all night because it has to work. And so they just get way more shots on goal than the big companies do.
+
+Tim Ferriss: Yeah, yeah. Bezos is also someone who has chronicled a lot of us thinking and decision-making frameworks in letters to shareholders and there are some compilations of his letters, much like Warren Buffett.
+
+Bill Gurley: Yeah, they’re very good.
+
+Tim Ferriss: And they’re very good just to give one example, I mean it can be highly tactical. So I mean, the reason that people who would call internal meetings would be required to put together, I think it was a six-page document and the first 30 minutes of the meeting would be spent reading this meticulous document and all of the reasons for why that was instituted. I mean, it’s very concrete. It’s not sort of ambiguous hand wavy stuff. So I definitely recommend people check that out. And also — 
+
+Bill Gurley: By the way, mirror back to what we talked about earlier about writing and thought process, if you’re forced to write a six-page paper, it’s much harder to put that together than it is a five-page PowerPoint. It’s easier to leave stuff out. You really have to think through everything. I mean, he’s super curious beyond belief. He’s willing to change his priors super fast if he got something wrong. Yeah, it’s something else. I mean, I think AWS is maybe top five business move in the history of the world. I don’t even know what — just the notion that they launched that out of a consumer internet company and became one of the most important enterprise companies it’s fairly unprecedented, it’s just amazing.
+
+Tim Ferriss: It is jaw dropping. And for people who want an Easter egg, if you have not learned of this before, go to relentless.com and see what happens. It will forward directly to amazon.com and that is not accidental. So is there anything else that you’d like to say about the recent events and sort of correction/implosion or do you feel like you’ve said what you would like to say, is there anything you’d like to add?
+
+Bill Gurley: One last comment I would make, it was interesting, I was listening the other day to a podcast with Shane Battier, who I’ve been fortunate enough to meet. He’s the — 
+
+Tim Ferriss: I don’t know who that is.
+
+Bill Gurley: Oh, he was famously out outlined by Michael Lewis as the no stat all-star in The New York Times Magazine. He’s an NBA player, really successful, that kind of rode the analytics craze and did things that most people don’t do, but when you ran all the numbers, he’s always winning and that kind of thing. And he played at Duke and has a ring from the NBA. And anyway, he’s now starting to dip his toe into the corporate world. And so he did this podcast kind of a crossover, but he was talking about Krzyzewski and how Krzyzewski, he spent four years there and so he had a lot of stories, but I was listening and nodding because you’ve had great coaches on, you’ve had great players on that play for great coaches, and these learnings can be translated.
+
+And so he’s saying, “Oh, Coach K. told us that he expected the very must out of us. Each individual had to perform at their highest level. He said, ‘It’s always team first. If you need to be an individual, you don’t need to be here.'” And Shane was talking about how people remember the winners more than they remember whether you were the third or fourth scorer on a team. They remember the winners, and I think that’s true in startup world as well. And then three, he said, there’s a singular goal for this organization and it’s to win the national championship. And those three tenants, he is talking about relatives to Coach K. and I’m in the middle of nodding, and I was writing stuff down. I’m like, oh, I’ll go talk to people. I’ll go forward this podcast.
+
+And then I stopped cold and I realized in 2020, 2021, if an internet entrepreneur stood up and said those things out loud about what he wanted from his company, he might get canceled. Company first, you have to perform at your absolute best and the only goal here is the one goal of the corporation, we’re all on a team together. We wandered to a place that’s very different than that. And on your recent podcast with Jonathan, he started to talk about the, I think you were using the word anti-fragility, but how this had crossed over from the campus world, and these people were now — 
+
+Tim Ferriss: Right. I was asking him how to develop intellectual anti-fragility, and he was giving the counter-example of what we’ve observed.
+
+Bill Gurley: Right. This happened in the university and this did get out into the companies and so these companies were being basically held accountable for delivering an experience for the individual. It’s like your goal as a company is to help the individual have a great life. And I think it’s very hard to be high performant. Imagine if Coach K. had that problem, like he had to make everyone make sure everyone on the team felt happy and safe and included and that was true north. It would be very hard for him to be performing. I don’t think he’d want to coach him. And we’ve lived through a little bit of a reaction to this. So Brian Armstrong at Coinbase has very publicly spoken.
+
+I think Tobi at Shopify took a little more nuanced stance, but the same stance that like we have one objective here, which is this company. And if you’re hyper passionate about something else that you got to talk about it all the time with this company, maybe you should go do that. But this performance awareness had kind of gone away because of everything I talked about. It was so easy to survive as a company. And now we’re in a world where I think, you’ve got to make hard choices, you’ve got to do what’s right, you’ve got to perform. And so it’ll be interesting to see whether someone can act in this way without getting negative and Brian took a lot of heat for what he did.
+
+Tim Ferriss: Yeah. It seems to have passed pretty quickly. I mean, he was able to weather the storm and take the heat, but it was pretty, I mean, what he did for everyone.
+
+Bill Gurley: I talk to executives at the bigger companies are the ones we all know, they’re dealing with this stuff on a daily basis.
+
+Tim Ferriss: Nonstop.
+
+Bill Gurley: Nonstop. And it’s very similar to what’s happening at the university level. And so it is just super curious to me just because I’ve always been one of these, I played sports in high school and college, and I’ve always, when there’s a winning team and the coach writes a book, I’ve always ran out and read it and made it part of my menbtal model so it is kind of interesting to see where we are.
+
+Tim Ferriss: What do you think the future of, you tell me if this is a question with some there or not, but what do you think the future of ecommerce looks like? And since you mentioned Tobi, I’m a huge fan of Tobi. I mean, I was an advisor to Shopify super early when they had about 10 employees, and I just think he’s one of the most incredible humans out there. But where do you think Shopify fits in or doesn’t fit into that? It seems like with some of the Apple privacy changes and all these various things the landscape has changed super dramatically. If you try to look into your experience/crystal ball to look forward at ecommerce — 
+
+Bill Gurley: I’m a Tobi fan too, and at the end of this, I’ll tell a quick Tobi story that I think is a wonderful, a tool that people can use and he gave me permission to share it. So I thought what they did with the shop app was super cool. So the previous Christmas I started noticing websites I’d never been to before, knew who I was and allowed one click checkout. And very few companies can make their business as a B2B company and then have this crossover product, which has a consumer network effect. And they did that with that app and I thought it was just super cool that they pulled that off. And so look, he is one of the truly greats, and you’ve interviewed enough of these people like when you’re with a Bezos or a Tobi, you kind of know it, right?
+
+Tim Ferriss: Yeah. It’s different. And Tobi’s been on the podcast. I recommend people check it out. Yeah, it’s just a different feeling.
+
+Bill Gurley: Yeah. And they’re hyper curious, they have their own mental models, they’re willing to learn new ones, they’re constantly thinking. And they’ve built some type of organizational fabric that’s scaling, which is another element of. Here’s the one he shared, which is one of my favorite ever. So he said, “Whenever we’re dealing with a problem and we call a meeting to talk about the problem, I always start with this structure. We are here to solve a problem. So the one option that we know we’re not going to leave the room doing is the status quo. That is off the table. So whenever we finish this meeting, I want to talk about what option we’re taking, but it’s not going to be what we’re currently doing.” And I think that is brilliant because most of the companies that I’ve ever worked with, their default is, “Well, let’s not change it. If we can’t get the gumption to change something, don’t mess with it.” And I thought it was genius. I just thought it was genius.
+
+Tim Ferriss: He’s also, I mean, not only an incredibly smart, effective human and leader, but a very humble, and I just admire him so deeply, not just for the performance of the company, but for how he carries himself in the world. I think it’s just as impressive to me that he carries that much horsepower but doesn’t wield it in a overbearing way, which would be very easy to do, a lot of people do it. So thanks. Thank you, Tobi.
+
+Bill Gurley: I agree. I agree.
+
+Tim Ferriss: So just a few more questions, Bill and if this goes nowhere, I’ll take the blame for it. So aside from the books that you have mentioned, are there any books that you have gifted frequently to other people?
+
+Bill Gurley: Yes. There are three books that I’ll mention. The first one that I’ve gifted the most is called Complexity by Mitchell Waldrop, which is about the rise of the Santa Fe Institute. Even when you were talking with Haidt, I think he mentioned certain things are complex adaptive systems. They’re very hard to predict, they’re very hard to analyze, they’re very hard to understand. That’s what Santa Fe’s all about.
+
+That book introduced me to network effects. When I get to go there, I usually go a couple times a year and Mike Mauboussin’s there and Josh Wolfe’s there from Lockton. I just love the learning of things I don’t know, and just pushing my brain to go farther than I would with the normal stuff I consume. It’s beautifully written. Great writer, Mr. Waldrop. There’s a book that I happen to have right here. This book, Mr. China is fantastic. He went to China in the mid ’90s and started a fund to privatize a bunch of industries. He’s from London and got his head handed to him and survived enough to write a humorous story about it. But holy shit.
+
+Tim Ferriss: It sounds kind of like the Red Notice by Bill Browder equivalent, but in China.
+
+Bill Gurley: His life didn’t end up getting threatened. He did go to jail, but I read Red Notice.
+
+Tim Ferriss: There was a Red Notice. Yeah, yeah.
+
+Bill Gurley: This is more of a business — 
+
+Tim Ferriss: There’s no death involved.
+
+Bill Gurley: This is more of a business book and a know what you don’t know and what can happen to you when you go into a foreign land. In the book that I’ve been fascinated with the past five years, four or five years is Epstein’s Range. David Epstein wrote a book called Range, which it was kind of a counter punch to the 10,000-hour thing by Malcolm Gladwell. It started by talking about Federer. But at the end of it, he got into a couple of notions that I find super interesting.
+
+A lot of the big breakthroughs in science have come from people that have changed disciplines or changed genres, which you’re talking about a lot, which I just find super fascinating. If you go on Twitter, which obviously, there’s a lot of people shouting, but you’ll constant refrain is like, “Shut up. You don’t know anything about this field. Leave it to the people in the field.” But if you study science and history, that’s not actually — the biggest breakthroughs come from people that had a different middle framework and move over and then see things differently.
+
+I think it’s super interesting. There’s a professor at UCLA named Holyoak who did a piece on something he calls far analogies where he views it as an intellectual skill, but who can borrow ideas from farther away than where they are. Listen to some podcast of this person in this field and have it impact what they do. I’m fascinated by everything in that world.
+
+Tim Ferriss: Range, for people who want a little bit more, the subtitle is: Why Generalists Triumph in a Specialized World. And I did recognize the name because of another book, which is The Sports Gene.
+
+Bill Gurley: Yeah, he wrote The Sports Gene.
+
+Tim Ferriss: Inside the Science of Extraordinary Athletic Performance, which is a great book.
+
+Bill Gurley: Yeah.
+
+Tim Ferriss: The Santa Fe Institute. Let’s talk about just for a second or maybe a minute or maybe more than a few minutes, why is that important? I mean, I suppose explained it in part, and what have you gleaned from your involvement? It seems like such another prominent commitment on your part.
+
+Bill Gurley: Yeah. Another individual that’s been involved there for a long time and has been the biggest benefactor is a guy named Bill Miller, who was a very famous Wall Street investor. Had one of the, he was at Legg Mason and had a 15-year run where he’d beat the SNP. And I think for Michael, Bill, myself, and Joshua, by listening and learning about analysis of these types of systems and seeing professors from all the — another big thing about Santa Fe is that it’s multidisciplinary, so they have biologists hanging around with epidemiologists, hanging around with physicists, and they all interact together. And Cormac McCarthy hangs out there too, which is kind of cool.
+
+Tim Ferriss: Yeah, that is cool.
+
+Bill Gurley: And just hearing and learning, you pick up things. It’s hard for me. The network effect thing, I picked up the first time I went there with Brian Arthur and I applied that quite directly. But there’s other little things. There was a speech that was given three or four years ago about the electric grid problems that were happening in North America. The professor that presented it at the end said, “The best solution is smaller communities that are loosely coupled.” And that is a really interesting — you could use that framework.
+
+I walked up to her afterwards and I said, “You just explained why the Euro’s a bad idea, because you tightly coupled this thing too much.” And you can just imagine even a computer system that’s distributed, that learning could have other applications. If it’s too distributed there’s no scale. But if it’s hyper integrated, then you have this failure problem, this global failure. Anyway, that’s an example.
+
+Tim Ferriss: Do they have talks and so on online, or is it more of a close group type of experience?
+
+Bill Gurley: They do. There’s lots of them online, you can see. Yeah, they do. They publish books.
+
+Tim Ferriss: Great.
+
+Bill Gurley: There’s lots of stuff online. It’s cool.
+
+Tim Ferriss: Okay, so last one or two questions. This one can go any number of directions, but if you could put anything on a billboard, this is metaphorically speaking, just to get a message, a question, a prompt suggestion, image, anything out to billions of people, let’s just assume they would all understand it. What might you put on that billboard?
+
+Bill Gurley: I think circa 2023 and everything that’s happened over the past five or six years, I would put “Be less tribal.” “Be less tribal.” And I have friends on both sides of the political spectrum, and I can’t imagine an activity that turns off more brain cells than tribal affiliates. All the books that have been written on bias and all the Kahneman [inaudible] and Thinking, Fast and Slow, and all the Nobel prizes for that stuff. I think political bias is stronger than confirmation bias, sunk cost, all those things.
+
+People are just turning off their brains and it’s both directions. And it’s not just the fringe, it’s not just the populists. It’s people that just affiliate and then they don’t think, they don’t listen. And it’s both sides. I mean, I’ll give you an example. Gerrymandering. Horrible. They both do it. It’s horrible. Yeah, just say it’s horrible. But they don’t. They say, “Oh, look. Those guys are horrible when they do it. Capture is horrible. And on the Republican side, that’s banks and big pharma. But on the other side it’s unions, the teacher’s union and the police union. George Floyd doesn’t happen if the police union doesn’t have the power they did because Derek Chauvin would’ve been off the force. But the police union protected him. And if you’re on the left, you can’t say that. You can’t make that statement. You can’t be anti-union. And it’s just stupid for people to turn their brains off this much. Anyway, I’m passionate about that.
+
+Tim Ferriss: Yeah. How would you suggest — let’s just say you were teaching, you’re a good teacher and you’ve spoken to students. If you were to give a presentation on cultivating anti-tribalism, probably have a sexier headline to it. But what might that lecture or class contain or blog post?
+
+Bill Gurley: I think the first thing I would try and do is just highlight the fact that people are turning off their brains. The way that people have proven how confirmation bias works, how loss aversion works. There’s 20 different cognitive biases that we’re all aware of. The first thing I would do is just run some — there’s been stuff done. Then, why does anyone want to be intellectually inconsistent? If you think it’s an ends to a means, then you’re just in a fight. You’re just in a fight. I don’t even want to have a discussion with someone if cheating on your spouse and philandering is okay when your side does it, but it’s horrible when the other side doesn’t like, right. What’s your principle? I don’t understand. Anyway, I would try and get people in touch with the fact that they’re doing it. And then I would just highlight that our government’s far from perfect. Most tribal people view their side as near perfect, and there’s no sign of that anywhere.
+
+But there are a few orgs that I’m starting to learn about. Nonprofits that give money to centrist candidates or things like that. And I think the world, if you could go back 30 years, it was just more collegial across the aisle.
+
+Tim Ferriss: I mean, you’ve mentioned Twitter a number of times. I feel like Twitter incentivizes for polarization just with the mechanisms at work. And you’re a good writer. I wonder why you post so much on Twitter, which seems so impermanent compared to a blog post. Just the durability of the signal seems to wane so quickly. Why do you now post more of your thoughts to Twitter, say, than in longer form?
+
+Bill Gurley: Yeah, probably because I’m old and I don’t have the concentration that I used to have to get to the word out. You brought up two subjects. I’ll answer the second part first, and then we can talk about the tribal stuff. I find Twitter just to be super fascinating as your ability to get close to experts, leaders in your field, like — 
+
+Tim Ferriss: 100 percent agree. 100 percent.
+
+Bill Gurley: It’s unbelievable. More so than LinkedIn. And there’s a chance that some reply you give to them, they might like or they might follow you. And now you, you’ve developed a mentor or a peer partner. It’s really just shocking, amazing the amount of information you can take out of this thing if you use it properly.
+
+Tim Ferriss: I’d say a third of my podcast guests come from Twitter interactions and then DM, which leads to — 
+
+Bill Gurley: Oh, yeah. I mean, that’s something you and I may feel that most people don’t know, but if you develop a massive following, DM becomes this magical place. About half the time someone asks me if I can help them recruit someone, that person follows me. Now I can just start talking to them right out of the gate.
+
+Tim Ferriss: There’s a protection too for high profile people in DM because there’s no personal information that is exchanged and they can always block you if they get sick of you. And therein lies the safety. You can also, if you’re trying to interact, and I don’t do it that much, but interact with say a-list celebrities. Well, it’s like, okay, you can try to wade through this phalanx of agents and managers and publicists and just take two years to try to get a message to someone. Or you can just DM them if that gate is open.
+
+Bill Gurley: There’s a book idea that I’m working on, and one of my core beliefs is that in this day and age circa 2023, your ability to rise up in any industry or any particular endeavor is so much easier than it ever was before because your ability to get close to the mentors, leaders, best practitioners, and learn from them is unlike it’s ever, ever been before. And add in hybrid work, maybe you can work for a company that’s not even near you. It’s really awesome for people that want to pull themselves up. On the tribal thing, yeah. Look, there’s a lot of you and Haidt went deep on this and he’s way smarter on it than me, but it does reinforce performance and yeah, it’s too bad.
+
+Tim Ferriss: Yeah. Let’s double-click on performance. Recent conversation with James Clear, and I’m going to paraphrase what he said, “Who you are and the decisions you make are downstream of the information you consume in a sense. So you should choose your sources of information very carefully.” And I would tend to agree with that. I’m pretty selective. 
+
+Are there any newsletters you subscribe to or read regularly or writers you follow regularly? Not in book form, but in more regular form. Frequent form.
+
+Bill Gurley: Eric Newcomer does a venture capital Substack. And so just being in the industry, that’s something to follow. There’s a website called Techmeme where Gabe has this curated news rank, including Twitter comments people have made about that article. It’s just, it’s a daily — 
+
+Tim Ferriss: Oh, that’s cool. I haven’t seen that integrated. That’s very cool.
+
+Bill Gurley: Oh, yeah, it’s great.
+
+Tim Ferriss: Gabe’s a machine.
+
+Bill Gurley: Yeah, it’s really well done. In the industry, I go there. Between Techmeme and Twitter, I end up on a lot of Substacks and whatnot, but I don’t have one where I read every single thing they post. Everything’s been inverted into this consumption world where the aggregator of Twitter or Techmeme is kind of funneling what I find and then I go do those things.
+
+One of the things I think Twitter should do is define a long-form bucket container, a podcast container and a video container, and then have pocket like features where if you see something like that, you store it and then it cues the way — I mean, that’s one of the benefits of Spotify as a podcast listener, I think it cues and organizes easier than some of the others. 
+
+Tim Ferriss: Yeah, let’s see. I’m just going to ask if there’s anything more you want to say about the book or do you want to keep that under wraps largely for now? Is there anything else you’d like to say about the work in progress?
+
+Bill Gurley: Yeah, there’s a speech I gave at the University of Texas that you could put in the show notes because it’s out there and it’s talking about chasing your dream job and how to succeed and thrive at your dream job. And I’ve done some research since I gave the speech because people have encouraged me to turn it into a book. And some of the polling we’ve done show 70 percent of people have career regret. 70 percent, which is a huge number. And so we’re doing some more work to better understand that and how people end up in that place.
+
+But the punchline, which I hinted at earlier is I just don’t think there’s ever been a better time to have a self-determined job process if you want. And the tools are better than they’ve ever been. And I, there’s way more detail in this thing, but it was built off of studying the biography of a very unusual set of people, Bobby Knight, Bob Dylan, and Danny Meyer, the restaurateur, and seeing similar patterns in how they attacked what they did.
+
+Tim Ferriss: Just out of curiosity, if you were invited to give and agreed to give a TED Talk, but you couldn’t give it on venture capital, couldn’t do investing, couldn’t do career advice, what might you give your TED Talk on?
+
+Bill Gurley: Probably regulatory capture. I have this core belief that capitalism and democracy will eventually destroy one another.
+
+Tim Ferriss: Could you also just define regulatory capture at some point? You don’t have to do it right now.
+
+Bill Gurley: I do. I mean, there’s a Wikipedia entry for it.
+
+Tim Ferriss: Just the basics for folks.
+
+Bill Gurley: There’s a famous professor from Chicago, and I forget his name, like 1958, that wrote the seminal report. But basically in a heavily regulated industry, the incumbents typically end up being the ones that write the legislation and typically lock themselves in. Build competitive advantage, build a moat back to Michael Porter through the use of legislation, and make it harder for startups to break in.
+
+One of my favorite examples, the Obama administration came up with this program where they spent 44 billion dollars paying doctors to implement EHR systems. And the idea that you would pay someone to implement software when you need to do it on your own for your own competitive survival — but there was a healthcare advisory board, the CEO of Epic sat on that board and they came up with this program.
+
+Tim Ferriss: What is Epic?
+
+Bill Gurley: It’s the leading provider of software.
+
+Tim Ferriss: Bingo.
+
+Bill Gurley: Yeah, exactly. Then, once they came up with this program, the thing that you would obviously think is, well, what’s wrong with paying someone to use software? Well, they probably won’t use it. Then they put up another 20 billion for the second phase called meaningful use where if you proved you were using the software, you got paid to implement, you get another check. It’s mind numbing, and this stuff is everywhere in our government, like I said, both sides of the aisle. Everywhere. And Citizens United did not help. It made it way worse. Our government would be way better if you could somehow extract these powers from the government.
+
+Tim Ferriss: If you could wave a magic wand and get some things moving to act as some countervailing force to reduce regulatory capture, what would you do? What’s the action?
+
+Bill Gurley: By the way, we have really broken industries with the most regulated pharma, banks, telcos, these are the ones. I mean, look at the banks. Five other industrialized nations have moved to insta transfer run by the government between banks. In the UK, it’s called UK Faster Payments. It happened 17 years ago. You can read the Wikipedia page on it. ACH in America still takes three days to clear. It’s fucking ridiculous. But it’s because the banks and Visa have too much power with the financial services committee, and they’ve prevented — 
+
+Powell wants to do it. It’s called FedNow. It’s been on the books for 10 years, but they block it because of how we operate. The first thing you would do, and no one will agree to it, is you reverse Citizens United. There’s too much money in the system. You can go to Open Secrets, I think it is, on almost any one of these decisions and you’ll see someone — you can just watch the financial service committee. Someone argues against FedNow and then you look them up and there’s a big bank in their region, and that big bank’s the donor. It’s not rocket science, but that’s where I would start with some kind of reform.
+
+One of my first experiences, this would be definitely be in my TED Talk. When one of my first companies I worked on that had a potential regulatory hurdle, a lawyer told me, “Oh, well, you should talk to these congressmen or whatever. Did you want me to introduce you?” “Sure.” Get a phone call. “He’s going to be in your neighborhood. Can you get a bunch of people in a conference room?” I’m like, “What do you mean a bunch of people? I just wanted to say hello.” “No, I need you to get 15 people in the conference room.” I go, “Why?” He goes, “And they all need to bring the maximum check that they can donate.” And I’m like, “Really?”
+
+I call a few people, I felt horrible. “Oh, yeah. You’ve got to give 10 grand. I just want to talk to this guy.” And then a week before they show up, they go, “Your spouse can give, too. Tell everyone their spouse can give.” This happened to me three times. Three times. To me, someone in Washington — 
+
+Tim Ferriss: Oh, so dirty. So dirty.
+
+Bill Gurley: You need to get 100 grand together just to — 
+
+Tim Ferriss: Pay to play.
+
+Bill Gurley: get that first meeting. And that that’s real. That’s how — 
+
+Tim Ferriss: That’s a great speaking fee.
+
+Bill Gurley: Yeah. No, that’s how it works. And so I don’t know. You look at things like the healthcare system, they’re just so messed up. It’s not a free market and it’s not single payer, it’s the worst of both, and it’s the best of from neither.
+
+Tim Ferriss: If democracy and capitalism are on the annihilation crash course, I mean, what do you think, and I know this is — look, we’re talking about very complex systems and all sorts of tertiary effects to who the hell knows. But what do you think the US looks like in 10 or 20 years?
+
+Bill Gurley: Well, I’ll tell you — 
+
+Tim Ferriss: And conversely, are there any countries that you would be really long on?
+
+Bill Gurley: That’s where I go. I mean, despite their current situation that some people hold them against. I think the UK, which is much older than us, has done a better job than we have. One thing they have — 
+
+Tim Ferriss: With what? Just for clarity, what have they done a better job with?
+
+Bill Gurley: I think less regulatory capture. And one particular thing they have that is super clever and will cause every lawyer in the world to hate me, they have something called losing party pays.
+
+Tim Ferriss: Oh, yes, absolutely. I’m astonished that the US functions the way it does, but yeah, please continue.
+
+Bill Gurley: And so we live in the United States of litigation, and a lot of the friction that exists that slows down the gears and messes things up is because of the vigilante nature of our legal system. And losing party pays just makes the number of initial litigations filed, dropped by 10X.
+
+Tim Ferriss: Yeah, losing party pays. Yeah. Does the UK allow its barristers to have contingency fees or they must have some type of upper limit on that, that is much lower than the US.
+
+Bill Gurley: I don’t know. Before I give my TED Talk, I’ll go a little deeper.
+
+Tim Ferriss: All right, regulatory capture. Bill, is there anything else you’d like to say? Any closing comments, recommendations, anything you’d like to point my audience to or ask them to do? Anything that comes to mind at all that you’d like to mention before we wind to a close?
+
+Bill Gurley: I think I’m good, man. I think we hit on a lot of different things.
+
+Tim Ferriss: Yeah, we did. We covered a lot. And thank you for the time, Bill. I really appreciate it.
+
+Bill Gurley: Thank you.
+
+Tim Ferriss: This was great. And for everybody listening, we will put together extensive show notes linking to everything we talked about, and you can find that as usual at tim.blog/podcast. And until next time, be just a bit kinder than as necessary. And experiment, experiment, experiment. Thanks for tuning in.
+
+
+TAGS
+BILL GURLEY
+	

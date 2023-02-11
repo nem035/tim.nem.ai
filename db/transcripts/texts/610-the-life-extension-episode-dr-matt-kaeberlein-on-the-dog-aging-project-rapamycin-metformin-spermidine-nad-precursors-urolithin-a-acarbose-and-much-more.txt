@@ -1,0 +1,912 @@
+
+
+JULY 30, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: The Life-Extension Episode — Dr. Matt Kaeberlein on The Dog Aging Project, Rapamycin, Metformin, Spermidine, NAD+ Precursors, Urolithin A, Acarbose, and Much More (#610)
+
+
+
+
+Please enjoy this transcript of my interview with Dr. Matt Kaeberlein (@mkaeberlein), a professor of Laboratory Medicine and Pathology at the University of Washington School of Medicine, with adjunct appointments in Genome Sciences and Oral Health Sciences. Dr. Kaeberlein’s research interests are focused on understanding biological mechanisms of aging in order to facilitate translational interventions that promote healthspan and improve quality of life for people and companion animals.
+
+Dr. Kaeberlein is the founding director of the University of Washington Healthy Aging and Longevity Research Institute, the director of the NIH Nathan Shock Center of Excellence in the Basic Biology of Aging at the University of Washington, director of the Biological Mechanisms of Healthy Aging Training Program, and founder and co-director of the Dog Aging Project.
+
+
+
+
+#610: The Life-Extension Episode — Dr. Matt Kaeberlein on The Dog Aging Project, Rapamycin, Metformin, Spermidine, NAD+ Precursors, Urolithin A, Acarbose, and Much More
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show. My guest today is Doctor Matt Kaeberlein. You can find him on Twitter, @mkaeberlein. Let me spell that for you. K-A-E-B-E-R-L-E-I-N. And Matt is a professor of laboratory medicine and pathology at the University of Washington School of Medicine with adjunct appointments in genome sciences and oral health sciences. Dr. Kaeberlein’s research interests are focused on understanding biological mechanisms of aging in order to facilitate translational interventions that promote healthspan and improve quality of life for people and companion animals.
+
+Dr. Kaeberlein is the founding director of the University of Washington Healthy Aging and Longevity Research Institute, the director of the NIH Nathan Shock Center of Excellence in the Basic Biology Of Aging at University of Washington, director of the Biological Mechanisms of Healthy Aging Training Program, and founder and co-director of the Dog Aging Project. You can find him online at kaeberleinlab.org, again, on Twitter @mkaeberlein, and we will link to all the other social, LinkedIn, et cetera in the show notes at tim.blog/podcast. Matt, welcome to the show.
+
+Matt Kaeberlein: Thanks Tim. It’s a thrill to be here.
+
+Tim Ferriss: I am very excited to dive in. We will run out of time probably before we run out of topics, but let’s just start at the basic of basics and get a definition of aging biology if you wouldn’t mind.
+
+Matt Kaeberlein: Sure. First of all I think that’s actually perhaps the hardest question you’re going to ask me today because there is really a lack of consensus, I would say, as first of all, what do we mean when we talk about aging? And then in particular aging biology. But I’ll take the simple part of that I hope. And so what I think of when I think of aging biology is the biological, physiological changes that occur as animals, organisms age. And I think the important point to appreciate, I think everybody recognizes that biologically we are different when we are old compared to when we are young. Nobody would argue with that. I think what’s important to appreciate is that there are characteristic changes that happen in all people as we age. And some of those changes happen in other animals, even to very simple single-celled organisms. And so when I think about the biology of aging, I think about it at different levels.
+
+You can think about the molecular changes that go along with aging. You can think about the functional changes that go along with aging. You can think about the behavioral changes that go along with aging. But those are all driven by the biology of aging. And of course the last point I’ll make is that most of the major causes of death and disability and functional decline that we experience are due to the biology of aging. So if you look at all of the major killers, well, almost all of the major killers in developed countries, they all share a single greatest risk factor, and it’s how old you are. And that’s because of the underlying biology that creates a change in our physiology that is permissive for all of those diseases to happen.
+
+Tim Ferriss: Where did your research begin in this area?
+
+Matt Kaeberlein: I actually got started thinking about and actively studying the biology of aging as a graduate student. This was back in, I guess it was 1998. I was a first year graduate student at MIT. And I went to MIT thinking I was going to do structural biology, X-ray crystallography, something like that. And I heard a talk by a professor there, Lenny Guarente, on the research that his lab had started doing really only a few years before I got there, where they were taking a genetic molecular biology approach to try to understand the mechanisms of aging. And at that time they were working in a single celled organism, budding yeast called Saccharomyces cerevisiae.
+
+And to this day, I still don’t know why that resonated with me, but I have this very vivid memory of sitting in this lecture hall, hearing Lenny talk about trying to understand the mechanisms of aging using genetics and molecular biology and biochemistry. And I was hooked. I’d never, ever thought about studying something as complicated as aging and it captured me, and so I went and I talked to Lenny and I ended up joining his lab and I’ve been working on this problem in one way, shape or form since then.
+
+Tim Ferriss: Now you at one point seem to have had a fork in the road, mathematics, we were talking about this before we started recording, and biology. Did you have any misgivings about veering into the sphere of biology?
+
+Matt Kaeberlein: I don’t think I ever had any misgivings, but first of all, I’ll say I’ve had many forks in the road, and honestly at that age, and maybe to some extent still in my life, if anything, I underanalyzed decisions. So I don’t think I had any misgivings. So what I’ll say is I got my undergraduate degree at a college called Western Washington University, which is about 90 miles north of Seattle. So it’s a smaller university, mostly undergrads, no PhD students, maybe a few master’s students. And I went the/.<re intending to major in biochemistry. And it was probably the first summer there, I had a math professor who was fantastic, who kind of pulled me aside and he was like, “You’re really good at math. I think you should take my proofs class over the summer.” And I’d never actually done a formal mathematical proof before that.
+
+But I ended up taking the class, loving it, and then he is like, “You should major in math.” And so I ended up getting a degree in mathematics and a degree in biochemistry when I graduated from my undergrad. But I don’t think I ever seriously thought about a career in mathematics. I do wonder sometimes what would’ve been different if I’d gone down that road. But I think I was always drawn towards biology in some shape, biomedical research. I think I wanted to have an impact on human health. Not that you can’t have an impact in lots of other fields, but I think I was drawn to that. And so I never really seriously considered applying to graduate school in a mathematical application and only applied to biology, biochemistry. I did apply to one chemistry program as well.
+
+Tim Ferriss: So let’s flash forward to current day. We’re going to do a lot of this bouncing around. You’re wearing a shirt. It says Dog Aging Project on it.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: What is the Dog Aging Project?
+
+Matt Kaeberlein: So the Dog Aging Project is the largest longitudinal study of aging in I think, any animal, but it’s all in companion dogs. And so this is a national study across the United States now of more than 40,000 companion dogs living with their owners. So when I say companion dogs, I mean pet dogs, living with their owners to really try to understand what are the most important genetic and environmental factors that influence aging, biological aging in dogs, with the recognition that most of the mechanisms of aging that happen in dogs also happen in people. And so this will be relevant for both companion dogs and also for people. And I would say there are really two parts to the Dog Aging Project. The first part, which is the largest is what we call a longitudinal study of aging. So completely observational.
+
+All of the dogs that are in the longitudinal component, we’re not asking the owners to do anything different than they normally would. We are following those dogs over time to try to learn as much as we can about what are the factors that cause them to age the way they do, develop diseases that they do as they get older. And then there’s a much smaller clinical trial which is really aimed at testing whether or not we can have an impact on the biological aging process in companion dogs to slow aging, maybe even reverse functionally some aspects of aging, help dogs live longer, healthier lives. And we’re testing a drug called rapamycin, which I’m sure we’ll talk more about in that clinical trial. But I kind of think of this as having two parts. So longitudinal study is let’s understand as much as we can about aging. The clinical trial is let’s do something about it. And I am very much in the camp of let’s do something about it.
+
+Tim Ferriss: Yes. We will talk quite a bit more about rapamycin maybe very soon in this conversation. And for people listening, my hope and intention with this conversation is to help listeners to better develop scientific literacy, to the extent that you can separate some fact from fiction, with respect to longevity, lifespan and healthspan. So let’s underline this word healthspan for a moment. And I’m going to front load this, so please forgive me. I was planning on maybe asking this later. Could you please describe your experience with frozen shoulder?
+
+Matt Kaeberlein: Sure. So should I define healthspan first, or do you want to come back to that later?
+
+Tim Ferriss: Well, I thought they might tie in. So however you would like to tackle it.
+
+Matt Kaeberlein: So the first thing I would say is it’s interesting because this term healthspan is pretty new. Like even in my field 10 years ago, most people weren’t talking about healthspan. And I think it’s sort of become popular because it resonates with people. And what we mean by healthspan is the period of your life that is spent in what we would consider good health. 
+
+There are different ways you could define that and maybe different people would define good health slightly differently. But conceptually, I think this makes a lot of sense, right? We all know we go through our lives, for most people when you’re young, you are experiencing good health, you are functioning well. And as you get older, that health declines, that function declines. I often will say that I am a damaged 51 year old. And what I mean by that is that functionally, I’m in pretty good health for being 51, but functionally I’m nowhere near where I was when I was 21. And I think we all experience that. So healthspan is a concept to try to track how much of your life is spent in good health. Now, the reason why I’m going into a little bit of detail on this is I think it’s really important to recognize that healthspan is not quantitative.
+
+We don’t have a way to quantitatively measure healthspan. In some ways it’s a you know it when you see it kind of thing or when you don’t. So I want to make sure that people don’t get confused about when claims are made that drug X extends healthspan. You have to be a little bit careful because if it’s something you can’t quantify, you really shouldn’t make a claim that you have changed it scientifically, right? So I think that’s important. Okay. So frozen shoulder, how does that come into play? So when I was probably 47 or 48. I started having a lot of pain in my shoulder. And I’m pretty active, I do resistance training fairly regularly. I play softball when it’s softball season, play basketball, stuff like that.
+
+It was a gradual thing where I noticed that I was having more and more pain in my right shoulder, and I really noticed it during softball season. I’ve had injuries here and there, but it was a weird kind of pain where if I was in the gym trying to do a bench press or something like that, the pain was most severe when I started, and then it kind of gradually got better as I was going. I’d never really had an injury like that before. I had no idea what it was. I’d never heard of frozen shoulder at this point. But when it really impacted my healthspan, or at least I would say my quality of life, was one day when my son and I went across the street to the park near our house and I tried throwing the football to him, and I just couldn’t do it.
+
+I did like two throws and I had to tell my kid, “Jas, I’m really sorry. I just can’t do it. It hurts too much.” And for me, I mean obviously we all have life experiences and many people have had experiences that were worse than that, for sure. But for me, that was kind of an emotional moment because I was at a point in my life where I had a physical problem and I couldn’t go out and throw a ball with my kid. And I’ll also say I’m trying to get better at this, but I’m a somewhat stereotypical guy and that I won’t go to the doctor until I have to go to the doctor. So that was the moment where I finally was like, “Okay, I have to get this fixed.”
+
+So I went to my general practitioner. He wanted me to go to physical therapy. I went to physical therapy for, I don’t know, maybe six, seven weeks and it was just making things worse. So I went back to him and this time I thought I had a torn rotator cuff. I had convinced myself that that’s what was wrong. So I went back to him and I’m like, “Physical therapy is not helping, get me in to see a specialist. I need to get this fixed.” And I was actually hoping that I would go to the specialist, he would say, “Okay, you have a torn rotator cuff. We need to get you to have surgery.” Because again, I just wanted it done. I wanted it fixed. So finally I go to see the specialist and within five minutes, he’s like, “You don’t have a torn rotator cuff, you have frozen shoulder.”
+
+And he called it adhesive capsulitis, which again I hadn’t heard of before. And he explained to me that it’s barely common in people in my sort of demographic group, more common in women than men, but it happens in lots of men, and it’s an inflammation of the shoulder capsule. His recommendation was he said, “I can give you a shot, but I don’t recommend it. That doesn’t really last that long, and that can create problems with the cartilage.”
+
+Tim Ferriss: Okay. Like a corticosteroid shot?
+
+Matt Kaeberlein: Yeah, exactly. Yeah. “So I think you should just go back to physical therapy and you know, for some people it goes away in about a year.” And that was not what I wanted to hear, right?
+
+Tim Ferriss: Yeah. A year.
+
+Matt Kaeberlein: It sucks.
+
+Tim Ferriss: “That’s not why I came, doc.”
+
+Matt Kaeberlein: Exactly. So I was pretty depressed shortly. This is another part of my personal makeup, I think. I don’t stay depressed, but for me, I was pretty depressed right after this. And I vividly remember that I was angry too, and I’m sitting in the car just like, “This sucks.” And I’m thinking to myself, “Okay, this is an age-related inflammatory condition. This is exactly what I study.” It probably should have occurred to me before then, but I finally had that realization. And so then I thought to myself, “Well, I know some things that might help. And so maybe I can treat myself.” And that’s what I ended up doing. So again sure, we’ll talk more about rapamycin, but if I had to pick one intervention, that’s the one that I have focused on the most throughout my career.
+
+And one of the things rapamycin is quite good at, is reducing age-related, sterile inflammation. And so I thought maybe this would be a case where rapamycin would be helpful. And so I started taking rapamycin. About two weeks in, I was pretty convinced that it was having an effect, because I got about, I’d say half my range of motion back and by the end of the 10 weeks. So I decided I was going to try 10 weeks and we can talk about that, why 10 weeks? If you want to. But that’s sort of what I had decided. By the end of the 10 weeks, I was back, the pain was gone, and I had probably 90 percent of range of motion back and it hasn’t come back. Look, I’m a scientist. I believe in placebo effect. It is real. This was so painful, and for me, so limiting on what I could do, I don’t think it was placebo effect. I think it probably was the rapamycin.
+
+Tim Ferriss: So let’s talk a lot more about rapamycin. What is rapamycin? Let’s begin with the primary or initial indication for which it is used, or maybe we don’t want to start there, but let’s just broadly explain what rapamycin is. And now also just for a definition of terms, you said sterile inflammation, does that simply refer to a chronic inflammation not caused by infection?
+
+Matt Kaeberlein: That’s right.
+
+Tim Ferriss: Okay.
+
+Matt Kaeberlein: Yeah. And actually I think maybe that’s worth digressing on for just a minute because I think a lot of times you’ll hear people say that our immune system declines with age. And I’m sure we’ve all heard that during COVID. We know that the elderly were most susceptible to severe outcomes from COVID. So you’ll hear people say. That’s actually not correct. That’s half the story. So the ability of our immune system to respond to pathogens, declines with age, or to respond to a vaccine declines with age. At the same time, our immune system is responding inappropriately to a bunch of stuff that it shouldn’t be responding to. That’s the sterile inflammation that I’m referring to. And you could broadly group that as autoimmunity.
+
+There are a lot of disorders that we all know about that are sort of formal autoimmune disorders, but I think a lot of the chronic aches and pains that go along with aging are a milder form of autoimmunity that are driven by this sterile inflammation. But there’s also a term that has been popularized in the field called inflammaging, to refer to this increase in sterile inflammation that goes along with aging. But I do think this is an important point. Immune function both declines and increases. So it’s responding to stuff it shouldn’t be responding to, and it stops doing its job the way that it’s supposed to. And those two things are connected. Part of the reason why our immune system can’t respond to things like coronavirus or a coronavirus vaccine is because it’s spending too much time doing this autoimmune stuff, and that inhibits the response that you want.
+
+So rapamycin it turns out is pretty potent, it seems, at blunting that sterile inflammation. It may also have impacts on the response of the immune system to pathogens, and we can talk more about that. That’s one of the concerns that people have with rapamycin, but it seems quite potent to turning down this sterile inflammation. And what’s been seen in mice for sure, and there’s some evidence for this in people as well, is that if you give six weeks of rapamycin to a mouse and then you stop the treatment, you can actually cause that aged immune system to function like a young immune system and it fully responds to a vaccine. Whereas the aged immune system that’s never seen rapamycin doesn’t respond to a vaccine.
+
+Tim Ferriss: I’m going to ask a lot of basic questions, in part, because on one hand I probably don’t know the answers, and then I’ll also act as a stand-in for the audience. What exactly or even approximately happens, even if it’s theory at this point, to someone as they age that causes this, let’s just say, double-edged sword with immune system changes? Where on one hand they’re under-reacting, but they’re under-reacting in a sense because they’re over-reacting somewhere else. What are the processes responsible for that? Do you know?
+
+Matt Kaeberlein: Okay. I will give you kind of what we think right now. I will say it’s not fully known. And I’ll also make a disclaimer. I am not an immunologist. I have tried several times to learn enough immunology to be credible, and I failed miserably every time. It’s like a completely different language. I have a lot of respect for immunologists, but I really wish they’d learn how to talk to regular scientists, let alone regular people. But I’ll give you my understanding of the immunology here. So there’s probably a couple of things going on. One is that we are from birth constantly exposed to all sorts of stuff that our immune system reacts to, all sorts of pathogens and even things that aren’t necessarily pathogens our immune system will respond to.
+
+I think part of it is just the burden of that years and years and years of the immune system responding to all sorts of different stimuli, that it becomes overactive towards even self-antigens. And that’s where the autoimmunity comes in. I think from the context of aging biology, the mechanism that has been best worked out is in the area of what are called senescent cells. These are cells that accumulate as we age. They don’t die. So there’s a mechanism called apoptosis or some people say apoptosis, where cells can undergo programmed death or death in response to damage. And that’s an anti-cancer mechanism. If cells are damaged, you want them to die so they don’t become cancer. Senescent cells are a different off ramp that damaged cells can take. They don’t die, so they stay around, but they stop dividing, and so they won’t become cancer.
+
+The problem with senescent cells is that they give off a whole bunch of signals that hyper activate the immune system or target the immune system. These are called inflammatory cytokines. It’s a process called the SASP, S-A-S-P or senescence-associated secretory phenotype. These are all these signals. The senescent cells that accumulate as we get older, so there’s more and more of them as we get older, they give off these signals, which tell the immune system to go crazy, basically. And so that probably from a molecular viewpoint is I think most people would say maybe the primary reason why we have this chronic inflammation with age. And there are strategies people are taking, there are these class of molecules called senolytics, which are molecules that are designed to go kill senescent cells, with the idea that — 
+
+Tim Ferriss: So lessening senescent cells like anxiolytic. Is that the basic idea? I’m just trying to just develop the term.
+
+Matt Kaeberlein: Yeah. Well, right. So the idea is with age, we have this accumulation of senescent cells. As far as we know, they’re not doing anything good, so if we can target molecules that will specifically kill those cells, that’ll be beneficial, right?
+
+Tim Ferriss: Right.
+
+Matt Kaeberlein: And the mechanisms are complicated probably beyond the detail that we want to get into here. This idea has caught fire in the field. It’s a really sexy idea. We’ve got these misbehaving cells. They’re good-for-nothing, do-nothing cells that just kind of hang out and convince the other cells to do bad stuff. So if we could get rid of them, that’d be a good thing. It turns out it’s probably not that easy, not surprisingly, biology’s always more complicated. But conceptually, it’s a really nice idea, and so lots of people are working on this. Now this ties back to rapamycin because what rapamycin does it doesn’t kill the senescent cells, but it basically shuts off this SASP, the inflammatory signals. So it’s like you’re not killing the good-for-nothings that are creating the trouble. You’re just putting a gag on them. They can’t talk anymore. And rapamycin seems really potent at doing that.
+
+And then one of the consequences of that is it seems to reboot the immune system, and then the immune system is actually pretty good at clearing senescent cells. So it may actually indirectly also help clear senescent cells. So that’s a little bit speculative. That’s kind of my own personal idea that there’s some evidence for, and I think if I’m right, which I am sometimes, then we’ll get more data for that. But it makes sense. But definitely lots and lots of people have shown that rapamycin can turn off the inflammatory signals that the senescent cells are putting out.
+
+So that was my rationale for the whole, going back to the frozen shoulder. I did enough reading on what it was to recognize that it was inflammation of the shoulder capsule, not knowing why some people get it and some people don’t, but it made sense to me that it was tied into this chronic inflammatory state, and we had already at that time data from my lab that in mice, we could knock down that chronic inflammation in a few different tissues with rapamycin very potently. And so I thought there’s a chance it might work.
+
+Tim Ferriss: Why not? Better than waiting a year. What’s the odds?
+
+Matt Kaeberlein: Yeah. I mean, I’ve made a lot of bad decisions in my life, fortunately not too many really bad ones, but that was a good one. And again, this gets back to how we originally got on this, which is this idea of healthspan. I think that we are trained at least as scientists and medical professionals to think of health only in the context of disease. But I would say most people, their decline in health as they get older starts way before they are ever diagnosed with kidney disease or heart disease or emphysema or whatever. Pick your favorite age-related disease. We all have these chronic aches and pains and declines in function that have a real impact on our quality of life. And so I think those are maybe as important, maybe more important than the individual diseases that could be impacted by targeting this biology of aging.
+
+Tim Ferriss: So rapamycin, just to double click on that word for a quick second, and you can please correct me if I get this wrong, but for those people interested in and in more, we will talk additionally about rapamycin in this conversation. But had a conversation on Easter Island, also known as Rapa Nui.
+
+Matt Kaeberlein: I’m jealous. That’s on my bucket list.
+
+Tim Ferriss: Years and years ago with a number of scientists as well as Dr. Peter Attia, who made the introduction between us. And so if you want to learn more about the origin story of rapamycin, certainly you can listen to that conversation. What is rapamycin most commonly used for these days?
+
+Matt Kaeberlein: Sure. So rapamycin was first approved by the FDA, I think in 1999, so it’s been clinically used for a while now to prevent organ transplant rejection. And I think it was first in kidney transplant patients, but it is used for some other transplants as well. So that’s how it’s been used most in clinical practice. It is also used for some — some types of cancer are particularly responsive to rapamycin. There are a few more rare disorders that are known to be caused by hyper activation of mTOR, which we haven’t talked about yet, but mTOR is the protein that rapamycin inhibits. And so it’s used clinically there. It’s also used in, or has been used in cardiac stents to prevent regrowth of cells over the stents. So mostly organ transplant, but a few other less widely known uses
+
+Tim Ferriss: I was smirking because we may or may not know someone who has mTOR on his license plate. How many times do you think the term mTOR has been uttered on The Drive, the podcast that Peter Attia hosts? I mean, it’s got to be in the thousands.
+
+Matt Kaeberlein: Yeah, I was going to say somewhere between five and 10,000, but that may be a low guess
+
+Tim Ferriss: Why 10 weeks, to come back to your story?
+
+Matt Kaeberlein: So honestly that was based off of studies that we and others have done in mice, where we know that it seems like between four and 10 weeks or 12 weeks, you can definitely get a lot of benefits from rapamycin treatment. And it might be worth at some point talking about what those are. Because it’s pretty striking how wide in terms of tissue these effects that people see are.
+
+Tim Ferriss: Let’s use the power of now. No time like the present.
+
+Matt Kaeberlein: The first thing I would say is if you had asked me 10, maybe 15 years ago, the interventions that we are studying on the biology of aging, how are they going to work? Are they going to slow aging, or are they actually going to potentially do more than just slow the decline? I would’ve said we’re going to slow the decline. I didn’t think that we would be able to find things that could actually make organs and tissues functionally better, but we know that’s the case with rapamycin and with some other interventions. So in mice, if you treat old mice with rapamycin for between four and 12 weeks, and that’s a pretty big range, but that’s because different people have done different experimental paradigms. You can definitely see reversal of functional declines in the immune system.
+
+So the immune system will respond to vaccines better after treatment with rapamycin, the aged immune system, let me clarify that, in the heart. So the aged heart functions better after rapamycin treatment. In the oral cavity, that’s work from my lab that was done by Jonathan An when he was a graduate student with me. You can reverse periodontal disease, eight weeks of rapamycin treatment.
+
+Tim Ferriss: Reverse periodontal disease. What type of periodontal disease?
+
+Matt Kaeberlein: So, periodontal disease — 
+
+Tim Ferriss: Keep your train of thought, but I’m curious.
+
+Matt Kaeberlein: Yeah. So, periodontal disease — 
+
+Tim Ferriss: Having just gone to the dentist for the first time in three years after COVID.
+
+Matt Kaeberlein: Right. So in people, and again, I’m not a dentist, I haven’t spent as much time trying to become a dentist.
+
+Tim Ferriss: Yeah. Yeah.
+
+Matt Kaeberlein: My understanding is that in people, periodontal disease is usually diagnosed by a few clinically defining features. The most important one is probably bone loss around the teeth. So we all have bone around our teeth, and in everybody with age, that recedes with age. You lose bone around the teeth. Gingival inflammation. So gingival inflammation alone is gingivitis, but that’s one of the features of periodontal disease and then pathological changes in the oral microbiome. So those are the things that we looked at in mice. Actually take a step back. The first thing we did was just ask do mice develop periodontal disease with age, because people hadn’t done that previously, and it turns out they do. They get those three defining features of periodontal disease. What we saw was that eight weeks of treatment with rapamycin reverted the oral microbiome back to something that looks more like a youthful microbiome, dramatically reduced gingival inflammation and actually regrew bone around the teeth.
+
+Tim Ferriss: Wow. That’s wild.
+
+Matt Kaeberlein: Yeah. It’s amazing.
+
+Tim Ferriss: I’m going to keep interrupting because this I want to hook onto. It’s so interesting, the regrowth of bone tissue. Do you think there’s a possibility that it is a non-selective growth agonist for other tissues? I ask because you see, for instance, in some cases, bodybuilders who have used super physiological doses of growth hormone for a long period of time and they look like they’re six to nine months pregnant at rest. I mean, because their viscera have grown. Any thoughts?
+
+Matt Kaeberlein: I’m not sure exactly what you’re asking about rapamycin, but — 
+
+Tim Ferriss: Is there a risk that it grows a wide spectrum of tissue?
+
+Matt Kaeberlein: Yeah, that it’s interesting. So people who know about rapamycin and mTOR a lot actually have the reverse concern. So it turns out mTOR, again, the protein that rapamycin inhibits, promotes growth. So bodybuilders often will try to hyperactivate mTOR. In fact, it’s funny because some of the bodybuilder mixes of leucine and other amino acids has like “mTOR activator,” on the bottle. Right? So they actually try to activate mTOR. So most people would think if you inhibit mTOR, you’re actually going to reduce growth and actually potentially lead to something like sarcopenia. Turns out that’s not the case. That’s another tissue where it’s sort of amazing. Rapamycin is protective — 
+
+Tim Ferriss: Is sarcopenia age-related muscle loss, or just muscle loss in general?
+
+Matt Kaeberlein: That’s a good question. I’m not a muscle person either. I don’t know what I do, but I know what I don’t do.
+
+Tim Ferriss: Well, in practice you’re a muscle person. Very fit guy.
+
+Matt Kaeberlein: But mostly I think about it in the context of aging, age-related muscle loss. So I don’t know of any reason to be worried that rapamycin would cause over proliferation of bone or other types of tissue, but this is pretty new. Right? I think before we did these experiments, most people would’ve thought if anything, we would expect to see a loss of bone. But in reality, what we saw was the reverse.
+
+Tim Ferriss: Wild.
+
+Matt Kaeberlein: Honestly I think this may come back to this inflammatory state. So this is the thing, right? When you have a chronic inflammatory state in your tissues, that actually impairs the ability of stem cells to do what they normally would do. I also think that’s probably the biggest reason why rapamycin can improve function in some tissues with age, because what you’re really doing is you’re knocking down that chronic inflammatory state and then the stem cells are like, “Oh, wow.”
+
+Tim Ferriss: Some more resources available.
+
+Matt Kaeberlein: “I can go back and do my job.” Yeah. So I think that might be what’s happening. We have some molecular understanding of what’s going on in the bone, but I do think the point you raised is a good one that we do want to watch out with not just rapamycin, but any intervention we’re using to target the biology of aging. We do want to watch out for the possibility that we might take these systems that are functioning at a suboptimal level and instead of bringing them back to optimal, we bring it too far. Right? So I think that’s always a something we want to pay attention to.
+
+Matt Kaeberlein: Oh, the other thing I wanted to mention, sorry. This hasn’t really gotten into the public awareness yet.
+
+Tim Ferriss: Perfect.
+
+Matt Kaeberlein: But I was just at the Reproductive Aging Conference a couple of weeks ago. This is a new area of aging biology that’s super fascinating. It’s mostly focused on female reproductive aging. I saw probably three different talks on rapamycin rejuvenating ovarian function in mice.
+
+Tim Ferriss: Wow.
+
+Matt Kaeberlein: Yeah, really, really fascinating.
+
+Tim Ferriss: That is interesting.
+
+Matt Kaeberlein: My good friend Yousin Suh and Zev Williams at Columbia are actually starting a clinical trial of rapamycin in women who are undergoing premature ovarian failure. So I think we may get some data on this in the not too distant future in people. In parallel, John An, the former graduate student of mine I mentioned, he’s now an assistant professor at the University of Washington, is starting a clinical trial for periodontal disease with rapamycin. So I’m pretty excited to see where this goes and hopefully we’ll get some data in people in the near future.
+
+Tim Ferriss: Why cycle off of rapamycin? Are there reasons aside from the experimental designs that have been published? Because I can understand why you — 
+
+Matt Kaeberlein: Why not just keep taking it?
+
+Tim Ferriss: Why not keep taking it?
+
+Matt Kaeberlein: Yeah, and lots of people have done that in mice. So in mice, people have given rapamycin from a very young age, all the way through to old age and death. Some people have started in middle age and then some people have done these transient treatments that I mentioned. So in mice, you get most of the benefit, in terms of lifespan at least, from starting in middle age and going till the end of life. The experiment we did was a 12-week transient treatment, looks like you get most of the benefits for lifespan. Maybe not quite as big, but you get most of the benefits from just a single, 12-week treatment. Now, mice obviously age a lot faster than people. I have no idea how that would have anything to do with 12 weeks in people, but that’s the observation.
+
+So then the question is why wouldn’t you want to do a continuous treatment? So most physicians who know about rapamycin, first of all, it’s usually called sirolimus in the clinical world. So it’s the same drug, but two different names.
+
+Tim Ferriss: How do you spell that? I’ve never heard that.
+
+Matt Kaeberlein: S-I-R-O-L-I-M-U-S. Sirolimus is how I say it. Sirolimus is how people who know what they’re talking about say it. But if you were a physician, that’s the name you would know it under. Or rapamune, which is the generic — 
+
+Tim Ferriss: Sounds sike the name of a scribe from Lord of the Rings. Anyway, continue.
+
+Matt Kaeberlein: Yeah. So most physicians, if they know anything about rapamycin — or now I’m going to say rapalimus — rapamycin or sirolimus, they are going to know about it in the context of organ transplant patients. So in organ transplant patients, they’ve been taking high doses of the drugs, usually with strong immune suppressants. In that context, there are side effects associated with rapamycin. So the concern, of course, the reason why you might not want to take rapamycin continuously is that maybe the risk of side effects goes up the longer you take it. So that would be one rationale for not taking it continuously and that’s more or less my rationale. I know lots of people who take rapamycin continuously and have not experienced side effects, but that’s sort of my reasoning.
+
+The first thing is I’m very much a realist about this. I recognize this as self experimentation. We don’t have clinical trials, right? We don’t know with any real quantitative estimate of risk reward. I know enough that I believe that the risk reward ratio is strongly favoring reward, especially when I was experiencing frozen shoulder, but even still, I take rapamycin off and on, but we don’t really know. So my view was in the animals, and especially going back to this chronic inflammation model, the idea that periodically knocking down that chronic inflammation and then it’ll take a while for it to come back makes sense. So that’s really the rationale that I started with. Because I recognize that this is unknown territory, that it is experimentation, I don’t have a great reason to think that continuous would be better than repeated cycles. Dose is still a little bit of a guess. So I don’t worry too much about being very precise and all of that.
+
+Tim Ferriss: Let me revert back to the Dog Aging Project for a second. You mentioned the clinical study side and I would love for you to describe the hypothesis going into that. I hesitate to use the word hope, right? But with the intervention of rapamycin, what might you see based on previous data or studies?
+
+Matt Kaeberlein: So let me take a step back because I think it’s useful to first just briefly talk about how this idea even came about. So really in my mind, I think the first time I really thought of the idea of doing a clinical trial in dogs was going on 10 years ago now. I think it was probably 2013 and Daniel Promislow, who’s co-director of the Dog Aging Project, and Kate Creevy, who’s our chief veterinary officer, had been thinking about the longitudinal study well before this. So it was actually in conversations with them that got me thinking about companion dogs living in the human environment as an animal that we could actually study and learn about the biology of aging.
+
+I’m a dog person, I’ve always had dogs, and so the idea when it’s solidified in my mind, there’s really no reason why these interventions that we can increase lifespan and healthspan in mice, they’re going to work in dogs. I don’t know that all of them are going to work. I don’t know rapamycin is going to work, but I am 100 percent rock solid confident that some of them are going to work. Being a dog guy and wanting my dog to live longer, when that light bulb went off in my head, I was like, “This goddamn has to happen.” Right? “This has to happen.”
+
+So that was really what got me on the path of then thinking, “Okay, how do we do it? How do we start that process? How do we actually test whether or not an intervention”—I hadn’t settled on rapamycin at that time—”would have this effect in dogs?” So that was the process of going through how do you set up a clinical trial? One thing to consider is companion dogs, very much like people’s children — so you kind of think about a clinical trial the way you would a pediatric clinical trial. You really have to be sure whatever intervention you’re using isn’t going to kill somebody’s dog or harm somebody’s dog. So these are all the things that I started thinking about, and I settled on rapamycin because there was enough evidence at that point to convince me that it could be done safely.
+
+That was really the only concern with rapamycin based on the side effects that I talked about in organ transplant patients, that it could be done safely and because it was our best bet for the interventions that we knew about then, and I would say still now, for being likely to have an effect on lifespan and healthspan for the reasons that we’ve sort of already gotten into. Okay. So what might we expect based on what we know in mice? So I talked about some of the tissues where rapamycin makes things better. There are many other tissues where it hasn’t really been looked at in that context of better, but where at least if you give it lifelong, the declines are delayed. At a minimum, we can say that. So that’s true in brain, it’s true in kidney, it’s true in liver, it’s — 
+
+Tim Ferriss: May I pause for a second?
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: What type of degeneration or changes are delayed or reversed in the brain?
+
+Matt Kaeberlein: Right. So this has been studied both in the context of normal aging and in mouse models of Alzheimer’s disease and other neurodegenerative diseases. In every case, you see improvements in function. So these are behavioral tests in mice. There are these water maze tests, things like that. Right? So to the extent that they are actually telling us what we think they’re telling us about cognition, you see improvements in the rapamycin treated mice versus the control mice.
+
+Tim Ferriss: So it’s task performance based.
+
+Matt Kaeberlein: Those functional measures are the ones that I put the most faith in. Right?
+
+Tim Ferriss: Got it.
+
+Matt Kaeberlein: I think, sure, you want to see changes in pathology and molecular biomarkers and things like that. I don’t care if the biomarker changes if it doesn’t make it function better. So that’s why I start there, but people have done lots of studies looking at cerebral blood flow. So that’s one model that’s been put forth. There’s decreases in neuroinflammation, as we would expect, given the effect of rapamycin on inflammation and increases in metabolic function or mitochondrial function in the brain. So there are plausible molecular mechanisms by which rapamycin could be having these effects. That’s pretty much true in the other tissues where rapamycin has been shown to have effects is a lot of people have been studying this and made, I think, reasonable models at a molecular level for how rapamycin is acting.
+
+So I’ll cut it short and just say pretty much every tissue where people have looked, you can find evidence that function has been at least preserved. The one that might be worth commenting on briefly and coming back to because we touched on it is muscle. So early on, there was a lot of concern, I think particularly among muscle biologists that rapamycin would increase sarcopenia or enhance muscle loss with aging and make things worse. That’s because it’s known in muscle biology that mTOR promotes muscle growth, or at least it’s required for protein synthesis, which is part of muscle growth. So the conventional wisdom was that when you inhibit mTOR, that would lead to a decrease in muscle mass, muscle function.
+
+Several studies now in both mice and rats have shown it’s exactly the opposite. You maintain muscle function better with age when the mice or the rats are given rapamycin. Now, dose is probably important. So I do think if you were to push the dose too far you might impair muscle growth or muscle maintenance, but at the doses that also extend lifespan and have all these other effects, muscle is actually functioning better in old animals than in control animals.
+
+Tim Ferriss: It’s incredible.
+
+Matt Kaeberlein: This is why I constantly tell the people in my lab and other scientists, “You’ve got to do the experiment.” You cannot go into it thinking that you know the answer and not do the experiment because your dogmatic belief says, “This is how it’s going to work.” You’ve got to do the experiment.
+
+Tim Ferriss: So based on the mice data, let’s just say, lifespan in terms of percentage increase in this case, what might be the range?
+
+Matt Kaeberlein: So I think the upper side for what’s been shown in mice so far with rapamycin is about 25 percent increase in lifespan. I mean, that’s certainly possible in dogs. I would say if I had to guess, I would guess it’s not going to be that the magnitude of effect on a percent basis is not going to be as big in longer lived animals. That’s just a guess. I don’t have any data to support that, which might mean that the magnitude of effect in people is going to be even smaller, because people are much longer lived than dogs are and much longer lived than mice are. But it could be as much as 25 percent. So if you’re talking about a large dog that maybe would normally live to be 14 years old, you’re talking another three years, right?
+
+Tim Ferriss: Study worth doing. I say that as I’m looking around you to my dog, Molly, seven years of age, laying on the floor. The function matters, right? I mean the function really matters.
+
+Matt Kaeberlein: Absolutely. I think most people would agree that the function matters more than the absolute lifespan. I think almost everybody says, if you’d ask them, “Would you want to live longer?” They’re like, “No, not if I’m going to live longer in a decrepit state.” Right?
+
+Tim Ferriss: Now, is it fair to say that is one of the valid criticisms of at least certain forms of, say, caloric restriction?
+
+Matt Kaeberlein: Well, I don’t know. Maybe. I mean, I wouldn’t necessarily pick on caloric restriction. I think there’s evidence, at least in mice, that caloric restriction can maintain function later in life as well. Now, you could make an argument about quality of life, for sure. I would pick on caloric restriction then in people, but I think the general question, is that a valid concern in targeting the biology of aging? I would say it is and it isn’t. So nothing that I have ever seen, and I’ve seen a lot of things that extend lifespan, nothing has ever convincingly extended the bad part of life, the decrepit state. There’s a little bit of debate in the C. elegans field about that, but I think these are people arguing over silly stuff. I’ve never seen anything that does that.
+
+Tim Ferriss: Wait. C. elegans?
+
+Matt Kaeberlein: It’s a nematode worm.
+
+Tim Ferriss: It is, right? Nematode worm.
+
+Matt Kaeberlein: Yeah. Even there, I think it’s a semantic argument, not a real argument, but certainly in mammals. Nothing that extends lifespan only extends the end period of life. I think it’s a legitimate question whether some of these interventions might proportionately extend lifespan, where you’re proportionately extending healthspan, but you also have an absolute sense to have a longer period of decline. That is hard to really completely resolve. I would say things like rapamycin and caloric restriction, which those are the two most potent interventions we’ve got right now, really do seem in mice to push the declines in function and diseases back later into life. So you really have disproportionately extended healthspan compared to lifespan. But again, that’s my interpretation of the data, but it’s a hard case to make quantitatively.
+
+Tim Ferriss: When you were considering different candidates as interventions for this Dog Aging Project, rapamycin ended up being the top pick. What would’ve been the second and third place finishers, so to speak?
+
+Matt Kaeberlein: The first thing I’d say is I think if I had a boatload of money and I could test 10 interventions, I would not try to make the decision myself. So I’ll give you my list. I’m not dodging the question, but I would get a bunch of my best friends, who I also respect their science, together and sit down and talk about it, because I certainly don’t think that — I think that we could come to a better collective decision, but I think the place where I would start are with interventions that robustly and reproducible extend lifespan in mice. I think you’d have to take a look at caloric restriction. I think there would be some concerns about caloric restriction in companion dogs and also the logistics of would owners actually do that. Right? So I probably wouldn’t include caloric restriction, but you would think about other forms of caloric restriction and maybe that’s a topic we want to talk about as well.
+
+Tim Ferriss: Like pharmacological interventions that suppress appetite.
+
+Matt Kaeberlein: Or things like intermittent fasting, time restricted feeding, things like that. So other nutritional interventions that maybe aren’t as severe, or maybe not as hard for owners to implement.
+
+Tim Ferriss: Adhere to.
+
+Matt Kaeberlein: Yeah. But then there are a series of small molecules that have come out of something called the Interventions Testing Program. So this is a National Institute on Aging-funded program to do what the name says: test interventions in mice for the ability to extend lifespan. This is kind of the gold standard. So there are lots of labs, including mine, that are out there that do lifespan experiments, but this is kind of the gold standard because it’s got built-in-triplicate replications, so the studies all get done at three different sites, and they have shown a handful of small molecules that extend lifespan in mice. Interestingly, and this is something people don’t really understand, many of them only extend lifespan in one sex or the other in mice, and it tends to favor males. So more drugs extend lifespan in males than in females.
+
+Tim Ferriss: So maybe we’ll break even with the average lifestyle of females.
+
+Matt Kaeberlein: Maybe we can catch up to the females. So nobody understands that. That’s another area that people are really interested in. So rapamycin has been shown repeatedly by the Interventions Testing Program to extend lifespan in both males and females and it’s the biggest effect, but there are other drugs like acarbose, which is an anti-diabetic drug that is in males at least close to rapamycin in terms of the magnitude of effect. 17 alpha estradiol, which is a sex hormone, extends lifespan in males. NDGA is another one. So there are probably six or seven small molecules that have come out of that program that would make sense to think about testing in dogs. Again, because like I said, this is almost like doing a pediatric clinical trial, first thing is what do we know about this molecule in dogs? Can it be done safely?
+
+Then there are a couple of others that I would put on the short list. Not because they’ve extended lifespan by the ITP, but because there’s so much buzz around them in the field and because there is some evidence that they can extend healthspan. Two that I think would fit in that category are metformin, which is the most commonly prescribed anti-diabetic drug in the world. Probably most people listening to your podcast have heard of metformin. It’s gotten a lot of attention for its potential effects on longevity and Nir Barzilai at Einstein has been championing a human clinical trial called TAME, which stands for Targeting Aging with Metformin. If you want to talk about that, I’m happy to, but I think because we know a lot about metformin and its effects on metabolic health and it’s been talked about so much in the field, that probably makes sense to look at.
+
+NAD precursors is the other class of molecules I would put in that bucket. Actually, Nicotinamide riboside, which is a NAD precursor, did not extend life spend by the ITP, but there’s a lot of evidence that you can have beneficial effects on metabolic health and health in general. NAD precursors are almost certain to be safe. So again, coming back to the doing this in dogs, then there’s a couple of others that I am interested in that are more recent. One is alpha ketoglutarate, which is a natural product metabolite that a lot of people are thinking about now. There’s one study that showed a small lifespan extension in mice. The other is a molecule — there’s two that actually are thought to target autophagy or mitophagy, mitochondrial autophagy. One is called spermidine and the other is called urolithin A, and so I would take a close look at those. But again, that’s a short list and if I sat down with my friends for an hour, we could probably come up with an equal number of other things to kind of think about.
+
+Tim Ferriss: Okay.
+
+Matt Kaeberlein: You asked.
+
+Tim Ferriss: Of course I did. That’s my job. So I want to take a closer look at a few of these, especially a number that I don’t recognize. Actually, before we do that, I know you had talked to your smart friends, but since they are your close friends, presumably you’ve probably spoken about this before. So let’s just say you were a benevolent dictator of the targeting aging clinical trials program and you had to pick one of these, aside from rapamycin. Not holding you to it, clearly this is just a thought exercise, but where would you lean? Actually, you know what? I’m going to take metformin off the list just to make it easier.
+
+Matt Kaeberlein: Okay. I wouldn’t have gone with metformin anyways. I would probably go with alpha ketoglutarate, but I would take a close look at urolithin A and spermidine.
+
+Tim Ferriss: Okay. Can you tell me more about urolithin A and spermidine and what those are used for currently?
+
+Matt Kaeberlein: So spermidine is found in food, right? So we get spermidine in our diet, but it’s usually at a pretty low level. So spermidine, again, there are several labs that have worked on this. Unfortunately, I can’t remember the Japanese scientist’s name.
+
+Tim Ferriss: We’ll find a few and we can put it in the show notes.
+
+Matt Kaeberlein: Who has shown correlations between dietary consumption of spermidine and mortality and other health outcomes in people. Then Frank Madeo was the first to really start studying this in the basic biology of aging side and has shown that you can extend lifespan in a few different organisms. I can’t remember if there’s a really strong lifespan — I think there’s a lifespan study in mice that looks pretty good, but certainly a bunch of healthspan measures in mice that are treated with spermidine. The mechanism is, they think, through enhancing autophagy, which is this mTOR regulated process. So rapamycin also turns up autophagy and some people will kind of refer to it as the recycling center of the cell. One way to think about it is we know that as we age, there’s an accumulation of a bunch of damaged stuff and autophagy is a mechanism to help clear that damage and then recycle the components so they can be used to build new functional machines.
+
+So spermidine is an autophagy booster, and there are a bunch of companies actually trying to make pharmacological autophagy boosters. So that’s the mechanism for spermidine and then urolithin A is also an autophagy booster. I don’t know as much about the source of urolithin A. It is a natural product, but I don’t know as much about the source, but it seems to preferentially boost a specific type of autophagy called mitophagy or mitochondrial autophagy. So the idea is there that you’re kind of restoring metabolic function by breaking down the damaged mitochondria and making new mitochondria. That has been shown to extend lifespan in — it started in worms and I think there’s a mouse study, but there’s also now been at least one clinical trial, which I — this is new. I haven’t really had a chance to dive into the clinical trial in depth. I’m kind of waiting for Peter Attia to do that for me. “Tell me what’s wrong with it.” No, I’m just kidding.
+
+But my quick glance at the trial looked pretty interesting. It looked like there may have been some improvements in muscle function in older people taking urolithin A, which is what we would expect if you’re really enhancing mitophagy. That study was, of course, funded by the company that’s trying to develop this and sell it. So there are some conflicts of interest there, but I think companies can fund and do good clinical trials. I just haven’t had a chance to dive into it and really evaluate it.
+
+Tim Ferriss: What is the function or significance of 17 alpha estradiol?
+
+Matt Kaeberlein: I don’t think people really know the mechanism there at this point. There are a lot of things that have been proposed and I think that’s really a mystery right now, how it’s working to extend lifespan.
+
+Tim Ferriss: Is it working selectively in males?
+
+Matt Kaeberlein: Yes.
+
+Tim Ferriss: Okay.
+
+Matt Kaeberlein: Yeah. That’s one of the ones where it’s only in male. Whether it’s having feminizing effects, I don’t know that people have really looked closely at that.
+
+Tim Ferriss: Or a cardioprotective effect.
+
+Matt Kaeberlein: Yeah. Although in mice — most people would say that a significant fraction of mice die from cancer and depending on the strain background, it’s probably between like 60 and 90 percent.
+
+Tim Ferriss: Die of cancer?
+
+Matt Kaeberlein: Die of cancer. Most people would say that vascular disease at least is not a significant component of death in mice. Maybe true cardiac disease in a small fraction. Interestingly, the same thing’s true in dogs about — well, really about all — certainly vascular disease, not a big cause of death. Cancer, a much greater cause of death. Although, I have to be precise, euthanasia is the leading cause of death in dogs, but usually people will euthanize their dogs for a reason and cancer is one of the big killers in that sense. So I don’t think most people would immediately think that an intervention that prevents vascular disease or even heart disease would have a big effect on mouse lifespan if it wasn’t also impacting cancer and potentially also other age-related diseases.
+
+Tim Ferriss: Right. That makes sense. So I’d love to visit two more and I’ll actually mention the one we’ll do second, which is the NAD precursors. I want to ask about this specifically because it has become very popular, rightly or wrongly or both, who knows which reasons are being used to justify it, for people to use intravenous pushes of NAD in various settings. It’s extremely popular in Austin. So I’d like to talk about that. But first, there’s one that I have here in my notes that I’d love to know if you have any opinion on, and I haven’t seen this name in ages, I do have some familiarity with it, which is deprenyl. So I haven’t seen this since I was an undergrad at Princeton, freshman year, reading volume one of a series, well, later became a series, called Smart Drugs, and it talked about off-label use of all sorts of things, hydergine being another example, piracetam, aniracetam, long list of stuff. But deprenyl was in that list and it talked about not just cognitive benefits but also effects on libido and so on. Do you have any opinion or thoughts on deprenyl?
+
+Matt Kaeberlein: Yeah, so that’s a really interesting one, and in the context of aging, it’s sort of a mystery to me why this hasn’t been studied more. So there are a few old studies of deprenyl on lifespan in rodents, and actually, I think one or two studies in dogs that show pretty big effects, and then it’s like the literature just stops — 
+
+Tim Ferriss: Weird.
+
+Matt Kaeberlein: — and I don’t know why. So this is one that, based on that literature, I think it’s worth looking at. I guess I didn’t mention it because it sort of slipped my mind. But yeah, as you might imagine, there are very few things that have been reported to extend lifespan in dogs, and this is one of two that I know of, caloric restriction being the other one, and that was in laboratory dogs. So yeah, it’s fascinating. And like I said, I don’t know why that was never carried forward or if anybody’s still thinking about this.
+
+Tim Ferriss: Too hard to slap a molecular modification on in patent. I mean, who knows?
+
+Matt Kaeberlein: Well, yeah. I mean, right, that’s a whole ‘nother challenge, for sure. Rapamycin is kind of in that boat, too, because it’s off-patent. But yeah, maybe it had to do with the lack of a profit motive. I really don’t know, actually, unless except for the people who were studying it were never in the mainstream aging biology community, and I think like many other fields, when work gets done outside of that, to the extent that aging biology is mainstream, it never used to be, but outside of that mainstream, it kind of— People don’t know about it, right? Or they just ignore it.
+
+Tim Ferriss: All right. I’m going to put a bookmark to revisit deprenyl after this conversation. And if people have some idea of why the research stalled in the way that it appears to have stalled, let us know on Twitter. I would be very, very interested.
+
+NAD precursors. Now, NAD, NAD+, is there any difference between those two or are those identical, it’s just a matter of — 
+
+Matt Kaeberlein: Yeah, if you don’t put the plus on there, everybody will know what you’re talking about. So there’s NAD+ and NADH, and that’s just the oxidized and reduced forms of NAD, and nicotinamide adenine dinucleotide is what that stands for, and this is a co-factor in a whole bunch of different metabolic reactions, probably thousands. And so it has a really important role in central metabolism but also a lot of other cellular functions. And what has sort of emerged is, I don’t know if I would say a consensus, certainly a lot of papers published that NAD levels decline with age and the idea that if you can boost NAD levels, that that would have a beneficial effect on metabolism.
+
+Now, I am massively oversimplifying and there are some very specific models which gained a lot of attention related to how that’s working, but I think from a general perspective, it probably is the case, certainly in some tissues, NAD levels decline with age. The reasons for that are not completely known, and there’s some reason to believe that if you can successfully reverse that, that there are some metabolic benefits to doing so. And that’s the general idea behind intravenous NAD or NAD precursors, which are small molecules that you don’t have to take intravenously, so NAD is not taken up. There’s no bioavailability if you just eat it. So these NAD precursors are small molecules that, in theory, again, there’s some controversy around this, but in theory, have bioavailability and can be taken up to boost NAD in cells.
+
+Tim Ferriss: Yeah, I’m not going to name names. So I was talking to someone who’s very skeptical of some of the dietary supplement companies that have been built around NAD precursors, including open questions around whether or not they remain viable if they’re not refrigerated, right? So if they’re on a shelf for two or three weeks, lots of open questions. What do you do, aside from intermittent use of rapamycin, for yourself in terms of improving healthspan, potentially improving lifespan? What are other levers that you’re pulling?
+
+Matt Kaeberlein: Well, I can’t tell you.
+
+Tim Ferriss: And… close!
+
+Matt Kaeberlein: No. I mean, the honest answer is rapamycin is about as edgy as I get, and that’s actually pretty edgy for a lot of people. But the other stuff that I do, what I try to do, is I think what we all, more or less, know we should try to do. I really don’t take any supplements. I am pretty averse to supplements. That might be something that’s worth touching on again. You kind of alluded to this a minute ago, but I don’t take any supplements. I do periodically take vitamin D when I remember to. That’s mostly because my wife tells me I should.
+
+But really, what I try to do is I found for me, personally, and I’m very much of the belief that nutrition and diet is very individual. For example, my wife and I are completely different in the way we respond to carbs, and I found that what works really well for me is a low, simple carbohydrate diet. I mean, I’ve tried keto just to try it, but I don’t do a ketogenic diet. But I do stay away, typically, from bread, rice, and certainly things that have a lot of sugar added to them, and that works really well for me. But I’ll also say, I don’t get cravings for that stuff, so it’s been easy for me to adopt that lifestyle. So I think that’s been really important for me, and it’s been several years now that I’ve been doing that, and that’s helped a lot.
+
+If I had to pick one thing, though, it would be resistance exercise. That is the one thing that, I think, almost everybody should do to give themselves the best opportunity to be healthy as long as possible. Other forms of exercise, I’m not against cardio, all that stuff, but I think if I had to pick one, maintaining your muscle mass and getting as much muscle as you can, especially in your 40s and 50s, is really important later on. So I try to exercise, and I enjoy exercising, so it isn’t a huge burden for me.
+
+And then sleep is the big one, right? And that’s harder to control, right? If you have trouble sleeping, you can develop strategies to help with that, but it’s not like diet and exercise where you really have complete control if you really want to over that. But that’s a big one and I’m, again, have been really fortunate that I tend not to have problems falling asleep and usually staying asleep.
+
+Tim Ferriss: Oh, what I would trade.
+
+Matt Kaeberlein: I know. And again, my wife is in the camp where she’s struggled with that a little bit. And yeah, I mean, I think there are lots of strategies that people can develop.
+
+Tim Ferriss: Has she found anything to help?
+
+Matt Kaeberlein: I don’t want to speak for her, but I mean, I would say, I think partly exercise, so being physically active. She gets out and hikes a lot, and that helps. Not napping during the day is also a big one, I would say.
+
+Tim Ferriss: Let’s come back to our list of acronyms, and I also would like to speak about caloric restriction a bit.
+
+Matt Kaeberlein: Okay.
+
+Tim Ferriss: So I’ll just pose a simple question. Should Molly be doing intermittent fasting as a stratagem for increasing lifespan?
+
+Matt Kaeberlein: So I’m not a veterinarian. I do not give veterinary advice.
+
+Tim Ferriss: Right, yes. We should say, and I’ll add another disclaimer to the top of this show, we’re, well — 
+
+Matt Kaeberlein: None of this medical advice.
+
+Tim Ferriss: I am not a doctor. I do not play one on the internet. We are not giving medical advice. This is for — 
+
+Matt Kaeberlein: I’m not that kind of doctor.
+
+Tim Ferriss: Yeah, this is for informational purposes only, so consult your health professional for any decision.
+
+Matt Kaeberlein: I mean, I do think that’s important, so I’ll answer your question in a second. But I mean, I do always try to make this point, because, as you might imagine, I get asked all the time about rapamycin for themselves, for their dogs, other things they should be taking, and almost all of this, with the exception of diet, exercise, and the other thing, not smoking, things like that, almost all of this is unknown territory, right? And so I, for myself, do not feel that I should be telling other people what they should do. I’m happy to share what I do and what I think works for me, but none of this stuff has gone through clinical trials. We have nothing that has been formally shown to impact the biological aging process in a positive way, increase lifespan and healthspan beyond, like I said, diet and exercise.
+
+Tim Ferriss: You mean in humans?
+
+Matt Kaeberlein: In humans, yes. Sorry. Yeah. Or even in dogs, right? We’re doing the first clinical trial for healthy aging in dogs, right? So I think people just have to recognize we don’t have that level of proof, and it’s going to be a long time. And I shouldn’t even say proof because there are things that go through clinical trials and then we find out later on that they aren’t having the benefits people thought. So I think we always have to recognize there’s a level of uncertainty and risk-reward evaluation that has to come into that. Okay, I’ll get down off my soapbox.
+
+So should you consider time-restricted feeding for your dog, right? So the first thing I would say is, and this really, I think, the reason why I even thought about this was because in the mouse studies, and this has been sort of popularized into the mainstream culture in people as well, there are all these, say, calorie restriction alternative diets that people have started thinking about, like intermittent fasting, time-restricted feeding, ketogenic diet, fasting mimicking diet, right? And so that gets presented to the general public as if these things have all been proven to work, and that’s, I’m just going to say it, that’s bullshit. When you actually look at the mouse data, there is very little evidence if you don’t calorically restrict, that these things have any significant impact on lifespan, maybe some healthspan metrics, but they get presented as if they do. So if you do those things and calorically restrict, yes, they will increase lifespan in mice.
+
+Tim Ferriss: But if you limit your window and eat twice the number of calories — 
+
+Matt Kaeberlein: Very, very. In fact, if anything — 
+
+Tim Ferriss: Or just isocaloric.
+
+Matt Kaeberlein: Yeah, that’s right, that’s right. There’s very little evidence that they have significant benefits. Okay. And in some cases, it might actually make things worse.
+
+And so I recognize that, and we actually wrote a review going on a year ago now on this topic. And so I thought our dogs in the dog study, the longitudinal study of the Dog Aging Project, might be a really interesting, natural way, natural model to look at this, because some owners feed their dogs once a day, some twice a day, some three times a day, some do what we call ad libitum or free-feeding, right? The dog always has access to food. And so — 
+
+Tim Ferriss: Like Google engineers when they have a snack bar right around the corner.
+
+Matt Kaeberlein: This is actually a really fascinating question that I’m interested in, which is, certainly, there’s a self-selection to free-feeding in dogs, right? If you have one of those dogs that will just eat until it gets sick, you’re not going to free-feed your dog, right? So there’s some, probably, genetic component that some dogs can have access to food all the time and they just won’t overeat. That’s really fascinating biology there, and I don’t really think people understand it yet, but that’s a different question.
+
+But this occurred to me that we had an opportunity to actually look at this in our study. So what we did was we just looked at the survey data from the 40 — at that time, I guess there were about 25,000 dogs in what we call The Pack. That’s the largest part of the longitudinal study. And we just asked a very, very conceptually simple question. If we bin the dogs by fed once a day versus fed more than once a day, are there differences in disease diagnoses? Now, this is all owner-reported, but in our primary survey instrument, the owners are asked to list all the diseases that their dog has been diagnosed with. So it’s pretty good, maybe not quite as good as a veterinary record, but pretty good.
+
+And we looked at, I think, 10 different age-related categories. And I didn’t think this was going to work, because I still don’t believe in time-restricted feeding, despite the data. No, that’s not true. I thought there was no way we were going to see anything here, but it was striking. In six of the 10, the dogs that were fed once a day had lower risk than the dogs that were fed more than once a day.
+
+Tim Ferriss: Just so I understand, when you say six out of 10 — 
+
+Matt Kaeberlein: Yeah, so things like cognitive function, kidney disease.
+
+Tim Ferriss: I see, I see.
+
+Matt Kaeberlein: So disease categories.
+
+Tim Ferriss: Six out of 10 disease categories.
+
+Matt Kaeberlein: Yeah. They were all going the right direction. In six of them, it was statistically significant, which, in my experience, is a really, really strong result, like that — 
+
+Tim Ferriss: Were the other four no discernible effect, or did they move in the opposite direction?
+
+Matt Kaeberlein: No, they were all going the right direction. They just didn’t all reach statistically significant.
+
+Tim Ferriss: Got it.
+
+Matt Kaeberlein: Yeah. So then the question is, is this causal? I don’t know. So again, this is an observational study. It’s also what’s called cross-sectional, so we only have one time point for each dog. Correlation does not equal causation, and you could think of plausible explanations here, right? So a dog fed once a day, I’m guessing, is less likely to be obese. Maybe that’s why the dogs fed once a day are at lower risk for a bunch of diagnoses, right? That seems pretty reasonable to me. So I don’t know that the time-restricted feeding is causal for this outcome.
+
+The other question is, of course, owners are thinking, “Should I change? I want my dog to be healthier. Should I feed my dog once a day?” My gut feeling here is that if your dog has been on, say, a twice-a-day feeding diet for several years, I wouldn’t change, like we didn’t change the diet for our dog. I would not try to take a dog that’s used to eating two or three times a day and be like, “Sorry, you’re getting one meal a day from here on out.” I think what needs to happen now is an actual directed study to try to understand the first question, which is, is it the case that dogs fed once a day are less likely to be obese?
+
+Tim Ferriss: Directed, you mean experimental?
+
+Matt Kaeberlein: Yeah, right. So instead of being just observational, do some sort of mechanistic, maybe clinical trial kind of study. We can through observation, in principle, answer the question, are dogs fed once a day less likely to be obese, because we could just go back to the owners and ask that, but then we really need to do studies to understand is there a real mechanism here connecting once-a-day feeding to health outcomes? And even if it’s just in about obesity, once-a-day feeding might be a pretty good strategy to combat obesity, at least in dogs. Humans, the problem with humans, of course, in dogs — 
+
+Tim Ferriss: Where do we begin?
+
+Matt Kaeberlein: Well, yeah. Humans are funny animals, that’s for sure. With dogs, you can control when they’re fed as an owner, right? Now, that depends a little bit on your ability to control yourself from giving them a treat.
+
+Tim Ferriss: So you’re saying I need a bigger cage for my kids?
+
+Matt Kaeberlein: But in humans, that’s hard. And here’s the other issue I have with the whole dietary restriction, nutritional aging, nutritional longevity stuff, is people pay no attention to the psychological consequences that go along with trying to practice caloric restriction or trying to practice time-restricted feeding or intermittent fasting. I’m not saying they’re bad for everybody, but I know a lot of people who’ve dabbled with these things and I would say some of the psychological effects aren’t great, right? But I think that comes down to the whole way that diet is integrated with our culture and our social interactions, and it’s hard to be hungry when you’ve got high-calorie, delicious-tasting food on every corner, right? So I think it does have an effect that we don’t understand and don’t pay much attention to.
+
+Tim Ferriss: Let’s zoom out a little bit and just survey the landscape of scientific research as it relates to, I’ll just use the term longevity for simplicity. What are the constraints right now, if any, holding this field back? Is it as simple as funding? If Elon Musk decided, “You know what? This seems like a good place to park some capital and put it to work. I’m going to dedicate 10 billion, a billion a year over the next 10 years,” does that, on some level, solve the problem, or are there other constraints preventing research from being done that would be, let’s just say, maximally valuable in the next five to 10 years?
+
+Matt Kaeberlein: Yeah. Great question. And we might get the answer to that. I don’t know if you’ve heard of this, Hevolution Foundation, and there’s a lot of — 
+
+Tim Ferriss: I have not. Hevolution?
+
+Matt Kaeberlein: Okay. Hevolution. It’s like evolution with an H. This is a foundation that is funded by the Saudi government, and some people have a lot of concerns about that, I personally have some concerns about that, but that aside — 
+
+Tim Ferriss: Why is it called Hevolution? Health evolution?
+
+Matt Kaeberlein: I think so, yeah.
+
+Tim Ferriss: Okay. Got it.
+
+Matt Kaeberlein: And a lot of the female scientists I know really don’t like that name.
+
+Tim Ferriss: Oh, he. Yeah, yeah.
+
+Matt Kaeberlein: Just saying, guys — 
+
+Tim Ferriss: Oh, I can see that.
+
+Matt Kaeberlein: — if you can change that name, you might think about it.
+
+Tim Ferriss: Another problem that China doesn’t have. [foreign language 01:18:27], it’s all the same. Anyway, please continue.
+
+Matt Kaeberlein: So in any case, they have said and announced that they will be putting about a billion dollars a year into this area going forward.
+
+Tim Ferriss: I’m embarrassed that I didn’t know this.
+
+Matt Kaeberlein: And this is a royal decree. I don’t know for sure. This is what I’ve heard. There have been two royal decrees in the last century and this is one of them. So we might find out.
+
+Tim Ferriss: So we’ll see.
+
+Matt Kaeberlein: One challenge, I mean, first of all, I would say it’s going to take some time, right? So if we just put the relative level of funding and we compare it to something like cancer research, right? So cancer research right now gets just from NIH about six billion a year, and that’s not DOD and other sources of funding. Biology of aging gets about 350 million, so it’s been minuscule compared to just cancer, right?
+
+Tim Ferriss: Where are all the billionaires who are terrified of dying? Because when I meet these tech magnates, they’re very eager to live to 120, but they don’t seem to be — 
+
+Matt Kaeberlein: No, I would say, I mean, I think first of all, we want to be realistic in what we promise people, right? Or at least I do. Some other people don’t.
+
+Tim Ferriss: I’m not trying to say anything about what you promise. It’s just what they want.
+
+Matt Kaeberlein: Yeah. Yeah, yeah. I mean, certainly, there have been lots of stories written about high net worth individuals funding research in this area, but what I would say is, it’s only been, really, I would say, within the last two decades that the research in the field has matured to the point where it legitimately should be getting the level of funding that cancer’s been getting for the last 50 years, right? Since the war on cancer was declared. And I got myself in a little bit of heat on Twitter for saying this, but I’ll say it again because I believe it, right? It’s funny because you get people working in the cancer field poking fun at the longevity field, aging research field, whatever you want to call it, and I’m like, “Look, when the war on cancer was declared 50 years ago, cancer was the second-leading cause of death in the United States behind heart disease.” Guess where it is today?
+
+Tim Ferriss: Number two.
+
+Matt Kaeberlein: Number two. So I would not throw rocks when you’ve been getting $6 billion a year, at least for the last 50 years. And I would also say, and I think we’ll find out if that level of resources was put towards targeting the biology of aging. The payoff is much, much greater. I mean, we can look at this in a lot of different ways, but one easy way to look at it, because the math is pretty easy, is what is the impact on life expectancy from curing cancer for a typical 50-year-old woman? Have you seen this before?
+
+Tim Ferriss: No.
+
+Matt Kaeberlein: What’s your guess? If I had a pill and I said, “This pill will cure all forms of cancer,” what’s your guess for life expectancy?
+
+Tim Ferriss: Okay. So we have a healthy 50-year-old.
+
+Matt Kaeberlein: Yeah, don’t overthink it. Population level.
+
+Tim Ferriss: Okay. What would her expected — 
+
+Matt Kaeberlein: What’s the average increase in life expectancy if we just got rid of cancer, took it out of the equation for all human beings?
+
+Tim Ferriss: Five years.
+
+Matt Kaeberlein: It’s pretty close. Three years. Yeah. Same thing for heart disease. If you do both, you get about seven years. So why is that? It’s because you didn’t do anything about kidney disease, Alzheimer’s disease, and all the other declines in function and diseases that go along with aging. So if you take a different approach and you try to target the root biology that is leading to at least a permissive state for all of these diseases, the potential to increase lifespan is much greater, but really, the potential to maximize healthspan is even bigger, right? Because if you only fix one disease, you’re not fixing all the other declines, whereas potentially, you could fix many, maybe all of these things at the same time. So we’ll find out, but I think the promise is much, much greater than it’s ever been from this disease for first approach.
+
+Tim Ferriss: Okay. So again, asking as an amateur in the kind of literal etymological sense of the word, like I love this stuff and I’m involved on some level as a funder with early stage science, what I have seen is not all, let’s call it sectors or area of research are in a position to make use of large amounts of capital, and it’s a bit of a chicken and the egg problem, perhaps, but are there other things that would need to happen for, let’s say someone’s listening and they say, “Great, this is what I’ve been looking for. I want to put $100 million to work because I have so much money that I make that up every two years anyway or every year,” is there a way for them to even do that meaningfully at this point?
+
+Matt Kaeberlein: Right. I think it’s a really important question, and again, I think we’ll find out. So I think the field as a whole, if this billion dollars a year actually materializes, one question is, will it be deployed in a efficient and useful way? That, we’ll see. But related to that is, can it be deployed in an efficient and useful way? In other words, are there projects where you could spend that much money? I think it will be hard, but it’s doable if researchers from outside the field are brought in, right? Because right now, it’s a fairly small pool of people who’ve been trained in the field, and I know that’s part of the goal with evolution, is to entice other people to come into the field. The place where if it was me — 
+
+Tim Ferriss: I’m sorry to laugh. The more I think about it, the more I’m like, “Wow, that is a very fascinating branding decision,” like they could have had a second meeting on that one. But yes, please continue. And now the billion, just also so I have a clear understanding, is that billion in part allocated to for-profit ventures?
+
+Matt Kaeberlein: Yeah. Yeah. It’s interesting. So this is my understanding and they may change it, but my understanding is roughly two-thirds will go to nonprofit as grants. They call them donations for some reason, but same things, what we know of as grants. And about one-third will go into investment. So that’s the way I understand it.
+
+Tim Ferriss: Yeah, great.
+
+Matt Kaeberlein: Yeah, I think that’s good. I mean, I think it’s good that they’re thinking about both the private sector and public sector, for sure.
+
+Tim Ferriss: What was the term you used for the area, aging research? Is that the way to put it, I suppose?
+
+Matt Kaeberlein: I call it all sorts of stuff, but yeah.
+
+Tim Ferriss: So if I think about my experience in science related to psychedelic compounds, broadly speaking, when we start to get into therapeutics, as I understand it, the FDA is very interested in the ability to scale and deploy a given therapy for significant number of patients in the population. So in other words, if the infrastructure or other doesn’t exist, for instance, the number of therapists required to administer compounds that entail a session that is four to 12 hours in length, there are a number of issues that need to be addressed before the FDA will, say, reschedule something or allow it to be prescribable. Has any of that cropped up with the aging research and compounds that are being examined, or because they are already in circulation, like rapamycin, that just doesn’t really exist as a problem?
+
+Matt Kaeberlein: So I haven’t heard that specific problem. Let me come back to FDA because I think there’s a lot of people in the field that have been thinking about this and there’s a lot of confusion around how you would actually get in what we would call a geroscience intervention. I haven’t introduced that term yet, but geroscience is the area of research that ties together the biology of aging with age-related diseases. And when you’re thinking about moving a drug into the clinic, you have to have an endpoint, a disease or an indication. That’s what FDA approves a drug based on, and geroscience is really the connector there. So there are lots of people thinking about that. I want to come back because you asked me what would I do if somebody gave me a billion dollars and I want to answer that question because — 
+
+Tim Ferriss: There are people listening who actually do have the capacity.
+
+Matt Kaeberlein: I do think there are a couple of big areas. You don’t have to give me a billion dollars, but where I would like — you could if you wanted to, though.
+
+Tim Ferriss: Here are my bank details in the Cayman Islands.
+
+Matt Kaeberlein: We’ll put the wire instructions up with the show notes.
+
+Tim Ferriss: In the show notes.
+
+Matt Kaeberlein: Have any of your guests ever done that before?
+
+Tim Ferriss: “Yeah, here’s an Ethereum wallet. Just trust me.”
+
+Matt Kaeberlein: Okay. Anyways, I think there are a couple areas where the field could benefit from a large infusion of money. One is actually in marketing. And what I mean by that is, I think that we as a field have never been very good at communicating with the general public and with policymakers around why this area is important, and we, broadly speaking, have been very bad at talking about the nonsense, right? The hype, the snake oil, and all that stuff. So I think a dedicated marketing plan with professionals for how do we communicate the importance of this research and this biology to the general public and to policymakers, and that’s not going to cost hundreds of millions of dollars, but I think if you put a significant amount of money towards that, you could have an outsized impact.
+
+The other area where I would put it are clinical trials. Clinical trials are expensive. Big companies are scared of moving into the geroscience, biology of aging space because they have yet to see a path to FDA approval for a drug to target aging. So if there was a lot of money available to accelerate that and create that path, then — big pharmaceutical companies are followers, right? They’re going to follow what has worked for somebody else, then they’ll come into the field. I think creating that path is important.
+
+And that’s really one of the reasons also why I pushed so hard for the rapamycin clinical trial in dogs. I thought rapamycin was our best bet, but there’s no guarantees. Clinical trials can fail even if your intervention is great. But I wanted to create a template that others could follow, and I think we’ve been successful at that. There are now a couple of companies that are actually moving forward with developing drugs and starting to think about doing clinical trials for aging in companion animals. So I think that same kind of template on the human side would be really valuable, and so really, I’d love to see three, four, or five big clinical trials in people targeting indications relevant for the biology of aging, and I think that you could spend a billion dollars doing that.
+
+Tim Ferriss: Do you have any suggestions for what those might look like within a timeframe that would be, I’m struggling for the adjective here, practical, right?
+
+Matt Kaeberlein: Yep. Absolutely. Yeah.
+
+Tim Ferriss: Because if you don’t know until someone’s dead, yeah, there are issues with awaiting, and not just awaiting those results but funding something for a period of time.
+
+Matt Kaeberlein: Absolutely. So, I mean, that’s the beauty, of course, of doing a clinical trial in dogs, right? We all know dogs age about seven times faster than people do. So you can do a lifespan clinical trial in a reasonable timeframe if you start with middle-aged dogs, and that’s exactly what we’re doing. You can’t do a lifespan clinical trial in people because instead of three years, it’s going to take you 21 years or whatever, roughly. So what would you look at? So there are a few strategies that people are taking. One is the kind of strategy that is being taken with the targeting aging, with metformin trial or TAME trial that I mentioned. That’s what’s called a comorbidity study. So it’s looking at frequency of age-related disease diagnoses and, specifically, the length of time that it takes from when somebody is diagnosed with one age-related disease before they get the second age-related disease. Now the conceptual advance with TAME, and I think why it’s potentially powerful is, they have gotten agreement from FDA to consider a collection of age-related diseases as one indication, one endpoint.
+
+Tim Ferriss: Like a syndrome X type of situation.
+
+Matt Kaeberlein: Yeah. What that then gives you is, sure, any one person may have a low percentage chance of developing Alzheimer’s disease or age-related cancer or kidney disease, but if you get diagnosis for any of those as your endpoint, then you have a much higher chance and it takes less time to do the study. That’s one approach, right. It’s still a disease-focused approach, but it’s a collection of diseases as opposed to a single out. The other approach, and I think that this could absolutely be done, is to look at age-related indications that have a shorter timeframe. Functional measures of aging, so you can look at a variety of functional measures of aging. One example would be immune function, right.
+
+There actually was a company that tried to do this. They were called resTORbio. They were actually working with a derivative of rapamycin at first, and they published two clinical trials where they showed that in older people of normal health status, I’m intentionally using that ugly phrase because I don’t want to say healthy older people because I think people don’t understand. When they think healthy, they think that it is fully functional. I’m a healthy 51-year-old as we’ve talked about; I am also a damaged 51-year-old, right? I’m healthy, I’m of normal health status, but I’m not fully functional. Anyways — 
+
+Tim Ferriss: An aging survivor.
+
+Matt Kaeberlein: That’s right. They did this study in older people who are functioning appropriately for their age, did not have any significant age-related disease. Two Phase 2 clinical trials showed that six weeks with a derivative of rapamycin-boosted influenza vaccine response. They went to their pivotal, they switched the drug, took out the rapamycin derivative, put in a different mTOR inhibitor that works by a different mechanism, and they weren’t hitting their endpoint. This is a little bit of a tangent, but it’s a fascinating story. They weren’t hitting their endpoint, which was patient-reported infections. The FDA told them that they had to go with patient-reported instead of laboratory-confirmed, which is crazy. In any case — 
+
+Tim Ferriss: That’s bizarre.
+
+Matt Kaeberlein: It makes no sense. But FDA felt that patient quality of life was more important than whether they were actually sick, I guess.
+
+Tim Ferriss: Oh, self-reporting.
+
+Matt Kaeberlein: Joan Mannick has a paper. Anyways. They weren’t hitting the endpoint. They were going to do two trials, one in the Southern Hemisphere, in the flu season and the other in the Northern Hemisphere. I think they got to the Southern Hemisphere and they got the interim results for the first half of the trial and they weren’t hitting the patient-reported endpoints. The board of directors voted to stop the pivotal clinical trial instead of spending the money on the second half. November 2019 was when that decision was made. I can’t help but think if they knew where the world was going to be five months later, they might have thought differently.
+
+Tim Ferriss: They might have funded it.
+
+Matt Kaeberlein: It turns out Joan has published now in an after-report that not every virus, but for several viruses, the people who got the mTOR inhibitor had much lower rates of significant infections over the next year.
+
+Tim Ferriss: How long did the administration last?
+
+Matt Kaeberlein: Six weeks.
+
+Tim Ferriss: Wow.
+
+Matt Kaeberlein: Yeah, six weeks. Then, I think it was a six month follow-up. Interestingly, there were three viruses. I can’t remember what the third one was. There were three that had strong effects. One was influenza, the other was coronavirus. It wasn’t COVID-19, because we didn’t know about COVID-19 when this study was happening. But I mean, imagine if we’d had a drug that you could take for six weeks and it would reduce the likelihood of severe outcomes and death by 50 percent.
+
+Tim Ferriss: Yeah.
+
+Matt Kaeberlein: It’s amazing.
+
+Tim Ferriss: That is spooky timing. I mean it’s — 
+
+Matt Kaeberlein: Yeah. I remember being at the, it was the GSA meeting in November when that was announced and Joan was there.
+
+Tim Ferriss: Who’s GSA?
+
+Matt Kaeberlein: Gerontological Society of America. Yeah. In any case, but I think this also, again, I know it was a tangent. I don’t actually remember how I got going on it, but I think it’s an important lesson for how valuable this kind of an approach could be, right. If you really could modulate the biology of aging, it will improve age-related immune function.
+
+Tim Ferriss: Yeah. We started with what you would do or how you would think about it if you received a billion dollars — 
+
+Matt Kaeberlein: Oh right, how would you do these clinical trials? I think that’s an example of a functional measure of aging that can be done in a reasonable timeframe, in a reasonable population size. The other one that I would really do is, or think about doing a series of clinical trials on, and certainly with rapamycin, a larger trial than what Joan’s doing is periodontal disease because the endpoints are just so great, right. I mean, these are endpoints that any dentist can do in an exam. If we have an effect there, I think it’s a really straightforward path to FDA approval if you can actually show that you’re having an effect on periodontal disease. It’s interesting because when we were first going down this path, we thought about spinning out a company to look at periodontal disease and aging. I still think I’m going to do it someday, but we talked to VC and you want to know the reason why they didn’t want to do this? VCs are always looking to get to no. Man, these guys drive me nuts.
+
+Tim Ferriss: I do want to know why they said no.
+
+Matt Kaeberlein: Because they were afraid that you couldn’t get the insurance companies to pay for the mouth. Which is true, right. Insurance billing is done differently than the rest of the body and I get why that’s a concern. I understand, okay, that’s a concern. I can’t believe if you had an intervention that reversed periodontal disease, you would not be able to figure out how to make money on that.
+
+Tim Ferriss: People would pay out-of-pocket.
+
+Matt Kaeberlein: Yeah. I mean — 
+
+Tim Ferriss: There are, I would say, a lot of people would pay out-of-pocket.
+
+Matt Kaeberlein: — it’s just crazy to me that, that’s why they torpedoed this whole thing is, but anyways, that’s another tangent. But I do think periodontal disease is a great clinical trial endpoint because we expect the effects to be seen relatively quickly and it’s not invasive. It’s not hard for patients to participate.
+
+Tim Ferriss: Yeah. I’m just imagining, if that were approved, overnight you’d have 200 million or 100 million people being diagnosed with periodontal disease be kinda like— At one point, I don’t know if you remember this, I track this stuff pretty closely. But at one point, almost all of the top sprinters in the world were diagnosed with narcolepsy because they wanted to use modafinil. Why? Because it’s a performance enhancer, but that’s a side note. Let’s talk a little bit about hype and snake oil.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: Which are strong ways to put it, but hype is a reasonable way to put it and closely related to this is how people fall for hype and snake oil. I think that undergirding some of that is probably a fancy way to put it is just a lack of familiarity with study design, with understanding absolute versus relative risk and things like that. But I retweeted a tweet of yours a while back that may be worth mentioning, which related to short-lived controls.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: Could you just describe this?
+
+Matt Kaeberlein: Sure.
+
+Tim Ferriss: Because I think it, at least for me was in retrospect so obvious when you pointed it out, it’s like the doorknob in The Sixth Sense, but you don’t notice it through the whole movie and I’m like, “God, there it was the whole time.” Could you just explain this and we’ll build off of that?
+
+Matt Kaeberlein: Sure. I think the first thing to say is this short-lived control, so falling for the hype can happen in different groups. The general public can fall for hype as it gets presented in this field in other places. But scientists are susceptible to this too, right?
+
+Tim Ferriss: Yeah.
+
+Matt Kaeberlein: I think this is an example of how scientists can fall for, I don’t even know that I would say it’s hype, but be misled by the way data is presented to believe something that isn’t as strong as it seems. This specific case refers to the fact that when we do an experiment in mice, let’s just start with mice for lifespan, the untreated group, so in a typical lifespan experiment, you’ll have a control group and then you’ll have say your rapamycin treated or whatever, metformin, whatever it is you’re testing. The untreated group, we know within some variation how long those animals should live, because lots and lots of people have done experiments, those kinds of experiments. It depends a bit on the quality of care that they get.
+
+Animals that are in a facility that has pathogens or is dirty or they aren’t getting good care are going to live shorter than animals that are well cared for. That makes sense. Just to put some numbers on it. Let’s say the normal lifespan for Black 6, which is the most common mouse strain used in biomedical research, is somewhere around 900 days. You will see lots and lots of experiments in the literature where the controls live 650 days and then the drug or whatever that was claimed to extend lifespan extended lifespan to 700 days. Often what happens is those experiments where a lifespan extension is claimed, starting from short-lived controls, don’t end up being reproducible. I think, I can’t prove this, but I think it’s because there was something about those controls that made them sick and whatever the intervention did, it was in that context.
+
+It doesn’t work when you try and do it in controls that lived as long as they’re supposed to. The other thing that’s important to recognize, and this is why I try not to do this. It’s hard not to because we’ve done it even in this talk, but try to recognize that when you present the lifespan extension as a percent, that’s a numerator and a denominator. It’s the difference between the treatment and control group divided by the control group. If that control group number is small, that makes the percent effect big. If you have short-lived control, something that would be maybe a five percent effect if the controls lived as long as they were supposed to becomes a 25 percent effect.
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Matt Kaeberlein: There’s two things going on there that I think tend to inflate the belief in a result when these experiments happen with short-lived controls. Of course, two things additional to say on that, you’ve got to actually read the paper to even notice this. I have found that many people who should be reading the papers are not actually reading the papers. They’re reading the abstracts, which don’t show this. They just show the percent. You have to recognize that these in fact were short-lived controls compared to what we would expect based on the literature.
+
+Tim Ferriss: I’ll give a quick plug for Peter again. He has a series of blog posts. He’s also done a number of Q&As or AMAs related to this, but “Studying Studies” is worth perusing. It’s worth taking a once-through as a reader if you want to develop a greater ability to separate signal from noise. True, I shouldn’t say true. Real from not real and just sloppy from cleaner science and certainly science communication. It’s worth taking a look at.
+
+Matt Kaeberlein: Yeah. Can I just stop you there? Because I think that’s really important, but it’s also really hard for people who haven’t been trained in the field to do that. I certainly recommend that people try to look at the primary literature and at least to the extent that you can figure out what’s happening. It’s really hard though. I remember when I first started trying to read papers and scientific journals, every other word, it’s like a different language.
+
+Tim Ferriss: It is.
+
+Matt Kaeberlein: The reason why I bring that up is because then what do you do if you don’t have that technical background? Well, you rely on communicators to give you that information, right. I think that’s where this field in particular has really done a terrible job because most of what I see getting communicated to the general public and usually it’s to a fairly educated portion of the general public is full of misinformation and exaggeration and sometimes outright falsifications. That’s where I really think we need to do better. I don’t know if that’s unique to this field because I know it happens in other fields as well, but I think this field is particularly bad at that. I would really like to see the influencers, for lack of a better word, not you.
+
+Tim Ferriss: Because he’s winking at me right now.
+
+Matt Kaeberlein: You are an influencer, but you don’t typically post about the latest and greatest longevity interventions correctly.
+
+Tim Ferriss: Super food. Sign up for my free e-book.
+
+Matt Kaeberlein: But I would really like to see, especially those who have scientific credentials, do a better job of communicating the excitement around what’s happening and the reality of what’s happening without all of the exaggeration. I’m going to use that word because it’s nicer than the other word that I’m thinking of.
+
+Tim Ferriss: Okay. There’s a lot that I want to build off of in what you just said. Related to the short-lived controls and please call me out if I say anything stupidly, which I am prone to doing when I wade into these areas.
+
+Matt Kaeberlein: Has anybody ever actually done that to you? Like, “That was stupid.”
+
+Tim Ferriss: Well, they’ll correct me. They’ll correct me. They may not berate me and hit me with a rolled up newspaper, but they will say, “Well, that’s one way to put it, but here’s another way to think about it because you said it like a complete idiot.”
+
+Matt Kaeberlein: All right. My filter’s on then.
+
+Tim Ferriss: All right. It’s important also to look at the condition, in some cases, comorbidities in the group that is being treated when you’re looking at percentage or absolute changes. What brings this to mind for me is actually metformin. I’m not familiar with the literature to the extent that you would be. But I remember speaking with someone, I would certainly consider an expert with respect to metformin, and we’d spend some time together. His perspective was for, say, me, that it would not make sense for me to take metformin because if I’m watching my diet and I am doing resistance training and so on, that the expected value of that the delta would not be worth ingesting another pharmaceutical.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: Which is part of the reason that I maybe unfairly took it off of the list of candidates when I was asking you for second and third place. Coming back to the hype, hyperbole, et cetera. I’m not automatically putting this in that category, but it seemed like you had a lot of good things to say about NAD precursors. Why not do infusions? Why not try to replenish NAD?
+
+Matt Kaeberlein: Okay. All right. Let’s touch on metformin first and then we can come back to it because NADs — 
+
+Tim Ferriss: We could spend two hours on that alone.
+
+Matt Kaeberlein: Okay. I don’t want to though. Metformin’s really interesting, right. The reason why I wouldn’t probably put it at the top of the list. I know I wouldn’t put it at the top of the list in dogs, is in mice, metformin doesn’t actually reproducibly extend lifespan. It depends on the strain background. It does seem to work in a very short-lived, cancer-prone strain. But outside of that, not really. It’s not in the same category of things like rapamycin or acarbose or things that robustly and reproducible extend lifespan. In people, this is where the data is interesting, because definitely if you’re diabetic or metabolically compromised, you get a mortality benefit from metformin.
+
+There is a hint, at least in certain populations, that diabetics taking metformin may have a mortality benefit compared to non-diabetics not taking metformin. That’s the best argument from a mortality perspective in terms of testing metformin in people. My intuition aligns very well with what you described in that I don’t personally think there’s a high likelihood that metformin is going to be beneficial for people who are not metabolically compromised and eat a relatively good diet and are active. We have a friend joining us.
+
+Tim Ferriss: Molly came over.
+
+Matt Kaeberlein: That’s my feeling. The other thing is, there have been a couple of reports. Another one just recently suggestive, I would not say it’s rock solid, but suggestive that metformin may actually counteract some of the benefits of resistance training. That’s another reason why I wouldn’t for myself really consider taking metformin.
+
+Tim Ferriss: All right.
+
+Matt Kaeberlein: Okay.
+
+Tim Ferriss: Metformin, check. NAD or NAD precursors.
+
+Matt Kaeberlein: NAD is super complicated. The first thing is, NAD itself. Well, so in order to take NAD, you either have to do it as an infusion, or apparently I’ve heard you can inject it into your butt. I’ve never done that.
+
+Tim Ferriss: Boof, Boofing NAD.
+
+Matt Kaeberlein: Yes. So—
+
+Tim Ferriss: Boofingnad.com folks. Get a 10 percent discount, discount code, two pairs.
+
+Matt Kaeberlein: Is that [inaudible 01:47:33]? 
+
+Tim Ferriss: No, I’m kidding. 
+
+Matt Kaeberlein: Promo code, Tim.
+
+Tim Ferriss: I get a half percent profit share, but don’t read the fine print.
+
+Matt Kaeberlein: So that’s not for me, but also I think there is a question even whether or not intravenous NAD or NAD injections give you a real boost in bioavailable NAD in cells and tissues. The same thing can be said about the NAD precursors. You alluded to this that it’s not clear how stable they are. There have been questions around the companies that are selling them, even the people in the field who are supposed to be the experts on these molecules and there are two that are commonly talked about and studied, nicotinamide riboside and nicotinamide mononucleotide. Even the people who are supposed to be experts in those molecules — 
+
+Tim Ferriss: NMN would be [inaudible 01:48:23].
+
+Matt Kaeberlein: NMN, sorry. Yeah.
+
+Tim Ferriss: Oh no, I’m just — 
+
+Matt Kaeberlein: NR — 
+
+Tim Ferriss: Because people might recognize it.
+
+Matt Kaeberlein: NR versus NMN. Even the experts can’t agree with each other about them. One side will say the other one’s not bioavailable. The other side will say, the other one — it’s like, come on guys. This is a solvable problem, scientifically. That gives me some skepticism. The other thing is, we tried some experiments in my lab with both NR and NMN and we never got it to work. I know other people do, but it does make me think that there are experimental details that are important. Like, do you have to keep it in the refrigerator? Can it be in the mouse food for 24 hours before you give it to them? Right. Are there some things that we don’t understand about why it works sometimes and why it doesn’t work other times that need to be figured out?
+
+Then I think there are still questions about, are they useful? That’s a different question, right? Again, the data is mixed. There was one paper that had a short-lived control problem where nicotinamide riboside was claimed to extend lifespan. The Interventions Testing Program tried to reproduce that, and they couldn’t at any of the three sites. Does NR extend lifespan in mice? Maybe, but probably not. Nobody’s done an NMN experiment yet that I know of for lifespan in mice. It’s striking how much attention these molecules have gotten when the actual body of evidence, I wouldn’t say it’s weak. I mean, there is smoke there. There’s a lot of smoke there, but it’s not clear that there’s much fire yet. I’m just waiting to see how it plays out.
+
+Tim Ferriss: All right. Next up for examination, resveratrol.
+
+Matt Kaeberlein: Oh, God.
+
+Tim Ferriss: This might be a helpful place also because people who have attempted to educate themselves, let’s just assume that they’re not going into studies in the fields of aging, longevity, extending healthspan or lifespan are probably going to come across the sirtuins.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: If maybe you want to tackle those two, I think it’d be helpful to folks.
+
+Matt Kaeberlein: Sure. I’ll start with sirtuins. Sirtuins are a family of proteins that are named after SIR2, and that’s a yeast protein. This was first discovered in budding yeast. Sirtuins are what are called, this is a little bit of a technical term. They’re called NAD dependent deacetylases. There are a couple of other activities that they can do as well, but the NAD dependent part is the important part here. This ties back into the NAD precursors. What this means is that their activity uses NAD, and unlike many of the reactions, the metabolic reactions that NAD is used for, sirtuins consume NAD. What most metabolic reactions do is they take NAD, the oxidized form and convert it to NADH, the reduced form. That can happen in the cycle, right. That’s easy. Sirtuins actually break down NAD. You actually lose NAD when sirtuins are active. They require NAD and this gets back to the decline in NAD activity with age.
+
+As NAD levels go down, the prediction is that the activity of sirtuins go down and sirtuins do a whole bunch of stuff. It’s way beyond the scope of this conversation to try to talk about what people think they know about what sirtuins do, but sirtuins got very popular in the aging field. That really goes back to my graduate work. The first project I had in Lenny’s Lab was studying the yeast SIR2. At that point, we didn’t know what it did. We didn’t know what the activity was. We had a reason to think it might be involved in aging. My first project was to overexpress SIR2. I’ve just put a second copy of the gene into the cell. We found Mitch McVey and I did this. He was a graduate student at the same time. We found that, that was enough to extend lifespan. That’s how sirtuins got started in the aging field. I’m not sure whether I deserve credit or blame for this. I’m pretty sure I deserve both.
+
+Tim Ferriss: You mean, as your thank you for learning that if I drink more red wine, I’ll live longer?
+
+Matt Kaeberlein: There would be no conversations around sirtuins and aging, I don’t think, if that experiment hadn’t been done. In any case, what really got people interested though, was when Heidi Tissenbaum, who was a post-doc in the lab, showed that if you took the worm version, this is C. elegans, which we touched on earlier, took the worm version of SIR2, which is called SIR-2.1 and overexpressed it in worms, you could extend lifespan. Then other people showed the same thing in flies. At that point, I think everybody got excited that this may be a new family of enzymes that affect aging. This might tie into a topic that you might want to talk about. They affect the epigenome, the histone deacetylases are epigenetic. Histone acetylation is an epigenetic mark, which is also interesting in the context of aging.
+
+That’s why everybody got excited. Then I don’t know how many hundreds of millions of dollars have been spent trying to prove that the mammalian sirtuins, and there are seven of them, SIRT1-7 or sirtuin 1-7, are important regulators of aging. There’s one case, maybe SIRT6, maybe is important for lifespan. The others have just completely fallen flat. That’s why I think there are some people who are very dismissive of sirtuins and I’m not in that camp. Sirtuins play a really important role in biology, and they actually, some of them function in the same network as mTOR. My view is, they just don’t seem to be very good nodes in that network for having the effects that we want on longevity, but it is striking how the entire field or a big chunk of the field was led down this path of sirtuins being the center of the universe. There was never ever evidence to support that. I think most people have moved on, but they still get a lot of resources towards them. That’s sirtuins.
+
+Tim Ferriss: I also wondered, just a quick side note, and then we’ll get to resveratrol. How much of that memetic spread and momentum was because sirtuins are easy, this is going to sound stupid, but easy to say, compared to a lot of the terms that we’ve used in this? There’s no right answer.
+
+Matt Kaeberlein: I don’t know.
+
+Tim Ferriss: It’s easy for a lay audience and for people to repeat.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: I’ve, anyway, I’ve — 
+
+Matt Kaeberlein: It’s an interesting idea. Yeah. I don’t know. I mean, the question of why some ideas catch on and take over is fascinating and that happens in science all the time.
+
+Tim Ferriss: Yeah.
+
+Matt Kaeberlein: I do absolutely remember meetings though where it was 50 percent sirtuin talks. That has stopped, right. But for a while, that was the case. Okay. But I do want to say, I have not given up on sirtuins as therapeutic targets for aging. I just haven’t seen anything yet that makes me convinced that, that’s a useful strategy, but they probably are therapeutic targets for something. I mean, they do play important roles in biology. I don’t want to make it sound like that. Resveratrol, right. This is a complicated story. Resveratrol is of course the molecule from red wine, that’s how it got popularized and famous. Why are you smiling like that?
+
+Tim Ferriss: I’m sorry. I’m smiling, because it was just hilarious to me how quickly the motivated reasoning in the media converted it into, your wine habit is justified.
+
+Matt Kaeberlein: Absolutely.
+
+Tim Ferriss: Not only is it justified, you should drink more red wine.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: Anyway.
+
+Matt Kaeberlein: Yeah. I’m going to digress. You just tell me if I’m getting too far in the weeds, but I think it’s useful to go back to where this all started, right. Resveratrol has been around forever. It is a natural product of polyphenol found in the skin of grapes. That’s why it ends up in wine, also found in other plants. But it’s been studied for a long time in pharmaceutical science. In fact, I only learned this after we were working on resveratrol, but it turns out that resveratrol has come out of probably thousands of screens at pharmaceutical companies for different activities. It is probably one of the dirtiest drugs that are out there. I don’t mean that in a disparaging way. This is a technical term. Okay. A clean drug means it has one biochemical target and one only.
+
+Tim Ferriss: Ah, promiscuous.
+
+Matt Kaeberlein: Yeah.
+
+Tim Ferriss: Yeah.
+
+Matt Kaeberlein: Rapamycin is an extremely clean drug from that perspective. A dirty drug binds to a whole bunch of stuff and has all sorts of effects, right. It’s hard to predict and it turns out resveratrol is extremely dirty and it’s come out of lots and lots of pharmaceutical company screens to the point where they just ignore it if it comes out. This has been studied extensively, how this got into the aging community was a study done by David Sinclair’s Lab. I think it was published in 2003 where they reported that resveratrol was an activator of sirtuins and specifically yeast SIR2, and mammalian SIRT1. Two specific sirtuins, I think they looked at in that paper. They reported that resveratrol could increase lifespan in yeast.
+
+That didn’t, I mean, it was published in Nature, which is one of the high profile journals, but that didn’t get the attention of the media. The subsequent study, where they showed that mice on a high-fat diet lived longer if they were given resveratrol was the one that started the media firestorm. David started a company called Sirtris, again, playing on the sirtuin brand. They were very successful at marketing the story that resveratrol was an activator of sirtuins. We would test other drugs like resveratrol to activate sirtuins, and we would have effects on longevity and healthspan. That was the story there. Then the fact that resveratrol is in red wine, of course, I mean — 
+
+Tim Ferriss: Gasoline on the fire.
+
+Matt Kaeberlein: Look, if I was going to pick a drug that I wanted to sell as my longevity drug, it’s hard to pick one better than the one that is found in red wine. That’s a great story. Anyways, how do we get from that to where we are today, which is pretty much nobody’s paying attention to resveratrol in the field. In fact, it’s funny, because I was at the American Aging Association Annual Meeting just last month and somebody asked me about resveratrol and I looked in the abstract booklet and the term was there once. One person had a poster on resveratrol and the phrase was, “The resveratrol-treated animals were no different than the controls.” I think the field has moved on, but so how did we get from there to here?
+
+My piece in this story, which is a small piece in the story, but at about the time between when the yeast paper came out and the mouse paper came out, Brian Kennedy and I were testing a hypothesis that caloric restriction was working through SIR2, so specifically in yeast. That was the model that had been proposed and we were testing that and we had some evidence that argued against that. We could show that we could get rid of SIR2 and still get lifespan extension from caloric restriction. We had read David’s paper and we thought, this would be a really good tool using resveratrol to test this a little bit more, because we could use it as a drug to activate SIR2 and see what happens if we combined that with caloric restrictions. That was my only rationale for studying this.
+
+Tim Ferriss: This would be IV injection?
+
+Matt Kaeberlein: No, no, this is just cells on a plate.
+
+Tim Ferriss: Got it. I see. Oh, I’m sorry.
+
+Matt Kaeberlein: Yeah. So this is really, really simplistic. And so we tried that and we could not get resveratrol to do anything to the yeast. They didn’t live shorter, they didn’t live longer. We tried all sorts of doses. We tried keeping the plates in the dark. We tried everything we could think of. Talked to David, tried to get an explanation from him. We couldn’t get it to work. So then we started asking, “So why can’t we reproduce this lifespan extension?” And I will say the lifespan extension that was reported in that first paper was huge. I mean, it was 70 percent, which is a big number with normal lift controls. It was hard for me to imagine that that was wrong because you can’t be wrong by accident by that much.
+
+Tim Ferriss: Just the amplitude, yeah.
+
+Matt Kaeberlein: The statistical likelihood that you would be wrong by that much is very low. So we started trying to figure out why couldn’t we reproduce this. And so we did a whole bunch of painstaking biochemical experiments, where we finally figured out that resveratrol was not activating SIR2 in the cells. That’s called in vivo. But it could activate SIR2 and SIRT1 towards a very short peptide. And this turns out to be the peptide that they used in that first paper where they put a — this is again a little technically complicated, but they basically put a chemical group on the end of the peptide. And it was that chemical group that changed the confirmation so that SIR2 could be activated towards resveratrol.
+
+Now, no proteins in our body have that specific chemical group on them. So that explained to us why resveratrol was not activating SIR2 and extending lifespan in yeast. I still can’t explain how they got the lifespan extension that they reported. I’m not even going to try, but that explained to us why we couldn’t see anything in yeast. It also left open the formal possibility that maybe there are some proteins in the cell that looked structurally like this chemical moiety and that resveratrol could activate SIR2 and store it as that.
+
+Tim Ferriss: Was that word you used? Moeity?
+
+Matt Kaeberlein: Moeity, yeah.
+
+Tim Ferriss: Is that Yiddish?
+
+Matt Kaeberlein: It’s just a group. I don’t know. It’s a word I learned at some point in graduate school, it’s a chemical structural group. Great word. Yeah.
+
+Tim Ferriss: Lawyers did a number with me, recently.
+
+Matt Kaeberlein: So I think we were pretty appropriate in the title of, so we said resveratrol is a substrate specific activator of SIR2. It just turns out the only substrate we could find was this artificial one that only works in a test tube, but maybe it works in some cells sometimes. So there have been a lot of back and forth arguments back and forth. I was like, I’m done. I want nothing to do with resveratrol after this. But other people argued about it.
+
+But the one thing I will say, and again, it’s hard to close a door. Once people believe that something is true, it takes a long time to convince the field that that is not the case. I think we’re there now. So there was a meta-analysis done relatively recently looking at most, I won’t say all, but most of the published studies where resveratrol has ever been tested and it’s the largest database of aging experiments that’s out there. And asked the question, if we look across all the organisms and all the experiments, what is the consensus? And the consensus is no effect.
+
+So every experiment that’s in this database, you look at the effect of resveratrol and it’s zero. And that’s dozens, maybe hundreds of experiments. So I think the story is told and yet, I really didn’t want to call David out on your podcast, but I’m going to call this one thing out. He still posts about resveratrol and I’m like, “Look, man, I would stop if I was you. This is done.” Now the other thing I’ll say, resveratrol does have biological activities. I mentioned it is a dirty drug and there are epidemiological studies. There aren’t any of them that are particularly good in my view, but there are epidemiological studies that suggest that sure, people who do megadosing of resveratrol may have some benefits, probably not lifespan, but maybe for cardiovascular disease or something like that. So I’m not saying resveratrol isn’t going to do anything, I’m saying it seems clear to me that it doesn’t affect the biology of aging robustly and maybe not at all.
+
+Tim Ferriss: Well, let me add a layperson’s resveratrol story. This will be very short, but I became somewhat interested in resveratrol in 2008 when I was initially working on The 4-Hour Body, long time ago. Back when I had hair. And I became very interested primarily in the potential endurance or purported endurance enhancing effects. And I have terrible, terrible endurance. I will leave it at that. I have some funny stories in The 4-Hour Body. It related to working with sports scientists who did muscle biopsies and looked at my citrate synthase and so on. It’s quite funny. It turns out that I’m below Homer Simpson in a number of them. Tragic funny, that kind of crying clown kind of funny. But the entire process of reading into resveratrol led me to start using it. And two things came up.
+
+Matt Kaeberlein: How many bottles a day? Of red wine?
+
+Tim Ferriss: Oh no, no. Cases. How many cases of red wine? So I actually, I ended up purchasing a supplement and ended up consuming most of each bottle each day. I mean, just because of the dosing regimen involved. There were two things that came of it. Number one, and I can’t remember the name of this. I did put it somewhere on my blog or in the book, but there was some type of filler used in the capsules that also had a secondary use as a laxative. So I very unfortunately ended up feeling like I was preparing for a colonoscopy. It was terrible.
+
+Secondly, once I figured that out and modified the supplier, I was tracking loosely conversations on something that was called, it was either the 500 Club or the 500 Forum, something like that, and it was a bulletin board for people who had been taking 500 milligrams per day, I want to say, of trans-resveratrol. And after a few weeks, somewhere between week three and week eight developed, and this is anecdote, obviously plural of anecdote does not equal data or study, but I developed incredible joint pain in my elbows. And it was the only new variable that I could pick out in my regimen and went into the forums and found a lot of examples of people complaining of joint ache.
+
+Matt Kaeberlein: Interesting. Yeah.
+
+Tim Ferriss: Anyway, just as a side note also to underscore that you don’t always get a biological free lunch with unlimited upside and no downside.
+
+Matt Kaeberlein: You never do. I mean, I think that’s something that’s important to appreciate. There are always, anything you do in a complex biological system and human beings are extremely complex, is going to have unanticipated consequences. Now it may be possible that you could get a longevity intervention that has no significant side effects, and I guess depends on what you mean by significant. I’m skeptical — 
+
+Tim Ferriss: Resistance training.
+
+Matt Kaeberlein: I’m skeptical. Yeah, right. Well, there are a lot of side effects to resistance training. My legs are sore right now. In terms of taxes to be paid, it seems reasonable. So, but yeah, I think again, that’s the challenge with these supplements and like I mentioned, this paper was published in 2003. So 20 years it’s taken to clean this mess up and it’s still not cleaned up. And there are still a lot of people, like I’m sure I will get some hate mail from saying what I said about resveratrol, although I think everything I said is accurate in terms of the data. There are lots of people who passionately believe in resveratrol and the data are what they are. I’m not going to apologize.
+
+Tim Ferriss: So I mean, it seems like we could almost think of these interventions as a— I’m going to try to imitate Peter Attia to the best of my ability and pull out my McKinsey hat, which never worked for McKinsey, but let’s say we had a two by two matrix.
+
+Matt Kaeberlein: They gave you a hat? Oh.
+
+Tim Ferriss: And you have doesn’t work, does no harm, does work, does no harm. Then you have doesn’t work, does harm, does work, does harm. Does that make sense? In other words, you could take something that has no downside, in which case, fine if it does no harm, but there are often, as you pointed out, if not most of the time, these trade offs and or unintended side effects. And take intravenous NAD as an example. So I did just out of curiosity, because a number of high level athletes were badgering me about NAD and claiming all these benefits.
+
+So I was like, okay, fine. I’ll do a series of say five infusions, these IV sessions. And for anyone who hasn’t experienced this, I think it’s a fair description. If you imagine when you are getting not necessarily a push, but an IV drip with NAD, it feels to me like a combination of being hyper caffeinated in the sense that you get that creepy crawly fidgety tweaker feeling, but without any of the upside. And then you feel like you have André the Giant sitting on your chest. There is a pressure and sort of smothering feeling. And I observed this in everyone in the room. It wasn’t just me. I mean, it can be a highly, highly, highly uncomfortable experience. And the reason I bring this up is not to say people should never do it. It’s just like, okay, there are costs. And that should be, it seems, part of the calculus.
+
+Matt Kaeberlein: Yeah. And I would agree with that completely. And this is something I try to communicate, is that we don’t know all the costs and there could also be unanticipated benefits to it. But I think trying to take an open-minded view of the potential side effects, actual side effects, potential reward in all things is important. And I actually think this is really — I mean, this also ties into, I think, one of the challenges we face in the field of trying to bring geroscience or aging biology mainstream from a clinical perspective is most physicians are trained to do no harm. And to not to treat people who aren’t sick. And I understand the rationale for that, but in the context of aging, we know exactly what the consequences, well, maybe not exactly, everybody experiences different problems, but we know ultimately what the consequence is going to be of doing nothing.
+
+But that never gets taken into the equation of what is the risk, reward considering that there’s a risk of doing nothing? There is absolutely a huge risk of doing nothing to maintain our health as we get older. But people don’t think of it that way. And physicians don’t think of it that way. And so we have to start to change that mindset to weigh that into the equation. Sure, rapamycin may have some low level of risk, but there’s the possibility that it is going to increase your healthy lifespan by 10 percent. How much risk are you willing to tolerate? You ask the average person, they in their head can do that maybe to some extent analysis, but a physician immediately, most physicians, I shouldn’t say this, it’s a generalization, but many are very resistant to the idea of doing anything for somebody who’s not sick to keep them well. And we have to change that.
+
+Tim Ferriss: Yeah. Do you think that’s a liability issue and therefore it could be fixed with some degree of change with respect to — I don’t know how you would catalyze it, but defensive medicine?
+
+Matt Kaeberlein: Maybe, maybe. Yeah. So I think that could be part of it. I don’t think most physicians, and again, I guess these are just conversations I’ve had. So this is my impression. But I don’t think most physicians at least think of it that way. I think it really comes about more to the training that they receive, the concept that you should do no harm, which I mean, I understand that concept, but they’re never trained to think about what the harm of doing nothing might be. And I think there is no component of a medical school curriculum yet that educates medical students on the fact that the biology of aging is modifiable. And that’s a relatively new concept.
+
+For a long time, everybody thought you couldn’t do anything about it. I mean, everybody recognizes that age is the greatest risk factor for cancer, heart disease, kidney disease. Go down the list, there’s 20 of them, but everybody thought you couldn’t do anything about it. Now you can, or at least we’re close. We know we can modify aging biology in laboratory animals. So starting to get that training will I think, change the mindset. I’m sure there is a liability component where physicians are hesitant to do anything that will risk malpractice. I actually think that’s probably a pretty tractable problem. I think again, as people become more educated in this area, insurers will recognize that from a cost perspective, if you can keep people from getting sick, that probably is economically more viable than paying tens of thousands of dollars for the last three days or eight weeks or whatever of their life.
+
+Tim Ferriss: The balloon payment in the last two weeks of life.
+
+Matt Kaeberlein: Yep.
+
+Tim Ferriss: Let me, if I may, zoom out a little bit. I want to take a closer look at science overall. This is going to sound strange to put it that way, but also something that strikes me as we’re talking, and I have notes in front of me of course, but you do not seem — tell me if I’m off here, you do not seem to have an aversion to conducting studies that fail to replicate or turn out with — what’s the right terminology? A null effect.
+
+And I want you to correct my terminology, but there is a positive publication bias in science, and I’d love for you to just maybe speak to how you think about science and the purpose of science. What it can and cannot do. Maybe the way people get confused by it. Because the type of work that you’re describing and that you’ve done is so, so important. And if people are afraid of rejection, whether that’s by peers or by journals, so they go after the shiny new object, hoping to show a huge amplitude of effect with the new intervention. That has all sorts of negative implications. So anyway, that’s a lot of talking.
+
+Matt Kaeberlein: I’ll start to try to address that. I think there’s a lot to potentially unpack there, but I think one way to think about this and this is something that I have thought a lot about throughout my career and especially as I become more senior and I’m training people. My view is, especially in biology, but I think this is true in almost every scientific discipline that our goal should be to develop the best model that we can for whatever it is that we’re studying. That could be a biochemical pathway, or it could be a model of aging, or usually it’s going to be somewhere in between. The best model that we can to explain the data that we’ve got at that time.
+
+And then what we should do is we should ask, okay, where are the weaknesses here? Where are the places that we have less certainty? And can we design an experiment to break the model? So the first thing to recognize, I’m joking, well, I’m not joking, but I say it in a little bit of a harsh way, but the first thing I tell everybody in my lab when they come to the lab or they’re trying to think about a project and what’s going on, I’m like, “Your model’s wrong. Deal with it. Your model is an imperfect representation of reality. Now go figure out where it’s wrong.” And I think that’s exactly the way we should be doing science if we really want to make the most progress. Because the only way you’re going to get closer to reality is if you figure out where the model doesn’t fit.
+
+So that is the way I train everybody in my lab to approach their research and to be skeptical of what they believe. And I think that’s the most, I was going to say the right way, but I don’t want to make it have a moral connotation to it. I think it’s the approach to science that is most likely to get us to where we want to be, which is to understand whatever it is that we’re studying. The problem that I see is the reward structure in certainly biomedical research is set up to do the opposite of that, which is to decide what the answer is and go do experiments to prove the answer. And I have seen over and over and over in my career people who ignore data that doesn’t fit their model because well, the model’s right. And it’s much easier to publish your paper in high impact journals if you only show the data that fits your model. I mean, it’s just a fact.
+
+And so I have real concerns that that’s partly why the field gets led astray with things like resveratrol, because people ignored the data that didn’t fit the model and they only published, or what sometimes happened is people will do the experiment 10 times. Nine times it won’t work. They’ll publish the one time that it does. That’s a version of ignoring the data that doesn’t fit the model. That is rampant in science. I mean, I hate to say it, but it is everywhere. And in fact, as I’ve alluded to, the reward structure encourages that, and people who do that tend to be successful in terms of scientific publications and getting grants. And then they train their postdocs and graduate students to approach science that way.
+
+So I think that’s one of the big problems in science right now. I really don’t have a great solution. I wish I did. And I also want to say, I said, I don’t want to make this about a moral sort of thing, like it’s right or wrong. I honestly don’t think that many, maybe most of the people who do that, recognize what they’re doing. I think that’s the way they’ve been trained, but I think it’s a problem. And I think it does tend to lead us down wrong roads and leads to a lot of waste. And maybe that’s part of the irreproducibility problems that keep cropping up that everybody knows about. So that’s one thought that I have around that approach. And I do have to say, I’ve also thought of this. I can’t say that I’m necessarily doing the people in my lab a favor by training them to do that kind of science because it makes it harder. Makes it harder to be successful.
+
+Tim Ferriss: Who are some scientists, and this is always a tricky question because people inevitably interviewees will say, oh, I just thought of another three or four, five or 10 people I should have mentioned. But if you were to just off the cuff name a few researchers, scientists, whatever category you might want to put them in, who you find interesting to follow or who other folks might find interesting to follow, who comes to mind?
+
+Matt Kaeberlein: Yeah. So I think one of the things that will impact this is exactly what we were just talking about. People who do what I consider very high quality work. And so I would say one of my long time collaborators, who’s also one of my best friends, his name is Brian Kennedy. He leads the Ageing Research Institute at National University, Singapore. Very broad view of aging. I think somewhat similar to me, I would say I have a pretty broad view of the field and does great work in everything from purely basic all the way through to now doing stuff in the clinical world. Anne Brunet at Stanford is another person who is absolutely fantastic, does very cutting edge research on all sorts of stuff, but particularly in the area of stem cell biology and regeneration.
+
+Tim Ferriss: How do you spell her last name?
+
+Matt Kaeberlein: B-R-U-N-E-T. Yousin Suh at Columbia, who I mentioned earlier, is doing this rapamycin study of ovarian function, and she’s unique. So she did a lot of work with [inaudible] on genetic associations with longevity, but she was one of the few people who actually tried to take a functional approach to that and go beyond just figuring out, okay, this gene seems to be correlated with, say centenarians, to look at the specific variant and try to figure out functionally, what is that variant doing? And she’s really a master at adopting the very most cutting edge technologies and applying them.
+
+Tim Ferriss: Fantastic. Thank you. And we’ll look into all of those and we’ll put those in the show notes, at tim.blog/podcast as well. Matt, there are a million other things we could talk about, but we’ve been going now for almost two and a half hours. This is probably a good place to begin to wind down. And if people would like to hear more of these types of conversations about — I’m still struggling to use the right term, what would you say?
+
+Matt Kaeberlein: We need to come up with a word. It’s hard to know. I mean, I like geroscience, but it’s a little too techy maybe. But I think it does capture, like I said, that interface between aging biology and what we’ve been trained to care about, which is disease. So I like that term and I think it fits, so I’m going to stick with it.
+
+Tim Ferriss: I’m going to go with geroscience. If you’d like to hear more conversations like this, perhaps a round two with Matt at some point, related to geroscience and so on, because there is so much noise. There’s so much noise, so much bullshit. I went to get some backup batteries for this recording device. And he pulled up this magazine that was staring you in the face in the newsstand. You’re like, I can’t go 20 steps without something like this staring me in the face. And it was just some nonsense that had been thrown together to sell magazines. If you’d like to hear more, please let me know on Twitter. Matt, is there anything else you would like to say, point people to in terms of projects or anything else, requests of the audience you’d like to make? Anything at all?
+
+Matt Kaeberlein: Yeah. Two things. So one, if you have a dog and you’re not part of the Dog Aging Project, please go to the website, dogagingproject.org and nominate your dog to participate. We are absolutely still looking to enroll dogs, both in the pack and in the clinical trial. The thing I want to say is, I don’t want to end on the, there’s so much noise and so much hype. It is true. There’s also a ton of reason to be super excited about the biology in this field. And there is so much fantastic work happening in the field and exciting. And some of the interventions that we talked about, new stuff that people are discovering around stem cell function and circulating factors and senescent cells that I think are targetable, not only the new science, but also potential therapeutics, and then some potential moon shots.
+
+So we didn’t talk about epigenetic reprogramming and that is a whole topic on its own. There is a lot of noise and misinformation and exaggeration around epigenetic reprogramming, but it’s also an area that I think has a lot of promise. So I want to leave your listeners with the knowledge that there is a lot to be optimistic about. And I know it’s hard sometimes to separate the noise from the signal. There’s a lot of signal here too. And I would love to come back and do a deep dive on the signal at some point.
+
+Tim Ferriss: Absolutely. Oh, cliffhanger. The car, literally it’s half off. Epigenetic reprogramming will have to wait for round two, folks. So let us know. If you care, say something on Twitter. Never said that before in my life. All right. People can find you, Dr. Matt Kaeberlein on kaeberlinelab.org, on Twitter, mkaeberline. I’m going to spell that. M-K-A-E-B-E-R-L-E-I-N. We will link to everything in the show notes so that people can find it all in one place at tim.blog/podcast. Thank you, Matt, for taking the time.
+
+Matt Kaeberlein: Thank you. It’s been a blast.
+
+Tim Ferriss: Really enjoyed it. And I appreciate you putting up with all of my plotting around, grasping for things in the dark, trying to figure out terminology. I really took a ton of notes as you can see right in front of me and everybody out there, until next time, be a little kinder than necessary. And as always, thank you for tuning in.
+
+
+TAGS
+DR. MATT KAEBERLEIN
+	

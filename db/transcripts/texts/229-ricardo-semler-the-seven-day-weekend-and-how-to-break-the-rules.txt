@@ -1,0 +1,593 @@
+
+
+JUNE 5, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Ricardo Semler (#229)
+
+
+Please enjoy this transcript of my interview with Ricardo Semler, CEO of Semco Partners. 
+
+
+#229: Ricardo Semler -- The Seven-Day Weekend and How to Break the Rules
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss and welcome to another episode of the Tim Ferriss Show, where it is my job to deconstruct world class performers of all different types, whether they are from the worlds of business, sports, entertainment, military, or otherwise. In this episode we have Ricardo Semler, who was by popular request and has certainly had a large impact on me. He came up not too long ago in the very, very popular podcast episode with DHH, David Heinemeier Hansson, who is of the 37signals, Basecamp and Ruby on the Rails fame, who also credits Ricardo with having a huge impact on him.
+
+So, who is Ricardo, who I always want to call Hicardo because he is originally from Brazil? He is the former CEO of Semco, a Brazilian company best known perhaps for its radical from of industrial democracy and corporate reengineering, and all of that will make more sense as we get into the conversation. We really focus on entrepreneurship, even though there is so much more to talk about, including education and what he’s done with his Lumiar schools.
+
+But going back to Semco, under his ownership or during his leadership – certainly both – revenue grew from $4 million U.S. in 1982 to $212 million U.S. in 2013. His innovation business management policies, which are very controversial, attracted very widespread interest all over the world. He’s taught at MIT, he’s done many, many other things and most recently he has started a podcast, which you should check out, called LeadWise, and you can find that at Podcast.LeadWise.co. On Twitter you can find him @ricardosemler, or @LetsLeadWise, if you want to be podcast-specific.
+
+On Facebook, LetsLeadWise and then Linked-In, RicardoSemler. I should also provide some context for two very similar sounding book titles. He wrote The Seven-Day Weekend in 2003, which had a big impact on me. The Four Hour Workweek, I’m not sure how happy he is about how seemingly related those titles are, but for those of you who don’t know the story, it came about from the original title of the book, which was Drug Dealing for Fun and Profit, which was the tongue in cheek name of the guest lecture I gave at Princeton on high tech entrepreneurship, ultimately for at least ten years; I think it was around 2003 to 2013 or so.
+
+When the book was sold to Crown within Random House at the time, there were a few retailers – I want to say it might have been Walmart – who really didn’t like drug dealing for fun and profit. So, I quickly sketched out, as did they, a dozen or so perspective titles.
+
+One of the ideas was the two-hour workweek because that’s how long it took me to manage my company at the time. But that seemed to unrealistic, so I was like: alright, we’ll go up to four hours a week. Then I tested that, along with the other titles, in Google Ad Words and for let’s just call it $200.00 and a week later, since Google mixes and matches the ad headlines which were the titles and the ad text, which were my subtitles, I knew which combination had the highest click-through rate.
+
+And that is how we ended up at The Four Hour Workweek. But no matter; I will put a photograph of my self-made index at the beginning of The Seven-Day Weekend, which is a great book, and I recommend people check it out. This conversation ranges very, very widely, and I hope you enjoy it as much as I did. So, without further ado, please enjoy my conversation with Ricardo Semler.
+
+Ricardo, welcome to the show.
+
+Ricardo Semler: Thank you, thank you.
+
+Tim Ferriss: I’m so happy to have you on the phone and on the show, because I have been a fan for so long. In fact, I have this copy of one of your books, The Seven-Day Weekend, which has traveled with me for at least ten years, now. I bought it when it first came out, and I was looking at the index that I made for myself in the very beginning which I’ll have to take a photograph of and send to you. So, first of all, as it came up in my conversation with DHH on the podcast, I just wanted to thank you for sharing your experiences.
+
+Ricardo Semler: Wonderful. Obviously I have a copy of your Four Hour Workweek or similar name, and I’ll have to see a photograph of that to believe that you’ve actually carried that around. But it’s great to catch up. I know you’ve been very thoughtful about all these really deep issues of how to live, how to work, and how do you put wisdom into things which is my concern as well.
+
+Tim Ferriss: I think we’ll want to jump into that, and also talk quite a lot about education. A lot of my audience has many, many questions about learning in education so we will certainly get to that. But for those people who don’t have a lot of background and a lot of context, could you give us perhaps just a snapshot of where you grew up and your childhood, just as a starting point? And then we can depart from there to many different places but that would be a very helpful place to start.
+
+Ricardo Semler: Sure. I was thinking about it the other day. I’ve been trying to work with some guys in the UN and elsewhere about putting education platforms into refugee camps and it kind of explains my background, as well. My parents were both Austrian refugees. My mother was a refugee in all respects of the world in the sense that she ran away from Vienna to Shanghai, spent 11 years in Shanghai, but then was kicked out of Shanghai by Mao Zedong in 1949.
+
+She then actually spent 18 months in a tent in a refugee camp in the South of France. She was one of these displaced persons who had no passport whatsoever. So, it’s very interesting how we see different variations of the word refugee. But the fact is that she then became an immigrant in Brazil, which was the only place that accepted her and so much later I was born.
+
+She lost seven pregnancies and stillborns, etc., and so she always regarded me as somewhat of a miracle. Freud always says that if your mother believes in you absolutely that you can do anything, then you can do anything and that’s the only thing it takes. And so it was very interesting because I grew up in a household that was already well to do and we had everything.
+
+When I got to about 12, 13 I got involved with rock bands and then I spent a lot of time as a roadie, and then playing. I was never terribly good but enough to kid all the way and enough to trick, I would say, all my friends into thinking I was very good and going on stage here and there, which I think is probably the most important part of it. By the time I was 17 or 18, I was very much in that mode.
+
+But my father, who was 50 years older than me, and it was very interesting because I kept looking at him and saying 50 years older; this man is almost my grandfather. I said I could never do that myself. And so promptly I had a son when I was 50, so he is now 7. So, some of this stuff comes back to bite you in the ass.
+
+But the fact is that then I was 17 and he kept taking me to the plant and saying, “Someday this will be all yours,” because it was a manufacturing plant which made pumps and very heavy equipment. He was very engineering-oriented. There were about 100 people there, and this had been there for a long time and doing relatively well. Then it started deteriorating so that by the time I was 19 or 20, the whole industry was in very bad shape.
+
+At that point I had decided to do law school because I thought business school in general was very restricted and very much turned to the past and so forth, and I wanted a more humanistic background. I did that and joined the company. When I joined the company, kind of following his wishes while I was still doing law school, I realized that we had a big difference in the way we saw the world, or how we would run things. He was very traditional and he was wearing a three piece suit, and I was wearing a three piece suit with a watch in my pocket. It was pretty unbelievable.
+
+Tim Ferriss: Why was your watch in your pocket?
+
+Ricardo Semler: Because this was my grandfather’s watch and my father wore one with the little gold chain in his pocket and pulled it out every so often, and I did the same thing.
+
+Tim Ferriss: Ah, I see.
+
+Ricardo Semler: I was ready to start smoking pipes, you know? This was the world that was staring me in the face. It was very curious. Of course this was all colliding with the rock guitarist and bassist which I thought I was. I had hair down to the middle of my back until the year before. This was all very strange, and it was a very strange world. I saw people having to come to the company and be searched on their way out, and have exact times and if they were five minutes late docking pay, and it all seemed like an extraordinary world compared to what I had seen up to then in the world of rock.
+
+When I started looking at all of that, at a certain point I told him, “We’re incompatible; what I would do here is so different and probably you’re saying it would never work, so let me go do something else.” For awhile, he just kind of took the bluff and said sure, go see what else you can do. I found at that point that the business world was more interesting than I thought and that I could do something with it, and I went out and started looking for opportunities to do something on my own. 35, 40 years ago, that was not a world of startups or anything of the start. So, if you wanted to start a business, this was all very hardware oriented.
+
+So, I went out and I talked to people who were in the consulting business and said I want to buy a company but I don’t actually have any money to pay for it, and if I were going to pay for it, it would be my dad’s money; of course that makes no sense whatsoever.
+
+I finally found a consultant at Price Waterhouse, of all places, who helped me. He said, “No, we have to do the following; we’ll look for companies that are broke and that have no money whatsoever, they have big debt, and if you’re not scared of taking on debt, you can buy these companies for a dollar.” I said, “The dollar I have; let’s go do that.” So, we looked at dozens and dozens of companies. We finally got to one which was a ladder company; they made metal and wooden ladders.
+
+There was a 200-page contract that was sitting at the lawyer’s office to sign for the purchase of this company, which was really a very high negative work of course because it had a big debt and a whole set of problems but the guy wanted to get rid of it. I said, “Give it to me.” Suddenly my father burst into the law office and said, “What does it cost to pay the fine to undo this deal of this letter?”
+
+I remember it was $200,000, which seemed like an enormous amount of money at the time. So, he paid it and we paid the fine and didn’t sign the agreement, and then I started with the company. So, it was a very interesting beginning.
+
+Tim Ferriss: Please correct me if I’m wrong but this is probably chronologically close to something that a lot of my listeners wanted to ask you about. That was when you took the reins as CEO; maybe you can describe the circumstances but the firing of 60 percent of top managers as one of the first decisions. And I don’t know if that is as straightforward as it might seem, but the question that came up from a lot of my listeners was how did you make that decision and I would just love to hear the circumstances surrounding it and the thought processes that went into your first decisions when that transition took place.
+
+Ricardo Semler: What I told you now connects to that of course, and it’s interesting the thought process when you say your listeners want to know this and want to know that. I just started to [inaudible] our guys have done a little podcast and we call it Leading Wisely. Leading wisely is all about this issue: how do you make some decisions like that; firing most of the people and how do you know if it’s folly or wisdom when you start?
+
+So, I had gotten to that point where it was either he or I in the sense of there were two ways of trying to run this, and at that point the business wasn’t doing very well which gave me an opportunity.
+
+But as I looked out at these people, we had 100-odd people so maybe 20 or more of them were either managers or supervisors or somebody in a leading capacity. I looked out at these people and I had already had a little bit of experience with trying to change things, and people were always explaining to me why it can’t be done. So, they would listen very patiently and then they would say okay. But you’re new, you’re 19, you’ve just arrived at this and the fact is we’ve been in this business for so long.
+
+And I realized the amount of time it would take me to turn these people around and to deal with the unconscious sabotage that everyone who is in place applies to everyone else. Anyone who’s coming into something is always new and hasty and doesn’t really understand so it takes a heck of a long time. And the business at that point was not doing well enough to withstand a long cycle.
+
+Then I realized the amount of sabotage that I’d have, and the amount of interactions, the permutations of firing three people who then create an alert and panic in the other six people who talk to the other five behind our backs; that seemed like we didn’t have the time for that and it seemed obvious that these people were terribly in place and completely calcified with all these years they’d been there. So, I took a rash decision which maybe the 19- or 20-year-old would do and probably wouldn’t have the courage…
+
+I don’t think I’d have the courage to do that today again, but I looked out there and I said we just had to pull the band-aid off of this thing so that I could start the next day. So, on one Friday afternoon, I just called people in. I’d never hired anybody, much less fired anybody and I fired, I don’t know, 16, 17 managers and directors. That included the CEO, the CFO, or anybody who mattered.
+
+These people went home Friday and didn’t return on Monday, and we spent the whole weekend going through these people’s filing cabinets – this was all paper – and trying to figure out what the hell was going on in this company. We would look at it and we’d see a customer and say I wonder who this customer is? We had no idea and it was really quite a roller coaster ride.
+
+But I think in the end, it made us change direction of course very quickly so that 60 days in we were a completely different company, and then it was possible to throw out the whole rule book from nothing and say what part of this do we really need, and what part of it has just been here forever? Doing that slowly I think would have killed me and the other guys, as well.
+
+Tim Ferriss: Did you have many conversations before making that decision? Was it scary for you to do that?
+
+You said rash, but it just seems in some respects such a rash decision but also courageous in some respects for someone at that age and in that position. Did you have any conversations inside your head or with other people that allowed you to take that leap and make that decision? I’m just wondering what led up to it.
+
+Ricardo Semler: I’m imagining that there must have been I think one or two people who from the beginning I felt would be on the right side, and who maybe I tested it with slightly. But I already knew as well that I couldn’t tip off the system or the wrong people, and I didn’t know enough people. I remember talking to my dad a few days before, because he was about to go on a trip to Europe. I said, “I have to do a few things here, and it might involve…” He said, “No, I imagine; do everything while I’m gone.” He traveled on Thursday and I called everybody in on Friday.
+
+But it was knocking around in my head in the sense that geez, if I try to do this the old-fashioned way or this old cycle, this is going to be ten times as hard but also the chance that I actually get to the end of this is smaller. I felt in many respects that on top of it being rash, I felt I really had no option. There was no time and we needed to do this very quickly. Of course that gave me an opportunity to have a startup, let’s say, on Monday from a business that was already 30 years old on Friday.
+
+Tim Ferriss: I want to flash forward a little bit, and I’m sure we’ll fill in some of the gaps and there will be stories that come back. But could you please describe the actual meaning of the title, [Speaking Portuguese], which as I understand it later became Maverick.
+
+I don’t speak Portuguese but clearly it means something very different than Maverick. Could you describe how that book came to be, and as I understand it, became the best selling nonfiction book in the history of Brazil, which is saying something. I’ve spent some time in Brazil and that’s a nontrivial accomplishment. So, what does [Speaking Portuguese] mean?
+
+Ricardo Semler: Literally it means turning your own tables. But it’s basically turning the tables with you’re stuck in the middle there to make it more self effacing. In Portuguese it makes a little bit more sense but it is in the same vein, which is to say turning everything upside down and so forth which was this whole process of starting from scratch and changing the rules entirely. It was really just because from maybe the five or six years after this mass firing in which we started redoing things.
+
+We started asking questions, and it seems a very simple process but actually when you do it, you realize the potential, which was the whole process of asking three “whys” in a row. That was the only thing we were doing. I said: since we’re starting this again, tell me again why do we search people on the way out? Why do all people have to arrive at the same time, etc.? When you ask three “whys” in a row, people have a very good answer for it. They’ve been thinking about this for a long time, or they’ve been living this for a long time.
+
+Tim Ferriss: Or they’ve been practicing it for a long time.
+
+Ricardo Semler: Yeah. So, why do people have to be here at the same time, and they’ll look at you and say: poor kid. Look little dunce, let me explain to you. If the guy comes here and the guy next to him on the assembly line is not here, the assembly line does not move.
+
+That’s the first set of “whys.” And it just becomes more sophisticated. They did the same thing to me at law school; at the Harvard Business School, everywhere I heard the same condescending response: oh, let me explain to you. So, the first “why” is the easy one. I have five kids and the youngest one is 7, and I always say when you have the three “whys” and they ask you something, anything: they say, “Dad, why is this this way?”
+
+And the first “why” is easy to answer. Then they’ll say, “But why that?” Then you start getting into a little bit of trouble, and you say: you know, really. By the third “why,” yo have only on option which is to buy them an ice cream. This is what happened to me there. So, I’d say why do we have to arrive at the same time, or we’d say why are we all dressed the same way? Why are we wearing suits and ties? Oh, you know, so that we’ll look more like each other.
+
+Okay, great; why do we want to look more like each other? And this is the same with almost anything you ask of business rules. There was a reason. Sometimes somebody was concerned with something, but it wasn’t really essential to what you’re trying to do. So, we would say if we can’t answer the three “whys” about anything or about any rule, let’s just throw I tout and let’s see what’s left. And we were left with absolutely nothing, or anything of real importance. So, we started organizing ourselves around this new way of “if you can’t justify it absolutely; let’s try to do it without.”
+
+That went for organization charts, and boxes, and titles. We were asking things like: why can’t you just set your own title? Choose any title you want, put it on a business card.
+
+And if the guy is going to buy from you and you’d rather write VP Regional Sales Manager instead of Trainee, I don’t care as long as he buys from you and he trusts you and you deliver the product and off we go. So, we started doing this with everything. We threw out the organization chart, we threw out job titles. Very quickly we started asking questions: why doesn’t know what everyone else makes here? Why can’t people set their own salaries?
+
+And nothing resisted three “whys” in a row. But to make a long story short, suddenly the company started doing well, and then instead of 100 people we had 200, and then 500, and then 1,000, and then 2,000. And at a point people started saying: oh, you’ve got to write a book; you’ve got to tell this story in a book.
+
+I said no. But at a certain point in time, I sat down and I said, “I think I’m going to write a book.” I started on a Friday and I ended on the other Sunday, so I spent nine days writing and that was it.
+
+It’s interesting because I considered that book so belonging to the thin air and not to myself that I never corrected any grammatical mistakes. It came to me from the publisher’s many times: “Are you sure you don’t want to correct that? This is silly what you wrote here. And there’s stuff that I’m not at all [inaudible] anymore of course, and there’s a lot of mistakes.” And I said, “No, you can’t touch it. It doesn’t belong to anybody.”
+
+So, what happened was I sent it out. I finished it in ink, and it was 900 pages of pen and ink. I had someone type it, and then I sent it out to the eight big publishers in Brazil. The eight rejected it, and it didn’t take them very long, either. The eight rejected it and they said nobody wants to hear anything from a Brazilian businessman. They’re buying Lee Iacocca and Akio Morito and all these guys and nobody wants to hear from a Brazilian businessman.
+
+Then one of the guys talked to me and he said, “You know what we could do; we could give this out as a year-end gift from the company. Wouldn’t that be nice?” There were 300 copies or something. I said, “No, my ego is not small enough for that; I can’t do that.” I found a publisher who was the ninth, and I said, “This is not possible. You’ve got to publish this for me in a small version; you can’t lose all that much money.”
+
+So, finally the guy said sure, I’ll do it. we had a very interesting discussion about royalties because he said what you get is 10 percent royalties. That sounds good. I said, “What if it sells more than 5,000 copies?” And he laughed, and said, “I don’t know, it’s okay; 11 percent.” Anyway, we had this whole table because I kept asking. I said, “What about $50,000?” [00:29:00] and he’d almost fall of the table laughing.
+
+He said, “Let’s make that 15 percent.” Anyway, so I got 20 percent royalties over the years out of millions of sales. But what happened was I never really thought of course that I knew what I was doing, and I knew this book was very necessary [inaudible]. I just wanted at least to get it out there. But apparently it was a bit like a surf board; you’re sitting there and suddenly the big wave comes. The wave, I didn’t make. People were apparently ready to think about a different way of doing things.
+
+So, they took the book forward and nothing happened at all because he put the book out, there was no publicity. About a week later, somebody found it and somebody wrote a review, and then it’s been 200 weeks on the bestseller list, of which 150 weeks it was No. 1. It was very simple.
+
+It just went month to month and apparently it hit a moment, a nerve, a time in which it went off on its own. So, that’s a long response to it’s called Turning the Tables because of this whole turning things upside down and finding out that it works just as well, and in our case a lot better.
+
+Tim Ferriss: I’ll have a million follow up questions but I have a few that are related to what we’ve talked about so far. The first is, and this might seem super specific, but what is the right way to fire someone? How would you go about firing someone now, or to those entrepreneurs listening? Of course you had your approach when you first came into the company, but how has that changed or evolved over time? What is the right way to fire someone if you need to let someone go?
+
+Ricardo Semler: Sometimes my wife says it’s so nice being fired by you, that I keep thinking this was a very positive thing that you did. And I see all these people getting up here after you so I don’t really have to fire this person. Then they get up, and they’re smiling and they’re patting me on the back and say, “What the hell are you doing with this firing process?” But the fact is this. Some people are surprised, but most people have an inkling already that things are not doing well.
+
+If someone is working close to me, and that’s the only situation of course where there’s a firing situation, but if a person is working close to me and it’s not going places early on, I do very little of this “Let’s do this again, let’s do another chance, another way, another cycle.” So, it’s highly, highly intuitive. So, to me, if it doesn’t feel right, it’s not good for the person or for me to continue. And so I’ll sit the person down and say, “This isn’t working.” And in many respects the person wills say I didn’t realize, or I didn’t think so, wait a second; this and that.
+
+But it’s all about being exceedingly frank. Most of the time it’s a situation where I say you can definitely count on good references; let me see if I can help you. Let’s think about where you could go from here, etc. And mostly, I think that’s the bit of why people don’t feel so bad about it because I look forward a few months or years and I say, “You’re going to be stuck here. I want this for you, and obviously this isn’t fitting your profile entirely, and you’re going to keep at it and keep at it.
+
+But slowly, abrasion will set in and I’ll be more ill humored about this, or you’ll find that getting up on Monday morning and coming to do this isn’t as fun as it used to be. Let’s cut all of this at the root and give you a real chance of finding something that makes you a lot happier.” Normally I’ll say, “This may seem like something you do well, but let me tell you this doesn’t work.
+
+But this that you’re good at, you should be able to find a way to do it.” Normally it ends relatively well because it is so based on transparency, you know?
+
+Tim Ferriss: Definitely. When you subject these conventions to the three “whys” and everything falls apart, or it isn’t justifiable, so now you’re effectively dealing with a blank canvas. How do you choose what to do first? Or if somebody does this in a company, is there a particular order you might suggest that they tackle things in if they’re just left with all these rules all the way from, say, marketing to finance to hiring to fill in the blank have fallen by the wayside because they can’t be justified?
+
+Where do you start because I can see a lot of people feeling scattered or becoming scattered. How do you and how did you choose what to do first, second, third?
+
+Ricardo Semler: When you think, Tim, about what you write about and what inspires you and how you go into the issue of Workweek, or Chef, or a Workout or how to live life wisely, you’re basically concentrating on process. The process by which you do all of this is the one that makes sense. So, I would definitely start with the process that takes us out of bed. The bit that makes you get jump and go somewhere to do something; that that process is the first one that needs to be changed.
+
+So, often do you want to work, how many hours do you want to work, who do you want to work with, in what place do you want to work; that is the one to me that would be the No. 1 issue. Because if you have people in your company or organization, wherever you are, that are doing this because you told them to, or somebody told them to, or it’s always been done that way, or people aren’t stopping to think about why the heck should I take a subway and a bus and go to a place downtown, and so forth.
+
+This is the stuff that is undermining your whole opportunity to have the right process. So, I would always start with:”Is this really what you want to do?” “Oh, yeah I love doing it.” “Okay, but you love doing it at this time of the day?” “No, not really; if I could take my kids to school first…” This is the stuff I would tick off. What’s the stuff you’re doing, or how you are doing it, which somebody asks for or somebody thought was going to be smart, or was a good idea four years ago?
+
+Tim Ferriss: This is something you would ask of every employee?
+
+Ricardo Semler: Yes, and we did. So, we ended up, of course, with people who didn’t want to come at the same time, who didn’t want to work there anymore. We went from one building, which was when we started asking this question; we had one central building and everybody came to us. This was the obvious solution.
+
+Within maybe a year, year and a half, we had 14 different places around town. So, we would say: go to the place that’s nearest your house, or nearest the customer you want to visit, or don’t go anywhere. But don’t even tell us because we don’t want to have anyone who keeps tabs on you. Because your process of how you want to do this is the most important thing. And let’s negotiate you, and let’s contract for something you’re going to do. Are you going to sell 56 widgets a week? Oh, great.
+
+So, if you sell 56 widgets on Wednesday, please go to the beach on Thursday and Friday. Do not show up and sell more widgets because you’re going to create an enormous problem for engineering and manufacturing and soon we’ll have to go out and by another company, and another. So, don’t do this before we’ve thought it through. Sell your 56 widgets. Where you’re going to do it from, how you did it, that is none of our concern; don’t tell us. Just sell the 56 widgets and we’ll always be fine.
+
+This is true for everything else. It’s true for accounting; it’s true for marketing and so forth. So, the process of how you’re going to do this is necessarily yours, and we don’t want to be in the way. So, here are 14 different places you can go to. If you want, you can stay in bed; we don’t care. Don’t tell us how many hours you worked or how hard it was to sell the widgets because we don’t have any place to put that information. That was the whole focus on process.
+
+Tim Ferriss: When you’re asking why not ABC, when you’re testing these assumptions, are there any particular notable failures that come to mind with tests that you’ve performed?
+
+Ricardo Semler: Oh, yeah. I can think of a few and I’ll tell you a few, but the main thing is that the enormous amount of mistakes that one makes in organizations, with your wife, with your kids, at the church, in a group, Italian and so forth is so humongous that you have to consider Babe Ruth’s permutation that if you just hit more home runs than you miss the ball, but can you think how many times did Babe Ruth miss the ball?
+
+In general, we have very little patience for these mistakes. My thing is really to brush aside the mistakes and say that’s great, that was wrong; let’s try this again. Now, if we’re wrong again and again, that’s really no problem. We just have to be batting in the right direction. There are a lot of things that we started that we thought were really smart, that we’d figured all of this out.
+
+For example, with the whole search thing, that was a very big issue because we had all these electric components, we had all kinds of stuff which people said this is crazy. People take this in their purses and in their hair and so forth. We said it doesn’t matter.
+
+Tim Ferriss: You mean searching employees on the way out?
+
+Ricardo Semler: Yes, and I’m going back here 35 years, of course, and in Brazil. But this was a big issue because everyone kept checking stocks and there was always something missing from the inventory, and this was all very expensive stuff which was easy to take. The motors were all copper wires, and then there was silver, and there were components and so forth. I was saying the process here is that I cannot work with people who I interact with or we try to do things together, who I have empathy with and then I search on their way out to find out whether they’re stealing from me. It’s just not possible; it can’t be done.
+
+So, for some time, that didn’t work at all because we had a lot of inventory problems and the amount of losses that we had in the months following was obvious.
+
+People would look and say, “See here? It’s getting worse.” My reaction to that at that point was do we keep this inventory safe and locked up, and people have to requisition it? Yes. Okay, let’s give up that process, as well and just leave the inventory completely open and anybody can take anything. And then for the first time, we had a decrease until the problem went away. Because the whole process was if we’re showing you here and there that we don’t trust you, and sign this, and lock this and then we’re just making sure you don’t steal, it’s a crazy situation.
+
+It’s always a very small minority of people. And as we put the process in place, people started saying, through a form where they would come together at a meeting and decided who they needed in their area for the next six months, and slowly the system expelled the people who were just stealing. I don’t know what happened over the years; we’re saying these 35 years have people stolen more or less, etc.? We don’t measure it; we have no idea. We’ve never had any idea.
+
+But it’s never become an issue big enough to worry about since. So, what I meant to say is we made a lot of mistakes in every one of these processes. When we started telling people on the assembly line that they could come any time they wanted, they could bring their kids to school, they could stay longer in bed; of course for a time the assembly line suffered and we didn’t deliver some products and people were pulling their hair out.
+
+But then a few weeks later, suddenly these people realized and they’d say: wait a second, if you’re not here this assembly line is not going to move, so what time do you think you’re getting here tomorrow? And a whole, new schedule started coming into place. So, I’d say ultimately, if the process decision is to trust people or to believe in people, the issues go away with time and it just looks like mistakes in the short term.
+
+Tim Ferriss: I think this is actually a good place to perhaps tie this to folks who are listening who have, say, smaller companies.
+
+So, let’s just say they have fewer than ten employees. A lot of people listening to this are entrepreneurs, and they may be solopreneurs who are doing their first hiring, or people with small groups, small teams. What are some experiments or questions, or any type of assumption busting you might suggest they test for themselves? Are there any good starting points for people who have processes in place but they’re small teams, relatively flexible, but very, very resource-constrained? Where might they start in terms of testing?
+
+Ricardo Semler: I think that undoing your first urges to become organized is a great place. Because when you have the two, three in your back yard or your garage and suddenly something seems viable and you’re writing code, or you’ve put together a small object which suddenly a shop wants, you’re in your most primitive creative stage.
+
+It’s not beautiful and romantic and Zsa Zsa Cousseau all around it, or Thoreau. It’s really your first urge. When you start going places slowly and you start realizing that people are interested or there’s more volume or expansion possible, that’s when you start looking around and say oops, I need more people.
+
+But very soon after, and you might have eight or you might have 12, and then suddenly you say: oops, now wait a second. We’re going to become bigger; I need to get organized. I think this is probably the single riskiest point because it doesn’t seem like such a big assumption. You might ask someone who supposedly knows, or you’ll spend some time on the web looking at literature of organizations.
+
+And then suddenly, you’re stuck in a world which starts ascribing and prescribing and describing how you should be doing things and I think that is the original sin, let’s say, of organizations. And so I would say resisting the rationale that is being handed down to you that you need to get organized I think is much more valuable than it sounds. People look at that and say wait a second, I don’t have this, and I don’t have a software that does that, and if I don’t give my payroll to that, I’ll never know and this will be wrong, and so forth.
+
+You’ll find that the stuff, the bureaucracy that has to be dealt with, is nothing like the creative effort of communicating and dealing with people and giving them freedom. Slowly you find that as you grow from eight to 12 to 14, you just suddenly say: wait a second; before we could do this but now I’m not able to just hire somebody or agree and contract for something.
+
+I need to know what they are doing. When you start asking why do you need to know; well because if I don’t know, I’m following them on slack but I don’t really understand what they’re doing. I don’t know when they really come in; I don’t know if they’re working harder or less than someone else. Maybe the answer to all of this is it doesn’t matter if you know this or not. If you get down to the very, very few things that really matter to you, being unorganized apparently, which is not knowing a lot of this stuff becomes completely relevant.
+
+I’ve had now in the last two years, Tim, I’ve been dealing with kids, 25-year-olds, 28-year-olds, 32-year-olds who I’ve started businesses with.
+
+One of the businesses which is in Holland, for example, these guys started this business and I have some minority partners and some equity partners who I have never met. I’ve never met them personally; I’ve never met them on Skype. I have a few people, one of who is CEO of a startup and I have not the slightest idea what he looks like, whether he’s tall or short; I have a very generic idea of age and so forth.
+
+One of these people I had set a time to talk to, and they said that time’s not very good, and I said why not? They said oh, because I live in Australia. I said what? How the hell didn’t I know that? He said: you never asked where I lived. So, this whole process now is one which I would highly recommend to people that they do not fall into the trap of saying I need to get organized; I need to know all of this. Because the essence of what people are trying to do with their lives, their businesses and the organizations, they really don’t require the amount of information, communication and structure that you think it needs.
+
+Tim Ferriss: What would you suggest they focus on instead of that? And maybe the way to frame it is besides focusing excessively on the bureaucracy and putting systems in place, what are some of the other most common mistakes that people in smaller companies, and I should say that those companies may stay the same size.
+
+Let’s just say they’re a 10 percent company, they’re creating a great product, but they want to scale in revenues potentially, not head count. So, A) what are some of the most common mistakes that people in that position make, or B) what should they focus on instead, or what might they focus on instead?
+
+Ricardo Semler: I think there’s a lot of rationalization and a lot of trickier self, and I think that’s a very dangerous enemy that you don’t really realize. Because whether you’re going to grow or not, or it’s doing well, what happens if there’s a point where you try some of the things that you’re testing out there and that you tend to insist very much either on an impulse, on an intuition, or an early result, and you say this is going to work. The difference between perseverance and self trickery is very fragile, very delicate.
+
+So, I would say testing impartially, finding a way to test impartially whether what you’re doing is really worth what you’re doing in the way you’re doing it, I think is a very difficult one that people sometimes take a heck of a long time to do.
+
+And then sometimes, the business is there, the money is there, etc. but essentially there was nothing really of substance there. And it might take you years and years of spinning your wheels to realize it. And sometimes when something does not go through in the end, you start remembering those comments or those people who were naysayers all along you were just pushing out of the way in order to do what you had to do because you knew it was right.
+
+So, I’d say this whole process at really poking at what you’re doing, the product or the entity or the time you’re taking, is a disheartening process most of the time because very few things really are feasible, and most of the things will run for awhile. And I think if you could poke at that early on and be excessively transparent and humble about whether that exists really as an opportunity; that would be by far the most valuable thing you could do.
+
+Tim Ferriss: Which of your books would you suggest that small, organization entrepreneur start with, and which books beside your own have you gifted the most to other people?
+
+Ricardo Semler: You know, the one that you mentioned, the Seven-Day Weekend, as with many other books, is a good place to poke around also inside your own head and to look for some insights. When I wrote the book originally, Brazil was still a relatively closed, elite environment for businesspeople, etc. Obviously because the book has sold a good quantity, most people had read it and I kept giving autographs to taxi drivers and so on so it was a very small microcosm I was living in.
+
+I remember the second occasion this happened to me, which was being stopped on the street and somebody saying, “You know, I read your book and it changed my life.” And they would go off and quote somebody else’s book entirely. When this happened the second time, I said shit, this is not about me at all. So, let me stop right here. And of course at that point there were all kinds of campaigns for me to run for mayor, and for president, and become Brazil’s Trump.
+
+Because people get lost along the way and they start believing in their own bullshit. The interesting thing here, going back to the issue of the book, was it’s when you come across an insight which was already yours and you see it in writing, that’s when you say this book changed my life.
+
+But real insight is where you go there and you say geez, I never thought of that, and there is some of that; it has to add to something that you believe in or that jives with your moment. So, I think putting too much weight and too much importance on something that you got out of someone doesn’t remind us that this intuition and this insight was growing inside you already; you were just waiting for some clarification of it.
+
+But that kind of answers the second bit. I had talked for several years at the Sloane School at MIT and I had a group of MBAs. This was always a very fun group and I used to go there in the fall quarter. I’d tell them: look, this is what you have to read to understand business and organizations.
+
+I was obliged to make this available on the MIT site and the books that were there were Marco Polo’s Travel, one book, a Kafka parable, a Jung book on synchronicity and so forth. These kinds of books – and Kafka I think is extraordinary – give you an enormous insight into the people who are doing things and why they’re doing things, rather than the whole set of how-tos. When you run away from the how-tos into the issue of how do you get to real wisdom, we’ve been at this for a long time.
+
+We’ve been in this agricultural era, then we were in the industrial era, then we were in the information age and we were in the knowledge age. But we don’t get any closer to the age of wisdom, and something is terribly wrong for a population and the humanity that has been around for so long and doesn’t get closer to wisdom.
+
+When you think about organizations and I ask you to show me one democratic organization or business environment in the world, or to find one wise company as a company, these are all almost impossible to find. So, to answer your question, I would say the books that stop to think about why the heck do we do the things that we do which are in Kafka and Freud or in Jung or in Thoreau; I think those will answer the business world much closer than people think. When they say oh, great, that’s all good and well but that’s all philosophy and all airy-fairy and touchy-feely but I need to get down to answer this: how come, which people, how, and so forth.
+
+But this process I think is much, much stronger from a philosophical point of what makes you want to get up in the morning and how you let the other people around you do what they want to do how they want to do it, and get out of their way.
+
+That is a philosophical issue that I think would solve a lot more issues if people went from that filter onwards, you know?
+
+Tim Ferriss: Definitely. Do you have any particular books or writing of Kafka that come to mind that you would recommend?
+
+Ricardo Semler: There’s one which is wonderful is a collection of parables, and there’s a set of parables. One of them is especially interesting called Before the Law. It’s only three pages long and I used to sit on top of this teacher’s desk there in Cambridge and read this to the kids, the MBA kids. This was really interesting because I really felt like I was reading to my small kids. I’d sit there and say: let me read this to you.
+
+The fact is it’s only two-and-a-half pages long but it just tells a story of a guy who sits in front of a door which is open, and has this big guy who is guarding the door. He’s a Kosak and he’s wearing a big fur coat and he’s enormous and he’s scary. And the guy asks him whether he can go in, and he says, “Sure, you can go in; the door’s open. But don’t forget that further on there’s another door with a guy who’s scarier than I am, then there’s another door.” And then the guy says, “Well, wait a second, I think I’ll just wait a bit here.”
+
+This goes on and on until this guy’s getting older and older. Then finally, when he’s about to die, he’s lying there on the floor and then the guard bends down and he asks the guard. He says, “Now that I’m about to die and I have no more forces to go through anyway, what is beyond that door? What’s going to happen?” And the guard says, “This door was only for you and since you are now going to die, I’m going to close it.”
+
+It’s a wonderful exercise in realizing that each of these doors that you did not go through were only for you, and that everything that we’re comparing ourselves to all the time and the size of our businesses, and the health of this and the wealth of that, and how good our family is, and how good our life is; where is happiness, where is wisdom, etc.? It all really answers this one issue that this door is there only for you and if you don’t cross it, it will close when you die.
+
+Tim Ferriss: I was a nonfiction purist for a really long time and was fortunate to have a few people intervene. The amount that I’ve taken from books like Dune or Zorba the Greek, and since they’re told in a narrative form have actually stuck, compared to the drier, in some cases nonfiction, has just been extremely eye opening and liberating for me.
+
+This is a question from a fan, Phillipe Moyta; I don’t know how to pronounce his name, but this is part of his question, and this is referring to you. “He once said he made a big fire in his back yard and burned every article, book, interview; everything he had done as a symbol to not look back. Has this been done again, and how is his relationship to the past?” So, could you elaborate on this? I don’t know if it’s accurate or not but if you could comment on that, I’d love to hear your thoughts.
+
+Ricardo Semler: I’m 57 now, and when I turned 50 I looked at my library and I looked around me and I said shit, there’s a lot of stuff on me, here. I had my books in all these languages, 38 languages. I had a thousand articles, I had DVDs, I have CDs, and I have even video cassettes. I don’t even know how to play that but I had it.
+
+And I said there’s something wrong with this stuff. 1) I don’t need it anymore for my ego; I think I’m all set or I need to figure it out with my therapist but not here. And 2) I had these five kids and suddenly they’re going to find that I’m larger than life and people are going to say well, are you going to follow your father; are you going to run your dad’s company? And I said that’s a terrible imposition to make on them.
+
+So, I thought there were two things holding me back. One of them was if I remember that I did this, and I did that, and I have this and I have that award, I have a very wrong sense, a very superficial sense of who I am. So, I thought if I get rid of all of this stuff, I’m also lighter for the trip that’s in front of me and that I can look at things from scratch and say let’s forget all of that. What would I do now, and how do I kind of zero-base my life from now on?
+
+And I didn’t want these kids to be burdened by the idea that your dad this, your dad that. So, what we did is we started a bonfire in the backyard, and it took us about five or six hours to burn everything. We just burned 100 percent.
+
+Tim Ferriss: Just out of curiosity, this was in Sao Paulo or where were you?
+
+Ricardo Semler: I live up in the mountains about two hours from Sao Paulo.
+
+Tim Ferriss: Okay; I was just wondering what your neighbors thought.
+
+Ricardo Semler: They didn’t call the fire department. So, we just spent hours burning all of this stuff, and it took a hell of a lot longer than I thought it would, and VHS tapes don’t burn very well and there was a lot of black smoke. So, we did hours of this and it’s now been seven years since there is no shred of anything of mine in the house anywhere in that respect. The good part about it is my five kids; they really don’t have the slightest idea what I do.
+
+If you ask them, some might say I’m a writer, some might say I don’t do very much and they have no idea. I’ve never taken them to a company; I’ve never told them that one day this could be yours. It’s never entered their mind. They know that we have money because they can look around. But they’ve also learned from the very beginning; they’ve gone to public school with kids who have nothing whatsoever all along. They go to the houses of these kids who are very humble and they’ve just learned to accept that there’s luck.
+
+There’s luck when you’re born into a family that has money. There are other things; there’s talent and the kid plays soccer ten times better than you. They’ve found that there are other variations. But the one of your father’s this and that; that one they’ve never caught up on and so that was the whole rationale back then, and I’m very happy I did it.
+
+Now, I don’t need to every seven years do anything because of course nothing else comes in. Anything I get, we throw out as it comes in. Anything that has my name, or is about me, or is from me etc., we don’t keep it and that way it keeps relatively clean.
+
+Tim Ferriss: I want to come back to the parable and the doors being yours and yours alone, and this trap that some people fall into in terms of comparison and keeping up with the Joneses. Just as context for people, I live in Silicon Valley, for those who don’t know, and regularly interact with people who might have net worth of hundreds of millions of dollars who are miserable because the other person with hundreds of millions – or maybe billions – has a larger jet than they do, or something like that.
+
+Ricardo Semler: Or various other; looking at yachts.
+
+Tim Ferriss: Right, yachts or fill in the blank pissing contests.
+
+And I’m looking at the notes that I made, it must have been in 2003, in The Seven-Day Weekend. I’ll just give you a couple of samples. 168: Find talent, then opportunity, not job description then talent. 71: The reason for work. 104: Max personal wealth is 12 million. That’s what I’m going to dig into in a second. 123: No more than six-month business plan or six-month plans versus long term plans.
+
+I have dozens of these but what I wanted to do is turn to 104 because I’d love to read a small piece of it and then just hear you perhaps elaborate on it, and perhaps your thoughts have changed somewhat.
+
+Ricardo Semler: And find out whether I actually wrote it myself or not, right?
+
+Tim Ferriss: Exactly. This is the paperback; this is on 104. “If my friends just sigh when they hear this, my theory is that the maximum personal wealth is $12 million, and I’ve done some calculations with economists to bear out this capitalistic and admittedly provocative number. Not a cent over 12 million; after that, all millionaires are the same.”
+
+And then I’m going to jump down. I’m skipping a few paragraphs but you call this the da Vinci Constraint. The example is: “A neighbor of mine in Sao Paulo built a house that reminds me of a South American dictator’s compound. He may have spent his entire allotment of 12 billion on this house.
+
+But now his problem is Leonardo, who points out that a human cannot possibly feel at ease in such a disproportionate house. Certainly my neighbor can live there, open it to photographers from design magazines and be admired from afar. But in winter, he’ll huddle in the tiny TV room on the second floor with a drawing from the cavernous rooms to seek a more human scale.”
+
+Then I’m going to bump down another two paragraphs, and I like this line a lot: “Collecting money is like amassing any other item; by definition no collector can ever be happy.” I’d love to just hear your thoughts on this and if they’ve changed at all, because this is a temptation, this comparison and growth for the sake of growth; more, I need more, more, more that leads a lot of people to be very miserable.
+
+Could you just elaborate on this thinking?
+
+Ricardo Semler: I think nowadays, and this is about 15 years old, I think in this last decade and a half, the number of people who have come to realize or accept the intellectual concept that money doesn’t buy happiness, and growing for growth’s sake and comparing yourself to everyone else ends badly; I think a lot of people have accepted this as a thought.
+
+Then something in the back of their mind says yeah, but if I had 12 or 20 or 50 million dollars, everything would be a lot easier and it’s only these guys who really have the money who keep bullshitting about how money is not important. This is how it comes down after so much time thinking about this.
+
+Basically we’re in a world post-1989, let’s say, when the Berlin Wall came down. We’re in a world that says: oh, capitalism has won. So, there’s no such thing anymore as Soviets and Communists and so forth. This stuff we’ve now proven, the world has proven that money is the real king. The world is a monarchy and the king is money. Of course, guys who do this better than other people have now taken this to new proportions, which is natural; it’s just doing more and more and more of the same.
+
+So, if my house were big enough to huddle two or three hundred people, and these were some of the people from around your house, let’s say, and some of the wealthiest people in the world and I were to invite them all to dinner and they would accept, I would have my dinner the wealth equivalent to half the population of the world.
+
+So, I could have, at that dinner, people who have more money than three or three-and-a-half billion people around the world. Now, that is “money is king” rationale taken to its most logical extent. I started asking myself, and I asked this on a Ted Talk and it was the line that got most reaction from people at the time. It was “If you’re giving back, it’s because you’ve taken too much.” People were “oh, I have to give back.”
+
+When you think about let’s say Bill Gates or Warren Buffet, and Warren Buffet says: boy, I’ve been so good at this stuff that I’ve now made, according to this calculation a few years ago, I’ve now made $30 billion more than I need. Okay, so what am I going to do with this? Let me give it to people who really need it. And so forthwith, he gave it to Bill Gates. This was the full rationale.
+
+So, there’s something wrong with people who have a lot of excess money of course, because you’re saying let’s find someone who’s already traipsing around Africa and meeting tribes and trying to give money to AIDS and so forth. But the fact is that once you start accumulating, you’re caught in this collection mold which is you’ll always find a reason for thinking you need more of that, but it is taking away from something. It’s taking away from your kids, or it’s taking away from Sidney in the back yard and reading another book, or it’s taking from somewhere.
+
+There’s no such thing as I will work harder for a time and then I will have the money, and then everything will be all right. Because that moment never arrives, and I think people realize that ever more. People in general of course feel that there’s a level of comfort in your mind about your worries about the future, and the money, and the mortgages and so forth that oh, boy, if you could have at least that bit, you’d be okay.
+
+This 12 million almost parable rationale was to say: look, let’s put at least an upper limit on this at a point to have a house here, an apartment there, and something on the beach and something in the mountains and do anything you want, and go on long vacations to Paris. At that time – I’d have to bring it up to date – $12 million did everything. There was nothing you could not do with $12 million. From then on, this wasn’t an issue of ego, vanity, or obsession; it was something else. It no longer had anything to do with money.
+
+On the lower end, you see all these guys who are doing work on finding happiness levels and serotonin levels and what it takes to be minimally happy. People are always looking in India at the people who are untouchable and finding levels of happiness that are high.
+
+So, I think people kind of accept the idea intellectually. But I think the feeling inside is always: okay, but if I had only 200 grand more, if I only had this; then everything would be okay. I think that that isn’t going away, Tim, in the sense that I don’t think humanity is getting wiser, and slowly we’ll realize. But intellectually it was the first step which I think humanity took, and now starts to accept every time that there’s something dramatically wrong with 0.1 percent – it’s not even the 1 percent but .01 percent – having such tremendous wealth and this whole amassing of wealth because the wealth is going to the smarter guys.
+
+And the smarter guys are the smarter guys who are able to siphon money away from everything else into their own pockets somehow, and it’s a very dismal situation. You come to think about it today, you think about reading and thinking about the past a little bit, Tim; you think about the robber barons like Rockefeller and Carnegie and Vanderbilt. These guys were all monopoly players.
+
+These were the guys who were setting up trusts and almost everything that they did at the time would be illegal today. Now, these robber barons are people that we somehow or another are very impressed with. We’d love to be today called to dinner by one of these robber barons. But is there a dramatic difference today, Tim, when you think about it in the biggest corporations in the world and these people, many people who started writing code and doing wonderful things and so forth, which are now all about monopolies and trust.
+
+Suddenly a guy like Trump says, “Come to Washington and play with me,” and everybody says, “Where’s my plane; I’m ready to play.” There’s something wrong with this whole process because money keeps calling money and it makes very disappointed people out of the ones who’ve been seeking money as a big issue; money, power, and so forth.
+
+You’ve seen it in all the films, you’ve read it in all the books, you’ve seen it with people you know; it doesn’t end well. But it doesn’t stop any of these people giving up other things in favor of that, which in a money world, in a king-oriented money world people seek. And that’s the bit that I think most people have found to be silly but they’re still chasing it somehow and that was the whole bit about the $12 million.
+
+Tim Ferriss: How do you use the question “what for?”
+
+Ricardo Semler: When you do the three “whys” in a row, you end up with process questions. They’re very good for removing obstacles and things that are silly that you do or that you’re involved in doing. But it still doesn’t answer the question that has to do with wisdom. And that one is: what the hell am I doing this for?
+
+And that’s a very, very tough one because you could eventually even answer the three “whys” for a process or for a way of doing things and you can fix that by asking the three “whys” in a row. But when you try to answer in your marriage, with your kids, in the place where you work, at the chorus you go to, or the church you attend; when you start trying to answer what am I doing this for, then I think you’re getting to the real gist of things but you’re also getting into real trouble because those are the real difficult ones to ask.
+
+Really all of us have one question in the world in our lifetime, and one kid asked me that when he was 3; the other one was 4. And one [inaudible] when he was 3, and he said, “Dad, why do we exist?” There’s nothing else to ask, and there’s no other question to ask for the rest of your life; you’ll never answer it, and so forth.
+
+And this issue is: what am I doing this for, why am I waking up in the morning and I go do this; and what am I doing a podcast for, what good is this going to do? And going further, because you’ll say: oh, because I want to help people, and I want all these people to make their lives better. Okay, but what for? Oh, you know, so the humanity will be better.
+
+What for? Oh, what for? Because essentially I cannot live with the idea that I’m not making the world slightly better than it was when I was born, even though chances are and statistics tell us this is not the case at all. But for me to feel that way, I need to go do this.
+
+So, I need to do the podcast, I need to write a book, I need to speak at conferences; I need to do all of this. But it’s not because I hope that people who are now driving the car will suddenly stop and get out and skip and jump to the house and say I’ve found new ways to do everything in my life and everything will be better from now on.
+
+But it’s about my feeling that I’m being useless. So, this whole “what for” issue is used for that as a key to try and answer really why you do these things you do.
+
+Tim Ferriss: People listening, you’re a very well spoken guy so they might look at your track record, look at the accolades, listen to you speak and imagine that you’ve always been confident, always known what to do. Could you share any particular dark, difficult times or a time that comes to mind and how you found your way out of that?
+
+Ricardo Semler: On several occasions I’ve been let’s say close to the brink of things not working to a point of undoing everything.
+
+A few years after I started, it was the first time we ran into such financial difficulties that I remember specifically driving to the plant and thinking what it would take, what it would mean to the people I have to talk to to take the company into receivership, or the company was going broke and what would I do. To me, that was the closest I ever got to the end, let’s say, because I was only 21, 22 and suddenly everything I tried to do was completely wrong or wasn’t working. We came close to the brink at that point.
+
+So, what I found in that, and some moments later; I’ve never come to that same financial situation exactly, but I’d come to that same situation looking at marriage, looking at how I was raising kids, looking at the opportunity to have a much richer life and finding myself stuck in the old traps that I’d set for myself of doing things that I still had to do because I said I was going to do them.
+
+And so this whole process, I think there are many dark moments in front of family, or business, or a wife, or choices and forks in the road where looking back, 1) I realized either it wasn’t as dark as I thought it was and I was just scaring myself into things, or 2) luckily I got through that bend in the road. So, the answer is first of all know that it’s far from easy, even though I’ve been terribly lucky all along. If you say tell me the story of the ten companies that you started that went bust, that’s easy because there are more than ten.
+
+The amount of people that you’ve put together that became nothing, the hopes you had for things that you were going to do that went nowhere. And I’ve written plays, I’ve put on plays and then spent a year in the theater learning all about drama and putting plays together. And I’ve been lucky enough that most of the stuff kind of wanders off or is reasonably acceptable so that I can move on.
+
+I think the real fears are always like for example, two or three weeks ago somebody called me and my older kid was snowboarding, and he says: I’m calling you from the hospital; we have to operate on your son. Things like that where your whole life just kind of falls apart beneath you, you go and need what needs to be done.
+
+But you realize how fragile it is to think that you’re successful and you have these big houses, and you have all these people working for you but this stuff is all very, very delicate and very fragile. So, there are a lot of dark moments where you realize what little it takes for you to lose everything that you were standing on, you know?
+
+Tim Ferriss: Are there any, let’s say, philosophies or principles that you rely on to handle those situations when you are reminded of how fragile things are, or uncertainty strikes, or fortune blows in a direction that throws things seemingly off balance?
+
+Ricardo Semler: I have a kind of unnerving and unwavering belief that we’re very, very insignificant and really have no idea what’s going on. It’s not given to us to understand anything that’s really important.
+
+Anything that you say is really, really fundamental in life, we know nothing about. We know nothing about love, we know nothing about death; all the really important things we don’t know. If you go to a doctor and you go for a second opinion and a third opinion, etc., you will always realize that the first question, the first why do I have this, or you have this because your nerve on this did that; the second one, etc. But the third “why” to any doctor is that we don’t know, right? Everything is that we don’t know. Anything that is really important, we don’t know.
+
+And so my feeling is that because of this insignificance which is, let’s say, paired with the fact that we’re terribly important to ourselves and we’re almost 100 percent of our importance to ourselves, we’re also insignificant in the other regard. And we notice that when somebody passes away, or we remember something that we’d forgotten entirely; that this stuff all becomes dust very quickly.
+
+And so my feeling when things are dark or going badly is that it doesn’t seem reasonable to me, it never seems reasonable to me for things to go completely awry.
+
+Tim Ferriss: I’m sorry; can you say that again? To go completely what?
+
+Ricardo Semler: Awry; going completely wrong, or going completely south, you know?
+
+Tim Ferriss: Got it.
+
+Ricardo Semler: And my feeling there, Tim, is if you’re really not spending most of your time tricking people into things and finding ways on the side to make things work or to make money and humanity is basically in place; my feeling is that you’ll be all right. You’ll be all right, and I think that’s what carries me through in the end. Now, it’s not religious, it’s not structured in any form but it’s this kind of feeling that you don’t have to do all that much just to plod along without being… I’d say it’s not even naïve.
+
+The whole rationale of every time we have these small choices, the whole day long and by week and months and years as we go by, it’s very easy to differentiate between that which is a little bit less self serving and that which is only for your own good. And if you make enough of these choices along the way, I think that at these dark moments or at these moments of enormous risk, it’s kind of like a destiny or a balance that is in place and that takes care of you somehow.
+
+Tim Ferriss: On a semi-related note, is there any particular challenge or goal that you’re facing right now? You could choose any personal or professional that you could describe and how you’re tackling it; how you’re going about it.
+
+Ricardo Semler: The other day I told my wife, and I think I said this at a talk or something, that I’m facing an empty bucket list, you know? And my empty bucket list is all about saying this. Everyone in my family had melanoma; had a form of very drastic cancer which is very quick. And about 15 or 20 years ago I was already scanned and they told me at the time that I had a 100 percent chance of melanoma cancer, and I’ve actually had it two or three times in the meantime. But if you watch out for it, of course, you can be quick and remove it. I just had surgery again three or four months ago; found a new one and there’s nothing to it, really. You identify it; you know what it looks like. You go there; you have it removed, and off you go.
+
+But I kept thinking, sitting in front of my oncologist, my cancer doctor looking at me and saying, “Well, Ricardo, this time you didn’t see it. It was on your back and you have three months left, or six months,” which happened to my parents and to others before them. I kept thinking geez, I don’t want to be in that situation where suddenly now I have to go to ball games with the kids, and now I have to travel to places I haven’t been enough to write that play which I never wrote. I said that’s crazy, so let’s do something else.
+
+That’s when I started what my wife doesn’t like the name I give but on Mondays and Thursdays I have what I call Terminal Days. Terminal Days are the two days a week in which my schedule is always completely clear; I have nothing. And I do on those days what I would have done had I heard this conversation from my oncologist. And so I’ve been doing this for quite awhile.
+
+So, my weekends are with my kids and family and so forth, and Mondays and Thursdays I only do what it is I would do if I had just recently learned that I had a terminal disease. It sounds dark but it is really because it’s just all about the freedom that you’ve just gained and these days that you’ve just gotten back to do whatever you want to do, the way you do it and trying to ask yourself what you really want to do.
+
+Because in the beginning, you have these long lists of things you would do if you had the free time, but it’s not really true. I said I’d read all these books which are sitting there and I hadn’t read, I’d listen to all this music which I hadn’t. You do this for an hour or two or three, but then it gets old as well and there’s a reason why you didn’t do enough of it before. It sounds like you’ll be able to do this for hours on end, but you won’t.
+
+So, if you’re healthy and you’re in good shape and you have your entire day ahead of you and nothing to do, you start answering very interesting questions about what you really want and what really moves you.
+
+So, still going back to answer your question, the fact is that I’m not left with goals. I’m left with a whole set of wonderful processes that I love and I’d love to do again and again. But I no longer need or want to do something that I can measure. The metrics I think have gone away. This process of doing what I want with the people I love, the timeline, that’s entirely a process on its own and it’s a goal on its own.
+
+And so I no longer have wishes for things that I could buy with money. My kids and my wife are constantly frustrated by the fact that there’s nothing they can buy me. You know, because it’s gotten to that point where I don’t need it, or I don’t want it, or it doesn’t tickle my fancy.
+
+So, I’m not left with metrics saying I’d love to have another of this. I’ve been doing math now, Tim, on my personal finances for 30-something years or more, 40 years on the same rationale. Which is how much do I need to have to be able to lead the life that I do? Swiss bankers used to say that you need to have 20 times more than you spend per year. And it kind of was a rule of thumb that’s not bad because that says you need about a 5 percent return on monies you have.
+
+So, if you say my lifestyle takes $5,000 a month to live minimally the way I want, that’s $60,000 and so you need assets the value of $1.2 million; house, plus money, whatever. So, because I’ve been always starting from what it is that I need minimally to have fun and to do the many fun things that I can do with money, I just multiply that by 20.
+
+If it’s over 20, I don’t worry anymore and thankfully I haven’t worked for awhile. But if I had looked at the opportunity and said boy, if I did this and I put these two companies together and then I would have something else; if it’s going to take away one of my Mondays or Thursdays or one or many of the times I can’t pick up my kids for school, it’s certainly a bad deal no matter how much money or what metric it is, you know?
+
+Tim Ferriss: Definitely, what with the nonrenewable resource being that time. I’d love to hear some details because I’m grappling with some of these issues and structuring is too formal a word, but I had a very good 2016. I think it was in part because I had so much slack in the system to do deep work and to enjoy and savor certain things.
+
+And 2017, because of the book launch six weeks ago has just come crashing in with a lot of inbound, most of which is noise, so I’m thinking a lot about this. What are some of the processes that you love and could you walk us through maybe a Monday or Thursday that comes to mind and what that looks like?
+
+Ricardo Semler: Going from back to front, I’ve been writing a book in my head now for the last two or three years and I’m just scared of putting it out there because you are then caught in a vortex of your own making. You get a publisher, and then you kind of sell them the idea that you’ll be there, and they’re kind of saying I’m going to do this. But if I need you for the Today Show, you’re going to be there, right? And you’re like: yeah, I’ll try.
+
+But the fact is that you never really want to take on the whole weight of proving yourself, doing your thing and satisfying all the cosponsors of your effort. So, there’s the book launch, and there’s no end, of course. It doesn’t end that quickly because you trick yourself into thinking this is six months and then it’ll be okay.
+
+But we know it’s not because for example, yesterday I just got my two copies of the Chinese edition of my book of 1993. So, It takes a little bit of time for things to happen, right? I got the Czech Republic edition of The Seven-Day Weekend about a month ago. So, this stuff just takes on a life of its own. And then every time a request comes for your time, you stutter.
+
+You say well, you know, I don’t really want to take this flight and go this place and do that. But on the other hand, I kind of have a responsibility to do that. It’s a little bit like The Little Prince, the French book by Antoine de Saint-Exupéry which says that you are responsible for everything that you captivate. So, you kind of feel why did I write the book in the first place? If I wrote it in the first place, it means that I should go to this syndicated radio show because that will sell more books, and more people will be happy and I’ll feel better, on and on.
+
+And you’re caught with metrics. Because somebody will say: So, Tim, how many people listen to your podcast? Oh a million and I’m No. 13 or No.11 and No. 6. And people have caught you up in their vortex of metrics as well. Until something happens; you retire, you die, and it goes away because you’re a non-contender from there on and then it’s perfectly all right.
+
+Then you have to think who the hell is going to remember 20 years from now or 40 years or now and so then you’re left with the issue of what am I doing this for?
+
+So, my answer to all of this, because if you take this to your ultimate concept, you could easily be in a situation where you say I do nothing anymore because nothing is worth it, because nothing will reply to the issue of metrics, nothing will satisfy me; nothing is really worth it if we are these useless specks of dust in the universe. So, I don’t take it to that rationale because we are 100 percent of ourselves in terms of importance at the same time.
+
+So, you can be worried about the state of nations and poverty and immigration policies, but if there’s a speck of dust in your eye, you’re going to spend the next hour and a half only deliberating that. There’s nothing else of any importance in the world while there’s a speck in your eye and your eye is watering.
+
+So, what I meant by this is that on Mondays and Thursdays, I wake up and one of the first things I do is lounge in bed. I haven’t had an alarm clock I think for 15 or 20 years but I say I will not get out of bed. And of course, that doesn’t last very long but the feeling is good. Then I’m with the kids, and then suddenly they get into the van and they’re gone. Suddenly everything is quiet in one second. And then I start asking myself what do I want to do? I could read the paper but I don’t really want to read the paper; the news is this and that.
+
+I could read that book but now I’m halfway there. And you’re stuck, I think, many times with the issue that we keep ourselves so busy and we have all of these distractions and attractions and things going at such a rate that when you actually turn off all the noise and say which of these things do I really want to do; you have much more trouble than you thought you did.
+
+And so when we put that book out there as you did, and you have requests and you have opportunities, you really just kind of measure the opportunities of what to do against each other. In that sense, it’s a bit like Kafka again. That door is open just for you. But you say is it better to go talk to these guys in Denver, or to do this thing in London? But the real question was what the hell for am I doing either of these?
+
+And I think you’ll end up with the reply that the things you can look back on and say that was a good one, two, three hours of my life because I either shared something, I learned something, it felt good; these are all wonderful responses.
+
+You went to the baseball game; you’re not losing two hours of your life. That’s a wonderful way to spend those two hours if you love baseball, and on and on. So, it’s not about nothingness or undoing yourself or considering yourself worthless and therefore it’s not worth doing anything. But it is especially about not comparing the opportunities with each other and rather comparing them to what would I do if I had the whole day off.
+
+The best feeling I have in my time is never the Monday and Thursday, which I do love when I’m in bed thinking today I have nothing to do. It is on that Tuesday or that Friday when I have something set, a conference call or a visit or something and that gets cancelled; that’s my most wonderful moment is when I have something to do and somebody cancels it. It’s an enormous sense of relief, no matter how important it was or how much I was looking forward to it.
+
+When somebody cancels something, I feel elated. So, I think that kind of answers it as well, no?
+
+Tim Ferriss: It does. I’d love to uncover some of the quirks. I had somebody ask me a question a few days ago that I thought was a good question. We’ll find out. It may fall flat. But he asked me, what are some absurd things that you love doing? Does anything come to mind for you when I ask that question?
+
+Ricardo Semler: I have all these old line habits. One of them comes from Winston Churchill, which is to sit in a bathtub with a lit cigar. I’m sure it will pass a lot of people’s tests of absurdity. So, sometimes I’ll say now I will do nothing, and I will sit in a bathtub for an hour and a half with a very long cigar and think like Winston Churchill.
+
+I always remember this especially well because Churchill was a guy who was, even in power and to an extent this happened to FDR as well when he had his polio thing in Florida. But Winston Churchill would go off a bit before Christmas and take a ship to Egypt were he would go to a same winter palace hotel in Luxor. He would spend 65 days there while he was running the country. So, I think we give ourselves an enormous importance and to our time, and I think doing absurd things related to wasting time I think are a wonderful way to remind ourselves that we’re neither that important nor that necessary, or not that much happens when you do absurd things with your time.
+
+I think purposely looking like you’re wasting time is an absurdly wonderful thing to do.
+
+Tim Ferriss: People looking from the outside in, many people will be very impressed with your ability to experiment and to test and to have failures, but also have these successes and home runs. Do you think about risk differently than other people? Or how do you think about risk? I think that that word is a scary word to a lot of people and they don’t really define it for themselves and so they don’t try. But I’d just love to hear your thoughts on risk or perceiving risk; how you think about it.
+
+Ricardo Semler: When you try and deconstruct risk, I’d say there’s an objective metric associated with risk. So, I’m going to start this business, I’m going to take 32 percent of my savings and I might lose it all.
+
+So, that’s a kind of metric that I think is less scary because you know that it’s 32 percent, you know that if you lose it it’s going to be trouble for some time and then some restrictions, etc. But it is an outside metric which you are willing to accept. If you say I’m going to take a plane and I know that the statistical risk is 0.004 of the plane falling, I’ll take that risk. I think that scares people very little, even though they bring it up. I think people use it very much as an excuse.
+
+Because the other risk factor is how will I look to myself, to my spouse, to my kids, to my former business partners? How will I look if I fall flat on my face? I think this element of risk is the one that doesn’t bother me almost at all because I think it is so ephemeral.
+
+You get a bad press, or you get a bad opinion from neighbors or your wife is dismayed that you actually did this; I think all this goes away fairly easily and relatively quickly. It might take a few months or years but all of this goes away.
+
+And it’s not to say that it’s worth doing because if you do succeed, then you will show them all; you’ll rub it in their face or you’ll be happier or you’ve gratified yourself. Even because we know that a lot of these apparent successes and things that we call home runs, they’re also temporary. The last mile of everything you do is probably what’s going to count. This is also an ironic turn on life, which is that you go there and you spend 20, 30 years. Today, this day, today we had one of our biggest billionaires in Brazil fall into jail.
+
+He was in New York over the weekend, and he was arrested and he’s involved in a corruption charge. He was the seventh richest man in the world and who is by far Brazil’s richest person. His 20, 30 years of earning one success on top of the other were all wonderful. He obviously has a genius for business, otherwise he wouldn’t have gotten where he got.
+
+And he has his dark side as well. I don’t know him personally; I’ve never met him. But he got to this point where he’s this billionaire and he had these enormous projects, and he was doing wonderful things. On the side he had hobbies, and restaurants, and yachts, and doing things for poor people and on and on and on.
+
+Now he’s in jail. I don’t know for how long; maybe not even that long. But the fact is he has this hair products company and was always very proud of his hair. You know another guy who has similar hair.
+
+The first thing they did in jail was to shave him bald. So, you see now, he is… What I meant to say was, what is success for this guy? Was it the 34 years in which he had yachts and planes and every president and everybody would receive him and he’d do wonderful things? Or is it now so tainted by this last image of himself that he will never recover? I’m making no judgment at all. I’m just saying when you think about this, and I think about some of the people who were presidents of Brazil, some people who were presidents of the U.S., who were there at 50 and 60 and their lives are over.
+
+It’s no longer a success; it keeps deteriorating as the years go by. You take someone like Clinton who has an extraordinary mind, did a lot of good things, but made a few enormous mistakes with cigars and interns that he will never recover from.
+
+So, what is success in that passage? What I meant to say is your home runs and the businesses you’ve built, and the money you have is all very, very fragile and it’s probably going to be measured with how you handled yourself in a very few indecisive moments in your life. And/or in the end, the last few things you did are terribly important compared to what you did before.
+
+Or this guy, I keep forgetting his name, Pistorius in South Africa, tremendous guy until you kill your girlfriend and then suddenly all those other successes don’t sit very well. Now, can you do your things, have your successes, build up your metrics, etc. and then retire and sit tight for 20, 30 years enjoying it?
+
+Probably the feeling inside is that slowly your worlds are deteriorating in the sense that your friends are dying, the press is no longer interested in you and you become a has-been who still has a few things to nail up on the wall; jaded photographs of you with someone very important. So, I think the success factor and this metric of how you measure yourself is very, very fragile. When we stick to it, we stick to something that won’t be there when we try to hold it in our hands; it has to be held a bit like a bird. If you press it a little bit too hard, it dies.
+
+Tim Ferriss: How do you think of success for yourself, then, in place of leaning on or depending on the ephemera or all these things that can be taken away so easily or destroyed so easily? How do you feel at peace with yourself or feel successful? What lens do you use for that?
+
+Ricardo Semler: I try to exchange these lenses of past and future for living in the present, which is the only very difficult thing to do. We talk about it but nobody knows how to do it. You know James Taylor said in a song that the meaning of life is to enjoy the passing of time. Enjoying the passing of time is by far the hardest thing we can ever do. When you take your thought process, we are almost constantly living in the past or in the future. And so success to me is always making sure that this passing of time is worthwhile. That this passing of time right now, that I’m not exchanging it for a hope in the future, I’m not exchanging it for something I got or had in the past.
+
+And that you’re always kind of ready to survive or to withstand through the use of this wisdom of present time of which I’m still very far from it but I just keep hammering into my own head that this passing of time, if this podcast and conversation with you was worth it because it made me think, because it was thoughtful for us and so forth; that is success. And that can never be taken away, no matter if tomorrow I don’t have the money, or I don’t have this, or things go wrong, God forbid, with people.
+
+The fact is that that one hour or two hours which we spent in the podcast thinking about life and exchanging; that one was definitely worthwhile and successful. And that one can no longer be taken away from you because it’s now a part. When it becomes part of your history or your past, it’s just building blocks of time.
+
+I had an interesting situation. For a time, I was buying much more wine than I should have because I got into the collector’s mode about 25, 30 years ago.
+
+So, I kept buying at auctions. And of course you get into this thing where you need to have this 1959 Mouton, and so you go crazy at auctions; you overpay and so forth. One of these days I had a friend over and I opened one of these wonderful wines that were extraordinary, an extraordinary year and I outbid for it. This stuff can’t be used for vinegar; it was completely spud. It was always completely spud.
+
+When I bought it, it was already worth nothing whatsoever. And I always thought it was an interesting collection because you buy all of this wine that you have all kinds of expectations for, and you’re learning to say this has pencil shavings and a bit of mineral lad and some marigold flour in the taste and so forth. But you know there’s an enormous amount of bullshit in what you’re doing and why you’re doing it.
+
+But the interesting part is once you consume your collectible by drinking the wine, you’re left always with 20 cents of glass. It’s just a way of saying that this whole process of wine is a good comparison. Because one guy told me what gets you into your cellar and makes you take a bottle of wine which you paid $100.00 for and is now worth $1,000 and drink this and be left with a little bit of glass, because you end up probably not even having the courage to drink this wine that now is so valuable.
+
+But I’ve always answered that in the following way. If one day I look at my cellar, and I do now and it’s about half empty, and I think that every time I pulled one of those bottles, it was because I was with friends, or because I was feeling good or it was a great time.
+
+This must have been a good life, looking at those empty holes. And so that’s I think with everything else. If you’re using that time and at the end of it you say boy, that was a good two hours, this was worth it; and then success is certainly guaranteed.
+
+Tim Ferriss: How did you stop the collection of wine when you were getting caught up in these auctions and so on? What was the pattern interrupt, or the conversation or the moment when you decided to stop doing that?
+
+Ricardo Semler: I actually remember it very well; it was very specific. I went to Thailand and in Thailand I met this guy who was actually Chinese, but he was in Thailand. He was a tomato farmer and he had mini mills. He had these mini steel mills and he was a magnate and a real tycoon. He had made enormous amounts of money.
+
+We went to have dinner with this guy and he was smoking all through the dinner. I asked him how many packs of cigarettes he smokes a day and he said, “I light one in bed and then I light all the cigarettes with another cigarette.” I never did the math on that but it can’t be very good. But anyway, he would eat with one hand and puff with the other, and at no moment did he stop smoking.
+
+Then we started talking about it. he said that he had a bit of an obsession for things and he said he collects things. I said, “What do you collect?” He said, “I collect Mercedes cars.” I said, ‘Oh, so you have a lot of these?” He said, “Yeah, I have a lot of these. I have 111 warehouses of Mercedes.”
+
+Tim Ferriss: Oh my gosh.
+
+Ricardo Semler: And he said, “And I have the first Mercedes of 1896, which is a steam Mercedes, and I have all the Mercedes in between.
+
+And I said, “What do you mean?” He said, “Every time there is a Mercedes that comes out every year, and they come out with let’s say six models, I buy one of each. And when Mercedes needed Hindler’s car and the car that Hitler went into Paris with, I lent them the cars because I have the cars.” So, I was obviously stunned at this conversation and all the smoking and I thought Jesus, what little do I know about interesting people or freaky people around the world?
+
+At one point I said, “So, what, you just keep on collecting?” He said, “That, and of course I have to go in a few days; I’m going to an auction because there are several Mercedes, a total of 12 Mercedes which I don’t have.” I said, “How much does it bother you?” He said, “Oh, it keeps me awake many nights, and I keep going at it and I’m going crazy and I need to have these 12 Mercedes.” And at that moment I stopped buying any wine whatsoever. I don’t think I’ve bought a wine since.
+
+Tim Ferriss: Oh, my God, what a story. We could go for a very long time. I want to be respectful of your time. There are so many things I’d love to touch on, like Lumiar and many other areas but tell me what you think of this. We could do a few rapid fire questions and then maybe, if you enjoyed this and everyone enjoys it which I think they will, we could consider maybe doing a follow up at some point.
+
+I’m certainly happy to stay on and talk about anything you’d like but I’d love to ask maybe a few rapid fire questions and then lead people to what you’re up to now, and where they can find you if that sounds like a plan. But I know we’ve been recording now close to two hours so if that works for you, we could take that approach. But I’m certainly happy to touch on anything that you’d like to talk about.
+
+Ricardo Semler: No, let’s do that and I’m assuming you want rapid fire replies as well, which is not my specialty.
+
+Tim Ferriss: No, the rapid fire questions really just mean that I have to stop asking multi-part questions with 17 commas. So, your answer can be as long as you’d like. So, I will just keep my questions short, and I’m certainly not in any rush. No. 1 is what books have you reread the most yourself?
+
+Ricardo Semler: I always go back to two books, one by Karl Jung and his whole issue of collective unconscious, which to me is a big issue because you either are able to touch in and touch and get involved somehow in this collective unconscious, or you’re doing things which are very much on your own and not significant in a sense that they’re trailblazing, etc. It’s just they’re not connected to the world as they should be.
+
+Another one I keep going back to is very interesting because I come from a Jewish family, even though nobody was religious; there’s a culture and ethic issue there but I only found out that I was actually Jewish maybe ten years ago, even though I was suspicious of it. But the one that I read every once in awhile I pick up because it’s around the house, and because my wife is a bit more religious, is the Bible.
+
+The Bible is a wonderful set of stories; philosophy etc. and I read it much like you would read Shakespeare. It’s extraordinary because it has everything. Shakespeare has all of the human traits; if you look somewhere you will find it, either in King Lear or Hamlet or Macbeth; it’s there. The Bible is a very interesting book to keep going back to to get a glimpse of humanity.
+
+Tim Ferriss: Do you have any favorite documentaries or movies?
+
+Ricardo Semler: My favorite documentary is one called Up. Have you seen it?
+
+Tim Ferriss: I have, yes. It’s fantastic.
+
+Ricardo Semler: For your listeners, it’s a guy, Michael Apted who in 1964 decided to follow about a dozen or actually more kids from very different backgrounds and from the UK and some in orphanages, and some very well off to try and establish how much people are stuck to their context, to their social context. And so it’s very interesting because he follows them every seven years. So, at 7, 14, 21, 28, and so forth until 56, which was the last one. It’s quite an extraordinary way to look at humanity and see can people really escape their social constraints and their initial lay of life?
+
+And in general, his assumption is that they cannot, and to a great sense it bears itself out in the sense that it doesn’t look like you can stray that far from the path on average.
+
+Tim Ferriss: Yes, and I think they revisit them what, every five years or something like that?
+
+Ricardo Semler: Seven.
+
+Tim Ferriss: Seven, I’m sorry; that’s right. Because it was Seven Up and then it became the Seven Up series.
+
+Ricardo Semler: They’re all multiples of seven but it’s the same people, which is extraordinary. You’re seeing someone who’s 7, who’s 14, who’s 21, who’s 28, who’s now 56 and their dreams and their hopes and what they were actually able to do, and how close they, in these seven year periods, how close they have stayed to their apparent calling in life before they were born. It’s an incredible situation.
+
+Tim Ferriss: Yes. This is the documentary series that’s come up three or four times interviewing a number of people in the podcast. I’d never heard of it before and I was actually introduced to the series through the podcast as well.
+
+Ricardo Semler: It’s wonderful. And just on that tone, Tim, to say that you’re in a country that says boy, anybody can do anything, and anybody can be anything; don’t let anybody stand in your way, you can be whatever. But it’s not really true at all. This is I think a very interesting take on this documentary and on the American dream, you know? Even what’s happening today in the U.S. is a reaction to this; where the fuck is my American dream that was promised to me, you know?
+
+But the fact is that you’re promising a classroom of kids and as a valedictorian and speaking at conferences and egging them on at MBAs, the fact is that you cannot. Humanity has a very, very long story and a very, very long proof that in general, your chance of changing walks of life, changing class, changing paths from the context you started with is a very, very rare situation.
+
+And that very, very rare situation makes for wonderful books and speeches and films, but it only makes for this wonderful entertainment because it’s so, so rarely true. Now, is that very dismal and disappointing to look and say now that you’ve put this in my face, now I’m not going to try anything, it’s not even worth it?
+
+No, it’s just to remember that in the passing of time of the station of life that was created or available to you in your context, there could be and should be a wonderful life. The wonderful life is not in rising all the time until you’re at the top. There’s nothing that’s particularly interesting at the top; it just seems absolutely wonderful when you’re looking at it from the bottom.
+
+Tim Ferriss: What would you say, for instance, if you were teaching again but instead of at the MBA program at MIT, you were teaching a ninth grade class in some economically disadvantaged area? Let’s just say it could be the ghetto in Chicago, it could be any number of places in the U.S. What would you teach in that ninth or tenth grade class to help them improve the odds of not remaining in their current cycle?
+
+Ricardo Semler: And I have. Obviously, you talk way too much so we haven’t had time to talk about education, which I’d love to as well. But of course let’s say the last ten, 12 years I’ve taken all of this effort and this risk taking and what I’d learned before and taken it to the world of education. But I spent the first few years to that teaching 6-year-olds in a public school, and heavily disadvantaged kids so it was fun to do.
+
+[What I tried to do most with them was get them to realize the magic of the accumulated wisdom of humankind. And that poking at this magic of what we’ve been able to do and think and all this time, all the rest will take care of itself. And so if I sit there and say you can do this, you can find the strength within you, it is possible you can do anything, you can be anything you want; I don’t believe in that. And so I kept showing them things, like I remember one day stepping outside with them.
+
+I said, “I’m going to teach you the special relativity theory of Einstein. So, it’s like this. You’re here with me in this little village, right?” Right. “Now you look up and I say, ‘How long would it take you to go to the moon?’”
+
+And so they’d say this and that, and rockets, and oh we’ll [inaudible] from moon to the next and on and on, and to Neptune. And then to the edge of the universe. And their mind is going all over the place of course, and we’re trying to think this through together. And I say, “If you come to the end of the world, the end of the universe and [inaudible] and now you’ve traveled for thousands and thousands of years in your rocket ship, and now according to this man Mr. Einstein, you open this little carton at the end of the universe, where would you be?”
+
+And the answer following the theory – people who know this will tell you – you will be in this little village right here, looking up into the sky. And these crazy, crazy concepts which are true and which are about us, and to say here we are up in the mountains so time here moves a little quicker than it does at beach level. And so you have exact twins, who were born, and one is on the beach and one is in the mountains; by the end of 90 years when they meet again, the one in the mountain will be slightly older.
+
+This kind of stuff is to me what unlocks the whole possibility for people to think boy, I can be anything, do anything etc. because they’re looking at the magical response of what life looks like, what we’ve learned all along to this day. And that is the key that they can eventually use to free themselves, you see?
+
+Tim Ferriss: I do. If you could have a gigantic billboard anywhere, and actually now that I think of billboards, are there no billboards in Sao Paulo? I feel like that’s one of a few cities that’s perhaps made billboards illegal, but that’s an aside. The metaphorical question is if you could have one gigantic billboard anywhere with anything on it, in other words just getting a short message out to millions of people, what would you put on that billboard?
+
+Ricardo Semler: I’d write “now.” That’s enough, I think.
+
+If people pay attention to now, so many other issues go away because I think so much of everything we do is taken up by the past and the future and so little of our success is there, that remembering that you’re now in a bus, you’re now in a train, you’re now going somewhere you don’t want; this is the stuff that I think falls short all of the time.
+
+Sao Paulo does have a lot of restrictions on billboards and it’s expensive and it takes authorization so that helps. But Sao Paulo has so many other visual problems, now we have a new Trump-like mayor who is going around and covering up all of the spray paintings of the graffiti artists; that’s the newest.
+
+Tim Ferriss: I think this is a good place to wrap up. I’ll ask where people can find more about you and certainly I’ll put that in the show notes as well, but do you have any ask or request of my audience, the people listening, or any last parting words that you’d like to share?
+
+Ricardo Semler: Again when I think about why would I sit with you on a two-hour podcast, why would I have the few people that I wanted to talk to and I’m doing this little podcast episode of my own; essentially of course is it thoughtful, insightful for myself and therefore it’s always very self serving and very narrow, let’s say.
+
+But on the other hand, my very generic wish is always that people will be able to take a little something out of it which is insight into something that was already there; not that we created in this conversation but that someone takes on a little act of courage in either giving more freedom to people who work with them or for them, or their kids, or anything that’s around them.
+
+It’s terribly gratifying to do just these very little leaps of faith and these very small movements in the direction of what seems like risk and is never a risk because it’s never a metric issue. It’s just getting past your own misgivings about doing something. And that would be my hope; that people take this little leap of fancy or leap of faith and finally decide to make a change on constraints, on restrictions that they either have or that they need to fight against, or they need to remove other people from and find that that’s a hell of a lot more liberating than it sounds.
+
+Tim Ferriss: Ricardo, I really appreciate you taking the time. This was extremely fun for me and I’ve known you only through video and text up to this point so this was a unique opportunity for me. So, thank you for taking the time.
+
+For those people listening, I will put links to everything that was mentioned, books and podcasts and otherwise in the show notes as per usual. You can find those at Tim.blog/podcast or FourHourWorkweek.com/podcast. You can say hello, and you should, to Ricardo @ricardosemler and @Let’sLeadWise on Twitter. Facebook is Let’s LeadWise and Linked-In is Ricardo Semler. Until next time, as always, thank you for listening.
+
+
+TAGS
+RICARDO SEMLER
+	

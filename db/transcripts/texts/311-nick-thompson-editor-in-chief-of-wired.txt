@@ -1,0 +1,488 @@
+
+
+JUNE 26, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Nick Thompson (#311)
+
+
+
+
+Please enjoy this transcript of my interview with Nick Thompson (@nxthompson), editor-in-chief of WIRED. 
+
+
+
+Nick Thompson -- Editor-In-Chief of WIRED
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss. And welcome to another episode of the Tim Ferriss show. My guest today is Nicholas Thompson on Twitter @nxthompson. He is the editor in chief of Wired. Under his leadership, Wired has launched a successful paywall, a Snapchat channel, and an AMP stories edition if I’m pronouncing that correctly. I’m not sure if it’s AMP or A-M-P.
+
+We’ll get back to that. He has also been nominated for National Magazine Awards in design and feature writing. Thompson is a contributor for CBS News and regularly appears on CBS This Morning. He is also a cofounder of the Atavist – which I’ve had contact with going way back in the day – a National Magazine Award winning digital publication. Prior to joining Wired, Thompson served as editor of newyorker.com from 2012 to 2017. Before the New Yorker
+
+Thompson was a senior editor at Wired where he assigned and edited the feature story “The Great Escape” which was the basis for the Oscar winning film Argo. In 2009, his book The Hawk and the Dove: Paul Nitze, George Kennan, and the History of the Cold War was published to critical acclaim. In Feb 2018, Thompson cowrote Wired’s cover story, “Inside the two years that shook Facebook and the World: An 11,000 word investigation based on reporting with more than 50 current and former Facebook employees.” Nick, welcome to the show.
+
+Nick Thompson: Thanks, Tim. That was a nice intro. Thanks for having me here.
+
+Tim Ferriss: My pleasure. And I appreciate you correcting or at least informing my pronunciation of the subtitle of your book.
+
+Nick Thompson: Yeah. Nitze is not an easy name to pronounce. My favorite story about it is I was giving a talk about my book in Wisconsin. And like ten minutes in, this guy runs out. And so, Nitze, one of the characters in the book is my grandfather, Paul Nitze. And this guy runs out.
+
+And at the end, I asked the host. I said, “Why did that guy leave?” He looks at me, and he said, “He thought he was gonna hear from Neitzsche’s grandson.
+
+Tim Ferriss: Oh, spelling.
+
+Nick Thompson: In Wisconsin. It was hilarious, anyway.
+
+Tim Ferriss: So, there are many different questions that I wanna ask, and I have many, many in front of me that I will ask. But I thought I would start with something that I chanced upon when doing homework for this which I’ll lead into with just reading the line. And it is, “He is also an instrumental guitarist who used to supplement his journalism by playing on subway platforms.” Is that true that you used to play music to supplement your writing income, presumably? I guess that’s how I read that.
+
+Nick Thompson: I think supplement is the wrong word because I actually made more money. When I was a young journalist, so let’s say ages 21 through 24, I played fingerstyle guitar on the platforms in New York.
+
+And you could make a good amount of money. I’d make $20.00 an hour. You meet people. It’s really fun. You learn a lot about the city. It’s good forced practice for multiple hours. You learn a lot about the trains. I had a great time doing that.
+
+Tim Ferriss: Did you pick up any best practices for busking? There are many people who play on the platforms. I’m sure they make different rates. So, what were some of the best practices or approaches that you picked up?
+
+Nick Thompson: I think one of the key things, which is kind of interesting, is to figure out the style of music you play and the demographics you’re trying to hit. So, if you’re playing super familiar stuff, if you’re doing Beatles covers, you can go in a hallway where people will hear you for two seconds and walk by, or you can be on a train platform, and the trains come every two minutes, because people who were just here yesterday give you money.
+
+If you’re doing what I was doing which was like weird, instrumental guitar music that people will only like if they get a couple of minutes uninterrupted, you’ve gotta find a platform where there may not be a ton of foot traffic but where the trains don’t come very often. So, for me, the place that turned out to be the best was the L-train platform on 6th Avenue and 14th Street. If people know New York, they’ll be able to visualize it. And what was good about that is that the L-train comes relatively infrequently. It’s one platform with both trains going on either side of it. It’s not a split platform. So, you get people who are going both west and east. And then it was perfect for me demographically because it’s where all the gay guys in Chelsea get off and then where all the vegan, young hipsters are heading to Williamsburg.
+
+So, I got a lot of demographics who are gonna stop if they see a young guy playing guitar and possibly give money. I really spent a lot of time thinking it through, and that was the one I liked. So, what you do is you try to get there. You don’t wanna be there at 3:00 when schools get about because it’s crazy. People are yelling. Nobody can hear you. The kids are jumping. The kids make fun of you.
+
+But you definitely wanna be there during commute time, and you definitely wanna be there at 9:00 at night. And the rules, at least back when I was doing it a lot are once you get a spot, you keep that spot. So, it’s until you either get bored or have to pee that you have it. So, you try to come right at 3:30 and then hold it until 10:00 if you can.
+
+Tim Ferriss: And did you ever contemplate going the Beatles route, playing more popular music so that you could get money for a few seconds of attention? Or did you choose your musical selection for other reasons besides the $20.00 an hour?
+
+Nick Thompson: The thing is that I’m not good at Beatles covers. I’m very set in tradition. I have a limited skillset. I’m very good at writing my own multitonal acoustic instrumental guitar songs, and I’m really bad at reading music and playing other stuff. So, I never had that choice.
+
+But it would be an interesting choice. If you have the capacity to do both, which do you choose? Do you choose the one that gets you more money and is a little less emotionally fulfilling? It’s a typical choice we have in a thousand moments in life. Fortunately, I didn’t have to do that in this particular subway music stage of my career.
+
+Tim Ferriss: Why did you choose writing fulltime instead of music fulltime? It seems like both paths are presumably difficult. You are a creator in both paths. I don’t know if that’s a bad question, but it just comes to mind. You seem very talented in –
+
+Nick Thompson: No. It’s a stupid good question. And I think that what was interesting is that they were competitive with me. And so, the things that go into how much time do you prioritize playing music, how much time do you prioritize being a journalist includes factors like how much do you make per hour but also, as time goes by, how do you expect your life and ambitions to grow. And the thing about being a musician is that I could see the endpoint. I didn’t think I was gonna become a transcendentally good musician. I didn’t see a career where I would change the way music was made or create a new sound. I didn’t think that even if I devoted myself completely to it for ten years I would ever reach that high point. So, I could see the max that I would get to whereas in journalism, the max was quite a bit higher.
+
+So, as the earnings began to equal out, as I began to earn more as a journalist, I started to gravitate more towards that. So, it was a combination of having some success as a journalist and then also thinking through what would the life of a musician be like versus what would life as a journalist be like for somebody with my skills. And as I said earlier, my skills as a musician are limited. I could do well at one thing, but I didn’t think I was gonna really make life work that way.
+
+Tim Ferriss: Do you recall any particular moments, whether – it could be at any point in your life, really, where you thought to yourself, “This writing thing –” or “This editing thing –” something related to long form text, “– is something that I could really be excellent at”? Or, “This is something that I think I could make a good living doing because I can be exceptional at this”? Was there a moment where you had that thought that would compel you to pursue that instead of the music?
+
+Nick Thompson: Yeah. The funny thing is that in my mind through those foundational years, let’s say from the time I graduated college to the time I completely committed to be a journalist at just 29, it wasn’t always music versus journalism. In those early years, it was music versus journalism and other things. And then it was journalism versus other things. Until I finished college, I thought I was gonna be a certain environmental activist or I might go into politics. I got tracked into journalism in a slightly odd way which we can get into. So, it was really only at about 29 when I got hired by Wired and started to do a good job editing stories and when I started writing my book about Nitze and Kennan that I began to feel really confident about it as a career choice.
+
+Tim Ferriss: I think you just said tracked into journalism in an odd way.
+
+Nick Thompson: Yeah. I Should have known you were gonna come at that. So, this is what happened.
+
+Tim Ferriss: Yeah. So, I can’t pick that up. Or I can’t not pick that up, rather. Let’s jump into that.
+
+Nick Thompson: Yeah. It’s super bizarre. So, when I was in college, I was focused very much on being a good college student and succeeding at college and going into student government and getting good grades. But I, to a degree that’s strange when I look back, did not think at all about what would happen. I went to Stanford. I had a graduate school fellowship. I did well in college, but I’d prepared for life Post College extraordinarily badly. And so, I graduate. And then maybe the fall after I graduate where I’m playing guitar, I meet somebody at a party and get surprisingly hired as an associate producer at 60 Minutes which was a great job. And so, I move to New York. I show up at CBS where 60 Minutes is, and within an hour, I’m fired. I’m literally fired.
+
+Tim Ferriss: Wait. Within an hour, you’re fired?
+
+Nick Thompson: Within an hour. The assistant producer says, “Who are you?”
+
+Tim Ferriss: What was the offense?
+
+Nick Thompson: The offense was being hired in a position beyond my stature. It’s very strange. And in retrospect, it’s one of those things where I was treated awfully, but I didn’t understand it. I was 22. So, I show up. I still remember this guy. His name was Will Scheffler. He’s like, “Who are you?”
+
+I was like, “I’m the new associate producer. I’m working under Steve Croft.” He was like, “What have you done in television before?” I was like, “Nothing.” And he was like, “Well, what have you done professionally before?” I was like, “Nothing. I just graduated.” And he was like, “And we hired you as an associate producer?” I was like, “Yeah. I did these interviews and I sent in these tests.” And he’s like, “You’re fired.” And they literally took me out of the building. So, it gets worse. So, that’s I think December of 1997. I graduated from college in June of ‘97.
+
+So, that’s December ’97. So, I’m like, “Huh. What am I gonna do now?” One of my best friends from college was starting graduate school in the fall, and he was about to leave for Africa. And so, I was like, “I’m coming with you.” And so, I go, and I get my vaccinations. And within two weeks I’m on a plane. And then I get kidnapped immediately upon landing in Africa. I fly to Paris and Spain, and then I take a boat to the Tangiers. And I pull out my guitar at a subway platform in Tangiers.
+
+And I’m alone at this point in northern Morocco. A guy comes up to me. He’s like, “Hey. My family plays music. You wanna come home with me?” I’m like, “Great. Yeah. Sure. Why not? I’ve got a day here before I’m supposed to meet my friend.” And it turns out that he’s a drug dealer. He locks me in this room, and he has these cockamamie plans where he wants me to distribute his drugs around America.
+
+He makes me eat a fish head. It’s all very peculiar. But it’s definitely not, “Come home to my family and play guitar.” And so, I’m getting off to a pretty rocky start in Africa. And eventually, he dumps me and says, “Enough of this guy. I’m not getting what I want out of you,” and just dumps me and lets me make my way to the train station. But the funny thing about that –
+
+Tim Ferriss: Wait. Hold on. Let me pause for a second. Was he like, “This guy is definitely not equipped to be a proper drug dealer for me in the United States”? What was the straw that broke the camel’s back where he’s just like, “Enough of you. I’m letting you go”? Did you have an approach?
+
+How did you get out of that?
+
+Nick Thompson: I was very confused. I think what happened was I don’t he had begun that day saying, “I’m gonna kidnap an American.” I think it was more like he saw me sitting there and was like, “Let’s see what happens if I take this guy.” And then I go there, and he goes through my stuff. He goes through all my stuff looking for money. And he finds that I’ve only got – I think it was $60.00 in checks. And there’s no travelers checks.
+
+And fortunately, I had a backpack that had smuggling sections built into it. And so, my passport and the valuable stuff were in there. And so, I think he went through all my stuff and decided that I was an itinerant traveler who was useless. I don’t know what answers I gave him about being the drug mule for him that turned him off. But it didn’t work out. It was a poor job application. And the outcome was the one I wanted. So, he dumped me, got rid of me. And then the great thing is that I then had a story. And so, I turned that experience and some other experiences I had in Africa – oh, yeah. I then spent several months traveling with my friend and some other friends. I turned those into an essay for the Washington Post. So, suddenly I had journalistic clips. And so, inadvertently, having been fired from journalism, I used the experience that followed to get clips. And then I came back. I played guitar.
+
+And then those clips led to a job as the editor of the Washington Monthly which was a place that hired young, ambitious people into low-paying roles but high responsibility where you learn a lot. So, that was how I got going in journalism. It was very bizarre.
+
+Tim Ferriss: How did you pitch the Washington Post? Or why did you end up – was it a cold query or just a cold email to one of the editors who you found on the masthead? Or how did you go about getting this published?
+
+Nick Thompson: I think it was a cold query. I know that I had talked to some journalists before I left. I remember talking to somebody from the Boston Globe – I grew up in Boston – about if interesting things happen to me, would it be possible to write stories from locations in Africa. And so, I had gotten some advice. But I think I wrote –
+
+[Crosstalk]
+
+Tim Ferriss: If you could just get kidnapped, it would make really good material.
+
+Nick Thompson: In fact, that was something my friend said to me. He was like, “Well, to have that experience and only lose $60.00, it’s worth it.” I remember him saying that. And I was so shaken by the whole thing. I was like, “Oh, you jerk.” But he was totally right. It turned out to be a really interesting experience for a mere $60.00.
+
+Tim Ferriss: I saw this woman in New York City at one point walking around with a tee-shirt. It was a crop top that said, “Bad decisions make good stories.” And I didn’t quite know how to take the shirt in the context of her walking around with it. But certainly, true for standup comedians. And it would seem true for people in northern Africa considering perhaps a path in journalism. Let’s jump forward. And I’m sure this is gonna be very nonlinear in how we bounce around.
+
+But one of the things that I mentioned in the intro was this piece, “The Great Escape,” that later was turned into Argo. And when I was doing some writing on this, a line that jumped out at me that I wanted to dig into was, “At Wired, at least at the time, every pitch was graded on a scale of 1 to 6 by everyone on staff.” And there’s a meeting where these story ideas are pitched or are then presented rather in reverse order of their scores along with their standard deviations which is fantastic. But could you walk us through that pitch grading process and tell us the story of “The Great Escape”? Because my understanding is it wasn’t an immediate point to center field, hit homerun type of story. But I’m most curious in the grading process and how you guys did that.
+
+Nick Thompson: Yeah. So, Wired was run by this guy named Chris Anderson who had been a writer at the economist and just a really high IQ Silicon Valley type and a very mathematical way of looking at the world. And so, this efficiency mechanism he brought into this process was to run it like a false democracy under a dictatorship.
+
+So, the final decision would be made entirely by Chris whether a story was [inaudible] [00:23:04] or not. But when you wrote a pitch, it would be sent to everybody on staff, and everybody would vote on it and grade it. And the theory was if you – it was a wisdom of crowds theory that if you got everybody’s vote, you could immediately tell what was great and what was bad. I think he genuinely believed that one of the things that happen in meetings is that you spend a lot of time discussing stuff that 95 percent of the room hates. But since only a couple people talk, you can’t quite determine that quickly.
+
+And so, this is a way of determining what is the stuff that 95 percent of the room loves and 95 percent of the room hates immediately which is a super interesting thing. It’s theoretically a great thing to do. The problem with that is that it can be really demoralizing when your pitches do badly. It’s okay to get your pitch rejected by the editor in chief, but to have your pitch graded badly by your colleagues was emotionally rough. So, for “The Great Escape,” I remember this really well. So, this writer, Joshuah Bearman, who’s done great stuff. This American Life. He’s written all kinds of wonderful essays. We were quite a bit younger then. I remember he sent me a bunch of pitches. And I can’t remember what the whole packet was. Maybe he sent me three ideas. But one was, “Hey, I met this spy. He’s got this story of a crazy escape from Iran.” And then another one I remember on the same email was, “I think Stalin tried to create a half-man, half-ape army.” And so, the two things were together.
+
+Should we investigate Stalin’s half-man, half-ape army? Or should we investigate this escape from Iran? And so, through whatever process of conversations between editor and writer, Josh and I decided to pursue the escape from Iran. And I pitched it at the meeting. And I knew it was gonna do badly because it wasn’t a Wired story. It’s from the 1970s. It’s not about how Amazon and artificial intelligence were shaking – it just wasn’t core 
+
+Wired. And so, everybody voted it really badly. The scores are 1 to 6. It probably got a score of 2 something. On the other hand, Bob Cohen, who was the executive editor, the No. 2 person there, I remember at the pitch meeting just being like, “It’s not Wired, but I love it. Let’s do it.” So, he just muscled it through. So, again, it was democracy under a dictatorship. And the dictators wanted to do the story because it was such a cool, so manifestly riveting narrative. So, we ended up assigning it. Josh wrote it, did a great job, published it. And then Hollywood took an interest.
+
+Tim Ferriss: So, a few follow-ups. What makes a good pitch? So, when Josh sent you this pitch, let’s just assume for the time being that it was a good set of pitches. This is gonna sound funny to people who don’t have the background, but we could talk more about Stalin anyway, but we’ll leave that alone for now.
+
+Nick Thompson: Yeah. The half-man, half-ape army. It’s possible there was a real missed opportunity. We would have found out there was half-ma, half-ape army which would be an amazing story.
+
+Tim Ferriss: Well, not only that, but you have – correct me if I’m wrong. It’s from the internet, so who knows? – but a long friendship with Stalin’s daughter. Is that right?
+
+Nick Thompson: Yeah. that is very true. Happy to talk about that. Yes. Svetlana and I were friends for many, many years.
+
+Tim Ferriss: Okay. But putting aside the half-man, half-ape army of Stalin, question mark, what makes a good pitch? If a writer is pitching someone like you, what does a good pitch look like? What are the ingredients? What are common mistakes that make something a bad pitch, however you wanna answer that for folks?
+
+Nick Thompson: Yup. So, a couple of elements that I appreciate are when the writer gives options. So, what Josh had done in that email is he had sent three ideas which I think is really great. And it’s useful to be able to pick. And it gives you a sense of the person’s range of mind. Another element that’s very useful is the element of a pitch that answers the question, “Why am I the person to do this?” So, in Josh’s pitch, the reason he was the person to do it is that he had found something that no one had known before and 2) had unique access to the key character, had access to this spy, Tony Mendez. I think that was his name. So, that’s another important element. And then the third is understanding what the magazine is trying to do and the section you’re trying to write for. So, what Wired was trying to do in its feature then as now was tell really important stories about how technology is changing the world but also tell things that are cinematic and fun to read and that are part of the wired world.
+
+So, this story, “The Great Escape” wasn’t going to change the way you think about tech, but it had characters. It had emotional resonance. There was a movie you could play in your mind as Ben Affleck later showed without question. And that’s often a question I’ll ask in a story.
+
+So, how will the reader able to visualize it? How will they be emotionally attached to it? Why will they care about the characters you introduce them to given what happens to them at the end? So, a good pitch is something where you write it in a way that makes the editor convinced that you’ll be able to write well, that shows why you have special knowledge or special insight or special access, it shows why the story is new and that it’s structured so that the pitch clearly fits the aims and goals of the magazine or publication you’re writing for.
+
+Tim Ferriss: Do the writers also indicate, or is it just assumed, a given length or a lead time for completion? Is any of that included in that initial pitch? Or does that come later? Or is it just –
+
+Nick Thompson: That probably comes later. If it’s somebody who I’ve worked with specifically, they may say, “Hey, I’d like to do this this month,” or, “I’d wanna fit it into my calendar,” or, “I’m planning to go to location TK in June. I could do it then.” But normally, it’s more like, “This is a story I’d like to do in the next reasonable timeframe.”
+
+Tim Ferriss: So, I just wanna back up for a second. For who don’t know what TK means, TK as I understand it means to come. But it’s spelled TK so that you can find it very easily when you search for it. That’s my understanding at least.
+
+Nick Thompson: That sounds right to me.
+
+Tim Ferriss: Yes, because very few words in the English language have T and K. So, you can do a Ctrl F and find the things that you need to spot really quickly. So, for people who are wondering why TK – a friend of mine, Neil Strauss will turn off his Wi-Fi when he writes and not interrupt it for factchecking and certain types of research and just drop TK in throughout the piece and then do that as a batching process later just for people who are wondering about that. He also uses an app called Freedom to block the internet so that he can –
+
+Nick Thompson: Yeah. I use that too.
+
+Tim Ferriss:  – disrupt himself.
+
+Nick Thompson: It’s a good thing to do.
+
+Tim Ferriss: Now, you just described Chris Anderson’s process which fits his personality. And I’ve met Chris before. A very smart guy. What is your process? How does your story pitch process differ?
+
+Nick Thompson: It’s pretty similar, actually. We’ve gotten rid of the scores and the standard deviations. I thought that probably introduced a little bit too much stress and unnecessary anxiety for people. But there is value to it I can see. So, what we do is a similar process. So, the writer will work with an editor. And they’ll come up with a pitch.
+
+We try to make sure that they’re under a page just to respect everybody’s time and because constraints lead to better work in general. So, people send in a one-page pitch. We sit around in a room. Lots of people are invited. The editors who’ll be assigning the stories sit around the main table. A story comes up, and we talk about it. We talk about what are the unanswered questions. Will the writer really be able to do that?
+
+Tim Ferriss: What are common unanswered questions? Sorry to interrupt.
+
+Nick Thompson: Sure. A lot of pitches, they’ll be missing that element of what the scenes will actually be and how the characters will develop. It’s like, “Here’s a big idea. Here’s an important thing that happened, and I’m gonna write 5,000 words about it.” And there’s almost no thing that is big or important enough that you can write 5,000 words about it if you don’t have specific scenes and visual moments where you can pull a person in. And again, this is for Wired features.
+
+And we run web stories. We have a much more informal process. We run short things inside a book where there’s a more informal process. But we only run four features a month, so 48 of them a year. So, we do discuss them all and whether they’ll be able to pull it off and how will the chronology work. And there are a lot of discussions about the writers because an incredibly talented magazine feature writer, the subset of ideas they could write about is a lot larger than somebody with more limited skills and experience in this particular craft. So, we’ll talk about, “Okay. Well, what have you read by this person?”
+
+“Oh, I remember reading that story. I didn’t think it totally worked.” Or, “I read that story. It did work quite well.” So, that’s how it works. We all talk about it. And then afterwards, I’ll speak with the executive editor, a couple of other editors, and we’ll make a decision. Red light, green light, red light, green light.
+
+Tim Ferriss: So, we’re gonna talk about Atavist, the startup that I mentioned. But I’m gonna tie it in here because my understanding is that you’ve had a decent amount of exposure to feature pieces being optioned for film. And Argo, or rather “The Great Escape,” which then became Argo, is one such example. A lot of writers dream of having things optioned. And so, my questions I suppose are A) Is it a dream worth having? Or is it just almost uniformly disappointing? Or somewhere in between? And then B) If you were having something optioned of yours, what are the deal points or the deal structures that you would pay attention to?
+
+Nick Thompson: Oh, that’s interesting. Okay. So, yeah. I think very few stories from Wired were optioned before 2007. And then Wired started getting a reputation as a place where stories were optioned and has had a good amount of success since then. The Atavist, which we started in 2009 has had success from the get-go. It’s something like 25 percent of the stories that have run in the Atavist have been options to Hollywood which is a crazy, crazy percentage. Maybe it’s 30 percent.
+
+And so, is it a dream worth having? Yes, it is a dream worth having. The most important thing is having a good agent who has actually sold films before, not like – a lot of writers don’t know the right agents. And having the right agent just is utterly transformative. It takes you from almost no chance to a very good chance. So, having an agent who has actually had success selling magazine stories in Hollywood before is really important. And so, what we did with the Atavist is we just started out with the agent who had had a lot of success. The same guy that we had used at – that my cofounder, Evan Ratliff, who’d been a writer for Wired and that I had used at Wired.
+
+And so, we just brought him in with the Atavist from the get-go or from fairly early on. And then when you’re looking at the deal points, what you want is there’s a whole series of stages along the way where you get different paths. You get an initial amount of money, and then you get certain renewals. And then if the script is written, and then if the movie is made – and so, what you want are you wanna make sure that high quality people are being added at each step, so that it’s more likely to move from A to B to C to D and that you don’t fall for the dream where it’s like,
+
+“All right. We’ll give you $1,000.00 but a million dollars if you make it.” And there’s almost no chance it’ll make it. You wanna make sure that you get paid real money upfront because even a really good script with really good people attached to it has a fairly low percentage or chance of getting through.
+
+Tim Ferriss: Definitely. Certainly, it seems that way. But yet there are some that make it through, like “The Great Escape,” for instance. Are there any other clauses that are particularly important? For the first book that I did, I’ve had folks approach me about film adaptation. But it seemed like at least in the structures that were being offered, it was very much a lockup period with almost no monetary compensation with no guarantee that they would actually do anything with it in the sense that the reversion of rights clause became really important to consider, much like if you’re a product developer or an inventor, and you develop something that you wanna license to a larger company, there’s nothing compelling them to spend marketing dollars on it or to develop it or push it unless – or I should say you increase the likelihood of that if you have that dictated in the terms of the contract and then some reversion of rights clause.
+
+So, I suppose what I’m wondering is how much time in your mind do you allow for a story to float out there in the ether of Hollywood before you pull it back in some fashion or allow it to take a different path potentially? Because I know friends who are writers who have had stuff just float around. “And so-and-so’s attached. But oh, no. They’re not attached because they’re busy. And then this person’s attached. No, they’re not because they had a conflict.” And it just goes on and on and on for years and years and years. Is there any ways that you’ve found to mitigate against that in any way?
+
+Nick Thompson: Yeah. So, this is not my area of top expertise, but a couple of things. 1) I think that the value of before you publish and before you put it up for auction of locking a few things down is really important, making sure you have the life rights to the central character, that you’ve negotiated – for example, in the Argo story, it was really important that Josh had locked up rights to Tony Mendez’s story so that after the story ran, it wasn’t like somebody else could do the same story but without Josh attached to it because Josh and Tony came as a package.
+
+And so, they had negotiated the deal together. And so, that’s a really important thing, to make sure that you have as much as you can, the rights to that particular story buttoned up because it gives you much more leverage if potential bidders aren’t like, “I can probably do this without Nick.” Or, “I can probably do this without buying the rights to Nick’s story because it’s public domain.” So, talking to an agent and working through that
+
+I think is really important. And then just knowing that there’s no part of the world where people tell more baloney stories about the stars that are coming than Hollywood. There’s so many, “Oh, yes. We’ll attach Francis Ford Coppola. We’ll do this. We’ll do that.” And they’re not lying, it’s just never true. So, you really need to have it written out. And so, I think where people get caught is they fall for that. But what you need to do is you need to have an agent. You need to have an auction. You need to have a formal process. You need to get more than one person excited.
+
+And you get two people bidding, then you have much more leverage on making sure that you get terms where you get either a decent amount of money or a pretty good guarantee that it’ll be made. And what we did with the Atavist is we ultimately set up a first look deal, meaning we work with a Hollywood studio that pays us an annual guarantee every year to be able to read the stories before everybody else and to have the opportunity to bid on them.
+
+And so, that was a way of getting guaranteed income, making sure that somebody was interested, and locking the process in a way that that worked for us.
+
+Tim Ferriss: That’s great. Yeah, that’s very smart. I didn’t realize that. For people who are wondering, “Agent, agent, agent. I keep on hearing agent. How do I get an agent? How do I figure out who the agents are?” I’d love to hear your thoughts. A very good starting place is to, in my experience, sign up for IMDB pro and look at the credits of different films that you’ve enjoyed or perhaps screenplays that you might be interested in and try to trace back the roots that way. IMDB then provides contact information for different actors, directors, and so on.
+
+And you’ll start to see certain names that pop up a lot like William Morris Endeavor, WME, CAA, Creative Arts Agency, UTA, and so on. But would you have any other recommendations for people who want to educate themselves about that side of the business, per se?
+
+Nick Thompson: My only other recommendation would be to find friends or friends of friends who have actually had success and say, “Who sold it?” And I do this much more in the book publishing world where a higher percentage of my friends have sold books where, “I know you sold a book. What agent did you use, and would you recommend him or her?” And then if you’ve got five people who sold books, you ask them all.
+
+A couple of names come up, then you go meet with them, see who you click with, who you get a good bond with. The best possible agent is somebody who has a track record and who actually likes you and cares about you. And sometimes those things are inversely related because if they have a track record, they have so many clients they’re not gonna care about you. So, you just gotta figure out how to find somebody who’s both good and responsive.
+
+Tim Ferriss: So, I wanna segue to the New Yorker for probably more than a few minutes since I find the New Yorker fascinating, as I do Wired. But –
+
+Nick Thompson: I love them both.
+
+Tim Ferriss: – in a – I think it was a 2015 interview, you’d said – and again, fact correct is needed – but, “The most encouraging thing we found is that the stories we’re prouder of, the stories we’ve put more effort into attract more readers.” So, I’d love to talk about what that means if you could elaborate on that because as someone who personally, speaking for myself, enjoys longform content and makes some effort to resist the temptation to listicle myself to death in hopes of eyeballs and clicks. What did that mean? And how did you foster that at the magazine?
+
+Nick Thompson: Yeah. That was one of the most important existential both debates and findings at the New Yorker. So, I started at the New Yorker on the print side when the magazine hadn’t put a lot of effort into having an ambitious, daily website. The website of the New Yorker mostly just published the print stories. And some of them were behind a paywall, and some of them were not. And then as part of this process where data revenue became much more excited about daily journalism and the importance of having a website, eventually, I was moved over to run the website and work with a bunch of people. And so, the initial challenge was can you publish daily content because the magazine is put together by so many people with so much experience.
+
+And the website was this startup within the organization where you have to be a lot scrappier. A New Yorker writer will get several dollars a word to write 5,000 words. So, you’re looking at $15,000.00 a story. And on the website, you’re looking at $200.00 a story. So, can you produce content for that $200.00 that won’t detract from the other stuff? And that’s a challenge. And you have to figure out what is the DNA of the New Yorker. But it is –
+
+Tim Ferriss: How long were those stories? I’m sorry to interrupt. The online?
+
+Nick Thompson: Maybe 800 words, 1,000 words. That was actually an interesting conversation. If you make them 300 words, will it actually detract more than if you make it 800 words. Should you make the web stories more like the long print stories or less like the long print stories? And so, there’s a lot of back and forth. There’s this central debate in my mind for several years. How do you make daily web content that feels of a piece with the New Yorker magazine that’s been around for 85 years and has such an incredible history and such great stories?
+
+And so, back to the initial question. Over time, we found that what got the most readership that worked the best in every sense were smart pieces of analysis of what was happening right now, ideally written by the same people who wrote for the magazine. And they would spend far less time per word on their web post than they would for magazine stories, but they would feel related. They would feel of a piece.
+
+So, if Borowitz wrote a web piece about a terror attack that had just happened, it would feel enough like a solo Borowitz magazine feature, and the readers would appreciate it. And so, ultimately, our strategy became getting the staff writers to write regular posts, hiring people who could write very quickly, could write in the cadence of the web but who had similar prose styles to the New Yorker staff writers, moving. John Cassidy, for example, who was a magazine staff writer – writes a column every day for the website which is great.
+
+Really reliable to know that every day you would have a terrific column by this super smart, well-respected guy. Same with Amy Davidson who had been a senior editor. So, bringing over people, bringing in new people, getting some of the staff writers. And what we found was that the stuff people liked was the best stuff we published. That was really heartening. People didn’t wanna go to newyorker.com to click through sensationalized slideshows. They wanted to come to the New Yorker to read smart, interesting things. And that was great because when your business incentives align with your journalistic incentives, you’re in a much happier place than if the two are run perpendicular to each other.
+
+Tim Ferriss: So, I would love to get your help encouraging people to do more longform. And by people, I mean publishers to foster that type of patient editorial in some cases. And so, I’m gonna make this really personal. I’ve thought a lot about hiring writers to do longer form pieces for my blog, for instance, which does not have the draw or cache of the New Yorker, certainly, or Wired but nonetheless, decent amount of traffic. I have a couple million uniques per month. And what struck me when I was trying to think through this as someone who loves longform is that I didn’t know the process.
+
+It’s more of a black box than trying to put together a list of 12 bullets or a slideshow, which I’m not gonna say it’s mindless. But it really doesn’t require a lot of planning. So, if for instance, I had ideas for certain pieces and wanted to invite people who had ideas for pieces who were qualified writers to do – let’s just call it three to ten thousand word pieces.
+
+So, a very broad spectrum. What is the process then for figuring out how much I should pay someone in a context like that? Because you noted yourself there’s a very wide spectrum – I think I just used that twice in three sentences. So, shame on me. But nonetheless, in terms of payment per word, I don’t even know how that works because I’ve never done it. But how would you think about going about doing something like this if I wanted to do an experiment of three to five pieces with different writers and see how it goes? How would you suggest I even think about this? You have so much experience, and I have none because everything on the blog with a few rare exceptions have been my own stuff.
+
+Nick Thompson: Yeah. That’s a really interesting question. It’s like what we went through at the Atavist. So, here are a couple ways to picture it. So, first, you could say, “All right. Well, how much advertising revenue will I get?” And so, you could do the math. So, let’s say you would get 50,000 people who might read this story. That’s a lot. But through your social promotion and through general traffic to the site. So, 50,000 people will read the story.
+
+You’ll be able to sell your ads at whatever CPM you set up. Let’s say $15.00 per thousand visitors. And you’ll be able to show four ads per person. One quarter of the people will be turning on adblockers. So, we’ll say three.
+
+And how much revenue are you generating total? And so, you go through those calculations. You figure out what is your sell for rate on the advertisements, what is your CPM on the ads. And the problem is when you do that, if you add those numbers up, you’re gonna end up generating for your story that has a couple of ads viewed per person – you’re gonna end up generating like, $2,000.00 in total revenue for this story. The numbers are just not good.
+
+And so, if you have an advertising supported longform journalism shop, it’s really hard to pay for the writer, the editor, the rights to the art and the bandwidth. It’s a really hard thing to justify. And that’s something we thought through a lot at the New Yorker and at Wired and at the Atavist. Okay. So, how do you make the economics work? If you’re only gonna generate – sometimes it’s just a couple hundred dollars in advertisement revenue, what can you do? Well, the New Yorker and Wired, there’s a second revenue stream which is subscriptions. And so, you generate way more money from subscriptions on these longform stories than you do from advertisements. So, suddenly, the total amount of revenue generated by a long story is much higher. So, suddenly, you’re generating $4,000.00 for a story or $5,000.00 for a story or whatever it is. And you can justify paying higher rates. The third way of making money is find another thing.
+
+So, with the Atavist, it was Hollywood where we would pay writers – I think we would pay them – well, we had different models. But you ended up being able to pay them much better rates because you know – if they agree that they will give you 50 percent of the option price if they sell it to Hollywood. So, we would bake that into our contracts like, “Either we can pay you $2,000.00 for this story and you can keep all the Hollywood rights, or we can pay you $10,000.00 and give us 50 percent of the Hollywood money.”
+
+And then the writer generally would choose the second option to get the higher guaranteed payment so they can justify spending all the time on it. So, with you, you might wanna think through something like that or think through whether there’s another revenue stream you can attach to, whether it’s being part of events or something like that or find a specific sponsor for a kind of story. But that’s how I would think through the economics of how to support it. But again, the core problem and the reason why it’s really hard for publications to do longform is that it takes a writer two months to write a story that will get 50,000 readers. If you have that writer putting out listicles, they’ll be able to generate three of them a day, each of which will get 25,000 readers.
+
+And it’s sort of the bang for the buck equation. Unless you change the economics somehow by having subscriptions and movie deals or something else, all the economic incentives push people towards the short stuff.
+
+Tim Ferriss: Yeah. I’m in a somewhat odd position maybe in the sense that I don’t have advertising. I don’t have memberships. There’s a possibility I could do something with Hollywood optioning. There are just stories that I would love to have told and characters I know who are just endlessly – to me at least – fascinating who I don’t have current bandwidth, maybe even the capability, to do justice in a really longform piece. And I would love to just – I wanna just see it in the world and pay them to do that, probably reserve any option right for film or anything like that in the case that I’m paying them. How might you determine how to pay them in a scenario like that? Is there –
+
+Nick Thompson: If you’re prepared to lose money on it, then you can get –
+
+Tim Ferriss: I’m prepared to lose money but not hemorrhage out the face if that makes sense. I wanna pay a fair –
+
+Well, it’s longform journalism, so you won’t hemorrhage out the face. If you pay people $2.00 a word, you’ll get all the best writers in America will be thrilled to write for you. But you pay them $1.50 a word, you’ll get a slightly small – if you pay a buck, people will be like, “Nah.” So, yeah. So, your range will be somewhere between $1.00 and $2.00 a word. If you’re Michael Lewis, you’ll ask for substantially more. But for really terrific writers, they will be happy with those rates.
+
+Tim Ferriss: Cool. Amazing. All right. Well, I’m gonna publicly say just for any writers who are listening, I will pay you $2.00 a word given the ideas that I have. So, yeah. That may change. But for the first few pieces, I wanna do some really – there are some things that I’ve been thinking about and have been eating up the RAM in the back of my mind for probably a year or two. And I think there are people who are better qualified to tell some of these stories. So, cool.
+
+Nick Thompson: That’s great. I love that you’re gonna do that. That’s amazing. So cool. Productive podcast.
+
+Tim Ferriss: Productive podcast. Cool. So, I’ll make this – well, I guess it is called the Tim Ferriss show, so I shouldn’t feel badly about being so self-indulgent. But let me move on. Also, at the New Yorker, and this was in Politco, this is an interview. So, this was I suppose when you were a senior editor. And it said you’d been responsible for shaping the 10,000 word raw copy filed by writers like – and it went on with this amazing list of writers. How did you do what you did as an editor? How does one edit these incredible writers who have 10,000 word pieces? When you read the first – I suppose, first of all, do you get an effectively finished piece? Do they send you a first draft that is rough? How do these writers work with you? Or did they work with you?
+
+Nick Thompson: Yeah. So, it totally varies. So, the great thing about the New Yorker is that it’s all staff writer driven. It may be a unique publication in America in that 90 percent of the content is written by 50 people. And so, you show up, and there are whatever there are, six senior editors. That means that eight people work with you. And so, your life is about those eight people. So, making sure that they have the right ideas, that they’re all working all the time, that you’re helping them maximize their talents, their ambitions, and helping them find stories. And so, I worked with a group of writers. And with all of them, there were some things that I would do the same and some things that I would do differently. So, first, whenever they filed a draft, I would immediately write back and say that I’ve got it because even if they’re the most talented writer in the world, everybody is slightly insecure and wants to know that their story has been received by the editor. So, I’ve got it. Second thing is I would read it right then.
+
+I wouldn’t delay because procrastination is the enemy of good editing. You should just start and do it. And so, if you get the draft while you’re in the middle of something else important like editing another draft, of course you wait for an hour. But really, you should within the first six hours of getting a draft from the writer, you should have read the draft. And so, then you read the draft. And then you start thinking through. And usually, the first step would be going through and sending them back a memo saying, “Hey. This is good. These are the things I like. But here are the big structural issues,” and actually giving them specific guidance. And my goal was always to make it a memo that I wouldn’t have to amend. You don’t wanna write and say, “I haven’t really figured this out, but I think you might wanna do this. I’ll tell you more tomorrow.” No, you wanna give them actual advice and things they can work with. And if they disagree, you can have a conversation. But I would write a memo saying, “Hey, this piece is strong. I really like this. But I don’t think you hit this core issue. I think that the chronology is broken in these four ways.
+
+I think you overuse this. And I really think you need more reporting on that.” And so, for every writer, that’s the first step which is, “Here’s what I think is wrong with the piece,” and you adjust that based on the amount of time you have allotted. If it’s a political piece, if it has to run next week, you try not to – if they’re only gonna be able to jump over something that’s four feet high because of the time available, you try not to set the barrier to six feet high. So, that’s the first step. Then after that, it starts to really vary depending on the writers.
+
+You go through a process from wide aperture, big comments to very narrow, focusing on specific sentences at the very end. And the process by which you go through that is different for different writers. So, I worked with Tulsa Zanay, one of the greatest prose stylists I’ve ever worked with. And I would never adjust a sentence of his with my own prose. I would never say, “Why did you write it this way?”
+
+I would just say, “I don’t think this works. Please rewrite it,” or, “Please do this.” I would never redo it myself. But I’ve worked with a lot of other writers who I would be much more likely to say, “Yeah, maybe you should write it this way. Or maybe you should do it this way,’ or even some writers where I would go in and rewrite sections. I remember I worked with Ryan Lizza. And he would always bend to this crazy deadline. You have to write the leading from behind story. It has to run on Thursday. And so, we would literally be in Google Docs where I would be rewriting the beginning of the piece while he would be writing the end of the piece. We would spend our whole weekend with him filing down the story and me chasing him as an editor and then him cycling back up and going through my edits and us just looping through the piece with me trailing behind him. So, there were different processes with different people. But that’s a guideline to how it worked. But I can go into much more specifics on that because it’s one of the things I absolutely loved.
+
+Tim Ferriss: Do you become a good writer first and then a good editor? Or can you do it the other way around? For people who want to develop an eye for editing, I suppose which is also very, very closely related to rewriting, do you have any recommendations? Are there any books or classes or writers you would pay attention to perhaps to people who are listening who say, “You know what? I really want to develop a keener eye as a writer/editor”?
+
+Nick Thompson: Yeah. So, a couple of things that I think are useful are – okay. First, so how to get a better sense of style and structure. So, one of the things that I think was really important to me is that I found some writers who I really loved, and I just read their stuff out loud. That forces a level of concentration and enhances the process. I remember I would go through the pieces of this writer; Katherine Boo who works at the New Yorker who I thought was maybe the best stylist around. And I would just read her pieces out loud.
+
+Tim Ferriss: What was the name again?
+
+[Crosstalk]
+
+Nick Thompson: Katherine Boo.
+
+Tim Ferriss: How do you spell Boo?
+
+Nick Thompson: B-O-O.
+
+Tim Ferriss: Oh, there we go.
+
+Nick Thompson: And she wrote a lot of pieces about poverty. Her last book was about India. She doesn’t write a ton, but she writes is extraordinary. But you could also do it with Cal Sesenay. You could go back and do it with John McPhee. You could go and do it with Rachel Aviv or whoever your favorite writer or stylist is or even just a piece that you love. I had all kinds of features in Wired that are super interesting to read if you read them out loud. So, find a writer you love for whatever publication and study them and think about what exactly are they doing. Most of my training in this was done as an editor. But you could also do it as a reader which is to map a story. So, I will often – on a whiteboard when I’m working with a writer, but you could also just do it as an exercise with the finished piece – look at the structure of the piece. So, how exactly does it work? Where is information presented? Where are characters presented?
+
+So, I’ll use this example because it’s sitting right here on my desk. By 11,000 word story about Mark Zuckerberg that you mentioned at the intro, it has a very specific structure that may not be the right structure or may not be the ideal structure. But it is a very deliberate structure. So, the way the story works is several characters are introduced. And the first section of the story is chronological from roughly February of 2016 to I think it’s April of 2016. It tells the story of Facebook during that two month period. And then the piece has its one jump back where it goes and it tells very quickly the story of Facebook from 2007 to 2016. But it introduces several specific themes and a couple of characters who will become important later. And that was very deliberately done. Then the story jumps back into the chronology, and it picks up right where it was in April of 2016, introduces a couple of facts that will be important later to the story, and then it mostly runs chronologically.
+
+So, the structure is 80 percent chronological and 20 percent thematic. At certain points, you have to introduce stories slightly out of chronological order because of where you are thematically in the story. You’re talking about Russia, you have to introduce a fact about Russia even if it doesn’t exactly fit the timeline. But my coauthor, Fred Vogelstein and I worked really hard to as much as possible make it chronological. It was a very deliberate structural choice. So, you could map out that story and by mapping it out learn the things that I just said and also have a closer sense of the moments where we chose to break away from the chronology and then be able to think through why we did that. And so, you can do that with most stories, and you’ll see flaws in some of them. You’ll see brilliance in some of them. You’ll see that chronological structure is not a particularly interesting structure but it’s a very good one. You’ll see interesting ways to do it. You can do it watching movies too. So, I think it’s a really useful exercise and will make you a better writer and observer to take these things apart.
+
+Tim Ferriss: When you map a story, just to use the tool you mentioned which is a whiteboard, what does it look like, visually? Is it bullet, bullet, bullet from top to bottom? Is it a set of circles going from left to right with things inside the circles, outside the circles? How do you map out a story if you’re doing it on a whiteboard?
+
+Nick Thompson: There are different ways depending on the story, but it probably has two things. It probably has section, so like, Section A: The Crime. Section B: The Chase. So, titles for all the sections and then lines with the different characters who are being introduced and where they’re being introduced and maybe even the different themes that are being introduced and where they’re being introduced. So, it’s not really circles. It’s closer to bullet points.
+
+Tim Ferriss: A recommendation I’d love to make for people also – this is something I really need to revisit myself, although I’m not doing as much writing at the moment. But for people who are really interested in structure and this mapping of stories, Draft No. 4 by John McPhee is just a fantastic read. And it really gets into the weeds. So, you have to be exceptionally interested in writing to get into it. But it shows some of the diagrams of his structures for various feature pieces that he’s written, including for the New Yorker which
+
+I find incredibly, incredibly fascinating, given that – if anyone has not read Levels of the Game by John McPhee, I cannot recommend it highly enough, also from a structural standpoint, that chronology plus theme combination. Just a wonderful, wonderful read.
+
+Nick Thompson: Since you said it, I’m gonna tell a story about McPhee because he’s in some ways the reason why I ended up working at the New Yorker. So, when I was at Wired as a senior editor, the New Yorker reached out and said, “Hey, we’ve heard you’re a good senior editor. We have an opening. Would you like to apply?” I said, “Of course.”
+
+I loved Wired. I loved everything about Wired. But New Yorker would be an amazing challenge. And so, I applied. And I went through the process. And the process was you edit two 10,000 word stories. You rewrite things. It’s an exhaustive process. You interview with eight people. And I went through, and I didn’t get it.
+
+ But I could sense in the note that they sent that I had been close. I think this is 2009. It’s probably October of 2009. And then there was a holiday party in December of 2009 where I met somebody who had been an assistant at the New Yorker. And they were like, “Nick Thompson. Oh, my God. They went back and forth, back and forth. They almost hired you, but they didn’t hire you.” I was like, “Well, that’s interesting information. I suppose it’s painful, but it’s interesting.”
+
+And so, then two months later, in about February, I knew I was about to receive weirdly two other offers, one to go into television, one to work for another magazine, both of which were very tempting. And so, I knew that I would be switching my career soon. And I remember staying up late one night. I read The Shape of the Bark Canoe by John McPhee, which is just – it’s an unknown book but just brilliant just like all McPhee’s work is so good. And so, I read it, and I finished it. I remember lying on my couch. It was like, 2:30 in the morning. And I finished it. I was so emotional. “I wanna give the New Yorker another shot before I totally step away.” And so, that night at 2:30, I sent an email to the deputy editor Pam McCarthy. I was like, “Dear Ms. McCarthy, I know you almost hired me four months ago. And I’m about to leave the company. Wired, where I worked then and where I work now is [inaudible] [01:05:27] I’m about to leave the company to go somewhere else.
+
+But I really wanna work for you. So, this would be the moment. And I’d love to have another shot at it.” And it was a strange email to send. I was just so emotional after reading McPhee. And Pam wrote back and was like, “Okay. Let’s come meet with me again and meet with Remnick again.” And so, I went upstairs to their office, met with them again. Remnick was very blunt about why he hadn’t hired me the first time, asked me whether I could address the concern he had.
+
+ The concern he had was basically that, “You would come on and you want to write and do television, do all this other stuff instead of just putting your head down and being an editor.” I said, “No. I will put my head down and be an editor. I can prove it to you if you give me another edit test.” They gave me another edit test, and then probably a week or two later, they hired me. So, it was entirely McPhee that spurred me to write that email to Pam and then got me hired.
+
+Tim Ferriss: That’s so amazing. What a great story. Oh, my God. Oh, yeah. For people who really wanna go down that rabbit hole, “Brigade de Cuisine,” – there’s so many. Oh, my God. You really can’t go wrong with McPhee. That’s a wonderful story. How did you decide to get into the startup game? Startup game is a full contact sport, generally very, very difficult. How did that come into the fold?
+
+Nick Thompson: So, I was an editor at Wired. And at Wired, you pitched in at that time under Chris Anderson really encouraged people to do different things. I had done this crazy, wonderful story where there’s a writer, Evan Ratliff who I edited at Wired. Awesome guy. We had gotten very drunk one night. And we were talking about – for some reason, there were a lot of people who were faking their death and starting life over which is an interesting thing to do in the digital age because it’s easier to start a new life and create a new identity. Just create a new email address and new Twitter account.
+
+But it’s also easier to track people. So, it’s kind of an interesting Wired dilemma. And we were talking about how to tell that story with two other friends, Ed McGray and this woman, Jen Kahn. The four of us were having ceviche and alcohol. And somehow through this long conversation, Evan came up with this idea which is that he’d write a story about how to fake your death and start life over, and then we would run it.
+
+And then he would fake his death, and we would run a manhunt to find him. Or not fake his death, but basically go off the grid, and Wired would run a manhunt to find him. This was early Twitter. And so, we took that idea to the Wired pitch meeting. It got a very high score, got approved. He wrote part one, which is, “Here are some stories of people who’ve tried to start over in the digital age.” And then he went on the run. And so, we ran this experiment for a month. It was August 2009. And the experiment was Evan Ratliff has disappeared. If you find him, you get $5,000.00. And then the rules were that I would have all the information a private investigator would have.
+
+So, I would be able to interview his family members. I would have access to his old photos, his Social Security number, all those things. And I would leak them out through Twitter over the course of the month. And we had no idea it was gonna work. It was one of those things that maybe he’ll get found the first day. Or maybe no one will care. But through –
+
+Tim Ferriss: Did you end up leaking his Social Security number?
+
+Nick Thompson: I don’t think I leaked – I might have.
+
+I leaked so much information about him. I certainly put out his address, his girlfriend’s name, his exes, photographs of him in high school, his mother’s name, all the stuff you would have, his credit card bills. And it was crazy. People got so excited. And it all happened on Twitter. It was the first time I was really into Twitter. And so, the deal is if he made it a month, he’d get $5,000.00. If he got caught, the person got $5,000.00. And so, he got caught because he was using Tor to disguise his IP address.
+
+It’s a masking thing that makes it possible for people to see what IP address you use. But he screwed up once. And by screwing up once, some smart coder figured out a little bit about where he was. Then that guy figured out the fake Twitter account that Evan had created and followed it by creating a fake fembot. And so, we had a fake fembot following editor Evan. They somehow then figured out that Evan was in New Orleans. We made a deal with Will Shortz that if you solve the New York Times crossword puzzle, embedded in it would be a clue about where Evan was. And so, I think the clue was something like, “He’ll be at a pizza restaurant.” And I had leaked online that he was gluten free. So, these geniuses online, they solved the crossword puzzle and basically put together that there’s only one pizza place he can go to in New Orleans which serves gluten free pizza. And they caught him on the last day. It was this amazing hunt. So, that was really exciting. And so, that happens.
+
+And Evan and I of course, bond despite the fact that I’ve almost ruined his life as the private investigator. And so, maybe a month after that, Evan and I were – maybe two months after that, we were at his apartment watching a football game, like an Alabama College football game. He’s from the south and was rooting for them. And he’s like, “You know, we should start a magazine that does that kind of thing.” I was like, “Sure. That sounds like fun.” And I just published my book, and I had a really good web designer, this guy named Jeff Rob. I was like, “Well, let’s meet with Jeff and see whether he wants to do it with us. And so, the three of us got together, and we said, “Okay. Let’s start a digital only magazine.” And so, the idea was that I would keep my job. The two of them would go fulltime to start the Atavist. We would run experimental stories, crazy longform stories and see what we could do. And then right about that time, Apple released the iPad. So, the idea became it would be iPad focused and we’ll do multimedia. And so, we started this company at a super propitious moment.
+
+In order to create the stories Jeff had to write a content management system that would make it easy for us to do multimedia storytelling. And so, accidentally, we suddenly had a business too because then we were able to license the content management system to people. So, we built a really cool business. So, the goal hadn’t been to start a software company. It’s still not really a software company. The goal had been just, “Let’s make a cool magazine that does longform.” And we inadvertently built a good business.
+
+And so, nine years later, we’ve still got it. It’s still publishing every month, and there’s still a CMS, and we’re still selling.
+
+Tim Ferriss: All good things start with ceviche and alcohol.
+
+Nick Thompson: Yes, that’s true.
+
+Tim Ferriss: What was the name of – if you recall – the title of the piece about – well, I suppose it wasn’t about Evan at this point but about people starting over in the digital world. Do you recall?
+
+Nick Thompson: I don’t remember the first story.
+
+Tim Ferriss: Or how might people find –
+
+Nick Thompson: Well, if they type in, “Wired Vanish,” – it was all called Vanish – you’ll find it. Or if you type in, “Evan Ratliff,” R-A-T-L-I-F-F. I think the headline is like, “Vanish: Evan Ratliff tried to disappear. Here’s what happened,” because after he got caught, he wrote this great 8,000 word story about his life on the run. So good. It was the first story of mine ever nominated for a National Magazine Award in feature writing. Such a good story. So, yeah. “Evan Ratliff tried to vanish. Here’s what happened.”
+
+Tim Ferriss: And would looking for his name and “Vanish” also lead to the preceding piece that he had written about –
+
+Nick Thompson: Yeah, definitely.
+
+Tim Ferriss: Okay. Very cool. That’s an ongoing fantasy, although increasingly difficult to –
+
+Nick Thompson: It does give some good advice but may be a little bit out of date because eight years ago, the digital tracking field was different.
+
+Tim Ferriss: So, you, by any objective measure, have gotten a lot done and get a lot done. Love to talk about structure and routine not in writing but in your life. And this is I suppose as good a place as any to ask do you still run to and from work? Or how –
+
+Nick Thompson: I do. Yeah.
+
+Tim Ferriss: You do. All right. So, what I have here is you run to work, shower at the gym next door, and then you have suits in the office to change into. And then at the end of the day, you change back into your running clothes and run back home.
+
+Why is that important to you? Have you always been running?
+
+Nick Thompson: Yeah. So, I was a runner in high school and college. And then I took some time off, but I started marathoning reasonably seriously in my late 20s. And it’s important for all kinds of reasons. It’s important as a sense of self. It’s important physically. It’s important to have physical things one does as one gets older. I’m in my early 40s now. It’s important mostly because at one point in my life I got very sick.
+
+And so, it’s a reminder of what I can still do, that I’m no longer that. So, there are a lot of intense reasons why I run and why I like to run. But it’s really hard to find time to run because I have this ambitious job. I work super late every night. I’ve got three kids, and I’m a very devoted father. So, I need to be with them in the morning. I need to be with them in the evenings. So, I can’t take off and run. And in fact, it’s often harder to find time to run on weekends than it is on the weekdays.
+
+So, having it structured into my life where I put my cellphone, wallet, and keys in a little pack, strap it on, run, run home, it works really nicely. And it keeps me – I think it’s also a good mental break. You spend the morning with your kids, getting them ready. There’s a lot of energy and excitement. And then when I go back home, there’s a lot of energy, excitement putting them to sleep and then going back to work. So, it’s nice to have two little breaks in the day where I’m running.
+
+Tim Ferriss: If you’re open to talking about it, you mentioned you had a period when you got very sick, which I don’t know anything about. Could you tell us a bit more?
+
+Nick Thompson: Oh, there’s nothing about that on the internet. I got thyroid cancer. It’s cancer, which is a horrible, terrible thing. But it’s the least dangerous kind. But what had happened with running is – I’ll tell that whole story.
+
+When I started running and started running marathons – and I remember really wanting to break three hours. As a child, I’d watched my father. He’d run a marathon. It was like, three hours and ten seconds. And he had been frustrated that he couldn’t run a three hour marathon. And so, I started running marathons, and I couldn’t crack it. And then one year I totally cracked it and ran a 2:43 and was way underneath him. My dad was super proud. And then right after that, I got diagnosed with thyroid cancer. And I ended up having a couple of surgeries, going through radiation treatment.
+
+Tim Ferriss: How did you diagnose it? Was it during a routine physical?
+
+Nick Thompson: I just went in for a checkup. Yeah. It was a couple weeks after the marathon. The marathon was in November. And so, it was in early December. And the doctor is like, “Well, there’s a lump. It’s probably nothing, but let’s check it.” And so, he checked it and was like, “Oh, it might be bad.” And then you go through that whole process that people who have been sick go through where, “Oh, no. This could be bad. But it’ll probably be okay.” And I’m in my 20s. I’ve always been healthy. “Oh, no. It looks like it might be bad.
+
+Oh, no. It is bad. But it won’t be that bad.” “Oh, no. It is that bad.” And you just go through through months of these tests and experiments and biopsies as you either exit or you just get ever deeper into it. At one point, I remember they thought actually, “Oh, no. You’re okay.” But at any case, then I went through the surgery to have it all removed and then the radiation treatment and then the titration of the medicine to try to get you back to normal. And it just completely obliterated me.
+
+It was the first time in my life that I’d been just knocked off my feet, and I couldn’t run 15 feet. So, that was a really tough, emotional period for all kinds of reasons. You’re thinking about mortality in a real way for the first time in my late 20s. I had just been married thinking about, “Well, now will I ever be able to have children?” Your expectations on what life becomes are totally different. And so, I went through that period and fortunately came out the other side. And then it was really emotionally uplifting and psychologically powerful when I guess it was two years after that first marathon – I think in that first marathon, I finished it in two hours, 43 minutes, and 52 seconds.
+
+And then two years later I ran the same marathon and finished it in two hours, 43 minutes, and 50 seconds or something like that. And it was incredibly powerful to suddenly feel like that in a way signaled that I was through it. And so, every year since then I’ve more or less every year since then except the years where I’ve had kids I’ve tried to run the same marathon. That ties you back to the original story about running.
+
+Tim Ferriss: Thank you for sharing that. It’s I think easy for folks to look at your bio or read about all the things you’ve accomplished and assume that it’s just been one homerun after another after another aside from that kidnapping in norther Africa which turned out to be a blessing in disguise of sorts. But I appreciate you sharing that. And to further flesh out the picture just a little bit, could you tell us about a time aside from that particular period when you felt overwhelmed or a darker period? Any of that and how you found your way out or what you do in those circumstances.
+
+Nick Thompson: Well, there have been – my professional career in the first six or seven years was not great. So, I finished school. I have that messed up period where I go to Africa. I write to the Post. But it’s a period of getting rejected by 20 jobs before I get hired at the Washington Monthly. So, then there’s a moment of awesomeness where for two years, I’m editor at the Washington Monthly, going back to New York, playing guitar on the weekends. But the Washington Monthly job was very much a tier job. And the expectation when I finished was, like all previous editors at the Washington Monthly, go on and have an awesome career in journalism. I finished. I think I finished September 9th, 2011. And after I finished, I had a really rough time. I couldn’t get hired. I got rejected by 20 journalistic institutions.
+
+I was sure I was gonna get hired at the New York Times. I didn’t get hired at the New York Times. I was sure I was getting hired at the Washington Post. I thought I had – it didn’t work. I ended up as fellow at the New America Foundation which was fine. But from roughly 2001 to 2005, I couldn’t get journalism going again. And so, in the summer of 2005 – I guess in 2005 I was working at a magazine called Legal Affairs which [inaudible] [01:20:57] really grateful too.
+
+But it was in New Haven. My girlfriend who’s now my wife was in New York. I applied to law school which is the way you get out of journalism and the way you re-track your life. If you’re in your 20s and the career you’re doing is not working, one great way to re-track your life is through law school. So, I applied to law school, and I got into NYU. And I was literally set to go. I guess I would have matriculated in August 2005. I think Wired wrote to me in July of 2005, said, “Hey. Were you interested to be the senior editor?”
+
+And so, that summer, it was crazy because my whole life, I know it’s gonna hinge on this decision. Am I gonna stay in journalism or am I gonna go to law school and do something completely different? And the way it struck out, I remember I don’t think I had been offered the Wired job, but I was pretty sure I was gonna get it. And so, the day before I was due at NYU, I wrote to them and said, “No. I’m not going.” And then I just prayed I would get the Wired –
+
+Tim Ferriss: Oh, my God.
+
+Nick Thompson: And I did get it. And I started the next month. Those were a couple years where I was like, “Did I make the right decision?” Because remember, when I had been a teenager, I hadn’t expected to be a journalist. So, I had all this self-doubt about whether I had ended up in the wrong profession accidentally where – because if you look at your life as – when you’re 25 and you think back to what would Nick have thought at 19, the funny turn to journalism which now seems so propitious and so good – that’s the weird story where I’m kidnapped, and I write the story, and I get hired at the Washington Monthly, and at tracks me. If you look at it from now, it looks like a really fortunate thing that those things happened.
+
+But if you’re in your mid-20s and journalism isn’t working, and you look at it and think, “Wait. I wasn’t supposed to be a journalist. I didn’t wanna be a journalist. So, maybe that just all got me going on the wrong foot, and I should have – if I hadn’t gone to Africa, I would be at a much better place.” So, that was really complicated to think through and work through. And it ended up all working out really well, and I’m extremely happy where I am now. But there was definitely a couple of years where I was totally adrift, where my peer group was doing much better than I was doing, and where I felt like I was in the wrong field.
+
+Tim Ferriss: How did Wired find you? Or how did it come to pass that they reached out to you with that potential offer?
+
+Nick Thompson: Because I have a friend for whom I’ve had an amazing career overlap. So, there’s a guy named Brandon Carter. He and I are exactly the same age. And I edited something he wrote when I was at the Washington Monthly and he was at US News and World Report. He wrote an essay to the Washington Monthly. And I edited it, and he liked the way I edited it. And so, we became friends. And so, then he left US News and got hired at New America Foundation. And then I got hired at New America Foundation after him. And he had recommended me. And then he went to Wired, and he recommended me there. And so, I got hired at Wired.
+
+And then I recommended him to my book agent, and he ended up selling a book through that. And then he wrote for me at the New Yorker. He wrote for me at the Atavist. And he’s got the current cover story in Wired. So, we’ve had these amazing intertwined careers and friendship. It’s been really terrific. And he’s one of those people who – with some people who are the same age and in the same field are competitive and maybe don’t always want you to succeed.
+
+And for whatever reason, he and I have had a relationship where I’ve always only wanted him to succeed, and he’s only always wanted me to succeed. And so, we’ve been extremely helpful to each other. And that’s been great. And so, look at the cover story the next issue. And Brandon’s name is there. And I’m super proud of it.
+
+Tim Ferriss: The karmic cycle continues. That’s great. I wanna go back to the whatever it was, 24-hour period where you’ve turned down this exploding offer/expiring offer for law school, yet you haven’t yet been offered the job at Wired. Can you walk us through the dinner, the conversation in your head, the hours preceding notifying law school that you’re not going to be matriculating? Because that strikes me as terrifying. That seems completely terrifying.
+
+Nick Thompson: The game theory was both a little trickier and, in some ways, easier because there was a third option. My grandfather, Paul Nitze had died and George Kennan had both died in early 2004. And I had written an essay about their parallel lives. And so, I had also decided that maybe I would write a book about the two of them. And so, I had a proposal for a book. So, I had three things that I could do with my life, and I was gonna do some combination of one of those three things or two of those three things. I knew there wouldn’t be time to do all three. You can’t go to law school, work for Wired, and write a book. And so, the law school offer was gonna explode mid-August. The Wired option I was gonna hear about relatively soon. And the book, I think I had sent a draft as a proposal to my agent. And so, either that was gonna become a reality or not a reality. And so, in some ways, the decision was if I go to law school, even if I don’t get the Wired job, I still maybe have a shot at the book. So, the odds were okay. But from what I remember about that day, I was in Maine at that place my family has up near Acadia National Park where I’d spent summers from my childhood which is a very reflective, wonderful place, a place where I always feel good and confident.
+
+And maybe it was being there, maybe it was – there was some unease, some deep unease about going to law school, some sense that I was giving up, some sense of it was the weak choice to make. I don’t exactly remember. 
+
+But I do remember being terrified when I wrote them and said no and thinking, “Well, this is – you came up with a pretty good backup here, Nick. You gave up a pretty plan and what is a pretty awesome law school to go to. It’s three years. And when you graduate, you’re guaranteed a really well-paying, successful career at Lisa New York. And you’re throwing that away.” But I went for it.
+
+Tim Ferriss: Well, thank God for that, I suppose.
+
+Nick Thompson: Well, who knows? Maybe it’d be a lovely life. I’d be a –
+
+Tim Ferriss: Who knows, right? In a parallel universe – yeah.
+
+Nick Thompson: Yeah. Who knows?
+
+Tim Ferriss: Who knows? Well, it seems to have worked out for you.
+
+Nick Thompson: But I do think about that a lot. There are very few moments where your life entirely hinges upon a specific decision, like the choice of who you marry. But that’s not really a choice. It’s not so much like that. I can’t think of any other day that’s close to it. I guess the choice to write Pam McCarthy at the New Yorker had a big influence. There was the choice to leave the New Yorker to accept this Wired job. That was a pretty easy choice, to work at the New Yorker, but you get to be editor in chief of Wired, you definitely take it. So, there are few moments. But that was definitely the day where I made the choice that had the biggest effect. But you don’t get to live life multiple ways. So, it seems like the right choice. Everything worked out as well as it possibly could have. But who knows?
+
+Tim Ferriss: Well, Nick, I wanna be respectful of your time, so I have just a few more questions for you. And these are some of my usual questions that I like to ask. The first is what book or books have you given most as gifts to other people besides your own?
+
+Nick Thompson: Oh, that I can answer. So, each of the last two years I’ve given one book to a bunch of people. And this year, it’s a book by Robert Wright called Why Buddhism is True. And it’s a story about mindfulness and about the science of Buddhism and the current neuroscienc, about how our minds work, making the argument that the things people have said about mindfulness, meditation, and the way it changes your capacity to empathize with other people and to break out of the tribalism that we’re all locked into, the things that Buddhism has said about that turn out to be scientifically correct. And here’s a story about why. Wonderful book. Robert Wright is one of the smartest writers I’ve ever read. His book Nonzero is among my five favorite books of all time. So, that book came out recently, and I gave that to my closest friend and my family.
+
+The year before, I gave a book by Larissa MacFarquhar called Strangers Drowning which is a story about people who make extraordinary moral choices like the choice to adopt 23 children and bring them into your lives, who just make crazy choices and why they make those choices. And Larissa is one of the smartest writers at the New Yorker. Everything she writes is absolutely brilliant, and the book is brilliant to get into ten discreet chapters about people who make choices like that. So, I gave Larissa’s book last year and Robert Wright’s book this year.              
+
+Tim Ferriss: Thank you. Just wrote those down.
+
+Nick Thompson: Yeah, they’re good. Totally wroth reading, both of them.
+
+Tim Ferriss: Yeah. No, they’re on the to read list which is always in the bottom righthand corner of my notes that I take during these conversations.
+
+Nick Thompson: Oh, nice. That’s cool.
+
+Tim Ferriss: Yeah. All right, just a few more. Let’s see. I’m picking here. In the last few years – could be five years, could be ten, could be two – what new behavior or belief has most positively impacted your life would you say or has just had a very significant impact?
+
+Nick Thompson: Oh, having kids. So, my kids are nine, seven, and four now. And thinking about the responsibilities one has to your children who will outlive you and who in certain ways will carry on your personality, who will carry on your life after you’re gone, thinking through my responsibilities to them, how the choices I make will be viewed by them when they’re older, thinking about both how I can help them thrive and be the people they wanna become and also how I can be somebody who when I’m gone, they admire, those are deeply profound things. And I had no capacity of what it was like to have children before I had children. None. But it’s psychologically profound in every way. So, definitely that.
+
+Tim Ferriss: So, any advice or books or anything else that you’ve found particularly helpful as a parent?
+
+Nick Thompson: I don’t think I’ve actually read a book on parenting that changed my philosophy of parenting. There were a couple books about how to get your kids to sleep which is useful technical stuff. That’s interesting. I don’t think I’ve read a book on parenting where I was like, “Oh, I should raise my child that way,” or, “I should talk to them this way.” It’s been much more just doing and just thinking through, “Oh, wait. That wasn’t the right way to talk about this.” Or, “Oh, yes. Let’s try to set them up for success in this way,” or, “Let’s let them do this,” or, “Let’s go do this with them.”
+
+Tim Ferriss: You’ve mentioned the Why Buddhism is True. Do you have a meditation or mindfulness practice?
+
+Nick Thompson: I don’t. I think the running is the substitute for that. And when I’m running I do – I don’t think it’s that dissimilar from mindfulness meditation because when I run – oh, well I guess there are two things I’d say to that. One is the running. So, I do very much try to – I either listen to podcasts or if I’m not listening to a podcast I’m trying to clear my mind or thinking through specific things and trying to concentrate on it or paying attention to what I see or what I hear. So, I think that’s reasonably close to mindfulness meditation. And then the second thing is I do Alexander Technique which is a technique I learned while playing guitar just for how one positions one’s body and aligning your head to make sure it’s straight with your back and making sure your feet are solid on the ground. It was something I did when I was having a lot of wrist pain from playing guitar too much. And I think that’s the centering technique that also plays a similar role. But I have not figured out how to work meditation into my life.
+
+Tim Ferriss: The Alexander Technique, is that something that you use while you’re sitting in a chair at the office throughout the day? When does that –
+
+Nick Thompson: Totally. Yes. So, it’s something I think about – of course, as soon as I say it I now find myself adjusting myself in the chair. Yeah. It’s something where whenever I’m out of position or I can feel something’s not aligned, I straighten up, try to think about where I want my hands. Just, “Okay. Make sure my back is aligned. My head is aligned.” And it’s something that I think ahs prevented a lot of injuries. I almost have never gotten hurt while running even though running a distance often will get people hurt. And I think it’s partly due to posture training.
+
+Tim Ferriss: Okay. Just two or three more. And this is sometimes a question that stumps people, but you’ve been pretty fast on your feet. So, if you need to buy some time or pass, that’s fine as well. If you had – and this is really metaphorically speaking – a giant billboard on which you could put a word, a question, a quote, someone else’s quote, a question, anything really, a message to get out to millions or billions of people, what might you put on that billboard?
+
+Nick Thompson: Oh, you know what it is? I’m not gonna get the exact quote right which means I’d have to spellcheck it. But there’s something that George Kennan said that I just find incredibly philosophically profound which is something I think about a lot. Not enough to remember the exact words. But the idea was when you look at everything that goes wrong historically, you can see a deep chain of continuous mistakes that lead up to it. And in a way, that’s really discouraging because it makes you think about each step leading to greater consequences. But on the other hand, it’s really encouraging because if you think about it and you think about, “Oh, wait. What if you do something right? And you do something right right now, you’re starting a whole other chain of events that can lead to a really positive outcome.” And so, his point when he was making the statement which was more or less that is even if things seem like they’re going in the wrong direction or things seem really wrong, you can stop, and you can do something small that’s right.
+
+And then that will begin another chain of events that will lead to something really good. And so, I often think about that when I’m thinking about whatever the next thing I’m gonna do is or the next moment. It’s like you’re beginning a new chain of events, a new chain of events that will lead you in the right direction or you’re continuing in a good chain. So, it was that idea from Kennan that was based on his historical studies that I think about a lot.
+
+Tim Ferriss: That’s a good one. Well, Nick, this has been a lot of fun.
+
+Nick Thompson: Yeah. It’s been great talking to you.
+
+Tim Ferriss: And thank you for taking the time. Do you have any final words?
+
+ Any ask of the audience? Recommendation? Anything you’d like to say before we wrap up?
+
+Nick Thompson: No. I love talking to you. The thing I want, I’d love people to subscribe to Wired. That’d be great. If everybody subscribed to Wired, I’ll be a very happy man. Journalism is a complicated business, particularly at this moment. So, we would love your support.
+
+Tim Ferriss: And if they wanna say hi on social, nxthompson.
+
+Nick Thompson: I’m on social. I talk to people all the time. I’m @nxthompson on Twitter. I’m on LinkedIn. I’m on Facebook. There’s a private page, public page. I love talking to people. I love hearing feedback. I’m very active in comments and all that. DMs are open. So, I’m available. I’m around. I’m on the internet.
+
+Tim Ferriss: Well, Nick, thank you again for taking the time. This was a really fun conversation.
+
+Nick Thompson: Yeah. I thought we covered a lot of interesting ground. Thanks for your awesome questions and probing. That was really fun. It has been.
+
+Tim Ferriss: Yeah. Of course. My pleasure. And to everybody listening, you can find links to everything, Wired, the books, resources, and the Alexander Technique among other things in the show notes as per usual for this episode and every other episode at tim.blog/podcast. And until next time, thank you for listening.
+
+Hey, guys. This is Tim again. Just a few more things before you take off. No. 1, this is 5-Bullet Friday. Do you want to get a short email from me? Would you enjoy getting a short email from me every Friday that provides a little morsel of fun before the weekend? And 5-Bullet Friday is a very short email where I share the coolest things I’ve found or that I’ve been pondering over the week. That could include favorite new albums that I’ve discovered. It could include gizmos and gadgets and all sorts of weird shit that I’ve somehow dug up in the world of the esoteric, as I do. It could include favorite articles that I have read and that I’ve shared with my close friends, for instance.
+
+And it’s very short. It’s just a little tiny bite of goodness before you head off for the weekend. So, if you want to receive that, check it out. Just go to fourhourworkweek.com, that’s fourhourworkweek.com all spelled out, and just drop in your email, and you will get the very next one. And if you sign up, I hope you enjoy it.
+
+
+TAGS
+NICK THOMPSON
+	

@@ -1,0 +1,204 @@
+
+
+JULY 13, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Reid Hoffman, Brian Chesky, How to Scale to 100M+ Users (#326)
+
+
+Please enjoy this transcript from a showcase of Masters of Scale, one of the few podcasts I recommend repeatedly to entrepreneurs. It’s a conversation between LinkedIn co-founder Reid Hoffman (@reidhoffman) and Airbnb co-founder Brian Chesky (@bchesky), and it focuses on how you can scale your company by, paradoxically, doing things that don’t scale.
+
+
+
+#326: Reid Hoffman of LinkedIn, Brian Chesky of Airbnb, and How to Scale to 100M+ Users
+
+Tim Ferriss:  Why, hello, hello. This is Tim Ferriss. Welcome to another episode of the Tim Ferriss Show where it is my job normally to deconstruct world-class performers through interviews, whether they’re from business, sports, entertainment, military, otherwise to tease out the habits, routines, favorite books, and so on that you can use. In this episode, I’m going to let someone else do the heavy lifting. And he’s very, very qualified. Reid Hoffman. On LinkedIn and Twitter as Reid Hoffman, R-E-I-D. Is a frequent flier of sorts on this show. He is often referred to as the oracle of Silicon Valley by tech insiders who look at his company building and investing track record with awe.
+
+The companies include Facebook, Airbnb, Zynga, Flickr, and many, many, many others. Reid is well known as the cofounder of LinkedIn which has more than 300 million users and sold to Microsoft for $22.6 billion. Prior to that, he was exec vice p resident at PayPal which was purchased by eBay for $1.5 billion. And at PayPal, he was nicknamed firefighter in chief by the then CEO, Peter Thiel who’s also been on the podcast. And Reid is widely considered one of the most successful angel investors of the past decade. He is now a partner at Greylock Partners, a top-tier venture capital firm. And on my phone, there are very few podcasts that I listen to multiple times.
+
+There are very few podcasts that I recommend over and over and over again to other people, especially entrepreneurs. And what I’m going to showcase in this episode is a conversation between Reid and Brian Chesky who is a cofounder and CEO of Airbnb. And there are a couple of other cameos. And I’m doing this for a number of reasons. No. 1, if you want to learn how to scale your company from whatever the number might be, 200 million users, paradoxically, you can increase the likelihood of success by doing things that do not scale. And this is a really critical concept to understand, and it’s best done through examples.
+
+And that is why I wanna showcase this discussion which is from the first season of Masters of Scale. And I really, really hope you enjoy it. I loved it. And Joe Gebbia, cofounder of Airbnb has been on this podcast before. And we covered his development as a designer and an entrepreneur leading up to the original development of the business model for Airbnb. That was part one. And I promised a part two. So, this is, in some ways, that part two exactly. And Masters of Scale is a great show. If you haven’t seen it, it showcases famous founders and innovative leaders and so on sharing their lessons for success. And there is a brand new season out right now.
+
+The new season includes episodes with founders of Spotify, Instagram, TaskRabbit, Shake Shack, and Glossier among many, many others. You can subscribe to Masters of Scale on Apple Podcasts or learn more at mastersofscale.com. So, without further ado, please enjoy this short episode with Reid Hoffman, Brian Chesky, and many others. And if you’ve heard me recommend “1,000 True Fans” to you many, many times before as the article you should read if you’re only gonna read one article on marketing which is by Kevin Kelly – you can find it on kk.org – this is the audio complement to that. So, with much further ado, much further ado, much further ado, please enjoy.
+
+Handcrafted — with Airbnb’s Brian Chesky
+
+Brian Chesky: Joe and I are broke. We’re losing weight and I didn’t have a lot of weight to lose. You know those binders that you put baseball cards in? We put credit cards in them. At this point I am $25,000 in credit card debt. Joe is tens of thousands of dollars in credit card debt. So this is make or break. We need a lifeline.
+
+Reid Hoffman: That entrepreneur in need of a lifeline? That’s Brian Chesky. Co-Founder and CEO of Airbnb, a service that lets you rent a couch for the night. Or a cabin. Or a castle. Today, Airbnb is valued at $30 billion. Eight years ago? A very different picture.
+
+Brian Chesky: We have this website and maybe 50 people a day are visiting it and we’re probably getting like 10 to 20 bookings a day. By the way, we’ve been working for a year and a half. So for anyone who’s worried their company doesn’t have enough traction, that was our traction.
+
+Reid Hoffman: It was 2008. An election year in the United States. Barack Obama was running against John McCain. Brian was at the Democratic National Convention, hatching a PR campaign for Airbnb—one that could rescue the company and their credit card bills.
+
+Brian Chesky: Joe and I look at each other and we said “We’re Air Bed and Breakfast. The air beds aren’t going so well. Maybe breakfast will.” So we thought, what if we could sell breakfast? Maybe we can make some money. What’s a nonperishable breakfast? Cereal. So we thought the presidential campaign is coming up. We just launched at the DNC. What if we created a Barack Obama themed breakfast cereal? And we thought, what would a Barack Obama themed breakfast cereal be called? Obama O’s like Cheerios, “The breakfast of change.” We thought, “Well, we want to be a nonpartisan website so we’d also need a John McCain themed cereal.” John McCain was a captain in the Navy and so we came up with Cap’n McCain’s, like Cap’n Crunch: “A maverick in every bite.” We ended up making a thousand boxes of collectible breakfast cereal. We sold them for $40 a box.
+
+Reid Hoffman: That’s $40,000. Not bad for pocket change. And it got them through a cash crunch. But it came at a cost.
+
+Brian Chesky: We had to physically make the breakfast cereal ourselves, meaning we get a printed poster board and we had to fold it and hot glue it. No one told me I had to hot glue breakfast cereal and they should call it burn glue because every time you get it on you, you burn you. I had a perfect one to one ratio of burn to box. I literally had to hot glue a 1,000 boxes of cereal. At one point in the middle of the night I remember reading, I wonder if when Mark Zuckerberg started Facebook he had to hot glue breakfast cereal. The answer was no and this was not a good sign.
+
+Reid Hoffman: But what was a good sign was Brian’s willingness to work with his hands—burns and all. I’d argue that painstaking, handcrafted labor is actually the foundation of his success. In order to scale, you have to do things that don’t scale.
+
+[THEME MUSIC]
+
+Reid Hoffman: I’m Reid Hoffman, co-founder of LinkedIn, partner at Greylock, and your host. On this episode, I’ll make the case that the only way an organization can truly scale, is to first do things that don’t scale at all. I’ll try to prove that theory through stories from some of the smartest entrepreneurs I know.
+
+Over the last 20 years, I’ve worked on or invested in many companies that scaled to 100 million users or more. But here’s the thing: You don’t start with 100 million users. You start with a few. So stop thinking big, and start thinking small. Hand serve your customers. Win them over, one by one.
+
+Now this may sound like odd advice if you’re an entrepreneur with global ambitions. Mark Zuckerberg didn’t personally invite 1.8 billion people to Facebook. He built a great product, and the users just poured in. Right? Not exactly.
+
+On this show, I’ll dispel that myth by talking to founders who fought to win their users. I’m starting with Brian Chesky, CEO of Airbnb because he epitomizes the idea of handcrafting the user experience, before you start to scale. It’s a principle he first absorbed in design school.
+
+Brian Chesky: I was doing medical design once. I had to design a children’s ventilator. I had to sit in the shoes of the child. I had to imagine being a child, get in the operating table and you had to put yourself in the shoes of the patient, or the person using your product. If you’re only doing A/B tests you’re never designing with empathy.
+
+Reid Hoffman: But a funny thing happened to Brian when he moved to Silicon Valley. He sort of forgot about designing with empathy for a single user. It’s a common mistake among entrepreneurs with global ambitions. They have to promise investors the world. Tens of millions of customers. Billions in revenue. It’s intoxicating. Just listen to Brian go.
+
+Brian Chesky: This is a travel industry that is something like seven percent of global GDP, somewhere between five and seven trillion dollars, ten times the market size of Google’s market size.
+
+Reid Hoffman: And Brian might have stayed in the stratosphere, if not for a fateful meeting with Paul Graham, Co-founder of Y Combinator.
+
+Siri: Y Combinator is a start-up incubator, which cultivates and invests in early-stage companies.
+
+Reid Hoffman: Brian was admitted into Y Combinator in 2009, and his first meeting with Paul was confounding. Paul tends to stump people with deceptively simple questions.
+
+Brian Chesky: And he asked us, “Where’s your business?” And I go, “What do you mean?” “Where’s your traction?” And I go “We don’t have a lot of traction.” He goes, “People must be using it.” I said, “There’s a few people in New York using it.” And he said something I’ll never forget. He said, “So your users are in New York and you’re still in Mountain View.” I said, “Yeah.” And he said, “What are you still doing here?” And I go, “What do you mean?” He said, “Go to your users. Get to know them. Get your customers one by one.” And I said, “But that won’t scale. If we’re huge and we have millions of customers we can’t meet every customer.” And he said, “That’s exactly why you should do it now because this is the only time you’ll ever be small enough that you can meet all your customers, get to know them, and make something directly for them.”
+
+Reid Hoffman: Brian and his co-founders followed his advice to the letter.
+
+Brian Chesky: We literally commuted to New York from Mountain View. So we would be in Y Combinator for Tuesday night dinners and then Wednesday Joe and I would go to New York. We literally would knock on the doors of all of our hosts. We had their addresses and we say, “Knock knock. Hello. Hey, this is Brian, Joe, we’re founders and we just want to meet you.”
+
+Reid Hoffman: Now, it’s a little creepy to just knock on the door unannounced.
+
+Brian Chesky: We needed an excuse to get into their home.
+
+Reid Hoffman: So they come up with an offer that host’s couldn’t refuse.
+
+Brian Chesky: We’d send a professional photographer to your home and photograph your home. Of course, we didn’t have any money and we couldn’t employ photographers. So Joe and I, we’d show up at their door and they’re like “Wow. This company is pretty small.”
+
+Reid Hoffman: These home visits became Airbnb’s secret weapon. It’s how they learned what people loved.
+
+Brian Chesky: It’s really hard to get even 10 people to love anything but it’s not hard if you spend a ton of time with them. If I want to make something amazing, I just spend time with you. And I’m like, “Well what if I did this, what if I did this, what if I did this?”
+
+Reid Hoffman: From those questions, a handcrafted experience is born.
+
+Brian Chesky: We’d find out “Hey, I don’t feel comfortable with the guest. I don’t know who they are.” “Well what if we had profiles?” “Great!” “Well what do you want in your profile?” “Well I want a photo.” “Great. What else?” “I want to know where they work, where they went to school.” “OK.” So you add that stuff. And then you literally start designing touchpoint by touchpoint. The creation of the peer review system, customer support, all these things came from us literally—we didn’t just meet our users, we lived with them. And I used to joke that when you bought an iPhone Steve Jobs didn’t come sleep on your couch, but I did.
+
+Reid Hoffman: [laughs] Yes. Was there a particular experience that really stuck in your mind?
+
+Brian Chesky: I remember we met with a couple hosts. It’s winter. It’s snowing outside and we’re in snow boots. We walk up to the apartment and we went there to photograph the home. And we’re like, “I’ll upload your photos to the website. Do you have any other feedback?” He comes back with a book, it’s a binder and he’s got dozens of pages of notes. He ends up creating a product roadmap for us, we should have this, this, this, this and this, and we’re like, “Oh my god this is our roadmap because he’s the customer.” I think that always stuck in our mind as, the roadmap often exists in the minds of the users you’re designing things for.
+
+Reid Hoffman: It is typical to get very detailed feedback from some of your early users. And if you’re not getting some people who say “This is super important to me. I love this. I really need this to work well,” it usually means you’re off track. Passionate feedback is a clue that your product really matters to someone. And one passionate user can turn into many, if you listen to them carefully. It’s essential to get this kind of feedback early, while you’re still defining the product. It’s like setting a foundation as an architect. You wouldn’t build a skyscraper before you’ve build a solid foundation. User feedback ensures you won’t build a dozen floors on an unstable swamp. Brian has a simple method for extracting detailed feedback from users. He doesn’t ask about the product he already built. He asks about the product of their dreams.
+
+Brian Chesky: We’d ask these questions like, “What can we do to surprise you? What can we do, not to make this better, but to make you tell everyone about it?” And that answer is different. If I say, “What can I do to make this better?” They’ll say something small. If I were to say, “Reid, what would it take for me to design something that you would literally tell every single person you’ve ever encountered?” You start to ask these questions and it really helps you think through this problem.
+
+Reid Hoffman: It’s essential to seek out and listen to user feedback. But the caveat is: You have to figure out which users to listen to. You’re going to have different kinds of users giving you feedback and some of it will take you in the wrong direction. So you need to exercise judgment in discerning: Will this particular user and particular feedback lead me to the mass market? Or is it an edge case? For example, at LinkedIn, we had one group of users who invented a name for themselves. They called themselves LIONs—which is Linked In Open Networkers—because their theory of the world was that everyone wants to directly connect to everyone else in the world—because that’s the way they wanted it. But they’re actually not the majority case. A lot of people who are very busy, who have access to resources, who have some celebrity status—do not want that. And if we followed their feedback, LinkedIn would not be where it is today. We had to steer away from a bunch of passionate users who told us very explicitly that we were fools for not following their advice.
+
+Brian Chesky: If you want to build something that’s truly viral you have to create a total mindfuck experience that you tell everyone about. We basically took one part of our product and we extrapolated what would a five star experience be. Then we went crazy. So a one, two, or three star experience is you get to your Airbnb and no one’s there. You knock on the door. They don’t open. That’s a one star. Maybe it’s a three star if they don’t open, you have to wait 20 minutes. If they never show up and you’re pissed and you need to get your money back, that’s a one star experience. You’re never using us again. So a five star experience is you knock on the door, they open the door, they let you in. Great. That’s not a big deal. You’re not going tell every friend about it. You might say, “I used Airbnb. It worked.” So we thought, “What would a six star experience be?” A six star experience: You knock on the door, the host opens. “Hey, I’m Reid. Welcome to my house.” You’re the host in this case. You would show them around. On the table would be a welcome gift. It would be a bottle of wine, maybe some candy. You’d open the fridge. There’s water. You go to the bathroom, there’s toiletries. The whole thing is great. That’s a six star experience. You’d say, “Wow I love this more than a hotel. I’m definitely going to use Airbnb again. It worked. Better than I expected.” What’s a seven
+
+star experience? You knock on the door. Reid Hoffman opens. Get in. “Welcome. Here’s my full kitchen. I know you like surfing. There’s a surfboard waiting for you. I’ve booked lessons for you. It’s going to be an amazing experience. By the way here’s my car. You can use my car. And I also want to surprise you. There’s this best restaurant in the city of San Francisco. I got you a table there.” And you’re like, “Whoa. This is way beyond.”
+
+Reid Hoffman: Adding stars clearly excites Brian. It took some time to run through this mental exercise. We’ll skip ahead to the ten star experience.
+
+Brian Chesky: So what would a ten star check in be? A ten star check in would be The Beatles check in. In 1964. I’d get off the plane and there’d be 5,000 high school kids cheering my name with cars welcoming me to the country. I’d get to the front yard of your house and there’d be a press conference for me, and it would be just a mindfuck experience. So what would 11 star experience be? I would show up at the airport and you’d be there with Elon Musk and you’re saying, “You’re going to space.” The point of the the process is that maybe 9, 10, 11 are not feasible. But if you go through the crazy exercise of keep going, there’s some sweet spot between they showed up and they opened the door and I went to space. That’s the sweet spot. You have to almost design the extreme to come
+
+backwards. Suddenly, doesn’t knowing my preferences and having a surfboard in the house seem not crazy and reasonable? It’s actually kind of crazy logistically, but this is the kind of stuff that creates great experience.
+
+Reid Hoffman: But how far do you go toward the 11-star experience? To create the nirvana product, all successful entrepreneurs, at some point, have to come back down to earth.
+
+Brian Chesky: There’s really two stages of a startup’s product. The first is design a perfect experience and then you scale that experience. That’s it.
+
+Reid Hoffman: But which part of the perfect experience do you scale? The most ambitious entrepreneurs—let’s call them the Elons, after my friend Elon Musk—probably get there through raw energy because they’re convinced they need to solve a problem, and the unscalable thing is one step they have to push through on the way. The Elons say, “I’m going to Mars. But first I’ve got to solve this problem right in front of me. First I need to get the rocket launched, and I need to have a business model for that first rocket, and that looks like satellites. OK. I’m going to try satellite launches. And how do I get my first rocket? I need to create a scalable rocket platform, but unless I get the first rocket up, it doesn’t matter. And you work back to that.
+
+Then you’ve got folks like Brian who say, “I realize that to get to this awesome experience, I have to ratchet back to something that still seems like magic, but is totally doable. And then I need to design the elements that get me into the totally doable thing.”
+
+So how did Brian decide on the doable thing? He settled on a service with the appropriate level of magic, and started building it. And—here’s the next thing to notice: They didn’t launch perfectly scaled services. They built everything by hand.
+
+Brian Chesky: We had a saying that you would do everything by hand until it was painful. So Joe and I would photograph homes until it was painful, then we get other photographers. Then we’d manage them with spreadsheets until it was painful. Then we got an intern.
+
+Ellie Thiele: I don’t think I knew how anything would grow to the level that it did.
+
+Reid Hoffman: That’s Ellie Thiele. She’s the intern who managed those spreadsheets. She still works at Airbnb.
+
+Ellie Thiele: Very manually, I would email the photographer and the host and connect them. The photographer would then send me the photos. I would go through each one giving feedback if they needed to be retouched. Then I would manually upload them to the host’s website, their listing, one by one. It would take hours to upload. Multitasking was the name of the game.
+
+Brian Chesky: And then we’d automate the tools to make her more efficient.
+
+Ellie Thiele: And we kind of looked at this and we said OK what is the easiest thing that we can automate. Any little thing that changed was quite a shift in what I had been doing— but for the better. I remember one day. Brian would come to me at the end of every day. “How many did we get, how many photos were shot?” And it was like, “Oh gosh. I have to go through and count all of these.”
+
+Brian Chesky: Eventually a system does everything. We built a system where now the host comes, they press a button, it alerts our system which goes to a dispatch of photographers, so it’s all managed through technology. They get the job, they market through an app that we built, and then payment happens. The whole thing is automated now.
+
+Reid Hoffman: Note how they gradually worked out a solution. They didn’t guess at what users wanted. They reacted to what users asked for. Then they met the demand through a piecemeal process. And here we come to the true art of doing things that don’t scale. It’s not just a crude way of succeeding on a shoestring budget. It also gives your team the inspiration and urgency to build the features that users really want.
+
+I’ve seen this handcrafting story play out over and over again with entrepreneurs. Take my friend Patrick Collison. He’s the founding CEO of Stripe, an online payments company. Today, thousands of businesses use Stripe to process payments from their online customers. But in the early days, they were a scrappy start-up. And Patrick paid close attention to his users. Very close attention:
+
+Patrick Collision: We had a chat room where we would help customers with whatever issue that they wanted to ask about. We were very distressed after a while to notice that occasionally people would come into the chat room while we were sleeping and ask questions, they wouldn’t get any response. So we wrote a bot that would page one of us if somebody asked a question they didn’t get a response after 30 seconds, would groggily, bleary eyed, wake up and help them and go back to sleep.
+
+Reid Hoffman: So in addition to being CEO, Patrick had become Stripe’s bleary-eyed customer service rep. Frustrated users would page him at all hours.
+
+Patrick Collision: It sure did not feel glamorous—tapping away on my laptop for half an hour in bed.
+
+Reid Hoffman: Actually it reminds me—I don’t know if you know Paul English who founded Kayak.
+
+Siri: Kayak is an online travel service that finds the lowest available rates across different websites.
+
+Patrick Collision: We know each other a little bit.
+
+Reid Hoffman: Paul for a number of years in Kayak had his cell phone number as the customer service number.
+
+Patrick Collision: There was someone at Stripe who did exactly the same thing.
+
+Reid Hoffman: Now it’s common for entrepreneurs to swap stories like this. And I think it’s worth dwelling on these early days of handcrafted work, because most entrepreneurs tend to have a funny reaction to these experiences. They may laugh about it later. They may call the work unglamorous. They may celebrate the day they could hire a helping hand or automate these chores out of existence. But thoughtful founders will never say, “What a complete waste of time.” They’ll often look back on this period as one of the most creative phases of their careers. Nancy Lublin, for instance, scrappily launched an international non-profit from her New York City apartment. Her organization, Dress for Success, started as a clothing drive for women who needed to walk into a job interview looking sharp and feeling confident. Nancy stockpiled sweaters on her bed and jewelry in her refrigerator. And soon she was inviting volunteers into her apartment for informal training sessions.
+
+Nancy Lublin: So people start hearing about Dress for Success and would contact me, random people would contact me and say, “I want to start this in St. Louis. I want to start this in Hartford.” I would say, “Great, you want to come stay with me?” People, literally strangers, would fly from St. Louis and stay on my futon, my college futon in my tiny, law school apartment in New York and I’d be like, “How can I help?” I would send them postcards saying, “Don’t give up. I know it’s really hard. You’ve got this.” I just killed them with kindness.
+
+Reid Hoffman: Today, Dress for Success has affiliates in 145 cities worldwide. But let’s be clear: The transition from the handcrafted phase to the massive scale phase is a challenging one. And I want to dispel any illusions that you can switch from one to the other with ease. In fact, it requires two opposing mindsets. You have to fully empathize with a single user. At the same time, you have to worry about everyone. I like the way that Brian describes the difference.
+
+Brian Chesky: The designing of experience is a different part of your brain than the scaling your experience. It’s a different skill set. The scaling experience is a highly analytical, operations oriented, and technology oriented problem. The designing of experience is a more intuition based human, empathetic, end-to-end experience.
+
+Reid Hoffman: One parallel might be writing and editing. So the handcrafted phase tends to be more like writing: It’s a more inventive and creative process. Whereas the scaling phase tends to be more analytical. It’s more like being an editor. At that point you tend to do more pruning. You realize: “Well this whole thing is magical. But if we focus on this 20 percent, we get 80 percent of the magic.” So you prune. You compact. You distill. And you architect, so it can now run at a rocketship rate. You’re transitioning the product or service over to a scale organization that can now run it. The organization needs a simple plan with very few errors and very little improvisation.
+
+Now you might think the first step—design the ideal user experience—drops away as soon as your product goes viral. Then comes the glamorous work of expanding to new countries and thinking about your strategy in the years ahead. Handcrafted work is essentially a kind of booster rocket that helps you get into orbit, but it’s not the rocket for the whole trajectory. It gets you out of the gravity well. And after that, get ready to slingshot around the world.
+
+Brian Chesky: We became an international company. Then in the middle of 2011, we raise money, we’re this billion dollar valuation company. Then in summer 2011, a woman’s home got trashed. Then we had to go to the next step which was: we are just this little company in our apartment, but as far as the world’s concerned, we have a giant office building and we better be grownups.
+
+So we had to build 24/7 support, had to have more secure payment instruments, we had to add a trust and safety team, we had to verify people’s identity. We realized we had to get our money transmission licenses. So then there’s this whole administrative bureaucracy that gets added. Then 2012 we get to the point, where we have 50, 100 employees, and we have no executive team. There’s no management, there’s no company meetings, and there’s no communication so no one knows anything, literally nothing. I don’t even know how we ran the company. So I instituted some basic things like I have to have an executive team. And then the lawsuits come in and you have to really sort it out. Unfortunately we’re not regulated at the federal level. We’re regulated at the city level and every city is different. They’re like, “I see what you did in Paris but here in New York we’re different.” So you had to go city by city and you’ve got to hire those people to really triage and deal with all these issues. It’s like a videogame. You slay a dragon. You think you’ve completed the board game, and then you have the next level and all of a sudden the dragons get really big.
+
+Reid Hoffman: When you’re slaying dragons, it’s hard to hold on to the handcrafted mindset. Still, I would argue that the sharpest founders never fully abandon the mindset, no matter how big their company gets. The organization will start having antibodies against new handcrafted things. It’s a response that protects organizational efficiency. It says: “Look, this new thing? We can’t get it to scale. It won’t operationalize. It won’t fit within our process.” The reason that scaled companies have a hard time with this handcrafted process is all in the list of objections about why this won’t work, why this shouldn’t be integrated as part of the company. And so what you need to do as a founder is to be extremely choiceful of which handcrafted innovation you choose, and how you protect it organizationally. You need to protect it because the natural reaction of the scale organization will be to kill it. He wanted to reinvent the industry again, and he knew he had more to learn about the travel experience in order to do it. So he turned to Hollywood for help.
+
+Brian Chesky: I often find that to reinvent an industry, you do not take inspiration directly from that industry, you need to look at orthogonal industries. For us the orthogonal industry for travel was cinema. The best trips you’ve ever seen are the trips that characters in movies have and we would provide that analogy in real life. I actually literally hired a storyboard artist from Pixar. We had him storyboard the perfect Airbnb experience. When we did that we realized there was this two hour movie and only 20- minutes were in the home. There was all this leading up to the home, getting the airport, going around, going to dinner, or hanging out with friends out and about. Most of the trip was not in the home. We realized at that point, we need to be the end-to-end business of travel. So the same way that we did things that don’t scale, we called it “magical trips.” We decided let’s find one traveler and create the perfect trip for them.
+
+Reid Hoffman: Notice how quickly Brian turns his attention to a single traveller. In an instant, he switches from global concerns back to his artisanal roots. That’s because he’s building something radically new here. He wants to scale the perfect trip. But what is the perfect trip? What are the essential ingredients that make a vacation truly memorable? It’s a question Brian can’t even begin to answer until he delivers that experience to at least one person. You’re about to get a master class in handcrafting.
+
+Brian Chesky: We put up these flyers anonymously saying, “Seeking a traveler. We’ll photograph your trip to San Francisco if you let us follow you.” This guy Ricardo replied. He was from London. We sent a photographer around him while he was just travelling in San Francisco. What we learned was his trip was awful. He’d show up, he’d go to Alcatraz by himself, put on the headset, and then he’d go to Bubba Gump Shrimp. He’d stay in a budget hotel. He’d go to a hotel bar by himself, sitting with a bunch of dudes at the bar but he doesn’t talk to anyone because he was introverted.
+
+We call him back. We said, “Ricardo, we want to create the perfect trip to San Francisco for you.” We fly him back. We had the team storyboard the perfect experience for Airbnb. We had a driver pick him up at the airport. We took him to the perfect Airbnb, there are all the services. He went on these dinner parties, we got him the best seats at restaurants. We took him on this midnight mystery bike tour. Sixty riders go on it and nobody but the leader knows where it will end up. There was this crazy magical world. I see him at the end of the trip. I say, “How was your trip?” He says, “It was amazing.”
+
+And then I walk away. He yells at me. “Brian, one more thing.” He starts crying. He breaks down, he says, “Thank you. This is the best trip I’ve ever had.” I was like, “Oh my God. I guess it worked. It really moved him.” I don’t think anyone ever tried to design an end-to-end experience for somebody like they’re in a movie before and we did it. That became a blueprint. We said we are confident on an unscalable basis that we know how to create a trip that deeply moved somebody that’s better than anything they’ve ever experienced. The question is: Can we develop a technology that scales and do it 100 million times?
+
+Reid Hoffman: Notice here how quickly Brian switches back to the analytical mindset. He can extrapolate from a single journey to a list of essential ingredients. Here is his systematic breakdown of the perfect trip.
+
+Brian Chesky: When you first go to a city you need a welcome event within the first 24 or 48 hours where you’re around people. When you land, you need to get acclimated to the neighborhood. By day two or three you need to have a challenge out of your comfort zone. If you do not leave your comfort zone, you do not remember the trip. If you can belong out of your comfort zone and something new happens to you, then there’s going to be a moment of transformation where the person you were in a small way dies and a new better version of yourself is reborn. Now this is the narrative of every movie you’ve ever seen. A main character starts in an ordinary world. They leave their ordinary world. They cross the threshold to new, magical world where all these obstacles happen and they overcome something. They call it the hero’s journey. We applied this to trips, built a small team and we spent the last couple of years figuring out how to scale this, and this has led to what we have today which we call “Airbnb Trips.”
+
+Reid Hoffman: In November of 2016, Brian unveiled 500 trip packages in 12 cities. And now he’s fully in the scaling mindset, figuring out how to expand the service to new destinations. But as Brian will tell you, he misses the handcrafted work. He has a surprising message for entrepreneurs who have only a handful of users to serve.
+
+Brian Chesky: I tell a lot of entrepreneurs who don’t have traction, I miss those times. Yes, it’s exciting to have traction, to have a company that’s huge scale, but the biggest leaps you ever get is when you’re small. Another way of saying it is, your product changes less the bigger you get because there’s bigger, more customers, more blowback, more systems, more legacy. The most innovative leaps you’ll ever make, especially if you’re a network, are going to be when you’re really, really small. You can change the product entirely in a week. Try doing that at LinkedIn or Airbnb today. That would be a huge disaster. So I think taking advantage of that subscale, designing the perfect experience, asking yourself what you can do, is amazing.
+
+Reid Hoffman: And if you have a tiny startup, I have good news for you. Now is the moment you can take the most daring leaps of your career. Dream big. And act small. Pay passionate attention to your users. Handcraft the core service for them. Create a magical experience. And then figure out what part of that magical handcrafted thing can scale.
+
+Reid Hoffman: I’m Reid Hoffman. Thank you for listening.
+
+Masters of Scale is a Wait, What Original in association with Stitcher. Our Executive Producers
+
+are June Cohen and Deron Triff. Our producers are Dan Kedmey, Jennie Cataldo and Ben
+
+Manilla. Special thanks to Jessica Johnston, Saida Sapieva, Elisa Schreiber, Chris Yeh, David
+
+Sanford, Jai Punjabi, Stephanie Kent, and Rafeena Ahmad. Original music is by the Holladay
+
+Brothers.
+
+© 2017 Wait What LLC, All Rights Reserved
+
+
+TAGS
+BRIAN CHESKY, MASTERS OF SCALE, REID HOFFMAN
+	

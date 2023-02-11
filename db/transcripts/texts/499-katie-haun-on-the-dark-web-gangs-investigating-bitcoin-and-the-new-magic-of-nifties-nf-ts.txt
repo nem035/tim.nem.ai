@@ -1,0 +1,703 @@
+
+
+FEBRUARY 24, 2021 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Katie Haun on the Dark Web, Gangs, Investigating Bitcoin, and The New Magic of “Nifties” (NFTs) (#499)
+
+
+Please enjoy this transcript of my interview with Katie Haun (@katie_haun), a general partner at Andreessen Horowitz. Previously, she spent a decade as a federal prosecutor with the US Department of Justice, where she focused on fraud, cybercrime, and corporate crime, alongside agencies including the SEC, FBI, and Treasury. She created the government’s first cryptocurrency task force and led investigations into the Mt. Gox hack and the corrupt agents on the Silk Road task force.
+
+While serving as a federal prosecutor with the US Department of Justice, she also prosecuted RICO murders, organized crime, public corruption, gangs, and money laundering. She held senior positions at Justice Department headquarters in both the National Security Division and attorney general’s office, where her portfolio included antitrust, tax, and national security. Katie has testified before both houses of Congress on the intersection of technology and regulation.
+
+Katie serves on the board of Coinbase, where she chairs its audit and risk committees, and HackerOne. She also advises numerous technology companies and has invested in a range of companies from seed to Series C stage. She teaches a class on cryptocurrencies at Stanford Business School and previously taught cybercrime at Stanford Law School.
+
+Katie clerked for US Supreme Court Justice Anthony Kennedy and is an honors graduate of Stanford Law School. She is a lifetime member of the Council on Foreign Relations.
+
+Transcripts may contain a few typos. With some episodes lasting 2+ hours, it can be difficult to catch minor errors.
+
+
+
+The Tim Ferriss Show Transcripts: Katie Haun on the Dark Web, Gangs, Investigating Bitcoin, and The New Magic of “Nifties” (NFTs) (#499)
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss, and welcome to another episode of the Tim Ferriss show. I’m going to skip my usual preamble. You guys have heard it before, and I’m going to get straight to this guest because we are going to run out of time before we run out of material.
+
+My guest today is Katheryn, that’s with an R-Y-N, commonly known as Katie Haun, H-A-U-N, on Twitter at Katie, K-A-T-I-E underscore Haun, H-A-U-N. She is a general partner at Andreessen Horowitz. Previously, she spent a decade as a federal prosecutor, focusing on fraud, cyber, and corporate crime alongside agencies including the SEC, FBI, and Treasury. She created the government’s first cryptocurrency task force, and led investigations into the Mt. Gox hack, we might talk about what that is, and the corrupt agents on the Silk Road task force. I have quite a few questions about that.
+
+While with the US Department of Justice, Katie prosecuted RICO murders, we’ll define that, organized crime, public corruption, gangs, and money-laundering. So lots of good guys, in other words. She also held senior policy positions at Justice Department headquarters in both the national security division and Attorney General’s office, where her portfolio included antitrust, tax, and national security. While in the private sector, Katie has testified before both the House and Senate on the intersection of technology and regulation.
+
+Katie serves on the boards of Coinbase and HackerOne, and has invested in and advised tech companies from seed to series E stage. She teaches a management course at Stanford Business School, and previously taught cyber crime at Stanford Law School. Katie clerked for US Supreme Court Justice Anthony Kennedy, and is an honors graduate of Stanford Law School. She is a lifetime member of the Council on Foreign Relations.
+
+Katie, welcome to the show.
+
+Katie Haun: Tim, thanks for having me. Great to be here.
+
+Tim Ferriss: I am so excited to chat for so many reasons. And I thought I would just set the tone for people listening with a few lines from our mutual friend, Naval Ravikant, who is certainly a crowd and listener favorite here on the podcast. I emailed Naval to ask if there might be any questions or subjects it would be interesting to explore with Katie. And of course, indicating that I would do my own homework.
+
+And he replied with the following. I asked him if I could give attribution, and he said, “Yes, you can cite me.” So here’s what he said. This was his very concise response. Quote, “She has a concealed carry, grew up in Cairo, can’t set foot in Russia, dealt with a lot of violent criminals, et cetera. But she’s also a suburban mom with kids, and runs the number one hard-charging VC fund in crypto. She’s quite the character. If I’m down to one phone call, instead of calling my lawyer, I’m calling Katie.”
+
+So on top of that, you seem to be the child whisperer, from another mutual friend, Suna, and she talked about how incredible you are with children. So we are going to run out of material, I think, very easily. And I want to start, if it’s okay with you, with the Silk Road.
+
+So the Silk Road is of great interest to me for a lot of reasons. And principal among those is the fact that I used to work many days a week out of Glen Park Library in San Francisco. And so for those who don’t know, the founder of the Silk Road, who used the handle Dread Pirate Roberts, of course an allusion to the character from The Princess Bride was apprehended in Glen Park Library on a day I happened to just not to be there.
+
+So the fact of the matter is — 
+
+Katie Haun: Oh, not to be there. Not to be there.
+
+Tim Ferriss: I was not there. I was not there, but it makes me assume that I must have been sitting right next to this guy many, many, many times. So for those who don’t know, just as an introduction, could you explain what the Silk Road was?
+
+Katie Haun: Sure. So if you weren’t at Glen Park that day, Tim, that means you missed the lover’s quarrel that the FBI staged in order to nab DPR’s computer. I don’t know if you read that story.
+
+Tim Ferriss: I did. I did, I did. I did. And actually, Nick Bilton, who ended up writing in his book about this, was also just a few blocks away. He lived in the neighborhood.
+
+So let’s move into this, and you can also explain the — well, maybe the Silk Road, and then the lover’s quarrel, why that was in any way tactically important.
+
+Katie Haun: Sure. So the Silk Road, as many of your listeners probably already know, but for those who don’t, is a darknet site. And it’s a site that you can buy anything from fake passports, or that you could buy anything from fake passports, to heroin, to fentanyl, to drugs, and just all kinds of contraband, right?
+
+I was actually not involved in the investigation into Ross Ulbricht and DPR. A lot of people think, “Oh, you ran the Silk Road case.” I was actually involved in what I’ll call the twist of the Silk Road case. I was involved in some of the agents who were investigating DPR and Ross Ulbricht and the Silk Road. I ended up having to prosecute them. So let me back up before we get to that. And that, by the way, that started with a tip that someone in the government was up to no good and moving cryptocurrency.
+
+But before I get into that, that twist piece, just to answer your earlier question about the Silk Road. So there was this, as you mentioned, DPR, and the US government for years was trying to find out, “Who is DPR? Where is he or she located? Are they in the US or are they elsewhere, and how are they running the Silk Road?”
+
+And so they spent a number of years trying to find out. And one of the secret weapons that the US government had was an undercover federal agent, who I’ll call Nob. Nob is one of the people I ended up prosecuting. But this undercover federal agent befriended the mastermind of the Silk Road, DPR.
+
+Tim Ferriss: Can I pause for just one second?
+
+Katie Haun: Sure.
+
+Tim Ferriss: So usually if someone has a placeholder pseudonym, it’s like Jane, John Doe. Where is Nob coming from? And is that with an N, or A K-N?
+
+Katie Haun: It’s with an N. It’s N-O-B. But if you think Nob is a kind of crazy handle, the personas that Nob invented to actually then extort the mastermind of the Silk Road were French Maid and Death From Above. So we can get into that in a moment. So Nob is just the tip of the iceberg, Tim.
+
+Tim Ferriss: All right, sorry to interrupt. Please continue.
+
+Katie Haun: Well, where were we? So we were at the Silk Road. The government’s trying to figure out who’s the mastermind, and it has a couple different task forces on that job. One, as I mentioned, is outside of Washington DC. That’s where Nob and others are befriending DPR and getting little clues into who or where is this person? How do they do that? They do that by having Nob, who’s an undercover federal agent, befriend online DPR, Ross Ulbricht.
+
+And so for about two years, Nob and DPR are communicating almost daily, and they become actually friends. If you read the chats, their messages on the Silk Road website, which the government later seized, they engage in friendly banter back and forth. “What did you eat today? Oh, what are you doing? Are you working out?” And the reason for that, Tim, is those kind of little clues inform the government, well, where is this person at?
+
+Are they online during hours in the middle of the day? What kind of workouts are they doing? Are they hiking the hills? What are they eating? Are they eating salmon? Where is that found? So just little clues over two years really can help a government investigation. So Nob was getting these clues by befriending Ross Ulbricht. And Nob’s cover story was that he had connections to the criminal underworld in Latin America because he was a drug cartel leader. And his in to Ross Ulbricht was, “Hey, I want to buy your business, your Silk Road. I like this business.”
+
+So that’s how the two started communicating. And somewhere along the way, Nob went bad. Nob became a double agent playing both sides and extorting Ross Ulbricht for hundreds of thousands of dollars at the time of Bitcoin, which today would be hundreds of millions of dollars of Bitcoin, or of dollars in Bitcoin. But also selling Ross Ulbricht secrets into the government’s own investigation using that Death From Above moniker.
+
+Tim Ferriss: That’s just incredible. So my understanding, and please correct me if I’m wrong, that one of the key elements of the story in apprehending DPR was also the fact, and I want you to fact check this. Understanding that this wasn’t where you entered the scene, but is that he made a bit of a rookie mistake and he used the same handle, I think it was something like Altoid or something like that, in multiple locations with his email address that ultimately allowed agents and law enforcement to triangulate.
+
+At least, that seems to have been a piece of the puzzle. I might be misremembering that. But when you became involved, what were the key elements that allowed you to figure out what was going on, and then prosecute effectively?
+
+Katie Haun: Sure. So again, I didn’t prosecute Ross, but I remember that case well because as you know, Tim, he was apprehended in San Francisco. So I actually remember when he came into the Federal Building at the Justice Department that day. And you are right that there were some mistakes. He was pretty good at obfuscating, but there were some mistakes.
+
+And I think there’s a New York Times article on this, that the IRS agent on the case, Gary Alford, just on the open web found a reference to his real name on Google somehow. So I think your memory is correct. But of course, like you say, it’s a bigger piece of a puzzle. It was a multi-year investigation. It involved search warrants from what I understand all over the world, and a number of different pieces of the puzzle.
+
+But one piece indeed was what you said, which is the rookie mistake of leaving a few digital breadcrumbs in the form of his real name that ultimately led to his apprehension.
+
+Tim Ferriss: And I should have been more specific. By prosecution, what I meant was in reference to the two federal agents, one of which being Nob. Because in this twist, as I understand it, part of what makes this pretty fascinating is that the technology itself, some of the technology at play made it possible, or at least facilitated the tracking of these digital breadcrumbs. Could you speak to that?
+
+Katie Haun: Sure. So actually, I’ll go a step further, and I’ll say in law, we have this concept called but-for. But for this, this wouldn’t have happened. And I can tell you that but for the blockchain, we would not have caught — by the way, you said Nob. There are actually two federal agents. We’ll get into that in a second, because it turned out there was another rogue federal agent doing all kinds of other things who was on that Silk Road Task Force.
+
+And but for the blockchain, we would not have caught these two corrupt agents. And if I sound like I say that with certainty, it’s because I’m certain of it. We would not have caught them otherwise. And in fact, the only reason that we were able to investigate and follow the flow of funds was because of the blockchain technology. And without it, we wouldn’t have been able to bring these two individuals to justice. In fact, they’d still be today federal agents, I’m quite sure of that. And moreover, they’d probably have over a billion dollars worth of criminal proceeds in the form of Bitcoin, given how the price has gone up.
+
+Tim Ferriss: Yeah, they would have been highly resource rich, and enabled questionable characters that — I mean, wow, what an alternative universe that would have been.
+
+In this case, if we could pause for a moment, you seem to have a superpower of getting in front of an audience. And this has certainly shown up in previous profiles of you, CNBC and elsewhere. Getting in front of an audience of people who come from all walks of life, such as the members of a jury, and getting them to understand a topic they might have not heard of before, or that might be very complicated, possibly complicated. Could you explain for people who have heard the term blockchain but really don’t know what it refers to, what the blockchain is?
+
+Katie Haun: Well, there are numerous blockchains, but let’s just use the example of the Bitcoin blockchain. And it’s essentially, Tim, what it is a massive ledger that keeps track of who owns what. And instead of some central entity keeping track, it’s instead done by what are called nodes all over the world. And these nodes, in the case of the Bitcoin blockchain, are called miners.
+
+And the best way to think of them in my mind is, think of miners like the workers who are performing computing work to secure the system that keeps track of this ownership. So it’s this decentralized, not centrally controlled, big huge ledger that keeps track of who owns what. Does that — 
+
+Tim Ferriss: It does.
+
+Katie Haun: — paint a picture for you? And it’s also, the key things about the blockchain is it’s immutable. No one can change it. And that turned out to be really important in the case we’re talking about, because these agents, while I was investigating them, were agents the whole time.
+
+So they were hot on my trail. They could look and see what I was learning. They could peek in our investigation. In other words, the government wasn’t able to terminate them just because we thought there was some nefarious conduct afoot. And so the blockchain was actually really necessary, because in several instances, they were actually able to get banks and financial entities to destroy records to cover up evidence of their crime.
+
+They also forged subpoenas, and forged court orders and the like, I think burned bags. And because of flashing the badge, “Hey, this is an undercover operation, bank so-and-so, delete those records.” And not surprisingly, the banks complied. Here’s a federal agent with a subpoena saying, “Delete these records. It’s a sensitive undercover operation.” So the blockchain was really critical because it was decentralized and immutable, meaning it can’t be changed. We were able to follow the trail.
+
+And that’s why I say but for the blockchain, we wouldn’t have been able to bring this case or this indictment. In fact, I mentioned Nob, but I didn’t mention the other agent. The crazy thing is they weren’t even working together. But another agent on that task force who was a Secret Service agent on detail to the NSA, who was one of the US government’s experts in encryption technology, it turns out he had stolen, Tim, 25,000 Bitcoin from Ross Ulbricht and the Silk Road, which today that would be worth just over a billion dollars. And he had staged, by the way, he had made it look like the Silk Road, Ross Ulbricht’s right-hand man, who was by the way a grandfather in Utah, if you can believe that, the right hand of the Silk Road, he had staged the whole thing to make it look like that individual had stolen the 25,000 Bitcoin.
+
+So Ross Ulbricht says, “What is my right-hand man doing stealing 25,000 Bitcoin from my site? I know it’s him. I’ve got to take care of this.” And who does he turn to to do the taking care of? Nob, the other undercover federal agent who he’s befriended over two years.
+
+So the details are quite crazy. But I will tell you again that without that blockchain technology, we wouldn’t have been able to get the records. Because in the case of the Secret Service agent, one of the things he did was he transferred those 25,000 Bitcoins to an exchange called Mt. Gox, which was a Japanese exchange that had gone belly up.
+
+Well, we went over to get the Mt. Gox records, and they didn’t have any. The exchange had gone under. And Mark Karpelès, I remember meeting with Mark Karpelès in Japan, and Mark Karpelès said, “Those records we don’t have. And by the way, you guys did a seizure,” you guys being the US government, “did a seizure warrant for Mt. Gox. Not only were we hacked, the feds seized it.” Well guess who was the affiant on the seizure warrant? It was none other than our Secret Service agent who had stolen the 25,000 Bitcoin.
+
+Tim Ferriss: I mean, really, it is just built for a screenplay, this entire story. Now it seems like, if I’m getting my facts straight, that there is one other but-for, possibly, and that is the tip.
+
+Could you speak, I don’t know how much of this is public record at this point, but who did it come from? Or what was the tip? How much did you have to go on?
+
+Katie Haun: Sure. I’ll tell you what is public record. And if listeners want, you can go read, there’s a 97, I think, or 90-page criminal complaint that lays out all of the facts of this story online. You can just go Google it. Silk Road agents, it’s out of San Francisco.
+
+But what happened was I was sitting in my office in San Francisco on another crypto investigation. And one of the lawyers, who used to be an investigative journalist, pulls me aside and said, “Can I talk to you about something else?” And I said, “What?” And he said, “I think you’ve got a mole, or someone up to no good on your payroll. They’re moving cryptocurrency.” And I thought, “Oh, here sounds like a real conspiracy theory.” Which of course I was in San Francisco, I hear a lot of them, about how the government is bad.
+
+And I thought, “Okay, this poor agent, I’ve got to go clear this person’s name. Because here’s this lawyer, a former journalist, spreading rumors.” And I thought, “If he’s moving Bitcoin, it’s probably on a poorly backstopped undercover operation.” So I actually, that was the tip I got. And I actually — was really started to look into it more to clear the name, than I thought, oh, that his information was correct.
+
+But I did look into it. Like I said, I got a couple agents. And it’s not a popular thing to go to agents and say, “I want to investigate some other agents.”
+
+Tim Ferriss: I bet not a crowd pleaser.
+
+Katie Haun: No. But I got a couple agents who knew a thing or two about the blockchain. And we hopped on WalletExplorer and started looking at some flow of funds, and saw, “Wow, this is a lot of cryptocurrency moving around.”
+
+And then, what flipped in my mind, Tim, was the moment where I saw emails that this individual had sent to crypto exchanges saying, “Please delete these records.” And I thought, “Now, if this is undercover, and you’re in the government, you don’t want to delete evidence. You want to preserve evidence.” So that’s how I knew something was amiss. But we only got a tip about one agent.
+
+And of course that one agent, once we solved who done it, and we knew he was extorting Ross Ulbricht and the Silk Road, and we knew he was selling information in the government’s case, we thought, “Oh, that’s probably who stole the 25,000 Bitcoin, as well.” So we were just thinking, “That’s who did it. It wasn’t the Silk Road administrator.”
+
+But in fact, I remember on Christmas Eve getting a call from one of those agents. And he said, “Katie, I don’t think it’s him. The patterns, the movement of money, the kind of services that they were using to obfuscate. They’re not the same person. The MO is different, and we’ve got someone else who stole that Bitcoin.” And so then we launched a separate investigation, Tim, into who stole a billion dollars worth of Bitcoin? A billion now.
+
+Tim Ferriss: If I could pause for a definition, please.
+
+Katie Haun: Sure.
+
+Tim Ferriss: What exactly is a federal prosecutor?
+
+Katie Haun: Oh. A federal prosecutor is — so a lot of people have heard of district attorneys, or DAs. That is a local prosecutor. A federal prosecutor, another name for it is Assistant US Attorney. And a federal prosecutor takes those kinds of crimes that cross state lines, or that are of a certain kind of subject matter that the federal government has deemed are also federal crimes.
+
+Now, a lot of things could be both. You could have certain crimes that could be prosecuted at the state level, or they could be prosecuted at the federal level. And then you have other crimes that could only be done by one or the other. So, my job as a federal prosecutor was to investigate and bring to justice where crimes had occurred.
+
+Now, another important part of the job of being a prosecutor is knowing when not to bring a case, even though the facts support a charge. Because what I always say is, the government wasn’t hurting for business. Unfortunately, there are a lot more criminals than there are resources to prosecute. And so, one of the things as a prosecutor that you really want to do is look for, what are the worst of the worst? Where are you going to get the most bang for the buck here? What is your theory of punishment? Is it deterrence? Is it punishment? Why are we doing this?
+
+And so, you really need to look for the most important cases. And by important, I don’t mean high profile. I mean, important for justice to be served.
+
+Tim Ferriss: I would imagine — I mean, this is me knowing nothing about this, but also important possibly as a setting of precedent, or otherwise acting as a domino that knocks over or helps to possibly knock over other dominoes.
+
+I’m looking at a letter which is online at a16z, that’s the Andreessen Horowitz website, a16z.com. And this is the hiring announcement by Ben Horowitz, certainly of the namesake, Andreessen Horowitz. Ben has been on the podcast as well. So has Marc, for that matter. And I want to read just a portion of this letter. There’s a lot to it, including some Nicki Minaj lyrics for people who want to see Chun-Li lyrics. I’m not going to read those.
+
+But here it is: “As I learned more about her career, I was even more impressed. She stood up to murderous motorcycle gangs and cartels, shut down organized crime, nailed RICO murderers,” again that acronym that I want to define, “uncovered the largest money laundering and cybercrime rings, and stopped white collar crime and public corruption. Through it, all, her prosecutorial record,” not a word I read every day, “was whatever and zero. She never lost a case. Not once. Not ever.”
+
+Okay. So, bookmark RICO, we’re going to come back to it. And I’m going to pull a couple of possible answers to my forthcoming question off the table. So the working harder or preparing harder, I understand that you do both. Meaning, you work and focus very intensely, and you’ve had a reputation for that for a long time. But what do you think you have done differently, or how have you approached things differently that has helped you to have this record?
+
+Katie Haun: Well, that’s a great question.
+
+Tim Ferriss: And if it’s easier to swap places, how would your friends who really know you and have seen you over the years, how would they explain it? If that’s easier to answer.
+
+Katie Haun: Sure. Well, let me take a stab at both. And I will put a pin in RICO, we’ll come back to that. One of the jobs I had as a federal prosecutor is going to before a grand jury. That’s a secret jury presenting evidence in seeking an indictment. Another job of a prosecutor is meeting with the witnesses in a case, and trying to maybe get them to flip. Bringing evidence to bear, developing evidence. It’s also working with agents, and it’s to get agents motivated in some cases to go work nights and weekends to go chase a lead, for example.
+
+The other thing that you do as a prosecutor is you go to court, just like you see on TV, Law and Order, like the prosecutor stands up and makes arguments to the judge, if it’s a judicial argument. Or if it’s a trial, makes an argument to the jury. So that’s a little bit about the job of a prosecutor.
+
+I think one of the things, as I think about it, that I did differently was — well, first of all, I just had an amazing mentor at the Justice Department. So put a pin in that and we’ll come back to him in a minute. But one of the things I did differently is just, I think it’s really important to, obviously you want to make sure that you’re charging the right case, and you have all your evidence.
+
+Because even though 95 percent of federal cases plead guilty, at least in those days they did, some go to trial. And Tim, you never know which ones are going to go to trial, or which ones are going to plead guilty. The ones you think, “Oh, they’ll take a plea,” they surprise you. The ones you think will go to trial surprise you and take the first plea. You just never know.
+
+And so one thing I always did is I thought to myself, “I have to prepare this case as if it’s going to go to trial and I have to convince a jury. And how am I going to convince that jury that this is the right case to bring, that it’s righteous, and that the law was violated? And that what I’m asking for is frankly a no-brainer?”
+
+One of the things I did was, I developed something called — well, I didn’t develop the concept of a reverse proffer, but I’ll tell you about what I did. That is, sometimes you just felt like maybe there’s something lost in translation. Maybe this defendant doesn’t understand the evidence I have against them. Who knows? Maybe their lawyer’s telling them, maybe they’re not telling them. Maybe they’re telling them, but the defendant doesn’t really trust their lawyer.
+
+And so, I did something called a reverse proffer, which is, I said, with the permission of the defense counsel and defendant, I said, “Hey, would you let that defendant come into my office, marshals?” And if they did, “Marshals, can you bring the defendant to the office?” If the defendant was in custody, they’d come shackled. If they were out of custody, they’d just show up in street clothes with their lawyer.
+
+And I would sit them down in the conference room at my office, and I would give them a little snapshot of, “Here is a flavor or sampling of the evidence I have against you that a jury is going to hear. And here’s how I’m going to present it. And I want you to be aware. With this evidence staring you now in the face, do you want to go to trial or not?”
+
+And I think a lot of times, seeing what would be presented, and seeing, “Oh, they do have all of these witnesses who will say X, Y, and Z,” caused the defendants in some cases to say, “No, I want to change the circumstances here. I want to stop the bleeding,” so to speak. Because obviously if you go to trial, the sentences tend to be longer. The judge pronounces — always the judge pronounces the sentences. But when you’re in a trial setting, you often get a lot longer than if you take an earlier guilty plea.
+
+So reverse proffer was one thing. I think another thing that comes to mind is just being able to develop a rapport, not just with the defendants or defense counsel, but with the witnesses. Witnesses are some of the most important evidence that you can have in an investigation. And in a number of cases, I was doing particularly gang cases, why is some witness or some member of the gang, why are they going to trust you, a government prosecutor? What can you do to build that trust, and to really talk to them in a way that is relatable?
+
+And I think that was something that I spent a lot of time trying to develop is, putting myself — I can never put myself in the shoes of some of the folks that I encountered, but trying as best I could to think, “What’s motivating them? What might they be scared of? What’s holding them back from wanting to cooperate with us?’ And through doing some of those things, I think we were successful in being able to flip some key witnesses.
+
+So that could contribute to it. But I would be remiss if I didn’t say that I had just an amazing mentor. He was actually my boss at the Justice Department, and he was an incredible prosecutor. And just watching him, that also, I think, accounted for a lot of it. And also I had incredible case agents, and FBI agents and everything. So I can’t really take credit for all the verdict records. There’s a lot that goes into it.
+
+Tim Ferriss: Yeah. I would imagine it’s a team effort. 
+
+If we take a closer look at this mentor, what were some of the things, if different from those you’ve just mentioned, that stand out as making him an excellent prosecutor? Or an unusually good prosecutor?
+
+Katie Haun: Well, I think the key thing is he did not care. I’m not suggesting prosecutors — most career prosecutors are not thinking of their next job. So just to be clear on that. But really with him, and his name is Wil Frentzen. I’ve worked with a lot of amazing mentors, Tim, in my career, Justice Kennedy, the Attorney General, tech CEOs, and folks in VC. But this guy is not a household name, and his name is Wil Frentzen.
+
+And I think one of the things that comes to mind when I think of Wil is, he just didn’t care about anything other than just in that moment, doing the right thing and doing justice. And he didn’t care about what his next job was going to be. He didn’t care about the consequences. He didn’t really even care — I’m not endorsing this necessarily, but he, I remember some judges — I remember being in court once for a judge. He said, “Mr. Frentzen, why do you shake your head at me like that, like I’m stupid?” No judge would ever usually say that to a prosecutor, but he had this — and Wil had this prosecutorial swagger that was unique to him. He took down MS-13 — I mean, I think there was a newspaper article that described Wil’s prosecutorial swagger.
+
+But in my case, one of the things he did that made him an amazing leader, was he first of all threw me into the deep end. But he also had my back when I needed it. And he recognized when I was ready to lead. In fact, I did a biker murder case involving the Mongols and the Hells Angels and it went to trial. That was one of the ones that I thought for sure would plead guilty and instead went to trial and it lasted two plus months. And Wil became my second chair. He became my deputy, even though he was my boss and it was a high profile murder case, he sat second chair during that case. But I think he also had my back. And when I tell you he doesn’t really care about his next job, can I share a story involving Google?
+
+Tim Ferriss: Sure. Yeah. Let’s do it.
+
+Katie Haun: So there was a murder case we were doing. A different one than the one I just mentioned. It was a gas station robbery gone wrong.
+
+Tim Ferriss: Hard to keep track.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: I’m just kidding. Because you do have a lot of murders.
+
+Katie Haun: Yeah. It was a really sad circumstance of a guy who was shot over $250 while he was working a second job at night. And actually, we had some amazing evidence that we knew was in the defendant’s Google mailbox. It was like Google voice records and stuff and so we got a search warrant, which is different than a subpoena. We had to go to the court and we had to go to a judge, prove probable cause and get a search warrant.
+
+And Google just simply put it in the line and basically told us to get in line and we’ll get to it when we get to it. And we said, “This was a court order.” This is now unsealed, so I can say this publicly. At the time, it was sealed. We said, “This is a court order. It’s a murder case. We need these records.” And they basically told us, “Well, we’re Google. We’ll get to it when we can get to it.”
+
+And Wil said, “That’s just BS. I mean, we go around expecting mom and pop stores all the time to comply with search warrants or people, right? Ordinary citizens. Why should Google get a pass?” And I said, “You’re right. That’s BS. Let’s write a motion to the judge to have them held in contempt. We’ll give them a fair chance to comply first. But if they don’t, let’s go to the court. They should comply with the same rule everyone else has to.”
+
+And we gave them several chances and we said we’re going to go to court and they basically ignored us. And, “We are Google. We will crush you.” And we went to court. We got them held in contempt of federal court if they didn’t produce these records. And what ended up happening, and this was all under seal at the time, was, I won’t name names, but someone at Google, high up, called the political appointee who was running our office at the time and basically suggested that we should get this undone. And we were in the jurisdiction of Google. We’re in the Northern District of California.
+
+And Wil and I were both like, “No, why should we do that?” This is a murder case, where the victim’s family is relying on us to bring the best case and the best case involves those records. And we’re not going to just stand back because it’s Google calling up and suggesting we undo this motion. So we stuck to it.
+
+And that was a case where another boss might’ve said, “Let’s kind of figure out a way to broker a great settlement here and make this go away.” And he said, “I don’t care who they are.” He really just didn’t care. And so he was fearless and also he was egoless. Like I said, he let me, often, when he knew I was ready to lead, he would let me first chair a case. So that really stands out to me.
+
+Tim Ferriss: Fearless and egoless is a formidable combination, right?
+
+Katie Haun: Very rare.
+
+Tim Ferriss: Rare, and I do not want to fight that person on anything. That’s going to be very difficult. 
+
+Now you mentioned fearless and you also mentioned Hells Angels, Mongols. This might be a good place to define RICO.
+
+Katie Haun: Oh, yeah. Sure.
+
+Tim Ferriss: I don’t know if that’s related to racketeering.
+
+Katie Haun: It is. See. You got it right there. Racketeering. It’s the Racketeering and Organized Corrupt Institutions — or Racketeering and Corrupt Organizations. And it’s basically a federal statute, where it just creates a class of crimes that are more serious if you’ve done certain predicate crimes. So for example, it often involves cases involving conspiracies, and then you allege several predicate acts. So in furtherance of the conspiracy, maybe there was some gun trafficking. Maybe there was money laundering, maybe there was fraud.
+
+And so I did a number of RICO. There’s also — I’m not going to bore you with acronyms, but there’s a VICAR. Those are kind of this class of cases again, where you’re talking about a corrupt organization. That’s the C-O in RICO, R-I-C-O. And what it means is basically an organized criminal enterprise and you have to prove they were organized. You have to prove they were serving a common goal. You have to prove they did certain things in furtherance of that organization or conspiracy, is basically what RICO is.
+
+Tim Ferriss: Does that also help you to prosecute people who are in leadership positions who don’t necessarily, for instance, carry out a hit or murder themselves, but they issue the order for that hit? Does RICO play a — or I suppose, I’m not sure if laws is the right way to put it, but does that assist you in any way in prosecuting, thinking about these larger groups, Hells Angels? Mongols? You mentioned MS-13, for instance.
+
+Katie Haun: Yeah. It’s definitely a tool in a prosecutor or an agent’s toolkit to kind of wrap up an organization. Like you said, if otherwise the individual might not have been on the hook for actually like a murder, maybe they just commissioned it, for example. Now there are other laws that you can do, Tim. You don’t only need RICO. There are conspiracy laws. But RICO is just kind of another tool that one might use. And it also enables you at trial, to get in what are known, as like I just mentioned, predicate acts.
+
+So the Hells Angels and the Mongols trial, we included predicate acts. I don’t know if you remember the Laughlin River Run Riot and a series of other murders and a whole host of other criminal conduct that then the jury heard and we think, not we, but the Congress, who passed the law, because of course prosecutors don’t make the law, they just enforce the law. And so Congress passed this law saying that the jury would be able to hear all of these different kind of predicate acts.
+
+Tim Ferriss: Now standing up to Google, or a company like Google, a tech company with incredible power, wide reach, shows a level of fearlessness, with respect to, I suppose, many aspects of life, including possible, and maybe, maybe not, career advancement, career options later. Who knows? Like politicking within the office, et cetera, when you’re dealing with, say prison gangs, like Nuestra Familia, one of the world’s largest prison gangs and other groups that are associated with intense violence, how have you thought about personal safety? And I’m struggling to ask a more pointed question, but what has the self-talk been, so that you can operate effectively in a job that entails what I would imagine to have some degree of personal risk? And that’s a meandering question, but I’d love to at least open the door to just hearing your thoughts on that because I don’t know if I would have the courage to do it, quite frankly.
+
+Katie Haun: Yeah. I think you might, if you see some of the victim’s families.
+
+Tim Ferriss: Right.
+
+Katie Haun: And you might, if you saw some of the witnesses that were intimidated or some of the consequences, if you didn’t. I mean, I completely hear what you’re saying, Tim, and I don’t dismiss it because it’s certainly something that I’ve thought about. But I also knew that in those moments, there was something really wrong going on and someone had to step in and do something about it. And it wasn’t just me. It was like I said, a lot of really brave men and women, law enforcement personnel, and other prosecutors. And by the way, judges and even juries. Jury, there are plenty of instances of jury intimidation. But it’s critical for our system to work because obviously we can’t just be running amok with no laws and violence.
+
+I think in the case of Nuestra Familia, you mentioned a prison gang, this is an entire world people don’t realize. And you think, oh, they’re in prison, so therefore then they’re locked up. But the truth of the matter is, and there’s actually a great 60 Minutes episode on this. It’s called Operation Black Widow, by the way, running criminal enterprises from prison is pretty common.
+
+There’s a whole system that goes into taxing criminal activity on the outside in exchange for protection on the inside. And the people who are running these gangs, frankly, a lot of them could be running businesses, I sometimes think, if circumstances were different. They’re hustlers, they’re dedicated, they have a lot of passion. I’m not trying to make it sound glamorous at all because it is criminal. I’m just saying that they’re very organized. They have a whole system for getting messages outside.
+
+I remember once a judge said to me, “What do you mean that defendant is under the influence of whatever drug it was. They’re in prison.” And I thought, “Oh, your honor…” Like it’s so naive to think that you’re not able to get contraband in the prison. They’re running the prison sometimes. And so this case, you mentioned Nuestra Familia, was a really large gang. They affiliate on the outside with the Norteños on the street and then, like I said, there’s a whole tax system. Some of the street gangs will pay into tax essentially, into inside, the carnales  inside, so that if they ever get hooked up and put in prison, then they’re protected within prison. But one thing I think that you might think, “Oh, these dangerous…”
+
+Tim Ferriss: When you say large, just could you give us an idea of what large means?
+
+Katie Haun: Well, they’re worldwide. I mean, like in the case of MS-13 or Nuestra Familia, I mean, it’s not just in the US, but they’re certainly in every city. I mean, you’re talking about thousands and thousands, if not tens of thousands of individuals affiliated with these. But I prosecuted Nuestra Familia. I indicted that case. This was before that Silk Road case. This is in my violent crime days still.
+
+And you talk about being scared. I mean, the truth of the matter is a lot of the defendants that — and we extradited many from all over the country. And these were the kind of carnales — these were the big chiefs. These weren’t like the street level gangs. These guys had all been in — 
+
+Tim Ferriss: So the carnales are the leaders?
+
+Katie Haun: Yes.
+
+Tim Ferriss: Were there.
+
+Katie Haun: Mm-hmm (affirmative). And I think we indicted over a dozen. Most ended up pleading guilty. Some did go to trial. But you think, “Oh. Well, those are going to be the scariest of the scary.” But again, like I told you earlier, it’s really a human thing and different people, even if they’re in a really violent prison gang, react differently to things.
+
+And I think a lot of the listeners and also myself, I’d include myself and probably even this, like we think, “Oh, it would be the worst thing in the world to go to prison. We don’t want to go to prison.” The interesting thing is a lot of the people involved in these prison gangs don’t necessarily think that way, Tim. It’s like, it’s not really a threat to say, “I’m going to put you in prison.” That’s kind of like where they shine, sometimes.
+
+And so talk about trying to deter criminal activity against that backdrop. But I think because of that, a lot of those individuals sometimes think this is the cost of doing business. Like I’m going to get hooked up — 
+
+Tim Ferriss: It’s part of the game.
+
+Katie Haun: Part of the game. So it’s not a personal thing. And the thing I try to always do — 
+
+Tim Ferriss: That’s interesting.
+
+Katie Haun: — is to just treat the defendants with respect, treat all the subjects with respect and not make it personal. And we ended up flipping a kind of key witness in that case. A guy who is now in the Witness Protection Program, so I won’t say too much about him. But he did end up testifying, so I can tell you that because it’s all public record. He was a Nuestra Familia enforcer, and he was a hulking huge guy with tattoos, who came in and out of my office for weeks and as we tried to flip him. And he eventually came around to testify. But most of them, I mean, it kind of violates, I think, an oath to the gang, that you would never testify. That is the worst thing you could do  in the gang’s eyes.
+
+Tim Ferriss: I bet. So you mentioned earlier that one might imagine that these cases would be the scariest. Is there a moment where a case or an incident, if you’re willing to share, where you were actually scared, rightly or wrongly?
+
+Katie Haun: I don’t really want to get into it because I call it OPSEC, Tim. Let’s just say I’ve taken measures and I won’t really say much more than that. You mentioned I have a CCW. It’s not because I’m a gun nut or I’m passionate about guns. It’s just because you want to make sure you can always protect yourself. And I’ve taken other measures as well. And obviously, I’m not going to get into them here.
+
+But I think, like I said, it’s really just in the moment of that case, you just feel like your job and I felt like my job was to actually, as cheesy or cliche as it sounds, pursue justice. And what kind of message would that send if I just walked off the case or walked away? And certainly a lot of people I worked with felt that way too. It wasn’t just me bringing these cases. There are a whole lot of other people.
+
+Tim Ferriss: So that in some way reflects — well, it certainly reflects I think, deep aspects of your personality but also just a few chapters in the wild, varied life of Katie Haun. And I’d like to switch gears in a sense and ask you when you first heard about Bitcoin.
+
+Katie Haun: It was right after that Mongols biker murder trial, I told you about, with the Hells Angels, ended, and that had been a couple months. And after that, I had just really done a lot of violent crime cases over the course of a decade and I remember thinking, I’m ready to switch to something else. Like maybe I’ll leave. I didn’t really know what I would do, but maybe I’ll do something else.
+
+And my boss came to me and said, “Let’s have you put some of these investigative skills you’ve brought to use against criminal enterprises to technology and cyber crime.” And I said, “Okay, great. We’re here in the Northern District of California. It seems sensible to do some cyber crime.” And he said, “Well, here’s what we want you to do. We want you to investigate Bitcoin. And Bitcoin is this kind of criminal technology and we need to stop it, basically.” And so that was around 2012.
+
+And I remember going home and talking to my husband, who knew way more about Bitcoin than I did. I had not heard of it at all. That was the first time I ever heard of it was 2012. So I feel like I was kind of late to the party. I mean, the Satoshi white paper was in 2008. This was four years later and I had never heard of it. And my husband told me, “You might want to learn what it is before you go around talking about how you’re going to prosecute it, because it sounds a little foolish.”
+
+And I said, “Well, what do you mean?” He said, “Well, look at this Wiki page and tell me if you think you could prosecute it after.” And the more I learned about it, I pretty quickly realized that it would be like saying I’m going to prosecute cash, or I’m going to prosecute the internet or something like that. Like it’s not possible, number one, and it’s also not desirable.
+
+But what instead ended up happening was prosecuting some of the nefarious uses of cryptocurrency. Just like we prosecuted, like I said, I prosecuted a 25-count indictment for mortgage fraud conspiracy, and they used cash and they used wires. So to hear, or some cases, like we talked about Mt. Gox, we talked about the Silk Road twist, there was also the BTC-e case, there was criminal use of cryptocurrency. So we prosecuted some nefarious use cases of it.
+
+And in the course of that, I ended up starting to get to know some of the early players in the crypto space, Tim and I also started realizing more and more what I had kind of realized early on, which just this doesn’t seem all criminal. It seems like there are actually a lot of people trying to build some really important products and services that can be used for good. And so that was kind of how I frankly got into the space early days.
+
+Now I was in the government. I always joke, like, “I bought Bitcoin earlier than anyone I know. Unfortunately it was undercover in the government, so I never kept any.” And I of course never bought any when I was in the government, which is probably a shame because I don’t need to tell you what the price was back then.
+
+Tim Ferriss: Okay. So, and feel free, we can always edit later, right?
+
+Katie Haun: Sure.
+
+Tim Ferriss: But I’m curious, when you got to know some of the earlier players in crypto, I mean, I did read one quote that I thought was fantastic from — I mean, we can mention him by name, of course, but he said he was terrified of you. And this was Zooko Wilcox. I’ll mention his name.
+
+Katie Haun: Oh, yeah.
+
+Tim Ferriss: Which makes sense, all right? I mean, it does make sense on a bunch of levels, but how many of those early contexts do you think played nice because they, in their mind, had the sort of maxim of “Keep your friends close and your enemies closer,” or through other motivation or for other reasons, right? You were very good at developing rapport, but I have to imagine that a lot of these people were hesitant or tentative or had some misgivings about engaging. I’d love to just hear you speak to that, if anything comes to mind?
+
+Katie Haun: Sure. Well, that’s the first I thought of it, but it’s an interesting way to think about it, “Keep your enemies close.” I think what ended up happening though, because I did establish the government’s first crypto taskforce back in those days, which was comprised of a bunch of different agencies. I think what ended up happening, it might’ve started out that way, Tim, and I can certainly appreciate why, now being in this space. It’s like, I now encounter people all the time. They’re like, “Oh, we don’t want to talk to the government.” And I think that’s just born of, they don’t really know that there are a lot of people in the government and not everyone thinks the same thing in the government, right? It’s made up of hundreds of thousands of people and some people — 
+
+Tim Ferriss: Big organization, turns out.
+
+Katie Haun: Right. And then once you actually start making the connections and meeting people, they realize you’re not so bad. It doesn’t seem like you want to close every — like, “We thought that you just wanted to close down everything. It turns out that maybe you just want to keep bad actors off X, Y, or Z platform and, it turns out we want that too,” right? A great example of this is Coinbase and you know I’m on the board of directors of Coinbase now.
+
+Fast forward several years, Coinbase did a great job of this in the early days. I don’t think it was about keeping me, an enemy, away. I think it was more about it’s not good for their business to have criminal activity on the platform.
+
+Tim Ferriss: Sure.
+
+Katie Haun: I mean, it’s not like they’re cozying up to the government either but I think it’s every kind of pragmatic and good business leader thinks, why would you want a bunch of nefarious activity on your platform? Especially if you’re trying to build a business to kind of change the world. So I think you might be right though, in the early days, but fundamentally after they saw some of the bridge-building that we in the government in those early days started trying to do.
+
+And we did things like we hosted a summit where it was invite only, but we invited some of the early folks in the space. I did this with a number of different agencies and then the agencies would come in and talk about what their equities were. And I think that kind of two-way street and dialogue is really important because what you want is you want — you mentioned Zooko. I want Zooko to hear, “Well, what are some of the consequences of privacy coins?” And I want people in the government to hear, “What are some other real benefits of privacy coins?” And I think it’s very important — 
+
+Tim Ferriss: And I should say, very, very, very, smart guy. I mean, very, very, very, very smart.
+
+Katie Haun: Yeah, absolutely. I remember meeting him, actually. I remember exactly what you’re talking about because I remember meeting him and I’ve kept in touch with him since that time. But I even remember Bitstamp, which was an early crypto exchange, which is in Slovenia. They featured in our Silk Road twist case. We talked about earlier, and I remember I needed their cooperation for some records. And I remember them thinking, “Oh, these US prosecutors are coming. We think it’s a trap.”
+
+And the State Department told me, “You can’t violate the sovereignty of Slovenia. We can’t have you meet on Slovenian ground unless this, this, and this are followed.” And I said, “What? I’m going to lose the evidence. The guys are willing to meet with me now.” And they said, “Well, we did just seize a yacht in a DEA case off the coast of Croatia. Maybe we could arrange the meeting there in international waters.” I said, “Okay. If we convinced them I was not coming to trap them, if I suggest a DEAC’s yacht to meet on, I’m pretty damn sure they’re going to cancel the meeting.” True story.
+
+Tim Ferriss: Just casually.
+
+Katie Haun: Just casually.
+
+Tim Ferriss: Drop that one in.
+
+Katie Haun: “Yeah, just meet me off shore, guys. I’m really not trying to set you up.” But anyway, long story short, we ended up meeting in Slovenia. I hope we didn’t violate any sovereignty or anything there. But we ended up meeting and that was early days. And I think they ended up seeing what we were trying to do and realizing it was actually good for the space and ended up providing us with the records we needed.
+
+Tim Ferriss: Amazing.
+
+Katie Haun: And it’s not just Bitstamp or Coinbase. I think a lot of companies, especially over the last several years, have tried to proactively engage with regulators. But I’ve also, like I said, I think just as important, is that government, also for its part, keeps in touch with the crypto industry. And why do I say that? One key reason is because this technology is changing so fast and I think, like when I talk to my old government colleagues, they’re like, “God, we’ve just kind of finally mastered Bitcoin and then we have EVE and now we have these other dozen.” And now of course we have over a thousand crypto assets. It’s really hard for government employees with the kind of training available to keep up with this technology.
+
+Frankly, it’s not just government place. It’s hard for any of us, even those of us in the space, to keep up with how fast moving this is. So I think there’s also just like an important education and training component that benefits the government, to have these more open dialogues. And of course, if crypto projects feel like the government’s just kind of out to shut them down, they’re not going to be willing to provide that two-way street. So I think it’s really win-win to have these conversations. I don’t want to be naive or Pollyanna-ish about it. I’m not saying like one — the crypto industry and the government should team up and spend every day together. Nothing like that, but I do think this kind of ongoing dialogue is really important.
+
+Tim Ferriss: Yeah. I agree. Also because we’re not the only country developing blockchain based technologies and cryptocurrencies, right?
+
+Katie Haun: Right.
+
+Tim Ferriss: I mean, just like artificial intelligence, so it’s important to have an informed global perspective and geopolitical perspective from thinking about a lot of these things. Just for context, for people who are interested, Zooko, I think he is still CEO of the Electric Coin Company, ECC, which is a for-profit company, leading the development of what is known as Zcash, for those people that want to look into that.
+
+Now, let’s just focus on crypto and not blockchain explicitly, for a second.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: But on the pro-crypto, let’s say pro-BTC, Bitcoin side, you have kind of true believers who can sometimes paint with broad strokes and miss a lot of nuance and details. Then on the anti-crypto side, you find a similar kind of militant anti-crypto people who have somewhat maybe naive or simplistic arguments, right? My understanding is that it was in Mexico City, of all places, that you debated Paul Krugman. Is that right?
+
+Katie Haun: Yes, that’s right.
+
+Tim Ferriss: Who publicly said that you give the best thesis for crypto he had heard. Now he’s notoriously anti-crypto. What was it about your argument that he found compelling, if you remember?
+
+Katie Haun: Well, I don’t want to say he said it was compelling. He just said — 
+
+Tim Ferriss: Okay. All right.
+
+Katie Haun: — I had the best defense. But I don’t want to get some angry Tweet. I don’t want to get some angry Tweet from Paul Krugman saying, “I never said it was compelling, Katie.”
+
+Tim Ferriss: All right. Right.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: He’s like, “I said it was the best of the worst.”
+
+Katie Haun: Yes, exactly.
+
+Tim Ferriss: Or whatever.
+
+Katie Haun: Exactly.
+
+Tim Ferriss: But to the extent that he said, “All right, this is some of the better material I’ve heard.”
+
+Katie Haun: Yeah.
+
+Tim Ferriss: What was it?
+
+Katie Haun: Well, I think one thing was — and let’s just even take a step back and zoom out because I’ve encountered many people who are skeptical, like Paul. Not just Paul Krugman, but as you can imagine, many, many people. And I think one thing I always emphasize is this is not just about currency. Well, first of all, it’s not just about Bitcoin and speculation. And it’s also not even just about currency. There’s this whole world to crypto.
+
+And that’s one of the reasons I’ve stayed in crypto, is it really is so interesting to me in that it brings together so many different elements, Tim, of society and different verticals. It brings together economics, computer science, technology, but also, as you just referenced, geopolitics, finance and certainly law and policy. I mean, I could go on and on. And now even art. We’ll talk later, I hope about NFTs or non-fungible tokens.
+
+But really there are so many things that crypto touches and so one of the things I tried to do with Paul Krugman and with others is to illustrate the good, because so much of what I hear is, “Oh, it’s for money laundering. It’s bad.” And I think that’s a really ill-informed view. Like I said, without cryptocurrency, we would not have solved some of our cases without that blockchain technology.
+
+So one of the things I try to do is focus on, here are a lot of the good things happening with crypto. And I think — gosh, we don’t have time. I could go on and on for so long telling you about some of the good stuff going on. So I did try to focus him and others away from just thinking it’s only about money and it’s only about speculation because to me it’s about so much more.
+
+Tim Ferriss: NFTs.
+
+Katie Haun: NFTs. Oh gosh. We’re going straight — we’re diving deep.
+
+Tim Ferriss: You said let’s talk about them, so let’s talk about them.
+
+Katie Haun: Let’s do it. Okay. Well, yeah.
+
+Tim Ferriss: Well, yeah. Walk us through it.
+
+Katie Haun: Okay. Well, first of all, I hate calling them by acronyms, and I did it myself. I know. So I’m guilty. But NFTs, let me just break it down what that is, because I think one of the problems today in crypto is it feels so inaccessible to people. They tell me, “I don’t understand it. I can’t wrap my head around it.” And I said, “Okay, if I can learn it, you can learn it.” And part of it is just, I think the industry needs to do an even better job, and we’ve already improved as an industry, but we still have work to do, on being able to speak plain English, in terms that normal people can understand. It’s just like, there is all this fancy crypto babble. And that’s true. Not just in crypto, by the way. That was certainly true in law and in government. Each area industry has its words that make it feel inaccessible to people.
+
+And I try to break that down. I did it in law too. It’s like, you use all these Latin terms in law. Like what does that actually mean? So NFT is like that. And NFT stands for non-fungible token. And it’s basically fancy crypto babble, that just means it’s a special kind of token. And by special, I mean unique because of course fungible means not unique and this is a non-fungible token. So it’s a unique token that lives on a blockchain that tracks something unique like art or a collectible.
+
+But it’s different from the usual kinds of tokens like Bitcoin or Ethereum, because like I said, an NFT is not fungible. It’s unique. It’s one of a kind. So it could represent an image, a piece of music, a video. And in fact, Tim, it’s actually kind of serendipitous we’re talking about NFTs. First of all, the space is, as you know, very active right now.
+
+But I actually just acquired an NFT, my first one and then someone also gave me an NFT. So I now actually own two digital works of art that are unique on the blockchain, that can’t be replicated, that if I ever wanted to, I could sell. They’re just like regular art but they’re digital and they’re unique. And that’s one of the things crypto does because people say, “Well, wait. Can’t you copy it, whatever?” With cryptographic principles, you have digital scarcity. So whereas you could previously copy a photograph, this is digitally scarce. You can enforce digital scarcity. And that’s a really big idea to get your head around.
+
+But the idea is that if I wanted to sell you, and I’m not going to, because I just acquired it, but if I wanted to sell you my NFT, my really cool NFT that I got from an artist in Spain, he created it and minted it, the really cool thing here is he gets a cut if I sell it to you. So the content creator, the artist, instead of it going to a bunch of middlemen, actually gets a cut of all future transactions. And I think that’s really cool.
+
+Tim Ferriss: Could you just walk us through a use case because even for me, sometimes I have difficulty envisioning this in some concrete respect, right? So what does it look like to give someone an NFT, right? Do you actually see the image it’s associated with, or is it just something on a —
+
+Katie Haun: Great question.
+
+Tim Ferriss: — hardware wallet that you then later do something with? I’d love to just have you give us an example.
+
+Katie Haun: Sure. So it’s both. So you can display it. And in fact, there’s a whole kind of industry that I suspect will grow up. And by the way, one of the interesting things is we know what the use cases are today. What I think is very interesting is we have no idea what the use cases are going to be tomorrow. Just like when the iPhone came out. Who knew that the camera and GPS in your pocket would spawn things like Uber ride sharing and gig economy? I mean, I don’t know what later use cases there might be with NFTs.
+
+I know that right now there’s actually a company, I think it’s in Florida, where they sell NFT or digital art frames, so you can certainly display it. But like you said, you could also put it on our hardware wallet. The point is it’s yours. It’s like a bare instrument, but it’s digital. And I think so much of our lives today are moving from the offline physical world to the online world.
+
+Think about how much time we all spend online now and connected. Doesn’t it make sense that goods would also start to move online, right? And you might say, “Well, what do you mean?” And I would tell you, “Well, you used to have books, like that you held in your hand, but now there are digital books. You used to have cassette tapes, but now we have Spotify and streaming and stuff.” So I think that art, and collectibles, and other pieces of content are going to follow a similar trajectory, but to answer your question about making it more practical, do you follow sports? I don’t personally follow a lot of sports, but do you follow sports, like NBA?
+
+Tim Ferriss: Minimally. But I am aware of — I don’t know if this is utilizing the same technology, but a company — I think it might be based in France called Sorare. I don’t know how it’s pronounced.
+
+Katie Haun: Oh, right. Sorare.
+
+Tim Ferriss: Which it’s limited edition collectibles, like football, meaning football in the European sense, cards and so on. Let’s pretend that I follow sports because a lot of people listening do.
+
+Katie Haun: Okay, yeah. So Sorare, you gave us an example of one. Another one that’s in our portfolio that’s been in the news a lot lately, so full disclosure, we’re investors, is Dapper Labs. Through a partnership Dapper has done with the NBA, they’ve created this thing called NBA Top Shots. This is kind of a big going on right now. It’s, like I said, in the news a lot. A LeBron James video highlight just sold for $70,000. You could buy the Steph Curry three pointer if you wanted to spend just over $25,000. Think of it as like a digital sports collectibles. So an NBA top shot basically captures a moment from a big game and it creates this unique virtual asset that has limited supply. So it can increase in value.
+
+I think the best way to think of it, Tim, is think of it like how people used to collect rare baseball cards. So this is the digitally scarce version, 2021 version of a rare collectible. Then you can trade them in all kinds of ways that are really neat. So, like I say, who knows what is next? I just think that’s another example of an NFT that people, including many of your listeners, might have heard about with this NBA top shots. I don’t know what sports could be next, but presumably if they’re in the NBA, you can imagine there are all kinds of collectibles that one could put on this.
+
+Tim Ferriss: You mentioned rightly that it’s impossible to predict the range of future applications and use cases for these technologies in the early days. Right? It would be like trying to envision some type of immersive virtual reality when you were first on like AOL dial up and these technologies. It would just be so far beyond the scope of imagination for most people, for all people, really on some level, since these things can emerge over time. What do you expect some of the probable or possible developments might be in crypto or blockchain over the next three to five years? Obviously, this isn’t couched as advice of any type.
+
+Katie Haun: Sure. No, our lawyers won’t let us do that. Right, Tim? We’re not giving any advice.
+
+Tim Ferriss: No advice, information. Entertainment purposes only, but as someone who’s immersed in this day in day out and really at the bleeding edge, you’re going to see things at the edges first. Now, what are some of the kind of events or developments that you would be unsurprised to see in the next handful of years?
+
+Katie Haun: Well, I think the two that come to top of mind for me, one is just mobile payments and we have a company in our portfolio. So again, full disclosure, I’m not trying to plug, I’m just trying to give you an illustrative example and it’s called Celo, and they’ve built their own blockchain and they just launched — 
+
+Tim Ferriss: That’s C-E-L-O?
+
+Katie Haun: C-E-L-O, yeah. And they just launched an app on top called Valora. The best way I can describe this as Venmo for the developing world, or basically Venmo for the rest of the world, also. It’s basically a way to exchange value that’s pegged to the dollar. So it’s not pegged to other volatile assets. It uses an innovation called stable coins, which we can put a pin in if you want and come back to. So the important thing is the value stays the same of this particular cryptocurrency. You don’t need a bank account to use it because it’s a cryptocurrency. It’s distributed and decentralized, so it doesn’t rely on a central authority and all you need is a mobile phone. Why this is really powerful is because for us sitting here in the US, most of the US is banked. Although there’s a lot of people who are underbanked, but for three billion people in the world, and probably more than that, they’re unbanked and they have smartphones.
+
+Transferring value is a kind of basic human need, right? Everyone needs to transfer value. No matter who you are, you need to transfer value at some point to get something. Maybe it’s to get food or shelter or whatever. You need to transfer value no matter where you are. Well, it’s really hard, it turns out, for people who don’t have bank accounts to get access to basic financial products and services like money transfer. So what do they have to do? A lot of them, they have to go pay platforms. I’m not going to name names, but certain incumbents, and those incumbents take a lot of fees. So with like a Venmo for the world, if you can imagine it, on your phone with your cell phone number, in fact, Tim, if you want, after the show, I can send you a couple of dollars so you can see how quick and instant it is, but here’s the difference because you might tell me, because people do, “Well, who cares? That’s just like Venmo. I have that.”
+
+No, here’s the difference. Venmo is a digital IOU. It’s basically replacing you, Tim, flying from Austin to me here in California and handing me cash. That’s the only way we know we have the bare instrument that no one can ever disrupt or screw with. This is how something like mobile payments in the crypto context, so like Celo works, is I’m actually, when I send you Celo, I am transferring you the bits and bytes. I’m transferring you the bearer instrument and there’s no central authority that can freeze your account or shut it down. You actually have basically, what’s like cash once you get it. Again, here in the US, we have Venmo, we have PayPal, we have bank accounts. I think a lot of people in the world don’t have those things. So we forget often here in our bubble that these products and services are really important to a lot of people in the world and are really societally beneficial. I think of it kind of like long distance. I think we’re around the same age, but you remember how you used to have to pay a long distance bill if you called anywhere?
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Katie Haun: Well, now you have FaceTime or VoIP and all of these things disrupted that. So now, it’s free and that was really beneficial for consumers. I think that’s going to happen also with mobile payments where instead of paying sometimes 20 percent in remittance fees, and by the way 20 percent, I’ve actually seen some cross-border payments cost even 30 percent and they’re also slow. Anyone who’s ever sent an international wire knows that it takes a really long time, but also, you have to pay tremendous fees. The poorest and the people who can least afford them, bear the brunt of those fees. In my long distance example, we were all paying the same long distance rates. That’s not true with the under-banked and un-banked. So I think mobile payments is one area that we’re very excited about at Andreessen Horowitz for crypto. It’s not just Celo. There are lots of other projects that are doing that as well.
+
+Then the other one I would mention is because I think it’s important for content creators and now, you’re running your own podcast, but as we have more and more content creators creating content and influencers, one of our portfolio projects is called Rally and it allows creators and influencers to create and issue their own branded currency. The unique thing here is that — I know I can already see your Tim coin.
+
+Tim Ferriss: Timmy tokens.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: Timmy tokens.
+
+Katie Haun: I want to buy some of those. I’m betting on that one, Tim. It’s not investment advice.
+
+Tim Ferriss: I’ll trade you some Timmy tokens for your nifties. I really hope people are referring to NFTs as nifties.
+
+Katie Haun: I think they might, but Rally, this allows Tim coin. It can allow people to connect directly with their fans. You have a lot of fans and a lot of listeners already, but imagine a content creator just getting started. This enables fans who discover that content creator early on to share in the economic upside of that content creator in a way that’s really cool. Then they’re economically incentivized to kind of spread the word if you will. But the bottom line is it gives this content creator and the fan the ability to share on the upside, instead of just giving a lot of upside to intermediaries. So I think that’s another area that we’re starting to see and that we’re going to continue to see in the time range you gave me because you gave me, I think, three to five years. So mobile payments, content creators. That’s what I’d say.
+
+Tim Ferriss: Great. Thank you. I would love to also ask you to comment on the next three to five years from a different perspective, and that is the government/regulatory perspective. So these technologies in some cases are poorly understood, not just within government, but certainly across the board. There’s so many misconceptions. There are good uses, or let’s just call them benevolent uses, malevolent uses, and sort of gray area uses just as there would be with any instrument, if we’re talking about currencies, in the case of cash, for instance. I think that the volatility also involved with many aspects of cryptocurrency are both incredibly attractive and alluring, but also incredibly terrifying, not only to those participants who are in the game, so to speak, but those who are the rule makers. I would love to know what you would not be surprised to see on that front.
+
+Katie Haun: What I would not be surprised to see. Okay, I’m trying to unpack that.
+
+Tim Ferriss: That’s an awkward question, but what you think might likely happen.
+
+Katie Haun: Okay.
+
+Tim Ferriss: I’m not asking you to be Nostradamus, but you’ve been on so many different sides of this that you seem like a great person to ask. What kind of announcements would you not be surprised to see where you’re like, “Yeah. Could have seen that coming.”
+
+Katie Haun: Yeah. Well, I think you’re going to start seeing more and more countries creating their own versions of their own cryptocurrency pegged to their currency. So I would not be surprised to see that. I think, look, I think there is some thought on the part of some in government that, “Oh, crypto. It’s the wild West. They don’t want any regulations. They don’t want any laws.” I think that’s not true. I think most in the crypto space, what is not wanted is a regulatory uncertainty. They don’t mind regulation. They just want to, what are the rules so that I know how to follow them? Because that’s much easier than we have no idea what rules apply to us and therefore, we have to be, like you just said, Nostradamus. They just want more regulatory certainty. Tell us what the rules are so we can follow them. I think the risk is that the US starts to offshore and chill this technology. If they continue along the path with kind of regulating by speech or — and by the way, it’s not even speeches. Sometimes I hear, “So-and-so said this,” and, “Did you hear what the treasury secretary said?” And then you go, “Actually, that’s the media reporting the speech,” right? You go read the actual speech and it doesn’t say that, but the problem is that’s what crypto entrepreneurs in the US are hearing. And it is, I do think, starting to offshore. We run the risk of offshoring or shilling some of this activity. If you think about what regulators care about, they care about things like consumer protection. They care about money laundering. They care about national security.
+
+So do I. I dedicated 12 years to being in national security against money laundering and consumer protection. I devoted a large part of my career to it, but I do think that misses the forest for the trees because to me, Tim, the bigger national security threat or consumer protection threat for that matter is offshoring all of this activity. Let me tell you why. We already know that China has developed a digital version of its cryptocurrency and it wants to export that to South America, to Africa. So that’s problematic if we have China starting to control, starting to threaten — and this is going far. I don’t mean to suggest that we’re going to have the US dollar being upset as the global reserve currency overnight, but you could see it play this out a couple of decades, this happens. So that’s a terrible national security threat.
+
+Also, consumer protection. If consumers can’t have access to certain products and services in the US that they want, US consumers, guess what? With an internet connection now and certain kinds of VPNs, they can just go to overseas platforms, and those are not as good, I think, by and large at providing consumer protection. So I just hate to see this activity kind of just moving offshore. I think we really need to be careful because I’m starting to see the beginning of it happening already and I’m trying to, of course, work to do whatever I can to make sure that regulators understand how powerful this is and how powerful it is to the economy and to national security and not to lose this opportunity. Can you imagine Tim, if in the early days of the internet, we had said, “The Internet’s bad. We shouldn’t have this.”
+
+Then think of all the entrepreneurs who moved to the US to build kind of companies and services we now have. That was a huge benefit to the US economy, that they came here, and it was a huge benefit that we weren’t passing laws or giving speeches saying that it’s bad, that they wanted to stay here and build these companies.
+
+Tim Ferriss: Right, equally paramount to those people who were US nationals who developed the technology. I feel like they can better develop it, or humans are humans, let’s face it, also, if they can more directly profit in building a company outside of the US with technology, that for some reason, has been foreboden or hamstrung in such a way to be less financially feasible in the US, then you’re going to drive offshoring.
+
+Katie Haun: Yeah. Yeah, absolutely.
+
+Tim Ferriss: We see that certainly, with different types of taxation and so on related to royalties and how different countries treat things very differently. You just see the flow of operations and headquarters of companies. You see that in the United States, certainly and — 
+
+Katie Haun: Particularly now with work from home, with COVID, with people realizing, “Oh, you can have teams remotely now.”
+
+Tim Ferriss: Yeah. Yeah. I polled my audience at one point on the question of whether or not a developing country, and I sort of made an assumption there, but which developing countries would be the first to embrace Bitcoin or other crypto as a reserve currency. It was fascinating to see the responses. I put up as the image, a photograph of a $100 trillion bill that was gifted from the reserve bank of Zimbabwe from, I think, 2008, I can’t recall exactly. The comments were really interesting. I’m very fortunate to have some really bright followers and also a very global audience.
+
+There were Venezuelans talking about the huge underground crypto economy that already exists in Venezuela, but that taxes might be paid in the sort of state-run currency, but that all, let’s just call it, peer-to-peer or other transactions would begin to take place in crypto. It was very interesting to see the range of responses related to that. Do you have any wagers or guesses as to if you had to characterize the type of country or the country that would embrace digital currencies in a very powerful way? Do you have any thoughts on where that might land?
+
+Katie Haun: Yeah. Do you mean the people or the government? Because I think that’s different. I think the populace — 
+
+Tim Ferriss: Both.
+
+Katie Haun: Oh, interesting. Well, the populace, I think is what you’ve mentioned. You mentioned Venezuela and Zimbabwe and of course, any economy where there’s been hyperinflation, people are searching for an alternative. I know exactly the trillion dollar note you’re talking about. I’ve seen them before. Venezuela, I’ve actually seen videos, you can pull this up on YouTube, people literally burn bags of cash because it has no value and it takes up too much room. It’s really tragic. So I think any, and for the populace, any economy where there’s hyperinflation, I think we’re going to see that. Then in terms of for governments, you see some small — I think the smaller, nimble governments will probably, possibly beat us to the punch, us being the US and I’ll come back to that, but you talk about digitally first governments. Think about Estonia or some of the — 
+
+Tim Ferriss: Yeah. Estonia, I’m very interested in following. They have to be thinking very deeply and tracking this very closely.
+
+Katie Haun: Yeah. Well, and I think it’s also like an industry like Delaware is like the haven for corporate law in the US, every company’s at Delaware. To me, I wonder, what jurisdiction is going to attract a lot of frankly, economic development by being welcome and open to this? I think that’ll be interesting. I’m curious to ask you what your listeners, what surprised you most in the response? You mentioned Venezuela. That’s not a surprise, Zimbabwe. Was there anyone, Tim, that stood out that surprised you?
+
+Tim Ferriss: Well, I think that — surprise — I think the response that came in multiple times that I wanted to reflect on, and I should say also, I am not by any stretch of the imagination, I do not consider myself a cryptocurrency nor blockchain expert in any respect. That would just be laughable if I were to sit down at a group dinner with anyone who is actually on the computer side of this who understands these things in detail, like Vitalik. There’s a long, long list. Now, that having been said, I am a student of currency and the concept of money, just the origins of money. I remember reading a book called, I believe it was Biography of a Dollar, which was written a long time ago, that I found really, really to be a helpful one-on-one education on the emergence of money and the decoupling or unplugging of the US dollar from the gold standard, so on.
+
+The response that came up multiple times that I thought was worth contemplating on some level was in effect, Tim, you’re asking the wrong question. So I’m looking at one here. Respectfully, I think that perhaps your question is off point. Reserve currencies held by central or other monetary authorities is part of Forex reserves. The whole point of Bitcoin is to eliminate the central bank, eliminate fractional reserve banking, eliminate reserves altogether to remove, right? So the re-framing of the question or the pointing out that perhaps my question is off-base, I’ve found brain stretching and thought provoking for me as someone who is really not an expert in sort of global flow of capital and also, the separation of, as you said, sort of the populace’s use of capital and currency from state-mandated policies around money and also, control of supply of money. The idea, I think, that those could be very different things is sort of, to me, still a pretty novel idea because we’re like, “Okay. We all use dollars in the US and I just paid for lunch with cash that I got out of an ATM, which is very old-fashioned.”
+
+Katie Haun: Did you really?
+
+Tim Ferriss: I know. I know. Very old-fashioned and kind of silly also in the days of COVID, but had some cash. So the idea that what the government talks about as money and the money I use day to day for my common transactions being different is still pretty unusual an idea to me. That’s as someone who spends a reasonable amount of time thinking about cryptocurrency.
+
+Katie Haun: Right. Well, you probably have though, at some levels, certain companies become so omnipresent. For me, it’s Amazon, for example, and they give you kind of credit. It’s not Amazon dollars, but you never get the credit back on your credit card and you think “Who cares? It’s on the Amazon platform. I’m going to use that currency again.” Is that a currency? I think that’s interesting. I think just going back to your question is one thing I spend a lot of time thinking about is will the US government kind of embrace some of the properties of cryptocurrency and create a US dollar that is a cryptocurrency? I think if you hear Jerome Powell, others talk about it, I think they say they’re several years away and I just wonder if that is too late.
+
+I think it is, frankly. One thing I spend a lot of time thinking about is you could imagine a private cryptocurrency that’s pegged to the dollar. You could also imagine a public cryptocurrency pegged to the dollar. One of the things that the US did well, I think, in the days of the internet — and the internet, the US government had a head start because they helped develop it. They’re much more behind on crypto, I think. One thing I spend time thinking about is, would there ever be some kind of private/public partnership? If they said, “Okay. Wow, China’s really developed this” — or maybe the European Central Bank or whatever. Name your central bank of choice — “we’ve really got to get with this.” And we have some really smart people in the private sector and private companies. These problems of distributed computing are hard problems to solve. I’m on the board, as you might know, of Diem. I know Facebook and many other council members have devoted legions of top engineers to kind of building that blockchain. It’s not easy. So do we think we have that already resident at the Fed or something?
+
+I really think that one idea is to have a private public partnership, but then as you point out, there are other decentralized systems that are working already like Bitcoin. Bitcoin is volatile, but now you also have Stablecoins and you have Wrapped Bitcoin. I don’t want to talk too much because like you said, crypto is like religion at some point. You have maximalists, and I’m a crypto maximalist. I’m not a particular asset maximalist, but I do wonder what will win and what is going to have a good go-to market first? I think fundamentally, what’s going to start getting used first and early adopted? Obviously, already Bitcoin is the grandfather at being developed in 2008. But who will get enough market share earliest because there’s real network effects. So if the US government develops a digital crypto dollar in whatever, I’m making up a year, 2028, has it already been overtaken? That’s some of what I think about.
+
+Tim Ferriss: Yeah, it’s a serious question, a huge opportunity, and a gigantic threat from a geopolitical perspective. It seems kind of hard to overstate how big that is in the game of risk that is played around the globe. It’s just gigantic.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: Another question that comes to my mind, I don’t have an answer to this, but is what factors or events would lead to a decrease in Bitcoin volatility to the extent that larger institutional investors like pension funds and endowments and sovereign wealth funds begin to allow Bitcoin to play within their portfolios in the way that they might treat gold? So if they have certain rules, which of course they tend to, which might say if X, Y, and Z has a draw down of more than 20 percent, they get cut, they’re out. What point is the curve smoothed enough that a small percentage of assets that are allocated to something gold or gold like equivalent begin to get shifted to Bitcoin? Because it doesn’t take, percentage wise, a very large shift to start to have a tremendous impact on Bitcoin. I just don’t know what those events are. I don’t know if you have any thoughts.
+
+Katie Haun: My first thought when you said 20 percent shift, I thought that’s child’s play, Tim, 20 percent volatility is nothing.
+
+Tim Ferriss: Yeah, I was actually thinking about some of the recent events with hedge funds and GME and all that.
+
+Katie Haun: Sure. Yeah. Right, right. Right. Of course. Well, I think, look, here’s what I think about Bitcoin. I think it’s still early days. Although it’s 2008, it’s been around since 2008, it is still early days and I think we’re going to see adoption in waves. And again, this is not a price prediction, no investment advice, et cetera, et cetera. I know we’ll have all those disclosures, but I do think that we’ll see waves of it and we’re still in the early days, but you are starting to see — you saw, I’m sure, Elon Musk’s tweet about — I guess it wasn’t his tweet, but it was the S1 that Tesla filed that says they’re putting some of their treasury into Bitcoin. It’s not just that micro strategy and there are a couple other companies I know that are looking at that. I think those are kind of early examples of companies putting small portions of treasury into it. I think we’ll see another wave, I suspect, of where more and more companies do that down the road. I don’t know when that would be.
+
+We could even see, at some point, a wave where certain governments might put a small fraction. I’m not talking about a lot. I’m talking about a very small fraction, you pointed out, just like they do with gold. So I think, yes, that would obviously, one would think offset volatility, but who knows? As you know, Bitcoin has been a hugely volatile asset, which is why we have Stablecoins. I’m not knocking Bitcoin at all. I’m obviously a fan of Bitcoin and we’ve disclosed before we have a sizable portion of our fund in Bitcoin. So we are Bitcoin fans, but I would just be completely speculating if I said I would know what would happen to the volatility. I think the best thing I could say would be that I think we are in waves and we will continue to see waves, we see some early adopters of institutions now, some early adopters of companies and I think in the next wave, we’ll see more. Then there will be another wave.
+
+Tim Ferriss: So let’s come back to you. I know we have a little bit of time left, hopefully, and I’m looking at a bullet here in front of me that I would like to explore. Here’s how it reads, or paraphrasing it: you’ve spent lots of time saying no to things that your peers thought were must-do to pursue other paths people around you thought were the wrong move. What of those was actually the most challenging? I want to try to humanize you a little bit for folks, because I think that it’s like Wonder Woman and the bracelets with the concealed carry with the crypto ninja skills. I want to sort of paint a picture of one of those decisions, if it exists. So I don’t mind asking for fiction here, but if you have said no to a lot of things that people thought you should do, maybe even insisted that you needed to do to take the path less traveled, has there been an example where it was difficult or where you did it, and then you’re like, “God, this might be a terrible fucking mistake?”
+
+Katie Haun: Many times, many times. I don’t only have one example of that. I sadly or happily, have several. Let me think what’s comes top of mind. I’ll tell you one from personal because you said you want to humanize me, which I appreciate. Thank you.
+
+Tim Ferriss: You’re welcome.
+
+Katie Haun: There was a time — and this is actually a personal thing. I have other professional ones, which we can talk about if you want. Well, actually I have one top of mind professional one. Okay. Personal one, I was engaged many, many years ago. I was engaged to someone and I don’t think he was excited to be engaged to me and I don’t think I was very excited to be engaged to him. Fortunately, we mutually made the decision that we were not going to get married. It was pretty early on in the engagement, but we had been living together and it felt like the right thing to do on paper. Everyone around you is saying, “Oh, how perfect.” But I think both of us in our heart of hearts knew that would be a bad mistake. So telling our families and friends that, there was a sense of like, almost shame. It was embarrassing, but we both realized it wasn’t right for either of us.
+
+So that felt a bit like a failure at the time. Not a bit, it felt like a big failure at the time. Oh, by the way, talk about humanizing me, I had to be a bridesmaid in one of my best college friend’s wedding about a month and a half after that happened. I just remember being there and it was kind of really not a great feeling. My own wedding’s been called off. And again, it was mutual, but I actually took the opportunity to move back to California. This was when I was in DC. I moved back to California and right after I moved here, I actually met my future husband super serendipitously and we, this month, have our 10-year wedding anniversary. So that was something that felt like, “Wow.” Even in the move here, I was like, “Wow, maybe this was the wrong call. Maybe I’m going to just end up alone forever,” which would have been okay too, but you do question it. So that’s a personal one.
+
+Tim Ferriss: Yes. [crosstalk 01:38:44].
+
+Katie Haun: Maybe we should scratch that one.
+
+Tim Ferriss: No, that checks the box. That’s great. You’re welcome to scratch it, but I think this paints a fuller picture. We’re adding some earth tones and adding a little sunrise to the painting. I think it’s good.
+
+Katie Haun: Well, there’s a professional too. There were a couple.
+
+Tim Ferriss: Yeah. Please.
+
+Katie Haun: If you want me to tell you about that?
+
+Tim Ferriss: Of course, of course.
+
+Katie Haun: Obviously, I had walked away from different opportunities in law along the way, but I was still always within the realm of law. I was, “Oh, should I go be at this law firm, Cravath, where I have an offer? No, I’m going to pursue my passion and go to DC and be a prosecutor.” I also had been doing a clerkship on the Ninth Circuit when I was told, “If you want to stay another year, maybe it would increase your chances to go to the Supreme Court,” which for a lawyer and a young postgraduate law student was a big deal. And I said, “No, it’s not worth it to me. I want to do other things in life. I don’t want to do that for another year.” People thought that was a mistake, and maybe I did at the time, too. By the way, I ended up clerking on the Supreme Court anyway, but I didn’t know it at the time.
+
+And then I think the most profound one, though, was I really left entirely a career where I had, in the law, done things that I had really invested a lot of myself and time into, whether it was being a prosecutor in the justice department, clerk hands from court, I had firmly established my legal career and I completely left that and pivoted, and when I was doing that, it was actually to join the board of Coinbase. When I did that, I remember people around me, particularly those of my friends who were lawyers or from DC were like, “What are you doing? You could go be a partner in this or that firm, and you’re going to join the board of a crypto company? I mean, you have liability and crypto and that’s so crazy.”
+
+You know, I didn’t really look back after I joined. I just jumped in and did it. But I do feel like a lot of people have told me in my life, “This is your one shot. You can’t do that because this is better for your career.” And I’ve definitely been someone who cares, although it might not sound like it from our conversation because we’ve talked mostly professional stuff, I care very much about living along the way. I grew up overseas. One of my great passions was spending time in other cultures and with other people and with my family and friends, and I don’t really want to sacrifice that just for work.
+
+Tim Ferriss: We’re going to talk about at least two aspects of that, and one is the Coinbase decision. So I would like to turn this into a movie for a second, and I would love to hear you tell the story of making that decision. Because I can’t imagine you walked in, you met them, you’re like, “Sweet. Yeah, I’m going to totally pivot, and that’s that. I walked out and I made a phone call and that was it.” I doubt it unfolded that way. So please tell us the story of how you made that decision.
+
+Katie Haun: Not at all. Actually, I remember when I first met Brian Armstrong, who’s the founder of Coinbase. I won’t talk much about Coinbase because that company is now in a quiet period, as you know. So I don’t want to talk about the company, but I can certainly talk about the circumstances of my affiliating with the company. I remember meeting Brian, and by the way, Fred Ehrsam, I don’t know if you’ve met him, but — 
+
+Tim Ferriss: Yeah. Very, very, very, very smart guy.
+
+Katie Haun: Yeah, and Brian. I remember telling Brian, he was telling me about Coinbase and I said, “I know about Coinbase, Brian. I’ve been to your office.” This was, by the way, when I was still in the government. He said, “What?” And I said, “Yeah, I’ve been with the FBI to your office before. You didn’t know that?” He’s like, “No, I didn’t know that.” It was a friendly visit. It was a friendly visit. It was an informational gathering visit. Coinbase hadn’t done anything wrong. It was just part of that, look, what I talked about. You’re laughing, but it’s genuine. It was part of that two way — 
+
+Tim Ferriss: No, but that is a great way to get undivided attention. Oh, it was a friendly visit by the FBI. Well, in that case, totally relaxed.
+
+Katie Haun: Yeah. Well, this was, fortunately for Brian, this had happened years before. So anyhow, so I said, “Brian, I already know about Coinbase.” In fact, I told you about some of the bridge building we were doing and some of the summits we were putting together. Coinbase, and not Brian himself, but someone from Coinbase, just like many early crypto players, would come to those. Numerous crypto representatives, we’ll call them, from the industry, would come and meet with some of the government folks. I won’t say who, because I don’t know if I have their permission, but the bottom line is a lot of different folks in the crypto industry. It wasn’t just Coinbase. So I knew the company already through that work while I was at the government, but I definitely never thought I would be working in the crypto industry or in venture capital, by the way.
+
+I guess I thought I would probably have gone to be a judge or a partner in a firm. I didn’t honestly know what I would do, but something in law. Remember, when I joined the crypto industry, it wasn’t the cooler, fashionable thing to do. I think I joined in what we call the crypto winter, and people thought I was just really crazy that I was giving all this law stuff up. But back to the story of Brian, he said, “I really think that you ought to consider partnering with us somehow.” And I said, “Well, I work in the government, so I can’t partner with you.” Which, what he meant is, “Do you want to come in and work here?” And I thought, well, that’s a really interesting idea. I had never thought about working full-time for a crypto company, believe it or not.
+
+Instead I said, “You know, I really want to work with a few different companies. I’ve never been in tech, and I would like to work with a few different companies.” Brian, and I’m forever grateful, he had this kind of innovative thinking. He said, “Well, then why don’t you join our board of directors?” Which is, again, something I had never thought of. I did jump at that chance. Now, it was a little bit interesting timing, because I was actually under consideration for some high-level government posts at the time, which I won’t go into other than to say that I had to withdraw from those in order to serve on the Coinbase board.
+
+Tim Ferriss: Just for my clarification to serve on the board, serving on the board consumes time and energy, but it’s not a full-time job. But you, to be able to take that board position, would have to recuse yourself from government employment. Is that how it works? Separation of church and state?
+
+Katie Haun: Absolutely, absolutely. Actually, by that point, I had left the government, just to clarify. I had already left the government when I was having this conversation with Brian, but I was thinking of going back in as a high-level appointee. In fact, I was already going through an FBI background check and interviewing with all kinds of senatorial committees. So I was already out of the government, but I could not go back into the government as a political appointee or otherwise, or a judge, and also be on the Coinbase board, of course. Like you said, strict separation of church and state, which is definitely, we want to keep it that way.
+
+So when I took that Coinbase board, I was really saying goodbye, I think, to a career in the government, and I did make that decision. I did make it actually pretty quickly by the time I made it, which is something I do, I can obsess and waste a lot of mental energy on small little decisions, Tim, that aren’t that consequential, which is a big weakness of mine. But on big, huge life decisions, I’m pretty quick. I made it and there it is, over four years later, I’m still on that board.
+
+Tim Ferriss: What was it that made it a fast yes and not a fast no?
+
+Katie Haun: Wow. That’s a great question. I think in life, someone told me this once and I can’t remember who, but it has always stuck with me. They told me this a long time ago. “In life, there is either ‘Hell, yes’ or there’s ‘No.’ If it’s not ‘Hell, yes,’ it’s ‘No.'” Is that a cliche thing? I had never heard that. Okay.
+
+Tim Ferriss: No, that’s actually something I believe that was started by Derek Sivers.
+
+Katie Haun: I didn’t know that.
+
+Tim Ferriss: He was an entrepreneur who founded a company called CD Baby, and one of his rules in his life is “‘Hell, yes’ or ‘No.'”
+
+Katie Haun: Yeah, and it felt like ‘Hell, yes.’ I hope that was the right decision. I think it was. From there — 
+
+Tim Ferriss: Again, I’m not speculating, I think you’ll do fine. I think that’s going to prove to be a pretty good decision possibly on a bunch of levels. Yeah.
+
+Katie Haun: It’s been, certainly. Really, one of the things I’ve always done is follow my passion. Follow my gut, and then do stuff that interests me. By that measure, 100 percent it was the right decision. It’s also given me a great flexibility now. And then by the way, that’s how I met Mark and Ben. You mentioned they’ve been on your podcast. I actually met Mark and Ben, the founders of my firm now where I’m now working full time, through my work on the Coinbase board. So it was one decision, but then it led to other decisions. So who knows how that’s changed my career trajectory, but yeah. That’s it.
+
+Tim Ferriss: So exciting, so exciting. What a remarkable right turn. It’s just fantastic. I said there were two things I wanted to explore. The other is family or specifically kids, and the reason I bring up kids. So we’re not going to talk, we can talk about your family, certainly, but I want to talk about the family of one of our mutual friends. Her girls, who one of which, or one of whom, the grammarians out there will teach me which way it is, is I think 10 or younger who wanted to be an actress and now wants to be a prosecutor, thanks to you. The mother has told me that she would trade everything that she has for the influence that you have had on her girls, and girl in this case, and that you are just remarkable with children and they gravitate to you. Why is that, if you agree with that statement?
+
+Katie Haun: I don’t know. I don’t know. Can you have a talk with my own kids? Because they don’t gravitate toward me. They tune me out, Tim. I thought crypto would be cool to them, but Mom is not cool. So if you want to have a word with them, that would be appreciated.
+
+Tim Ferriss: God, I’m not going to be any help.
+
+Katie Haun: I’m not a child whisperer to my own kids. I mean, I think one of the reasons is I grew up with a mom who always told me, “Of course you can do anything you set your mind to. Of course you can.” I don’t know that that was true, but the fact is I believed her and I thought, “Well, she says. It’s my mom.” As a young girl or a young woman, of course you believe what your mom tells you, at least to a certain age. I think there’s almost a self-fulfilling prophecy that someone was believing in you like that, that yeah, you could do anything you set your mind to. It might take small little chunks, which we can talk about.
+
+I set goals, but if they’re audacious, I’m not going to achieve them just easily. You break them down into small, bite-size chunks. But I think with kids, and I’ve seen this just even in teaching, I’ve taught over the years and I have several students. I’ve seen this with young people and with even younger kids, is that really making them feel like they can do anything, and that really what they need to do is find what they’re passionate about, and that is exciting and that makes you really want to work hard. But also, I’ve always thought, as I said, you really want to live along the way. That’s why I think it’s so important to find your, sounds cliche, but your calling in life for work.
+
+I think when I talk about stories or jobs, I just must have, I did it for out of a passion or a mission or some purpose and I would hope that comes through. I mean, it’s funny you say that it was a girl, because the amazing thing about being a parent, and I know just from listening to your podcast. In the past that you said you don’t yet have children, but the amazing thing about being a parent is that every once in a while they just say stuff that completely bowls you over. Someone asked my son, who’s in elementary school, someone asked my son a couple of years ago, “What do you want to be when you grow up?” And Tim, he said, “Well, it’s kind of crazy because what I want to be is a girl’s job.” He said, “Well, what’s that?” And he said, “Either an FBI agent or a prosecutor.”
+
+Tim Ferriss: That’s amazing.
+
+Katie Haun: I don’t know if it was just the kind of story, and it’s not just the stories. I think he, or other kids, I hope, see that I’ve been passionate about my work. But as you know from this podcast, and your listeners know, you have to find balance in life. It can’t be all work and no play. But better when it’s work that you actually really enjoy, and that feels fun.
+
+Tim Ferriss: I would love to know how being passionate manifests itself. What is the passion that your son observes? How does he see or feel your passion that leads him to gravitate, or even say FBI agent, right? Or this other friend’s daughter, who’s now saying prosecutor? What is it that they feel in you? Because I can guarantee you, there are plenty of investors I know who, if they sat at a dinner and a kid was present, the kid would tune them out. Completely would have, if anything, the desire to do whatever that person, the opposite of whatever that person does. It would not resonate, the person nor the content would resonate at all. So I’m wondering what it is that enchants these kids in a sense, right? What is the passion that gets, how does it manifest?
+
+Katie Haun: Yeah, well, one thing I learned, I think this is not really from being a prosecutor. I think this just dates back to how I grew up, which I don’t know if you know this, but I grew up moving every couple years at most. The longest I stayed anywhere I think was three years, from places ranging from Utah to Texas to then Cairo, Egypt and overseas in Europe, in the Middle East and Africa. What that meant was I was always the new kid in school, and you had to make fast friends if you wanted to have any. You had to really adapt to your surroundings and find some kind of common ground that you could connect with people about. I mean, the people that you’re meeting in Utah are very different than the people you’re meeting in Zamalek or downtown Cairo, as you might imagine. Particularly when you’re a young person. The young friends you’re making, they have different interests.
+
+So I think one thing is just, I’m used to being around people. That’s also true, by the way, from prosecuting and being around witnesses and confidential human sources and informants, and then switching to venture and being around tech folks and crypto people too. They’re their own class. So I’m just used to being around a really wide variety of very different people, and wanting to find a way that connects with those people, because I want to have relationships with fundamentally each one of those kind of communities I just described or constituents that I just described. Of course, children are part of that, right? You’ve got to find some common ground and things that interest them. It’s not about creating a persona or being phony. It’s about being completely authentic, but in a way they can relate to.
+
+It’s also about, I think my ability to explain stuff, maybe your listeners will disagree. Maybe I haven’t explained anything clearly on this podcast, Tim, but explaining things clearly in a way people can understand. What I mean by that is, when I had to go in front of juries, we had to talk about all kinds of complicated concepts. But you need to break them down in a way that 12 different people on that jury can all get, no matter their background, no matter their education, no matter their training, no matter what field they’re in. I think the same is true with kids. Can you explain things in a way that teaches them anything, in a way that excites them? I think if the answer there is yes, then the rest comes a little, I won’t say it’s natural, but it’s much easier for them to be interested in the conversation if you can make it on a level they understand.
+
+Tim Ferriss: Yeah. Yeah, definitely. Makes me think about one of my favorite books, Surely You’re Joking, Mr. Feynman! about the physicist Richard Feynman. He talks a lot about his father who was incredibly gifted in that respect. Of course, Richard Feynman later went on to become famous for many things, including his ability to reduce complexity in the world of physics to a simple demonstration, perhaps with an apple and a pencil in front of a class. Just maybe one or two last questions for you for this round, and the next one I’ll make book related, since I mentioned a book. Are there any particular books that stand out in your mind or come to mind that you have re-read many times, or re-read at all, or gifted often to other people?
+
+Katie Haun: Not that I’ve re-read many times. I guess it’s hard to answer the question because I think of it as through the filters of life experience. Where were you in your life with the time you read that book, right? Where were you at that moment? Have you seen that TED talk, by the way, the remembering self versus the experiencing self? It’s really good.
+
+Tim Ferriss: I haven’t, but I imagine there’s quite a difference between the two.
+
+Katie Haun: Yeah. This is kind of what I’m getting at is, was it the book that was so good, or was it the surroundings where you were when you read it?The stage in your life, it was like, “Oh, my God, I’m feeling the most I’ve ever felt, and I felt great.” So it’s viewed through the lens of that, but I would say with all those caveats, and I haven’t read it many times, but a couple that come to mind. One is Memoirs of a Geisha. I loved that book. I don’t know if you’ve read it. I always found it fascinating.
+
+Tim Ferriss: I haven’t read it, but I know a lot about it. First few drafts were completed and thrown out by the author who started it fresh until he got the version that you read, which is just mind boggling to imagine. Yeah. Memoirs of a Geisha.
+
+Katie Haun: I knew that, but the reason I loved it so much as I read that book, and I can’t believe it was written by a man, because you are convinced as you’re reading it it’s written by the geisha. Why I just have such a great memory of reading that book is I read it while I was studying overseas in a language school. I was studying by myself, and so I’d go to dinner every night alone, and you feel awkward at the restaurant by yourself. Or you could, and so I would always have a book with me. I remember reading that Memoirs of a Geisha book while I was learning a language, so that stands out.
+
+But the other one that I really love is Palace Walk, which is, I don’t know if you’re familiar with that, but it’s written by a Nobel Laureate, Naguib Mafouz. It’s set in the turn of the century, or maybe it’s 1920s Cairo, Egypt, and it just reminds me of Cairo, which is a place I kind of grew up as a kid. So a lot of powerful memories of the city. Obviously it was set in a different stage, timeframe, but that’s one that I love.
+
+Tim Ferriss: Palace Walk, and that’s fiction? 
+
+Katie Haun: Yeah. It’s fiction by Naguib Mafouz, who I think was the first era of Nobel Laureate. He’s certainly a Nobel Laureate. So those are some. Obviously there are a lot of related to my old kinds of work, which I love even though I shouldn’t, but The Killing of Pablo Escobar I thought, or The Hunting of Pablo Escobar, I think it’s called [Ed. Note: Killing Pablo: The Hunt for the World’s Greatest Outlaw]. That’s by Mark Bowden, Black Hawk Down. Under and Alone is a good read by the way, Tim, if you want some more true crime.
+
+Tim Ferriss: Under and Alone, what’s that about?
+
+Katie Haun: It’s a bestselling New York Times book. Remember I told you about the Hells Angels/Mongols case I did? Well, the agent went deep cover for three years, and there’s a lot of quandaries they confront when they’re deep cover living among these criminal enterprises. They have to fit in. So what happens when they’re asked to violate the law and they can’t, because we’re federal agents? How do they pass that lie detector test? It’s the story of one agent’s journey of living under cover, deep cover, a double life really, and rising up to the top of that gang, and that’s a true story. So it’s interesting.
+
+Tim Ferriss: Wow. God, that just seems, I’ll have to check it out. I mean, it just seems like it’s such an easy way to identify who is a possible plant, right? You just ask everyone to do X, Y, or Z, and then whoever doesn’t do it, you’re like, “All right, well, just to be on the safe side, we’re going to take care of you.”
+
+Katie Haun: Well, they did lie detector tests, and that came out during that trial I did, is how did you pass the lie detector test? The jurors were on the edge of their seats to figure out how on earth the agent that we had embedded passed this lie detector test, because they do administer them. So that’s a good read. And actually, I have gifted that. I have gifted that book. It’s a quick beach read, or if you’re not a beach guy, it’s a quick read, whatever you might do with your leisure time.
+
+Tim Ferriss: It’s a quick tequila in the yard read. Under and Alone. Amazing. Well, Katie, it’s been so fun to spend time with you, Katie Haun @Katie_Haun on Twitter, and you’re doing a lot of exciting things and have many new chapters ahead of you, I’m sure. Is there anything you would like to talk about, or any comments you’d like to make, questions you’d like to pose, things you’d like to ask of my audience? Anything at all that you’d like to add before we bring this round one to a close?
+
+Katie Haun: I mean, I guess the only thing I would ask your audience is just take a moment to explore crypto. It’s not really a plug for an industry I’m involved with, that’s not why I’m saying it. It’s just mostly because there’s so much written about the headlines, and I’d love to encourage your listeners to just explore a little bit more and realize it’s really not all just about one asset or speculation. There’s a lot of exciting things happening in this space. The ask I would have of them is also if they’re not, and I know there are a lot of techies and people very sophisticated in technology and technical among your listeners, Tim, but if they’re not, not to get intimidated by it or think they can’t figure it out.
+
+I had recently a female CEO who has been in Time’s 100 Most Influential People. I won’t say her name, but I will say very successful across multiple dimensions. Personally, professionally. She told me, “I need a PhD to figure this stuff out, and I just can’t, so I’m just not going to do it.” I told her, “Look, there is no PhD to be had in crypto. If there were, it would be outdated the year after it was granted, because this space changes so fast.” So just don’t let yourself, intimidate is not the right word, but don’t let yourself just think, “It’s too complex. I don’t want to go dive deep in it.” You don’t need to dive deep in it. Just go learn something about it that you didn’t know. I just ask that of your listeners.
+
+Tim Ferriss: How would you suggest, because there are some great resources, there are a lot of terrible resources, there are a lot of scams masquerading or fly by night operations masquerading as how to content sources. How would you suggest, or how might you suggest, someone learn more as you’re describing?
+
+Katie Haun: I mean, we have up on our website, which is I believe it’s a16z.com. We have what we have called Crypto Canon, and even that is what I’m saying, proof’s in the pudding, is out of date already because we posted it I don’t know when, and now there’s all this stuff that’s changed in the space, so we need to go update it. But we do have this Crypto Canon up that you can learn more on our website. I also think just getting a few folks who know what they’re talking about in the space and following their writings on things like Medium.
+
+I mean, one other thing is, and I wasn’t intending to plug a portfolio company here, but Clubhouse you might’ve heard, which is an Andreessen Horowitz investment. I’ve noticed that on Clubhouse, there are a number of sessions online every day happening on crypto. It’s a great way to just listen in while you’re doing something like, I don’t know, doing the laundry or you’re drying your hair, or you’re doing something else that you don’t need to be fully present in that experience. Hop on and put your AirPods in and listen, because I keep seeing all these sessions on, are we going to call them, Tim, nifties? On NFTs, on DeFi. By the way, we didn’t even talk about DeFi, but on DeFi, it’s daily. There’s daily sessions on all of these things. You can just listen in and hear what people are talking about, and it’s a great way to separate wheat from the chaff.
+
+I think Clubhouse is still invite only, but I think that will soon change, and I know a number of your listeners are probably already on it. But our website has the Crypto Canon, and then I’ve seen a number of great Medium posts, honestly. By the way, our Crypto Canon pulls not just us. I mean, we pull some of the people we’ve already talked about on here, their writings on, so it’s not just Andreessen Horowitz, and it’s not even just necessarily our portfolio companies. We search for the content and put it on our website ourselves as well.
+
+Tim Ferriss: Yeah. You guys, a16z, have put together a lot of really good content. We’ll link to those in the show notes for people at tim.blog/podcast to be able to find it really easily. We’ll link over to that. I hope that nifties, if they’re not already called nifties, become nifties. I’d be very excited about that.
+
+Katie Haun: We’ll call them that.
+
+Tim Ferriss: It’d be childlike, really. Yeah, nifties. For all your future keynotes, nifties. There are also, as you mentioned, there are some very, at least I would consider very bright people who make an effort to explain some of the core concepts within blockchain, and certainly comment on Bitcoin. Naval Ravikant, our mutual friend, is one of them. He has interviewed on my podcast and this podcast. Nick Szabo, S-Z-A-B-O, also incredibly, incredibly sharp. That episode is also a decent place to start.
+
+Katie Haun: It’s a great place to start. Actually, can I tell you? That episode was the first episode I ever listened to, and it was a while ago. That’s an old episode, if I remember.
+
+Tim Ferriss: That was a few years ago.
+
+Katie Haun: Yeah. Well actually, that’s how I learned about smart contracts. I remember Nick talking about a vending machine and I just thought, “Now I can visualize a vending machine. Okay. That makes sense to me.” So Naval, that episode is a must listen.
+
+Tim Ferriss: Thanks for listening.
+
+Katie Haun: Yeah.
+
+Tim Ferriss: Yeah, that’s amazing. Yeah. We had a blast. That was a few years ago, and the intent of that episode was to have a conversation that would be evergreen, that would have some lasting power. Because like you said, if you’re covering the latest and greatest developments, you’re going to be obsolesced very quickly. I mean, within weeks or months, you will probably have said something that needs revision. But we really started with basic, the fundamental concepts, smart contracts. What a ledger might look like, what analogies are helpful. Currency itself, forget about cryptocurrency. Discussing currency and what that represents, how it’s evolved, and different applications. So I’ll put that in the show notes for folks as well. Is there anything else, Katie, that you’d like to say or ask or point people towards before we adjourn?
+
+Katie Haun: No. Thank you so much, Tim, for having me on. This has been great, and thanks to your listeners.
+
+Tim Ferriss: Yeah. I really appreciate you taking all the time. I know you have a lot on your plate and certainly you have a lot of exciting things going on, so I appreciate you carving the space in your schedule to do this. To everyone listening, all the resources, everything that was mentioned from the very beginning all the way to Palace Walk and the Nick Szabo, Naval Ravikant episode we’ll link to in the show notes. Also point to the Andreessen Horowitz resources at tim.blog/podcast. You can just search Katie, K-A-T-I-E, and this episode will pop right up. Until next time. Thanks for tuning in.
+
+
+TAGS
+KATIE HAUN
+	

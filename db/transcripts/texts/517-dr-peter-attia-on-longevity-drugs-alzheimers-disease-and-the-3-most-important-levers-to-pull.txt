@@ -1,0 +1,1254 @@
+
+
+JUNE 14, 2021 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Dr. Peter Attia on Longevity Drugs, Alzheimer’s Disease, and the 3 Most Important Levers to Pull (#517)
+
+
+
+
+Please enjoy this transcript of my interview with Dr. Peter Attia (PeterAttiaMD.com), a former ultra-endurance athlete (e.g., swimming races of 25 miles), a compulsive self-experimenter, and one of the most fascinating human beings I know. He is one of my go-to doctors for anything performance or longevity related.
+
+
+
+#517: Dr. Peter Attia on Longevity Drugs, Alzheimer’s Disease, and The 3 Most Important Levers to Pull
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show. This is a very special edition. I am in the cave of Peter Attia, Dr. Peter Attia, and we’ll get back to his bio in a second. We have the incredible videographer who is trapped inside a closet to monitor levels. Everything has been fitted to perfection. And that’ll all make sense shortly. Dr. Peter Attia, who can be found at peterattia, A-T-T-I-A md.com is a former ultra-endurance athlete. So, imagine swimming races of 25 or so miles, maybe more. A compulsive self-experimenter, emphasis on compulsive. And one of the most fascinating human beings I know. He is one of my go-to doctors, I would say the go-to doctor for me, for anything performance or longevity-related.
+
+
+But here’s the official bio to do him some justice. Peter is a physician focusing on the applied science of longevity. His practice deals extensively with nutritional interventions, exercise physiology, sleep physiology, emotional and mental health, and pharmacology to increase lifespan, that is how long you live, while simultaneously improving healthspan. In other words, how well you live. Peter trained for five years at the Johns Hopkins Hospital in general surgery, where he was the recipient of several prestigious awards, including resident of the year, and the author of a comprehensive review of general surgery. He also spent two years at NIH as a surgical oncology fellow at the National Cancer Institute where his research focused on immune-based therapies for melanoma. He has since been mentored by some of the most experienced and innovative lipidologists, endocrinologists, gynecologists, sleep physiologists, and longevity scientists in the United States and Canada.
+
+Peter earned his MD from Stanford University and holds a bachelor’s of science in mechanical engineering and applied mathematics. Last but not least, and this would explain the immaculate video and audio setup that I am enjoying today. Peter also hosts The Drive, a weekly deep dive podcast, and I do mean deep dive, focusing on maximizing longevity and all that goes into that, including physical, cognitive, and emotional health. It features topics including fasting, ketosis, Alzheimer’s disease, cancer, mental health, and much more. You can subscribe on Apple Podcasts, Spotify, Overcast, or wherever you listen to podcasts. You can find him all over the interwebs, peterattiamd.com. On Twitter @PeterAttiaMD. Instagram, same, same, PeterAttiaMD. Facebook, you got it, PeterAttiaMD. And then, on YouTube, PeterAttiaMD.
+
+Peter, welcome back to the show.
+
+Peter Attia: Wow, that was quite an intro.
+
+Tim Ferriss: It was. An incredibly comprehensive — 
+
+Peter Attia: I could have shown up a little later for this.
+
+Tim Ferriss: So we’ve had frequent flyer miles on podcasts, including on this show. And last time we used a format that I quite enjoyed, in part because it required minimal preparation for me, and that was going through categories: excited about, changed mind about, and stupid things or absurd things that you do. And I know that you have a number of things that you are excited about, so we may spend more time in that category.
+
+So why don’t you kick us off, however you like?
+
+Peter Attia: Well, so the nice thing about this is I get to prepare a little bit. And I jotted down a few bullet points on each. So I think one of the things I’m really excited about is a very recent thing, in that it’s come to market really recently. It’s been in the works for about five years. And it’s something called a liquid biopsy.
+
+And the reason this is interesting is that when you think about the sort of major chronic diseases, which is the diseases of atherosclerosis, so heart disease, stroke, cancer, and Alzheimer’s disease, we don’t have a lot of great tools at detecting cancer early. So cancer screening is a somewhat controversial topic. Most people are probably familiar with things like mammograms, colonoscopies, and PSA testing. There are two or three others that rise to the level of having evidence to suggest that we do them, for example, pap smears. But when it comes to some of the really bad actors of cancer, we don’t really have great screening tools.
+
+And so what a liquid biopsy does is it draws a sample of blood. And, through that, tries to predict whether or not you have cancer cells in your body. And tries to do so, of course, when you have very, very few of them because the evidence is overwhelming that, all things being equal, a cancer when caught early at an early stage is imminently more curable than a cancer caught at a later stage. And probably the most compelling explanation for that is that the longer a cancer gets to fester in your body, the more chance it has to develop mutations. And the more mutations it generates, the more difficult it is to target later on.
+
+So there are a number of companies that have been doing this but, to me, the most interesting by far is a company called Grail because of the method that they’ve gone about doing this. And the method is using something called cell-free DNA, as opposed to tumor DNA.
+
+Tim Ferriss: And just for those listening, Grail, as in Holy Grail.
+
+Peter Attia: Exactly. Coming out big.
+
+As a little side note, Grail was recently acquired by another company called Illumina. Illumina, being the largest company that does DNA sequencing. And a very interesting note is the FTC has sued Illumina for antitrust violations in this acquisition which, if you understand the science of it and we don’t have to get into it in great detail, is literally the dumbest thing I’ve ever heard. That the FTC has done this, in my opinion, is actually a tragedy because it is actually going to cost lives. It’s going to cost tens of thousands of lives in delay if this acquisition does not go through because Illumina has the power to scale this up like no other company would.
+
+Putting that aside for a moment, what is cell-free DNA? Because that’s really at the heart of this.
+
+Tim Ferriss: Say that one more time.
+
+Peter Attia: What is cell-free DNA?
+
+Tim Ferriss: Cell-free?
+
+Peter Attia: Cell-free DNA.
+
+Tim Ferriss: Like C-E-L-L-free?
+
+Peter Attia: Yeah, as in DNA that’s not in a cell.
+
+So most of the DNA in your body is contained within cells. But when a cell breaks down, or sometimes even when cells spontaneously — like red blood cells are actually typically monocytes. White blood cells make DNA and then spontaneously release it from them, you can capture these small amounts of cell-free DNA. So, if you draw somebody’s blood, whether or not they have cancer or not, they’re going to have a certain amount of this cell-free DNA floating around.
+
+You have signatures on DNA called methylations. So, a methyl group is just a carbon with three hydrogens on it. It’s one of the most basic building blocks of organic chemistry. And as DNA acquires these signatures, so remember DNA is made up of these four nucleotides, when they start binding these little methyl groups — 
+
+Tim Ferriss: So that’s the ACTG?
+
+Peter Attia: Exactly, ACTG. As they start acquiring these methyl groups, that tells a bit of a story. And even though there’s not a lot of cell-free DNA, when you look at it, the best analogy, and one of my analysts actually came up with this analogy, is it’s sort of like looking at meteor fragments that would land in the desert and being able to understand what type of an asteroid they came from. So even though the asteroid is enormous and it’s shed like big chunks of meteor down to Earth, and by the time they actually hit the earth, they’re just small rocks a chemical analysis of that would give you a greater idea where it came from.
+
+So, this type of test can actually detect up to 50 different types of cancers. There are certain ones that it’s not very good at detecting such as prostate cancer, which is not bad because we have other tools that are so good at detecting prostate cancer. But when you do this blood test, you basically get a readout which says no cancer detected, or the following have been detected. And it does this with about a 50 percent sensitivity and about a 97 to 99 percent specificity.
+
+Now, to explain what that means in context requires a little bit of math and it’s worth going into. So, sensitivity is the probability that a cancer is truly there if detected by the test. And specificity is the probability that the cancer is not there if not detected by the test. So, sensitivity speaks to true positives. And specificity speaks to true negatives.
+
+Now, at first, 50 percent sensitivity doesn’t sound that good, but you have to remember it depends on what, we call, the pre-test probability is. So pre-test probability says, what is the probability that you have cancer before I test you? And that’s a function of many things. It’s a function of the prevalence of that cancer. It’s a function of your age. It’s a function of other behaviors. So, for example, two people being otherwise identical, except one being a smoker and one not being a smoker are going to have very different pre-test probabilities.
+
+But when you start to think about, for example you, what’s your pre-test probability of having pancreatic cancer? It’s quite low, fortunately, even though pancreatic cancer is one of the most lethal cancers out there. So, in a low probability environment, a modest sensitivity of 50 percent and a very high specificity produces incredible, what we call, positive and negative predictive value. So, what do those things mean? So positive predictive value, as it sounds, means what’s the probability that if you get a positive test, you truly have cancer. A negative predictive value is, of course, if you have a negative test, what’s the probability it’s negative? These numbers end up being well north of 90 percent.
+
+In fact, the negative predictive value is about 99.7 percent. The positive predictive value is in the ballpark of about 97 percent. So these are really exciting tests, especially when you pair them with some of the other things that we do in our practice, such as relying on a very special type of MRI technology that uses something called diffusion-weighted imaging, that adds sort of a functional dimension to MRI.
+
+Tim Ferriss: Quick note there, people can, if they really want to deep dive into that subject matter, you have a guest on your podcast. And I’ve listened to this episode, it does get quite technical.
+
+Peter Attia: That’s right.
+
+Tim Ferriss: But what is the guest’s name for people who want to search?
+
+Peter Attia: Raj, R-A-J. And how do you spell his last name? A-T-T-R-A-A-W-A-L. Of course, I can’t spell in my head, but if you just search Raj MRI, it’ll pop up. And yes, that’s an episode we usually make our patients listen to before they go and get one of those MRIs, so they understand it.
+
+Tim Ferriss: A follow-up to that unrelated, but related to Grail, what is it that happened, or what technology was developed that suddenly made this possible, where it was not possible before? Or what realization? Why did this suddenly come to fruition? Or only now become available?
+
+Peter Attia: I think the major insight, and I will be doing a podcast on this, but I need to wait until this FTC issue is resolved a little bit because the person that I really want to interview for the podcast, who is one of the people that had the biggest hand in developing this, is actually now the chief scientific officer at Illumina. And so, for him to be able to speak about it, obviously, it would need to make sense that Illumina actually owns the technology again.
+
+I would say, and this might change as I get deeper into understanding their journey, I think it was the realization that tumor DNA was not the place to go.
+
+So, at the outset of this process, people didn’t know what to look for. Would you look for RNA of tumors? Because RNA, it’s the template that’s telling you to make the protein. And that didn’t really pan out because RNA is so unstable by itself. So then, pivoting to DNA, the logical choice was, well, let’s look for the tumor DNA. If you have pancreatic cancer and we can find the DNA of a pancreatic cancer cell that would be a good place to start. But you have to be looking for cell-free DNA, by definition, when you’re doing a liquid biopsy because you’re not going to sample the organ. And it turns out that tumor DNA represents about 0.1 percent of cell-free DNA.
+
+So, I think the big aha for Grail was realizing, no, let’s look at cell-free DNA, which is much more abundant. But instead look at the methylation patterns. And then, specifically, figure out what those methylation patterns were. So that was the real puzzle.
+
+Tim Ferriss: Yeah, the forensic science.
+
+Peter Attia: Yeah.
+
+Tim Ferriss: That’s very cool.
+
+I don’t know if I interrupted a train of thought that had more to say about Grail. Do you want to say more about Grail, or do you want to hop to another?
+
+Peter Attia: Yeah, no. I mean, I just think that I have been waiting for this, like I said, for five years because I think that I’m just less bullish on the idea that we’re going to “cure cancer.” If you put cancer in perspective, the overall survival for people with metastatic cancer has improved about five percent in 50 years. And virtually all of that improvement has come with a handful of very specific types of cancers.
+
+So, for example, something called the GI stromal tumor and a certain type of testicular cancer, for which there’s been very specific behaviors of these that have rendered them quite sensitive to certain chemotherapies. But when it comes to lung cancer, when it comes to pancreatic cancer, when it comes to colon cancer, breast cancer, once you don’t catch it early, you’re sort of in the same situation you were in in about 1970. And that’s pretty depressing when you consider how much progress has been made in cardiovascular disease since that time.
+
+So, I think the answer in how do you live longer with respect to cancer is — 
+
+Tim Ferriss: Is prevention?
+
+Peter Attia: Is prevention first.
+
+Tim Ferriss: Or detection.
+
+Peter Attia: Well, it’s both. It’s, so what can we do to prevent cancer? And not smoking and being metabolically healthy are, hands down, the two biggest things that you can do. And then, the next step is how aggressively can you screen and stack different levels of screening technologies on top of each other so that the way we kind of describe it to patients is you want to think of the Swiss cheese approach. You want to be able to stack a whole bunch of things on top of themselves, so that you just get only one pencil can fit through.
+
+Tim Ferriss: Yeah. Each method or technology in of itself having gaps.
+
+Peter Attia: That’s right.
+
+Tim Ferriss: But when you lay them on top of each other, hopefully, the remaining gaps are sort of allowable, if that makes any sense.
+
+Peter Attia: Absolutely. And it’s exactly that. It’s, basically, how do you use multiple technologies to cover the blind spots of others?
+
+Tim Ferriss: I’m excited about Grail also because it seems like, especially if scaled through Illumina, the ability to have Grail widely distributed makes it just, by definition, more available, at least as one tool, compared to say the MRI that we were referring to earlier, which would appear to be site-specific. I don’t know.
+
+Peter Attia: MRI is going to be far less scalable. And, frankly, far more of a hassle. I mean, well, you haven’t had one yet. We’ve got to get you up there.
+
+Tim Ferriss: Yeah. I’ve had, for better and for worse, probably, quite a few MRIs, not always in ideal circumstances. But this particular MRI, not yet.
+
+Peter Attia: Yeah. So, it’s like, how do you drive the cost down? How do you improve the technology? How do you make the algorithm better, and better, and better? Because under all of this is a huge engine of machine learning that makes it better over time.
+
+Tim Ferriss: So, you mentioned in terms of prevention, metabolically healthy. Is there anything you’re excited about, or would like to underscore that relates to developing metabolic health, or improving metabolic health?
+
+Peter Attia: Always. I’d say exercise is so important. It can’t be overstated. It’s potentially one of the most potent drugs we have.
+
+Tim Ferriss: But all exercise is not created equal, I would imagine.
+
+Peter Attia: Correct.
+
+Tim Ferriss: For this purpose.
+
+Peter Attia: Absolutely. And so, I think of exercise as having four pillars. And you have to be strong on each of those. So, if you’re strong in three, but not in one it’s sort of like a table that has three legs and not one. It’s still a reasonable table, but it’s not as strong as a table with four legs. And a table with two legs is pretty pathetic. And, obviously, a table with one leg is not a table.
+
+So, the four pillars are stability, strength, aerobic efficiency, and anaerobic performance. And I think that most people understand loosely what three of those are.
+
+Tim Ferriss: Can you say those all one more time?
+
+Peter Attia: Sure. Stability, that’s the one that most people don’t understand. We can talk about that in a minute. Strength. Aerobic efficiency. And anaerobic performance.
+
+So, I guess we can unpack all of them, but stability is the ability to safely transfer load from the outside world to the body and vice versa, which sounds sort of like — I don’t know, kind of a soft explanation.
+
+An analogy that I really like using is that of a race car versus a street car. So, what makes race cars so unique is that — and why, by the way, a race car that’s got half the power of a street car will still knock its socks off on a track is because the chassis and the tires of the race car are constructed in such a way that every bit of that power is making it to the road.
+
+So the analogy I like to think of is that the tires of a race car are like our feet and stability really does begin with the feet. And most people, myself included when I was starting, had horrible proprioception with our feet. We don’t really know how to load our feet correctly, and a lot of that comes from the fact that we wear shoes all day. Your hands and your feet are actually very similar. And if you think about what you can do with your hands, how easily you can move them around, spread your fingers, sense pressure in different areas, most people can’t do that with their feet. And that comes to bite you.
+
+So, as you think about how it moves up the sort of chain, a very common problem, which I think accounts for probably more of the injuries that people experience, is this pattern where the pelvis is tilted forward, the ribs are flared up, the erector spinae muscles in the back are sort of locked short. Meaning they’re locked in concentric load. And the hamstrings are locked long, so they’re locked in eccentric load.
+
+Tim Ferriss: Yeah so, that’s someone who’s quite lean, from a body fat perspective, can still look like they have a potbelly.
+
+Peter Attia: That’s right.
+
+Tim Ferriss: With that anterior pelvic tilt.
+
+Peter Attia: And so you’ve asked me a question, and I think I can answer this. There are really two things I’m excited about that pertain to exercise, and I’ll go down this path, and then we’ll come back to the other one.
+
+So what’s the etiology of that position, which I was the king of that position? It’s probably — 
+
+Tim Ferriss: What do you mean by etiology?
+
+Peter Attia: What drives that? Why would a person show up with that posture of ribs flared up, pelvis tilted forward, back tight, hamstrings tight and long?
+
+Tim Ferriss: Besides wearing six-inch stiletto heels?
+
+Peter Attia: Which I never wore. I mean, I wore them sometimes, but I don’t often wear them.
+
+Tim Ferriss: You’re in good company, J. Edgar Hoover and all.
+
+Peter Attia: So, it probably starts with lousy respiration. And I’m not exactly sure why that’s the case. But I think somewhere along the way, we stopped breathing correctly into our abdomen. Instead of breathing the way we should breathe, which is the diaphragm should go down, the abdomen should come out, the pelvis should actually fill with pressure. So those are the primary muscles of respiration, the diaphragm. We start using accessory muscles like the pec and the pec minor and we kind of lift the chest up. This is a very common pattern of respiration.
+
+And I think it’s that lifting of the chest that is what’s bringing the rib cage up. And when that happens, the body is a little bit out of balance, meaning your center of mass shifts forward. And the body senses that and in an effort to prevent you from falling forward, it’s basically tightening those erector spinae muscles. It’s pulling you into balance again. But, in doing so, it’s creating this downstream problem in the hamstrings, which is they’re locking.
+
+And if there’s another thing I’ve become really obsessed with it’s hamstring control, which is different from hamstring strength. A lot of people, myself included, can have very strong hamstrings. I used to have incredibly strong hamstrings, if you put me on a machine and made me do something in isolation. But I could never recruit them. So a simple exercise to demonstrate this, which Beth Lewis had me do for the first time maybe two and a half or three years ago, was you laying on your back with your knees up and your feet down. So you’re sort of in a back position, knees up, feet on the surface of the ground.
+
+And without letting your back tilt into a huge dome underneath it, so, while keeping your lower back flat, can you, with one leg, pull very, very hard back to your butt and feel your hamstring tense? So that is a very specific manner of recruiting hamstring strength. And, believe it or not, I couldn’t do that while keeping my back down. I would arch like a cat if I tried to do that.
+
+There were many more of these types of exercises, but it was through this type of very deliberate starting on my back and then learning to do hamstring recruitment while standing, and while feeling pressure in my feet that really allowed me to get back to deadlifting with a feeling of safety that I’d never really experienced because I used to deadlift so heavy when I was young and, basically, got away with using my back to deadlift, which is obviously not what you want to do.
+
+And then, I just started having nagging injuries as I got older. So by the time I was in my mid-forties, I’m deadlifting and it’s, oh, my SI joint would bug me. And after I’d finish, my back would just feel tight. Age sort of exposes your deficiencies and, eventually, everybody’s going to sort of pay a price for this. Some people do these things naturally better than others. So I think there are some people who can kind of go their entire life lifting heavy weights without having to pay much attention to this stuff. But I, certainly, wasn’t one of them.
+
+Tim Ferriss: Does that type of training that you’re describing, that progression kind of starting back from the foundation or the fundamentals, does that have a particular name?
+
+Peter Attia: There are a couple different schools of thought that have been implemented into this training. One of them being dynamic neuromuscular stabilization, or DNS, which is heavily focused on this ability to find the breath and generate this concentric abdominal pressure. So creating a cylinder inside the abdomen, as opposed to like an upside-down triangle where you have some pressure up here, but none down here.
+
+And then, another school of thought that’s been heavily influential here has been something called Postural Restoration Institute, or PRI. And that’s really the one that has focused on this idea of how do you correct what, from the side, looks like this? Sort of pelvis down, ribs up, and how do you fix that position? And again, it’s hard because it requires fixing everything from the feet to the neck.
+
+Tim Ferriss: How much of a contributor, if at all, do you think extended sitting is to that configuration with the kind of flared ribs up and anterior pelvic tilt, if any?
+
+Peter Attia: I think it probably is. And probably for a couple of reasons. You have to sort of think about it as the positive and the negative. One drawback of sitting is that you’re not active, so it’s simply the removal of active time that is a problem. And I think the other problem with sitting is it is simply harder to generate intra-abdominal pressure. And it’s easier to just rely on these accessory movements of respiration to lift up. So, I think I’ve said this once before, if I could be Czar for a day, I’d go back to kids when they’re in school and have them in standing desks, or squatting. Those would be your two positions. So, either you’re kind of squatting to do work or you’re standing to do work, but you’re not sitting in the types of chairs that we sit in.
+
+Tim Ferriss: I think I have an idea for a complimentary short-form podcast for you, which is just called Czar for a Day. Five-minute commandments from Czar Attia.
+
+Peter Attia: Yeah, and more barefoot time, that’s another thing. Because with my first two kids, I wasn’t so aware of this when they were young. And, now, with my youngest, who’s almost four, I study this guy like he’s the master. His movement patterns are simply unbelievable which, of course, all four-year-olds should be. I just never noticed it before. But the manner in which he moves and lifts himself and reaches for things and sits around, it’s incredible. It is such a spectacle to behold.
+
+If you spend more time watching your children — and DNS is modeled on exactly that. DNS, it grew out of something called the Prague School in Czechoslovakia, which was originally looking at ways to take children with cerebral palsy and teach them how to move again by realizing that what CP had robbed them of was a lot of the developmental movement patterns that occur in the first two years of life. And once they started to realize you could actually take these kids, and retrain their neurologic system to do things in a more functional way that you could actually do this as a form of rehab. And then, ultimately, a form of prehab, which is sort of how I like to think of it now.
+
+Tim Ferriss: I’ve seen, I don’t know how much of this is public, but incredible results from a trainer also, world record holder, or former world record holder in Olympic weightlifting, Jerzy Gregorek, working with a number of clients or patients with cerebral palsy using very incremental movement, rehabilitation, and training. I mean the before and after differences are staggering and I mean, it speaks to probably my ignorance of cerebral palsy, but just never was even within my conceptual schema that that would be possible. It’s very exciting to see.
+
+So, speaking of exciting.
+
+Peter Attia: Oh, so the other thing on exercise, to get back to your question about the metabolic stuff is, about three years ago, I was becoming more and more interested in this idea of zone two training, which has a very technical definition. And then we can explain proxies for it. But the definition of zone two is the highest level of output you can produce while keeping lactate below two millimole. Lactate is a byproduct of anaerobic metabolism, so when we’re sitting here at rest, our lactate level’s probably one, if we’re metabolically healthy. There are some people who sit around at rest higher than two. But if anybody’s done lactate testing knows as you start exerting yourself more and more, your lactate will rise. And peak levels in highly trained individuals can reach above 20 millimole. And that’s accompanied by remarkable discomfort, actually.
+
+So I’d always done lactate training when I was being an athlete, which I haven’t been in forever. But I was never focused on this aspect of it. I was always focused on something called lactate threshold and peak lactate. So, peak lactate, for me, was kind of a marker of just how much pain I could endure. And lactate threshold was a marker of the highest amount of output I could produce for relatively short races. Meaning short for me would be like half an hour or something like that. So, knowing my lactate threshold was important for that stuff.
+
+But the zone two stuff is way below that. Zone two is, by definition, your all-day pace. It’s basically at a lactate level of two, you should be able to go all day because that’s the level at which you do not net accumulate, so you’re producing, but you’re not accumulating. And so it’s the rate at which clearance equals production and you stay at that level of two.
+
+[ZONE 2 TRANSITION; MOVED TO END OF PODCAST] 
+
+Tim Ferriss: You mentioned fat utilization, or the ability to use fat as a substrate. Are there things, and specifically what’s coming to my mind, such as fasting or intermittent ketosis, that help you to use fat in such a way that it transfers to zone two training? Is there any crossover, I suppose?
+
+Peter Attia: Yeah. Well, there’s no question that ketosis by its very definition is a nutritional state that forces your body to utilize fat. And depending on how much you’re intaking, some of that fat could be endogenous. So again, exogenous is the fat that you put in your body. So what fat you eat is exogenous. The fat stores that we have are endogenous. There’s a bit of I think just a misunderstanding around ketosis. I think a lot of people assume it is automatically a weight loss diet or a fat loss diet. But of course that’s not necessarily true. It’s only a fat loss diet if you use your endogenous fat stores.
+
+Tim Ferriss: Also it turns out a pound of fat has a lot of calories.
+
+Peter Attia: Yeah. So I could gain weight on a ketogenic diet if I ate enough. Now, the advantage of ketogenic diets for most people is that they’re quite satiating and you don’t want to eat endless amounts in the way that if you went on the all-Dorito diet, which I’ve also pioneered. I’ve got experience with the all-Dorito diet and it turns out you can eat a lot. I used to work at a video store when I was in high school called Movies and Munchies, and it was owned by my friends — 
+
+Tim Ferriss: Video store plus dispensary?
+
+Peter Attia: Yeah. And they just didn’t care how much I ate. And I would literally eat the pound of Twizzlers. They came in that pound, maybe a pound and a half, it was the biggest bag of Twizzlers — 
+
+Tim Ferriss: You could take out a mugger with this bag of Twizzlers.
+
+Peter Attia: Yeah. Exactly. It’s a weapon. And if any reasonable group of four people went to a movie, they’d have a hard time finishing one, but I would easily throw that down plus the really big bags of Doritos, plus a really big bag of popcorn, plus God knows what else. That was routine for the night. Just disgusting. Easily 4,000 or 5,000 calories of junk food three nights a week was my staple.
+
+Tim Ferriss: So if we look at the opposite of that, fasting, have you changed your mind or had any insights since we last spoke or come to any different conclusions related to fasting?
+
+Peter Attia: Yeah, I think — 
+
+Tim Ferriss: For the record, you’ve done a lot of fasting. You have a lot of experience doing fasts of many different lengths. I don’t know what the longest fast is that you’ve done — 
+
+Peter Attia: Probably 10 days.
+
+Tim Ferriss: 10 days.
+
+Peter Attia: Yeah. I think that one thing that I absolutely learned through fasting is the enormous importance of strength training throughout a fast. You’re going to lose muscle mass when you fast, you have to accept that. So the question is how do you minimize that damage? How do you lose as little muscle mass as possible? And strength training daily during a fast has become an important part of that. But when you look at time-restricted feeding, or people call it intermittent fasting, although I don’t like that term very much. I think time-restricted makes more sense when you’re just talking about 16 or 18 hours. I’m really starting to see a lot of people who do that excessively and who aren’t necessarily training correctly. They lose weight, but they’re losing muscle more than they would want to see.
+
+And we just had a patient who we did a DEXA scan on last week and it was probably the first one we’ve done in 18 months on him. And in that 18 month period, his body weight had not changed. Maybe he was a bit lighter, actually, he might’ve lost four pounds. But his body fat was so high I almost fell off my chair and he doesn’t look chubby, but it speaks how much muscle he’s lost. So his body fat went from about 18 percent to 30 percent.
+
+Tim Ferriss: Yikes.
+
+Peter Attia: It’s just a totally unacceptable amount of fat for someone his age. And his visceral fat went up, which I actually care more about than body fat. We can talk about that later, but his visceral fat also went up. So, this is a guy who has religiously been doing his time-restricted feeding every day, but he doesn’t really lift weights.
+
+He walks and does some yoga and stuff like that, but he’s not doing strength training. So I think in a person like that, there’s a real downside to too much time-restricted feeding. And even for myself, in the last four or five months, I did a DEXA back in January and I hadn’t done one in years. And from January to the last period that I had done a DEXA, my body weight was almost identical. Maybe I was two pounds lighter this year versus the last time. But my body fat was up.
+
+I think I went from 10 to 16 percent body fat. And again, you could say, “Well, 16 is not the end of the world,” but that was a significant loss of muscle and gain of fat. And I did wonder if that was just too much, because I always exercise in the morning, but then don’t eat. So to exercise, and especially when you’re strength training, to provide yourself with any amino acids every single day to undergo muscle protein synthesis, I think is a little bit risky. So I’ve been looking at other strategies around that. So for example, front-loading the meals.
+
+Tim Ferriss: Quick question, and then we’ll come back to front-loading meals. During that period of time, were you doing, and I may be misremembering, one three-day fast a month or one week-long fast every quarter? What was the frequency of — 
+
+Peter Attia: All of the above. Yeah, I probably spent maybe two years doing seven days a quarter, maybe a year doing three days a month. But in between it’s also doing lots of time-restricted. And honestly, I think the daily time-restricted was a bit more the issue because I think the three-day fast a month with a lot of lifting, I didn’t sense I lost a lot of muscle during that period of time, but I think every day, exercising in the morning, not putting calories in until later in the day, it has to be taken in the context of an individual. So if you’re someone who’s 100 pounds overweight or you have diabetes, it’s a totally worthwhile trade-off to lose muscle mass because you’re losing more fat mass along the way. So you are going to technically get leaner with that approach, but when you take a relatively healthy and lean individual, one has to be a little bit careful and look for alternative ways to get the benefits of that fast.
+
+Tim Ferriss: So you were saying something about front-loading meals.
+
+Peter Attia: Yeah. So I just find nowadays, although probably not tonight.
+
+Tim Ferriss: Almost certainly not tonight.
+
+Peter Attia: I’m going to eat a little bit more early in the day and a little less late in the day. So — 
+
+Tim Ferriss: There may or may not be some mezcal involved.
+
+Peter Attia: There will be.
+
+Tim Ferriss: So we won’t take either of our Oura Ring data as the standard for this evening. I totally got caught up in my own fantasy narrative — 
+
+Peter Attia: Fantasies about mezcal?
+
+Tim Ferriss: So front-loading meals, could you just walk back and explain — 
+
+Peter Attia: In an ideal world I think that the best way to do time-restricted eating would be to eat a big breakfast. So it would be to wake up, exercise, eat a huge breakfast. By huge I don’t mean gluttonous, but that’s your biggest meal of the day at say — I don’t know, let’s just put some numbers to it. You wake up at six, you work out from seven to 08:30, at nine o’clock you’re eating your largest meal. You eat another meal at one o’clock that is modest and you don’t eat again. That would be a great way to do 16 hours of not eating a day. That’s problematic for two reasons. The first is it’s socially problematic. It’s really easy to not have breakfast because very few people eat breakfast with other people, but dinner is our social meal. And for obvious reasons, it just poses a difficulty to be the guy who never eats dinner.
+
+Tim Ferriss: Just as a side note, I’ve been at multiple dinners now, quite a few actually, where you’ve been fasting and we’ve all been sitting, drinking wine, and you just pass the cheesecake at the end and you take a big whiff and then continue moving it along. It’s entertaining, but it is pretty antisocial to be that guy.
+
+Peter Attia: To be that guy drinking the soda water. And then the other thing is I think for many people it is hard to go to bed hungry and truthfully in a longer fast it gets easier because if you’re fasting for seven days, by the time you hit that fifth day, a lot of your hunger has dissipated, but 16 hours of not eating can generally pose some hunger and for some reason, I just think psychologically in the evening we’re a little less busy, so it’s even more noticeable. Whereas if you’re doing the traditional way that people think about not eating for 16 hours, it’s pretty easy to wrap yourself up and work in the morning, skip breakfast, and delay your lunch a little bit.
+
+So I don’t know that I have a great answer for that other than I think people should be a little cautious and not just apply the same hammer to every nail and think about their own physiology a little bit and rely on these technologies like DEXA to make sure. Which again is so readily available, relatively inexpensive, and provides both good information about body composition and also this thing of visceral fat.
+
+Tim Ferriss: We’ll come to the visceral fat in just a second. On the DEXA note, about — I don’t know, a year and a half or two years ago, I recall a conversation with a DEXA technician who said to me, “Over the last 12 months, I’ve seen many cases of people coming in who are newly avowed intermittent fasters who have had their body composition flip, basically.” Not necessarily flip, but they’ve had massive jumps in the percentage of body fat. And I put that on social as a note, not to say that all people who do time-restricted feeding experience this, and it was hilarious and also frustrating to see how many religious zealots there are around intermittent fasting who were just like, “Bite thy tongue.”
+
+Peter Attia: Wait. But you said that according to this tech that they got better intermittent fasting or worse?
+
+Tim Ferriss: No, they got worse.
+
+Peter Attia: Oh, they got worse. So, it met with what I’m describing.
+
+Tim Ferriss: It’s exactly compatible with what you’re saying, but there was a lot of resistance to the idea that would even be possible. Which I found really interesting, more social commentary than anything else.
+
+Peter Attia: I think it just speaks to why I don’t like talking about nutrition very much because it does lend itself to politics, not literally, but it’s the politics/religion ethos, which is: whatever you’re eating is obviously the only thing. And I guess I just encourage people to be much more attuned to all of the tools. So caloric restriction, dietary restriction, time restriction, you’ve probably heard me go on and on about my framework, the three levers. Always pull one, sometimes pull two, occasionally pull three, never pull none. So time restriction, what we’re talking about, restricting when you eat, but otherwise not restricting how much or what. Dietary restriction is restricting some of the content in what you eat. So not eating carbs, not eating wheat, not eating meat.
+
+Tim Ferriss: Not eating Doritos.
+
+Peter Attia: Right. Not eating sugar. Those are all forms of dietary restriction. And then caloric restriction is restricting the amount. And so if you are never pulling one of those levers, which means you’re eating anything you want, any time, how much, whatever, that’s called the standard American diet.
+
+Tim Ferriss: SAD.
+
+Peter Attia: Yeah, the SAD. And we’ve been running a very good natural experiment on that for 50 years and the data are in. So it turns out that less than 20 percent of the population, probably less than 10 percent of the population, is genetically robust enough to tolerate the SAD. So, that’s a great piece of data. There are people out there who can eat KFC and Doritos and pizza any time they want and they’re generally okay to a first-order approximation. I would add that we don’t really know the answer to this question because we don’t have super granular data at the population level. But notwithstanding that, at least at the surface level, it appears that 10 percent of the population are largely immune to the SAD. But for the rest of the 90 percent of us schmucks, which I’m certainly in that camp, the SAD is lethal.
+
+And so you’ve got to come up with a way to escape the gravitational pull of the SAD. And that’s why I think having these three levers at your disposal is the key. And yeah, I think that what happens is people get so into the camp of their lever, it’s all time restriction or it’s all dietary restriction, not too many people are in the all calorie restriction group. There’s a whole Calorie Restriction Society, and so there certainly are people that are in that camp, but it’s usually the first two camps that have the most zealots.
+
+Tim Ferriss: Levers, I was waiting for the Canadian to come out. Love those levers.
+
+Peter Attia: Sorry.
+
+Tim Ferriss: I’m so sorry. Process. And I also think I said “bite thy tongue. I don’t practice my older English much. I think it’s thine tongue, but I’m sure the internet will correct me. 
+
+Tim Ferriss: Quick tactical question, and then I want to ask you about any research or studies that have been interesting to you, that have come out since we last spoke. Is it effective or have you tested using small amounts of branched-chain amino acids to mitigate the muscle loss during what we would otherwise consider fasting? And does that also, if it has any effect, lessen the benefits of the fast?
+
+Peter Attia: It depends on what you’re doing the fast for. I think if you’re doing the fast for weight loss, then the answer is absolutely knock yourself out with branched-chain amino acids, during strength training, because from a caloric perspective they represent such —
+
+Tim Ferriss: Negligible —
+
+Peter Attia: Yeah. Even if you were to double up on my favorite BCAAs, which are BioSteel, what are you going to get in there? 40 calories in two servings, so not an issue. If you’re doing the intermittent fasting with, call it, the hope of achieving some amount of the early signatures of autophagy, then I would say that it probably is counterproductive because the amino acids that you use in exercise are exactly the ones that are the most potent stimulators of mTOR. And the whole purpose of fasting, at least in the short term, is to give mTOR a rest. It’s to take away that which it senses. And it is the most potent sensor of leucine, which is the most important branched-chain amino acid.
+
+Tim Ferriss: So if I could dumb that down for myself, if you are interested in the longevity benefits of fasting, aside from just getting to healthy body composition, you should not take the branched-chain amino acids?
+
+Peter Attia: I can’t say anything with certainty, but it seems counterproductive. Yeah.
+
+Tim Ferriss: Yeah. Got it. All right. Studies, any papers or studies that you found interesting?
+
+Peter Attia: Oh my God. So many. There’s a lot.
+
+Tim Ferriss: If you had to cherry-pick a few.
+
+Peter Attia: Well, look, I think the recent New England Journal paper that you and I have talked about is very interesting, comparing Lexapro to psilocybin. I wrote about it recently and my little diatribe basically said I think the paper was in some ways misinterpreted, it was positioned as a negative trial though I saw it as anything but a negative trial — 
+
+Tim Ferriss: Could we zoom out just for a second and give people an overview of the objective or the hypothesis of the study?
+
+Peter Attia: Yeah. The question that was being tested was is an intermittent dose of pure synthetic psilocybin more effective, I think is the way the question was posed, than the top-tier SSRI for patients with depression? so Lexapro is a relatively new SSRI. Very well tolerated.
+
+Tim Ferriss: It’s a talopram?
+
+Peter Attia: Yeah. It does have sexual side effects, that’s its most common side effect.
+
+Tim Ferriss: That’s true of other SSRIs — 
+
+Peter Attia: Absolutely, yeah. SSRIs are known for having sexual side effects. Some of them also come with incredible amounts of somnolence, incredible amounts of weight gain — 
+
+Tim Ferriss: Somnolence, sleepiness?
+
+Peter Attia: Sleepiness, yeah. Lexapro seems to be relatively free of that for most people, which is why it’s more of a go-to drug. Comes in two doses, 10 and 20 milligrams. Generally, most people need 20 if they’re going to go to it, but you usually start people at 10, go to 20.
+
+Tim Ferriss: This is a daily administration?
+
+Peter Attia: It’s a daily drug. Yep. So, the participants are divided into two groups. One group is given Lexapro. Let me think. I believe that they all started out at 10 milligrams for three weeks and then were increased to 20 milligrams for three weeks or maybe it was four plus four. I can’t remember. It was a relatively short study. They were also given one milligram of psilocybin, which is an important point I should make.
+
+Tim Ferriss: And if that word is unfamiliar to folks, psilocybin is a molecule found in psilocybe mushrooms, also known as magic mushrooms. These are mushrooms that impart psychedelic effects at a sufficient dose.
+
+Peter Attia: We’ll come to talk about that dose. So, the subjects were all recruited knowing that they would get psilocybin no matter what, because that was an important recruiting tool. People wanted to be in a study where they were going to get the psilocybin. That has to be taken into account from the standpoint of patient selection. Every trial has to be thoughtful about what type of people it’s selecting and are they representative of the population you’re going to want to extrapolate your results to?
+
+I flag this to make the point that when you have a patient population that says, “I really, really want to get psilocybin,” and you say, “Well, you’re not going to get necessarily the full dose — There’s only a 50/50 chance you’re going to get the full dose — but you’re going to get some, so you’re either going to get one milligram or 25 milligrams.” We’ll put in context what those doses mean in a second.
+
+Tim Ferriss: Just to bracket one thing. What makes this study and paper worthy of discussion is that it is a head-to-head comparison with lots of nuance, of course, of psilocybin with, I think, two or three sessions total in the intervention arm versus Lexapro, very common SSRI for major depressive disorder. Please continue.
+
+Peter Attia: To your point, the group that was in the true psilocybin group received, I think it’s just two doses spaced out three weeks apart of 25 milligrams of psilocybin, which, depending on the variant of mushrooms — so when you dry a mushroom out, its yield of psilocybin, pure psilocybin can be as low — I went and reviewed all the lit on this — it can be as low as 1.7 percent, by weight can be as high as even four percent or five percent.
+
+Tim Ferriss: Incredible variability.
+
+Peter Attia: The 25 milligrams was clearly a hallucinogenic dose. Probably in the four to five gram of mushroom dose. Well, there’s one other point I should explain about research. Generally, when research is done in an incredible fashion, you have to call your shot before you do the study.
+
+Tim Ferriss: Pointing to center field.
+
+Peter Attia: That’s right. You have to be able to not just say, “I’m going to hit a home run. I’m going to hit a home run over that wall.” That’s called your primary objective. One of the things that is important to understand when you’re evaluating research is, “Was it pre-registered?” When the study — 
+
+Tim Ferriss: Did they call their shot by the primary outcome?
+
+Peter Attia: That’s right. In the United States, anything that’s funded by NIH, for example, has to be pre-registered on clinicaltrials.gov. I would encourage anybody to go to clinicaltrials.gov and just start perusing. What you’ll see there is a list of all of these ongoing studies. They’ll say, “It started here.” It’s a template. It always looks the same.
+
+It’s very easy to navigate these things. Here are the investigators, here’s the hypothesis, here’s the experimental design. Here’s the inclusion criteria. The exclusion criteria. Here are the primary. Here is the outcome. Here are the secondary outcomes. It shows you all of that stuff. You have to pre-register this, you have to state what you’re doing.
+
+If you don’t do that, it becomes very difficult to publish your work in anything prestigious. This of course was published in the hands-down most prestigious medical journal in the world, the New England Journal of Medicine. They pre-registered around one type of survey, one type of depressive survey.
+
+Unlike say, giving people drug to treat cholesterol where you have an objective metric, you can say, “Well, did it lower apoB or LDLC?” or something like that. Here you’re relying on subjective outcomes because in such a short study, you’re clearly not going to be able to follow people for, “Why was there less depression in this? Was there less suicide in this group?” or something like a hard outcome.
+
+“Did people have fewer absent days from work?” or something like that. It’s been a while since I wrote this, the primary survey that they used, I believe had nine categories or maybe it was 12. The difference between the groups, the Lexapro group and the psilocybin group, was not statistically significant. Both groups achieved an improvement in their depressive scores.
+
+Tim Ferriss: I think it was six and four points respectively.
+
+Peter Attia: Correct. I think it was a nine-point scale.
+
+Tim Ferriss: Something like that. You pointed out something very important and we should just step back for a second. The upshot, and then let’s come back to these questions, but the upshot summary of the study was what?
+
+Peter Attia: There was no difference between psilocybin and this drug. It was positioned as a negative study.
+
+Tim Ferriss: Got it. Meaning, I don’t want to say “failed” because that’s just not really how science works, but the intervention did not — meaning psilocybin in this case — was not superior to escitalopram.
+
+Peter Attia: That’s right.
+
+Tim Ferriss: Tie. This is a topic that is endlessly interesting to me, what we’re getting into, which is study design and really digging into the nuance and how beneficial it is to know how to read a study. This will seem like a friendly plug, but I highly recommend people read a series of articles that you published and they are called, what is it Studying the Studies?
+
+Peter Attia: Studying Studies.
+
+Tim Ferriss: Studying Studies to increase your scientific literacy, because we’re going to get into some of the weeds and I hope it’ll be interesting.
+
+Peter Attia: The other thing we’re doing, if I can plug something and I don’t know when we’ll have this out yet, but we’re creating a course, where about a year ago, we started recording our weekly journal are part of our monthly journal club. Every month inside our practice, we do journal club, which is just like old school journal club for anybody who’s been in a lab. One person will present a paper, it usually takes an hour to an hour and a half, and we get into a complete dissection of the paper. We do it in a really methodical way, and the topics vary greatly.
+
+Tim Ferriss: I highly recommend everyone do this, honestly, witnessing the complete mayhem and confusion over the last year with respect to anything science-related, certainly, the most obvious of which being anything COVID or vaccine-related, has made it so clear to me that this is really, it’s hard for me to think of something that is higher priority.
+
+Peter Attia: We just decided to do this. We’ve been doing journal club inside our practice for years, but it occurred to me a year ago: why aren’t we recording this to later package and put out there? Because nobody comes out of the womb knowing how to read science. We just have to accept the fact.
+
+Tim Ferriss: It’s completely learned.
+
+Peter Attia: It is a totally non-innate thing. Evolution had zero desire to teach us this skill, so you have to learn it. Some of us were really lucky to be in labs where people were really good mentors and they beat into you how to do this. Again, the topics that we explore are the latest on semaglutide, which we’ll talk about today, I think.
+
+The role of testosterone replacement therapy in men with type two diabetes, a huge paper that came out recently, this topic. It doesn’t matter what the subject matter is. The process of thinking is actually quite similar.
+
+Tim Ferriss: The process of thinking, dissecting, and skeptically, but not necessarily cynically looking at the purported outcomes, I think, is really important. Coming back to this paper, super prestigious journal. Study comes out, psilocybin versus Lexapro negative study, or a negative outcome rather. Then, we have this questionnaire, let’s just call it, that is determining the results.
+
+The results come back, the differences come back as statistically insignificant. However, as you pointed out, when you wrote about this, that doesn’t necessarily mean clinically insignificant, depending.
+
+Peter Attia: Nor does it mean — let’s go back and explain what statistical significance is as well, because now there’s three points. You reminded me of something else that I think is worth stating. How is statistical significance determined? What does it mean? We hear this term all the time. Statistical significance is basically asking a question: what is the probability that the difference that’s observed between these groups is by chance? 
+
+To answer that question, you have to know, a priori, how big an effect size you would expect to see between these two groups.
+
+Tim Ferriss: A priori meaning beforehand, you need to know what magnitude of difference that you expect to see between the two groups.
+
+Peter Attia: That’s right. That’s really important because that determines what’s called the power of your study.
+
+Tim Ferriss: That is how you need to, sorry to keep jumping in here. The part of the importance of understanding or guessing correctly, maybe that’s not guessing, but determining or speculating or guessing correctly, the magnitude of difference, the difference in effect sizes, because that also will determine how many subjects you need to recruit.
+
+Peter Attia: There’s something called a power table, which I think we include in one of the Studying Studies articles, which I remember when I got to the lab was one of the first things my PI principal investigator showed me. He said, “This is going to be one of the most important tables you’ll ever pay attention to when you’re doing research.” It’s a complicated table to look at, but on the horizontal axis, it has effect size of Treatment A.
+
+On the vertical axis, it has difference between Treatment A and Treatment B. This will be like 10 percent, 15 percent, 20 percent dah, dah, dah, dah, dah, dah. Then here, it would be five, 10, 15, 20. For example, Treatment A would yield, if you predict it’s going to be a 30 percent effect size versus a 40 percent effect size, you go to 30 and 10. Does that make sense? The baseline plus the Delta. Then, within each square, you typically have two options, at either 80 percent or 90 percent power.
+
+Obviously, 90 percent power means an even higher standard and it requires more sampling, it has a greater sample size. It’s very common in research to underestimate or overestimate your effect size. If you overestimate the effect size, you can underpower a study. I think there’s actually a pretty sizable chance that happened here. The power analysis suggested they were looking for a 0.4 difference on the scale.
+
+Tim Ferriss: They came back with two.
+
+Peter Attia: They came back with a little over two.
+
+Tim Ferriss: A little over two.
+
+Peter Attia: It’s not surprising that it came back not statistically significant because they had engineered the number of participants to only be statistically significant if there is a difference of four points or greater. On the one hand, you would say, “Well, that’s really impressive. That was a very high bar.” My question is, was it too high a bar? Is four points necessary when you’re really trying to do a study against the gold standard.
+
+It would be one thing if you were doing a study against a placebo where you do want to set a very, very high bar, but this is akin to almost like a phase three drug type trial, where you’re trying to compare a new drug to an existing blockbuster gold standard drug, and simply being non-inferior to it. Maybe even potentially better on some of the secondary metrics as this one was, could be more than enough to advance clinical utilization and promulgate further studies.
+
+That was one of my first concerns with this study was, I don’t think it was powered correctly because I do wonder if four was too high an expectation against this treatment. Of course, other issues are, “Was this study long enough?” This was a relatively short study. Look, it could have gone the other way. It might be that after a year, it flipped and Lexapro is hands down the winner and psilocybin’s effect waned.
+
+We don’t know. Again, that’s another thing to be concerned with. Then, the point that you brought up, which is a subset of what we were just talking about is look, maybe a 2.5 point increase is clinically really relevant and the other point here is —
+
+Tim Ferriss: I definitely want you to give, if you remember, and it can be rough, but some of the examples of the questions.
+
+Peter Attia: That’s right. That’s the final point here is not all questions are created equal. Some of the questions on that scale are like, “Are there times when you don’t feel good about yourself?” versus “There are days I can’t get out of bed.” Those are not the same question to me.
+
+Those are very different questions, a person who says, “Honestly, more than 50 percent of the time, I don’t feel good about myself.” Clearly, that’s a problem and clearly that’s something you want to address, but that person is probably a lot more functional than the person who says, “I can’t get out of bed.”
+
+Tim Ferriss: I think that another two examples to compare would be —
+
+Peter Attia: One about suicidal thought, as well.
+
+Tim Ferriss: Right. Or “I sleep 10 or fewer hours per day” or “12 or more hours per day.” That might account for, say, a two-point difference on an individual questionnaire. Then another question, which was something like, “I feel badly about myself.” Most of the time versus, or on a daily basis versus saying less than half the time or something along those lines as you mentioned, questions about that could include suicidal ideation.
+
+Not all points are created equal. Another thing that I wondered because I have in part helped fund research at Imperial College, where this came out of, and a bunch of other places and in conversations with a number of different neuroscientists, they said, “Well, these are people who are very experienced with designing studies and being published.”
+
+They said, “Well, there are times when you have to choose between the primary outcome measure you think the establishment, so to speak, is going to most respect or the primary outcome measure that you think is going to move the most.” This could be a case and I’m not speaking for Robin or anyone else involved with this study, but this could be an example of picking what the establishment would have wanted to see.
+
+Then having the secondary outcome measures move in some very interesting ways that maybe in retrospect could have or should have been the primary outcome measure, if you had more confidence in those to begin with.
+
+Peter Attia: Do you know what the budget was for this study?
+
+Tim Ferriss: For this study, I don’t, but I’m glad you mentioned budget simply because I think this underscores how important, at least in the US — I’m involved with Hopkins and UCSF and a number of other places — how important it is to try to open up state and federal funding for this type of research from NIH, et cetera.
+
+Right now, it’s easier for someone to say, “Well, that was stupid. Why didn’t they just have 50 people in each arm?” The answer is it costs a lot of fucking money and it’s hard to raise money in some cases. That was just the point I wanted to make, but I don’t know what the budget for this was.
+
+Peter Attia: I think this study must be viewed as a very positive finding.
+
+Tim Ferriss: I agree.
+
+Peter Attia: The side effect profile was obviously higher in Lexapro. Again, people taking Lexapro are far more likely to complain of, if they’re males, erectile dysfunction, sexual malfunction, reduced libido, things like that. How we wouldn’t want to explore this to the nth degree, I don’t understand. Of course, there’s other things I’d want to explore, like micro-dosing.
+
+These were macro doses. These were people taking a full hallucinogenic dose every three weeks, I believe. That’s not necessarily an easy thing to do either. I’d want to understand what that’s like versus what would taking a couple of milligrams per day, which would be well below the threshold of perception or three times a week or something, you hear a lot of anecdotal talk about those things being beneficial to people, I’d like to see that studied.
+
+In some ways that would be an easier thing to study because that’s the other limitation of this study, which must be noted, which is technically it was not a blinded study. It was a randomized study, but it wasn’t a blinded study. There was no confusion about which group you were in.
+
+Tim Ferriss: This is one of the biggest challenges. I think there are ways to solve for it that I find pretty compelling from a scientific standpoint, but it’s very hard to blind when you’re using hallucinogenic and much less mystical experience level dosing of a psychedelic. It raises, as you noted, given the frequency of administration, you have, say, two sessions with psilocybin at clearly psychedelic doses.
+
+These would be, I would say, in most people sufficient to produce some type of what you might call mystical experience. There are questionnaires that Johns Hopkins has developed — Roland Griffiths and Matt Johnson and that team — to measure mystical experience, ego dissolution, sense of unity, et cetera. When you look at the results and we assume for the time being, even though I think people should look really closely at the appendices and the secondary outcome measures, let’s say that they’re breakeven.
+
+This is a tie, but on one hand, as you said, you have more side effects, you have daily administration. Then on the other hand, you have administration every three weeks. I think that were they two and they may still plan on doing followups in other university studies, there’s quite a bit of durability that’s seen with this type of administration of psilocybin, even out to six, 12 months.
+
+It raises some really interesting questions. The most obvious of which is, “How does this work?” If the SSRIs are on some level, I don’t want to say suppressing symptoms or maybe masking tendencies, I don’t know the right way to phrase it, but it is a maintenance drug. It’s an ongoing administration versus highly intermittent.
+
+By what mechanism are these changes taking place? Is it just flooding the brain with a compound that has a biochemical effect or does it relate more to changing the content and narrative and what work can be done in those sessions themselves? It raises a lot of interesting questions.
+
+Peter Attia: I think with MDMA, I think the answer is probably a bit more clear. I think prior to MDMA’s resurgence and serious treatment for PTSD, antidepressants were the mainstay of therapy for this. I think it was exactly what you said. Antidepressants for PTSD were a masking agent that had some efficacy, but not tremendous efficacy. I think the runaway success we’re seeing of MDMA for PTSD is clearly less about the chemical changes in the brain as a result of the administration of the molecule and far more about the state of mind that it puts the individual in for the type of therapy that they need to do to go back and rectify and come to grips with the traumatic event. I think you’re right. I think it’s less clear here, but it also doesn’t have to be one or the other, it’s certainly possible it could be both.
+
+Tim Ferriss: For those people who are interested in reading more, and I can link to these in the show notes for this episode, there has been some great New York Times coverage of the phase three trials related to MDMA-assisted psychotherapy, includes stories from subjects. It’s a very compelling read. The results are really pretty staggering and raised a lot of exciting questions for me about the future of treating mental illness or psychiatric disorders.
+
+I also want to give just a shout-out to Rick Perry in Texas, who has been recently very public about exploring psychedelic compounds as possible treatments for things like PTSD among veteran populations and other subpopulations. That I think is a very courageous and very justifiable stance to take.
+
+I was very excited to see that, especially in the great Republic of Texas in which we sit. Any other studies that come to mind? You mentioned apoB. I’m wondering if you have any thoughts on apoB that you’d like to share.
+
+Peter Attia: Certainly, as it pertains to things where I’m evolving my thinking.
+
+Tim Ferriss: What is apoB?
+
+Peter Attia: It’s probably worth explaining that before we do anything else. Most people have heard of cholesterol. Most people are used to seeing a blood test where you would see your total cholesterol, LDL, HDL. If the lab is half-decent, it would actually say LDL-C HDL-C non-HDL-C LDL-C. What does all that mean? That means LDL cholesterol or the cholesterol contained within LDL. HDL cholesterol is the cholesterol contained within LDL.
+
+Why do all these things even exist? Every cell in our body makes cholesterol. It’s an essential molecule for life. If you don’t have cholesterol, you’re not going to live more than a few seconds. In fact, you’ll die in utero, if we’re going to be blunt. Every cell makes this thing, it makes up the cell membrane of every cell. It’s what allows membranes to have fluidity and have transporters sitting across them. It’s also the backbone for many of the hormones we make.
+
+Now, the problem is cholesterol is not water-soluble. When you have something that’s not water-soluble that needs to be transported through the body, which this does. As I said, not every cell makes enough of it to meet their own needs. There are net exporters and net importers of cholesterol. You have to have a system that can move it around. Just like if you tried to pour olive oil into a glass of water, you would quickly realize they don’t mix.
+
+Similarly, you can’t just move cholesterol through the bloodstream the way you can move things like glucose, sodium, potassium, things that are water-soluble. Glucose just travels through the bloodstream on its own as does a ketone body, for example, but triglycerides have to be bound. Things that are fat-soluble have to be bound. Mother nature invented something called a lipoprotein, which is a spherical thing, but on the outside is water-soluble.
+
+On the inside houses these water-insoluble, or what we call hydrophobic things, namely cholesteryl ester and triglycerides, and these lipoproteins exist in two broad families. The families are defined by the protein signature that wraps around them. The two families are the apoB family and the apoA family. Technically, there’s a subclass of the apoBs.
+
+There’s an apoB100 and an apoB-48. For the most part, anybody that’s talking about apoB is referring to apoB100. The apoB-48 is only something called the Chylomicron. That is a very short-lived lipoprotein that gets fat out of your gut. Let’s put that guy aside for the moment, unless anyone wants to come back and we’ll do the advanced course on the weekend.
+
+Tim Ferriss: Advanced course for the Midi-chlorians. Any nerds out there?
+
+Peter Attia: Your apoB family consists of very low density, lipoprotein, or VLDL, intermediate-density lipoprotein, or IDL, low-density lipoprotein, or LDL, and Lp(a) who is the worst actor of the bunch, which is an LDL with another special lipoprotein wrapped around him called an apo(a) or an apolipoprotein little a. Not apoA, I should be really clear. It’s apolipoprotein little a, you have to specify a little a to not confuse it with apoA family.
+
+The apoA family is the lineage of the high-density lipoproteins. Most people know that HDL good, LDL bad, but that’s a little overly simplistic. What we really mean to say is that HDLs do not cause atherosclerosis, LDLs do. It turns out LDLs aren’t the only thing that causes atherosclerosis, anything with an apoB on it causes atherosclerosis.
+
+Tim Ferriss: Just for the listeners, atherosclerosis, meaning the buildup of plaque within the cardiovascular system. It’s the stiffening —
+
+Peter Attia: It’s the inflammatory disease of arteries that ultimately results in plaque formation and in the worst-case scenario, results in rupture of this plaque that leads to an acute thrombosis or an acute occlusion. If it occurs in the wrong spot, that can be fatal — instantly fatal. VLDLs stick around for long enough that if you have too many of them, they are atherogenic. IDLs are not really a problem because they just don’t last that long.
+
+The transit from VLDL to IDL and then IDL to HDL occurs, or to LDL is so quick that the ideals are irrelevant. LDLs, of course, are the majority of your apoB concentration, unless you also have a lot of insulin resistance where you might have high VLDLs or if you have a genetic condition that predisposes you to have too many of those, The IDLs again, we don’t really worry about those. The LDLs are the lion’s share of your apoB and about one in eight to one in 12 people also have a very genetically high level of Lp(a), and that also represents part of the apoB concentration.
+
+apoB is a far superior measurement to LDLC when trying to predict cardiovascular risk. It is hands down the best biomarker we have for cardiovascular risk, because it is the total concentration of all particles capable of inducing atherosclerosis. Now, atherosclerosis is multifactorial, so lots of things drive it. Inflammation plays an important role and metabolic health plays a super important role.
+
+We understand that lower apoB is better. Where I think that the data are becoming more and more clear is how low you can push this thing without unwanted effects and how much more benefits you can get. There’s always a concern, I think, and understandably so, that if you lower apoB, you’re lowering cholesterol, because If you have fewer of the particles that carry cholesterol, you have less cholesterol floating around the blood.
+
+What most people don’t understand is that that’s sort of like saying, “I’m going to reduce the number of cars traveling over this bridge.” Does that necessarily mean you’re reducing the number of cars in the city? Not necessarily. Most of the cholesterol in your body is not in the lipoproteins rummaging around through your veins.
+
+Again, most of the cholesterol is still sitting inherently in the cells itself. If you took a person’s total cholesterol and it was 200 milligrams per deciliter, and you lowered it and by total cholesterol, by the way, at this point, I assume it’s straightforward to explain, it’s the sum of all the cholesterol and all the lipoprotein. The VLDL, IDL, LDL, Lp(a), and HDL. If you bash all of those particles and take out all the cholesterol, that’s what your total cholesterol is.
+
+If you took that number from 200 to 100, you would say, “God, that’s a 50 percent reduction in your cholesterol.” No, it’s a 50 percent reduction in your serum cholesterol, which might be a five percent to 10 percent reduction in your total body cholesterol. That’s one thing to keep in mind. The other thing to keep in mind is we are born with very, very low levels of cholesterol. In a child, the apoB concentration is probably in the ballpark of 20 to 30 milligrams per deciliter.
+
+By the time we’re adults, a level of 80 milligrams per deciliter would put you at the 20th percentile. Meaning 80 percent of people would have a higher number than 80. What’s the upshot of this? The upshot of this is there’s no upside to having more apoB. The upside is in having that number be lower and lower and lower. Until recently, it wasn’t clear how low you could drive it.
+
+There was a type of drug that was developed about 17, 18 years ago, but it became clinically available. I shouldn’t say that actually was probably started development in about ’05. We’ll call it 16 years ago. Hit the market in 2014 or 2015, a class of drug called PCSK9 inhibitors. They work in a manner that’s distinct from all previous drugs that lower cholesterol. They work by inhibiting a protein that degrades LDL receptors on the liver.
+
+By inhibiting this thing that degrades them, you get more of the LDL receptors in the liver. It pulls more of the apoB bearing particles out of circulation, mostly, which are LDL particles, but also some Lp(a) particles. With these trials. We see people achieving levels of apoB in the 10 to 30 range with no side effects, no consequences.
+
+Furthermore, these drugs were developed when populations of people were identified, who naturally had mutations in PCSK9 that rendered their PCSK9 ineffective. This was basically a drug that was designed to mimic a genetic mutation found in people who, over the course of their lives, have no increased risk of any disease and simply have a decrease in their risk of cardiovascular disease. In fact, their risk of cardiovascular disease is virtually non-existent.
+
+Tim Ferriss: Let me ask this silly question. How does one find people who have such a mutation to track them?
+
+Peter Attia: Well, it started with the opposite. There’s a condition called familial hypercholesterolemia, or FH for short, which are people who have very high levels of cholesterol and very high levels of LDL cholesterol, and by extension, very high levels of apoB. They’re pretty easy to spot. It’s a definition that is based on phenotype, not genotype. It’s a genetic condition — 
+
+Tim Ferriss: I see.
+
+Peter Attia:  — but it’s one phenotype, but 3,000 or more genotypes. Meaning there are thousands of different genetic mutations that lead to that. I think it was in the late ’90s, one of those genetic pathways was identified as a hyperfunctioning PCSK9. A group in Toronto identified PCSK9 and realized that these people had a hyperfunctioning version of this protein and it was constantly degrading LDL receptors, and so they just couldn’t clear the apoB out of their circulation and that’s why they had sky-high LDL and total cholesterol.
+
+When that population was identified, the question was asked, which is, is there a counterpart to them? It turns out to be really easy to identify them because they’re the opposite. These are people who don’t take any medicine to lower their cholesterol, and they have levels like infants. I remember actually reading that paper when it came out and being blown away and actually thinking, “There’s no way they’re going to be able to do this with a drug.” It turned out it was actually pretty druggable.
+
+It wasn’t that hard to do, and in many ways it’s a much cleaner drug than, say, a statin. Statins, which are, despite all the public mayhem around it and the religious polarizing debates around statins, statins are really safe drugs. 10 percent of people have unwanted side effects and shouldn’t take them, but they’re very well-tolerated drugs. In my mind, that’s kind of a miracle when you consider what they do, which is they inhibit cholesterol synthesis.
+
+When you think about how important cholesterol synthesis is, it’s kind of amazing to me that that works without killing people. My hypothesis for this, by the way, is that statins occurred in nature. The first statins were really copying something that was found in nature called red yeast rice. As a general rule, I think things that came from nature tend to be a little safer.
+
+Psilocybin, rapamycin, metformin, some of my other favorite drugs, but the method by which the PCSK9 works is just elegant because it’s really just targeting one protein with an antibody that makes it harder for the LDL receptor to break down.
+
+Tim Ferriss: Are there any benefits to lowered or low apoB outside of cardiac risk, lowering cardiac risk?
+
+Peter Attia: Yeah. There actually is — 
+
+Tim Ferriss: Or I shouldn’t say cardiac.
+
+Peter Attia: Yeah.
+
+Tim Ferriss: Cardiovascular risk.
+
+Peter Attia: Yeah. Yeah. Yeah. That’s sort of — I mean, I think we’ve known for a while that it also poses a benefit with respect to Alzheimer’s disease, for sure. That’s one of those things where I think one needs to be a little bit careful about never confusing population data with individual data. That’s why I think population data are fantastic, but every patient has to be completely assessed as an individual.
+
+The population base data, for as long as we’ve had statins, we’ve known that lower apoB or lower LDLC means less risk of Alzheimer’s disease. If you think about some of the paths by which people get Alzheimer’s disease, there’s clearly a vascular path. Alzheimer’s disease is not a disease, just in the same way cancer is not a disease, singular. It’s many diseases, not just tissue type, but even within tissue type, within breast cancer, for example, you have different receptor profiles.
+
+The same within lung cancer. Or even just the mutation can render two cancers completely different animals. Similarly, Alzheimer’s disease is a collection of lots of diseases with a final common pathway, but you can get there metabolically, you can get there through a vascular path. You can get there through an inflammatory path. There might even be an autoimmune path there.
+
+The vascular path is a big path, in my opinion, and therefore anything that improves microvascular health, which statins do, should improve the risk of Alzheimer’s disease. There was something called the Mendelian randomization that was published, I think, like literally a week ago.
+
+Tim Ferriss: Mendelian randomization.
+
+Peter Attia: I’ll explain what a Mendelian randomization — yeah.
+
+Tim Ferriss: This was Gregor Mendel?
+
+Peter Attia: Yeah. Yeah. Yeah. I guess I should explain what an MR is first. MR is — 
+
+Tim Ferriss: Mendelian randomization.
+
+Peter Attia: Correct. Is a very elegant tool that allows us to try to infer cause when an experiment is not done. This is a profound idea, right? Because when you just observe things without doing an experiment, which by definition means randomly assigning treatments — or assigning treatments to randomly separated groups, which is the only way to eliminate all bias, there are other biases that can creep in which we could — I mean, which are actually discussed in the study section.
+
+I won’t go into performance bias and other things like that. For much of the questions we’re interested in, you can’t do that. You have to rely on natural experiments. What MR allows you to do is identify genes that are responsible for the traits at hand and not responsible for other traits and do basically a model of, what does that genetic trait tell you when it’s present or not present? The idea is, in an MR analysis, you’re basically assuming that genes can occur randomly, which of course they can.
+
+You’re then looking at, what is the outcome from that? For example, in the case of apoB, you would look at genes that are determining apoB level. There are many genes that play an important role in understanding how high or low a person’s apoB is. These genes are set, right? It’s sort of like you get the gene, you’re not going to change the gene and it’s not subject to your behavior, right? Whereas so many other things like what you eat is a behavior that can also impact your apoB.
+
+It’s how do you strip that effect out, the healthy user bias, all of the things that are problematic when trying to infer this? The MR demonstrated quite clearly that lower apoB is synonymous with improved all-cause mortality, cardiovascular mortality, and even mortality associated with diabetes and things like that. To me, the most interesting finding in there was the all-cause mortality.
+
+On the one level you could say, “Well, it’s not surprising given that cardiovascular mortality is the greatest cause of mortality in the developed world. If you take a big enough chunk out of that, you should improve all-cause mortality.” Nevertheless, that trial — or not that trial, that study combined with a number of other very large cardiovascular trials, namely FOURIER, ODYSSEY, IMPROVE-IT, every trial has to have a cool name, just demonstrate this effect, where lower is better. The lower the LDL goes, or the apoB goes, the lower the risk goes.
+
+Tim Ferriss: Let’s jump to rapamycin since you mentioned it, and you can give a very quick ID on what rapamycin is. Since we last spoke, more bearish, more bullish, and why?
+
+Peter Attia: I’m a bull. Yeah.
+
+Tim Ferriss: Dogecoin and rapa? Diamond hands? All right. What is rapamycin?
+
+Peter Attia: By the way, I mean, I know what the diamond hands thing is, but where did it come from?
+
+Tim Ferriss: I have no idea. Yeah. No idea where diamond hands comes from.
+
+Peter Attia: Okay. I was like, “Did I miss that somewhere in my reading?”
+
+Tim Ferriss: In your econ classes?
+
+Peter Attia: Yeah. Yeah. Yeah. Yeah.
+
+Tim Ferriss: No, I don’t think so.
+
+Peter Attia: Okay.
+
+Tim Ferriss: What is rapamycin?
+
+Peter Attia: Rapamycin is a drug that is a naturally occurring antifungal agent made by a bacteria that was discovered on Easter Island back in the 1960s.
+
+Tim Ferriss: Otherwise known as Rapa Nui.
+
+Peter Attia: Right. Rapa Nui is the correct name for Easter Island and the bacteria, streptomyces hygroscopicus, which was discovered there by a group of explorers — explorers is maybe the wrong word, but people doing sort of medical prospecting, a group from Montreal, I believe in, call it, 1966. They took a bunch of soil and dirt back from Rapa Nui to the lab in Montreal where it sat there unattended to for about five years. A very astute chemist by the name of Suren Sehgal — 
+
+Tim Ferriss: Great name.
+
+Peter Attia: Yeah. He started mucking around — 
+
+Tim Ferriss: He’s related to Steven Seagal? No. Different.
+
+Peter Attia: No ponytail, fortunately. Suren did some really interesting chemistry, isolated the compound, and noticed it had these really remarkable properties, which was, it was the most potent antifungal agent he had ever seen, or the world had ever seen, frankly. At the time, as his son, Ajai, tells the story, who I’ve gotten to know a little bit, he felt he had basically come onto the biggest blockbuster cure for athlete’s foot the world was ever going to know.
+
+Right about that time, the company he worked for closed its Montreal headquarters, actually laid many people off, ordered the destruction of all nonviable compounds, and shipped him off to New Jersey. In one of the greatest acts of scientific fortuity, he did not follow orders. He instead stuck said rapamycin into a little mini freezer that he and his family transported to their new home in New Jersey.
+
+They kept it in the freezer for many years, until ultimately another drug company purchased the company he worked for and the new management said, “Hey, anybody working on anything interesting?” He said, “I’m working on this thing, interesting, that I haven’t looked at in a few years.” They said, “Bring it out.”
+
+Tim Ferriss: Must have been an interesting lawyer conversation based on the not following orders.
+
+Peter Attia: Yeah.
+
+Tim Ferriss: Continue. Yeah.
+
+Peter Attia: Out came rapamycin, which he named.
+
+Tim Ferriss: Cool.
+
+Peter Attia: Mycin is typically the suffix, I guess, that we use, or what’s the second part of a word?
+
+Tim Ferriss: Suffix.
+
+Peter Attia: Suffix, yeah, for antimicrobial agents, and of course Rapa as a tribute to the Rapa Nui. It — 
+
+Tim Ferriss: Like azithromycin.
+
+Peter Attia: Correct.
+
+Tim Ferriss: Yeah.
+
+Peter Attia: It quickly became clear that this had remarkable antiproliferative properties, so it could stop things from proliferating. That was obviously a big — 
+
+Tim Ferriss: Not just fungi.
+
+Peter Attia: Right. Exactly. In particular, it was very effective at making a certain type of lymphocyte, which is a type of white blood cell, not proliferate. It then basically went down the path, eventually, Pfizer then bought Ayerst, which was the company that bought his previous company whose name I don’t even remember at this point. Pfizer ended up pursuing this and it was FDA approved in 1999 for treatment of organ transplantation.
+
+Patients that have an organ transplanted have to be put a really heavy regimen of drugs to suppress a part of their immune system called the cellular immune system that will attack a foreign organ.
+
+Tim Ferriss: What is that called? Host graft? No.
+
+Peter Attia: No graft versus host — 
+
+Tim Ferriss: Graft versus host.
+
+Peter Attia:  — is actually when the organ, usually it’s in the case of lymphoma or leukemia, when someone has a bone marrow transplant and the graft, what they’ve been transplanted attacks the host.
+
+Tim Ferriss: I see. I see.
+
+Peter Attia: Yeah. Yeah. This is really host versus graft, but we don’t usually call it that.
+
+Tim Ferriss: Yeah. Host versus graft.
+
+Peter Attia: Yeah. Traditional sort of rejection. Actually I did a really cool podcast on the topic of organ transplantation history with a guy named Chris Sonnenday. I mean, I know this subject well, but having the discussion with Chris really opened my eyes to just what a beautiful story it is and what the big breakthroughs were with drug development, and how at one point it was like all you could give people was prednisone and you couldn’t save anybody.
+
+Then you had other drugs like ciclosporin that were introduced, but then you get into this third generation of amazing drugs like rapamycin that took organ preservation to a higher level.
+
+Tim Ferriss: Now you’re not swapping kidneys.
+
+Peter Attia: How do you know?
+
+Tim Ferriss: Well, at least not since the last time you sold one in Tijuana to settle a bet. Why would you take rapamycin? I know I’m skipping ahead a little bit, but — 
+
+Peter Attia: Well, yeah, let’s skip ahead. ’99, this drug comes on the market for organ rejection and about 12 years later, a study gets published by Rich Miller, Randy Strong, and colleagues as part of what’s called the Interventions Testing Program or the ITP, which is an amazing NIH-funded program that tests molecules that are believed to have a shot at enhancing longevity. It does so in a really, really rigorous way, probably the most rigorous way we can test small animals.
+
+I’ve interviewed Rich Miller as well, probably one of my five favorite podcasts in terms of nerding out on all of the molecules that can potentially impact longevity. Rapamycin was in many ways the poster child for the ITP program, because first of all, it’s hard to get anything to live longer. Second of all, when they were making the formulation for the rapamycin to feed the mice — and these were very special mice, these were not your typical crappy lab mice that have no bearing whatsoever to real animals.
+
+These are a very special type of mice that are much more akin to real animals. That’s a very important distinction between what happens in 99 percent of mouse research, which is almost inapplicable to humans. It’s why so many drugs that get tested in these B6 mice and things like that show some marker of success and they become wild failures beyond the mice. This was different. They had trouble getting the formulation to work and by the time they finally did, the mice were like 20 months old, which means they’re almost at the end of their life.
+
+They’re like 70-year-old, 65-year-old mice. They contemplated just scrapping the experiment, but they were like, “Eh, screw it. Let’s just run it late.” They started feeding the treatment group with rapamycin and the placebo group get to continue eating their regular chow.
+
+Tim Ferriss: I guess it was oral administration.
+
+Peter Attia: Yes. The rapamycin was mixed into their chow, and lo and behold, the rapamycin group, despite initiating treatment so late in life, had a staggering improvement in lifespan. There’s been so many ITPs that have replicated this. I don’t want to misquote it, but something to the effect of like a 17 or 19 percent improvement in the males — or in the females, and 11 to 12 percent in the males.
+
+Remember, the ITP use a very rigorous way of assessing this, which is they’re taking a look at total life, not just remaining life. It’s an even higher bar to clear how much lifespan elongation happens. They, of course, immediately went and repeated the study, administering the dose when they were younger, and saw an even greater response. This has been repeated over and over and over again.
+
+To my knowledge, there is not a single animal study that has tested this hypothesis that has not found this result.
+
+Tim Ferriss: Oh, that’s wild.
+
+Peter Attia: Which, again, is very unusual.
+
+Tim Ferriss: Yeah. It’s just replicated over and over and over and over.
+
+Peter Attia: It’s replicated nonstop. What is also interesting is when looking at other markers, other interesting things, such as vision and hearing and other markers of healthspan, we continue to see improvements in these things for animals as well. As I think we even spoke about before, a guy named Matt Kaeberlein, who I just interviewed for a second time for the podcast, has been studying this in companion dogs and looking at heart function because as you know, basically two things kill companion dogs, primarily: heart failure and cancer.
+
+The question is, what would you be able to do to mitigate, especially heart failure, congestive heart failure in dogs? Especially large dogs, which are more susceptible to this. Again, the results, though the research is limited because there’s not an enormous interest in funding this research, and it’s expensive to fund research in dogs that live so long, it’s all pointing in the same direction. When you contrast metformin and rapamycin, you have the opposite thing, right?
+
+In metformin, we have tons of human data that are not randomized, but are suggesting, in cohorts, that metformin is also protective, but in a subset of people that have diabetes. It’s not as clear how protective metformin will be in people that do not. In the ITP, metformin did not succeed. In other words, metformin did not extend life in the mice when given alone.
+
+When it was given with rapamycin, it did, but you could argue that was all the rapamycin. I’m more bullish on rapa simply because I’ve been taking it now for three years. Outside of — 
+
+Tim Ferriss: You can hear dog whistles.
+
+Peter Attia: Outside of the aphthous ulcers, which are the most annoying side effect of them, those are those little — 
+
+Tim Ferriss: That is the mouth ulcer?
+
+Peter Attia: Yeah. The little mouth sores you get.
+
+Tim Ferriss: Like a canker sore?
+
+Peter Attia: Yep.
+
+Tim Ferriss: Yeah.
+
+Peter Attia: Which I don’t get them de nouveau, but if one of my kids headbutts me, which they do at an alarming frequency, and if I break a piece of my gum, it’s going to be an aphthous ulcer. Although — 
+
+Tim Ferriss: What is it called again?
+
+Peter Attia: Aphthous ulcer.
+
+Tim Ferriss: Aphthous?
+
+Peter Attia: Yeah. A-P-H-T-H-O-U-S. Yeah.
+
+Tim Ferriss: Yeah.
+
+Peter Attia: Nasty.
+
+Tim Ferriss: Nasty. It doesn’t sound fun. Is that the only documented — in healthy normals? I don’t know who would fund this research if anyone would, or I guess I don’t even know what the measurements, the metrics would be but — 
+
+Peter Attia: Well, that gets to the problem. We don’t have a meaningful biomarker of aging. I mean, that’s full stop the biggest problem in aging research today. Like hands down, nothing else matters. When you don’t have a really good biomarker for aging, we’re sitting around twiddling our thumbs, pontificating, doing studies that look at things that aren’t that interesting or things that are interesting, but are like first order, second order. We can’t see the whole polynomial, right?
+
+Like if you think back to like what a Taylor series is in calculus, if you’re trying to use a polynomial to estimate sin X, the first order term is X equals Y. That’s interesting for about that much, but when you really want to know X minus X cubed over three factorial plus X to the five or five factorial, when you want to really start figuring out the shape of this thing, you’re just going to need better tools.
+
+Tim Ferriss: As we’re talking about rapamycin, I think naturally a lot of people listening will think of lifespan. It’s a term they’re more familiar with, right?
+
+Peter Attia: Yep.
+
+Tim Ferriss: Start to finish. What are you clocking in in terms of years? Then there’s healthspan. I took a note, as I always take notes during these conversations about the vision and the hearing. I’m 40 — what am I? I guess my memory is also going. 43 and recently had a — not quite an audiology test. I mean, it was quite basic hearing test done, and seemed to have some minor hearing loss in the higher ranges on one side.
+
+Could have been some of the ambient noise in the room. I don’t know. I’d like to try to replicate it, but could one make a compelling argument that rapamycin could improve restoring that type of hearing, or is that too much of a stretch?
+
+Peter Attia: No. It’s just too soon to say. I think it’s certainly plausible, but I think it’s too early to say. I mean, we’ve seen that in animals now. We’ve seen that in animals, but I don’t know if that’s going to translate to humans.
+
+Tim Ferriss: Has that been seen in multiple species?
+
+Peter Attia: I’ve only seen it in mice.
+
+Tim Ferriss: In mice.
+
+Peter Attia: Yeah.
+
+Tim Ferriss: These are the feral mice versus the like Holstein cows of mice?
+
+Peter Attia: To be honest with you, I don’t remember what mice were used in that study, but it’s quite possible they were your garden variety, genetically not so interesting mice. Yeah.
+
+Tim Ferriss: Got it.
+
+Peter Attia: I think you’ve hinted at, or outright identified a big challenge, which is, how do you study a drug in healthy people? By the way, a drug that has a little bit of a bad rap, right? Immune-suppressing drugs don’t have people very excited. Until Christmas Day, 2014, or Christmas Eve day, I didn’t think of this as very interesting. In 2011, you have the first ITP published and it’s like, “Wow, that’s cool, but I used to give this to kidney transplant patients. I’m not taking that.”
+
+Then you had Joan Mannick, who was the lead author on a study that came out at the end of 2014, that looked at a rapamycin derivative called everolimus. It was given to 65-year-olds in the following fashion. There were four groups, a group that was given a placebo, a group that was given one milligram every day, a group that was given five milligrams once a week, and a group that was given 20 milligrams once a week. They were given this for a period of eight weeks, I believe.
+
+Then they were taken off everything for another period of, I believe, six weeks and then they were challenged with a flu vaccine and then looked to see who mounted the best immune response. Counter to what you would expect, the people on rapamycin developed a better immune response, which flew entirely in the face of what one would have expected. The group getting five milligrams once a week was in the best. They had the best response and the fewest side effects.
+
+The 20 — we probably don’t want to go down this path because it’s just more complicated. There are two complexes of mTOR. There’s this — we’ve got to talk about mTOR. How does rapamycin work? Right? It works by inhibiting something called mTOR, the mechanistic target of rapamycin.
+
+Tim Ferriss: We could also refer people to our conversation with David Sabatini.
+
+Peter Attia: Absolutely. Back on Easter Island.
+
+Tim Ferriss: Back on Easter Island. Long story short, there was a trip, it may or may not have involved some wine, to Rapa Nui, to Easter Island, and one of our trip mates was David Sabatini, who, cue Peter.
+
+Peter Attia: Was the first person to identify how rapamycin worked in mammals.
+
+Tim Ferriss: Yeah. We talk about that quite a bit in that episode. I think let’s refer people to — if you just search Tim Ferriss Show Easter Island, I can’t imagine there are many results. You will see an amazing crow arm displayed by another one of our trip mates, which happens to just be an artifact from a weird panoramic shot. We did use that photo just to shave his nuts a bit. Let’s see — 
+
+Peter Attia: Yeah. Let’s just wrap that up by saying that the five-milligram dose seemed to be the sweet spot once a week. It produced all the benefit without the side effects. 20 produced a similar benefit, but had too many side effects.
+
+Tim Ferriss: Do you no longer take metformin?
+
+Peter Attia: I do not.
+
+Tim Ferriss: Interesting. What were some of — I know you referred to, what was his last name? Matt?
+
+Peter Attia: Kaeberlein.
+
+Tim Ferriss: Maybe it wasn’t Matt. Matt Kaeberlein I know. Something Miller.
+
+Peter Attia: Oh, Rich Miller.
+
+Tim Ferriss: Rich Miller. What are some of the other candidates that are most interesting to you in terms of pharmacological interventions that might extend lifespan or healthspan?
+
+Peter Attia: There were several others that were found to have significant lifespan enhancement repeatedly. One is acarbose, which is a favorite of our mutual friend, Kevin Rose. Acarbose was introduced by — the way the ITPs work is really cool, anybody can suggest a compound. It’s like a crowdsourcing thing where you can decide like, “I want to know if this molecule has a benefit.” As long as you can write the proposal, which contains the rationale for why, if they buy it, they’re going to study it.
+
+Acarbose was suggested because the idea is acarbose prevents the absorption of starch. If you eat a pizza, you can have half of it leave your body basically without being absorbed.
+
+Tim Ferriss: Still, footnote for Kevin: I think the ratio of donuts and beer to acarbose does matter probably at some point.
+
+Peter Attia: Oh, sure. Yeah. Yeah. Yeah. You can only take so much acarbose. I mean, it is a little hard on your gut because it’s in the gut that it’s preventing the absorption. The thinking was, well, acarbose, if it’s eliminating a reasonable fraction of your glucose, is going to be a caloric restriction mimetic, or a CRM as they call them. Let’s see if that works. It turned out acarbose did work, but interestingly, the animals who lived longer weren’t any lighter and didn’t have any lower levels of average glucose than their shorter-lived counterparts.
+
+Whatever acarbose was doing to extend life, it wasn’t through making you eat less or making you weigh less, or making you even have a lower hemoglobin A1C. It almost assuredly worked by the only other thing it did, which was lower the spikes and peaks of glucose. It blunted those. It spreads out the speed with which glucose is hitting you, but lowers the spikes.
+
+Tim Ferriss: Are you more bullish on acarbose than metformin?
+
+Peter Attia: No. I don’t think so. I would still probably put metformin as a more interesting agent. I mean, acarbose, first of all, is just not an easy agent to take. I mean, unless you like diarrhea. For those — 
+
+Tim Ferriss: Maybe giardia is also a caloric restriction mimetic.
+
+Peter Attia: Honestly — 
+
+Tim Ferriss: Just your monthly dose of typhoid fever.
+
+Peter Attia: Yeah. Yeah. Exactly. Right. I’m just one giardia about away from goal weight. I’m still more optimistic about metformin, but also metformin is more of a mystery. In fact, our other mutual friend from Easter Island, Nav Chandel, this is one of the things that he works on extensively.
+
+Tim Ferriss: Mr. Crow arms.
+
+Peter Attia: Yeah. I’ll be having Nav back on the podcast, probably in early ’22 — 
+
+Tim Ferriss: Nav is fantastic.
+
+Peter Attia:  — when there’s some killer work that he’s doing on the mechanisms of metformin.
+
+Tim Ferriss: Cool.
+
+Peter Attia: We’ll dive back into that. There is another drug that I think is super exciting that was recently published in the ITP called canagliflozin.
+
+Tim Ferriss: Canagliflozin.
+
+Peter Attia: Canagliflozin. Spelled actually as it sounds with a C. It is a class of drug known as an SGLT2 inhibitor.
+
+Tim Ferriss: Rolls off the tongue.
+
+Peter Attia: Yeah. The SGLT2 I. It works in the kidney. It’s a more elegant version of acarbose working in the kidney. The kidney is kind of a cute organ. Cute in that it’s really smart, right? I think evolution figured out that it would be too difficult to know all the things that are bad for you, but it’s really easy to know all the things that are good for you. The way the kidney works is it gets obviously a staggering amount of your circulation. Like 25 percent of your cardiac output is passing through your kidneys with every time your heart pumps.
+
+The first pass of the kidney is to take everything in your blood and dump it out. It’s sort of like saying, “I’m going to clean my drawers by throwing everything on the floor, and then only putting back in my drawers the things that I want.” Because again, it’s easier to know you need glucose, you need potassium, you need magnesium, you need sodium, dah, dah, dah, as opposed to this toxin that might appear a hundred years from now or a million years from now.
+
+In the reabsorption process, Canagliflozin blocks the reuptake of glucose. You end up peeing out a lot of glucose. This drug obviously was introduced to treat people with type two diabetes and it showed remarkable efficacy in doing that.
+
+Tim Ferriss: In a healthy subject, you would be presenting the sort of traditional old-fashioned symptoms of diabetes in a sense?
+
+Peter Attia: Yeah. Although not quite to the same extent because it’s sort of gradient-driven. In the traditional Osler sense where literally diagnoses of diabetes was made by tasting the urine and seeing how sweet it was, those were patients that were presenting with wildly uncontrolled diabetes with a glucose of like 800 milligrams per deciliter. They’re about to have a coma.
+
+Tim Ferriss: I first learned what diabetes was when I was in Japan as an exchange student and its tōnyō-byō, which is sugar urine disease. It’s really obvious in the characters. I have no idea what — diabetes. I heard it on the oatmeal commercials.
+
+Peter Attia: Which is interesting because I’m guessing nobody in Japan actually has diabetes.
+
+Tim Ferriss: Yeah. Increased — 
+
+Peter Attia: Today, today.
+
+Tim Ferriss: Yeah. Today, when you have people eating rice with mayonnaise.
+
+Peter Attia: Yeah. Slightly more. When you were there, yeah, there were like five people with diabetes.
+
+Tim Ferriss: Yeah. Yeah. Very few.
+
+Peter Attia: Canagliflozin mimics — or basically blunts this reabsorption of glucose. Very successful drug for the treatment of diabetes and also in people with diabetes is showing better effects when it comes to heart failure, better effects when it comes to mortality. This is really in my opinion, a first-line drug for any patient with diabetes, and it does not cause hypoglycemia.
+
+If a normal person takes it, they’re not going to have a dangerous drop in blood sugar. It is also blunting the spikes, but it also seems to lower the average as well. Canagliflozin extended the lives of mice in the ITP. I don’t remember the exact numbers. It wasn’t quite — 
+
+Tim Ferriss: Were these diabetic or sort of — 
+
+Peter Attia: No.
+
+Tim Ferriss: No.
+
+Peter Attia: No.
+
+Tim Ferriss: They were not.
+
+Peter Attia: These were perfectly normal mice. It wasn’t as big an effect as rapamycin, but it was bigger than most other things. There haven’t been that many successes in the ITP, obviously most drugs fail, but the success is like rapamycin, 17α-estradiol, canagliflozin, acarbose. Those are some of the big successes. Of course, they get tested over and over again to make sure they weren’t a one-hit wonder.
+
+Tim Ferriss: What was the 17 something other that you just mentioned?
+
+Peter Attia: 17α-estradiol, was a very interesting molecule.
+
+Tim Ferriss: Oh, 17α-estradiol.
+
+Peter Attia: Which is not the estrogen. It’s not normal estrogen, which is β-estradiol. 17α-estradiol only improved lifespan of male mice. It had no impact on female mice. The thinking being that it somewhat mimicked the estrogen protection benefits in a male, but not in a female because they already had estrogen.
+
+Tim Ferriss: Yeah. That’s super interesting.
+
+Peter Attia: Yeah. That’s not a molecule that to my knowledge is even in clinical trials. I don’t even know if there’s an IND for that molecule, that it’s even — I don’t know what pharma is doing with that information.
+
+Tim Ferriss: How did that get submitted for the ITP?
+
+Peter Attia: Yeah. It’s funny. I asked Rich about that — 
+
+Tim Ferriss: Some just backyard chemist who’s like, “Hey, guys — 
+
+Peter Attia: Yeah. It was — 
+
+Tim Ferriss: — I inherited a bunch of oil money. Here, I want you to make this.”
+
+Peter Attia: No. It was effectively someone who had been studying this molecule and thought like, “I wonder if this would be interesting for the hypothesized mechanism that it would offer some of the protective benefits of estrogen without the feminizing effects.” Right? 
+
+So it doesn’t have the sexual characteristics of estrogen. So the question is, because if you gave a male a whole bunch of estrogen, you’re not going to make them live longer because whatever benefits come from it are going to be offset by a bunch of negatives.
+
+Tim Ferriss: Just to scratch my own itch and curiosity here, can someone with enough money just push whatever they want through the ITP to get something tested, or what combination of factors leads someone to be able to take a candidate or something they think is promising, like a 17α?
+
+Peter Attia: It’s not about money. I think honestly, it’s just about having the time. There’s a candidate drug that I’d like to put on and I just haven’t had the time to write a proposal. So maybe in a couple of years, when I finish the book and a few other projects.
+
+Tim Ferriss: In all your spare time?
+
+Peter Attia: Yeah. There is a candidate that I think would be interesting. So no, it’s just having a good scientific case for it.
+
+Tim Ferriss: That’s fascinating.
+
+Should we do some stupidity? I think, absurd things. Anything particularly ridiculous that you’re doing these days or enjoying?
+
+Peter Attia: I mean there are so many. I think with the lockdown, with the whole COVID thing, I’ve never spent more time at home and it’s been amazing. Like it’s been a dream come true. It’s just like take the most antisocial person in the world and allow him to never have to go out. That’s been, I think, really great for my family on some levels, but also it meant they’ve had to put up with more of my stupid jokes and just the dumb things that I think about. So one of the things that I have been really harping on and it just drives my wife nuts is, you know when you eat a banana, at the very bottom, there’s that little nubbin?
+
+Tim Ferriss: Yes.
+
+Peter Attia: You know the little part? So I am convinced that the nubbin is lethal. Like if you eat a nubbin, you’re going to die.
+
+And so all I do, I’m the nubbin police of our house. Because a lot of times, you know how you can never finish bananas? Like you buy them. You buy like 10 and you might eat three, but then seven are going to go bad. So we peel the bad ones and put them in the freezer to make smoothies later on. Because we always add frozen fruit to make my protein shakes or whatever. And when I do it, I’m really careful to never put the nubbin in. Like I peel it, but I keep the nubbin in the peel and it goes in the trash. But when my wife does it, she just leaves the nubbin in.
+
+Tim Ferriss: Nubbins everywhere.
+
+Peter Attia: So I’m like, of course I don’t care, but I act like I care. And I’m like, “Babe, are you serious? Like, you got nubbin in here. Like, there’s people in the house. They could eat this. Do you understand? Like, the nubbin is like, literally the third leading cause of death worldwide. Not in the developed world. Here, it’s like the fifth leading cause of death. But when you average it out across the globe, third leading cause of death. Nub-itis.” And it just doesn’t get old to me. I think the more it bugs her, the funnier it is to me, and the same with my daughter, like just endless eye rolls. They don’t buy it. They really think, they claim, that you can eat a nubbin and nothing will happen to you.
+
+Tim Ferriss: Depends on your Topo Chico-to-nubbin ratio in the house. I think you’re pretty heavily weighted in the former. All right. What else do we have on any of the three categories really? If there’s something that jumps out where you’re like, this is really, for any reason pulling my attention.
+
+Peter Attia: Let me look at my list here and see what else. Oh, I know something else I’ve changed my mind on. I’m way, way, way more bullish on sauna than I have been before. I used to be in the camp of sauna feels great. It maybe even helps you sleep a bit better, but that’s probably about it. There’s no way you’re going to really live longer because you’re in a sauna. And while truthfully, we don’t have good randomized data. I think this is one of those things where the burden of evidence in the non-randomized data is so strong, it’s becoming hard to ignore. So most of the research in this subject has come out of Finland.
+
+Tim Ferriss: — the sauna lobbyists.
+
+Peter Attia: So there’s the obvious issues with this, right? The people who can afford to sauna are, by definition, going to have more time on their hands, more disposable income, probably more education, like all of the standard things on top of that. If you’re going to choose to sauna because you believe it’s healthy, what else are you doing because you believe it is healthy? If the data showed that sauna versus non-sauna was like a five percent improvement in mortality, it would be hard to get that excited about it. But when you look at the largest published series on this, you see a benefit in all-cause mortality, a relative risk reduction of 40 percent, and an absolute risk reduction of like 18 percent.
+
+Tim Ferriss: Those are high numbers.
+
+Peter Attia: Those are ridiculous numbers. And that’s when you are comparing someone who saunas four to seven times a week.
+
+Tim Ferriss: I was going to ask you what’s the dosing frequency and what do you believe the minimum effective dose to be — like the zone two training you described what it is and then you said — 
+
+Peter Attia: Yeah. Just to get to the punchline. I think based on the research, the MED is four sessions, 20 minutes, 80 degrees Celsius.
+
+Tim Ferriss: Four sessions times 20 minutes at 80 degrees Celsius. Fahrenheit. What’s the conversion there?
+
+Peter Attia: It’s about 175 Fahrenheit,
+
+Tim Ferriss: 175 Fahrenheit. Got it. Dry? Wet?
+
+Peter Attia: There’s much more literature on dry. I actually had a call with a patient this morning and this topic of saunas came up and she asked if she could substitute steam rooms and such. I said we just don’t know because we don’t have the data. So the precautionary principle would say, if you have access to a dry sauna, that’s where we have reams and reams and reams of data. So it’s probably where it goes. But look, if you think about what the mechanism of action is — 
+
+Tim Ferriss: I was going to ask you next, is it heat shock proteins? Is it something else?
+
+Peter Attia: I think it’s many things. I think it’s heat shock proteins. I think that it’s nitric oxide. I think it’s literally vascular tone, right? Reduction in blood pressure. It’s an increase in heart rate and cardiac output. So there’s a bit of an exercise benefit. I don’t know if BDNF has been measured. I can’t recall. That could be another potential benefit. So my guess is — 
+
+Tim Ferriss: BDNF. Brain-Derived Neurotrophic Factor.
+
+Peter Attia: I think it’s probably half a dozen things that are all moving in the right direction. It’s funny when I have done some sauna-ing, I’ve done lactate checks in there to see if it gets me to zone two. It’s not, so it’s not a pure exercise mimetic because it doesn’t get me to the level of a zone two workout. At least when it comes to a pure ATP uptake or ATP production standpoint. But yeah, I’ve become really optimistic on this. I think it’s very promising and the challenge is how scalable is it? Right? It’s not that easy to do.
+
+Tim Ferriss: I would imagine also contra-indicated for a lot of folks.
+
+Peter Attia: Yeah. I suspect if you’re really far down the line of your health is suffering and you’re particularly old or something like that, or your heart’s a little more frail, this would push you a little bit beyond. So again, it speaks to sort of prevention and, hopefully with COVID kind of winding its way down and enough people getting vaccinated, people can get back to gyms where saunas are and things like that.
+
+Tim Ferriss: Amazing. Preferred method for zone two training? Seems like you do most of your work on a bike?
+
+Peter Attia: I do. I like the bike. It’s just, my body is so much more efficient on a bike than anything else.
+
+Tim Ferriss: Do you have a preferred stationary bike?
+
+Peter Attia: I do. I ride my bike, like my road bike on something called a Wahoo Kickr, which is awesome. Hands down.
+
+Tim Ferriss: If someone doesn’t have a road bike?
+
+Peter Attia: Then my favorite stationary bike is the Keiser. K-E-I-S-E-R, I believe. All right. And I think Keiser makes such a fantastic spin bike.
+
+Tim Ferriss: Do you want to do one more change your mind about or one more excited? You can dealer’s choice.
+
+Peter Attia: I’m pretty excited about GLP-1 agonists.
+
+Tim Ferriss: Me too. I don’t even know what that means. Tell me, Peter.
+
+Peter Attia: GLP-1 agonist: glucagon-like peptide one. They also go by GLP-1 RAs. So glucagon-like peptide one receptor agonists. Okay. So glucagon is a hormone. It’s made by the liver. Sort of opposes the action of insulin. It’s a hormone that produces satiety and can regulate blood glucose levels.
+
+Tim Ferriss: Regulate meaning it’s catabolic?
+
+Peter Attia: Lowers blood glucose. It secretes insulin, actually. It results in secretion of insulin to lower blood glucose. So these are a group of drugs that have been around for quite some time. Also kind of a high choice in people with type two diabetes. A trial came out, I want to say 2014 showing that one of these drugs was actually also pretty good for weight loss in non-diabetics. It didn’t get a lot of traction. The effects size was reasonable, but it wasn’t great. I looked at it quite a bit because I remember at the time I had a patient whose weight was really recalcitrant.
+
+It just wasn’t clear what it was going to help her lose weight. And I certainly am not a fan of stimulants for weight loss. Drugs like phentermine can be somewhat effective, but they can also have their side effects and be somewhat habit-forming. And we had sort of noodled this and eventually we ended up trying this drug. It didn’t really have that much of an effect. And I kind of sort of put it aside for a while until about six or seven months ago, I was talking to someone who had an early line of sight into a trial that was going to be published. And they said they’d been using it clinically, a newer version of his drug. It’s called semaglutide; the trade name is Ozempic. They said “You’ve got to see what this drug can do.” So the drug, the dose that’s given for people with diabetes, is one milligram once a week. So it’s an injectable drug. So it comes in a little pen. You shoot it in your gut or your leg once a week.
+
+Tim Ferriss: One millimeter muscular or subcutaneous?
+
+Peter Attia: A tiny, little insulin syringe. He said “Yeah, when we push people up to two and a half milligrams, the weight loss is comical.” This is not just people with diabetes. This is anybody. And then sure enough, there was a study that was published probably a couple of months ago, looking at semaglutide in overweight and obese people without diabetes. And the weight loss was through the moon. I mean, it was like 20 percent weight loss.
+
+Tim Ferriss: Holy shit.
+
+Peter Attia: Completely durable as long as you’re on the drug. So then it begs the question, what happens when you come off the drug? We haven’t seen fully what that looks like yet. I mean, I think we need to see what those studies look like. I mean, my thinking of this we’ve now put a lot of patients on this drug. A lot is relative, but maybe 12, 15 patients we’ve put on this drug. Some people can’t tolerate it because of the nausea. I mean, that’s definitely one of the side effects.
+
+Tim Ferriss: And how often is it administered?
+
+Peter Attia: Once a week.
+
+Tim Ferriss: Once a week? Is the nausea transient?
+
+Peter Attia: It tends to fluctuate how far you are. So if you inject it on a Sunday, usually by the next Saturday, the symptoms are gone, but then when you hit yourself on that Sunday, Sunday, Monday, Tuesday, you’ll be a bit more nauseous. Now, again, that’s so it’s transient across the week, but it also seems to be transient over time. So the dose in this study was 2.4 milligrams. So, you know, two and a half times higher than you’re doing it in people with type two diabetes, but you don’t start people at that dose. You’ll start them at half a milligram for a few weeks, then one milligram, then one and a half, then two, et cetera. But basically, we haven’t seen any patient who can tolerate the drug that does not lose weight.
+
+Tim Ferriss: Have any cycled off? I mean, obviously, behavior matters a lot, and calories matter a lot, but do you see a greater balance than you would anticipate otherwise?
+
+Peter Attia: They don’t seem to regain all the weight they lost. Now my biggest concern, and I was so fascinated by this before the study came out. We actually did a whole journal club just on this study and went stupidly nerdy on this drug. The biggest concern I would have is a drug that lowers glucose, but raises insulin, such a good idea? Also, it flies in the face of how you would lose weight in that situation. Right? It seems to not be entirely clear. Why would that result in weight loss? Unless the increase in insulin, along with the glucagon-like peptide are reducing appetite. But what we’ve discovered in experimenting with a lot of our patients by experimenting, I mean, just doing a lot of blood tests before and after is, while it probably slightly increases your fasting insulin level, it’s also clearly increasing muscle insulin sensitivity because postprandial insulin levels seem to be down.
+
+And I would bet though it was not done in this study — 
+
+Tim Ferriss: Postprandial, meaning post-meal. 
+
+Peter Attia: After meal. I would bet that if they had looked at 24-hour insulin secretion, which you can do by collecting 24 hours of urine and measuring C-peptide, which exists in a one-to-one ratio with insulin because when insulin comes out, it’s a pro-hormone and then it gets cleaved into insulin and C-peptide so you should have one C-peptide for every insulin. So if you measure the urinary amount of C-peptide, you know how much insulin was secreted. I’m really disappointed that study didn’t do that. But my guess would be that they saw 24-hour C-peptide go down even as resting insulin went up.
+
+Tim Ferriss: Okay. Which would mean, and well, please, correct me if I’m oversimplifying this, but that on, if you look at the average, it is not net net leading you to increased insulin levels.
+
+Peter Attia: That’s right.
+
+Tim Ferriss: Yeah. That’s so interesting. And when you say 20 percent reductions, are we talking about body fat or body weight?
+
+Peter Attia: Body weight.
+
+Tim Ferriss: Wow. Total body weight. 
+
+Peter Attia: And that’s easy. You’ll see more.
+
+Tim Ferriss: These are obese people?
+
+Peter Attia: Yeah. We’ve even put it — we’ve even had patients who are not even, wouldn’t be classified as obese, just slightly overweight. A 200-pound person that in three months is 180 pounds and effortlessly at 180 pounds. Right. Like they’ve literally reduced their appetite and they’ve improved their insulin sensitivity and glucose disposal.
+
+Tim Ferriss: And that’s where other interventions failed? I know we’re not blinding this or anything with patients, but you don’t think — you attribute that predominantly to this drug, not to say, changes in eating or other habits?
+
+Peter Attia: Well, they have changed their eating, but I think it’s in response to the drug. So I think the drug is working centrally, peripherally. I think it’s working on the fat cells. I think it’s working on their brain. I think it’s working on their muscles. I think it’s doing a lot of things and it’s still early days, but I mean, this is a promising drug in my opinion. I think there’s some people who think that you shouldn’t need a drug to help you. If you need a drug to lose weight, you’re somehow a bad person or something like that. But I just think categorically, that’s just such a simple-minded view of the world, right? We live in a world with technology, and just as you don’t rub two sticks together when you want to have a fire if a Zippo lighter’s available to you,
+
+if you have tried every dietary strategy imaginable and your metabolism is not moving in the right direction, why shouldn’t we explore other ways to kickstart that? And the other thing is I think you can take these things for a few months, come off them, and see if you have formed new habits in the interim. I also think there’ll be, in my mind, a model for cycling three months on, three months off, three months on, three months off. Again, we want to make sure that that doesn’t cause some recalcitrance to the medication or something like that. But I think this is exciting. I think this warrants a lot more follow-up, but what it’s saying is that things that improve diabetes also improve health and nothing does that more than exercise and nutrition. That’s the reality of it, but not everybody can do enough exercise and the right nutrition with enough ease to get the benefits. So the more tools we have in our toolkit that go outside of that, the better.
+
+Tim Ferriss: Dig it. Peter, always so fun to hang. And I want to underscore to me how exciting and interesting it is for people listening to strive to increase their scientific literacy. And you have your series of articles, which we’ll put in the show notes. There’s a book that I enjoy tremendously called Bad Science by Ben Goldacre, who I believe is an MD, and enjoyed that so much that had a few excerpts from that book put into the appendix or the appendices of 4-Hour Body, because I wanted to provide some basics. Are there any other resources or recommendations for folks who want to improve their ability to separate fact from fiction, hype from reality, when it comes to headlines, media, studies, and so on? I mean not to get to Peter Attia level, but to get to the point where they just have a better ability to separate signal from noise with this kind of thing?
+
+Peter Attia: You know, there’s a good newsletter that I subscribe to out of the University of Indiana. It’s called Metabolomics and Energetics or Metabolism and Energetics [or possibly Obesity and Energetics Offerings]. It’s like a weekly newsletter that comes out on Fridays and it’s pretty detailed, but one of the sections is always Headline vs. Study. And that’s always a cute one because every week you get to see, they just pick one example because of course there’s a billion examples every week of how the headline says something and it turns out to have nothing in common with this study. Now that’s not exactly the question you’ve asked, but it is a good illustration of just how basically, just because if you read something in the media, you should just assume it’s being taken out of context and it’s incorrect. And unfortunately, I wish I had better answers on — 
+
+Tim Ferriss: Well, it would be like if you saw a headline that said Eating Nubbins Increases Risk of Colon-Rectal Cancer by 100 Percent. But if the chance is one in 10 billion people, and it goes to two in 10 billion people, it doesn’t mean you should pay attention to it. Not to discredit your nubbin theory.
+
+Peter Attia: That’s a great example of always knowing absolute risk versus relative risk. It’s exactly like the kind of stuff we talk about in Studying Studies is never pay attention to relative risk without knowing absolute risk as well. And things like that.
+
+Tim Ferriss: Peter, I think it might be time for us to prepare for our prandial adventure. That’s probably not the way you use it. To have our meal, to have our —
+
+Peter Attia: Our preprandial exploration.
+
+Tim Ferriss: — our preprandial exploration of various, various cacti. Is agave considered a cacti, or I guess what is mezcal actually made from, is it agave? I know it’s like a campfire in your mouth, but that doesn’t tell us much about the botanical origins. I know sotol is different. Have you had sotol, as a side note? It’s a plant or I should say also it’s a beverage. Maybe it doesn’t apply, but it’s only found in a few parts of Texas and Mexico and it’s sort of in-between tequila and mezcal.
+
+Peter Attia: Speaking of Texas, can I tell you the only thing so far about Texas I’m not fond of?
+
+Tim Ferriss: Scorpions in your kitchen?
+
+Peter Attia: I’ve only found six.
+
+Tim Ferriss: That was this morning in my household. We took care of it. It was fine.
+
+Peter Attia: It’s the cactuses when I’m out in the Bush. So when I was out —
+
+Tim Ferriss: What are you doing out in the Bush?
+
+Peter Attia: Well, when I was out doing that precision shooting a couple of months ago, they were like — 
+
+Tim Ferriss: Training for your counter-sniper operations?
+
+Peter Attia: That’s right. So we had like mats down on the ground and we’re laying on our mats and we’re shooting off into the distance. And I vaguely remember someone saying, “Stay on your mat.”
+
+Tim Ferriss: Oh, God.
+
+Peter Attia: And so at one point I’m like loading my magazine and I kind of rolled off the mat and loaded it and was shooting. And then that day we’re driving home and I’m like, God, why does my butt hurt so much? And why does my leg hurt so much? And you know, by the time I got home, I realized I was just full of these little microneedles.
+
+This is how you know your wife really loves you, because I had to give her a set of tweezers to literally start yanking these needles out of my butt and my leg. And I actually still have some there, three months later. I can still feel some of the ones that broke beneath it. And so I’m going on this hunt in about three weeks. And it’s my first time hunting axis deer here in Texas. And one of the things that the guide who’s taking me said is “You’ve got to make sure your shoes — like the cactuses won’t go through your boots.”
+
+Tim Ferriss: So you’re not going to wear your ninja socks for this one?
+
+Peter Attia: Yeah. No, this will not be a barefoot hunt.
+
+But aside from the cactuses, man.
+
+Tim Ferriss: Yeah. All good in the Republic of Texas. I have a shirt, maybe I’ll get you one of these. You might’ve seen it. It says — has a big flag, Texan flag on it. And it says “Most likely to secede.” They sell those at the airport in Austin, for those who were interested. Peter, off to dinner we go. Thanks again. Is there anything that you would like to mention before we close? Of course, people can find you, peterattiamd will basically take them to everything, I would imagine. That’s the website. That’s Twitter; it’s Instagram; that’s Facebook, also YouTube. So you’ve been very consistent with how people can reach you. The podcast is The Drive, which as mentioned is a weekly, deep-dive podcast focusing on all of the nerdy subjects that I find so fascinating. That Peter and his guests know so much about. Anything you’d like to add to that?
+
+Peter Attia: I mean, I would just say that some decaffeinated brands of coffee are just as tasty as the real thing. You know what that reference is? What movie is that from?
+
+Tim Ferriss: I don’t get the reference. What is that?
+
+Peter Attia: Is that Real Genius? I think it’s Real Genius.
+
+Tim Ferriss: Oh, is that Real Genius? I’ll give you a bit of Austin trivia. We’re going all over the show here, but there is a food truck here in Austin, which I had been told by a former professional tennis player I had to try and had the best chicken wings. And for me, the chicken wings in general are kind of like the pistachios of the fowl family. They’re just so much work and you just don’t get much out of it. Turns out Tommy Want Wingy, which is the name of this food truck, has incredible chicken wings. They’re delicious. I don’t know what anabolics they give these chickens, but they’re enormous. You can have a full meal at Tommy Want Wingy.
+
+Peter Attia: Where’s he park?
+
+Tim Ferriss: Tommy Want Wingy. He’s actually at, I think it’s Cosmic Cafe. They may have multiple locations. Do you know what reference Tommy Want Wingy is from?
+
+Peter Attia: Well, it’s not “The Donger need food.” That’s from Sixteen Candles.
+
+Tim Ferriss: Tommy Boy, Chris Farley, “Tommy want wingy,” the diner scene.
+
+Peter Attia: It’s funny. I’ve seen that movie a hundred times. How have I missed that?
+
+Tim Ferriss: Yeah. Where he’s talking about his, his sales process and he convinces them, to the waitress to fire up the kitchen after they’ve closed and he grabs, I think it’s like a muffin and he’s like, “Let’s say it’s my prospect.” And he walks through this entire thing. We’ll link. We’ll link to this video in the show notes. So that for us, for people who want us to get Chris Farley plus zone two training, plus rapamycin in one place. This is probably the only site on the internet that will have all of those in one set of show notes. And Peter, thanks for taking the time, man.
+
+Peter Attia: Thanks. Man.
+
+### ZONE 2 SEGMENT ###
+
+Tim Ferriss: So, does that training fall into the aerobic efficiency category?
+
+Peter Attia: Yes, exactly.
+
+Tim Ferriss: And efficiency, I don’t want to take us off of where we are too much in the sense that I don’t want to create a breakaway, but could you just briefly explain what efficiency means within the aerobic efficiency, and then come back to the zone two training?
+
+Peter Attia: Yeah. It comes down to basically substrate usage. So, in aerobic activity, you can use glucose or fat. Those are basically the two fuels that the body with oxygen can turn into ATP. So aerobic, most people will recognize, means with oxygen and anaerobic means without oxygen. So, when you’re not demanding much energy of yourself and energy, of course, we talk about as ATP. So, ATP is the currency for energy. When your body isn’t demanding much energy, you can make ATP using glucose or using fatty acids. And it’s a similar process, but obviously different because they’re different molecules.
+
+So, glucose gets turned into something called pyruvate and that happens in the cell, but outside of the mitochondria. And then, the pyruvate gets shuttled into the mitochondria where it undergoes a process, known as the electron transport chain. Where a whole bunch of chemical reactions occur that, basically, generate a gradient of electrons in the inner membrane of the mitochondria that’s ultimately used to produce carbon dioxide and water, and a boatload of ATP.
+
+With fatty acids, it’s a little different. Fatty acids get broken down into smaller chunks of fatty acids that have two carbons called acetyl-CoA and the acetyl-CoAs get fed into the mitochondria and undergo the same sort of process.
+
+So, what’s nice about that is you have the ability to use both fuels. But when energy demands start to climb, so when you are asking more of yourself, when you’re now running, or when you’re walking up a flight of stairs, or doing anything that now the body’s saying, “Hey, I need more and more ATP,” that glucose system is the first one to cave. So, the glucose system, when you turn the glucose into pyruvate, it basically says, “I don’t have enough oxygen to run this through the mitochondria to do what I need. I’m going to, instead, turn pyruvate into lactate,” which yields some ATP, but a pittance compared to what it could do. So, pyruvate into lactate will generate 1/16 the ATP that it would if it went into the Krebs cycle, which is horrible, but it’s like any port in a storm. It’s like, I don’t have a choice. As a side note, everybody tends to think that lactate is what causes the soreness when you’re doing that. It’s actually not the lactate, it’s the hydrogen ion that accompanies the lactate because lactate is acidic. So you don’t actually feel anything from the lactate. And lactate itself is actually a pretty remarkable fuel. There’s emerging evidence that the brain actually likes lactate as a fuel and the liver can turn it back into glucose pretty easily. But nevertheless, it’s inefficient, it’s a horrible way to turn your hydrocarbon into ATP, and it does come with this problem of being self-limited. So the efficiency speaks to the longer you can use the mitochondria, the better. And this zone two characteristic is really one of the most remarkable ways to separate and differentiate people with different degrees of metabolic efficiency. So Iñigo San-Millán and George Brooks did a study that I talked about at length in one of the AMAs.
+
+Tim Ferriss: Did you say Cesar Millan? No, I’m kidding. Dog trainer. What were the names again?
+
+Peter Attia: Iñigo San-Millán and George Brooks. Iñigo has been a guest on my podcast as well. They did a study looking at three cohorts of people, professional cyclists, fit people and people with type two diabetes.
+
+Tim Ferriss: Just real quick. How did they define fit?
+
+Peter Attia: I don’t remember exactly, but it would be people who exercise a certain number of hours a week who were pretty fit. These were people that were probably exercising 10 hours a week or something to that effect. So not just — 
+
+Tim Ferriss: 10 hours a week is not trivial.
+
+Peter Attia: No, not at all. And what they looked at was what were their lactate curves on a bicycle and at what point did they reach that two millimole level? And it’s just a staggering difference. So all of them would ultimately achieve high lactates, admittedly, very different powers. The fitter you are the more power you generate before you hit that peak lactate. The people with type two diabetes were reaching this critical threshold at something in the vicinity of 80 to a hundred watts. So 80 to 100 watts on a bike, if you don’t know what that feels like, it’s hard to explain what that would — 
+
+I wish I had a good conversion for what that feels like. That’s not a lot of effort. For someone who spends any time on — 
+
+Tim Ferriss: Flat ground, slight incline.
+
+Peter Attia: Yeah. Flat ground, no wind, going 13 or 14 miles an hour.
+
+Tim Ferriss: Got it.
+
+Peter Attia: Maybe less, which amounts to about 1.2 watts per kilo, because you always want to normalize these things to body weight. So 1.2 watts per kilo, one watt per kilo, in that vicinity. The reasonably well-trained person was hitting that number at closer to 150 to 170 watts, putting them pretty comfortably in about the 1.7, 1.8 watt per kilo range. So significantly higher than people with type two diabetes. And the professional cyclists were hitting that mark in the vicinity of 320 to 360 watts. And of course, they’re even lighter. So they’re hitting that number at a staggering four watts per kilo.
+
+Tim Ferriss: What was the total duration of the assessment?
+
+Peter Attia: Unlike a ramp test where you’re quickly changing, you typically do long ramps, so 15 minutes check lactate, 15 minutes check lactate or 10 minutes would be about the minimum.
+
+Tim Ferriss: Do you think those results would have looked different had the muscle groups involved been different? Had it been a hand bike or something like that? I guess I’m wondering if there’s any localized effect, just given the training of the cyclist.
+
+Peter Attia: Yeah, it’s possible. And certainly there’s an efficiency that comes from doing the thing that you’re being tested on. Typically lower body exercises are the way to do this because we have so much muscle mass there. When we have patients do their zone two, we basically recommend three things: a bike, a rowing machine, or a treadmill are probably the best ways to get that. And it doesn’t have to be running.
+
+Tim Ferriss: By to get, you mean to assess or to also train?
+
+Peter Attia: Both.
+
+Tim Ferriss: Both?
+
+Peter Attia: Yeah, because it does need to be pretty steady-state. So hiking up and down steep climbs tends to not be a great form of training for this. That’s another type of training, but when you’re coming in and out and in and out of zone two, it’s not the same as planting yourself there, staying there, and forcing your mitochondria to adapt to it.
+
+Tim Ferriss: That was actually going to be my next question. So what is the — I don’t know if structural is the right word to use here, but what is the adaptation that one hopes for? What is actually happening to the body when you do effective zone two training?
+
+Peter Attia: So you’re increasing the ability of the mitochondria to utilize the substrate. You’re increasing the ability of the muscle to actually take in more oxygen. So it’s really funny when you compare a really fit person to a really unfit person. So think about something like a VO2 max test. Everybody’s breathing the same amount of oxygen. So let’s imagine for a moment that you are the fittest guy in the world and I am not. We’re both sitting in this room, we’re both breathing in 21 percent oxygen. If you then put us on a bike and make us go as hard as possible and measure how much oxygen is coming out, you’ll notice that much less oxygen is coming out of you than me. So the difference is you’re able to use more oxygen than I am. And that is probably not mediated at the level of your lungs.
+
+That’s probably more mediated at the level of your muscles. Now, there may be some differences in the lung as well. This is not an entirely settled question, but there’s undoubtedly a bigger delta at the muscles. So, that’s a big part of it, is simply being able to utilize more oxygen. The other thing is perhaps increasing the density of mitochondria. So simply having more mitochondria in the muscle will allow for more of that substrate to enter the mitochondria versus outside. And then of course there are transporters and the transporters determine a little bit of how the body can utilize lactate, keep it in this cell, versus recycle it and get it out of a cell quicker.
+
+From a training standpoint, the good news is all of this stuff is trainable, but it does require a deliberate form of training. And one thing I don’t think we know yet, but it’s looking like the minimum effective dose is probably about three hours a week.
+
+Tim Ferriss: Three hours per week?
+
+Peter Attia: Yeah. Ideally delivered at 45 to 60-minute intervals. I’ve asked Iñigo about this specifically just as a thought experiment, would doing a whole bunch of 15-minute sets a week be sufficient? His view is it would not be, that it probably needs to be at least 45 minutes per session. I do four 45s these days as my zone two protocol. At times I’ve done more. There’s times I’m doing four 60-minute sessions a week.
+
+Tim Ferriss: If I’m remembering correctly from what you said earlier, those should not feel agonizing.
+
+Peter Attia: No.
+
+Tim Ferriss: But these should be sustained all-day hike type of — I know hike isn’t exactly perfect. But assuming it’s a safe, flat ground constant load, this should be something you could sustain for much longer than say 45 minutes?
+
+Peter Attia: That’s right. And not all of our patients want to use a lactate test. So I lactate test myself every time I do zone two tests.
+
+Tim Ferriss: So unlike you, Peter.
+
+Peter Attia: Right. So for three years, I have every session I’ve ever done recorded by power, heart rate, lactate, all of that stuff, because you do see variation, by the way. So a given power doesn’t always keep me at the same zone two. So how well I slept the night before, my state of hydration, what I’ve eaten will all impact this — 
+
+Tim Ferriss: How are you tracking whether you are in zone two or not?
+
+Peter Attia: By poking my finger.
+
+Tim Ferriss: By lactating?
+
+Peter Attia: Yep. I’m using that. So when people don’t want to do that, what do we recommend? Well, we recommend figuring out what your zone two heart rate is because you can track heart rate really easily.
+
+Tim Ferriss: So rectal probe, most of the time?
+
+Peter Attia: Exactly. No, that’s for temperature. So heart rate — 
+
+Tim Ferriss: Depends on how long it is, right?
+
+Peter Attia: Yeah. Just sitting right there on the vena cava. So with heart rate, you want to give somebody a starting point. So one option is you tell people to do a little bit of lactate testing, maybe test yourself once a month, figure out what your heart rate is, and then going forward, just rely on heart rate. For people who never ever want to poke themselves or just are insulted by how expensive these stupid things are, which they are really stupidly expensive, the lactate meter is 250 bucks, but the strips are $4 apiece.
+
+Tim Ferriss: Nice.
+
+Peter Attia: Which is just so aggravating because you know these things cost about 12 cents to make. We usually use two ways of estimating. One estimate is 180 minus your age, which I think is the low estimate. So a 50-year-old, you’d start them at about 130.
+
+Tim Ferriss: 130 what?
+
+Peter Attia: Beats per minute.
+
+Tim Ferriss: Beats per minute.
+
+Peter Attia: Another way to estimate it is if you know your maximum heart rate. So, this is usually for people who exercise quite a bit with a heart rate monitor, and they know what their true maximum heart rate is. So let’s say a person’s out there and they say, “You know what? I can achieve 178 beats per minute just before I feel like I’m going to keel over.” That’s your max heart rate. I usually start people at about 78 percent of max heart rate. Now again, the next thing we layer on that is the litmus test of how do you feel? Are you able to almost carry out a conversation when you’re doing the activity and the answer should be yes but I don’t really want to. That’s about the sweet spot.
+
+Tim Ferriss: It’s a strained conversation, but you could do it?
+
+Peter Attia: Yeah, yesterday I was doing my zone two and my dad called and I’d missed a bunch of his calls. Normally I don’t answer the phone when I’m on the bike because I have a fan that is blowing air on me so much and it’s so noisy, but I answered the phone anyway. So I talked to my dad for five minutes, which mostly meant I let him talk and I was grunting a little bit. “Yeah. Yeah. Okay. Yeah.” But I wouldn’t want to do this on my bike for zone two. This would be a bit more than I’d want to do. And if you can’t talk at all, which you wouldn’t be able to talk, of course, if you’re doing a zone five, then you’re obviously going too hard.
+
+Tim Ferriss: And the long-term benefit, just to reiterate, the long-term benefit of doing zone two training for say a minimum effective dose of three hours per week is what, and when can someone expect to start to see adaptations that are beneficial?
+
+Peter Attia: Well, the latter is a good question because it probably depends on from where you start. So with someone who’s starting out really metabolically broken, which by definition is what type two diabetes is, that’s the most extreme example we have of completely broken metabolism. So a complete inability to partition fuel, almost a complete inability to burn fatty acids, which again gets back to your question about efficiency. An efficient engine should be able to run on two fuels. It should be able to run on glucose and it should be able to run on fat. A broken engine can only run on the short-term fuel, which is glucose. And that’s a brutal cycle to be in. If you can only run on glucose you’re going to be in a tough situation because we can store such a tiny amount of glucose relative to fat.
+
+And you’re going to be at the mercy of fluctuating glucose levels constantly. Whereas if you can rely on fat, you’re better off. I’ve seen people make adaptations to this. I would usually say it takes three to six months to start to see some adaptations. I guess over the past two and a half years, my zone two power has gone up by 25 percent.
+
+Tim Ferriss: Power measured by watts?
+
+Peter Attia: By watts, yeah. And to be honest, it’s still below what it was nine years ago or seven years ago when I was training as a cyclist. So even though I didn’t think of this type of training as a cyclist, I would do these types of workouts as an important part of my overall training. And I was just infinitely fitter back then. So my zone two back then was probably 40 watts higher than it is now. Although my zone two is probably 40 watts higher now than it was two and a half years ago.
+
+
+TAGS
+PETER ATTIA
+	

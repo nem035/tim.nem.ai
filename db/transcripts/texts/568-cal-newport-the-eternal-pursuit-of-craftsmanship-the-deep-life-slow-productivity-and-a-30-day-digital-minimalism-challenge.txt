@@ -1,0 +1,715 @@
+
+
+FEBRUARY 4, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Cal Newport — The Eternal Pursuit of Craftsmanship, the Deep Life, Slow Productivity, and a 30-Day Digital Minimalism Challenge (#568)
+
+
+
+
+Please enjoy this transcript of my interview with Cal Newport (calnewport.com). Cal is an associate professor of computer science at Georgetown University who previously earned his PhD from MIT. His scholarship focuses on the theory of distributed systems, while his general-audience writing explores intersections of culture and technology.
+
+Cal is the author of seven books, including, most recently, Deep Work, Digital Minimalism, and A World Without Email. He is also a contributing writer for The New Yorker and the host of the Deep Questions podcast.
+
+
+
+
+
+#568: Cal Newport — The Eternal Pursuit of Craftsmanship, the Deep Life, Slow Productivity, and a 30-Day Digital Minimalism Challenge
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is a very well-caffeinated Tim Ferriss. Welcome once again to The Tim Ferriss Show. My guest today is Cal Newport. Cal Newport is an associate professor of computer science at Georgetown University, who previously earned his PhD from MIT. His scholarship focuses on a theory of distributed systems, while his general audience writing explores intersections of culture and technology.
+
+Newport is the author of seven books. That’s a lot of books, man. Including, most recently, Deep Work, Digital Minimalism, and A World Without Email. I think some of those allude to how he is able to get so much done. He’s also a contributing writer for The New Yorker and the host of the Deep Questions podcast. You can find him online at calnewport.com. And there are a number of things conspicuously absent from this bio.
+
+Thank you so much, Cal, for sending me an elegant, streamlined bio. I sometimes get five or six pages that need to get cut down dramatically. So welcome to the show. Nice to see you, Cal.
+
+Cal Newport: Oh, yeah. Well, thanks for having me.
+
+Tim Ferriss: And I thought we would start where so many good things start, and that is with Steve Martin. You have written about Steve Martin before on your blog. You are prolific on your blog, which I very much appreciate since that’s where I started as well in the blogosphere.
+
+What are some of your favorite lessons or any lessons that come to mind for you from Steve Martin? And he’s fresh on my mind because I had COVID recently. While I was recovering, I was watching Comedians in Cars Getting Coffee, and one of my favorite episodes was with Steve Martin. So let’s start there. I’ll pass the mic over.
+
+Cal Newport: Well, Martin was a big influence on me early on in my career because of that book he wrote, because he wrote his memoir Born Standing Up, which was a professional memoir. The whole point of the book, the way he explained it in interviews was, “I wanted to actually capture how I got from nothing to being a very well-known and influential comedian. I didn’t want to skip the steps.”
+
+He complained a lot of celebrity biographies would sort of skip the interesting part, that one day they would just be playing at the CoPA. You’d say, “How did they get there?” So he wrote this professional biography. It came up, might’ve been 2007, 2008, somewhere in there. I was a young grad student then. I had started grad school around 2004, 2005, so I was at MIT. I was blogging. I was writing books. I was doing research.
+
+And that book was very influential to me in part, and maybe mainly, due to something he never actually said in the book, but he said in a Charlie Rose interview about the book, where Charlie was asking him like, “Well, what’s your — boil it down. What’s your advice? What’s your advice for aspiring entertainers?” And Martin said, “I always tell them the same thing, and it’s never what they want to hear. They always want to hear ‘Here’s my tips for finding an agent; here’s my tips for doing an in-run around a typical pipeline.'”
+
+He says, “My advice instead is: ‘Always be so good they can’t ignore you. If you do that, lots of other good things will come.'” That was his advice. That hit me like a lightning bolt. I mean, I remember at this time as a young scholar, second, third year PhD student, published some books. I was thinking up all sorts of schemes. Well, how do I market my work? How do I have a new angle on research that people haven’t seen? Maybe if I write in a cross-discipline way no one else is doing.
+
+And that hit me like a lightning bolt. It was basically saying, “Actually, wait. First, just do really good work.” And that’s hard and you’re probably not that good yet. And you need to practice and get a lot better. That became the foundation for almost everything else that happened to my professional life and so much of what I wrote about. So I owe him, I owe him quite a bit for that inspiration.
+
+Tim Ferriss: So let’s use that as a segue into focusing, not just on what you do, but also perhaps beginning to touch on what you don’t do. Because just as with Steve Martin, a lot of what I find fascinating or some of what I find fascinating about you is what is absent, right? It’s sort of like the case of the dog that didn’t bark in Sherlock Holmes, right? Really paying attention to absence sometimes. And for those people who have heard a lot of bios on this podcast, social media handles are not prevalent in your bio, among other things.
+
+We don’t have to focus directly on that, but let’s perhaps start with your definition of “the deep life.” This phrase. This term. Could you just unpack that for us and tell us what that means to you and what the constituent parts are?
+
+Cal Newport: I mean, the term the deep life is something that emerged in the early pandemic, though the ideas and sentiment had been a long around for a long time in my writing. So the pandemic hits, and I make a lot of changes. Suddenly, I’m not seeing my readers, I’m not seeing my students, much more isolated, and I began a podcast so I could connect to people.
+
+And I went on a heroic one-month period where I wrote an essay every day. In the whole direction, what I was writing about shifted pretty dramatically. At that point, I was finishing up a business book, a book about communication in the business world, and I’d been writing much more about the impact of tech on business at that time. I was sort of on a roll with that.
+
+And suddenly, I found myself in my writing and, in major segments of the podcast, talking about life and building a life of resilience and meaning and depth. And that is where this term “the deep life” came up. My audience just really was interested in this and when a symbiotic fashion really began to work out what we meant by it.
+
+But at a high level, the deep life is a term for one of these things, we all know it when we see it. We just haven’t really been approaching it systematically. It’s when you see someone living a life in such a way that it resonates. It feels authentic and interesting and resilient that they’re not the type of person who’s going to look back at the end of their life and say, “What did I do?”
+
+We as humans have a deep craving for that. But we often suppress that craving because it’s complicated and we don’t know what to do about it, and we don’t have a lot of cultural support for this idea of crafting a deeper life right now. That’s not where the cultural pressures are, so we kind of avoid it and look for the short-term burst of good chemicals. The short-term burst of, “I feel good about this, I got a like on this, this beer makes me feel good,” or whatever it is, and we put it aside.
+
+And so I tried to excavate it. I think the disruption of the pandemic cleared aside a lot of the noise, and I’ve been working on that. It’s one of the things I’ve been talking about quite a bit is systematically speaking. Let’s put like a Cal Newport, overly systematic nerd, computer science brain to this. Can we break down what the deep life is? How you get there? What you need to do? What you don’t need to do? And it’s really emerged as something I’ve thought a lot about.
+
+Tim Ferriss: All right, we may take a bit of a boomerang path to come back to that, but I think a lot of these topics will intersect. So I want to go back in time a bit. So we were just talking about the pandemic. Let’s go much further back. And part of the reason I want to do that is these days, say if someone comes up to me on the street, it’s nine times out of 10 about the podcast.
+
+And let’s call it in 2010, 2012. If someone emailed me, it would’ve been about tech investing in startups. But my career, at least in any credible sense, didn’t start with that. And really, it was The 4-Hour Workweek that put me on any map, to speak of.
+
+One of my employees knows you and got to know you through Study Hacks. And he moved from overseas to Canada, to a university. He went from skating through high school because there really wasn’t much required to getting his first Fs, and was panic-stricken because he needed to correct course, ended up finding Study Hacks, your work, and transformed himself into an A student.
+
+Is that where you first found your groove, would you say, in terms of public audience and feeling some momentum in your career? Or was it before or after that?
+
+Cal Newport: Right. It’s a good history to get into. My initial books, the first three books I wrote, were aimed at students. They are books, roughly speaking, of student advice, though the third one, we’ll touch on in a second, began to veer away from that. And actually the third book intersected with you in a way that you may not remember, but I think I wrote an essay for your blog back then about one of the ideas.
+
+But I started with student books and my blog in the early days was called Study Hacks because it was advice for students. And the backstory on that is as a high school student during the late ’90s, I had started a dot-com company. This was the first dot-com boom. No one really understood this technology, so there was this brief period where we thought that if you’re young, that must mean that you really know about tech in a way older people didn’t.
+
+So it’s like a brief moment of insanity where they would give 17-year-olds tens of thousands of dollars to do things we didn’t know how to do. But as an effect of that, I was a 17-year-old who knew the business and productivity section of Barnes & Noble very well. So I was reading business books and productivity books because I was trying to figure out what the hell I was doing.
+
+Then, I went to college and I’m taking on student loans. I want to do well. I’m trying to take my college career seriously. And I said, “Great, let me go to Barnes & Noble and get the books about here’s how the top student studies so I can figure this out,” just the way I bought a David Allen book or Stephen Covey book to figure out how to do business stuff.
+
+And those books weren’t really there back then. There was a sense in the publishing industry back in the ’90s that you had to be “cool” or students would reject the book. And in that effort, they accomplished the opposite. So it’s all these books with like kooky people on the covers, and it’s all about your crazy roommate and how to deal with the dorm food.
+
+And I just had this idea, I was like, “Look, what we need to do is write a book for college students who want to know how to do well — exactly like a business book.” This doesn’t exist. Don’t try to talk about naked roommates and dorm food. Just be like, “Here’s how the top students study.”
+
+Tim Ferriss: Don’t talk about the naked roommates. That’s more of a “Show, don’t tell” kind of situation. Continue.
+
+Cal Newport: I would say so, yeah. You only need to see that once. And so that’s what got me started. So I had this idea. And I was a writer in college. I was doing computer science and I was also writing. I was the editor of the humor magazine. I was a columnist for the newspaper. I was really in the actual humor writing, but I could write. I trained myself to write in college, and I was in New York and hanging out with an entrepreneur friend of mine. And he’s like, “Well, stop talking about it. Just write the dumb book.” So I was like, “Okay. We’ll figure that out.”
+
+And then I figured out how to — it’s not that hard to figure out sort of a Tim Ferrissian style. I found an agent and said, “Look, I don’t want you to be my agent. I want you to just teach me how this whole industry works. I want you to teach me how can a 20-year-old get a book deal.” There’s a very narrow path you would have to navigate as a 20-year-old to get a book deal. She laid it out for me, and it has to be a book about students and you have to know how to write. We figured it all out, and I literally — 
+
+Tim Ferriss: Let me pause you for one second.
+
+Cal Newport: Yeah.
+
+Tim Ferriss: Did she end up becoming your official agent or not?
+
+Cal Newport: No, I was true to my word. Now, she was a fiction agent. 
+
+Tim Ferriss: Okay. Got it.
+
+Cal Newport: My memory was, this was actually — whose agent was it? She was an agent who represented, I think, maybe Ann Patchett, so very well-respected. I might have that wrong, but that was my memory. It was like Bel Canto had come out around this time.
+
+Tim Ferriss: So I want you to — don’t lose track of this timeline, but how did you get her attention? Why would she take this time to sit with you?
+
+Cal Newport: So this was a family connection. My memory was, my uncle’s a journalist and I said, “Would you be willing to connect me for a…” — and again, this was very Tim Ferriss style, the way I went around this. This is why I think we’re simpatico. Your book hadn’t come out yet, but it was very Tim Ferriss style. I said, “Look, one hour, I just want to talk to them on the phone. I do not want them to be my agent. I’m not going to try to sell myself to them. I just feel that I need to understand the landscape. I’m not going to be able to navigate this, because it’s too atypical. I’m too young.” I mean, I’m going to be ignored. I knew there’d be a narrow path.
+
+I was true to my word. She was a fiction agent, so she wouldn’t have represented me anyways, right? That was my memory. So I was very clear, and you know what? She gave me the roadmap. She told me like, “Here’s exactly what you would have to do.” Among other things, she said, “You have to go do commissioned writing.” So I went out and started selling articles to these middling college-focused websites and magazines so I could have commissions. The second thing I did, she said, “They’re going to be very worried…”
+
+Tim Ferriss: Now, is that important just to show that you’re credible or that — 
+
+Cal Newport: Yes.
+
+Tim Ferriss: — there’s a market for your writing? Mm-hmm (affirmative).
+
+Cal Newport: They’re going to want writing samples and they’re going to want writing examples on the type of writing I was going to do. And if I was going to be writing a student advice book, I needed advice articles. So I did that. The second thing she said any agent would be worried about when I actually went to find an agent was: is the content going to be good? And so what I did there is I sold a commission for no money, $200 or something, for a nothing online college magazine. I don’t even remember what it was. I used that commission to do all of my research for my first book.
+
+Because the first book I talked to a bunch of Rhodes scholars and Marshall scholars. The premise was, “I’m going to talk to the best of the best and extract advice from them.” And this article required me probably to talk to two people, and I talked to 20. It’s just person after person, “Oh, it’s for an article. I’m writing this article. Can I interview you for this article?”
+
+And I had to figure out how to find them, but it turns out it’s not hard. You look up press releases from colleges to learn who had just been awarded a Rhodes scholarship or a Marshall scholarship or a Truman scholarship. Often at this point, email directories were private, but all you had to do was find the email address of any student on that campus. And then you said, “Ah, there’s the naming convention.”
+
+At Harvard, it’s like first name dot last name @fas.harvard.edu. So then you could figure out how to get to them. And so I did all of the interviews for the first book and then wrote out the whole annotated table of contents. When I started to talk to agents to actually be my agent, I could say, “I can write. Look, I’m an editor of a magazine at college. I write in the paper. Here’s articles I’ve written for student advice. I have a good idea. Here is the whole thing laid out.”
+
+And then the third thing I did is, I made the format of my first book as easy as possible. It was 50 short rules each with a contrarian title, each two to three pages long. So I made the task as tractable as possible. I was not going to try to do some sort of sophisticated take.
+
+And so all of those pieces came together and then the final piece was how do you find the right agent? And what I did there is, I used the acknowledgement sections of target books to see when the author thanked their agent, so I could see what agent was working on what book. And I took the business book whose format I was completely copying for my student book, found the agent of that book, wrote that agent and said, “I want to do this book, but with student advice instead. Here’s all the stuff.” And she signed me right before my 21st birthday. And I’ve been with her for 20 years now, actually. So that’s how that all started.
+
+Tim Ferriss: Wow. That’s amazing. So let’s see. What year roughly would that have been when you signed with that agent?
+
+Cal Newport: So this was 2003. In the spring of 2003, if my memory serves, I was 20, I turned 21 that June, I was a junior in college. I signed a contract, the book, I had pitched it as Conquer College. And the head of the agency said, “You can’t have the hard Ks right after each other.” So we changed it to How to Win at College.
+
+And I wrote it the fall of my senior year of college. I would just wake up early and write for 60 to 90 minutes every morning. I just would wake up and write for 60 to 90 minutes. The format of the book was perfect for it, because you could do a draft of one chapter at 60 to 90 minutes. And that was that. And that book, I finished that book while still at college, and it came out right after I graduated.
+
+I sold another book while still in college. So while that was still in production, I upgraded. I was like, “Okay, I’m now going to do a book with normal chapters.” And this was How to Become a Straight-A Student. This ended up becoming probably the biggest of my student books. I had no idea how much it had been selling in the background because it was never a big best seller, but I checked last week and that little book has sold like 300,000 copies — 
+
+Tim Ferriss: That’s amazing.
+
+Cal Newport: — which is, with never selling more than a very small amount than any one week or month. It just chugs along. So in that book what I did is, I said, “Okay, let’s get past the more vague stuff.” I just talked to 50 straight-A students, and it was hardcore, like, “This is how you take notes for a math class. This is how you should study. For an English class, this is how you prepare for a Blue Book exam.”
+
+It was just not, “Here’s how you manage your time.” This was like one of the first books to seriously tackle time management for students and treat this as something you should do. And so I wrote that almost immediately, and I submitted that right after I started grad school. So by my first year of grad school, I had one book come out and another book in the can, so I just sort of knocked those off real quick.
+
+Tim Ferriss: I have many follow-up questions. A few observations. The first is you’re mentioning that as a 17- or 18-year-old back in the dot-com boom and then the subsequent bust, you got tens of thousands of dollars to try anything. I think we’ve learned our lesson because now you have to be at least 20 to get hundreds of millions of dollars.
+
+Cal Newport: Exactly.
+
+Tim Ferriss: So what could go wrong? And a couple of other things that just hopped to mind as I’m listening to this, because it is kind of like deja vu all over again for me as well. There are a lot of similarities. One does not tie in perfectly to your story. But when you spoke to this first fiction agent to ask for advice, if you had not promised — actually, even if you had promised not to pitch yourself, I do want to mention that there’s a saying, or there was at least when I was in Silicon Valley, “If you want money, ask for advice. And if you want advice, ask for money.”
+
+And very often, the indirect path can actually reap dividends, right? In terms of asking for advice, which this did. It just did it in a more indirect fashion, right? It kind of laid things out longitudinally. And then, the other piece I wanted to mention, that I think it strikes me as important, is that while you were in college, you created a book that was easy to read but perhaps, first and foremost, you created a book that you were capable of writing. Does that make sense?
+
+And that is why, for instance, in The 4-Hour Body or other books, Tools of Titans, certainly, I have written books in a modular way, not just because it allows people to dip in and out in this choose-your-own-adventure type of approach, but because it makes it easier for me to write. Because ultimately, if the book doesn’t get written, it doesn’t matter how easy it is to read. And so that also occured to me, right?
+
+If you had chosen to try to reverse the order and write the, let’s call them normal chapters instead of the two- to three-page chapters with principles, maybe that first book never would’ve been written just given the time constraints, right?
+
+Cal Newport: Yeah. And skills. I don’t think I could have done it yet.
+
+Tim Ferriss: Yeah, yeah. Absolutely. So this leads me to ask, and we’re going to bounce all over the place because that is how my brain functions or malfunctions, you graduated from college, what does your first six to 12 months look like out of college?
+
+Cal Newport: The two things I did in college is I wrote and I did computer science, right? So I was a real computer guy. I think we actually overlap. When I was in high school, I went to high school in a small town near Princeton, and so I think this maybe even overlapped when you were there as an undergrad. I ran out of computer science to take, and so I was taking computer science at Princeton in the university classes when I was still in high school.
+
+So I went to Dartmouth College and was really just doing very well in computer science. So I was really like a locked-in sort of computer science student, and so I rolled right out of Dartmouth into MIT. I was on a — 
+
+Tim Ferriss: Got it. You went directly.
+
+Cal Newport: I was on a — 
+
+Tim Ferriss: What type of focus did you have within computer science? Where were you most interested in and focused on?
+
+Cal Newport: As an undergrad, it’s just you’re learning everything. The research I was doing as an undergrad was more network systemsy, and I made a big leap. When I went to MIT, I was mainly being interviewed. The way it works is potential PhD advisors. You go and you meet with them, and they essentially make you offers like, “Okay, come.” And then make you an offer to, “Come join my group.” And so you go and meet with them.
+
+It was mainly the systems-oriented professors who were meeting with me, but I had been a real big fan of Richard Feynman. I’d read the James Gleick biography, Genius. I was a fan of John von Neumann, of Einstein. I had, in my mind, just this image of mathematical research of standing at a whiteboard and proving a proof. It just was incredibly romantic for me, even though math wasn’t really considered my strong suit.
+
+And so there one theory professor who said, “I need a systems person to come to my group to help build wireless network systems.” And I had done wireless network research, so I went to her group and then just pulled a fast one, and just immediately started trying to write theory papers and became a theoretician.
+
+And so I haven’t programmed a computer since I arrived. Since 2004, when I left school and went to MIT, I joined a theory group at MIT and have been a theoretician ever since. I haven’t touched a computer since, really.
+
+Tim Ferriss: All right. So if we look at programming though, and we look at writing, prose, if we look at poetry, there are some similarities, right? It depends on who you talk to, of course. But I think of, for instance, an artist named Dmitri Cherniak, who works in generative art predominantly at the moment, and he put up a post recently on Twitter where he showed a screenshot of his code and he said, “This is my art.”
+
+So it occurs to me that you can strive for and find elegance and beauty in all of those different domains. So there’s perhaps more overlap than one might expect, at least from a first principles perspective. You mentioned in passing, “I trained myself to write in college.” I want to hear more about that because I would imagine it wasn’t this sloppy ad hoc approach, given what I think I know of you. How did you train yourself to write?
+
+Cal Newport: One of the things I always tell people, because it was my experience, is that in order to get the deliberate practice aspect of skill acquisition applied to writing, like if you want to get better at writing fast, you have to be writing for editing and you have to be writing in the context of acceptance and rejections, because writing is one of these things where everyone can do it well enough.
+
+But if you’re mainly just writing on your own, so I’m writing in a journal, I’m writing a blog, I’m doing National Novel Writing Month, it’s just me working on my novel, you don’t necessarily get that stretch that’s going to improve your skills. And so the thing that mattered for me is that I was writing for editing and for acceptance and rejection. 
+
+Tim Ferriss: For editing, meaning writing for an editor? You have a reader?
+
+Cal Newport: Yes. An editor who’s going to edit it and also will reject it if it’s not good. And so this is actually why writing for the humor publication was a big deal. You probably remember from your time, in Ivy League schools in particular, there’s a real culture around humor writing because it used to be back in the days where everything was the sort of old boys network, the vast majority of comedy writers for shows like SNL or The Tonight Show, they were coming out of these Ivy League humor societies, so they took it real seriously.
+
+Tim Ferriss: What was the name of the humor magazine at Dartmouth?
+
+Cal Newport: At Dartmouth, it’s The Jack-o-Lantern.
+
+Tim Ferriss: The Jack-o-Lantern. And people may have heard the term “Lampoon.” The Lampoon is that of Harvard, and then you have a number of different magazines at Princeton and so on. Please continue.
+
+Cal Newport: Yeah, exactly. And then, they all have these huge old histories, so like Dr. Seuss did cartoons for The Dartmouth Jack-o-Lantern in the 1920s. Anyways. So that’s a very competitive world. You would pitch pieces. And if they were funny, they would go — back then, it would be print magazines. You would pitch pieces and if they were funny enough, they would get in. And if they weren’t, they wouldn’t. It was just starkly competitive.
+
+And then I wrote a humor column for the paper, but it was the same thing. You become a columnist. They would say, “No, no, no. Yeah, we’ll do that one. No. Yeah, we’ll do that one.” And if you got five in the paper, you had the possibility of doing a column. So I think that really stretched my skill and that helped.
+
+And I’ll say the two things that helped my writing the most, to your original point here, is humor writing turns out to be incredibly useful for any type of writing because humor writing is all about the timing, the pacing, and the music of the words. You have to replicate the timing of a standup comedian using grammar and word choice and having to get the right rhythm to set up the punchline way to beat and nail it. You have to do that all with words. That gives you an incredible facility with sentence crafting.
+
+And so, I’ll tell you, today as a writer for The New Yorker, which is very craft-focused, they really care — writing craft is a really big deal over at The New Yorker. The training I did as a humor writer is incredibly applicable because you hear the words as music. And the pausing and the rhythm, the performance of the reading, you think a lot about it, and that actually really helps over there.
+
+And then mathematics, just like programming, that has been the other key to my success because if you do proofs, for example, you develop this sense where, “Ah, it’s not right. This doesn’t work. The pieces don’t fit.” And then when the pieces fit, it’s the chorus of angels, right? Like your mind is like, “I don’t like when things don’t quite fit.” And when they do, it’s dopamine coming out of your ears.
+
+It led to my style of writing, which is — my advice writing’s very intricate. I lay out the generative theory that lays out these pieces, and these pieces all fit together, and you might not notice it consciously when you read it, but part of the experience of my writing is that all of the pieces I’m laying out there all click together into a whole, where everything fits nicely. And this is symmetric with this, and this makes sense here. Nothing is hanging out.
+
+It reduces this cognitive drag that happens sometimes when writing’s a little bit less, the ideas are a little bit less formed, and it makes it harder to write. But I think that’s been a bit of a secret sauce in my work, is that it’s cognitively pleasing because your brain appreciates the fact that, sort of nerdishly and obsessively, all the pieces actually fit together.
+
+Tim Ferriss: So a few things, number one, I think we might have to call this podcast “Cal Newport: A Chorus of Angels.” That’s may be where we go with this. Just to get people in the door. And the second is what you’re talking about in terms of symmetry and structure. If anybody listening is interested in exploring that further, there’s a book called Draft No. 4 by John McPhee, who’s a staff writer at The New Yorker and just a behemoth of a craftsman, and really, really thinks about structure a lot and lays out structure pieces graphically. So Draft No. 4 makes for a really fun read if you are willing to go into the weeds and be a super nerd when it comes to that type of topic. I want to ask you about humor writing. So I was the graphics editor, so an illustrator and graphics editor, at The Princeton Tiger, which is kind of the equivalent of The Jack-o-Lantern, and just a piece of trivia for people, for whom this will make any sense, I took that job, or I applied to that job, more accurately, because Jim Lee had previously held that post when he was a student, and Jim Lee at the time was one of my favorite comic book pencillers, or just beforehand, had been one of my favorite pencillers, had rebooted The X-Men. I think he’s now at DC. Still need to get him on the podcast.
+
+I would sit at this desk, and at Princeton there was this street called Nassau Street, with all these gigantic mansions called eating clubs of different names, and they all have their particular personalities. F. Scott Fitzgerald was at Ivy over here, and JFK was also at Ivy, and then this person was at such-and-such. So it has this storied and bizarre history, but when he would go out — I don’t think this is speaking out of school. It’s pretty funny. People go out, I want to say it was Thursdays and Saturdays, and just get hammered, and I didn’t get hammered too much, but I opened up the drawer at one point of this desk, and I found drawings that Jim Lee had done, clearly when he had come back from being completely hammered. At least that was my impression, and I was like, “Oh, my God. These are treasures.”
+
+I don’t know if I ever told anyone about them because I didn’t want them to disappear. They were like my little secret in this desk, but the reason I brought this up is that the head editor of the magazine at the time ended up shortly thereafter going and becoming the editor-in-chief of Maxim Magazine, which at the time was a very, very big deal. So it just kind of goes to show you how quickly you can jump. My question for you is how one can practice humor writing or cultivate an awareness of that timing and so on that you’re talking about if they don’t, and most people won’t, have access to working at such a magazine. Do you have any thoughts?
+
+Cal Newport: Yeah, humor? Yeah. I mean, again, it has to be for editing. So you have to find a place to submit with humor writing.
+
+Tim Ferriss: You need someone who can reject you and help you improve.
+
+Cal Newport: You need somebody who can reject you, because it’s like the little things matter. So one of the things The Jack-o-Lantern did is we would also do Onion-style, once or twice a year, fake newspapers. So there was a daily newspaper at Dartmouth called The Dartmouth, and we would print the paper that was exactly the same format, and we just changed the U to a V or something, and we would put it in the machines where the regular newspaper was, but it was all Onion-style. I was good at Onion-style stuff because there’s a certain dryness that has to work, and for whatever reason, I have this memory. I did a piece for it once, and the — so the timing matters. I don’t remember exactly the title, but it was something like “Team from Amish University Places Last at Robotics Competition.”
+
+Tim Ferriss: Great.
+
+Cal Newport: Which you’ve got to just — there’s a straight-lacedness of it, and I remember I wrote this thing. I wrote is maybe a sophomore or something like this, and it just had to be the exact rightness of dry, and I remember the editor came in and added some extra things to it like some quotes, like, “Oh, and then Jebediah said…” I had made it really dry, where I was trying to do it very repertorial style, and at some point you figure out they put tinfoil on a cat or something. It was something, but it would be revealed very dryly, and I just remember he added a few quotes from some of the people, and I felt like the whole thing fell apart.
+
+I was like, “That’s out of the character. You’re breaking the dryness. There’s a whole — whatever,” but the only way you’re going to get that type of fine tuning is submit things, have it be rejected, have things be accepted, and then try to understand why the thing they added is ripping your — you’re like, “This is making me — it’s just not right.” I think that really matters. Then the other thing for comedy writing is you have to consume a lot of stand-up comedy, I think. You’ve got to see the timing. The timing of the top stand-up comedians is actually the foundation on which all humor writing comes out of. At the time when I was doing my column for the paper, my column I tried to ape Dave Barry’s style.
+
+Tim Ferriss: Yeah.
+
+Cal Newport: So I don’t know if you remember Dave Barry. I mean, he — 
+
+Tim Ferriss: Oh, I was just thinking of Dave Barry. Yeah.
+
+Cal Newport: He won a Pulitzer for his comedy column, which is crazy.
+
+Tim Ferriss: That’s incredible. Yeah.
+
+Cal Newport: Incredible, yeah. But he was a timing guy. So he would set up — 
+
+Tim Ferriss: Dave Barry is great.
+
+Cal Newport: He would set you up, and then he’d come in with an absurd — 
+
+Tim Ferriss: Do you have any favorite books, or if people wanted to start with something, do you have any suggestions?
+
+Cal Newport: Just read his collections. His collections are fantastic, because his whole thing was to set up, and then he would come in with the absurd punch to the gut. So he would set you up maybe kind of dry, and the timing would be just right, and then something completely absurd, and then he would just keep rolling.
+
+Tim Ferriss: Yeah.
+
+Cal Newport: So he’d be writing about — it would be mundane, like people bring too much stuff on the plane to put into the overhead compartment, but I still remember — at some point in his piece, there’s people with full grand pianos and a such-and-such brand, John Deere yard tractor that they’re trying to get up there. It’s like the precision and the absurdity that he just, boom, comes out of nowhere and hits you with it that has a good — Simon Rich is really good at that style. Simon Rich — 
+
+Tim Ferriss: I don’t know Simon Rich.
+
+Cal Newport: He’s a younger guy. He was at SNL, I believe. I think he has a Lampoon. So he came out with a Lampoon. He’s at SNL, and he does some “Shouts & Murmurs” for The New Yorker, but it’s hilarious. I think he’s the modern young version of Dave Barry. It’s a little edgier than Dave Barry is, but the absurdity, and what he does really well, not to geek out too much on comedy writing, but he does the — 
+
+Tim Ferriss: Let’s do it. Nope, let’s do it. Don’t hold back.
+
+Cal Newport: — the amplification of absurdity. So he’ll set up an absurd situation, he’ll take it very seriously, and he’ll be very dry about it, and it just — the absurdity of what’s going on increases, and the Simon Rich — what he’s really known for is you end up in just the most absurd places, but without ever losing the dryness. So he had this great piece during COVID about what should you do if you’re — an advice column like, “What should I do if my kid’s afraid of monsters in the closet?” At first, it starts off with reasonable advice, and then it becomes pretty clear that this column exists in a world in which there has been a portal that has opened up, and savage monsters are actually out there in the world and are coming in and taking and devouring children.
+
+By the end of the article, it’s all about — you have your shotgun, and you’re explaining to your kid that you’re going to die for the cause as you leave to go fight the monsters that have been whatever, but he keeps the dry — all of that builds up within the idiom of a Q&A advice column, and it’s great. I love it. In the end, the great thing about Simon, unlike Barry, is it’s actually a whole metaphor for the stress and anxiety parents were feeling about COVID, and how we’re trying to use the idioms of normal news while everyone’s terrified, and so there was a heart to it that was really sophisticated, but — yeah, that’s the dream. Maybe I should get on it.
+
+Tim Ferriss: Well, never say never. I am going to throw one more hat in the ring, and that is Bill Bryson, and for people who want a place to start, A Walk in the Woods, which is Rediscovering America on the Appalachian Trail, is just an outstanding, outstanding book, also very, very good with timing. 
+
+I want to perhaps just return to, and I think these are related on some level, a term that I have in front of me, and I suppose I’m coming back to it visually. I haven’t mentioned it yet, but could you speak to slow productivity, and perhaps you could speak to John Gribbin’s book The Scientists. You mentioned a bunch of scientists earlier in this conversation, because you strike me also as a proof case or a test case of slow productivity in a world where it is thought by and large to not be possible, or to just be outdated. So could you just expand on that in any way that makes sense to you?
+
+Cal Newport: Well, I’ll tell you, and this is literally true, what I was doing in the moments before we logged on to do this discussion right now, I was in the other room, and my office is here, with a notebook, working on slow productivity, notes on slow productivity, because I’m thinking about maybe writing a book on it, but I’m still in the earlier stages, and I had gone for a walk earlier and had been developing some new thoughts, and I wanted to get them down. So I was actually pretty frantically taking notes in my notebook as I was looking at the clock like, “I’ve got to get in to talk to Tim.” So when I say it’s fresh on my mind, it’s literally fresh on my mind. So that’s a big caveat. That means this is not a fully-baked idea. The ingredients are — 
+
+Tim Ferriss: I love half-baked ideas.
+
+Cal Newport: Yeah. So the ingredients are swirling. Here, I’ll pitch you what I wrote down just an hour ago. So as of an hour ago, this is the way — because what I do when I’m thinking about ideas is I try to basically re-pitch them out from scratch, and I do that again and again, and each time I do it, there’s overlap with the previous times, but also new pieces, and that’s how it polishes. It’s why it takes me six months to a year to get, for example, a book idea ready to even propose. This is, like we talked about, the math mind. I need the pieces to make sense. So my current take on slow productivity is the problem it solves — so here’s the problem we’re facing. The human brain is wired to — it’s good at making a plan for executing something that you think is important, and it makes you feel good when you complete that plan.
+
+This is critical to humans, why we’re different than a lot of animals. We can actually come up with a plan to do something, and feel motivation to do it, and feel good when we actually — we need to fix the fence. We fixed the fence. The cattle can’t get out. We feel really good. The issue is if you don’t do anything, let’s say I’m not making any plans, I don’t want to do anything, we know that makes you feel terrible. So you take away people’s autonomy, their sense of efficacy, and they’re miserable. We know that. But if you put too much on people’s plates so that now you have more on your plate, more obligations to which you have some sort of ascent to complete than you can easily conceive actually all getting done, you short circuit that drive, just like your drive for hunger is really important, but if you eat a huge amount of junk food, it short circuits the drive, and you end up unhealthy.
+
+So when we have way too much on our plate, more than we can easily imagine how it’s going to get done, it makes us really unhappy because we’re short circuiting a cognitive drive here, and we get sort of anxious and overwhelmed, but it doesn’t feel good. So we can’t treat humans like we would a computer processor, where in a computer processor, you want to pipeline as many instructions as possible that are sitting there so that not a single cycle is wasted, because you just want to make sure that you always have something to do. But for the human brain, that huge pipeline of things that are waiting to be done actually makes the brain unhappy.
+
+So our solution to this type of overload — we have too much on our plate, in work and in our life admin as well. Our solution has been to use fast productivity, so fast productivity or tactics and systems for increasing the amount of the things you finish on the scale of days and weeks. So how do I get more stuff — this is what all productivity software is about, lower friction, easier access to information, take out seven steps in the process of getting this meeting scheduled. We want to maximize the number of things we can execute on the scale of days and weeks.
+
+My emerging concept of slow productivity says shift that scale up to years — months and years. I want to maximize the amount of meaningful stuff I get done in the next five years. It completely changes the game in a way that becomes very compatible with the human brain, because now, suddenly, while I’m going to try to do a lot less, the stuff I’m doing, I’m doing it on a larger timescale, so maybe I’m working a lot on it this week, and then I go a month without doing it at all, and I have a hard day today and an off day tomorrow. You have the seasonality, up-and-down rhythms, which is a better fit for the human brain. You get rid of the sense of overload because if you want to produce a good book in the next two years, that’s a very different set of initiatives than I want to do as many writerly related promotional things as possible this week.
+
+That latter could be a real source of stress and overload. The former can be a real source of fulfillment, and you tend to produce things of higher value because when you’re just focusing on maximizing what you can do in the scale of days or weeks, it diverts the sustained application of energy and attention needing to actually do the things that move the needle or that you’re proud of. So I think it’s a real issue. I think in the workplace we have to completely rethink work allocation. Our current mode of doing this is completely incompatible with slow productivity. We basically just throw an unlimited amount of work at individuals and say, “It’s up to you to self-regulate.” It’s an impossible task to ask.
+
+So I had this New Yorker piece recently called “Why Do We Work Too Much?” and I make this argument in there that if we have to self-regulate, we’re just going to end up with 20 percent too much on our plate. We’re going to let stress be the feedback function that slows us down, and in our personal lives we probably need to be doing significantly less, but the stuff we’re doing, do it better and over longer time periods. So there’s just this fundamental mismatch with our brain that’s happening right now, that this epidemic of busyness I think is causing issues because of its mismatch with our brain, and maybe something like slow productivity is the way out of it.
+
+Tim Ferriss: So let’s look at some beacons of hope, perhaps, but we’re going to look at the ghosts of Christmas past first. So very briefly, in The Scientists by John Gribbin, you wrote on your blog, this was 2021, I think it was towards the end of July, that you’re reading his magisterial tome, I’m not quoting verbatim, The Scientists, and you’re up to page 190, which is you’re only up to Isaac Newton, and now I’m going to read verbatim. 
+
+“Even early on I’ve become intrigued by a repeated observation: though the scientists profiled in Gribbin’s book are highly “productive” by any intuitive definition of this term, the daily pace of their work was incredibly slow by any modern standards of professional effectiveness.” 
+
+And this comes then to, I’m skipping ahead, what you just said. 
+
+“When viewed at the fast scale of days and weeks, the famed scientists in Gribbin’s book seem spectacularly unproductive. Years would pass during which little progress was made on epic theories. Even during periods of active work, it might take months for important letters to induce a reply, or for news of experiments to make it across a fractured Europe.”
+
+Now I’m going to ask you a follow-up question on that piece. I’m only going to read a little bit more. 
+
+“When we shift, however, to the slow scale of years, these same scientists suddenly become immensely productive.”
+
+And last line I’ll read: 
+
+“No one remembers Newton’s lazy lockdowns, but his Principia achieved immortality.”
+
+I’ll ask a few questions, and then feel free to tackle them or answer a different question, however you like. So the first is — I would imagine some people who hear this say, “That’s great, but we just live in different times.”
+
+We are contending with different problems and a volume of stimulation that these people could not even conceive of, and had there been TikTok and Twitter and so on, perhaps Newton never would’ve achieved anything huge. Maybe, maybe not. That’s why I want to just note that I wanted to ask about important letters taking months to induce a reply, and so on. They had some inbuilt friction in the system that has been removed in certain ways, and you could perhaps reintroduce it. So the question this leads me to, which is really the real question, is, are there any people who come to mind for you who are more contemporary — they could be dead, but let’s just say within the last 20 years — who stick out as being particularly good at slow productivity? It could be a category of person, but do you have any contemporary examples?
+
+Cal Newport: Yeah. I mean, there’s a couple places where we still see a lot of slow productivity. So one is fiction writers, and in particular, literary fiction writers, but also some genre fiction writers. This is one of the few places where you’re allowed to basically say, “Leave me alone. I’ll come back when I have a book.” So if we look, for example, at Dave Eggers, the novelist Dave Eggers, he works in a house on a laptop that doesn’t have internet connectivity, so there’s no Wi-Fi, and he just basically works 9:00 to 5:00. He’s pretty hard to reach. He talks to — a couple of times a week, from what I understand, he does have assistants to deal with some of the logistical stuff, but he doesn’t do much but work on his books. Another example is Neal Stephenson. He wrote that great essay years ago, “Why I’m a Bad Correspondent.”
+
+Tim Ferriss: Yeah, so good, so good.
+
+Cal Newport: It’s so good.
+
+Tim Ferriss: Yeah.
+
+Cal Newport: I mean, it’s inspiring, but basically, his point was — he’s mellowed out some, by the way. I remember going to see him do a book publicity tour back in Cambridge, and back then that was the only time he would leave, was to do publicity tours, and he seemed so upset that he had to be there because he just wanted to be writing, and he really didn’t want — he hated nerd questions about the canon of his books. But anyway, the bad correspondent was like, “If I answer all your messages and go to all your conferences and answer all your emails, what will I have in the end? I’ll have a couple thousand messages I sent to individuals. If I instead don’t do that and write a book that I’m really proud of, then maybe a million people are going to read that book. So my impact will be bigger if I ignore your message so that I can be basically writing something for a lot of people.”
+
+So John Grisham is another example. I went down this rabbit hole recently. Not long ago, his long-term assistant retired, and he didn’t hire anyone else because he didn’t need one. From what I understand, he has created this life where basically, his editor knows how to get in touch with him. Outside of his two weeks of book publicity, you can’t reach him. He doesn’t do things. I mean, I know he does do some things. He does do some political fundraising stuff, but basically, he says, “I write my books once a year,” and he said, “I didn’t need to rehire my assistant because not enough people knew my phone number for it to make any sense.” So basically, he just set that up, and he put his energy other places.
+
+He built a bunch of baseball fields and became the commissioner of the little league in the town where he lived, so he put a lot of time into that. He’s really into coaching. So that was inspiring, and then if you look at mathematicians and scientists that are really at the cutting edge, they’re just getting after it. They’re not on Twitter tweeting all day long, for the most part, putting aside, let’s say, public health stuff during COVID, but for the most part, the top mathematicians, the top theoretical computer scientists, I know the really leading edge lab scientists, they’re doing their thing. They’re going for their Nobel. They’re trying to get their fields. They’re trying to do the work. So that’s another category, I think, that you see where this is not for me.
+
+So I take great inspiration from a novelist that really can just disappear. I collect stories, by the way, of dual-home professional writers who live — it’s always just they live in a city in the winter, and then they have a farm they go to in the summer. It’s just my dream one day. Yeah, there’s people out there doing it, and they’re people like me. You hinted at it before. It’s like the weirdest thing about me, as far as anyone is concerned, is that I’ve never had a social media account — and it turns out it’s allowed. Today, everyone understands it, but until a minute ago, people thought I was literally insane, and it’s fine. I had friends who knew what was going on in the world and sold a couple books, so it’s like — I think we tell ourselves that we’re stuck in this way of existence. We’re not really stuck. We have a lot of options.
+
+Tim Ferriss: Let me just add a few footnotes. Thank you for that. So Neal Stephenson, for people who don’t know, first of all, N-E-A-L, Stephenson, S-T-E-P-H, and he’ll pop up as soon as you type in N-E-A-L, but if you’ve heard the term metaverse, probably came from his novel, Snow Crash, has written many, Seveneves. My favorite is probably Cryptonomicon, which I think is a rare choice as a favorite, but personally, I think Crypto — 
+
+Cal Newport: Well, not in my world.
+
+Tim Ferriss: Yeah.
+
+Cal Newport: Computer scientists love Cryptonomicon.
+
+Tim Ferriss: It’s so prescient in so many ways. I mean, if you look at cryptographic, it’s cryptography leading into decentralized currencies and so on. He has spotted so many things around corners 10, 15, 20 years in advance. It is really quite mind-boggling. So Neal Stephenson’s piece, “Why I Am a Bad Correspondent,” I’ll put it in the show notes as well. I was going to include “Why I Am a Bad Correspondent” in this book that I was working on a few summers ago that I ended up canceling, which was The No Book. The placeholder title was The No Book, and I kept writing and writing and writing this book on how to say no and coming up with compelling reasons for why I should not write the book myself. So it was kind of this recursive situation where I ended up saying no to The No Book. But the “Why I Am a Bad Correspondent” is outstanding, so we’ll put that in the show notes.
+
+You mentioned writers. You mentioned scientists, and then one of the things that is perhaps weird or that people consider weird about you, and that is that you don’t have social media accounts. So I’m going to ask you, just to let this bake for a minute, what other things people would consider unusual or strange, and you could take that in any direction you want, but about you, your workflow, how you work, how you live, anything. But before we get to that, the no social media.
+
+So I found a GQ piece on you and digital minimalism, and you mentioned that you had a tech company during the dotcom bubble, and you’ve joked that you originally didn’t sign up for Facebook because maybe there was — I’ll just read the quote. “There was probably a little bit of petty jealousy,” Newport says. “Like: ‘Oh why is his company so popular? I’m not gonna give him the satisfaction of using his product.’” So did you commit — is that just purely in jest, or did you early on commit to that and then it just worked for you, so you continued? In other words, was it like a first principles decision, or did it start off in a different way?
+
+Cal Newport: So through the sands of time, I’m trying to remember because I had to go back and do some research, and I did confirm that Facebook arrived at my college in 2004, and I confirmed that was true, and that was the first major — there was things before that. There was Friendster, et cetera, but those were more niche. There wasn’t a real pressure to sign up for those. My memory, and again, this is through the sands of time, is that there was two factors why I didn’t sign up for Facebook. One was just what you were talking about. So Mark Zuckerberg was a contemporary of mine. He was a computer science student at Harvard at the time that I was a computer science student at Dartmouth.
+
+We had both started companies around the same time. His has been a little bit more successful, so I think Facebook ended up a little bit more successful than Princeton Web Solutions, which is what I had been running. I mean, comparable if you just add seven zeroes. So there was some of that because especially — I remember all the women I knew, and they were like, “Oh, this is so fun. I want to be on there,” like, “Why are they interested in this guy’s service?” There was some of that. The other thing, and I think this is true because I have a really strong memory of this, I have a weird, it’s not a phobia, but an inability to do rank list. So if you ask me, “Hey, what’s your favorite book?” which I get asked a lot on podcasts, I don’t know how to answer it. If you say, “What’s your two favorite movies?” There’s probably a name for it.
+
+Tim Ferriss: Our rapid-fire questions are going to be great towards the end of this.
+
+Cal Newport: Oh, you’ll see. You’ll see. I’ll freeze. I freeze on these all the time, or if I know they’re coming. I’ve done Ezra Klein’s show a few times. I learned — 
+
+Tim Ferriss: “Sorry, sir, you’re cutting out. I’m sorry. What was that? Yeah, your connection’s really bad.”
+
+Cal Newport: They’re all great. So it’s like enumeration numeracy or something, enumeration of numeracy, if I’m going to invent the word, and that was what early Facebook was, was your profile was a favorite quote, favorite movies, favorite books. It was a lot of Erving Goffman presentation of self type sociology. You had to decide, what am I going to say are my favorite movies, my favorite quote, to try to create a presentation of self that was — I can’t do that. So I really remember it was the combination of those two things. I was like, “No, this isn’t for me.” I’ve got to tell you, all it took was a few years of separation that suddenly, I felt like Margaret Mead among the Polynesian Islands because I was the only person not using this, and it was so interesting.
+
+From a remove, it was really interesting, and I was like, okay, I think I’m just going to run with this for a while, and I’ve got to tell you, from the outside, seemed more and more absurd, not that the services seemed absurd in isolation. The things that seemed absurd, my memory, was this presumption of universality, that these are technologies that everyone has to use, and it’s weird if you don’t. I thought they seemed kind of niche. They’re kind of cool, and if you’re into technology or web 2.0, maybe it’s interesting. I had nothing against them, but I was really wary about this rising presumption that everyone has to use it, and I’m an internet nerd from the early days, and I’m like, I don’t know that we should consolidate the internet into two or three companies where they built their own private shadow version of the internet that they can control. We already have the internet. Do we have to use these private walled garden versions of the internet? 
+
+This idea that it was weird not to use it, that’s really the thing that got to me. That was the thing that really probably made me an advocate in the skeptical column among social media. It was not that I thought what was happening on Twitter was bad. It was, why is it such a big deal that I don’t use it? So that’s really what pushed me into a place of something weird is going on in our culture.
+
+Tim Ferriss: Thank God your personal Everest is putting together lists of favorite books and movies. If you hadn’t had that problem, who knows where you’d be? God. You could be just another troll on Reddit or something. So that’s a good thing, that you had that friction. We’re going to shift gears a little bit because I want to continue to focus on the unusual, and unusual not in any sense of impracticality, but uncommon things that you do or don’t do. What is your Roles and Values document? Do you still have a “Roles and Values” document?
+
+Cal Newport: I do, yeah. Yeah. It’s part of what I pitch. I pitch this multi-scale approach to planning things out, and when I say pitch, I mean on my podcast or my articles. Roles and values are at the top, and this comes right out of Stephen Covey, “Sharpening the Saw” of 7 Habits. Here are the different roles of my life, and here are the values that define how I want to execute each of these roles. There’s professor, family, parent, whatever, the writer, whatever the role, community member, and here are my values, and there they are, and I look at them, and I refine them, and you have to think about them. Then in my scheme, you look at those when you then create your plan for the current quarter because you want to be in a line with your values when you make that plan. Then you look at your quarterly plan when you create your plan for the week because you want what you do this week to be in line with what your bigger vision is for the quarter, and then when you build your plan for each day, figuring out what to do with your time, that’s influenced by your weekly plan. And there you have a thread that connects everything you’re doing indirectly, but without any breaks in the links all the way back up to your values. So what I’m doing right now is a multilink connection all the way back up to, “Here’s the things I care about.”
+
+Tim Ferriss: All right. Let’s get into some specifics, more specifics here. You’ve written very well on, and I’m going to get the phrasing imperfect, but you’ve written very well on how many meetings are created or scheduled, because people otherwise don’t have good systems for keeping track of things. In other words, they’re afraid of forgetting to do something, and therefore, they just drop a meeting in the calendar with no clear agenda, because at least it functions to prevent the sand from slipping through the fingers.
+
+You have this document, the Roles and Values document. If I were to create a Roles and Values document, say in Google Drive, I would be super excited. I would focus on it. I might look at it the next day, but if I did not have some system for forcing me to look at it, evaluate it, revise it, it would become lost very quickly. I would forget I ever put it together. So could you just walk us through how you ensure that doesn’t happen for you, personally, with the Roles and Values documents? And then, furthermore, with the quarterly plan, and so on, what does your workflow, or your flow, look like for those things?
+
+Cal Newport: Well, I’m a big believer in what I call rooted productivity. So there has to be somewhere, I call it the “Root” document, that says, “These are the core, big picture systems that I execute in my life, and therefore, the only commitment I really have to make is that I will follow this Root document, that this is the commitment, either I’m someone who follows this Root document, or my life is chaos.”
+
+And then that root document is what lays out what I’m talking about here. It lays out that multi-scale planning, that these are the types of planning I do. There’s a few other things that lays out. It lays out that I do David Allen-style full capture. I’m a big believer about not having open loops. There’s a — 
+
+Tim Ferriss: Sorry to interrupt, but I will — so, do you read that every morning? Is this your boot-up sequence?
+
+Cal Newport: Well, it’s internalized now, but it’s written down, and my listers do the same thing. We put it in a directory, you call it “Root,” and you put all your planning documents in that directory, and you don’t have to look at it every day once you — you internalize it pretty quickly, but just knowing it’s there, and you can assess yourself as, “Am I following that, or am I not?” And it’s a binary. And then everything else comes out of it. So we call it a root, because then the tree of all these different systems, and stuff grow out of it. And then you might be really nitpicking with all these other small little systems, but they all eventually connect back to the root.
+
+And, to me, that’s a really big deal, that the biggest decision you make if you’re going to live a deep life, because productivity in isolation, I don’t even know what that means, who cares? But if you’re going to live a deep life, the ultimate original commitment is, “I’m going to commit to discipline in the sense of things I am going to do on a regular basis, because they matter, even if I don’t feel like it.”
+
+And that is the biggest binary zero-to-one flip that happens in crafting a life. What you commit to, that evolves over time. You might find, “This is a bad idea. I’ve been trying to, whatever, write down notes on a thing once a day, and that’s not really working.” And it all evolves over time, but the zero-to-one commitment is, “Do I have some structure I’m committing to, with the goal of making my life deeper, or am I winging it?” That’s the zero-to-one bit that I think matters more than any other.
+
+Tim Ferriss: Are there any particular levers, actions, anything, that have helped facilitate that for you, personally? So disproportionately so. And I’ll just share a few things for myself, which are, I think, sometimes embarrassingly primitive for me to even talk about, because I think some of my readers and listeners just imagine I wake up every morning with this mental karate chop, and just Matrix my way through the day with all these sophisticated systems. And that is not really how it plays out.
+
+And I will say, though, that there are a few things. One is looking at my calendar on an annual basis, and trying to block out extended periods of time for being offline. And by extended, that’s one, two, or three weeks, and ensuring that I have, hopefully, something of at least a week, once a quarter. So I’m actually leaving tomorrow for three weeks off the grid. And I will have no Wi-Fi, and no phone for three weeks. And that’s important to me on a multitude of levels. Number one, it allows me to check in, and see how comfortable I am with myself when I am not over-busied. It provides me with time to reflect without the ability to indulge in the temptation to go on Twitter, or check something.
+
+So I don’t need to rely on self-control. In other words, I’m saved for myself. It allows my system, physiologically, time to reboot and recover. And it also forces me to put in place, or revisit, systems that allow me to be gone for three weeks. So as an example, figuring out right now, and yesterday, and today, that my usual checks and balances with team members and assistants for wire approvals isn’t going to work while I’m gone. So we need to upgrade those systems, so that we don’t have any issues, because my assistant, unless there is an emergency that necessitates a satellite phone, is not going to be able to reach me. And then those systems outlive the time off the grid. So that’s just an example of one thing that I do that seems simple.
+
+It is simple, in theory at least, that has this huge spectrum of ripple effects. And there’s some other things that come to mind, but I’d love to know, for you, if you’re trying to focus on this deep life and rooted productivity, do any — which levers or actions have been particularly impactful for you, that come to mind?
+
+Cal Newport: Well, I think periodic reflection plays a critical role for me, too. As a professor, there’s a seasonality that’s built into my work, which I wish could be widely replicated.
+
+Tim Ferriss: So great. So jealous. Yeah. I suppose I could do it, but man, it’s such a great — such a wonderful thing.
+
+Cal Newport: Everyone who runs their own business, who’s entrepreneurial, where you have some flexibility, I think you should integrate seasonality into what you do. I am a big believer in seasonality in all scales, by the way. Busy and not-busy parts of your day. Busier, non-busier days of the week. Busier and non-busier months in the season.
+
+I think, at all scales, we need it. Being pegged all the time, filling your time all the time, is not healthy for us. So for me, there’s the December break, and the summer break. Just like you. So for my December break. 
+
+So December 6th is my last lecture on campus. That’s when the semester ends, and for all of the time after that, between then and when the semester begins again, each week, I’ve already blocked off one full day off from no meetings, no phone calls, no podcast recordings, no nothing, plus an additional half-day off for what I call adventure work, where, typically, I’ll go to trails, outside, somewhere scenic.
+
+Sometimes I’ll go to the museums in downtown DC to just think about one problem in an inspiring or unusual location. I’ve already blocked those days off, because I want to get the most out of December. And then when I get to the summer, with professors, it’s a little bit weird. We’re not really paid during the summer. What you do, at least at a research university, is you get summer salary from research grants. And that’s how you cover the two months in the summer.
+
+And, at some point, after tenure, when I didn’t have to worry about that so much, is I decided I’m not going to take research grants for the summer. I’m just going to take the summers off. I’ll fill in the gaps in income with writing, or what-have-you. And so, I actually literally am not working for the university for two months out of the summer. And that’s really critical for me. That type of seasonality is probably one of the biggest advertisements for the professor life that I could give.
+
+Tim Ferriss: What do you do on your days off?
+
+Cal Newport: It’s not clear what on or off means for me. I read a lot, I think a lot, I take a lot of notes. For me, a day off, what I care about, is a day where I don’t have to be interacting professionally with other people. To me, that’s what off is. I don’t have to go on Zoom. I don’t have to go in for a meeting. I’m not in front of an audience. I’m in full control of my time. I don’t actually like not doing things when I have control of my time. I love to do things where I have complete autonomy over my time.
+
+I’m going to go for a walk, and think this through. I’m going to go work on a book proposal. I’m going to read this book. I’m going to — then when my kids get home from school, we’re going to go do something else. And so, for me, a day off is a day where I have full autonomy over what I do. The blank calendar day, to me, is one of the more glorious sights. If you really want to hear the chorus of angels, forget solving a math proof, or getting a sentence to work right. Seeing a day on the calendar where there’s nothing in Gmail — I think Gmail should have a feature that just pulsates an angelic glow, if you see the little feedback, that little feedback loop.
+
+Tim Ferriss: I’m looking for some inspiration. So these half-days of adventure work, at inspiring or cool locations, I don’t want you to dox yourself, but what are some locations you’ve used, or types of locations, and why did you choose them? Because even if you say museum, if you’re in a city, there are multiple museums you could choose. So how did you choose a particular place? And then when you are working on some larger problem or project, what does that actually look like? Is it just pen and paper? Is it laptop where you’ve knocked out the Wi-Fi? If you could give maybe one or two real-world examples, that would be super helpful.
+
+Cal Newport: I think a lot about location. So if I’m down at the Mall in DC, for example, there’s a couple different games I’ll play. Sometimes I’ll go to the Botanical Gardens, which the National Botanical Gardens, it’s a giant greenhouse. And so it resets your whole context, because you’re in a tropical climate with palm trees, and there’s these paths that go through it, and there’s benches, and you’re going to get really sweaty. It’s very humid, but I’ll go there.
+
+Sometimes I’ll go to the National Gallery, because there’s a certain type of connection to history, classical antiquity mindset you get if you walk through, and here’s a Leonardo you’re looking at, especially the Italian Renaissance floor. And then there’s an underground cafeteria at the National Gallery that connects the east and the west wings, in which there’s essentially no cell phone reception. So then you go down there, and you get coffee from the coffee place, and there’s this waterfall that you can see through the glass.
+
+And then hiking. There’s the Patuxent National Wildlife Refuge. It’s not far from me. You can go there, and you can hike there. There’s the Rachel Carson Greenway, that used to be closer to my old house, and I would hike the same thing every week. And so, I got really good at the change of seasons. It’s a real thorough move, noticing week-by-week how things were changing, and what was happening with the leaves. And I had names for all the places, and I would do the same hike again and again.
+
+And this is all pen and paper. It’s me, notebook, a Uni-ball micro, 0.5 millimeter roller pen, and — 
+
+Tim Ferriss: 0.5. I like that. I’m torn between the 0.7 and the 0.5.
+
+Cal Newport: Well, the bleeding — 
+
+Tim Ferriss: Deep inner conflict.
+
+Cal Newport: I don’t know, man. I think if you’re using a 0.7, you’re going to start to get some bleed when you’re — 
+
+Tim Ferriss: I think I’m a masochist.
+
+Cal Newport: Because, also, I’m doing a lot of — if I’m doing CS work, I’m doing math. And so, there’s a lot of little Greek. If you’re drawing an epsilon, or you’re doing exponents, you need a 0.5. And this is really — 
+
+Tim Ferriss: I know. My notepads are so full of exponents and epsilons. I don’t even know what to do with myself. 
+
+So you have your 0.5 millimeter exponent-ready pen. You have your pad, you go to the Botanical Gardens, you’re drinking coffee, you’re sweating your face off. What type of work are you doing? What does it look like for that half-day? If we’re looking over your shoulder, what’s happening there?
+
+Cal Newport: So either I’m trying to solve a particular proof. So if I’m doing my — have my computer scientist hat on, I’m trying to solve a proof, it’s literally — I do a lot of graph theoretical stuff, and you’re drawing graphs. You’re just trying to make it work, or at least make aspects of it work, or figure out why it doesn’t work. I’m drawing equations, I’m drawing graphs.
+
+Or if I have my writer hat on, I’m trying to crack structure. So writing has to — for me, writing, of course, has to happen with a computer. And that’s just — it’s a whole other thing, but I put a huge amount of time in figuring out the structure of the ideas that I want to write. And, especially, if I’m working on something like a book proposal, I mentioned before it takes me six to 12 months. Again and again, you’re going to find me somewhere with a new notebook, just like I was doing this morning right before I got on the call with you here, just writing, trying to structure out, index, outline. “That’s not quite working. How does this fit together? What about this format for the book?” I’ll sometimes buy a dedicated notebook for a book idea. It’s a trick of mine that I would — 
+
+Tim Ferriss: I do the same thing. Yeah. Dedicated notebook.
+
+Cal Newport: Yeah. That’s what I’m writing in. So it’d be one of those two things.
+
+Tim Ferriss: What do you use for writing books? Do you have a preferred software? As you’re talking about indexing, and playing with table of contents, and structure, I have found Scrivener just to be a lifesaver in that department. I’m sure there are a million other options, but I’ve used Scrivener for many years. What do you use for your book-writing?
+
+Cal Newport: So when I switched to contributor status at The New Yorker is when I switched to Scrivener. I haven’t tried it yet for a book. So we’ll see about that. But I definitely, for all of my articles, all my New Yorker work, all that’s Scrivener. I love it. Absolutely.
+
+Tim Ferriss: Why did you — why was that the catalyst to switch to Scrivener?
+
+Cal Newport: It was very well-suited. So that type of writing, New Yorker writing is very dense. It’s dense in information.
+
+So you’re citing a huge number of different — you saw it in the article I wrote about you, there’s a huge number of things you have to cite. And so, the double pane feature of Scrivener is an absolute lifesaver. Okay, here is — I can just grab the article I’m citing, and it’s on the right pane. And then I can quote from it directly on the left pane, or I can take a different section of the article, and put it on the right pane, so that the left pane I can properly reference it.
+
+And then you just jump into composition mode when you’re — so you’re pulling in information, and getting a draft of it. And then you shoot to composition mode, full screen, best composition mode of any tool out there. And then you’re word-polishing, and then you jump back. It’s a great tool. I’ve loved it.
+
+Tim Ferriss: Yeah, it’s great.
+
+Cal Newport: I’ve been a fan ever since I started using it.
+
+Tim Ferriss: I’ll, just for people who don’t have context, add a little bit more. So Scrivener, for me, the reason I began using it, is that, prior to that, I’d use Word. And if you’re using Word, and you have, let’s just say, as in my books, which are both long and have many components, if you have 27 chapters, and you have 15 open documents, because you also have research documents and reference documents, your computer will cease to function, and your brain will cease to function.
+
+But with Scrivener, at least the way that I use it, you have these stripped-down format-minimal documents that can all be looked at within a single application, and you can format it in different ways. A lot of screenwriters or playwrights use Scrivener. I think that’s, initially, how it came onto my radar. I had not seen anyone use it for nonfiction, at that point. But I cut — if you imagine your screen cut right down the middle, on the left-hand side, you have this table of contents. It’s the easiest way to think about it.
+
+And I will immediately break my book into three or four sections, even though I may not even have labels for the sections. And then I decide which documents will go into each of those sections, and you can just drag them around. So you can play with the order. You can create another section, as an example. And then you have research at the bottom of that left-hand pane. On the right side, if you split that in half horizontally, what I’m working on — this is just how I do it. What I’m working on will be in the top right pane. And then, below that, the bottom right pane, I will have whatever research doc I’m referring to, since my stuff is also very factually dense, and requires citations, and references, and so on.
+
+And by doing that, you don’t have to click back and forth between tabs, or between programs, between documents. It’s a really elegant solution. And I hope you’re not offended by me focusing on some of the tactical stuff, but I’m curious in the thought process behind some of your decision-making. That’s much more interesting than just the output of the decision. It’s like, “Okay, how did you arrive at this?”
+
+So when I was reading about your quarterly plan, sample week plan, et cetera, in the end of this blog post, and that was from January of 2021, and I don’t know if this is still the case, but I’ll just read this last paragraph. 
+
+“To be clear, most of the obligations on my plate exist as concrete items in my task lists (which, as my podcast listeners know, I maintain using Trello). But most of the projects that move the needle in my career — working on a research paper, writing a major article — never get discretized…” I’m not even sure if I’m pronouncing that correctly. “…into bite-size actions on a list. I instead treat them with the level of intention that their formidable difficulty deserves.”
+
+So the Trello use. I’ve used Trello. I like Trello. I tend to use — I’ve used both Trello and Asana. I’m curious how you’ve ended up arriving at Trello.
+
+Cal Newport: Trello has been my tool of choice recently for organizing tasks. And the way I actually use it, is I do a different board for different professional roles. So I have a writer board, I have a board for CS research. So my role is a researcher, and then a board for the teaching and administrative pieces of being a professor.
+
+So there are three separate roles. They have separate boards. The columns that I, then, divide those boards into, represent different categories. I have a column for, “I’ve got to process this.” This is a David Allen idea where I need to put this down somewhere, this thing, but I don’t really even know what this thing means, I need to do. It’s, A, we need to recruit someone. Okay, I don’t know what that means, but I don’t want to — so let me just write that down under, “To process.”
+
+Another hack I do is, anyone I meet with on a regular basis, they’ll have their own column on the particular board. So if anything comes up I need to ask them, I actually just put it on a card, and put it under their meeting column. And then when I meet with them, I just go, and boom, we go — 
+
+Tim Ferriss: That’s clever.
+
+Cal Newport: And then, typically, I’ll have a column for like, “Okay, definitely this week, this needs to happen.” So when I go through my weekly planning, I’ll move things to that. And so, I like that, that I have different roles, different columns. And I like that the virtual cards, and all these tools can hold a lot of information. So I’m a big believer that all the relevant files, all the relevant notes, if someone emailed me something about this task that’s relevant, you can just copy and paste this all onto the virtual back or attach it to the card.
+
+And so, it actually is also an information management system, not just a task management system. And so, that’s been what I’ve been using. And then, typically, I really go through those all at the beginning of the week. But when I build out my weekly plan, I’m often identifying off those boards, “This is what I really want to get done this week.” And then I’m often executing largely off that weekly plan.
+
+I should — let me — actually, Tim, I’m going to give a broader context here, because I’m a weird guy. I talk about a lot of things. So I’m going to attempt to try to put all the weird things I do into some sort of context, because we covered a lot of territory — 
+
+Tim Ferriss: To un-weird the weird?
+
+Cal Newport: Yeah.
+
+Tim Ferriss: Let’s do it.
+
+Cal Newport: Just to illustrate the weird. So there’s a few — there’s these two different main hats I wear. So there’s a hat where I’m a computer scientist, and I publish papers on, mainly, theory of distributed systems. And there’s a journalistic, public commentary, critique-type writing. This is like my articles for The New Yorker, my New York Times op-eds, my books, mainly. And my books, especially recently, have really been about tech and culture, and their impact, though they have a real practical aspect, too.
+
+But then I often also talk about productivity, largely because it’s just — people are interested in how I do these other things. So it’s become — it’s not a necessarily a tier one topic that I write about, though. I do, because Deep Work, I think, talks about this, for sure.
+
+But then, also, we talk a lot on my blog, and on my newsletter, on my podcast, about what we’re talking about here, because I don’t think we talk enough about this, in general. So people are out there, “Well, how do I organize my aspirations? How do I structure a life to be deeper, and not get lost in the noise, but not be over-scheduled?” And so, we geek out a lot on productivity, as well.
+
+So just to give, I don’t know if that’s useful, but a landscape of, “I do these two big things, but then I have to care a lot about productivity to do these big two things.” So then I talk about, “How do I do the productivity? What do I do to make sure that I can still write an academic paper, and a New Yorker piece, and a book, and whatever? How does that all fit into my life?”
+
+Because I care a lot about it. So I don’t know if that’s useful, but that’s my lay of the weird landscape for the various things I do.
+
+Tim Ferriss: We are going to talk about, say, for instance, a 30-day digital minimalism experiment, so do want to dig into that. Before we get to it, though.
+
+But we’ve got in 2019, the artist, writer, Jenny Odell, is that right, helped kind of start the trend, which we’re going to talk about. When she published a book titled How to Do Nothing: Resisting the Attention Economy, so that becomes a New York Times Bestseller, Barack Obama, one of his favorite books in 2019. Then, it was followed, I guess, a year later following spring by Celeste Headlee, I’m not sure if I’m saying that correctly, but Do Nothing, subtitle, How to Break Away from Overworking, Overdoing, and Underliving.
+
+Then, you have Anne Helen Petersen’s Can’t Even: How Millennials Became the Burnout Generation, maybe a little less-inspiring sounding, it doesn’t — I’m always curious about titling decisions and the thought process behind it. Maybe, it could be a fantastic book, but I haven’t read any of these. Then, Devon Price’s Laziness Does Not Exist.
+
+Now, these are, I wouldn’t say, entirely new in the sense that you can go back to Thoreau or Emerson and certainly you can go thousands of years back to Hakuin and you can find discussions of overwork, busyness, laziness versus contemplation. Are there any books? I know I’m pushing on your weakness here in terms of listing, so not asking you to list, but are there any books in the last five or 10 years from broadly speaking this kind of category that really stand out for you?
+
+Cal Newport: Yeah, it’s an interesting category, first of all. I sometimes call it the anti-productivity category though, that’s not quite the accurate label, but it’s a really interesting category. My book came out the same month as How to Do Nothing. Me and Jenny were paired. So many from The New Yorker, The New York Times Book Review, The Ringer, there’s all these articles that came out where it was always talking about us, those two books together.
+
+That was definitely had a close experience. Price’s book is great. I blurbed that book. Celeste Headlee’s book is great. I interviewed her for The New Yorker in a piece I did, I would say that what I would add more recently, a book just done really well and I think, and I’ll get into a reason why I think it did was Oliver Burkeman’s new book, which is maybe it’s called Four Thousand [Weeks]. I might have the number wrong.
+
+Tim Ferriss: Oliver Burkeman?
+
+Cal Newport: Yeah. He’s a British writer and I blurbed that book because it’s great. Anyways, the subtitle is something like Time Management for Mortals or something like this. But it killed it. The book did great. It came out a few months ago or maybe over the summer of a bad sense of time. But the number of hours, I’m getting the number wrong, probably something with a four.
+
+Tim Ferriss: Four Thousand Weeks: Time Management for Mortals. Weeks, Oliver Burkeman.
+
+Cal Newport: Weeks. Yeah. That’s how many weeks?
+
+Tim Ferriss: B-U-R-K-E-M-A-N. Yeah. Four Thousand Weeks: Time Management for Mortals.
+
+Cal Newport: Yeah. He writes a column for The Guardian. So 4,000 weeks is how many weeks you have to live. I think that really hit and it really hit in particular because it was introducing values-driven productivity, you could think about it. All that really matters when it comes to organizing your time or being organized is you’re trying to do is you only have so much time and you want to do things with it that’s useful, meaningful, and effective.
+
+To just be busy for the sake of being busy isn’t good. I think all of those books make that argument. I think they’re all pushing back an empty, crushing busyness. All the stuff I’m doing, it’s always frenetic, but I’m papering over the existential void I don’t want to stare down by doing all of this. What I probably need to do is stare into that void for a while, wait until the vertigo goes away, and then get up and actually start building something real.
+
+I think they’re all touching on that because there’s this whole sort of fractured sense of overload that’s happening right now, where you have all these different things coming together. You have the digital distraction piece, which obviously I’m sort of associated with, is really a symptom of the bigger problem.
+
+Our phones can be a palliative to this existential despair, but the despair is there and the despair is not going to be fixed by just getting rid of the palliative and saying like, “Let’s not use Instagram anymore.” It’s still going to be there. We’re using these things all the time because it’s more palatable to be active and busy all the time than sometimes to face what’s hard about what’s going on in our lives or the world.
+
+I think all of these books are picking up on that and we need to slow the hell down, figure out what we really want to do, do these things at a reasonable pace, slow productivity not fast, and face the hard stuff and make the good stuff better. All these books I think are getting at that main thing. They all just have different angles out there.
+
+Each of them have a different approach they take to this issue and that’s like its own interesting topic. Everyone comes at this from different ways. Burkeman comes at it from a Humanist way. I kind of come at it from a Humanist way too in Digital Minimalism. It’s about improving — 
+
+Tim Ferriss: Let’s say, in Oliver’s case, to come at it from a Humanist perspective, what does that mean?
+
+Cal Newport: From a perspective of trying to maximize or improve the flourishing of the sort of unique and cherished being that is the humans. As a human, you’re an important, unique entity to be cherished and should think about crafting a life in which you flourish. That’s the Humanist.
+
+It’s kind of in these lives of indiscriminate busyness and often where I’m just overwhelmed all the time and distracting, every moment is you’re diminishing your humanity. There’s a Humanist approach where Anne Helen Petersen might come at this more with a sort of post-liberal, anti-capitalist type approach that productivity culture is really just part of the superstructure that supports the base of exploitative capital extraction. It’s an economic argument.
+
+Tim Ferriss: Right.
+
+Cal Newport: There are just these different arguments. Celeste is more comes at it from more of a cultural — Odell comes at it with a mix of Humanist and economic and artistic. I think that’s why that’s a phenomenal book. I think it’s very smart, very original. There’s just these different takes that are all coming at it and all add something. But they’re all are getting that the same underlying issue of this sort of sense of crushing overwhelm busyness.
+
+Tim Ferriss: I was thinking if this New Yorker gig, CS professorial life doesn’t work out for you, you could actually work on some sobering children’s books along the lines of Dr. Seuss. And the first one could be called The Despair Is There. Let’s get these kids sobered up quick.
+
+Cal Newport: Yeah, we’ve got to get worse, buddy. Get ready.
+
+Tim Ferriss: Yeah. Let’s say looking at that through and this may not be the best segue, but I’m going to give it a shot anyway, we were talking about the deep life and I’m going to lead into this through that.
+
+I’m looking at a post of yours from 2020, and it says, “I strive to divide my focused attention among four categories, community, family, friends, et cetera, craft, work, and quality leisure.” I love that term quality leisure, constitution, health in parentheses and last, contemplation and then, in parentheses matters of the soul.
+
+So I’m going to ask you not the second, but I’m going to ask you about that fourth one, contemplation matters of the soul and the way that we’re going to move into that is through John Newport. So who is John Newport?
+
+Cal Newport: Well, it’s my father’s father, my grandfather, a Baptist theologian and scholar and one of the only of his era Baptist apologists, meaning basically someone who — he was Southern Baptist, who was very interested in actually going out there and encountering other worldviews, understanding other approaches to things, and then trying to make a case. “Let me make a case for the Baptist Christian worldview. Let me actually go out there and make my case,” as opposed to saying the non-apologist approach of “Batten down the hatches. We have it right. I don’t want to hear about what else is going on there.”
+
+My grandfather was someone who — he hung out with Carl Jung. He would walk with Heschel in Central Park when Heschel was still at the seminary there. He would study, or he was at Harvard for a year hanging out with Niebuhr. I mean, he was out there exposing himself to every interesting idea and worldview and approach that’s out there. He would want to understand them deeply and then try to understand why the advantages of his through comparison and not to get too philosophical, but it was a sort of Socratic dialectical — 
+
+Tim Ferriss: This question is very much a philosophical question.
+
+Cal Newport: But he would find it. You would get more strength in which is a big thing I took from him. He was alive till right around — he died basically on his way to my high school graduation. So I knew him throughout my entire up to the beginning of my adult life.
+
+The dialectical method of encountering and fully understanding a different approach, your understanding of the world and your convictions will get stronger that you don’t want to try to avoid or sidestep or discredit before you have to see them, “Go, hang out with Heschel.” “Go, hang out with Niebuhr.” “Go hang out with Tillich.” He wrote a book on Paul Tillich. “Go hang out with Jung and really understand.”
+
+Tim Ferriss: Who is Paul Tillich? Just so I know. I’ll admit I don’t know that name.
+
+Cal Newport: He was a Christian apologist. He was a Christian theologian that did a lot of — of the same rough era, C.S. Lewis, but was a little more academic than Lewis, but so was the very smart apology, really trying to explain the Christian worldview.
+
+Tim Ferriss: Would you pause for a second? So an apologist, I would imagine for some people has a negative connotation to it, but it doesn’t seem like that’s how you’re using this word. Would you mind just explaining the use of that term?
+
+Cal Newport: Yeah. There’s a technical definition that I’m using. So the technical definition of an apologist, it’s just that, you’re someone, who is out there making a case for the thing that you believe in the effort of explaining it to other people, it doesn’t have to be evangelical.
+
+In the general sense of that term, in terms of you’re trying to convince people, but at least you’re trying to encounter other people and explain the thing that you’re trying to explain is right. A lot of what writing you do or I do is technically would be an apology. If I write a book Deep Work — 
+
+Tim Ferriss: Productivity apologist?
+
+Cal Newport: Yeah. Like, I’m a concentration apologist.
+
+Tim Ferriss: That’s a confusing term. Do you have any idea how that became — the etymological reasons?
+
+Cal Newport: It came out of theology.
+
+Tim Ferriss: Came out of theology. That’s super fascinating.
+
+Cal Newport: I think it might’ve, I don’t want to talk out of school, I might be wrong about that. You’re right though. It’s not in common parlance. So I should advocate maybe, but the main point is, in the Southern Baptist Church, at that time, you wouldn’t see a lot of apologia because you didn’t want to go out there and encounter other worldviews like that. “I just don’t even want to know about that.”
+
+Tim Ferriss: Right.
+
+Cal Newport: I think we see a lot of that today outside of the religious context. We talk about this a lot on my podcast. But don’t be afraid of ideas or worldviews or approaches or philosophies that seem different than what you believe in. You’re not going to get tricked out of your convictions or believe in something that’s false.
+
+You actually strengthen your understanding of the world and therefore strengthen your own convictions by encountering other ideas that are well-formed. It’s at the core of the intellectual life for the last, however, many centuries who want to say it, that’s sort of a core operation and he personified that.
+
+Tim Ferriss: If we look at the contemplation bucket and then in parentheses matters of the soul, so this is one of your four categories of focused attention. What does that mean to you? How do you focus on contemplation and matters of the soul?
+
+Cal Newport: The way I would generically tackle that would be to say that humans have these intimations, where this seems right or good, or awe-inspiring, “This doesn’t seem right. This doesn’t seem good.” Certain behaviors you see in a movie, the villain and it hits this thing inside like, “That’s not right.” You’re watching Succession on HBO and you’re like, “All of my moral intuitions are telling me that these are bad people. Don’t be like these people.”
+
+You know what I mean? We get on the other side too, that you encounter the inspiring and the person, who sacrifices or what have you, and it just hits something inside and you feel it right. So you can call these intimations. John Hick would call these moral intuitions. There’s different terminologies for it. Critical, I think, and this, obviously, by I, I mean all of philosophy — 
+
+Critically, I think and all of the theology for that matter too, is figuring out how to actually structure a life around these intimations. A life that pushes you more towards the things that just instinctually hit you as, “This is right and good and I just know it,” and away from the things and the behaviors and the approaches to life that just hits you at a gut level is, “This is not right. This is not good. It hits me off.”
+
+This is what philosophy does, this is what religion does. If we think about it from a big picture perspective, is it is ideas evolved over time through experience and argument that essentially help you align your life with the things that the moral intuitions that are positive and away from the ones that are negative.
+
+It’s why you shouldn’t be quick, for example, to dismiss a field of philosophy or religion as like, “I can just figure this out from scratch,” or, “It’s talking about mythologies that I can’t empirically validate in the world.” What you really have, there is a moral technology, something that’s been evolved over time to align your life with these intuitions that you feel.
+
+That’s the contemplation bucket is you better be doing something along those lines because just winging it’s not going to matter. I spend a lot of time trying to think about that bucket. Some details of how I tackle that, maybe as personal some are not. I engage a lot in philosophy. There’s religious engagements in my life. I’m not formally practicing and associated with a particular religion, but that’s also something that might not — 
+
+I don’t think that’s necessarily a permanent state. I think there is a lot of intuition and brilliant human, moral engineering in religions. 
+
+Tim Ferriss: Well, if you’re open to it, I’d love to talk a bit more about this because I’ve heard, for instance, conversations between Sam Harris, who’s a friend, and Jordan Peterson. I’m going to, I’m sure, misrepresent both sides. So sorry, guys.
+
+I’m just going to paraphrase, but in general, Jordan refers to mythology and the Bible as sort of moral frameworks that have been time-tested, which is not to say, I don’t think he would say that we should base all of our lives on Cain and Abel or something like that. But the fact of the matter is that as humans, we’ve had a whole lot of trial and error over a very, very long period of time. Certain stories have struck a chord and stuck, maybe there’s value in those stories.
+
+Again sorry, Sam, I’m sure I’m misrepresenting. If Sam is perhaps arguing that you should start from first principles, you do not need theology or religion but can build a moral code and framework for yourself, I think Jordan’s response to that would be, “You’re expecting too much of people.” People are just going to have too much trouble doing that. They want something out-of-the-box that is good enough to be helpful.
+
+What I’d love to ask you is, and I spend a good amount of time thinking about these things for myself, just for myself, not for anything else my life and I would love to know what this does for you. Maybe, we could start there, what is the need that it satisfies, or the unease that it quells to have contemplation/matters of the soul as one of the four or main categories? Maybe we could start there. I’d just love to hear you expand in any way you feel comfortable.
+
+Cal Newport: In that particular division, my instinct is that Jordan is probably more on the right path. I’ll tell you a book that really was striking to me that I think gets right at this. There’s this great book called All Things Shining. It was written by a philosopher from Harvard and a philosopher from Berkeley, Dreyfus, and I forgot the other name.
+
+But they talk about this issue. This was the central issue that this was what the nature was worried about. We are now going to have to create morality from scratch and that’s not going to go well. Obviously, Jordan is very keyed into this because his early interest was in the rise of totalitarian regimes that occurred in the 20th century in that context and, spoiler alert, things did not go well.
+
+But there’s this lament in that book about it is looking at these prior periods in human history where they used the word, the sacred, but they talked about life was just infused with the sacred. In ancient Greece, classical Greece, they really did feel the gods, the Olympian gods would inhabit you, areas would inhabit you.
+
+That was to feel, these feelings you would have was literally gods inhabiting you. In the medieval Christians, everything had a place and a sacredness to it, even objects in the world. Then, that all went away and they opened the book with David Foster Wallace and basically use him as personifying. I can just figure this all out from scratch, from first principles. They use them as a — 
+
+It’s a really poignant but tragic story because, of course, it’s a story that ends up with Foster Wallace’s suicide. They use that to set up the difficulty of trying to build everything up from scratch. Especially, when I guess that’s what Jordan likes to point out is, we have these intuitions that are really deep and incredibly powerful. Jordan was very inspired by Jung.
+
+He’s really drawing from Carl Jung, J-U-N-G, his archetypes, his idea that there’s the collective unconscious that has these archetypes, that all humans have — they have a deep history pre-culture. Our myths, the reason why certain myths resonate is they’re pressing these buttons and those buttons, what he would call archetypes, Jung, I think of as intuitions and that we have these technologies for sort of — 
+
+I’m using technology, not digital or electronic, but philosophical and theological technologies. It aligns your life to these things. We’re meant to be aligned to them just like our sense of thirst means we really need to drink water. We shouldn’t just ignore that and say, “Is there another are ways for me to achieve the proper isotonic balance in my bloodstream?” Actually, the instinct is to drink water.
+
+All of those things have been very affective to me with an A, affective, in the sense of affecting me. So I think there’s something to that is that a life that aligns with these intuitions can be very resilient and rich. Then, we just have personal experience. Some people get this through philosophy and some people get this through religion but they’re drawing from the same internal hooks.
+
+I get very nervous when I think about the challenge, the Nietzschean, that’s the word challenge of going back to first principle. This was all of philosophy tried to do this for a couple of hundred years, what Kant was trying to do. We tried it, this is very difficult. I know Sam disagrees and he’s smarter than me. Let’s listen to him maybe more, more than we listen to me. That’s where I fall on that if that makes sense.
+
+Tim Ferriss: Well, this is a topic of infinite interest to me. I’d love to keep batting things around for a little bit if you’re open to it. I actually have All Things Shining downstairs. All Things Shining, subtitle, Reading the Western Classics to Find Meaning in a Secular Age, by Hubert Dreyfus and Sean Dorrance Kelly.
+
+I was gifted this book, and you would think based on the title and how much of a Stoicism and philosophy nerd I am that I would have just taken to this like a fish to water. I found it very challenging to read. I think perhaps it was just all of the references to Moby Dick and The Odyssey. It could have been that I’m not sure, but I found it very dense in a way that made it hard for me to, at least, process at the time that I was gifted it.
+
+I’m just going to mention a few things in no particular order. The fact of the matter is, I don’t know Jordan Peterson well, we’ve spoken before and I’ve had him on the podcast, but I don’t know him well. I would say I know Sam well and have spent a lot of time around Sam. I use his Waking Up app. I’ve read many of his books, and we’ve just spent a lot of time in person.
+
+Sam, by and large, seems to me to be a very happy, at peace guy. That’s interesting that now is that Sam out of the box, how much of that is nature versus nurture and training versus default? I can’t say, I have no idea. But he has managed, it seems to thread the needle and create meaning and frameworks for himself that really seem to work well.
+
+Certainly, there are counterexamples. When I see a book, like All Things Shining, do you know the backgrounds of the two co-authors in other words, were they backing into the book from the perspective of people with religious upbringings? Or do you not know if there’s any? Do you not know the background?
+
+Cal Newport: I know their background. Kelly was Dorrance’s advisee or some such, but I don’t know. Because they end up in a non-religious place, by the way. If you get to the end of that book, where they end up basically saying, craftsmanship, craft is the solution to reinjecting sacredness in a secular world. So they do not end up with saying, “What we need is religion or Stoicism or a particular philosophy.” They end up saying, “Craft is partially our savior, because when you’re trying to build, do something at a high level, you have a rigid framework of value. That if you’re a wheelwright, some wood is better than others, regardless of what other system you’ve created.” It’s just an external reality. This wood is better than that wood, and it’s a way to actually get some firmament.
+
+So they end up saying, “You should focus on basically your work or craft and taste and quality.” Which actually, may be not that far from where Sam is. So maybe I think it’s a really interesting point. Yeah.
+
+Tim Ferriss: Yeah. Maybe they ended up converging. I mean, it’s also a very, not to paint with too broad a brush, but having lived in Japan and having gone to school there and speaking and reading and writing Japanese, I feel like I have some credibility to say that it’s also a very Japanese, or a very prevalent sort of Japanese sentiment and predisposition, is to focus on the meticulous attention to detail within craft, as a means of creating the sacred. Whether you look at the tea ceremony, you look at Kyudo, which is the Japanese archery. There are many different sort of instantiations, if that’s the right word, of this throughout the culture, which is by a large, not always, but by a large can be experienced through a secular or religious lens in Japan.
+
+Japan’s a fascinating example. I can’t remember the exact expression, it’s in Japanese. I’m doing a terrible job of mangling a translation here, but it’s something along the lines of we are Buddhist when we’re born, Christian when we get married, and Shinto when we die. I might actually have it in the exact opposite, but Shinto when we’re born, Christian when we’re married, and Buddhist when we die. But what comes to mind for me when looking at all of these different approaches to trying to check the box of contemplation or matters of the soul, is that, and I’d love to hear what you think of this, because there’s no right and wrong. How would I prove this?
+
+Is that humans really do not like the discomfort of uncertainty in the paradox of choice presented by a life that is largely messy and outside of our control. And therefore we want frameworks and rules so that we constrain the universe of things that we need to think about. Does that make sense? So as such, something like the 10 Commandments, very helpful, right? And having strict rules for what you can say, eat or not eat, are very helpful in some ways. It just removes certain territories of life that you need to think about, or at least you have some reassurance that you don’t need to worry about. And at the same time, there’s part of me that thinks, “Well, religion is fantastic for that.” And I did not grow up religious. I’ve been exposed to a lot of religion.
+
+And honestly, very often I have extreme envy of people with strong religious conviction for precisely that reason, right? Because I just feel like I’m trying to David Foster Wallace my way through life and it’s really fucking hard and can be very, at least for me, destabilizing, just to have this universe of infinite options and potential decision making at the same time. I think, well, if we are accepting religion, because it is this pervasive not to make it bad, but almost universal instinct of humankind, which it seems to be like myth making. I’m not saying that’s what religion is, but meaning making through stories and religion in some fashion. Really seems to be an evolved instinct of some type. But we could also say without certain constraints, there are other impulses humans have, right?
+
+That we constrain. And so I don’t even, I know I’m going on and on a bit here, but it’s, these are some of the questions that remain with me as I continue to explore. In my case, I think I’ve sort of passed the point of no return with respect to a specific denomination of religion. I just, I don’t expect that I will be able to, for a million reasons, get there. So looking at the alternatives, these are some of the questions that I end up pondering. And then if you are talking to someone, let’s say you’re talking to students who are in a similar position, maybe they had a really terrible experience being brought up in a religious household, or perhaps just for any number of reasons. They’re just not going to end up at religion. Are there other ways you would suggest they explore? Because you said philosophy, but philosophy is so broad, right?
+
+I mean, you could just go walk into a philosophy department at any university and man, you’ve got, you do have a paradox of choice situation on your hands. If you’re an undergrad and going to like Epistemology 101 and getting walked through it, that’s fine. But if you’re trying to use philosophy to help figure out your life and starting from scratch, do you have any secular recommendations for folks? Any other recommendations or thoughts?
+
+Cal Newport: It’s a great question. And I just want to throw one idea into the mix and I mean, it’s a common idea in some theological circles, but I think that the author, Karen Armstrong makes this argument very well in her book The Case For God. She is actually not religious affiliated. She used to be a nun and had a bad experience and left the Catholic church. But she has this magisterial book called The Case For God. And long story short, she said, “We don’t understand religion today.” And by today she means after the Enlightenment, because we think about it as the ascent to empirically validated truth. I have to be religious means that I, here’s this thing, this happened, this person did this and I agree that this happened, and this is true, right? But I don’t, quote unquote, believe that, or what have you. And her whole argument is through all the history of religion, it’s actually a commitment to action and is after you do the action that the insight comes.
+
+That you start by doing the things. And then later that gains you revelation. That’s where you actually start to gain insight and understanding you don’t start with, “Okay. I think this is right.” Like some empirically validated thing. Like I think gravity is right. And so now I can be all on board with it. Now that was a really interesting take. I thought that was really interesting. We’re not as used to it now because we’re used to a world after day cart. Where it’s all about, we’re in our head doing rationality. And so like, “Okay. Religion, like any, or a philosophy, we have to work our way up to it and believe it, and then we can go off and do it.” And some religions are better about that than others. I think like the Jewish tradition doesn’t care so much about what’s going on in your head. Do these things, right? And then you’ll have revelation, which is like through experience acting as if. Don’t overthink this.
+
+They didn’t have, don’t overthink this. This is God and Yahweh, you’ve got to do this and don’t eat that and do that. And you need to, your family’s very important. And you do this stuff and over time you, then you have, then you deepen your understanding of the, what she calls the ineffable. Things you can’t even put in the words anyways. So in her mind, all of religion is trying to basically get informations of the ineffable through action. And we think about it too much. Like here’s an alternative to my history book and do I think this is right or not, which is interesting. And I think it’s like a really, it’s one of these mind blowing — I don’t know what to do with it. I just think it’s a really interesting point. And I’ve been just trying to get people to read her, because I think that’s a really cool book and is underappreciated.
+
+But philosophy can do you right. A lot of philosophy’s complicated. I think this is why our mutual friend Ryan Holiday is really doing well right now is because he’s making Stoicism accessible. And I know he is very influenced by you and in that work and you’ve done a lot to make stoicism acceptable, accessible, I mean. And that has done a lot of good for people. I think also committing to communities of character seems to help people. So okay. Like when people are very, let’s say, you have a very committed to their role in the military, it can be a very organizing, it’s a community of character, a community in which there’s certain characters, aspects of character that are underlined and emphasized and there’s sort of a structure there. People get this through other types of causes or volunteerism. Where you’re you committed to a community that actually tries to live true to certain characters, characteristics, elements of character they think are important, I think that can get you there too, but I’m really taken by that Armstrong idea of act first, insight second. Get out there and start doing it.
+
+Tim Ferriss: There’s a quote. I don’t have the attribution, but I think about it often, which is: it’s easier to act your way into a new way of thinking than to think your way into a new way of acting. And what you say also brings up for me, memories from several trips to the Middle East. I’ve spent a decent amount of time in the Middle East and what I’ve heard more than once from both Jews and Muslims is, you would hope for us to find more common ground because in our religions, and I say this as a non-Jew and a non-Muslim, so forgive me, if anyone out there, if I get this wrong, but we believe in action. Like what you do matters, what you believe is really secondary. Like what you do matters. And that’s, at least they would contrast that with some other religions where like what you believe matters first.
+
+You can do all the worst things in the world and believe certain things, and then you are saved. And it’s, those are fundamentally very, very different, right? And I don’t have a particular perspective to add there, but it is a contrast, right? And these are things that I will obviously continue to think on because I find, precisely for maybe some of the reasons that you already mentioned, the persistence of, and the endurance and durability of religion, to be fascinating, even if I disagree with any of the tenets of, say, all religions, the fact that it is so persistent is very, very interesting, right?
+
+Are we evolutionarily programmed to create, adhere to religion in the same way that birds are programmed to build bird nests, right? I don’t know, maybe. It seems entirely possible. I’m going to take a super hard left turn on topic shift if that’s okay with you, because I promised it. So segueing from religion and finding meaning and contemplation, let’s talk about digital minimalism for a second. So I would love to hear you expand on your suggestion of people doing a 30-day digital minimalism experiment where one removes optional technologies. Would you? Yeah, go ahead.
+
+Cal Newport: I was going to say, I do, I appreciate the congruence we’re making here between the Islamic and Jewish understanding of the meaning of the world in life and also my 30-day declutter. These are all basically the same. We’re all in the same ontological category here.
+
+Tim Ferriss: Yeah, tomato, tomato. We’re all going the same direction.
+
+Cal Newport: Yeah, exactly. We have the prophets and also 30-day declutter. All that’s kind of the same.
+
+Tim Ferriss: Now in fairness, if you have, let’s just say stocks on your iPhone and Twitter push notifications and everything else just giving you a psycho-emotional death by a thousand paper cuts, how do you expect to find ultimate meaning in life? It’s going to be tough. It’s going to make it an uphill battle, right? So that’s my attempt at tying it together. All right. So let’s talk about this suggestion, this experiment potential, and what that might look like for people. And feel free to obviously add anything that you would like, but this is something that I think a lot of my listeners would be very interested in considering doing.
+
+Cal Newport: So the 30-day declutter is at the core of my philosophy of digital minimalism. So this was my take on what do we do about the fact that, starting around 2016, people became very uneasy about their phones in a way that they weren’t in 2014. There was this flip that switched where at some point we realized I’m looking at this thing too much. This is a problem. We got uneasy. And I could tell very precisely why that happened just based on reactions to my own work when it switched from you’re crazy, you’re absolutely right. It happened in a very quick period where my social media skepticism in particular really switched. And so my approach to it was you can’t start with the habits and the tactics, right? You can’t start with like, “Let me get right to setting filters and turning off notifications and not having my phone in my bedroom and putting my phone into gray scale and moving my icons onto the back screen and my iPhone.” That doesn’t work.
+
+You’re going to end up back where you were. And so digital minimalism by contrast was this Humanist philosophy where it says, “No. You’ve got to figure out what you’re all about.” What you really care about and what you want to do. And then work backwards and say, “What tech supports that?” And that’s how you choose what tech you use in your personal life and what rules you put around it. You start with “What’s important to me?” And then you put the tech to work. That’s much more sustainable, but how do you figure out this question? How do you get that insight into, “What do I really want to do? What’s important to me?” when you already have all that distraction? That’s where the declutter came in.
+
+And so I said, “Take 30 days where you don’t use social media, you don’t stream online videos. The only podcast you listen to is Tim and mine’s and everyone else you stop listening to.” No video games, no online news. That’s very influenced by you and your low information diet, for example, and you experiment and you reflect, and you think about life and go for walks and join things and ride your bike and hang out with friends without sending them messages on a glowing bitmap screen. And you figure out what you’re all about. And then at the end of the 30 days, you say, “What do I want to do?”
+
+And so I had that idea. I mention it to my newsletter because I was working on this book, but it was in the early days. And I said, “Does anyone want to try this?” And my thought was, this is a big ask. So maybe seven people would say yes. And my plan was, that’s great. I will follow these seven people and see how it goes and write like pretty long profiles of them and it’ll be good for the book. 1,600 people came back and said, “Yeah, I’m doing it.” So through that idea that I was going to follow everyone, 1,600 people did it. One of the people who was doing it was the roommate of a New York Times reporter. So then The New York Times was covering the declutter. It became a whole thing.
+
+And then I got hundreds of reports back from people about their experience and what worked and what didn’t. But the main takeaway was: it is much more effective if you want to tame the technology in your personal life. If you want to tame that, if you’re working backwards from first principles of “This is what I want to do with my life; how can tech help?” It’s incredibly sustainable. If you instead say “I’m unhappy with all the tech I’m using now, so let me try to put in rules to use it less,” that’s incredibly non-sustainable. You’re almost certainly going to go back to where you were before.
+
+Tim Ferriss: So if people want to give this a shot, what should they do?
+
+Cal Newport: Well, I mean, beyond the obvious of buying the book I ended up writing, which of course you should start with, and a copy for each of your friends, because it’s easier for them to read it than you’d have to explain it, once you’ve done that, it’s actually straightforward. So literally what I say is just, I call them optional personal technologies. And I want to draw a really clear line here. This is really about your personal life. I’ve written other books about email and slack and technology in the working world. That’s a whole other issue. And it seems similar, but there’s different issues underlying it, so therefore different solutions. But I’m talking about the stuff you do outside of work that largely speaking, has you looking at your phone. You take a break from them from 30 days. If it’s a dual-use technology, like I mainly use this for personal reasons, but there’s some reason I need to use it. Then you put up fences, right?
+
+So if you’re like, “I don’t want a text message, but my daughter uses text messaging to tell me when she needs to be picked up from practice.” You put up a fence and say, “Well, I’ll still do that, but I’m not going to participate in text chains with my friends for the 30 days.” So you can set the rules how you want to set the rules. And then the only key thing is you go through 30 days, be very active. So in that experiment, the people who treated this like a detox, and I hate the application of that term, the technology, I think it’s a complete misappropriation of that term.
+
+People who tried to just white knuckle it and say, “Yes, I’m just not going to use these technologies for 30 days,” and just by not using them something positive will happen, they never made it 30 days. But the people who are like, “I will now be very aggressive about reflection and experimentation, trying new things, going places, going to the library, buying a bike, joining a running club, reading books, going on long walks,” they’re the ones who really kept with it and then at the end of the 30 days, you literally write out a code.
+
+Here’s the tech I use and the rules by which I use it. “I’m going to use Instagram because I’m an artist, but the only way I’m going to use it is on my computer. The only people I’m going to follow are these 10 artists that really inspire me. And I have a glass of wine and look at their latest post on Friday evening. And it’s the only interaction I have with that service.” Right? So you get specific. “I’m using this for this reason. Here’s how I use it.” And then you’ve reset. You’ve Marie Kondoed your digital closet. You took everything out. You only put back in the stuff you cared about and then you go for it.
+
+Tim Ferriss: Wine on Friday for an Instagram scroll through 10 inspiring artists does sound like it would spark joy. So thank you, Marie Kondo. She’s the tiniest woman I’ve maybe ever met in my life. She was on the podcast a hundred years ago. I actually interviewed her in Japan and she had the most perfect porcelain skin I’ve ever seen on any human. Really may in fact be an alien. Very sweet.
+
+Cal Newport: A very organized alien, though. She’s a very organized alien.
+
+Tim Ferriss: Be really discouraging if this hyper-advanced alien civilization showed up and they were really fucking disorganized. Couldn’t figure things out. You would be like, “Oh, no. We thought we had so much clarity to look forward to.” And it sounds like from your description that the people who approach this type of digital minimalism experiment as one of subtraction, and that’s their focus, they fail. And those who view it as an experiment with new additions or substitutes to crowd out default tech behaviors are the ones who end up benefiting most. Is that a fair description?
+
+Cal Newport: Yeah. We’re good as humans to committing to things that are positive. That’s very motivating for us. We’re bad at trying to avoid things that are negative, right? So it’s very bad for us to be like, “I think I use Instagram too much. I’m going to try to use it less.” It’s like that isn’t very compatible with our wiring, but on the other hand, you’re like, “I have this vision of my life that it’s really positive and it makes me feel good. I’m really into it. Oh, and by the way, that’s the vision in which I don’t use Instagram” is way more effective.
+
+Tim Ferriss: Do you still use, and this could be a dead end and we can just cut it, if so. Do you still use a shutdown ritual when you close your computer?
+
+Cal Newport: Oh, yeah.
+
+Tim Ferriss: You do? All right. Could you please describe for folks what the shutdown ritual is?
+
+Cal Newport: Yeah. At the end of your workday, you go through and you close, you use the David Island term, all the open loops. So okay. Let me make sure there’s nothing I missed. There’s not an email I had to answer that was very urgent that I forgot about. You look at your weekly plan and your calendar. What’s going on tomorrow? “I know what I’m doing tomorrow. Okay, my plan makes sense.” You look at your task list. “I didn’t forget to do something today that was very urgent. All right. I’m good to stop working.”
+
+And then you have to do some sort of demonstrative ritual at that point to indicate that you did all those checks. So back in the early days on my blog, the thing that me and my readers always talked about doing was actually saying the phrase, “Schedule shut down, complete.” Because it’s absurd, right? Like it’s a weird, absurd thing, but the whole idea was, then later on when your monkey brain turns on is like, “Work. I’m sure we’re missing things.” Right? We do, instead of having to go back and say, I have to now have a whole conversation with my monkey brain about, “Well, let me look at my calendar. And I did this, I did that.” You can short circuit all of that and say, “I said the absurd phrase I would not have in any other time in my life have said that phrase if I hadn’t actually gone through all the steps of making sure there was nothing open, so I don’t need to get into it. I said the phrase, I know I’m okay.”
+
+And when people would do this, it would take about a week or two. And it would significantly reduce that evening or morning work anxiety where your mind’s like, “I’m sure we’re forgetting something. Let’s go over the email that we sent. And was that the wrong thing to send?” And you can just say, “I said the stupid thing and I would never have said that stupid thing if I had to shut it down.” Look, I created it because I needed it. As a grad student I created it and it took on a life of its own. There’s a lot of people out there looking left, looking right, making sure they’re alone. And then under their breath going, “Schedule shut down, complete.”
+
+Tim Ferriss: Schedule shut down, complete. That is so fantastic. Oh, just great. Well, Cal, this has been a very fun conversation. Thank you for taking the time. I don’t want to end it prematurely. I want to, of course ask, is there anything else that you would like to share? I’m in no rush. Is there any type of closing comments request for the audience? Anything you’d like to point people to? Anything at all that you would like to say or ask before we wind to a close?
+
+Cal Newport: No, this has been great. I love the territory we covered.
+
+Tim Ferriss: Awesome. Well, I really appreciate you taking the time. It’s nice to see you. And for everybody listening, we will have show notes, links to everything, all the resources to all of Cal’s books, including Deep Work, Digital Minimalism, and his latest, A World Without Email. We’ll also link to a number of his New Yorker pieces to the Deep Questions podcast. And you can find him online, not on any social media platforms, but at Cal Newport, C-A-L N-E-W-P-O-R-T .com. And until next time be safe, experiment often and thanks for tuning in. Schedule shut down, complete.
+
+
+TAGS
+CAL NEWPORT
+	

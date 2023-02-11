@@ -1,0 +1,612 @@
+
+
+JUNE 1, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: 10 Commandments for Startup Success (#248)
+
+
+Please enjoy this transcript of the episode “10 Commandments for Startup Success” with Reid Hoffman, co-founder of LinkedIn. Transcripts may contain a few typos—with some shows lasting 2+ hours, it’s difficult to catch some minor errors. Enjoy!
+
+
+
+#248: The 10 Commandments of Startup Success with Reid Hoffman
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss and welcome to another episode of the Tim Ferriss Show, where it is my job to interview, deconstruct, or showcase world class performers of all different types and look specifically at tactics that you can use.
+
+Maybe those are favorite books, maybe those are stories with really detailed specifics of their favorite fairies and successes; the keys that got them to where they are, whether they are chess prodigies, incredibly good athletes, former generals (in the military that is) or business icons. This episode I’m really excited about. I’m using a new mike; that’s how seriously I’m taking it and I have literally 34 pages of notes on this episode in front of me.
+
+The title, or one of the potential titles, is The Ten Commandments of Startup Success. There’s a lot related to business, there’s a lot related to life and it features one of my favorite people. There are two real components here. The main guest is Reid Hoffman. He’s in the driver’s seat here, and we’re going to get to his bio in a second. There are really two parts. There were six or seven questions I really wanted to ask Reid.
+
+I sent to him, and he was able to answer those. They are related to what would you put on a billboard, what are your favorite or most recommended books, and many other things; the worst advice given in his various fields of expertise, and so on.
+
+The other part of it is drawn from a new podcast of his, called Masters of Scale. I don’t listen to a ton of podcasts. There are a few, like Hardcore History, which you guys know. I listen to Joe Rogen. Masters of Scale is one that makes the cut. They’re very bite-sized, and I actually recommend the Brian Chesky episode not long ago in my newsletter, Five Bullet Friday, which you guys can sign up for free if you want; tim.blog/Friday. But it is so detailed and really gets into the messy reality of building startup businesses; going from zero to hundreds of millions of users for instance.
+
+I highly, highly recommend it and I loved it so much that I connected with Reid and his team and I asked them to put together a bunch of really tactical highlights. Reid has been on the show before. For those of you who don’t know who he is, he’s Reid Hoffman and you can find him on all the socials at Reid Hoffman. So Twitter/ReidHoffman, R-E-I-D Hoffman; LinkedIn of course and so on. He’s often referred to as the “Oracle of Silicon Valley,” and this is by not just tech insiders but the best in the game.
+
+This is because his company-building and investing track record is just other worldly. It includes as investments, very early Facebook, Airbnb, Zynga, Flickr and many, many, many more. He is cofounder of LinkedIn, which has more than 300 million users and sold to Microsoft for $26.2 billion.
+
+Prior to that, he was executive vice president at PayPal, which was purchased by eBay for $1.5 billion. There, his nickname was “Firefighter in Chief,” which was given to him by then-CEO Peter Thiel. Noted venture capitalist David Sze, S-Z-E, also a very, very fascinating guy, says of Reid, “He is arguably the most successful angel investor in the past decade.” They are both now partners at Greylock Partners, a top-tier venture capital firm.
+
+So, what are you guys going to get in this episode? You’re going to get the new questions. Then you’re going to hear Reid’s theories, or I should say principles on how companies scale. They go from ground zero all the way to gigantic, gigantic companies. He’s going to explore each of thee principles, the “10 commandments” with famous founders. Many of them you’ll know; Mark Zuckerberg of Facebook, Reid Hastings of Netflix, Brian Chesky, Mark Pincus and many, many more.
+
+You’ll also hear from people like Cheryl Sandberg, and the list goes on. He and his team for Masters of Scale, pulled together, like I mentioned, a highlight reel of tactical specifics. So they distilled the very best, most actionable advice from the entire first season of Masters of Scale and they’ve included a lot of material that ha not aired, and some exclusive clips from the cutting room floor. So even if you’re already a listener to Masters of Scale, you will hear plenty of new things here.
+
+So, just to remind you, you can check out Masters of Scale certainly in the show notes; it can be found everywhere as well as I will redirect this to their best page; Tim.blog/Masters. So if you go there, that will take you to a page where you can find all of these episodes in their entirety, which I highly, highly recommend.
+
+With all that said, as always, you can find the show notes, links to everything that is mentioned in this episode at Tim.blog/podcast. So I hope you enjoy this very special episode as much as I did. Thanks for listening.
+
+Commandment No. 1: expect rejection but learn from every single “no.” As a founder, you have to be resilient. You have to learn to weather rejection, as it is a universal experience. This clip that you’re about to hear brings that to life in full color.
+
+Kathryn Minshew: I had been turned down 148 times.
+
+Reid Hoffman: That’s Kathryn Minshew, cofounder and CEO of The Muse, a career-development website that she pitched to investors 148 times, not that she was counting.
+
+Kathryn Minshew: There were literally days where I had a no over breakfast, a no over a 10:30 a.m. coffee. A no over lunch, disinterest at 2 p.m., somebody who left a meeting early at 4.
+
+And then I would go to drinks and feel like I was being laughed at at the moment. And then when we finally raised our seed round, I went back and counted. It was both painful and gratifying at the same time, looking at all t hose names and thinking, “I remember that no, I remember that no, I remember that no.” And they sting. Every one stings.
+
+Reid Hoffman: Today, The Muse serves users in the millions. Kathryn raised $16 million last year, and her tale is the origin story of most great startups. So if you’re hearing a chorus of “nos,” you should look for other signs that you’re onto something. I believe that the best ideas often appear laughable at first glance.
+
+Tim Ferriss: Most entrepreneurs hear a chorus of nos as they get started, and you have to expect it. In fact, it’s not just when you get started b in the beginning, it could be a handful of perspective customers, then it’s venture capitalists, then it’s maybe even private equity folks and then investment bankers and so on; potential suitors. It goes on and on and on.
+
+You have to expect it and you have to condition yourself to deal with it. Reid says that these nos can actually be a very good thing. Particularly in the beginning, you don’t want everyone to say yes, and here’s why.
+
+Reid Hoffman: The first truth of entrepreneurship and investing is that the very big ideas are contrarian because the contrarian is part of the reason why a bunch of large companies and competitors haven’t already done it, why a bunch of other entrepreneurs haven’t already succeeded at it. That leaves the space for the creation of something. And to create something big, you have to have that initial space.
+
+For example, in the early stages of Google, it was search is a terrible way of making money in advertising because advertising is time on site. And what does search do? It shuffles you off the site as fast as you can go! That’s not a good business model. So like an Airbnb, it’s like: oh, someone’s going to rent a couch in a room from someone else?
+
+Who are the freaks on both sides of that transaction? So all of these things have a similar quality. Very smart people there will tell you: there’s no there there.
+
+Tim Ferriss: So it can be a good thing to hear a lot of nos, to get those rejections. But sometimes, your bad idea is just a bad idea. So how do you tell the two types of feedback apart? Or put differently, how do you interpret the nos? Reid has a great way of describing the kind of no that you do want. Apparently you want what what he would call a squirmy no. Reid explains this with help from Tristan Walker. Tristan’s company produces the Bevel razor which is designed for men with coarse and curly hair.
+
+Reid Hoffman: How can you tell a truly bad idea from a bad sounding idea? How can you be sure your ugly duckling could become a swan? This is the key. You have to pay attention to the quality, not the quantity of rejections.
+
+You want to see at least a teeny minority of investors squirm. You don’t have to get them to a yes, but you should detect some friction as they reason their way to a no. Tristan has a keen ear for this quality in those conversations. He can pinpoint down to the PowerPoint slide number the moment his audience stops paying attention.
+
+Tristan Walker: I had a slide in there; I think it was slide 14, where I talked about Proactive, the acne system, as kind of a good analogy of what we’re trying to do. It’s the difference between Gillette and Bevel as Neutrogena and Proactive. It’s a system, it solves very important issue. This VC looked at me and I’ll never forget this, and said, “Tristan, I’m not sure issues related to razor bump shaving irritation are as profound and big an issue for people as acne.” At which point I said, “I kind of understand what you’re saying.”
+
+But all you had to do was get on the phone with ten black men and eight of them would have said this is a permanent thing I have to deal with. All you had to do was get on the phone with ten white men and four of them would have said the same thing.
+
+You could have done it for women, too, and you would have gotten the same ratios. So it wasn’t that it was a bad idea or not as important; it’s just that that person was unwilling to acquire the context necessary to understand what we were working on. That’s just laziness. At that point I can’t fix that, so I’ve just got to move on until I find somebody who understood it.
+
+Reid Hoffman: Notice how quickly Tristan’s mind moves onto the next investor. When the quality of the questions drops, he knows, mid-pitch, that the conversation is over. The rest is noise. Those half-hearted questions are like the elevator music of the pitch process; it’s meant to pacify entrepreneurs. In fact, it grates at them. It also wastes their time. Tristan will tell you he prefers a hard no to a comforting maybe.
+
+Tristan Walker: Silicon Valley investors will tell you all the time, “We want to invest in people who can execute with some semblance of pedigree chasing a significant white space and a big opportunity.” For us, it was like check, check, check and we heard 99 percent nos. It’s like, how much of this is [bleep] and you’re just like, are you trying to say something that I want to hear, as opposed to telling the truth? And I wish that Silicon Valley would tell the truth a little bit more.
+
+Reid Hoffman: Tristan raises a really interesting question here. How much of this investor hemming and hawing is, well, bullshit? What’s really going through their heads? As a partner of Greylock, I want to share what happens after an entrepreneur leaves the room and an investor is left to mull over a crazy idea. It begins with the debrief of the investor’s partners. If I’m presenting an idea to my partners at Greylock and they all go: that’s great, we should do that! I’m like, shit. Here’s a bunch of hyper smart people and no one’s saying watch out for this, or watch out for that. It’s too easy!
+
+The idea is so obviously good; I can already hear the stampede of competitors trampling over our hopeful little startup. On the other hand, you don’t want every person in the room to say, “Reid, you’re out of your fucking mind.” Because then you’re wondering, hmm, am I drinking the Kool-aid in a very bad way?
+
+What you want is some people going, “You guys are out of your minds,” and some people going, “I see it.” You want a polarized reaction. So take my decision to invest in Airbnb as an example. David Sze told me during the Airbnb debrief: “David Sze is a partner at Greylock Investments.” Well, every venture capitalist has to have a deal that doesn’t work that they learn from. Airbnb can be yours. David Sze is super smart VC. He invested in LinkedIn. He invested in Facebook. He invested in Pandora. He personally returned $2.5 billion to Greylock’s funds.
+
+He’s as smart as smart money gets, and believe me, I weigh his objections carefully. If someone as smart as David disagrees with me, I worry. But I also get excited. It’s an emotional roller coaster. And as this sort of emotional turmoil plays out in the background discussion, it’s hard to give an entrepreneur a hard no. The best ideas make you want to say yes and no in the same breath.
+
+Tim Ferriss: So you want to hear a squirmy no. The squirmy no refers to the kinds of nos that mean you’re potentially onto something. But let’s be honest. It’s never easy to hear no, and sometimes it can be extremely, excruciating; terrible. So Reid also asked a few entrepreneurs to talk about how they deal with rejection and how they learn from rejection.
+
+Reid Hoffman: You have to gauge yourself for a string of rejections. Some entrepreneurs simply develop thick skin. Others treat it like a normal part of their workday. You know, wake up, brush your teeth, listen to people crush your dreams; it’s a living. But there’s another, more hopeful approach. Our producer, Dan Kedme, talked with a number of entrepreneurs who pitched seemingly laughable ideas in all kinds of industries.
+
+Like Abby Pollack, founder and CEO of Global Citizen Year. Her not for profit sends students abroad for a year of international service between high school and college. Back in 2008, she was struggling to get funding and she turned to a leadership coach for advice. We asked her to share that advice.
+
+Abby Pollack: The nos are actually a gift.
+
+Reid Hoffman: You heard that right; a gift.
+
+Abby Pollack: And he said between now and when we talk two weeks from now, I want you to go out in the world and gather as many nos as you possibly can. It is your homework to be rejected over and over and over, and come back and report on it. And it ended up being the most important thing I could have ever done, and the most important advice I could have been given at that point.
+
+Reid Hoffman: The most successful entrepreneurs listen closely to the nos. They mine the rejections for clues. Kathryn Minshew, the founder of The Muse, got her share of rejections over the course of 148 nos she shared at the top of this episode. We asked her about the reasons that investors turned her down.
+
+Kathryn Minshew: It’s a bit too early for us, but keep in touch. Once you’ve hit 100,000 active monthly users, give me a call. This is a fool’s errand. It’s expensive. It doesn’t scale. That’s not a scalable platform; aren’t you worried that you’re going to lose all your losers once they turn 30 and, you know, have babies?
+
+Or, I get that women in New York and San Francisco love this product, but I think you’re going to really have a hard time finding women who care about their careers once you go outside of, you know, the coasts. I just remember looking at these people and thinking, do you know a lot of women?
+
+Reid Hoffman: Kathryn is right to ask this question. She knows more about women than most investors, and she also knows more about her business. Entrepreneurs have to learn how to hold onto what they know through the arduous pitch process.
+
+Reid Hoffman: Commandment No. 2: Hire like your life depends on it because it does. Hiring the right people can make or break a company. This is a theme that comes up again and again with successful founders. Airbnb’s Brian Chesky personally interviewed the company’s first 500 employees, for instance. That is incredibly time consuming, painstaking work but Brian would not have had it any other way. Patience, he says, in this particular case pays dividends.
+
+Brian Chesky: One of the most important decisions a startup can make is who they hire, because who they hire becomes them.
+
+And so we interviewed people for core values. That meant we spent four or five months to hire our first engineer. Back then, a lot of people thought we were crazy because time is of the essence when you’re a startup. You said it’s like jumping off a cliff and assemble the airplane on the way down. Imagine jumping off the cliff, trying to assemble the airplane on the way down. And someone’s there to help you with the airplane and you spend five months debating whether they’ll fit the culture. Meanwhile, the ground is coming.
+
+That takes real patience and some courage. The reason we did that, though, was because we thought in the high class event we are successful, do I want to work with 100 more people like this? Because if I hire someone, they’re going to interview the new people. And so we thought of hiring as this mechanism where if I could hire anyone in the world, would I hire the person sitting across from me? And do I want ten or 100 more people like them?
+
+Tim Ferriss: But if you launch a truly successful company, eventually the hiring process has to scale. Eric Schmidt had a lot to say about hiring quickly but not hastily. It’s one thing to do something quickly; quite another to do something in a rush. When he was CEO of Google, the company quadrupled in size each year, while maintaining super high standards, which are famous even within Silicon Valley. He told Reid how he did it.
+
+Eric Schmidt: The company was getting very large very quickly. I had suggested to Larry and Serge that there was a problem with what I called “glue people.” Glue people are very nice people who sit between functions and help either side but don’t themselves add a lot of value. And I thought, these are nice people but we don’t really need them; we can have these groups talking directly.
+
+And Larry looked at me and says, “We could solve this problem if you would just review all the hiring.” And I said, “Larry, we can’t look at all the hiring.” He said, “Sure we can.” So the company of course invented a number of hiring algorithms which are used throughout the industry today.
+
+Many of them include pretty aggressive hiring interviews from peers asking people to do work, and so forth. Ultimately, the judgment has a lot to do with whether the person is interesting or not. And so we would, for example, take a position that we wanted to hire rocket scientists because rocket scientists are inherently interesting. In sales, we love to hire Olympians or Super Bowl winners and football players because the discipline that they had in their lives as young people, men and women, to get to that point indicated they had an extra set of discipline.
+
+Reid Hoffman: I want to acknowledge that most companies don’t have the option of hiring rocket scientists, Olympic athletes, and Super Bowl winners. But Eric does have more pragmatic advice for companies that can set the bar at Himalayan heights.
+
+Eric Schmidt: Today I would suggest, and this has since been confirmed by many studies, that persistence is the single, biggest predictor of future success. And so we would look for persistence. The second thing was curiosity; what do you care about?
+
+The combination of persistence and curiosity is a very good predictor of episode success in a knowledge economy.
+
+Tim Ferriss: So, persistence plus curiosity is one formula for hiring success. Mark Zuckerberg, the CEO of Facebook, has another approach. Here’s what he told Reid.
+
+Mark Zuckerberg: The single most important thing is to get the best people you can around you. When I look at my friends who are running other good companies, the single, biggest difference that I see in whether the companies end up becoming really great and reaching their potential and just pretty good, is whether they’re comfortable and really self confident enough to have people who are stronger than them around them. I’ve adopted this hiring rule, which is that you should never hire someone to work for you unless you would work for them, in an alternate universe.
+
+Which doesn’t mean that you should give them your job, but if the tables were turned and you were looking for a job, would you be comfortable working for this person? I basically think that if the answer to that is no, then you’re doing something expedient by hiring them but you’re not doing as well as you can on that.
+
+There are all these things that Cheryl, for example, is much stronger than me at, and that makes me better and makes Facebook better. I am not afraid or threatened by that; I value that, and that’s what makes Facebook good.
+
+Tim Ferriss: Of course here, Mark is talking about Cheryl Sandberg, COO of Facebook. She has her own take on this rule.
+
+Cheryl Sandberg: The lesson everyone talks about but I really mean is you really do want to hire people who are better than you are and who are different than you are. This is where we talk about diversity. I don’t just mean racial, national, age, gender; all of that diversity is super important. I mean in addition to that, cognitive diversity which you get from all those backgrounds but also just personality diversity.
+
+If you are a white male who likes coding and sci-fi movies, you probably don’t want your whole team to be that. I think about David Fisher. David and I have worked together at Treasury, at Google, and at Facebook. Personality types were just very different.
+
+I’m much more up and down. I will get nervous if something’s not moving fast enough. I will be exuberant and I will be down. Not David. David is absolutely calm. And over decades of working together, that balance has really been important because sometimes I’ll look at David and say, “This is an emergency!” He’ll say, “No it’s not, Cheryl; calm down.” And sometimes I’ll say, “David, you’re not moving fast enough.” And he’ll say, “You’re right.” I think Mark and I have that, too. We are very different.
+
+We are separated by obvious gender, 15 years; he’s my boss and he’s 15 years younger. Completely different personalities, completely different working styles and I think that has served Facebook well.
+
+Tim Ferriss: Commandment No. 3: In order to scale, you have to do things that don’t scale. This commandment came from the very first episode of Masters of Scale with Brian Chesky, and that is what got me hooked on this podcast because of how actionable the specific examples were.
+
+It might sound counterintuitive that you have to do things that don’t scale in order to scale, but it’s really important that you get your hands dirty in the early days, and specifically hand craft the experience for your handful of first few customers, and to use a term the cool kids like, “To fineness all the touchpoints.” So every single separate interaction that your product or service has with your customer, if you were to look at it as a slideshow or separate chapters; how can you optimize each of those?
+
+And to serve your customers one by one, you often take a concierge approach. Again, that is to perfect your prototype, at which point then you can pour fuel on the fire to scale. But if you do it beforehand, you run into all sorts of problems. So, don’t stop until you know exactly what your perspective customers want. That’s what Airbnb CEO Brian Chesky did.
+
+Brian took Reid back to his lean years, the early days when he went door to door, meeting Airbnb hosts in person. The clip we’re going to hear starts with Brian recalling a conversation he had in 2009 with Paul Graham of Y Combinator fame, who gave him some perplexing, it seemed at the time, advice.
+
+Brian Chesky: And he asked us, “Where’s your business?” I go, “What o you mean?” “Where’s your traction?” I go, “We don’t have a lot of traction.” He goes, “People must be using it.” I said, “There’s a few people in New York using it.” And he said something I’ll never forget. He said, “So your users are in New York, and you’re still in Mountain View?” I said yeah. He said, “What are you still doing here?” I go, “What do you mean?” He said, “Go to your users. Get to know them. Get your customers one by one.”
+
+I said, “But that won’t scale. We’re huge; we have millions of customers. We can’t meet every customer.” He said, “That’s exactly why you should do it now. Because this is the only time you’ll ever be small enough that you can meet all your customers, get to know them, and make something directly for them.”
+
+Reid Hoffman: Brian and his cofounders followed his advice to the letter.
+
+Brian Chesky: We literally commuted to New York from Mountain View. So we would be in Y Combinator for Tuesday night dinner, and then Wednesday Joe and I would go to New York. We literally would knock on the doors of all of our hosts. We had their addresses. We say, “Knock, knock, hello, hey? We’re Brian and Joe. We’re founders. We just want to meet you.”
+
+Reid Hoffman: It’s a little creepy just to knock on the door unannounced.
+
+Brian Chesky: We needed an excuse to get in their home.
+
+Reid Hoffman: So they came up with an offer that the host couldn’t refuse.
+
+Brian Chesky: We’d send a professional photographer to your home and photograph your home. Of course, we didn’t have any money and we couldn’t employ photographers. So Joe and I, we’d show up at their door. And they’re like: wow, this company is pretty small.
+
+Reid Hoffman: These home visits became Airbnb’s secret weapon. It’s how they learned what people loved.
+
+Brian Chesky: It’s really hard to get even ten people to love anything, but it’s not hard if you spend a ton of time with them. So if I want to make something amazing, I just spend time with you. And I’m like, what if I did this, what if I did this, what if I did this?
+
+Reid Hoffman: From those questions, a handcrafted experience is born.
+
+Brian Chesky: We’d find out: hey, I don’t feel comfortable with the guest; I don’t know who they are. Well, what if we added profiles? Great. What do you want in your profile?
+
+I want a photo. Great, what else? I want to know where they work, where they went to school. Okay, so you add that stuff. And then you literally start designing, touchpoint by touchpoint. The creation of the peer review system, customer support; all these things came from us literally – we didn’t just meet our users; we lived with them. I used to joke that when you bought an iPhone, Steve Jobs didn’t come sleep on your couch but I did.
+
+Reid Hoffman: Was there a particular experience that has really stuck in your mind?
+
+Brian Chesky: I remember we met with a couple hosts and it’s winter. It’s snowing outside. We’re in snow boots. We walk up to the apartment, and we went there to photograph the home. We’re like, “Hey, I’ll upload your photos to the website. Do you have any of their feedback?” And he comes back with a book. It’s like a binder, and he’s got dozens of pages of notes. And he ends up creating a product roadmap for us. Like, we should have this, this, and this. We’re like; oh, my God, this is our roadmap, because he’s the customer. I think that always stuck in our minds.
+
+I think that always stuck in our minds as the roadmap often exists in the minds of the users you’re designing things for.
+
+Tim Ferriss: As Airbnb grew, Brian never stopped handcrafting the user experience. At one point, to envision what Airbnb could become, he and his team imagined what they called an “11 star check-in experience.” This was something I highlighted for myself as a thought exercise that I wanted to try with a number of companies that I’m involved with and a few projects that I’m working on myself. Only part of what you’re about to hear was heard on Masters of Scale. For this particular episode, they gave me the complete, uncut version of Brian’s thought of experiment so I hope you enjoy.
+
+Brian Chesky: If you want to build something that’s truly viral, you have to create a total mind fuck experience that you tell everyone about. So we basically took one part of our product and we extrapolated what would a five-star experience be, and we went crazy. So, a one, two, or three star experience is you get to your Airbnb and no one’s there.
+
+So you knock on the door. They don’t open. That’s a one star. Or maybe it’s a three-star if they don’t open and you had to wait 20 minutes. And if they never show up and you’re pissed and you need to get your money back, that’s one star; you’re never going to use those again. So, a five-star experience is you knock on the door, they open the door, and they let you in. Great. That’s not a big deal. You’re not going to tell every friend about it. You might say: I used Airbnb; it worked.
+
+So we thought, what would a six-star experience be? You knock on the door, the host opens: hey, I’m Reid, welcome to my house. (You’re the host in this case.) You would show them around. On the table would be a welcome gift. It would be a bottle of wine, maybe some candy. You’d open the fridge; there’s water. You go to the bathroom; there’s toiletries and the whole thing is great. That’s a six-star experience. You say wow, I love this more than a hotel. I’m going to definitely use Airbnb again. It worked, better than I expected.
+
+What’s a seven-star experience? You knock on the door. Reid Hoffman opens. Get in, “Welcome, here’s my full kitchen. I know you like surfing. There’s a surfboard waiting for you. I’ve booked lessons for you. It’s going to be an amazing experience. And by the way, here’s my car; you can use my car. I also want to surprise you. This is the best restaurant in the city of San Francisco; I got you a table there.” You’re like, whoa, this is way beyond.
+
+So what would an eight-star check-in be? An eight-star check-in, I would land at the airport. I’d show up and there would be a limousine waiting for me. The limousine would know all my preferences. It would take me to the house and it would be like a total surprise. What would a nine-star check-in be? A nine-star check-in, I would show up to the airport and there would be a parade in my honor. I would probably have an elephant waiting for me, there’s a traditional Indian ceremony. I would ride on the elephant and there’d be this parade taking me to the house.
+
+So what would a ten-star check-in be? A ten-star check-in would be the Beatles check-in in 1964. I’d get off the plane and there’d be 5,000 high school kids cheering my name with cards welcoming me to the country. I’d get to the front yard of your house and there would be a press conference for me, and it would be just at mind blowing experience.
+
+So what would an 11-star experience be? I would show up to the airport and you’d be there with Elon Musk and you say you’re going into space. The point of the process is that maybe 9, 10, an 11 are not feasible but if you go through the crazy exercise of keep going, there’s some sweet spot between they showed up and they opened the door, and I went to space; that’s a sweet spot.
+
+You have to almost design the extreme to come backwards. Suddenly, doesn’t just knowing my preferences and having a surfboard in the house seem not crazy and reasonable? It’s actually kind of crazy logistically but this is the kind of stuff that creates great experience.
+
+Tim Ferriss: Sam Altman, president of Y Combinator, considers this so-called 11-star experience a prerequisite to scale. Suppose you try to scale a subpar experience, the sort of product that gets a lukewarm approval from users, or just polite indifference? That four or five star is a default. He offers a cautionary tale in this following clip.
+
+Sam Altman: The first thing you have to do is build a product that is so good, people spontaneously want to use it and tell their friends about it. And if you can do that, you still have to blitz scale but it’s the easy kind; you have too much demand. The hard kind of blitz scaling is where you try to start scaling up before the product is really great, and then most of your effort in scaling is to generate demand. So, I think the No. 1 most important insight about how to blitz scale is that the good kind of blitz scaling is when you do not have to generate demand as you go, but that you first got the product right.
+
+In many of these cases – Stripe, Dropbox, Airbnb – it took a long time to get the product right, but they were obsessed with that. And then when they did, all their effort was: okay, we have so much demand, that without much more effort we know this is going to keep growing 20, 30 percent a month for a year. That’s a real problem. It’s a high class problem, but it’s still a real problem; how do we build that?
+
+So, that is the kind of scaling that works and has generated Facebook, Google; it’s the same playbook. I think the kind of blitz scaling that we have seen go badly is we have a mediocre product, we have raised hundreds of millions of dollars and or VC is beating down our throats to hire more salespeople to grow faster.
+
+Reid Hoffman: Any particular examples?
+
+Sam Altman: I don’t want to name names; there are so many to pick from.
+
+Thankfully, most of them are not YC. One thing that is pretty good, and again a few exceptions to this, we try to beat that idea out of people during YC. Thus, most of the mistakes in Silicon Valley of that sort in the last decade have not been ours.
+
+Tim Ferriss: Commandment No. 4: Raise more money than you think you need; potentially a lot more. Now, this is a somewhat controversial point and some venture capitalists – VCs – argue the exact opposite; that you sounds like try to be as lean as possible. I think in fact, the top performing venture capitalists, of which Reid would certainly be one, even if they voice seemingly conflicting opinions would agree that it’s largely a matter of what you’ve done before you raise the money; much to Sam Altman’s point, which is a critical condition.
+
+So for instance, when I’m personally getting involved in startups, and I have something like 70 different startup investments since 2007 – if you want to see them, you can check them out at Angel.co/Tim – you will notice that most of them are direct-to-consumer; many because that’s where I can affect the outcome to the greatest extent. Some of the most successful to date have focused on product exclusively; no marketing and PR in the very early days, and have shunned PR in fact and business opportunities and self funded whenever possible to the point that they have a functional prototype.
+
+Meaning they have identified some type of product market fit, as it’s called, and they have refined something that they feel they can then pour gasoline on. That is certainly true, for instance, in the case of a number of companies like Uber, just to take one.
+
+When I was initially interacting with Garret and Travis, both cofounders, this was before Uber was Uber. It had a different name. it was an LLC. So prior to raising money, looking at prototypes, looking at the market research they did, looking at how they tested it, how they interviewed potential users but especially potential drivers to real come up with let’s call it a version zero that got traction before they went out and looked for external validation and financing, meaning through venture capitalists.
+
+That, I think, is a common characteristic among all of my best investments, at least the early stage investments. So back to the commandment. In this particular case: raise more money than you need; potentially a lot more. You’ll notice that Uber in one case raised initial money after they had satisfied a lot of conditions and product refinement. And then after they saw the opportunity to scale, raised more money than they thought they would need. All right?
+
+The logic for this, Reid would argue, is that entrepreneurs are always going to run into a minefield of unexpected problems and expenses. He explains this particular point with a story, one that involves Mariam Naficy, CEO of Minted and then the CEO of Eve.com.
+
+Reid Hoffman: Silicon Valley is on fire. Nothing bad can happen. My friend, Mariam Naficy, is CEO of a startup called Eve, and she had to have the domain name Eve.com. Only problem, she has to convince the owner to sell it to her, and she was facing a negotiation that I do not envy.
+
+[Telephone rings]
+
+Eve: Hello, who is this?
+
+Mariam Naficy: This is a 5-year-old girl, Eve Rogers…
+
+Eve: This is Eve.
+
+Mariam Naficy: … who gets on the phone. So I think, what on Earth am I going to say to this 5-year-old? So I say hello, could I buy your domain name? She was just saying to me: what, I really don’t understand. And I’m sure Eve’s mom on the other line was laughing her head off.
+
+I mean, this is a great joke to play on this silly entrepreneur from California who’s calling her; I’m just going to watch her be tortured by my 5-year-old for awhile.
+
+Reid Hoffman: Mariam turns this risky negotiation over to her lead investor, the legendary startup whisperer, Bill Gross.
+
+Mariam Naficy: He gets on the phone with her mom, and he negotiated the purchase. It was equity in the company, a board seat or her daughter – observer board seat – trips to Idea Lab to see Bill several times a year.
+
+Reid Hoffman: You had a 5-year-old observer on your board?
+
+Mariam Naficy: Yes. She didn’t actually show up for the board meetings but she did occasionally come by and visit. Disneyland, educational software; it was a very large package that was negotiated.
+
+Reid Hoffman: If you were going to call your younger self, how would you have handled this negotiation differently?
+
+Mariam Naficy: I would probably throw in the Disneyland almost immediately, because now I know what a 5-year-old wants. I now have a daughter, and I would have said, “How many times a year do you want to go to Disneyland?”
+
+Reid Hoffman: Once a year, twice a year?
+
+Eve: Hmm, maybe about 100 times a year?
+
+Mariam Naficy: Yes, exactly.
+
+Reid Hoffman: $50,000 plus Disneyland trips may seem like crazy expenses, but on my experience, every successful founder has a story like that.
+
+Tim Ferriss: Reid is totally right in this case, and in many cases of course. You need enough capital to cover unexpected expenses, as we’ve already covered, sure. But you also need to be prepared for unexpected opportunities and you might need some type of resource to exploit those. Fast forward here to Mariam’s new company, Minted, which she originally thought would be an online stationery store with cards from brand-name companies. But she also had a side experiment where unknown artists could submit designs to an online competition. She told Reid what happened next.
+
+Mariam Naficy: I opened the doors. There’s not a sale for an entire month. Nobody wants the branded stationery products that we had spent most of our $2.5 million launching. Because again, being conservative, I said: I know, I’ll do an eve.com. I’ll put all these brands online, sign them up exclusively. We had exclusive distribution rights. Nobody wanted to buy them at all.
+
+Instead, the teeny weeny assortment that I had sourced through this one competition I had run, one transaction a week. Then the next week there were two. We had sourced 60 designs for a competition, and I had saved a tiny bit of money to build what I really wanted to build. Out of the $2.5 million, I probably spent like $100,000 on what really became Minted. It was this little side thing, and there was a programmer up in Oregon and he and I were working at night on building the first competition. That is the only place where we saw any sales movement.
+
+Reid Hoffman: Mariam had stumbled onto the power of crowd sourcing; the idea that ordinary people, when they come together in large numbers, can do work once reserved only for experts. Etsy is an example of this; Kickstarter as well. But at this point, in 2008, it wasn’t understood very well. It was something Silicon Valley was just getting its head around.
+
+Mariam Naficy: I realized that this crowd sourcing thing was way different, and I had uncovered something that was more of like a massive, social, cultural change going on in the U.S. – and maybe in the world – versus just some small business idea.
+
+Because what was happening that I didn’t realize was that who’s considered a creative out there is actually changing a lot right now due to technology and exposure. And so people are emerging as creatives who haven’t gone to school. They haven’t gone to design school. They haven’t gone to art school, and they’re massively disrupting art and design right now. There’s a meritocracy, a true meritocracy that you can actually build and unleash.
+
+Reid Hoffman: Here, Mariam runs into another reason you need to raise more money than you think you need: unexpected opportunities. Mariam’s plan to start a lifestyle business just didn’t pan out. She didn’t have enough funding to cover a Plan B, or her Plans B, as I like to say. Opportunities may arise later than you hope, and you want the capital to carry you in new directions. So she reluctantly pitched her idea and secured another round of funding. And if that weren’t risky enough, she’s about to encounter one more familiar source of uncertainty; a stock market crash.
+
+Mariam Naficy: We raised our venture around two weeks before Lehman failed, because this investor of mine had said to me, “I feel something really bad’s going to happen; you should go raise.”
+
+So we just went out in August; who’s in town? Anybody? Is anyone in town in August? So we went and raised money and closed it literally right before Lehman failed.
+
+[News reporters] The Dow at the same time has fallen about 18 percent. The stock market is getting hammered this morning.
+
+Reid Hoffman: Believe it or not, Mariam launched her wildly risky, experimental business idea into the heart of the worst economic crisis since the Great Depression; the collapse of the U.S. housing market in 2008. Suppose she’d waited until, say, September to raise that money? Lehman collapses, panic grips investors, and no one in their right mind gives cash to a bold little experiment in crowd sourcing. Like that, Minted closes for business. Which is another reason you should always take the money whenever and wherever you can get it. you never know when it will dry up.
+
+Tim Ferriss: Commandment No. 5: Release your products early enough that they might still embarrass you. Imperfect is perfect, in this case. The fifth commandment is actually one of Reid’s more famous recommendations.
+
+He believes that if you’re not embarrassed by your first product release, you’ve released too late. There are certain subtleties to this, of course, and I should note that this is just one example of how Reid thinks of speed. I’ve become fascinated by how he prioritizes speed in all areas. To that point, I would love to read something from a piece called 10,000 Hours with Reid Hoffman, written by Ben Canocha; you can find him at C-A-S-N-O-C-H-A, Casnocha.com.
+
+One of the core tenets, one of the lessons learned, is speed. So the words that are going to follow are Ben’s. Quote: “His first principle is speed. His most tweeted quote ever is, quote: ‘if you aren’t embarrassed by the first version of your product, you shipped too late.’ End quote. His second most tweeted quote ever is, ‘In founding a startup, you throw yourself off a cliff and build an airplane on the way down.’”
+
+Back to Ben. “Practically, he employs several decision-making hacks to prioritize speed as a factor for which option is best and to speed up the process of making the decision itself. When faced with a set of options, he frequently will make a provisional decision, instinctually based on the current information. Then he will note what additional information he would need to disprove his provisional decision and go get that. What many do instead at their own peril is encounter a situation in which they have limited information, punt on the decision until they gather more information, and endure an information-gathering problem that takes longer than expected. Meanwhile, the world changes.”
+
+Just a quick note from me; this is very similar to how good military strategists think of making decisions. Back to Ben. “If you move quickly, there will be mistakes born of haste. If you’re a manager and care seriously about speed, you’ll need to tell your people you’re willing to accept the tradeoffs. Reid did this with me. We greed that I was going to make judgment calls on a range of issues o n his behalf without checking with him. He told me…” This is the part that I highlighted for myself in Evernote.
+
+“In order to move fast, I expect you’ll make some foot faults. I’m okay with an error rate of 10 to 20 percent times when I would have made a different decision in a given situation if it means you can move fast.” I’m going to reread that, and just for people who don’t know, foot fault – I had to look it up – is an expression used in tennis where if they serve and their foot goes over a line, that’s a foot fault.
+
+That is an error. So again, here’s the quote from Reid to Ben, who was his chief of staff and handling a lot. “In order to move fast, I expect you’ll make some foot faults. I’m okay with an error rate of 10 to 20 percent times when I would have made a different decision in a given situation if it means you can move fast.”And then Ben closes with, “I felt empowered to make decisions with this ratio in mind and it was incredibly liberating.” Here’s a condition that I want to emphasize – Tim – that Ben also brings up.
+
+Here we go: “Big companies are different. Reid once reflected to me that the key for big companies like LinkedIn is not to pursue strategies where being fastest is critical. Big companies that adopt strategies that depend on pure speed battles will always lose. Instead, they need to devise strategies where their slowness can become a strength.” Thank you, Ben. So back to Reid’s commandment, so to speak; “Release your products early enough that they might still embarrass you.” This is the classic Silicon Valley approach of pushing imperfect things out, testing them, and improving them with user feedback; iterate, iterate, iterate.
+
+We’ve all heard about this; instead of waiting until you have something perfect. Now, I should note, as someone who writes books, as someone who has a podcast and so on, that I don’t think this is always interpreted very well, and people think it’s an excuse to put out really haphazard products or services. And it works best for products or services; can be iterated and pushed out to the initial recipients very easily, like certain types of software or certain types of apps.
+
+In the case of a book, you don’t have that option. You put out a book, unless it is a Kindle version and people are going to go back and reread what thy already read; you are not able to, say, immediately update the experience for the first 100,000 people who buy your book. So you think about this, or at least I think about this, slightly differently. If I were putting out a book chapter by chapter, on the other hand, perhaps I would use a slightly, more fast and loose approach which I certainly see implemented with dozens of the startups that I work with, like Shopify, whose offices I’m sitting in right now.
+
+All right, so who is the person who epitomizes this? Mark Zuckerberg of Facebook is probably the person who most embodies this commandment in many people’s minds, and we talked to him about it. Here’s some audio.
+
+Reid Hoffman: My friend Mark Zuckerberg is the perfect person to talk to about this. He has no qualms about rushing out an imperfect product.
+
+In fact, his famous mantra is “move fast and break things.” And I would argue that it’s the foundation of Facebook’s success. If Mark cares about anything, it’s making sure his team moves with the swiftness of a teen hacker, releasing products that are anything but perfect so their audience can improve them.
+
+Mark Zuckerberg: I think the strategy of Facebook is to learn as quickly as possible what our community wants us to do. That requires a culture that encourages people to try things, and test things, and fail.
+
+Reid Hoffman: But how did he get Facebook 17,000 plus employees to she their perfectionist streaks? You’re about to find out. We’ll start Mark’s story when he was an undergraduate at Harvard. By this time, he was in the habit of slapping the other programs on the fly. He couldn’t help himself.
+
+Mark Zuckerberg: I took this class, “Rome of Augustus.” The final exam was around – they were going to show some piece of art from the Augustan period of Rome, and you had to write an essay on the historical significance.
+
+I was actually coding the first version of Facebook when I should have been studying for that. So a couple days before the exam, I was like: alright, I’m kind of screwed; this isn’t something like math where you could just show up and figure out how to do the problem on the exam. It’s like you actually need to know the context of this or else you can’t write these essays.
+
+Reid Hoffman: Wait a second; rewind.
+
+Mark Zuckerberg: This isn’t something like math where you could just show up and figure out how to do the problem on the exam.
+
+Reid Hoffman: Who does that? In any case, with the exam fast approaching you might expect Mark to cut back on the coding. Instead, he doubled down on it.
+
+Mark Zuckerberg: I built this service where basically anyone in the class could go to it, and it showed you a random piece of art and you could type in whatever context you thought was important. And then after that, it would show you everything that everyone else in the class said to put in. So it was a study tool, but it kind of crowd sourced exactly what people needed to know for each piece of art. And the professor ended up telling me after that that the grades on the final were higher than they’d ever been before, and I ended up passing that class!
+
+Reid Hoffman: Imagine for a moment what would have happened if Mark was a little less hacker and a little more perfectionist. What if he took his time to get the random piece of art program just so? It might have looked nicer. It might have had more features. But he would have missed the opportunity to put it in front of his classmates when they needed it, and more importantly would have missed the learning about how they used it.
+
+But many of us, and I’m guessing most of Mark’s Harvard classmates, have a tough time of rushing things out. High achieving people have a tendency to be perfectionists and the same instincts that make us good students can make us lousy entrepreneurs.
+
+Tim Ferriss: So you have to unlearn how to be a perfectionist, and you also have to unlearn the habit of listening to everything your users tell you because that will drive you crazy and can destroy your business. Reid will also tell you, you have to be selective in the user feedback that you take into account and incorporate.
+
+Reid Hoffman: Success has a funny way of sneaking up on the best entrepreneurs. They devote themselves to understanding and serving a teeny cohort of users.
+
+They don’t always recognize that this intimate link is precisely what enables their product to evolve for the mass market. That’s one reason I encourage entrepreneurs to release a product earlier than they’d like. Release, observe, react; over and over again. It isn’t just about speed, and it certainly isn’t about sloppiness; but rather a precise stance between Facebook’s tiny team and its growing user base. The users normally take the lead, but not always.
+
+Sometimes Mark had to break the choreography and give the users a twirl. That’s because you have to discern what users actually want. Mark received an early education in the gap between what users say and what they do, particularly as he expanded the social network to new campuses.
+
+Mark Zuckerberg: We’d seen his funny dynamic. We talked about how we started it at Harvard, and then we launched at Yale and all the people at Harvard would be like: oh, come on; them?
+
+And then it’s like at every step along the way, you go from Yale and you launch at Columbia, and the people at Yale are like: oh, really; those guys? It’s like we’re at Indiana University and Indiana State launches and the people at Indiana University are like: come on, seriously? So we kind of were used to this dynamic of people, like why are you doing this but then coming around pretty quickly.
+
+Reid Hoffman: Notice the lesson Mark is learning here. He’s learning how to listen. Each college said they didn’t want another college to join, and then as each new college joined, the network got stronger and people liked it more. This is a great example of how entrepreneurs need to both listen to what users say and selectively ignore them. People can’t always accurately predict their own tastes, or even their own interests. For example, a baseline for Facebook is other people are going to upload pictures about you. Other people are going to tag them. And when those other people tag them, your friends are all going to see them, possibly before you.
+
+Do you want that product, yes or no? most people describe that as “I don’t want that product; no, don’t want that product.” And yet, everyone’s super happy with that product. People systematically are very poor at predicting their own reactions to new things.
+
+Tim Ferriss: The core idea here is that you have to experiment if you’re going to effectively innovate. This get harder and harder as you grow, of course. Mark shared some details on exactly how Facebook succeeds on a massive scale; how do you innovate as a larger company? And how do you change your mantra over time? Reid explains.
+
+Reid Hoffman: For Mark and his growing team at Facebook, the mantra, “Move fast and break things,” served as a rallying cry. The philosophy made a lot of sense when they were a fledgling startup. But when you have thousands of employees moving fast and breaking things, someone has to clean up their messes. As Facebook grew, Mark became aware of a growing tension between his hack throws to move fast, and his responsibility as CEO to avoid breaking things on such massive scale.
+
+Thus, a new mantra was born: Move fast with stable infrastructure.
+
+Mark Zuckerberg: Well, it’s less catchy.
+
+Reid Hoffman: But the best mantras do more than just sound good; they give you the resolve to make tough decisions.
+
+Mark Zuckerberg: So move fast I think is interesting, because you actually have to be willing to give something up to get it. and the question is what are you willing to give up? Early on, the trade was move fast and break things. The idea was we will tolerate some amount of bugs and flaws in the service of moving faster and learning what our community wants faster. But we got to a point where it was taking us more time to go back and fix the bugs and issues that we’re creating than the speed that we were gaining by going faster.
+
+So we were like okay, we need a new strategy to enable us to move fast. What we came up with was we’re going to do this by building the best infrastructure so an engineer that comes from any company is going to be able to ship their product faster here, and test it better, and move faster and all these things at Facebook than anywhere else in the world.
+
+So that’s what we mean by move fast with stable infrastructure. But again, we don’t get it for free; we invest a huge amount in building infrastructure. So I think these values always come down to what are you willing to give up to get something because they’re not free; nothing is.
+
+Reid Hoffman: Mark concedes that “move fast with stable infrastructure” is a clunky mantra. It doesn’t have the snappy appeal of “move fast and break things,” but it adds guardrails to protect the company in its new phase. You can still release something bold and half baked, you can still beak things; just don’t break the infrastructure because the infrastructure is too slow to repair, and if you break the infrastructure, it will ultimately slow you down. And with that new rule in mind, Mark laid the groundwork for mass experimentation on Facebook. How does it work exactly? One thing you should know about Facebook; it has many faces.
+
+Mark Zuckerberg: At any given point in time, there isn’t just one version of Facebook running; there are probably 10,000. Any engineer at the company can basically decide they want to test something.
+
+There are some rules on sensitive things, but in general an engineer can test something. They can launch a version of Facebook not to the whole community but maybe to 10,000 people, or 50,000 people; whatever is necessary to get a good test of an experience. Then they get a readout of how that affected all of the different metrics and things we care about; how are people connecting? How are people sharing?
+
+Do people have more friends in this version? And of course business metrics like how does this cost the efficiency of running the service, and how much revenue are we making? It can even kick of qualitative studies and ask people how happy they are with this version.
+
+At the end of that, the engineer can come to their manager and say hey, here’s what I built. These are the results; do we want to explore this further and do this? And giving people the tools to be able to go get that data without having to argue whether their idea is good through layers of management before testing something frees people up to move quicker.
+
+If the thing doesn’t work, then we add that to our documentation of all the lessons that we’ve learned over time. If it does work, then we can incorporate the small changes into the base of what Facebook is, that now everyone else who’s trying to build an improvement; that’s the new baseline that they need to get against.
+
+Tim Ferriss: But when is it okay to experiment? Is it always okay? Is it possible that the risk or cost can be too high? Mark sets a pretty high bar for this.
+
+Mark Zuckerberg: On a day-to-day basis, a lot of the decisions that I’m making are like: okay, is this going to destroy the company? Because if not, then let them test it, right? If the cost of the test isn’t going to be super high, then in general we’re going to learn a lot more by experimenting and by letting the teams go and explore the things that they think are worth exploring than by having a heavy hand in that.
+
+Tim Ferriss: Reid still holds more or less to his principle that you should be embarrassed by your first product release.
+
+Reid Hoffman: The word “embarrassment” plays a key role here. Over the years, some people have interpreted my theory as permission to cut corners, act recklessly, or proceed without a clear plan.
+
+But notice, I said if you’re not embarrassed by your product. I didn’t say if you’re not indicted, or if you’re not deeply ashamed by your product. Indeed, if you had launched so fast that your product generates lawsuits, alienates users, or burns through capital without any apparent gain, you did in fact launch too soon.
+
+Tim Ferriss: Commandment No. 6: Decide, decide, decide. Every founder has to learn how to make decisions. It is oftentimes better to make a wrong decision, usually correctable, than no decision. We actually alluded to this earlier with my story about Ben and Reid. This is something Eric Schmidt, former CEO of Google, learned when he was taking flying lessons.
+
+Eric Schmidt: In aviation they teach you to make rapid decisions, over and over again; decide, decide, decide. And it’s better to make a decision than just fix up the consequences. That discipline helped me in the hard times when I was at Novel in a real hardcore turnaround.
+
+Tim Ferriss: It’s also served him well in the freewheeling idea-generating climate he cultivated at Google.
+
+In fact, he might argue that it was the secret to their success and continues to be the secret to their continued success. You must have disciplined decision making in order to survive, let alone thrive.
+
+Eric Schmidt: The most important thing to do is to have quick decisions, and you’ll make some mistakes but you need decision making. We ultimately adopted a model of a staff meeting on Monday, a business meeting on Wednesday, and a product meeting on Friday. This was organized so that people could travel in the right ways. The agenda was everybody knew which meeting the decisions were made at. And so as long as you could wait a week, you knew you would get a hearing on your deal.
+
+I cannot tell you how may people have told me that at Google decisions are made today quickly in almost every case, even at our current scale. And that’s a legacy of that decision. Most large corporations have too many lawyers, too many decision makers, unclear owners, and things congeal; they occur very slowly.
+
+But some of the greatest things happen very quickly. We made the decision to purchase YouTube in about ten days. Incredibly historic decision because we were ready, people were focused. We had a board meeting; we wanted to get it done.
+
+Reid Hoffman: We have a word for these kinds of evasive maneuvers here in Silicon Valley. We call it an OODA loop. That’s a fighter pilot term. It stands for observe, orient, decide, act. The fighter pilot who has the fastest OODA loop wins. The other one dies. If you’ve ever watched the movie Top Gun, you’ll have a basic understanding of how an OODA loop works. Tom Cruise’s character, Maverick, has a few bad guys on his tail. In a split second, he orients himself to the enemy’s formation. Then he decides to perform a crazy aerial maneuver, the axe. It confounds everyone; score one for the free world. I’m not suggesting that tech executives secretly want to blast each other out of the sky.
+
+What they do want is to perform slightly crazy, super fast maneuvers again and again. You’ll often hear founders asking, what is the OODA loop of an organization or an individual? Because speed matters in combat, and also in fast moving industries.
+
+Tim Ferriss: Commandment No. 7: Be prepared to both make and break plans. In a fast growing organization, leaders have to be ready to pivot, even though pivot sometimes is used as a word that can be a cover-up for anything. I think it was Marc Andreessen in my podcast episode with him who said – when I was getting started, we didn’t have a fancy word for it; we just called it a fuck-up. Nonetheless, you have new competitors, new threats, new opportunities on an ongoing basis so you have to be adaptable. Nearly everything can be subject to change; so that much I think we can agree on. Reid talks about this concept with Facebook’s Cheryl Sandberg.
+
+Reid Hoffman: The path to scale always, unfortunately includes some broken promises, as Cheryl would soon find out. Everything, from interviews to office space, changes as you grow and even a small take back can matter to a team.
+
+Cheryl Sandberg: I’ll give you another silly example that I don’t think is silly; birthdays. We celebrated everyone’s birthday that day. Then it became that week. Eventually, we had a huge sheet cake with quarterly birthdays. My team was 4,000 when I left, and everyone’s name is on it. Now, it sounds like that wouldn’t matter, but it did. Because if you started out and we celebrated everyone’s birthday and we took that away, that was a problem. Now, I’m not saying be mean and don’t celebrate birthdays; I’m saying figure out what your systems are going to look like later and do it now.
+
+Tim Ferriss: Sandberg’s ability to recognize when a once functional system has stopped serving the team’s culture and productivity helps keep Facebook on track. Founders have to be able to count their losses when programs or projects no longer make sense.
+
+This very frequently happens, and I think this is something the founder of SoftBank might have mentioned at one point; that companies’ systems and processes often need to be replaced when companies triple in size or hit multiples of ten. So say if you go from three to nine to 27, then at 100 people, at 1,000 people and so on, systems need to be replaced or updated.
+
+Zynga’s founder Mark Pincus is excellent at stopping things when they’re not working.
+
+Reid Hoffman: By the time Mark launched Zynga, he was acutely aware of the dangers of stubbornly sticking to his ideas. He started to draw the distinction between his usually great instincts and his not always great ideas.
+
+Mark Pincus: I’ll try anything and I’ll kill anything and I’ll kill it quickly. I’m not going to let killing an idea kill a winning instinct. So that was a really poor idea that I’m still thinking about and learning as an entrepreneur, and I can see it playing out so often in people’s companies.
+
+Reid Hoffman: Mark separates specific ideas which must be killed when they don’t work from underlying instinct. And this willingness to kill ideas is essential to making innovation work.
+
+Tim Ferriss: So you have to be willing to pivot and you have to be willing to make firm decisions. But there’s one more thing. There are many other things, of course, but one in particular you have to keep your team together through all the twists and turns. Margaret Heffernan, former CEO of five tech companies shares a story with Reid about a company that got this right.
+
+Margaret Heffernan: The most sensational example I’ve ever come across, I spent a lot of time hanging out with and writing about Ocean Spray, the cranberry company. They’re one of the biggest cooperatives in the United States; an extraordinary business. At one point, Pepsi tried very hard to buy them and of course the company is owned by the cranberry farmers so this was a really passionate, passionate debate. You could never have resolved it by who cared most because everybody cared totally. And it ended up the vote was 49.9 percent in favor of selling; 50.1 percent in favor of staying an independent cooperative.
+
+And what made the company what it is today, which is very successful, global multi million business, is that after the vote everybody got behind it. there was no question; that’s the vote, that’s the outcome, now we all work together to make it successful.
+
+Tim Ferriss: Commandment No. 8: Don’t tell your employees how to innovate. And there are people who would certainly disagree with this or have a different tack, but what does that mean? That means manage the chaos, which might seem to be a contradiction. Many creative people find leading an innovative company actually means a lot less of actually producing your own great ideas and a lot more of shepherding your employees’ great ideas to fruition. They often come from unexpected places. Eric Schmidt thought a lot about this when he was the CEO of Google.
+
+Eric Schmidt: I think a fair statement is that the founders built the company in the image of what they saw at Stanford Graduate School.
+
+The offices, for example, if you had them would have four people in them, which is the number of graduate students that are in an office. And of course everyone’s very crowded, and it’s very casual, and of course there’s free food and everybody’s sort of hanging out all day. That graduate student culture, that sense that somehow we’re about to discover something new permeated the decision making. So they were able to invent some new ideas. So the culture of food and benefits and being quirky came from the founders trying to recreate that feeling.
+
+Reid Hoffman: Amid this creative ferment, his job was simple. He just had to give employees a slight nudge to deliver on their promising ideas.
+
+Eric Schmidt: The first thing I did is I went to the staff meetings. The staff meetings were long and they were like being in graduate school. What do you think of this? What do you think of that? But a real lack of business procedures and that kind of thing, which were easily remedied.
+
+Reid Hoffman: When you’re surrounded by bright young minds, you don’t have to push too hard for interesting ideas. They tend to tumble out of conversations or shared challenges and take you in unpredictable directions.
+
+But not every manager is comfortable with this type of chaos. It requires a particular kind of leader who can embrace both humility, the uncomfortable notion that you don’t have all the best ideas yourself, and uncertainty because you can’t always schedule innovation on a predictable timeline. I’m going to come right out and say it; if you’re a control freak, you’re going to have a hard time with this.
+
+Tim Ferriss: Google is certainly not the first organization to embrace contained chaos, if we want to call it that. But they do lean into it in a way that’s rare, especially for big companies and even within Silicon Valley.
+
+Reid Hoffman: Eric took some radical steps to keep ideas flowing within the organization. This means empowering engineers and keeping management in check. For instance, product leaders can draw in as many engineers as they’d like on any given project so long as they can convince engineers to join their team.
+
+I’ve talked to other managers at Google who are frustrated with this because they argue: we agree that my project is strategic; why don’t you just assign some engineers to me? And the answer is no, you have to persuade the engineers that your project is a good one to work on. And then by the way, you can have all the engineers that you can persuade to work on that project. And that’s central to Google’s culture for making progress. Eric took this idea one step further. He granted employees the freedom not only to chose their projects, but openly defy their managers along the way.
+
+Google famously instituted a rule that any employee could devote 20 percent of their workweek to any project they’d like. 20 percent time was in some ways a logical extension of Google’s graduate school culture. Managers, like research advisors, can set timetables and budgets for experimentation. But the staff, like the students, pick the research agenda.
+
+Eric Schmidt: Many, many initiatives in the company have come out of 20 percent time ideas; much of the mapping work, many of the search ideas, many of the advertising, many of now the AI work have come from people working and practicing in those areas.
+
+Reid Hoffman: As Eric says, many of the products people know best – Gmail, Google maps, Google news, Ad Sense – grew out of ideas generated by employees during this 20 percent time. But why, exactly, does it work?
+
+Eric Schmidt: While the rules says you can do anything you want to with your 20 percent time, these people are computer scientists and engineers. They’re not going to veer too far away from their core business, and that is the genius of 20 percentile.
+
+Reid Hoffman: The tendency of high performing employees to use their 20 percent time productively is the well documented genius of the program. But there’s also a hidden genius of 20 percent time that allows reasonable employees to defy unreasonable managers. And this institutionalized defiance can help balance the power and keep high performing employees engaged during challenging times.
+
+Eric Schmidt: The interesting thing about 20 percent time is although it’s reported as you get to spend one day doing whatever you want what it really served as was a check and balance on the power of the engineering management over the subject. So if an employee is under pressure, the manager says you’ve got to work harder; you’ve got to give me everything you have. That employee can legitimately look that boss in the eye and say, “I’ll give you 100 percent of my 80 percent time.” And that simple principle, which never really happens in practice but it’s understood; empowers the employee with both dignity but also some choices.
+
+Tim Ferriss: Commandment No. 9: To create a winning company culture, make sure every employee owns it. This commandment is very often overlooked, especially at the startup stage, and I’ve been guilty of this; I know many people who have. Many founders, especially inexperienced ones, downplay the role of culture in their success or simply don’t know where to start. Many of the founders and cofounders that I’ve worked with are in the latter category.
+
+They recognize how it can be an important and critical, cohesive factor but they don’t know where to start. Reed Hastings, the founder and CEO of Netflix, has strong feelings about company culture. His first startup, Pure Software, sold for $750 million so it was successful from an objective financial standpoint. But he shared with Reid that it failed when it came to company culture. And when he started Netflix, he wanted to correct that mistake. We get to some of the concrete corrections and where you can find a lot more about the specifics of that, but here first is how Reid would sum it up.
+
+Reid Hoffman: So Reed made a very typical mistake in his first company. He thought he could solve his company’s problems just by working harder. But hard work isn’t enough, and more work is never the real answer. To succeed as you scale, you have to leverage every person in the organization. And to do that, you have to be very intentional about how you craft the culture.
+
+This was exactly the lesson that Reed took from Pure Software. Their management decisions had created a culture that rewarded the wrong behavior and retained the wrong employees.
+
+Reed Hastings: The mistakes in Pure was that every time we had a significant error, sales call didn’t go well, bug in the code; we tried to think about it in terms of what process could we put in place to ensure that this doesn’t happen again, and thereby improving the company. What we failed to understand is by dummy proofing all the systems that we would have a system where only dummies wanted to work there, which was exactly what happened.
+
+And so the average intellectual level fell, and then the market changed as it inevitably does; in that case it was C++ to Java but it could be anything. We were unable to adapt to it because we had a bunch of people who valued following the process, rather than the first principle thinking.
+
+Reid Hoffman: Notice Reed’s double insight here. Pure Software couldn’t adapt because they had the wrong employees. And they had the wrong employees because of management decisions that explicitly selected for those employees. It was an insight that catapulted him.
+
+Tim Ferriss: What Reed learned from his first company was that culture directly impacted both who worked in a company and how well they performed. At Netflix he knew he’d need people who could adapt with the times as technology changed, as it very often – and I should say always – does. They went from a company that mailed DVDs to a company with streaming video and original content. The whole story is definitely worth hearing in the entire unedited version that is found on the Masters of Scale podcast. But here we’ll stay focused on how this realization of his affected Netflix’s culture and hiring practices. When Reed thought about growing the Netflix team, he already had a very clear idea of who he needed. Here is Reid Hoffman to explain what Reed Hastings did next.
+
+Reid Hoffman: Reed’s knowledge of history, the changing nature of technology, and the historical moment he was in lead to the understanding he would need people who could change with the times.
+
+People who can rip up a process and return to the first principles of delivering entertainment by any means necessary, whether it’s horseback, mail, fiber optic cable, or maybe in the future Elon Musk’s neural lace. Regardless, you need people who can change the business model fast. So how did Reed identify those candidates? It started with a now legendary document at Netflix, a collection of more than 100 slides known as the “Culture Deck.” These slides define exactly what the Netflix culture stands for, and who they’re trying to hire and what they can expect.
+
+Reed Hastings: The culture deck started about ten years ago. So first couple of years we were just focused on survival. Then we got public in 2002, cash flow positive and it was clear we were going to survive. So we then started really thinking about the culture; what we wanted to be, how we wanted to operate. And so over successive years, I improved this deck which I would go through with new employees. Sometimes new employees would love it; sometimes they were like oh my God, why didn’t you tell me this before I started; that doesn’t make sense to me.
+
+So we realized we should give it to every candidate. Then about 2007, 2008 we did that by posting it on SlideShare. But again, it was really just to be able to send a link to the candidates and it’s not very pretty, it’s not very highly designed; doesn’t look like it’s an external marketing piece. But that authenticity really people liked in the outside world, and now it’s over 10 million views on SlideShare and continued to be studied around the world.
+
+Reid Hoffman: What were the unexpected benefits of having published it?
+
+Reed Hastings: The core benefit, which we did expect, was that candidates were very aware of the culture. The unexpected benefits was many people became candidates for us because they loved what we described in terms of freedom and responsibility that might not have otherwise thought about us.
+
+Tim Ferriss: When you read Netflix’s culture deck, which many people have, you’ll see they have a very specific way of describing themselves as a sports team; not a family which I love. They use internal collaboration to drive external competitiveness.
+
+Reed Hastings: In team sports that really succeed, there often is a lot of warmth between the players. And so it’s emphasizing those aspects and demonstrating that when people come in, everyone tries to help them. But ultimately it is about performance; unlike a family which really is about unconditional love. Even if your brother does something awful and goes to jail, your love doesn’t stop.
+
+That’s just a difference. It’s an important part of society but that’ snot what we’re about. What we’re about is collectively changing the world in the areas of internet television and that takes incredible performance at every level. We’re also about really honest feedback all the time, so you can learn and be the best that you can be.
+
+Tim Ferriss: Most CEOs would agree that a successful company culture is one that lets team members be the best they can be. As you consider the best way to do that for your company and your team, you want to pay particular attention to how people compete. This is where a lot of company cultures go sideways. Margaret Heffernan, former CEO of five tech companies says this.
+
+Margaret Heffernan: There is often a belief among very successful, very competitive people that the thing you want to do in a company is get everybody to compete with each other. That if it’s everybody is racing against everybody, you’ll have this kind of white heat of brilliance and creativity. And I think pretty much everything about that is wrong. That’s not to say that I’m to competitive; I’m deeply competitive with myself in the sense that I really want to do a better job today than I did yesterday.
+
+But I don’t want you to fail. I have seen more companies and organizations go wrong because of what I think of as negative competitiveness. I do want you to fail, or I want your department to fail, or I want your product to fail because that will make me shine.
+
+I’ve seen more damage and destruction and waste from that mentality than probably from any other misunderstanding. And I think we all grow up in education systems that are very individualistic: my grades, my college place. So there’s always a tendency to think I have to get ahead. But actually what makes people successful is each other. Is you coming to me with an idea and my thinking: that’s interesting; what about this, or I know somebody you should talk to. Or: go and look at this product; that might give you some ideas. That if you can build an environment in which people really want to help each other, full of people who are generous you will do infinitely better than creating some kind of Olympic sport within the company.
+
+And quite where this idea that if we all competed with each other we’d all do better came from, I don’t know. It’s definitely not Darwin. But I see it especially, I have to say, among young men and this belief that if everybody’s competing, everybody will get faster; I think it’s a catastrophe. And I see it bring down really tremendous companies that get so lost in the fight, they forgot why they were there in the first place.
+
+Reed Hastings: I totally agree. And I actually think one of the key things companies do at scale in order to try to set against this, because there’s always the kind of “how do I win” as a culture is to say that part of the dialogue in performance reviews and in culture and competition is “how did you help other people.”
+
+And in particular, how did you help other people outside of the specific team you’re in. I’m really glad I asked you that question because I think what you just said is super critical.
+
+Margaret Heffernan: It’s really interesting. I remember I was speaking at a conference on this subject, and in the Q&A someone said: how would you find people like that when you’re interviewing them for jobs? And I said I would ask them who helped them in their career. Because if they can’t remember anybody, that’s a pretty bad sign. Anyway, the next person speaking at this conference was a chief technology officer from somewhere. And in his Q&A, somebody asked him who helped you in the course of your career? And he couldn’t think of anybody. There was this sort of stunned, horrified silence.
+
+The truth is that all of us, and I’m sure this is true of you, too; all of us got help from so many people. And you can’t remember one of them?
+
+Reed Hastings: Yes, exactly.
+
+Margaret Heffernan: And of course actually, singing the praises of people who have helped you is an absolutely joyous task, right?
+
+Tim Ferriss: Commandment No. 10: Have grit and stick with your hero’s journey. The other commandments from Masters of Scale cover just about everything in first principles, basic concepts that you need to succeed as a startup founder. Hiring and funding, managing and innovating, making decisions quickly, and testing products early. This tenth commandment makes all the rest possible. To succeed, entrepreneurs need a good idea, sufficient resources, good timing – tough to always make that one work or guess it – and of course that means a certain amount of luck. But they also need to follow this commandment; have grit and stay on your hero’s journey.
+
+Reid Hoffman: Some people mistake grit for sheer persistence; charging up the same hill again and again. That’s not quite what I mean by the word “grit.” The shorter grit you need to scale a business is less reliant on brute force. It’s actually one part determination, one part ingenuity, and one part laziness; yes, laziness. You want to conserve your energy. You want to minimize friction and find the most effective, most efficient way forward.
+
+You may actually have more grit if you treat your energy as a precious commodity. So forget the tired cliché of running a marathon. You want to be more like Indiana Jones, somersaulting under blades, racing a few steps ahead of a rolling boulder and swinging your whip until you reach your Holy Grail.
+
+Tim Ferriss: Of course the hardest time to show grit is when you need it the most. When the situation seems dire, when the odds seem entirely stacked against you, Reid sees these life and death moments a lot in the company he’s built and advised.
+
+Here’s what he thinks you should do when you find yourself in such a position.
+
+Reid Hoffman: These are the critical junctures that determine whether you fold or scale your business. You might win big and you might lose big, and the grit is the stick-to-it-ness that kicks in when you actually understand the risks and know that you might die, but move ahead anyway. In fact, I have a prepared speech for these pivotal moments.
+
+I probably have given this speech at some point on every single board that I’ve been on, which is the heroic possibility that the road in front of you is super fucking hard, that it is not a given that you’re going to win it; but if you win it, you’re going to be a hero. And so the question for you is, are you a hero? And most people when they hear that speech, they kind of go yeah, right? Because that’s what they want to be. That’s why they’re doing this. They want to be a hero. So you’re giving them a frame to do it, and you might lose. You might be dead on the battlefield. This is why it’s a hero’s journey.
+
+This is why you’ll be heroes if you do this. And by the way, the people who don’t resonate with that, you want them off the boat.
+
+Tim Ferriss: Bonus commandment No. 11: Pay it forward. What does that mean? The other commandments from Masters of Scale cover just about everything you need to succeed as a startup founder. The final commandment kicks in after you succeed or reach some type of certainty that you’ll survive, or just have a little bit of extra cash on hand, in some cases. Because Reid will tell you the long term success of any person anywhere in the world depends on the ecosystem around the company or the person.
+
+To create an ecosystem like Silicon Valley, and many places have tried, where startups thrive and scale-ups are possible, successful entrepreneurs have to follow this commandment and pay it forward. That means they invest in the other companies around them; the little guys. In this next clip, Linda Rottenberg explains how she sees this. She’s the CEO of Endeavor, and her passion is supporting entrepreneurs around the world.
+
+Linda is awesome. I haven’t seen her in years. Hi, Linda. She says the willingness of successful entrepreneurs to pay it forward is the determining factor in whether a startup scene, ecosystem or city, thrives or not.
+
+Linda Rottenberg: Many cultures have one or two or three successful businesspeople that create companies. But if they don’t pay it forward, and if they don’t reinvest in the ecosystem becoming mentors, becoming angel investors, inspiring their employees to start companies, then it stops. And so what Endeavor tries to do is create that ecosystem foundation where the successful entrepreneurs go on and pay it forward, and that’s when you see a multiplier effect.
+
+Tim Ferriss: Linda has a great story about this.
+
+Linda Rottenberg: It was really in 2000 when I got called into a room by Pedro Aspe, the former Finance Minister of Mexico, who was then leading the largest private equity firm. He had gathered a group of about 12 individuals and before I walked in the room someone said to me; Linda, do you know what percentage of Mexico’s GDP is in this room?
+
+I said no, and I don’t think I want to. So I was asked by Lorenzo Zambrano of Cemex, Carlos Slim of all the telecom, Emilio [inaudible] of the media, etc. And one of the people in the room said why are all these entrepreneurs coming out of Chile, and Argentina, and Brazil, and even Uruguay? What’s wrong with Mexico? So in my oh, politically astute way, Chica Loca says to this group of men, “Well, here in Mexico, you’re the big fish. And think of entrepreneurs as the little fish. And here, the big fish tend to eat the little fish. So if you want something like Endeavor, think of us like an aquarium where you learn to feed the little fish.”
+
+And the fact that they actually didn’t again throw me out o the room… My life s about not being thrown out of rooms, I guess. And they all signed up and in fact, a decade later, Emilio Scadaraz, one of his magazines had a survey on entrepreneurship in the company and the headline was “Big Fish Feeding the Little Fish.”
+
+Tim Ferriss: If you follow these commandments you’ll be well on your way to startup success, life success, as well as your own hero’s journey. This episode isn’t quite over, though, because I promised I’d have some new questions that were burning in my head for Reid that I wanted to get to him. And so let us just jump right into that. If you could have one gigantic billboard anywhere with anything on it, so metaphorically speaking getting a message out to millions or billions of people, what would it say? It could be a few words or a paragraph.
+
+Reid Hoffman: One of the quotes that I most love is this simple, almost haiku: If I’m only for myself, what am I? If I’m not for myself, who will be for me? If not now, then when?
+
+Tim Ferriss: What is the book or books that you’ve given most as a gift?
+
+Reid Hoffman: Obvious I give out my own books fairly often: The Startup View, The Alliance. Recently I’ve been giving out another book of friend of mine, Joshua Cooper Ramos, The Seventh Sense.
+
+Tim Ferriss: What fiction books have you reread or recommended the most?
+
+Reid Hoffman: Obviously, this is one of the places where my inner nerd, my geek shows. The books that I’ve most often read are Tolkien’s The Lord of the Rings. Because it’s so important to show this journey of these hobbits, these little people in a hero’s journey about how you can change the world within a context where Tolkien is fairly sophisticated around the questions of the corruption of power, the intersection of races, and the needs for us all to work together.
+
+Tim Ferriss: Is there a book that has most impacted your life?
+
+Reid Hoffman: I’m enough of a reader that many books have impacted my life. I would say most recently, Sapiens has had me thinking a lot about the evolution of humanity and what our future looks like.
+
+Tim Ferriss: What have you changed your mind about in the last few years and why?
+
+Reid Hoffman: I’d give two answers here. The first is a personal one, which is previously I’d always avoided political because it seemed like a zero sum game and I care about building things. I care about these Archimedean levers by which you move the world. And yet I realized that if I don’t myself engage in politics and take a more active responsibility, that I’m shirking my duties as a citizen. And so that’s a personal change.
+
+Scientifically, I’ve actually come around to the view that artificial intelligence is going to have a huge impact on our lives. I was an artificial intelligence undergraduate and major and more or less thought it’s going to be some interesting toys and not going to create something massive. And yet, as the five years goes by, as ten years goes by, as 20 years goes by, I think we’re going to see massive transformation in many industries in many parts of life that come from it. I’m not at a view that we are on a short path to artificial general intelligent machines.
+
+But the impact that the old techniques now applied is going to have on our lives is going to be ferocious, and that’s something that I rediscovered in the last few years.
+
+Tim Ferriss: What purchase of $100.00 or less has most positively impacted your life in, say, the last six months or from recent memory?
+
+Reid Hoffman: This is going to sound a little strange, but my trainer started recommending that I add moringa leaf powder to my tea. That’s actually added a rich antioxidant, anti inflammatory and a little bit more substance such that drinking tea now feels a little bit like a snack and is super healthy.
+
+Tim Ferriss: What advice would you give to a college senior about to enter into the so-called real world?
+
+Reid Hoffman: For the college senior, this is one of the key audiences to which I wrote my book, The Startup View. And the answer is to think about yourself as an entrepreneur. Not necessarily starting a business, but beginning a path that isn’t a career path but actually in fact a set of entrepreneurial experiences by which you’re strategically defining your forward life.
+
+That means looking for opportunities that change your trajectory along the variables that matter to you, whether they’re economic, or mission, or people you’re working with.
+
+Tim Ferriss: What advice would you give you a smart, aggressive 30-year-old, assuming that in both cases they’re similar to how you were at that age?
+
+Reid Hoffman: For the 30-year-old, it’s again much like the startup of you. But I think it begins to say okay, here are the assets that I have; how do I really leverage them, how do I amplify them? As opposed to that first steps in the journey thinking about okay, I’ve done this, what are the things that lead me from here? Now, not surprisingly in both answers, because I approach my life in a very strategic ways, these are ways that I was behaving both as a college senior and as a 30-year-old.
+
+Tim Ferriss: How has a failure or apparent failure set you up for later success? Do you have a favorite failure of yours?
+
+Reid Hoffman: One of the things that I like about the entrepreneurial life is that we fail all the time. Like literally, I have got just dozens of failures and failing fast in order to try to succeed. And perhaps in this context the best one is my very first startup, SocialNet, I literally made most of the classic mistakes in the first year. And all of the advice that I give entrepreneurs; for example, if you’re not embarrassed by your first product release, you’ve released too late; all of that comes from lessons that I have personally learned. And so that favorite failure, my first company SocialNet, was literally one of those experiences where when you say oh, it’s a learning experience; it really does mean lots of scars and lots of blood on the floor.
+
+Tim Ferriss: What is the worst advice you hear commonly dispensed or repeated in your field? That could be startups, VC, investing of other types or whatever you choose.
+
+Reid Hoffman: The classic mistake that people say and that entrepreneurs do is they believe that what is valued about what they’re doing is that they have a unique, secret idea and that they should hold their idea close to their chest and not talk to anyone about it because that’s the precious gem that they have. And actually the truth is, your asset is that you were in motion on this idea and you should talk to everyone smart who can give you feedback to try to refine the idea, to try to build it.
+
+Because your unique asset is that you’re in motion on nit and you’re acting on it, and you’re making something happen now. It doesn’t mean you publish your idea to the world, but it does mean that every time you can get good feedback that would help recruit people, help you refine the idea, help you advance the idea; you take it.
+
+Tim Ferriss: What is an unusual habit or an absurd thing that you love? For instance Cheryl Strayed needs to perfectly layer each sandwich that every bite includes every ingredient.
+
+Reid Hoffman: I’m a software guy, I’m a digital guy. You’d think that everything is digital recording. Well, I found this little shop in New York, it was online, called the Unemployed Philosopher’s Guild. They sell these little notebooks. Plato’s Republic, and Alice in Wonderland, and Pangea Passport. And actually having these little, highly designed notebooks that kind of have these literary references that are the things that I write notes on; that’s an absurd thing that I actually love.
+
+Tim Ferriss: What rules or criteria do you use to determine what to say yes to?
+
+Reid Hoffman: Obviously you get totally overloaded by saying yes. And I frequently, sadly, refer to myself as a kid in a candy store and I end up saying yes to too many things, and that creates a challenge. It’s kind of like: oh, I’ll have that one, too; and yes, that one too and that’s challenging.
+
+So when trying to imply intelligence and discipline to it, I look at a couple different things. So first, is it something that’s big and important in the world, something that I am uniquely well suited for? Second is, is it referred to me by someone that I deeply trust? Someone who knows me, knows the problem, or knows the opportunity and thinks it should happen? And the third is some room for serendipity. Some room for trying something new and different in a way that would stimulate me to think or to learn or to essentially suddenly… it’s a little bit like being stimulated and then suddenly having a new epiphany or a new vista open for you.
+
+And so always leaving room for some serendipity. Now, of course between all of that, the usual thing is that in every particular hour slot in my calendar, there are at least ten things that are competing for it.
+
+Tim Ferriss: Alright, folks that’s it. Thank you again, Reid. It’s always wonderful speaking with you, learning from you and congratulations on the new podcast, among many, many other things. And for everybody listening, there’s always more to learn. If you liked this episode, you might want to check out and subscribe to Masters of Scale. I love it. It’s on y phone, I listen to it on the way to get my morning coffee, for instance; it’s a great companion.
+
+You can check them out on iTunes, everywhere podcasts are found and if you want just a short link, you can go to Tim.blog/Masters and it will take you to where you can find all sorts of additional information. If you liked this format of this episode, meaning highlight reels, commentary, all that kind of stuff; let me know and we will do more. As always, you can find show notes, links to everything mentioned at Tim.blog/podcast. And until next time, thank you for listening.
+
+
+TAGS
+REID HOFFMAN
+	

@@ -1,0 +1,679 @@
+
+
+SEPTEMBER 24, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tristan Harris — Fighting Skynet and Firewalling Attention (#387)
+
+
+Please enjoy this transcript of my interview with Tristan Harris (@tristanharris), named by Rolling Stone as one of the “25 People Shaping the World.” He was featured in Fortune’s 2018 “40 under 40” list for his work on reforming technology, and the Atlantic has called him the “closest thing Silicon Valley has to a conscience.”
+
+Formerly Design Ethicist at Google, he is a world-renowned expert on how technology steers our decisions. Tristan has spent nearly his entire life studying subtle psychological forces, from early beginnings as a childhood magician, to working with the Stanford Persuasive Technology Lab, and to his role as CEO of Apture, which was acquired by Google.
+
+Tristan is the co-founder of the Center for Humane Technology, which can be found at Humanetech.com, and cohost (with Aza Raskin) of Your Undivided Attention podcast, which exposes the hidden designs that have the power to hijack our attention, manipulate our choices, and destabilize our real-world communities.
+
+
+
+
+#387: Tristan Harris — Fighting Skynet and Firewalling Attention
+
+Tim Ferriss: Tristan, welcome to the show.
+
+Tristan Harris: Thanks for having me, Tim.
+
+Tim Ferriss: I am thrilled to finally have you on the line to have a wide-ranging conversation because we have many mutual friends, and many of my listeners have requested you on the show. And I thought that perhaps a good place to start would be beautiful Bali, Indonesia. I have in my notes here a bullet that references a retreat in Bali, that’s in Indonesia, for folks who were curious about Bali, on hypnosis, pickpocketing, and magic.
+
+Let’s dig into that. Why go to such a thing, and what did you learn? Did you accidentally sign any powers of attorney or walk out with an empty pocket?
+
+Tristan Harris: It was actually one of the best life choices that I think I’ve ever made. As a kid, I was a magician early on and got interested and reading, just siphoned up all of this information from books and things like that. But then it wasn’t really a thing that was going active in my life as an adult.
+
+But then about, I don’t know, some time in 2016, I saw this ⁠— I was part of this newsletter. I think his name is James Brown. He’s a hypnotist based in the UK, and he said he was going to run a workshop on hypnosis, pickpocketing, and magic in Bali. And I just thought, “This is too good to pass up.” It was about the one week of vacation I had in the year, and I ended up going out there. And it was something like me and eight or nine magicians. I was probably the most amateur. And it was so much fun because every night, you just have these magicians going out on the town like we go to a bar somewhere in Bali, and they would just clean up ⁠— not clean up in the sense of their money in their wallets but in the sense of just having fun with people.
+
+You would just watch these guys play with people’s attention in ways that they didn’t know what they were up against. And it wasn’t pickpocketing in an adversarial sense like, “Let me get all your money.” It was done in a —
+
+Tim Ferriss: Putting money into pockets?
+
+Yeah, yeah. It was done in the guise of, “Hey, I’m a magician. This is what I do, but you know do you want to have some fun?” But it’s just really fascinating especially pickpocketing. I don’t know if you know Apollo Robbins.
+
+Tim Ferriss: I don’t, but I’m definitely going to look this person up to learn more.
+
+Tristan Harris: He’s also one of the sort of world’s most famous pickpockets. He’s a TED. He actually helped me with my TED Talk when I was there, and he actually worked and collaborated with a bunch of neuroscientists on essentially the limits of attention, and stuff that he had picked up just by doing it, but then is later now being confirmed by neuroscience. And that’s what I find fascinating about magic and pickpocketing is they were kind of the first applied psychologists, and they’ve been doing this for hundreds of years.
+
+I just love that our science is catching up to what the practitioners have known how to do for a long time.
+
+Tim Ferriss: I’d love for you to perhaps talk to some of the techniques or principles behind good magic or pickpocketing, and I’m sure there aren’t ⁠— we’ll have a chance to explore parallels in other places. But for instance, speaking from my own personal experience, about a month ago had a chance to go to the Magic Castle in Los Angeles for the first time. And the recommendation from the member who brought us in was to go to the close-up magic room and it seats somewhere between 12 and 20 people. It’s a very small room, and there’s a table right in front of you. It was about five feet from me.
+
+And after the performance that we saw, which was truly staggering, it was just world class in terms of sleight of hand. A number of friends who were with me, one a very high-end musician, the other a very successful entrepreneur, and then a number of other folks walked out and said, “I have to question everything in my reality,” because of what could be done right in front of you. I mean, literally right in front of you.
+
+Are there any particular techniques or principles that stand out for you in the realm of magic, pickpocketing, hypnosis or other in terms of these practitioner arts?
+
+Tristan Harris: The punchline is it’s really about the limits of attention in all the cases. I think the other thing you’re also getting at is you had some pretty successful people by your side, it sounds like business people, entrepreneurs. The thing about magic that I always found most interesting is that it has nothing to do with the level ⁠— like your level of being inoculated from the effect has nothing to do with your intelligence.
+
+Tim Ferriss: Right.
+
+Tristan Harris: Which is so fascinating, because you could have the most successful business person or off-the-charts prodigy in mathematics or something like that. But it has nothing to do with the extent to which they can be fooled in a close-up experience or pickpocketing. And that they are living in separate different domains, that those are two different areas of skill or inoculation, I found fascinating. Because I think it says so much about what magic is doing. It’s not about intelligence. It’s about something more subtle and about the weaknesses or the limits or the blind spots or the biases that we’re all trapped inside of.
+
+I always say it’s like we’re trapped in the mind-body meat suit that has a set of bindings and bendings to how we see the world. But you don’t know that you’re living inside of that corrective tissue that happens to bend attention in that way. So misdirection is the core principle. You look over here, and you think you’re going to catch the magician doing it because you’re looking where you would think that he doesn’t want you to look, but he’s probably by that point already four steps ahead of you.
+
+By the time you’re looking at the place or the other hand, it must be in the other hand. But like that, you’re behind. It happened three steps ago, and usually there’s a setup. Sometimes, the actual trick has happened at the very beginning, and then there’s layers upon layers that are being built and the magician is usually working two or three steps ahead. I wish I could give more concrete examples, but a magician’s code is you don’t give this stuff up to the public.
+
+The funny thing about magic, of course, is it actually is all public. You just have to buy a book. But it turns out people don’t read books, and so it remains a secret. I think that in pickpocketing, what’s fascinating is people think, “Oh, dude, you grabbed it when I’m not looking,” and it’s not like that at all. I mean, as a pickpocket, the person will stand right up next to you. They’ll look at you. They’ll talk to you and you’re just having a conversation.
+
+With you, they will look down at your left pocket, and they’ll tap it and they’ll say, “Oh, so what’s in that pocket over there?” And then you’ll pull out keys and a wallet. You look at it and say, “Oh, okay. That’s interesting. And what’s in that wallet?” You’re right there with them as they’re doing this.
+
+And then, it’s in this other moment when they say it, “Well, look at ⁠— what’s happening in the other pocket?” And they’ll turn around and walk around you, and there’s all this ⁠— mischief just starts to happen in those moments in between. But what’s interesting about pickpocketing is the way people on the outside, the public tends to think about it as they just kind of grab it when you’re not looking. But what’s fascinating is it actually happens right underneath your nose. I love it. It’s so amazing to watch these guys work.
+
+Tim Ferriss: You were very recently ⁠— is testifying the right verb here, or presenting? Maybe you could —
+
+Tristan Harris: Yeah. I was the lead witness in a Senate hearing on persuasive technology.
+
+Tim Ferriss: If I’m remembering correctly, and feel free to fact check this, but you talked about the magicians’ pick a card, any card, or alluded to it. That might have been in your TED Talk. It was in one of the two, but we’ll come back to Washington DC. But when you mentioned that, it ⁠— I’m sort of trying to tie two things together here.
+
+It made me think of the ⁠— if you control the menu, you control the choices, which is one of the hijacks you talk about. Can you describe this? Can you elaborate on that?
+
+Tristan Harris: Yeah. I mean, we tend to live in ⁠— we’re in the United States, and we tend to live in a libertarian culture that’s all about celebrating and protecting the freedom to make our own choices. But at a very, very, very deep level, we’re not also taught to question who controls the menu of choices that we are picking from.
+
+This also occurs, I think, at a deep like spiritual or identity level. You can make any choice you want, but you don’t see the invisible constraints on how you are seeing the world in such a way that you’re only picking from the five habitual things that show up in your mind on a daily basis. But in magic, the principle is just ⁠— and it’s actually more nuanced than this. It’s funny, Derren Brown, the famous mentalist, I was emailing with him the other day and he was saying, “I could probably teach you some things to update your view that this is the most important principle in magic.”
+
+But if you control the menu and the order of options as they’re presented and the emphasis as they’re presented, you can ⁠— I wish I could do a demo here, but I’m not a good enough magician to do it live. You can make it seem as if someone has whittled down from the entire deck of cards down to one, from 52 cards down to one, and it seems as if they’ve made their own free choice along the way in like four distinct choice moments. But in fact, you know exactly what card you wanted them to get to all along.
+
+And the kind of questions you can ask people shape the outcome, the kinds of sequencing of the questions, the meaning making it. It’s hard to do this without actually giving people the whole techniques. But I think this is something that is really important to understand, whether it’s in the way that technology presents menu to us or the way that society or culture do, any way you choose, you’re still choosing within a menu that has other people’s interests behind it.
+
+Tim Ferriss: You mentioned invisible constraints, so the assumptions that we may not be aware that we’re making or the box that we’ve created for ourselves in some fashion or adopted from our environment or our parents or other places, are there any particular sort of tools or mental models or anything at all that you use to try to identify the invisible constraints in your life?
+
+Tristan Harris: Yeah. I mean, it’s a great question. I mean, fundamentally, I feel like the process of waking up for awakening is to try to see assumptions that we’re making or guiding principles in our choices that, are we even asking the right questions? Let’s say, right after this interview, you get outside and you could go in any direction. Like what is the ⁠— just think about that, that moment.
+
+I’ll leave this podcast studio and you’ll leave your house, and then what comes up into your mind about where to go? It’s usually a set of habits. Maybe it’s like, “Oh, what do I need to do? Let me refer to my to-do list. What is it? Which cafe do I want to go to for an iced coffee to run away from that anxiety that I was feeling because I don’t know what to do with myself?”
+
+There’s this limited ⁠— we’re kind of creatures of habits. And so, especially when we’re inside of embedded environments that we’ve been in for long periods of time, we tend to play out the same patterns over and over again. This is both kind of a New Age throwaway statement and also a real one, which is wherever you are ⁠— what is it called again? I think it’s wherever you go, there you are?
+
+Tim Ferriss: Yes. I think something like that. The Jon Kabat-Zinn book title.
+
+Tristan Harris: Jon Kabat-Zinn. Yeah, exactly. Jon is also a friend. The point is that you will repeat our same mental habits everywhere we go. In so many ways that are often invisible to us, we don’t notice the consistency of a structure to the way our minds happen to process information, or the way that we think about what to do with our time, or the way that we value things, or we sort things. All those processes that are setting inside of us, happening all the time, are often invisible and not available for introspection.
+
+They basically run our whole life, which is why they say like, “Oh, maybe you have to go on a meditation trip.” “Maybe I’ll go find myself in Bali.” But then you find that as I know from your meditation experience with the monkey mind, it’s like we just have these recurring processes that follow us everywhere. And I think if you can’t see them, then they run your life. And then we’re kind of like automatons. We’re robots that are living according to the previous set of constraints and the extent to which we have choices, the extent to which we see those patterns.
+
+As far as techniques to see them, I mean, I think that’s tricky. Have you ever done The Work of Byron Katie?
+
+Tim Ferriss: I have. I find a number of her one-sheets, sort of these one-page worksheet prompts, to be very helpful. It takes a little getting used to. It can seem very strange and nonsensical at first, but I think if you’re willing to force yourself to do the thought exercise of contorting the beliefs, these statements that you take as true, it’s super valuable. Could you describe if you’ve done it, how you’ve done it?
+
+Tristan Harris: It sounds super abstract for those people who haven’t seen it. But she’s basically just come up with a set of four questions you can ask of any moment in your life that causes stress, because usually what’s happening is you are creating that stress for your own mind and you just can’t see it yet.
+
+I kind of think about it to link it to the magic metaphor that our brains are living inside of this 24/7 magic trick, which is that whatever thought pops into our mind, we believe it. We don’t not believe it. We automatically step into it and we see the world through that thought, through the assumptions of that thought.
+
+Essentially, what her four questions do is they let you see the exact opposite of that belief, which then makes you not take your beliefs and your thoughts so seriously. And it’s a great parity with meditation, but essentially it’s something like, I don’t know. For example, you’re driving and there you are, and then some guy in a red Corvette like cuts you off. And you’re like, I don’t know, something like, “That guy is an asshole,” or something like that.
+
+You are convinced of it. Every bone in your body, every bit of your nervous system just, you know for sure this guy is impatient. He’s inconsiderate, all of these thoughts just rush into your mind and you have utter certainty about your experience and who this other person is. Let alone the fact you don’t know if this person is rushing to go get their wife who’s at the hospital because something is wrong. I mean, you don’t know.
+
+The four questions are, okay, that guy is inconsiderate. The first question is, “Is that true that guy is inconsiderate?” Then you have to like pause and sit there. There you are in the car looking at this person and saying, “That guy is inconsiderate. It’s not true, okay?” Second question is usually to reinforce and loosen up maybe the beliefs a bit, which is, “Can you be absolutely sure that it’s true that that guy is inconsiderate?”
+
+And you realize like, “No, I can’t. In fact, I just thought that the moment that he stepped and ran in front of me.” So then you get to the third question which is, “Okay, what happens? How do I react? What images come to mind? How do I feel? How do I relate to the world? How do I relate to him when I believe the thought that guy is inconsiderate? What happens?”
+
+And the answer would be something like, “I see him as naïve. I see him as thoughtless. I see him as ⁠— I don’t care about him. I want him to be removed off the face of the earth. I want that car out of my way. I get angry in my body. I feel all these things.” You’re trying to basically list the ecology of just what that one belief in that one moment that that guy is inconsiderate does to your whole nervous system.
+
+It’s like a full-body scan, kind of full-belief scan of what that does. And you sort of see, “Oh, my god. Just by believing that one thought, it’s totally transformed my entire experience in that moment with reality. I’m now seeing reality in a totally different way, and usually in a more distorted, disconnected, not centered, not calm, not connected way.”
+
+And the fourth question is, once you realize the kind of absurdity of that ecology of beliefs, is “Who would I be in that moment without the thought that that guy is inconsiderate?” And so “There he is, he crosses. He cuts over right in front of me, but without the thought ‘That guy is inconsiderate,’ maybe it’s something like, ‘I have curiosity about what happened; why did he do that?’” Whatever. You get that ecology.
+
+Then the last step is to list the opposites of the belief. Instead of “That guy is inconsiderate,” one opposite is, “That guy is very considerate,” or “He is considerate.” And you try to find evidence. “Is there any way in which that could be true?” And in that moment prior to doing this process, you were convinced that this guy just was absolutely inconsiderate. But after you’ve done these four questions, you think, “Is there any evidence for him being considerate?” Well, what if he’s on the way to the hospital to meet his wife who just got ⁠— is in labor or something from being pregnant?
+
+You realize that he could be the most considerate person in that way. Or another opposite to “He’s inconsiderate” could be “I am inconsiderate.” And the evidence there would be that “I’m inconsiderate of the fact that I don’t know the ecology of this other person’s life. And I rapidly jumped to conclusions.”
+
+What this process does, and I feel like they made me go through it for so long, but it shows you something fundamental about the ways that our minds trap us in almost like a permanent, fixed set of glasses that temporarily occupy the way that we see the world and make meaning. When we see that, you just stop taking your thoughts and your beliefs quite so seriously. And you realize that even those moments when you’re stressed and you’re convinced it’s because the world really is doing that thing that pisses you off, it lets you see, “Maybe I’m actually doing this for myself,” and that also gains and increases responsibility, because that means that “Now we’re responsible for our own experience” as opposed to “The world is constantly terrorizing us with situations.”
+
+Tim Ferriss: Thank you very much for that overview.
+
+Tristan Harris: That was going so long.
+
+Tim Ferriss: No, that was really good. That was really good. I spent two days with Byron Katie in a small group. And for people who are listening, I will confess something that someone listening might also experience, which is when I was first given this exercise and did it as related to a few different situations, I had a lot of resistance.
+
+Tristan Harris: I did too.
+
+Tim Ferriss: Yeah, it struck me as this sort of semantic tail-chasing or the highly abstract. And when you dig into it if you give it a chance as a thought exercise, it can be incredibly valuable. I mean, some of the transformations that I witnessed in the room with people who had long-standing beliefs about, say, a family member, which were completely crippling, like had paralyzed the family situation, was really remarkable.
+
+And you mentioned the three questions here. “Is it true?” “Can you absolutely know it’s true?” “How do you react?” “What happens when you believe that thought?” And “Who would you be without that thought?” A couple of points that were really valuable to me, or questions to ask sort of as a subsection under “How do you react?” and “What happens when you believe that thought?” One of the subsets of that Byron Katie has on the website, it’s just thework.com, and you can find all this stuff for free, is “Do any obsessions or addictions begin to appear when you believe that thought?”
+
+I think this is really good one, and really important. You mentioned leading into this, “Do you go to the coffee shop to drink a coffee because you’re overwhelmed or worried about not knowing what to do?” And then that likely triggers a whole new set of physical sensations, which trigger a whole set of emotional and thought responses, which you might blame on the circumstances of two hours before. But in fact, you just took down 200 milligrams of caffeine in four minutes.
+
+Tristan Harris: It’s like fractal levels of running away from anxiety, except running away from anxiety creates an experience that that’s an addiction, that then creates more anxiety that we then run away from. And we spend our whole day clicking between Facebook and email, Facebook and email, and then you’re like, “Where did my day go?”
+
+Tim Ferriss: Exactly. And the last thing for now that I’d like to say about this, because I’m really glad you brought it up, is that the portion of creating the opposites is where I had the most resistance. For instance, “That person is very considerate,” or “I am inconsiderate,” and so on. And there are a whole bunch of different ways that you turn these sentences around.
+
+The only way I could really get through the exercise was to say, “If I had a gun against my head and had to come up with three hypothetical cases where this could be true whatever the permutation is, what would they be?” It’s really powerful. And I don’t want to belabor the point, but I do encourage everybody to check it out and try it out. I’m really glad you brought it up.
+
+Tristan Harris: Yeah, I totally appreciate what you’re saying ⁠— not to delve so much on her work, even though it actually has been impactful for, I think, probably the other things we may talk about ⁠— is you just realize the way that the mind so quickly steps into some new belief with utter certainty. And just to your point like, when you find these opposites like, “Well, maybe I’m not considerate. Maybe that person is so considerate.”
+
+It’s like, “No, sometimes that guy just is inconsiderate, like he actually just wasn’t looking and he’s not trying to rush to save his wife,” and whatever else. I mean, there’s definitely an argument you could make that he was being inconsiderate, and it’s not meant to deny facts about reality, about someone else’s objective state. But I think what it does overall is it makes you realize that we live in utter certainty about a world that’s highly uncertain, and that whenever stress comes about through that process, we might be able to downregulate a lot of that stress by just not taking our thoughts and beliefs quite so seriously.
+
+It’s an amazing tool, and it relates to technology in a way because I think technology is this sort of false belief factoring, like it just generates all these false beliefs, so it’s moment by moment by moment by moment. The premise of her work and doing this process is so that you don’t identify with your thoughts. The fourth question she asks, which is, “Who would you be without that thought?” It’s not “What would happen instead if you didn’t think he is inconsiderate?” It’s “Who would you be?” So it’s an identity level question.
+
+And that actually is really important because when you’re doing belief transformation work, when you do identity level work, it’s much more persuasive. If you want to link this to the stuff I know about Russia’s influence campaign in the 2016 elections, I mean, a lot of it was identity level work. Like, “We are African-Americans, and Hillary doesn’t care about us.” That was the message that Russia went after.
+
+It’s because identity level propaganda and identity politics, it’s the deepest level of psychological influence work. Now, in the Byron Katie sense, she’s doing it to try to empower people to overcome the ways that their brain lies to them and deceives them. And the other sense, it can be used obviously to manipulate people, but in studying, I don’t know ⁠— have you done neuro-linguistic programming?
+
+Tim Ferriss: I first read ⁠— I have not done any training, at least not directly, but beginning in high school, which is I think when Tony Robbins really put NLP on the main stage in some respects, I became fascinated by the prospect or the implications as described by Tony Robbins in his first book of NLP. Could you describe that for people who don’t know what it is?
+
+Tristan Harris: I’m not an expert, but I have taken some workshops in it. Neuro-linguistic programming is essentially a study of how language and thought and meaning are ⁠— basically each of us have a map in our own brain of how we see reality. We’re not actually directly in touch with the reality in front of us. We’re living through this mediated map that ⁠— and based on word choices we use, it shapes the reality that we have.
+
+It’s used in hypnosis. It’s actually the basis for Ericksonian hypnosis and what kind of language choices to make and how you can deepen people’s experience or alleviate people’s experience. Like a simple example, just to make it concrete, is something like, think of a person that you love and see their face in your mind’s eye, and then turn up the colors. Just make their colors more vivid. Do you feel more of the love or do you feel less of the love when you turn up the colors?
+
+How about if you bring the image even closer? So bring it up way close right in front of you and turn up the colors. And then just playing with, just noticing that even as you do this, you get different kinds of feelings and experiences versus, for example, if you turn down the colors. You make it grayscale. What if you make it small and move it very far away?
+
+These are all ways of playing with human cognition and experience. Anyway, when you do this kind of work, it’s used in counseling, psychological counseling as well. And when you work with people on a counseling level, if you can do identity level transformation work where, for example, if you ask someone the phrase, “Are you an athlete?” I mean, if I asked you, would you say you’re an athlete?
+
+Tim Ferriss: When I’m not eating donuts and sitting all day, I would like to think of myself as an athlete. “I used to be an athlete” would be my real answer. Let’s say I used to be an athlete.
+
+Tristan Harris: So it’s just like when you sort of curl your nervous system if you say the phrase like, “I used to be an athlete.” Does that feel like the most accurate thing for you?
+
+Tim Ferriss: It does, yeah, because I think competitive athlete, so that’s ⁠— I would say “I used to be an athlete.”
+
+Tristan Harris: There you go. So that’s your map. It’s like athlete for you means competitive athlete in some kind of professional sense, which is interesting. I mean, a lot of people would probably answer that question “No.” And yet a lot of people, I mean, I might answer that question “No,” but do you exercise? Do you go to the gym? I do boxing and some kickboxing stuff for fun, just fitness classes, but I wouldn’t put myself in the category of athlete.
+
+But just notice that that’s just, whether I fall on the side of “Yes” or “No” to that question has a really big implication for how I see myself.
+
+Tim Ferriss: Definitely.
+
+Tristan Harris: And it’s totally arbitrary whether or not I call myself as part of the category of “I am an athlete” versus “I’m not.” And what would make me an athlete? What are the criteria? Well, there I go. Now, I’m inspecting the map inside my brain that I’ve invisibly constructed some set of rules about when you officially qualify for being an athlete and when you don’t. And it’s all artificial. It’s all arbitrary. It’s just coming from our own mind happening to organize these rules and obligations, which are self-constructed.
+
+It’s through the NLP type stuff or Byron Katie stuff that you can actually play with all this. And you realize that you’re living in this fractal kind of hall of mirrors in your mind that makes us think or believe all these things that are just kind of distortions, self-constructed out of invisible parts of our brain. And waking up is the process by which we can shatter some of the glasses and see more clearly.
+
+Tim Ferriss: Yeah, and waking up, feel free to offer a counterpoint, it seems to me that waking up here is at least, in part, simply becoming aware of your habitual processes. It’s kind of like stepping out of the movie itself in which you’re the lead actor or actress, and stepping back into the audience and watching, becoming the observer of your own behavior. And what you were saying earlier about thoughts and beliefs and how much conviction we can have about a snap judgment —
+
+Tristan Harris: Totally.
+
+Tim Ferriss: ⁠— reminds me of something that BJ Miller, who’s a doctor and hospice care physician who has been on the podcast, who’s helped something like a thousand people to die. His answer to the question I often ask, which is “What would you put on a billboard?” is he actually got from a bumper sticker. I don’t know the original attribution but it’s, “Don’t believe everything that you think,” which I liked a lot.
+
+I think about language a lot because when we’re talking about language, I mean, to some extent we’re talking about labels, and if we’re talking about labels, we’re talking about conceptual overlays that we’re putting on top of our sensory input. It’s really like how you’re constructing reality. And when you look at something, we don’t have to go into depth right now, but if people search for the 21-Day No-Complaint Experiment, there is a ⁠— I want to say pastor, it might be a reverend, Will Bowen. It might be Bowen, B-O-W-E-N, who began doing an experiment with his congregation in which they would wear a rubber band or a wrist band that was elastic.
+
+They attempted to go 21 days without complaining, and their parameters, which were mostly language based, for what constituted a complaint. If you complained, you had to switch your wrists and start your 21-day clock over again. The effects on people who completed the 21 days, or even made it halfway, on quality of life, on their thinking in the lens through which they took at reality was so profound. And if you really look at the nitty-gritty of it, it’s training and awareness of the statements in your mind and the statements that you use, just like Byron Katie’s The Work, in a sense.
+
+Tristan Harris: Exactly. In essence, it’s like, this is why I don’t want to switch in the technology stuff, at least not yet. But what you said, the attention economy is beneath all other economies, like the psychology. If you had an amplifier or a voice out like an output for all of the thoughts running through our heads, this is what constitutes our inner lives. This is the soundtrack. This is the things that we’re repeating invisibly.
+
+We don’t even notice that we’re repeating it, because it almost doesn’t have audio but immediately ⁠— I’ve done, I know you have done lots of meditation and on a seven-day meditation retreat I once did, that’s what I was most surprised by, was just how quickly these next thoughts would come up, and how quickly I was tempted to believe them. And the whole like wherever you go, there you are, like the same patterns of thoughts would come up, like the same self-doubt or the same self-criticism.
+
+I don’t want this to sound dull for listeners because I know that when people describe these things from a distance, it doesn’t sound as interesting, as profound. But to your point about language, you’re just making me think, I remember where I first encountered your work, Tim, which was ⁠— or at least it was one of the early recommendations you made, I think in 4-Hour Workweek, about The 22 Immutable Laws of Marketing.
+
+Tim Ferriss: Yes.
+
+Tristan Harris: Which also was a profound book for me, and the example of marketing is all about using language to manipulate perception and the fact that your mind organizes information in particular ways. I remember one core thing in that book is just the way that our minds create kind of ladders in competition, like invisible categories, like safety. “Which is the number one safest car in the world for you? What’s the most safe car in the world?” And everyone said, “Volvo!”
+
+Great. “What’s the second safest car in the world?” And you realize your mind draws a blank. It’s because your mind doesn’t even organize information past slot number one. And it’s all based on the slots. “What’s the fastest car in the world?” “What’s the safest car in the world?” I think it’s the same thing in our own lives invisibly the way we construct, “Am I an athlete or not?”
+
+It’s just this again, this other structure of identity, a belief, a meaning that makes up and constitutes our well-being, what choices we make, whether we dare to take those risks, whether we dare to jump off a cliff, whether we look at the world’s problems in the face. I think the psychology is everything. And it doesn’t seem important if you haven’t looked inside, which is also fascinating that people can spend their whole lives not even looking in and hearing what the words that keep showing up in our brains are.
+
+I didn’t do my first meditation retreat, I think, until I was 32.
+
+Tim Ferriss: Oh, you beat me.
+
+Tristan Harris: When did you do yours?
+
+Tim Ferriss: I did mine just a few years ago, so I was probably 39 or 40, and for those people who want a little comedic relief, one of the terms that one of the coordinators used, I don’t know if it was Jack Kornfield himself. He was there at Spirit Rock. It may have been one of the other teachers. But they joked about the vipassana vendettas where people in the room would become so preoccupied with the person 10 feet away who’s coughing too often, or who’s like shuffling too often, or as like the noisy jacket with the zipper.
+
+It becomes sort of obsessive focus, which happens all the time in daily life. It’s just not as obvious.
+
+Tristan Harris: It’s totally true. It’s funny, you mentioned this because when you’re in a meditation retreat, you’re in silence for days. And what I find fascinating is the way that, for whatever reason, your mind locks onto people, and you start making judgments about them. You think like, “That person over there, oh, they just think this.” Or, “Look at the way that they serve themselves food quietly! They’re just a slob!” or whatever that thing that comes up.
+
+And then what’s funny is like I don’t know if you experienced this, but in the last day of my meditation retreat, obviously, we had this little ⁠— we finally talked to each other and you get to know who people are and you realize just how off base you were. And these invisible ⁠— how quickly our mind jumps to conclusions about people for whom we’ve literally, we have never talked to. We’ve never inspected the contents of their mind. We get obsessed with it.
+
+It reminds me of another attention exercise that I did at Burning Man once. It was really powerful actually, like if you’re ever in a group setting, this is a super meta mind kind of a podcast interview. Hopefully, the listeners don’t find this too conceptual and abstract, but it’s actually really fun stuff. Our attention is so profoundly happening without us really realizing it. But this exercise I did, you’re in a room with people like 30 people, and you’re walking around in silence, and then you kind of stand at the edge and you’re led by facilitator to first look around the room.
+
+So there you are looking at all the 30 people and you’re looking around the room and they say like, “So, first, just look around the room and notice who you have noticed. Notice that there’s certain people, certain faces, that draw a lot more of your attention than other people.” In a room of 30 people, you would think like, “Oh, yeah, we’d just be paying attention to all 30.”
+
+But actually, if you look closely, your mind is actually paying attention to a subset. For whatever reason, there’s a subset of people who you find more interesting. Second question was, or second prompt was, “Look around the room and now notice the people that, for whatever reason, you don’t like. Like you don’t even know why you don’t like them, or you’re just not interested to connect with them. You would not want to be with them or talk to them. Just notice that there’s some people you’ve already selected that you don’t want to talk to.”
+
+And isn’t that interesting? Like what about them has you feeling like, “I don’t even want to talk to them.” And then the third prompt was, “Look around the room and notice all the people you didn’t even notice. They’re like the people in between, the faces who your mind completely skips over,” and you don’t even notice that you’re doing that. It’s a really profound exercise. There’s some other steps to it, but it really shows you that your mind is living inside of this selection filter that is pre-selecting certain bits of information to reach your conscious awareness and then hiding lots of others, and also a polarizing you against other people or sources of information.
+
+And you don’t even know why. You’re just living inside of that hammer that’s wanting to treat everything like a nail but you don’t even know the direction of the hammer and that there are lots of nails.
+
+Tim Ferriss: Definitely. And I was also, as you’re talking about this, the selection filters, and those 22 Immutable Laws of Marketing at either for people who want to look at the power of words through a different lens. This came up for me, actually, I should say this person, Frank Luntz, came up for me —
+
+Tristan Harris: I know him. He’s —
+
+Tim Ferriss: Yeah. He’s come up for me in a few different scenarios. One, a friend of mine. Very, very, very actual mutual friend of ours but I won’t name him by name. Certainly, very socially liberal guy, recommended, I think it’s Words That Work. I think that’s the term.
+
+Tristan Harris: Words That Work, yeah. It’s Not What You Said, It’s What People Hear is the title.
+
+Tim Ferriss: Right, by Frank Luntz. And he came up recently because I was watching Vice, the movie about Dick Cheney. And so Frank Luntz, for those people that don’t know him, and I’m reading directly from Wikipedia here. He’s an American political consultant, pollster, and public opinion guru best known for developing talking points and other messaging for various Republican causes.
+
+I’ll skip a bunch of it just to give a few examples, he advocated the use of vocabulary crafted to produce a desired effect, including use of the term death tax instead of estate tax, and climate change instead of global warming. Those are really powerful vocabulary re-frames, really, really powerful. If you think of the implications of those re-frames.
+
+Tristan Harris: Totally.
+
+Tim Ferriss: We can certainly chat about Frank and the power of words, but the meta ⁠— so feel free to jump in with anything you’d like to say but —
+
+Tristan Harris: Yeah. I love you’re bringing this up. I hope this again isn’t too meta trippy for people listening as they’re so much focused on language, but it does shape everything. Again, if people think climate change versus global warming, the whole point is, well, the climate is always changing. There’s nothing to worry about because it’s always changing. It’s a neutral statement.
+
+Another one that’s like Frank is ⁠— he’s often now to be on the right and there’s this guy George Lakoff who’s on the left who wrote a book called Metaphors We Live By, and he’s like an academic linguist who ⁠— he’s talked about the power of grounding metaphor. So grounding metaphor is if you think about something like the nation as a family.
+
+So, invisibly, when we think about the nation, it’s structured at least in English as part of the family. We don’t send our sons and daughters to war. We don’t want those missiles in our backyard. There’s a third one too, I forgot, shoot. Our founding fathers said that, “They’re our fathers, really? Are they really our fathers?” So invisibly, we have this baked into our language at a structural level that organizes almost like a geometry of meaning about how we see the nation. Those are our sons and daughters. Those our founding fathers. This is our backyard, in our property.
+
+It conjures up a whole bunch of assumptions about how we see the world that then structure entire political beliefs about whether to go to war and all this kind of stuff. And so as you’ve said, it’s like language is profoundly shaping not just like our own mental lives’ consequences on what you see on a meditation retreat, but world history and whether or not we tackle something like climate change, or we go to war with Iraq. These are really, really big deals.
+
+I think that we have to gain literacy for our minds. I actually think, this is kind of the essence of our work now is that fundamentally, we’re at this point where if we can’t see our own psychological ⁠— what’s the words? If we can’t see the way our minds are structuring information, and we are just simply, as you said before, like run by them, like they’re the automatic process that runs ahead of our choices, then it’s already done. It’s already checkmate because we’re already being led by things that don’t produce ⁠— choice-making that averts the kind of catastrophes that I think that we all want to avert.
+
+I think this is ⁠— my co-founder of the Center for Humane Technology, Aza Raskin says, “The way to win the final war is to make peace with ourselves, that this is the architecture,” like this is how we work, and the only way we’re going to either get over ourselves and take those risks to make the choices we’re going to make in our own lives is by understanding ourselves better. And the only way we’re going to solve civilization’s problems is by gaining an understanding for the things that would stand in our way.
+
+Tim Ferriss: I agree, and we are going to segue to technology very, very briefly. I want you again encourage people as a way to become more familiar with the words that you are using and the language you’re using which is basically this ⁠— you could think of it as the software that you’re running in a sense, which is really important. You might want to inspect that code, is to take a look at Byron Katie’s The Work and the 21-Day No-Complaint Experiment.
+
+It’s also a great way by focusing on one particular category of language to become meta aware more broadly of the what the voice in your head is actually telling you all day long. And technology, let’s talk about how you first came to know BJ Fogg. Maybe this is a place to start and then we can leapfrog all over the place from there. Who is BJ Fogg?
+
+Tristan Harris: Sure. And do you know BJ, by the way? Just curious.
+
+Tim Ferriss: I do. I haven’t spent time with him in years, but there was a period of time when I was living in Mountain View that we had a chance to spend a decent amount of time together. We have spent some time together, and we just have actually recently started emailing again.
+
+Tristan Harris: Cool, yeah. BJ is a psychology professor at Stanford and he ran something ⁠— I think he used to run something called the Stanford Persuasive Technology Lab that basically applies everything we know about the psychology of persuasion to technology. And basically, you’re asking the question in the lab, “How can technology persuade people’s attitudes, beliefs, and behaviors?”
+
+A lot of alumni have come out of this lab. I was project partners with the co-founder of Instagram, Mike Krieger. A lot of people went on to work at LinkedIn and Facebook and the early social media companies because this was like the perfect set of tools to apply to the way that we design technology. But in the lab, you study everything from clicker training for dogs. Like, how do you know how to train a dog to do the behaviors you want, and not the ones you don’t want?
+
+We read a book called Don’t Shoot The Dog by Karen Pryor —
+
+Tim Ferriss: Amazing book.
+
+Tristan Harris: Amazing book. Yeah, you know this one?
+
+Tim Ferriss: Yes, I do. Yeah. I do. I recommend it to everyone.
+
+Tristan Harris: Yeah, it’s funny. It’s like I program myself to enjoy boxing and kickboxing because I just get a smoothie right afterwards. It’s sort of Pavlovian conditioning, a clicker training in the form of a smoothie. You learned that. You learned social psychological dynamics, Robert Cialdini, a lot of the marketing stuff that you have already pointed out to many of your listeners, I’m sure.
+
+But it’s really just to study, again, of the code. This is like delving into the code of the human mind and this is what we find persuasive. This is in 2006, so it’s the year before the iPhones. The iPhone hadn’t even come out yet. And we had a class on persuasion through video and through mobile apps. And the founder of Instagram and I, before he had anything close to the idea for Instagram, we worked on applying these principles for good.
+
+That’s the thing people get wrong about the lab. They think it was this sort of diabolical training ground, evil, psychological manipulation tech leaders or something like that, and it wasn’t that way at all. It was actually a really powerful, three hours, once a week deep dive into this world and asking the question, “How would you use it for good?” So the founder of Instagram and I worked on this thing called Send the Sunshine where we thought, “What if we could persuade people in a way that alleviated depression but using our social psychology?”
+
+And this is again before the iPhone. So imagine the kind of thoughts you had to be thinking back then. But the idea was, imagine there’s some server that knows that there’s two friends who are friends and they have both their phone numbers. And it tracks the ZIP code of one phone number and realizes that you’ve been in a place with bad weather for six days in a row. And because we know from seasonal affective depression disorder, that’s a big deal. Just having bad weather for a while can kind of put someone down.
+
+And so what if upon hitting that condition, it then sends a text message through something like a Twilio to your ⁠— and it’s before Twilio, too ⁠— and sends it to your friend Mike, and says, “Hey, would you take a photo of the sunshine and send it to your friend, Tristan, who’s had bad weather?” The idea is we’d just be sending each other the sunshine. And this was a really nice idea behind alleviating depression.
+
+There’s all sorts of positive applications like that. We thought of helping people go to the gym and meet their goals. And BJ has this nice model for behavior equals M-A-T, B equals M-A-T, which is behavior equals motivation times ability times trigger. So whether or not someone does a desired behavior like going to the gym involves them being first motivated, then having the ability, like do they have ⁠— if they’re trying to go to a boxing class, do they have a pair of boxing gloves, and the clothes and the shoes? Or are they staying with a friend where they don’t have those things, so they have to have the second ability?
+
+And then the third is, is there a trigger? Is there like an opportunity? Is there a moment? Is there a snap of fingers? Is there a ding on your smartphone? Is there a reason why right now you should consider doing that behavior? And if you have all three of those things aligned, then people will do it. We learned all these kinds of things, but this also became relevant in a story about Cambridge Analytica because I remember back in that class, there is one student group that actually had done ⁠— there was this one segment in the class on the future of persuasive technology and ethical persuasive technology.
+
+There was one group that came up with the idea of, “What if in the future you had a profile on every single person on earth?” The profile was specifically “What does their mind respond to that is persuasive? How is their mind uniquely ⁠— what’s their map? And what are their set of psychological biases?” If you said, “Well, the Harvard School of Medicine said that this thing is true,” that would be persuasive for them because it appeals to authority work with them, or if for you, Tim, I said, “Hey, Eric Weinstein said X, Y and Z.” We both know Eric Weinstein. He’s a really smart guy.
+
+Each of us are responsive to different stimuli and what if in the future, you had this map of what is perfectly persuasive to each person and then we build technology that would automate persuasive messages based on your unique characteristics? This is actually exactly what Cambridge Analytica later was. It uses your big five personality traits. If you don’t know the big five framework, it’s your openness ⁠— it’s the OCEAN. It’s openness, conscientiousness, agreeableness, extroversion ⁠— I got these two reversed ⁠— and then neuroticism.
+
+And so, open ⁠— yeah, I won’t go into the details, but basically based on your personality traits, you would deliver different political messages, and that’s what happened in the 2016 election. This all relates to the conversation we just had about language and about Byron Katie and beliefs it’s because once you understand the code, and you can dip into the code, it’s incredibly dangerous what you can do with that. Because if you think about what do you do when you wake up in the morning, it’s the product of the software that’s running inside between your ears. And this is the kind of stuff that we studied in BJ’s lab.
+
+Tim Ferriss: I’ve so many things to ask. That was super helpful background. BJ is a good guy. I just want to reiterate something you said, which is, “This is not Dr. Evil’s lair for malevolent 20-year-old code wizards. And BJ actually in other classes focused on things like world peace. And it was difficult to get people ⁠— this is a great example of language. It was very difficult to get people to agree on what that actually meant.
+
+So he would focus on defining antecedents, what are some components, antecedents that would be necessary to lead to anyone in the class who would consider world peace. And then he was able to get people to agree on some of the smaller antecedents and that ended up being the focus of the class. It’s a very smart way to approach it. He’s a good guy, so I want to underscore that.
+
+Tristan Harris: Just to add on to what you’re saying, I mean do you know the full story? The peace thing was awesome. He actually had for a while back in, I think it 2006 or 2007, multiple tech companies start a peace dot domain. It was like peace.facebook.com, peace.linkedin.com —
+
+Tim Ferriss: I did not know that.
+
+Tristan Harris: ⁠— peace.couchsurfing.com. Yeah, he petitioned a few of the tech companies and the idea was: could they each do something that would be the way that they’re contributing to world peace. And so with Facebook, they had a running wall of new friendships and connections formed between Israelis and Palestinians. It was like a live feed of how many new relationships had formed in the last whatever day or something like that.
+
+In Couchsurfing, the CTO of Couchsurfing actually was my collaborator on this Time Well Spent Initiative which later, we’ll talk maybe about, took over Facebook and Apple and Google in terms of some recent changes that they have been making to their products. He had started Couchsurfing. I worked on Couchsurfing, which was a website before Airbnb for finding free space to crash out when you’re trying to stay with a friend.
+
+And they also were part of this peace dot initiative that BJ started and they showed, I think, the number of people who had stayed on each other’s couches that were also from different ethnic backgrounds that would have been otherwise at war or something like that.
+
+And so, to BJ’s credit and so people really understand and get this, it was not a diabolical, Dr. Evil lab for training psychological manipulation. It was explaining the techniques and he also petitioned the FTC in the late 1990s about the ethics and the need for ethics in persuasive technology. But I just want to make sure people got that before we go deeper.
+
+Tim Ferriss: Yeah, and on top of that, we’re just to add to that, technologies are tools. And tools of almost any type can be used, misused, abused. They can be applied in many different ways. And one of the questions I’ve been dying to ask you is focused on incentives. We have so many different directions we could go with this conversation, but ultimately, when I’ve read a lot of what you’ve written and what I’ve listened to you speak, it becomes clear that at least to me, that much like the quote you use sometimes used from sociobiologist, E.O. Wilson, to quote, “The real problem of humanity is the following: we have paleolithic emotions, medieval institutions, and god-like technology.”
+
+And so this hypothetical situation that was more of a thought experiment or a question from students in BJ’s class then manifested in a political campaign, can really paint a foreboding picture of the future, this very dystopian picture. And what I’d love to hear from you as we look at some of the risks involved where companies who are fueled and driven by advertising-based models have cognitive neuroscientists, PhDs, armies of highly intelligent trained people developing highly intelligent trainable technology to predict us better than we can predict ourselves. How do you incentivize companies, engineers, et cetera to do the right thing?
+
+It’s presumptive to say that I know what the right thing is but let’s just say that for the sake —
+
+Tristan Harris: There’s only one right thing.
+
+Tim Ferriss: Yeah, let’s just say for the sake of argument that we agree that, as you’ve noted or at least the data reflects, let me find it here because I have a note here that just is like horrifying when I look at it. Here we go. A few examples, and again, feel free to fact check any of this stuff, but: 
+
+With over a billion hours on YouTube watched daily, 70 percent of those billion hours are from the recommendation system. The most recommended keywords in recommended videos were get schooled, shreds, debunks, dismantles, debates, rips confronts, destroys, hates, demolishes, obliterates.
+
+We have this extremism reflected in technology, which we could talk about whether that’s a reflection of or informing the mass behavior. But the ones that really paint a terrifying picture for me, I’ll only give two examples. But: 
+
+In 2018, if you were a teen girl starting on a dieting video, YouTube’s algorithm recommended anorexia videos next because those were better at keeping attention.
+
+Tim Ferriss: And then one more, this was from a New York Times article: adults watching sexual content recommended videos that increasingly featured young women, then girls, to then children playing in bathing suits. It’s just like, really it can paint a horrifying, terrifying picture. At the same time, I know people who work at all these big companies as you do, and on a one-on-one basis, these are good people.
+
+But the business model, sort of the incentives to shareholders and so on are such that these seemed like very almost kind of predictable side effects, like perverse side effects of the incentives that are in place. So how do you incentivize people to change this who are kind of in the driver’s seat putting these things together?
+
+Tristan Harris: Yeah. Well, I’m so glad you laid all that out, because that is, what you last said there, which is that we shouldn’t even be surprised by these consequences. They’re the direct consequences. We always say these harms are not by accident. They’re by design. They’re not by design by the people, like you said. The good people who are ⁠— there’s no one at Facebook who’s like, “Hey, how do we –” or YouTube who were like, “How do we make this recommend as many pedophilia-style rabbit hole videos as we can? Or let’s recommend white nationalism, or let’s recommend the most extreme sort of hate-inducing speech?”
+
+That is not what anyone at these companies wakes up and does, but we have to recognize this race to the bottom of the brainstem, race to the deepest paleolithic instincts towards tribal warfare tide, towards survival, we’re under attack. The other side is going to come and get us. We got to get those immigrants. This is our nature.
+
+And a race for attention is a race to get consequences, and you have to resonate at a deeper level than the other guys. And so the game theory progresses so that you have to go deeper into social validation. You have to go deeper into self-worth. You have to go deeper into tribal warfare language. Just to first lay out that these consequences are predictable and a direct consequence of that business model.
+
+When you say the business model, we should also be clear, it’s not like the advertising business model causes this. It’s not the rectangle that is the ad, the Nike shoes that are causing outrage and polarization. It’s more the engagement business model. The fact that I am not, as YouTube or Facebook, a neutral tool waiting here like a hammer waiting to be used just when you want me. I actually have a necessity.
+
+I’m like a hammer sitting here with a stock price that depends on you using me in particular ways towards particular nails that cause other hammers to be activated so that other people keep using it. I have $500 billion at stake at keeping people using these hammers in particular ways. That is the disincentive. That is the subversion of autonomy that is directly coupled with the success of the product, the success of the business model, and the subversion of the social fabric, unfortunately.
+
+And so in terms of your question, the first thing I want to do is to make sure that we’re all clear on that consequence being direct from falling out of the business model, because I’ve been working in this field for a long time and it’s taken a while for the world to accept that that is the case. At the beginning, I had conversations with people at some of these big attention engagement seeking companies five, six years ago saying, “Hey, I think the business model here is addiction. The business model here is whatever works at getting attention.”
+
+They’re like, “Yeah, you might be right, but maybe culture will wake up and see that on their own.” There was never a sense of responsibility in the part of some of those people, and I think that’s part of what we’ve had to do is to make it utterly clear that this business model does cause predictable harms at scales that are really hard to fathom.
+
+But now comes the question of like, “Okay, so now we recognize that. What do we actually want to do about it?” And I think anybody, like you, you were here in Silicon Valley 20 years ago. And, Tim, how long were you here? Was it like 15 years ago you were here?
+
+Tim Ferriss: I was in Silicon Valley from 2000 onward, up until about a year and a half ago.
+
+Tristan Harris: Okay, right. But I just mean the center of ⁠— the 2000 period to 2010-ish you were in the thick of it?
+
+Tim Ferriss: I was.
+
+Tristan Harris: Yeah. I think the point being that all people I know, and the founders of Instagram and my friend Aza Raskin, who was early at Mozilla and started the Center for Humane Technology with me, we all got into the industry not because we wanted to create big ⁠— I don’t know. We knew this is unusual, but we actually wanted just to help people. We wanted to build really empowering tools, technologies more like a cello, go back to the days of the Macintosh where it’s a bicycle for the mind.
+
+The whole point of what a computer was, and Steve Jobs’ idea was, if you take a human being and they’ve got their own locomotive capacity to expend some energy and then move a certain distance and they’re not very efficient compared to the condor, but if you give them a bicycle, suddenly a human can like use a little bit of energy with their legs and the pedals, and they’re going further than a condor in terms of the locomotive efficiency. And so his metaphor was technology could be a bicycle for the mind.
+
+I’m all for that, and that’s what so many of us got into this industry to do. But then somewhere along the way, the set of incentives that were at play forced that the thing we would monetize is human behavior. That’s where the first problem comes in, that success of the Macintosh was not directly tied to how many of your friends I could sign up to using and then getting them clicking on things and sending you notifications about when they click this desktop icon versus that desktop icon.
+
+There is no problem with Adobe Photoshop. There’s no problem with Microsoft Word. Microsoft Word wasn’t tilting the world towards conspiracy theories or algorithm-like extremism and sending you notifications about when your friends didn’t check that Word document that you did, it didn’t send them ⁠— it didn’t have any of this stuff.
+
+The thing, the fundamental place that we went wrong is when we attached financial success directly to the capturing of human behavior, the controlling and shaping of human behavior, because that’s where the persuasive technology stuff comes in. Because those principles became applied to “How do I keep you engaged?”
+
+And so if you take an example like the follow button. If you remember Twitter and Instagram were two of the first services that did this where, instead of just adding someone as a friend, which is the Facebook model, a bidirectional connection model of followers, that follow button and model created a reason why you would always get new email. Every day, you get new email, bing, like “You’ve got two new followers.” “You’ve got five new followers.” “You’ve got six new followers.” And you always want to say, “Oh, I wonder who followed me today.”
+
+And so that was this beautiful invention that got people coming back and ultimately to become addicted to getting attention from other people, and the same thing with the like button. Instead of persuading to get to capture your attention, it was much cheaper to get people hooked to seeing how much attention they got from other people, because now you autonomously, like, “I don’t have to do anything to you.” You are now autonomously going back to see “How many views did I get on that YouTube video?” “How many views did I get when I played that video game and I posted it on Twitch?” “How many views did I get, likes did I get when I put that post up?
+
+And so I think that’s where we went wrong, is when we tied business success and billions of dollars to the amount that we captured attention. And we have to go through a mass decoupling between business success and capturing human beings. And that’s going to be uncomfortable transition. It’s a big transition; I think that’s of the scale of going from an extractive energy economy of fossil fuels to a regenerative energy economy.
+
+The metaphor we make is there’s only so many environmental resources, and drilling for oil worked great at generating a whole energy economy that gave us all this prosperity. But now, unless we want to deal with climate catastrophe, we got to switch to a regenerative energy economy that doesn’t directly couple profit with extraction.
+
+The same thing is here except the finite substrate that we’re extracting from is our own brain. It’s like we’re scooping out the attention from ourselves because it takes nine months to put a new human being into the attention economy. And we have to decouple this relationship that profit is directly coupled with the extraction, and move it to a more regenerative model where we are not the cow or the product but we’re the customer.
+
+Tim Ferriss: What might motivate or force, say, a Facebook to change their model in the sense that if you look at Wall Street which as a metaphor for investment, and I’m not going to say all investors are immoral. That’s not true at all, but a lot of them are somewhat morally agnostic in the sense that if Facebook can better and better monetize the capturing of attention, this non-renewable resource of the mind, money will flow into Facebook.
+
+And then Facebook will be positively reinforced and rewarded for doing what we’re describing. Is it possible to divert the flow of that river? Is it going to take high-level policy change? What levers could be pulled that would catalyze a change?
+
+Tristan Harris: Well, I think just to name very concretely, what you’re pointing out is that all the incentives point to continuing this sort of self-extraction. Why would we stop scooping the attention out of ourselves, destroying democracy and debasing our mental health when that’s the thing that makes the most money? And Wall Street is not going to stop funding it.
+
+To deepen that example, you’re giving back last year in August when Twitter shut down 73 million fake accounts. These were what are called sockpuppet accounts or fake accounts. They could have been Russian bots. They could have been whatever, they should have been rewarded for taking down these 73 million accounts. But of course, what happened when Wall Street saw this was that their stock price had previously been tied directly to how many users they have. When they take down 73 million accounts, they’re like, “Oh, well, your company is worth a lot less than before.” But we actually needed them to do the opposite, which is that we need to reward the companies for basically having a high integrity public square.
+
+There’s so many different facets to this, Tim. But to answer your question, we’re going to need policy that basically helps this decoupling process happen. We’re going to need shareholder and activism that puts board resolutions on the companies to make this change. We’re going to need internal employees advocating for this change saying, “Hey, I want to move to a more regenerative model.” That’s like the equivalent of people last year advocating for Time Well Spent, which ultimately became part of the design goal for Mark Zuckerberg and Facebook in 2018.
+
+It’s a transition. It’s just like moving from fossil fuel. Exxon does not have an incentive to not be Exxon. And sometimes we wake up in these uncomfortable circumstances where our business model is based on a thing we didn’t know was bad at the time, but we’re starting to realize it was bad.
+
+An uncomfortable metaphor I’ve used for this in the past is like, let’s say you run the NFL, National Football League. Great sport, we’ve been doing it for decades and decades and decades. Lucky you, you’re CEO of NFL and one day, your sports scientist, health guy comes up to you and says, “Hey, I think that when we smash people’s heads together like this, it’s causing concussions.” And you just wake up and realize that your business model is smashing people’s heads together and selling it against advertising on TV, and it’s kind of the essence of the sport.
+
+No one wanted it to be this way, but that’s where we landed. Now what do we do? It’s really hard. Everyone is going to try to put in the padding and we’re going to try to increase safety standards. You do whatever you can but at some point, the essence, the existential essence of what football is about is this sort of process that does endanger people’s heads.
+
+I think that’s a situation that we’re near now, which is that we can’t ask for internal change from companies whose entire incentives are otherwise. But with policy that decouples success, we can talk more about that but there are some ways to do it from the outside.
+
+Tim Ferriss: I’d love to talk more about this. This is relatively new territory for me, I mean not as a user, but certainly at a policy level or replacing business model perspective with some of these gigantic companies. You have far more time in the trenches than I do. What are any of the Archimedes’ levers or proof points that could cause a shift if any such thing could exist?
+
+For example, is there a company that is pursuing a different model? Though they could use the extraction, the attention extraction model, who, if they succeed on a large scale, could beget not copycats but a trail of similar companies or provoke a change in business model at some of these other companies. Are there any particular, whether it’s models to mimic or companies that are doing something that reflects a viable alternative? Or is it really just blank canvas at this point?
+
+Tristan Harris: Yeah, I mean we’re in uncharted territory because we have this situation where there’s a monopoly on attention between a handful of major technology companies ⁠— Facebook, Twitter, YouTube, Snapchat, Instagram, WhatsApp ⁠— kind of own the attentional environment and there aren’t an alternative place to reach 10,000 people when you want to upload a video.
+
+You can’t just get that same level of audience when you push it to Vimeo. And so these are kind of attention monopolies, which is why one of the issues, and one of the fundamental things we’ve got to deal with, is competition. One of the reasons we’re not getting different business models is you can’t compete and get access to that same attention monopoly.
+
+This is what Chris Hughes, the Facebook co-founder, writing that op-ed in The New York Times saying we have to break up Facebook, is there needs to be more diverse ways of people competing to produce products there of different business models that support society’s well-being, that better protect the public square. But then the response from the tech companies is going to be ⁠— I think Zuckerberg said that they spend more money on protection and trust and abuse and Russian misinformation protection and trust and safety and all that stuff, than all of Twitter’s revenue combined. So take all of Twitter’s revenue in a year, and they spend more money on that, on trust and safety, than what Twitter spends in a year or what they gained in the year-end revenue.
+
+That puts us in this uncomfortable position where it’s going to cost us something. We can’t just do it. This is kind of like Anand’s ⁠— I forget his last name ⁠— but the book Winners Take All; we keep looking for these win-win solutions but sometimes we have to lose a little bit so that everybody wins. And that’s not a good message for capitalists because that’s not how we like to roll.
+
+But sometimes it works that way with organic food, like you realize that maybe regular food isn’t so good and we want to get the clean food that’s better, that’s organic. It doesn’t have the same pollutants even though there’s some marketing and narrative that’s baked into that assumption. And we can sell it for a higher price, so the thing that’s good for people, we can actually make money off of in a premium product.
+
+But in this world, these are the products that run the public square, that run the world belief systems. So we were talking about beliefs the first, however long we were talking. Just consider that YouTube shapes more than a billion hours of watch time daily. And there’s two billion people who use it every day, which is about more than the size of Christianity in terms of the psychological footprint.
+
+Facebook has 2.3 billion people. YouTube has two billion people. If you add up Instagram and WhatsApp, it’s another billion or so. So you’re talking about a couple Christianities of psychological influence total, this is an insane level of psychological influence.
+
+We better be really thoughtful. This is why I think, from my background, I mean, where I look at these things from, is let’s get really nuanced and hold up a microscope to what these things are doing to the psychological timelines of people. What happens in your nervous system, whether it’s with the word “climate change” or the word “death tax” or the word “send our sons and daughters to war?” Between two billion people going down a railway where if you pull the lever, they experience these set of consequences on YouTube, and if you don’t pull the lever, they experience these set of consequences. That’s like the trolley problem in philosophy.
+
+That’s what I was thinking about when I was at Google as a design ethicist, is how do you ethically shape two billion people’s thoughts where you don’t even really get to make that ethical decision because your business model and your incentives are making that decision for you?
+
+And this is where we have to decouple it. We can talk about some concrete solutions. Apple, by the way, is kind of the government of the attention economy. They’re like the Central Bank. People don’t look at them that way because they’re just making this product called the iPhone. But they control the dials on basically what it means to get attention from people and where the App Store policies on business models and things like Screen Time that help you limit how much time you’re spending.
+
+There are ways in which from the top down, you can change the incentives or do some quantitative easing on how people navigate through an incentive system that’s fundamentally about manipulating their attention. But then there are some deeper changes that we can talk about too.
+
+Tim Ferriss: Yeah, let’s get into it. What are some deeper changes? I like the sound of it. We’ll see.
+
+Tristan Harris: Anyway, that’s me sort of giving you an opening here. The window —
+
+Tim Ferriss: I’ll swing at the soft pitch. I’ll take it.
+
+Tristan Harris: Yeah, feel free to jump in. One simple example is what happened with energy companies and utilities in United States. So it used to be, if you think about it, energy companies make more money the more energy you use. So technically, if they’re running out of profits and they want you to use more, they’re going to incentivize to have you leave the lights on, leave the faucet on, leave the shower on, just waste as much energy as possible because that’s how they rake in the money. And clearly that’s not right, like you don’t want a world where basically we profit from our own self-destruction except that’s kind of what we’re trying to avoid here in all the circumstances.
+
+What happened with energy is, at least for, I think at least half of the US states went through this decoupling regulation where energy companies profit the more energy you use linearly. You use a little bit more energy, they make some more money. More energy, they make some more money. And then at some point, you hit a tier where they want to disincentivize you from using more so they, say, double charge you.
+
+Now you use the same amount of energy, but now they’re charging you twice as much so that disincentivizes you from using it, except they don’t hold onto all of the profits from that 2x cost. They instead reinvest that extra cost into a renewable fund, a fund that basically invests in renewable energy infrastructure. In other words, the disincentive to use more energy is used to fund the transition to renewable energy.
+
+Now you can imagine something similar having with technology, where you can have an attention or advertising-based business model. I’m not saying this is the solution I believe in by the way, but I think this is a piece in the toolkit, is you can have a situation where you make money the more attention you get from someone but up until a very small point. Because beyond that point, you’re basically incentivized to create mindless consumption and zombification and teen mental health problems and loneliness and the whole thing.
+
+You can imagine a world where we decouple attention success from business success, decouple the capturing of human behavior and manipulation of human behavior from business success. And then most importantly, to reinvest that money into the equivalent of what renewable attention, renewable human life things would look like. And that could happen. That’s something that you could help regulate with laws.
+
+Tim Ferriss: Let me ask a quick ⁠— 
+
+Tristan Harris: Paul Romer ⁠— 
+
+I’m sorry. Don’t lose track. Yeah, Paul Romer, go ahead.
+
+Tristan Harris: Paul Romer, yeah, he’s a Nobel Prize winner economist who proposed something recently called like an attention data tax that has some similar characteristics that you want to progressively price the attention companies because they have this bad incentive.
+
+Tim Ferriss: If it were up to you, where would you apply those funds?
+
+Tristan Harris: In the long run, I think that you can’t have ⁠— I said this on some other things. I know you’ve had Marc Andreessen on the podcast. And he has this line that’s very famous from 2011, that software is eating the world. Because fundamentally, it’s like, okay, if you could have taxis in our whole transportation infrastructure run without software and it’s not done with any intelligence and there’s no demand side supply matching, et cetera. First, you do it with technology and you get all that efficiency, of course software is going to eat the world.
+
+It’s going to eat up everything. It’s going to eat up media. It’s going to eat up advertising. It’s going to eat up taxis and transportation. It’s going to eat up every domain of life because it can always do it more efficiently.
+
+But if you think about it, what that means is take an area like Saturday morning cartoons. So that used to be run not by software. It used to be run by some human beings and some laws and editors curating what happens for children. But then you let YouTube just gobble up Saturday morning and it also gobbles up with it all of the Saturday morning protections.
+
+And so as software eats the world, like for example, Facebook. We used to have equal price campaign ads on TV as regulated. It’s Tuesday night, 7:00 p.m. It should cost the same amount for Hillary Clinton and Donald Trump to reach the same audience. Otherwise, it’d be unfair. It wouldn’t be a democracy.
+
+But you suddenly let Facebook gobble up election advertising and now the price has no assurances that it’s going to be the same equal price. So what happens is as software starts eating the world, what happens is private incentives eat the world. We lose the public protections.
+
+To answer your question about where it goes for renewable funds is we have to have some notion of things that are built to serve the public interest and not just private interests. I know this is happening in some discussions around AI where past ⁠— a sort amount of wealth creation because these AI things, once you really let them go, can generate so much wealth by continuing to produce innovations and efficiencies and revenue and all the stuff that after some certain point, shouldn’t we just give that money back to the people, give that money back instead of extracting from us? Shouldn’t it be ultimately for improving the greater lot for all of society?
+
+I think that’s something that we may feel uncomfortable with but we have to do with these large technology companies because if they’re running a constant for profit shareholder maximizing extraction racket and they’ve got to keep maximizing and they’ve got to keep extracting, there’s never a point to the end of their growth. It’s no wonder that they’re overextracting from democracy and mental health in kids and all these other stuff if they have to keep growing their footprint of attention.
+
+Tim Ferriss: I suppose also, this is just me kind of talking out my ass for a second —
+
+Tristan Harris: Go for it.
+
+Tim Ferriss: ⁠— bad habit I have, so here we go. Even if one can’t settle on a plausible alternative, there could be a reasonable consensus on the undesirable side effects of the model. You could, as a stopgap measure, say a portion of funds past this point, and it would be tricky to define whatever that point is, is applied to, say, some mechanism for trying to alleviate teen mental health issues, let’s just say, or fill in the blank to try to offset the damage that is being done at the very least.
+
+And that could be at least a possible discussion for a plausible stopgap until a viable supplemental model or alternative model is found towards which things get steered through some type of, I suppose it would have to be policy or regulation or something along those lines.
+
+Tristan Harris: Yeah, what I hear you saying fundamentally is about this is a classic externalizing harm model. Oil is the most profitable form of creating energy in moving around the world and portable, and all these great things. So it makes most economic sense to go with the oil, except if you account for the externalities. If you account for the balance sheet of society, the balance sheet of the commons, the balance sheet of nature, which get hurt by this seemingly most efficient cheapest form of energy.
+
+The same thing is true with advertising. It feels like while why in the world would we, you and I, Tim, pay for Facebook when it’s free? I mean why in the world we’re doing ⁠— like the problem is the harm shows up on the balance sheet of our sleep, of our collective democracy, of our public sphere, of the quality of our sense making, the information ecology, mental health. It shows up everywhere.
+
+And so what I hear you saying is, “Hey, well let’s at least put a fund aside to pay for some of those externalities,” almost like carbon offsets or mental health offsets or democracy offsets. But the challenge is that it’s like wouldn’t it be better ⁠— it’s like there’s this joke about capitalism. It’s like capitalism would prefer to give you diabetes and then get you subscribed to a profit-maximizing diabetes cure that I keep you on a subscription where I make money as I sell you this subscription for the solution, versus just not creating the diabetes at all in the first place.
+
+I think the question is how do we create systems that don’t create the diabetes, the informational diabetes, the democracy diabetes, the mental health diabetes with technology in us? How do we not do that in the first place? And by the way, it’s totally possible. Instagram at the very beginning, I remember when those guys first started, I was one of the early users because we actually used the, what’s it called, Burbn was the first predecessor to Instagram.
+
+Yeah, it used to be just about friends keeping up with each other’s lives. And it had some of the addictive qualities and had some of the infinite scroll and all that stuff. But it didn’t have this focus on celebrities and girls who basically competed on who would wear the fewer clothing and then be most recommend in the Discover tab to get maximum audience. And then kids basically realizing they could make money in selling their Instagram page for the million followers to brands and that everyone wanting to compete in being a bigger influencer, like all that culture of we’re all addicted to being influencers and addicted to getting attention.
+
+That is an externality of culture, of cultural values that are not real but that actually came from Instagram going down this overextractive growth oriented path that they needed to not because they’re evil people or anything like that, but because the business model, once they’re acquired by Facebook, they had to keep growing. They had to get a bigger and bigger attentional footprint.
+
+What you really want is you want it back to the early days. Let’s take it back to the Instagram guys and just following 10 friends and seeing where they are in the world and keeping in touch with our friends. That’s great, and there’s people who use Instagram that way now and that’s also awesome. But we also have to account for the fact that the interface is not tuned towards keeping it just for that use case, like Instagram could be, if it was truly humane, just trying to help us pick those 10 friends that we really want to keep in touch with as opposed to let’s maximize discovery and influencers and millions of followers and get lots of people looking at stuff. That’s an incentive of a for-profit public company that now has to run that incentive.
+
+The same thing was true with Facebook by the way. If you go back to early interviews with Zuckerberg in 2005 at Stanford, he gives a speech at Stanford with Jim Breyer, Entrepreneurial Thought Leaders seminar. And he said, “Well, what is Facebook?” And he said, “It’s like an address book. It’s like a public ⁠— it’s like a utility for your social life.” It’s a social utility is what he called it.
+
+That was closer to a model where it’s more of a tool back to what you’re saying about technology being just a tool. I’m all for that, I mean technology being an empowerment tool. And I think there’s beautiful things that can come from these things. One, they are operating as tools but the business model of advertising and engagement is the anti-tool. It does not want to be a tool. It wants something from you and that’s what we have to draw that line there and decouple business success from not being a tool.
+
+It might sound aggressive. I mean this is —
+
+Tim Ferriss: No, I get it. It’s tough. We’re talking about systems with extreme financial rewards associated with the problems that are manifesting and compounding. It’s a very thorny problem.
+
+Tristan Harris: It’s just like climate change there, because it’s like we’re all addicted to the growth but growth towards what? Growth towards our own self-terminating catastrophe. It’s like we can’t get off of oil because that’s the only one way we’re going to get the thing. And it’s like, yeah, but the alternative is that we have self-terminating endpoint.
+
+We have to recognize that ⁠— it’s like Paul Hawken, if you know him in his work on Drawdown. It’s like the top 100 ways to address climate change. People tell him like, “Oh, but solving climate change is so expensive. It’s going to cost us so much money.” He’s like, “No, it’s actually the opposite way around. If we don’t do it, it’s going to cost us way more.” We have to make the transition towards something renewable because it’s actually going to be completely self-terminating if we don’t.
+
+The information ecology, the thing that fuels how we make sense of the world in our democracy, like democracy only outcompetes the Chinese authoritarian model if we have really good bottom-up information sources like diverse, rich ideas, marketplace type things. And this business model of engagement, the race to the bottom of the brainstem towards the salacious, the outrageous, the hateful speech, the extremism stuff, the pedophilia is not fueling our democracy with the best sources.
+
+It’s like we have to talk about personal life optimization and keto diets and nutrients. We’re feeding ourselves the opposite of a democracy keto diet. We have to flip this around and it’s not a matter of this being my opinion or something like that or this being just being a motivated activist. This is like I’m actually concerned about this because if we don’t, the alternative is a thousand or billion times worse.
+
+Tim Ferriss: Yeah, for sure. It reminds me of a quote by ⁠— I’ll never know how to pronounce this guy’s name, but Chuck Palahniuk. I think I’m getting it right. The partial quote is: 
+
+“Big Brother isn’t watching. He’s singing and dancing. He’s pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake. He’s making sure you’re always distracted. He’s making sure you’re fully absorbed.” 
+
+And it just goes on to say that by doing so, you’re no threat. And I don’t want to turn this into some Vive la résistance type of —
+
+Tristan Harris: Well, I’ll tell you. I mean this represents the ⁠— do you remember Amusing Ourselves to Death by Neil Postman?
+
+Tim Ferriss: I have not, but I have heard of it.
+
+Tristan Harris: There’s this quote. I’m going to pull it up because it’s just worth reading really quick. We were all keeping an eye out for 1984 and we thought about the dystopia that we would get was the Big Brother one. But alongside Orwell’s dark vision, there was this other slightly older and less well known but equally chilling vision of Huxley’s Brave New World. It’s Aldous Huxley.
+
+He summarized it this way, it’s beautiful. It says:
+
+“What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny ‘failed to take into account man’s almost infinite appetite for distractions.’”
+
+He ends by saying: 
+
+“Orwell feared those that what we fear will ruin us, Huxley feared that what we desire will ruin us.” 
+
+And that’s essentially the premise of the work. It’s like there’s two ways to fail here. As in most systems, there’s almost always two ways to fail. One way to fail is the authoritarian Big Brother censorship sort of mode with so little information that we don’t have any and we’re all restricted and top down controlled, et cetera.
+
+But then the bottom-up way to fail is just overwhelmed in irrelevance, in distraction, in overstimulating our magic trick sort of brain with paleolithic social validation and tribal warfare and moral outrage, and all that stuff that isn’t actually adding up to anything. And human agency, which is unique to the world like choice is that thing that’s sitting in between those two worlds, informed effective choice, good choice.
+
+That’s what we right now like as a human civilization. That’s where we got to be because those other two models are really bad and self-terminating in some cases if we cannot ⁠— my biggest fear about these issues is we have to be able to agree on a common reality, a common truth, because that’s the only way. If we don’t agree on what’s real, if we don’t believe there is truth, then we can’t construct shared agendas to solve problems like inequality or climate change or whatever. We have real problems, and we have to find ways that we actually can see those agreements and then construct actions together to change it.
+
+I think that right now the technology is kind of taking us away from that. But the reason that we work on these topics is I want to live in a world where technology is giving us the superpowers to do that, superpowers for common ground, superpowers for constructing shared agenda, superpowers for instead of getting learned helplessness by seeing climate change news pounded into our nervous systems, dosed to two billion people a day, to instead have mass empowerment like mass coordinated action that we can all take and feel optimistic about. All the progress we’re making, and all the things we can do next.
+
+That’s kind of the project here. It’s like we are trapped in this one paleolithic meat suit that’s got these kinds of bends and contortions that bend reality in a way that can be hacked. And we can also use those bends and contortions in a way that gives us the most empowerment. And if we ever needed those superpowers, it’s right now.
+
+Tim Ferriss: This is a perfect segue. I have a question for you that is personalized. And I’m going to start by finishing the quote that I ended up only reading partially. It’s Big Brother. This is from Chuck Palahniuk.
+
+“Big Brother isn’t watching.  (This is very close to what you were just saying with Huxley.) He’s singing and dancing. He’s pulling rabbits out of a hat. Big Brother’s busy holding your attention every moment you’re awake. He’s making sure you’re always distracted. He’s making sure you’re fully absorbed. He’s making sure your imagination withers. Until it’s as useful as your appendix.”
+
+That would be a problem both on an individual level and certainly on a collective level. And there’s a quote of yours that was in the, I guess the TEDx Brussels if I’m getting the location right, presentation. “I spent a lot of my time thinking about how to spend my time.” And I’d love for you to talk about what you do on a personal level whether it’s to firewall your attention or to mitigate some of the damage/distraction that every economic force seems to want to impose on you.
+
+On one hand, there’s defeating Skynet and then there’s like the day-to-day life of John Connor. If you’re John Connor, what are some of the things that you do on a day-to-day or week-to-week basis to defend against some of these forces, some of these technologies?
+
+Tristan Harris: It’s funny when you mentioned this with John Connor, both living a personal life and defeating Skynet. I just realized in you saying that that’s basically both ⁠— my life is both of those things, like every single day of my life is “How do we defeat Skynet?” whether it’s on Capitol Hill and just coming back from that last week or the personal level of just being effective so I’m well rested so I can do that.
+
+It’s really hard and part of why I worked on these topics for so long. That first TED Talk in 2014 was about Time Well Spent and about the power of persuasive technology to make us distracted, which is kind of how this all started, was I found myself so easily distracted. I hated seeing this happen over and over again. You get one of these emails saying you’ve been tagged in a photo or someone commented and mentioned you in a comment.
+
+This is appealing to really deep instincts like you’re the protagonist of the show called your life, and when someone tags you in a photo, it’s like, “Oh, something about me?” I have social proof on the line. What did they say? Is it good? Is it bad? I have to see right now.”
+
+It’s really powerful stuff and the reason that I work on this is because I actually feel more sensitive than other people, or I feel certainly very sensitive to these forces. It’s why I think it’s so important to protect against them. And I think of it like we have to build these exoskeletons for our paleolithic brains.
+
+The military takes this stuff seriously. The military combat and the kind of flight instrumentation you see in the military aircraft or something like that, it’s all about managing attention like with crazy levels of discipline and science and research about how do you build that exoskeleton that gives us that level of focus and thinking about through the right questions and not the wrong questions, and being well rested and being able to stay up for many hours and focused on one single task and all that.
+
+Now to concretely answer your question, what are the things that we do? First of all, like I said, I struggle. It’s hard, especially now, because defeating Skynet comes with a lot of email and communications. It’s like being part of running a social movement for how to fix these things. And we have a nonprofit for those who don’t know called the Center for Humane Technology. We focus on this and we get email by every major world government and people who are dying to fix these problems. We’re trying to be of assistance in catalyzing that change. It comes with a ton of work and social obligation to get back to people.
+
+But some things that I found have been helpful, one thing I’ve been doing since I was in college is, since we’re mentioning these tips like the grayscale tip, which just to make sure your audience knows with that is. The idea there is when your phone has colorful rewards, it’s invisibly addictive. It’s like showing the chimpanzee part of your brain a banana every single time you look at the color of the icons and all that stuff. And so one thing that you can do is you can go into, and I think you’re probably going to list this in the comments, but it’s something like I think it’s General and then if you go in the Settings app on your iPhone and then General and if you scroll to Accessibility and scroll to the bottom, there’s this thing once you triple click to set your phone to grayscale.
+
+And so you say, “Why would I set my phone to grayscale?” Well, it just strips out those color rewards. Now when you look at your phone, it doesn’t have that ⁠— just a little bit less luster and psychological animation of your nervous system. And we helped popularize that. And it’s mostly also for the social effect, because when you do that, people say, “Oh, your phone is grayscale. Why is that happening?”
+
+And it lets you tell the story about why you would do this and the attention economy. And if you heard about Time Well Spent, that’s kind of why we did that.
+
+Tim Ferriss: Quick addendum them on that. The triple click can turn it grayscale and back to color. And I’ll put that in the show notes so people can find that at tim.blog/podcast. Another benefit of that, which is one way to sell it is, or an additional way to sell it, is that it increases battery life also. Quite substantially, it increases battery life. And it makes it harder to find your icons, which some might view as a bug but it’s a feature if you’re trying to use social media less.
+
+Tristan Harris: Yeah. That speaks to a secondary thing that I recommended for a while which is, think of it your phone is just like a filter or rather it’s unfiltered. It accepts both unconscious mindless uses of it and conscious mindful uses of it, and it can’t tell the difference between when you’re a zombie and you’re out of anxiety reaching for it to just check again the thing you already checked 10 seconds ago.
+
+When you’re actually saying, “No, no, no. I really need to find directions to that party I’m going to. I need to find those directions right now,” it can’t tell. You don’t want to put up these arbitrary speed bumps or roadblocks between you and what you want generically, because then you can’t distinguish between those two uses.
+
+Another thing that you can do is if you basically take off all of your apps from your home screen, almost all of them except for the recommended, we call them the tools. So like tools are your quick in and out utilities, things like calendar, things like Lyft or Uber, things like messages that just let you quickly do something and then you’re done.
+
+Those are fine to have in your home screen, but if you move everything else off to home screen and instead train yourself to pull down from the top on an iPhone and type like “I want to launch mail” or “I want to launch Instagram” or “I want to launch Twitter” because if you type, you have to be making more of a conscious choice.
+
+Tim Ferriss: I like that. That’s great.
+
+Tristan Harris: A thing about it is like when you’re putting like a band-pass filter between you and your phone that’s only accepting conscious uses and rejecting mindless uses, so that’s like another thing you can do.
+
+Another thing that I do if you want to be really militant about it is if you think about one of the problems with the way that phones vibrate, it’s gotten so bad that we now experience this thing called phantom vibrations where we believe that our phone has vibrated even when it hasn’t, and we’re stimulated so often that we’re just constantly reaching into our pocket just to feel if it actually did vibrate and we check it again just in case. And it’s just a mess.
+
+And one of the things that would help alleviate this is if you have a custom vibration signature for different kinds of notifications. So for example, when I get a message through iMessage from a contact, actually it buzzes three times in quick succession like buzz, buzz, buzz, like really fast. And I can tell therefore when I’m getting a message from someone versus when I’m getting like a calendar notification like, “You’re 10 minutes late for Tim’s interview.”
+
+And that is a helpful thing because if you think about it, your phone is like a slot machine. It’s buzzing in the same ambiguous way every time, which forces you to say, “Oh, I wonder if that could be that thing I was looking for,” and then that’s the excuse to get sucked in, and then you get sucked into the rest of the thing.
+
+In general, when you want to minimize your use of ⁠— your needing to even check the thing in the first place, and that’s what that helps do. And so you can do that by going to your notifications. And unfortunately, Apple doesn’t let you split up all of your major categories of notifications. This is why when we push on technology companies, and this one way Apple could be like a better government, a better Central Bank, is if they enable in the next version of the phone a thing that showed you basically, “Here are the top three kinds of notifications that you’re getting. Here’s like a continent map of the major five categories of notifications. Do you want to set up a unique buzz signature for each of these five to distinguish them?”
+
+Tim Ferriss: Yeah, or disable them.
+
+Tristan Harris: Or disable them, right exactly, both. And the whole point is we should have a whole ⁠— this is like the environmental movement. Imagine there’s this. This is the thing we’re trying to catalyze is that if everybody treated human attention as something sacred that we’re trying to minimize our footprint on it as opposed to maximize how much we manipulate, take, extracts out of your nervous system, that’s the fundamental change.
+
+If everything was treating your attention as something sacred that we want to move and change the minimal number of pixels on your screen. We want the minimal number of vibrations to ever occur. We want the minimal number of psychological anxiety concerns. This is another category people have talked about is even when you’re not looking at the phone, the anxiety loops of concerns that are looping in your mind as a result of the 10 minutes ago when you were using your phone like, “Oh, did that person get back to me? Oh, I wonder if I got new likes on that thing. Oh, I wonder if I’m going to get the address for that event if they sent that yet.”
+
+There’s ways in which the phones could silence those concerns by, for example, letting us set up a ⁠— like let’s say when you go on Do Not Disturb for two hours, it’d give you the option to say, “Is there anyone who, if you heard from them in the next two to three hours, you would want it to make a special noise for?” And you could mark that out.
+
+And that way, you could now not use the phone and have complete separation from it because you have the certainty that you won’t miss something important. Because that fear the we can miss something important is really powerful so that even when you go on Do Not Disturb or Airplane mode, people still go back to their phones and they check.
+
+I think people just don’t really realize the extent to which their deeper level nervous system and habits for reaching for this thing have been hijacked. And this is about kind of un-hijacking your whole nervous system, not just the way that the phone works, but kind of alleviating and releasing your whole nervous system from its deep connection to these expectations.
+
+Tim Ferriss: Yeah, totally. And the effect on the nervous system, like the actual biological cost is something that it is hard to fully take stock of until it’s removed.
+
+Tristan Harris: It’s huge.
+
+Tim Ferriss: And I, at least once every six months, try to go a few weeks without any use of social media. And I find it useful. I find it fun. I enjoy connecting with people through Twitter and polling. And there are some fantastic uses of social media. I enjoy looking at pretty pictures on Instagram of cabins that I’m sure I will never visit and things like this. But there is a neurobiological cost.
+
+One thing that I do that people might also consider is if you feel like you absolutely can’t survive without social media or maybe that type of sentiment is disguised as “I need this for my career in A, B, and C ways” or “I need this for my company in A, B, or C ways,” there are many instances where I will schedule using something like Buffer or Edgar or one of these other tools for several weeks, so I’ll batch my taking of photographs, those, or whatever it might be, have those scheduled out for a few weeks, and I give myself then a vacation from any type of active monitoring or responding to social media.
+
+The feeling at the tail end of that, let’s call it a week or two weeks ⁠— it’s most pronounced after a week ⁠— is not that, this is going to sound really maybe ridiculous, but it is not that dissimilar from a seven-day silent vipassana retreat. It is such a deloading phase, that it sounds unbelievable until you actually try it.
+
+Tristan Harris: Totally. I think what you’re speaking to in general is something that we would call a humane technology design pattern which is there are going to be moments when we think of a thing we need to do. And the inability to do it at that moment leads us to have to open up Twitter and write that thing or send that email to ourselves or whatever. If we can’t do it at that moment, we have to leave it on our nervous system as a looping concern. Now, for the rest of your day until you get to your computer or whatever, until you do, it’s like looping in you like, “Don’t forget to sync, don’t forget to sync.”
+
+There is a way in which if technology were truly respecting the fact that we’re better off offloading these things into somewhere else where it’s not taxing our nervous system, it could be a universal design pattern that you could enter something you want to do and schedule when you want it to happen and not do it immediately. Whether it’s sending an email to someone or sending the text message when you’re ⁠— I think that the way the iMessage thing works on our iPhone, you send a message to someone while you’re on airplane mode but it won’t just say, “Oh, I’ll send this when you get back. I just won’t send it.” And it forces it to be on you to go back —
+
+Tim Ferriss: It’s such a pain in the ass.
+
+Tristan Harris: And imagine if it said, “Hey, when do you want this thing to send?” It’s like baked into the way iMessage works. Or it’s baked into Slack.
+
+Tim Ferriss: Like Gmail offline. It would automatically send when you’re connected as opposed to forcing you to go in, click on this exclamation mark, and confirm that you want to resend it. It’s like, “Yeah, I do want to resend it because clearly it didn’t get delivered the first time.” This should be a lot easy to logically deduce.
+
+Tristan Harris: You have to have the certainty that it’s going to work because if you don’t have the certainty even if it does work like 90 percent of the time, it’s going to generate that extra layer of an anxious timeline. Just imagine this anxious timeline plopped down onto your nervous system so that for the next two hours, there’s this extra three percent that your nervous system is just taxed by the fact that you’re not sure for sure if this thing sent.
+
+You know Gmail is supposed to send it because it was in offline mode and they promised that they will. But if you don’t have that certainty, we have to have that kind of confidence. And I think this is actually one of the simplest things that technology could do. There’s a lot of uncertainty about stuff just doesn’t work consistently. A lot of the stress and the background radiation of anxiety would go down if we just had more consistency in the way that we believe that these things would work as opposed to the ways that they’re periodically broken.
+
+Another one I wanted to mention that I do in terms of creating a fortress or firewall of attention. I actually haven’t talked about this one, but if you turn on in accessibility settings on a Mac, the zoom feature ⁠— I don’t know if you ever use this ⁠— but you can zoom in to a certain part of the screen. And I do it where you hold down the control key and then you just use two fingers to sort of zoom in and zoom out.
+
+But what I do is what I’m trying to write for example. I easily get distracted by any other pixels that happen to pop into the screen, like it really affects me. I’m hypersensitive. And so when I’m doing any writing, I’ll just zoom into that text field so it actually occupies the full 15 inches of my MacBook Pro screen. And it helps me really focus.
+
+Using things like that ⁠— if you just imagine that you’re literally trying to conserve the number of pixels that change in an unexpected way because that will hijack and make it easier to forget or otherwise detour you from something that you’re doing. All of this again is like currently on us to do. This is like this extra cost that we all have to pay to know these tricks and listen to these podcasts and fiddle with these settings a hundred times.
+
+But the whole premise of this kind of work is: imagine a humane and regenerative world where this is how it works by default. Where everything is trying to minimize its footprint on our attention. And all the defaults are set to make it as seamless as possible and to do it the way that you would want it to work and to not have to double think and think, “Oh, maybe it didn’t send. I’ve got to send it again.”
+
+Just that certainty that I can actually have peace of mind, that can actually do not disturb for a day because I know that out-of-office messages ⁠— that I’m not going to respond for two days to email ⁠— was built into the native functioning of how email worked on every email app or messaging app. We don’t get that chance to do it. WhatsApp doesn’t have a mode that says, “Hey, I want to go on vacation for a week and this is the message I want to send to the people that are in this class of contacts.” That can be baked into the way that messaging works, the ability to disconnect without missing something important.
+
+And that’s the premise of what has to happen, is a deeper redesign that treats human attention as sacred, and that treats our cognition as something that we need to conserve for the areas we most need it and the big decisions we have to make in our lives. That’s what I’d love to see.
+
+Tim Ferriss: Yeah, me too. I suppose part of that is people developing the awareness of the value of their attention so that they are perhaps willing to pay for things that preserve and that attention and treated as sacred by design.
+
+Tristan Harris: Exactly.
+
+Tim Ferriss: Attention is a scarce resource. It is certainly a limited resource. I know we only have perhaps a handful of minutes left. And I’d love to ask you as someone who I would imagine has read quite a few books in your day. And you’ve mentioned a few. You mentioned Metaphors We Live By. You mentioned Amusing Ourselves to Death. Are there any particular books that you have gifted often to other people or tend to recommend most often or have recommended a lot to other people? Do any come to mind?
+
+Tristan Harris: It’s a great question. Neil Postman in general is a media thinker about some of the topics we’ve discussed today is just excellent. He foresaw so many of the problems in his book Amusing Ourselves to Death. Another one by him is called Technopoly, which also is about how when culture surrenders to technology. And especially the quantification of metrics and SAT scores and time spent in GDP and these kinds of things, he covers in that book. I highly recommend.
+
+There’s another book called Finite and Infinite Games. Do you know this one?
+
+Tim Ferriss: Yes, I do. By Carse.
+
+Tristan Harris: James Carse, religious studies professor. Did you interview him in your podcast?
+
+Tim Ferriss: No. no, I haven’t. I would certainly be open to it. It’s a fascinating book.
+
+Tristan Harris: Yeah, and that’s just of general philosophy, one about life and how to, I don’t know, navigate in a more improvisational way and ask, like, “What game am I really playing in interaction. Am I playing for a finite game outcome to win the game, or am I playing to keep playing,” which has a lot of overlaps with improvisation and things like that.
+
+Tim Ferriss: Yeah, that’s a fantastic book. People can get a very good taste of it by going to Goodreads and looking at highlighted portions for Finite and Infinite Games, also highly recommended by Stewart Brand and a lot of other really, really folks I respect a whole lot. Before we ⁠— I’m sorry.
+
+Tristan Harris: I just would recommend one more. If you’re into podcasts but someone who I’ve learned a lot from in terms of the civilization level dynamic surrounds finite games operating on a ⁠— or infinite growth games operating on a finite playing field and kind of the fundamental problems of capitalism, I recommend looking at Daniel Schmachtenberger. There’s a Future Thinkers Podcast episodes with him, and his thinking has been hugely informative to my own. So I recommend that for listeners.
+
+Tim Ferriss: Wonderful. I will figure out how to spell that and that will go into the show notes as well. This has been so much fun. Tristan, I really appreciate you taking the time. These are important topics. These are timely but only going to become more relevant and more important.
+
+Is there anything else you would like to say, anything else you would like to point people to, suggestions you like to make? Anything at all that you’d like to share as closing comments before we wrap up?
+
+Tristan Harris: Well, now first, just thank you for having me. I’ve enjoyed it as well. It’s nice to finally connect. I think we’ve had many friends who’ve been trying to connect us for a while. I think if you’re interested in how we reform the attention economy and how technology has been working, I just recommend people check out our work at the Center for Humane Technology. You can find me on Twitter at @tristanharris or the Center for Humane Technology website, humanetech.com.
+
+But this is going to take a village to make these changes and I think it might seem really hard, but then what I would encourage people to do is recognize that our paleolithic brains are not meant, like if you ask like are our paleolithic instincts ⁠— are they designed to do well to look at a massive problem like climate change and just be like, “Great, let’s get to work,” or are they more designed to look at a huge problem like that and say, “Oh, my god. I have no idea what to do. Let me put my head in the sand?” And it’s definitely the latter.
+
+I think that the thing that we have to recognize is that when you see big problems, recognize the way that our instincts would bias us to put our head in the sands and ask instead, “Well, what if there’s no one else is going to solve these problems but us?” Because my last big lesson that I’ll share with people because I had a crazy couple of years. I’ve been in the rooms with heads of state and the highest rooms possible considering these problems.
+
+There are no higher rooms. And I used to think in my life that there was this magic room of adults somewhere that were actually thinking about all these problems and they had it all figured out and, “Don’t you worry, Tim,” pat you on the head, “we’ve got this one, son. We really have this one figured out.”
+
+My lesson this year is no such room exists around some of these big problems. With climate change, there isn’t some master plan that everyone is working on. And with this one, there isn’t some just group of people at Facebook that are like, “That’s nice, Tristan. We’re going to fix this whole thing.” It really is this emerging issue that I think people need to get used to, each of us who can, especially who have the bandwidth to take responsibility for the world that we live in and ask what can we do because it was frightening and terrifying to realize at first that there wasn’t a bunch of other adults or at least not that many adults in these rooms who knew the answers to these questions and that suddenly, I was one of them.
+
+And then the second part is realizing, “Wow, okay, here we go. What can we now do to navigate? What levers can we pull?” And I think if everybody saw that they really were an active agent in the system and not just a passive participant, we’d get there a lot faster. So I really encourage people to do that.
+
+Tim Ferriss: We are all John Connor.
+
+Tristan Harris: We are all John Connor. That’s a great episode title.
+
+Tim Ferriss: Well, it’s a very important message. And I look forward to hopefully spending some time together in person. Perhaps we can rope in Eric and some others.
+
+Tristan Harris: Yeah, let’s do that. I miss Eric.
+
+Tim Ferriss: And I really appreciate you taking time. Again, this has been a lot of fun for me and very, very enlightening, very insightful. I have a whole sheet of notes that I’ve taken on things that I want to follow up on. I will link, for everyone listening, to all of the social links, the humanetech.com and so on in the show notes.
+
+Also, all the books we’ve mentioned, everything else will be linked at tim.blog/podcast. If you just search for Tristan or Harris, although then, Sam will pop up a couple of times as well, so we’ll have to parse that.
+
+And until next time, thank you so much, Tristan.
+
+Tristan Harris: Thank you so much for having me, Tim.
+
+Tim Ferriss: And to everybody out there, thank you so much for listening.
+
+
+TAGS
+TRISTAN HARRIS
+	

@@ -1,0 +1,79 @@
+
+
+JUNE 26, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Astro Teller (How to Think 10x Bigger) (#309)
+
+
+Please enjoy this transcript of my podcast episode featuring Astro Teller (@astroteller), currently Captain of Moonshots (CEO) of X, Alphabet’s moonshot factory for building magical, audacious ideas that, through science and technology, can be brought to reality.
+
+Astro’s talk on how to think 10 X bigger was recorded as part of A360, a high-end membership group run by past podcast guest and Founder and Chairman of The XPRIZE Foundation, Peter Diamandis. For more on A360 and its digital version (Abundance Digital), please visit Diamandis.com and look under “Memberships.”
+
+
+
+
+Astro Teller, CEO of X - How to Think 10x Bigger
+
+Tim Ferriss: Well, hello, boys and girls. This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show, where it is typically my job to deconstruct world-class performers across all different industries and areas of expertise.
+
+This episode is going to be short and sweet instead of my long-form interviews, which range from one to four hours – that’s long. If you want those, you can find 300-plus at Tim.blog/podcast, but this particular episode is going to be a short one. It will be roughly ten minutes in length, and it explains how to ten-x your thinking and your goals or, put another way, how to escape incremental thinking and think truly big – that’s capital B-I-G.
+
+And I love this audio so much that I now listen to it on a regular basis as a reminder. And even if you only listen repeatedly to the first minute or so – the exercise that is described – it can be tremendously powerful. So, perhaps you’ll end up doing the same thing and listening to it every Monday or once every month or whatever.
+
+The speaker is Dr. Astro Teller, @astroteller on Twitter. Astro is currently “Captain of Moonshots” –yes, that’s his title – but you can think of him as CEO of X, formerly known as Google X, but now Alphabet’s moonshot factory for building magical, audacious ideas that, through science and technology can be brought to reality.
+
+Astro’s also cofounder and current director of Cerebellum Capital, a hedge fund management firm whose investments are continuously designed, executed, and improved by a software system based on techniques from statistical machine learning. He was also the cofounder and CEO of BodyMedia, Inc., a leading wearable body monitoring company that was sold to Jawbone in 2013.
+
+And Dr. Teller – Astro, as I call him – holds a bachelor of science in computer science from Stanford, masters of science in symbolic and heuristic computation, also from Stanford University – not only would I not qualify to study such a thing, I can barely pronounce it – and a PhD in artificial intelligence from Carnegie-Mellon University, where he was a recipient of the prestigious Hertz fellowship.
+
+The audio that you’re going to hear was recorded as part of A360 – that’s the letter A-3-6-0 – a high-end membership group run by past podcast guest, and founder and chairman of the XPRIZE Foundation, Peter Diamandis, a very impressive guy in his own right. For more on A360 – if you want to know how this group comes together, what it involves, and its digital cousin, or version, you could think of it – Abundance Digital, since A360 is in person and Abundance Digital is, as you would guess, digital, please check out Diamandis.com. That’s D-I-A-M-A-N-D-I-S.com and look under “Memberships.”
+
+So, without further ado, please enjoy Astro Teller, CEO of X, on how to think ten times bigger.
+
+Male Speaker: Astro Teller, please come on up. Love this man.
+
+Astro Teller: All right. You guys having fun?
+
+Various: Mm-hmm.
+
+Astro Teller: Awesome. So, I run an experiment very frequently – I’ve done it before in this room – and typically it’s with people who are one or two layers below you in organizations much like yours. I’ll leave it as an exercise to the reader whether they’re just like yours. And here’s what the experiment looks like. I ask people, “I’m going to give you two choices. Choice A, choice B. Choice A, you can give a million dollars, bottom line, to your company through your efforts this year. Guaranteed. 100 percent. That’s choice A. Choice B, you can give a billion dollars, bottom line, to your company through your efforts this year with one chance in a hundred. Choice A. Choice B.”
+
+Who wants to do Choice A? Who’s going to do Choice A for the company? Absolutely nobody raises their hand. Who’s going to do Choice B? Everybody raises their hand. So, congratulations. I mean I’m not even testing you guys. I’m sure you can all do the math in your head. The expected utility is ten times as high for choice B as for choice A. Now, universally, these people are listening to me because they think that I’m going to give them the special sauce about how to make innovation. And I say, “You already know the answer.”
+
+Now, here’s the tricky bit. Does your boss want you to pick Choice A? Raise your hand if you think that your boss would let you pick Choice B. Not a single hand in the room goes up. They don’t need a lecture from me in how to be innovative. They need to change their context or, maybe, their boss can become smart just before they quit [inaudible] [00:06:51] and change the context for them.
+
+The context matters so much. The expectations matter so much. The people matter, the resources matter, but that’s not the biggest issue. There have been these times in the world – and sadly, they’ve been mostly military in nature – where you get a huge number of really smart people together – you know, not five or ten, but a hundred or more. And you give them the resources, but much more importantly, the expectation that they will produce miracles.
+
+The founding of Bletchley Park and the creation of modern computer science and cryptography, or the harnessing of the atom at the Manhattan Project – these are examples that we’re all sort of well schooled in. And I like the phrase “moonshot thinking,” because it points us at one of the few examples – this is JFK’s speech at Rice University, and then the Apollo 11 Mission after that that actually put someone on the Moon, to remind us, it doesn’t have to be about war, that you can create that same kind of exigency without war.
+
+Why do we have to wait for a war to say to a group of people, “You can do it. You can go ten times bigger. You can change the world that much – a huge change, not an incremental change. I expect that from you, and I don’t want you – metaphorically and literally – to choose choice A. Your job is choice B,” to tell those people and to give them that freedom. So, the question is, are you in that context? Are you creating that context for your organization? Because that’s the hard part. You know, people will flock to you once you’ve actually created the context. They’re not that hard to find. It’s making the context that’s the hard part.
+
+So, you need to set up part of your organization – I don’t think it’s realistic to think all of your organization can be like this. It’s very hard to think – and I don’t think it’s realistic – that everyone’s going to be choosing choice B. You need some people choosing choice A. But they can’t all be choosing choice A. So, you need to take a set of people, and you put them on the side. This is probably not 50 percent of your company’s resources, but it’s not 1 percent, either. It’s probably like 5 or 10 percent. You can afford it. You can’t afford not to over some ten-year period, actually. You will be eaten alive, because other people are getting better at doing this.
+
+Maybe it’s not worth it. Who cares? Why “go big” like that? You know, Icarus died and Daedalus lived, right? So, maybe incremental improvement – slow and steady wins the race. We have all these phrases for that.
+
+Let me give you – I have all these sort of perspectives in my mind on why this doesn’t work, but here’s one of my favorite ones. How many of you know the “mutilated checkerboard” problem? It’s a famous psychology experiment from almost 40 years ago now. So, here’s how it works. Somebody sits down each of the subjects with a checkerboard – which has 64 squares on it if you haven’t looked recently – and gives them 32 dominoes – each domino can perfectly cover a vertical or horizontal pair of squares – and says to each of the subjects, “Can you cover this board perfectly with your dominoes?” And every single subject, independent of IQ, within 30 seconds says, “Yeah, duh.”
+
+And then, they get a little devious – the research does – and cuts off the upper left-hand square from the checkerboard and the bottom right-hand square, and takes away one of their dominoes and says, “Can you still cover? You have 62 squares and 31 dominoes. Can you still cover your board with these dominoes?” And now every single person, independent of IQ, stalls, unable to demonstrate a solution or prove that there isn’t one. Doesn’t seem like it would be that hard. Turns out it is.
+
+Now, if the researcher writes the word “salt,” just the word “salt,” on the white squares, and “pepper” on the black squares, everyone solves it within 30 seconds. Everybody. And peanut butter and jelly would work as well – may be better if they’re brown and red. And the insight is that you’ve had two salts or two peppers – depending on the orientation of the board – removed, and each domino covers one salt and one pepper, whichever way you turn it, so there’s now not the same number of salt and peppers left.
+
+That perspective shift is what it’s all about. That’s why going ten times bigger is more important and works better than going 10 percent bigger. When you shoot for 10 percent better, you’re in a smartness contest – you’re putting all of your people in a smartness contest with everyone else in the world. They’re not going to win. It doesn’t matter how much money you give them.
+
+But if you push them, if you give them the expectation and the freedom to be weird, that’s moonshot thinking. Then, they can do the perspective shifts. And not only – if you shoot for ten times bigger instead of 10 percent bigger, it’s almost never a hundred times harder, and the payoff is a hundred times, so you already know that you’ve got a better return on your investment. But sometimes it’s literally easier, and the reason is because that perspective shift is actually cheap relative to being smarter than everyone around you.
+
+So, you need to create this organization that looks more like Willy Wonka’s Chocolate Factory than an “incubator” or an “innovation center.” Any place that’s called an “innovation center” isn’t, almost by definition. And you need to fill it with Peter Pans with PhDs – people who wear T-shirts that say “Safety Third” on them. Right? That’s –
+
+Speaker: I love that [… ] great.
+
+Astro Teller: You need these people to understand and to feel good about the fact that they’re going to fail most of the time. It’s not a maybe. There’s no way that they won’t fail most of the time. And you have to impress upon them – and it is possible, they love it once you let them go – it’s not just a moonshot and moonshot thinking when you choose to go big at the high level.
+
+You impress upon them that it’s moonshots all the way down. That in every sub-problem, rather than being clinical and traditional about how they approach the architecture for that problem, or hiring people for that problem, or how they fail fast and test things for that problem, they can be weirder. They can shoot to be ten times better than anyone has every done before in each of those sub-problems. And in each of those ways, it will again pay off because the perspective shifts will unlock more than smartness will.
+
+And, at least my experience is if these people are surrounded by a dura of business speak, you will ruin it all. If they believe that they have to have a business plan for the weirdness that they are embarked upon, you will kill it, absolutely – stillbirth guaranteed.
+
+But if you tell them that moonshot thinking is identifying an enormous problem with the world, picking a science fiction-sounding product or service which, if it could be made, would make that problem go away, and that there’s some set of technical plausible reasons, at least a glimmer of hope, that you could actually make that science fiction-sounding product or service that would make that problem go away, that problem, making it go away, is unlocking enormous value in the world. Have faith. If you solve that problem, the money will come find your organization.
+
+
+TAGS
+ASTRO TELLER
+	

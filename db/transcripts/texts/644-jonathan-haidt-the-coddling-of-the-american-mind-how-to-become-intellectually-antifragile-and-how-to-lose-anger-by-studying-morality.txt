@@ -1,0 +1,614 @@
+
+
+DECEMBER 27, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Jonathan Haidt — The Coddling of the American Mind, How to Become Intellectually Antifragile, and How to Lose Anger by Studying Morality (#644)
+
+
+Please enjoy this transcript of my interview with Jonathan Haidt (@JonHaidt), a social psychologist at New York University’s Stern School of Business. Jonathan received his PhD from the University of Pennsylvania in 1992. His research examines the intuitive foundations of morality and how morality varies across cultural and political divisions. He is the author of The Happiness Hypothesis and the New York Times bestsellers The Righteous Mind and The Coddling of the American Mind (with Greg Lukianoff).
+
+He has given four TED Talks, and in 2019 he was inducted into the American Academy of Arts and Sciences. Since 2018 Jonathan has been studying the contributions of social media to the decline of teen mental health and the rise of political dysfunction. He is currently writing two books: Kids in Space: Why Teen Mental Health Is Collapsing and Life after Babel: Adapting to a World We Can No Longer Share.
+
+
+
+
+#644: Jonathan Haidt — The Coddling of the American Mind, How to Become Intellectually Antifragile, and How to Lose Anger by Studying Morality
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show. I’m going to hop straight into the guest because I have so many questions I would like to ask. My guest today is Jonathan Haidt, spelled H-A-I-D-T. You can find him on Twitter @jonhaidt. He’s a social psychologist at New York University’s Stern School of Business. Jonathan received his PhD from the University of Pennsylvania in 1992. His research examines the intuitive foundations of morality in how morality varies across cultural and political divisions. He is the author of The Happiness Hypothesis and the New York Times bestsellers The Righteous Mind and The Coddling of the American Mind (with Greg Lukianoff).
+
+He has given four TED Talks and in 2019 he was inducted into the American Academy of Arts and Sciences. Since 2018, Jonathan has been studying the contributions of social media to the decline of teen mental health and the rise of political dysfunction. He is currently writing two books: Kids in Space: Why Teen Mental Health Is Collapsing and Life after Babel — great title, also. Life after Babel: Adapting to a World We Can No Longer Share. You can find him at jonathanhaidt.com and on Twitter once again @jonhaidt. Jon, nice to see you. Thanks for making the time.
+
+Jonathan Haidt: Oh, my pleasure, Tim. Very nice to meet you.
+
+Tim Ferriss: I thought we would begin with influences. How your personality, how your thinking has taken shape and I wanted to begin with the name Richard Shweder. Could you please explain who Richard is and how he factors into your life story?
+
+Jonathan Haidt: I have many mentors and sometimes I do what I call the gratitude parade in my head and people flash past and there’s a string of mentors. Rick Shweder is the biggest on who I am, and what I’ve written. Rick Shweder is a cultural anthropologist at the University of Chicago and when I wrote my dissertation at Penn, I wrote it on a debate that he was having with some other people who study morality who were saying that morality is always about harm, rights, and justice. Shweder said, “Well yeah, where you live in Cambridge, Massachusetts it is, but around the world the moral domain is much broader and there’s the ethics of community, ethics of divinity.” I planned a study to pit the two theories against each other and I did a study in Brazil and the US across social classes and Shweder’s predictions really came out beautifully.
+
+I found big cultural variation, especially social class variation in morality. In part because of that I was able to get a postdoc doing research with him. For two years after my PhD, I spent at the University of Chicago and during that time I got a fellowship to go to India for three months where Shweder worked in Bhubaneswar in the state of Odisha, India. That period, that year, 1993, I hope that’s a year that we’ll come back to a couple times during this conversation because that is the pivotal year in my life when my mind was blown in many ways. One of which was that I was reading Buddhism and Hinduism and then I spent three months in India and it really was welcome to my world and my way of thinking because Shweder is the most brilliant, iconoclastic, thinking for himself, perverse in the most wonderful way, intellectual I’ve ever met. That’s the beginning of who Rick Shweder is.
+
+Tim Ferriss: Perverse intellectuals. That might be the headline of this episode. We are going to come back to 1993. We’re definitely going to come back to Bhubaneswar. I was wondering how to pronounce that. I’m glad you gave me the layup in advance. I’d like to visit a motto, I believe. You can’t believe everything you read on the internet, but hopefully The Atlantic is reliable in this respect. A motto of Rick’s that I’d like to unpack, which is, “If someone asserts it, try denying it and see if that makes sense. If someone denies it, try asserting it and see if that makes sense.”
+
+Jonathan Haidt: Yes.
+
+Tim Ferriss: Could you explain what this means?
+
+Jonathan Haidt: Yes.
+
+Tim Ferriss: And maybe give an example of how he used it or would encourage students to use it.
+
+Jonathan Haidt: It comes from, I think a brother-in-law of Rick’s who is a dermatologist. The dermatologist once said to him, “Oh, dermatology is easy. Just follow this rule. If it’s dry, make it wet. If it’s wet, make it dry.” Rick being, again, this perversity, he takes that rule and that was sort of the way he ran his intellectual life. When I went to Chicago, it’s like the most intense intellectual square mile in the country. You’d be in these seminars with all these Nobel Prize-winning economists and people and someone would say something and Rick would turn it around and say, “Is the opposite true?” Then he would ask, “Well isn’t also the opposite of what you’re saying true?” Then you’d have to think, wait, actually, yeah, that is too, sometimes. What I take from it is we have such pressures to fall into line with our team to go with what the dominant view is.
+
+If you do that, you’re going to end up being kind of a hack. You’re going to end up being like everyone else. If you just automatically question things, not to be a jerk, now you could do it and be a jerk. If you just question it just with pure intellectual curiosity, is it true if we turn it around? Usually it’s not, but often it is. That’s how you get new insights. If you just have that as a habit, yeah, this is definitely good advice for anyone in a creative industry or in the academic world. Just try turning things around.
+
+Tim Ferriss: How would, just as an example, Rick potentially use this in anthropology? It might have been a broader guiding tenet of his thinking that applied to much more outside of his sort of declared field of expertise. Is there an example you might give for how that would fit into anthropology or the type of research that you were doing at the time?
+
+Jonathan Haidt: So one pops to mind, but it’s so offensive that I have to start with something else, because otherwise I’ll lose your listeners.
+
+Tim Ferriss: You have to warm up the listening hamstrings.
+
+Jonathan Haidt: Just one example is he was in a discussion with some psychologist because he’s an anthropologist but he’s in cultural psychology. I’m a psychologist. He’s in a discussion with some psychologists and they were saying, “Well, I mean, we have experimental evidence on this and that’s just so much more reliable than ethnography. I mean ethnography, an anthropologist goes someplace and they take notes and they report, but that’s just one person’s view. Experimental evidence is just much more reliable.” He turns around and he says, “Oh, really? Well, let’s see. Then you look at experiments that often don’t replicate. Then you look at anthropological accounts where often multiple anthropologists will go someplace and they will find the same thing.” The point is just you automatically assume, well, of course experiments with numbers and careful procedures are better. He just sort of turns it around and says, “Well, actually, maybe not.” Okay. That’s the easy one. I hope listeners are with me on that.
+
+Here’s the hard one, just about the most offensive cultural practice in the world for anthropologists and enlightened people is called FGM. Now that stands for female genital mutilation and anthropologists and Progressives are so tolerant, so quick to say, “Let’s not condemn other cultures. Let’s look at it from their point of view.” On this issue they don’t. What Rick was doing was saying, “In the societies where they do this, let’s try to understand what they’re doing.” He’s totally open to the fact that sometimes it really is a horrible operation that deprives the woman of sexuality.
+
+There are such a range of practices, but if you simply say any modification on a female should be punishable by time in jail, well then what happens is you have a variety of African and Islamic immigrant groups in the US and Canada where the mothers are put in jail. Rick says,”Well, let’s question this. Once you see what they’re doing, and sometimes it’s much more equivalent to male circumcision, which is common around the world.” Anyway, actually, no, your listeners probably aren’t going to bolt just because of that. I might get in trouble in other parts of the academic world.
+
+Tim Ferriss: If they bolt just because of that, then honestly this is culling of the herd because let me, before you continue, please hold your place, bookmark. Folks, part of the reason I wanted to have Jon on, and I respect the work that he does, is that I believe using this type of examination and self-examination, you become more antifragile and you can also see through the veil of your own conditioning in a more effective way. You can examine your thinking and your assumptions vis-à-vis the language you use, the language you’ve absorbed, the labels that are your defaults, et cetera. I think this makes you a better, more effective, and hopefully, ultimately, happier person who’s a better contributor to society. There’s my sales pitch.
+
+Jonathan Haidt: Wow, perfect. We’re done here. You said it. That’s exactly right. That’s why I’m so grateful to Rick. Because if you develop this as a habit, you become more intellectually antifragile, which we’ll get to. I hope it helps you step out of your team. It helps you think independently and you can see that your team does a lot of stupid things. Every team does. Yes, what you said.
+
+Tim Ferriss: What I said. All right. Then we flash back to 1993, and I would love to revisit, I’m going to write this down sort of moral relativism and how we might think about that and how we either embrace that or develop an awareness around it. Let’s postpone 1993 and actually just tackle this right now. There are a number of books I read a long time ago when I was part of something called the Henry Crown Fellowship at the Aspen Institute. One, I am, I want to say it was, I want to say H.G. Wells (George Orwell, Ed.), but I don’t think that is right, who wrote an essay called “Shooting [an] Elephant” or something along these lines. You may actually be able to track back the proper author of this, but it spoke of sort of social pressures and during British colonialism, this series of events that led to someone feeling like he needed to shoot an elephant that was causing all this ruckus in a village even though he didn’t want to.
+
+That was describing social pressures and how those can lead to actions that we find immoral or reprehensible ourselves. Putting that aside, that’s just an example. We also read a lot about morality, not in a structured way, I think, that would maybe stand toe to toe with the type of research you do in any way. But reading various accounts of people succumbing to moral relativism where everything is okay because it’s in a different culture, it’s in a different time. How would you suggest people think about that? Because on one hand, yeah, I think that’s dangerous. On the other hand there’s, there’s so much intolerance, masquerading as tolerance and there’s so many issues that I’m sure we’ll get into. Just with the subject of moral relativism, how do you think about that?
+
+Jonathan Haidt: This is a great topic to tackle in a longer discussion. Because it’s one of the oldest questions in philosophy, it’s an important one and it takes a little doing. There are a lot of intellectual puzzles where we just naturally think about it on a single dimension or as a binary. If you kind of break it up into multiple dimensions, then you see solutions. The typical way of thinking about this is there is morality real? Is it a real thing, the laws of physics such that if people are behaving contrary to it, they’re wrong even if they don’t know it. Or is morality just Herodotus and ancient Greeks, they saw this, “Well, in this country they kill their parents when they get old, and in this country they eat pigs,” and they could see that practices differed. Well maybe it’s just like language, it’s just like whatever happens in your culture, well that’s what’s grammatical.
+
+What I learned in part from Shweder and also reading a lot of philosophy, some of which he guided me to, was I’ll put out a couple of concepts. The first is moral monism versus moral pluralism. The question isn’t, “Is there moral truth or not?” It’s, “Is there one moral truth or multiple?” Once you do that, now you’ve loosened things up. Because a hallmark of my work, and this is where I departed from Rick a bit, is I’ve always been very influenced by evolutionary psychology as well as anthropology. We are evolved creatures, we are homo sapiens and we are all homo sapiens and we are primates and we have a lot in common with chimpanzees and bonobos. That’s the evolutionary side. Then there’s also the anthropology, we vary. When you look around the world, you don’t find infinite variation, you find a few major patterns.
+
+A wonderful book, Dancing in the Streets: A History of Collective Joy by Barbara Ehrenreich. She says, when the European explorers went out and the 16th, 17th century, they found wherever they went, people danced around campfires, had rituals that bonded the group together, they often used psychedelic substances, they had beat heavy music. This is human nature, but feudal systems are also pretty common. There are a few major patterns. One possibility is there’s not just one way of doing things, but it’s not anything goes. It’s that there are several different sort of grammatical human forms. This actually became the basis of my major work in psychology, which is moral foundation’s theory, which is my effort to say what are the taste buds of the moral sense? Because cuisine varies around the world. You wouldn’t say that the French are wrong if they don’t cook like the Vietnamese. I think you could say that the French and the Vietnamese are both much better cooks than the English, or at least they were historically.
+
+There is some truth. It’s not that anything goes, there is some truth. Here’s where we’re bringing the second kind of abstract but really powerful concept, which is anthropocentric truth. That means something can be true relative to humans, to who we are. If intelligent aliens come to our solar system, they will find that the Earth is the third planet from the Sun. That was true before we existed, and it’ll be true long after we’re gone. They would find that gold is a better conductor of electricity than aluminum. That was true before we were here. It’ll be true. Those are non-anthropocentric truths. There’s a fact and many people have been on a quest to find what are the moral truths.
+
+Sam Harris, who for a brief time was my intellectual enemy, we kind of had a feud for a few years. Now we’re friends, we actually like each other quite a lot. We had kind of a feud over this because he has a whole book about the landscape of morality arguing that moral truths are like the truths of chemistry. I say no. They are anthropocentric truths. This is from a philosopher David Wiggins. There are things that are true because of the creatures we are. There are things that are beautiful because of our senses. There are things that are, so Shakespeare is a better writer than Kurt Vonnegut.
+
+Now I love reading Kurt Vonnegut, I probably enjoy it more than Shakespeare, but man, I can see and almost everyone can, Shakespeare is a complete genius at crafting words. Now that’s a fact. If aliens come here from another planet, they’re not going to agree because it doesn’t make sense. It wouldn’t fit with their nature. Anyway, so putting this all together, I think what we can say is there are moral truths and moral orders that are emergent. I am not a relativist, I’m not a monist, I am a moral pluralist. There are multiple moral truths. These truths are emergent from human nature interacting as people interact in large in societies. Okay, wow. I think I just did it.
+
+Tim Ferriss: It was great. I want to tag on a follow up, which is how do you personally, and we’re going to come back to from feud to friends story because I think that could be an instructive case study plus, I’m just curious because I’m friends with Sam also, who is a great, he’s a very formidable sparring partner.
+
+Jonathan Haidt: Yes.
+
+Tim Ferriss: When you look at global events, how do you think about, personally, human rights violations, what to accept, what to oppose yourself as a pluralist? I’m not saying that because I’m viewing myself as the opposite of a pluralist. I’m just curious how you personally think about what you are proactively going to push back against. Doesn’t need to be outside the US.
+
+Jonathan Haidt: Because I’m an emergentist, that is I believe that morals emerge as we interact. I don’t think that 50,000 years ago, societies were wrong in dividing labor between male and female. It’s not like they were wrong and they should have fixed it. They should have had perfect — no. As we now have modern societies with labor-saving devices and you don’t have to divide labor between male and female, and there are other ways to live. Now any society that was to say, “Well, women can’t do certain things, only men can.” Well that would be wrong. In a modern Western society, that would be unethical. That would be a violation of civil rights.
+
+Now when we look at things like countries in which the secret police grab people in the night and take them away and torture and kill them, you don’t have to be a very advanced society to realize that this is horrific, this is wrong, this is brutality. This is not justified by appeals to morals. I once developed a kind of a three-part test. Let me see if I can remember it. Because what we want to do is we want to separate things like veiling or things where they might be broadly accepted in a culture, but we are offended by them from things like chattel slavery where some people accept it but the victims of it didn’t accept it.
+
+I think we can point to things, it’s often tricky, but we can point to things where we can say, we can criticize that practice and that culture. In extreme cases we might even say we should try to undermine it or try to stop it. We’d have to go case by case. Widow burning in India and things like that, which I think will clearly fall on one side. That’s how I would generally do it in the abstract. Now I think you asked me a slightly different question, which was more like me personally, not philosophically. Right?
+
+Tim Ferriss: Yeah.
+
+Jonathan Haidt: A funny thing happened to me as I’ve studied morality, which is that I almost never get angry anymore. Before 1993, I was a normal person who got angry a lot and I’m pretty even-tempered. It wasn’t like I had anger problems. I’d read the newspaper, I’d be angry at the goddamn Ronald Reagan or whatever. Or someone cuts me off or something’s slow. I was sort of quasi type A, this “pushy, smart alec son of a bitch Jewish kid” is what my neighbor once called me. I used to be like that.
+
+Then in 1993 I changed in part from, the key thing there was actually taking LSD for the first time while I was studying to go to India and reading the Bhagavad Gita and reading Hinduism and Hindu philosophy. I was at 29 years old. Here I am studying moral psychology and all these things and in that year I kind of stepped out of the matrix. I kind of stepped out of the world that I had been living in. That is what allowed me, that year allowed me to do the work I’ve done with the rest of my life. Which is saying, “You know what? Let’s try to understand Progressives and Conservatives in their own terms.” Before then, I was just a standard, straight-issue, Ivy League, Liberal, Progressive type person. A roundabout way of answering your question is I don’t get mad. I look at systems and I always think, “How can we make them better?”
+
+Systems that are producing terrible results for human beings should be changed. Actually I’ll share, so one thing, this was actually before my turning point. In 1987, just before grad school, I traveled alone across Eastern Europe. That’s why I went to Hungary, Romania, Bulgaria. When I was in Romania where Ceaușescu was the dictator, the people were literally cold and dirty. They literally did not have soap to clean their clothes. They did not have heat in the winter. They were kept like animals and they behaved like animals in some sense. We try to get on a bus, there’s so few buses, people push and shove. It didn’t make me angry. I was like, “Oh, my God.” Actually it did make me angry. All of my feelings were against Ceaușescu.
+
+I thought, “If I could kill this man with my bare hands right now, I would do it and I would love it.” It was so horrific to see what this man had done to this society, him and his half million secret policemen. When he was shot in the mud in a courtyard in 1989, I was thrilled. I guess that’s more of a direct answer to your question. If I see someone oppressing a whole society or acting in that monstrous way, not for any moral, morally legitimate reason, I think we need to take action.
+
+Tim Ferriss: Could you tell me more about your LSD experience? Why was that such a seemingly crucial ingredient in that turning point or that period for you?
+
+Jonathan Haidt: Yeah, because I know you’ve had a fair amount of psychedelic coverage on this podcast and I’m sure your listeners will, many will be experienced or familiar with it. The turning point for me, it was June 11th, 1993, many other such experiences, one feels reborn and you feel like you remember the day, you remember exactly when it happened. I was a postdoc in Chicago working with Shweder. I went back to Philadelphia where I’d been a grad student and where my ex-girlfriend, we were still good friends, was there and a lot of our friends and she got some acid and we all did it. It was my first time doing it at the age of 29. The metaphor that I use in making sense of it afterwards was it felt to me as though I’d spent all my life living in this amazing mansion with thousands of rooms.
+
+I loved exploring this mansion and I loved to travel and there were all these rooms to explore and I thought I was seeing all this stuff. Then that night it was like God punched a hole in the roof, reached in, picked me up, took me out of the mansion, and took me around the whole world and said, “You thought that was the world? No, this is the world. It’s beyond anything you can imagine.” Then he puts me back in the mansion, seals up the roof and says, “Go on.” I don’t mean literally God, I’m a Jewish atheist. I don’t believe literally in God. These experiences have really helped me understand the way we evolve from religion, the way almost all societies have a way of using psychedelic plants. Oh, you interviewed Michael Pollan, so you know what he said. That experience certainly changed me as a psychologist thinking about the human mind and consciousness and self-transcendence and all that. It changed me as a human being because afterwards it was like small things just don’t matter.
+
+It changes your perspective. That’s trite to say. It also just helped me — what it did was here at the same time I was reading the Bhagavad Gita and in the Bhagavad Gita, there is a specific scene, I talk about this in The Righteous Mind or The Happiness Hypothesis. There’s a specific scene where Krishna gives Arjuna a third eye to see the world as it really is. He’s like gasping for breath. He’s like, he can’t process it, but he comes back and he wants to serve Krishna. Now I didn’t come back, I want to serve my fellow man, but I felt like all my old pettiness, all of that just sort of burned off. I don’t know, I just had a kind of an independence. I’m not on a team, I just want to understand what’s happening.
+
+Tim Ferriss: Did that then provide the fertile ground that allowed you to learn? I’m once again quoting from the Atlantic article, the power of rituals and viewing a commitment to religious purity as a way to knit communities together. In other words, without that experience, without being plucked out of the mansion, do you think you would’ve come to those conclusions on your own in India, or were they mutually dependent in a way?
+
+Jonathan Haidt: I think they were mutually dependent. Yes. I don’t think I could have done it. It would’ve been just more of a standard intellectual experience. This is interesting. Let me write this down in my notebook. Let me try to make sense of this. Because the other piece we want to bring in here is that in grad school I read Émile Durkheim, the French sociologist and that so, and really comes out in The Righteous Mind like Rick Shweder and Émile Durkheim and Charles Darwin. Those are the three heroes of the book. Those three men, their ideas just transform my thinking. So you put those all together in a 29-year-old brain who’s having a tremendously good time at the University of Chicago and then going to India and then as you’re shaking it up, you put in just a tiny little bit of LSD, and boom, it comes out into a totally new configuration. That’s kind of what happened to me in 1993.
+
+Tim Ferriss: It is like the MSG of spiritual multi-dimensional, just a little bit of pixie dust of LSD. 
+
+Jonathan Haidt: Pixie dust, yes. Yeah. Well, you know, if you think about your frontal cortex, it kind of locks down between 13 and sort of mid to late twenties. It’s kind of locking down. It’s very open to change in your teen years, but it kind of settles in by your late twenties. As it’s kind of setting that period of change, had it been five or 10 years later, it might not have had that much effect.
+
+Tim Ferriss: Yeah, that would strike me as a sort of critical formative window. If you are able to slow the setting of the concrete, or something along those lines, metaphorically, then interesting things can happen.
+
+I will say, not to spend too much time on the psychedelic component of this, but that the loosening of self-identity, even at advanced ages, let’s just say in terminal cancer patients are suffering from end-of-life anxiety. The ability, and there’s some evidence to suggest, although I think it’s simplistic, that the downregulation of the default mode network helps to inhibit self-referential thinking and that type of executive function. Therefore people experience this ego dissolution or ego death. Even in a less extreme instance of that, it frees you from the constructs that have been the lenses you’ve always worn but not realized you’ve been wearing. That’s right to that extent, I do think it allows you to see something like, for instance, these behaviors and beliefs in India with a very different set of eyes than would otherwise be possible.
+
+1993, I must say, just as coincidence, 1992 to 1993 was also the year that probably most dramatically changed my life. We were having, so how’s that transformative experiences in the same 12-month period.
+
+Jonathan Haidt: The same time.
+
+Tim Ferriss: It was my first time overseas and I landed in Japan as an exchange student going to a Japanese school living with Japanese families for a year. That broke open my mind in such an incredibly, at points difficult ways, but in such a beautifully profound and productive way because it forced me to question what it meant to do things the right way. It was my first time being in a country where people drove on the opposite side of the street. It was my first time being anywhere where the entire family shared the bath, didn’t change the water, and you had to clean yourself beforehand.
+
+The examples just where they cool their food by slurping it in with great noise as opposed to blowing on it with exhales. It was like this Alice in Wonderland, topsy-turvy upside down world for me. I realized, oh, wow, all these things that I have assumed are just the way things are done, I don’t want to say arbitrary, but they’re social conventions. These are cultural emergent patterns. They’re not laws of physics. During that same year, I also really, I think, unlocked my ability to start to ask at least questions about my assumptions. Right? “Well, is that really true? Do we really have to do that?”
+
+Jonathan Haidt: Yeah.
+
+Tim Ferriss: “Is this really how it works?” Even the structure of thought is mirrored in language. I mean, Japanese is very, very different. Instead of being subject verb object, “I eat the apple,” “I the apple eat,” “I to school go,” that type of thing. It was a very productive year. I want to come to a passing — 
+
+Jonathan Haidt: Wait, hold on a second. I just want to pick up on that for one moment. I think you had your experience at a sort of a more opportune age than mine. I mean, mine worked out great, but you were in college at the time. You were a student.
+
+Tim Ferriss: Actually, this was before Princeton. This would’ve been high school. This was age 15 to 16.
+
+Jonathan Haidt: Okay. Yeah. All right. There’s research on how we create stories about ourselves. And our stories are wide open from about 14 or 15 is when it kind of opens up through the mid to late twenties. That’s like the key period. You had yours right at the beginning of that and listening to you, because I think so much about Left-Right differences, there’s research that foreign travel makes people more Progressive, more Liberal because you see how things can be different. Did it have that effect on you? Were you Progressive or Liberal at the time? Did it change your politics at all?
+
+Tim Ferriss: I am grateful. Very, very grateful. I don’t want to throw either of my parents under the bus, but my dad was very vocal about various political stuff and I completely turned off that listening function. So I did not, this is going to be embarrassing perhaps to admit, but I effectively paid little to no attention to politics until perhaps 10 years ago. So I didn’t identify politically at all. I was really issue by issue, if they came up. If it was something that affected me or that I thought I might want to change, that was the extent of my radar pickup.
+
+I will say that in retrospect, looking at my experience, probably also given the way that Japanese society is structured and the availability of healthcare and this, that, and the other thing, that many of those issues would probably be associated with a Left-leaning, Progressive mindset, I suppose. I would have to imagine that to be the case. I don’t see how it would go the other way because I wasn’t — even though in Japan there is some pretty crazy nationalism and super hardcore, I suppose, Right-extreme stuff, I was not exposed to that.
+
+Jonathan Haidt: Right. Okay. Because the thought, the idea that I was just developing from what you were saying was this, I’ve long thought, since I wrote The Righteous Mind, and since I really tried to understand Conservatism and Libertarians and really got the wisdom from those traditions, as well as the Progressive or Liberal tradition, and I’ve really come to see that a functioning society, it needs a Progressive wing pushing for change and it needs a Conservative wing saying, “Slow down,” tapping on the brakes. William F. Buckley stands athwart history, yelling, “Stop.” You need both in a healthy society.
+
+We don’t have that now. Our Left is not Liberal. Our Right is not Conservative. We’re a mess. But societies need those two impulses. And just from when you were saying, it didn’t occur to me, it’s like, actually, I wonder if in a person’s development you need both of those. That is, early on you need to open up and travel and see the world and question things. But if you stay that way the rest of your life, you might be dysfunctional. Because there’s interesting research showing that it’s not age that makes people become more Conservative. It’s having children or starting a business or taking on responsibility. Once you take on some responsibility, you realize, “You know what? We actually need some rules here. There has to be some authority or some hierarchy. There have to be punishments for cheating.”
+
+So in the course of a human life, maybe there’s the opening up travel period and then the like, okay, you’ve got all this stuff in your head, now you have to apply it. You have to focus and you have to be conscientious. All right, just a thought. Keep going.
+
+Tim Ferriss: I like that idea. I’ve never thought of it that way. I would also say Japan deeply resonated with me on a lot of levels that my experience in the United States did not. The cleanliness, the obsessive compulsive focus on detail, just the level of meticulous attention to the most minute of details, which can be crippling. It’s not all upside, but that so deeply, to me, felt like a warm bath for maybe my predispositions or my neurosis, that it felt like a rebirth of sorts. I would have friends who would say, “[foreign language].” They would just be like, “You’re not American. I don’t get it. You’re white and you look like what you look like, but you’re more Japanese than I am.” They would make these jokes because it came so easily to me culturally in a way to whatever extent that makes any sense, there was that.
+
+I did want to ask you about your comment, the label you used of Jewish atheist. So “I am a Jewish atheist,” and I want to provide some context for this, which is Paul Graham, who’s famous for co-founding Y Combinator, had a tweet, I think it was actually in one of his essays also, along the lines of, “The more labels you apply to yourself, the stupider you become.” Something like that. I’m paraphrasing it, but, be careful what the labels that you use. I’m not forcing that on you, but I’m curious to know the thinking behind Jewish atheist. I’m friends with a writer named A.J. Jacobs, who said — 
+
+Jonathan Haidt: Oh, yeah. I love A.J. Yeah. One of the funniest writers around.
+
+Tim Ferriss: Yeah, he’s hilarious. So he said something like, “I am to Jewish what Olive Garden is to Italian,” or something like that, was his explanation — 
+
+Jonathan Haidt: Yeah, that’s a [inaudible], yeah.
+
+Tim Ferriss: — when he wrote the book The Year of Living Biblically, which is a fantastic, fantastic book. How do you think about being Jewish? What does that mean to you?
+
+Jonathan Haidt: If we’re having this discussion in the context of a Christian background culture, Christianity is somewhat unusual, although Islam is similar in making — it’s all about your relationship with God and faith. And Judaism is a more ancient religion, and it’s very much about a story about a tribe, a group, that has these ups and downs in history and we’re bound together.
+
+Of course, God is a very, very important part of the story, but as Jews have lived in different cultures around the world, well that shapes your identity and so you can be Jewish and not believe in God, just like you can be Italian and not be Catholic. So as an ethnic group, as an identity, as a culture, I’m Jewish, and I recognize the influence of just the norms. The argumentativeness. And here we’re talking Ashkenazi Jewish. I should always be clear that Sephardic Jews are different. There are different kinds of Jews, but the American Jewish experience is dominated by the Ashkenazi, the Eastern European immigrants. All four of my grandparents came here from Russia, Poland, and Belarus around 1907 when they were teenagers, roughly.
+
+So, yeah, it’s part of my — okay, so I was about to say, it’s part of my identity, and I guess it is. But I’m playing these days with the idea that actually I’m an anti-identitarian. I think part of what’s wrong with the country is that America, of all countries, needs to be a melting pot. We need to have a generally assimilationist ethos. And that worked so well for the Jews, the Irish, the Italians, all the groups that came through Ellis Island into an assimilationist, 20th century America. It worked out fantastically well.
+
+Anyway, we can follow that down in a moment, the identitarianism, but I guess, so you can be Jewish by identity and not believe in God. In fact, I’d like to do this formally. I always think if you ask a Christian, “Do you believe in God?” Usually, if they’ve identified as a Christian, they’re usually going to say, “Yes.” Okay, try asking that with 10 Jews. Maybe one of them will say, “Yes,” and maybe two or three will say, “No.” And the rest will say, “Well, it depends. Do you mean this? Do you that? Well, sort of, maybe.” So being Jewish is different religiously than being Christian or Muslim.
+
+Tim Ferriss: Mm-hmm. That makes sense. That makes sense to me. Do you, as an atheist, build in any rituals or traditions from the Jewish lineage, let’s say?
+
+Jonathan Haidt: Okay, so this helps me clarify, atheist is not part of my identity. I said I’m a Jewish atheist, but atheist is not part of my identity. I’m just a Jew who doesn’t believe in God. And that maybe was part of my clash with Sam Harris, because this was during the time of the new atheists and there was a combative movement, and I didn’t want to be part of that. I thought there was a lot to respect about religion. So I would do the Shweder thing, which is, “Okay, you’re making these claims about religion. Well, let’s see. Turn that around, is that really true?”
+
+But back to your question, so no, I don’t incorporate any rituals that are related to my being an atheist, but I do, yeah, I do have some rituals. But this actually almost more comes from Stoic traditions. Just that the Stoics advise doing a morning routine, an evening routine. Meditations on philosophy in the morning, and then a taking stock at night. So I usually try to do that just as an individual practice to just set my priorities and reflect on my day and what I’m doing. And minimally Jewish in the sense of, we go, my family — my wife is Korean-American, but she was very happy to have us raise our kids with some Jewish identity. My son had a bar mitzvah. We go to synagogue on the High Holy Days. We light Shabbat candles and have a family meal on Friday.
+
+So fairly minimal. But it is important, I do have a feeling that something was passed down to the generations to me, and I don’t want to break the chain. It’s a very valuable thing that was passed down to me and I want my children to have a sense that they’re part of that chain.
+
+Tim Ferriss: Let’s talk about from feud to friends with Sam Harris. What was, and I know you described it in passing, but what was the feud? And then the more interesting part of that is, I shouldn’t say interesting, but the part that I want to focus on is, how did you go from that to then friends? Because that is — feuds are where things start and end a lot of the time these days, and maybe forever given human nature, but certainly online people get rewarded probably more for feuding than they do for being friendly. So could you just describe — 
+
+Jonathan Haidt: Oh, sure.
+
+Tim Ferriss: — that experience, please?
+
+Jonathan Haidt: Back when Sam really burst onto the scene, he’s a great writer and a beautiful writer, and he was so persuasive writing those first two atheist, new atheist books. We would be invited to a lot of the same conferences because I was beginning to write about how religion — I’m a naturalist, I believe we evolved to be reli — I don’t believe it’s God who made us religious, but religion does all these good things, I was saying.
+
+So we’d be invited to conferences together. There was the Beyond Belief Conference. Sam and all the other new atheists went the first year, and then Sam and me and one or two others went the second year. And wherever I would appear with Sam, or wherever we would clash in writing, Sam would always use this rhetorical technique of basically saying, “So Jon Haidt would say that human sacrifice among the Aztecs is a good thing because it binds people…” So he would always accuse me of supporting atrocities. By the third or fourth time he’d done this, I was, “Okay.” I said before I don’t get angry. I was kind of pissed. So I did a dirty lowdown trick.
+
+Tim Ferriss: Yeah, yeah. There must be some decorum. There must be some decorum. Yes.
+
+Jonathan Haidt: So I did something, I’m a little embarrassed by it. It was clever, but I’m a little embarrassed now. I did an academic trick, which is — one thing that bothered me about Sam. Sam, he has a PhD, but he wasn’t really socialized as an academic. He was writing more as a rhetorician, a public arguer. He would use very strong language, “always” this and “never” this and “certainly” this. So I said, you know what? Let me take all of Sam’s writings and feed them through this, what’s it called? Oh, shoot. There’s a program that analyzes word use by Jamie Pennebaker. Anyway, it’s, you feed it through and it counts “certainly,” “always,” “never.” So there’s a category called certainty. I fed a text of Sam’s books through, and you get a number, how certain is Sam? And a couple things like that.
+
+Then I fed in the other new atheists, and then I fed in all of those, who are all those Right-wing people? Rush Limbaugh and Glenn Beck, and I put a whole bunch of them in. Then I put in me and David Sloan Wilson, who is also with me arguing that religion is nuanced effects. It turned out that Sam was higher on certainty words than Glenn Beck and Rush Limbaugh and all those people. So I just wrote this up in a blog post, and I showed graphically that Sam is actually more certain of himself than these people that he’s always lambasting. So it was a dirty trick, but it was funny.
+
+Tim Ferriss: And the closing of the first round ends with a one-two combination.
+
+Jonathan Haidt: Yeah. Oh, and then, I think I offered, I called it The Moral Psychology Prize or The Sam Harris Prize or something that — oh, yeah. Oh, yes. No, no, okay. I forgot a crucial thing. Sam wrote his book, The Moral Landscape, saying morality is a fact. And he offered money, I think it was money, to whoever could persuade him otherwise. Then I wrote my essay, I bet that no one will be able to persuade Sam otherwise, and here’s why. Then I showed that how certain he is. So I just put him in a bind that if he — anyway, I can’t remember exactly all the details.
+
+Anyway, so that’s how it started. So then we had a little cold — we just ignored each other for a while. And my recollection of how it ended was, Sam is incredibly courageous and is not a partisan and he thinks for himself, and he does things that make people hate him on both sides. I always respected him for that. It was something, I think it was, he said something about Islam and he was being lambasted, and I can’t remember whether I retweeted something or said something. I put up some little tiny show of support for him. I think that’s how it went. And then Sam acknowledged it and thanked me for it.
+
+What happened was, because our feud was in 2012, 2014, whatever it was. And that was back before everything went insane. And around 2014, 2015, everything went insane. There was this incredible explosion of illiberalism on campus and in the academic world and the intellectual world. Sam and I were then actually both on the same side, which is we believe in being reasonable and using evidence. So we ultimately were natural allies and whatever, whoever first gave a little show of support for the other, it was like, “Okay, yeah, you know what? I like you.” I’ve been on his podcast twice and I have just great admiration for him.
+
+Tim Ferriss: He’s a very, very smart cookie. I’m also a very big fan of Sam. And flash boil, 2014, 2015, what the hell happened? What contributed to things suddenly hockey sticking in insanity? Could it have been predicted?
+
+Jonathan Haidt: No. No, I don’t think so. I find these big ideas that really help me think, and so I’m going to put another one out there, which is a complex dynamical system. Is this something you’ve talked about on your show before?
+
+Tim Ferriss: No. Mm-mm.
+
+Jonathan Haidt: So complex dynamical system. The human mind is really good at thinking about mechanical systems, machines, things moving in space. We have sort of two brains. We have sort of two minds. We have a mind that’s really good at thinking about objects moving in space. So there’s Popular Mechanics for people who like doing that. We’re really good at thinking about people moving in social space and forming alliances and betrayals and soap operas and all that. So there’s People Magazine for people who like doing that.
+
+Those two things we’re really good at, but there are a lot of things in our world that are nothing like that. Like the weather, the economy. There are complex dynamical systems where you can’t, even in principle, predict what it’s going to do because it’s a chaotic complex system. You can change parameters and you can kind of predict which way things are going to go, but you can’t really know. When you change parameters, you can suddenly get a phase change. Mechanical systems are easy to understand. Complex dynamical systems are very hard, but we live within them. So what happened, I believe, is that we hit a phase change. It actually began in 2014, but it blew up in the academic world in 2015. This is what I’ve called metaphorically the fall of the Tower of Babel.
+
+So if you simply wire people up, if you just connect people more and more, you think that’s good. We always thought that. From the Roman roads and the first telegram cables or the Pony Express, it’s good to have more communication, that’s generally a good thing. But it could have some problems. It might be that you just get to a point where everyone’s so connected that everyone is yelling or everyone’s mad at everyone. So it might just be that there’s more and more connection, but I think it’s something else.
+
+What I’ve come to believe in trying to understand what the hell happened is it’s the nature of the connection changed after 2009. Once, we used to call social network sites, they connected people, so you could use Facebook to communicate with your friends from high school. That was great. There’s no problem there. But in 2009, Facebook introduced the like button. Twitter introduced the retweet button, Facebook copied it with the share button. So social media isn’t just connecting people anymore. We stopped talking about them as social networking sites. We start using the word social media platform. Now it becomes about performance and it becomes much more viral, much more explosive. It’s not about me talking with you, it’s about me talking at you in the hopes that my slam on you will get picked up by others, and that will make me famous. That will get me prestige.
+
+Once everyone’s motivated to do that, or I should say once 10 percent of people are motivated to do that, the system develops new properties that were not there in 2008. Most of us, most of your listeners, if they’re old enough, can remember it used to be an amazing place. The internet was amazing. Social media was amazing. Twitter was playful and fun. It’s still that in part, but it just became much nastier. One of the key innovations, I believe, was what Facebook called threaded comments. So it used to be if Barack Obama puts up a Tweet in his first term, he puts it up and people can respond and that’s it. They just respond and that’s it. You can say, “You’re stupid,” or, “You’re terrible,” and that’s it. You say that.
+
+But in 2014, Facebook said, “How about, to increase engagement, how about we let everyone fight with everyone everywhere?” So if Barack Obama puts up a Facebook post in his second term, or after 2014, someone can say, “Go back to Kenya.” And then someone else can say to that commenter, “No, you are a fascist.” And then before you know it, you’ve got people fighting in the comments.
+
+So it’s like those scenes in a barroom brawl, you’ve got two people having a face off and suddenly everyone’s breaking bottles in everyone’s heads. That, I believe, is what happened in 2014, 2015. Democracy is unsustainable, institutions are collapsing, universities are going crazy. So we’re now in the post Babel world where we can’t have any shared understandings of truth. We can’t have any shared stories. Hence the title of my forthcoming book, Life after Babel: Adapting to a World We Can No Longer Share.
+
+Tim Ferriss: Do you have thoughts on what we can do from a proactive incentive perspective to, I don’t want to say reverse some of these trends, but to redirect the currents slightly in different directions? And you mentioned Chicago. One thing that really jumped out to me, this is quite a few years ago now I want to say, but when the woke supremacy virus started spreading throughout academia and fragility was being reinforced and tripled down upon, I want to say it was the University of Chicago, put out a letter to say — 
+
+Jonathan Haidt: Oh, yeah. Mm-hmm.
+
+Tim Ferriss: — “We are actually going to go in the opposite direction.” It was notable to me because a number of friends of mine who are alumni from U of Chicago said, “This is the first time in 10 years that I’ve given money to the university.” So there are, I guess, a number of questions in this word salad that I’m throwing at you. The first is, why do you think U of Chicago was able to do that then, or willing to do it? And would they be willing to do it again now? Just to understand the incentives, because I’ve seen so many people lose their posts, doesn’t seem to matter how high up you are, if you can be removed by the trustees, you are vulnerable, or whatever mechanism exists for replacing the top brass.
+
+Then separately, let’s focus on the academic side first, and then we can look at the technological side and maybe the business side. So in the academic world, why do you think it was possible for U of Chicago to do it then? Could they do it now? And is it possible to create some type of counterbalance or change incentives such that this doesn’t continue to go in the direction it’s going?
+
+Jonathan Haidt: Yes. I can’t answer that question until I explain the dynamics that have made leaders cave throughout the intellectual world, throughout the, let’s call it, we have democratic institutions and we have epistemic institutions. Epistemic meaning in search of knowledge. So that’s preeminently the universities in journalism, museums, other things like that. Why have they all fallen in the same way? Let me start with that and then we’ll get to Chicago.
+
+I’ve been trying to figure this out every day. I’ve been obsessed with this since it started in 2014. That’s when Greg Lukianoff came to me. Greg is the President of The Foundation for Individual Rights in Education. He said, “Jon, weird stuff is happening on campus. Students are suddenly asking for protections from books, word speakers, ideas.” Before then it was always administrators. So Greg says, “What’s going on? The students seem to be explaining these things using the same cognitive distortions that I learned to not do when I was treated for depression.” Greg suffers from depression and he learned cognitive behavioral therapy.
+
+Anyway, so I thought Greg’s idea was brilliant. Somehow universities are teaching students to think, to catastrophize, overgeneralize, mind reading, all these distortions. So that starts in 2014 and then it’s really the fall of 2015, especially after the Halloween incident at Yale where the students demand that Nicholas Christakis apologize for a thoughtful, caring letter that his wife had written to the students of Silliman College. Then the President of Yale, Peter Salovey never backed up the Christakises. They demanded that they be fired, and the president just gave the students everything they demanded that he could. He couldn’t give them everything, but he really made a big show of saying, “Yes, I will. You’re right.” And that launched a wave of protests around the country.
+
+It always goes the same way, which is a charge from a student that something that was said was insensitive about race, gender, LGBTQ, and then there’s never a finding of information. It blows up on Twitter or other channels, and then within a day or two, the person’s fired, no due process. This keeps going. It happened at The New York Times, it just happened at the Association for Psychological Science here. An editor may have made a mistake. It looks like he probably didn’t follow good process. But again, there’s a mob and then the leadership gives in. So that’s what’s been happening.
+
+Tim Ferriss: Why are they all caving? I’m just trying to think of the incentives, because it doesn’t happen everywhere. Right?
+
+Jonathan Haidt: Right.
+
+Tim Ferriss: There are some counterexamples. Yeah.
+
+Jonathan Haidt: It happens when you get moral homogeneity. So you get an institution where the great majority, or almost everybody’s on one side. In epistemic institutions, it’s always going to be the Left. Now you can have a craziness on an all Right-wing institution, but there aren’t any institutions on the Right that are as high, that have so little diversity as those on the Left. On the Left, it’s often the case that there’s not a single person on the Right. I rarely encounter a Conservative in the academic world, they’re very, very few. Whereas when I’ve spoken at military installations, or if you have a Right-leaning thing, there’s still going to be some Liberals there.
+
+Anyway, so you have moral homogeneity, which is a crucial background variable. In moral homogeneity, you have students, so usually it’s members of Gen — oh, you have Gen Z. So the charges are usually from Gen Z or late Millennials making a charge that the leadership is vulnerable to, because the leadership is usually older white Liberals, and it’s backed up with a barrage of darts. A dart is anything that someone can do to hurt someone else. You can launch a dart on Twitter, you can make an accusation, you have no liability for it.
+
+So what you see is these leaders, suddenly they’re in morally homogeneous, politically homogeneous institutions. They’re attacked with darts, they cave instantly. It’s very painful. They cave instantly, that just encourages the darters to go further. So I called this in a recent Atlantic article, I called this structural stupidity. That is, you can have very smart people, but you only get smart when bad ideas will be challenged, and if a bad idea — so for example, at universities, we all now have bias response teams. So if I say anything and a student objects, they can report me in three ways. That number is posted in the bathrooms, it’s on the back of all the ID cards, like, “Here’s 911. Here’s campus safety. Here’s the bias response line. If you’re offended, call this number.”
+
+This is a really, really bad idea. Or at least, there’s no evidence that it’s a good idea. But it’s done everywhere. It’s done everywhere, because no one dares oppose it. Nobody in the faculty senate will say, “Well, wait a second, do we really want to do this?” Everyone’s just like, “Oh, yeah, let’s do this. This will be anti-racist.” So you get structurally stupid communities and they all fold in exactly the same way. This is what happened at The New York Times with the firing of James Bennet. It’s the same thing everywhere.
+
+Why was Chicago different? Two reasons. So every institution has its own moral resources. Every institution has a sense of identity. Chicago is unique in having this really intense intellectual, really high intellectual identity. When I was there, students wore t-shirts, “University of Chicago: where fun goes to die.” They were ranked, Playboy Magazine ranked them the least, the worst party school in America, 300th out of 300, don’t go to Chicago. And they were proud of it.
+
+So they begin with this intellectually intense identity, the background, and then the other crucial element was leadership. They had Robert Zimmer, that’s it. Robert Zimmer personally was calling bullshit on all this stuff. Like, “This is not who we are. This, the caving, the demands, the outrage mobs, no, we’re going to talk about ideas here.” Robert Zimmer single-handedly said, “No.” And that letter that you referred to was not from him. It was by a dean of students who sent a letter to prospective students who are coming to Chicago. He said, “At Chicago, we don’t do safe space.” Now he misspoke, that was a mistake, because if the gay students or LGBT students want to have a club where they have certain discourse rules, great, free association, let them. What the dean meant to say was, “Our classrooms are not safe spaces. In our classrooms people can criticize what you say.” If you have that, then you don’t have structural stupidity.
+
+Tim Ferriss: So if we’re looking at structural stupidity, I start to think about structural dynamics and the ways in which people are vulnerable or less vulnerable to losing their posts. Let’s just say, you are Brian Armstrong, CEO of Coinbase, and the company is doing well and you want to remove, and I don’t want to speak for him, but this has been very well covered. You want to put out a letter that effectively says, “This is our mission. If you’re aligned with this mission, great. But we cannot be responsible for every cause or world event that pulls our direction at a given velocity towards whatever outcome you might want. Therefore, if you would like to discuss these things and feel like it should be done at work — 
+
+Jonathan Haidt: Go elsewhere.
+
+Tim Ferriss: — we’re going to give you a fantastic severance package.” Part of the reason he can do that, aside from, I think, being very courageous, thinking for himself, and being willing to take a lot of flak in the short term, in the long-term best interest of the company, putting that aside, he’s also, I think, in doing that, unlikely to get fired. It would take the board of directors to remove him and then there’s the question of, “Well, who would we replace him with who would actually be a good enough operator to do a better job? Going to be very tough.”
+
+I suppose what I’m wondering is, within academics, do you think there’s anything that can be done to provide protections or safety nets such that more people can actually take a counterposition?
+
+Jonathan Haidt: Yeah. Yes. Let’s start by understanding the complex dynamical system of a company in a capitalist economy. All of the stuff that started on campus in 2015, Greg and I wrote about it in The Coddling of the American Mind. We were going to have a chapter on the coddling goes to work, but there weren’t enough stories in 2017 when we were finishing the writing, so we closed down the book. Then in 2018 it all starts blowing up, all this stuff because Gen Z graduates, they move into the corporate world and they do the same stuff there that they were doing on campus. The accusations that, “Someone wore a hat that offended me. You have to punish them. This is an HR issue.” So all that stuff starts around 2018 and 2019.
+
+Then, of course, in the summer of George Floyd, the political activism intensifies for, again, understandable reasons, but in that summer, almost all businesses, it seems, put out a statement on Black Lives Matter. Now, that was an exceptional summer, exceptional event, but that then led to pressures that then led to a reorientation of much of corporate America, at least in Progressively oriented, Progressive-leaning companies, much like what happened to us in the academy in 2015, 2016. It was very, very similar.
+
+But the difference is that companies actually have to make money. They actually have to be tied to the real world. So if they do things that backfire, that cost a lot of money without any benefit, like mandatory diversity training, it takes a lot of money. There’s not really any evidence that makes anything better. At some point, reality hits companies, whereas universities are different. They’re not like that. There is no reality. The leading ones have gigantic, well, they have gigantic endowments. No matter how bad the service is, parents all over the world want their kids to go to the top 10 or 15 American universities. It doesn’t matter what happens, the product can suck, but the demand for it is infinite. So universities are not tied to reality in the way that a business is. That’s the first thing.
+
+Second thing is that most businesses are not as uniform as universities. Of course, Armstrong, I presume he’s Right of Center or Libertarian. Do you know?
+
+Tim Ferriss: I don’t want to speak for him. I’m not sure.
+
+Jonathan Haidt: Is he Conservative?
+
+Tim Ferriss: Yeah, I honestly have no idea.
+
+Jonathan Haidt: Okay. But in any — yeah. But I don’t think he’s Progressive. I think he was — so my point is that a number of Right-leaning CEOs did that, and he was the first big one. And it’s called the mission focus movement. That, “You know what? Our company is not here to fix everything in the world. We’re here to provide a great service for our customers.” So mission-focused. And a few right-leaning companies did that. And the one that really changed things then was when Netflix did it.
+
+Because Netflix is a very Progressive company, hugely important culturally. And when the Netflix CEO said something similar, which was, “If your values mean that you can’t work on certain projects, maybe you shouldn’t be working at Netflix.” And I speak to a lot of managers and CEOs and leaders and like, “Ugh.” They were so thrilled because almost all leaders hate this woke stuff. Almost all university presidents hate it. Makes their lives hell.
+
+So in the business world, they’re able to push back, and they have been. So the pendulum is swinging back in business. I don’t yet see a sign on campus of a pendulum swinging back. I think it will happen eventually. The complex dynamical system is much more conducive to a kind of crazy ideological thing divorced from reality on campus. But the way it’s going to break, I believe, is things get sort of tense enough, unpleasant enough, wasteful enough, and then some school is going to break. And I originally thought Chicago was the school, and lots of schools would follow. And they didn’t. Nobody followed Chicago.
+
+I mean, Mitch Daniels at Purdue, but that’s a different story. He’s a Conservative. So I’m on the advisory board of the University of Austin. Austin, the new — are you involved with it at all? It’s in your hometown there.
+
+Tim Ferriss: I’m not involved, but I have some passing familiarity. For people who don’t have any familiarity, can you just explain what it is?
+
+Jonathan Haidt: Mm-hmm. Yeah, so it’s a university founded on the idea of we’re going to rethink what a university should be. And Pano Kanelos is the president. He was the president of St. John’s College in Maryland. And so it’s going to be focused on — it’s not going to have all the administrators, all the bells and whistles. It’s going to really be focused on sort of a classics education at the beginning, but then practical as you move on.
+
+So a lot of not just take a course, get a credit for sitting in a seat, but do things as part of a team to solve a problem. So it’s going to be given that higher ed now is so expensive and is not as good as it used to be. The product is just not as good. It’s not as much fun. It’s not as rigorous. So given that the product is declining while the price goes up, Austin is developing a model where the price is much, much lower. The product is a hell of a lot of fun. It’s very exciting, and now it’s just one university.
+
+But the idea is it’s going to be a model for a lot of other universities to either change or be founded because I think we do need disruption and innovation. We need alternatives. We can’t just have the one sort of Ivy League model of top universities, and they’re all making the same mistakes at the same time.
+
+Tim Ferriss: I have a number of questions that float to the surface, and I apologize for what is going to be a very inelegant way of posing them. But I’m going to give you a menu of options, and I’d love for you to choose whichever is of the greatest interest. 
+
+So something that came to mind was how you have preserved your ability or ensured your ability to speak very openly about these things by maybe diversifying your identity and professional career. So not just teaching, but also books and so on. Speaking, I assume. So you have a number of backup parachutes, I would say. Perhaps in a sense. So maybe that’s something to talk about. But what I wanted to ask you, specifically related to University of Austin, because I did do a bit of reading related to it in prep for the Niall Ferguson conversation.
+
+Jonathan Haidt: Mm-hmm.
+
+Tim Ferriss: It seems like, and I don’t know if this coverage is accurate, but that some people have start to finish strong supporters. There are and have been a number of very notable names involved. So I encourage people to check it out. It seems like there have also been people who agreed to be on advisory boards and so on who have folded or broken rank with public criticism. How would you describe the reception and some of those dynamics if what I’m reading is accurate?
+
+Jonathan Haidt: Mm-hmm. Well, we’re in a space that is heavily politicized. There’s a lot of attacks, almost all on Twitter and social media. Most professors are reasonable. Most professors are Left, Center Left. They believe in free speech. They believe in that class we should talk about ideas. So wherever you go, most people are reasonable. But the dynamics are such that if you stick your neck out, this small fringe of academic Twitter is going to call you racist, sexist, transphobe, whatever. And for a while, that was really scary. And I think now it’s kind of like “The Boy Who Cried Wolf” 10 million times once everyone’s accused of racism, sexism, transphobia, Islamophobia.
+
+I think now people are just so exhausted that I think now it’s a little easier to stand that, that fringe on Twitter. When the University of Austin was announced, I think there was a mistake in that some of the original material was a little bit pugnacious, and it sounded sort of like, “This is going to be an anti-woke university.” And once any particle is labeled like anti-woke, now suddenly it’s like, “Oh, now it’s…” So I think there was a little brouhaha. I think that was a one fumble that the people running it made in what was otherwise, I think, a very good launch.
+
+I mean, I think they really explained well what it’s going to be about. So I wish they hadn’t done that because the point — well, what I’ve learned from studying morality is, in a polarization spiral or a culture war, the harder you hit your enemy, the stronger they get. And so you don’t win by punching them really hard. You can never destroy them. In a real war, you can literally kill them and take their land. But in a culture war, you can’t do that. And so I think it’s really important. This is what we’ve done at Heterodox Academy. So I founded an organization called Heterodox Academy. It’s now run by John Tomasi as our president.
+
+And our attitude is we’re not here to fight the culture war. We’re here to build great things. We’re here to help people remember why they love universities. Why universities are so important. And I think Austin is doing that. So I think, early on, it was a new thing, and it wasn’t clear what it was. And there were one or two people who left the advisory board at that early stage. But I think now it’s settled in. It’s being successful. It doesn’t yet have a full year of — had a summer program. And I think we need variation. We need innovation. And so I’m actually very excited about it.
+
+Tim Ferriss: Yeah, I agree. I’m excited to watch it. Could you say a bit more about Heterodox Academy?
+
+Jonathan Haidt: Oh, I’d love to. So I gave a talk in 2011. I was invited by the president of the Society for Personality and Social Psychology to be part of a panel at our annual conference on the future of social psychology. And we talked about my stepping out in 1993. I’m not on a team. I was still very much a Democrat. I voted for Democrats. By the time I was writing The Righteous Mind, I began to really take seriously that you need viewpoint diversity. You need Conservatives and Libertarians. You can’t just have a bunch of Progressives studying psychology. You get bad results.
+
+And so I gave a talk on how this is a problem. This is a problem. We don’t have any Conservatives. And I went through all kinds of methods of finding a Conservative social psychologist. I couldn’t find any. And I finally found one. So I gave a talk on this, and I wasn’t kicked out of the field. People actually said, “Oh, you’re right. Actually, this would help us if we had some political diversity.” So that was 2011. And this was just a problem about the faculty, and some other professors who were there liked what I said. They said, “Yeah, we think this is a problem too.” So we wrote a paper together on laying it out more formally, and I think the title was “Political Diversity Will Improve Social Psychological Science.” So this is a straight academic faculty project.
+
+And then it turns out, actually, the same problem was happening in law schools and sociology. In a lot of fields, their research was not reliable because of orthodoxy, political orthodoxy. So we all got together and said, “Hey, let’s put up a website.” And Nick Rosenkrantz, a law professor at Georgetown, came up with the name Heterodox Academy. It’s the opposite of Orthodox Academy. Orthodox means straight, one — there’s only one way of thinking. Heterodox means there should be a variety of ways of thinking. We need that in order to be successful.
+
+So we put up the website. We started it as a blog around September 12th of 2015. And very soon, right after that, Yale blew up, the universities blew up, and suddenly it was like, “Wait a second. We thought this was just a faculty thing. But now it turns out the campuses are going insane. The students are behaving in this strange way. They’re saying everything is violence, everything is danger, everything’s a threat.”
+
+So Heterodox Academy grew from just this faculty project to really being much more about university culture. To do our jobs, we have to have not just viewpoint diversity but a sense of grace, a sense of tolerance, a sense of intellectual humility, and generosity. We have to be able to think together. We have to have people like Rick Shweder saying, “Okay, you asserted that. Well, let me try the opposite.” And then they don’t get fired for doing it. So that’s what we’re trying to do.
+
+Heterodox Academy now has — we have a couple of big projects. One is we’re branching out and having campus communities where we’re going to be working directly on campus with our many — we have about 5,000 members. And I invite everyone who’s listening here, if you are a professor or an administrator, if you’re an insider to universities, if you’re part of the community that is tasked with preserving these precious institutions, please go to heterodoxacademy.org and click on “About Us” and join. You can see our membership. It’s free.
+
+We have 5,000 professors as members, and we’re equally divided, Left, Right, Libertarian. We’re sort of all over the map. And it’s a wonderful community. If you remember when it was fun, when there were jokes and exciting ideas, if you remember when everything wasn’t so dangerous, please join us because that’s what we’re trying to recall and restore.
+
+Tim Ferriss: Who are some of the thinkers who have informed how you think about intellectual heterodoxy? And I will throw one out there because I think that — 
+
+Jonathan Haidt: Okay.
+
+Tim Ferriss: — John Stuart Mill.
+
+Jonathan Haidt: Oh, yes.
+
+Tim Ferriss: And is this quote from John Stuart Mill, “He who knows his own side of the case, knows little of that.” Is that John Stuart — 
+
+Jonathan Haidt: “He who knows only his own side…”
+
+Tim Ferriss: Only.
+
+Jonathan Haidt: “…of the case — only his own side of the case knows little of that.” Exactly. That’s right. So John Stuart Mill is the patron saint of viewpoint diversity. In fact, I would urge — I should have a copy of it here somewhere. One of the greatest works of the Liberal tradition is On Liberty. It’s a kind of a long book with dense prose. But chapter two is the key chapter on diversity of thought or freedom of thought. Liberty of thought, I think it is.
+
+So at Heterodox Academy, we took that chapter. It’s 15,000 words. We cut it in half. We edit it down. So you have a shortened version, much easier to read. And it’s beautifully illustrated by brilliant artist Dave Cicirelli. So if you go to heterodoxacademy.org/mil. It’s a free ebook. You can buy it on Amazon for $20. But we put out a free ebook because we want students to read it. And I mean, it really just makes the case that you need viewpoint diversity. If you want to get smart, if you want to figure things out, an amazing thing happens. And this is what I’ve really taken to heart from studying John Stuart Mill, is if you want to improve your thought, the world will help you if you ask. And if you go to people who disagree with you and say, “Here’s what I’m thinking, where am I wrong?” They’ll tell you.
+
+And so when Greg and I wrote The Coddling of the American Mind, I paid seven social justice activists to read it. Paid them each $700, and they read it and they gave me their comments and their criticisms, but one or two of them were kind of pissed off or annoyed. But the others were actually like, “Oh, this is interesting. We really engaged with each other.” And they made the book better. So you really need to seek out criticism. You need to seek out people who differ from you, and then, actually, you’ll get smarter.
+
+Tim Ferriss: Have you found other people who have studied morality to defuse or defang their anger in the same way that you experienced it yourself? Is that a pattern that you’ve observed in other people?
+
+Jonathan Haidt: What? The ability to defang the anger to get past it?
+
+Tim Ferriss: Right. Well, your description of how you, I wouldn’t say ceased to be angry, but lost your anger in the course of studying morality. Is that something that you have seen replicated in other people or is that — 
+
+Jonathan Haidt: Oh, yes. Oh, yes. So, first of all, the Buddhists and the Stoics. These are the two most concentrated wisdom traditions on earth, I believe. My first book, The Happiness Hypothesis, was about — I read all the ancient wisdom I could find, took out all the psychological claims. And so chapter four of that book is on the ancient idea of, “Why do you see the speck in your neighbor’s eye when you cannot see the plank in your own?” We’re all hypocrites.
+
+So following certain wisdom traditions, especially Buddhism and Stoicism, but also Christianity, Judaism, you find these injunctions to go past good and evil to be more tolerant. So this is just sort of the progression of wisdom that most great cultures have realized. You also see it in a lot of people. I think as people get older — so at least in men, our testosterone levels, they’re really high in the teens, 20s, and then they sort of go down steadily.
+
+And that steady drop, I think, it also mirrors the drop in violent criminality. And I believe it also mirrors the drop in aggressive rock music. I used to always need loud music, and as I get older, I don’t. But I think it’s just — also, it’s calming. So young men are more passionate and moralistic, perhaps. And then, as you get older, you get kind of calmer. But there are lots of paragons of this. Daryl Davis being, perhaps, one of the preeminent ones.
+
+Daryl Davis, a Black musician, blues musician, who was playing in a bar and ended up sitting next to a Ku Klux Klan member, and he’s conversing with the guy. And rather than getting upset or angry or running away, he listens to him and listens to him, gets in a conversation with him, and they develop a friendship. And he gets the guy to give up his robe and leave the Klan. And he’s done this hundreds of times.
+
+Tim Ferriss: Wow. How do you spell Daryl’s name?
+
+Jonathan Haidt: Daryl Davis. Yeah. D-A-R-Y-L or is it double R? Daryl Davis is D-A-V-I-S.
+
+Tim Ferriss: Mm-hmm.
+
+Jonathan Haidt: He’s got a one or two TED Talks that are great, and he’s got a book or two. So Daryl Davis, what an inspiring example of how is your goal to impress everyone else with your righteous reaction. Well, if so, then you should get angry, and you should yell and scream, and you should post things on Twitter. Or is your goal to actually change someone? And if your goal is to change someone, listen to them, try to understand them.
+
+And if you do that, what Daryl says is, “You listen to them like they’ve never been listened to before. And then an amazing thing happens. Then they’ll listen to you.”
+
+Tim Ferriss: Mm-hmm.
+
+Jonathan Haidt: And so that’s really the magic. And this is also Dale Carnegie. This is so many wise people that the things we do to show off our morality for others end up isolating us and making us stupid.
+
+Tim Ferriss: And unhappy, oftentimes, it would seem.
+
+Jonathan Haidt: Unhappy. Yeah. Well, anger, shared anger, actually. So, anger in the brain is actually an approach. Anger is not a negative emotion. Anger in the brain, it looks more like a positive emotion because a shared anger is thrilling, and that’s part of what’s driving us off a cliff as a country.
+
+Tim Ferriss: What would you say are some of the conclusions or observations made in The Happiness Hypothesis that you revisit most often or underscore for yourself? And what is your set point, if you have one?
+
+Jonathan Haidt: Let’s see, what’s my set point? Yeah. So the set point question is easy. That just refers to the fact that happiness is heritable. And identical twins separated at birth will tend to be similarly happy. And my set point’s sort of right in the middle. I’m not born — I’m generally optimistic, but I’ve been depressed at a couple of points in my life. I’m not very prone to it, but I’ve had some. And so I’m sort of in the middle. But the level of happiness that you live at is not your set point. Where you live is sort of a range around your set point, depending on a few conditions.
+
+And those conditions are basically love and work, as Sigmund Freud said. Love and work. Those are — if you’re doing well in those, you’ll be at the top end of your range. So I teach a course at NYU, a graduate seminar called “Work, Wisdom, and Happiness.” And it’s a positive psychology class. But in the last year, I’ve sort of readjusted the syllabus. I’ve rewired the course so that the title could be “Smarter, Stronger, More Sociable.”
+
+And so we have sections on how do you get smarter. And you do that — it turns out the big thing you do, turn off your notifications, get your attention back. Read Johann Hari’s book Stolen Focus. So you can make yourself 10 or 15 IQ points smarter if you can regain control of your attention and cut down on the moralism. Those are the two big steps.
+
+So how do you get smarter? How do you get stronger? That’s The Coddling of the American Mind, Antifragility, Nassim Taleb. You get stronger by challenging yourself, by exposing yourself to threats and dangers within limits that you then surmount, and we have to do this with kids. And how do you get more sociable? Well, it’s actually some of the same skills, but the main one is really listen to people. And you can’t do that as long as you’re always distracted, as long as you’re always on your phone.
+
+So there are some really easy things you can do. And then the students learn to do some harder things. But if they can get smarter, stronger, and more sociable, then they will be more successful at work and in relationships. And if they’re more successful in work and relationships, then I promise them on the first day, then they will be happier because that’s how you live at the high end of your set range is by having your love and your work go well.
+
+Tim Ferriss: Is this course in any capacity available online or could it be made available online? Any aspect? Maybe a reading list? Maybe questions?
+
+Jonathan Haidt: Well, the syllabus is online. And you know what, I should do something like — so right now — so it was just a seminar at Stern with 35 MBA students, twice — two sections a year. And I’ve just raised it to 55 students while teaching more sections. I should put something up. You know what? I’m going to start a Substack. Oh, my God, this is great. I’m actually going to start a Substack in January. I can’t believe I have — I didn’t even think of this. The Substack people would kill me for not announcing this.
+
+Yeah. So it’s going to be called After Babbel is the name of the Substack, and I can just put up whatever I want. I used to blog at righteousmind.com, but that was not much. So I’m going to start blogging, and I thank you for that, Tim. I will put some — whatever I can put easily online or in there. I will put there, at least, the reading list and the syllabus.
+
+Tim Ferriss: Amazing.
+
+Jonathan Haidt: And eventually, maybe, I could make — I could tape the lectures or do something to put — yeah, I’ll think about it.
+
+Tim Ferriss: Is there a department and number for the class? Something that people could look for online? I’m not sure how that would work in MBA programs, but I’m just thinking. The class that I used to visit at Princeton was ELE 491, right? High-tech entrepreneurship.
+
+Jonathan Haidt: Right.
+
+Tim Ferriss: So it made it easy to find.
+
+Jonathan Haidt: Oh, yeah. There’s no point in them finding it because it’s — 
+
+Tim Ferriss: There’s nothing.
+
+Jonathan Haidt: — it fills up with Stern students. Even if you’re at NYU but not at Stern, you can’t take it. But I will. But if you just go to — so all my stuff is at jonathanhaidt.com. I will find a way to put it on my site, and then I will — I think our discussion, it might air before New Year’s, but the Substack isn’t going to be up until late January, probably. But just I’ll do something. Thank you.
+
+Tim Ferriss: And it’s easy for us to put in the show notes, so once anything is available — 
+
+Jonathan Haidt: Oh, yeah, okay.
+
+Tim Ferriss: — we can add it to the show notes at tim.blog/podcast, and people can find you by just searching H-A-I-D-T. Let’s talk about religion and happiness. So I have observed, I’m not the only one. Generally speaking, I would say the, let’s just say, self-described, rational, materialist, Left-leaning folks to be pretty unhappy. That is a — overall.
+
+Jonathan Haidt: Yeah.
+
+Tim Ferriss: And I have found very smart, very thoughtful people who would identify as religious to on average be quite a bit happier. And I know happy can be a slippery term, but if we’re looking at work and love, work and relationships, they seem to check a lot of boxes very well. But it seems to me, and I’m just going to speak for a second here, that with religion, you also remove a lot of uncertainty, decision fatigue, paradox of choice that makes life less of a death by a thousand paper cuts.
+
+And maybe that also contributes to general sense of well-being, that many of your decisions are more automated, perhaps people you spend time with, perhaps your weekly structure, the architecture of your life. How do you think about this? What have you seen in your observations and studies with respect to religion and happiness? And are there ingredients from religion — 
+
+Jonathan Haidt: Yes.
+
+Tim Ferriss: — that secular folks can borrow to get some of that upside?
+
+Jonathan Haidt: Yes. So there’s a huge amount of research on happiness and who’s happy. And the two big things that really come out consistently are religious people are happier and married people are happier. Religion and marriage are the two giant demographic factors or quasi-demographic factors that seem to go with happiness. And then there’s a lot of question as to why. Why does religion make people happier? It might be what you said. You don’t have to think about things. You have a sense of meaning. You don’t worry about the afterlife, whatever it is.
+
+No, it turns out when they look, you do empirical studies of what elements of religious people’s lives correlate with happiness. Overwhelmingly, it’s nothing about belief. It’s participation in a community on a weekly basis, especially a community that has some sort of moral principle, some sense of uplifting, some sense of self-control, binding moral responsibility.
+
+And so, actually, this allows me to go back to Durkheim. I dropped that name in before but didn’t really tell listeners anything about him. So Émile Durkheim is one of the most important sociologists in history. He’s writing in France in the 1890s and early 1900s. And one of his early works is this incredible study of suicide. Now, this is when European countries are just beginning to collect statistics.
+
+And he goes through all the data he can get on suicide in different countries in Europe. And he is looking for what makes the suicide rate go up and down. And he treats the suicide rate as a thing in itself. It’s a sociological fact. It’s an emergent fact about a country. Its rate goes up and down. What makes it go up and down? Well, when you go to war, the suicide rate goes way down.
+
+People are bound together. They don’t kill themselves. When you look at who in a country kills themselves, it turns out if you’re married, you’re less likely to. If you’re married with children, you’re even less likely to. Whereas if you’re Protestant, you’re more likely to, but if you’re Catholic or Jewish, you’re less likely to. And over and over, what he finds is the degree to which people are bound into a society, the less likely they are to kill themselves.
+
+Now, in East Asian cultures, in many cultures, you kill yourself because you’re too tightly bound and you’re ashamed. But in Western cultures, our problem is anomie or normlessness. You have a sense of meaninglessness. You’re not connected. That’s why Americans and Westerners kill themselves mostly. And so, back to religion. If you are an atheist and you’re not part of a community, and especially if you’re a new atheist and you’re angry or whatever. But the protective factor seems to be being bound into relationships and community. And that fits with everything else I know in psychology.
+
+Tim Ferriss: The comment on wartime also makes me think about Tribe by Sebastian Junger, which I — 
+
+Jonathan Haidt: Oh, yeah.
+
+Tim Ferriss: — highly recommend to people. It really underscores the fragility of isolation and also the fragility of fetishizing comfort in a way. I suggest people take a look at that. Well, Jonathan, we’ve covered a lot here, and I could ask many more questions, but what have I neglected to ask? And I do have a question about heresies of yours in a moment, but is there anything that you would like to bring up that I have not mentioned?
+
+Jonathan Haidt: Yes. So haven’t talked about what’s happening to Gen Z. We haven’t talked about what’s happening to kids. I talked about them before in a sort of negative way, like Gen Z shows up on campus, and then all of a sudden, there are all these problems. But again, I don’t get angry. I’m not moralistic. We have to understand what’s happening to Gen Z. So I just want to talk, if I can, just talk a little bit about that. 
+
+Tim Ferriss: Please. And could also define Gen Z? And then please continue.
+
+Jonathan Haidt: Yeah. So Millennials are those who were born in 1982, and we used to think that it would go to maybe 2000. But it turns out that kids who were born in 1996 and later are different from those born, say, 1994 and earlier. I mean, it’s a surprisingly sharp-cut equivalent to what we find with birth here in 1946. The post-war world really was different to grow up in. And I believe — so I’m drawing on work by Jean Twenge, but I’ve also added — she and I are working together, and I’ve added a lot.
+
+What happened is that if you were born in, say, 1990, you didn’t get an iPhone until maybe around 2009, ’10 is when teenagers started getting it. So if you’re born in 1990, you didn’t get an iPhone, a smartphone until you were 20. And you didn’t get on social media. You might’ve been on Facebook partly, but you don’t live on social media until you have your own smartphone. Whereas if you’re born in 1997, you are 13 in 2010 when you might get your first smartphone, and you might get on Instagram in 2012 when huge numbers did.
+
+So I believe Gen Z is defined by the fact that they got smartphones and social media during early puberty. There’s a lot of research pointing to early puberty, around 11 to 13 for girls, 12 to 15 for boys. What’s coming into your brain then is really important because your frontal cortex is wiring itself up. And so when human beings are raised without much independence, but yes, with a phone, and they spend their childhood just interacting with a screen, and especially social media, I believe it messes up cortical development.
+
+The girls, in particular, the rates of anxiety and depression are up much more than 100 percent since 2010. The rate of self-harm, hospitalization for self-harm is nearly tripled for preteen girls. So Gen Z is in big, big trouble. They’re hurting. They’re fragile. They’re not doing well in the workplace. Managers are finding them very hard to work with. So we have a generation that’s running off the rails, and this is not a moralistic thing like, “Oh, those kids these days.” This is a compassionate thing. These are our children. My kids are 13 and 16.
+
+Everyone either has kids or that has nieces and nephews. So this is, I think, the greatest emergency we face. The greatest health emergency. I think for kids, this is much, much bigger than COVID. COVID was a big deal for old people. It wasn’t a big deal for children in terms of the risk, but this is a doubling, more than doubling of suicide rates for kids since 2010. So that’s what I’m working on now.
+
+Tim Ferriss: What decisions have you made in your parenting that you feel have been perhaps most impactful, less typical, or the Venn diagram of those two overlapping?
+
+Jonathan Haidt: The terrible mental health of Gen Z is caused by two factors. One is the vast overprotection. Kids need to practice independence, self-governance from the time they’re seven or eight. They need independence, but they don’t get it anymore. You and I, when we were growing up — you’re younger than me, but I presume you were allowed to roam around your neighborhood when you were eight years old.
+
+Tim Ferriss: Oh, I was free range. Yeah. Riding bikes everywhere when I was younger. I was also in a rural environment. But yeah, I was out and about very early.
+
+Jonathan Haidt: Yeah. So kids must have free-range childhoods. They must practice independence. And they had that before the ’90s. And in the ’90s, things got incredibly safe. We locked up the drunk drivers. We took the perverts off the street, crime plummets, but we freaked out about child induction unnecessarily. So in the ’90s, we stopped letting kids out, and this affects Gen Z and the late Millennials.
+
+Anyway, but you asked about me. So what my wife and I did, we live here in New York City, in Greenwich Village, because we’re friends with Lenore Skenazy, who wrote this fantastic book, Free-Range Kids. We let our kids out to play in Washington Square Park. We sent them out on errands when they were eight, nine years old. New York City was very safe back then. It’s a little more dangerous now, but it was very, very safe in the mid — in the 2010s.
+
+And we sent them out, and we had them walk to school way — a year or two before anyone else was doing it. So I’m very glad we did that. We also made it clear no social media, at least until high school, absolutely none in middle school. And that’s been very good. When they start sixth grade, my kids tell me everyone’s on Instagram, and we said, “No, we are not going to let you do it.” The one mistake I made was that when my son wanted Fortnite in sixth grade, and we said no because video games can be addictive.
+
+But now that I’ve dug into the literature a lot more, now I see that, yes, a lot of boys do get in trouble from video games because they’re on it so much they, they’re addicted to it, and it pushes out everything else. But a couple of hours a day for boys to be in a group that’s battling other boys, it turns out that’s actually a good thing, and my son was somewhat cut off in sixth grade.
+
+Tim Ferriss: Quick question. Good, in what respects, how is that assessed? Just in terms of acting as a release valve for aggression or social cohesion?
+
+Jonathan Haidt: Yeah. Yeah. Group dynamics. So, the release valve idea from Freud does not end up being true. Kids don’t need to blow off aggression. It’s not like that. It’s rather that girls and boys each need to practice their gendered behaviors. This is what play is, it’s play for all mammals, is the way you practice in childhood the skills you’ll need as an adult.
+
+And so boys and girls have very different play. Boys tend to break up into groups to compete with other groups, and multiplayer video games allow them to do that. I’m not saying these are great. I’m saying, ideally, the kid should be out having adventures, but given that all the kids are home, they’re not allowed out until they’re 11, 12 years old. So, at least a multiplayer video game allows them to be part of a group. Now, it’s not a very creative group.
+
+The rules are all set by the company. It’s not like video games are anywhere near as good as being out on their own, but they’re not bad until it gets to be heavy. That was a small mistake. Once COVID hit, we did let him get Fortnite, and then that was the only way he talked with his friends. So, that was okay. The one mistake I think we did make was we tried a few different summer camps. We never quite found one, but I wish we’d found a really good summer — and I would urge this for everybody who’s a parent of young kids.
+
+From the time your kid is about eight or nine, certainly I’d say eight, find a sleep-away camp that is pretty unstructured and unsupervised. The kids have to have a lot of independence. Some summer camps now are so over-protective. You can’t go to the bathroom unless you have an escort. And sometimes you need two escorts because what if one escort falls down and gets hurt? It’s crazy, crazy overprotective everywhere. But if you can find a summer camp that is not crazy overprotective, send your kid there every summer. That, I think, is one of the few chances they really have to develop skills to be out in the woods. So, I wish we’d done that.
+
+Tim Ferriss: I was fortunate in that respect. I got sent off to summer camps in Wyoming where we would work on ranches, got kicked by horses. And I mean, I didn’t suffer any terrible injuries, but it wasn’t free of injuries, but that was okay. Nothing was cataclysmic. And that, I think, combined — I mean, I don’t have kids, but if I do, and I hope I do at some point, I also think a year abroad in a critical window similar to mine. Because of that forced independence, and there are other reasons, there are other compelling reasons. But I came back a fundamentally different person in terms of my confidence in my abilities to handle uncertainty and to adapt. It was just night and day. Complete face shift.
+
+Jonathan Haidt: That’s right. That’s how kids learn to manage risk for themselves. You learn to be a risk taker. When we overprotect kids, we’re not doing them any favors. We’re not keeping them safe. We’re increasing their odds of anxiety and depression, self-harm and suicide. And we’re depriving them of the ability to judge risks for themselves. They’re going to be less successful, less likely to start businesses. No, we’ve really messed up Gen Z.
+
+Tim Ferriss: I feel like one other unexpected blessing in my life was transitioning from a very bad public school on Long Island to a very good boarding school in New Hampshire, which was actually largely my idea, encouraged by teachers, a handful of good teachers, at the pretty low quality public school on Long Island, who effectively said, “You should try to get out of here.” So I do owe them thanks.
+
+When I went to the boarding school, which was very similar to, let’s say, a Dead Poets Society type of setup, but classes six days a week, mandatory sports. And looking back, the mandatory sports, I think, was the force multiplier that allowed everything else to go more smoothly on so many levels. If I get to the point, and I hope I do, when I’m parenting, I think physical activity in group sports will probably play a compelling role. I don’t know if there’s any research to support that, but — 
+
+Jonathan Haidt: Oh, there is. There is. But just two points. I think you’re basically right, but just two points of nuance. One is to the extent that it’s heavily supervised and there’s a coach, it’s less nutritious. They’re not going to learn as much. The ideal is for kids to be out making up their own games, enforcing the rules, because then you have to keep the game going. You have to learn how to adapt to other kids. Whereas if there’s a coach or a referee, then what you learn is, “How do I get the referee to come in on my side?” And that’s good preparation for college today where if somebody says something, how do I get a dean to punish him? But that’s bad preparation for life. That’s the first thing.
+
+Second thing, so I just came across a finding that participation in individualist sports, like gymnastics and especially ballet, is bad. It actually is conducive to bad mental health. I would never let my daughter do ballet. But team sports where you’re — soccer, basketball, where you’re really functioning as a team over and over again, those have very good effects on mental health and development. So, I would agree with that.
+
+Tim Ferriss: Yeah. My sport was wrestling, which was certainly an individual sport, practiced in a team context. You would have wrestling partners and so on. I would have a child do wrestling, I think. I’d have them wear headgear because I don’t think cauliflower ears work terribly well for most people. It goes doubly for females, I would say. And if you haven’t seen cauliflower on female ears, I mean, it is scar tissue that will not go away unless surgically removed. Saw a lot of it in Japan in Judo players, male and female, lots of cauliflowers.
+
+But I found it to be, for me personally, at least, an excellent venue for proving to myself that I could exceed the limitations I thought I had. And in terms of work capacity and pain tolerance, also. I will say critical, critical components. So I can’t totally, with any conviction, say that it was wrestling that did this, although I have some belief that it contributed. 
+
+The coach, John Buxton, changed the lives of almost every athlete he coached. And to this day, I’m still close to him. And many people in that wrestling team went on to do some pretty outstanding things. And they have all, to my knowledge, just about all of them, have mentioned Mr. Buxton. We have a tough time calling him — 
+
+Jonathan Haidt: I have to ask you a question then.
+
+Tim Ferriss: Yeah.
+
+Jonathan Haidt: A question. Did he have a tough coaching style or did he have a warm, nurturing style?
+
+Tim Ferriss: He was extremely, extremely tough. And this is what I was going to bring up. He was extremely tough. He did not suffer fools gladly at all. If people complained about something, they could fix themselves or should try to fix themselves, he did not tolerate it. He was a very tough coach, and he was a very, very — 
+
+Jonathan Haidt: That’s what I expected.
+
+Tim Ferriss: And he was a very, very, very good performer. So, he himself had been an outstanding wrestler and could go toe to toe with anyone in the group, including people who went on to become All Americans. I mean, granted, in their particular corner of the wrestling world and — exceptionally tough. And he would give occasional positive feedback. And I don’t want to say he was stingy, but you’ve really had to earn it. You really, really had to earn it.
+
+Jonathan Haidt: Yes, that’s what I figured because wrestling is probably the best antifragile sports there is, that is more than any other sport. Wrestling is really going to be about developing your antifragility, your strength in the face of adversity, testing your strength. So the sport itself is very conducive to growth in that way. And I kind of knew, given how grateful you were, I kind of knew that he was going to be a tough coach, not a warm, nurturing coach. Because you really need, to get the full benefit of the growth into strength, you need someone to push you. You need someone with high standards. You need someone to enforce those standards. You need to strive for them.
+
+A few years ago, when I gave a talk on The Coddling of the American Mind, I was sitting next to somebody who’d been, I think, the head of the NCAA or high up in it, and this was like 2018, 2019. He said, “The tough coaching style — it’s not that it’s banned, but that coaches are fined and they can’t use the tough style anymore because the kids will cry, they’ll report them, they’ll say, ‘No, you need to be nurturing.’ And so tough coaching, I think, is going out because what if you hurt a kid’s feelings?”
+
+And so in so many ways, we’ve accepted, and that’s a great untruth, number one, of The Coddling of the American Mind is what doesn’t kill you makes you weaker. Now, that’s wrong. That’s a falsehood. But that’s what many people now believe. And I think your experience really shows that no, what doesn’t kill you makes you stronger. That’s what you just said, and that’s what the psychology supports.
+
+I think the lesson here for parents and teachers is we need to have standards. We need to push kids to meet the standards. Sometimes the kids are not going to be happy. And as long as we can be reported for pushing the kids, we’re not going to push the kids. And the whole generation goes down the tubes. So, that’s what we’re doing.
+
+Tim Ferriss: And Coach Buxton also, I think, fundamentally believed — I’ll speak for myself personally, I don’t want to speak for other folks, but he would reinforce the belief that he saw in me the capacity to do more, to perform better. And it was in that context that being a tough coach was the nice thing to do. Does that make sense?
+
+Jonathan Haidt: Yeah, absolutely.
+
+Tim Ferriss: In service of realizing absolutely that unrealized potential. And I think all of the athletes he coached felt that way, that he saw something in us that we couldn’t easily see. And he was pushing us to unlock that potential. And it was not abusive for the sake of, say, breaking someone down, like perhaps a drill sergeant might serve the function of shared privation and that type of environment. I think there’s a purpose to that, and I think it actually can be good for the collective. But in this particular wrestling context, the wellspring of the toughness came from a place of, in some cases, explicitly saying, “You can do better. And I know you can do better.” And that was powerful. It’s very powerful.
+
+Jonathan Haidt: And that is beautiful. And I think what you’ve just done there is you’ve stated what the telos of teaching should be. Telos is this Greek word that I’m very fond of nowadays. It means the end or purpose for which something is done. The telos of medicine is health. What is the telos of a university? And I’ve been focusing on the research aspect where our telos is truth, but we’re also teachers. And our telos as teachers is not truth. And I’ve been saying, “Oh, it’s the education of our kids. It’s learning, teaching.”
+
+But I think what you said is actually better. The telos of a teacher is doing this service of realizing their untapped potential. That’s what we’re trying to do. That’s what we should be trying to do. And we don’t always do it.
+
+Tim Ferriss: Yeah, I’ve been very fortunate in that respect to have had a handful of teachers who were unrelenting in their pushing towards the truth that they saw, which was their students could in fact do the hard things. And that was true. I’ll give thanks to another teacher, professor Shimano, who was my first Japanese teacher. And surprise, surprise, when I transferred from Spanish to Japanese, I found Japanese to be extremely difficult. And I almost quit, I want to say, twice.
+
+Once, just because of the difficulty with the language grammatically. And the second time when we started delving into the various writing systems in Japanese, and I was talked off the ledge by Professor Shimano, who was able to just say, “Give it some time. I think you can do this. And I’m betting that I can help you do this.” And good God, if I had not listened to that, if I had pushed back, if I had become offended and walked from that class, my life would not be what it is today in any respect. I feel very, very grateful.
+
+Let’s talk just a little bit, if there’s anything that you would care to add about intellectual antifragility. Are there other things that people can do, other practices they can experiment with, other resources that you would suggest they look to develop intellectual antifragility?
+
+Jonathan Haidt: Yes. So, I created a resource, an online resource with Caroline Mehl, who was working with me originally at Heterodox Academy, but it branched out. If listeners go to ConstructiveDialogue.org, we’ve created a program called Perspectives, that kind of walks you through some of the moral psychology, “Why are we like this? Why are we so tribal? Why do we have confirmation bias?” And it teaches you it how to open your mind and open your heart. And it teaches you how to engage with people and how to learn from them, how to listen. All the things we’ve been talking about. If you go to Constructive Dialogue, and yes, dialogue is D-I-A-L-O-G-U-E.org. We have a program that we created called Perspectives. It used to be called Open Mind. And if listeners go there, it was designed for use in college courses, especially at orientation, because if everyone in a group has these concepts and they use these tools, you’re going to have great discussions. You’re going to be able to talk about hard things. It works really well in businesses as well. So, that’s one resource.
+
+Another resource, I think, what I found really helped me when I was writing The Righteous Mind was I just subscribed to the best writing on the other side. I was very much on the Left when I started the book, and I would read The New Republic and The New York Times or things I read back when The New Republic was a good magazine. But I subscribed to National Review and The Wall Street Journal. And National Review has all these really smart Center Right intellectuals, great writing.
+
+And I would read about current events on the Left and the Right. I just understood things much better. It’s kind of trite, but you literally can’t understand something from looking at a single perspective. You kind of have to walk around it and look at it from all sides. So, resources are out there, and the internet is such that it will guide you to fantastic resources from each perspective. And if you don’t seek them out, then what you get, if you’re on the Left, you do encounter some Conservative ideas, but usually you encounter reports of them in their worst form or reports to them being held up to ridicule. And same thing if you’re on the right. Yeah, if you want to be smarter and stronger, you must seek out different perspectives. It’s kind of trite, but there it is.
+
+Tim Ferriss: So, ConstructiveDialogue.org. We’ll link to all of these in the show notes. And I’ll also create a URL by the time this comes up, it’ll work, which will just be tim.blog/haidt, H-A-I-D-T, and that will forward to this episode, so people can find all the links in the show notes really easily.
+
+Let me ask you the billboard question. I’m curious what your take on this might be. The billboard question is sometimes a dead end, and I’ll take full blame for that if it is. But if you could put a message, a quote, anything at all on a billboard, metaphorically speaking, to get something out to billions of people, assuming they would all understand it, what might you put on that billboard?
+
+Jonathan Haidt: Ah, that’s actually easy. Actually, I’m going to nominate two. If you’ll give me the front and the back of the billboard.
+
+Tim Ferriss: I’ll give you two.
+
+Jonathan Haidt: Okay. The first is a quote from a Zen Buddhist philosopher in the eighth century, Seng-ts’an was his name, Chinese Buddhist philosopher. And I’ve used this quote in most of my books. I’ll just read the whole thing. He says, 
+
+“The Perfect Way is only difficult for those who pick and choose;
+
+Do not like, do not dislike; all will then be clear.
+
+Make a hairbreadth difference, and Heaven and Earth are set apart;
+
+If you want the truth to stand clear before you, never be for or against.
+
+The struggle between ‘for’ and ‘against’ is the mind’s worst disease.”
+
+This is what we were talking about before, about getting beyond moralism. When you’re moralistic, when you’re judging, when you’re saying, “This is good, this is bad,” you get stupider. You don’t understand the nuance of things. This quote is about sort of demoralization, not like being demoralized, but sucking the moralism or the morality out of something and just trying to understand it.
+
+That’s the first. And then if I have the back of the billboard, I would put this quote from Joseph Campbell. So, Joseph Campbell was a professor at, I think, it was Bryn Mawr or Sarah Lawrence rather, in the late 20th century. He studied myths. And there was a wonderful PBS series on, I think, The Hero with a Thousand Faces was one of his books.
+
+And so Campbell, this motto, this really calms me because I’m very alarmed at the way things are going, the way our complex dynamical system is kind of veering into chaos. And I found this quote to be really, really comforting, and I sort of have it up on my walls, various places. He says the lesson from his studying of heroes, myths, heroes journey stories around the world is this, “Participate joyfully in the sorrows of the world. We cannot cure the world of sorrows, but we can choose to live in joy. The warrior’s approach is to say yes to life, yes to it all.” That’s what I’d put up.
+
+Tim Ferriss: Love it. That’s a great combination. And you mentioned Buddhism and Stoicism earlier. I don’t know if you feel this way, but I have felt over time that there is tremendous overlap in those two, let’s just call it lineages, or broadly speaking schools of thought. And I suppose both are also related to your front and back of the billboard in the sense of cultivating equanimity, a sense of being unperturbed by the vicissitudes, if I could use a fancy word, of life, the daily flux, all of these tiny and large tragedies that befall everyone at various points. How do you revisit some of these practical philosophies for yourself? Let’s just say that you’re going through a period or there’s an event where you start to feel dysregulated, consumed by emotions, what do you do?
+
+Jonathan Haidt: Oh, yeah. Thank you for that. Earlier you asked me, do I have practices? There was the summer of 2017, I think it was, when Trump was threatening nuclear war against — there was a possibility of nuclear war with North Korea. And I really thought, “I think he might actually want to do it.” And I was really thinking, “This really could be the end of the world.” And it was then that I started rereading Stoic writings in the morning.
+
+And my favorite two are Marcus Aurelius’ Meditations, the Gregory Hays translation is, I think, the best one. And then also Epictetus, his collected works. And what I do whenever I read, I do all my reading electronically now, because I like to copy out text. So I copy my favorite lines out into an Evernote file. And so what I do in the mornings, I don’t even have it in my calendar, “Let me see, how do I record in my calendar…” Every day repeating, there’s a couple different things I do, but it’s basically either reading Stoicism or Buddhism or reflecting on psychotherapy.
+
+I’ve been in therapy for a while. So, yes, and I have it right here. Stoic or Buddhists reading, and I have to check it off each morning. And I do that before I check email, before anything else. And right, you’re right. Stoicism and Buddhism, they’re very, very similar. Except Stoicism is sort of a Western version because it is more about action in the world. Now, Buddhism, there are Buddhisms that are very much in the world, there are those that pull you away more. But there is a sort of an Eastern sensibility in Daoism about, “Don’t do anything, just settle. Just let the world arrange itself.”
+
+And Westerners are not like that and Stoics are not like that, but it is like act in the world, “Okay, you’re the emperor of Rome, but you’re still getting upset about things and you have to — everything’s crazy around you.” But it’s not just for emperors. Epictetus was a slave. And so it actually works at any level of society. You can never control everything, even if you’re the emperor.
+
+Both of them are just incredibly psychologically wise ways of living in a world that you can’t control and maintaining not just your equanimity, but even the capacity to be openhearted and loving. There’s very similar passages not about necessarily loving your enemies, but actually sometimes it is like, and they both use the same technique of saying, “And remember, you’ll both be dead before long.” That’s a quote from The Dhammapada, “How can you quarrel, knowing that you’ll both be dead before long?” It’s all trivial.
+
+Tim Ferriss: How long is your document that you review in the morning, that Evernote file?
+
+Jonathan Haidt: Well, I’ve got a whole big one for Seneca, who I’m going through Seneca. There’s just so much writing and it’s not as dense in terms of gems, but I’ve got one for Epictetus, one for Aurelius, one for Buddha. You know what, if you go to the coddling.com, which is the webpage for The Coddling of the American Mind, and you go to Solutions, Better Mental Health, I’ve actually put up at the bottom, I’ve put up a collection of sayings by Marcus Aurelius that basically are about the three great untruths of the book.
+
+So, here’s one. “Today I escaped from anxiety, or no, I discarded it because it was within me in my own perceptions, not outside.” This is the great untruth that we cover in the book is always trust your feelings. But what the Buddhists and the Stoics and CBT tell us is, “No, don’t always trust your feelings. Question them. Sometimes they’re legitimate, but sometimes they’re gross overreactions to nothing.” Anyway, yeah, those are the great wisdom traditions in my opinion.
+
+Tim Ferriss: How long do you spend in the morning, if you check the box of that calendar reminder with that reading?
+
+Jonathan Haidt: Oh, it’s about 10 minutes.
+
+Tim Ferriss: 10 minutes.
+
+Jonathan Haidt: Recently, I’m doing a loving-kindness meditation because I’m very cerebral and I actually sort of need to open my heart more. But I make sort of a coffee substitute. I’m very sensitive to caffeine, so I’m experimenting with these mushroom-based things. Anyway, but I make a hot beverage and then I sit on a comfortable sofa and just about 10 minutes, because what I found is that my MBA students, I asked, “How many of you check your phone before you get up to pee? And how many of you wait until you actually have gone into the bathroom?” And very few of them wait. It’s like right away. Okay, turn on the stream. Turn on the stream, have it come in. No, don’t do that.
+
+Tim Ferriss: Yeah, have a better boot up sequence for your morning and day.
+
+Jonathan Haidt: Exactly. That’s right.
+
+Tim Ferriss: Jon, I really appreciate all the time. This has been a lot of fun. I’ve copious notes. There are many things that I’m going to be looking up, and I think the first will be On Liberty Chapter Two. I’m going to check in and give that a read. And then I have many others. Is there anything else that you would like to say? Any closing comments, any questions, anything you’d like to point my audience to that we haven’t mentioned or that we have mentioned? Any complaints you’d like to lodge? Anything at all?
+
+Jonathan Haidt: Yeah. No, I’d just like to say, my mission when I moved to Stern Business School, everyone has a mission statement. I made a mission statement, and my mission is to use my research and that of others in moral psychology to help important institutions work better.
+
+And I’ve started various organizations. So, if you’re concerned about universities, please go to HeterodoxAcademy.org and join if you’re an academic or support us financially, if you can. If you’re concerned about people’s ability to talk to each other or you need to address conflict in your own organization, please go to ConstructiveDialogue.org. If you are a parent and you have kids born after 1996, you have Gen Z kids, please go to LetGrow.org. A site I started with Lenore Skenazy to encourage free range parenting.
+
+And so, all three of those are nonprofit foundations. We really need help. I’m trying hard to raise money for them. So, please support us. And all of them, I hope, will help you solve problems in your own lives and in your own organizations and your own families.
+
+Tim Ferriss: Perfect. That’s the perfect place to wrap up. And for everyone listening, all of these links I will gather and put also in the show notes so they’ll be collected in one place and you can click them to take yourself to all these destinations. tim.blog/Haidt, H-A-I-D-T. On Twitter, be careful, it’s a full contact sport out there, @JonHaidt, and JonathanHaidt.com. Jon, thank you so much for taking the time and being so game. I really appreciate it.
+
+Jonathan Haidt: Tim, thank you. This was rollicking and good fun.
+
+Tim Ferriss: And to everybody out there, be just a little kinder than is necessary. Don’t believe everything that you think. Ask questions before you make strong statements. And thanks for listening.
+
+
+TAGS
+JONATHAN HAIDT
+	

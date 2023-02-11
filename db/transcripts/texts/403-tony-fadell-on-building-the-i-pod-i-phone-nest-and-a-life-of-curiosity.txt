@@ -1,0 +1,645 @@
+
+
+JANUARY 27, 2020 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tony Fadell — On Building the iPod, iPhone, Nest, and a Life of Curiosity (#403)
+
+
+Please enjoy this transcript of my interview with Tony Fadell (@tfadell), an active investor and entrepreneur with a 30+ year history of founding companies and designing products that profoundly improve people’s lives. Sometimes called “the father of the iPod,” Tony is currently the principal at Future Shape, where he continues to help bring technology out of the lab and into our lives. Currently, Future Shape is coaching 200+ startups innovating game-changing technologies.
+
+Tony founded Nest Labs, Inc., in 2010 and served as its chief executive officer until his resignation in 2016. He joined Apple Computer, Inc., in 2001 and, as the SVP of Apple’s iPod division, led the team that created the first 18 generations of the iPod and the first three generations of the iPhone.
+
+Tony has filed more than 300 patents for his work. In May 2016, Time named the Nest Learning Thermostat, the iPod, and the iPhone three of the “50 Most Influential Gadgets of All Time.” Tony graduated with a BS degree in computer engineering from the University of Michigan in 1991.
+
+
+ 
+
+#403: Tony Fadell — On Building the iPod, iPhone, Nest, and a Life of Curiosity
+
+
+Tim Ferriss: Tony, welcome to the show.
+
+Tony Fadell: Hi, Tim. Great to be here.
+
+Tim Ferriss: I am so thrilled to finally be having this conversation. We have a bunch of mutual friends and, of course, the good man, Scott Belsky, is one of them, so thanks to Scott for making the introduction.
+
+Tony Fadell: Great guy, great guy.
+
+Tim Ferriss: I have some suggested topics from him that we’ll get to at some point, but I thought that we could begin with something that came up before we started recording. I mentioned that I needed to open up my caffeine. I have some yerba mate here sitting in front of me and you said that you don’t do caffeine. One of the questions I planned on asking you was about alcohol, because my understanding is that you don’t do alcohol either. Could you describe or explain why that is in both cases?
+
+Tony Fadell: Well, the caffeine thing and the alcohol are obviously my daily habits, or lack thereof, but they happened at different times. For me, the alcohol was really an outpouring of when I went to Saudi Arabia for two weeks to be with a friend there and I stopped drinking. It was just before I was 40 years old. I was there for two weeks and not drinking, and all of a sudden I started feeling completely better. I was sleeping better, I was waking up better. You’re like, “Oh, I’m not in this fog,” it didn’t take until 11 o’clock or 12 o’clock to actually be present. For me, it was really about that feeling much better, and then I was thinking, “Wait a second, so if I drink alcohol, where there’s the calories from the alcohol, then it’s what it makes me do, which is usually eat too much dessert or any dessert at all.”
+
+Tim Ferriss: Definitely.
+
+Tony Fadell: You have less control there and you’re like—then, I’d wake up in the middle of the night because I get happy heart because I can’t process the alcohol sugars, and then I feel like crap the next morning. I’m like, “Why am I doing this to myself when I feel so much better?” I’m like, “I’m getting older, it’s not getting any better, so let’s just cut it out,” and literally it was overnight and just cut it out.
+
+Tim Ferriss: Wow. So that was the alcohol piece. 
+
+Tony Fadell: Right, just the alcohol. 
+
+Tim Ferriss: Triggered by the trip to Saudi Arabia, and what about the caffeine?
+
+Tony Fadell: Well, the caffeine—I basically overdosed on sugar water or aspartame water back in my 20s when I was at a company called General Magic. I was probably drinking between eight and 12 Diet Cokes a day, loaded with caffeine, and that was just before the times of those crazy drinks with all the extra caffeine and everything, but that’s what kept me going. It was killing me, and so I just then and there said, “I’m stopping the caffeine and I’m stopping the sodas,” whether they were sugared or not, and just went cold turkey on it. That helped a whole process. That was the beginning of a whole process of life changes that I made from the time I was 24, 25 to, again, get to this point today.
+
+Tim Ferriss: We won’t dwell on this too long, but I have a feeling there is some good stuff to unpack here. The cold turkey with caffeine has some repercussions, right? There are generally some physical withdrawal symptoms, even at very, very low daily doses of caffeine. So two things that pop to mind. Number one is, why that particular day? What made that day different from the days before? What was the catalyst? Then, number two is how did you handle the detox period or acclimation period afterwards?
+
+Tony Fadell: Well, we can get into this more later, but the impetus, the reason why I did that was I basically pressed reset on my whole life when I was I think about 25, when a company I was working at 80, 100, 120 hours a week at called General Magic totally failed. It became my entire life. I shunned even my family to a certain extent. I just wanted to make this company General Magic happen. When it was an utter failure and a disaster, I kind of went away on a journey and then I started rethinking all kinds of things in my life.
+
+That was one big thing. But the withdrawal? The withdrawal was literally three weeks of insane headaches. It was continual headaches. You had to pop the Advil or the Tylenol or whatever it was, but it was continual headaches and it just made me realize how much that was affecting me and that I’m glad I got through it. It was painful. I’m sure it was not as hard as a typical drug addiction, but caffeine is a drug.
+
+Tim Ferriss: Caffeine is a powerful, powerful drug and I—
+
+Tony Fadell: I never drank coffee, either. I’ve probably had two cups, three cups in my life.
+
+Tim Ferriss: That’s it? If we rewind the clock and go way back to childhood, of course, in prepping for this I’ve done a fair amount of reading and I’ve read that from the tinkering perspective, from the building perspective, which we could get into, your grandfather comes up a lot. I’m curious where you developed or how you developed your ability to sell, to market, to present, because you’re not only a good builder, you’re also very good at presenting ideas in very persuasive ways. Where does that come from?
+
+Tony Fadell: Well, great question. My dad was a salesman for Levi Strauss. He was a head sales guy. He was selling jeans. For 33 or 34 years he was with the company, and so he started there just I think when I was two years old. I watched him all the time going and selling clothes. He gave me little tips along the way. Sometimes I’d actually go with him to a sales meeting where he’d be talking to a retailer and telling about the latest line or what have you or about go-to-sales goals or what have you. I got to watch him do his work and ask him questions about that, and he gave me some really big tips on that. That was the first one, which is it must be built into my DNA because my dad has that skill.
+
+Then, over time it was really after General Magic phase and then starting to understand other people’s languages, the language of marketing, the language of finance, business, and trying to really understand those languages beyond engineering and blending those together and saying, “Wait a second. Every single thing is about communicating in other people’s languages. How would they understand?” The other one is then coming from a place in the heart that’s really meaningful when you are talking the other person’s language about what you’re doing, and then ultimately over time through failures and all these other things is really understanding, talking to them about what they need and what their problems are and how you’re trying to solve them, and so the more you put their selves in their shoes.
+
+I think it was a continual thing, and then being mentored by Steve Jobs just kind of drilled it all home, to watch him, the absolute master, do it. Then I picked up more tips and techniques and refined and refined after that.
+
+Tim Ferriss: We’ll probably come back to that as it relates to specific projects. General Magic has come up a couple of times and I have heard it described as the most important company to come out of Silicon Valley that no one has ever heard of. Now it’s not quite true that no one has ever heard of it, but it’s not as recognizable as a lot of other names, of course. How did you end up at General Magic? In explaining that, what was General Magic? You can tackle that however you like.
+
+Tony Fadell: Sure, sure. Well, first, there’s a movie out now called The General Magic Movie, so you can see it. The filmmakers told my story of how I got there. But beyond that, for me, it was really—I was a passionate geek since the ’70s with—well, first with a computer that was a paper—it had a paper display and it had punch cards. I started there and then an Apple II and what have you. I was always an Apple fan. I was a fan since I think ’79 or ’80, and then the Mac came.
+
+Then, I was a fan of the Mac and I started to learn more and more because I was really diving in deep. It wasn’t just using it, it was learning about it, learning about the craft and learning who was behind it. That was all about the Mac team because before that, before Apple, before the Mac, Apple was really—it was just about the product. It wasn’t even about Steve Jobs at that time. It was really just about Apple II. When the Mac came, it was a whole set of the product, Steve Jobs, as well as the team behind it, and you were able to read all kinds of articles about the team. That’s when I started to really just go, “Who are these people? What are they all about?”
+
+I kept tracking them and watching where they went. Some stayed at Apple, some left, some went back to Apple and back and forth. When I was getting out of school, there was, in the back of MacWEEK Magazine, there was a little column that was always about the rumor mill. It was The Rumor Mill, and I would read that and it said, “Founding team from the Mac has gone off to do this project in this company called General Magic called Pocket Crystal.” I was like, “What is that?” Every week, you’d look for those little nuggets, and that week I found it.
+
+After that, when I read that, because there was no internet back in the day, I read that, I was like, “Okay.” Now it was tunnel vision. “Whatever it does I need to go figure out what this company is doing and I need to see if I can go work there.” I was graduating. I had a startup at the time, but it wasn’t working. It was a tiny pond I was in in Michigan at the time because it wasn’t the mobile revolution we have today. I had to get to Silicon Valley, I had to go see that team, and then ultimately knocked down the door. I should say, I kicked in the door to work there.
+
+Tim Ferriss: To add some color to that, so I did watch the documentary—
+
+Tony Fadell: Oh, cool.
+
+Tim Ferriss: And you basically, I don’t know how to put this, harassed I think is probably not too far off, the head of HR and just called and called and pestered and pestered until they finally paid attention. Can you add a little bit of detail to that?
+
+Tony Fadell: Sure. Well, first it was pestering the people inside Silicon Valley to find the people at General Magic to talk to. First was, okay, I was determined to find a person at the company I could talk to. I had to talk to various people. I wrote letters. I literally typed letters and sent them to various VCs and various people saying, “Who do you know at blah, blah, blah? Who do you know at”—I had to find the person, and so then I ultimately found that person, which was Dee Young, and started stalking both the company from sitting at the doorstep trying to get in in the mornings to meet somebody as well as placing calls to Dee to get that interview, to get response from the interview, all those things.
+
+It took probably six—let’s see. I started in I think April that year, and then I landed the position in November that year, and that was 1991.
+
+Tim Ferriss: My recollection of the film, which is really all I know of General Magic, is that you were not the only person who was, say, sleeping outside or trying to get a position at this company. What did they see in you? What were the elements in your approach or resume that got you a job do you think?
+
+Tony Fadell: Well, I can only speculate.
+
+Tim Ferriss: Speculate.
+
+Tony Fadell: Well, first, I had already—at that time, I had a startup company in high school with another guy. We’re doing educational to doing—selling Apple II peripherals and writing software for the Apple II for those peripherals. That was called Quality Computers. Joe Gleason was a great guy and he was just two years my senior. There was the two of us doing that, and then after that, in school, in college, I created a chip firm with another guy and we reverse engineered and made a new version of the 65816 processor in school for the Apple IIGS, literally a 16-bit version of the Apple II because we loved it so much. We made a processor and actually had it fabricated. Then, I also had a software startup called Constructive Instruments with my professor, Elliot Soloway, at the University of Michigan. We were doing education multimedia software at the time.
+
+I think those few entrepreneurial endeavors, chips and software and sales and retail, mail order—not even eTail—mail order, and customer support, I think gave me a little leg up. Plus, my passion for just, “Please let me in.” Then, they were like, “Oh, who is this kid? He’s fresh out of school. He’s got all this experience. Okay, let’s hire him for a pittance,” which it was, “And we’ll give him a try.”
+
+Tim Ferriss: Why did General Magic, with this all-star team, just the superstars of the time and soon-to-be, or I would say, yeah, sure, soon-to-be superstars of the later times, fail? What were they doing, and why didn’t it work?
+
+Tony Fadell: Well, General Magic was trying to create what was in essence the iPhone about 15 years too soon. We know the iPhone today, but back then there were no digital telephone networks or mobile networks. They were all analog. There was no internet. There was almost no multimedia and most people didn’t even use email yet. And so what we were creating was this iPhone too early, but it was a picture of what was to come. We were too early for the technology; even the processors weren’t fast enough and the battery life was too short, just so many elements. We were well ahead of the future, let’s put it that way.
+
+That was one piece, but then the other piece that really, really cut General Magic down was I would think it was a lack of discipline, a lack of discipline about who our customer was, what the product was we were making, what the timeline was, and how we were going to get it to market. It was literally this amazing sandbox to create this next generation platform with almost no bounds. We created everything from scratch. We didn’t leverage almost anything that was already built at the time. We decided to make our own chips and everything.
+
+Tim Ferriss: From that point, well, I shouldn’t say from that point, but could you describe your first contact with Steve Jobs?
+
+Tony Fadell: My very, very first contact?
+
+Tim Ferriss: Yes.
+
+Tony Fadell: Was at Andy Hertzfeld’s birthday. Andy Hertzfeld had his birthday, I don’t remember which one it was—
+
+Tim Ferriss: For people listening or watching, could you—
+
+Tony Fadell: Sure.
+
+Tim Ferriss:—just define who that figure is?
+
+Tony Fadell: Andy Hertzfeld was one of the principal software developers of the Macintosh. He and Bill Atkinson and Susan Kare and a bunch of other people created the Macintosh and they were all at General Magic. Andy, he was having his birthday, and so he invited the team from General Magic to come to his birthday at his house and lo and behold, who shows up, I think he was riding his bicycle at the time, was Steve, who was literally I think like living five or six blocks away. He just rolled up on his bike and there he was. We were all gathered around because Steve was obviously busy at NeXT at the time, and Andy and Steve had a really close connection. They would always talk about different technologies and things, and that was the time when I first got to meet him, meet Steve, was that.
+
+Tim Ferriss: What were your impressions at the time?
+
+Tony Fadell: You’re starstruck. You’re absolutely starstruck. “Oh, that’s Steve. Oh, my God.” I think I was 22 at the time, something like that, so I was just—it’s like when you go up to your favorite rock star or something, you just don’t know what to say. He probably just looked at me weird and said, “This crazy kid.” That was it, but the impression was he was very definitive in the way that he spoke. He made sure like, “This is my opinion and that’s what it is.” You could argue with him or whatever and it was great. It was a great banter. That was fun. But I also—you have to remember, at General Magic, I would hear Steve stories every day.
+
+Every day you’d hear about something that happened on the Apple II or something that happened at Apple or on the Macintosh team. I had this vision of Steve and these stories of Steve from the people who were with him in the most intense times and the most celebratory times and what have you. I’m sure a lot of those stories were larger than they really were and what have you, so I had this picture and in times you were like, “Oh my God, absolute genius,” and other times you’re like, “Absolute madness.” You’re like, “Should I cower in fear?” You know what I mean? So you don’t really know what to make of it because you have this incredible impression of a person before you’ve really met them.
+
+Tim Ferriss: I can imagine “The fish was this big”-type stories and all the elaboration that comes with dramatic storytelling, especially when you have such good raw material to begin with in—
+
+Tony Fadell: Exactly.
+
+Tim Ferriss:—in Steve.
+
+Tony Fadell: Exactly.
+
+Tim Ferriss: I will ask you more about Steve, but before we get there, I want to talk about your reboot—
+
+Tony Fadell: Sure.
+
+Tim Ferriss: I suppose it was post-General Magic, so you were let’s call it—
+
+Tony Fadell: Just at the end and then about a year and a half after—
+
+Tim Ferriss: A year and a half after—
+
+Tony Fadell:—after that.
+
+Tim Ferriss: What were the elements of your reboot? Then, the consequences of the reboot if you look then say a few years after that?
+
+Tony Fadell: Sure. Well, look, it started—I know you’ve interviewed Jim Collins and it was kind of this—I’m still on the good journey. Hopefully one day I might get to the great journey. But it first started with individual contribution. I was like, “Oh, I’m mutual contributor. I’m doing well.” I think I’m performing at the team, and then the bottom fell out of General Magic. Just everything happened and you were working night and day and all you have is this tunnel vision and you’re like, “What am I doing? What am I doing with my life?” Every time you talk to your parents, or I talked to my parents it would be like, “I got to go. I got to work on this.” Boom.
+
+It was always just shutting everything down for one sole purpose, and then when that time happened, and it’s a very dark and lonely time, you say—I had luckily a friend who actually worked at General Magic. She came, Sondra Card, and she came and just sat there and talked to me and just helped me try to get through it. It was just, “No, no, this is valuable and this wasn’t all just you,” and, “Don’t worry about that,” and just “Get me out of that element and let me see beyond.” When I was in Silicon Valley at that moment, it was probably four years and I literally probably did not go further than a couple of miles radius away from General Magic and where I lived. I didn’t go to San Francisco. I didn’t go out to the ocean. It was a sole purpose in life was just that.
+
+She helped me kind of take the blinders off and see more, and then as I saw more, I started saying, “Well, wait a second. What’s the right thing for General Magic? Where would the product go?” Then, so I started thinking about that, then I also thought, “Where does my life go? Where do I need—I can’t. I have to start to understand balance.” I started reading and I started designing and thinking about the customer and thinking about marketing. You start to see all of these things that were breaking down at General Magic and you go, “Oh, I should have been involved in that. I should have learned about those things.”
+
+During that time was all about redesigning a product for General Magic that I thought was a success. I did that and I was learning more about myself through that, and at that moment when I thought I had something, I took it to the General Magic powers-that-be and I said, “Hey, this is what I think is really great.” They said, “That’s nice, Tony, but we have other priorities.” Then, of course, it hit me and I’m like, “Oh, this thing I’m working on, they have different things they want to do. I can’t make this thing real.” On the journey of good to great, I decided to go be a manager/leader and so I went and took that design and I went to different ones of these licensees of General Magic.
+
+We had many, many big companies who were working with General Magic to create this device and this service and it was Sony and Panasonic and another one was Phillips, who I was working closely with us. I went and pitched my device to the CEO of Phillips at the time and I said, “This is what we can do with this General Magic investment you made.” They were like, “That’s great. Let’s do this. Now, you’re going to come on and do it for us.” I was like, “Whoa, whoa, whoa, what?” Literally, I was 24, 25 at the time and now through a whole set of things, I was now the lead of this project and this new team that I had to build from scratch in Silicon Valley for Phillips to create this device. There was the failure of General Magic, and now all of a sudden, be careful what you wish for. You just might get it.
+
+I’ve never managed people. I never did anything, so I started hiring people, people I knew, and started building this team, and then I was probably the worst manager under the sun for the first six months. You’re just like, “Do it this way! Do it that way! Blah, blah, blah.” You don’t know what you’re doing. I had to go back and I’m failing miserably. I’m in this big company with these dark offices. It’s old, it’s not a startup, it’s nowhere near like General Magic. I left everything I knew to go to this big company to do this thing. I had no clue what I was doing and I was failing at it. Then, I had to go on another journey of like, “Okay, what am I? Who am I? What’s a great manager? What’s a great leader? How do I learn about these things? How do I reflect and see what I’m doing? How do I get feedback?” That was another step, and then all through that time was also a physical journey because if you saw the movie, you probably saw me in the movie, I don’t look quite like I looked like then.
+
+Tim Ferriss: Very different.
+
+Tony Fadell: I’m playing the long game. I wanted to look as horrible as I could in my 20s, so I could only look better as I got older. There was that mental journey and emotional journey, but then there was a physical journey of healing in every which way, of moving up through that pyramid of trying to kind of right the ship and get whole again, but then move well beyond it and take all those really negative experiences and turning them into something positive.
+
+Tim Ferriss: Let’s explore your process for a second, or maybe more than a second, as it relates to these what you might call sort of phase shifts or chapter changes, when you’re asking yourself, “What’s a great manager? How do I get feedback?” What does the actual process look like when you did that? Are you going to the bookstore and buying 10 books and reading 10 books? Are you trying to pin people down to grill them about how they manage? What did you actually do? What was the process?
+
+Tony Fadell: Well, you hit the nail on the head there. It was books. There was a lot of reading. Another one was talking to people who I trusted who could give me feedback. And then I started kind of going to a couple of classes and just doing that—
+
+Tim Ferriss: Wait!
+
+Tony Fadell: And then—
+
+Tim Ferriss: Sorry to interrupt. What type of classes?
+
+Tony Fadell: Oh, they were just kind of like management classes or doing little like questionnaires of your management style and what’s working, what’s not. Then, as I got deeper and deeper, I was like, “Wait a second. I need to get deeper into myself. I need to learn much, much more about myself.” How do you do that? Athletes go off and get a trainer and they start working on the training, and like you, they work on their food, what they eat, how they sleep, how they work out, all that stuff, maybe even their mental abilities. I was like, “Well, if I’m going to do this, I got to know myself really well.”
+
+Given a lot of the stuff that happened growing up, because I went to 12 schools in 15 years. I was a transient kid in a way. There were all these social interactions that I had or I did not have because I wasn’t with a group for very long. Sometimes sports gives that to kids because they learn how to work on teams, but I never had that because I was always moving. I decided that what’s the best thing to do is I’m going to—I was reading all these books about psychology, The Road Less Traveled. I was also a philosophy minor in college, so I was also going back to some of that, going back to some psychology and things. I said, “Okay, I’m just going to go find a person that I can go talk to about everything.” So I went to a psychologist. I wasn’t crazy, I just decided, “I’m going to go talk to somebody who should know something about this.” So I literally went to one and a half to two-hour sessions twice a week for almost a year and a half, and literally just diving deep into everything and said, “I had this experience today, I had that experience today.” It gave me the time for me to process it myself. The person would ask me questions, the doctor would ask me different questions, and then I was like, “Oh, I didn’t think about it that way. I didn’t see it from that angle. Oh, okay.”
+
+And so I got to go really deep into so many pieces of my life that that was just, it was just like huge lights were flashing. And you’re like, “Oh my God.” And all of a sudden the changes started occurring. It wasn’t just doing, but it was learning the fundamentals. And learning not just by reading a book, but actually seeing it in your day to day. So I could bring examples from every day into the sessions, I’d just talk about them. Does that make sense?
+
+Tim Ferriss: It does make sense. How did you find the psychologist? How did you pick this person?
+
+Tony Fadell: Oh geez. Wow. How did I do that?
+
+Tim Ferriss: It could be a—
+
+Tony Fadell: I think it was just a recommendation from—
+
+Tim Ferriss: From someone you knew?
+
+Tony Fadell:—a friend, from a friend. Yeah, it was a recommendation.
+
+Tim Ferriss: What were some of the results that you saw outside of the sessions, some of the outcomes for you?
+
+Tony Fadell: I think it was empathy. There was a lot of empathy, putting yourself in other people’s shoes and understanding what they were thinking, how they were acting, how they might be reacting to certain words that you’re saying. Different approaches to leading and motivating. Certain things about the decisions I made every day and how I could go about making different decisions. About just re-enabling social interactions. Again, like I said, I was the geeky kid in the corner. I was the new kid all the time. And if you’re the new kid all the time, you’re going to have certain tendencies. And you’re going to fit in really fast, but you’re also not going to make deep connections. So it’s those kinds of things that you had to grapple with and really tease apart and learn about yourself.
+
+And so that was where the physical change, the mental change, the leadership change, to allow me to really propel beyond, and not just learn through lots of mistakes. I learned through mistakes, but it was a quick iteration, because you’re not learning about the symptom but you’re learning about the root cause, or trying to fix the root cause or at least manage it.
+
+Tim Ferriss: Why did you go through 12 schools in 15 years?
+
+Tony Fadell: Well, because of my dad’s job.
+
+Tim Ferriss: Because of your dad’s job.
+
+Tony Fadell: Wherever the business at Levi’s—because it was taking off. Remember in the ’70s, Levi’s—oh, you’re too young, you don’t know this. Levi’s was a precious, precious commodity. They were trading Levi’s jeans as currency in Russia on the black market. It was that sought-after thing, maybe like Supreme is or was, it was that kind of thing. My dad would always go to various places where they were either starting and rolling out Levi’s, because it wasn’t everywhere, it was just in certain places. So starting up new territories or propping them up or fixing them in some way. So we would move from place to place, because my dad was ambitious and he was really good at sales. And so they kept promoting him and moving him up the ranks and giving him harder and harder work. That’s what happens. When you’re successful, they only give you more and harder.
+
+Tim Ferriss: Right. As a friend of mine put it, he said, “Your reward for winning the pie-eating contest is more pie.” I know that we’re going a little Memento, non-linear with the way that I’m asking questions, but I wanted to ask this earlier. What made your dad so good at sales? What are some of the things that made your dad so good?
+
+Tony Fadell: Well, he’s a very personable guy, so he gets along. And you can see it in his face, he is not a guy who can lie, and neither am I. I got that from him as well. He said to me one day after the meeting, he was in a sales meeting, I was there. And I saw him, and he laid out the whole line of clothes and showed this, it was Bloomingdale’s or Macy’s at the time, something. He said, “Okay, these are the hot sellers in our line, these aren’t so good. I wouldn’t recommend you buying these, blah, blah.” I was like, “Dad, what are you doing? You’re supposed to sell everything.”
+
+He goes, “No, I’m not supposed to sell everything. I’m supposed to sell what the customer really should have and they’re going to be successful with. If I don’t have what they’re going to be successful with, I’m going to recommend my competitor and tell him that they should go there instead of this piece of apparel or whatever, because I’m going to earn the trust and respect. It’s not about a transaction, it’s about a relationship. And they will come back to me every day, every week and know that I’m the person they want to talk to, and I’ll be first. If I have the best stuff, I’m going to get the biggest orders. But if I always sold all this stuff that was dog, just to make my quarter to quarter, whatever nut it was to crack, I am going to lose that relationship. And everything in life is about your relationships and how you treat them, whether the times are down or whether times are good or times are bad.” And so that was a key piece that I took away from that day and will never forget.
+
+Tim Ferriss: That is a great story. What a great story. What a great lesson, too. Man, what a gift.
+
+Tony Fadell: It was great.
+
+Tim Ferriss: When you, later in your career, and we’re giving advice on managing. Because you talked about developing empathy, you talked about this personal transformation. Later on, when people would come to you as novice managers who are trying to build the plane while they’re mid-flight, what type of advice do you give to new managers who are maybe good product people who have somehow been promoted into a management role but never prepared for it? What type of advice or training or recommendations do you give those folks?
+
+Tony Fadell: Well, what always inevitably happens with all new managers is they have a difference with another manager somewhere, whether a customer, their supplier, whatever it is. They have a difference with a manager that’s inside the team. Usually they’ll come and complain to me about that person or whoever they’re having a problem with that team. Then usually the other team member will come up. And I always would say to them, I’m like, “Look, I can sit here and I’ll give you some advice, but at the end of the day I am not going to rule on this. I’m not going to sit here and take a side.” I said, “Because whatever side I take, you won’t be happy or the other person won’t be happy. It will never go well.” I said, “The best thing you can do is, whenever you have these issues, is you two get in a room and speak like adults instead of complaining, whiny children. You get in a room and you hash it out and you try to speak like adults to each other and try to work it out. If you still can’t work it out, come get me, but don’t—”
+
+What most people do is they rant over here and they rant over here, but they never try to make a bond with that other person to try to find common ground and work from that. Kind of like the polarization of our politics today. You got to get in the room. And that’s the biggest step for conflict resolution and to build your relationships inside the organization so that you can go further. Because you all need to work together. It’s not a zero sum game. Maybe some companies are, but in the ones that I were at were never a zero sum game. We needed each other, and we needed to work with each other, and you can’t always get your manager involved to do that.
+
+I’m always about learning by doing, and then doing the education on the back end. In other words, have the failure moments, work through it, and try to figure it out yourself, and then go read about it and go, “Oh, now I get it.” So it locks it in. So a lot of people learn, then do. I like to do, fail, then learn.
+
+Tim Ferriss: Are there any particular books that you have found useful or recommended to people related to management or communication? Anything like that?
+
+Tony Fadell: Management and communication?
+
+Tim Ferriss: Yeah, or communication. I’m just wondering, if somebody came to you hypothetically and they said, “Tony, I want to hash it out with this guy, but I’m a miniature version of you. I’m running red hot, I’m in sixth gear, and I think I’m just going to not have the tools to, say, have this conversation without getting really excited or managing it in a way that won’t be as productive as it should be. So how should I prepare for it?” Where might you point them or what might you say to them?
+
+Tony Fadell: Well, I think that there’s one book which really does—there’s two books, actually. One book, which is Getting to Yes, if you’ve ever read that book, Getting to Yes.
+
+Tim Ferriss: I have. Yep. William Ury and other guys. Yep.
+
+Tony Fadell: Right. Getting to Yes is one, and that’s all about telling a story and being there and telling a really great story for why people should say yes to whatever you’re proposing. So building that. The other one is Who Moved My Cheese? That’s another really simple book; you don’t have to go through all of this psychological, heavy books to get to very simple lessons. So Who Moved My Cheese? is when basically something’s changed and you don’t like it any more and it’s out of your control. Getting to Yes was all about trying to find the common ground and getting someone to see your side and hopefully getting them to say yes. So those two things are very simple books, but they’re a good starter place, to get people to work together.
+
+Tim Ferriss: Thank you. Normally I would apologize for this. This is going to get meta for a second. I’m looking at my iPhone, which normally I would apologize for, but it seems very appropriate here. I’m going to look at my notes, because there’s a text from our mutual friend Scott Belsky with a few suggestions. And this is going to be the return to Steve in a way. So he mentioned, I’ll just read a few things. So “He’s one of the rare people I know who can work across atoms and bits,” as he describes it. Then he said he has a ton of Steve stories from early days of iPhone and iPod, how decisions were made, counterintuitive bets taken at the time. So could you tell a story about any decision or counterintuitive bet from the Steve days?
+
+Tony Fadell: Counterintuitive bet. Well, Apple was fighting for its life on the iPod days. So that was pre-iPod. So a counterintuitive bet was specifically Steve saying, “We are going to build iPod.” That was called Dulcimer. Literally the company at that timeframe was 200—I think it had $500 million in debt and $250 million in the bank. It was break-even quarter to quarter. Steve was like, “We need to do this thing.” It was a code name called Dulcimer, which ultimately became iPod, but “We need to do this project.” I was a consultant whipping this thing up, and then he was like, “Okay, you’re going to come on board and you’re going to make this happen.” The people in that room, he said, “Look, this is going to happen, and if anyone gets in your way, have them call you or someone in this room or call me, and we’re going to take care of it.”
+
+So literally there were people who put roadblocks in. We say it’s the corporate antibodies that set in and said, “Wait a second, we’re struggling for our life. We’re struggling for our life for the Mac. We’ve got to put all of our resources in the Mac. We can’t be going in a different direction. You’re a consultant, who are you, kid?” I’m like, “I need some people to help. They’re like, no, no, no, no, no.” Then literally I’d call in the air cover, “Hey, I need some help,” whoever that was. And then that person and that person, whoever was in the way, after about four or five calls it got around the company, if I ask you I need help, you just say yes. Because you don’t want to know what’s going to come, what bomb’s going to come and hit you otherwise. And so that was a very counterintuitive thing, and it was totally guarded by Steve and the management, or part of the management team at the time.
+
+Tim Ferriss: What gave him the confidence to make that type of decision? Or maybe confidence is the wrong label to apply to it. I’m not sure. But whether you have to speculate or if you know, what gives or gave him the ability to make that type of commitment and decision?
+
+Tony Fadell: Well, I saw a lot of decisions and a lot of stuff after the first iPod green light to start, to keep going. So I’m going to speculate based on those 10 years of decisions I saw, what I think happened at the iPod thing, which was literally, almost every time we had to make a big bet, a very big decision that would be high, high risk, put the company at high, high risk, it was always because we were under threat.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: So the iPod was because they tried everything to get the Mac to go over three years, and it wasn’t going. And it was, “We have to try something different. We’ve tried everything on the Mac. No one wants to move off Windows PCs. What are we going to do differently?” And so this looked like the first thing that could happen, MP3s were taking off, all the MP3 players at the time were just horrible. And iTunes, at the time after Apple bought iTunes, with Jeff Robbin, basically started gaining traction. And Macs were just starting to sell as multimedia machines. You could do your music on them. And he was like, “Okay, now if we get an iPod, maybe it will cause more people to want to,” because it’s differentiated. It’s not just burning CDs or something. People will buy more Macs because this iPod will allow them to do something that nobody else can do, especially definitely not on the PC side. So we were under threat. Michael Dell said to the world, “Apple should pack up and go home. Give all the money left over to the shareholders and stop.”
+
+So that’s the situation it was, and he didn’t want that to happen. So he was looking for anything that could possibly break out. And he’s a lover of music. We were all lovers of music, or are lovers of music. And so I think he made that bet, and it wasn’t too expensive to go off and do.
+
+Tim Ferriss: Yeah. What is the timing for, just as one piece of it, iTunes within Apple when it’s first being prototyped and developed inside of Apple? What would have the timing been on that in terms of year? Was that 2000, 2001?
+
+Tony Fadell: Yeah. So iTunes, I believe, was bought in late 2000. No, no, early to middle of 2000 it was bought. And then it was quickly rejiggered to be an Apple product, to be iTunes, and then they started seeing it taking off and they wanted it to work with MP3 players. And that’s when Apple said, “Oh, we need a device.” And that’s when I got the call and everything came together. So it was early 2000, and then we had the discussion about the iPod. I was brought in in late January 2001, and then Steve signed off on it in the third or fourth week of March of 2001, and then we shipped it in the first week of November that year, in 2001. So it was that fast, built the whole team, built the whole thing. It was a crazy, crazy, crazy schedule.
+
+Tim Ferriss: So just as a small world story of sorts, so 2000 I had just moved to Silicon Valley. And I was working in San Jose, living in Mountain View, and I had this tiny, tiny, tiny bedroom, which cost like $5 million a month in rent. I was driving my mom’s hand-me-down, piece of shit minivan. This thing was a disaster. And in my apartment complex there’s this guy sort of across the way. There’s this little concrete pond, it was really pretty hilarious, but perfectly comfortable place.
+
+And this guy, I don’t want to get anybody in trouble so I won’t mention where he’s from, but he would always be smoking late at night. And I was a night owl so I’d be up at like 2:00, 3:00 in the morning working on this first company and be like, “Hey, how’s it going?” And we’d talk for a few minutes, and it was sort of our nightly chat. And I saw this guy, he worked at Apple, and he got progressively more and more haggard-looking. And it turned out, at the time he didn’t give me any name or anything, but he’s like, “Look, I can’t even make sense of this any more. Can you come over here and give me your thoughts on this interface? Because I’ve just been looking at it for like 20 hours straight.”
+
+And it was, I later realized, a very early mockup of iTunes. And it is so wild to look back. But this guy, he was working so hard, he was a good employee. He probably, I’m sure, wasn’t supposed to show me, but he needed a second opinion. And it’s just reflecting back on what that has become. Does it still hit you? Your TED Talk is wonderful, it talks a lot about habituation, but when you see people walking around with one of these devices, an iPhone or some of these products, Nest, that you’ve been so critically involved with, does it ever still just stop you? Or are these these things so ubiquitous that it’s become invisible to you?
+
+Tony Fadell: Well, when it becomes everywhere it becomes mundane, basically. Just like whatever. And then you look back and go, “Oh yeah, I forgot I was involved in it,” because you’re just using it every day. So to me, in our business, whatever you did was ancient history. It’s always about what you’re doing or what you’re planning to do. So as we said on the team, we’d only celebrate for a nanosecond and move on. And if you look at iPod, we were fighting for our life with every generation. iPod wasn’t a success until its third generation.
+
+So the first one was cool, and then nobody bought it. Second one, cool for a little while, then a few more people bought it. The third one is when it started happening. And then when iPhone happened, we had lots of success underneath our wings at that point. But then it was like we’re taking on these monster companies just like we took on Sony. It’s like, “Yeah, and this is really hard, can we do this?” And we did it. But we’re like, “But that’s not enough. We’ve got to do the next one and the next one.” And so it’s a breathless journey that you have. And then finally when you’re there you’re like, “Oh yeah, we did all that.” And then you go and try to write down the history, and “Wow, we sure did a shit ton of stuff.”
+
+But after having that General Magic experience and 10 years of failure for me in the Valley, it was always a hope we would be successful but never a “it’s going to be.” Because I had already went through that, and I went through that physical and emotional pain. So I never got to that point where “Yes, and oh, my God, we are the champions.” That left my body. It was always about climbing the next part of that hill or that mountain to then ultimately get to making something that’s really great. And those things today are still evolving, and it’s great to see.
+
+Tim Ferriss: We’re going to talk about a lot of your post-Apple experiences, but before we get there, you mentioned early in the conversation that you learned a lot from Steve. What are some of the things that you learned from Steve or picked up from Steve? Anything at all.
+
+Tony Fadell: The biggest one was storytelling, storytelling, storytelling. Always, whatever you’re doing, have great stories and great analogies. Because you need to relate to people on their level. And if you can, give them great analogies. So whether it’s a product story or software story, but even if you try to change the way you’re doing a process at work, or who are the right vendors we should be working with, you need a great story behind that so you can get people on board and understand facts through a fun way of learning about the facts, if you know what I mean. “We went through this and here’s the step one of our journey, step two of our journey, this is what we learned, and now we’re at this decision today. Here are the things that we want to make sure we avoid from the past, but we need these things in the future. It’s going to be risky.” But telling those stories, and if you can, find the analogies by which everyone can relate. And it makes it really just drop-dead simple.
+
+Tim Ferriss: Do you have any examples of analogies, whether from Steve or from your own journey later, that that you could use to illustrate?
+
+Tony Fadell: Sure. Steve had this perfect one he did with Walt Mossberg on stage, which was like, the Mac was like bringing a glass of ice water to somebody in Hell.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: You’re like, “Oh, yeah, of course.” You’re like, “Oh, it’s so refreshing. I need this. I’ve been dying for so long. You’ve now saved my life in a way.” And so that was one, just a classic example of that. But we try to do that all the time in our marketing. When we were at Nest in our marketing, we tried to do that at iPod, iPhone. But sometimes you don’t even need an analogy, though, if you can really get it crisp. And that was the first tagline for the iPod, which was “1,000 songs in your pocket.” It is probably the shortest, most concise, most dramatic tagline of any product ever in existence. And when you hear that, we always use that, we hold that up as the measuring stick for everything we do after that.
+
+Like, “How do we get to that point with our marketing?” Or, “How do we get to that point with whatever we’re trying to say?” To get it so crisp, so understandable for everyone that it’s like, “Oh my God, duh.”
+
+Tim Ferriss: Yeah, and it’s such a beautiful, elegant example of the benefits versus features, right? Instead of what you saw a lot at the time, which was the specs, the megabytes, or the—
+
+Tony Fadell: Feeds and speeds.
+
+Tim Ferriss: The feeds and speeds, exactly. And man, it’s also the type of tagline that hits that sweet spot of perfectly understandable and shareable, which it really did just thread that needle perfectly. After Apple—
+
+Tony Fadell: One other thing about analogies. One other thing on analogies is, if you can have a great analogy for someone, they will continue to repeat that to everyone else. So even if they didn’t get all the details and everything else and they can’t articulate exactly the story or all the hows, whys, and whats, they can tell the analogy. And everyone goes, “Oh, now I get it.”
+
+Tim Ferriss: Yeah, totally.
+
+Tony Fadell: For the most part. And so that’s another thing, is trying to give the people, your listeners or the people you’re trying to persuade, a superpower. Give them that key line to make them feel like they really know what’s going on, and then they can reiterate and then “Yes, I’m in the know and it’s cool.”
+
+Tim Ferriss: Totally. And that single analogy or that single line, that one memorable phrase, at least in my experience, also often acts as an anchor for other pieces of information. But they need that first anchor in order to access that chain of recall that gives them the other details.
+
+Tony Fadell: Exactly. Because they go, “Oh, now I’m listening. I get it. Now I’m listening.”
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: “Tell me more.” Yeah, you’re right. You’re right.
+
+Tim Ferriss: Now in all the videos that I’ve watched of you, and certainly just having this conversation, you seem like a guy who’s very comfortable at high RPMs. And I read, and certainly you can’t believe everything you read on the internet, so feel free to fact-check. But I read that upon leaving Apple, your goal was to “get bored.” And they put it in quotation marks, this is from The Guardian, and then “He traveled around the world with his young family for a year and a half, put his children in French preschool,” etc. Was the goal to get bored? And if so, could you explain what that means?
+
+Tony Fadell: So getting bored, and a lot of people who come to me for career advice, so people who worked for me, worked with me, whatever, they come and say, “Tony, I’m thinking about doing the next thing.” And you get at a point in your career where you have the ability to take time to make decisions. Most people very early on in their career, you have to eat, you have to jump from lily pad to lily pad, and you have to make sure it’s going to be solid, stable, and everything else because you’re worried about it. Worried about your life or perhaps your family. You get to a certain point in your career where you can actually take a pause. You can breathe, and you can think again, and you can get inspired. So when I say get bored, which is get out of the process you’re in, the day-to-day grind and—just saying, “Okay, I’ve taken as much information as I can in this week or these two weeks of figuring out where I’m jumping to. I’m just going to jump to it. Damn the torpedoes. It’s just going to—I’ll make it work,” kind of a thing.
+
+So what I say to people is, “No.” They’re like, “Oh, I have this great position now and title. If I stop now and I don’t take a job over there, I’m going to lose it all. I’m going to have to start from zero again.” I’m like, “No, you don’t.” What you need to do is if you do your career a lot, if you do your career right, between every eight to 10 years, you’re going to have a different chapter of your life, of your career if you want to do anything substantial. It’s probably between eight and 10 years. Some people think it’s four to five. I don’t think that if you’re doing something that’s really important and different.
+
+So when those pauses come up or when those big transitions happen, you need to think very clearly because you are about to get married for 10 years or eight years to something else that you’re going to put your heart and soul into if you’re choosing correctly. Right? It’s not about the money. It’s about the mission and what you want to learn and what you want to challenge yourself with and deliver to the world and whatever that is. So you should take the time out, get bored, get out of the rat race, get out of that. I got a sliver of time to think about the future. I’ve made my future as today, two weeks, two months maybe. After that, it’s a blur. It’s maybe holidays. But other than that, it’s like, “Okay, I don’t even know what’s out there.”
+
+Get the time to get bored. Spend three, six months if you can, or at least two or three weeks outside of that. Get bored. Just put away all of your things. Maybe go clean up the garage or whatever it is. Right? Through that, you’re going to start to think differently. You’re going to act slightly differently and your mind might open up to other sources of inspiration, other problems, other things where you start to go, “Oh, now I see differently.” I’m not just going to go run to the competitor because I understand the space and run to the competitor and go work for them because they’re going to give me a better job. But I want to go do a whole different thing that I want to learn about that’s going to challenge me so I’m not just checking in every day and doing my work, but I’m actually growing through that.
+
+Tim Ferriss: This is great. I’m going to keep with this theme. Could you give me a personal example from your life of doing this? Whether it’s current day, past, anything that comes to mind that you think makes for a good illustration?
+
+Tony Fadell: Well, you brought it up already, which was the time that we went around the world for a year and a half and traveled. Okay? The whole goal there was to get out of the same place, at that point, I had been for, let’s see, 18 years, 19 years with Silicon Valley. Was to get out, see the world with our kids, who are one and two at the time. We didn’t see them very much because my wife also worked for Steve. Right? My wife worked for Steve. I worked for Steve. So we were busy, busy, busy helping Apple.
+
+So when we had kids, we came home one day and we weren’t with them. We learned that we weren’t with them. They were running to the nanny when they had a problem instead of us because they didn’t know who we were. So we were like, “This is not working.” So we said, “We’re going to change everything and go out and understand other things in life and try to be with our family.” Through that, we went to many different countries and lived in different houses. Lived in Spain, in France, in Hawaii and different parts of California. Anyways, moved all around.
+
+Through that journey and going to different art museums and talking to people, living in different houses, that’s where the idea for Nest came up. Literally we were living in all these homes around the world with all the same problems. So you’re living in Spain and you’re living in France. You’re living in Hawaii. Then you’re living here. You’re like, “Wait a second. They all have the same fundamental problems with their home controls and things.” At the very same time, I was designing a house remotely in Lake Tahoe. So between Lake Tahoe designing, that was a great way to distraction. Right? It was something I always wanted to do, so I was working on that and then living in these different places and experiencing the same problems in that design here and understanding that I saw different ways of living all around.
+
+I was like, “Wait a second. I think we can fix this problem.” Step-by-step, then Nest was created over kind of a nine-month gestation of thinking, reading, learning, experiencing to then come up with that solution that, if I was still in Silicon Valley, I would have never came up with.
+
+Tim Ferriss: Where are you now?
+
+Tony Fadell: Right now I’m in Paris.
+
+Tim Ferriss: In Paris. Where do you spend most of your time these days? I suppose along with that, why Paris?
+
+Tony Fadell: So Paris happened during that trip, that year and a half travel. Paris was only supposed to be a two week kind of quick adult—we’re going to come here, be in Paris. It’s going to be a great parents experience, but the kids, not so much. We got here and then we started looking around and really living in those two weeks, just going to the various jardins and things of that nature. We were like, “Wait a second. This is great for kids, especially in their age. I was like, “Oh, this is wonderful.” My wife’s like, “This is great. Let’s just stay.” Because we had that ability, we just stayed. We just continued to stay in Paris. Then through that, we met all kinds of very interesting people, learned about the culture, learned about the language, and just fell more and more in love.
+
+I was going to various museums and learning about those artists and learning about their periods in time. So like, “Oh. Picasso had his Blue period and his next period and his next period. Each time, they take these breaks.” I was like, “Oh, wait a second. We’re on those breaks getting inspiration just like they did.” It was like, “This is cool.” So Paris just became part of us. Then the other piece of the puzzle was we’re like, “Well, wait a second. We can go back to Silicon Valley, but what are our kids really going to learn?” We’re like, “They could learn a language.” It was always my dream to learn a second language. Growing up in the Midwest, growing up in the US, you don’t really think a second language, at least in the ’70s and ’80s, was important. Today, obviously, it’s more and more important, especially in California and other States, Texas and those things.
+
+But I always wanted to do that. I was like, “Well, we could give that to our kids. They could learn that. They’re going to learn socialization, of course, but they can’t learn math and history and science, but they could learn a language. Let’s do that and let’s give that gift to our kids that I always wish I had.” So that was the Paris connection, and then we kept coming back every summer. Our kids always stayed in French programs and became fluent in French. Then ultimately, we bought here. Then after I got done with Google—Nest—my wife just said, “Hey, we have a place in Paris. Let’s just move.” I’m like, “Let’s do it. Done.” That’s how it all happened.
+
+But since then, since that happened in 2016, yeah, 2016, we’ve also decided to branch out further. Now we spend a lot of time in Southeast Asia and in Paris and we go back and forth and put our kids in school there. Have homeschoolers that help our kids when we’re in different places and those things. Just because, as you’ve said so many times, experiences are incredibly powerful things to learn from. So it’s knocking the parents off the foundation just like the kids are learning for the first time, and we learn as a family unit and we figure out things. When you’re in Indonesia, “What’s the currency? Why do they act this way? Why is it this way? Oh my God, that’s really cool. Why don’t we do that in the developed world? Why do we do—?” All of these different things, it just helped to build, I think, our family and the way our kids see the world.
+
+Tim Ferriss: It’s such an incredible gift that you’re giving, of course yourselves, but your kids as well as an entirely different lens through which to view not just the physical world, but the sort of constructs and concepts and labels and language that make up our realities. It’s really exciting. Makes me excited for them.
+
+Tony Fadell: In some of your episodes, you talk a lot about language. I think you also had that in one of the papers you wrote in school or something about language. When I was listening to some of your pockets, I’m like, “Yes, you’re absolutely right. There’s these containers that’s called language.” When you see how differently they speak in a different language and what words are meaningful and what words they don’t even have in that language, you’re like, “Oh, that shapes the culture in a dramatic way.” That’s the kind of things where it’s like brain food, at least for me, where you’re like, “Oh my God. I’ve never thought of that problem that way before. Oh, it brings such clarity or it brings such resolution to how you see the world in many ways in different respects.” So it’s cool.
+
+Tim Ferriss: So this might seem like a 90-degree turn. I don’t think it is, but I want to bring it up. I was planning on bringing it up anyway. Plastics.
+
+Tony Fadell: Ah, plastics!
+
+Tim Ferriss: Why are you so interested in plastics?
+
+Tony Fadell: Plastics. Well, when you live in Southeast Asia, you start to really understand plastics because they’re all around you on the ground, in the water, even in the air. You see it everywhere. You start saying, “Why do they have this problem? In other parts of the world, we don’t seem to have that problem.” Over the journey of the past year and a half, I’ve come to realize a lot of interesting pieces about plastics. So for me, plastics are a problem that we all have. It just is hidden in many parts of the world from us because there is waste “management.” Management in quotes. It’s taken away and we don’t see it any longer, but it is still an incredible problem. It’s in some ways a blessing that there is not waste management in many of these places so you can see the damage we’re doing to the environment firsthand.
+
+It’s not just about gathering it up and it’s not just about recycling, which everyone tells you about. It’s really a problem with our usage and the material itself and how we use it and how we design with it that we are burying our future generations in this toxic mess. We talk about CO2 all the time. We talk about coal plants. We talk about climate change. We have all kinds of things behind climate change that are going to be problems for future generations that we also have to pay attention to. In some cases, some of these other things, just like plastics, is actually contributing to our climate change issue as much as it’s environmental damage for 500 years. So being in Indonesia, you really feel it viscerally and you’re just like, where there’s a big problem, this is what I love. This is when my brain turns on. I’m like, “This is a big problem. How can we solve it?”
+
+This is not a societal problem. This is truly a design problem. We designed this mess. We’ve got to design ourselves out of it just like we have to do with climate change. It hit me so hard that I’m like, “Okay. How are we going to design our way out of it?” So I spent the last year and a half learning about it.
+
+Tim Ferriss: Okay. Yeah. Not, it’s a great… I want to pursue that… 
+
+Tony Fadell: Sure.
+
+Tim Ferriss: So I want to talk about possible solutions or directions for solutions, but before we get there, because I’m so interested in how your mind approaches something like this, how do you begin to dissect a problem that could have such a broad umbrella? Right? There’s so many possible directions to go in. How do you even begin as someone who knows how to build from a design perspective or other perspectives? How do you begin to deconstruct that?
+
+Tony Fadell: Well, I’m going to just go back through the plastics thing. I’m not a plastics expert by any means, or at least I wasn’t. I’m trying to get there. Even though the products that I helped to create had plastics in them, I really didn’t know a lot about the end of life of plastics and that stuff. So I was like, “Okay. There’s all this waste everywhere in Indonesia. Well, why don’t we just do what we do in the US? We’ll just recycle it. Right? We’ll just make sure there’s good collection.” Then you kind of dig in and you start learning about that and you go—so you try to just model saying, “Oh, we’re just going to fix it by doing what we do there.” Then you start asking more questions like, “So where does that go exactly?”
+
+So you just kind of dig deeper and you just dig deeper and you just keep saying—I always say you can usually get to a great answer or a really great question by asking why about five times. Why this? Why that? Why this? So literally, the process for me about plastics was why, why, why, why? You never just took anybody at face value for the answer. You just kept digging. So for me, it’s been all research. Then I got to the point where I was like, “Wait a second. All logic does not apply here. Wait a second. Someone’s selling us a story about how plastics are really treated at the end of life. That’s not what happens. What really happens?”
+
+You keep diving deeper and deeper. So for me, it’s really about that. You start to apply things and just never give up till you find the real root cause and then unwind. Right? Don’t just try to patch. That’s how I got to—I’m still asking a lot of whys, but I got to a really—I think a good point at least on some pieces of the plastic issue that we have.
+
+Tim Ferriss: Can you talk about where you are now in your thinking?
+
+Tony Fadell: Sure. Absolutely. So you first started with collection waste management. Let’s just collect it all and make sure it just doesn’t get there, and then we’ll recycle it. So what I’m mostly talking about now is there’s two types of plastics. There’s plastics that are durable things. Things like your car bumpers, and they last for five or 10 years. They serve a purpose and the material is really good for that. Okay? Then there’s another purpose which is we call ephemeral, or single-use, or very low-use plastics, where we’re using this product once or a couple of times and then we discard it. Okay?
+
+So there are still a lot of things that need to be done on the durable side. It’s not perfect by any means. But if you look at what’s growing exponentially is packaging and single-use and these ephemeral applications that are going wild. In fact, many of the petrochemical companies, like the petroleum companies, they’re actually not worried about electric vehicles taking away all the gas because they see these petrochemicals, all these plastics, and these things consuming oil over time. So you’re like, “Wait a second. The petrochemical guys aren’t scared because we’re using so much plastic in packaging and it’s growing crazy. So let’s talk about that.”
+
+So is it really recycling? So I’m talking about packaging and recycling. Okay? So I dig deeper. I started recycling at University of Michigan back in the ’80s. So when you start to learn about it, you find out that just because it has the recyclable label on it, it’s not recycled. It’s literally buried or burned, setting off toxic gases. Literally it’s buried or burned or it ends up in the environment like we see as litter or in the oceans. You’re like, “Wait a second. Just because it has a recycling label doesn’t mean it’s recycled. Very, very few of them are actually recycled.” You’re like, “Okay, this is a problem.” It’s growing exponentially. Even the best countries in the world with all these resources cannot afford to recycle because it doesn’t make any economic sense.
+
+So I go, “Wait a second. So what happens to all this stuff once it’s burned or buried?” Then you find out it turns into micro and nanoplastics that remain in the environment for 500 years. Then you learn it’s in everything we drink. It’s in the air we breathe. It’s in the soil. It’s in the water. It’s in snow. It’s falling down as rain or snow on the polar caps. You’re like, “Wait a second. This plastic is everywhere. It’s going to be everywhere for 500 years.” It’s these tiny nanoplastics. Just cause it goes away, it’s still there. You’re like, “Well, what does that do?” It goes into our body.
+
+Typically, those nanoplastics pick up bioaccumulative toxins. Those toxins literally latch onto it. Then they go into our bodies and then they go into our bloodstreams. So we have very, very early research. It isn’t published yet, but I’ve talked to a lot of researchers that when those nanoplastics get into us, it’s like asbestos and it causes inflammation in the body and the body attacks it. It could cause all kinds of things. We still have to do the correlation. So people are like, “Oh, yeah, it’s nanoplastics. Don’t worry about it. It’s in your water, but it’s small parts per million.”
+
+But look, I think it’s just a lot of people telling us, “These things don’t matter,” just like they said, “Cigarettes don’t matter.” or “Sugar doesn’t matter.” It matters and it’s in us and it’s in our environment and we’re polluting for generations. Okay. So now we have this nanoplastics problem. It’s going to be there for 500 years. Packaging’s going crazy. It can’t be recycled. So what do we do? So we have to come up with new materials and new designs for all this packaging to allow us to live like they do in—this is the great thing in Southeast Asia. When you order something, or you get takeout or you get anything, it comes on a banana leaf. Or it’s wrapped in a banana leaf. You’re like, “Oh, cool.”
+
+You take the banana leaf and you can just chuck it. You should obviously put it in a compost, but if you don’t and it just ends up on the street, it goes away in 30, 45, 100 days. So we need to get to that type of packaging. So guess what? There are packages like that out there that are cost effective from different materials. Some of it is called PHA. There’s other ones out there that can come from waste product by a waste to create this. Whether it’s a film, a bottle cap, a bottle, these different things that can then be consumer compostable. So literally, you can just drop it—if you litter it, it goes away. If you put it in the ocean, it goes away in 45, 120 days. No nanoplastics, no microplastics. It just goes away.
+
+That is the Holy Grail. There are companies that are doing that today and we’re trying to find them and help them and try to get people to design with them. That’s what we need to do. In the meantime, we need to stop all this single-use stuff. We need to literally ban it because we are creating a huge mess on this planet and we just don’t realize it.
+
+Tim Ferriss: Thank you for that description. That was great.
+
+Tony Fadell: I want to add one more thing.
+
+Tim Ferriss: You can have three if you’d like.
+
+Tony Fadell: So recycling, just because it’s recyclable doesn’t mean it’s recycled. Okay? So don’t trust your recycling labels. If you do recycle, you should still recycle, but for the most part, it’s probably not going anywhere to be reused. Recycled plastics, even if they are recycled, are only good for two to three uses and then they become bad plastics because they’re mechanically recycled. The long chains of plastic becomes short chains and they can’t make things with them. They become too brittle. So literally, you can only recycle them a few times, unlike aluminum and glass and paper.
+
+The next thing is that people say, “Oh, if you don’t recycle, you can compost it.” Maybe you saw this boxed water thing, like boxed water. They’re like, “Oh, it’s great. They say that you can recycle it.” You have to go to a special facility in the middle of nowhere. It doesn’t really get recycled. You hear things about compostable things. What that means, it has to go into an industrial composting facility and it needs to get a special heat treatment and air treatment and all this stuff to be able to break down. That doesn’t work either. So we have been greenwashing: recycling, compostable, all of these different languages used to say plastics are green or they’re bio-based, wrong, wrong, wrong. The only thing that really matters now is biowaste-based plastics that are consumer-compostable. That’s the only thing that we should be selecting. If we can’t select that, pick a different material. Do not use plastics.
+
+Okay? I know that was a diatribe. It’s long-winded but I’m trying to get that message out to people. Really important.
+
+Tim Ferriss: That’s why we have long-form conversations, so we can unpack some of this stuff so to speak. You mentioned finding companies, helping companies. Is that done through Future Shape or is that done through different vehicle? For people who don’t know Future Shape, could you describe what it is?
+
+Tony Fadell: So Future Shape. Future Shape is an investment vehicle from our family to find great entrepreneurs and companies trying to do really hard developments. Create deep technologies to help fix our planet, fix our societies, fix our communities, and get us forward in a green way, in some way green. Or to enable small and medium-size business owners to then be able to flourish and get from out from underneath the system in some way that they’ve been subject to for a long time. So we try to find these things. We go and we don’t call ourselves venture capitalists. We don’t call ourselves angels. We call ourselves mentors with money. We are mentors first. We come and we put our money where our mouth is to help these entrepreneurs, to help these companies to realize these goals, these dreams, these technologies to help our world.
+
+They take time to build. Right? They take time, effort, and belief in what’s going on. So that’s what we do. We’ve invested in over 200 companies around the world. We mentor them at certain parts of their life cycle and just try to be that team that can help them with the confidence when they’re down, when they’re doing the right thing. Or help them find whatever resources they need. Or help them when they’re trying to learn leadership. How to do leadership or find the right person or do the hiring. All those kinds of real things that if you haven’t done them a long time for many years, you may not feel confident about. So it’s that nudge to help them. Maybe we act like big brother or big sister sometimes.
+
+Tim Ferriss: Is Future Shape where you’re putting most of your energy these days? Or what are you personally spending most of your energy on?
+
+Tony Fadell: So Future Shape has been going now for about eight years, maybe 10 depending on how you count. I spent almost all of my time on Future Shape and my team, our team together, we all work on these companies. Because what we’ve learned over time is we could do one thing and start another company, but how do we take all of the experience, the knowledge, the resources that we can bring to bear anywhere in the world and help these other 200 companies to thrive and really make the change that they want to make in this world? So we wanted to use leverage model. So we’re really trying to leverage it. For us, it’s incredibly fun. Our curiosity is piqued all the time when they’re going after tough problems and we get to dive in and get to be beginners with them in a way or get to learn from them. Then we get to take our expertise and then combine it with their expertise.
+
+So it’s incredibly rewarding. If people didn’t mentor me when I was growing up and going through the thing, I would never be here today. So at some point, I looked around and go, “Wait a second. I guess that’s me now. It’s time to try to live up to what the mentors taught me.” Try to live to that ideal and pass the baton now and instill this art, this craft with these other people that we try to help because it’s really important that we try to pass this stuff down to try to make it better for other generations.
+
+Tim Ferriss: Well, I think that’s important work. You mentioned being beginners. That’s something that came up in your TED talk within the context of Steve and looking at things with beginner’s eyes. Are there any particular skills that you’re currently focused on personally or new behaviors? Either ending or starting behaviors within the personal realm. Or I should say individual, probably a better way to put it. Is there anything that you’re currently working on?
+
+Tony Fadell: Well, I think from a beginner’s standpoint, in many ways, I’m in the plastics. Right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: Right. I’m this little guy calling up researchers, saying, “Can you help me?” I’m trying to get this, why does it work this way and reading research papers and really going back to school and being an undergrad in a way and learning hopefully from the best.
+
+I try to put myself in a position where I’m incredibly curious and I have analytical skills to understand maybe what they’re doing, but I don’t really have the data to really understand it to that level. And so for me, I’m always trying to put myself in an uncomfortable position to make big decisions like, should we invest, should we do whatever? Because that kind of tension makes things I think really, really fun and really exciting for me.
+
+I call it brain food. I try to do that every day with the companies. We helped to invest in Impossible Foods. I didn’t know anything about food science, know anything about that, so go learn about that. Or we’re doing Modern Meadow, which is leather without a cow, right? How do you grow skin without an organism, without a larger organism? What does that mean? How, what?
+
+All of these things are just putting yourself in that point where you’re like, “I’ve got to learn this thing and I’ve got to try to be successful and keep up with these experts in the field.” And so every day is like that—or at least I hope it is.
+
+Tim Ferriss: So for people who are listening or watching, by any objective measure, I mean certainly people would consider you successful. And what I like to do in these conversations—and fortunately in your bio, it’s very clear that it wasn’t a linear path from bottom left to top right; I mean, you followed a very jagged path in a sense. What do you struggle with? What are things that you struggle with that you find difficult?
+
+Tony Fadell: Difficult for me?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: Difficult for me, I think is just heavy duty analytics, just anything that’s very analytical. I just, I’ve got to feel it. I’ve got to see, I’ve got to feel it. I can’t just sit there and stare at numbers. Another thing that’s really hard for me is any kind of long-form writing, any kind of just—oh no, I can’t. That’s really hard. Yeah, I struggle with impatience. These things take longer than you’d like. And you can see it, you can feel it, you can grasp it, but yet you’ve got to go, “No, I can’t, no, no. Come on. Let’s just get there!” And you’re like, “Oh, okay.” And you’ve just got to be in the passenger seat, waiting for things to happen.
+
+And so I try to augment, obviously the things I don’t like to do with people who like to do that. Mike, on our team is an amazing legal guide and this is what he loves to do. And so I’ll be like, “Mike, just go do it.” That’s not my thing.
+
+So we make sure we do that. But then when it comes to the real emotional stuff, I was like, “I want the future to be here now.” That I struggle with all the time. I just don’t want to wait. Why should we should we wait? Especially when we know now is the time, you know what I mean?
+
+With General Magic, it wasn’t the time. It was way too early and all that stuff, but when you see it, when you can see it perfectly, you see the moment, you’re like, “Let’s go, we’ve got to get this done, take the hill! Come on!”
+
+That’s the most frustrating thing. There’s always science fiction and future stuff, but when you see it and you can feel it, yes. Go for it. Let’s get it done.
+
+Tim Ferriss: Let’s dig into impatience a bit because impatience has been, I would like to think, and maybe this is delusional, but one of my greatest assets and also one my greatest handicaps. How do you, and maybe this isn’t the right question, but how do you think about your impatience or work on your impatience so that you get the benefits of feeling a sense of urgency and pushing when those pushes are helpful without being just an insufferable pain in the ass who leaves scorched earth everywhere?
+
+Because I’ve certainly been the latter at points, where people are just like, “God dammit, Tim, shit doesn’t happen that fast and you’re pissing everybody off.” How have you thought about finding the middle path with that, if there is one?
+
+Tony Fadell: I struggle with it every day. There’s times when you’re working on things and working with people when you know you been there and it should go faster.
+
+Tim Ferriss: Right.
+
+Tony Fadell: Like, “Okay, why aren’t we doing blah faster?” It’s just like, “Get the stuff out the door.” It’s not like researching and trying to engineer and find the right, correct widget for XYZ. It’s really just the process of getting it done. It’s like, “Come on guys, I understand you don’t want to—this is a big risk and you’re tentative about it, but we’ve just got to move on.” Right? You don’t want to have this analysis paralysis, right? So you’ve got to bucket it. You got to say, “Okay, this is just their mental state. Okay. We’ve got to coax them through it and help them or help myself to get through that phase and educate and then we’ve got to get faster.” Then there’s the other phase, which is, it’s the process of discovery, the process of getting to insight, those kinds of things.
+
+And yeah, those always take longer. And then there’s another one, which is out of control is, working with other external teams that you can’t really push. Right? And you just have to grin and bear and you keep reassessing the partnership. What should we be doing with them and all those things and communicating them in a very positive, but very direct way. Like, “Let me tell you what we’re grappling with now; it isn’t all rosy and these are the kind of decisions we have to make because you are delaying or this is happening or this is what’s happening in our business.” Those kinds of things.
+
+And you have to be really upfront. Just like I was talking about the two managers or the two people who had to get along and figure it out. We’ve got to be upfront and honest about our partnership and how it’s not working and going, “What are we going to do to get over it?” Right?
+
+And so I think it’s those types of bidding. And then also just taking a step back and you tense up your neck like, ah, and you just go, “Breathe,” make sure I get my yoga done, make sure I do what have you to say, “Oh, okay,” just to try to calm down in certain instances.
+
+Tim Ferriss: My next question was going to be related to self-care. So the yoga is a perfect segue. So what are some of your self-care practices, whether on a daily or weekly basis?
+
+Tony Fadell: Well, the diet is the first one. The diet is the most important, right? So that’s that.
+
+Tim Ferriss: And what is your diet?
+
+Tony Fadell: Well, it’s well vegetarian, without caffeine, without alcohol. And it’s the hardest thing in the world is refined sugars, right? Trying to just stave off that beast is just—I like it too much. It just is what it is. You try to do what you can to minimize that as much as that. So that’s that eating healthy, eating whole foods, that kind of stuff.
+
+Then there’s exercise, so exercising at least an hour a day, six days, maybe seven days a week, right. Maybe two hours or three hours or breaking it up with a hike and this or whatever. But always exercising. I’ve been doing yoga I think 25 years now. That was also part of my reboot, yoga for 25 years. I hope it will be the only exercise I will be doing when I’m 75 or older because I think it’s the right balance of mental and strength and toning and those kinds of things.
+
+Tim Ferriss: Do you practice a particular type of yoga? What are the characteristics of your yoga?
+
+Tony Fadell: I’ll do, basically, I have to do something. Whether it’s Hatha, Ashtanga, Bikram, you name it. I’m not religious in that way because I always think there’s more things to learn about and do, try different things, and work with different instructors and that stuff. Then there’s weight training, right? Weight training and stretching, which I should be doing more and more stretching, not doing enough, but weight training for sure.
+
+I love to run. This is my best way of exploring a new city is whenever I go to a city, four, five or six in the morning, getting up, putting on the shoes and just running and just seeing what the city’s really like. Biking, so road biking for long distances or even short distances, altitude as well. Skiing, so doing that, hiking. So those kinds of basic sports is what I—I call it Tony time. I don’t have any music with me. I won’t have music with me. It’s my time. It’s almost moving meditation for me, right? It’s not just sitting there, but it’s moving meditation. So things start coming in my brain and start flowing over it. And all of a sudden, problems that had gone unresolved for days, all of a sudden seem to like [vanishing sound], because I’m not ruminating over them anymore. All of a sudden the answers come to you, which is great.
+
+So that’s another thing. And then there’s sleep. And on the sleep side, I think you’ve talked about it as well. but I have this device called the OOLER, which is I think the next generation chiliPAD.
+
+Tim Ferriss: Right. Oh, my God!
+
+Tony Fadell: Oh, my God. Oh, it is a lifesaver. And so now I swear by it, now I buy them as gifts for friends and have them try mine. I’m like, “You got to try this.” But you’ve got to try to get good sleep and that’s also important, as much as possible.
+
+Tim Ferriss: To sort of bookend, we’re not totally done yet, but to bookend something you mentioned in the very beginning, alcohol and sleep, I’ve been astonished looking at heart rate variability and resting heart rate and so on, which I’ve tracked with different devices—Oura Ring and a number of others—two drinks or more and my sleep is garbage. It is such a binary change in sleep quality.
+
+Tony Fadell: What time in the early morning does it happen to you?
+
+Tim Ferriss: I’ve looked at this spike, there are a number of different spikes. I have to go back and look at the data. I think they’re also making some algorithm changes with Aura specifically. And I was using a number of sleep devices concurrently because I wanted to compare data.
+
+Tony Fadell: Mm-hmm (affirmative).
+
+Tim Ferriss: And try to correlate a few different things, so I don’t remember the exact time. Do you recall when?
+
+Tony Fadell: Yeah, it was around, well, depending on when you went to sleep and when you had your last drink. But it was always seeming to be about four to four and a half hours after that last drink and you went to sleep when, at least for me, my heart would race.
+
+Tim Ferriss: Yep.
+
+Tony Fadell: And then you would wake up and then because you’re just a type-A personality, you start thinking and you can’t go back to sleep and you’re sweating and then you have a horrible night’s sleep.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: But that was it for me.
+
+Tim Ferriss: So you mentioned that you buy the OOLER as gifts for friends. Are there any other devices or books that you regularly gift to other people?
+
+Tony Fadell: I regularly gift the book called In Praise of Shadows.
+
+Tim Ferriss: Oh man, you’re the first person! Yes, I know this book. Such a very, very, very small book.
+
+Tony Fadell: It’s like 80 pages.
+
+Tim Ferriss: Yep.
+
+Tony Fadell: But it is an insight, when we talk about staying beginner and looking at details and seeing it through other people’s eyes, when you read that little book, again, you don’t want these big tomes. You give your friends something and they’re like, “Oh, this feels like an obligation.” But they go, “Oh it’s so small. Okay, I’ll read that.”
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: And they can do it in an hour. And then they go, [gasp of enlightenment]. You could explain the book if you want. Go for it.
+
+Tim Ferriss: Well no, no, no. I want to know, I mean I can give some examples from the book. There’s one that especially stuck with me, but why is, what’s more interesting to me because I get bored hearing myself talk, why do you find this book interesting?
+
+Tony Fadell: I find it absolutely fascinating because I only grew up, so the book is all about Japan before pre-industrial era. And how they lived at home and how they lived when Western technology entered the home afterwards. And he was comparing his life before and after. And I was never able to do that because I only lived in this world, in this post-industrial world.
+
+And so he was explaining things like, “We had wooden spoons before metal spoons,” and “We had wooden bowls before we had porcelain bowls,” and just the sound of the spoon hitting the bowl when it was wood on wood versus metal on porcelain and how that would be grating to your ear and how soothing it was when it was wood on wood. Or artificial light versus natural light and diffuse light and how your eyes and how your mental state would be very different under these two conditions.
+
+It was literally comparing this pre-industrial and post-industrial life through an incredible writer who could encapsulate it and you start to go, “Wait a second, I never considered those details in my life to this level.” And you’re like, that’s about staying beginner, right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: It’s like, “Oh my God, I’ve never even thought about that and this makes me rethink so many things that I never thought of.” And it takes you a whole ‘nother world.
+
+Tim Ferriss: Yeah, the piece of it that stuck with me most concretely was—because I lived in Japan for a year in high school as an exchange student and lived with three families. So I got to see different rooms in the house and different styles of home. And there’s a short portion in In Praise of Shadows where he talks about how gaudy certain types of—you could consider them Chinese-influenced, Japanese, say, bowls and furniture—are, because they’re covered in gold plating or painted to look very bright and gold.
+
+Tony Fadell: Lacquered.
+
+Tim Ferriss: Lacquered, exactly. And one of my gifts to myself for my, after finishing my second book, which is definitely not short and is more of a homework assignment, was a lacquer Japanese saddle actually, which kind of typifies this. And the point in the book was that it looks gaudy because things were lacquered in those types of materials due to dim lighting.
+
+They were intended to be looked at in very dim lighting, and as soon as you put incandescent modern lighting on it, it looks terrible. And I was like, “Wow, I have never even considered the source and strength of lighting.” And then it just totally changes how you look around at different objects, different historical objects, right? You take as a given that the lighting is a constant, but of course it’s not a constant in retrospect.
+
+Tony Fadell: Exactly. And now that we’ve gone to LED and beyond, it’s even more so that kind of brilliant stuff. No, it’s great. I’m glad that we share that love of that book. That’s awesome.
+
+Tim Ferriss: Yeah. This is definitely the first time that this book has ever come up on the podcast. How cool? I’m really glad you brought that up. It’s a weird little book, too. I mean, it is a strange, strange book.
+
+Tony Fadell: Especially for that author.
+
+Tim Ferriss: Oh, yeah.
+
+Tony Fadell: Wrote all kinds of novels and everything. It was just like a little weekend project it seemed, for him.
+
+Tim Ferriss: Do you have any other books that you recommend often or have re-read yourself?
+
+Tony Fadell: So yeah. I think, I always go back to it because it makes me think about the ideas in the book, but also it makes me think about my life, which is Thinking, Fast and Slow, by Daniel Kahneman. Nobel Laureate, amazing, amazing guy. And when you read that, you really get to understand how your brain works and then you also, if you can relate it to yourself and how you make decisions. And a lot of it is about suppressing the emotional part of your body about your decision making for the more logical, rational, part.
+
+And then I also go, “Well, that’s good for some decisions, but not all decisions.” Because he really is advocating for getting rid of the emotional system. And I’m like, I like it the book because I can really choose which one I want to use, because sometimes there’s fact-based decisions and other times there are opinion-based decisions, which are emotional-based decisions. And you have to really understand which type of decision you’re making for that given point in time.
+
+Tim Ferriss: Thinking, Fast and Slow. I was, believe it or not, a subject as an undergrad in some of Danny Kahneman’s experiments, We got paid whatever, $4 an hour to press space bars for various experiments.
+
+On that thinking fast, thinking slow separation, if we look at the emotion-based decisions, whether that’s, I don’t want to say impulsive, but very quick decisions that are made with a few million years of evolutionary input, like pre-pro/con list.
+
+Tony Fadell: Whether to retweet something very quickly without reading it.
+
+Tim Ferriss: Yeah. Right, right! But are there any examples that come to mind from your life where you’ve made very, very good snap decisions, where if you had tried to analyze it, you would have made the wrong decision?
+
+Tony Fadell: Yeah. Yeah. Well, one of the best decisions I ever made in my life was to ask my wife to marry me, and I didn’t know literally 15 minutes, 10 minutes before I was going to do it, that I did it.
+
+Tim Ferriss: Wow.
+
+Tony Fadell: I didn’t even know. I had no clue. It was an amazing weekend. That was after 11 weeks of dating, and then literally it was in a span of 15 minutes or 10 minutes from the time I said I’m going to do it, until I did it. I wasn’t prepared. I didn’t even know that—I wasn’t even prepared for her to say no.
+
+Tim Ferriss: Okay. So walk me through this a bit. So what happened? I mean, in the sense that, did it just randomly pop into your head or was there more to it on that day?
+
+Tony Fadell: Well, it was actually a Monday morning of all things, real romantic, right? No, what had happened was, I have some very, very close friends. And they came down, I said, “Oh, I met this wonderful woman.” And they were coming in town, said, “Hey, I would love to get you guys to meet her and I’d love to just see if we can all hang out.”
+
+Because the worst thing that ever happens, I don’t know if you’ve had any friends like this, is you have a girl or guy friend or something and they’re really great friends of yours. And then they meet somebody and they fall in love and then all of a sudden you’re like—and then, you try to meet that person that they love so much and you’re like, “I just don’t click with them.”
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: And it’s like, “Oh, I almost lost a friend! Oh no!” Or whatever.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: You know how that goes.
+
+Tim Ferriss: It’s happened, yeah.
+
+Tony Fadell: Right. It’s happened and it’s heart wrenching. So you just go, “Okay.” I wanted my friends to like—because it was 11 weeks in and we’re having a great time. And I’m like, “Am I in some crazy fog?” And I was older at the time, so I had a lot of—and they saw some of my other relationships. They gave me feedback on them. So I was like, “Okay, so come on over.”
+
+And so we hung out the whole weekend together and we had an amazing time. And so that morning I was driving, I was driving them to—they said goodbye to—Danny is my wife and they said goodbye to her—and then I was going to drive them to the airport.
+
+And all night long it was pouring rain. It was crazy rain and it’s raining all the time until I take him to the thing. And in the car, Sandy and Daniel, my friends, they said, “Oh, my God, she’s amazing. Oh, God, Oh, you guys are so in love. It’s so amazing, head and shoulders over any, any woman you’ve ever dated before,” blah, blah, blah.
+
+I’m like, “Oh, my God. Yeah.” And so I was like, “Yeah, that’s how I feel.” And I was on cloud nine. And so I drop them off and then I turn around to come back because I was going to pick up my wife, we’re going to go to work—or not my wife; my girlfriend at the time. Was going to come and drive to work together with her.
+
+And so I come back and as I’m coming back, the clouds open up, a rainbow opens up and literally this brilliant sky comes into view. And I’m like, “Oh!” And I’m thinking the whole time like, “Well, when’s the right time? How do you know? When do you know it’s the right time, that this is the right person?”
+
+Given my 15 years of dating history at the time or whatever, I’m like, “It’s never felt like this before. No, no, no, no…” and I could work through all the rational arguments and all that stuff. But at some point you’re like, “Screw that.” So I’m driving home and then all of a sudden one of my favorite songs comes on the radio and I’m like, “Oh, my God, this is amazing!” And the rainbow and everything else.
+
+And I drive up. And I had a rosebush in the front of the house, and there are great roses often, but it was raining so hard that night, I looked at the roses and I always clipped one and gave it to her. And so I looked at that and I was like, “That survived the night,” and it was the most beautiful rose I’ve ever seen and all this stuff. And I took off the thorns and I clipped it and I was going to just give it to her.
+
+So I walk in the door and I’m like, and she’s coming down the stairs with a basket of laundry, literally a basket of my laundry. It’s 11 weeks and since she’s coming to my—I’m like, “What’s going on?” And I was going to take her to work. She’s coming down the stairs and I’m looking at it and I go, “Here’s a rose, honey.”
+
+And she said, “Oh, that’s very nice.” And I was like, “Wait, wait, wait. No, no. Give me the basket, give me the rose.” And I got down on one knee, while she’s on the stairs and I said, “Will you marry me?” And it was literally like that, I was blind. I just said, “Will you marry me?” right then.
+
+Tim Ferriss: Wow.
+
+Tony Fadell: That was Monday morning with a rose. I had no ring. I had nothing.
+
+Tim Ferriss: Wow. That’s an incredible story. That is just incredible.
+
+Tony Fadell: That’s the kind of craziness that when you know, you know.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: And the same thing happened in different parts of my life like that, like taking the job at Apple was just like that as well. It’s crazy, crazy.
+
+Tim Ferriss: When you know, you know.
+
+Tony Fadell: When you know.
+
+Tim Ferriss: Amazing. Tony, I want to let you get back to your day, but this has been so fun. I really appreciate you taking the time and I certainly hope it’s not the last time that we get to have a conversation. Perhaps we’ll meet sometime in the future.
+
+Tony Fadell: Sure. Anywhere. I’m in different places of the world. I will be sure to stay in contact and thanks. This has been a lot of fun and we went to all kinds of interesting questions that no one ever asks, so thank you.
+
+Tim Ferriss: Oh, my pleasure. And if people can find Future Shape at futureshapellc.com. Is that the right URL?
+
+Tony Fadell: That’s correct.
+
+Tim Ferriss: Your best social is on Twitter, is that the best place for people—
+
+Tony Fadell: @tfadell, T-F-A-D-E-L-L.
+
+Tim Ferriss: And I’ll link to all of that and everything else that we discussed in the show notes for people so they’ll be able to find you very easily. Is there anything that you’d like to say, recommend, conclude with, suggest, any parting comments or anything at all before we wrap up?
+
+Tony Fadell: I think the biggest thing is that we all go through all of these changes in our lives. We go through failure. If you just are open to learning and you’re open to the failure and pushing hard—I didn’t have the best start; I tried really hard, but I didn’t have the best start—but it can end up happening if you really keep pushing, whether it’s a failure or a success, keep pushing even beyond success and keep staying a beginner, trying to stay humble and trying to work with others, because that’s your superpower at the end of the day.
+
+Tim Ferriss: Yeah, for sure. In your TED Talk, you talk about seeing the invisible problems instead of just the obvious problems. And it strikes me that you’ve done that looking out at the world, but also looking inward at your own subjective experience, as in working with that psychologist to become more aware of your internal processes. And it’s just such an incredible and inspiring story.
+
+And I mean, for the purposes of helping people, I think it’s so wonderful. I’m sure it was difficult at the time that you had so many challenges at various points in the road.
+
+Tony Fadell: Yeah, absolutely. And there’s always challenges and I’m still learning and I’m still growing and all those things. But you’re going to go through them to, everyone’s got to go through them and just embrace them. And just because you see success doesn’t mean they didn’t go through them as well.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: They most likely did. Or if they haven’t, they will at some point. Everyone does.
+
+Tim Ferriss: Oh, for sure. Yeah. Yeah.
+
+Tony Fadell: Keep going. Keep going.
+
+Tim Ferriss: Everyone’s fighting or has fought battles that you know nothing about. Everybody’s got their own stuff. Thank you so much, Tony.
+
+Tony Fadell: Thanks, Tim. Thanks. Have a great day. Looking forward to staying in touch.
+
+Tim Ferriss: Likewise. All right, my man. Take it easy. Bye-bye.
+
+Tony Fadell: Bye-bye.
+
+
+
+TAGS
+TONY FADELL
+	

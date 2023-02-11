@@ -1,0 +1,690 @@
+
+
+JULY 9, 2020 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Janna Levin on Extra Dimensions, Time Travel, and How to Overcome Boots in the Face (#445)
+
+
+
+
+Please enjoy this transcript of my interview with Janna Levin (@jannalevin), the Tow Professor of Physics and Astronomy at Barnard College of Columbia University. Janna has contributed to an understanding of black holes, the cosmology of extra dimensions, and gravitational waves in the shape of spacetime. She is also director of sciences at Pioneer Works, a cultural center dedicated to experimentation, education, and production across disciplines, as well as Pioneer Works’ virtual home, The Broadcast.
+
+Janna’s books include How the Universe Got Its Spots and the novel A Madman Dreams of Turing Machines, which won the PEN/Bingham Prize. In 2012, she was the recipient of a Guggenheim Fellowship, a grant awarded to those “who have demonstrated exceptional capacity for productive scholarship.” Her last book, Black Hole Blues and Other Songs from Outer Space, is the inside story on the discovery of the century: the sound of spacetime ringing from the collision of two black holes over a billion years ago. Her new book, Black Hole Survival Guide, is scheduled for publication near the end of 2020.
+
+Transcripts may contain a few typos. With some episode lasting 2+ hours, it can be difficult to catch minor errors.
+
+
+#445: Janna Levin on Extra Dimensions, Time Travel, and How to Overcome Boots in the Face
+
+
+
+
+Tim Ferriss: I’m clicking, recording on my side. We’ll just take a few seconds of silence. I’ll do the intro. I’ll say Jenna, welcome to the show and then we’ll get after it. So just give me a few seconds of silence and if I fuck it all up, well, I’ll record it again later, so don’t worry.
+
+Janna Levin: Also I have no hard stop. Like, this is now a declared holiday in New York City.
+
+Tim Ferriss: All right. Perfect. Mutual. That is a mutual. Yeah. All right. All right. So just give me a few seconds and we’ll get right after it. Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of the Tim Ferriss Show. I’m thrilled to have today’s guest joining us, Jenna Levin on Twitter and Instagram @JannaLevin. That’s J-A-N-N-A L-E-V-I-N is the Tow Professor of Physics and Astronomy at Barnard College of Columbia University and has contributed to an understanding of black holes, the cosmology of extra dimensions, and gravitational waves in the shape of spacetime. There’s an and in there, and gravitational waves and the space of shape time. Third time’s the charm—and the gravitational waves in the shape of spacetime. That’s not a sentence I say very often.
+
+She’s also director of sciences at Pioneer Works, a cultural center dedicated to experimentation education and production across disciplines, and Pioneer Works virtual home The Broadcast. Obviously, I’ll link to all of this in the show notes. Her books include How the Universe Got its Spots: A Novel, A Madman Dreams of Turing Machines, which won the PEN/Bingham Prize. She was recently named a Guggenheim Fellow, a grant awarded to those, “Who have demonstrated exceptional capacity for productive scholarship.” Her last book, Black Hole Blues and Other Songs from Outer Space, is the inside story on the discovery of the century: the sound of spacetime ringing from the collision of two black holes over a billion years ago. And your timing of publication was just incredible. We might touch on that. Her newest book, Black Hole Survival Guide, is scheduled for publication at the end of 2020. Janna, thank you so much for making time to be on the show today.
+
+Janna Levin: Oh, thanks so much for having me. And I have to say hearing that bio makes it sound like it was smooth sailing, which is what we do when we edit our bios. I would love to have a bio that included all our failures.
+
+Tim Ferriss: Well, the good news is with a long-form podcast, we can fill in some of the gaps —
+
+Janna Levin: We’ll get in there.
+
+Tim Ferriss: — and talk about those. And I thought we would start way back in time if we step into the time machine and not necessarily with failures, but I was doing all sorts of homework for this. And I particularly enjoy doing homework for interviews when they involve my friends because I find all sorts of things that I didn’t know. Would you say that you were reckless as a kid? And did you remember any particular notable instances of getting in trouble?
+
+Janna Levin: Oh, my God. Hilarious. I was so reckless. I was so reckless. My parents used to say “Stop diving off the high board without checking if there’s water in the pool.” And I have had no health problems as a child, but yet I was in the hospital. I can’t even mention how many times from completely insane reckless accidents, breaking my nose, dislocating my finger, doing something crazy. The worst was skateboarding around 11 and hanging onto the back of a passing car, and hitting a break on the road and landing on my head and experiencing amnesia, which is a pretty peculiar experience and going into a coma. So that was a big one, but it wasn’t the first or the last, like I remember my father being he was so devastated, and just like, “Can you please stop?” Like, “You can’t do this to us.”
+
+Tim Ferriss: And you’ve had some self-inflicted wounds and then you’ve had others that you could certainly share more details about, but if you actually could describe — 
+
+Janna Levin: Like a car accident.
+
+Tim Ferriss: Like the car accident. Could you describe this car accident, which I also didn’t know about?
+
+Janna Levin: Yeah. So I really am not known for being risk-averse. And so I guess it was my, I was 16 to my 17th birthday night and I didn’t have a driver’s license, but driving a friend, driving a car and we were really reckless and it was a storm. And we wiped out in the water, the puddles hit some grass ended up hitting like a footbridge, but flipping and landing upside down in basically a canal underwater. And we all made it out alive, which is pretty amazing. Scarred up, I have a scar on my face. I have a scar on my hand. It’s not necessarily that noticeable, but it’s definitely a mark. And after that, my parents said, “You need to go to college.” I was a junior in high school and they said, “We can’t take it anymore. We can’t take it anymore. You need to go to college.”
+
+And it was a smart instinct on their part that I should do something more constructive and I’ll be less wild. And I have sisters older than me who they’ve been through it before. And they were like, “We’re not doing this again.” And so it was by the summer of that year when I didn’t finish my junior year because of the accident. And by the summer of that year, I was applying pleading with two colleges to let me in. And one of them had just accepted women in their curriculum. It was an all-male school, Columbia and its sister school, Barnard accepted me. And so two months later, a little banged up, I started college and it ended up saving my life. I’m sure of it.
+
+Tim Ferriss: It probably saved your parents’ sanity by getting you out of the house but — 
+
+Janna Levin: It saved our relationship.
+
+Tim Ferriss: How did it save you in the sense that for many kids who go away to college, that is when they become reckless. Was it offering a larger challenge? Was it offering the type of coursework that you’re interested in? What is it?
+
+Janna Levin: It was all of it. I was still very interested in New York life and New York was real rough around the edges, and it was exciting. And things I had never seen before and subversive things and all of that fascinated me, but yeah, the actual scholarship was incredible. It wasn’t a two switch situation. I was either a maniac or I was a scholar. Here at this particular place I could be a little bit of both in a better balance. And the scholarship here was absolutely one of the most, for sure this incredible experience. Also being that age, your mind is voracious and undisciplined, but spongy and I loved the intense intellectualism of this place. And paired with an absence of requirement to conform, which is a New York City thing or a feminist college thing, or a Columbia University thing.
+
+And that combination, I was extremely grateful. Also, I think because unlike maybe other students who had gone through college and the SATs and written all of their essays and had the horrible experience of being rejected and accepted, I didn’t have that. I didn’t have that experience. I was just pure gratitude, pure gratitude that they took me in two months after my accident, I was in college. I really carried that feeling with me for the years that just, “Thank God, thank God.” It could have gone so bad.
+
+Tim Ferriss: What did you think at that point when you’re walking into this incredible academic institution, off you go to college, in your mind, what did you think you might be when you grew up so to speak?
+
+Janna Levin: So it never crossed my mind being a scientist, never crossed my mind. When I started here, I was really interested in philosophy. And I think in retrospect, what I was actually interested in was the big questions, not the stylistic study of philosophy, but the questions. But I didn’t know that at the time. And loved literature, I often say my mother taught me to read, and I don’t mean like sounding out phonetics as a child. When I was 14, 15, which is the first time I actually started reading for leisure — 
+
+Tim Ferriss: Really.
+
+Janna Levin: I read for school, but my mom taught me how to read a book. Very strong memory. Toni Morrison’s Beloved was the first one where she prepared me to slow down, not to show off as a reader but to be a receiver of this and to slow down, and to appreciate the depth of the language. And absolutely my mother taught me that. And I remember that so strongly discovering literature.
+
+Tim Ferriss: If I could just interrupt for a second, I apologize.
+
+Janna Levin: Sorry.
+
+Tim Ferriss: I apologize to interrupt — 
+
+Janna Levin: No, please.
+
+Tim Ferriss: — but what did the teaching look like? Was it suggesting books to read and then discussing it with her?
+
+Janna Levin: It didn’t feel like teaching at all. It felt like sharing something precious to her. So my mother’s a voracious reader. I remember when I realized we would have bookshelves, and I would pull the first book back and realize they went three deep. And just an absolutely voracious reader and an excellent reader, like an intimate, deep perception of layers of stuff. And what I learned also about that was that you can write a book that not everyone has to read at every level, and it could be wonderful.
+
+Tim Ferriss: That’s so true.
+
+Janna Levin: And maybe not everybody wants it at that level or they want others at that level, and not this one, all that’s fine. You have to reach many levels to have a truly great sculptural construct. And that’s what she showed me. It wasn’t at all sit you down and schooling you at all. It was very much just sharing like I just read Beloved, you have got to read this. You will not believe what Toni Morrison does in this book. And it was lots of things and a big range. It was Philip Roth, it was Hemingway. It was whatever. And when I finally became a voracious reader, I had no quality control. I just loved books. I would read crappy things. I would read wonderful things. I would read classics. There was no snobbery in it. It was like, “Oh, this one’s just fun.”
+
+Tim Ferriss: You were an omnivore.
+
+Janna Levin: I became an omnivore. And so I carried that with me and I never thought I was very intimidated by everything. I was very, very intimidated by all of it. I didn’t think I would have what it takes to bring to be a creative original in any of those subjects. I came in to be a student very much so.
+
+Tim Ferriss: And philosophy within that discipline, if we want to call it discipline. And you’re looking at and it is, it is.
+
+Janna Levin: And it’s got a real structure and a system and rules for sure.
+
+Tim Ferriss: Rules, and you’re asking big questions. What are the differences between the answers that you get in philosophy and the answers that you later sought to get or studied historically in science? And then we’ll certainly, I want to hear how on earth science came on your radar.
+
+Janna Levin: That is spot on the question, spot on the question because I enjoyed studying philosophy, but I was really frustrated with the fact that — and this is the example I often use because it was really a specific example in my experience, what Kant meant when he said, “It drove me bananas.” He was so at the end of it infuriated, I was like, if Kant, who barely left his home village sealed in his mind the secrets of life, I don’t buy that narrative. That’s not possible. It must not have been universally true, or he chose the wrong methodology for conveying it. And when which we’ll get to, I think in this conversation when Einstein exposed special relativity, what he discovered. Nobody, I swear to you, nobody who studies it is going back and saying, “What did Einstein mean?” And that’s an enormous difference. We don’t become obsessed with the cult of personality.
+
+We are obsessed with the cult of personality with Einstein, but not to extract the meaning of what he said. I can have erased from my mind that Einstein existed, as long as nobody erases special relativity from my mind. And I can share it with anybody in the universe. Like that’s a whole other level of discovery and transcendence. And I don’t like things whose truths are rooted in a single man’s mind or a single cultural meme. I want it to be true in Bangladesh. I want it to be true for me in New York. I want it to be true in another galaxy. And that was the shift for me is when I realized that.
+
+Tim Ferriss: I love that we’re spending some time on this because I studied some philosophy as an undergrad had to and enjoyed it because it’s full of brain teasers and — 
+
+Janna Levin: It’s pleasurable.
+
+Tim Ferriss: The trolley problem, and all sorts of things that are exciting and interesting and difficult to explore. And you have this subjectivity of interpretation that is really problematic. And you mentioned transcendent. And for something to transcend geographical boundaries in a way can’t be bound to a translation of a word from German to English, let’s just say. Because you’re arguing over what Kant meant, but you’re reading it in English, which is already an abstraction from what we would have read say whether that’s true with a lot of philosophers. So how does science enter the picture?
+
+Janna Levin: So personally you mean for me how did it happen?
+
+Tim Ferriss: Yeah. For you.
+
+Janna Levin: It was through philosophy. So what had happened — and just to prep this, we had very rigorous science requirements, which I decided to get over with because I didn’t think I had any interest in science. And so my first year in college, I went through chemistry and organic chemistry and I did all the super hardcore subjects. And I remember my chemistry professor pulling me aside and was like, “Have you ever considered physics?” And I was like, also because I didn’t finish high school, I had never had physics or calculus. Like I wasn’t that kid who had AP, physics, and calc — I didn’t finish high school. And so I was offended. I literally recoiled. And I was like, “Physicists memorize equations, and they build bombs, and there’s no creativity.”
+
+And I was absolutely insulted. And I also had to do calculus as my math requirement. And there was a similar, they were like, “Have you ever considered doing some math?” I was like, “Oh, gasp.” And then it’s really, really funny that that’s not how it came because what happened was I was in a philosophy class where we were arguing about Heidegger, who is a philosopher, who’s very contentious, but who I really enjoyed. Really enjoyed Heidegger, but more as a wordplay poetry, mind teaser than admiration for the individual, and there’s a lot of that in philosophy, the hero worship. So anyways, I’m in this class and this young guy comes in to do his job interview to become a professor at Columbia. And he has a PhD in physics.
+
+His name is David Albert. He’s now a very famous philosopher of science. And he comes in and he’s not in my mind, he’s doing philosophy in a totally different way and style. And he starts talking about Einstein, and free will, and quantum mechanics, and determinism. And everyone, even the most obnoxious show-offs in those classes, and I’m sure, you know what I mean —
+
+Tim Ferriss: I do.
+
+Janna Levin: Everyone got quiet. And I thought, “Wow, like I’m not hearing all the bluster I usually hear in this room.” And I just was mesmerized and David Albert’s now a friend of mine and a colleague, he got the job. And he’s a Columbia professor.
+
+Tim Ferriss: Is it Elbert or Albert?
+
+Janna Levin: And he had no idea — what was that?
+
+Tim Ferriss: How do you spell it? How do you spell his last name?
+
+Janna Levin: A-L-B-E-R-T, like the first name.
+
+Tim Ferriss: Okay. Albert. Got it.
+
+Janna Levin: Albert. And he had no idea I was sitting in the back of the room all those years ago. And I swear to you, it’s what made me have that switch of, I don’t want to talk about what Kant meant. Nobody’s talking about what Einstein meant. We simply have to carry it on from where he left, where he gave us the baton, we have to keep moving. That’s the job. The job isn’t to obsess about his personal life and his personal psychology, and the phrasing of every word because math is universal. And I had this chilling experience that I cannot even describe. And after that, I basically switched. I was probably a sophomore going into my junior year.
+
+And so by a junior in college, I switched my major to astronomy and physics. And I took math going crazy, which I always liked math. I always liked math. I just didn’t know I had any purpose for it. And so I scrambled, I really scrambled to try to catch up to my peers who were those kids who had the chemistry set in their basement, and always knew things I didn’t know, and like had intuitions I didn’t have. And so I really scrambled. And I think one of the reasons why I became pretty mathematically leaning was as a compensation from not feeling like I had the intuition.
+
+Tim Ferriss: That makes perfect sense. What did the chemistry and math teachers see in you that led them to suggest physics? What did they intuit, or sense, or see, or hear?
+
+Janna Levin: Well, I think the math classes were very anonymous. They were big classes with calculus. It was very anonymous. I just did really well in calculus. I really did. I liked math. I was good at it. I didn’t think twice about it. It’s like being good at jump rope. I really didn’t think twice about it. I could crush the calculus and I don’t know why I didn’t really have any background. It’s not something that necessarily runs in my family, but I enjoy it actually. And I would find weird solutions, like they would throw one problem on a calculus test that they hadn’t taught you how to solve.
+
+And I would like that problem. And I would spend my time on that problem, and I would fix it. And I’m not saying I didn’t do badly sometimes, so calculus was just sort of a skill thing. It was really like jumping rope. And then with chemistry, I’ve always loved naturalism always. And I just didn’t see it. We talked differently about it when I was a kid, nobody was like, “Oh, my God — “
+
+Tim Ferriss: What do you mean by naturalism?
+
+Janna Levin: Like, nobody was like, “Oh, you’re a scientist.” I loved books about evolution. And I love Carl Sagan. And I loved lying on the beach with my dad on a dark island in South Carolina, where there were no street lights. I’m a city kid. I’d never seen this guy and marveling over the view of the Milky Way. I just didn’t see it as science. I saw it as an experientially wonderful thing. My dad’s an MD, so where my mom taught me how to read, my dad taught me how to ask questions. My dad’s just a super curious guy. He would always talk about, “Why is it like this? And why is it like that?” Just in a different 10 years later, people would have said “Your daughter’s a scientist.” But at that time nobody said that, never crossed anyone’s mind. And in retrospect, I always had that leaning. I just felt it in a more organic, poetic appreciation kind of a way.
+
+Tim Ferriss: So we’re going to go deep. We’re going to go into all sorts of science before we do. I want to ask you for those who have not delved into philosophy, but are interested in perhaps dipping their toe in. Are there any particular favorite philosophers you have for someone who doesn’t want to get stuck in the quicksand of some of the philosophers I shan’t name, but just the semantic juggling that gets tiresome. Do you have any favorite philosophers to read that you would recommend to folks?
+
+Janna Levin: It’s tough. I think that somebody like Bertrand Russell, who’s also a mathematician —
+
+Tim Ferriss: Bertrand Russell’s amazing.
+
+Janna Levin: And I know this is unpopular, but I really enjoyed Heidegger. There was something to his madness, Wittgenstein, for sure, but you’re never going to figure him out.
+
+Tim Ferriss: The story of Wittgenstein’s entire family is fascinating, but that’s a whole separate story — 
+
+Janna Levin: Fascinating. And I have very off opinions about Wittgenstein, but that I still believe. I think he was a scientist, a mathematician, a mystic, I think he was a poet. So those for me are the biggest standouts. I love the rationalists. If you wanted to study Locke, Berkeley, Hume, Descartes, all that’s great. But if you ask at a pleasure center level, I would stick to Bertrand Russell, Heidegger, and Wittgenstein. And not to miss the modern philosophers who are basically very close to the boundary of science and philosophy, who are pushing forward interpretations of quantum mechanics, understandings of the nature of time. And there’s little communities, there’s little centers like at Oxford, at Columbia, at Rutgers. I think there’s one at UCFC if I’m not mistaken, where they’re really pushing physicists to not be plumbers and to like not be like, “I’ve got a wrench. I know how to use it.”
+
+To be like, but you don’t understand that wrench. Let’s talk about it. Those people are really, really important and provocative. And nothing against plumbers, Lenny Susskind, who is one of the most brilliant physicists I’ve ever known was a plumber, and grew up in the Bronx a plumber’s son. And Lenny is an absolute creative genius in theoretical physics.
+
+Tim Ferriss: Amazing. And you mentioned the modern philosophers. So I don’t know many modern philosophers, but is it the case that with advancing technology and discovery there is this reconnection or convergence of philosophy and science in very practical respects. And one example that comes to mind, we don’t have to explore the specific example, but I’m wondering within physics and philosophy or in the combination of this is true. You take something like the trolley problem. So you’re on a trolley, it’s headed towards five workmen hypothetically and you switch the track and kill one person. So you’re choosing between one of five, but then there are all these other considerations and with autonomous driving, you effectively have to code in those types of decisions. So this thought experiment in Philosophy 101 undergrad is all of a sudden very relevant. Is that the case in physics as well?
+
+Janna Levin: I would say that the philosophers are doing — the ones from my perspective — are doing the really provocative important work. Are demanding that physicists acknowledge that they don’t understand their most widely, accurately tested paradigm in the history of science, namely quantum mechanics. And so it’s pretty wild that we build these machines like the Large Hadron Collider in Switzerland, and that we discover the Higgs particle, the goddamn particle, which was appropriated as the God particle. But the original title was the goddamn particle. And it was incredibly stunningly accurate. You can build stuff for me, that’s like the base level proof that something’s true and that we actually do not understand it. I think that they’re right to press us. That it’s not good enough just to build stuff. That if you technically, philosophically, intellectually do not understand something, use it as a guide to tell you what’s beyond. What more we could know.
+
+I really think that the philosophers on the interpretation of quantum mechanics, the measurement problem, which is to say in quantum mechanics, things don’t always assume a concrete state, yet, when we measure them, we find them only in a concrete state. This kind of, what is reality? stuff. What is the role of complex systems? I think they’re right to press us on this. I think that they’re making way more progress than the physicists are.
+
+You’ve spoken to Sean Carroll. Sean, in no small part, has made me look at that. As a friend and as a colleague and as a scientist, he has made me look at that. I think he’s right about that. Sean and I actually have a long-running joke because he was in graduate school at Harvard when I was at MIT. We were very good friends and I became more and more like, “Just calculate, man. It’s objective reality. Just do it. Let’s discover stuff.” He went more and more into philosophy and we totally tease each other about it all the time.
+
+Tim Ferriss: I’d love to hear that like two glasses of wine each in. That would be a good dinner.
+
+Janna Levin: We’ve been known to do that too.
+
+Tim Ferriss: Pass the salad. How many milligrams or grams would you like Janna? Let’s dig into this, maybe not directly, the what is reality? That’s a big one to bite off, but — 
+
+Janna Levin: That’s a big one and also not my favorite in a sense. I do like the basic pleasure of experience of something that we’ve discovered, of something that we found on paper in math and then it’s out there. I love that connect.
+
+Tim Ferriss: I think we can take that and use it to stretch people who are listening a little bit. That includes me. I’m going to ask you a question that you’ve no doubt been asked many, many times, and I apologize, but I want to ask it anyway. How is it possible that the universe could be finite? It is the universe after all, right? It’s hard to just visualize how that could make sense. Can you speak to that?
+
+Janna Levin: You should not apologize for that question because it’s ongoing for me too. Einstein had this funny quote, which I’ve said many times, which is, “Only two things are infinite: the universe and human stupidity.” Then he says, “And I’m not so sure about the universe.” As soon as Einstein started talking about space, time, and geometry, so basically seeing the universe as a curved geometry, his theory cannot specify the global connectedness.
+
+It’s not necessarily a shortcoming of Einstein’s theory of general relativity. It’s just that we suspect that the quantum theory of gravity beyond Einstein will tell us something about the global structure. For example, right now, I have a teacup and I’m looking at it super, super closely. I see the curves on it. That’s what Einstein taught us about. If I put it further away, I see a handle and a connectedness of the handle. We call that topology.
+
+The fact that there’s a hole. That even if this was made of clay, there’s nothing I could do to my teacup to get rid of that hole, unless I broke it or did something like that. We call that topology. It has a feature. It has a feature called a hole. It’s not equivalent to just a solid object. That aspect of geometry, once Einstein said spacetime is curved and it’s geometry, people started to ask, “Well, what about topology? The connectedness.”
+
+For instance, let’s look at the earth. You and I are in different parts of the earth. Maybe you’re near a hill and you’re noticing the curves on the surface of the earth. You go up the hill. You go down the hill. I live on Morningside Heights by Columbia. I go down a hill to Harlem. I go up a hill to Columbia. That’s local. If I pan way, way far back, I see that the earth is actually a sphere. I don’t see that up close.
+
+Ridiculously enough we still have flat earthers, but that is something that the Greeks and ancient astronomers discovered. It was not a known thing. That aspect of spacetime, that compactness, the fact that the earth isn’t infinite, the earth isn’t an infinite plain. It actually curves around, wraps back on itself and is a compact finite surface. That was a discovery recently, in some sense. Spanish explorers were afraid that Columbus was going to sail off the edge of the earth, that it was not compact.
+
+This kind of thinking, we should be asking that about the universe. Is it possible? If I leave New York City and I travel in a straight line as best I can, I might need to paddle, I might need to walk, I might need to do whatever, I will come back to New York City. That was not known until fairly recently. It might be like that with the universe. That if I left the solar system in a spacecraft and I left the galaxy and I traveled on a straight line, after a while, I would very surprisingly find myself coming back to the Milky Way Galaxy and the solar system.
+
+Tim Ferriss: Does that infer — this is going to be a third-grade question. I guess they probably wouldn’t use infer. Yeah. In my mind, I’m imagining the universe as this bubble that is spherical or oblong or something like that, if the universe is expanding or contracting and — 
+
+Janna Levin: Yeah. It can be an expanding finite surface.
+
+Tim Ferriss: Then the wait a second, teacher question that I want to ask is, and you see this coming, right? If it is finite, what’s on the outside of it? If that’s even visual spatially the right way to think about it.
+
+Janna Levin: I am not going to deny that this was hard for everybody. Even for very accredited, experienced mathematicians, this is not an easy concept. I will tell you, there is no requirement for anything on the outside. There is this pat answer that people give, which is, there’s nothing north of the North Pole; go more north of the North Pole and you go south. I don’t love that answer because I understand that intuitively people are saying, “Yeah, but I could go up.”
+
+It’s not satisfying, but here’s what’s really hard to conceive of, but I believe I could convince you that it’s possible is that I do not need to embed the three-dimensional universe if it’s finite into a higher dimensional space. Let’s talk about the earth. The earth as a surface. Forget about the inside. Forget about that it’s a solid object. Let’s just look at the surface of the earth. That is two-dimensional. All I need to know on the surface of the earth is east, west, north, south. 2D. That’s it.
+
+Tim Ferriss: Yeah.
+
+Janna Levin: It lives in 3D though, which is how as three-dimensional beings, we’re able to visualize it. We’re like, “Yeah. The earth is finite and it’s 2D, but there’s all this three-dimensional stuff that it lives in.” We want to do the same thing with the universe. I want to tell you, there’s a three-dimensional equivalent to the earth. That is a sphere. It’s a three-dimensional sphere. You cannot visualize it and it need not be nested in a higher dimension.
+
+That’s where you start to go like, “Okay.” The impact of that is that anything that’s spacetime is part of the universe. If I said, “Yeah. We live in a higher dimensional version of the earth, a three-dimensional sphere, nested in a higher dimension.” Then any relativist, anybody who follows, who uses Einstein’s theory as a guide would say, “Yeah. That’s spacetime and therefore that’s part of the universe.”
+
+There is no such thing as space or time, locations, or events that aren’t part of the universe. All that would mean was that we unnecessarily lived in four dimensions. Here’s another example that I think is going to make this a little bit more manageable. Let’s look at a video game. Let’s look at Pac-Man, which just turned 40 or something like that.
+
+Tim Ferriss: All right. Now we’re speaking my language. All right. Here we go.
+
+Janna Levin: Pac-Man just showed up on my video feed. You know how Pac-Man goes off the right side of the frame and comes in the left side of the frame?
+
+Tim Ferriss: Yes.
+
+Janna Levin: You know how you can go out the top of the frame and come in the bottom of the frame?
+
+Tim Ferriss: Yes.
+
+Janna Levin: Pac-Man lives on a two-dimensional donut that is not embedded in a higher-dimensional space. That’s it. There’s no higher-dimensional space. He lives in a flat, two-dimensional world.
+
+Tim Ferriss: When you say not embedded — it is independent. Is that what you mean by not embedded in a higher-dimensional space?
+
+Janna Levin: I mean, there’s no requirement in the video game rules. He exits the right side. He enters the left side. He goes out the top. He enters the bottom. I don’t actually know if he can go out the top or on the left or right side, but we’ll extrapolate. That means that what topologists would call that is a donut. That it has the shape of a donut. He’s continuously going around in one direction and he can continuously — 
+
+Tim Ferriss: That makes sense.
+
+Janna Levin: — go around in the other direction. That donut does not live in a higher-dimensional space. It lives happily in 2D. On your 2D flat screen, that’s the whole story mathematically. He goes out one side. He comes in the other. He goes out the top. He comes in the bottom. If you see that and you start to think like, “Okay. Wow. That’s a weird computer rule.” Computer rules are only reflecting mathematical rules, and the universe could obey the same rules.
+
+I go out to the right side of the universe. I come in the left side. I go out the top of the universe. I come in the bottom. There’s no need for that to live in another space. That’s it. I could do that in three dimensions. I could go forward and come in the back and that’s it. It’s a three-dimensional space. It does not live in a higher dimension. It is just connected in a mathematical way.
+
+That looks like a crazy donut if you embedded it in a higher-dimensional space, but it does not need to live in the higher dimensional space any more than your game, Pac-Man, looks like a donut to you.
+
+Tim Ferriss: I want to further — 
+
+Janna Levin: We can have a moment of silence if you wanted.
+
+Tim Ferriss: Yeah. No. I’m letting my neurons recover for a second, but I think you could sell — this is where my head goes just so you can lose any shred of respect you might have for me. I was thinking you could sell a lot of t-shirts that would say, “That donut does not — ” What was it? Does not exist in a higher-dimensional space? That — 
+
+Janna Levin: Pac-Man is a donut that doesn’t live in a higher-dimensional space.
+
+Tim Ferriss: There you go. I think — 
+
+Janna Levin: I mean, we are limited by our experience. We’re three-dimensional beings. We understand that the earth is a compact two-dimensional surface that lives in a higher three-dimensional space. What we have trouble with is the idea that there could be a compact two-dimensional surface that does not live in a higher-dimensional space.
+
+Tim Ferriss: The way that I’ve probably very stupidly thought about this and this is speaking as a non-scientist, non-physicist. I never did take calculus because I had a really — I was actually pretty good at math and I had a very abusive math teacher in sophomore year of high school. I just said, “Fuck it. I’m out.” And that was that.
+
+Janna Levin: It’s crazy how impactful that is.
+
+Tim Ferriss: Yeah. My brother had a great teacher and now he has a PhD in statistics, so it just goes to show you — 
+
+Janna Levin: You clearly have a very logical mind. That’s a lot of what you access.
+
+Tim Ferriss: When I’m not upset. Yeah. When I’m not upset. My logic falls to pieces when I’m upset, but I try. I listened to, just by way of analogy, maybe incorrectly. I was listening to an episode of Radiolab recently talking about colors and the perception of colors and what a rainbow would look like to a dog, say.
+
+Janna Levin: Wow.
+
+Tim Ferriss: What a rainbow would look like to a human, what it would look like to a butterfly, which has a more — I want to say — 
+
+Janna Levin: Wild range of colors.
+
+Tim Ferriss: It’s either rods or cones. I always mix the two up, but for color perception. Then you have something like a mantis shrimp, which has like 19 times the number of these receptors compared to a human. Right? You can try to describe what it might look like to see a rainbow with ultraviolet added, but it’s a real stretch of the imagination to do so as a human who has limited perceptual abilities. It seems like to me, physics is showing the underlying code of the universe/simulation that we live in.
+
+It’s allowing you to see the shape and form perhaps of things that you cannot perceive as a human. I don’t know if that’s accurate, but that’s — 
+
+Janna Levin: It’s totally accurate. I would say that I discover stuff through math that is so counterintuitive that I really wrestle with it, which is why I love math — because it’s telling me stuff that I can’t see. Even these things that I’m blathering at you, I struggled with them. I struggled with these ideas because we’re really reliant on intuition that we can see and perceive a curved surface in a higher-dimensional space, or we always have to go down in dimension.
+
+The math I follow and trust, but believe me, I cannot visualize a three-dimensional sphere nested in a higher dimension. It’s not available to my mind or anybody else’s. We can’t do it. We don’t have an intuition for it. That’s where the math is this insane guide that we inherited that. My friend, Brian Greene, whom I don’t know if you’ve interested — or sorry, interviewed. Says things to me like, “Yeah. Maybe one day we won’t do math, but right now it’s all we got.”
+
+That’s what it feels like. The math shows you something and you’re like, “Whoa.” Here’s an example of what math showed me that I can’t visualize. Suppose you had two interconnected rings in three dimensions.
+
+Tim Ferriss: Okay.
+
+Janna Levin: There’s nothing you could do to separate them. Two steel-welded, interconnected rings, loosely connected. There’s nothing you can do to break them apart unless you cut the steel, right? If you lived in four dimensions spatially, you could actually lift them apart. No problem.
+
+Tim Ferriss: Wait, say that one more time.
+
+Janna Levin: If you lived in four dimensions, you could take these steel-welded rings that are totally locked and interconnected, that could not be separated without a chainsaw. In four dimensions, you can separate them without breaking them.
+
+Tim Ferriss: Damn.
+
+Janna Levin: Here’s the analogy that helps with it but just you’ll never be able to see it. I can’t see it. No mathematician can see it either. In two dimensions we can see it. Suppose I had a big steel ring surrounding a small steel ring in two dimensions and they could never come off the plane. They could never come off the table. There is nothing I could do to get the small one outside of the big one, but cut the big one.
+
+Tim Ferriss: Yeah. Agree.
+
+Janna Levin: Yeah? You agree with that? That’s a simple picture.
+
+Tim Ferriss: I do.
+
+Janna Levin: If I live in three dimensions, I can simply lift the inner ring out and that’s what four dimensions allow you to do with the interconnected links. It’s really hard to see.
+
+Tim Ferriss: That’s wild.
+
+Janna Levin: It’s wild. It’s a formal mathematical proof.
+
+Tim Ferriss: I want to continue on this journey down the rabbit hole. You gave a great talk via The Moth called Life on a Möbius Strip. Why did you use the phrase Möbius strip?
+
+Janna Levin: That talk, it describes a journey through life, but one in which you come back different. Really technically mathematically different. If I take a left-handed glove and — or, let’s start with a right-handed glove because most of us are right-handed. I go around, I travel around a strip, just literally imagine a cylinder. It comes back right-handed. If you take that same glove on a trip around a Möbius strip, which has a twist in it, your right-handed glove comes back left-handed and it is fundamentally different.
+
+Tim Ferriss: Yeah. It’s so good.
+
+Janna Levin: There’s something in the story that is related to that right-handedness, which is very predominant in nature and left-handedness, which is also very predominant in different ways. The idea that we take these things so for granted, we don’t even question them anymore. Why is your heart on the left side of your body? Why is mine on the left side of my body? What is the asymmetry that is for almost every single person on the planet?
+
+There’s an asymmetry that we all have. It was the story of a strange journey between me and my, at the time boyfriend, now husband, coming back with a flipped chirality. Left-handedness and right-handedness is known as chirality. Going on a very peculiar journey and coming back with a different chirality. Fundamentally different. I don’t know if you want me to do the spoiler of the end of the story.
+
+Tim Ferriss: You know, I think I really want you to.
+
+Janna Levin: Okay. You don’t mind.
+
+Tim Ferriss: I suggest people listen to the talk and we’ll link to it in the show notes, but you’ve got — 
+
+Janna Levin: It’s extraordinary.
+
+Tim Ferriss: I feel like you’ve got to do it. Yeah.
+
+Janna Levin: It is extraordinary. My son, his heart is on the right side of his body and all of his organs are mirror-reversed. The fact that it happened to me of all people was pretty strange. Just so people aren’t alarmed, the placement of his organs are totally healthy. There’s nothing wrong with having — he’s literally a mirror image of most of us. There’s nothing unhealthy about the organ placement. It’s just extravagantly rare. I felt like it was this — it’s also an incredibly rare genetic condition.
+
+You know, husband is an Anglo-Irish musician from an incredibly tough, brutal part of working-class Manchester. You know, I’m a sort of like a kid from Chicago who had everything. It was like the odds of us both having the resonance of that, it’s an extremely rare genetic condition and going on this very peculiar journey together and creating this exceptional child who is a mirror image as though he was taken on a trip around a Möbius strip. That was The Moth story.
+
+Tim Ferriss: We’ll link to that everybody. Tim.blog/podcast and you’ll be able to find Janna obviously, and see all the links. I want to touch on — 
+
+Janna Levin: This is what we — sorry to interrupt you, Tim. This is what we started with. That was something I was going to tell nobody or everybody.
+
+Tim Ferriss: Yeah. Okay.
+
+Janna Levin: I told nobody. I mean, I had some of my dearest, lifelong friends. I didn’t say a word about it. I think the anxiety was that people would find it so peculiar that they would treat him as sickly. His organ placement is healthy. It’s just exceptionally strange and so we hid it for years. I think when I told that Moth story 2011/2012, maybe, he was — 
+
+Tim Ferriss: 2011. Yeah.
+
+Janna Levin: He was 11. By then, we felt so confident in his health and that he would not perceive himself as sickly and that other people wouldn’t project on him. If you tell that about a baby, people become overly precious and it’s something I really don’t like. I really don’t like when kids are treated like glass. It was this kind of dark secret that Warren and I went to great lengths to keep him healthy, to see doctors, to go to zillions of experts, to travel across the country, to have him participate in studies, but told none of our friends.
+
+That was the tell nobody or everybody. When The Moth asked me to do it, I felt ready at about that point in time to make it work like a piece. Work on constructing it and work on the levels of it as I would a book even though it was only a 15-minute story. My son only heard it a couple of years ago.
+
+Tim Ferriss: Oh, no kidding?
+
+Janna Levin: Yeah.
+
+Tim Ferriss: Wild. Wild, that’s my exclamation of the conversation, it seems.
+
+Janna Levin: Because we didn’t want him to be overwrought. We didn’t want him to feel sickly because we believed he wouldn’t be. It’s just such a rare condition and not everyone does well with that condition. It’s so rare. We got off really lucky, but it was really important to us that he feels strong and healthy and not have a consciousness of a sick kid.
+
+Tim Ferriss: Tell no one or everybody. You followed that when we were talking before recording and I’m paraphrasing here, but it’s either silence or art, right?
+
+Janna Levin: Oh, yeah.
+
+Tim Ferriss: Something along those lines.
+
+Janna Levin: Exactly.
+
+Tim Ferriss: Two questions. How did you feel after giving the talk? Then number two, have you taken other types of internal pressure or angst or emotion and turned that into art as a way of release or for other reasons?
+
+Janna Levin: I mean, those are both, I think, really valuable questions. I do a lot of public speaking about science and I have a pretty personal tone. You know, my first book is pretty autobiographical and personal and intimate, so it’s not like I’m afraid of that, but I was terrified of giving The Moth talk. It’s so funny. I’m on stage all the time. I don’t get nervous. You could wake me up in the middle of the night and I’d be like, “Yeah. Black holes and blah, blah, blah.”
+
+For this, part of it was that I was telling this story for the first time that I had kept to myself for over a decade. Part of it was that I was at an exceptional company. It was the World Science Festival. Eric Lander spoke about the Human Genome Project and using DNA evidence to release prisoners who were wrongly incarcerated. Huge. Eric Lander’s huge. A guy who was doing hand transplant surgeries for marines and people in Iraq. It culminated with a Nobel Prize-winning, Holocaust-surviving chemist.
+
+Tim Ferriss: No pressure.
+
+Janna Levin: And me. They were like, “Janna, talk about your boyfriend.” It was really not an easy assignment, right?
+
+Tim Ferriss: Yeah. Definitely going off-piste there. Yeah.
+
+Janna Levin: I was absolutely like, “Oh, my God, a Holocaust-surviving, Nobel Prize-winning chemist and I’m going to talk about my boyfriend.” I really worked on that piece. I only had a couple of weeks to do it, but it’s one of the only times I can remember having to walk around a city block a couple of times to cool off. I begged them to let me go first because my anxiety level was so high. But once I got on stage, I was like, I’m in it. I got this.
+
+Tim Ferriss: Yeah, you were cool as a cucumber, you looked very relaxed.
+
+Janna Levin: I was cool as a cucumber. It’s so funny, it was like a switch was thrown and I was like, I’m in this.
+
+Tim Ferriss: Back in the game.
+
+Janna Levin: And to your second question — 
+
+Tim Ferriss: Oh, wait, well, before we get to my second question. Afterwards, so you finally shared this secret with the entire whole of man and womankind. How did you feel? Were you just blank? Were you elated? Were you relieved? What were you feeling in the hours post?
+
+Janna Levin: I think I was elated because it didn’t come out as like, oh, I’m revealing the pain in my heart. It came out to me, and I don’t know if anyone else felt this way, but it came out to me as a sculpture that I worked on and I felt really good about. And that I controlled my nerves and I got on stage. And when I get on stage and it’s good, I feel like it’s because of this like sort of love vibe from the audience and The Moth is such a wonderful venue, they’re so fantastic. And their audience just is on your side.
+
+And I so felt that both from Catherine Burns, the director who helped me frame the story and the audience. That why I locked into this really other zone of feeling like I am telling a personal story to people I care about, even though I’m also telling it to everybody and it just, afterwards, I was elated. Yeah.
+
+Tim Ferriss: And you used the word sculpture, being proud of the sculpture you’d made. I mean, you architected it, right? You had the book ending of the kind of reality, it’s well done. I mean, you put a lot of time into it and effort. It’s very clear.
+
+Janna Levin: I appreciate that. And I do that in writing, like for me, writing is sculpture. I have this weird relationship with writing that it’s sculpture. I’m not really sure how to explain it.
+
+Tim Ferriss: Tell me more. Let’s let’s try it out.
+
+Janna Levin: Well, I feel like there were generations of writers who really appreciated structure. And there are fads in writing, then it becomes like there’s a lot of self-analysis, which is not structural, and there’s a lot of different styles of writing. And I always really resonated with things that had layers and I work really hard on structure. I lay out drawings on a board and I think really hard about modules and elements and I hope it doesn’t show, right? I don’t want you to read it that way, but I want it to be there.
+
+And one of the conversations I had with a friend recently, he’s like, “Janna, nobody’s going to notice that one of our writers had a grammatical error,” and I was like, “But they will. They might not quote the rule that he misused the subjective tense, but they’ll feel it. They’ll notice it in a really subtle way.” And that’s why great writers are respected by tons of people who are not great writers. Like I respect writers who far exceed my abilities because I recognize something that they’re doing, not intellectually, but emotionally.
+
+Tim Ferriss: It’s a felt sense.
+
+Janna Levin: It’s a felt sense. And so I feel that about structure. If you really, really work on structure, you challenge yourself, you break some bad habits, you don’t allow yourself to be self-indulgent. And so, I really do think of them, kind of like, yeah architecturally.
+
+Tim Ferriss: Do you have any particular writers who stand out to you for structure?
+
+Janna Levin: Oh, man, I’m such a fiction fan. I mean, there’s this book. I teach a class at the college, where I haven’t taught in a while, which is called Science and Literature. And it is basically a collection of books that have all just seared me. One of them for instance is Kazuo Ishiguro’s Never Let Me Go. And he won the Nobel Prize a few years ago, and that is one of his least popular books and it’s spectacular.
+
+It’s about cloning and it’s a very personal, intimate book, like how he took this utterly abstract concept and made it completely small and intimate. And it’s stunning. It’s an incredible book. And he writes it in a female first-person, flawlessly. It’s partly just a display of unbelievable talent, but it’s just an incredible book.
+
+Tim Ferriss: Yeah, virtuosity.
+
+Janna Levin: Virtuosity, thank you. But there’s a lot of books like that, that I really love. There’s a book that’s been around for quite a long time, Don DeLillo’s White Noise, which is also not one of his most famous books and is hilarious and brilliant and incredible. And it’s kind of about this small college town professor and maybe a chemical spill and you’re not quite sure what it is and it is absolutely hilarious and incredibly clever.
+
+I have so many of these, I’m not going to go through all of them, but I’m going to list one more, which is Cormac McCarthy’s The Road, which I don’t think anybody would look at as a science book. It’s a totally apocalyptic book and I think people would just see it as an apocalyptic dystopia, but to me it’s a science, a conceptual book. It has that core. And it’s unlike any book he’s ever written in a lot of ways, because he can be a very kind of Faulknerian, florid writer. And this is lean as hell, brutal. And there’s no where, what, who, when or how. No character has a name. You don’t know where they are, whatever the apocalyptic event is, it’s not named. I mean, it’s just unbelievable.
+
+I read that book literally in cabs by streetlight. Like I read it in less than 24 hours, I was possessed by it. And my own book, the Turing Machines book, was in press at the same time that I was reading that book. It was at the press and we have the same editor from Knopf, Dan Frank, who’s just an extraordinary editor. And I called Dan and he literally had to talk me off like the window sill.
+
+Tim Ferriss: You were just like, “Stop the presses! Stop the presses!”
+
+Janna Levin: I was like, “Pulp it. Pulp it.” And Dan was so great; he literally talked me in from the window sill.
+
+Tim Ferriss: Oh, wow. Yeah, I know that feeling.
+
+Janna Levin: And he didn’t bullshit me. He didn’t be like, “Your book is as good as McCarthy.” He was like, “Look at him. He’s 77, look at what he went through.” Like, he really gave me respect to not treat me like a child and that’s the only reason why I came in, back into the living room.
+
+Tim Ferriss: Yeah, you knew you weren’t being pandered to — 
+
+Janna Levin: I was not being, right, manhandled or kidhandled or whatever the expression is.
+
+Tim Ferriss: Have you read any of Ted Chiang’s short stories? C-H-I-A-N-G.
+
+Janna Levin: I do know Ted Chiang’s short stories. I believe, and this is, maybe I should be embarrassed to admit this, I believe I have a collection of short stories in my audiobook that I haven’t gotten to.
+
+Tim Ferriss: I highly recommend, for people listening, if you want. I think really structurally interesting and also scientifically mind-bending short stories. Ted Chiang, C-H-I-A-N-G. His most recent collection is Exhalation, which I thought could not possibly equal his previous collection and it maybe surpassed it. They’re just so incredible.
+
+And for those people who saw Arrival, which is, I think, an incredibly good movie exploring the impact of language and orthography, meaning writing systems on thought and how you perceive reality, in the context of alien contact, right? Extraterrestrial contact. That was based on one of his short stories. And he’s really got an incredible range.
+
+Janna Levin: He kind of has a Borgesian-like vision, you know, like Borges.
+
+Tim Ferriss: Oh, totally. Yeah, absolutely.
+
+Janna Levin: But I think what you’re pointing to, so a lot of people ask me about sci-fi and I’m not a rabid sci-fi fan. I enjoy it, but that’s not — I think the reason why I select the authors I select is because they don’t usually write about science and when they turn to it, they turn to it with the care, like Chiang, and the care and emotion and intimacy that they would to absolutely any other subject.
+
+Tim Ferriss: Totally agree. And I have to ask if you have read any of — well, I’ll just say that I recommend to people listening, if they’re interested in this type of nerdy writing structure, exploration, which I think is more broadly speaking, an exploration of thought and structured thought, that Draft No.4 by John McPhee is definitely worth to go look at.
+
+Janna Levin: Oh, wow, I’ve not read it.
+
+Tim Ferriss: It’s worth the read. It’s very nerdy. It’s based on a seminar that I don’t believe he teaches anymore at Princeton called The Literature Effect and — 
+
+Janna Levin: I’m a little obsessed with John McPhee.
+
+Tim Ferriss: Yeah, me too.
+
+Janna Levin: I’ve always had this terrifying fantasy/nightmare that he would — 
+
+Tim Ferriss: Oh, this about to get good.
+
+Janna Levin: He would like read one of my pieces and critique it.
+
+Tim Ferriss: Yeah. Yeah, he’s one of those writers where you’re like, I just don’t, I can’t do this. I just — 
+
+Janna Levin: His skill, his technical finesse and prowess and skill is something that I really do admire. And it’s what we were talking about, you don’t have to have that skill to recognize the skill and to experience the pleasure of the gift of somebody giving that to you. And he’s known as a terror when he edits people.
+
+Tim Ferriss: So I do have, so just as an anecdote related to editing. So I took his seminar when I was an undergrad.
+
+Janna Levin: You’ve been to Princeton?
+
+Tim Ferriss: I did, yeah.
+
+Janna Levin: That is like what I wish had happened to me back then. So I didn’t have to go through such a grueling process of unlearning bad writing.
+
+Tim Ferriss: Well, I have been, look, I’m no McPhee, but I remember the first assignments we were handed back with feedback. And in effect, he said, “Before I hand this out, I want you all to realize that you’re good writers and,” I’m paraphrasing, of course, “and you were able to get into the seminar and we’ll discuss everything in your one-on-one.” So we had one group class, I think it was 12 students per week, and then one-on-one time with him. And he’s an incredibly good teacher. And the pieces were generally of short length, let’s just say the assignments were three pages. I’m just going to make that up, three pages long. I still have my three-ring binder with all my notes from that class.
+
+Janna Levin: I hope so.
+
+Tim Ferriss: And that was a long time ago, 20 plus years ago. And there was more red ink on my essay than black ink, meaning I had typed out three pages and double space, and his comments seemed to be more than my cumulative ink on the page. And I was just like, “Holy shit, I’m in trouble, like this is going to — “
+
+Janna Levin: But what a gift.
+
+Tim Ferriss: What a gift. And one thing, and this will really underscore the reason I recommend people read good books and even consider studying writing, is that you get better at thinking. So he pulled out so much fat and just useless drivel and redundancy from my writing that my grades in all of my other classes had a sharp uptick. And his class took up a lot of energy, so it wasn’t that I had extra slack in the system. I think it was because my thinking became tighter.
+
+And for people who really want a wonderful book to read that is pretty short, I don’t know how long it is, maybe it’s 200 pages. John McPhee wrote a book called Levels of the Game. And if you want an idea of what it means to structure a book in a really elegant, interesting way. This is a book that is structured around his description of the semifinal match at the 1968 US Open championship, played between Clark Graebner, I think it is, and Arthur Ashe.
+
+So this is an entire book based on extensively one tennis match. But that’s the framework and then the way that he then manipulates that and architects it is just incredible. And I’m not a tennis player, so it tells you a lot that I was just gripped. So this is one of those books, like you and The Road, that I just carried around with me and I read it every open moment to finish, so that’s a recommendation.
+
+Janna Levin: Yeah, and so the other person who broke my heart when he died was David Foster Wallace, who can write about things I have exactly zero interest in and grip me. The Illinois State Fair, like Consider the Lobster.
+
+Tim Ferriss: Consider the Lobster. Everyone should read that.
+
+Janna Levin: Like, what do I care about lobsters in Maine? Not my world. The Oxford English Dictionary and every one of those essays is loaded with unbelievable insights. And I don’t know if he ever studied with John McPhee, I don’t think he did, but I sort of think of him as sort of the wild maverick version of John McPhee.
+
+Tim Ferriss: Oh, definitely the wilder and maverick version.
+
+Janna Levin: Yeah, totally maverick, egotistical, like completely different person. But my other story about John McPhee is I did a talk at Princeton a couple of years ago, like a panel talk about writing with some colleagues, and I’m not going to name the person who said this to me, but he’s a very accomplished writer and he studied with John McPhee as you did. And he said that, as a grown man, accomplished writer everywhere, made his career, went back to John, shared one of his pieces with him and John like, edited it. And he said he was in tears. In tears. It was covered with red and yet everything was on the nose.
+
+Tim Ferriss: Yeah. You’re like, “Nailed it.”
+
+Janna Levin: Nailed it, yeah.
+
+Tim Ferriss: If people don’t want to read an entire book, like Draft No.4, about writing, there is a series of interviews that John McPhee, for those people wondering how it’s spelled, M-C-P-H-E-E, did with The Paris Review in a series they do, called The Art of Nonfiction. So if you search The Art of Nonfiction, John McPhee. I may have actually put it on my blog. I think I got permission to republish it because it was so good. So people can look for that.
+
+Janna Levin: I think you’re right. He’s the virtuoso of nonfiction.
+
+Tim Ferriss: Yeah, really remarkable. This is going to be a total left turn — 
+
+Janna Levin: Let’s do a left turn.
+
+Tim Ferriss: But I’m going to go left. I’m going to go back to the thoughts of chirality. This isn’t directly related to chirality necessarily, but I texted you not too long ago and I’m embarrassed to say that I haven’t actually made much headway because I became enamored of a separate novel called Little, Big that we can talk about another time, I could talk for hours about it. But I texted you about Carlo Rovelli and specifically because I was looking at a book he wrote about time and our misconceptions of time.
+
+Janna Levin: You were looking at Seven Brief Lessons? It was a different one?
+
+Tim Ferriss: It was a different one. Yeah, Seven Brief Lessons, there’s another, I think it’s called The Order of Time, something like that. And I have it, I’m planning on reading it, so this isn’t a question about Carlos specifically. It’s about time. And I’m wondering if there are any, because humans experience time as this linear progression, right? Or sands falling to the bottom of the hourglass in this finite life that we have. But how do you think about time or what are certain realizations or conclusions about time that might seem very strange or counterintuitive?
+
+Janna Levin: Yeah. So let’s start in the concrete, the things that we know are true. There are forms of time-travel that we absolutely know are possible. I can travel to the forward of your time. I can’t travel to the forward of mine, but I can travel to the forward of yours.
+
+So for instance, if I decide to travel near the speed of light to go to Andromeda, a nearby galaxy, and come back, traveling very near the speed of light, I might have experienced as close as I get to the speed of light, I will experience as little passage of time as imaginable. But let’s just say it’s a few months for me. For you, gosh, Andromeda is 2.5 million light-years away, 2.5 million years would have passed. So shame to say, despite all of your fantastic protein powders, I would be pretty confident that I would come back to the grief of not finding you here and not America, and maybe not any human beings, maybe human beings would be extinct.
+
+And so I can travel to the forward of your time. But I haven’t yet figured out how to travel to the forward of mine. To me, I would have had a few months, my clock would have ticked slowly. My milk would have lasted as long as I expected. My thoughts would process on the timescale I’m comfortable with. I would not notice anything but ordinary time. And that’s a fact that that is true. We experimentally measure that. We experimentally detect that. We know that that’s a fact. After that fact, which is pretty big to take on its own if you want to, like for instance, we could travel 26,000 light-years to the black hole, the center of our galaxy. As long as we went very, very close to the speed of light, we would survive the trip, but 26,000 years would have passed on Earth and so what’s so great about that?
+
+Tim Ferriss: Yeah, this is the Interstellar dilemma.
+
+Janna Levin: The Interstellar dilemma; Interstellar actually got that really right and I actually want to mention Interstellar because Kip Thorne, I have a lot of connections with this, because Kip Thorne, who is one of the most creative physicists I’ve ever known, wrote the treatment for Interstellar. It was his idea to write that, it was his treatment. He also won the Nobel Prize for the LIGO experiment, which detected the collision of black holes, and he was also one of the two main characters in the book that I wrote about the discovery.
+
+So Kip and I have tons of connections. And also, I consider him a wonderful friend. And he was one of the only people when I was completely unknown and kind of waffling and nobody liked my work, I was working on stuff that nobody respected or thought was good, he was the only person who pulled me into his office and said, “I’m really curious about what you’re doing.” Like this is odd and interesting. And I was a nobody. And so Kip looms large in my life in a lot of ways and therefore Interstellar. Also The Moth story that we talked about, I’ve sold the film rights to that with Lynda Obst and Nick Wechsler attached. Lynda is the same person who produced, who helped Kip make Interstellar.
+
+Tim Ferriss: Wow, small world.
+
+Janna Levin: So we’re all in a big [inaudible 01:21:18]. We’re all in a [inaudible 01:21:20], it’s a long story.
+
+Tim Ferriss: From Nobel prizes and black holes to Hollywood. Amazing.
+
+Janna Levin: Yeah. I mean, Kip said to me at 80, he said, “I’m going to start this new career in making movies.” And he’s the coolest, coolest, most wonderful guy. I mean, I cannot sing Kip’s praises enough.
+
+Tim Ferriss: Might have to get Kip on the podcast someday.
+
+Janna Levin: Oh, you must. And he’s so clever and kind and thoughtful. I mean, he’s really an exceptional, like one of those who walks the Earth every 50 years, maybe.
+
+Tim Ferriss: I’m sold. And I don’t want to take us out, you said fact number one, that’s big enough to sort of wrap your head around. We’re talking about time. What else do we — 
+
+Janna Levin: So the tough stuff, the stuff that we don’t know as fact, that we’re grappling with, that we don’t have the full picture over is, what is time? Why does it insist on having a different role than space? I mean, Einstein taught us that there’s spacetime and I’m adamant not to put a hyphen in that. It’s spacetime, it’s one phenomenon. We live in four dimensions. To talk to you, Tim, I have to specify three, in person, three spacial coordinates. Where we are, North, South, East, West, what floor we’re on, up and down, and what time we’re at. And it is absolutely clear that space and time are kind of this unified thing, yet time is viciously different. It refuses to conform. I can turn left and right, but I can’t turn forward and backward in time. Why not? And the laws of physics, even more so, are completely invariant under the direction of time.
+
+Meaning if I showed you a movie of billiard balls knocking, the reverse movie would make equal sense. But if I go up complexity levels and I show you a flower blooming or a flower rotting, you immediately know which one’s forward and backward, but the laws of physics don’t have that in them. Why is that? So we really, if I showed you a movie forward and backward, that was complex enough, you could tell the difference, but if it was basic enough, you couldn’t. And there’s something about the laws of physics that they’re basically totally reversible. You shouldn’t be able to tell the difference between forward and backward and yet relentlessly, we go forward.
+
+And so this is the crux of some deep mystery that we haven’t solved. And there are very smart ideas about, and we can get partway in the conversation about entropy and all that crap. But something about time is resistant to interpretation and understanding.
+
+Tim Ferriss: I’m on it. Consider me on the job.
+
+Janna Levin: And also our friend, Sean Carroll, has written a wonderful book called From Eternity to Here, which lays these issues out. And I think is a really nice read.
+
+Tim Ferriss: I’ll check it out; I’ll link to that as well. And it makes me think of what a friend of mine said to me at one point during COVID when there was still, I mean, there’s so much uncertainty, but at the time it was all uncertainty. And he said, “I think it’s time to take some peyote and talk to the pangolin.” Maybe there’s something to be said for discerning the subtleties of time.
+
+Janna Levin: It’s not that different from like Roger Penrose. Sir Roger Penrose, who’s an absolute, I don’t know, national treasure for England. He describes that moment of having a realization on one side of a street that he’s crossing, forgetting it while he’s going through the complex process of not getting hit by a car and getting to the other side of the street and feeling elated, but not remembering the thought and how long it took him to recover the thought.
+
+And I think that that’s something, in a sense, that we’re skirting around when we’re talking about film and storytelling and the structure of books and art, is that sometimes we need those other fertile grounds, even if it confuses us for a second, even if we remember the direct A to B logic of the thought, that becomes a kind of a fertile ground for when we recover that thought for it to actually be able to implant in a bigger way or something. I don’t want to overpush metaphors, but I do —
+
+Tim Ferriss: You’re in good company for that.
+
+Janna Levin: Yeah, I do think there’s a sense that sometimes, when you lose your train of thought, when you come back to it, you’ve found a better way to boost it and expand.
+
+Tim Ferriss: I have a question for you that I don’t think you would mind, which was, I suppose, solicited from, by yours, truly our mutual friend, Maria Popova of brainpickings.org. Everyone should check that out, if you don’t know what I’m talking about. One of the most prolific — 
+
+Janna Levin: Oh, my God. She’s unbelievable.
+
+Tim Ferriss: — writers and consumers of information, you want to talk about wanting to hang up your spurs. English is not even her native language. I mean — 
+
+Janna Levin: She’s Bulgarian.
+
+Tim Ferriss: How odd. It’s just, I don’t get it. I mean, Oh, my God. It’s really like sometimes I’m just like, “Okay — ” 
+
+Janna Levin: But she’s phenomenal.
+
+Tim Ferriss: I give up. Yeah. I give up. Amazing. Amazing.
+
+Janna Levin: She’s phenomenal and she’s heard of why — I mean, it’s true. She’s Bulgarian. English is not her first language. She has the lightest, lightest accent, but her command of English is beyond basically anyone else’s.
+
+Tim Ferriss: Yeah, it’s outrageous. It’s really something else. And so this was, I was texting with her asking about any topics or questions that she thought could be fertile to explore. And this is one of the things that she sent me. You might want to ask her about the tension. I think mostly a creative tension, but sometimes a troubling human tension between living with a mind that deals with such vast and remote skills with space and time, she jokes that she isn’t interested in anything that took place less than 500 billion years ago.
+
+Janna Levin: That’s true.
+
+Tim Ferriss: With so much abstract mathematics, which is what theoretical physics is, yet living in a body more to the here and now to the human political and biological realities that we’re living with. Number one, I just want to point out this is a casual text.
+
+Janna Levin: That’s really a — oh, my God. Oh, my God.
+
+Tim Ferriss: For fuck’s sake. I mean, I just want to retire. But this is a question I’d love to explore because one of the things that you alluded to in your math talk was that thinking of these vast scales and periods of time, in some way make your day-to-day grievances and problems seem very trivial, right? Or put them in perspective. So could you speak to that? To the tension between this vast macro-longitudinal picture and then the day-to-day?
+
+Janna Levin: Yeah, I can. But it’s not such an easy package. I mean, I am absolutely as vulnerable to anybody else to the stress of quarantine and the like not grooming oneself, and not my hair is a wild, not socializing and missing your friend. That doesn’t — it’s not a panacea. It doesn’t make me not miss those things or not struggle with those things. But in the bigger scale, I think feeling a freedom from the requirement to conform and some of the pressures of social media, it has helped me in those ways. There’s no question that having a more universal perspective, putting those things into their tiny packages where they belong has been easier for me.
+
+And Maria is absolutely right. I used to call it local politics. Anything that happened more recently than about a million years ago is local politics. And I take very little interest in it. And I don’t get worked up about stuff that’s happening on the earth. But then again, I do. Like I got totally swept up in the recent events. And rightfully because I think if you have even a modest platform, you have to speak out. These aren’t things I want to do. I’ve no interest in politics. I’ve no interest in identity. I don’t see having more melanin, or having this genitalia, or having this psychology. It’s zero interest to me, frankly. But I see it as hurting people close to me and so I’ll speak out and do those things.
+
+But yeah, I find solace in a very far horizon view. Understanding, even though I’m kind of a brutal atheist, understanding, having a sense of meaning and connectedness to the universe, because I realize we are progeny of this universe. We are direct descendants of the Big Bang. We are direct descendants of the generation of stars that made carbon and oxygen. We are direct descendants of neutron stars colliding and providing us with gold, which has actually this insane monetary thing that we exchange with no understanding that the absolute only place that came from was the collision of two dead stars somewhere else in the universe that threw it our way. Like, that gives me such a good, warm, fuzzy sense of meaning that I don’t need to turn to fairies and fantasies. And — 
+
+Tim Ferriss: You can leave that to me. I’ll take that one.
+
+Janna Levin: — probably not a pretty long tangent now, but that’s why I love it. That’s why I love it. There used to be this, and I think it’s fading, but this kind of 1950s attitude murdering to dissect. I mean, most scientists are looking for meaning. And Brian Greene’s recent book is all about search for meaning, and he’s a brutal naturalist as I am and it’s about meaning. And so I think that that shift is starting to happen in the cultural consciousness that scientists aren’t about destroying emotion, they’re about finding a different way of feeling connected to the world.
+
+Tim Ferriss: I like that. That rings true to me. Let’s use this as a segue to an answer that you provided very graciously in my last book, Tribe of Mentors. I asked a question in the last five years, what new belief, behavior, or habit has most improved your life? So I’m just going to read this and then we’ll dive into it. So these are your words. “I used to resent obstacles along the path thinking if only that hadn’t happened life would be so good. Then I suddenly realized: life is the obstacles. There is no underlying path. Our role here is to get better at navigating those obstacles. I strive to find calm, measured responses and to see hindrances as a chance to problem-solve. Often I fall back into old frustrations, but if I remind myself this is a chance to step up, I can reframe conflict as a chance to experiment with solutions.” What led to this realization?
+
+Janna Levin: Oh, man. I mean, gosh, it is one of my best, you know, how we might all have these certain boulders we nail into the wall to cling to. This is one of them for me very much so. I think we struggle with the idea of who’s privileged and who’s not privileged? What opportunities have you been given? What have you earned? And we all have a different balance of that. I definitely had feminist parents, I had intellectual parents. I had a lot of ups and advantages. And when I came to blocks in the road, I really didn’t like that I had people to stand up on me and demand, “What do you have to say about being a woman in science?” It really bugged me. And I thought, “But you’re not talking about all these leg ups I had from all these other people and how I look around and I don’t see a lot of diversity. Why should I only talk about the hardship in my road?” It bugged me instinctively.
+
+And I think that what I realized was I had been sold because of my kind of comfy childhood and idea that life is great, and just don’t screw it up. And that’s false. Life is not great for most people, and they have to do a hell of a lot more than not screw it up. They have to build bridges, and pave ways, and do things no one’s ever thought of. And fight poverty, and find solutions. And I just thought the people that have taught me the most have done those things and that we have to stop fantasizing that we’re — my dad always said, my dad was from a tougher upbringing. And he always said, “Life is unfair.” He told me that all the time. Oh, my God, it’s so hilarious. I can totally hear him saying it, “Life is not fair. It’s not about fairness. Nobody told you you were owed fairness. No such thing.”
+
+And it really taught me to think that, “Oh, life is a series of obstacles. It’s not a paved path.” And the obstacles are what make you and when I’ve really screwed up with something like that, I felt really deep shame. Nobody had to tell me to be ashamed. I felt really ashamed. And when I’ve succeeded in that, I felt really good, and nobody needed to tell me I should feel good about it. It’s just obvious. And so I started to see life as a series of obstacles that were test trials, teaching modules of how to be a better person and to pave the way behind you, not in front of you. And it’s really been a pretty important principle for me, I guess. That when I see something happen I don’t think, “This is so unfair. Why are they doing this to me?” That I think instead, “Okay, am I able to rise to figure out a solution to this?” And I’m not always able to do that. But when I do, I feel like it’s genuine progress.
+
+Tim Ferriss: Well, it’s an enabling lens of agency. Right?
+
+Janna Levin: Yeah.
+
+Tim Ferriss: And I mean, we talked about it a little bit before recording, but I mean, there’s certainly you are whoever you are. And some people certainly much more than others, you’re going to run into boots in the face.
+
+Janna Levin: Boots in the face. Yeah.
+
+Tim Ferriss: And then the question is: what do you do when you run into a boot in the face? And — 
+
+Janna Levin: Yeah, so I think it’s very interesting that certain people with privilege are enraged by a boot in the face because they were told that they had the road paved ahead of them. And it’s an advantage to not think that. So then when the boot is in your face, your immediate reaction isn’t like, “How dare you? I deserve this. I’m owed this opportunity.” That your reaction is instead, “Oh, that’s who you are. You’re the guy with the boot and what can I do to go around you? What can I do to go over your head and to be okay with that?” I think a lot of us cling to the degrees and the accolades and trust me, it’s helped me and my wife to have those things. So I’m not dismissing them. And I’m really grateful for them. But if you’re not going to get that accolade, big deal.
+
+Learn how to pivot, move away from the boot, the boot actually has no power unless you insist on continually pushing against it. Unless you consider it your only avenue forward. And you’re just going to keep pushing until the boot and convince the boot and that, forget it. Move to the left and figure out something else, and go over their heads. And that’s really, really liberating. That took me much longer to realize and it’s super liberating. Suddenly they’ve got no power over you if you’re not interested in the avenue that they offer.
+
+Tim Ferriss: I loved your answer in the book, and I love your explanation. Life is the obstacles. There is no underlying path. It’s actually very relieving in a way.
+
+Janna Levin: It is. And it makes you less resentful. Like why did this happen to me? And this is an unfair. No, it’s not. It’s an opportunity to develop yourself. It’s exciting.
+
+Tim Ferriss: And yeah, your recklessness of yore back in your childhood, I think, has remained with you and not being at least as far as I can tell terribly risk-averse. You try a lot of new things. You seem to have started, in a sense, your mother teaching you how to deeply absorb and read books, to look at the lines, but look between the lines and really pay attention. So you are a woman of words or a girl of words and you became a woman of numbers. And some years ago you started doing poetry readings. And some of them have been incredibly popular. So you found your way back towards, not that you ever completely left. Obviously you’ve done a lot of writing. And I’d love to just explore this through the example of one. And that is a brave and startling truth. This is from the 2018 Universe In Verse. And this is a poetry reading that has gone effectively viral.
+
+Janna Levin: Yeah, go figure!
+
+Tim Ferriss: As far as such things go viral. Why poetry reading and why this particular poem?
+
+Janna Levin: Well, I want to be totally clear about this. I am a prose writer. I have zero foray into poetry. I like poetic prose, but I like prose. It was absolutely my friendship with Maria. And Maria and I both were kids who said things like, “I don’t like poetry,” or “I’m not interested in poetry.” And Maria has a — 
+
+Tim Ferriss: Maria said that?
+
+Janna Levin: Yeah.
+
+Tim Ferriss: Holy moly!
+
+Janna Levin: And she had this wonderful story that she tells about her friend Emily Levine, who’s a petite older woman who slapped her hands on the coffee table in the coffee shop they were in. Stood herself up and began reciting poetry as an act of outrage that Maria said she wasn’t interested in poetry.
+
+Tim Ferriss: I feel like that’s the right approach with Maria. That sounds like a good tactic, yeah!
+
+Janna Levin: And obviously now Maria is the ambassador. She runs the single most popular poetry series in the country. The world, really. And it came out of our collaboration. It’s about the universe, but it’s absolutely 100 percent Maria. And so she similarly forced me in a less public way than Emily Levine did to her, but forced me to start to look deeper into poetry. And so as a brilliant curator, which is really what Maria is, she’s a brilliant essayist and curator, and she’s a brilliant reader. She found poems for me and curated them for me. And a brave and startling truth was the thing about that one was like I kept crying every time I read it at home and I was like, “I will not go up on stage and cry during this poem.” I’m not going to do it. And there are like opera singers who described these with certain arias that they can’t do them because they break down sobbing.
+
+So I had to practice it enough that I could control my impulse to break out into tears. It is such a stunning piece of work. It’s not only Maya Angelou at her best, but she had this fantasy about thinking about space and the poem actually flew to space. It went onto one of the NASA missions and went to space. And it’s like, what we’re talking about structurally and all these levels. It has all these levels. The relationship with Maria, the friendship with Emily Levine, the Maya Angelou that flew to space on NASA. And I finally rehearsed it so that I only choked up a little bit.
+
+Tim Ferriss: What was it that choked you up? And I mean, it’s a beautiful poem. I encourage everybody to listen to it or read it certainly. And I’ll link to everything, but what was it? Is there one thing about it or any particular aspect?
+
+Janna Levin: No. Exactly good question because it’s not one thing. It’s the buildup. It’s the buildup, it’s the layers. We are not devils or divines. It’s not maudlin or saccharin. She describes our ugliness as human beings. And then says — I mean, basically the essence of the concept of the brave and startling truth is that we realize that it’s us. And she doesn’t do it in a saccharine or sentimental way. She describes us as devils. And the ugliness of the human spirit to build up to that kind of epiphany. That when we go out into space, it’s like Earthrise — the picture of the earth rising above the lunar surface taken by one of the Apollo missions. We are out there in space and then we turn around and we look at ourselves. And it’s just Angelou’s like salt-of-the-earth, despite-all-odds belief in the human spirit.
+
+Tim Ferriss: Yeah. It’s a wonderful piece.
+
+Janna Levin: It really is extraordinary.
+
+Tim Ferriss: It’s a wonderful piece. And you are so fun to talk to.
+
+Janna Levin: Oh, man, Tim. We also have fun in person, which not everybody knows. So we overlap here and there, sometimes on purpose sometimes by accident, but it’s always such a pleasure.
+
+Tim Ferriss: Yeah. I’m so thrilled that you were able to make the time to have a chat. It gave me an excuse to grill a friend and do all this homework, which I really, really enjoy. It provides so many extra layers as we’ve been saying about many things. And is there anything else you’d like to share or mention that I haven’t brought up?
+
+Janna Levin: Well, just that I’ve been trying to get you — you’ve been out to Pioneer Works, but I would love to have you out on our stage. And whenever the modern plague allows, we really want to have you come join our community of oddballs, and artists, and musicians and be on the broadcast. So I’ll be, I’ll be pursuing you, man.
+
+Tim Ferriss: I’d love to do it. I’m in. I would love to do it, pandemic allowing.
+
+Janna Levin: Pandemic willing. Exactly. I mean, we were scheduled to do something with you in June tentatively. I think we’ll make it happen.
+
+Tim Ferriss: Then the book of Revelation started.
+
+Janna Levin: Yeah. I’m pretty sure locusts are next, they’re happening in Africa literally. There’s a locust plague. It’s bananas. Maybe we’ll have, as my friend says, the alien invasion. Or a hurricane.
+
+Tim Ferriss: I have to bring this up because you mentioned aliens. Are you aware that the government during the pandemic effectively said, “Yep, there are aliens, or there are UFOs and here’s a bunch of footage from the military.” And it went effectively without any commentary. It’s like, “Oh, yeah. No, we’ve known about UFOs, they are a real thing. Here’s some footage.” And it just went by like nothing happened.
+
+Janna Levin: Hilarious! I am aware, but I admit I haven’t done the study to suss out the legitimacy.
+
+Tim Ferriss: Yeah. I haven’t done any forensic analysis of this — 
+
+Janna Levin: No forensic analysis.
+
+Tim Ferriss: But if you, people can do their own searching. If you search military footage, UFOs, and that does not mean aliens. We’ve read that, so I misspoke. but unidentified flying objects, maybe we’re in a video game. That’s all I’m saying. I feel like — 
+
+Janna Levin: We’ll have this conversation later because I’m a big believer that life in the universe is, it’s impossible that we’re the only ones, but I have very cynical ideas that they have the same technology, that they live right now, that we’ve been around for a bleep. They’re not here at the same time right next door. I have a lot of cynicism about that kind of stuff, but I’m very, very open to the idea that there’s life in the universe.
+
+Tim Ferriss: Well, I think that deserves a bottle or two of wine.
+
+Janna Levin: Yeah, man. Can’t wait to see you!
+
+Tim Ferriss: Once again, pandemic allowing.
+
+Janna Levin: Yeah.
+
+Tim Ferriss: And Janna, you’re so much fun and people should definitely check you out wherever they can @JannaLevin, on Twitter and Instagram, jannalevin.com. Your books are incredible. You’re an excellent writer. And you have a new book coming out in the not-too-distant future, Black Hole Survival Guide scheduled for publication at the end of 2020, we shall see. So TBD.
+
+Janna Levin: And it’ll be a tiny little thing, like a thing you should put in your back pocket. It’s going to be like an object more than like a thick book.
+
+Tim Ferriss: I like that idea.
+
+Janna Levin: And it’s Lia Halloran, the artist Lia Halloran did these gorgeous paintings for it. So it’s going to be really like an object. Yeah.
+
+Tim Ferriss: Can’t wait to see it. I can’t wait. And we are recording this on a Friday. And I want to let you get to your weekend. Mentioning wine has got me thinking about some wine.
+
+Janna Levin: I know, I’m about to go get some wine.
+
+Tim Ferriss: And once again, thanks for making the time. This has been so much fun.
+
+Janna Levin: Thanks, Tim. Such a pleasure. Miss you. See you soon.
+
+Tim Ferriss: I miss you too. And to everybody listening, thank you for tuning in and we will link to everything. All of the things that we brought up we’ll have links to them in the show notes as usual, just go to tim.blog/podcast. Or you can just go to tim.blog really and search Janna, J-A-N-N-A and it’ll all pop right up. And until next time, thanks for tuning in.
+
+
+TAGS
+JANNA LEVIN
+	

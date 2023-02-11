@@ -1,0 +1,846 @@
+
+
+FEBRUARY 7, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Bob Metcalfe (#297)
+
+
+Please enjoy this transcript of my interview with Bob Metcalfe (@BobMetcalfe), an MIT-Harvard-trained engineer-entrepreneur who became an Internet pioneer in 1970, invented Ethernet in 1973, and founded 3Com Corporation in 1979. 
+
+Bob Metcalfe -- The Man (and Lessons) Behind Ethernet, Metcalfe's Law, and More
+
+Tim Ferriss: Hello, boys and girls, ladies and gents, mogwai and gremlins. This is Tim Ferriss, and welcome to another episode of the Tim Ferriss Show where it is my job each and every episode to tease out the habits, routines, favorite books, etc., of world class performers from a wide, wide spectrum of fields. Sometimes, they come from sports. Other times, military, chess, business, you name it.
+
+In this case, we have a serial entrepreneur, Bob Metcalfe @bobmetcalf on Twitter. Bob is an MIT Harvard trained engineer and entrepreneur who became an internet pioneer in 1970, invented ethernet in 1973, and founded 3Com Corporation in 1979. Roughly 1.2 billion ethernet ports were shipped last year, 400 million wired and 800 million wireless Wi-Fi. And 3Com went public in 1984, peaked at $5.7 billion in annual sales in 1999, and after 30 years, became part of HP. And that was last year.
+
+Bob was a publisher pundit for IDG Info World for about 10 years and a venture capitalist for approximately 10 years with Polaris Venture Partners where he continues as a venture partner. Bob is a member of the National Academy of Engineering and a recipient of the National Medal of Technology.
+
+We talk about just about everything from how he cheers, in other words, when he does a salutation when people are drinking wine or whiskey or whatever it might be. We talk about the early days. We talk about how he learned to hire and fire, the right things, the wrong things to do, scaling businesses, different types of approaches to evaluating talent. The critical decisions he made, the mistakes, in some cases, that he has made, how he’s gotten himself out of very dark periods. And from start to finish, a really fascinating journey of a conversation that I tremendously enjoyed. So, I’ll leave it at that.
+
+Without further ado, that’s I think how you say it, without further ado, what the hell am I trying to say here? Without further ado, there we go, I was trying to make it French. Without further ado, please enjoy this wide ranging conversation with Bob Metcalfe. Bob, welcome to the show
+
+Bob Metcalfe: Thank you.
+
+Tim Ferriss: I am really thrilled to connect and so happy to have you here, especially given that I suppose I’m now technically – I don’t know if I should call myself an Austinite, but I live in Austin.
+
+Bob Metcalfe: Well, nice of you to move here. It makes this interview so much more convenient.
+
+Tim Ferriss: It does make it more convenient. Is Austinite one of those self descriptions that you have to wait a certain period of time to earn? Or as soon as someone lives here, can they call themselves that? I think back to Long Island, we both have some history with Long Island. And where I grew up on Eastern Long Island, if you were to call yourself a Bonacker, that has a very specific association with families that have been around for a long time. Does Austinite have that, or not so much?
+
+Bob Metcalfe: I don’t know about it. I consider myself an Austinite because I live in Austin, but maybe I’m being presumptuous there. I don’t know.
+
+Tim Ferriss: You’ve been here how long now?
+
+Bob Metcalfe: Seven years and a month.
+
+Tim Ferriss: Seven years and a month.
+
+Bob Metcalfe: And I say that makes me a native, but then, they look at you. I actually prefer to think of myself as a Texan rather than an Austinite. I, technically, don’t live in the city of Austin, even though that’s my mailing address. I overlook the city of Austin.
+
+Tim Ferriss: So, I think we’ll come back to Austin, given your teaching. But what I thought we might start with is, for many people, something they probably don’t associate you with, and that is tennis. So, I actually, for the first time in my life, had proper tennis instruction last summer. I really wanted to – I’ve always wanted to learn tennis. But I associated that growing up as a townie on Long Island with city people. That just wasn’t something that the townies did. And I secretly pined after learning how to play tennis. And it seems like the sport has had an impact on your life.
+
+And, if I understand correctly, you’ve learned so much from the game that you considered writing a book about it? Is that just an internet misquote?
+
+Bob Metcalfe: Well, I didn’t write the book, but I thought about it –
+
+Tim Ferriss: You considered it. You thought about it.
+
+Bob Metcalfe: Because I’ve learned so much, and I think about tennis – I don’t play much of it anymore. I intend to get back, but I have to lose 50 pounds. My playing weight was 50 pounds lighter than this. So, I’ve been out there. I hurt myself last time I went out. One of my specialties, in tennis, is chasing the ball down on a clay court. And so, I got up a head of steam on one of these balls that got over my head and ran it down and returned it. And then, realized I was running at the fence at full speed carrying an extra 50 pounds and went bam, right into it. So, I think I’m going to go back to tennis after losing some weight.
+
+Tim Ferriss: Well, I’ll extend the offer to help, if you’d like, just having spent so much time in that world. But why does tennis appeal to you? What have you learned or observed in the game of tennis that can apply elsewhere?
+
+Bob Metcalfe: Lots of things. But the first word that comes to mind is how to compete, competition, and what it takes to win. I like to win. I became more competitive. I played competitive, tournament tennis. This was a long time ago before I’d ever turned – in fact, I preserved my amateur status. Twice, I won $100.00 prize, and I turned it down.
+
+Tim Ferriss: Oh, to preserve amateur –
+
+Bob Metcalfe: To preserve my amateur status, which I effectively did. Another way to preserve your amateur status is to lose. So, I got to the finals of the New England B championship and lost in the finals. And I got to – in 1972, I was ranked sixth in New England with my doubles partner in doubles. And we secured that position by losing in the semifinals of the New England Hard Court Championship. So, that’s an effective way of staying amateur.
+
+Tim Ferriss: What makes a good competitor, in tennis or otherwise? It could be specific to tennis. But when you say you learned to compete, what does the before and after look like, once someone has learned to compete?
+
+Bob Metcalfe: Lots of differences. But the one I hang on is some people, when they miss a shot, they’ll throw their racket or smash it on the ground and stomp around. And that positions them to do even worse on the next point. So, one of the things I focused on was, if I make a mistake, I don’t throw my racket. I don’t smash it. I don’t get upset. I try to correct and improve. And I think that makes a big difference. My doubles partner, actually, would take his racket and smash it on the tennis post. And, on those days, you didn’t carry two or three rackets. So, he would smash it, and they were wooden rackets, by the way.
+
+So, when you’d smash it, it was quite dramatic. Well, I never smashed a racket because I tried to channel my energy, and that made me a more effective competitor.
+
+Tim Ferriss: Did you – how old were you, at the time, at your peak of competition, roughly?
+
+Bob Metcalfe: My peak would be 1972. That’s arithmetic now.
+
+Tim Ferriss: We’re talking end of high school?
+
+Bob Metcalfe: No, no, that’s the end of college. That’s four years after my PhD – my PhD I got the same year. So, I was 20 something.
+
+Tim Ferriss: Were you developing, at that time, the ability to compete or not be emotionally reactive in other areas of your life? Or was it mostly siloed to tennis? I guess what I wonder is did you enjoy competing in other aspects of your life simultaneously?
+
+Bob Metcalfe: Well, it came later. I think my competition was channeled in tennis. I played a lot of tennis. Every weekend, I had a tournament, practice during the week. I played varsity tennis at MIT. I was captain of the MIT tennis team. So, I played a lot there, three or four hours a day. And I loved to win. And I beat a lot of – everybody I ever beat always told me they were having a bad day.
+
+Tim Ferriss: It could be true. It’s plausible.
+
+Bob Metcalfe: I played public court tennis. I learned – I played tennis at Bayshore School System on asphalt. And when I say asphalt, I don’t mean hard courts. I mean like the kind they make roads out of. And our courts were asphalt. And my coach used to say, Ben Ostrin was his name, you only have to win the last point. And so, the goal is to get the ball back one more time than anybody else. And so, I tended to outlast people on the points.
+
+Tim Ferriss: Did you get the competitive drive? Was that drive organically just through your life experiences? Or was that learned from parents or other influences?
+
+Bob Metcalfe: I wouldn’t say my parents were very competitive. So, I think I may have picked it up playing tennis.
+
+Tim Ferriss: And we’re going to jump around quite a bit because that’s just the nature of how I tend to talk to my friends. And I know we’re just getting to know each other. But my conversations tend to be somewhat Memento-like, in reference to the movie that is extremely hard to follow.
+
+Bob Metcalfe: So, you mean, we’re leaving tennis already?
+
+Tim Ferriss: Well, we don’t have to. We don’t have to leave tennis. Is there anything you’d like to add related to tennis?
+
+Bob Metcalfe: My specialty was doubles. And I loved to play with a partner and have teamwork and have specialties. And that was another way of winning because you can optimize the two players. One is good at hitting hard. One is good at chasing the ball down. One is good at the second serve. And you just play the strengths of the two players. That was the part I really liked the best. So, that sixth ranking in New England in 1972 was my highest ranking ever. And it was achieved with Brookfield, Skip Brookfield who knocked the hell out of the ball, but it usually went out. See, in tennis, you learn to hit the ball harder and harder and harder, but it’s more important for it to be in.
+
+Tim Ferriss: Right.
+
+Bob Metcalfe: And Skip never had that, but he could knock the hell out of a ball.
+
+Tim Ferriss: How much time did you spend developing your strengths versus fixing your weaknesses? How did you think about how to allocate your time and energy to those two things, if you did?
+
+Bob Metcalfe: Well, one of the things I learned, in tennis, is the value of getting a coach. So, I would – and I was blessed with coaches in both high school and college who knew how to teach. You can win at tennis, but then, you can also teach tennis. And those are not the same thing. And I had great coaches. But they would point out weaknesses. So, I guess my answer to your question is I focused on fixing things that were wrong with my game to bring the whole thing up to an acceptable level because your opponent will find your weakness and play it. So, you have to be sure not to have too many of those.
+
+Tim Ferriss: I suspect we’ll probably come back to this just thematically. We’re going to come back to a lot of these points probably in the realm of business, maybe elsewhere. But I would love to hop ahead, and I think I’m getting the date right, May 22, 1973.
+
+Bob Metcalfe: That’s an important date in my history.
+
+Tim Ferriss: Could you explain why that’s an important date for people?
+
+Bob Metcalfe: On May 22, 1973, I was sitting in my office at Xerox Palo Alto Research Center in Palo Alto, California. And I had been given the job of, for the first time in the history of the world, networking a building full of personal computers because there weren’t any personal computers in 1973 to speak of. And I was lucky enough to get that job. So, leading up to that May 22 day, some ideation and travel and so on. But on that day, I sat down at my IBM Selectric typewriter and typed a memo outlining how ethernet would work. So, that’s the ethernet memo.
+
+Tim Ferriss: And did you refer to it, at that time, as the ethernet?
+
+Bob Metcalfe: That was the memo in which ethernet was named.
+
+Tim Ferriss: How did you choose that name?
+
+Bob Metcalfe: Well, in building the network, we chose to use a half inch thick coaxial cable to carry – shared among all of the attached PCs to carry the packets back and forth among the PCs. But we chose the coax for very particular reasons. And we anticipated maybe, if we did it again, we would choose a different medium. Twisted pair or optical fibers or radio, for example. So, we didn’t call it coax net. We called it a generic thing. And there was this word ether floating around. The ether was once thought to carry light from the sun to the earth. The luminiferous ether.
+
+Tim Ferriss: Luminiferous.
+
+Bob Metcalfe: Light bearing. And then, around 1900, it was shown there was no ether. The light got here without a medium. So, the word ether fell into disuse. And it was there for us. So, omnipresent, this cable would go everywhere. Completely passive, it wasn’t powered. It just sat there. And it was a medium for the propagation of electromagnetic waves or data packets. So, hence, ethernet. That’s how it happened.
+
+Tim Ferriss: So, for people who are not familiar, what did ethernet represent, in terms of change and innovation? What was the significance, in your words or the words of others, of ethernet?
+
+Bob Metcalfe: So, ethernet is the plumbing of the internet. Its job is to carry packets around, physically around the world on these interconnected ethernets. So, think of it as the plumbing. And what you’d generally think of as all of the guys above it who have all of the fun. Google and Facebook and all of those people, they’re up there. But everything they do, eventually, becomes launching packets around the network. So, we’re the plumbing. I had, in my office at Xerox, the most modern computer terminal in the world, a Texas Instruments Silent 700.
+
+And it could type characters on a piece of paper at 30 characters per second. And those characters arrived over a thick cable that carried the bits at 300 bits per second. Remember that number, 300. When Dave Boggs and I built the first ethernet, it ran at 2.94 megabits per second, roughly, 10,000 times faster. So, in one day, we went from 300 bits per second to roughly 3 megabits per second. So, that is the principle change. So, we began to think of bandwidth and not as a scarce commodity but in abundance because we had 10,000 times more than we’d had before.
+
+Tim Ferriss: When did your interest in networks develop? I don’t know if ARPAnet came in early in that interest in networking or later. But how did you become interested in what would ultimately become ethernet? What were the seeds that led you down that path?
+
+Bob Metcalfe: Well, at MIT between ’64 and ’69, I was a computer science student, but there was no computer science then. So, I was an electrical engineer and a management student, at the same time. And then, I went to grad school, and I made a mistake. And I went to Harvard Grad School, which was terrible. I lasted a week before I was back working at MIT again.
+
+Tim Ferriss: Why was that?
+
+Bob Metcalfe: Because I’m an engineer, and Harvard doesn’t’ like engineers, to this day.
+
+Tim Ferriss: Got it.
+
+Bob Metcalfe: By the way, you would think that, by now, 50 years later, I would have lost this bitterness toward Harvard, but I haven’t. It’s still here. And that’s a long story, which you could ask me about later because it has some fun parts.
+
+Tim Ferriss: I will ask you later.
+
+Bob Metcalfe: The roots of my animosity towards Harvard University. But the – where was I going with that?
+
+Tim Ferriss: I was asking you about the seeds.
+
+Bob Metcalfe: Oh, yes. So, when you’re a grad student, so I showed up at Harvard in the fall of ’69, and I needed to find an advisor and a topic to get my PhD two or three or four or five years, ten, fifteen years later. And the big, hot, computer science research project was ARPAnet. It had just been started. And so, being opportunistic, I said, okay, I’m going to do something. So, that’s how I ended up in networking was just because that’s what grad students do. They do whatever is funded. And ARPAnet was funded.
+
+Tim Ferriss: Can you explain for folks what ARPAnet is or was?
+
+Bob Metcalfe: Well, ARPAnet is the internet, only it’s an early version of the internet. And there’s a lot of debate about that.
+
+Advanced Research Projects Agency of the Department of Defense used to buy computers for each of its research universities, so they could do their computer research. And they got tired of buying one for every campus. So, they said we should do resource sharing. And what that meant was, from any campus, you’d be able to use all of the other computers at other ARPA sites. So, the first app was called Resource Sharing, and it meant being able to log in from a terminal in one university and run programs and process your data at another university. And that app was not the killer app. It turned out, within a year, email became the killer app.
+
+But it started out as resource sharing. So, as a grad student, I proposed – I had just finished learning digital electronics at MIT as an electrical engineer. So, I’m up at Harvard, and I can see that Harvard needed to connect its computer to this packet switch.
+
+ARPA dropped off a packet switch at each of its major universities and connected them with high speed modems. And then, you had to connect your computer to the packet switch. So, fresh from MIT Digital School, I volunteered at Harvard to build the hardware to connect Harvard’s computer to the packet switch. And Harvard, this is the beginning of my answer, Harvard said, “No, that’s too important work to leave to a graduate student.”
+
+Tim Ferriss: Singer.
+
+Bob Metcalfe: So, I turned around, went down the street to MIT, and they gave me a job doing exactly the same thing. So, they paid me. By the way, I was paid more than my Harvard advisor, which is a whole other story. And that annoyed him.
+
+Tim Ferriss: I can imagine.
+
+Bob Metcalfe: So, I built this device to connect an IMP, that’s the packet switch of the internet to the local computer at MIT, a PDP 10. And I built it. And I asked MIT, and they said you can build another one and give it to Harvard, if you want. And Harvard wouldn’t accept it because it was too important for a graduate student.
+
+So, I built that hardware. Now, that hardware could be described as carrying bits one at a time down a long wire, which is my essential skill. And I had actually practiced some of that at MIT prior, not for networking, but building digital electronics. So, I sort of developed a specialty in sending bits one at a time down a long wire. And this device did that. And then, when I went to Xerox right after my PhD, I went to Xerox Research, and the first thing I did there was build another one of these devices to connect the Xerox computers into the internet. And then, it was in that moment that we started developing what are called personal computers.
+
+Tim Ferriss: There are so many different avenues we could go down here. But I’d like to help people with a definition because I do find the plumbing of what we now think of as the internet and the web fascinating. And it’s helpful to understand some of the terms. So, you mentioned packet a few times. Can you explain to people what a packet is, in the context that you’re using it?
+
+Bob Metcalfe: Okay. So, you’ve got to start with bits, ones and zeros. And all computing is done, roughly speaking, with ones and zeros – no, not roughly. All computing is done with ones and zeros. And then, you take those ones and zeros, and you put them into groups. Call those bytes, or you could call them fields, if they’re bigger. So, you string a bunch of fields of bits together. And then, if you put on the front of it a field, which is the address of a place that you’d like these bits to go, then, you have the makings of a packet. So, a packet is a bunch of bits with an address on the front.
+
+And you give that to a packet switch, and it sends it off toward this destination. So, a packet is a bunch of bits heading in a certain direction with an address on them.
+
+Tim Ferriss: Thank you.
+
+Bob Metcalfe: But there are usually two addresses, a destination address and a source address. But, actually, there are four addresses because there’s the destination and the source in the local environment. And then, there’s the ultimate destination and source. And that’s an internet protocol address as opposed to an ethernet address.
+
+Tim Ferriss: The internet protocol is the IP of the TCPIP?
+
+Bob Metcalfe: That’s right. TCPIP, Transmission Control Protocol Internet Protocol, TCPIP. And the IP is our internet packets. And they have four addresses. They have the ethernet address, which says where to go locally like right over there, in order to get closer and closer and closer to the big address, which is the ultimate destination of the packet.
+
+Tim Ferriss: Thank you. When does Metcalfe’s Law enter the picture? Or what has become –
+
+Bob Metcalfe: You like to jump around, don’t you?
+
+Tim Ferriss: I do. I do like to jump around. But we can go wherever you like, if there’s more natural –
+
+Bob Metcalfe: Well, let’s do Metcalfe’s Law for a while. So, in 1979, I founded a company called 3Com to deliver the fundamental – deliver the plumbing, to build out the plumbing of the internet, which was just now spreading. What ethernet did was allow the internet to go into a building and visit all of the desks. Prior to that, internet just acme to the building and stopped in the computer room. This allowed it to go, and it led – so, most machines are on ethernet. They’re not o the internet directly. So, my company started selling ethernet cards about this big.
+
+And they would plug into your PC and allow a cable to come to your PC and put it on the ethernet, which then, put it on the internet. And one of the problems my company had in 1981 were there were no personal computers.
+
+It was hard to sell. And we were running out of money. We had venture capital. And so, we made up this idea of a trial, a kit, three node network for $3,000.00. You get three cards. You can plug them into the three IBM PCs, which were just beginning then. And then, you’d hook them together with a cable. And then, we had a diskette full of software. And the software allowed you to share a printer. So, you’d connect a printer to one of the three PCs. And then, the other two PCs could share it. Or you could put a disk on one of the PCs, and then, the other two PCs could share it.
+
+And then, there was software that allowed you to send an email from any one of the three PCs to any one of the other two. And this kit was a $3,000.00 kit. And my company sold it, and people bought it because it was novel and interesting. And it worked. That is people found – we’re heading towards Metcalfe’s Law.
+
+Tim Ferriss: I’m in no rush.
+
+Bob Metcalfe: It’s coming up.
+
+Tim Ferriss: We have as much time as we need.
+
+Bob Metcalfe: So, people bought this trial kit. And they put their three PCs together, and it shared the printer and shared the disk and exchanged the emails. Of course, how useful is email among three nodes? And they told us that the product did what it said, but it was not useful. So, I then, went in a trance. I was head of sales and marketing, at the company, at that time. By then, I ran over to Stanford. Xerox had donated some early PCs called Altos. We had donated them to Stanford. And I went over there, and I had access to the computer room there. And I made up a slide. And the slide, basically, said that the cost of your network goes up linearly.
+
+As you buy one of my cards, the network gets bigger and bigger, and the cost goes up linearly, say $1,000.00 a card. It was like that. But the number of possible connections went up as N2.
+
+That is each node could talk to the other N, and when you added another node, it could also talk to the other N, which could also talk to it. And if you do the math, the number of possible connections goes up roughly as N2. So, I made this slide showing the linear and then showing the quadratic passing the linear, as it always does, overtakes it at some point. And then, call that the critical mass point. And I said – oh, and I drew this out, took a picture with a camera because we didn’t have Power Point. So, I took a picture with a camera, developed it into 35 mm slides, and handed six slides out to my salesforce, which had six people in it.
+
+And we made the following argument. The reason your network is not useful is that it’s too small. And what’s the remedy to that? Buy more of our products. And they did. And it proved true that your networks turned useful.
+
+And we went public in March of 1984. Now, it’s been asked many times, especially by engineers who are suspicious of sales and marketing people, whether that slide was a lie. Was I lying by saying, if you made the network bigger, it would be more useful? And the answer is no, I was not lying. And I’m fond of saying it’s because I had a time machine. The Xerox Research Center was a time machine. And I took it out 10 years into the future, filled Xerox with PCs and LANs and laser printers and internet routing boxes, and it was good. And everyone could see that it was good.
+
+So, when I wrote that slide that night, I was not lying. I was predicting, based on 10 years of experience, what would happen. And it proved true, and my company went successfully public. Ten years later, that slide, which said the value of a network rose as the square of the number of connections or abusers by a man named George Gilder. He called it Metcalfe’s Law. So, since 1995, I’ve been enjoying and defending Metcalfe’s Law.
+
+Tim Ferriss: I have several follow up questions. The first is why did you name the company 3Com?
+
+Bob Metcalfe: Oh, that’s easy. In 1979, on June 4, when the company was founded, hat I wanted to accomplish with this company was to connect computers together. And what we had discovered, in building the ARPAnet, is that every vendor of computers had their own programming languages and operating systems and computer protocols for communication. So, the purpose of my company was to provide computer communication compatibility, com, com, com, 3Com. So, that’s where I got the name.
+
+Tim Ferriss: And you mentioned, in passing, the general aversion, to put it lightly, that engineers have with respect to sales and marketing. How did you decide to start a company? Were you already entrepreneurial and tried various things? What was the impetus behind starting the company? And not to say being entrepreneurial was automatically sales and marketing, but it’s certainly a component, generally speaking. How did you decide to pursue or create 3Com?
+
+Bob Metcalfe: So, my parents were not entrepreneurial. They never went to college. They – actually, my father did start a company once that was called BAM Electronics, Bailey, Abrahamson, and Metcalfe Electronics. And it lasted a year. And its purpose was to fix TVs. TVs were new then, and they would break. And the way you fixed them was to replace tubes. So, he had a company to replace tubes.
+
+But, eventually, Metcalfe believed that he was the hardest working of the three. And Bailey thought he was the hardest working of the three. And Abrahamson thought he was – so, the company blew apart in a year. But that’s as close as my family got to entrepreneurship. But then, I went to MIT. And when I arrived there in ’64, MIT was at the heart of what would later be called Silicon Valley on the east coast. So, Route 128 was –
+
+Tim Ferriss: Absolutely.
+
+Bob Metcalfe: So, suddenly, I’m surrounded by entrepreneurs and role models. And so, I guess that was the beginning of it. And I was involved in starting three companies at MIT as an undergraduate. And then, a little bit in grad school. And then, I moved from 128 to Palo Alto, which was beginning to be Silicon Valley with some – so, you could say I moved Silicon Valley from – or I was doing it the same year anyway. And there, I suddenly surrounded – I met Steve Jobs. I met Bill Hewlett and Dave Packard and Bob [inaudible], all of them.
+
+And there is one impression that you walk away with, when you meet those people, when you meet people like that. And the impression is, if this person can start a company, then, I can. But they become human. You can see the limitation. They’re human beings, and if they can do it, you can do it. And the question is how to figure it out.
+
+Tim Ferriss: How did you end up the head of sales and marketing? And how did you get good at sales and marketing? Or how do you think about it? I know those are a lot of questions wrapped into one.
+
+Bob Metcalfe: Well, I was an engineer at Xerox. And they had a charm school. That is this company was so big, they had their own university in Virginia, and you could go there, if you wanted, as part of your development.
+
+Tim Ferriss: You said charm school, right?
+
+Bob Metcalfe: We called it charm school. And I went, and I took a course called Xerox Selling Skills. And, by the way, there were 35 people in the class. And 34 of them were blonde women.
+
+Tim Ferriss: Why did you decide to take the course?
+
+Bob Metcalfe: There weren’t that many choices.
+
+Tim Ferriss: Aside from 34 blonde women?
+
+Bob Metcalfe: That wasn’t until I arrived that I realized I had hit pay dirt there. There was another course called managing tasks through people. I took that one, too. But then, time passed. I started my company. I was chairman, CEO, president. And we raised –
+
+Tim Ferriss: This is 3Com.
+
+Bob Metcalfe: It’s 3Com Corporation in 1979. In 1980, we were initially consulting for revenue. And then, we started selling a book that we developed. Then, we were getting ready to have products, and we raised venture capital. And one of the things that we do is, then, you recruit adult supervision. Term of art, adult supervision.
+
+Tim Ferriss: It still happens quite a bit now.
+
+Bob Metcalfe: Well, it’s important.
+
+Tim Ferriss: Or it’s foisted upon you, depending upon how the board is composed.
+
+Bob Metcalfe: Well, you’re lucky if they foist it upon you.
+
+Tim Ferriss: Yeah, no, no. I’m not saying – I have no position here.
+
+Bob Metcalfe: Anyway, I didn’t learn this from Steve Jobs, but I later saw that Steve knew this, which is you need adult supervision. A lot of people think Steve was the CEO of Apple. Well, he wasn’t the CEO of Apple until 1996. He founded the company in 1976. So, it took him 20 years to make CEO. I was the CEO, but I saw that I needed adult supervision, so we recruited Bill Kraus from HP. And that was a good decision. Bill joined the company when there were 12 of us, and we kicked him upstairs to chairman when there were 12,000 of us. So, he did good.
+
+Tim Ferriss: Yeah. That’s a hell of a run.
+
+Bob Metcalfe: He’s good. But when he arrived, he then became the CEO. And we were running out of – we were starting to spend that venture capital.
+
+And the board of directors asked – I was kind of annoyed. I recruited Bill, but I didn’t recruit him to be CEO. But then, it became obvious to the board that he should be CEO. And the board then said, “Bob, we want you to be head of Sales and Marketing.” That’s how I got the job. And I was the VP of Sales and Marketing. I was also the only member of that function. There were no salesmen. There were no marketing. There was just me. So, I started learning really quickly.
+
+Tim Ferriss: And did you have the skills, the toolkit to do that job partially because of the class that you took at charm school? Did it help? Or was that –
+
+Bob Metcalfe: That helped enormously, but it was – keep in mind, our revenue was zero. So, the kind of selling that was required was personal selling. And having invented the technology, I was in a good position to do personal selling because I could get an appointment with anybody.
+
+Tim Ferriss: Right.
+
+Bob Metcalfe: I invented this. I’d like to come talk to you about it. So, I could get appointments that a normal sales person couldn’t get. And I took us from $0.00 to $1 million a month in revenue. But then –
+
+Tim Ferriss: Just you alone?
+
+Bob Metcalfe: No. I recruited, eventually, it was six regional managers, but, initially, three. And you’d be surprised how many more orders you get when you actually go out and ask for them. And so, revenue started upward from zero. But when it hit around $1 million, and this touches on one of my favorite metaphors, I redlined, and we needed to shift gears because selling is very complicated. So, sales competition, territory management, channels of distribution, contracts, it’s complicated. So, Mike Haliberko was recruited from HP to be our new head of Sales and Marketing.
+
+And he took us from $1 million a month to $5 million a month. And then, he redlines. So, he succeeded and then, redlined. And then, we replaced him with Chuck Kempton. And Chuck took us from – I’m losing track of the numbers here, but $5 million to $25 million a month. And then, he redlined. And then, we got Bob Finnochio to take over there, and he took us into the billions. So, what we were doing was shifting gears. And you have to do a lot of that, when you’re growing a startup. You have to be sure of the – see, the company is growing more rapidly than the people.
+
+And you have to pay attention to which people have been left behind by your accelerating company. And then, you need to, in some cases, shift gears.
+
+Tim Ferriss: Does that relate to operating ranges?
+
+Bob Metcalfe: Yes.
+
+Tim Ferriss: Can you explain what that refers to, what operating ranges refer to?
+
+Bob Metcalfe: Well, people have, if you look at different sizes of companies, people have skills related to size, scale.
+
+So, for example, my specialty is, when chaos reigns, and the company doesn’t quite exist yet, and that seemed to be where I performed the best. But then, there’s people like John Scully, a buddy of mine, who knows how to run a multibillion dollar company. We do not know the same stuff. We have a different temperament. So, his operating range is up in the billions per year. And my operating range is zero to $1 million a month. That’s what I mean by operating ranges. So, some of it is the details of the – for example, when you’re running a multibillion dollar company, you have different divisions for different products.
+
+You have different channels of distribution. And there are many layers of management. And you have different skills. Like when you’re engineer, you build things. When you’re an engineering manager, you manage people who build things, which is different from building them. And then, when you’re a manager of managers of engineers, even that’s a different task. So, different people – some people have very broad operating ranges. And some people have very broad operating ranges. And some people have very narrow ones.
+
+Tim Ferriss: And what did you find to be the most effective approach for informing someone that they needed to be replaced. So, you have these various players with different operating ranges. And you mentioned four or five names at different stages needed to be replaced with someone else. What did you find to be the best or most effective way to make those transitions?
+
+Bob Metcalfe: Well, what we’re talking about is management. So, it’s up to management to make the very subtle decisions about, if you have a sales person who is underperforming in a region, is it because the sales person isn’t right? Or did you set their quota too high? Or is that market not really as big as you thought? And thinking that through and deciding is called management. And, eventually, sometimes, you reach – that person really needs to be replaced. So, one thing I learned about that is never fire anybody alone.
+
+Tim Ferriss: Never fire anyone alone?
+
+Bob Metcalfe: No, you should bring help. So, you usually bring the head of human resources to help you because funny things happen when you let people go. By the way, in all of these cases, we offered the person the option to take another job at the company. But that didn’t work. I remember Chuck stormed out the door. He wasn’t going to put up with that because he disagreed with our management assessment that he was the problem. And we offered him a regional thing. I forget what it was, but he wasn’t having it, and he stormed out. In the case of Mike Haliberko, when we replaced him as national sales manager, he took over the western region and prospered. So, you have different outcomes. But you should never do it alone.
+
+Tim Ferriss: So, never fire alone. And is that just for moral support? Or how does that help? And then –
+
+Bob Metcalfe: Well, it keeps – some people get very upset when you fire them.
+
+Tim Ferriss: I’m sure.
+
+Bob Metcalfe: I’m sure I would.
+
+Tim Ferriss: I’ve been fired. I wasn’t too happy about it.
+
+Bob Metcalfe: I’m smarter than you. I always quit just before they’re going to fire me. That’s not smart from a compensation point of view, by the way. It’s much better to be fired than to quit because you get your severance package. No, it’s just better to have more than two people in the room to keep things calm. And it’s not personal. It’s business. And here are some alternatives. So, don’t do it alone. And the other thing I learned is, about halfway through the interview, you both realize it’s the right thing. And you don’t want to do a job that you’re not doing well.
+
+You want to go find one that you can do well. And so, this is getting that message, and then, you make the adjustment. Some do, and some don’t. Some get very upset. I remember Marlene.
+
+We needed sales people, and she was our marketing person. And so, I took her for a walk. We used to do this around the parking lot. The building had a parking lot around it. So, this is before I learned about don’t do it alone. So, she and I went on this long walk around the building. We probably did it 10 times. And I explained to her that I needed her to be a sales person and to cover the Northern California region. And we didn’t need the marketing she was doing. But she saw herself as a marketing person. So, she argued with me 10 times around the building and, eventually, quit.
+
+That day, she quit because she wasn’t going to take the sales job. Then, she went off and started another company and made millions of dollars. And so, that would be evidence that she needed a different kind of job. And she found it, and everything went well. Anyway, you don’t want to fire people. It’s no fun.
+
+Tim Ferriss: No, and we came to this a little earlier than I anticipated because the operating ranges – I have questions about hiring coming up right after this.
+
+But are there any particular opening lines or any language that you found very helpful in having those difficult meetings? Because I’ve worked with many startups. And I’ve largely stepped out of that type of work, as of about two years ago. But every founder or CEO certainly, at some point, sooner or later, will have a conversation like this or need to have or should have a conversation like this.
+
+Bob Metcalfe: Should and will.
+
+Tim Ferriss: Yes, should and will. Is there any language or any guidelines that you’ve given founders for making that – becoming better at that or not screwing it up terribly, when you have those meetings?
+
+Bob Metcalfe: I think I will annoy a bunch of human resource executives with my answer to that.
+
+Tim Ferriss: That’s okay.
+
+Bob Metcalfe: One of them is not to give too many reasons. Like zero reasons is the best, which is we’ve concluded that you’re no longer working out in this position, and we’d like you to take that position or leave the company, whichever. When you start to give reasons, then, you begin a debate. And it’s never ending. As a venture capitalist, this was a rule of mine, which is to avoid giving reasons because as soon as you’d give a reason, you have a pen pal. And you’re in a discussion forever. So, the thrust of it is a general management decision. It’s not personal, but this job and you are not meant for each other. So, you’re not performing well.
+
+And we want to get you to a job that you’ll do better at. The company needs everyone to be doing a good job, and you’re not, in this position. So, we’d like you to move or leave sometimes is a recommendation. So, spending a lot of time on reasons and debating and short of sharing, no, the decision – oh, making clear the decision is a done deal. That we’re not here to debate this with you. This has been concluded. So, making that clear, at the beginning, is helpful.
+
+Otherwise, the employee begins to become a debater and becomes emotional and gets into the details. And getting into the details is not productive, generally. So, don’t give a lot of reasons. Make sure it’s clear it’s a done deal. And get some help to do it. Bring help with you.
+
+Tim Ferriss: Good advice.
+
+Bob Metcalfe: But you spoke a language, and I want to pick up a point. You asked me about hiring.
+
+Tim Ferriss: Yeah. That was going to be the next set of questions. But I’ll let you run with it, and then, I can ask my questions.
+
+Bob Metcalfe: Well, hiring is the wrong word.
+
+Tim Ferriss: Right. So, this is exactly what I wanted to ask you about. So, please continue.
+
+Bob Metcalfe: Yeah. And I learned this early. Hiring, it’s a small big of language, and people debate the semantics of the words. But my grandmother fought organized crime on the docks of Brooklyn, New York. And she would supervise the hiring of stevedores by the longshoremen.
+
+Tim Ferriss: What are stevedores?
+
+Bob Metcalfe: Stevedores are the people who move the cargo around on the docks. I’m sorry. I may have this backwards. The stevedores hired the longshoremen to move the stuff around on the docks. Now, we have containers, so it’s a little different. In those days, they moved individual televisions around. But she supervised hiring. And hiring, the picture I have of hiring, is a bunch of people dying to have this job. And you interview them and evaluate them. And you deign to pick one of them to take the job. And they’re so grateful to have the job.
+
+And all of the others are waiting for the next one. And that’s hiring. And that is the wrong mindset for growing your company. And the word I substitute is recruiting. You’re after people who have other options, and they’re the best.
+
+And you have to sell them on the proposition of joining your company. You’re not hiring them, you’re recruiting them. So, I seize up when I hear the word hiring applied to growing your company. You need to recruit the very best people.
+
+Tim Ferriss: What is the playbook for being a good recruiter? Or are there specific – just like in the case of firing. I guess there are many facets to successfully recruiting. How have you, in the past, picked your candidates or your targets, so to speak? And then, what does it look like to recruit successfully?
+
+Bob Metcalfe: Well, I’ll tell you my secret. Bill Kraus, he’s our adult supervision. We recruited him from HP. And Bill came into my office and said I’d like to hire Deborah Angle to be our VP of Human Resources.
+
+And I said, “Bill, we only have 35 people in this company. We can’t afford a vice president of Human Resources. What are you crazy?” And Bill said, “No, I’m not crazy. I know what I’m doing. And you’re going to go along with me on this. And we’re going to get Deborah in here to be HR.” So, we got Deborah to be HR. And she knew how to recruit people. And so, she ran a process. She helped us all run a process. I can describe some of the aspects of that process. But that’s how I learned how to recruit is I listened to Bill Kraus and allowed, very early, in the history of our company, to get a superbly qualified HR person who knew how to do everything because she had done it for years.
+
+So, one rule of recruiting is you should have three candidates; any one of which you think could do the job before you choose one. If your company is rapidly growing, you trick them, and you hire all three.
+
+You choose the one that’s going to be for this job, and then, you find other jobs for the other two because they’re great. And that’s a side issue. So, when you’re rapidly growing, and you invest all of this time in three candidate process, you’ve got to look at the other – after you choose one, the other two are pretty good. So, you want to not just throw them away –
+
+Tim Ferriss: Find a place for them.
+
+Bob Metcalfe: And these are people you’re recruiting. They already have jobs. And then, I got tricked early in my recruiting days. We were recruiting the sales people. So, we got a professional sales person recruiter. See, an engineer doesn’t know what a good sales person looks like. So, you need to recruit – you need a recruiting team that knows what a good sales person looks like, if you’re recruiting the sales people. And they sent me in to interview this guy, a very senior sales guy. And I came back, and I said, “I love this guy. He’s super.” And then, they said, “Well, what do you know about him? What did you learn about him?”
+
+And I thought about it, and I said, “Nothing, actually. I did all of the talking. This guy had tricked me into doing all of the talking. And I really like myself. So, I thought he was super. So, one of the things you have to do is not be snookered, especially if you’re recruiting sales people who are good at this.
+
+Tim Ferriss: Yeah. And by definition, if you’re recruiting, as you mentioned, these people have jobs. They have other opportunities. How did you differentiate, if you ended up coming in as a closer or watching people close the deal, how did you differentiate 3Com? How did you make it more attractive than all of the other opportunities they might have had in front of them?
+
+Bob Metcalfe: Well, it got easier and easier over time. But, at the very beginning, it was very hard because no one really knew what networking was or what the internet was or what a personal computer was. So, that was part of our sales proposition. And so, a lot of hiring – oh, did I say hire just then?
+
+Tim Ferriss: You did.
+
+Bob Metcalfe: I correct myself. So, we made – I made some recruiting mistakes early. And one of the reasons, too, I was driven to because I couldn’t get anyone to come join the company because they didn’t believe that it would amount to much or that networking was important. But over time, as the internet emerged, and as networking became more important, it became easier and easier to sell the vision of a worldwide internet that people wanted to participate in building. But it is hard, at the beginning, because you have very – you have to be really – like Steve Jobs, I keep mentioning him because he was a buddy, a mentor of mine.
+
+He was successful because he was enormously persuasive. So, he could persuade people to do stuff that others couldn’t persuade them to do. You walked into his reality distortion field, and you’d believe anything. So, part of the knack is learning how to be persuasive about your company and why people should join it.
+
+And then, there’s the compensation subject. And I remember this event stuck with me. I was recruiting this kid, not so much a kid, as a senior engineering manager reporting to the vice president. And I offered him a stock option. And I asked him if the offer was attractive to him. And he said, “You know, Bob, I don’t understand stock options or anything. So, I’m counting on you,” he says to me, “I’m counting on you that, when we go public, people won’t think that you took advantage of me.” But this offer had been prepared by Deborah Angle, according to an air tight HR policy. So, I was confident this was a fair offer to him.
+
+And when we went public, he got a house, which was the rule of thumb. Not the VP of engineering but the directors of engineering should all get a house out of it. He got his house, so my conscience is clear.
+
+Tim Ferriss: And you have to be persuasive about the company piece that you mentioned, in practice, what did that look like for you guys? Do you turn it – I’m just making things up. But I know this is an approach that some people use. Do you make the company about more than the company? It’s about a movement. It’s about the seismic shift that you can be on the forefront of. How do you – what were the ingredients, in practice, that made the company, made you persuasive in presenting the company?
+
+Bob Metcalfe: Well, all that you just said is part of the pitch. But the core of it is credibility that is they’re going to believe you, when you say all of those things that you just said. So, it’s how do you get the credibility? And I view it as a spiraling thing. You have to start with little bits of credibility and then spiral up to bigger ones.
+
+And the technique for that is promises. Now, you’ve heard people say you need to keep your promises. My advice is slightly different. You need to make promises and then, keep them. But making promises is a way of spiraling up the credibility. So, dealing in a sales situation, and recruiting is a sales situation, you’ve got to start with little bits of credibility, showing up on time, just being sure that what you say is true, don’t exaggerate much. And then, eventually, you believe you’ve spiraled up to the level of credibility where you can ask the question are you going to join or not. And that’s a test of how successful you’ve spiraled up your credibility, in that case.
+
+Tim Ferriss: Are there other ways to build the credibility that were important ingredients, aside from the making and keeping of promises going from the small to the large?
+
+Bob Metcalfe: Well, the other is to use the team with which, in the case of recruiting, this person is going to work. That team that’s recruiting, the person, not you because these are the people that he or she is going to work with. And so, they’re the most important factor in their evaluation of whether they want to work with these people or not. So, you have to push down the recruiting to the people who are going to work with this person.
+
+Tim Ferriss: What did they recruiting process look like in the sense that you’re simultaneously recruiting, finding candidates you hope to recruit and vetting, in the sense that you’re going to, in some cases, end up in a room with a sales person who is very, very, very good at selling themselves, but they may not be very good at selling a product? And I’m curious to know if there were any aspects of the hiring process that you feel were particularly important. And I’ll just, to mention one thing that – I do not have much experience hiring.
+
+I have some, but not a ton. And I was chatting to a friend, Kyle Maynard, who had been taught himself form a very successful CEO. And there are many different approaches to hiring that, when the co-workers, or the prospective colleagues, would interview a prospect, he would have them on a number of factors rate them from one to ten, but they couldn’t use a seven because seven is a somewhat luke warm, noncommittal number, versus a binary six, which is barely passing. So, that’s a no. Or an eight, which is much more committal. And I thought to myself, wow, that’s quite clever.
+
+And so, I’ve been applying that, in many different situations in my life, not just hiring. But were there any particular rules or approaches that you have used or seen used that you believe to be very helpful for ensuring you’re getting the right candidate?
+
+Bob Metcalfe: Obvious answer, reference checking. You must check references. But you have to be pretty creative. Often, people will give you a list of references. And you need to call all of those people and check. You’d be surprised how many times there’s a surprise there. But then, you have to use back door references. So, those people that were not recommended. And you need to be very careful and listen carefully to your references, when you’re checking them. And that matters. If you take shortcuts, and you assume that the references that they gave would be positive, that’s a slippery slope. You’ll be surprised how many times people will give a reference who dings them.
+
+Tim Ferriss: That is surprising.
+
+Bob Metcalfe: It’s sort of like fundraising, too. You should check with the – you’re about to refer your customer or your VC to someone, you should check with them. By the way, may I use you as a reference? Yes. Will you say good things about us? Yes. Oh, good. Thank you. I really appreciate it.
+
+Tim Ferriss: Important follow up question.
+
+Bob Metcalfe: But when you call somebody cold, they say who are you, oh, Tom, oh, yeah. My favorite thing is the good meeting thing, when you’re a venture capitalist. This is a slightly different thing situation. But you’re a venture capitalist, and you’re evaluating a company, and they say we’ve had a good meeting with Proctor & Gamble. That’s great. And who did you meet with? They give you the name and phone number. And then, you call the person, and they don’t remember the name of the company or anything. They remember nothing.
+
+That’s just forgetting to call the guy at Proctor & Gamble and say I’d like to use you as a reference. And if so, will you say good things about me? And if the answer is no, you don’t give them as a reference. But checking references is all important. But you have to do it deeply. You can’t do it superficially.
+
+Tim Ferriss: And creatively, too, right because, as you mentioned, at least in some cases, I know references are worried about liability, if they say something negative that impacts the hirability of someone.
+
+Bob Metcalfe: That’s why you have to listen carefully.
+
+Tim Ferriss: Listen carefully.
+
+Bob Metcalfe: If they send you the signals under the cloak of that fear. The worst thing you could get – they’ll say I can confirm that Fred worked here between April 17, 1989 and October of the next year. And if that’s all they’re willing to say, you should take that as a bad reference and discount it.
+
+Tim Ferriss: I was chatting with one founder I worked with at a point, and one of his approaches was to – he would leave a voicemail and also send an email to the reference. And it would say if so and so is a nine or ten out of ten, or if you would recommend them nine or ten out of ten, please call me back or respond to my email. If not, you don’t need to reply. And so, it gave them plausible deniability. They could say I never got it. But nonetheless, he was able to gather information without being explicitly told information, which I thought was quite clever.
+
+Bob Metcalfe: I wish I knew that technique.
+
+Tim Ferriss: There are so many different ways I want to go. You’ve mentioned Steve Jobs a few times. And we were sitting across the table before we started recording, and you were on your laptop, and I was doing a second review of my notes. And I laughed, at one point. And you said, “Are you laughing at me or at something else?” And I know we were joking around. So, it was a quote. It might be a misquote. But since you mentioned Jobs, I’d love to touch on that. And the quote, I guess this is from CNBC about a year ago, so, “Steve Jobs came to our wedding,” says Metcalfe. “And what’s wrong with having Steve Jobs at your wedding? No one remembers anything about the wedding, except the fact that Steve Jobs was there.” So, that’s what I was laughing at, if you, in fact, said that, even if you didn’t, it’s pretty funny.
+
+Bob Metcalfe: I did, in fact, say that. And it is, in fact, true.
+
+Tim Ferriss: So, A) can you just describe what it was like having Steve Jobs at your wedding? And then, B) since I believe you said, or based on my recollection, he was something of a mentor, what you learned from him. What were some of the things you took away from spending time with him? Any and all thoughts.
+
+Bob Metcalfe: Well, he called me out of the blue when I was sitting in my apartment in Boston. I had two apartments, one in Boston and one in Palo Alto in 1979. And I was consulting. And I was going back and forth. And one lonely, dark evening in June of ’79, a few days after I started my company, [inaudible] Incorporated, a guy named Steve from a company named Apple called me at night out of the blue. I had never heard of Steve, and I had never heard of Apple. He was in a city I hadn’t heard of. I had never heard of Cupertino because that’s way south of Palo Alto. I never got down to Cupertino.
+
+Well, maybe I went past it on the way to San Jose. I’m not sure. And he was interested in – he knew I was a networking guy. And he had these PCs. And he was interested in networking them. And would I come down and meet with him, which I did.
+
+And we went to sort of an organic, hippy restaurant on Steven’s Creek Boulevard. And he pitched me on joining Apple. But I told him, I just started my company last week. And not only that, Steve, I have a proposal for how to network your PCs together. And here it is. I’ve called it Orchard. See? Orchard. I thought that was so clever. Anyway, that went right by Steve. He had no interest whatsoever in that. But then, a good thing happened. He wasn’t pissed that I turned him down. He helped me build my company. It was helpful. He lived in Woodside. And my soon to be wife and I were living in Palo Alto.
+
+We later moved to Woodside, by the way. And there’s a little white church there in Woodside, California. And it turned out to be two or three blocks from Steve’s house. So, he was invited, of course. But then, he actually showed up, which no one expected with his then girlfriend. And he was a perfectly fine wedding attendee. And no one remembers anything else.
+
+Tim Ferriss: Well, I suppose at least they remember your wedding was associated with Steve Jobs, as a lot of weddings have no data point, no visual whatsoever to make them memorable. So, there’s at least that.
+
+Bob Metcalfe: Well, we had double dated with Steve before that.
+
+Tim Ferriss: What was that like?
+
+Bob Metcalfe: Well, we have a vivid recollection. We went to the symphony one night up in San Francisco. And we’re driving back along 280, and there’s a big hill coming up, Daly City. And the car we were in, I forget what car it was, but it got a flat. And so, we pulled over on this hilly road with Daly City over here to the left. And it became clear to me what was about to happen. Steve stood with the two women chatting them up, while I changed the tire.
+
+So, I was the engineer. He was the leader and the spokesperson. I think I learned – so, Steve could be a jerk. And I’ve always viewed that as a package deal. It came with the rest of him. It was inseparable. He had to be a jerk because his standards were so high. And that’s what I learned from him is to have high standards and not put up with mediocre things. And, in the course of doing that, you piss people off. And then, they think you’re a jerk. And I think that’s how it happens. He was scary. He was superbly persuasive. And he and Gates had the same feature.
+
+They could make you feel like you were going to – like you were an idiot, and you would suffer for the rest of your life if you didn’t agree with them. That kind of intimidating – both of them have this feature. And he had it. But I had learned a lesson that protected me from him.
+
+Have I mentioned that I worked at the Xerox Palo Alto Research Center, which was packed with really brilliant people, including Butler Lampson who is another mentor of mine at Xerox? And I learned from Butler that you are not obligated to change your mind just because you lose an argument. Because Butler could win any argument, but he wasn’t always right. And I learned to step back and think about it a little more. And maybe he wasn’t right. You’re not obligated to change your mind just because you lost the argument. And then, you run into Steve Jobs, and boy, is that a protective because he could win any argument, too.
+
+But you had to get away from his – out of his reality distortion field, which his an R2 field. You can back out of it about 15 to 20 feet. And then, you could think about what he said. And mostly, what he was saying was defending high standards.
+
+Tim Ferriss: Is there anything else that you would say you learned or observed from Steve Jobs that stuck with you? I mean, the high standards goes a long way. Just that alone, obviously, covers a ton of ground, I would think.
+
+Bob Metcalfe: Well, he called me one day, I’m fond of telling this story, and he said Pixar is debuting Toy Story at De Anza College, and I’d love for you to come. And I’ll send a limo to your house to pick you up. And I’m this network plumber. So, 3Com had – when was Toy Story debuted, ’90 something?
+
+Tim Ferriss: Yeah. I want to say, this is a bit of a stab in the dark, but I’m going to say it was like ’95 or ’96. It might have been when they IPO’d. Pixar was the first stock I ever bought, so I’m pegging that around –
+
+Bob Metcalfe: So, around then.
+
+Tim Ferriss: Around then.
+
+Bob Metcalfe: So, 3Com was substantial. And I was a minor tycoon. And so, he sent the limo to my house. And we went down to De Anza College, and we saw the movie.
+
+And he had a red carpet, like a Hollywood red carpet. And he shrewdly hired photographers with huge flash attachments who would then take our pictures and make us feel important. So, it was really cool. And then, I’m coming out of the movie, and there’s Steve. And it’s sort of an outgoing receiving line. And I told him the film was just fabulous, and I really enjoyed it and how great he must feel. And then, I said, “But I want to remind you, Steve, that every pixel of that movie was carried by ethernet.”
+
+And Steve smiled, and this is another thing I learned from him, and he said, “Thank you.” And I’ve been living off thank you ever since. So, he was capable of gratitude. And he was really good at it because I remember that moment today. And I’m saying he paused, so I would be endowed about what he was going to say.
+
+And he said, “Thank you.” And I think that was the purpose in inviting me to the opening was to thank me for lugging his bits around, so he could make that movie.
+
+Tim Ferriss: What a great story. So, we were talking about pixels, bits. As promised early on and reiterated, to bounce around, to live up to my reputation that I don’t have to defend, network affects, you are a network expert in many different respects. Are there particular misconceptions or misunderstanding of network affects that people have? People talk about network affects a lot. And, certainly, in many company pitches, you hear it. It’s a phrase that is used very, very widely. Is it often misused? If so, what are people missing? This may not be a good question to ask.
+
+Bob Metcalfe: No, it’s a good question. And there is a misuse. There’s one principle misuse. People mix up word of mouth testimonials with the network affect. I really like this product. I think you should use it, too. Well, that’s a good thing. But it’s not the network affect. The network affect is when it’s in my interest for you to use this. That’s a different affect. It’s much stronger than word of mouth testimony. So, that’s the one misuse. So, Metcalfe’s Law, which is a quantification of the network affect, it says the value grows as the square of the number of users, which is pretty powerful. By the way, it’s technically not exponential.
+
+Even though the two is in the exponent, we call that quadratic, not – but, in any case, I’ll take exponential. And the trouble with it, the principle complaint, is that as N goes to infinity, the value goes to infinity.
+
+And everyone has a hunch that that’s not really true about networks that they don’t go to infinity with N. So, I looked at that. I wrote a paper a couple of years ago looking at that feature. And, of course, one of the constraints I brought to this paper is that I would defend my law, I would not revise it. So, just to be clear. This was not an honest investigation. But I figured out how to solve this problem without changing my law.
+
+Tim Ferriss: That’s a good day.
+
+Bob Metcalfe: Yeah. And then, I did some math. But the trick is that N doesn’t go to infinity. So, therefore, the value doesn’t go to infinity. So, that’s how I fixed it and N over time. So, I did a model. I called it the Netoid, which modeled adoption rates as a function of time, and you know what an adoption curve looks like. It looks like this, and then, it looks like this.
+
+And so, this Netoid function was a way of saying well, you can’t grow the network bigger than the universe. There are only 7 billion people here, and there are only 3 billion users of Facebook. These are all caps on the value of the network. And then, I took the first 10 years of Facebook and mapped it onto Metcalfe’s Law using this adoption figure. And, by the way, Facebook is about halfway there, about half the people in the world use Facebook. So, on this adoption curve, they’re right in the middle of the steepest part. But as they get close to everybody being on Facebook, well, then, their growth will taper off, as they – and then, the value will not go to infinity. The value will also. So, I published that paper in a peer review journal, I’m happy to say. So, I have some defense of my law. So, that’s the network affect.
+
+Bob Metcalfe: December 2015 or 2016, in IEEE Computer Magazine, which is peer reviewed.
+
+Tim Ferriss: I was about to jump all over you, but now, I’ll stand down.
+
+Bob Metcalfe: But I like to say Facebook is the Metcalfe’s Law company, which reminds me of the early days of Facebook. I went to visit Zuck and Cheryl when their place was still on California Avenue in Palo Alto before they moved to Menlo Park. And I got an appointment with the two of them. And my mission was to discuss with them the impact of Metcalfe’s Law, what they thought of Metcalfe’s Law, and how it bore on the growth of their company. And I had all sorts of questions. So, I show up, at the head of California Avenue, it’s up off of El Camino, and it dead ends, and there’s a building over here.
+
+And it was right over here seething with activity. And I’m sitting in the lobby cooling my heels in the lobby for an hour. And then, a woman comes out and says, “I’m sorry, Zuck can’t see you today. But Cheryl can see you, so please come in.”
+
+And I met Cheryl Sandburg, Zuck’s adult supervision. And I began my little pitch to begin the discussion. And then, I realized, within 10 seconds, Cheryl Sandburg had never heard of Metcalfe’s Law. So, that was going to be weak. But she summoned one of her Stanford PhD mathematicians to join the meeting. And he had never heard of Metcalfe’s Law. So, the whole meeting just ended a complete collapse. Anyway, I still believe Facebook is a Metcalfe’s Law company that well leverages the network affect, and not just positive word of mouth.
+
+Tim Ferriss: In utility.
+
+Bob Metcalfe: It’s in the interest of each user to sign up other people because it makes their use of the network better. And that creates a very strong network affect.
+
+Tim Ferriss: Is there – well, let me back into this. As an investor, you’ve spent plenty of time in the role of venture capitalist. You have heard, no doubt, many, many pitches that, in some respect, use network affect as a claim for defensibility. We will have this network affect, and it will create this competitive mote, of sorts. And it will be very hard to replicate. At least that’s something I’ve run into a lot. Is there an easy way – maybe not easy, simple, either, to differentiate network affects that are – create defensibility or improve defensibility versus those that don’t? Or if it’s defined the way that you’re defining it properly, maybe that’s always the case. I just don’t know. So, I figured I would ask. Is there any way to distinguish those two?
+
+Bob Metcalfe: Well, Metcalfe’s Law says that the value grows as, meaning is proportional to the number squared. But it doesn’t say what the constants of proportionality are. And those can be changed. So, when Facebook adds a feature, you expect that curve, whatever that curve was before, my theory would say it’s still quadratic, but it’s been moved because the constancy – the services delivered are enhanced. While writing this paper, I discovered a sociologist, I’m blanking out his name now, but for decades, he studied people. And he determined that you can have 150 friends. And he was using that term friends in whatever it was, ‘50s, ‘60s. What was his name?
+
+Tim Ferriss: We can put it in the show notes, too.
+
+Bob Metcalfe: I don’t get it. but, in any case – senior moment. But it was 150 –
+
+Tim Ferriss: Based on your factual recall, I hate to even consider what senior moments I’m always having.
+
+Bob Metcalfe: So, there it was. I encounter it. You can have the human cognitive processing system can tolerate, you can take care of 150 friends. That’s like a constant of the universe. So, I call up Facebook, and I say how many friends’ connections do you have? And how many friends do you have? And then, you just divide one into the other. And I’ll be damned, it was 140. And remember, Facebook is rapidly growing now, so who knows what’s going to happen. Now, that was a surprising answer to me because you would think that now, with the tools of Facebook, we can tolerate more friends than in the days of the camp fire.
+
+But that number was still close to 150. I should actually go back and try it again. Total number of connections divided by the total number of people, which is the average number of friends per person was about the same as the sociologist had predicted.
+
+Tim Ferriss: That is really surprising. This is the first time I’ve heard it. But one would expect it to be anything but the same number because I suppose one could make the argument that you might, on some level, expect many, many thin connections without much communication on a platform like Facebook but that the number of active threads of communication would be even fewer because the volume of communication, the ease of communication –
+
+Bob Metcalfe: Also, it would be a lower number.
+
+Tim Ferriss: That’s right, potentially, because when you’re at the camp fire, it’s like, all right, you see Joe, your neighbor farmer, when you walk a mile down the street and bump into someone from his family. But, otherwise, Joe has no communication with you. Whereas if you’re on Facebook, any one of your preferred nodes can message you incessantly. So, it’s really interesting that it’s so close to that 150 number.
+
+Bob Metcalfe: Well, another reason it should be lower is that Facebook is growing still, especially then. So, a lot of those networks of friends are brand new. And they haven’t finished growing out yet. So, that would be another reason. And it was 140, not 150, so it was a little bit below. So, but yours is another reason. But the reason it should be higher is that we now have tools for – like it’s my practice to wish people a happy birthday. And there’s a tool in Facebook that prompts you when your friends’ birthdays are. And I type in many happy returns exclamation point every single time.
+
+Tim Ferriss: Many happy returns.
+
+Bob Metcalfe: Yeah. And I wish there was a tool where I could just press a button, and it would automatically say many happy returns, but right now, I type it each time. And I think that’s more authentic for me to type each time.
+
+Tim Ferriss: I think it seems much more authentic.
+
+Bob Metcalfe: But you see how I can say happy birthday to many more people than before because I have a computer helping me, reminding me, and delivering it. And so, I’m still betting that this new number will be bigger than that sociologist assessed.
+
+Tim Ferriss: So, many happy returns, as your go to birthday greeting.
+
+Bob Metcalfe: Yes.
+
+Tim Ferriss: In this case. Do you have a go to salutation, when you cheers with someone, or you’re at a party, and people want to make some type of announcement is not the right word, I guess salutation? I’m blanking on the proper English word for this. But do you have any go to or go to’s, in that type of situation?
+
+Bob Metcalfe: I do.
+
+Tim Ferriss: What are they?
+
+Bob Metcalfe: It’s also the beginning and ending of every email that I send.
+
+Tim Ferriss: All right.
+
+Bob Metcalfe: Ahoy.
+
+Tim Ferriss: Ahoy.
+
+Bob Metcalfe: And I have three reasons. And you only need one reason, by the way, but I have three reasons why I love ahoy. First of all, according to 23 And Me, I am mostly a Viking.  And ahoy is the ancient Viking war cry. So, to be true to my heritage, I must say ahoy. The second reason is I have a fleet of boats in Maine. They’re tiny, little boats. They’re not Russian oligarch yachts. My big boat is 32 feet long. And when you’re at sea, ahoy is a way of greeting someone on the ocean, which you can see is not too far from a Viking war cry. But the third reason is really killer. When Alexander Graham Bell invented the telephone, the question arose what do you say when you pick up the telephone. You have to say something, or they won’t know you’re there.
+
+And Bell proposed that the word be ahoy. And I believe it was Edison who convinced everyone to use hello instead of ahoy. And I have, in a previous life, won the Alexander Graham Bell medal. So, in loyalty to Bell, I say ahoy. And I like to say it three times, actually.
+
+Tim Ferriss: So, you raise the glass, and you say ahoy, ahoy, ahoy?
+
+Bob Metcalfe: Yeah.
+
+Tim Ferriss: I like it.
+
+Bob Metcalfe: So, I run a summer camp. The average age of the attendees is 60-ish. And we have toasts. And we encourage really elaborate toasts, and they’re much longer than that. But much of the same sentiment around adventure and fellowship.
+
+Tim Ferriss: So, what is this – how did this camp come to be?
+
+Bob Metcalfe: About 20 years ago, I have this island off the coast of Maine that’s a beautiful place. It’s empty. And I began to share it with friends. I would invite them to come out. We’d get in my boat, go out there, and pitch tents. There’s a little camp. A camp in Maine is a little cottage without electricity. And we’ve been building up. So, there are about 20 or 30 of the big boys show up.
+
+And more and more, they’re coming by boat. So, I have many moorings in this little – I have a little cove. And there were nine moorings last year. But I’m going to have 11 moorings this year because the big boys sometimes come by boat. And then, they can sleep on their boats. And then, I don’t have to pitch a tent for them. And then, we have adventures and tell stories and toasts. We do toasts, now that you mention it.
+
+Tim Ferriss: Do any stick in your mind in particular? Do you have any memorable toasts or alternate toasts that you like to give?
+
+Bob Metcalfe: I’m not nearly the most creative. But some of them are poems, just long poems. So, it’s an opportunity to – occasionally, somebody dies. Not at the camp, but we acknowledge – well, not yet at the camp. And so, that’s when I have an EE Cummings poem that I memorize that I use as my toast, in that case, to remember them.
+
+Tim Ferriss: Is it a long poem?
+
+Bob Metcalfe: No, it’s not very long at all. Would you like me to recite it?
+
+Tim Ferriss: I would love for you to recite it.
+
+Bob Metcalfe: Buffalo Bill’s defunct who used to ride a watery smooth silver stallion and shoot clay pigeons, one, two, three, four, five, just like that. Jesus, he was a handsome man. But what I want to know is how do you like your blue eyed boy, Mr. Death?
+
+Tim Ferriss: Wow.
+
+Bob Metcalfe: And, occasionally, somebody dies. And that’s my way of lamenting their departure. And I have blue eyes. So, it’s sort of a personal connection.
+
+Tim Ferriss: Yeah.
+
+Bob Metcalfe: How do you like your blue eyed boy, Mr. Death?
+
+Tim Ferriss: It’s very – it makes me think of the expression memento mori, remembering that you’re going to die in Latin. And what’s renaissance, or some renaissances, I recall, painters used to do is put an invisible to the layman’s eye, for all intents and purposes, a skull in their painting in some location that they knew was there that they would notice every time they looked at the painting to remind themselves of their own mortality and the fact that their time was finite and limited.
+
+Bob Metcalfe: Have you seen these skulls?
+
+Tim Ferriss: I have.
+
+Bob Metcalfe: They have to be pointed out to you, I suppose.
+
+Tim Ferriss: Yeah. I have. And, in fact, this was not placed here for this, but now, it’s a little obvious, but I’ve never explained to anyone.
+
+Bob Metcalfe: Oh, there it is.
+
+Tim Ferriss: I put a skull in the bottom of my about the author photo without any explanation so that, whenever I would look in this book, I would see that.
+
+Bob Metcalfe: And that’s memento mori?
+
+Tim Ferriss: That is memento mori. And there are many ways to do it.
+
+But it’s a good practice. So, I would imagine, as you said, you have a personal connection to that. So, every time someone passes, ending on a line with blue eyes certainly serves as, I would imagine, a very powerful reminder. I’m going to shift gears a little bit, or a lot, as is my want, and make sure I didn’t miss anything critical in these notes, which I don’t believe I did. And I’d love to ask you a number of questions that I ask many guests I have on this show. The first is about books.
+
+Now, we had a little bit of conversation before this that may lead us, even if the answer is I don’t have any, that will take us in and of itself in an interesting direction. Are there any books that you have frequently gifted to other people or recommended to other people?
+
+Bob Metcalfe: There is one in particular. It’s called Atlas Shrugged, which is my favorite book.
+
+Tim Ferriss: Why is that your favorite book?
+
+Bob Metcalfe: Well, I read it for the first time right after it was written. I was I think I eighth grade or so at an impressionable age. And I fell in love with Dagny Taggart. And I always wanted to be Howard Rourke. And there was something – there were some feelings I had, at the time, that it said were okay. It gave me permission to feel a certain way about myself. And it related to competitiveness and winning and how this – and it touched on the invisible hand of free enterprise and capitalism and that whole package I bought into lock, stock, and barrel. So, I’ve been giving out Atlas Shrugged since the ‘60s.
+
+Tim Ferriss: Ever since.
+
+Bob Metcalfe: Yeah. And I understand that that labels me a kook of some kind. But I don’t really care much about that anymore. It’s my favorite book.
+
+Tim Ferriss: Well, I will say, if you’re a kook, then, you’re in good company. The last book I worked on, Tribe of Mentors, with something like 140 interviews with top performers from at least 20 different fields, there were four or five books that popped up frequently, and Atlas Shrugged was one of them.
+
+Bob Metcalfe: The second on my list, since you asked –
+
+Tim Ferriss: Yes.
+
+Bob Metcalfe: I don’t think you did, but anyway is The Selfish Gene.
+
+Tim Ferriss: The Selfish Gene, Richard Dawkins.
+
+Bob Metcalfe: I am just arch Darwinian person. I love that book. And it just seemed to explain everything. Just trace it all back to the math of natural selection and mutation and so on. So, The Selfish Gene is another one that I recommend highly, frequently. I read it a long time ago.
+
+Tim Ferriss: Have you always been involved with boats? Why do you have a fleet of boats?
+
+Bob Metcalfe: Well, on Long Island, we had a 14 foot runabout with a 10 horsepower motor, which I used every summer all growing up. So, that would be it. My fleet is in Maine. So, we go to Maine in the summer. And we have an island camp 10 miles out in the ocean. And the big boat is a lobster yacht, 32 foot lobster boat thing with a little teak on it that we use.
+
+Tim Ferriss: When you say teak is that the wood or is that a feature of the boat? I don’t know.
+
+Bob Metcalfe: It’s wood. So, teak is a  yachting wood. And the boat is a working boat hull, a lobster boat. But it’s teaked out, so it’s not called a lobster boat. It’s called a lobster yacht.
+
+Tim Ferriss: I see.
+
+Bob Metcalfe: It has a head. It has bunks, which are things that you don’t have on a lobster boat.
+
+Tim Ferriss: I see.
+
+Bob Metcalfe: But that’s the flagship of the fleet. And then, I have a 15 foot runabout, a plastic runabout. We call her Tupperware is her name. And she has a 50 horsepower engine. So, she moves right along.
+
+And then, we have a 12.5 foot wooden sail boat called Flash. And her principle use is to circumnavigate islands near our island. So, we would leave our island and go around Hurricane Island or just circumnavigation of small islands in the Penobscot Bay of Maine. And then, we have a bevy of dinghies and stand up paddle boards and kayaks, which we keep, generally, out on the island camp. So, we ply the waters of the North Atlantic like my Scandinavian forbearers.
+
+Tim Ferriss: That sounds amazing. I have a friend who, whenever he is feeling – a dear friend, actually I shouldn’t say whenever. He spends three to four weeks on the water per year and has done that with his family for some time and uses it as an opportunity to reset. And this will get to the question. But he uses it also as a means of resetting on an annual basis and reassessing his priorities and gaining clarity.
+
+Do you ever feel overwhelmed, this can be past tense, too, overwhelmed or scattered, in those circumstances? If that has ever happened, what have you found to help for you?
+
+Bob Metcalfe: I frequently suffer from that feeling, being overrun. It’s generally because I over commit, and I haven’t learned, after all of these years, how not to over commit. I forget that you commit to something now, and it gets to be really big later when everything else is getting big, at the same time. But the remedy is to make a list and prioritize and just focus on the top item of the list and get it done. And so, prioritize and concentrate on that, and then, just ignore everything else, sometimes to your detriment because, sometimes, things need taking care of. But that’s my way out is to concentrate on one thing.
+
+Tim Ferriss: What are your values or priorities that you use to rank order or to select those top items, if that makes sense? Or maybe an example – because people prioritize using different means of weighing the things on a given list. You’ve had quite a few tremendous successes. I’d just love to hear you expand on that, if anything comes to mind.
+
+Bob Metcalfe: Well, there’s two dimensions. And you’ve heard all of this because you especially have heard all of this. Two of the dimensions are urgency and importance. And so, things find their way onto the list by virtue of one or the other, some combination of urgency and importance. And the thing I learned a long time ago is to take the list and break it into three pieces.
+
+The stuff you must absolutely do as soon as possible, then, there’s the stuff that you do if you get to, and then, there’s the stuff that you just forget that list and throw it out. So, what I used to do, actually, when I was growing 3Com in the very early days, like the day of founding, it was my practice to do a to do list every day. And when the next day came, I would turn the page, and I would transcribe all of the things that were left on this list onto the new page. And leaving things – failing to copy things that had not been done onto the new page was a big breakthrough for me.
+
+When it began to be okay for me to not transcribe something that had not been done, my life got a lot better. So, there’s just some things you get on your to do list, you just have to suffer the consequences of ignoring them.
+
+Tim Ferriss: That’s a big deal.
+
+Bob Metcalfe: But playing this game between urgency and importance is a problem.
+
+Tim Ferriss: Oh, yeah. I think Eisenhower used to, as I am trying to remember the Eisenhower matrix, used to also think of things in these two dimensions and would try to pay attention or block out scheduled time to pay attention to the important but not urgent quadrant, which is prone to getting lost in the shuffle.
+
+Bob Metcalfe: So, I’ve had a personal assistant since somewhere in the ‘70s. And then, when I came here to University of Texas, I have an endowed chair. And there’s enough money in the chair for me to have an assistant. So, I got an assistant seven year ago. And I would come. And I was hoping to have a new life as a professor and find out what that’s about. And I would come to work every day. And my day would be full of meetings that my assistant had arranged. So, after two years of this, I outplaced my assistant, found him another job.
+
+And now, I don’t have a personal assistant. So, any appointments, I make. And you’d be surprised how few appointments I have because my assistant would carry – Bob should meet with these people. So, therefore, I’m going to schedule the meeting. But I have a different evaluation criteria for should. And so, I have many fewer meetings. So, that’s another way of pawing through the urgent and the important is to not delegate that but to take it upon yourself because you can take responsibility for ignoring really important things and people and so on. Right at the moment, I have 12,000 unread emails in my inbox.
+
+Tim Ferriss: That’s a lot.
+
+Bob Metcalfe: And you know the algorithm. You go, and you start with the newest one. And you start working back older and older and older and older. And you go as far as you can before you run out of time. And then, the next day, there’s a whole bunch of new ones have arrived. And so, sometimes, you never get there. And that’s how you accumulate 12,000 unread emails.
+
+Tim Ferriss: Yes. I’m, unfortunately, in a very similar position, at the moment.
+
+Bob Metcalfe: Why don’t you write a book on how to solve that problem?
+
+Tim Ferriss: Yeah. I think it’s mostly running away and changing your email address. It’s something I’ve been convinced. I remember I was told, at one point, by Robert Scoble, he is known in many technology circles, he said, “I’ve realized in analyzing my email that, for every response I send out, I get 1.75 email in return.” And so, how you make that work seems to boil down to fewer responses.
+
+Bob Metcalfe: Scoble is a genius, so I’d do whatever he says.
+
+Tim Ferriss: Yeah.
+
+Bob Metcalfe: But it’s true. If you answer an email, you’re guaranteed to get an answer to your answer. So, don’t answer it.
+
+Tim Ferriss: If you’re open to it, I would love to talk about challenging times. And I have no time in mind, in particular, but a lot of folks, and we only have a few questions left. I’m having fun. So, just a few questions.
+
+Bob Metcalfe: I’m  having more fun than you are.
+
+Tim Ferriss: Perfect. That makes me – well, this is tough because it then, reinforces the fun that I’m having. I’m not sure. Now, maybe I’m having more fun. But –
+
+Bob Metcalfe: No, I’m having more fun than you are.
+
+Tim Ferriss: It’s common, I think, for people listening to podcasts or reading a magazine profile to, at times, become very intimidated by figures they consider very successful. And they may assume that these people are hitting homeruns every time they step up to bat. Ae there any particular tough times or moments that you’d be willing to share? And, furthermore, what helped to get back on your feet or to regain your footing?
+
+Bob Metcalfe: Well, I have no trouble with this. I have many of them. You accumulate them as time passes on. And I’m fond of saying – one of my favorite songs is New Kid in Town by the Eagles and JD Souther because I’ve been a has been a few times. I know how to be a has been because I’ve had some practice. I’m fond of saying I may be a has been, but it’s better than being a never was. But the story that comes to mind, I alluded to it earlier, relating to my bitterness toward Harvard University, which I should get over with, and I understand it’s a childish petulance sort of thing. But so, here I am working at MIT toward my degree at Harvard. And I submit a draft of my thesis intending to graduate in 1972, June.
+
+And my thesis advisor encouraged this thought. And so, I went on a job talk tour. And I got nine job offers. And it was easy to get job offers because I was a networking guy, and networking was hot. So, universities thought that if they hired me, it would be easier to get grants from ARPA. So, I understand, it wasn’t me, it was the networking thing. But then, I turned down eight of the nine offers and accepted the one at Xerox Palo Alto Research Center, which is a hard choice. They offered me more money. I didn’t have to teach. I didn’t have to raise money. I could just enjoy Palo Alto.
+
+And I was a big Beach Boys fan, so I was sure that was related. And I notified my parents whose life’s dream was that their son would go to college. And here he was getting a Harvard PhD, and I was inviting them to the Harvard Yard for the event. And my then wife, may she rest in peace, resigned her job at MIT as an administrator there.
+
+And she got a job at Stanford. It was all set up. And oral defense of my thesis was two weeks before graduation. And I went in there. And you give your pitch. And then, you leave the room. And then, they talk to each other. And then, you come back, and they invite you back in. And then, they shake your hand and congratulate you on being a PhD, only that’s not what happened. I walked back in here, and they told me that my thesis was deficient and that I was not going to get my PhD. So, I called Xerox who had hired me on a PhD job talk.
+
+And Bob Taylor there, may he rest in peace, said, “Oh, why don’t you come out anyway, and you can finish your thesis here?” Oh, wow, super. The hard call was to my parents, which is don’t come to Harvard Yard because it’s not happening. So, that was a horrible, horrible – that’s my New York accent there. Horrible thing to happen. And that was only the tenth thing that caused me to hate Harvard. And it was a pretty big one. So, that was pretty gruesome because everyone finds out about it, and then, you failed. And there’s a good chance you’ll never get your PhD, if you fail your defense. I lucked out. I invented ethernet. And, in the course of inventing ethernet, I wrote a chapter of my thesis that satisfied Harvard that my thesis was sufficiently novel that I could graduate. So, how is that one? Does that answer your question? There’s many more.
+
+Tim Ferriss: Well, no, it’s very good. It’s a very good first half. And the reason I say first half is that I’d love to hear if it threw you off balance, let’s just say right after the phone call with your parents and these various things, what type of state were you in?  And how did you – because the ethernet came later. I don’t know exactly how much later. But between then and the invention of ethernet, let’s just say in the subsequent handful of weeks and months, if you were in a funk, and I don’t want to speak for you, but what helped to get to right yourself?
+
+Bob Metcalfe: The Xerox Palo Alto Research Center. So, when I moved there, it was heaven on earth. And I was grateful to them for accepting me, even without my dissertation. And then, they were helpful in being sure that I finished it. But the excitement of a New York boy goes to California. I really was a big Beach Boys fan. What I didn’t realize was how far the ocean is from Palo Alto and how cold and miserable it is –
+
+Tim Ferriss: [Inaudible].
+
+Bob Metcalfe: So, the Beach Boys were Southern California, and it didn’t quite register with me. But that was – moving to California was a big deal. And it was fun. And I enjoyed doing it. And San Francisco, as you know, is a fantastic city. And I was moving there shortly after the summer of love. I moved there in ’72. So, it was – so, it wasn’t a hard, deep funk because I had all of this exciting new stuff going on. Now, if Xerox had said, no, you stay in Boston, and maybe we’ll consider taking you, if you ever finish your dissertation, that would have been hard to recover from.
+
+Tim Ferriss: Different scenario. So, you said you had lots of them. I’d love to hear one more, if you’re open to it.
+
+Bob Metcalfe: Let’s see.
+
+Tim Ferriss: Maybe if there is one where you really had to kind of find your way out, if anything comes to mind –
+
+Bob Metcalfe: So, here I was the founder, chairman, CEO of 3Com Corporation. We had raised $1.1 million of venture capital in 1981. And we were burning through it. And ethernet, which I had predicted would help this company generate revenue, was delayed in its take off. I was wrong. In retrospect, I was wrong by six months as to how quickly ethernet would get picked up and our revenues would start growing. But it did look pretty bleak, at the time. Cash is going like this. And the pick up is not occurring. And then, we had a board meeting. And I’m chairman. And I call the board meeting together. And one of my board members says we’ve had a rump session without you, and we concluded that we now want Bill to take over as CEO.
+
+And, now, I had prepared for this moment because, in the time before 3Com, I lived on Sand Hill Road. I met my wife on Sand Hill Road. I founded my company on Sand Hill Road. And, as you may know, Sand Hill Road is where all the VCs are. So, I had plenty of time to meet them all. And I learned the three things, in their opinion, that cause companies to fail. 1) Was the uncontrollable ego of the founder. That was they had me nailed. And 2) is lack of focus. And 3) was lack of money, which is self-serving advice. So, when I came to present my business plan in 1980 to those same people, I handled those three cases preemptively up front. And one of the things I said is this company succeeding is more important to me than running it.
+
+Tim Ferriss: That’s a good line.
+
+Bob Metcalfe: And I believed it. And it was attractive to the investors, this notion of the founder running things is quite controversial. So, here I am, in the meeting, where they’re informing me that I’m not going to be CEO anymore. I’m going to be chairman. I own most of the company, by that time still. But I wasn’t going to be CEO. My buddy, Bill, who is a perfectly fine guy, is about to be CEO. So, that was an interesting meeting. Now, what the founder is supposed to do, following that meeting, is slam the door behind him and storm out the door and go start another company or do something crazy. But I didn’t do that.
+
+Tim Ferriss: You didn’t break your tennis racket.
+
+Bob Metcalfe: Exactly. Oh, good observation. Yes, I did not break my tennis racket. Now, this company’s success is more important to me than running it. I said that to these people. And they’re now taking me up on that. And this board was a board that I had tricked into being – this is a first rate board. I had three of the top venture capitalists, Dick Cramlick, and Wally Davis, and a third guy that I can remember in a few minutes. So, I had hand picked this board. I had recruited them carefully. So, can I disagree with them? Especially after I told them that it was more important I be successful. And that was the meeting in which they said we’d like you to be head of sales and marketing because we need somebody to get out there and tell people about the product. And you seem – you know how to do that, so go do that. And plus, I knew that Bill was a sales and marketing expert. So, he was going to be able to help me.
+
+So, I accepted that. It took me about a week to stop being sort of rejected and depressed and wondering whether I was going to leave or not and slam the door. And I didn’t slam the door. So, I suddenly started being head of Sales and Marketing and walked Marlene around the building to try to convince her to be a sales person. And I found a recruiter to recruit the sales force and quickly learned how to sell.
+
+Tim Ferriss: What time of day was that board meeting, do you remember? Was it in the afternoon, late, early evening?
+
+Bob Metcalfe: It wouldn’t be at night, no. It was during the day
+
+Tim Ferriss: What did you do after leaving that board meeting? What did the rest of the day look like, if you remember, for you?
+
+Bob Metcalfe: I’m sure I had to explain it to my wife, Robyn, when I got home. But I don’t remember that.
+
+Tim Ferriss: Was there anything that – what advice would you give to it doesn’t necessarily have to be founders, it could be anyone who received news that they are no longer going to be X or be with person Y, or it could be any number of situations, but who ends up facing news like that? What would your advice to them be?
+
+Bob Metcalfe: So, to realize this fact that it is very difficult to be self-aware. Self awareness is hard stuff. And you see it on the campus of the University of Texas. If those people had mirrors, they wouldn’t look like that. They don’t see how the world views them. So, in my role, I couldn’t figure out what Bill knew that I didn’t know that would make him qualified to be CEO but not me. I couldn’t see the deficiency. But my board could see it. And the board’s job is to be sure that the CEO is the right person. So, they were doing their job, and I had recruited them to do that job. So, I wasn’t seeing something that the board saw and that Bill – and, by the way, the judgement was vindicated. Bill did fabulously in that job.
+
+Tim Ferriss: What did they see – what deficiency did they see that you didn’t see?
+
+Bob Metcalfe: I think it was a temperament thing. So, Bill is air tight to do kind of person. He does things, writes things down, does them very strong. He’s also a big delegator, in fact, to a fault. The rest of us used to joke. We would have these meetings, and everyone would end up with action items, except Bill. And so, then, it became our objective to get something on his to do list. And, by the way, if you got something on his to do list, it got done. So, that was his temperament, sort of a discipline, more so than me. And the first operations meeting, the next week, every Monday, we had an ops meeting. And I had run that meeting for two or three years. And this was the first time Bill was going to run the meeting. And he had a yellow pad and a pen or pencil, I forget which.
+
+And he was writing, as we had the meeting. So, I got curious. I said I’ve got to figure out what this guy knows that I don’t know. So, I got up and walked around behind him, which, if you’re chairman of the board and founder of the company, and you own most of it, you’re allowed to do that. But, otherwise, I would not do that. And I went behind him, and I looked at what he was writing on this pad. And he was doodling. And what he had written 100 times was DNT. So, after the meeting, I took him aside and said, “Bill, I’m curious, what does DNT mean?” And he said, and this was a big learning, I find I talk to much. And the way I keep myself from talking is I write DNT. Everyone thinks that I’m writing down what they’re saying, which means what they’re saying is important.
+
+So, that’s why I write anything. But the thing I most need to know is to be reminded to keep my mouth shut because these people are responsible for running the company. So, that was a big learning. That’s sort of the beginning of one of my secret weapons, something I’m very, very good at and that I sort of learned it a lot that day, and it’s listening. And I think it’s the secret to most success is just listening. And Bill taught me that. He was listening to what those people were saying. He wasn’t planning his little speech. You know how you sit there, and you plan your speech while this other idiot is talking? And when they’re done, you forget what they said. And then, you just say what you were planning to say. A real character defect.
+
+Tim Ferriss: DNT.
+
+Bob Metcalfe: DNT, do not talk. So, I got used to this idea of being the – actually, that’s why I didn’t storm out the door. If they had just made Bill CEO period, I might have stormed out the door. But they gave me a job. They said, “Now, we want you to be head of Sales and Marketing.” So, that was, I think, that’s what saved me from doing something stupid
+
+Tim Ferriss: Also, an approach that you used a lot later in offering people alternatives to say you can either leave the company or take this other role in which we think you’re going to prosper.
+
+Bob Metcalfe: Right. Anyway, so, those are two. We’ve now touched on two negative events, but there were many others.
+
+Tim Ferriss: That’s a great – that’s a really fantastic example with a lot of learning, consequently, or subsequent to that.
+
+Bob Metcalfe: Well, having given you two low points in my life, of which there are many others, let me give you a high point.
+
+Tim Ferriss: All right.
+
+Bob Metcalfe: A couple of decades ago, I was informed that I was going to be given the National Medal of Technology. And my parents were still alive. And I brought them with me to the White House. They went into the White House, which is really fantastic. And I got this medal from George Bush. And I put it around my mother’s neck. And I had this picture of my dad. And these are very simple people, never went to college. I don’t think they liked George Bush. I don’t know. But it was the culmination of the American dream. That’s the phrase I use, culmination of the American dream because these folks had their whole life wanted their kid to go to college and make something of himself. And here I was getting the – so, I considered this my mom’s medal of technology. So, that was a big high point.
+
+Tim Ferriss: That’s an incredible high point.
+
+Bob Metcalfe: So, by the way, you may know there is some hostility between scientists and engineers. It’s a false dichotomy really. And this was – I’m a member of the National Academy of Engineering, not the National Academy of Sciences. That sets up this episode. In the bus going to the culmination of the America dream, I’m sitting next to a man who is about to receive the National Medal of Science. And I started saying this is so cool. And the party last night was great. And now, we’re going to see the White House. And my parents are there and everything. Isn’t that great? And this guy says to me it is pretty nice, but it’s not as good as Stockholm.
+
+Tim Ferriss: Oh, my God, what a comment.
+
+Bob Metcalfe: I didn’t punch him out.
+
+Tim Ferriss: Just for people who might not make the association, that’s a Nobel Prize reference.
+
+Bob Metcalfe: That’s right. That’s where you get that. So, he was telling me that he had received the Nobel Prize. And that was sort of a notch above the prizes we were getting that day. That’s called raining on somebody’s parade
+
+Tim Ferriss: That’s a dick response, just here’s the Long Island coming out. Wow. That’s a hell of a bus ride. What a wonderful day that must have been. How did your parents respond?
+
+Bob Metcalfe: Well, they walked around like this looking at everything. The portraits on the walls, and the military guys, there were a lot of beautiful uniformed military people there. And my parents were very impressed and befriended them. So, they hung out with the military. My father lost an eye when he was a kid, so he wasn’t able to serve with his three brothers in the Pacific during the World War II. Both my mother and father had a tragedy in their life that prevented them from going to college, which I think is why they had a special reason that I should go to college.
+
+And their attitude toward the military are very supportive and positive to the military because three of my father’s brothers had served in World War II. So, that was part of their reaction was to look at these beautiful military people. The White House picks these beautiful specimens of military, fit and handsome or beautiful or whatever the right adjective. And so, they hung around them. I remember that vividly. And the military – they were short. My mother was 5’2, my father was 5’9. So, they were little, tiny people.
+
+And they were being escorted around by these huge Marines from the various rooms of the White House. I remember that. Anyway, it was a culmination of the American dream.
+
+Tim Ferriss: Let’s tie up here. I would say I’ll ask you two last questions. One is any parting thoughts, suggestions, asks of the audience to people listening to this and watching this? Anything at all? It could be a question, a suggestion, a request. And then, where people can find you online, say hello, learn what you’re up to and so on. So, any parting thoughts or comments, questions, asks of any type?
+
+Bob Metcalfe: Well, I’m a big believer in the American dream. And I think we need to keep it alive. And it’s an issue every day as to whether the dream of freedom and achievement, capitalism, Ayn Rand, that whole thing. I believe that people should respect it and pursue it. So, starting companies is sort of the ultimate version of that. That’s the plumbing of free enterprise is starting companies to solve human problems. So, that’s why I spend my time helping people start companies.
+
+Tim Ferriss: That last modifier on the starting companies, too, is important to solve human problems or to solve problems. I think that’s a really critical piece to underscore.
+
+Bob Metcalfe: Well, I think it gets underscored too much.
+
+Tim Ferriss: You do?
+
+Bob Metcalfe: Yes.
+
+Tim Ferriss: All right. Can you say more
+
+Bob Metcalfe: There’s a kind of snobbery or virtuous signaling that goes on.
+
+Tim Ferriss: Right. The explicit proclamation.
+
+Bob Metcalfe: So, what’s booming in my field, which is my current field, which is the care and feeding of the startup ecosystem in Texas or in the US or Austin, whichever. There are these things called impact or social entrepreneurship. And I hasten to explain that, oh, that must mean what I do is antisocial entrepreneurship. And you guys solve human problems whereas what do we do? We’re money grubbing, for profit people. So, I don’t respond well to that insult. I don’t think profit is a four letter word. I’m right about that, too.
+
+Tim Ferriss: I don’t mean to imply that either. I just think that there are companies – let’s just say you could never make an announcement or wear it as a badge of honor as words on your sleeve or anything like that. The only point I was trying to make is I don’t think for profit is at all a four letter word. And I think it’s, often, absolutely, if not always, essential to create something that is self-sustaining that can scale and serve the greatest number of people or have the greatest impact. But that a capable engineer, entrepreneur, certainly doesn’t have to be an engineer, who wants to build a company can choose many forms that company can take. The product or service that it can produce.
+
+Bob Metcalfe: So, at the beginning of your company, you can declare its motto is do no evil.
+
+Tim Ferriss: Yeah, that’s a tricky one. That’s a tricky one.
+
+Bob Metcalfe: It’s a little odd. It’s almost like protesting too much that we’re going to do no evil. Whatever we is is not evil.
+
+Tim Ferriss: Suffice it to say the American dream, the importance of that, and the part of the fuel for that, at least in the sense of the free enterprise that supports much of it being [inaudible] companies. That’s an important one.
+
+Bob Metcalfe: I like making a list of companies. General Motors, Google, Apple, Proctor & Gamble. I put it on this big screen, and I ask my students which ones are the startups. And they pick the obvious ones. Microsoft, Apple.
+
+They can remember them being startups. And I say General Electric was a startup. Edison founded that company to solve a human problem years ago. It’s just an old start up. And IBM is 100-year old startup. They’re all startups. And that’s how the free enterprise system works. You create companies to solve problems. You find a need, and you fill it. And so, I claim there are billions of people who use my invention to have access to the internet. I think that’s a good thing. I think connecting people together stimulates prosperity and democracy and all of those good things.
+
+But I did it in a for profit, venture backed, Silicon Valley, went public kind of way. So, it annoys me a little when the virtual signaling comes from the social entrepreneurs who claim that they’re the ones solving human problems and not all of the other companies who feed everybody, and fly them around the world, and build their houses. That doesn’t count. So, excuse me for being a little annoyed at that.
+
+Tim Ferriss: You can be annoyed. Perfectly valid response, I think, to many things. Well, for those people listening and watching who would love to learn more about what you’re up to and your thinking and to perhaps say hello on the web, where are good places to find you?
+
+Bob Metcalfe: So, I tweet a lot. And I’m @bobmetcalfe with an E. The E is all important. I probably tweet 10 or 20 times a day. And I can control my number of followers. I figured this out. When I want it to go up, I tweet about startups. And when I want it to go down, I tweet about politics. So, I have 22,000 followers. And I’m curating my eco chamber. So, I block people every day. Anyone that annoys me a little bit, I just block them. And so, I’m staying there at around 22,000 now. But if I wanted to go up, I know how to do that. Virtual signal, how you do it is virtual signaling.
+
+Tim Ferriss: Well, you may have a herd to call after this podcast. I’m sure many people will visit. Well, Bob, thank you so much for taking the time today. This was really fun for me. I really enjoyed the conversation
+
+Bob Metcalfe: Thank you very much.
+
+Tim Ferriss: And for everybody who is listening, for everybody who is watching, everything we talked about, the book, the organizations, and much more will be in the show notes, as well as Bob’s twitter account right up at the top. So, if you’d like to dig further into these resources, you can just go to tim.blog/podcast to find the links and show notes on this episode as well as every other. And until next time, thank you for listening, and thank you for watching. Thanks, Bob.
+
+Bob Metcalfe: Thanks.
+
+
+TAGS
+BOB METCALFE
+	

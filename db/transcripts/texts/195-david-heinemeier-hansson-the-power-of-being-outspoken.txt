@@ -1,0 +1,1048 @@
+
+
+JUNE 5, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: David "DHH" Heinemeier Hansson (#195)
+
+
+Please enjoy this transcript of my interview with David “DHH” Heinemeier Hansson, creator of Ruby on Rails, founder and CTO at Basecamp (formerly 37signals), and a best-selling author. 
+
+
+
+#195: David Heinemeier Hansson: The Power of Being Outspoken
+
+Tim Ferriss: Hello, boys and girls. Meow. This is Tim Ferriss and welcome to another episode of The Tim Ferriss Show, where it is my job to attempt to deconstruct world-class performers from all walks of life, whether that be sports, military, entertainment, business, finance, or otherwise. This episode we have The Fearsome Dane himself, known as DHH – David Heinemeier Hansson – lots of vowels and a double S in there, just like my last name. This is a multi-faceted character and we delve into a lot of stories and details that I don’t think he’s discussed at length anywhere else.
+
+He is the creator of Ruby on Rails, and we’ll certainly dig into what that means for those of you who are not in technology. He is a founder and the CTO at Basecamp, formerly known as 37signals. He is also a best-selling author and known for being very, very outspoken.
+
+We also, I suppose, meander into a discussion of the power of being outspoken. He’s also a world-class racecar driver. He is a Le Mans class winning racing driver, despite the fact that he didn’t even get his driver’s license until he was 24 or 25. You can find him a number of places: on Twitter @DHH. Medium, where he writes longer form content, as DHH as well. On Instagram – he does spend a lot of his time taking photographs – at DHH79. That might be lesser known, but certainly check that out. We really bounce quite a few different subject areas.
+
+We talk about tech. We talk about running a profitable business without venture capital for more than a decade. We talk about his 13 years of open source with Ruby on Rails and we talk about Stoic philosophy. We talk about flow states. We talk about racing.
+
+I will warn you, in the very beginning, for the first I don’t know, 15, 20 minutes, we have a lot of racing talk. It is relevant to what comes later because we’re looking for, again, parallels across disciplines and first principles. So I’m not going to dig into a bunch of stuff that you’ve heard a hundred times about DHH before, if you’re familiar with him, on Wikipedia or in his books, for instance. We wanted – or I should say I wanted (that’s the royal “we”) to dig into his rules. What are the rules he follows?
+
+The philosophies that he uses as his personal operating systems for creating excellence on this plant? What does beautiful code mean to him? How does that translate to other areas, etc.? So without further ado, as I always say, please enjoy my conversation with DHH.
+
+David, welcome to the show.
+
+DHH: Thanks, man.
+
+Tim Ferriss: It has been a long time since we’ve chatted.
+
+We were, of course, talking before we started recording and I couldn’t pin down how we first came in contact. I think where we arrived as somehow through Seth Godin when you guys were first considering publishing ReWork. We connected to talk about all sorts of things ranging from split-testing titles to the entire publishing process. That must have been what, six years ago?
+
+DHH: Yeah, I think 2010 was when we started shopping our manuscript around. Maybe that was even when we published the book. It’s so weird. It feels like it was just yesterday and then six years later, here we are. But it started in part in the same way that I started on learning a lot of things. I try to identify whoever in that domain I want to learn from and then figure out a way if I can either learn from them directly or indirectly. Of course, if you can have a direct link, that’s the best.
+
+I had read The 4-Hour Workweek sometime in advance of that and so had Jason, my business partner and co-author of ReWork. We were both just impressed with that. We were like, “Hey, this is kind of the path we want to take. Let’s see if there’s a way if we can learn from what you’ve done. And oh, here’s a connection.” Jason knew Seth and Seth knows – and there we go.
+
+Tim Ferriss: So we’re going to get into certainly programming and everything else. But since you talked about seeking out expert, I don’t actually know the answer – I don’t know the answer to pretty much any questions I’m going to ask because that would be boring for me. But you – I’m just looking at some CliffsNotes that I have here to go off of. I didn’t know this part. So you did not have a driver’s license at 25. Is that right? Around that age?
+
+DHH: That’s right, yeah.
+
+Tim Ferriss: Okay. And then let’s flash forward. What happened at 34?
+
+DHH: I got to stand on the podium after 24 hours of racing in a town in France called Le Mans.
+
+In the greatest endurance race in the world, fulfilling my dream of not only just completing that race, but winning our class there. All that in nine years, from not having a driver’s license to getting a driver’s license, learning how to drive a normal car, and then getting into racing and climbing the ladders of racing until you’re at the top.
+
+Tim Ferriss: So if we were to try to find the parallel example to you reaching out to me – and I’m sure other people – about publishing, two questions. One is how did you decide? Was there a moment or a dinner or a conversation where you said yes, this is what I want to do? And then second, how did you start trying to figure out how to go about it?
+
+DHH: Sure. So one thing since the mid-‘90s, I had on Danish television just tuned into this race – the 24 Hours of Le Mans. I caught it a number of years and was always just fascinated by the speed, the teamwork, the endurance, just the whole process of driving around in circles for 24 hours straight and making the machine last, making the humans last, and just found it absolutely fascinating. Then in the late ‘90s and early 2000s, a fellow Dane – we’re talking about Denmark here. This is a population of 6 million people; 6 million Danes total. So when another Dane does something remarkable on the world stage, other Danes take note.
+
+Maybe that’s true of all countries, but I think it’s especially true of small ones because we just don’t expect it, right? You don’t expect that out of such a small country, you’re going to have someone who reaches the peak. And we have. Tom Kristensen, who now goes by the name “Mr. Le Mans,” because he’s won the race nine times, started winning races and started winning the 24 Hours of Le Mans just over and over and over again.
+
+So that, of course, piqued my interest too. I was already sort of interested in the race. Then a Dane started winning it all the time. This is still before I even have a driver’s license. But this just plants the seed, right? I’d already been playing lots of racing games. I loved racing games all the way from the Commodore 64 to Sega and Nintendo and Amiga and all sorts of video games. Probably racing games was one of my favorite genres. So I played a lot of video games. Then all of a sudden at 25, I want to go to a vacation.
+
+And actually, if I go to Brazil or the United States and I don’t have a driver’s license, that’s really annoying. You want to arrive there and you want to rent a car. The funny thing is, I wouldn’t even think about driving around Copenhagen, because that seems like such a foreign concept. I’d already made it 25 years in Copenhagen on roller blades and the occasional bike, in between them getting stolen. That seemed to be well sufficient. Copenhagen is not that big of a town. It’s very well equipped for people who want to bike or rollerblade or whatever.
+
+So it wasn’t even to use it in my own country. It was that I wanted to go on vacation and I wanted to be able to rent a car. So I learned how to drive a car in Copenhagen. Which was in itself a funny process because most people even in Copenhagen, I think, if they learn how to drive a car, they learn how to drive a car at 18 years old, right? It’s that kind of new and exciting or what have you. Here I am at 25, I’m trying to learn how to drive a car. At that point, I already knew programming. I had already worked on a number of domains that I had taken a sort of methodical approach to.
+
+I took a pretty methodical approach to learning how to drive the car too. To the point of where the guy I was doing the exam with was remarking on the fact that I was self-commenting. I didn’t even realize that at the time. The guy is grading me whether I pass or I don’t pass sitting right next to me in the car, right? I’m driving around and I’m like, “Oh, I should’ve turned in a little sooner there. Oh, I should’ve turned on the blinkers there.”
+
+It was funny. He told me after I passed, of course, “But was really remarkable was that you were narrating the whole process.” I was like, “Oh, yeah. Actually, maybe that wasn’t so smart.” I guess it worked out in any case. But I was basically pointing out all my own flaws because that’s how I learned. So that’s how I learned how to drive a car. So skip forward just a little bit.
+
+Tim Ferriss: Well, actually, you know what? David, I’m sorry. I’m going to interrupt just for a second. So, two things. The first is, do you do that self-commentary for a lot of things?
+
+DHH: Yes.
+
+Tim Ferriss: You do?
+
+DHH: There’s like a running narrator just running in my head when I’m trying to learn something, constantly pointing out, oh, you could’ve done that a little better. Or, let’s try this next thing on the new run around. In racing in particular, you get that enjoyment a lot because a lap isn’t that long. It’s usually two minutes. So every two minutes you get to reset.
+
+Tim Ferriss: You have a take 2?
+
+DHH: Yeah, exactly. You have a take 2 and take 3, and take 4. By having that running commentary, I’m kind of taking notes on this is what I have to tweak next time around.
+
+I do the same thing in programming too. I’ll look at a piece of code and I go like, okay, let’s get this working. And then I go back. Okay, take 2; let’s make this right. Okay, take 3; let’s make this beautiful. Okay, take 4; let’s simplify this. Okay, take 5. Just having that commentary all the time about where can I improve? Where can I get better? I don’t know where it comes from, but that’s just how I’ve always gone about learning things.
+
+Tim Ferriss: Did either of your parents do that? Or I don’t know if you have siblings.
+
+DHH: A lot of these things and learning techniques I’ve talked with other people around. These things have been codified and I would go, “Oh, that’s interesting. I didn’t know that either had a name or that was now people were doing it.” Somehow, I think I just stumbled over the fact that if I do this, I learn faster. Oh, I’ll just do more of that.
+
+Tim Ferriss: Right, of course. That all makes perfect sense. So I interrupted you though. The other second part – I apologize – was what did you differently compared to other people when learning to drive for that initial driver’s license test?
+
+Was there anything that you recall doing differently or focusing on in particular?
+
+DHH: Yeah, it’s funny. One of the things that I – and I had these things with programming too where I’m actually a slow learner at the beginning. Because when I don’t understand how something works, I have a very hard time putting it into action. I can’t just, oh, let me just clone whatever it is you’re doing. I don’t understanding and then doing it well. I remember in Copenhagen, all the cars we were being taught to drive on were all stick cars, manual cars. So you had to operate the clutch yourself.
+
+I could not get my head around the fact that clutch engagement, lifting the pedal from the floor was such a fussy process. He couldn’t tell me how much I have to lift my leg to get the right clutch engagement. He’s just like, “Oh, just go on the feel of it.” I’m like, “No, no. I want to know like 30°? Is it 70°? Like how far does the clutch have to come off the floor?”
+
+I must have stalled that car 100 times because I just kept going like, I’m not just going to do it if I don’t understand how it works. I’m going to figure out how this clutch thing works because then I’ll know how it works and that will help me move forward. But other people would walk in, right? And they’d just be like, oh, you just go how they feel. They’d put it in the clutch and they’d let it out and they’d give it a bunch of gas and somehow it’d work and they’d get off the line. I would just still sit there, stalled, trying to do take 3, take 4, take 5 on getting the thing going.
+
+So there was that aspect of it. Then the other aspect I was so impressed about and it’s funny I still remember this. This is 11 years ago. I was so impressed with the writing quality of the text. So we would have both the practical part where you go out and drive the car and then you’d have the theoretical part where you learn about the rules and so forth. I just remember being remarkably impressed by the narrator of this incredibly dry material, right?
+
+Like oh, if you see this sign, it means this and that and the other thing. The narrator was just entrancing because every single word had just been picked to perfection in a very bureaucratic, stilted way. But still I was just so fascinated. So it actually helped me learn the material that much quicker because I was just paying so much damn attention to how the guy was telling us how these signs were and how far from the curb you had to stop. I was just like, wow, everything can be interesting if you find a way to look at it the right way and if you have a way of telling it in the right tone. Even if it’s the driest material in the world. He wasn’t trying to make it peppy. It wasn’t like the narrator was being funny or whatever. Just being ultra-precise with every single word weighed and picked to perfection.
+
+Tim Ferriss: It sounds like that probably – and we’ll dig into this a little bit late – but your past two or past three examples of making your code beautiful. I think that seems to perhaps relate to why you’re entranced by the precision of the language and the elegance of language in that presentation for driving.
+
+DHH: Exactly. Same thing, right? Ever since I’ve tried to strive to write code the way that whoever wrote that instruction manual for how far away from the curb you should park could write. Which I actually think correlates pretty well to programming. We do a lot of things in programming that aren’t inherently interesting. If you read some of the programming greats, they talk about building a salary compensation system for Chrysler or something; the C3 system, which is legend now in Agile world. You go like, “That’s got to be the most boring domain in the world.”
+
+You’re programming a system to come up with all sorts of deductions and exceptions and so on and so forth. How is that interesting? Little do you know, once you dig into it and you unravel the mechanics that go into it, it’s just fascinating. I think that some of those experiences have taught me that anything that looks boring on the surface, you just haven’t scratched far enough. Keep scratching and everything becomes interesting.
+
+Tim Ferriss: I could not agree more. Two things came to mind. The first was, and I’m going to be wading into dangerous territory for me because I’m getting outside of my competency real quick. But it seems like the instructional videos that you were watching are almost an algorithm for human beings, right? So it was imparting instructions and steps and so on to human operators who are going to be interacting then inside this machine. The second is my personal litmus test for good writers – at least in the world of nonfiction – those people who can make topics you assume to be boring absolutely riveting. Right?
+
+Because anyone can take the most exciting topic in the world and even if they just throw together the equivalent of spaghetti code, right? It’s just like sloppy prose.
+
+As long as the story is really strong and they were given kind of a Willy Wonka golden ticket in terms of subject matter, you don’t have to work very hard on the words and the precision. But then you take someone like John McPhee, for instance. Anyone who hasn’t read his stuff should. M-C-P-H-E-E. He’s written entire books on oranges. He’s written entire books on hand-carved canoes. He wrote one on Plymouth Rock. He wrote an entire book on a single tennis match between Arthur Ashe (and I’m blanking on the second competitor) titled Levels of the Game. But his ability – he can take any subject you can assign him and make it – much like Michael Lewis, right? He wrote a thriller about credit default swaps – and just make it riveting. So coming back, I know I’m prone to making us digress, so you passed your driver’s test. At what point do you decide to race?
+
+DHH: It’s funny; I didn’t even decide. I had a friend who I’d actually met online. Again, the whole reason I came to the U.S. was because I met a guy online – Jason Fried – through a blog and an email. We got working together and a couple years later, I moved to the U.S. to work with him full-time. Here’s another guy I met online on a forum, a discussion board for cars, who said, “Hey, I know this racetrack that’s just 45 minutes out of Chicago. Do you want to come?” I was like, “Cool. That sounds interesting. Let’s go down there.”
+
+We come down to the track and he had set up with another friend that I could try a racecar. Up until that point – I don’t know, I don’t remember – maybe I’d driven once with a street car on a course or something. This was a real racecar. This was a single seater. You sit in the middle of the car, the wheels are exposed. They kind of look like miniature Formula 1 cars and I get a chance to ride in this thing.
+
+I just remember – first of all, these sessions were about 30 minutes long. You get out on the track, you drive around for 30 minutes; or maybe it was even just 20 minutes. It felt like it took 30 seconds. Because I would just see the flag right away and it’d be like what? I have to come in? I just started. So time was already being distorted. You know you’re having a good time when you can’t keep track of time, right? Not only that, I was just absolutely fascinated from the get-go about this whole closed system. We have this track, a lap around the track was about a minute 30 and you would get instant feedback on how well you were doing every single time you came around.
+
+There was a clock telling you, oh, this time you did it in 1:31.4. Then you go around one more time and it’s 1:30.8. And you go like, “Man, I just shaved off six-tenths. This is the most exciting thing in the world.” And that’s even taking it beside the fact that it’s exciting. It’s a loud car and shaking and there’s the element of danger.
+
+You could go off course; you could hit something. But just the closed-loop system of improvement was absolutely intoxicating. It was kind of like you just had a bottle of flow. You could just open your fridge and like, “Oh, I’d like some flow please. Can you get me into the flow state where you lose track of time? Where you just have such a great experience learning and getting better. That’s how I felt the first very many times I got into a racecar. I could just switch on flow.
+
+Which was something I had discovered in programming a fair amount. But I find at least in programming it was a little more elusive. It was like the best programming sessions I’d have flow. But then I’d also have other programming sessions where I wouldn’t have flow. When I stepped into the racecar, I just felt like you turn the ignition and flow comes. That was just magic.
+
+Tim Ferriss: Why do you think it was more elusive in programming? Can you identify any common factors for the sessions that had flow or that didn’t have flow?
+
+DHH: I think part of it was racing was just the intensity level was at 100 percent right away. You had – as soon as you stepped into the car, you had maximum danger. Actually, you have more danger in the beginning than you will have later on because it’s much more dangerous to drive a car on a track when you don’t know what you’re doing than it is later on. Versus with programming, I didn’t get flow until I was – I mean, I shouldn’t say that. I didn’t get great, consistent flow in the quantities that I’d like to enjoy it before I was actually a fairly well-developed programmer.
+
+Because that was when I had enough of the eye for the whole scope of programming to really dive into let’s make this beautiful; let’s make this as simple as possible. When in the beginning, I was just focused on let’s get this to work. Can the PHP page render? No, I get an error; let me try something else. That was fun.
+
+There were glimpses of flow, but the real moments of flow I wouldn’t get until I was much better. Where with stepping into the racecar, you’re kind of forced into a situation really early on where developing your eye for this domain just was putting it a little bit on a pin, but it was like that. You’re going 160 miles an hour. If you don’t get this next turn right, at the very least, it’s going to be expensive and then it only gets worse from there, right?
+
+Either it’s going to hurt or it’s going to be really bad or there’s going to be an ambulance involved or something else like that. I think there’s just a survival instinct that sharpens the mind in that sense. When I’m trying to make a PHP page work, if I make an error, it’s not like I have to write off a car or go to the hospital. At least not the kind of stuff I was writing.
+
+You get that if you try to write a pacemaker on your first go or something. But I was just writing information systems and web pages. But as things progressed, they became more the same. When I got well versed enough into programming that I had developed an eye and developed opinions about what was good code and what was bad code, what was smelly code and what was clean code, it became a lot more fun to try to go from oh, this is just something that just works – which to me then became uninteresting, right?
+
+Any programmer worth their salt generally speaking can get something to work, can get the program to roughly perform the task it’s supposed to do. At least in information systems where the domain itself isn’t that novel, perhaps. Or it’s well-established enough that getting things to work is the baseline. But beyond that is getting to make it clear, picking the right names, making the code beautiful, making it succinct, simple. All these other pleasures you derive from code as pros.
+
+Code as writing, not code as putting mechanical things together. With racing, you have this sort of interest right from the get-go because you have this really high criticality. But then as you develop, it became more of the same. Once you start understanding grip and slip angle and all the mechanics of setting up a car in terms of caster and rake and right height and you start appreciating the differences between 2 millimeters up front and 2 millimeters on the rear or tire pressures, it becomes really interesting in a deeper level than just holding on for my dear life trying to survive.
+
+Both things provide flow, but they’re different kinds of flow. Perhaps the latter part is the more satisfying part because it’s, as you say, when you can write a whole book about a single tennis match, you really understood the problem. You really understood the details that matter.
+
+With programming and with racecar driving, once you get into those nitty gritty details of – as I mentioned, all the particulars of the mechanics of the car and slip angle and wear of tires and so on – there’s just so many factors. And again, it becomes system thinking, system optimizing and just a riveting thing of trade-offs and optimizations and so forth, that it’s the path to flow. Details, developing an eye, that’s for me the most reliable way I’ve found to cultivate flow.
+
+Tim Ferriss: And like you said, if you haven’t found something that grabs your interest about a given topic, just keep scratching. You haven’t dug deep enough. For instance, I wanted to get involved for archery for a very long time in a serious capacity. I only started doing it about a month – let’s see, three months ago.
+
+Part of what triggered it was an Olympic archery coach who suggested I get a book called Shooting with Back Tension. I think I’m getting the title right. It’s an entire book about how to use mid-back tension to fire more accurately and make the process more replicable. For whatever reason, I just found this so fascinating. That is what enabled me to finally take it seriously because that was the hook. That was the lure that I needed to bite. Let’s rewind the clock a little bit because we’ve alluded to it, but there are people who won’t have the history necessary to put some of this in context.
+
+The story of not wanting to be inconvenienced in say Brazil or U.S. by not being able to drive. That sounds like at least one of the primary catalysts for getting a driver’s license. That sort of potential frustration.
+
+Correct me if I’m wrong here, but the programming came out of starting a gaming news website? You mentioned the racing games earlier. How did that come to be? How did you start coding?
+
+DHH: It was actually exactly the same thing. As I said, I learned how to drive a car because I didn’t want to be in Brazil or in the U.S. stranded or reliant on buses or whatever that would make it hard for me to enjoy that vacation. With programming, I came to the same conclusion actually. I had almost consciously avoided becoming a programming for a long time because I grew up with a lot of programmers as friends. I was involved with computers not as a programmer, but around the edges of it. I ran what was called a “ware site,” a BBS, a bulletin board system before the internet, where we’d trade pirated software and so on. I was well involved in the scene of computers, but I wasn’t a programmer.
+
+I had kind of decided at some point – I don’t know, 13, 14, when I had these programmer friends and I saw what they were doing and I thought, that’s not for me. Programming looks like math and math is interesting, but it’s not really what I want to spend my time on. Programming is not for me. So it took several years after that until I started working with the internet. I started working on these gaming websites and I would pester my friends, my programmer friends. Hey, can you help me make this happen? Can we make a content management system (before things were called that)?
+
+They would help me and I would kind of just get frustrated because I felt a little helpless. I felt I couldn’t be self-sufficient. I couldn’t just make the things happen that I wanted to make happen. In much the same was as that I wouldn’t want to arrive in the U.S. or in Brazil or whatever I had imaged would be these nations that required a car and feel helpless, like I was dependent on someone else. I think that’s a threat that goes through a lot of things in why I choose to do certain things.
+
+I definitely have a streak for wanting to be self-sufficient. That self-sufficiency then led me to think okay fine, I’ll learn ASP or whatever the Microsoft things was that we were using at the time. Then okay fine, I’ll learn this PHP thing, just so that I can make the other thing that I really want happen. I want to make –
+
+Tim Ferriss: So it wasn’t a decision to become a programmer?
+
+DHH: Absolutely not.
+
+Tim Ferriss: It was like, all right, I will just figure this out so I can do triage so I don’t have to wait for A, B and C person to get this done a week from now.
+
+DHH: Exactly. That was it. It was a tool thing. It wasn’t like oh, this is my new pursuit; I’m going to be a programmer! Absolutely not. It was I wanted some programs. I wanted some websites, actually. I found out you need to do some programs to do that. I taught myself HTML and CSS and JavaScript to do some of those other things. I just resisted learning programming for a long time simply because I thought it’s math, it’s hard.
+
+I had these notions about what programming was because I had observed the programming friends I had make demos and 3D graphics and games and all sorts of things that’s programming, but it’s a very different domain than working on information systems. So I picked up this tool trade in much the same way and someone who has to put a piece of furniture together. Which screwdriver do I have to use? That one. Let me just read the instructions, let me just try to put it together. It’s not because they’re trying to become a carpenter, right? I just want this desk together, I’m not trying to make a career as a carpenter. I just want a desk put together and IKEA has some instructions and I need a screwdriver.
+
+That was how I felt about it. I felt that way about it for several years. It was funny because it was one of those things that snuck on me. With racecar driving, for example. There was a lot of intent. I did the first thing and I immediately got hooked. With programming, no such thing. I did the first thing and I actually didn’t enjoy it at all. I didn’t enjoy programming very much. I thought it was an inconvenience.
+
+But I just kept doing. As you say, you just slowly start unpacking the onion and the further you get into it, the more rings you get into it, the more interesting it becomes. So fast forward a couple years in 2001 or whatever. I’m done with this gaming website I had been building for a Danish incubator. There were a lot of Danish dot-com inspirations going on at the time. One of the things was incubators would throw money at kids like me to build things with no idea of profits or a business model or anything else. Just because – eyeballs!
+
+Anyway, I kind of say the writing on the wall painted pretty clearly when the dot-com bubble burst in the U.S. and I thought, let me just go back to university for a while. I had stopped after high school. I went straight into building these gaming websites of various kinds. I’d done that for three years or so and then the whole bubble thing went pop.
+
+I went, I’m not 100 percent sure what else I’m going to do. I’m not going to keep just spinning around the scraps here. Let me just try to learn something. I got into a program for business administration and computer science. But at that point, the snowball was already rolling. I had already gotten enough now of the taste of programming, again, not because I wanted to, but because I had to, that it was kind of getting more interesting. I was getting more fascinated by just building information systems of various kinds.
+
+These gaming systems – that was all they were, right? They were content management systems, they were message boards, they were all these kinds of information systems. It had just really piqued my interest. I hid away in university for three years getting this degree and then I really got into it, right? Not so much because of schooling, because schooling was all about nonsense Java stuff. I guess it was good to get exposed to that.
+
+That did provide influences for later work. But it wasn’t the school work that was interesting. It wasn’t because we were getting assignments that I thought were oh so fascinating. It was all the stuff I was doing on the side. One of the things I was doing on the side – to catch the tails of the story here – was I started working with Jason Fried, who I would end up becoming a business partner with. That stuff then went from okay, I guess this is kind of interesting to this is pretty interesting, to all the way until 2003, when I finally find the love of my programming language life in Ruby and go oh, this is what I want to do with my life.
+
+Tim Ferriss: How did you experience those jumps? In other words, what made it interesting? Because there are certain moments in time where I can pinpoint for different skills or topics. It went from not interesting to interesting, right? Kind of not boiling, boiling. There was a really clear shift. For you, what was that for programming?
+
+Why – I’m sure you might be sick of explaining this. So the first is why programming generally? When was it like oh, shit, this is really interesting? The second is why Ruby?
+
+DHH: Sure. So the first thing certainly came first, which is why it’s interesting. The first big ah-ha moment I had was when I reached self-sufficiency. When I got to a level where I could make a whole thing, a whole feature, a whole part of the site, without having to consult someone else, without having to stumble through it, where I could actually just put this desk together and it was a pretty good desk. It served its purpose. I could put things on it. It wouldn’t fall down and I’d go like huh, that’s actually pretty cool. You can take an idea and you can start writing things in a text editor and all of a sudden you have an information system? Wait. That’s actually pretty cool.
+
+So that was the jump point from the standpoint of, I like the outcome. That wasn’t the jump of I like the activity itself. I really liked the outcome, I really liked the self-sufficiency and I liked the idea of taking nothing and turning it into something. Then I had perhaps another jump point when I started working with other people. I started working with Jason. Jason Fried, as I said, was not only a business partner at Basecamp, but he was also the first guy who paid me to program.
+
+All these other endeavors I had to program were more like side shifts. They were not the main thing I was supposed to do. I was doing this programming for the gaming websites not because someone had hired me as a programmer, but because they had paid me some money to run it or I was just interested in running it. Then I just through that had gotten self-sufficient enough that I knew my way around PHP at the time.
+
+Then Jason – I ended up connecting with him and he ended up hiring me, paying me the grand sum of $15.00 an hour, which I was going to say back when the dollar was worth something. Now the dollar is actually worth a lot more again. But again, my comparison frame was I could either get $15.00 an hour working for some strange American I’d only met online from Copenhagen, Denmark, or I could go do another student job of I don’t know, filing papers in the library or something. So that seemed pretty good to me. I get to do some programming stuff, which I’m getting more interested in, and someone is paying me $15.00 an hour.
+
+By the way, a funny anecdote on that. It wasn’t even $15.00 an hour because back then, you couldn’t really easily send money.
+
+Tim Ferriss: So you took a 20 percent transactional cost [inaudible]?
+
+DHH: Exactly. He would send goods. He would send Apple goods. So he would send me like the very first iPod was part of my payment. I got an iBook, a bunch of stuff like that. Anyway, just fun to think back about it. Then I worked with Jason for a couple years on a variety of client projects. 37signals, which was the name of the company before we changed it to Basecamp, was doing client work, mainly design work. I would team up with them and work on programming stuff. But the big jump where I went from just liking the output to loving the activity itself really came with Ruby.
+
+Ruby I discovered maybe in late 2002. I had a small look at it. And then in mid-2003, I really dived it because we started working on Basecamp. Our first sort of major product together, Jason and I. We had worked on some other stuff earlier, a site to keep track of your books called Singlefile that I’d made in PHP. That was good fun. It was a good learning experience. It never really took off; it didn’t go anywhere.
+
+So we scrapped that a few years later. But then this Basecamp thing came up. We wanted to keep better track of our customers, all the clients we were working on. We were doing everything over email. We just kept dropping the ball. All the same stories of when you try to manage projects and people over email. You go in the beginning, oh, this is wonderful. You can just send an email. Then at the end of it, you go like oh, shit. Where’s that email? I can’t find it. Did you tell Peter about this? No, I thought you did. He doesn’t have the right version of the file.
+
+All the usual stuff you get when you try to do – that you still get today – when people decide to coordinate projects over email, right? So we thought hey, we’re building websites for clients, can’t we build a piece of web software that would make this stuff easier? So we did. As we started on the project, I went hey, this is not a client project. No one is saying you have to use PHP, you have to use ASP, you have to use Java. No one is mandating the technology we have to use about this. I had read about Ruby from some other programmers that I respected.
+
+Dave Thomas, Martin Fowler and others had been writing in industry magazines about this wonderful language that they also couldn’t use at work, but they used it to explain various concepts. I thought hey, here’s a chance I can use brand-new program language. Let’s just give it a try. I set myself this challenge, basically. If within a week I felt like I could get things up on the screen that talked to a database and so forth, it’d be enough to continue. And if within a month I felt like I can build all the things I would realistically would need to build something like Basecamp, we’re going to do it.
+
+Of course, it took like three days for me to can make things come up on the screen, I can make everything happen. Then it took another four days to go like, yeah, I don’t think I need to program in any other programmer language ever again if I can help it. This is wonderful. This is likening it to taking LSD or something.
+
+I have this gift of the guy that just goes like pff, where his mind is blown and he sees the galaxy and so forth. That was a little, without over-dramatizing it even more than that, what I felt like. This is what I’d been waiting for. This was the glow. It just fit my brain so perfectly. I just went wow, this is something else. It’s so deep I can keep pulling on the thread. This was easy enough to get started that I didn’t get frustrated, but deep enough that I couldn’t even see the bottom. I just kept going and going and going. I’ve read more and more of the standard library for Ruby.
+
+I read basically every library that had been released at the time. I just went, this is truly something else. Then I started building. I just started building, building, building, building. The purpose in the beginning was just to build Basecamp. What I found was I was trying to put this desk together.
+
+I could see sort of like this is a beautiful tree. This is the sort I want to use for it, but there’s no hammer. There’s no saw. I have to build a bunch of these tools first. But I go like oh, no problem. This is wonderful. I’m having such a great time. I don’t mind that I have to build all my tools for myself first. So I started building all these tools which then became the web frame for Ruby on Rails. That was basically my first projects in Ruby. I’d been a professional “programmer,” as someone paid $15.00 an hour for two years at the time, but it was just that ah-ha moment when you go like, this is next step. Really, seriously, it didn’t take that month. Maybe a couple months into it where I just went, this is some of the most fun I’ve ever had in my life. This is some of the most rewarding, interesting challenges I’ve ever had to tangle and deal with and there’s just more every day. I simply just could not wait to get back to the keyboard and develop my eye, dig deeper, get better.
+
+I really felt like I’d found something you’re not supposed to. As in like this is almost too good here. I knew programmers; I knew they could have fun, but I didn’t know it could be this good. Especially because I’d been doing some version of programming for years in advance and I’d never felt like that.
+
+Tim Ferriss: Now you mentioned – there are bunch of things I want to dig in because I love this story. So the first is – and for anyone who’s wondering does Tim program? I am not a programmer, but I did have – as an aside – a very fun experience with Shad Fowler. He’s not related to the Martin that you mentioned, is he?
+
+DHH: No. I know Shad quite well as well and he was one of the early Ruby guys and a really great guy.
+
+Tim Ferriss: He sat me down to walk me through – this was after we first met at Rails Conf. He sat me down to walk me through the basics of Ruby, comparing it to a language that he speaks, which is Hindi. Because I have some human natural language experience, he was able to sort of walk me through it doing that and it made sense the way he presented it. My question to you is, you had talked about three days to be able to get something to talk to a database, right? And then four days, five days to know that you can build things.
+
+Is that a typical timeline or is that sort of a Beautiful Mind timeline for going from one language to another? Because if I think about going say from Spanish to Portuguese, maybe because they’re very similar. But if you’re going from Spanish to Japanese, you kind of start from scratch and it would take a lot longer to get conversant in a new natural language.
+
+But how do programming languages work and are you an anomaly in having picked up Ruby so quickly?
+
+DHH: I don’t think I’m that much of an anomaly because like natural languages, there are kind of families of languages. So Latin languages or whatever, you can jump from one to another with much greater ease than if you jump to a completely different family of languages, like Japanese, for example. So all from the get go, most of the concepts in programming tend to be – there’s this core set of concepts that once you understand conditionals and variables and so on and so forth, you have a good baseline. Perhaps that’s kind of like learning Latin and then trying to learn other languages from there.
+
+Ruby really was interesting in the way that it didn’t come up with a single new idea, as far as I really know. What it did was it was like the master mix tape. It was the greatest hits of all the programming languages that went before it, mixed together by the most amazing DJ you’ve ever heard.
+
+You go like, oh yeah, I recognize all the individual numbers here, but I never heard them composed together like this. I never heard if you speed up the beat like this so they just flow together, it’s a new experience. So I kept recognizing all these angles of it. This is kind of similar to that but whoa, what a way they’ve chosen to express it! So the onboarding was quite easy and I think that’s one of the areas of real success that Ruby has had is that for a lot of programmers who’ve had some experience with programming, it instantly feels familiar.
+
+Tim Ferriss: Right. The switching cost is really low.
+
+DHH: Yes, it’s quite low to at least get started. To become an expert at anything still takes a long time and I assume you have thoughts on unrealistic expectations that people have, especially these days about how long it takes to become an expert. But to get started and to get a hold of something and get a taste, get a preview of what this could be, it was like sitting down and watching the world’s greatest trailer.
+
+In two minutes, you’re like, I really want to see the rest of this movie. It’s still going to take two and a half hours to watch the rest of the movie, but just those two minutes was enough to get me fanatically excited about what was going on. I think in terms of learning that new language, when you see something that’s both that has some recognition and it also challenges you in some ways – I certainly didn’t know all the concepts that were mixed into Ruby, but I knew enough that it wasn’t totally foreign. It wasn’t a brand-new concept. I didn’t have to throw out everything that I knew to adopt it.
+
+I think that’s where perhaps some other programming languages that are more radical, like Lisp or even Smalltalk, the way those languages work they are far more radical. Which in some ways is more pure. Ruby is not a very pure language. As I said, it’s a DJ language.
+
+It’s a remix language. It’s a mix-up of just all the greatest hits. Ruby didn’t come up with very much original content in that sense. But that’s really how the world – at least that I operate in – works. When you try to apply that sort of perfectly, singular idea, it usually doesn’t fit because it doesn’t bend; it doesn’t stretch. Ruby really bends. Ruby really stretches such that it covers all sorts of different scenarios with just an elegance and a grace on the long timeline.
+
+You can take any one individual language and say Lisp or Smalltalk and you can apply it to one problem that fits it really well and you go like, okay, for that one problem, this probably is the best language in the world. It’s just the problem is a little narrow. And then if you try to apply that same best in the world idea to another problem, it becomes sometimes the worst idea in the world or it becomes just kind of awkward.
+
+Where with Ruby, it was just really good. Never perhaps the best in the world on any individual task, but so flexible, so well remixed that it was just exceptionally good at a lot of different things. I find that trait to be something that runs as a line through a lot of things I get interested in. With Basecamp, for example, the product that I built with Ruby, we were never the best at any individual thing. Basecamp is a DJ remix of the best tools. We’ve got chat, we’ve got message boards, we’ve got all these different things that fit together and it offers a solution. Not just the best in the world at this one thing.
+
+I thought the same thing with Ruby on Rails. Ruby on Rails as a framework isn’t the best in the world at any one thing, but it’s a DJ remix master tape. Like oh, let’s have a great evening and it’s really going to fit well and it’s going to work out great.
+
+To tie it to the racing we’ve been talking about, if I look at the strengths I have as a racecar driver, they were never qualifying. I could never put together the one perfect lap. In part because I kept having that damn dialogue running in my head of how I can improve things, which sometimes means I step over the line and I actually regress. But where I was really good was long-form endurance racing where I had to race in traffic. Where I constantly had to deal with something new and have to alter my line or vary things.
+
+That was when I got much closer to the peak of the racing community, rather than just being singularly good in that one thing. I’ve tried to apply that in my life in general. As in I don’t just have one thing that I’m really passionate or interested about. Not like it’s all about work and I have to work on Basecamp 120 hours a week and it’s all that. No. I like working on Basecamp. I like working on Ruby on Rails. I like driving a racecar. I like spending time with family. I’ve gotten into photography.
+
+There’s a lot of things you can do. Well, not a lot of things. There are some of the things you can do and then you can do those things really well. I think 80/20 being where I’d much rather have – you can get 100 percent for 100 percent of the effort, right? Okay, fine. If you want to be the very best in the world, you have to spend 100 percent of you to get there. I just find that uninteresting. I’d rather have five things where I’m in the top 80th percentile.
+
+Tim Ferriss: I want to underscore that because I think that’s a really important point. It’s something that a number of folks have spoken about with me. I think it’s a pattern worth highlighting for those people listening. That is, if you want to – and Scott Adams, the creator of Dilbert, wrote about this on his blog as I think it’s just career advice. He said your options for achieving greatness, so to speak, are – No. 1 and No. 2. No. 1 is trying to become the Michael Jordan of one specific domain.
+
+That’s extremely difficult and your probabilities just don’t look very good. I’m paraphrasing of course. Option No. 2 is to combine unusual skills where you’re in the top – like you said – the top say 20 percent or 15 percent. Then you become extremely valuable. That can apply to racing. That can apply to not only people, but tools. Like you mentioned Basecamp, Ruby. Marc Andreessen has also talked about this. He, of course, created more than a handful of impressive things and has reinvented himself as an investor.
+
+But the CEOs in this particular case, in his example, being combinations of top 15 percent, top 20 percent in a number of fields that might be viewed as disparate. So perhaps they have a physics degree undergrad, then an MBA or a physics degree and then a law degree, or whatever the combination might be – econ and computer science.
+
+A quick thing. What you said about Ruby made me think of gaming, actually. I’m going to bastardize this, I’m sure, but easy to learn/hard to master. I believe that’s also Bushnell’s Law from Atari, which was a good name is easy to learn, hard to master. Ruby itself I had a question on. What is – and I could look this up on Wikipedia, but since I have you here – what or who is Ruby and then why did you use the words “on Rails”?
+
+DHH: Yeah, so first I’d say that I’d absolutely agree. That is the ideal. Both for Basecamp and for Ruby and for Rails – all the things I’m working on. This notion that things should be welcoming. There’s so many good ideas in the world that are good ideas but require an immense amount of effort to penetrate.
+
+Lots of German philosophers come to mind. Where there’s some truly profound ideas about philosophy buried under an almost impenetrable description of them in non-human language form. It really has to be decoded by people to extract that wisdom. I find that to be just unnecessary. The best things, the things I get really interested in, like they’re approachable. You can get into programming Ruby or even driving a racecar or any of these other things I’ve gotten into, photography, they’re quite approachable. They’ve never been more approachable, but they’re so really hard to get good at, right?
+
+That’s the fun part. That you’re encouraged enough in the beginning to keep pulling on the thread and then it just goes deeper and deeper and deeper. I’d say that some of those domains that I left behind that for me didn’t pull all the tricks, like I’d worked in PHP, for example.
+
+PHP is exceptionally approachable and even more so at the time. Probably the most approachable of all the programming environments, if you want to work on an information system. Just absolutely spectacular. It really aced that, right? Best in the world on that aspect of it. But then I found just for me at the time – this is not a reflection because I know just the firestorm that’s going to start otherwise – a reflection of how things are. Let’s just say that’s caveated to how things used to be. The threat wasn’t that deep. You couldn’t pull for that long until you felt like you reached the end of the bucket. That was what really inspired me with Ruby and to keep going with that. You could just keep going and it would keep getting better. It already started out with this amazing trailer and the movie just never stopped. Now I totally forgot the original question.
+
+Tim Ferriss: Well, that’s because my question was like a 17-parter. At the very tail end, I asked about the origins of Ruby. Who was it named after? And then how you used “on Rails,” why you used “on Rails.”
+
+DHH: Yeah, so it’s funny because it really ties to so many of these trends that are overlapping and interlinked even when they’re applied at different scales in the different domains. The name Ruby itself is a kind of a remix and so is Rails, actually. But let’s take Ruby first. I know that Mats, the Japanese creator of Ruby was inspired by Perl, the language that went before it and served as an inspiration. But even the name itself served as inspiration.
+
+Tim Ferriss: Yeah, P-E-R-L, right?
+
+DHH: Yeah, exactly. He went like oh, it’s a short name. That’s cool. It’s kind of a precious, I guess you’d say stone even though a pearl is not a stone. But it’s a precious stone of some sort. Is there another word like that that’s also short that’s kind of in the same family? He was kind of paying homage and respect to the things that went before Ruby and where Ruby drew its inspiration.
+
+So Ruby was born I think in ’95. I seem to remember, maybe he’d started working on it already in ’93, but the first release at least, I believe, was ’95. So it’s been around for 21 years and Mats is still working on the language, which is just something else I truly admire, respect and aspire to, which is going the distance. Not just kicking off the ball and running out of the room, but sticking with it over the long haul, right? I’ve been working with Basecamp now for 12 years, with Ruby for 14.
+
+You’re looking at endeavors that most of my adult experience have been with these tools. I’ve been even racecar driving now. On the one hand, yeah, I got started quickly and I got going, but I’ve been going at it now for 10 years. It’s still a key hobby and pursuit. I really like just digging deep. Keep scratching, as we said.
+
+I just keep scratching, keep finding new things that are more interesting. Anyway, the same thing with Rails. So obviously we had Ruby, right? I was like okay, let’s play off that. Let’s pay some homage to that with an R. I want to have something that starts with an R too. One of the inspirations at the time of Ruby was actually a Java web framework called Struts, which in some ways was more of a negative inspiration perhaps than a positive inspiration. This is really interesting, like the concept of frameworks in general, but I really don’t like how this is done. I really want to be basically the opposite of what this is doing and a whole different lot of areas.
+
+But I find that’s often just as valuable inspiration as the things you want to clone. It’s just as valuable to look at something and say that’s what I don’t want to do. That’s what I don’t want to do. I’ve learned perhaps more about running say a company from working at companies that did things that I thought were absolutely boneheaded, stupid or whatever, than I’ve learned from trying to emulate good companies.
+
+So in some domains, I think it’s even more important to look at things that don’t work and try to extract lessons from that rather than to look at things that do work. In any case, Struts had this kind of construction feel to it, right? I was like oh, that’s kind of cool. And then I went R, like rails. Like that’s kind of similar. It has some fun plays on like you put your development on rails and it kind of just goes, it’s fast and so forth. Then I went to whatever site I was using to reserve domain names back then. I went Rails.com – taken. Damn. I can’t get Rails.com.
+
+Rails.org? No, taken. Rails.net? No, taken. Rails dot all sorts of others things? Taken, taken, taken, taken, taken. All those singular words were already taken long since. Then I went like oh, okay, well, I guess I need a domain name. Ruby on Rails then. Oh, free. RubyonRails.com.
+
+Tim Ferriss: And there you go.
+
+DHH: So that’s how it ended up with the name. Not out of any other – I mean, I actually ended up actually liking it even better because it paid even more homage to Ruby. It was even more deferential to it in the sense that Rails for me really is about introducing the rest of the world to Ruby. That was the main mission. The Rails part was a vehicle to get people to discover what a wonderful programming language that Ruby is. So love that I could fit that as part of the name and that kind of became a thing.
+
+Tim Ferriss: You mentioned learning from bad examples. This can be applied to a lot of domains, of course. I know people, in fact, who teach writing in high schools or even colleges by having their students read examples of really bad writing because it’s easier to identify what they don’t like as opposed to figuring out why the good writing works. Let’s look at business. So you come to the U.S., you’re working with Jason and at the time, 37 signals, now Basecamp. What do you guys do differently?
+
+DHH: That’s a broad question that I’ll try to answer in another way by saying that one of the early inspirations for wanting to do this, wanting to work at my own company with Jason where we would call the shots was that we would get a chance to re-evaluate everything from first principle. That I felt that there was so much of the mechanics of the businesses I had worked in before that was just mindless and copied from – oh, that’s just the way things are. That’s just how we’re doing things. That’s how other companies do things. That’s how you’re supposed to do things.
+
+I just saw enough of those misapplications or wrongful copies where I just went like, I don’t think so. Maybe this was a good idea somewhere at some time in some context, but it’s lost all connection to goodness and now it’s just a really terrible idea.
+
+So when we’re going to run our own company, we’re going to evaluate everything as much as we can from first principle. Everything from how we hire, how we grow, how we do marketing, how we work on products, how we decide what we’re going to work on. It’s not that we can’t be inspired by others, but let’s just try to keep peeling back until we get to the first principle. Is this in first principle a good idea? Do you have any principles here at all? A lot of people just clone techniques. They don’t principles.
+
+They don’t examine principles and they aren’t clear about what they want those principles to be, except that they’re these overly broad – oh, we want to do good work for the world or whatever meaningless things that anyone would agree to. The only kinds of principles and direction that I care about are the things where reasonable could disagree, generally speaking. I think that those are the interesting –
+
+[Crosstalk]
+
+Tim Ferriss: Where reasonable people can disagree. Could you elaborate on that?
+
+DHH: Yeah, I think where you’re saying something that’s meaningful because someone else will take the opposite side of it. Like if there’s not an opposite side of this [inaudible] [01:01:06], I’m not saying something interesting. If I’m saying like “people matters most,” okay, who’s going to disagree with that? Basically, anything that’s on a corporate, Fortune 500 motivational poster, I think you’d go like, “No one could say the opposite.” You read these mission statements and you go like, you’re not saying anything because you’re not constraining your view. You’re not constraining the world. And if you’re not constraining the world, what are you doing? Why are you trying to draw this up?
+
+Tim Ferriss: Well, not – yeah. I was just going to say not only that, but in a way you’re acting as a scientist, right? I think that good engineers and good programmers tend to have that lens through which they view things insomuch as if it’s not a falsifiable hypothesis, it’s just like what are you doing?
+
+DHH: Exactly. I think that has been one of the driving principles, at least for me. Sometimes we do argue about this internally, but the scientific method for me is just such a gold standard.
+
+It doesn’t apply for everything in all cases always, but for me it applies for most things most of the time. If I cannot find ways where either what we’re doing or what we believe has a falsifiable version of it, where you’d say like well, what you believe actually didn’t work. If we can’t arrive at that conclusion, it’s not an interesting thing to believe. Because then either anyone would believe it or it’s not actually driving your actions because if this principle can lead you to both sides of the coin, then it’s not helping you make decisions. That’s really what I want.
+
+I want a framework to help me make decisions. Especially the tougher the call, the more interesting it is because that’s where we make progress. That’s always been what I’ve been interested in.
+
+Sort of refining Basecamp the company, as being a product in itself that we could tweak and tune and optimize and make better for Jason and I owning the company, for all the employees that we have and for all the customers that we have. Again, it’s system thinking. We’re trying to improve the system and optimize it in such a way that we do more good for more people more of the time. If you’re not measuring that, if you’re not being scientific about it, you might stumble into it. Lots of people stumble into “a great company” because they have just one idea.
+
+They have some luck or they have something else that just works and then the rest of it doesn’t matter. That’s not so interesting to me. Sure, we’ve had our fair share of luck, of course we have. But I also think that the thing that keeps me going after all these years was not just like we got lucky once. It’s the interesting part of you keep scratching. How can the company be better this year than it was – if you take it all the way to the origin of 37signals – 17 years ago?
+
+What’s interesting in that too is it’s not just a straight line either. There are regressions. So it’s been fascinating for me to go from the four people who built the first version of Basecamp to the 50 people who today run the company. Which it’s funny because most people would look like oh, you have 50 people running Basecamp? That’s a laughably small company and to me it’s like this huge organization because my origins were – and perhaps to some extent, my preferences are a smaller thing put together really well.
+
+Tim Ferriss: I’m definitely going to come back to the beauty and elegance, or just beauty and elegance as concepts, but I want to ask you first since you brought it up, and this was going to be one of my questions anyway, do you guys have a cap on the number of employees that you want to have at the company? In other words, Basecamp not to exceed X number of people? Or is there any thinking along those lines?
+
+DHH: I think it’s more a principle of let’s try to stay as small as we possibly can while still not feeling negligent about the things that we cannot do. It’s all good and well to say you have 50 people now. What if we were 30 people and we just didn’t answer customers’ emails? You can be a smaller company if you just don’t want to respond to feedback and you might still sell your product and so forth, but that seems negligent. So I want to be as small as is not negligent to be.
+
+Of course, to some extent perhaps that’s not a scientific statement, because how is that falsifiable? But there’s just a sense that we can be much smaller than what the standard operating procedure is for a company of our number of customers, for the amount of work and output that we produce for all the open source that we are involved with.
+
+We are definitely far smaller than the norm. I see lots of companies many times our size where I go, where is that effort going? I’m not seeing it. It’s not visible. Maybe it’s behind the scenes. It’s always easy to compare yourself in flattering ways to stories where you don’t know the whole backstory. But I think there’s still something to be said from the idea of just trying to optimize your company to be your best product.
+
+If you do that, rejigging it – like I look at, for example, when I write code, one of the chief principles of writing good code, as it about writing good prose, is to remove needless words. Remove needless paragraphs. Remove needless complication. For example, with companies, let’s just take policies for example. Lots of companies have the most elaborate policies on spending, on how you can justify expense reports and so on and so forth.
+
+Where we’ve said, is there a way we can get away without that? One of the enduring policies we’ve had is when you get hired at Basecamp, you get a credit card and the policy is “spend it wisely.” The end. Then forward your receipts, if they’re on email to this email address that we have that no one looks at, but just in case we get audited or something. That’s not a perfect solution. It doesn’t track every expense to the nth degree and if we do get audited, there might be some discrepancies where things don’t line up 100 percent and you deal with it then.
+
+Compared to what you sort of save in overhead and complexity. It’s not just about this thing. That’s just one small thing. But imagine making that choice on 100 things. All of a sudden, the amount of complexity you get rid of just compounds and the whole thing ends up being so much easier, right?
+
+Because if you look at companies and you look at company growth, if you’re four people and you hire four more people, maybe you get close to 100 percent improvement in productivity, but probably not. Probably more like 50 percent or whatever. If you’re already 50 people and you hire another 20 people, are you getting another 50 percent again? Obviously not. You’re getting what? 5 percent? 7 percent? The complexity curve is not linear. When you make your company more complex either through people or processes or policies, the marginal benefit to the overall thing you’re trying to accomplish just drops really quickly.
+
+So that’s one of the things that I’ve on a person level been interested in. How can we maintain maximum efficiency? To some extent and in some situations that’s gone too far. I’ve been pursuing maximum efficiency, sometimes beyond the point of what’s reasonable you could say.
+
+In the beginning, we had zero money at all and we had to be just four people and so forth. We had to be maximum efficient because we didn’t have anyone else’s money to spend. We had to spend our own revenue so we could only grow according to that. Now we are at a different place so now perhaps we can afford a little bit of slack. I appreciate that idea. Again, I appreciate generally ideas that sort of stretch and bend and a maximum efficiency at all times does not stretch and bend that much.
+
+But having that at least as some sort of platonic ideal, something you always have in the back of your mind and something you try to drive decisions from still leads you to a very different place than where we would have been if we had gone the standard route of oh, here’s a new software company with a product that’s taken off. Let’s get a lot of money invested. Let’s hire a bunch of people and let’s staff up to 100 as quickly as we can.
+
+Let’s just start blowing it out right away. That’s the standard model and lots of people have followed that and some have succeeded and lots and lots of others have gone up in spectacular flame. I just looked at the situation and went, what am I trying to do here? What am I trying to do with Basecamp? Why Basecamp? Well, first of all, I’d like to set up a company that I would want to work at for 20 years. I actually, to be honest, I don’t like learning tons of new people all the time. I’m an introvert. I like working with people for the long term because you get to know them and you get comfortable with them.
+
+You fall into a groove where things are just so much easier and you need to say so much less to get the same amount of work done and there’s just a reliance and a trust in that competency. If I want to do that, then I can’t install all sorts of time bombs in my business. I can’t install like okay, if I take X amount of money from these people, then they want it back in seven years and they want it 10X, so we have to swing for the fences to get that otherwise we’re going to blow up.
+
+So that’s one thing. I want a stable, long-term work environment because that’s just where I find that I can get access to these flow states as much as possible and that is a lot of fun and so forth. Secondly, I want to do this because I want some modicum of success. I don’t need to be a billionaire. I don’t even need to be a hundredths millionaire. I just need to be comfortable in knowing that we got to some baseline. I like to compare the fact that the difference between having zero dollars and a million dollars is extremely large in terms of basic comforts of living.
+
+The difference between having a million dollars and two million dollars? Vanishingly small on the same scale. The further up the chain you go, the less marginal benefit there is. At least within my hopes, dreams and inspirations. Yes, if your biggest dream in the world is to own the New York Jets, as Gary V. wants to do?
+
+Or you want to send people to Mars like Elon Musk or any of those kind of wild dreams? Okay, fine, you need billions of dollars and you should pursue strategies that are compatible with that. I perhaps have more – it sounds funny, but modest – it’s only in comparison to those outliers. Modest ideas of it. So I want to optimize my chances for that. So part of that was I want to optimize my chances when I’m running a business of how can I just become a millionaire?
+
+Just a basic, run-of-the-mill millionaire, which still looks at the world’s stage like an incredibly rare thing, right? An extremely blessed position to be in. But still infinitely – well, not infinitely – far, far, far more likely than to become the next billionaire, right? The number of millionaires in the world versus the number of billionaires in the world? That’s actually been one of the things that’s been driving a lot of how I approach where I want to be. You should take where do you want to be in programming? Where do you want to be in racing?
+
+What do you want to do in business? It’s such an oxymoron, but I feel like I modestly just want to be in the top 5 percent. I don’t need to be, again as we talked about, I don’t need to put in 100 percent to be Michael Jordan. Because it’s even worse than that. Again, that’s the reason I don’t want to do it. I don’t want to put in 100 percent to have a really, really poor chance of beginning Michael Jordan. There’s only one Michael Jordan.
+
+There’s lots and lots and lots of other people who, to take the basketball metaphor, that are good basketball players. They can make a good living and get to play in the NBA and that’s pretty amazing, right? I just want to make it to the NBA; I don’t have to be Michael Jordan.
+
+Tim Ferriss: No, definitely. I want to just emphasize something that I think you said. This is how I think about it or have been trying to think about it more and more in the last five years is that you have to or you should strive to have compatible goals.
+
+In the sense that a lot of the folks I meet – I live in San Francisco. I live right in the belly of the beast. You run into folks who maybe they have hundreds of millions of dollars and they are completely miserable. When you really dig into it, if you have the chance to do it, over wine or what not, very often you find that they have incompatible goals. In other words, what they need to feel fulfilled and calm or in flow is not compatible with the other ambitious business or financial goals that they have. So it’s doomed to fail, right?
+
+I mean, if you succeed and you accomplish all of your goals, if they’re incompatible, you’re basically just sowing the seeds of your own destruction. So I wanted to ask you do you consider yourself a happy person?
+
+DHH: Yes.
+
+Tim Ferriss: You do?
+
+DHH: Absolutely. Part of it is because I work at that. That is one of the explicit goals of a [inaudible] decisions.
+
+It’s going to make me a happier person. Jeff Bezos has sort of the reverse of it, which is his regret minimization framework, which sounds like just something Jeff Bezos would come up with. Where he’s like, “I’m just going to try to drive my life in such a way that I have the least regrets.” I don’t know if that’s the path that I’m taking, but happiness is also sort of a fuzzy term, right? One of the things I know that you’ve been interested in too and have really spoken to me is Stoicism. This notion of tranquility. To be in this state of contentment and tranquility.
+
+Happiness has some sort of connotations as though I’m running around all the time laughing my ass of. I just have this wonderful life, ha, ha, ha. I don’t aspire to that. That’s not how most days are. But I do have a sense of deep tranquility and contentment with the situation that I’m in.
+
+Part of that is actually going all the way back to the beginning. My key takeaway from The 4-Hour Workweek was the concept of lifestyle design. That there’s so many people who just follow – who are on rails in the negative sense of the word of like how things are supposed to go. First I get this education. Perhaps I don’t even really care that much for the subject, but it’ll lead to a good job. Then I’ll get the good job. Then I’ll get married. Then I’ll dah, dah, dah, dah, dah.
+
+Then at 65, I’ll retire. Then I can really live life. What? Are you crazy? First of all, a good chance you won’t make it to 65 and then everything was wasted between getting born and not getting there. Second of all, why would you wait until the worst decades in terms of your life in terms of physical mobility and capabilities otherwise to start enjoying life?
+
+That’s the problem I really have with a lot of the startup ethos and work spirit in general in the U.S. and in Silicon Valley in particular, this notion. Let’s compress working life. If you could just work like a mad man or a man woman for 120 hours a week for seven years straight, then the nirvana will be waiting on the other side and you can take all your millions in winnings and you can sit down on a deserted island somewhere and drink a mojito. Do you know what? I know people who’ve gone exactly through that and after two weeks on the beach, they went like, wait, what? Wasn’t this supposed to be winning? This is miserable. I hate it.
+
+I don’t want to be here. That was not actually my destination. The thing I gave up all sorts of valuable things to arrive at is a miserable place to be. It’s easy to trivialize these things, especially when you actually are a millionaire, to trivialize the struggles and the aspirations of someone where money can make a big difference.
+
+But when you’re talking about people who already made it and want to make it more, it’s incredible how often that people end up stuck into this notion that if I just make it to the next step, then I’m going to be happy. Then happiness awaits me when it’s just a false treadmill. Not only is it a hedonic treadmill in that it keeps moving further and further away from you, but it’s also just false. It really does not pay out that way. As we’ve talked about a bunch on this show already, flow, the striving, the getting better, that’s where living in.
+
+That’s where happiness is. It can happen whether you’re at the beginning at the end of that journey. I think back of when someone asks me, are you happy? I think back when I saw in Copenhagen in 2001 in my 350-square-foot apartment in Copenhagen, I was going to school at the time. I was learning PHP.
+
+I had all sorts of things I was worried about like rent and so on. Not on an existential level, but still in a normal sense of it, right? Also, here’s the thing, I was still happy. I was within margins of where things are today. If you look at those two situations otherwise from a level of possessions or “success,” they’re pretty different places to be and yet they don’t feel that different. Part of that is to have that focus on the inner journey, on the inner striving.
+
+Another quote I just love pulling out whenever the context fits or not is Coco Chanel, “The best things in life are free and the next best things are very expensive.” I like that because it recognizes that the next best things are still pretty great, it’s just that there’s so many of the very best things that you can focus on that whatever’s on the next best thing and which does happen to be very expensive, it’s just so far down the ladder that once you adopt the philosophy of life that allows you to view it from that angle, it really puts things into perspective. It’s so much easier to get to tranquility.
+
+Tim Ferriss: I think that tranquility is, in a lot of respects, a better goal that happiness. The word is so overused to have become almost meaningless. I wanted to use it because it’s a more straightforward term and more familiar term. But it seems to me also that if we’re talking about flow states, if we’re talking about tranquility, it relates to developing an internal locus of control or an internal – metric is probably too quantitative a term – view of progress. So you’re competing against yourself as opposed to in some positional economic sense competing against the Joneses.
+
+Which you’re never going to win because there’s always going to be another Jones who’s willing to sacrifice more than you are if you’re kind of chasing, as you said, this pot of gold at the end of the rainbow. All of which relates to Stoicism. But I also wanted to reiterate one thing you mentioned, which is this seven to ten year sprint that you see so often in Silicon Valley and the misconception that you can then automatically just park up and sit on a beach and praise God, here’s nirvana.
+
+The disconnect I think for a lot of folks, or the question that they would be well-served to ask is, am I developing attributes now that I can use in multiple states, in multiple endeavors? Because what people fail to realize is that if you are going to stand a snowball’s chance in hell of actually creating the next unicorn or whatever it might be and cashing out in seven to ten years, the work habits and so on that you’re going to have to develop are completing incompatible with sitting on that beach and being happy.
+
+Diametrically opposed. Just automatically switching those gears is not as easy as one might think. In fact, it’s exceptionally difficult. You have to completely reprogram yourself. So coming back to the Stoicism and you mentioned Jeff Bezos. I’ve been reading some of your articles and there’s one line that jumped out at me as really profound and applicable in a lot of contexts. I think this is from The Day I Became a Millionaire post. It is, “Expectations, not outcomes, govern the happiness of your perceived reality.” I was hoping you could talk a little bit about that, but also talk about, because I genuinely don’t know the answer to this – how did you navigate the decision to take money from Jeff Bezos in 2006?
+
+DHH: Yeah. Let me start with the first thing.
+
+I keep having to relearn this lesson very often. I feel this is one of the lessons I’ve practiced the most. But as most of the most profound, important lessons in life, you can’t just read the text and internalize it. It takes practice time and time again. This notion that it’s the expectations, not the outcomes themselves that’s what matters is really about looking inwards and seeing whether something is good or bad in a lot of cases. Not all cases. But in many of the challenges we face, whether something is good or bad, that’s just you deciding that. It doesn’t happen by random.
+
+It happens because it flows through your habits and it happens because it flows through your expectations. If I take one example, we talked a bunch about racing. In my 2013 season, we had a stellar season. We finished second in the championship and we finished second at the 24 Hours of Le Mans. Absolutely amazing, right? It was probably one of the worst years I’ve had in racing.
+
+It was absolutely miserable on all sorts of levels. The key reason why it was miserable was because of this expectation. We came in from the get go with a line-up, a backing, a car, that said this is supposed to be the frontrunner. These guys are supposed to win. And then when we didn’t win, finishing second didn’t feel like finishing second, it felt like being a complete loser. What was funny was just the year before, 2012, this was my first year at the 24 Hours of Le Mans and I was thrilled just to finish the race. It was wonderful. Like one of the magic experiences of all the time I’ve been in racing was to finish the race in 2012.
+
+I don’t know what we finished. Seventh? Eighth? I don’t even care. That was the expectation. That wasn’t the goal, right? Then already the year after, somehow I got suckered into expectations that said you’re supposed to win. When we didn’t win, it felt like a ton of bricks on us. I’ve had this over and over again.
+
+Whenever I feel like I’ve personally done a good job at the racetrack, it’s all about my internal competition. It’s not about where we end up finishing up. Some of the best races I’ve ever had we finished last. Some of the worst races I’ve ever had we finished first. They are all about whether I felt like I progressed and I did everything in the best way I could possibly do. Whether I disappointed myself. Disappointment is intrinsically linked to expectation. So being extremely careful about how you set your expectations I think is probably the No. 1 key to tranquility for me.
+
+There’s a lot of Stoic writing that addresses this point directly and one of the things that I love around expectation and Stoicism is this notion of negative visualization.
+
+Tim Ferriss: Oh, my favorite, yeah. Arguably the most valuable thing that I’ve taken from Stoicism.
+
+DHH: You imagine all these terrible things that can happen to set the context and set your expectations in completely different light. Every day, probably at least every week, I imagine which would happen if I went broke, if I had a major accident where I would lose some of my limbs, if all sorts of terrible things would happen to either my family or to my professional life or to the world at large, and then I process that and (a) try to come to terms with those things, and (b) use it as a driver to be thankful for the things I have without becoming attached to them.
+
+Playing those mental games I think that’s the No. 1 thing. Happiness, not happiness, state of tranquility, not in a state of tranquility, they’re all about the mental games that you play, to a large degree. Obviously, there’s some places in the world where it’s a lot harder to be happy and in a state of tranquility than in other places.
+
+But if we’re talking about Western developed worlds where you’re not living on the edge of poverty, then I’d say the mental game is almost all of it. That’s in terms of sort of the mechanics. So in 2006, I had already been exposed long enough to the internet industry and to the venture capital world to realize that’s not what we wanted to do. That was an incompatible goal to bunch a lot of money from venture capitalists with all of the strings that implies and getting the other things that we wanted, like running a company for 20 years. Like calling the shots ourselves.
+
+Like not having to go and sell our company or go IPO or being forced into some unsustainable or devious tactics for growth or any of all these other pressures that come from taking other people’s money and trying to fuel them in as rocket fuel for your company. So what ended up happening was Jason and I looked at our risk and said okay, right now, there’s a [inaudible] [01:28:03] in Basecamp. There’s something.
+
+We have some traction, as people like to call it, right? There’s traction. That’s valuable. There are people who want to give us millions of dollars to put into the company in hopes that we can turn this company into being worth $100 million or a billion or whatever else that they’re trying to get out of it, right? So we could do that and then we could take some money off the table or we could just try to swing for those fences to try to get that.
+
+Or we could try to see if we could find someone where instead of investing in the company, as in taking money and putting them into the company to use that money for growth, which is what VCs do, we could perhaps someone to make a hedge, a hedge bet with us, where we could sell small, non-control, no strings attached, portion of the ownership that Jason and I each have and then just pocket that money. Not put any of it into the company. Not accept any of the strings that would normally go with a venture capital contract.
+
+Not accept any of the timeline. Not start any of the time bombs or any of the other stuff that goes on. Just say like hey, Jeff, if you want to be along for the ride, we’ll sell you a small slice of each of our share and take the money and use it as our hedge such that if this Basecamp thing goes poof, and turns into the next Friendster or whatever, then at least we’ve taken something off the table such that we don’t have 100 percent of the risk in just one basket. I’m a big believer in diversification and all sorts of manners and endeavors, as we’ve talked about.
+
+I’ve tried to diversity my interests such that should the terrible thing happen as I frequently negatively visualize that Basecamp collapses, it wasn’t my whole identity wrapped up in that. I can go off and do other things and be fine. So we took a little bit off the table and that’s where that post I Became a Millionaire came from.
+
+It’s funny because I felt like I was pretty well prepared for all of that stuff and I was still deceived by what happened afterwards, in the sense that I think it’s almost impossible in our civilization today to not be infected by the constant propaganda for what happens when you get “rich.” Like milk is flowing and honey in the streets. Certain things are wonderful and it’s a fine needle to thread, especially once you made it to the other side. Just say like, “Oh, yeah, it doesn’t matter that much,” and tons of people will, like you say, “Yeah, okay, I didn’t eat today. So tell me again about what it is about doesn’t matter?”
+
+So that to me doesn’t mean you can’t talk about the topic of it. It is interesting and I talk about it anyway. The conclusion is basically came to was that even knowing all the things that I thought I knew, my expectations were still too high.
+
+I still thought that it was going to have a bigger dent on my life than it ended up doing. It only reaffirmed my belief that where happiness comes from, where tranquility comes from are not those places. That the very best things in life indeed are free. I got to taste some of the second best things and that was a lot of fun too, but at the end of the day, they were more transient and the things I’ve kept on doing – I still program Ruby almost every day.
+
+A day is better, generally speaking, when I get to program Ruby because that’s just what I truly enjoy doing. If you look at lots of people who made it very well, they still continue to do what it – like we talked about Jeff Bezos. How long has he been running Amazon now? 20-plus years, right?
+
+Tim Ferriss: Plus years, yeah.
+
+DHH: He doesn’t need to. He could retire to a beach somewhere and sit there and do that. He doesn’t want to do that.
+
+None of the people I – everyone from Steve Jobs to all the sort of standard list of heroes you can go through – most people just stick to the things that provide them flow and interesting new challenges and the striving that defines life and the purpose of it. If you realize that, you can prioritize that first and you can prioritize other things below that. I think that’s a really helpful way to guide your decisions. For us, it helps guide the decision that we didn’t want to do that venture capital time bomb because it was completely incompatible with these other goals that we had and aspirations for life. Now I’ve got to play that out.
+
+Basecamp would either have IPOed or be sold or whatever. Now, if we had taken that money back in 2006, we are well past the deadline of when the money would be up. I’m sitting here on the other side and saying, you know what? It’s pretty good. It feels pretty good. It’s not as spectacular, not as glamorous. Perhaps there’s not as much Cristal champagne or private jets or whatever, but you know what?
+
+It’s pretty good. I get to do more of the things more of the time than I would otherwise. I talk to lots of entrepreneurs all the time who either ended up with what they thought was success. They sold their company, then they did the beach thing for three weeks and then they ended up even worse off than that. They realized that the beach thing was not where tranquility was hidden. They came back and now they’re like, what am I supposed to do now? Oh, I guess start another company. Often times, the second time around is not as good. It’s not either as good of an idea or it’s hard to do it again.
+
+You’ve lost something really valuable that’s hard to get back. I see a lot of people at that other side worse off than they were when they were just that tiny startup with two people struggling to make things work, but striving in flow in tranquility.
+
+Tim Ferriss: Yeah. It’s extremely common. I think what I’ve at least tried to apply for myself is practice.
+
+If you want to be good and you hope to enjoy all these things by using your time for fun when you have money, you have to practice that before you have money. It sounds ridiculous, but I think that money is like alcohol in the sense that it just makes you more of who you already are. So it’s not like somebody who becomes a huge asshole when they’re drunk has no amount of asshole in them when they’re sober, they just keep it under wraps. Money applies the same type of pressure to the vessel. It’s going to amplify your strengths, your weaknesses, your neuroses.
+
+So you have to practice the skills or the use of time, for instance that you want to have when you have this influx of pressure. I was going to mention because you were discussing negative visualization, I highly recommend and this is in public domain, anybody can read it. There is a letter by Seneca the Younger.
+
+Well, he has a compilation of letters called the Moral Letters to Lucilius, L-U-C-I-L-I-U-S. There’s a very specific letter, Letter 18; it probably takes ten minutes to read. It’s called On Festivals and Fasting. It talks about not just negative visualization, but fear of rehearsal effectively. Where you set aside a few days each month to say – I’m making these up – but sleep on the floor in a sleeping bag in your kitchen for a few nights. Or eat nothing by rice and beans or instant oatmeal for a few days. Wear the same pair of jeans, whatever it might be. Simulating the condition that you fear.
+
+In other words, if you lost everything or if you had to take a pay cut because you needed six months to figure out your next gig because you hate your current gig, whatever it might be. By removing that fear, it emboldens you to do something that – do many different things, including one thing that you and Jason are very well known for, which is being outspoken.
+
+You can’t do that if you’re constantly in fear of having the rug pulled out from under you. On Bezos, just one last point on that. What does he get out of investing in Basecamp? Is it that he hopes at some point you guys will have a change of heart and look for or at least entertain a liquidity event or an acquisition?
+
+DHH: So, take Bezos first. He got his money back and then some and he still owns a part of the company. We paid him back. One of the wonderful things of having a private company that’s profitable is that you get profits. Money actually comes out of the equation, which I know is almost a foreign, dirty word in Silicon Valley. Like what? There’s money coming out of the company? You’re supposed to be in the red. What’s going on here? But that’s what happened. When you run a profitable company for 17 years, things compound. What’s not a big pay day in year 1, if you do that ten years in a row, that’s money, that’s real money.
+
+He’s been paid back. He’s more than made whole and he continues to earn his share of the profits every year. These are rounding errors. Like the freaking dollar moves one cent and he’s lost more money in two hours than he would ever gain or lose on our investment. So I don’t think he actually does it that much for the money. I think the money is just an extension of simply him having fun with this; having fun with the investments and so on. So it’s not perhaps as pure economical as someone like a VC who’s investing other people’s money, a fund in something, and has to show certain things.
+
+I think Bezos has made a ton of investments in people simply because he enjoyed doing that and enjoyed seeing it and he enjoyed our sort of irreverent take on a lot of things and kind of wanted to support that. Again, it was pocket change to him to do it.
+
+Tim Ferriss: Have you met him in person?
+
+DHH: Yeah, we’ve spent quite – especially in the early years – a fair amount of time with him. Usually we’d meet up with him about once a year and spend a good amount of time and I always learned a bunch. The funny thing is, of course, that one of the reasons I learned a bunch was that he wasn’t just a version of Jason and I. He was, in many ways, the direct opposite. The way he runs Amazon as a public company is like 180 degrees the opposite of how we do things, which is part of the attraction.
+
+He wasn’t just looking for little minions that were trying to do the same thing as him. He was looking for people who could challenge his thinking and we’ve certainly had our thinking challenged by him as well. So it’s great to have those associations in your life where it’s not just like someone does exactly the same thing I do but better, but someone does something totally different than me and I can learn something really important from that perspective.
+
+But I say too, as you mentioned with habits that has been one of the things I’ve been incredible conscious about. I’ve seen people be trapped by their habits. Most people are, right? That’s how we run our lives. So we’ve been extremely conscientious about getting the right habits. Not just for ourselves, which for both Jason and I have meant like hey, let’s just work 40 hours a week. Not try to do the 80 thing or the 120 thing just because we’re bootstrapping or whatever else it is. We want to set habits that we can comfortably want to have on the other side as well, and do that for our company as well, and do that even for the product.
+
+One of the things we worked on for the new version of Basecamp was this notion that work can wait. That I think in this age of mobile phones and apps and so on, engagement has become this magic excuse for interrupting people all the time.
+
+Tim Ferriss: 100 percent agreed. It’s a vanity metric that venture-backed startups can use to Jedi mind trick their investors into convincing them that something is happening that’s meaningful when nothing meaningful is happening.
+
+DHH: Right. I think that’s one of the things that we’ve been freed from. We don’t have to maintain any vanity metrics. Basecamp can actually be a better product both for us and for our customers if it doesn’t have as much engagement. If people can get the things that they need out of it when they need it, then Basecamp can kind of go away. So, for example, for Basecamp 3, we have this feature called “work can wait.” You click it on and Basecamp won’t send you any notifications, won’t send you any emails, won’t bother you in any way once you’re off the clock.
+
+By default, it’s set to 9:00 to 5:00. But then after that and on weekends, if you have someone in your company, which in a company of 50 you usually do that sends an email on Saturday or whatever, you’re not interrupting everyone. You’re not broadcasting and blasting everyone all the time.
+
+That’s been one of the things that’s been near and dear to me. I think in the U.S., people laugh that off as silly. Like wait, what? Can’t you just figure out how to manage your own life and so on? No, I think these habits matter. I think if you look at the French, which also it’s a reason to laugh at the French, but this is not one of them in my opinion. There was a proposal in their Parliament last year, I believe it was, where they said that employees should have the right to disconnect. That they should have the right not to receive emails that their boss expects them to answer on Saturdays.
+
+Now, that’s a truth with some modification. There are always disasters and whatever that can happen. Most of the time, they don’t. Most of the time your boss just sends you an email on something stupid on Saturday that it’s kind of implied that you have to deal with, even though it’s not that important. There’s just such an ASAP culture all over the world, but in the U.S. in particular, where everyone thinks that it’s their right to have access to everyone else immediately all the time. I think that’s just incredibly corrosive.
+
+I think in some ways it’s just getting worse. Mobile phones is one thing. The rise of chat applications in the workplace is another. There’s a lot of new pressures bombarding us with interruptions all the time. If there’s one thing I found, it’s that tranquility and flow are not compatible with interruptions. If your day is chopped up into tiny work moments of 40 minutes here and an hour and 20 there, you will get nothing interesting done. You can get routine work done. You can’t get interesting, creative work done.
+
+The only time I make progress of any material kind on anything that has ended up mattering really on the creative side of the company has been when I’ve had large stretches of uninterrupted time. That means no chat, it means no phone buzzing, it means none of these interruptions. You just need two, three, four hours to really sink your teeth in, scratch deep enough on the problem where you can really, truly understand it and then make progress on it.
+
+We’ve just made it almost impossibly hard these days. In many ways, we’re making it harder and harder. The number of unread counters, the most app shipped with, the default settings for blasting everyone all the time, the new expectation that you have to hang out in a chatroom and respond to every meme within two minutes is terrible. It’s just absurd in many ways. Which, by the way, is another great book on philosophy in the current age that I’m reading right now – Michael Foley, The Age of Absurdity.
+
+It draws on a lot of these things we’ve talked about, Stoicism included, and on this current and accelerating culture of just constant interruption and “multi-tasking,” which is really isn’t. It’s task switching. I think it’s just terrible. We’ve got to do something to push back.
+
+Tim Ferriss: No, I agree. I think it has to start at a personal level. Making decisions. Like you have in creating these blocks of time. Do you schedule those on a weekly, monthly, quarterly basis? How do you create that time or how do you schedule it?
+
+DHH: I try to have it every day. I get that question from people all the time. How do you get so much done? I look at them sometimes in bewilderment. I go like, I don’t feel like I’m getting that much done. I just happen to configure my life and my business in such a way that most of the time, I have long, uninterrupted stretches of time. When you every day can get like a three-hour block or whatever, you just get a lot of stuff done and it doesn’t feel like it.
+
+Tim Ferriss: Well, it doesn’t feel rushed, right?
+
+DHH: It looks impossible if your day is this kind of standard, corporate day where your day is just chopped up into these tiny moments. You’re exhausted at the end of the day and you feel like you didn’t get a good day’s work and you can look at someone else like how did they get all that done? How do they create and maintain Ruby on Rails? How do they keep Basecamp running with the millions of people they have using it with that few people on board? How do these do all these things?
+
+We go like, I at least go oftentimes, “I don’t know what we’re looking at. We can’t be looking at the same thing. It doesn’t feel stressful to me.” I work 40 hours or less. Sometimes in the summer when we do Friday’s office, we used to call it and now we just call it the 4-day workweek during the summer. We work 32 hours a week and we still get a bunch of stuff done. So it’s absolutely possible. It’s how you configure and squeeze out the quality of time. Not the amount of time. It’s not about being eight hours in an office.
+
+It’s about increasing the quality of the hours that you spend. Most people just produce really crappy quality, really shitty hours. They have eight of them, but they’re completely soiled and spoiled versus if you just have four of them that are in pristine, great condition, you’ll run laps around the person who sits with eight shitty ups.
+
+Tim Ferriss: This is part of the reason why I almost never agree to let journalists follow me for any piece because it would be so boring. The reason I bring it up is that people might have this image of me that’s kind of like extreme snowboarding meets Girls Gone Wild meets I don’t know, rock climbing 24/7. The reality is I feel like I spend most of my time staring off into space, but I do try to block out the first three to four hours of each day for completely non-reactive activities. That’s it. I was thinking about this yesterday, in fact, because I had a day yesterday where I got to the end of the day and I was like, I don’t really think I got anything done today.
+
+It doesn’t particularly bother me, but I was just observing it. I thought to myself, well, the good news is if I have those blocks of time and this may sound odd, but if I have those uninterrupted blocks of time and – this is important – I’m focusing on the one or two force multipliers, the one or two things that are really going to make everything else easier or relevant.
+
+I only really need two days a week where I get my shit done properly and it creates the illusion of having done a ton of other things because I’m hitting the right dominoes in the right order.
+
+DHH: I have that feeling all the time. I have days all the time where I feel like really? There wasn’t that much in this day. But I look at it on a timeline of two weeks and I often go like, oh, wow, I’m very happy with that. I look at a timeline, for example, what we got done at the company in a year. Like we just released Basecamp 3, an all-new version of the software last year, a year ago. Jason just wrote up a summary of all the things we worked on this year and I go like, wait a minute, that’s actually incredible.
+
+How did we get all that stuff done when each individual week or each individual day generally speaking, they’re not like frantic, crazy, death-march rushes? But it’s just a compound nature of good habits, a compound nature of tranquility, a compound nature of sustained, sustainable progress.
+
+It’s the same thing that we talked about with the business. We have never had a hockey stick business. Basecamp has never been a hockey stick business. It’s just been a linear growth business. And if you keep drawing that line out long enough, that’s still good. Linear growth is still pretty damn good if you can just keep drawing long enough.
+
+Tim Ferriss: Well, it comes down to your expectations though, right?
+
+DHH: Yes.
+
+Tim Ferriss: Because as you say, expectations not outcomes govern the happiness. But it also governs a lot more than that. If the timeline through which as a lens you look at your progress is really important. Because if you are making – like a lot of venture-backed startups – I mean, look, I’m a player and I have been historically a player in that game, so I’m not going to totally slam every aspect of it, but there are quite –
+
+DHH: That’s why I’m here.
+
+Tim Ferriss: That’s why you’re here. But there are some mass delusional activities that go on in that world.
+
+One of them is being so focused on the short term that you basically just commit suicide over the long term. And you can do that even if you’re a one-man show or a one-woman show if you’re not looking at the two weeks. You’re looking at each day and as a result, you commit to being busy instead of actually taking the time to prioritize, which requires that slack, that empty space of having three to four hours, in many cases. I wanted to ask you about another piece of yours and the inspiration for it. Because I don’t think the back story is in there.
+
+It’s called It’s Always Your Fault, which I think ties into Stoicism pretty well in a lot of respects. It brought to mind a question that I was asked once by a gentleman named Jerry Colonna, who’s a coach of sorts at this point. I mean, he does a lot more than that but he was previously a very successful investor among other things.
+
+One of the questions he likes to ask is, how are you complicit in creating the conditions you say you don’t want? So this taking of accountability. What inspired – maybe you can give a synopsis of the piece, It’s Always Your Fault. But also I want to know the inspiration. Why did you write that? What prompted that?
+
+DHH: It’s a good question. I think one of the things I’ve always tried to do, and we talked about this in multiple domains, is to look at situations as systems, as feedback loops. It’s Always Your Fault is recognizing that you are part of all systems. [Inaudible]. It’s kind of like a truism. You’re part of all the systems you’re part of. So at Basecamp, for example, I am in some way part of everything that goes on. Whether I’m involved in a project or not involved in the project, I set up some of the outlines, I set up some of the frameworks.
+
+I helped create some of the culture that led to what happened. It’s one of the things I keep trying to hammer into race teams as well. Race teams a lot of times, they love these things of oh yeah, it just happened. It’s just bad luck, right? That’s what people say, bad luck. And sometimes you have bad luck. Bad luck generally means there’s a very low percent change of something going wrong and it went wrong anyway. That’s at least I think a fair definition of bad luck. A lot of people use bad luck as there was a great chance of this going wrong and it went wrong and that sucks. You know what? That’s not bad luck. That is bad systems.
+
+Tim Ferriss: Bad planning.
+
+DHH: Bad planning, bad design. Bad all sorts of things that’s your fault. If you just write it off as bad luck, you’re in the short term escaping some of pain of accepting your complicity, as you said, in the outcomes, but you’re also not learning anything. If you’re not learning anything, how are you going to make anything better? How are you going to prevent the “bad luck” from happening next time?
+
+That is just one of the things I cannot take, I cannot stand for. I am all about we make mistakes and that happens, but when I make the same mistake twice, that is one of the most painful experiences that I go through. That has happened enough in both company and in personal life, where the situation seems familiar. How did I get myself into this? You know what? This is my fault. This is my fault for putting myself into this situation. It’s my fault for reinforcing the dynamics of the situation. It’s my fault for enabling the situation, even when it’s not technically my fault.
+
+Let’s say something breaks on the car because someone didn’t set it up in the right way. I didn’t do it, right? I didn’t swing that wrench. But it’s my fault for let’s say getting on a team that doesn’t have the budget that they need to have to do this, to not emphasizing the value and insisting on the stability of the team.
+
+Or if the people who are on the team not doing enough work on debriefs and post-mortems of trying to figure out what is the root cause of our problems. It’s always my fault. There’s always some complicity in any situation where I feel like, that bad luck affected me? My fault. It’s just so much more actionable. That’s one of the things that I like. I think things that are actionable. Where I can actually do something, change something, act in a different way where now I’m better. We’re better. We’ve learned something. We’ve moved forward. We will make new mistakes and as long as they are novel, that’s fine.
+
+Just let’s not make the same mistakes over and over again. I cannot stand repeating myself. I remember in the days before version control, before Git and CVS and sub-versions and so on. I would sometimes overwrite my files.
+
+I would have spent four hours on a piece of code and then I would make a mistake and I would delete the file. I knew of nothing worse than having to redo that work. It was so physically painful to me that I can remember several features of both Basecamp and earlier systems I worked on where I had a working feature and I somehow killed it and I just never made it again. I simply could not stand to redo the work again. So that has carried over and it’s just even amplified with mistakes because mistakes are just extra painful, right? These mistakes, especially as a company the size of Basecamp.
+
+I’m not just responsible for my own mistake, I’m responsibility for everyone else’s mistake and I need to learn every single time that happens and change the system, change the dynamic, change the flow of the feedback loop, change the inputs, change the configuration of how things are installed in such a way that it’s not like let’s prevent this from ever happening again.
+
+Because I think that often leads you down a path of an overreaction. But still just considering the whole system. Considering you’re a part of it. Not writing things up to bad luck. You hear that a lot in racing. I don’t hear that a lot at Basecamp. I think perhaps in part just because every single time has brought that up, I’ve out of weakness kind of perhaps lost my cool a little bit on that. Which is in itself a failure that you should learn from and correct from and so forth. It’s certainly not bad luck. But I can’t take it. We’ve got to accept that responsibility and we’ve got to do it all.
+
+The closer you are to the system – for example, I Tweet a fair amount about politics and I Tweet mostly about U.S. politics. Why do I Tweet about U.S. politics and now about the politics of Iran or Georgia or Russia or something else? Well, partly because I’ve paid millions in taxes, so I have a vested interest in this particular country. I happen to live here.
+
+I happen to have a direct line of influence to some extent at least, although I’m not granted the right to vote. I still feel like this is the closest area where I have complicity. I have complicity in these actions and I have some chance of affecting that. It’s so much easier to just call shit out when there’s no personal complicity. The speck in your neighbor’s eye and all that stuff.
+
+Tim Ferriss: Do you think your impatience – well, I shouldn’t say impatience – your distaste for repeating work is part of what made you a good programmer?
+
+DHH: Absolutely. I think it’s almost pathological actually. I have such an aversion to doing the same thing twice – not that it’s that unique; I think lots of programmers have it – that I’ll sometimes go overboard in just trying to prevent that from happening again.
+
+That’s where I need some restraint of saying I’ve only seen this problem once. I might fear that I’ll see it again, but until I actually see it again, let’s not overreact here and build some huge, honking framework to do it again. But I usually match – one of the things I like the most actually in terms of working on open source and Ruby on Rails has been pattern matching in the work that I already do. So it’s not so much that the thing is exactly the same, but there’s a pattern. There’s an outline that’s similar.
+
+When I spot those similar outlines and I come up with an extraction that makes that work go away next time, that something has a similar shape and outline, that is really where I hit the jackpot in terms of personal satisfaction with the work. I love just spotting these things where I think to myself hey, if I had to write Basecamp again from scratch tomorrow, I’d be so much better off because I’d solve all these problems. I put all these tools into the toolkit of Basecamp. This is one of the things with negative visualization where I have this, I don’t know, nightmare or fantasy, however you want to put it, where we lose it all.
+
+I have to do it all over again from scratch. We have to write Basecamp again. It’s just me and Jason and whatever and we don’t have the 50 anymore. We don’t have all the money and whatever. Where am I? Can I do it? I get [inaudible] [01:58:17] this whole thing and I packed this backpack. I gave a talk at RailsConf last year about the survival kit that Rails is for me. I think of if everything goes wrong and I have to start over from scratch, will I at least have the tools to survive? That’s my mission for Rails and it’s always been.
+
+If I had to reboot fully, I don’t have a staff, I don’t have other programmers, I don’t have anything, I just have myself. Self-sufficiency as we talked about has been such an important driver to the pathological level. Good things have come out of it and sometimes not so good things come out of it too. I think there are good things to think about like how can you rely on and depend on other people? But hey, I carry that cross and deal with that and just try to maximize the benefits and minimize the drawbacks of it.
+
+But one of the benefits has been just this focus on creating truly productive tools that allow tiny teams to do amazing things. Because I want to enable other people who want to do it like we did it – tiny team, no external money – to have a chance to compete. Because it didn’t used to be that way. If you wanted to start a web startup in ’95 or whatever, you had to spend $200,000.00 on the Oracle license just to get a database going. That was a terrible time to get things going. Now it’s never been easier. I just love that. I mean, it’s funny. We’re lowering the barriers of entry which in some sense makes it perhaps harder because there’s more people competing, but to me there’s something fairer about that. I can imagine myself in that situation. I can imagine myself rebooting, doing all the negative visualization and thinking it’s going to be okay.
+
+Tim Ferriss: I’ve used Basecamp for the last three book launches and I’m going to be doing so again shortly in about a month and a half. I’m asked all the time, how many people do you have on your team? One, maybe two really full-time employees and then the rest are all contracted and everyone’s distributed. I think it’s never been easier from the standard of having a low barrier to entry and I find that encouraging because if you’re not competing, you’re not getting better. You should have some type of competition in your life, some type of pressure to improve.
+
+Second, it gives you the opportunity to compete in a game that you can rig in a sense because like we were talking about earlier, if you are in the top 20th, like the top decile or even quartile in two or three areas, you can find a way to differentiate yourself.
+
+Whereas previously, if the cost entry was mediated primarily by finances? Like if you don’t have the money, you’re fucked. So if you don’t have $500,000.00 to buy or rent the infrastructure you need for that tech startup, you do not pass go. That’s it. You don’t have a chance to use those other abilities. But I can go on and on. You mentioned The Age of Absurdity. Do you have any other favorite philosophers or writers?
+
+DHH: A lot. Let’s draw on some of the inferences we talked about. In terms of Stoicism, I think what really got me turned on to that originally was sort of an introductory text that summarizes a lot of the work, which is A Guide to the Good Life.
+
+Tim Ferriss: Yeah, that’s Irvine, right? William Irvine.
+
+DHH: Yeah. Which is not source material and perhaps if I’d known how approachable the source material was, either Seneca or Aurelias, then you can go straight to that. But I just found it a very easy – again, one of those things as we talk about what we like – easy to learn, hard to master?
+
+I found A Guide to the Good Life the introductory text was just an easy way to learn about it and recognize why this resonates. Then I kept pulling on the thread and kept reading from there. Let’s see, what else? One of the things we haven’t talked so much about is I became a parent four years ago. So now I have two boys. I’ve tried to treat that as a system too, to some extent. How can I become better at simply being a parent and being there for the two kids that we have? The work of Alfie Kohn, he has a bunch of really good books.
+
+The one that got me started was Punished by Rewards, which is actually a book all about motivation and how rewards basically don’t work in most cases, for developing kids or encouraging creative work.
+
+It kind of tackles both everything from students to works to kids. There’s also a great book called The Myth of the Spoiled Child, which is even more specific about nurturing and supporting kids and so forth. That’s been very inspirational. That then led to – I just read Daniel Pink’s book, Drive, which takes some of those same ideas about motivations and rewards and extrapolates them in a little bit of a – I mean, I like the book – but kind of obnoxious language of business. Everything is business 2.0, this, that and the other thing.
+
+Which is a little grating, but the core concepts and points are really strong and very influential for how we try to run the business. I’m kind of going free association here. The other book is called Turn the Ship Around! which is a wonderful book about a naval, not Commander, but Admiral or something that was running one of the worst performing U.S. nuclear submarines and turned it around to be the best performing U.S. submarine by infusing his staff with basically saying they’re not waiting for a command, they’re saying what they intend to do.
+
+It ties into many of the same topics, but it’s very actionable and very approachable. I really like that and try to use that as inspiration for how we drive projects, motivation and cultivate this idea of Manager 1 at Basecamp, where people are sort of individually both responsible and capable for doing the work and aren’t waiting around to get permission. That’s been great. Another sort of – just to fly all over the map. Once I got interested in reading more about philosophy, I also got more interested in reading about political science and development of countries and authorities and so forth.
+
+There’s a fantastic two-part book called The Origins of Political Order by Fukuyama, and Political Order and Political Decay, which traces back nation states all the way back to 4,000 years B.C. and goes through all the case studies of the rise of China and so forth. It’s just a really interesting way of putting current events into a larger perspective. I think sometimes it’s easy to freak out about things like the current election or whatever. Oh, we’re in a completely unique timeframe and all these challenges and so forth are new and unique. No, they’re not.
+
+History if not repeats, then rhymes. If you know the pattern, then it’s both easier to cope because you go like, this is not a unique punishment of me that we live through these times.
+
+People grappled with the same issues 2,000 years ago, 4,000 years ago, since pretty much the dawn of civilization. But it also gives you some idea of seeing the arc of time and seeing trends and seeing which way things point. I think that’s been very helpful. So I really like that.
+
+Tim Ferriss: As a parent, just to return to that, because quite a few people asked about this. Are there particular ways that you quantify or assess whether you are being a good father or parent? Are there mistakes you think that are very common among parents aside from the over-rewarding?
+
+DHH: Yeah, so I think I try to be quite direct. My oldest son is now almost four years old and since he was at least two, he could actually tell me what he liked and what he didn’t like. I know that sounds like an overly permissive thing.
+
+You just have this kid commanding the parents around. But I think that’s a stereotype, a cutout board that people use to excuse just forcing their will on the little people who can’t do anything about it. That’s one of the main things that I’ve sort of tried to just constantly put me, myself, in the shoes of my four-year-old boy. If I was in his shoes right now with his pressures and so on, what would I think would be a reasonable course of action? Of course, it’s not a perfect transplantation, but I found that a lot of people – all functional parents love their kids. But that doesn’t mean they always have empathy with their kids.
+
+It certainly doesn’t mean that they always act on that empathy for their kids. I think there’s a lot of – not the helicopter parenting thing – it’s over-protecting and things that are convenient for the parent.
+
+That it actually would be great for me right now if you did these things and then I’ll couch it in language and justification as I’m doing what’s best for you.
+
+Tim Ferriss: I’ll rationalize the convenience for myself.
+
+DHH: Yes. It’s best for me right now if you do what I say. Yeah, of course that’s best for you. That doesn’t mean that’s best for the kid. The other trend that I’ve been alarmed about is this notion of basically criminalizing independence, especially in the U.S. There’s a war on kids basically being by themselves or doing anything that even looks remotely dangerous. That someone could get hurt, which by the way is the topic of another good book on this topic of parenting and letting kids kind of free roam a little more. I think that we all have these romanticized versions of when I grew up, everything was wonderful and blah, blah, blah.
+
+I don’t ascribe to that and I don’t ascribe to everything is terrible now just because I’m older and whatever. But I think there is a sense, at least coming from Denmark that letting kids run risks and letting kids hurt themselves and letting kids learn the things they need to learn through personal experience I think is so much more effective than trying to be a parent that tells your kid what’s right for them. So just take one simple example. Sometimes your kid doesn’t want to eat the things that they’re supposed to eat.
+
+They just want to eat candy all day. Well, you can tell them if you eat all that candy, you’re going to get a stomachache. You can say that and you can yank the candy away from the kid and the kid just goes like, you’re an asshole. You just used force to deprive me of the thing I wanted.
+
+Or you can just let your kid eat the bag of candy and get a stomachache and learn on their own accord that the next bag of candy, maybe they’ll eat that too. Maybe they’ll eat the bag of candy after that too. You know what? After the third time, I found – well, sample size two – exposure and sample size somewhat larger and indirect exposure, but at least in my experience and observation of these things, kids aren’t that stupid. They take experiences that they have and they internalize lessons from them. They do it a whole lot better if you don’t try to do the pre-processing for them.
+
+If you don’t try to basically chew their food for them and say this is going to happen if you do that and then prevent them from doing that. That’s not a very persuasive technique. So I’ve tried perhaps sometimes to an extreme degree to say hey, by the way, this is my assessment of the situation. I think this is what’s going to happen. One thing that a lot of people have been freaking out about. Screen time, right? You can’t have your kid get an iPad and just sit on it for as long as they want because then they’re just going to be addicted to that and they’re going to sit on that eight hours a day.
+
+First of all, I found that to be categorically untrue with my sample size. But I also find it to be an unpersuasive argument in the grand scheme of things. I liken it to the experiment of cocaine. Remember that famous experiment where they would have cocaine in a bottle for a rat and the rat would just go over and eat cocaine until the rat died and everyone went like, see? That’s what happens. If anyone tastes, they’ll just eat cocaine until they die. Scientific proof.
+
+Then I think in 2005, someone replicated a version of that experiment where they had an outlet of cocaine and then the rat or the mouse had a bunch of other activities too. There were other mice around. They could go in the wheel. They could drink water. They could do all sorts of other things. Guess what? That mouse didn’t just eat cocaine until it died. Oftentimes, if you think my kids would just sit on the couch eight hours a day and just do the iPad, perhaps your alternatives suck.
+
+Tim Ferriss: Right, you’re not providing ample, rich environment.
+
+[Crosstalk]
+
+DHH: Perhaps you don’t want to engage. Perhaps you don’t want to read to your kids. Perhaps you don’t want to take them anywhere. Perhaps you just then want to enforce this idyllic version of they should just play with wooden blocks all day and that’s really good for them. You know what? Fuck you. I mean, I find it so lacking in basic understanding and compassion of what would you want to do in that situation? And then perhaps more interesting is that I’ve tried to then say there’s not really a limit on iPad use. If Colt wants to be on the iPad for eight hours in a day, he’ll binge for eight hours. That has happened, right?
+
+That has happened one or two times. He gets really into a game or a show or something else and really binges on it. What happens the next day? He doesn’t want anything to do with that iPad. Because you know what? Kids are pretty good at self-regulating. Again, sample size two. In my experience, if you have other interesting things and choices and opportunities that they can choose to partake in, they will.
+
+This mania of iPads are the new devil, I just find it hilarious. There’s a good Twitter account. I forget what it’s called. Something about Terrors from the Past or something, where they pull out old newspaper clippings and go like, “In 1895, people were like – books are really terrible! If people just sit all day and read books, then they’ll get trapped in their own minds.” Then it was like, “Comic books are terrible” or “Dungeons and Dragons is terrible.”
+
+At least there’s a pattern of history here where people decrying new technology, the new forms of entertainments that kids choose to partake in is terrible haven’t panned out that well. So perhaps there’s a history there to be informed by and perhaps you don’t need to freak the fuck out over the fact that your kid just binges a bit on an iPad. How can you say anything? Didn’t you Netflix binge the last time you had a babysitter and thought that was a good time?
+
+Tim Ferriss: Hysteria never goes out of style. The question of habits. You mentioned a few things, empathy being one of them. I’ll give you yet another two-part question because I seem to be, for whatever reason, too much caffeine maybe, on the two-part thread today. But first is there are a fair number of people who describe you as angry. So part one is, do you think you’re an angry person? Second is, what are the habits that have helped you to develop empathy? With your children specifically maybe.
+
+DHH: Yeah. I think angry is a funny word to me because even when I’m going off, I don’t feel angry. Sometimes I do. Let’s be fair here.
+
+Sometimes I do feel that, but a lot of the times I think it comes off like that where that’s not the inner mental state, the inner dialogue that’s going in my head. I’m just processing these things, for example and going through like, hey, this isn’t right or I think this is – well, that’s a version of the same thing – this is wrong or whatever. I’m trying to process this and I’m trying to set up and decompose the system. As I’m decomposing the system of what is it that led to this, I’m pretty fired up.
+
+But angry to me has this sort of residue effect where someone’s just walking around with a grimace on their face or they’re shouting or whatever. Oftentimes when I write perhaps the most indignant tweets, none of the sort is going on. So I think it’s one of those things where I forget what the novel was, but the concept of what you see in a person on the outside is often not the reflection of what’s going on in their inner life. It’s a valuable lesson to compare your own outward profile sometimes and how other people see you to how you see yourself.
+
+Perhaps sometimes if there’s a great disconnect you should change somewhat on one end or the other, but perhaps more so it should teach you some empathy for other people and the fact that they probably live the same experience. That there’s a different between the inner and the outer life. But another part of it too is sometimes things are just a release for me too. I don’t have things I walk around with a lot of anxiety about. I try to discharge negative energy or whatever. Perhaps sometimes I should just shout into a pillow.
+
+But unfortunately, this invention of things like Twitter and so on has become a pillow for a lot of people, including me at times.
+
+Tim Ferriss: When did you sign up for Twitter? Do you know?
+
+DHH: Actually, it’s funny. Because I totally didn’t get Twitter when it started. I got on the first beta because they were using Ruby on Rails and I knew some of the people working on the very first version and they invited me to it. Back then, it was like an SMS thing mainly. I don’t understand this. My friends are about to say where they’re going and so on. So anyway, I didn’t get it for the first two years and I didn’t really get into it until ’09 or whenever it was that a little while after it got launched, but then I totally got addicted to it, of course. Because first, it is this pillow, and what’s funny is sometimes that’s therapeutic. To have the pillow, just for yourself, even if no one was listening. Well now I have like, I don’t know –
+
+Tim Ferriss: Millions of pillows.
+
+DHH: I have quite a few people who find it interesting and I can understand that because I listen to other people’s pillows too. Some of my favorite accounts are other people’s pillows where they’re just screaming into it and sometimes it’s just anger and for the best accounts, of course it’s more than just anger.
+
+It’s insightful commentary on things that should be better. Let’s not make the same mistakes again or let’s analyze the system and so on and so forth. So I absolutely adore Twitter in terms of personal therapy and the way it allows me to watch the therapy of others.
+
+Tim Ferriss: I’m just thinking that maybe I should change my Twitter bio to screaming into the pillow since 2009. If you don’t follow Patton Oswalt, he’s a comedian and brilliant Twitter account. Very insightful commentary but hilarious at the same time. Lots of screaming into the pillow stuff. Very high caliber.
+
+DHH: I wish I could add that spice to the mix that I was also really funny. Because sometimes it is just loud voices into the pillow. That’s not always pleasant to listen to. I know, for example, Jason Fried, my business partner for quite a long time, he disconnected from Twitter.
+
+I can totally understand that. I can totally understand that certain people have a disposition where listening to people shout into pillows all day long is not a great way for them to spend their time. I don’t know, but it doesn’t affect me in that negative way. I can watch a lot of pretty negative shit going on, but if I feel like there’s kernels of truth and there’s insight in that, it doesn’t transport. I don’t sit there and steam and get really angry and ruin my night over it. That’s at least pretty rare, I’d say.
+
+Tim Ferriss: Just to jump to the habits, because I think a lot of parents have the best of intentions. They read books, maybe they even have some great first principles, but it doesn’t cross the chasm from an abstract sentence in their head to regular practice. How do you do that?
+
+DHH: So I think perhaps one of the best practices we have is just about winding down for the evening and then always ending up – I often put Colt to sleep now and Jamie, my wife, will put Dash, our younger boy, to sleep. I just get to spend an hour and a half, two hours, from dinner through reading books, through taking baths, whatever, at night. It’s really a lovely ritual. To have those tasks, okay, we’ll fight – not even fight – I’ll try all sorts of rational arguments for why he should brush his teeth and they’ll all fail.
+
+Then I’ll come up with some funny story of why we need to brush teeth on the whale or something and then all of a sudden like brushing teeth is the greatest thing ever. That was just a replay from last night. However, we’ll read the same books again or whatever. Just having that consistency and that pattern of it is just really nice. I think on top of that, the privilege of working from home affords me things like I take him to school most mornings.
+
+That means I start a little later and so what? I work a little later too. It also means I’m here when he comes home from school and so forth. I feel like I’m very mindful of thinking of things. Life is long enough. Not life is too short, because that’s when I think you’re living it wrong. Life is long enough and if I pay attention, if I do my negative visualization and if I truly make the hours count with Colt, with Dash, with the family, then I’ll be happy when it’s over.
+
+Because I do negative visualization on that all the time. I have a fantastic time right now where I have an almost 4 year old who really enjoys spending time with me, at least most of the time, when he doesn’t call me a stupid idiot or doesn’t want to see me again. Which usually, hopefully, thankfully, doesn’t last that long at the time, but of course happens all the time too. But I also think in ten years that just won’t be true.
+
+There’s no healthy version of reality where that happens in the same way when he’s 14. Then that’s over. So I will make sure that the next ten years or whatever, where we go through this period that isn’t true and we have this kind of relationship that we have now, which is sort of very high intensity and many hours and so on. That’s going to count and I’ll be happy on the other side. Then I can enjoy the other part of it. Then when he becomes a teenager and yells at me perhaps even more and in even more pointed ways, I can appreciate that too.
+
+Someone finding their independence and so forth. That can be a chapter and I can appreciate that too. Because I look back on – I just turned 37 and I look back on my 30s and the better part of that is done. My 20s are certainly long gone.
+
+I look back at those periods and think, I got the most out of that. Well, not the most because it’s not an optimization. I got good out of that. There are no regrets here. I don’t regret just spending my 20s locked in a room working on some piece of software all the time, because that’s not how it happened. I set up in such a way that I could live through my 20s and my 30s, hopefully then my 40s and my 50s and whatever, and then I can come and arrive and be 85 or 90 and say I lived a good life and it’s okay that’s at the end. That’s it. What’s what we’re here for.
+
+Tim Ferriss: I’m going to jump into – if you have the time, I’d love to go through some rapid fire questions. They don’t have to be rapid fire answers at all. But when you think of the word successful or hear the word successful, who’s the first person who comes to mind and why? Or who comes to mind?
+
+DHH: There’s a bunch of names that come to mind. One that’s kind of trite is my Mom. The reason I say that is she is such an upbeat, happy outlook. She is the perfect unknowing Stoic. She’s actually a Catholic. But I think she’s exceptionally good at many Stoic principles of tranquility and so on and dealing with adversity of life in a way where she’s incredibly happy but very first-order principles. Like the best things in life and doesn’t care at all about the second-best things in life. That’s definitely an inspiration.
+
+But I’ve met many other people along the way who aren’t successful in any meaningful, objective term from the outside of someone looking at either the job they have or the money that they make or the house they live in or the clothes they wear or any other things of that kind and they just have an inner life, a mental life where I just go, oh, I’m jealous.
+
+I feel like I’m doing pretty good on that scale and I’ve certainly met people, friends where I still go like, you’re really rocking it, aren’t you?
+
+[Crosstalk]
+
+Tim Ferriss: When you say internal life, what do you mean by that?
+
+DHH: I mean that they have that sense of tranquility.
+
+Tim Ferriss: I see.
+
+DHH: They’ve arrived at a point of wow, you have an amazing amount of tranquility and calm in your life, given the fact that in some cases, you’ve faced some real adversities. It’s just impressive to me. It’s not to say that doesn’t happen on the other end too. That someone who does have outward success can also have that. I’ve just found there’s basically no correlation that I’ve found.
+
+Tim Ferriss: I agree.
+
+DHH: People can have the most tranquil inner lives and contentment, there’s no correlation to where they are in that outward status. Some of them are.
+
+Some of them have made all sorts of money and whatever and some of them have made none of the sort. Some of them have made a little of it and everything in between. I’ve been able to find no correlation there. So I’m still sort of searching for what that is. But at least for me, getting conscious about that fact and being diligent about having a philosophy of life, having a framework and working on these things, that has made a difference to me. So maybe that’s also – and I should probably inquiry more about this because I find it endlessly fascinating, especially since you can’t find that statistic correlation like it’s this one thing that they do. No, it’s all inside the head.
+
+Tim Ferriss: Is there anyone who to counterbalance the critiques that you’ve had of say Silicon Valley and the venture-backed startup game, is there anyone in the business world you really respect and would like to spend more time with or just spend time with?
+
+You’re like, you know what? That person is either fascinating or doing it right, seems to be doing it right. I want to spend more time or learn from that person.
+
+DHH: Good question. One of the early business idols that I have that I’d still love to meet – I heard that he mentioned Basecamp in something unrelated, which made me all sort of fanboy flutter – is Ricardo Semler.
+
+Tim Ferriss: Oh, yeah. From Semco in Brazil.
+
+DHH: Yeah. He wrote a fantastic book called Maverick that was great inspiration to me and I know to Jason as well.
+
+Tim Ferriss: To me as well.
+
+DHH: Giving the confidence of like Jesus, if this guy with 8,000 employees running an industrial company producing pumps for oil tanks can be this radical and this incisive about how to design a company, surely we as a software company with no fixed assets in the 21st century can be just a little more radical than what we think is possible.
+
+So I think Ricardo Semler is definitely somebody high on that list. Who else? A sort of larger-than-life persona, I’ve always had sort of a soft spot for Richard Branson. I know that it’s hard to know what’s actually caricature and myth and whatever once you get at that level, but absolutely fascinating character. Warren Buffet. I know we’re just sort of going through a highlight reel that’s kind of easy. Oh, yeah, I wish I’d also sat down with Steve Jobs when he was live. Okay, yeah.
+
+Tim Ferriss: It started with Ricardo Semler. I bet a lot of people listening don’t know who he is.
+
+DHH: I think those are some of the characters that I’d love to meet. But the thing is what I’ve found in a number of cases where, and I’m sure this goes for me too on the – when you meet your heroes, sometimes it’s just better to have the idealized version.
+
+Tim Ferriss: I agree.
+
+DHH: That you took away when you read their book or saw their talks or listened to their podcast or did anything else like that. I have just found that it’s been a rare moment where I’ve met someone who then exceeded that and went above that.
+
+Tim Ferriss: Well, I would say that (a) that’s true, and (b) I used to think that was because they were flawed in some way. Because I would meet the heroes with clay feet, as they say. Then I realized I thought maybe it was because they were flawed in some way that wasn’t portrayed or wasn’t reflected in how they portrayed themselves. Then I realized, you know what? It actually relates to your point about expectations and why you were unhappy coming in second place, which is silly in retrospect.
+
+But you came into it – or most people come into it, let’s say having read a book or listened to a podcast which is really the highlight reel of that person, so then you meet them and you’re like, wait a second. I thought all 90 minutes was going to be like the 60-second trailer. What is this bullshit? Then you’re like, oh, wait. It’s a human being too.
+
+DHH: Exactly.
+
+Tim Ferriss: I think about this sometimes when – I had this guy come up to me. This happens surprisingly often, which is part of the reason why I stopped investing in startups, but where I’ll be in a bathroom at an airport and some 22-year-old startup founder will come up and start breathing on my neck, pitching a startup right behind my head at clearly not the best time. It could be the most amazing pitch mankind has ever heard, but not the best time. On top of that, I’m probably running to a flight.
+
+So I’m like, you know what? I’d love to talk, but No. 1, you’re breathing on my neck and making me uncomfortable. No. 2, I have to run to my flight and I kind of run off. They’re like wow, Tim Ferriss is such a dick. I had no idea. And forever that experience will have contaminated whatever view they might have had of me. So yes, I think there’s always a risk in meeting your heroes.
+
+DHH: I think it’s exactly that point that someone who reads ReWork or whatever, we get a fair amount of email, often very flattering. It’s really great that someone read the highlight reel of ten years of thinking. And then sometimes I get the follow-up question of like, can you tell me what’s the one thing you’d like a startup founder to do or something? I’m like, Dude, you just read my highlight reel. You think I’m on the spot going to come up with something brilliant? That’s just not how material works. It’s like walking up to a comedian like, hey, say something funny.
+
+It’s like you can’t just walk up to someone and, be brilliant please. Can you be brilliant for me for 30 seconds on command right here? Most brilliant people aren’t brilliant most of the time. It takes a long time to develop the material and develop the thinking and so forth.
+
+They put it out like that’s it. Like that’s the best stuff. The best stuff isn’t hidden somewhere else. I guaranty you if I had a ton of other super brilliant things sitting in the back of my head, I’d publish them. They aren’t just sitting there waiting for this guy to write me and say hey, do you have something brilliant to say about this one specific thing? So I get how sometimes people write me and I’ll write back and I’m sure they’re disappointed because it wasn’t brilliant.
+
+All they saw was this condensed little version of it. I think about it in the same ways that comedians go on the club circuit and they work for years to come up with enough to fill an HBO special. All the stuff in between just wasn’t funny, dude. They develop 30 minutes of material and they probably spent 300 or 3,000 hours of shitty material to get there. No one has killer shots all the time.
+
+Tim Ferriss: That’s part of the reason I love to go to – I enjoy standup comedy – but I love to go to small venues where well-known comedians are working on their material. Because you see half of it bomb and they have a little notebook and they take notes on it. I love watching that. If people listening have never seen that process, there’s a documentary called Comedian that tracks Jerry Seinfeld and another up and comer as they are working the circuit and as Jerry’s working on new material. You see Seinfeld bomb. I mean, crickets. It’s reassuring and I also think realistic to check that out. It informs a lot of other areas. Speaking of documentaries, do you have any favorite documentaries or movies?
+
+DHH: Let’s see. I like The Big Short. I’d read the book already. That was a good one. Let’s see, what else? I just saw A Montage of Heck about the Nirvana guy, which was interesting too. The funny thing is, with kids I don’t know what it is. There’s a cutoff at about an hour where we can devour TV shows no problem because they fit within the hour and that’s good. But a movie that’s two hours often feel like that’s impossible. We’d have to get a babysitter. It’s got to be on a Saturday. It’s got to be this special thing because it’s not that often that you get the two-hour stretch to fit into your life, versus the TV show of one hour fits perfectly for me.
+
+Which is why when it comes to nonfiction stuff, I love catching the highlight reels. Like Bill Maher and his New Rules segment I find to be some of the most – he’s wrong on a lot of things as most people are, and he’s very right on a lot of things, but then when you disagree with him, it makes it feel like he’s that much more wrong on the things that you disagree with him, which happens with a lot of people.
+
+I get this all the time on Tweets I get these backhanded compliments like, “I usually think that DHH is an idiot, but this one thing was really great.” Without realizing that there’s a lot of people who have that emotion about different topics. So maybe no one is just that brilliant all the time and if they say something you find really spot on and insightful when they talk about another topic where you aren’t in agreement, it’s going to sting just as hard the other way. I don’t know if that was the answer.
+
+I find more than documentaries – I get a little impatient with documentaries because I find the point they’re trying to make could be made in ten minutes and we’re stretching it to an hour and 45 with pictures and unless those pictures are amazing, there’s a lot of other things I’d rather do.
+
+I’d rather watch Game of Thrones and then spend the other 45 minutes reading a book where I feel like the compression of ideas and condensation of content is greater. That was one of the inspirations when we wrote ReWork, that every idea should be expressed preferably in one page and if it had to, two. I think there’s only a handful that’s three pages. Because I had reading business books and watching documentaries where you’re like, okay, I got the point.
+
+Tim Ferriss: This is a 15-minute TED Talk that was bloated into 400 pages.
+
+DHH: Yes, exactly. I have that problem too – sometimes I’m sure with some of my own content where I go up on stage and I have 20 minutes of my content but my slot is 45. Okay, let’s just jam pack it with memes and funny pictures and try to make some jokes. I think there’s a lot of really important things to know and learn that just are as long as they are and that’s it.
+
+We got some negative feedback on ReWork, something like I really love all these ideas and the person would rattle off I don’t know how many ideas, and they’d say, but the book is really too short. I’m like, wait a minute. Most business books list one, two or three things that really stick. They’re like 400 pages and you just rattled off 12 things and we got it to you in two and a half hours. How is that not a win?
+
+Tim Ferriss: Yeah. I think the key there is to respond with, you realize the important point is not just ingesting the information? You have to actually do something with that. But what books have you gifted most to other books, if you’ve gifted books?
+
+DHH: I haven’t gifted a lot of books. I made a lot of recommendations for books, but part of it perhaps is that I don’t really buy physical books anymore. I’m all Kindle all the time.
+
+I love Kindle and on top of that, I’m all Audible. So I’ve been traveling a fair bit since I started racing internationally. That sometimes includes driving for long periods of time. Not on the track, but to and from destinations and I find Audible is just a wonderful way to read books without reading them, like getting the information of the books while you’re doing something else. That Fukuyama book, The Origins of Political Order, is 24 hours.
+
+[Crosstalk]
+
+Tim Ferriss: So if you wanted to get somebody hooked on audio books, which audio books might you suggest to them?
+
+DHH: The one I’m listening to right now, The Age of Absurdity, is really good. Not just because I think it’s a great book and funny, it’s also because the narrator, just this perfect. I can just imagine this crotchety old guy sitting in his rocking chair just rattling off sort of curmudgeon ideas, which is exactly what this book is.
+
+But that’s also just really funny and I like that a lot. If you do have sort of the stamina of a major tome, that Origins of Political Order book I thought was pretty great. Some other books, like for example the Drive book, I got that on Audible as well. I didn’t love that as much. It’s funny how much the narrator can really taint or lift up the material. Obviously that’s a personal preference. That’s why before I get anything on Audible, I always – even if I know I want the book, I’ll listen to the preview and I’ll go like, eh, I don’t know. Maybe not that guy.
+
+Tim Ferriss: Yeah, you need to hear the narrator first.
+
+DHH: But outside of even Audible, there’s even podcasts obviously. My absolute favorite podcast is – well, I have two. But Dan Carlin [inaudible] [02:39:58].
+
+Tim Ferriss: I was going to ask you if you’d heard Wrath of the Khans on Hardcore History.
+
+DHH: Yes, that’s what got me hooked on Hardcore History. So Wrath of the Khans I thought was just absolutely amazing. His work on the second world war, on Rome. I’ve pretty much devoured most of it and it’s all just stellar. But then, of course, that’s what got me hooked and then he reeled me in with his Common Sense, which is his political podcast, which I just find absolutely wonderful. We talk about therapeutic experience of Twitter.
+
+This is a very therapeutic experience of digesting things like the current election because I find his observations and his viewpoint not only does it match enough with me that I can go yeah, yeah, yeah, but it’s also novel enough that I go oh, I haven’t actually thought about that angle and that’s really the most rewarding kind. Maybe that’s not always the most challenging time, but it’s the most rewarding and we both generally agree with the vantage point and you also are continually bombarded with novel takes on the subject.
+
+Tim Ferriss: Yeah, Dan’s amazing. He’s been on the podcast as well.
+
+DHH: You’ve had him on the show?
+
+Tim Ferriss: Yeah, I’ve had him on the show.
+
+DHH: I’ve got to go and listen to that.
+
+Tim Ferriss: Oh, he’s great. He talked a lot about, as he called it, copyrighting your faults. He talked, for instance, about how he would always get criticized for jumping into the red. He would whisper and then he would talk really loudly and he got chastised forever. Everybody wanted at the time this very classic kind of deep-voiced radio personality and then it flipped. Five or ten years later, they’re like wow, it’s so great that you have this unique personality on air. He’s like, yeah, okay. That liability has now become an asset. Great story. Really sweetheart of a guy too. I’m going to ask a couple of questions that sometimes hit, sometimes don’t. They don’t always have a ready answer. But what purchase of $100.00 or less has most positively impacted your life in recent memory?
+
+It doesn’t have to be exactly $100.00 or less, but just a non-expensive purchase that has really positively –
+
+DHH: I have the question ready right here. I bought a skateboard about two months ago, which has a funny story in itself. I watched Casey Neistat – is that how you say his name?
+
+Tim Ferriss: Sure. Yeah, Casey Neistat.
+
+DHH: His thing on the new electrical skateboards?
+
+Tim Ferriss: Boosted Boards?
+
+DHH: Boosted Boards. That’s what it was. I thought ohmygod, this is awesome. I need to get a Boosted Board. I went on to their site and first I was like why, what? I can’t buy it? There’s a version 2 out or something and it took forever to find out that they had a lot of demand and they weren’t shipping right now. Anyway, okay, I sign up for that. They’re like we’ll ship it to you in three months. I went like shit, I was excited about the skateboard now. So I went online and found a manual version so to speak.
+
+I used to skateboard back when I was a kid, but literally had not skateboarded in 20 years. But I happen to live right now out here in California, where I’m just the perfect distance away from lunch that a skateboard is just what I need. If I walk, it’s just over 15 minutes and I don’t always want to spend a half an hour on getting there and back.
+
+Tim Ferriss: On the road, yeah.
+
+DHH: It kind of also is too short to take a car. That feels ridiculous. But a skateboard is just perfect. I can get there in five minutes on a skateboard. It’s just fun. The skateboard was like $120.00 or something. Not only is it a lot of fun, it’s one of those thing where I haven’t skateboarded in 20 years. First of all, the basics are the same but the skateboard is still a good bit better. I don’t know what happened in wheel technology and whatever, but the free-rolling nature of a good skateboard today is just amazing. They really just don’t require that much effort.
+
+But still just enough effort that you actually feel good about it because you’re like, hey, this is actually kind of exercise and I’m stretching, which actually the Boosted Board wouldn’t. So I don’t even know if the Boosted Board when it arrives now, I’d take it. Maybe I wouldn’t even do that. I just landed here because – and also, even better, a skateboard is $100.00 and a Boosted Board is I don’t know, $1,000.00 or something.
+
+Tim Ferriss: It’s up there. Yeah, I have a Boosted Board.
+
+DHH: It’s not exactly the same thing. If you want to commute on a skateboard, you’re not going to go ten miles on a manual version. At least most people wouldn’t and a Boosted Board you realistically could do that. So I’m still kind of curious about it, but I just love that skateboard. It’s funny because I’m a pretty big car nut. I’ve had the good fortune to enjoy all sorts of cars and have all sorts of opportunities to do that still, but since I got that skateboard, I’ve not really touched them. I work from home, so I don’t get a lot of opportunities to otherwise drive. I get to take my son to school sometimes in the morning, and that’s about that’s it. Otherwise, I don’t need to be anywhere.
+
+So lunch was usually the one time where okay, I’ll just go somewhere for lunch. In part for the fun of it. Now I don’t have that because I skateboard. I just skateboard to lunch every time. It’s awesome.
+
+Tim Ferriss: Do you know offhand what kind of skateboard it is?
+
+DHH: It’s short – it’s kind of like an oxymoron. It’s a short longboard.
+
+Tim Ferriss: Okay, got it.
+
+DHH: It’s made like a longboard in terms of it’s not for making tricks and so on. The wheels are relatively large. It is for making – actually not commuting, but it is for transportation more than tricks and so on. But it’s not so long that it kind of feels like a huge thing.
+
+Tim Ferriss: Like a surfboard, yeah.
+
+DHH: Exactly. I can pick it up. It doesn’t weigh very much and it’s perfect for skating over to a restaurant, sitting down, eating a sandwich in the gorgeous California sun and then skating back.
+
+Tim Ferriss: Yeah, the Boosted Board. I think that first of all you’ve accidentally done some very good prep work if you decide to use the Boosted.
+
+Because you do not want to be – I know a lot of 30-something, 40-something-year-old guys who have not touched a skateboard and they go straight to a Boosted Board.
+
+DHH: And they fall off and break their arm, right?
+
+Tim Ferriss: You have to be – it’s a high-powered vehicle. I have one about 50 feet from where I’m sitting. It’s a fantastic device, but what I’ve realized is I don’t have enough self-preservation instinct –
+
+[Crosstalk]
+
+Tim Ferriss: Yeah, exactly. To realize just what I’m doing. I also just have a history of flashing back to when I was 16 and trying to do things I did then and ending up hurting myself. So the coolest, most surreal use of the Boosted Board for me is finding a very gradual hill and carving uphill. Because the danger is really low and it’s just the oddest feeling imaginable. It’s kind of like surfing up a wave without having come down at first.
+
+It’s a very surreal, fun experience. So that’s where I would start. Definitely do not set it at the fastest setting when you first get it.
+
+DHH: Yeah, I’ve got to get a helmet too. I don’t really have a helmet for this small board. I’m not driving where there’s really any cars and so forth. But I remember I Tweeted about a Boosted Board and some guy was like, Dude, be careful with that. I just cracked my skull.
+
+Tim Ferriss: Yeah, a helmet is a must have. This doesn’t have to be monetary, but what is the best or most worthwhile investment that you’ve ever made? Or one that comes to mind. I’ll give you an example. It could be money, time, energy, any other resource. For instance, I had this woman on my podcast, Amelia Boone, who is the world’s most successful obstacle course racer and she’s also a full-time attorney. But she ponied up for her first Toughest Mudder competition and it was like $450. That was a big deal at the time.
+
+That was quite an outflux of cash. But that created an entirely new career for herself. So it could be just about any investment of any type of resource. Does anything come to mind?
+
+DHH: Yeah. So I’ve been into photography for ten-plus years. But I had an infliction point about three and a half years ago where I bought a Leica [inaudible] [02:48:31] camera. I was into photography, but I wasn’t like let me spend $7,000.00 on a camera and another $3,000.00 on a lens. You’re like $10,000.00 for a camera is fucking ridiculous, right? After I bought that camera, I have captured more memories in the last three years of better quality of just feeling like I absolutely aced this shot than anything.
+
+I look back – if I took one thing away from the last three years that I would feel in 20 years, it would be the Leica. If I hadn’t had that and if I hadn’t dove into that world, which then in turn led me to just care more about photography, more about capturing precious moments, especially with kids, I’d be really sad in 20 years. It’s one of those things where a ton of money for a camera, especially since you can get good cameras even on your phone today, but the difference it’s meant to me to capture all those priceless moments not just on a good camera, but a freaking amazing camera has been priceless. Well, the price was $10,000.00. But the value has been priceless.
+
+Tim Ferriss: What was the model?
+
+DHH: The M240.
+
+Tim Ferriss: M240. That’s the camera. And what is your preferred lens?
+
+DHH: It’s a 50 millimeter Summilux 1.4. The good thing about Leica is I bought those things new and you don’t have to do that. Obviously, you can buy them used and save a good chunk and then they retain their value. That online, disposable Canon something that’s worth zero dollars in three years. Leica lenses actually retain their value pretty well. Part of it just is the lens has been the same for – Leica’s been around for 100 years or something. Well, actually literally 100 years. I think they just celebrated their 100-year birthday.
+
+The lenses for a very long time have been around and used in all cameras, so I feel like it’s an investment kind of thing. I’ve just been incredibly pleased with it. So for anyone who – I thought it was totally weird. The weird thing about the Leica is it doesn’t auto-focus. You have to focus the lens yourself. It does it through their weird system called a range finder where you look through the viewfinder and you see two images on top of each other.
+
+They’re ghosted. It sounds absolutely bizarre when you try to explain it and it’s hard to explain. Then you have to line these two ghost images up on top of each other. That’s when you know the picture is in focus. I had such a disbelief in that. I started reading this guy, Steve Huff, stevehuffphoto.com, who is a big Leica guy and got me hooked on this stuff. I started reading about it and I still couldn’t wrap my head around it. But I saw his pictures and I saw the pack. One of the advantages of the Leica camera is that it’s tiny.
+
+I had a big, honking Canon camera for a while and I ended up never using it because I don’t want to carry around a kilo on my back, versus the Leica is a lot smaller. I couldn’t get my head around it, so I went to lensrentals.com and I rented the camera. I think you do that for like $150.00 or something. I spent a weekend with it and I won’t say it’s the same as the Ruby experience, because it isn’t, but it smelt a little like it.
+
+It was one of those things where oh, this is totally awesome. Just that weekend, from that lens rental, I have some of my favorite pictures of Colt. Right away. You just go like, yeah, this is totally worth it.
+
+Tim Ferriss: Are there any resources that have helped you to improve your photography or habits or exercises, anything?
+
+DHH: Yeah, I think there’s a couple of good books. I think it’s called Understanding Exposure. I think that’s what it’s called. That was probably one of the first primers I read on this. What are these three angles of ISO and shutter speed and aperture and getting a basic understanding of that. But then part of it again came with the tool, which – I mean, I’d been interested in photography before the Leica and I thought I took pretty good pictures, but I just became much more interested in finding out how to do great photos with the Leica.
+
+Because I got a couple of hits where I just went, oh, shit, this looks as great as any photographer I could have hired took this photo. Let me really understand that. It’s funny. One of the great resources lately has been Instagram. Instagram has really transitioned for me from when I first started using it and then stopped using it where it was just everyone posted pictures of their shitty iPhone pictures or whatever that looked like in 2009 or whenever it premiered. I never thought it was that interesting.
+
+Now it’s transitioned to it’s more of a distribution channel. That fantastic photographers that are using high-end gear use Instagram to distribute their photos, which means it just makes it so easy to follow really good photographers and get really inspired by how they do composition or color or anything else. That has led me to just be more interested in developing that eye and developing the new sensibilities for what is a good picture? How does composition work? What is white balance?
+
+All these things I sort of/kind of new but didn’t really practice. Then post-Leica, I went all right, I’m not just going to know what these things are, I’m going to internalize what these things are and I’m going to figure it out and I’m going to take great photos.
+
+Tim Ferriss: I want to second the recommendation for Understanding Exposure. That’s Bryan Peterson with a B-R-Y. That’s a great book. It’s short. It’s 176 beautifully illustrated pages with lots of great pictures. It gives you the toolkit of basic vocabulary so that you can then be a self-sufficient learner. So on the subject of beauty, we can talk about photography, but I want to actually throw out a question from our mutual friend, Toby. So the CEO of Shopify. He said, “DHH is a software crafts person.” The question he wanted me to ask is “What is beautiful code to you and what makes it so?”
+
+DHH: Great question because it is one of those things that you can just keep on pulling on the thread, right?
+
+I think there’s a bunch of technical things in the same way that you can look at a good picture or a great lap on a racetrack where you can just like oh, there’s the rule of thirds here and that places the subject just in this part of the photo. The white balance is set just so and so on and so forth. With programming, you have these things called pattern languages, where you can use to describe sort of aspects of the code and you can talk about the different techniques that you use. For me, if I have to name just one, I’d say composed method.
+
+Which is this notion of breaking down a piece of software so that everything within an individual unit as we call them “methods” in object-oriented programming, is on the same level of abstraction and that it keeps decomposing at the same level of abstraction. So when you’re making a whole system, you start at a very high level of telling the machine to do something.
+
+Then to actually have that done, you have to break that down and break that down and break that down and break that down. I find that the most effective technique that I have for doing that is really composing the methods that we stay at the same level of abstraction. We stay in the same sort of visual style of what the code is. Some code is very mechanical of adding one to an array or whatever. Something very machine like and something is very high level, as in describing the outcome we’re searching for. Like withdraw from account or something like that.
+
+To withdraw a certain amount from an account, you need to do some mechanical steps. You need to deduct from this one, add to another one. Maybe add to an event log, blah, blah, blah, all these steps. But if you can describe the system in such a way that when you dive it, it’s easy to understand. You don’t have to understand everything down to the nut and bolt to understand the system at a high level. That’s a very direct signal of quality to me.
+
+That I open up any piece of code in Basecamp and it kind of reads like a great table of contents. That this is the argument they’re trying to make. This is how it breaks down into individual steps. I can dive into any of the particular essays if I want, but I also don’t have to. I can still understand what’s happening and what the programmer is trying to do from that content. So that’s one aspect on sort of a conceptual level. There’s a bunch of these wonderful patterns that help describe how to conceptually make good code.
+
+There’s a bunch of principles about low coupling and high cohesion. This is some of the classics. Then there’s also sometimes the visual style which to me matters greatly as well. Ruby just does a really good job at in the sense that it removes a lot of what we like to call “line noise.”
+
+Characters you have to add because that’s easier for the system to interpret. So, for example, when I started with PHP – I don’t know if this is true anymore – every line had to end with a semicolon. That’s how the interpreter knew that okay, there’s a new instruction coming. There’s no semicolons at the end of the line in Ruby. Just that simple change cleans things up a bunch. So what I like to do in Ruby code is to reduce every method or class to the least amount of mechanical noise so that what’s left is a pure description of the conceptual work that needs to happen. Maybe that sounds a little floaty.
+
+But it’s just that the bolts aren’t exposed. It’s like we don’t use ten screws and we don’t make them show if five screws can do and we can hide them under a cover.
+
+Not only that, it’s not just about making the veneer look good, it’s that quality of the unseen. As you keep unwrapping and unpacking the code, and diving deeper into it, scratching the surface ever deep, it’s just turtles all the way down. It keeps doing that all the way through to the final instruction. At least the final instruction that the programmer can see.
+
+Once the Ruby interpreter takes over and produces something that becomes machine code, perhaps that’s completely impenetrable. But at least the code that he programmer has to understand, it’s like a wonderful rabbit hole that you don’t mind falling down through.
+
+Tim Ferriss: Is there any correlation between elegant code and clean prose? If you take someone who’s not just a functional coder, like you said, who can get the job done by using gum and Band-Aids, not that.
+
+But someone who is an elegant coder in your view. When they then write prose, let’s just for the time being assume they’re in English. Is it also clean? Is it logical and flow well?
+
+DHH: That’s what I find. I find that there’s a high correlation between people who are able – at least in high-level programming languages like Ruby – to produce elegant, beautiful code and people who are clear thinkers. If you’re a clear thinker at this level of abstraction, you tend also to be a clear writer. It’s not always true and it’s not true for all domains. There are certain, I think, areas of programming that is less about sort of juggling conceptual terms and finding just the right word for a classroom method that are more mechanical in nature and that doesn’t take anything away from the skill that it takes to do that.
+
+That’s not the kind of programming I’m interested in. That was the kind of programming that I thought I’d never be interested in. The kind of programming that I fell in love with was this high conceptual level, where it really is a lot more like writing prose and phrasing and presenting your argument in a logical, methodical manner that’s easy and clear to digest for a reader.
+
+Because I think at this level of abstraction and probably at all levels of abstraction, but here more than other places, you’re not writing for the machine, you’re writing for your fellow programming or for yourself in X amount of time from now. I get it. That’s through for all kinds of programming, but it’s even more true the larger the system becomes and the more complex it is and modern information systems today are quite large and quite complex on all sorts of levels. We are in a fight to push back against that complexity.
+
+The natural state of complexity from a programmer taking a problem that they’re trying to solve and then the first draft is very high. The first draft of anything is shit. That goes for prose. It goes for, I’m sure – well, I don’t know. I’m assuming music.
+
+It goes for all sorts of great endeavors is that the first draft is not often that good. Just like the first try of the joke. You have to refine it. That’s what I really love. I really love – actually getting something working, that’s not the interesting part for me. Being the editor, refining it and improving it until it’s as good as it can be, that mode of iteration is just awesome. That’s where I extract all my flow on that. I think it’s in that mode that I produce all the code that I’m proud of.
+
+It never happens that I write a piece of code and then I’m instantly proud of that. It’s not how it works. You have to go through the drafts and you have to go through the revisions to get to a place that truly shines.
+
+Tim Ferriss: Now I don’t code, but I wonder if it works in the reverse as well? Meaning a lot of people think they’re good at writing. Very few people are really elegant and able to remove the extraneous thoughts and the equivalence of ums and ahs. If you had to pick – let me rephrase the question. If you had to pull people who were good at other disciplines to train them to code because you wanted them to learn really quickly or to be able to learn really quickly, who would you pull from? So, for instance, if I wanted to make good – I’m just making this up – but good MMA fighters but I couldn’t pull from wrestling or anything else, who would I choose?
+
+I’d probably grab some gymnasts because they have these attributes that I know will translate quite well. What is that for coding?
+
+If you could pull from any other discipline or for learning Ruby or Ruby on Rails quickly and you wanted to put together your team who had the highest likelihood of success in a short timeframe, who would they be?
+
+DHH: I think good journalists. That’s a sub-class of good writers. They’re focused on uncovering the mystery and the story and explaining it in the simplest terms possible is something that at least intellectually appeals to me. I haven’t actually seen that transposed that often. I don’t remember actually talking to that many journalists who turned programmers. There’s been some but not that many. But that’s sort of like the idealized form where someone has the clear thinking to really investigate a problem deeply and then also have the writing chops to present that to an audience.
+
+What I’ve seen more have been people coming from other sciences. We’ve talked about the scientific method. I think that’s absolutely a huge leg up when people who have internalized scientific method aren’t as likely to be the people who are just like, there’s a bug. That’s just a computer. That’s just how it works. I don’t know what’s going on. There’s always an explanation. Nothing is magic. Nothing is voodoo. It’s just because you don’t have the pieces yet.
+
+So if you have the discipline of following the scientific method, then you have a leg up in that department, that’s for sure. Then at least some share of people who work in those domains are also really good, clear writers. Perhaps that’s an even better combination of someone who has the internalized scientific method to a T and also happened to write things that are digestible for normal humans and sometimes that’s a little hard for people who work in academics. Which is what I like about the journalist angle is that usually that’s more practical, more pragmatic in the sense you’re not trying to impress some professor.
+
+You’re trying to keep the attention of a reader who presumably should get something out of the story that they’re left with. So that’s just off the top. I’ve met programmers though from all domains that have turned out to be excellent and programmers from all sorts of backgrounds that turn out to not be so excellent. So I don’t know if there’s a direct correlation here, other than to say that perhaps programming of all the sort of – I don’t know if you can characterize it as scientific fields, but programming is very open to people from different walks of life.
+
+It’s such a wide span of backgrounds that end up doing well in programming, that I really like that idea of this is what programmers look like and then you see all sorts of different people: shapes, sizes, colors, backgrounds, genders, whatever. The machine doesn’t care.
+
+Tim Ferriss: The machine doesn’t discriminate.
+
+DHH: The machine doesn’t care how tall you are or whatever. There’s no discrimination in that sense. I mean, algorithms and so on encapsulate sometimes human biases and so forth. At least in the purer sense of the programmer and the programming language, I think there’s such a discrimination-free zone between that direct interface. Then move outside of that and try to go to Hacker News or sometimes get a pull request and you’ll see the all-too-human side of people interacting, which is full of all the biases and bile and whatever else you’d expect out of humans. Programmers are no better, perhaps even worse in some regard in that aspect.
+
+Tim Ferriss: So just a few more questions. I know we could keep going, but I want to let you get back to your family. So just two or three more.
+
+If you could have one gigantic billboard anywhere with anything on it, what would you put on it? That is non-commercial.
+
+DHH: So in part 1 message to a lot of people, I’m trying to see. That’s kind of the on-the-spot be brilliant. I wish I could come up with like “Just Do It” and I was original in saying that. Unfortunately, I don’t think I am.
+
+Tim Ferriss: We can take a different direction to get to a similar destination. That is, you mentioned the Coco Chanel quote earlier. Are there any other quotes or maxims that you think of often or refer to often in your life?
+
+DHH: Yeah. Let’s try to see if we can find one that’s positive because when you mention it, the thing that pops into my mind is that Sinclair quote of a man can’t understand what his salary depends on him not understanding. But that’s not exactly uplifting.
+
+Tim Ferriss: A motivational poster for the office?
+
+DHH: That go for all, right? I think I need more time, man. I need to do a full creative on that. Because you’re like, hey I get this one shot at a poster, it damn well better be good. I don’t want to just put up a poop emoji or something like that and have a laugh for a second. I want to treat this with some sanctity.
+
+Tim Ferriss: This is a lifelong project. No rush for right now. What advice would you give your 20, 25-year-old self? If anything? And if you do have an answer, what place where you are and what you’re doing?
+
+DHH: I think the answer I usually have to that is a [inaudible] answer or a cop-out, depending on which angle you see it from.
+
+I’d say the answer is that there is no answer. That I find that this seal, and perhaps I’ve had that in the past as well is that you look for this trick. You look for this – if I just knew this one thing, everything would be great. If I just somehow had this one event happen or whatever, that a lot of people embody too much into just this one thing, when the answer is it’s all of the things.
+
+Tim Ferriss: They’re inter-dependent.
+
+DHH: Exactly. Not only are they inter-dependent, but there’s no one thing that’s just really going to turn everything around. Life isn’t that simple, unfortunately or fortunately. Because it also makes it that much more interesting, right? The thread is really deep and you have to keep pulling. Maybe that’s the quote we’ll use. You have to keep pulling.
+
+Tim Ferriss: Keep pulling the thread. Not to interrupt, but maybe a better question is what habit or habits do you wish you’d developed earlier in your life?
+
+DHH: Yeah, I hate to be a cop-out on that too. One of the things I look back on as I look back on time is I’m trying to – Jason had a good saying about this. I think it was Native Americans who are – I’m butchering this – but when they were preparing I think it was like a carpet or something, like an intricate carpet that was sewn, they left the errors in because as a reflection of that time has passed and the errors of those ways are how we got to where we are. So I don’t think I would’ve gotten to where I am – well, this is kind of a truism in itself too – I wouldn’t have got to where I am if I had taken a different path. I don’t know if I want to be somewhere else. Actually, I do know. I don’t want to be somewhere else.
+
+I want to be where I am. So if I want to be where I am, I have to take the path I took to get there. That’s kind of like a Yoda quote. It’s complete bullshit. But I think that’s actually true. That’s why I try not to look back on anything with regret. My regret minimization framework is basically to not treat anything as regrets, including regrets.
+
+Tim Ferriss: So on that then, do you have a favorite failure of yours? In other words, is there a failure or an apparent failure that set you up for later success?
+
+DHH: Oh, yeah, that’s good. Let’s see. Well, I tried to, when I was just starting with the university again, I tried to get a job at a number of software organizations in Denmark as a student helper.
+
+I was so fucking blatantly over-ambitious that I blew every interview because I was like so we’re talking about this entry-level programming position. What possibilities are there for me to basically affect the overall strategy of the organization? People would go like what? What the fuck are you talking about?
+
+Tim Ferriss: What are you talking about, kid?
+
+DHH: You’re just a kid. What are you talking about? You’re just here to program this web part or something. You’re not setting any direction for any IT or whatever. And of course, it was a very reasonable reply and I was being completely unreasonable in my request. I’m glad I didn’t end up sort of just taking a job somewhere. That I was unemployable for a while, at least, until I met up with Jason and we started working together more like peers than sort of me being an employee.
+
+I know I wouldn’t make that good of an employee. I worked at a fair number of places before I ended up working with Jason at Basecamp and I don’t know if I was always seen upon that positively because I kind of would stir shit way too often and be perhaps way to critical about things that I didn’t have any power or authority to change anyway. We just ended up in a situation that perhaps didn’t make things better. So I’m kind of glad that it didn’t work out. It’s funny, I remember just yesterday I saw this Jack Ma quote, I think he’s CEO of Alibaba in China.
+
+He said, when KFC first came to China, they needed to hire 35 people or something and like 36 people applied. I was No. 36. Like he didn’t get the job at KFC.
+
+He ended up running instead the biggest internet company in China. So sometimes the failures we have – I’m a big believer of this – many of the failures we have are a flip side of the strengths we have. And the other we’re on too. Some of our best strengths are also some of our greatest failures. It’s all about the context that you happen to put those in. Sometimes you’re put in a context where all your strengths turn up as just failures and weaknesses and sometimes you’re put in a context where the opposite is true and you really thrive.
+
+So that’s what I, a number of times when we’ve had to say goodbye to someone at Basecamp, I’m always like, this isn’t because you can’t find somewhere else to be fantastic. This is because right now in this role, at this time, at this company, the strengths that you have are not showing up as strengths. I truly believe that. That’s not just like let’s say something nice to the person who’s going out the door.
+
+Because I’ve seen it time and again. I’ve seen it in myself. I’ve seen myself fail in all sorts of situations for the same reasons that I would later succeed under whatever definition of success you want to you, at least my own personal definition of success. When it came to that. I checked that all the way back. I remember when I was in high school, I would take great pride in the Fs I got. I got an F in a number of subjects, including math in senior year. I would say yeah, I deserve an F. I put in no effort here. I intend to put in no effort. I have chosen the F.
+
+Then at the same time, I would say, well that A+ I just got in this topic, I’m really proud of that because I put in the effort and I wanted to do it and I was good at it. Sometimes I’d go like C? Awesome. I put in 2 percent of the effort and I got a C? That’s more than fair. You’re being generous, sir.
+
+So I think that you really have to look at that. I look at that in public personas too. You have a lot of people who end up changing either community or an industry or a country or the world and a lot of people would go like, well, that person is crazy or they’re really a bad person in all these sorts of ways. And you go like yeah, most sane people, well-adjusted, wouldn’t put themselves in this situation. Most sane, well-adjusted people don’t get up on the stage in the way that people who end up changing things do. Because they’re sane and well-adjusted and their swings aren’t as big. Both their positives and the negatives. It’s like if you look at the curve, if you want to stay around the median, you don’t swing that much. But if you want to reach the peak, you’ve got to take the bottom.
+
+Tim Ferriss: Yeah, you’ve got to take the valley. Then it’s all about choosing to be response able. That’s where there are so many tools that I’ve found, and it sounds like you’ve found helpful, like Stoicism and trying to put those into practice so that you can try to get the benefits of that pendulum without suffering through necessarily.
+
+DHH: I think it’s at least being aware.
+
+Tim Ferriss: At least being aware.
+
+DHH: I know that I have strengths in certain areas that they’re kind of like genes. They can express themselves in terrible negatives, right? Sometimes I truly wish I could just keep my damn mouth shut. Life would be a lot easier for both me and a whole lot of other people if I could just shut the fuck up. But also at least the positive contributions I’ve made sometimes have come because I can’t shut the fuck up. So you’ve got to accept it in full honesty that okay, the good things come with the bad things. And that’s not justification. It’s not that you shouldn’t try to work on it. I try to work on it and then still sometimes you regress to your habits and your sort of proclivities.
+
+Tim Ferriss: It’s the self-awareness and being able to – like you said, being able to develop that self-awareness at the very least.
+
+DHH: Yeah, and put yourself in situations where you express the better side of it more often. For example, oh I have self-awareness that I’m a jerk all the time justifies you being a jerk all the time. If you know that there are certain situations that express that part of you, try to not put yourself in those situations as much as possible.
+
+Tim Ferriss: Yeah. I was being interviewed recently and this part didn’t make it to print, but I was asked a bunch of short questions and one was if you had to attribute your success to an attribute, what would it be? I said impatience. Then three or four questions later, they said what do you think you most need to work on? I said impatience. What I realized about myself is that I’m better at designing systems than I am at hands-on managing people.
+
+I just don’t have a soft touch. I’m too indelicate and that means I just need to have good systems and then say hire one person who doesn’t require the kid gloves and have them manage people. Fantastic. Then it works out. But if I put myself in circumstances that require a lot of tact and diplomacy, then it’s going to be a shit show.
+
+DHH: Exactly.
+
+Tim Ferriss: Man, well, this has been really fun to catch up. Where can people learn more about you, learn more about Basecamp? Are there any things or places that you’d like them to check out?
+
+DHH: Sure. I was just talking about I have that pillow I scream in with some regularity on Twitter. It’s @DHH. I’m also at DHH on Medium.com, where I kind of scream for longer periods of time into the pillow.
+
+Tim Ferriss: Long-form screaming, yeah.
+
+DHH: Yeah, long-form screaming. On Instagram at DHH79. That’s a little more uplifting. I post some of my photography and a bunch of other people’s photography. A lot about cars and racing and other things I find beautiful and pretty. Then, of course, my life’s work, Basecamp. It’s Basecamp.com. Anyone who’s trying to get their company organized and put things on the right track and they’re tired of being stuck in email and unread counters and chat room treadmills, should really give that a try. Ruby on Rails if you’re into programming or want to learn how to be a programmer.
+
+Now has never been a better time. It’s never been easier to get started. It’s just as hard as ever to become an expert. But it’s never been easier to get started. Finally, we have a great podcast at Basecamp called TheDistance.com.
+
+You can find it on iTunes as well, where we profile companies who have been around, stuck around for 30 years or more. Jason calls them stay-ups. The easiest thing in business is to start. The hardest thing is to stay. So that’s what we aspire to ourselves. Basecamp, through the lineage of 37signals, has been around for 17 years now. As we talked about, I worked on Basecamp itself for 13 years now and the same with Ruby on Rails. I really believe in staying the distance and going the distance. Perhaps that’s also why I love endurance racing so much. I think that’s a good summary of the places to find me and my screams in the pillow.
+
+Tim Ferriss: Well, David. Thank you so much for the time. There’s so many more things I’d love to ask, but this has been a great catch-up. Hopefully – you’ve done so much racing and I know we were exchanging some messages, I guess it was yesterday, and you mentioned that you haven’t done yet any rally racing.
+
+I think you would love it. So we should definitely make some time for maybe doing a Team O’Neill in New England or something like that at some point in the future. I think you’d immediately kick my ass, which I’m totally okay with. It’s so much fun, I think you’d just have a blast because of, for all the reasons you already enjoy the racing, I think you would love it. But I want to let you get back to your evening and thanks for being so generous with your time.
+
+DHH: Thanks for having me, man. This was a blast.
+
+Tim Ferriss: And for everybody listening, the show notes, as usual, will include links to everything that David mentioned at the end and certainly the books and so on, the resources that he mentioned throughout we’ll dig up as much as possible. So you can find that at fourhourworkweek.com/podcast. Until next time and as always, thank you for listening.
+
+
+TAGS
+DAVID "DHH" HEINEMEIER HANSSON, DHH
+	

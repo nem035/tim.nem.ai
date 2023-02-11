@@ -1,0 +1,731 @@
+
+
+MARCH 18, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Jane McGonigal — How She Predicted COVID in 2010, Becoming the Expert of Your Own Future, Trust Warfare, the 10-Year Winter, and How to Cultivate Optimism (#579)
+
+
+Please enjoy this transcript of my interview with Jane McGonigal (@avantgame), a future-forecaster and a world-renowned designer of alternate reality games that improve real lives and solve real problems. She’s the Director of Games Research & Development at the Institute for the Future and the lead instructor for their series on the Coursera platform. She also teaches the course How to Think Like a Futurist at Stanford University.
+
+Jane is the New York Times bestselling author of Reality Is Broken and SuperBetter, and the forthcoming Imaginable: How to See the Future Coming and Feel Ready for Anything—Even Things That Seem Impossible Today. Her TED talks on how games can make a better world and the game that can give you 10 extra years of life have more than 15 million views. Her innovative games and ideas have been recognized by the World Economic Forum, Harvard Business Review, Fast Company, MIT Technology Review, O magazine, and The New York Times, among many others.
+
+
+
+
+
+#579: Jane McGonigal — How She Predicted COVID in 2010, Becoming the Expert of Your Own Future, Trust Warfare, the 10-Year Winter, and How to Cultivate Optimism
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show. My guest today is Jane McGonigal. You can find her on Twitter @avantgame, A-V-A-N-T game. Jane is a future forecaster and a world renowned designer of alternate reality games that improve real lives, and solve real problems. She’s the Director of Games Research and Development at the Institute for the Future, and the Lead Instructor for their series on the Coursera platform. She also teaches the course “How to Think Like a Futurist.” We’re going to dig into some of the frameworks, I imagine, at Stanford University.
+
+Jane is the New York Times bestselling author of Reality Is Broken, and SuperBetter, and her newest book is Imaginable, subtitle, How to See the Future Coming and Feel Ready for Anything―Even Things That Seem Impossible Today, and we’ll get into some of her exercises and also simulations, and it might be pretty eerie and amazing, so we will get to that. Her TED talks on How Games Can Make a Better World, and The Game That Can Give You 10 Extra Years of Life, have more than 15 million in views. So jelly. So jelly jam. That’s a lot of views. Her innovative games and ideas have been recognized by The World Economic Forum, Harvard Business Review, Fast Company, MIT Technology Review, O magazine, and The New York Times, among many others. You can find all things Jane on her website, janemcgonigal, M-C-G-O-N-I-G-A-L.com. Jane, welcome back to the show. It’s nice to see you.
+
+Jane McGonigal: Thank you, Tim. It’s really nice to see you.
+
+Tim Ferriss: Now I thought I would just immediately make this super self indulgent, and use this opportunity to ask you about sleep, because I know that we have spoken about sleep before, but for me, and I’m sure a lot of people, recently, my insomnia has just been going for extra credit, and typically, there are two causes, I would say. One is just too much caffeine. Not much I’m going to ask you about that. That is something I should just self-regulate. The other one is a hyperactive high-RPM just mental processing that happens, and sometimes it makes sense, sometimes it doesn’t, but the feeling that I’m laying down and my brain just will not turn off, and I know that you have experimented with various things before bed. Have you any recommendations for me, or anyone else listening?
+
+Jane McGonigal: I have two recommendations. One uses video games, and one uses the future. So the video game one, pretty easy. Video games allow us to control our thoughts and imagination, right? They focus our attention on a problem that isn’t real, right? It’s a game, and we can be swapping candy tiles, or catching Pokémon, or whatever we’re doing in the game, and it allows us to shut down the busy thoughts, the hyper mental stimulation, and it does seem to be pretty effective as a bedtime routine. The only side effect is that you might dream or hallucinate about the game when you fall asleep, so you might see those Tetris blocks falling when you close your eyes, but that’s not too bad a side effect. It’s better than Ambien, I think.
+
+Tim Ferriss: Yeah, I imagine so.
+
+Jane McGonigal: And — 
+
+Tim Ferriss: And I just wanted to layer onto that really quickly, because you also mentioned in our last conversation how Tetris can be used to mitigate post-traumatic stress disorder, and in a sense, kind of visually overwriting what could become a sort of compulsive repetitive cycle of imagery caused by the trauma itself, and that really struck me. Do you have any games that you favor for this, if you were going to be using a game before bed, and for how long would you suggest?
+
+Jane McGonigal: Yes, good practical questions. First, some good news. The researchers at Oxford University who first did that study about using Tetris to prevent unwanted flashbacks from traumatic events, they had previously done the studies in the lab. They actually started testing it in the field for people who had experienced violence or accidents that sent them to the emergency room, and they were able to replicate the findings in the field since we last talked. So there’s even more evidence that it works. For preventing PTSD, or just for bedtime, 10 minutes is the dose that’s been tested, and so, I mean, it’s pretty just to pull out your phone. I’ve been using lately Quordle, so I don’t know if you have found — 
+
+Tim Ferriss: Don’t know this.
+
+Jane McGonigal: Quordle is the super masochistic version of Wordle, which everybody’s been playing.
+
+Tim Ferriss: How do you spell, what is it? Quordle?
+
+Jane McGonigal: Quordle.
+
+Tim Ferriss: Quordle.
+
+Jane McGonigal: It’s Q-U-O-R-D-L-E.
+
+Tim Ferriss: Got it.
+
+Jane McGonigal: So it’s just like Wordle, where you have five guesses to get a five-letter word, except you’re doing four words at the same time, with the same guesses, so you have to allocate your guesses to try to maximize information about all four words, and you’re looking at all four words, and I do it every night before I go to bed now, and it’s great. I mean, you literally can’t think about anything else while you’re trying to solve four five-letter words at the same time.
+
+Tim Ferriss: Wow. So I interrupted because I have no tact, and just wanted to talk about the PTSD from the last conversation, and segue from that into your recommendation related to games. You said you had another recommendation related to the future.
+
+Jane McGonigal: Yeah. So you and I have talked before about the mantra that a lot of futurists have. I think it’s in one of your books, that in order to look forward, we try to look back at least twice as far, and look for patterns in the past in human culture and history, and there have been a lot of people talking lately about a past pattern of sleep. I don’t know if you have come across this. So before we invented electricity, the normal human sleeping pattern was to be awake in the middle of the night for two to three hours, and people used to sleep in what they called first sleep, and then they would be awake and they would do stuff. They would often do chores, or have intimate conversations with whoever was sharing the bed with them, which wasn’t always a partner, because people used to share beds with more people.
+
+Tim Ferriss: Right, family members.
+
+Jane McGonigal: Yeah. And then after a few hours, they would go back to sleep for a second sleep, and it seems like a lot of people, if your insomnia is when you’re falling asleep, do the game thing, but if your insomnia is in the middle of the night, you may actually just be more in tune with natural human sleeping patterns, and the rest of us, because of the type of stimulation our brain gets from electric light or artificial light, we have a weird modern sleeping pattern.
+
+But I find that a lot of people can relax in that middle of the night awakeness, and I’ve definitely gone through periods of my life where I’ve fallen back into that two-sleep cycle, and if you know that it’s natural and actually kind of the original human sleeping pattern, it can take away some of the anxiety, and you can get amazing stuff done in the middle of the night while everyone else is asleep, and if we can kind of let go of the worry, “This is weird, something’s wrong with me. I have to fix it,” and think about maybe in the future, we’ll go back to the way we used to sleep in the past, or not try to force people out of it. Maybe we’ll just be like two ways of sleeping.
+
+Tim Ferriss: Yeah. I’ve always done my best writing in the middle of the night, two, three in the morning, and fortunately, in my case, or unfortunately, it’s onset insomnia, so it sounds like I should try the game. Do you know why the Oxford researchers chose Tetris? Did they test other games and then choose Tetris? Was it just the ubiquity, and kind of simplicity, awareness of the game? What was the reason?
+
+Jane McGonigal: So the main reason is that Tetris is widely known to be the most visually stimulating video game that has ever been designed, and what the researchers were trying to do was essentially to take over the visual processing center of the brain, because unwanted flashbacks, the reason we experience them is that in the heightened emotional period after a trauma, our brain keeps replaying it over and over again, especially in this incredibly intense visual form of imagination. And if it gets really locked in during those first 24 hours, it essentially becomes a pattern for the brain that is very hard to disrupt, and there are therapies, but people will go to therapies for years to try to break that pattern, and if you can stop it first, it helps.
+
+So Tetris, and everybody, you’ve had this experience, you close your eyes, you see the falling bricks. There are other games at work. Candy Crush is great. Any visual pattern matching game where your brain is looking at colors, looking at shapes, looking at how things are arranged in space will be really good. Quordle works for me because — I mean, I wouldn’t use Quordle for a trauma, but it works for me for insomnia. But depending on how much, if you’re trying to stop visual thoughts, like if you have a really vivid imagination, the visual games will work better, and if it’s just sort of abstract thoughts — you can really play a game that you like.
+
+Tim Ferriss: So let’s segue to the foreshadowing to Nostradamus, McGonigal to McNostradamus.
+
+Jane McGonigal: Oh, my God, I love it. I’m getting a t-shirt that says that. Oh, man.
+
+Tim Ferriss: So please describe what happened when you led more than 20,000 gamers in a simulation in 2010, because it is pretty spooky.
+
+Jane McGonigal: Right.
+
+Tim Ferriss: Yeah.
+
+Jane McGonigal: Okay. So I should just very quickly explain that one of the kinds of games that I specialize in creating is something called a social simulation, which is where you get thousands of people to spend several days or weeks on a fictional social network. So basically, build Facebook from the future, or Twitter from the future, and people come and they share messages, and photos, and videos, and stories about what’s happening, but it’s all imagined 10 years in the future, and to get people all imagining the same future, we give them scenarios.
+
+So we say, “Okay, it’s 10 years in the future,” and one of the most popular simulations I created, we ran it in 2010 with the World Bank, and it was set 10 years in the future, so the year 2020, and we asked them to imagine a series of cascading global crises, and how would they feel, what would they do? How would they adapt? How would they try to help others? And it started with a respiratory pandemic that started in China, and then there was a misinformation and conspiracy theory group called Citizen X that started to spread all kinds of crazy information, and people couldn’t figure out what was really going on, and they weren’t trusting the government, and then they started experiencing historic wildfires on the West Coast due to climate change.
+
+I mean, it was essentially everything that we actually lived through in 2020, but back then, it was fictional, it was hypothetical. And we asked people, first of all, we want to just get some collective intelligence, like let’s say you’ve been told to isolate for two weeks, can’t go to work, can’t go to school, can’t go out. Under what circumstances would you break this order, right? Is there something that would make you feel compelled to go out, even if you’ve been told not to, you’re contagious, you’re at risk? And the number one thing people said was for religious services, because it’s so deeply ingrained in their values, and the community is so important to them. We also heard weddings, funerals, and of course, these turned out to be the superspreading events, the hardest to shut down when the real pandemic happened.
+
+People said, “I’m worried about schools being closed, and how I’m going to work and take care of my kids at the same time, if suddenly we can’t send them to school anymore.” A lot of women expressed concern that they would be the ones who’d have to stop working. Of course, in 2020, there was a historic exodus of women from the workforce to take care of kids home from school. I mean, what was really interesting is the players back then were able to effectively imagine what they would feel, and need, and do, and predict a lot of things that during the actual pandemic, people said were surprising.
+
+We asked people, we ran another simulation called Quarantine back in 2008, looking at the year 2019, and we asked people during that simulation to wear masks. We gave them masks, we sent out masks and we said, “Just try and wear these in your everyday life, and what is it like, and how comfortable is it? How socially awkward is it? When do you really need to take the mask off, and would you be able to adapt to it?” And what we heard was it was going to be very hard to adapt, and there were so many social norms in the way, and the physicality of it, and the difficulty of expressing our emotions and feelings, and connecting to others. And so we’re like, “Great,” even though it sounds like a really rational intervention during a pandemic, when the real pandemic rolled around, we’re like, “This is going to be really tricky, and people aren’t going to want to do it.”
+
+And so, I mean, it’s just amazing how much we could learn that when the real pandemic happened and all the other intersecting crises, people said, “Well, that was unimaginable,” or “That was unthinkable,” but no, people are experts on their own futures, and if you ask them before the crisis happens, before the disruption happens, you can get really actionable evidence. But Tim, can I tell you what, for me, is the most important thing that happened as a result of all these people simulating?
+
+Tim Ferriss: Tell me all the things, and then I have many follow-up questions on this story. Please continue.
+
+Jane McGonigal: So I started hearing from people at the start of 2020, I mean, people at the World Bank who had worked on the simulation and they were like, “Are we reporting out? Are we following up? Because the world looks exactly like we imagined,” but also from participants, from players, and they were writing me very early on before most people were even paying attention to what was going on. They told me, “Ever since that game, pandemics have just been on my radar. It’s like I pick up the information faster than other people. I notice the change faster.”
+
+They were writing me in early January when most people were not really thinking this was going to affect them, outside of China. People were writing me throughout 2020 saying, “This has been terrible, but I feel like I experienced less anxiety and depression than my friends and family. I felt less shocked. It didn’t take me as long to accept reality.” I mean, Tim, I don’t know if you remember, we were fighting reality early in this process. People did not want to change, businesses did not want to send their workers home. I mean — 
+
+Tim Ferriss: I think a lot of people are still fighting reality, but yes.
+
+Jane McGonigal: But so, I mean, people, and so, I’ve spent the last two years studying all of the people who participated, how they suffered less during the real crisis, and it wasn’t even necessarily like, well, some people avoided getting sick better than others, but it was that the first feeling they had, the first emotion they had when this all happened was prerecognition, which is an incredibly positive emotion. You said Nostradamus, right? That feeling of having been right, “I knew this could happen. I saw this coming.” That makes us feel smart. It makes us feel capable, confident, powerful, even when we’re in all this uncertainty and disruption, and having that be your brain’s first reaction to a new adverse situation, it turned out was really powerful, and it allowed people to feel less shock, not get frozen, not be in denial, overcome normalcy bias faster, and get on with adapting and helping themselves and others.
+
+Tim Ferriss: We’re going to, of course, get into many facets of seeing the future coming, or envisioning the future coming, different tools, different games, but let me double click for a second on this 2010 simulation. So there are two questions that I have. The first is how did you, or how did the team, or how did someone else arrive on these particular scenarios? And then the second question is, what other scenarios were there, if any, that did not come true, or that have not yet come true?
+
+Jane McGonigal: Okay, good. So let’s see. I mean, so there were really two big simulations we were running at the time. One was Superstruct, which I was running with researchers at the Institute for the Future, and the other was EVOKE, which I was running with the World Bank, and I would say that one of the biggest inputs into deciding what scenario to simulate was a new resource that had just been published for the first time. The World Economic Forum published its first annual report on global threats, which they now do every year. But this was the first time they had published it, and they were asking business leaders, government leaders, creative people, the smartest people they could find, the most powerful people they could find, and ask them, “What’s keeping you up at night? How likely do you think the things that are keeping you up at night are to happen?”
+
+They asked really smart questions like, “What do you think is the most underrated or underappreciated risk or threat, where it’s more likely than people think, it’s going to have a bigger impact than people think?” And by the way, I want to share with you what was recently reported as the most underrated risk, because I feel it, I believe it. I think we need to prepare for it. But so, we were using that, and I always say it looks, in retrospect, really amazing. We totally predicted the future. We had a whole scenario on supply chain disruptions, that was a big part of it, and that definitely happened.
+
+We had one of the scenarios called Power Struggle, was about geopolitical disruption surrounding oil, and gas, and fuel, which I mean, has sort of happened on and off. One of the things we were looking at in that scenario was what would happen to countries that rely on fossil fuels for their economy, and would they successfully transition their economy out? Some countries in the Middle East are trying to prepare for a future now where the world doesn’t need all this oil, but then you have countries like Russia right now, which is trying to use gas and oil as leverage against the rest of the world, “You can’t sanction us. You need our fossil fuels,” and think about what might happen if we do make that sacrifice, and say we’re going to accept higher prices, we’re going to accept radical temporary reduction in our carbon emissions to not be held hostage by this government.
+
+So that was the scenario we were looking at. I mean, it didn’t all happen at the same time, but I mean, I’m not sure there’s anything we said that was super, super crazy. I’m going to come back to that, because I mean, we had 10 predictions in EVOKE, and we had five in Superstruct. But you don’t have to be a genius, you just have to pay attention and not deny reality. I mean, if you’re willing to have some trust in science, some trust in expertise, people know what’s coming. The public health people know pandemics are coming before they hit us. The next one they’re worried about is a tick-borne pandemic. Maybe it would be fun for us to talk about it, because it’s going to make us all allergic to meat, and think about living in a world where we have meat allergies.
+
+Tim Ferriss: Well, let me interject for a second. So my mom actually has allergies to mammalian proteins, to the lone star tick, in this particular case.
+
+Jane McGonigal: Oh, my gosh, she is living — 
+
+Tim Ferriss: So we have firsthand experience, and I’ve had Lyme disease twice, so we both have firsthand experience. So could you elaborate on that? And then we’ll move on from the doom and gloom, but I do think this premeditatio malorum, as say, Seneca or the Stoics might word it, this envisioning worst case scenarios is a valuable skill, or it’s not even necessarily obsessing on worst case, it’s envisioning what underestimated threats could be or inevitable threats, if you just look at the secondary tertiary effects of trend lines that are already converging. So could you say more about this tick-borne disease?
+
+Jane McGonigal: Yes, and I will say you are absolutely right. You do not have to dwell on apocalypse. So I write about a study in Imaginable that showed that five minutes of vivid imagination was enough to overcome normalcy bias. So normalcy bias is when we believe that the future will be like the present or the past, and we really underestimate the actual risk or likelihood of novel changes or disruptions, but five minutes of vivid imagination, and vivid imagination means not just thinking abstractly about it, but trying to go to the future in your mind, like it were a virtual reality world where you can look around, what’s the weather like? Who’s with me? What is my body like in this future? You’re really trying to get in it.
+
+So one of the futures I think people should spend five minutes vividly imagining is a future in which this alpha-gal syndrome, which I’m very sorry to hear that your mom has it, it affects more people. So the numbers are really rising. We’re actually doing a simulation about this scenario starting at the Institute for the Future tomorrow. I’m super busy planning to kick this off right now. And I mean, the signals look pretty significant in the United States. There are regions of the country, particularly in the Southeast, where 33 percent of people have already received at least one of these tick bites, and already have sensitivity to this sugar molecule that shows up in animal products. So it’s meat, but it’s also gelatin. So if you’re eating gummy vitamins, you can’t do that anymore. There’s gelatin in toilet paper to make it soft. Yeah.
+
+Tim Ferriss: Gelatin in encapsulation also.
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: If you take capsules, most capsules contain gelatin, and I took my family to Japan where I’ve spent a lot of time as an exchange student and just loved the place. So I finally took my family there, and we had to take my mom to the emergency room because she had dessert that had gelatin in it.
+
+Jane McGonigal: Oh, my goodness.
+
+Tim Ferriss: Often used for binding purposes, and it is surprisingly ubiquitous.
+
+Jane McGonigal: Yeah. So in the scenario that I’ve developed around it, there’s a Meat is Everywhere campaign, public service announcements to let people know the sort of hidden animal products, but also what they’re starting to see is if you have a lot of exposures to these molecules, even airborne meat can trigger a really dangerous allergic reaction. So if somebody’s doing a cookout, a backyard grill, even just smelling the smell of meat cooking. And so I’m just trying to imagine what happens to our eating lives, to our rituals and traditions, to the restaurant industry, to groceries to the world, if one in 10 people on the planet are living with this?
+
+And when we come up with scenarios, we’re looking for signals of change, evidence that certain futures are becoming more realistic or more probable. Ticks are now moving into areas they haven’t lived before. In New York City, it used to be urban parks were safe. Well, researchers just found disease-bearing ticks in all of the public parks in New York City. Here in California, we have them on our beaches now, which they didn’t used to be hanging out on the beach. The beach was a safe place; now there are ticks on the beach.
+
+So it was like, this sounds terrible, probably we don’t want to think about it, we don’t want to spend too much time thinking about a future where we’re all living with this, but I promise if we spend five minutes imagining it now, we will notice change faster over the next decade. If we need to prepare for it, we’ll be ready, we won’t be shocked, we’re not going to be in denial. We’re going to be ready to help ourselves and others. And so give it five minutes. Just imagine waking up, and some of your family members have this alpha-gal syndrome, or your employees do, or students at your school do. It’s just, what’s different now? Look around. What are people doing differently?
+
+Tim Ferriss: And now, what are the reasons, if you can remember, what are some of the assumptions underlying the expectation that this will continue to spread at a high rate? I mean, one of the theories that I’ve come across, just because growing up on Long Island, you were in the middle of the red on the CDC map for tick-borne illness, and certainly, most people have associated it with the Northeast, right? Lyme, Connecticut, then lending its name to Lyme disease, et cetera. But what are some of the assumptions that underlie the the expectation of growth? One that I’ll throw out there is climate change leading to two issues. In some cases, overlapping breeding cycles, but also not killing ticks, and therefore, you just have this kind of accumulation and multiplication, but are there other things you’d like to highlight?
+
+Jane McGonigal: I mean, the climate change is the big driver right now of increased tick populations. Also, changing how close humans live to the wildlife interface, so as we’re developing into areas where we’re up against forests, and mountains, and other natural areas, we become more in contact with animals that carry ticks. Another reason that it might increase is if you have a lot of exposure to meat and animal products, after you get bitten by one of these ticks, so the first time it bites you, you may not notice anything, which is why I say 33 percent of people in the Southeast have already developed the beginning of the sensitivity. If you get another bite, it increases, but also, if you just continue eating a lot of meat, you develop more and more sensitivity. So it’s just one of those allergies where the more you expose yourself to it, your body gets angrier every time, a heightened immune response.
+
+So not just in the United States, but in other parts of the world, meat eating is on the rise, as people come out of poverty and they want to eat more of a Western diet, and more protein. So it’s not just happening in the US, but we’re seeing in other countries, people are essentially setting up their bodies to be more reactive to this molecule. So, I mean, one of the things I talk about in the book is there is a preventive strategy. If you were to start eating less meat or exposing yourself less frequently to this molecule, if you did become impacted, you’re less likely to experience such a severe reaction that you would need to go to the hospital. Now, not everybody would want to do that, but I mean, it’s something you can do; it’s in your power, right? Which, I’m always looking for things you can do to feel ready, be ready, set yourself up to survive or thrive, no matter what happens in the future.
+
+Tim Ferriss: Now, just to play stand in for some people in the audience, they might say, “Well, wait a second. I think Jane is probably a vegan, or has some secret mission to reduce meat consumption, and therefore is biased,” but so you can speak to that if you’d like, but let me just mention, you could go the other way, the exercise doesn’t have to lead that direction. You could also say, “Well,” and I’m not suggesting that people do this, right? But it’s not found in fish, reptiles, birds that people sell.
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: Alligator farms, ostrich farms. I mean, you could go in a different direction, right?
+
+Jane McGonigal: Yeah. I mean, I believe you could eat — 
+
+Tim Ferriss: Cricket protein.
+
+Jane McGonigal: Yes. You can eat crickets, you can eat poultry, I think is still fine. I think, yeah, shellfish is still fine, but it’s funny, in the scenario, one of things that we anticipate happening is people who are convinced that alpha-gal syndrome is a hoax, so they think it’s a lie perpetrated by the plant-based industry to increase profits, or it’s the work of a feminist militant vegan global secret society called The Alpha Gals, designed to scare people into adopting a vegan lifestyle, and possibly lowering their testosterone by eating less red meat. So we’re already anticipating the misinformation and conspiracy theories. You know what? I was vegan for a while. I’m not a vegan anymore, but yeah, so you cannot pin that on me, I’m not currently, although I mean, I don’t eat red meats, for whatever that’s worth, but I’m ready for this future.
+
+Tim Ferriss: Other questions, and I don’t know the answer to this, but for instance, in the case of Lyme disease, and I’m not giving medical advice, I don’t play a doctor on the internet, folks, but because I’ve had it twice, and the second instance, which was very severe, we’ve talked about it before, so I won’t belabor the point, but basically, felt like I had early onset dementia for about nine months. Joints were so sore it took me five to 10 minutes to get out of bed in the morning, was forgetting friends’ names, things like this, slurring speech.
+
+I waited for the appearance of symptoms, incorrectly assuming, as many locals where I grow up do, that if you don’t have the bullseye rash, you don’t have Lyme disease. Incorrect. There are many instances where dermatologically you’re asymptomatic, but then develop Lyme disease. So in my case, again, I’m not recommending anyone do this, talk to your doctors, but I always carry a supply of doxycycline, which is a common antibiotic, and in the case of any embedded tick, so not a tick walking on the surface of my skin, but any tick that is embedded, and just to paint a picture for folks, getting immersed like you said, if you go walking, let’s just say in Montauk, on Eastern Long Island, and you take a hike on public land, there’s a very good chance at certain times of the year, that if you pull your socks up over your pants, do everything right, put on some type of spray, you’ll come back with 10 to 20 ticks on you.
+
+And that is avoiding tall grass. So it is incredible how much that density has increased. And you see different seasons where it’s just absurdly, absurdly dense. However, where I was going with that is, if we’re looking at some of the ripple effects of this type of phenomenon, or just this type of story, the meme of this prediction spreading, if it were to spread, does doxy, or do other medications have any prophylactic or the morning-after-pill-like effects on being bitten by a lone star tick? I don’t know.
+
+But if that were the case, you could envision a world in which all of a sudden you have 10, 20 different ripple effects just caused by, say, stockpiling antibiotics or other drugs?
+
+Jane McGonigal: Absolutely. So antibiotics don’t work to prevent the sensitivity from developing, but one of the ripple effects that we forecast in this scenario is a run on EpiPens. Because you might suddenly have — 
+
+Tim Ferriss: Totally.
+
+Jane McGonigal: — more, going from hundreds of thousands of ER visits in the country for anaphylactic shock in a year, to tens of millions of ER visits for this. And one of the things we talk about, well, entrepreneurs will start cell EpiPen holders, and you can wear it, strap it to your thigh, or strap it to your arm.
+
+There’s a fashion that develops around the socks that we wear over our pants, like in the future. The Instagram influencers are going to be selling the socks that go all the way up over your pants. You can imagine all kinds of things happening, but I say, okay, well what if you wanted to spend five minutes a day feeling more ready for the future? Learn how to use an EpiPen. If you don’t know how to use one yet, that’s a good one. Learn how to do a tick check.
+
+You can actually go to your doctor today and request a test. I think Labcorp will also do it, so it doesn’t really matter if your doctor’s into it or not. You can go to Labcorp and request a blood test to see if you have sensitivity to the alpha-gal molecule yet so you can know if you’re at risk.
+
+And if you’re not at risk, great, because again, the first bite usually is not a problem. But maybe you want to know that you actually have sensitivity to this. And that might make you try a little bit harder to avoid the tick bites in the future.
+
+Tim Ferriss: Now, is this the threat that you were alluding to earlier, that the World Economic Forum had put into the more current additions? Or is it something else?
+
+Jane McGonigal: No. Well, okay. So — 
+
+Tim Ferriss: And I promise we’re not going to spend the entire time talking about threats. As much as people follow Enneagram, I’m a self-preservation 6, so sorry. But what was that threat?
+
+Jane McGonigal: Well, and this one, I think there’s a silver lining to this threat. I’m actually kind of excited about this threat, if that sounds a little bit weird and twisted.
+
+So the number one most underrated threat was global youth disillusionment. So basically, young people saying “Eff it. I don’t buy how we’ve organized society and I’m out. I’m not doing toxic productivity. I’m not doing the capitalist grind. I’m not going to live my life the way that global capitalist forces want me to.”
+
+And if you want to look for evidence, where do we see evidence of global youth disillusionment? I don’t know if you saw, there was a landmark study published in February of this year in The Lancet Planetary Health Journal, and it’s the biggest study of its kind ever. They interviewed over 10,000 young people, aged 16 to 25, in 10 countries.
+
+So Asia, the Middle East, Africa, Europe, North America, Latin America, and they found that 56 percent of young people feel that humanity is doomed and they personally have no future. Two thirds said they primarily feel anxious, hopeless, or afraid of the future. And the number one reason that they gave for these feelings was confusion about government failure to act on climate change. Like they literally think the world is going to burn, and they’re not here for anything except radical dramatic action.
+
+And you can kind of see, also little bits of this and The Great Resignation and the Lying Flat Movement in China. Do you know about the Lying Flat Movement?
+
+Tim Ferriss: I don’t, but tell me more. What is the Lying Flat Movement?
+
+Jane McGonigal: It’s just young people saying, “Sorry, not going to get a full-time job. I don’t need to spend all this money. You don’t have to pay me so much because I’m just going to buy less or live at home with my parents. That would make me happier.”
+
+And so it’s like lying flat, “I’m just going to lie down.” And literally they lie down a lot, but it’s more of a meme. The idea is that, “I just don’t believe that this is necessary. This hustle, this grind, the global grind, it’s not good for the planet, it’s not good for my mental health, and I don’t like it and I’m out.”
+
+And so the idea that, on one hand, this is posed by the World Economic Forum as a global risk or threat, because what if young people just don’t want to do the work anymore?
+
+Right? What if they don’t want to buy the stuff anymore? What’s that going to do for the economy? But on the other hand, I don’t know, I’m kind of excited for — well, it’s also a risk because people who are disillusioned, I shouldn’t make light of this, people who are disillusioned are more likely to be drawn to extremism and terrorism. So that is a major risk.
+
+And I also find it exciting that we might be, kind of like the ’60s was a big decade for social change, and just radically changing our norms about gender and race so fast, maybe we are going to be able to ride the wave of global youth disillusionment to something that I think could be better. I think I’ve been radicalized a bit by — the seven years since we last spoke, Tim, you and I, I definitely want to see big, radical, crazy change.
+
+Tim Ferriss: So what is, if you’re open to it, just chat for a second about the unspoken subtext of that statement. So what, I mean, this is kind of a lazy question, but with respect to what you just said, what has happened for you? Or what have you felt? Or what have you come to realize in the last seven years?
+
+Jane McGonigal: I’ve learned about modern monetary theory, which I think is super interesting. Have you ever had an expert on modern monetary theory on your show? I don’t know if I have — 
+
+Tim Ferriss: I have not. I have not.
+
+Jane McGonigal: I definitely encourage you to get someone on to talk about how countries with sovereign monetary systems can afford to do more than we are. I won’t try to be an economist on this, but there’s a new understanding of money that makes it possible for us to really seriously imagine universal basic income, which I’ve gotten more informed about universal basic income, and it changes people’s physical health, their mental health. There’s less crime.
+
+It’s a good thing for society, so I’ve been kind of, I don’t want to say radicalized, because I don’t think UBI is a radical idea, but I’m on that train. I want people to work less and care more. Care for their kids, care for themselves, care for their communities.
+
+I’ve seen the numbers on the four-day workweek, which I think isn’t going far enough. I’m already imagining a three-day workweek as a global norm, because we, honestly, there’s no reason, with automation, with AI, there’s no reason we need to work this much. Every time we’ve invented new technologies of productivity, economists have predicted that we’re going to use that to create more free time for leisure, and cooking, and — 
+
+Tim Ferriss: It hasn’t happened.
+
+Jane McGonigal: It only happens when companies experiment with shorter workweeks.
+
+Tim Ferriss: Oh, I see.
+
+Jane McGonigal: The only thing that actually leads to people spending time on themselves and each other in ways that benefit them physically, mentally, socially, and emotionally is when the boss says, “Well, I’m going to pay you the same amount of money, but for a shorter workweek.”
+
+And it’s been tested on as much as 20-hour workweeks. I know you know all about working less, but they’ve been able to pilot 20-hour workweeks, which I actually think is the ideal, in terms of — you know, how much productivity do you actually have in a day? Especially for people who are creative, or they’re thinking, they’re producing, four to five hours a day.
+
+Tim Ferriss: Yeah, that’s it.
+
+Jane McGonigal: That’s the max.
+
+Tim Ferriss: Yeah, the consensus pretty much for almost every writer I’ve spoken to, and I like the writing example because it’s quantifiable, both in terms of time and in terms of output, say just words per day, is around four hours, is where a lot of who I would consider very productive, many would consider prolific, writers max out per day. So we’re looking at, let’s just call it 25 to 30 hours of concentrated work. That is per week.
+
+Jane McGonigal: Let’s see, what else can I tell you about that? Part of being a futurist is you get exposed to new ideas and new evidence a little bit faster. So you can kind of get excited before other people.
+
+So one of the areas of evidence, new evidence that I’m excited about, is looking at programs that give free basically unlimited fruits, vegetables, fresh produce to people who want it. Not means testing, so not just poor people, not just people who are on food stamp programs, but just take a community, give them a bag, say, “You can fill this up. You can take this to any farmer’s market or grocery. Fill it up with whatever you like to eat. Any fresh fruit or vegetable. It’s totally free.”
+
+Programs that give away this kind of food for free to people see such a radical improvement in health, such a dramatic decrease in healthcare costs. These programs are being piloted all over the country. People who are interested can look for the Food As Medicine Movement. It’s a coalition of food producers, healthcare — 
+
+Tim Ferriss: Who subsidizes this? Who pays for this?
+
+Jane McGonigal: So the government is actually, the US Federal Government has given money to these programs to test it. You would never know about it. I don’t know why this is not more common knowledge. It’s hidden away in some farm bill.
+
+There should be more awareness of this. And then there’re also philanthropists who are funding it. There’s health insurance companies doing pilots, because they think they can spend less money on healthcare if people, if it’s just easy. And you know what I love about it? Is it creates this feeling of abundance.
+
+So in Imaginable, I ask people, just imagine you have this tote bag with a QR code on it that’s attached to your profile. So you can take this bag wherever you want once a week and just get whatever you want for free, and just how good that feels.
+
+And we can imagine that when we go to a market. We can look around and just imagine, what would I? And the feeling of abundance instead of scarcity, of having what we need, the emotional quality, this is not just a physical health intervention, this is a mental health boost, to feel like we have what we need. And I don’t know, if we can create more abundance in the future, any way we can do that, we fight less. There’s less sense of other people as being competition. If we all have what we need, that’s a world where I think we can be a little bit happier and nicer to each other and I would like to live in that world.
+
+Tim Ferriss: So I’m going to ask you about urgent optimism in a moment, in a moment. First I want to just bounce some non-professional thoughts, slash, I wouldn’t say, in some cases predictions, off of you and just get your thoughts.
+
+Jane McGonigal: Okay.
+
+Tim Ferriss: So the first one is, you mentioned universal basic income, and what we’re already seeing in places like say the Philippines, with Axie Infinity, is people playing to earn.
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: So playing a game, earning income to the extent that there are so many players, on some level they represent such a significant percentage of a politician’s constituents that they can now impact elections.
+
+And this trend I think is only going to explode. I don’t see any countervailing force. Maybe there’s some regulatory action, but regulatory action is often determined by political action. Politicians like to be reelected. So it really depends, which is the same way that, say Uber, took a lot of cities. They could harness the power of their, in this case, users and drivers, but mostly users, not even people making their livelihood automatically, to overthrow policy in a sense, override policy.
+
+So I’ll just throw out, that’s one. That’s one. I’ll throw out a couple of — 
+
+Jane McGonigal: Oh, no — can I?
+
+Tim Ferriss: No, no, no. Do you want to comment on that first?
+
+Jane McGonigal: I have so — there’s so many things about what you said. I’ll throw two things out at you. Okay?
+
+Tim Ferriss: Yeah.
+
+Jane McGonigal: So one aspect of it is cryptocurrency. In Axie Infinity they’re earning money by essentially mining cryptocurrency as they play. There is definitely going to be regulation. Biden’s talking about setting up regulation of cryptocurrencies. The scenario that I think is most likely in this space, because of all this unregulated exchange of income and wealth, is that governments will absolutely create their own cryptocurrency, centrally like central bank cryptocurrencies.
+
+And there will be incentives to not use what are now, what we would call traditional cryptocurrencies that are unregulated or unattached to a national bank. There will be financial incentives.
+
+So in China right now, they hate Bitcoin. They’re banning it. They want people on a government cryptocurrency so they can track every transaction. They want to know where your money’s going. China’s a surveillance state, right? They’re giving it away for free. Hey, try this new cryptocurrency. Here’s a bunch of money. And they want to get more of this currency into circulation so that it replaces traditional cryptocurrency.
+
+And then they get the data. And people have sort of been, I don’t want to say lured into it, but — 
+
+Tim Ferriss: A hundred percent lured into it. They’re being bribed with money on a hook. Yeah.
+
+Jane McGonigal: But I think it’s something, so one of the dilemmas that I pose in Imaginable is: would you take that offer? Let’s say you can trade in your traditional crypto or traditional cash for 20 percent interest, a hundred percent interest, one time offer. And I want people to imagine being ready for this wave of regulation, but also for this wave of potential financial opportunity.
+
+If you’re willing to use a government’s cryptocurrency, that too could be a big wealth generator. But I think people will be paid to play games through a completely different economic system, which is the game companies themselves getting into a revenue sharing system with players.
+
+Because we know, you look at Roblox, people are already getting paid for creating games within this gaming world or ecosystem. The companies are trying to figure out how to make gaming sustainable, and healthy, and viable for the long run. And so we are going to see, definitely, ways to earn a living playing games, but it might not be in a crypto sense. It might be in a more traditional sharing revenue sense. And I’m very excited about that.
+
+Tim Ferriss: So another, and I don’t want to take us too far down crypto metaverse lane, but another question that I have, as I think about this, and there are many experiments being run right now, in the sense that you have Axie Infinity as one very large scale example, although in the grand scheme of things, I think it’s still in the first inning, you have companies like Sorare, which tether real-world performance in sports to not just virtual gaming, but then betting on top of that. It’s fascinating. And one question that has come to mind for me is I’m thinking about the secondary, tertiary, and so on effects is which occupations will first or most likely experience mass defection? Brain drain.
+
+So who are we going to lose? Which services are going to experience a gap that may not be automatically filled by automation, if the automation is slower, in terms of mass adoption, than the play-to-earn, which I do think will take off.
+
+But those are some of the questions I’m asking. Let me throw out a couple of other ones. So another is AI-created or curated, whether with attribution to some team or anonymously, in effect, cult leaders or religious figures. Because you can presumably ingest vast amounts of data about a potential target population, or craft a particular figure who is nearly indistinguishable from a photorealistic human.
+
+And China has already, of course, China is far ahead on a lot of this. And they’ve had, even as recently as I want to say, maybe two years ago, so I’m sure the technology has improved dramatically, but they had real newscaster, AI newscaster, same person, side by side. And the test was to see if you could tell the difference. And it was hard. It was really hard.
+
+Jane McGonigal: You are hitting on something very important. We are definitely entering into decades of essentially cognitive warfare, and we are definitely going to have to protect ourselves.
+
+One thing that I’ve seen, that makes me pay attention, I want to be alert to this future, is the blending of people in your social network with the face of this artificial persona that they — 
+
+So let’s say there’s a cult leader that they want to establish a following around. You can blend that person’s face with the face of a person’s mother, father, romantic partner, and create, it’s just the slightest tweak. You and I would think we were looking at the same cult leader face, but the algorithms can go to your social network, pick your closest relatives, or people you interact with most often on the network, use their faces to slightly transform the face of the cult leader, so every single one of us is seeing — 
+
+Now I haven’t seen examples of cult — they’re just doing this in studies, right? Just to be clear. And then people trust. They say, “How trustworthy does this person look to you?” Well the trust goes up when their faces are blended with the faces of our — 
+
+Tim Ferriss: I guess it depends on the relationship with the family member. But yes, I get the basic idea.
+
+Jane McGonigal: So it’s not hard to imagine how this — it’s like trust warfare. It’s taking people that you have trust in and hijacking it to build your trust. They can do it. Right now it’s being positioned primarily for politicians, as a way to make yourself look like somebody a person would want to vote for. You just slightly morph your face to look like someone’s mom. Or for marketing, to make spokespeople more relatable.
+
+100 percent, we’re going to see that happen. Like 10 years from now, you and I are going to be like, “Ugh, can you believe that?” Well of course we believed it, we were — so the game becomes, what do we do about it? How do we — 
+
+And so a lot of people are interested in moving to more of an audio culture, an audio information culture, because there’s so much deep fake video, and so much deep fake imagery being generated by AI, that we might have a longer timeline where the audio landscape is more factual or trustworthy.
+
+Tim Ferriss: Oh, I’m going to push back and say there’s deep fake audio already.
+
+Jane McGonigal: There is, yes.
+
+Tim Ferriss: Horrifying, horrifying.
+
+Jane McGonigal: But most people — but this is great. I love how you’re pushing back, because I’ve — the technology exists, but what does not exist yet is the data sets. So whereas we have facial information about virtually everyone on the planet — 
+
+Tim Ferriss: Unless you’re me and you’ve recorded 600 episodes of a podcast. I’m fucked!
+
+Jane McGonigal: Podcasters are the first people at risk here. So I think about that future, because I’m often asked by technology companies to think about unanticipated harms of their products and services. They don’t want to wake up in 10 years and realize they just destabilized democracy again, or what have you.
+
+So all of these smart speakers that we talk to, and so we’re talking to Siri, or Alexa, or the Google Assistant. Well that’s learning a lot about our voice. And it may be that early adopters of those devices, if those systems get hacked, are at a new kind of privacy or security risk.
+
+The way we used to worry about our Social Security number being hacked, maybe our audio signature being hacked might become — but this is still in the realm of play. I still think this is fun to imagine. It’s not as serious enough. It’s not like the alpha-gal syndrome where like, oh, we should really do something.
+
+Right now we’re just playing with ideas, and we’re thinking about how our actions today could lead to a better, or a weirder, or a riskier world.
+
+Tim Ferriss: Well, let’s get weird. So I encourage people to listen, also in my last conversation with Eric Schmidt around AI, it may make you want to curl up into the fetal position and just weep. But I think a lot of these things are closer than we expect.
+
+And so that leads to my next question, which is one I probably wouldn’t ask Eric, but I will ask you, because we’ve spent some time together, and I feel comfortable asking you because your breadth of exposure and thinking is very wide in this world of looking into the future.
+
+Let’s talk about two things, I guess, physical augmentation and manipulation, so let me say one thing about what you just said also earlier. If someone has data on your likes and interests, presumably one could — you like Rihanna? Great. When we show you an ad for a fill in the blank and we know you’re a female, we’re going to take 10 percent of her attributes and blend them into whatever AI face is talking to you.
+
+But if we look at, for instance, some of the trends that I’m already seeing, my girlfriend showed me a number of filters on Instagram that I could not believe. People are using these filters and it turns them into nine or 10 out of 10 attractiveness models. It’s pretty mind-boggling to see the side-by-sides. And so my next question’s going to be related to porn and virtual sex.
+
+Jane McGonigal: Oh.
+
+Tim Ferriss: Because younger, as I understand it, and I don’t have the direct source or citation for this, but it seems to be that younger generations are actually having less and less sex.
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: And there could be many different causes. There probably are many different causes. But it would seem to me that in a world of ubiquitous beauty, if people are able to modify that, and ubiquitous extreme sex, that a certain insensitivity develops, where the real world pales in comparison.
+
+Jane McGonigal: Mm-hmm (affirmative).
+
+Tim Ferriss: And as I follow VR, less so AR, but VR reasonably closely. And I do think Ready Player One is probably closer than we would like to think. But I imagine when you have technologies like Neuralink and direct computer brain interfaces, which could be good for a lot of things, but my feeling is that virtual sex and immersive porn is probably not going to use haptic suits, so these suits that just have a vibration in your chest or something, is very dissatisfying.
+
+Ultimately when it gets to certain types of things, like if you’re getting shot by a ghost in a video game, fine, but if you are having sex with someone, probably not the sensation you’re looking for. But it seems to me that, as with many technologies, porn is going to probably drive a lot of the pushing the envelope.
+
+Jane McGonigal: Yeah, for sure.
+
+Tim Ferriss: So this is a very, because no one will ever admit to going to PornHub, and yet it’s like the fourth-most-visited website in the world or something. How far away do you think we are from that? Or how do you think about this?
+
+Because I think the destabilization that it will exert, not just upon people, productivity, the disruption of relationships, possibly procreation, putting aside all the kind of Children of Men movie type scenarios, which is a whole separate thing, that this could even be, I could see it being weaponized, where politicians get involved because of the macro effects that these things have.
+
+Maybe I’m just spinning a science fiction novel.
+
+Jane McGonigal: Oh, man.
+
+Tim Ferriss: But what are your thoughts?
+
+Jane McGonigal: Okay. I’m taking so many mental notes as you talk. By the way, Tim, you are an excellent futurist.
+
+Tim Ferriss: Thanks.
+
+Jane McGonigal: I want to invite you, you have visited me once at the Institute for the Future. I would like to invite you back sometime. I want to pick your brain for some of your wild scenarios, because they’re informed. You talk to so many interesting people that you hear these signals coming.
+
+So let’s see, okay, first of all, yes, definitely. Porn is almost always at the vanguard of new technologies. It’s one of the biggest drivers of, like sex and porn will drive adoption of new technologies. There’s a huge interest in neural implants, as you suggest. I do think there is considerable interest in developing neural implants.
+
+First wave will be for mental health, for treating intractable depression and suicidal ideation. That will be the first wave. Second wave, maybe sex and fun. And you could definitely imagine a society in which our orgasm needs are met by a neural implant rather than through physical sex.
+
+And what I find fascinating to think about is, could we map out all of the possible consequences, maybe some positive, maybe some negative, but what happens when we don’t have to have physical encounters, essentially, to have sex? And we are already, we’re seeing that through porn. But the difference between neural simulation is it wouldn’t need to use imagery.
+
+So I actually think it would be better, in some cases, to get an orgasm through neural stimulation rather than through porn, because a lot of the porn that’s being created today is, I think, really — what’s the word I want to use? There’s a lot of violence in it that, if you look at the research for why younger people are having so much less sex, the biggest reason that’s coming up in the research right now, is that women see the choking, the slapping, the hitting in the porn, it’s become normalized, and they don’t want to be choked, and slapped, and hit.
+
+They see sex as more violent than it traditionally has been. And so we’ve got this whole generation of young women who look at the imagery that’s being consumed and produced, and think, I don’t know, that doesn’t seem like something I actually want to be experiencing.
+
+If we didn’t have to be creating these visual representations, and we could — people might actually come back to sex if they weren’t being shown versions of sex that they personally did not want to participate in.
+
+Tim Ferriss: May I add something to that?
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: So I think it’s — 
+
+Jane McGonigal: Because it’s all crazy and hypothetical.
+
+Tim Ferriss: Yeah, no, I think a huge part of it is that males become desensitized to the appeal of, let’s just call it, every day or normal sex. Because if you can have a threesome, a foursome, with like nubile young women who will enthusiastically do anything, even if it doesn’t include violence and these other acts of aggression. Let’s say it’s not that. Let’s say it’s just all fun and games.
+
+But if you had access on demand to the most outrageous fantasies that you could possibly have, instantaneously with broadband, I think there is a desensitization. Also, I think sex drive from males who are, I think if we want to call a spade a spade, typically initiating interest or sexual advances, if they are constantly depleting themselves physically, there are physical self-regulatory mechanisms that will lower sex drive, right?
+
+Jane McGonigal: Mm-hmm.
+
+Tim Ferriss: So I do think that’s a huge part of it. I wonder — 
+
+Jane McGonigal: Right. And it could change culture. If men are just acting differently, if women are acting differently, so much of society is right now oriented around finding sexual partners.
+
+Our grooming, our physical routines, our social encounters, our dreams, our hopes that we imagine for ourselves, if we were to put that time or energy — now let’s say, but I’m positing that we’re not getting addicted to the stimulation. It’s highly regulated, in the way that you can’t buy more than X amount of stimulant medication, it’s controlled. I’m assuming it’s going to be controlled. If it’s not, we’re in a lot of trouble. But yeah, people just pouring their energy, their male energy, their female energy, their genderqueer energy into whatever else they might want to do other than just trying to find a mate is going to be really interesting. In a way, it’s as radical as not having to work 40-hour workweeks and the time and energy that frees up for other things, if we’re not — yeah.
+
+Tim Ferriss: Oh, I think it is so fundamental that I think it’s going to rock everything, because I was looking up the source. Oscar Wilde said, “Everything in the world is about sex, except sex. Sex is about power.” Now, putting aside the meaning or the interpretations of the last line for a second, which I think is interesting, but that’s a whole separate podcast, but it’s like if you look at — I’ll just speak from the male perspective, because the vast majority of what men do in this world, certainly up and sometimes exceeding the point at which they have kids, revolves around preferred mating abilities. That’s it. It’s like all of it, the fucking cars, the fucking money, the power. It’s all going straight to sex. So when you start to remove that incentive in the real world, holy shit.
+
+Jane McGonigal: Oh, my God. I love it. Okay, Tim, 100 percent I’m committed. I want to simulate this future. So we have a scenario club, a new scenario club at the Institute for the Future. It’s like a book club, but you just come and talk about different future scenarios each month. We imagine ourselves and what might happen and the ripple effects. I’m going to do this year a future of sex scenario for our scenario club, which, by the way, is open to the public. So I hope people listening who have their brain on fire thinking about this possibility that you have put in front of us, they should come to Urgent Optimists, which is our future imagination club, and they should join scenario club and come imagine the future of sex with us this year, because you have planted that seed. I’m going to water it. We’re going to see what it grows into.
+
+Tim Ferriss: On which website can people find that?
+
+Jane McGonigal: That is urgentoptimists, plural, because there’s a bunch of us, .org.
+
+Tim Ferriss: Got it. Okay, urgentoptimists.org. We’ll also put it in the show notes.
+
+Jane McGonigal: Cool.
+
+Tim Ferriss: So lest we allow the apathetic youth amongst us just turn into some version of 12 Monkeys or worse, encourage everybody to rewatch that movie, by the way. You should also rewatch Ready Player One and Children of Men and possibly reread Snow Crash. But that’s a whole separate thing.
+
+Jane McGonigal: We need more movies about futures we want based on that list that you just read.
+
+Tim Ferriss: I know. I know, although we were chatting before recording about my conversation with Margaret Atwood, and she writes a lot about near-term what people would consider dystopian futures, but she’s very optimistic, which is interesting. So let’s talk about cultivating optimism or definitions of optimism. What is urgent optimism?
+
+Jane McGonigal: So urgent optimism, that’s actually a phenomenon I first identified when I was studying the psychology of gaming. So something interesting happens with people who play video games often, is there’s a certain neurocircuitry pattern that gets really strengthened and easy to activate that involves the reward system and the learning centers that makes us feel like, “I got this.” It’s like the neuroscience of, “I can do this,” and we feel more physical energy, more mental focus, more hope that something good could happen, more expectation that we can make something good happen through our own efforts and actions and abilities. What my research eventually showed was that essentially, every video game is like a psychological experiment. It’s like a training ground around to convince people that they have power, right? You go into the game. You make choices. You take actions. The virtual world changes. You get better. You’re improving your skills. You’re achieving goals, this whole experience and journey of essentially building this sense of power that we have to impact the world and how the future of the game turns out.
+
+What I’ve tried to do in my work is figure out, how do we develop that sense of power and the real ability to get new skills and achieve more ambitious goals in relation to reality and in relationship to the future so that we’re not just feeling this when we play a game, but when we think about the future of sex or the future of food or the future of religion or the future of democracy, whatever we want to think about, that we feel that same sense of urgent optimism that, “I know for sure there are things I can do today that will impact how the future turns out for the better through my own power?” There are three habits that you can practice that build urgent optimism. By the way, the best way to do it is just to play these future simulations. That’s the fast track. That’s the cheat.
+
+Tim Ferriss: As you’ve probably noticed, when I play out the future scenarios, I almost always go negative. That, I think, is part of my superpower. So it’s like I saw COVID coming from a mile away. I was able to prepare, make a lot of decisions that were great decisions early, but I’m constantly future pacing to the next disaster, right? People like what they’re good at. It’s like stretchy, flexy people like yoga, even if yoga didn’t make them stretchy, because they get to be like the Michael Jordan of the hatha flow or whatever the Hell.
+
+Jane McGonigal: Good. I’m glad you said that. So urgent optimism does not mean thinking that everything is going to be good. It does not even mean imagining better futures. In fact, urgent optimism is often something we develop by thinking about, as you said, the next risk or threat or disaster. But the key is we have to practice these three habits, and we have to take it to a full cycle. You might be stopping someplace where it doesn’t actually feel good yet. So we’ve got to do these three things to feel good.
+
+The first step is mental flexibility. So mental flexibility, it’s the opposite of having a fixed mindset or being stuck in assumptions that the future will be like the past. So to get mental flexibility, you’re always looking for these signals of change. You’re paying attention to weird stuff that’s happening that maybe has never happened before. You’re putting your ear to the ground so that you can notice change faster.
+
+One way you can increase mental flexibility besides just trying to pick up on these signals of change is just to vividly imagine scenarios that other people would describe as unimaginable or unthinkable. So we are just trying to go to this future of sex with the neural implants, or we’re going to the future where we can’t trust video or faces anymore. When you put yourself into this future and you just, “What would it feel like when I look at my computer screen? What emotions am I feeling? What am I seeing that I’ve never seen before?” that overcomes a normalcy bias. So the first thing you’re trying to do with urgent optimism is just to not be the person who gets stuck saying, “That could never happen” or “Ugh, I don’t know. I can’t even imagine it, so I probably don’t have to worry about it.” We’re trying to improve our ability to imagine things that have never happened. So that’s mental flexibility.
+
+The second practice is realistic hope. So realistic hope, and I’ll give a really good trick for this, but realistic hope is having a balanced mindset, where you are both aware of the risks and threats it makes sense to worry about and prepare for and ready ourselves for, but also all of the new technologies, the new policy ideas, the new solutions, social movements, all the positive stuff that could make a better future or help us avoid these risks or transform it into something that is a world we actually want to live in.
+
+One of the simple habits that I teach people to do is just go to Google and type “solution” for whatever problem you’re worried about, “solution to climate change.” Instead of just worrying about climate change, type it into the Google News and see what weird solutions — learn more about carbon capture. Learn more about geoengineering and solar radiation management. We have to fill our brain with the pathways forward as we’re also holding in mind the risks and threats. Most people tend to have more of one than the other. So we’re trying to balance it out.
+
+Tim Ferriss: Who, me? Who, me? I just want to add one quick thing, because this is a good place to put it. Just in the process of doing research for this conversation, I found another example of using Google that might be — this is from you, that might be helpful also for that improvement of future-focused imagination of the so-called impossible or unimaginable, and that is making a list of things you’re interested in, like food, travel cars, city you live in, shoes, dogs, music, real estate. This is from slate.com, and I think it’s from one of your courses at Stanford, which is “How to Think Like a Futurist,” and it is once a week, just do a Google search for the future of — 
+
+Jane McGonigal: Yes. Once a week. So I say make it Fridays, future Fridays, easy to remember.
+
+Tim Ferriss: I like that.
+
+Jane McGonigal: You just type into Google, and I suggest Google News, because what you’re looking for is new stuff that you don’t already know about. So you want the latest. Yeah, you type in “future of food,” and you can learn about, let’s say, lab-cultured meat. Maybe that’s something that you would be interested in knowing that. Maybe you’re a vegan today for animal cruelty reasons, but in the future, there will be actual meat tissue grown in a laboratory condition without an animal having to be killed. That might give you hope for the future if you would rather not be vegan, but you have your ethical concerns. So yeah, you just type it in, future of whatever, and collect. That’s the signals of change, and it helps you build your mental flexibility. “I don’t have to be this way my whole life, because the future might give me a different opportunity. Things don’t have to continue the same way. We can do it differently.”
+
+Tim Ferriss: So I think we got through two, right?
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: We got through realistic hope. What else do we have?
+
+Jane McGonigal: You’re mentally flexible. You’re practicing realistic hope. The last thing is future power. Future power means you can make a list of things you can do today that help you either be more prepared for the risks and threats you’re worried about or prepare for an opportunity in these future worlds or that will change the world in the way that you want it to change. So you’re collecting these just little actions. So should I give you a few examples of things — 
+
+Tim Ferriss: Yes, please.
+
+Jane McGonigal: — that have been good for me? Okay. Learning how to operate a drone, for me, very empowering. Drones are clearly going to be a huge part of our culture and infrastructure in the future. I want to know how to operate one, particularly the ones with cameras, because that is really interesting to me. It’s interesting to me for art, for storytelling, for journalism, for documenting human rights violations or being a witness to things that the world needs to know about. For all of these reasons, I just ordered not an expensive drone, a cheap drone on Amazon, and learned how to fly it, and I taught my kids, who are seven years old now, right? I taught my daughters how to use it, too, because it’s just something fun and easy we could do to be ready for a future in which it would be good to know how to use a drone. Another one, have you heard of adversarial makeup?
+
+Tim Ferriss: No, I have not.
+
+Jane McGonigal: All right. You’ve got five minutes. Go find a YouTube video for how to apply makeup that interrupts the algorithms used in facial recognition — 
+
+Tim Ferriss: Oh, that’s cool.
+
+Jane McGonigal: — because during the pandemic, people were like, “Well, we’ll just wear masks. If we don’t want to be surveilled by our faces, we’ll wear masks.” Well, during the pandemic, there were so many people masking that all of the big facial recognition companies had to learn how to recognize people just by this little band of our eyes, and the pandemic actually inadvertently made these huge advances in facial recognition, because companies, now they only need to see this little bit. But you can apply eye makeup to throw these algorithms off their game, and it’s better than wearing a mask, I think. It’s more comfortable, it’s more social, and it’s fun and it’s expressive.
+
+So yeah, we might wake up in a world not too far from now where people on their phones have facial recognition apps. We’re not just talking about the government or police having this technology. We’re talking about it being in every dating app, in every social network. “Who’s that person?” Click, learn all their stuff about them. So you want to be ready for this future? Take five minutes. Learn how to apply makeup to interrupt it. Can I give you one more? Because I’m — 
+
+Tim Ferriss: You can give me five more, if you like. I’m not in a rush.
+
+Jane McGonigal: So one thing that I really want to recommend people do in five minutes if they haven’t done it yet is to install an app on their phone that can be used to create a mesh network. So do have any mesh network capabilities on your phone? Yeah.
+
+Tim Ferriss: Yeah. On my phone, no. I don’t think I do on my phone. I have used mesh networks, and I’ve used them at home. But please explain this phone example.
+
+Jane McGonigal: Yeah. So you can get an app like Bridgefy, and what they do is if the internet goes out during extreme weather, during a government-mandated internet shutdown, which happens in dozens of countries right now. India’s a big internet shut-downer to control information and prevent people from organizing. So you can essentially make your own internet, right? So if you have enough people with this mesh network on your phone, you can communicate to somebody’s phone within a football field’s distance, and they can communicate to someone a football field’s distance. So if you get a community or you get in an urban center or a bunch of people, you can essentially recreate the internet using just the Bluetooth capacities of your devices.
+
+Now, Amazon is actually trying to do this as well secretly. If you have a smart speaker from Amazon, they want to essentially have it be ready to act as a mesh network, which, on one hand, people are like, “Oh, I don’t want information being connected with other people’s devices.” But to me, my mind goes to the future, where the government’s shutting down the internet for cybersecurity or to stop misinformation or because it’s an authoritarian government and they’re shutting it down, and we have a company like Amazon being like, “Not so fast. Here comes our mesh network,” and they bring up this totally alternate internet that can’t be stopped by the government, which, by the way, in the United States, it’s written to the Constitution the president can shut down the internet. Legal scholars have recently looked at this, and basically the same Communications Act that allows the president to shut down mail and phone, he could shut down the internet, too. She could shut down the internet. So get your phone ready to make your own internet. Put an app on, five minutes.
+
+Tim Ferriss: So I have not used that yet. I will. I’ll try it out, although I guess there might be a chicken and the egg situation. Do you need to convince other people to do it, or is it just — 
+
+Jane McGonigal: Yeah.
+
+Tim Ferriss: — or is it like Google Maps, where it’s gathering data because so many people already have it installed?
+
+Jane McGonigal: There has not been a tipping point yet, I would say. You’re getting there early, as we like to say at the Institute for the Future. You’ll be one of the people who lets others know, “Hey, get your phone ready to be in a mesh network in case we need it.” So right now, yeah, spend the first five minutes putting it on your phone and test it with someone you live with, a friend, a partner, whatever. Test it so you know how to use it, and then if you have to converge in an urban center at some point in the future to recreate the internet, you’ll be ready, but it’ll help if more people have it. So you might spend five minutes also telling someone else to put it on their phone.
+
+Tim Ferriss: So another technology that I don’t understand well, so the engineers and computer scientists out there may have criticisms, but is Helium, which is in effect to create decentralized wireless infrastructure and is very much Web3-based. I didn’t realize that helium.com — that must have cost a nice pretty penny. Hope they had a good broker for that. But what you’re describing and then thinking of Helium and other alternate communications means, have you done — I imagine you probably have, scenario planning, and we are going to come back to these three steps. I’m going to ask you about specificity training also. But before we do, let’s talk about blackout scenarios, so whether that is through cyber attacks, and this is very current news, right? The possibility of cyber attacks on the grid, the possibility, although I think it’s less likely, but a brute force attack with, say, an electromagnetic pulse bomb over the Great Lakes or something like that. There have been books written by people I would consider informed and credible about this type of threat. Have you done any scenario simulations around that?
+
+Jane McGonigal: I did do a simulation called Dark After Dark, where we asked people to practice not using anything with an artificial light source after sunset. This is for a slightly different scenario than the blackout scenarios, but it was an interesting way to develop essentially callouses for a world in which you might not be able to open up your laptop or turn on your — that we would have darkness, true darkness again. That was an experiment in just how people’s behavior would change and how much they were willing to change. So it’s more of an experiment than a future forecasting, serious future forecasting effort. But I absolutely think it’s worth preparing for. Just even in general, the reliability of our power grid is very much weaker than it used to be. We saw what happened in Texas. Suddenly there was extreme cold.
+
+Tim Ferriss: Oh, I was there.
+
+Jane McGonigal: You were there for that, Tim? Oh, my gosh.
+
+Tim Ferriss: I was very involved in trying to get water and so on to people who — if that had gone on three more days, there would’ve been thousands of casualties.
+
+Jane McGonigal: Yes, yes. Absolutely.
+
+Tim Ferriss: We just got lucky. It was pure, just meteorological luck.
+
+Jane McGonigal: Yeah. So two things around that. So one is be aware, right? So now we have mental flexibility, that maybe we can’t expect the power grid to be as reliable in the future. That’s the first step, right? We acknowledge the possibility, right? Then we look to places where we might have more power to avoid or survive or change it, right? So a lot of people that I know are thinking about climate migration right now. They’re starting to think about — 
+
+Tim Ferriss: Yeah, yeah. I’d love to hear more about that.
+
+Jane McGonigal: Oh, that’s my obsession.
+
+Tim Ferriss: Oh, please.
+
+Jane McGonigal: Climate migration is my number one personal mission I’m on to prepare people for up to a billion people to move and possibly to have an incredibly more open and transparent immigration system than we have today so that people aren’t trapped behind borders and climate Hell, but also in our own lives, even moving internally within our country. In California, so many people I know are like, “I don’t know if I want to live under extreme wildfire threats for three or four months a year. I don’t want to live with this air pollution from the wildfire smokes. I don’t want to live with power being preventively cut off.” I don’t know if you’ve had this experience, where I live.
+
+Tim Ferriss: Oh, I was in Cali and we had PG&E rolling blackouts and all that stuff.
+
+Jane McGonigal: Yes. Yeah, and they just shut it off, because they haven’t put the wires underground. So when there’s winds, they just turn off your power for up to a week, and you’re expected to work and learn and live and cook, even though literally they’re just like, “No power today.” So we have to think now about where we’re willing to live or what we’re going to raise Hell about, like getting power lines underground. I don’t think a lot of people have that as their number one thing to protest and raise Hell about, but we might want to think about securing our power grid as something as worthy of radical activism as what we’ve seen social movements in the past around.
+
+Tim Ferriss: Is the getting lines underground, aside from being more aesthetically pleasing, is that to prevent easy sabotage, or are there other reasons, in your mind?
+
+Jane McGonigal: It’s just more secure underground in every way. In California, we are having more wind, high wind events.
+
+Tim Ferriss: Right.
+
+Jane McGonigal: So they just snap, and then they spark a fire. Then it’s three months of Hell. So that’s the main reason. But yeah, it increases security overall. So one of the games at the back of Imaginable, it’s called Welcome Party, and it’s an invitation to explore your own tolerance for climate risk. So there’s a set of questions to ask yourself. At what point is it a tipping point for you to leave? How many days without power a year? How many days of extreme air pollution? It’s just asking these questions now so that you don’t wind up like the frog in boiling water who never hops out, right?
+
+Tim Ferriss: Yeah, totally. Just a recommendation. I’ve got to throw something out there, because I live in Texas, clearly a broad spectrum of political allegiances and a broad spectrum of beliefs that go along with that, if you accept whatever the party has as its 10 Commandments and so on. I think that climate change can provoke a really strong negative response in a lot of people. But if I simply word it as increased extreme weather events, you sidestep the whole thing. Another piece I would say is whether or not you believe that this is human-caused largely or in part, skip that part of the — I know this is going to be controversial, what I’m saying. Just to get the foot in the door, if you’re talking to someone who may be resistant to that, because that will be one of the first fights that many people want to pick, you just say, “Forget about that. Let’s say this is a natural event. Nonetheless, if we want to actually maintain our infrastructure and do A, B, and C, we have to contend with extreme weather events.”
+
+Jane McGonigal: Absolutely.
+
+Tim Ferriss: So let’s just assume it’s all natural. Doesn’t absolve us of the necessity and advantage of thinking about how to cope with these. Specificity training, what is specificity training? I know these two words separately, but in the context of what we’re talking about, what is this?
+
+Jane McGonigal: Can I put a pin in that really quickly? Because I just thought of one practical thing.
+
+Tim Ferriss: You can make it a pin cushion. Make it a pin cushion. Go crazy.
+
+Jane McGonigal: I was just thinking of one practical thing we could do that your listeners might like, which is can I just tell you the three questions that you can ask to measure your urgent optimism and give you a sense of which of those three habits or skills you might want to practice more?
+
+Tim Ferriss: Yes, absolutely.
+
+Jane McGonigal: So it’s really simple, and I like to say you can pick this for any topic. So it might be the future of psychedelics for mental health treatment might be something you’re interested in, or it could be the future of college education. So pick a specific topic, and then you ask three questions. When you think about the next 10 years, how much do you think this topic will change on a scale of one to 10? So one is almost no change. Everything stays the same. 10 is extreme change. Almost everything is dramatically rethought or reinvented, right? So on a scale of one to 10, how much change do you expect, one to 10?
+
+On a scale of one to 10, when you think about changes that are likely to happen in the next 10 years, are you mostly worried or mostly excited about them? So one is extremely worried. 10’s extremely excited. Then one to 10, how much influence or control do you have personally in how this change happens? So one is almost no control or influence and 10 is almost complete control or influence.
+
+Not only is it helpful for us to think, “Oh, I need to practice some more realistic hope, find some reasons to hope if I have a low number” or “I need to pay more attention to the World Economic Forum’s Global Risk Report if I’m at a 10. Maybe I should try to learn more about the risks.” It’s so cool to share numbers with people, and man, do I love talking to people who are at sevens, eights, or nines on topics that I’m at a one, two, or three about. It’s super fun. So I just wanted to put that. It’s practical, fun for you. Talk to people about it, share your numbers, and think about how you might practically increase your urgent optimism on the ones that you have lower numbers for.
+
+Tim Ferriss: Could you give a personal example for yourself on a particular topic, industry, situation that we haven’t discussed yet? It could be one that we’ve talked about, if that lends itself, but that would be super helpful for me, because when I hear these questions, I can see the value in answering them, and I find that my default — I’m not asking for a solution to my particular malfunction here, but I think it correlates very highly to the existential malaise and apathy of a lot of young people, although I’m definitely too bearded and too bald to be considering myself young at this point.
+
+Nonetheless, though, I can answer question one pretty easily for most things, and then I think generally, I skew very pessimistic. I have a very Hobbesian view of humans in general, which is maybe another issue, and then three with respect to the agency. Sometimes I feel very little agency or I feel a lot of agency, but I don’t know if I want to be just going through just a forest of headaches and difficult humans with a machete for most of my time, if the upside is uncertain. So could you give an example of something in your life that you’ve applied these questions to?
+
+Jane McGonigal: Yeah, sure. Yeah, let’s go back to drones. So drones create a lot of anxiety in people, for good reason. They create noise pollution. They create visual pollution. They can be used for surveillance, remote policing, privacy intrusions.
+
+Tim Ferriss: Warfare.
+
+Jane McGonigal: Warfare. Right, and I started seeing drones just out in the world, seeing signs like No Drone Zone. I didn’t know, “Is that a law? Is that a recommendation?” I realized I didn’t know what the rules or policies were around drones. I didn’t know. Why are we spending so much time and money developing this technology? All I ever hear about are a lot of the risks. So for me, drone was a space that I wanted to explore and maybe build some urgent optimism, and not optimism in the sense of, “I’m going to become an evangelist for drones,” and I’m going to be like, “The future’s great. I don’t have to worry about it anymore,” but to increase my confidence that I can imagine a future with more drones, I understand what it might mean, the risks, the opportunities, and that there are things I can do to be ready for it or help shape it.
+
+So I started talking to people, looking on Google Scholar, finding drone hobbyist communities. What are people using them for that is not terrible, right? So I learned about witness.org actually has a drone training program for people to document war crimes, human rights violations, authoritarian governments doing terrible things to create irrefutable evidence, right? So to be a witness for this, drones as a form of activist journalism and documenting reality. I learned about the emotions that we feel when we look at aerial footage. So drones, it turns out, can create a visceral feeling that I don’t even know if we have a word for it yet. It’s a strange new positive emotion where we have almost this godlike omniscience, because we’re seeing everything from above, but we’re moving. We’re swooping through the air like an eagle. There’s an incredible new positive emotion that we don’t even have a word for yet that artists can use, storytellers can use, therapists can use, by using drones to give us a viewpoint we’ve never seen. Did you want to — yeah.
+
+Tim Ferriss: I was just going to say my ask of my audience is somebody come up with a clever German word for whatever that feeling is and put it online, because there’s got to be some way to slap a bunch of adjectives and nouns together into a word that’ll get that done.
+
+Jane McGonigal: Thank you, Tim. That is an amazing suggestion. What else did I learn? I went to Google News and was like, “Just show me what people are doing with drones right now.” I learned that just a couple of months ago, the first organ was delivered for transplant, that they couldn’t get this organ. I think it was a heart. They couldn’t get it there fast enough, except for delivering it by drone. So the first emergency medical delivery.
+
+So learning about the positive uses, while also learning about, “Well, what are the rules and policies? Who decides?” To me, it became fascinating rather than anxiety-producing to expose myself to, “Who is in charge of drones? Is it the FAA?” Yes, in part. “Is it local parks and recreation?” Yes, in part, because in order to have future power, we have to know who’s making the rules, right? Because I need to know what the rules are, who’s shaping them, who’s advocating for what. Building urgent optimism, it’s like following a string out of a labyrinth. It’s like you’re taking all these twists and turns. You’ve got your radar up, so you’re going to hear about weird new risks. You’re going to hear about cool new uses. And I like to think it’s just like, it’s essentially a process of opening your mind. And if there’s something you care about, these habits of looking for the clues and if you’re negative looking for well, who’s excited, and what are they excited about, to create the balance.
+
+Who’s in charge, who has power now, so you can even understand where power is being concentrated. What are the companies that are most advanced in this technology? It’s literally just, it’s a practice. It’s a practice like meditation, where we just have to show up with this curiosity, actively collecting these clues every day.
+
+Tim Ferriss: So I can see how the pursuit of the metaphorical drone, as you follow the strength through the labyrinth with doing this type of data collection, would help a lot with answering question number one. When you think about the tech in the next 10 years, do you think things will mostly stay the same or will they change tremendously, one to 10? Number three, I can see how you’d figure out what you may be able to do, whether that’s learning the technology, whether that’s buying a predator drone to take out other drones.
+
+Jane McGonigal: I love it.
+
+Tim Ferriss: Which are being used in many contexts, including sporting events. And so you could figure out from an agency perspective, what you could do to increase the good, decrease the bad. I’d love to talk about mostly worried to mostly optimistic, one to 10.
+
+Jane McGonigal: I got you.
+
+Tim Ferriss: And this is a very personal question because I tend to focus on the negative because I’m like, hey, we didn’t last this long by under reacting to threats, right? Humans are programmed to overreact to threats for survival purposes. And not saying that should be the case, but it’s like, even if we’re all screwed and going to die in a fireball of self-imposed disaster, there are times when I would like to not think about that and be more optimistic.
+
+Jane McGonigal: Yeah.
+
+Tim Ferriss: Even if it’s a suspension.
+
+Jane McGonigal: I got you. I got you, Tim. I mean, that is literally why I run social simulations because I don’t want you going into this mental spiral of doom and gloom. First of all, people are at different places naturally, in terms of pessimism or optimism, anxiety or hope. Just we’re born that way, there’s a hardwired nature. There’s a biological component.
+
+When we do these social simulations, when we play with scenarios together, you come to the scenario club, you’re going to be exposed to all of these different points of view. And it’s why it works for me, Jane McGonigal, the game designer, to have become a futurist because like, what are the most fun games to play? It’s really not the game you play by yourself. It’s the game that you’re playing in big groups.
+
+Tim Ferriss: Unless it’s VR, Neuralink porn, then maybe. Yeah.
+
+Jane McGonigal: Good callback, right? But I mean, we really like these big game worlds we’re all playing together. It’s World of Warcraft, it’s League of Legends, it’s Pokemon Go. We want to be in community. We want to be a part of a bigger game. So Tim, you’ve got to get out of your own head. Right. But it’s good because it’s easier than, I mean, you can do this yourself. You can go look for sources of hope yourself.
+
+So for example, in Urgent Optimist, we have a week-long signals of hope scavenger hunt. Every month, it’s a group chat. You just sign up for the group chat and everybody sends each other the signal of change that makes them feel most hopeful for the future. And we have different categories that you can go look for. Show me a signal of hope around the future of food. Show me a signal of hope for the future of climate adaptation.
+
+I mean, you’re basically flooding your brain. It’s an active habit. You have to intentionally expose yourself, go look for these positive clues. But if you’re not good at it, then get yourself in a community. The same way, when I learned to meditate, I didn’t do it by myself. I went to a sangha and I went to sit in a room full of people who already knew how to meditate, so that I could develop that skill and be held accountable. And so I like to do this futures work with a community to hold each other accountable, to see the risks, and to see the reasons to be optimistic.
+
+Tim Ferriss: Teamwork makes the dream work. Yeah. I do need to get out of my hamster in a wheel, in my own head. I’m going to mention a few things and then I’m just going to pass the baton and you can pick up whichever one you want. I know I’m mixing up my singular and plural here, but okay. Choose your own future forces, journal from future or journal from the future, the first five minutes of the future, which of those would you like to snack on right now?
+
+Jane McGonigal: Great. Well, we did put a pin in specificity training.
+
+Tim Ferriss: Oh, yes. We did.
+
+Jane McGonigal: Absolutely perfect. So journaling from the future, it’s a form of specificity training. So what is specificity training? Most people, when they try to imagine the future, there’s just too many blanks, right? If I were like, imagine yourself waking up 10 years from today, it’s like, your brain is like, uh. You could imagine yourself waking up tomorrow. You know what room you’ll be in, what bed you’ll be in, maybe what you’re sleeping in, what your body will feel like, you have your particular moment in time.
+
+If I say “10 years from now, are you going to feel better or worse? Are you going to be with a different partner or not?” We don’t know. “Is there going to be extreme climate change, and you’re going through some extreme weather?” It’s harder to fill in the blanks. So one way that we train our brain to be able to think more effectively and creatively about the future is through practices that increase the specificity of our imagination, the number of vivid details.
+
+And you can actually measure. If somebody’s like, okay, I imagine waking up and it’s really hot because there’s extreme heat in San Francisco now, which is really weird. We didn’t use to have temperatures over 100, but now it’s like 110 every day. You could go back and count the number of details. 110, that’s specific. That’s more specific than just saying it’s hot and you can count every color, every sound, every emotion.
+
+I’m feeling dread because I don’t want to run my air conditioner or whatever. I’m feeling excited because I’ve access to this new thing. Every detail counts and you can score yourself on the specificity of your imagination. And one technique to improve the specificity of your imagination, which is linked to again, more creative thinking, more effective thinking, better strategies, more motivation to do something. Specificity is good.
+
+You keep a journal from the future where you write detailed entries of what you might experience as if they had already happened. So you have to treat the future like a memory, and you’re trying to capture it or you can think of it as journalism, but most of us are better at just writing a personal diary than some kind of journalistic account.
+
+And when I run these social simulations of the future, the main thing people are doing is just keeping a journal. So, okay. I woke up today and I got the lab results that I do have alpha-gal syndrome. I have initial sensitivity. This is how I felt. This is the time the phone rang. This is who I told, I told my husband first. You start to tell the story, you imagine it in vivid detail.
+
+The number one thing this accomplishes is that it obliterates normalcy bias. Once you have vividly imagined a future, it is literally imaginable and you will no longer deny the possibility. You will not underestimate the risk. You will spot evidence of change faster. This is why my book is called Imaginable, because we want to be able to imagine the world, either that we might wake up in, or that we create through our own actions that is better than a world today.
+
+Yeah, any of the scenarios that listeners have heard in this episode, they can just go do this now. Literally pull out a notepad. I find it works better when you write by hand because you don’t want to edit or censor yourself, so we recommend free writing. You set a timer for five minutes and just write for five minutes, whatever comes to mind with as many details as you can.
+
+Pick one of these scenarios, future of sex, future of deep fakes, future of whatever we were talking about, drone, art and storytelling, whatever you want and just write a journal entry from this future. It will literally change your brain forever. That future is now forever imaginable to you, and it only took five minutes.
+
+Tim Ferriss: Who’s Alvin Toffler?
+
+Jane McGonigal: Ooh, Alvin Toffler. Wait, before I say who’s Alvin Toffler, the other thing is when we write these five-minute journal entries, we can share them with each other, which is how we get out of our own head. So that’s another reason why you write it down, right? You don’t just want to imagine in your head, because Tim, I want to read your journal entry.
+
+Tim Ferriss: I’ve done enough of that.
+
+Jane McGonigal: So Alvin Toffler, he essentially created popular future thinking as we have it today. So in 1968, he wrote a book called Future Shock and it was coming at the end of this incredibly turbulent time in the United States where our gender norms were changing, there was the Civil Rights Act finally passed. The economy was changing. People were feeling like they were unmoored, new technologies.
+
+And he had the theory that if too much changes too quickly, that it is like a trauma. We get shocked. We feel overwhelmed. We feel paralyzed. We feel hopeless, unable to cope. And he was observing that there was almost like this mass trauma, too much future, too fast in the ’60s.
+
+And so he had this idea that we could essentially prevent future shock from happening in if we were better able to imagine the future before it happened and to prepare people, to actually train people. He had this crazy idea that didn’t really come to pass, where whole cohorts, whole generations, you would form clubs, almost like we have a book club today or bowling clubs. But you would come together to practice new futures skills and would become this rite of passage.
+
+Instead of getting a driver’s license, you come and you learn these like 10 new future technologies to prepare you so that you don’t feel shocked. And that does actually sound fun to me. So yeah, he was trying to get us ready and he kicked off the field and all of us who do futures work today, we owe him a debt of gratitude for recognizing that how we feel about change is a huge driver of society’s health and our own psychological wellbeing.
+
+Tim Ferriss: Now, I believe this is from the new book, Imaginable, as it relates to Alvin Toffler, that he had a maxim, which is truncated in front of me. But I’d love to just hear you explain or expand on this a little bit. “It’s more important to be imaginative and insightful than to be 100 percent right,” in quotation marks.
+
+Jane McGonigal: Yes.
+
+Tim Ferriss: Could you speak to that and any other sort of maxims of his that you like?
+
+Jane McGonigal: Well, here’s the problem with trying to be right about the future. And there are definitely people who are interested in this. There’s a whole other school of futurism called super forecasting, where you’re just trying to be as specifically correct as possible. What will the price of oil on this date a year from now? What is the exact number of troops that will be sent into this conflict? You’re trying to be very, and people try to be as accurate as they can.
+
+What Toffler was saying and what I believe to be true, is what’s the point of being right, other than you can feel smart? You can say, “A ha, I told you so!” Maybe you can protect or prepare yourself. But what if the future that you think is most possible, the future you think is most likely to happen, is not a good future? I mean, do you want to be right or do you want to actually prove yourself wrong and help us all wake up in a better reality?
+
+So this obsession with being correct about the future, even though I’m proud of having accurately foreseen certain changes or certain disruptions, I would be much happier if we never wake up in a world where alpha-gal syndrome is so common because we all got more interested in health and nobody gets tick bites anymore. Cool, problem solved. That was a stupid scenario, that never happened. I’d rather be wrong.
+
+And so Alvin Toffler is trying to encourage us and I encourage everyone, is we stretch the imagination to consider what’s possible. And we look for clues as to which possibilities are plausible and what might make an outcome more or less plausible and then we decide. We take action to make the future we want more plausible or take action to make futures we don’t want less likely. And that’s the power, not accuracy. It’s the ability to imagine and take action that we’re really trying to get better at.
+
+Tim Ferriss: I’m going to ask you about technologies or approaches or plausible technologies or approaches that you’re excited about or have spent time on related to extreme weather events, AKA climate change or carbon removal, et cetera.
+
+Jane McGonigal: Yeah.
+
+Tim Ferriss: But before I get to that, I’ll just say, I think one of my challenges in finding optimistic people to act as a countervailing influence to my inherent innate pessimism is, I’m so fucking tired of techno optimists who are like, “Yeah, yeah, yeah, yeah, we can do whatever we want; we’ll figure it out later.” That stuff drives me crazy.
+
+But to be fair, humans are really good at spotting obvious trends. And I can’t remember the exact timing, but at some point, the price of oil was going up, going up, going up, going up and someone projected, well, by this point in time, this day of the year, 10 years from now, five years from now, it’ll be a bazillion dollars per barrel.
+
+And China will overtake us and this, this, and this, underestimating or missing completely the fact that when the price of oil gets to a certain point, technologies that are currently economically unfeasible, that yet have not been created because the cost is too prohibitive, suddenly become very profitable, like fracking and so on. And so that predicted future did not happen.
+
+So there is something to be said for people underestimating the rate of innovation, but the kind of, “Yeah, yeah, it’s all going to be fine” techno optimist stance that you find at the extreme really drives me nuts. So I would love to know because it’s a personal interest, with climate solutions or generative agriculture, carbon removal, what do you think are some of the most interesting things that you’re seeing or expect to see?
+
+Jane McGonigal: Mm-hmm (affirmative). Very good. I’m so glad you asked this question because I don’t see these technological solutions as requiring techno optimism, so much as they require socio optimism, meaning that we would somehow find a way as a society to enact these potential technological solutions. So the very last scenario in Imaginable, and it seems to be everyone’s favorite, people just love it, is called the 10-year winter.
+
+And it tries to imagine how we as a society might decide to go all in on solar radiation management, which is a real geoengineering technology that has been, in many people’s opinion and my own, grossly under investigated and experimented with, because people are rightfully worried about unintended consequences. But many people also believe that there is absolutely no way to keep this planet inhabitable in as much space as we inhabit today if we don’t want to run out of two continents worth of livable space.
+
+We probably are going to have to do something to control temperature while we get to clean energy, while we stop carbon emissions, so that’s going to take a while. We may need to explore things like solar radiation management, where we just partially block some of the radiation, and so we’re trying to cool the earth by injecting sulfate particles into the atmosphere.
+
+There are scientists ready to test this. There are delivery devices that have been created. They want to send them up into the atmosphere. They want to test, can we send this stuff up there? We want to run simulations and models of, it might create maybe inadvertent flooding or flood risk. I mean, there are things that will have to be grappled with, but if we don’t start talking about and imagining it now, we’re not going to have time to actually develop the technology in the process.
+
+Who decides to do geoengineering? Are we going to let one company or one country unilaterally act? I mean, what if China just says, “Whatever, we’re done with climate risk. We’re going to solve this problem. We’re just dimming the sun for the whole planet, you can thank us later.” Is that going to be possible? Right now, the UN has a moratorium on all geoengineering experiments and efforts. It’s treated the same as setting off a nuclear weapon. They want to stop people from doing it.
+
+We need mechanisms to debate, discuss, educate, and innovate so that if we have to do this, we’re not doing it stupidly and we’re not doing it in crisis mode. So man, do I want people to start thinking about what would it be like to possibly have to make this call? Who do we trust to make it? How will we get informed consent from humanity to do geoengineering? That’s going to take a while to figure out. We need to start now, today, talking about how we will accept this risk, if we need to take it and how we will try to mitigate the harms for people who might be harmed by unintended consequences.
+
+Tim Ferriss: Yeah. It sounds like a great scenario to role play also because I can imagine, I mean, if you look at property rights in the United States, for instance. I believe that there is ownership of some degree of air space. I don’t know what the limitations are, but above one’s land property, let’s say. So I could envision, especially countries that are being hard hit, harder hit perhaps than other places in the first world or they may be first world themselves, deciding if it hasn’t been specced out already from a legal and political perspective, that they own the airspace extending all the way up to the end of the atmosphere. And God, it seems if we can’t coordinate around COVID on a global level.
+
+Jane McGonigal: Yeah. Exactly.
+
+Tim Ferriss: It seems unlikely that we’re going to get a calm conclusion/consensus and peace-building effort on this from politicians who are incentivized by short-term rewards, largely. And I should say, just because I want people to know this about you, that you also study incentives and we don’t have to spend a lot of time on this, but I do recommend that people read, I believe this was a piece you wrote for Wired. And it was in, tell me if I’m getting this right, it’s on wired.co.uk. But related to lotteries and social problems and using prize wheels, say, for inpatients who test negative for opiates and things like this.
+
+So I want people to appreciate that you’re not just waving your hands and saying, “Hope people figure it out.” You’re also studying the mechanisms by which positive rewards or negative rewards, right, in a sense, I mean, it’s hard to categorize this, but regret lotteries for weight loss studies, which you have to forfeit your winnings if you haven’t met your weight loss goals, which is actually super effective.
+
+Had an economist on the podcast recently who talked about the effectiveness of a claw back incentive, which is what that would be. Do you have any recommendations for people who would like to study incentives and how they might apply? Because we’re all self-interested creatures, and I guess the trick is to make us, whether we like it or not, being to act in enlightened self-interest. Even if it’s just to better ourselves, we end up bettering others. Any resources, they could be in any of your books, they could be in articles. If people wanted to learn more about incentives, do you have any thoughts?
+
+Jane McGonigal: Yes. Well, I mean, you should look for the new game theory. So old game theory, which comes out of economics and to some degree, political science, assumes that we’re all rational actors and we’re going to do what is almost mathematically the most optimized choice. We’re going to make it, we’re going to take it. And people were winning Nobel Prizes for it for decades. And people today, I think, are waking up to the fact that we make choices for all kinds of irrational reasons.
+
+And a proper game theory, a new game theory should take into account things like, we’re more motivated by regret, the fear of regret than other forms of psychological incentive that take into account that we actually like inflict suffering on people that we have a frustration or we have perceived slight in the past.
+
+We can be motivated intensely by humiliation. I mean, there’s so many incredibly powerful emotions that derive our behaviors and trying to essentially invent a new game theory that does not treat people as rational actors. Because if anything we’ve learned over the last couple years is that people will make very irrational decisions based on emotional and psychological drives.
+
+Tim Ferriss: Are there any names, any writers or places you would suggest people go if they want to dig into that?
+
+Jane McGonigal: Mm. What would be — 
+
+Tim Ferriss: They’d search on Google.
+
+Jane McGonigal: Let me come back to you for the show notes. Let’s send your fans to the show notes for follow ups on that.
+
+Tim Ferriss: All right. Perfect.
+
+Jane McGonigal: Because I want to get something good for them.
+
+Tim Ferriss: Okay. We will add those to the show notes, everybody, tim.blog/podcast. And just look for Jane. You can search Jane. You’ll be in good company. You’ll be right next to Jane Goodall. So you will have all the superstar Janes in one place, and you can find this. I would also recommend people read, there’s a book called Chimpanzee Politics, which is fascinating. It was written by a field biologist, but I believe this was used by Newt Gingrich at one point or so he claimed to help seize control and fascinating. There’s a lot of overlap, lot of overlap between us and our dear cousins.
+
+So Jane, people can find you on Twitter at Avantgame. They can find you on the website, Jane McGonigal, M-C-G-O-N-I-G-A-L, .com. The new book is Imaginable, subtitle, How to See the Future Coming and Feel Ready for Anything―Even Things That Seem Impossible Today, perhaps especially things that seem impossible today. And we’ll include a link to Imaginable in the show notes as well. And you can find it everywhere books are sold.
+
+Is there anything else that you would like to add today? Anything else you’d like to discuss or request and ask of the audience? Anything at all that you’d like to say before we wrap up?
+
+Jane McGonigal: Thank you, Tim. I mean, my big ask is that we do not waste this historic opportunity that we have to create the change we want to see in the world. So you and I, we’ve talked a lot about the futures we don’t want, but we might wake up in any way, how to be ready. But there has been so much change, so fast, over the past two years that I think we all realize that the kinds of ideas we would previously have dismissed as unthinkable or unimaginable, we can change. Right?
+
+We had a failure of imagination. We were stuck. We just saw humanity do things that would’ve seemed completely ridiculous and impossible, changing how we live, how we work, how we learn, what we value. I wrote this book, not just so we could be ready for the hard stuff, but so that we can all see ourselves as being gifted with an unprecedented opportunity to create positive transformation.
+
+People are ready for change. Our minds have been broken open by the pandemic and all the other crazy stuff we’ve lived through the past couple of years. And so let’s see ourselves as living through a truly historic and special, valuable moment. We may never again have this opportunity to create quite so much transformative change so fast. And I want to just ask everybody, don’t waste it. Let’s not waste this moment. Let’s truly change things that need to be changed.
+
+Tim Ferriss: Hear, hear. And it can be as simple as doing a few exercises to envision the future so that you feel a greater sense of urgency, which would give you an indication of the steps you can take now, right? The small steps that you can take, even if that’s just finding drone hobbyists, so that you can have some selection of positive implications of the technology and to see how you can steer towards that or away from the negative.
+
+And Jane, I just love our conversations. This is so fun for me. I’ve taken a million notes here. I didn’t get to ask you about cookie rolling, which that’s going to have to wait for another time. But I really recommend everybody check out the book. I think these are, to my mind, first and foremost, psycho emotional tools for developing, not just resilience, but anti-fragility, which is different, right. It’s where you can thrive and train and help others to thrive in what are certain to be, uncertain times and times of great flux.
+
+I don’t think that is going to slow by any stretch of the imagination. So I do think overwhelming change or potentially overwhelming change is the new normal, right? And so I’m so happy that you’ve written this book. People check it out again. Again, folks, it’s Imaginable, subtitle, How to See the Future Coming and Feel Ready for Anything―Even Things That Seem Impossible Today.
+
+Jane has a good track record, very good track record and has thought very deeply about this. So she has not just the theory, but also the street cred. And I recommend people check it out. And I say that too, because I just love hanging out.
+
+Jane McGonigal: Oh, yeah.
+
+Tim Ferriss: And what a fun conversation, so thank you for making so much time.
+
+Jane McGonigal: Yes, absolutely. My pleasure. And I hope we get to revisit this conversation and see how our imagination lines up and we can talk about the actions we took and what we actually accomplished.
+
+Tim Ferriss: Yeah.
+
+Jane McGonigal: So I will look forward to that. 10 years from now, Tim, you and me.
+
+Tim Ferriss: 10 years from now, maybe sooner and for God’s sake, people go buy just a few hundred dollars’ worth of backup water. For fuck’s sake. I don’t know why, I’ve seen this everywhere over and over again. Hurricane Sandy, the Austin Freeze, and they’re like, “That was one in 100 year storm. It’ll never happen again.” And then there’s like, a year or two later, it happens.
+
+Just like, if you have a fire extinguisher in your house or you wear your seatbelt when you’re driving down the highway, buy some extra water. You can go a long time without food. Anyway, think about backup power too. So I’ll leave that for my prepper sendoff. And Jane, I’m so excited about the new book. I’m so happy to reconnect.
+
+Jane McGonigal: Thank you.
+
+Tim Ferriss: And for everybody listening, we will have links to everything we discussed. Jane will also send some resources to my team, to put in the show notes about new versions or new iterations of game theory, such that we don’t model the world after the assumption that humans are rational robots because clearly, we are not.
+
+And I think the resources section will be really powerful. So that’ll be at tim.blog/podcast, just search Jane and it’ll pop right up. And until next time everyone, be safe out there, be just a little kinder than necessary. Train yourself to be optimistic. Don’t just sit in your house, doing laps around the couch or chasing your tail in your own head, and thanks for listening.
+
+
+TAGS
+JANE MCGONIGAL
+	

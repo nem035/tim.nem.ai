@@ -1,0 +1,322 @@
+
+
+JULY 7, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Lessons from Richard Branson, Tony Robbins, Ray Dalio, and Other Icons (#325)
+
+
+
+
+Please enjoy the below transcript of episode #325, “Lessons from Richard Branson, Tony Robbins, Ray Dalio, and Other Icons”
+
+This episode features:
+
+CDBaby founder Derek Sivers on the importance of challenging your own definitions of success.
+Performance coach Tony Robbins on best lessons learned from working with legendary investors.
+Venture capitalist Chris Sacca on missed opportunities and the commonalities of successful people.
+Legendary investor Ray Dalio on the three things that make up a successful life.
+Virgin Group founder Sir Richard Branson on the best thing his parents taught him.
+
+
+
+
+
+Lessons from Richard Branson, Tony Robbins, Ray Dalio, and Other Icons
+
+Tim Ferriss: Hello, Ladies and Gentlemen. Welcome to another episode of The Tim Ferriss Show. This is Tim Ferriss speaking. I should clarify that this episode is an edition of The Tim Ferriss Radio Hour, where I share the patterns and themes of world-class performers that I’ve identified after more than 300 guests on the podcast.
+
+This particular episode is going to explore success. What does that mean? What a slippery, dangerous term. The particular guests I selected for this episode I would say represent not only achievement, but also appreciation and a well-rounded version of what I consider to be a successful human being. By any objective measure, certainly financially or otherwise, I’ve interviewed some of the more successful people on the planet. In the next hour, we will revisit specific conversations that discuss the tips, disciplines, habits, and mindsets, perhaps most importantly, that separate world-class performers who reach their goals, from whose who fall short.
+
+This episode includes wisdom from Derek Sivers.
+
+Derek Sivers: I learned this the hard way at my last company because we had a quarter million customers. So, when I’d send out an email to everyone, if any sentence was at all unclear in any way, I’d get like 50,000 confused replies from people.
+
+Tim Ferriss: We also talk to Tony Robbins.
+
+Tony Robbins: You’ve got to become an investor. You’ve got to be an owner, not a consumer. The way to do that, frankly, we all know, but very few people do, is that you take a percentage, you lock it down, you never see it, it’s automated, and you put it aside for investment and that just occurs.
+
+Tim Ferriss: You’ll hear from my good friend, Chris Sacca.
+
+Chris Sacca: Venture capital is totally unfair. People give me their money. I draw a management fee off it. So, they pay me to take their money and invest it for them.
+
+Tim Ferriss: Legendary investor, Ray Dalio.
+
+Ray Dalio: I think three things make up a successful life by and large. First, you have to have audacious goals – big dreams.
+
+Tim Ferriss: We can’t talk success without including Sir Richard Branson.
+
+Richard Branson: One of the best things my parents taught me – I’m going back a long way – if I ever said anything ill about anybody, they would sit me in front of the mirror for ten minutes in order to let me know how badly it reflected on me.
+
+Tim Ferriss: As a preface before we jump into the conversations with these guests, I thought it might be helpful to set the stage. That is with an observation that I have made, certainly, in interacting personally with many of my podcast guests and many name-brand folks in Silicon Valley and elsewhere. That is the following: the superheroes you might have in your mind, the idols, icons, elite athletes, billionaires, and so on, are nearly always walking flaws you’ve maximized one or two strengths.
+
+Now, I’m not saying that is true of the people in this episode, but in general, this is true. There are some mutants, there are some freaks of nature who are the equivalents of the Usain Bolts of the business world, for instance, but they are rare. In general, humans are very, very imperfect creatives, which would be a generous way to put it. You don’t succeed, and most of the people I’ve interviewed don’t “succeed” because they or you have no weaknesses. Instead, you succeed because you find your unique strengths and focus on developing habits around those strengths.
+
+You can get only a few things right consistently and outperform almost everybody else. I think that, for instance, the investment styles of Warren Buffett and Charlie Munger, who are both brilliant, granted, but who focus on being consistently not stupid, not consistently smarter than everybody else, which perhaps is a form of being smarter. It’s important to keep in mind, rather than putting these people on a pedestal and viewing what they do as unreachable and, in a way then, absolving yourself of the responsibility of trying to improve yourself, that everyone is fighting a battle and has fought battles you know nothing about.
+
+There are many mega successful people who battle with depression, with pasts that might include alcoholism, you name it. That is not necessarily true of the people in this episode, but I think it’s important to underscore that so that you think that through incremental improvement, you can actually put yourself in a position to achieve seemingly impossible things. That is the truth. Everyone is fighting a battle you know nothing about. The icons is this episode are no different. Everyone struggles, so take solace in that. Now, without further ado, let’s jump into some of the things that separate those who achieve what they set out to do from those who don’t.
+
+Let’s start with Derek Sivers. @Sivers on Twitter. S-I-V-E-R-S. He is one of my favorite human beings. Think of him as a philosopher, king, programmer, master teacher, and perhaps merry prankster. Originally a professional musician and circus clown – whole long story behind that, so listen to my long interview with him at tim.blog/derek. Derek created CD Baby in 1998. It became the largest seller of independent music online with $100 million in sales for more than 150,000 musicians. In 2008, Derek sold CD Baby for $22 million, giving the proceeds to a charitable trust for music education. He is a frequent speaker at the TED Conference, with more than 5 million views of his talks. Since 2011, he has published 34 books! What? Including a book titled Anything You Want, which I’ve personally read at least a dozen times.
+
+Tim Ferriss: When you think of the word successful, who is the first person who comes to mind and why?
+
+Derek Sivers: Well, the first answer to any question isn’t much fun, because it’s just automatic, right? Like, “What’s the first painting that comes to mind?” “Mona Lisa.” “Name a genius.” “Einstein.” “Who’s a composer?” “Mozart.” But this is the subject of the book, Thinking Fast and Slow, by Daniel Kahneman. There’s the instant, unconscious, automatic thinking, and then there’s the slower, conscious, rational, deliberate thinking. So, I’m really, really into he slower thinking. Like, breaking my automatic responses to the things in my life and slowly thinking through a more deliberate response instead. Then for the things in life where an automatic response is useful, I can create a new one consciously.
+
+So, like what if you asked, “When you think of the word successful, who’s the third person that comes to mind? And why are they actually more successful than the first person that came to mind?” Well, in that case, the first person would be Richard Branson because he’s like the stereotype, right? He’s like the Mona Lisa of success, to me. Honestly, you might be my second answer, but we could talk about that a different time.
+
+My third and real answer, after thinking it through, is that we can’t know without knowing a person’s aims, right? Like, what if Richard Branson set out to live a quiet life, but like a compulsive gambler, he just can’t stop creating companies? Well, then that changes everything and we can’t really call him successful anymore.
+
+Tim Ferriss: What are the most common misconceptions about you?
+
+Derek Sivers: I feel pretty understood. I don’t think people are thinking about me enough to conjure up any misconceptions. We think the goal of writing and communication is to be understood, but I think a better goal is just making sure that you’re not misunderstood. I learned this the hard way at my last company because we had a quarter million customers. So, when I’d send out an email to everyone, if any sentence was at all unclear in any way, I’d get like 50,000 confused replies from people, which would take my team like 1,000 man hours to go through. So, now anything I put out into the public is rewritten and edited like crazy until I think it’s as clear as can be.
+
+Tim Ferriss: What are you world-class at that people might now realize? Or what do you friends know you’re world-class at that the rest of the world doesn’t know about?
+
+Derek Sivers: I’ve got the world’s longest attention span. I’ll just sit down and do one task for like 12 hours straight. Or all day for 25 days in a row. I love that my kid is getting it from me by the way that we play. Whenever we play, I never say, “Let’s go! Time to go!” We just do something until he’s ready to move on. He’ll lead me to the river and just throw rocks in the way for a couple hours, then we’ll go to the ocean and build a fort out of driftwood for hours, and then draw in the sand with shells until he’s sleepy. We’ve always done it this way, since he was like one year old.
+
+Other families would come play on the playground for 20 or 30 minutes at a time, but we would just be there for hours with him fully immersed in some newly invented game. What’s funny is that nobody else can hang with us, not even his Mom. Everyone else gets so bored. People ask if I meditate or do yoga, but nope, my daily life feels like working meditation. Even being with my kid is like meditation, as you can tell.
+
+Okay, now, we’re doing the format today where we’re going to open up the phone to callers. But since it’s Christmas Day, phones are a little slow – hey, there’s a call.
+
+Dave DiGiovanni: Hi, Derek. This is Dave DiGiovanni from Kalamazoo, Michigan in the U.S.A. Thanks for doing the podcast with Tim. Thanks for taking this question. You’ve helped a lot of people make money. I’m just wondering if success in business has to be more complicated than that? I get overwhelmed reading all the – you know, there’s so much content out there on how to make money, how to grow your business, how to start a business. I’m just wondering if business needs to be more complicated that coming up with ideas on how to help other people succeed? Thank you.
+
+Derek Sivers: Well, let’s talk about two things. Simple versus complicated and easy versus hard. Look at running. If you talk with people who hate running, you’ll hear them say, “Ugh, first you have to get your running clothes, they you get dressed, and then you’ve got to put on your shoes and you’ve got to lace them up just right. Well, then you’ve got to stretch and then you’ve got to warm up. Then afterwards, you need to cool down and you need to shower. It’s such a pain.” But if you talk with people that love running, they’ll say, “Yeah, you just pop out for a quick run.” And if you ask them about the steps involved, they’ll say, “There’s just run. You just run.”
+
+So, knowing that we have this human nature to think of things we like as simple and things we don’t as complicated, you can use this to deliberately simplify how you think of something you’re avoiding, making it more appealing. An ultramarathon is simple. You just 100 miles to the end. But that doesn’t mean it’s easy, right? So, success in business can be simple. You just find a need that people are proving they’re willing to pay for, and then find a profitable way to solve that need for them. But it doesn’t mean it’s easy.
+
+What you have to do is notice, in your mind, when you’re complications are holding you back, and then turn the dial towards simplicity in your mind. You just jump out the door and start running. But then notice in your results where a more simplified approach might be holding you back. Like perhaps you’re using only one tool in your toolbox and you need to learn others. As for all the business advice out there, if information was the answer, then we’d all be billionaires with perfect abs. Really you, and yeah you, listening to this, most of you probably just need to shut that shit off, put your blinders on, and get out the door and start running. Metaphorically speaking, that is.
+
+Tobin: Hi, this is Tobin in Boulder, Colorado. My question is, what should someone ask to determine their own Utopia? Thanks.
+
+Derek Sivers: First, ask yourself is this in theory or in practice? Have you proven from your experience that this is really what works best for you? Whatever idea you have, you have to challenge it. You need to argue against it because there’s so many things that seem great in theory. For example, say you’re living in a little apartment in a noisy city and so you think that you’d be happy if only you had a big place out in the silent country. And so you do it, you splurge, you buy a place or you sign a year-long lease and then you move out to the country and … uh-oh, after two months, you realize that you miss too many things about the big city. You made the wrong prediction. It happens the other way too, right? People moving from the quiet ‘burbs to the big city. Or somebody who’s an employee that thinks they’d just be happy if they could quit their job and start their own business. And oops, it doesn’t always work out like that.
+
+My recommendation is to do little tests. Try a few months of living the life you think you want, but leave yourself an exit plan, being open to the chance, the big chance, that you might not like it after actually trying it. The best book about this subject is Stumbling On Happiness by Daniel Gilbert. His recommendation is to talk to a few people that are currently where you think you want to be, and ask them for the pros and cons, and then trust their operation, since they’re right in it, not just remembering or imagining.
+
+James McGill: This is James McGill from Sligo, Ireland. My question is, how do you define success and what habits or skills are most important to living a successful life? Thanks.
+
+Derek Sivers: Okay, well, first let’s define success. Ask yourself if you think Robin Williams and Philip Seymore Hoffman were successful actors? I think it’s a tough call. My first reaction is yes, but the more I think about it, my answer moves halfway towards no. As a different example, think of someone you know who you’d consider to be the definition of a total loser and then you give that person a million dollars. Are they now a winner? Of course not. That sounds like a contrived example. But a lot of fame and fortune is dropped into the laps of people who were just the right face in the right place at the right time, but are actually miserable, awful people by any definition.
+
+So, the more you think it through, the more you realize that you have to define success first by your inner game, not some outside measure of money or fame. Mastering yourself, your mind, and your actions. But now, if you only master yourself and you don’t help anyone else, then we’d call you happy, but nobody would define you as successful. The very definition of success must include how much you helped others. I bet that if you helped thousands of people, even if you didn’t ultimately profit from it but you were personally miserable? Well, we might still call you successful because you helped others. The point is, if you want to be undeniably successful, you need to both master yourself and help others. Don’t focus on the money or the fame. The real success is mastering your emotions and actions and actually helping lots of people. So, that’s the definition.
+
+But now you asked what habits or skills are most important to living a successful life? Well, by this definition, habits and skills – No. 1, the skill and habit of managing your state and your emotional reactions and actions. No. 2, knowing what people need in general and what you need in particular. No. 3, people skills. How to see things from the other person’s point of view and how to communicate from their point of view. No. 4, the ability to focus, learn, practice, and apply what you learn. If you can do those four things, you can do anything. You can first be happy without depending on anyone or anything in particular, and then you can understand what people need, learn how to provide it, and make sure they know it.
+
+Tim Ferriss: Next up is Tony Robbins. @TonyRobbins on Twitter and elsewhere. The world’s most famous performance coach. He’s advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams and Leonardo DiCaprio to Oprah, who calls him superhuman, by the way. That’s Oprah calling someone that. I love Tony’s work and his Personal Power II set, which I listened to in my POS used mini-van while I was commuting during my first job. It helped me start my first company. Recently, I should say over the last several years, I’ve had the chance to work with Tony, get to know him directly, and it’s been an incredible experience.
+
+Tony has worked with many legendary investors, including Paul Tudor Jones, who he’s coached for more than ten years, Ray Dalio, Carl Icahn, David Swenson, Kyle Bass, and many more. These are the hard-to-interview unicorns who consistently beat the market, despite the fact that it’s considered impossible by many folks. Tony has done a great of job of, I would say, condensing the lessons he’s learned from them.
+
+Tony Robbins: Some guys are like Templeton; I got to interview him multiple times before he tied. It’s like wait for the blood-letting.
+
+Tim Ferriss:   No, blood in the streets. That’s when you invest, yeah.
+
+Tony Robbins: Blood in the streets. But it’s like when maximum pessimism hits, that’s when you make all your money. That’s what he did. Then there’s the guys like Bogle, which is it’s the index, baby. These days, even Warren Buffet, it’s the index baby. So they’re all different approaches. But what’s in common, I think is – I’ll tell you four things I saw that stood out. One is overly simplistic and that’s why people don’t pay attention to it, but these guys pay attention to it. They don’t lose. Half the peak awakening is not losing and they are obsessed, every single one of them is obsessed with not losing money. I mean, a level of obsession that’s mind-boggling.
+
+It isn’t just these investors. Sir Richard Branson, for example, people see Richard and he’s such an ongoing, playful guy. He’s kind of an introvert about certain areas. But when it comes to athletics and taking out challenges, he’s out in the world. But his first question to every business is, what’s the downside and how do I protect it? When he did his piece with Virgin, that’s a big risk. Starting an airline? He went to Boeing and negotiated a deal they could send the planes back if it didn’t work out and he wasn’t liable. That’s the level these guys think at. So, they first look to see how do I not lose money? Because the average person has no clue. If I lose 50% in 2008, well, guess what? You’ve got to make 100% to get even, not 50%, because your principal has gone down so much. People don’t understand. You lose 60%. It’s 200% to get even. The average person lives in a world where they try not to lose money, but they’re not obsessed. These are obsessed.
+
+The second thing they all have in common: every single one of them is obsessed with asymmetrical risk reward, which is a big word. It simply means they’re looking to use the least amount of risk to get the maximum out of upside, and that’s what they live for. I’ll give you an example. Paul Tudor, when I first went to do the turnaround, Paul was challenging times. He’d broken his leg. Think about this – he did better than anybody in the history of the world during the biggest stock market drop in history, literally, and then he went to the mountain, he went to the moon, and now what? So, he lost a bit of the edge and got involved in other things and so forth. Now, he’s got a broken leg. He’s not going to the office. I’ve got to come in. So, I had to go watch that film. That’s the first thing I did.
+
+Tim Ferriss: The white tennis shoes.
+
+Tony Robbins: I wanted to go see everything about him. Study his physiology, the way he used to move because this guy is not moving at all. What his face was like, how he breathed, the tone of his voice, what were the physical strategies, what were the psychological strategies, what were the financial strategies. I got to go to Druckenmiller and Soros. The world I had access to back then was unbelievable. To see what he was like then, to put the plan together to do this turnaround. When I started making those shifts in him, you could see the shift happen immediately, it got really exciting. I got hooked on what was going to happen.
+
+I did this same process, basically, talking about doing things once. I did the same process during his interviews. I didn’t just look at the trading strategies. I looked at the psychology of what set it up. But here’s what I found with Paul Tudor in the very beginning in getting him back on track. When he’s at his best, he made sure every single trade had what he called a 5 to 1. That means, if he was going to risk $1.00, he wasn’t about to risk it unless he was certain he was going to make $5.00. Now, you’re not always right, so guess what? If I risk $1.00 to make $5.00 and I’m wrong, I can another dollar and still make $4.00. I can be wrong four times out of five and still break even. Their secret is not that they’re not wrong, it’s they set themselves up where they risk small amounts for big rewards, proportionally.
+
+Paul, if he’s right one out of three times, he still makes 20%. So, the average person risks $1.00 trying to make how much?
+
+Tim Ferriss: $1.10.
+
+Tony Robbins: That’s right. About $1.10. If I could get 10%, wow, my dollar, right? 20% would be unbelievable. How often can you be wrong?
+
+Tim Ferriss: Not every often.
+
+Tony Robbins: Not at all, right? You’re in the whole. You’re starting from the whole and you’ve got to build back up. So, there’s asymmetrical reward. I was with Kyle Bass and Kyle Bass risked – check this out – in the middle of the sub-prime crisis, he was $2 billion out of $30 million because he risked for every $0.06 he risked, he had an upside of $1.00. $0.06 for $1.00. Well, you could be wrong 15 times and you’re still looking in that area. I mean, he was brilliant to figure it out. He is a genius for figuring it out. But that risk/reward is why it is.
+
+He showed his kids. I said, “How do I teach this to the average investor?” He said, “Well, you can teach them the way I taught my kids.” I said, “How’d you do that?” He goes, “We bought nickels.” I said, “What do you mean, you bought nickels?” He said, “Well, I did research. I have this question” – that’s another thing that all these guys do, they ask a better question. And we talked about, they get better answers right? Better quality question, better quality answer. What’s wrong with me? You’ll come up with stuff? How do I make this happen no matter want? You’ll come up with different answers.
+
+His question was, “Where in the world is there a riskless trade with total upside?” He started looking around and he said, “I’m worried about inflation,” so he decided, “Well, gosh, of all the currencies in the world, a nickel, what it’s made of today,” it’s not made mostly of nickel by the way, he said, “it’s costing the U.S. government $0.095 to make a nickel. That’s how our government functions. I’m going to spend almost $0.10 to make something half as much, right?
+
+Tim Ferriss: The Pentagon plan.
+
+Tony Robbins: Yeah, that’s right. The perfect plan. So he said, “But you know what? Just the actual material value is $0.068,” or something $0.065 we’ll call it for round numbers. So he said, “If I buy a nickel, it’s never going less than a nickel unless you believe the U.S. government is gone. So I’ve got something that never goes down in value. So, I’ve got a guaranteed return. I’m not going to lose my principal. By day one, it’s worth 36% more than the day I bought it. How many investments can you have 100% guaranty of no less and a 36%?”
+
+I said, “Yeah, but that’s value. They passed a law a few years ago, I think Charlie Rangel or whoever it was pushed it through.” He said, “Yeah, but Tony, that doesn’t matter. Because let me tell you why.” He said, “Look at pennies. When they changed it from pure copper to tin and all the things they changed, what happened to the old pennies? There’s a scarcity of them and now a penny from those days is worth $0.02. It’s 100% more valuable. So, he said, “At some point, the government cannot continue to do something that costs twice at much. At some point, they’ll make a change in the materials and then all these nickels are worth an unbelievable amount.”
+
+He said, “I’m just showing my kids. You need to think different than everybody else. Don’t think on it to take huge risks for huge rewards. Say, how do I take no risk and get huge rewards?” And because you ask that question continuously and you believe in the answer, you get it. He said, “Listen, if I could convert my entire wealth into nickels right now, I’d do it.” I said, “You’re insane.” He goes, “I am insane.” But it’s the best possible fundamental investment. He started telling me how to do it. He bought 40 million nickels
+
+Tim Ferriss: Wow.
+
+Tony Robbins: He had 40 million nickels. It fills up a room bigger than this.
+
+Tim Ferriss: It had better be on the ground floor.
+
+Tony Robbins: He had his kids ragging at me and everybody else laughing and having fun. It’s like their little treasure room.
+
+Tim Ferriss: So he can legitimately do like the Scrooge McDuck backstroke through a pool full of nickels.
+
+Tony Robbins: For real, with nickels. So, there’s asymmetrical reward. I’ll give you one more and I’ll shut the hell up. You told the difference and there are differences. We could spend hours and hours on the differences but what I think’s useful is what’s aligned because then it gives universal that can be applied.
+
+The other one for them is they absolutely, beyond a shadow of a doubt, know they’re going to be wrong. You look at these talking heads on television and people screaming at you and hitting bells and telling you what to buy and they’re right, right, right. The best on earth, the Ray Dalios, right? The Pebbles, I don’t care who you talk about. You want to look at Carl Icahn. They all know they’re going to be wrong, so they set up an asset allocation system that will make them successful. They all agree asset allocation is the single most important investment. There wasn’t one person in terms of your vehicle that it wasn’t the most important thing. No matter how they attacked it, asset allocation was the element there.
+
+The last one is, they’re lifelong learners. These people are machines. Like you, like me, like Peter, like most of the people you and I share as friends, they just are obsessed with knowing more. Because the more they know, the more they realize what they didn’t know and then they apply that and they go to another level. Every time you think you’re the best you can be in anything in life, your body, your emotion, your spirit, your finances, there’s always another level. These guys live by it.
+
+The last one, I thought almost of them were real givers. Not just givers on the surface like money givers, that’s wonderful. But really passionate about giving. It showed up once they saw what I was doing was legitimate and was really real. Then they’re opening up three hours of their time with something none of these guys will ever get.
+
+Tim Ferriss: I think it was Dalio who said something along the lines of “Losers react; winners anticipate.”
+
+Tony Robbins: That was actually me, but that’s okay.
+
+Tim Ferriss: It’s you!
+
+Tony Robbins: Give it to me, Dalio.
+
+Tim Ferriss: Take that as a compliment! No, but the point being that the – and I guess a Mark Twain quote is also in there, which was “History doesn’t repeat itself, but it rhymes.” So, there are going to be crashes. There are going to be Black Swan events. You want to have a plan in place for when that happens.
+
+Tony Robbins: Exactly right. Ray Dalio actually said something in there that stuck with me brutally. He said, “I don’t care what it is that you think you’re great at investing in or you like.” Most people invest in what they like. Real estate or stocks or bonds, or what they think they’re good at, or what they were raised with. He said, “Whatever asset class you invest in, I promise you in your lifetime, it will drop no less than 50% and more likely 70% at some point.” He said, “That is why you absolutely must diversify.” Because you’re saying, “But I could make so much more on this side.”
+
+I’ve had people throughout the years – I teach this bucket theory. This idea that if you want to make asset allocation simple, it sounds like such a big word, it’s just buckets. Some of my money is going to go in a secure bucket. That bucket is like a church steeple. It’s not going away. It’s very secure type investments. Its upside is not gigantic in terms of speed, but the compounding process, if you give it enough time, those low returns are giant returns still, but you’re not going to lose.
+
+Then there’s this bucket what most people call a “growth” bucket, I call a “risk growth,” because it’s really risk first. On that, I’m taking bigger risks for potentially greater rewards. Now the question is, how do I balance these? Am I 60/40, 50/50, 80/20? That’s designed really by three things. No. 1, what’s your real risk tolerance, what you think it is?
+
+Tim Ferriss: Yeah, and they’re never the same.
+
+Tony Robbins: They’re never the same. I do these wealth mastery programs in a few years and invariably I’ll do some crazy thing like I’ll say, “Everybody stand up, make change.” They look at me and I go, “Make change.” Then they start reaching in their pockets and making change. And so somebody will pull out $5.00 and $10.00. Somebody pulled out $100.00 and somebody will come up and will take it and give them $5.00 and they’re like … they don’t know how to react. So, this goes on for three or four minutes and the music is going on. I go okay, stop, all right, sit down. And they go on like I’m talking about something else.
+
+Invariably, somebody’s like, “Hey, wait a second. I want my $100.00 back.” I said, “What are you talking about?” He’s said, “I want my $100.00 back. The game is over.” I said, “When did you think the game was over? When did you think the game had ever gone over and who said it was your $100.00?” It takes a while and then finally get, I’m stressed about $100.00. What do you think is going to happen when you lose $1 million or $500,000, or $10,000 or $10,000? Your risk tolerance is not what you think it is. So when you find out what your risk tolerance is, and we’ve got great ways to do that in the book, and then you figure out really, how much time do you have?
+
+When you’re younger, you’ve got more time to make mistakes and so you can take bigger risks. You’ve got timeline on your side. The next piece is, how much is your cash flow? What’s going to be the bigger role for you? If you look at those three things, how you can decide how much goes in my secure bucket, how much goes in my growth? If you don’t make that decision, it’s the most important investment decision of your life according to everybody I interviewed. Like what percentage secure, what percentage growth and risk? Then when things come up, you’re always going to go for the growth/risk because it looks so sexy and exciting and I can’t tell you how many people over the years have done this. They’re telling me, why would I put money over here when I’ve got this real estate I’m making 120%?
+
+I have a friend that build some of the first big condos in Vegas back in the boom time. He actually went to my programs, sold the business he had made $200 million, invested in these condos, starting building the Panorama Towers and places of that nature. He was up to like three-quarters of a billion. I kept saying to him, “Dude, take some of your growth money and put it in the secure bucket,” right? How many times have I told you this? He goes, “Tone, I love you. I made $200 million because of you. But now, I’m really, whatever I touch goes into gold.” I’m listening to this. I’m going, “I love you brother, but do you know how many times I’ve had this conversation?” And then guess what happens in 2008? How much do you think he lost? He was worth three quarters of a billion dollars. He’d grown that rapidly in those short years. What do you think happened to his net worth?
+
+Tim Ferriss: I’m guessing it went down, according to the Ray Dalio prediction.
+
+Tony Robbins: How about -$400 million. He didn’t just lose what he had, he lost everything he had and beyond. So then he’s trying to negotiate –
+
+Tim Ferriss: So he was leveraged.
+
+Tony Robbins: He was leveraged out. He wiped himself out. Most people don’t put enough in the security bucket is the lesson. A guy like that will provide you a strategy that’s got great sustainability, but there are many approaches in the book. But you do have to decide, how much is secure? How much is growth? I show you how to do that.
+
+Tim Ferriss: Chris Sacca, @sacca, was once the cover story of the Midas issue of Forbes magazine, and I’ve known him for some time. But that’s what happens when you are, for instance, an early-stage investor in companies like Twitter, Uber, Instagram, Kickstarter, and many more. Chris is the name, the face behind what will most certainly be the most successful venture capital time of all time – Lowercase Capital. Here are a few thoughts on success that I’ve found fascinating.
+
+Tim Ferriss: What are the commonalities, or are there commonalities, when you look across these founders for whom success and massive scale just seems predestined? What are the commonalities?
+
+Chris Sacca: We’ll take Evan Travis’ examples, but across the most successful founders, let’s use a Matt Mullenweg, WordPress. That’s a $1 billion company, $1 billion-plus. These guys are all incredible listeners. When they do open their mouths, it can be bombastic and offensive and aggressive and in-your-face, but they’re all incredible listeners. I don’t just mean in casual conversation. These guys go out of their way to interview other people. If you catch Ev, he’s got a notebook always. If you ask him to see the last few pages of the notebook, he’s just meeting with other people who are billionaires and leaders whose jobs might not overlap with his at all, but from whom he’s learning. He’s a voracious reader.
+
+Part of why Medium started is he was really back deep into long-form content when he took a break from Twitter. That guy is just constantly learning, studying, studying. When he speaks, it matters. But he’s listening more than he speaks. You know that about Mullenweg. One of the most thoughtful people. I’ve never seen anyone read as many books as that guys does and retain all the knowledge.
+
+Tim Ferriss: Yeah, he’s prolific. He also listens to anyone that he’s sitting down with. It doesn’t matter if it’s the waitress or a primary school teacher. We’ve done a lot of traveling together. He was on the podcast also. A very good listener.
+
+Chris Sacca: Again, you just look across the board. These guys are learning. They’re modeling. They’re constantly researching. They’re gathering data. Travis would think it a competitive disadvantage for you to know exactly what’s going on in his head sometimes. So, he’ll listen. It’s an amazing talent. I think it’s a commonality across those people.
+
+Tim Ferriss: With the investing game that you’ve obviously been a participant in for quite a while now, you have to say no a lot. I took a close look at poker in the last year with the TV show. There were a couple of quotes that came up quite a bit, along the lines of “I made my money sitting, not playing hands.” But that having been said, what are some of the deals, the whales that got away?
+
+Chris Sacca: First of all, this is a rigged game, right? I’m just looking to make it even more rigged. For those who don’t know, venture capital is totally unfair. People give me their money. I draw a management fee off it. They pay me to take their money and invest it for them. If I make money, then I pay them back the management fee and then after that, we split the profits and I get a really big chunk of the profits. If I lose money, that’s fine. It doesn’t come out of my pocket. I keep my fee and my investors lose money. That’s how this industry works. That’s bananas. At some point, it’s going to break.
+
+Tim Ferriss: You’ve also incepted me with the term “bananas,” which I’ve started using compulsively. Mazio also has done the same thing. He works with Chris.
+
+Chris Sacca: It’s just an unforgivably, unfair, rigged game that’s in favor of the venture capitalists. The reality is the risk of an investor doesn’t begin to compare to the risk of a founder. That’s one thing that kind of draws me crazy about some investors. I love the entrepreneurial spirit that goes into building a firm. I built my firm from scratch and there are certainly founder-type lessons in there. But your cash will positive from day one when you start a venture fund. Your downside is incredibly limited by the structure of the fund.
+
+So that said, what it allows me to do is place some bets on some stuff that I’d like to think success is inevitable with those things. But I can look at the risk analysis and say is the binary outcome a 1 or a 0? Some of those things just don’t get there. One of my constant recurring nightmares is about the stuff I passed on.
+
+Tim Ferriss: Exactly. That’s what I was trying to ask.
+
+Chris Sacca: I’ve done some deals where I thought it was going to be a lot bigger and it ends up going away. The Dropbox guys, I met those guys very early on, while they were still on Y Combinator. I got an early look. I had an opportunity to do the deal and I pulled those guys aside and I said, “Hey, look. At Google, we’re using a version of this called Platypus,” which became G Drive. “They’re going to crush you guys, man. You should probably find some other product to pivot to.” That probably costs me hundreds of millions of dollars.
+
+Tim Ferriss: Did they give you a pat on the head and walk away?
+
+Chris Sacca: No, I mean, when I see Drew, the CEO of Dropbox, I bring it up before he can.
+
+Tim Ferriss: That’s a good self-defense maneuver.
+
+Chris Sacca: Yeah, I get it out there right away. The Airbnb guys at Y Combinator. Same thing.
+
+Tim Ferriss: Incredible business.
+
+Chris Sacca: An amazing business. And one to be proud of too. I’m really jealous I’m not in that business. Not just for the business, but I love what they do. I really admire them a lot and their culture. But at the time, they were allowing you to rent out a room in somebody’s house while the owner was still there and that just seemed really scary to me. I pulled the guys aside and I was just like, “Guys. Somebody’s going to raped or murdered in one of the houses and the blood is going to be on your hands.” I literally said that out loud to them. What’s that worth? Like $15 or $20 billion now?
+
+Tim Ferriss: Now, in fairness, you’re probably not wrong, right? I mean, at a certain scale.
+
+Chris Sacca: At scale, it has to happen.
+
+Tim Ferriss: Something’s going to happen.
+
+Chris Sacca: Yeah. I like to say sometimes when you think about scale, like someone who works at Walmart murdered someone last night. There’s just no doubt about it. At that scale, with a few millions employees, one of them murdered somebody last night.
+
+Tim Ferriss: You have to look at it like Edward Norton Fight Club. Like an actuarial analysis for insurance. Which is terrifying, but that’s the reality of big numbers.
+
+Chris Sacca: There’s one other famous one. There’s a bunch of these. Actually, I’ll give you two. I wasn’t reminded of this until recently. Nick Woodman from GoPro came to Google. I wasn’t an investor at the time, but I did a lot of Google’s investments and partnerships. Eric Schmidt, CEO of Google, said, “Hey, will you come in here and sit with this pitch. He’s a friend of a friend who said we’ve got to meet this guy.” So, Woodman comes in with GoPro. Eric’s like, “I don’t know. I was like, “We’d be foolish to do this deal. How is this guy from Santa Cruz going to compete with all these Asians in building hardware? You can’t hold a candle to the Taiwanese and the Koreans.” I was like, “No dice, man. Let this guy go.” I think I introduced him to somebody over at YouTube just as a consolation. I saw that dude this winter skiing. He worth like $3 or $4 billion now and he didn’t forget that meeting.
+
+Then the Snapshot guys. I gave a talk in L.A. and they came up to me. I’d never met them before. They came up after the talk and said, “We’re big fans and we’d really like to work with you.” I was like, “Eh, sure. I mean, I know you guys are up to something cool. I admire it.” I took like eight weeks to set up the meeting and by then, the Benchmark guys had done that deal. That’s, again, ohmygod, I can’t imagine how much money we’ve left on the table as a result of that. I like to say when I’m wrong, I’m wrong and when I’m right, I’m really, really right.
+
+Tim Ferriss: Ray Dalio, @raydalio on Twitter, is one of the 100 most influential people in the world, according to time and one of the 100 wealthiest people in the word, according to Forbes. Because of his unique investment principles that have changed industries, CIO magazine dubbed him “the Steve Jobs of investing.” Ray believes his success is the result of principles he’s learned codified and applied to his life and business. Those principles are detailed in his book, aptly titled, Principles. He includes some of his wisdom in our interview.
+
+Tim Ferriss: If we flash back to when you first began Bridgewater Associates. So, out of your 2-bedroom apartment at 26 years old. Do you recall any of your first big wins or things that you considered big wins at the time? I’d love to just hear you describe what made those a big win. In other words, the thinking behind it.
+
+Ray Dalio: The funny thing is, I can hardly ever remember my big wins. I do remember my big losses or my big mistakes.
+
+Tim Ferriss: We can talk about those too, yeah.
+
+Ray Dalio: It’s so funny because I look at it and say, well, I guess I must have had a bunch of wins or successes because of how things have went. The business is good and done well and all of that. But I think of my history and I really think of those mistakes. I think that’s so great because it shows that that’s a much better learning tool. Okay, so my big wins. No, I think about that time. The things I remember were the fun things. Guys I played rugby with, and parties, and those kinds of things. I don’t remember a particularly big winning. Well, I do remember some things.
+
+I remember one time when we got the Kodak account. Again, I was in a position, it’s okay, here’s a guy and he’s analyzing the markets and he has a small team of people. He’s analyzing the markets. I didn’t have a long track record and I didn’t have an institution and I was sort of competing with the big institutions of the word – the JP Morgans and everybody. By the way, we beat them. But anyway, what shows that the individuals, the power is with the individual. But anyway, I remember when we got the Kodak account, because at the time Kodak was a big, important client. Them giving us that account was a big deal for us because it was kind of a stamp of institutional approval and it was – I remembered the money mattered too because we would know that we were a bit more financially secure. I remember that as a big win.
+
+I remember it so terrifically because we were asked to submit research information. We were just a small team of people. We stayed up all night and with pizza and beer and all of that. I remember it so sweetly because it was the dream of making our miracle happen. The pulling together. That’s the meaningful relationships part. I believe that I want meaningful work and meaningful relationships. That was what that was about. We got the account and we won and that was a big deal.
+
+Tim Ferriss: Why did you guys win?
+
+Ray Dalio: I think it’s a combination of being totally unconventional and having better processes and then there’s a hell of a lot of determination. I think three things make up a successful life, by and large. First, you have to have audacious goals, big dreams. Then, when you are headed towards those goals, you’re going to have problems. You’re going to deal with reality. You have to deal with those problems and that reality realistically, learning from mistakes, writing down those principles and the like. So, that’s the second part. Dealing with reality in a practical way where you learn about mistakes.
+
+Then the third is the determination. Because if you’re going for your goals and you’re encountering your mistakes and you’re learning and you do that with determination, you’re going to get better all the time. You can’t help but get better. You do that a long enough amount of time and you’re going to far exceed your dreams. My success has far exceeded what I ever imagined one bit at a time. It’s just that process.
+
+Tim Ferriss: If you were to conversely look at intelligent people who are unhappy, what do you think the primary causes of that unhappiness are?
+
+Ray Dalio: I think it goes back to this notion of meaningful work and meaningful relationships. Intelligence and happiness probably have no correlation with each other. In studies, it’s repeatedly been shown and money is very little correlated with happiness. The highest correlation with happiness is community. Am I part of a community? Do I feel connections with other people? That’s been literally genetically programmed into us from, it’s estimated between a million and two million years ago, before we were even mankind.
+
+So, that sense of meaningful relationships, I think, is very, very important. If you have meaningful work, like you’re on a mission, and you have meaningful relationships, I think it’s almost impossible not to be happy. There will be unhappy moments in your life that you encounter this thing or that, but the people who are unhappy seem to be missing those things.
+
+Tim Ferriss: Last but certainly not least, we have Sir Richard Branson, @richardbranson on Twitter and everywhere else. Founder and Chairman of The Virgin Group, a world-famous entrepreneur, adventurer, activist, and business icon. He has launched a dozen billion-dollar businesses and hundreds of other companies. I loved our conversation and highly recommend you check it out, of course. Listen to the whole thing. But here are a few highlights you might find valuable.
+
+Tim Ferriss: You strike me as a really good negotiator. By necessity, you’d have to be. If you had, say a would-be entrepreneur or a university senior, someone who’s about to graduate and go into the real world and they tell you that they want to become a very good negotiator, a very good deal maker. How would you train them or what would you recommend they do or read to become a better negotiator or deal maker? Because you seem very, very astute and subtle in structuring things in very smart ways. What would you say to someone who wants to develop that skillset?
+
+Richard Branson: I’m sure that there must be ways of being taught it, but in my operation, nothing beats personal experience. My education was being thrown into the jungle, being thrown into the real world at age 15 or 16 and having to survive. It was an incredible education. I learned about everything in life. I’ve [inaudible] [00:49:09] a lot, so I’ve met people all over the world. I had to do a lot of different negotiations.
+
+I think as I’ve got older, I’ve realized that one of the most important things about a negotiation is striking a deal that is fair to both sides. I’ve also realized as I get older that you’ll always come across the same people time and time again in life, and so your reputation is everything. In my new book, Finding My Virginity, I talk about our dealings with Delta and how they felt that they’d legged us over in a clause in a contract and how they came to us to rectify it. That’s something I’ll never forget and most likely will be partners with Delta for the rest of my life because of that kind of approach.
+
+I think if you realize that your reputation is all you have and your personal reputation, the reputation of your brand, then you’ve got to make sure that you’re negotiating a deal that you’re not going to be unhappy with and you think of all the things that could potentially go wrong and how you can get out of it if something goes wrong, but equally important is trying to strike a fair balance with the people you’re negotiating with.
+
+Tim Ferriss: When we’re looking internally, you mentioned how your teammates at the record company thought you were crazy when you brought up the airline. Are there any business ideas that you’re glad your coworkers or team have prevented you from doing?
+
+Richard Branson: As you know, my nickname is Dr. Yes. I have books like, Screw It, Just Do It. To be honest, if I want to do something, one of the advantages of owning the company is I can normally get away with it. I mean, I’ll try, obviously, to carry people with me. I’m sure there have been one or two things where I have bullied the process through or I’ve regretted – well, not regretted. I’ve never regretted anything. But where perhaps I should have listened more to others. But I can’t think of anything where they persuaded me not to do it.
+
+I think most likely, when it comes to a decision about whether to do something or not, I like to think of myself as a benevolent dictator. That’s the one thing I sort of generally get my own way on. Look, we would never have gone into space travel. We’ll come to that I’m sure later on in this talk, unless I was willing to do things against the sensible. What on paper would be sensible advice of my fellow directors.
+
+Tim Ferriss: We will definitely get to space travel. What I’m curious about, because it seems if I look at many of the businesses that you’ve started, the positioning is often against a particular incumbent – in the case of airlines, for instance – that seems to be a common element in a lot of the company or product launches. I want to connect that with some of your well-known adventures. You’ll see where this is going in a second. You’ve driven a tank down Fifth Avenue; crossed the English Channel in an amphibious car; took a 407-jump off the Palms Casino Resort in Las Vegas; gone from Morocco to Hawaii in a hot air balloon. You are very adept at PR stunts, getting attention for the things that you do and the companies that you do. Are there any particular best practices or a playbook that you have found to be very – or principles, for that matter, helpful with the launching of a new company or product?
+
+Richard Branson: I don’t think so. I’m a great believer in trying. If you team worked really hard to launch a new business with you or for you, the least I think I can do is make a fool of myself, make sure that new business ends up on the front page of the newspapers rather than an anecdote on the last pages of the newspapers. So, if that means having to use myself to put the new company on the map, I will do so. I will try to do it in a way that makes people smile and that doesn’t horribly backfire on me. It hasn’t usually backfired.
+
+I suppose it’s like being a host to a party. If you’re the host of the party, if you  stand in the corner of the room and you sip your sherry and stand around with your fellow directors all in suits, everyone’s going to have a thoroughly dull party and nobody will have a good time. If you’re the host of the party and you’re first in the swimming pool and everybody else jumps in too, yeah, they may be a bit cold for the rest of the evening, but they’re going to have a great evening. I think the same applies when you’re launching a business. Make sure that you put it on the map and just occasionally it will backfire.
+
+Tim Ferriss: You mentioned space travel, which I do want to use as a touching off point to ask you – roughly 50 years after starting your first business, why write Finding My Virginity? What was the catalyst for that? Why do it?
+
+Richard Branson: I actually think everybody should write a book about their lives. I’ve persuaded a number of people to write books about their lives. Steve Fossett, for instance. Anyway, a number of people. You don’t have to have led a very public life. I think everyone’s led interesting lives. Your children and your grandchildren will be fascinated by the lives you lead. I wrote a book, Losing My Virginity, when I was a young man, about all the adventures. It became a bestseller and sold millions of copies. But I was quite a young man when I wrote it.
+
+The last 20 years or so have been very full and very rich and extraordinary. I thought I would write in a sense a sequel to Losing My Virginity, which we called Finding my Virginity. If I life another 20 years, Virginity Found I suspect will be my last book. We’ll see how we go. I think it’s important. I love reading and learning and I think others hopefully will enjoy it. When I write books, I try not to make them like “and then we did and then we did that.” Just try to make it a really good, gripping read and an enjoyable read and not try to prime in everything one’s done in 20 years. Hopefully, people will get a few gems form it as well.
+
+Tim Ferriss: What is the book or books you’ve given most as a gift and why? Outside of your own books. Are there any particular books that you’ve given or recommended to others the most?
+
+Richard Branson: Climate Change is something which I’ve spent a lot of time on. I would highly recommend a book by Tim Flannery called The Weather Makers, which was one of the books that opened my eyes to the problem that we have in the world. I’m just reading Homo Deus, and I will carry on to read Sapiens, one of his first books. I just love the style of his writing. I love books where you’re learning something from them, rather than if I want fiction, I’ll get a good film out. If I’m reading books, I like to read books which have got some substance.
+
+Tim Ferriss: In the last, let’s just call it five years or so, what new belief, behavior, or habit has most improved your life or what habit has improved your life? It could be any new belief, behavior, or habit that has markedly improved your life.
+
+Richard Branson: If we go back a bit further than the last five years.
+
+Tim Ferriss: We can go back as far as you like, absolutely.
+
+Richard Branson: One of the best things my parents taught me – I’m going back a long way – if I ever said anything ill about anybody, they would sit me in front of the mirror for ten minutes in order to let me know how badly it reflected on me. I like to think I’ve never generally spoken ill about other people. I think that’s been one of the best bits of advice that I’ve ever received and obviously then given. Archbishop Tutu, who chaired The Elders, which is an organization that we’ve run for ten years now, he was the epitome of forgiveness with the Truth and Reconciliation Commission in South Africa, when Nelson Mandela took over power. I think people, nations, should all try to run based on that philosophy and the world would be a happier place if that happened.
+
+Tim Ferriss: You mentioned Nelson Mandela. This is clearly not one of my stock, rapid-fire questions, but I’ve heard you refer to Nelson as a mentor. Are there any key lessons or takeaways or memorable sentences or anything that come to mind when you think of your interactions with Nelson Mandela?
+
+Richard Branson: Well, I was lucky enough to get to know him very well over the years, even to the extent, that on July the 18th we share a birthday and he would ring me every single birthday to wish me a happy birthday. I remember the sadness when I didn’t get that call not so many years ago. He had an absolute joy for life. He would dance, he would smile, he would embrace everybody.
+
+But he had a tough side to him as well. I remember one lunch I had with him early on in our relationship where I’d been warned that he was always trying to extract money for good causes. We had the first course, then we had the second course, then we had the pudding and we were onto the coffee and I thought, my God, I’ve got away with it. Then he turns to me and says, “Ah, Richard, last week I had lunch with Bill Gates and he gave me $50 million for” such-and-such a cause.” Anyway, he did not miss an opportunity. Apart from maybe Archbishop Tutu, I haven’t met anybody as extraordinary in my lifetime as him.
+
+
+TAGS
+CHRIS SACCA, DEREK SIVERS, RAY DALIO, SIR RICHARD BRANSON, TIM FERRISS RADIO HOUR, TONY ROBBINS
+	

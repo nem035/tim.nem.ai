@@ -1,0 +1,315 @@
+
+
+DECEMBER 7, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Mike Maples and Andy Rachleff — Two Questions Every Entrepreneur Should Answer (#397)
+
+
+Please enjoy this transcript of another episode of The Tim Ferriss Show. This time, we have a slightly different episode—a takeover by Mike Maples, Jr.
+
+Mike Maples, Jr., (@m2jr) and his firm, Floodgate, have invested in and supported many of the startups you might recognize — including Twitter, Twitch, Lyft, Chegg, and Okta, among others — long before they were household names. He’s been on the Forbes Midas List eight times in the last decade, but he’s much more than a successful investor. Mike has also succeeded as both a founder and operating executive.
+
+He’s also simply a great guy and the first person who really taught me how to angel invest. For more on that background, listen to my interview with Mike at tim.blog/mikemaples.
+
+In this episode, however, Mike speaks with Andy Rachleff (@arachleff), co-founder of Wealthfront and Benchmark Capital, about two of the biggest questions that should be on every start-up founder’s mind: How do you reach “product-market fit” (a term that Andy coined), and how do they know when you’ve achieved it?
+
+Andy has known many of the start-up world’s giants and synthesized their lessons, so you will also find out what Andy learned from Don Valentine of Sequoia, Scott Cook of Intuit, Reed Hastings of Netflix, Geoffrey Moore, Clay Christensen, Eric Ries, and Steve Blank.
+
+The audio from this conversation is from the premiere episode of Mike’s brand-new podcast, Starting Greatness, which I encourage you check out. There are some incredible guests coming.
+
+So, if you like this conversation between Mike and Andy, be sure to subscribe to Starting Greatness on Apple Podcasts, Spotify, Overcast, or wherever you get your podcasts. You can also check out the website at greatness.floodgate.com, and on Twitter you can follow Mike at @m2jr and Andy at @arachleff.
+
+
+
+
+#397: How to Win in the Startup World — Mike Maples and Andy Rachleff
+
+Andy Rachleff: If the customer doesn’t scream, you don’t have product market fit.
+
+Mike Maples, Jr.: That’s the voice of Andy Rachleff, the person credited with coining the term product market fit. And since getting product market fit is vital to a raw startup, we thought we’d get straight to it and talk to him.
+
+This is Mike Maples, Jr., at Floodgate, and it’s go time with Andy Rachleff.
+
+Welcome to Starting Greatness, the podcast dedicated to ambitious founders who want to go from nothing to awesome super fast. When you’re a startup founder, you have to channel your inner James Bond, your MacGyver, your Wonder Woman. I’m going to help you win by curating the lessons of the super-performers, but before they were successful. So without further ado —
+
+Speaker 3: Ignition, sequence, start.
+
+Mike Maples, Jr.: Let’s get started. In 1995, Andy Rachleff co-founded the firm Benchmark Capital, widely acknowledged to be one of the best VC firms in Silicon Valley, with some of the best startup investments of all time. He’s also a co-founder and CEO of Wealthfront, so his ideas about product market fit and startup success aren’t just academic. And speaking of academics, Andy also teaches the renowned class at Stanford Business School, aligning startups with their markets. He literally is the professor of product market fit. Let’s catch up with him.
+
+Andy Rachleff, thanks for joining our podcast.
+
+Andy Rachleff: Thank you for having me.
+
+Mike Maples, Jr.: Andy, one of the reasons that I was excited to talk to you was to talk about the idea of product market fit, which is probably one of the most famous descriptors of what a zero to one startup is trying to get to. Where did that term come from in the first place and what’s the origin story?
+
+Andy Rachleff: I can tell you the origin story of the concept: I learned it from Sequoia Capital. Don Valentine really invented it. Don used to say, “I’m looking to invest in companies that can screw everything up and still succeed because the customer pulls the product out of their hands.” I’m paraphrasing; I’m not sure I got that exactly right. He felt that way because the startup will screw everything up. So I want a company that is in such demand from the market that they can literally screw everything up and still succeed.
+
+I actually defined it in terms used by Steve Blank and Eric Ries. They were the first to apply the scientific method to business, and I think that Steve’s great contribution to the entrepreneurship business was the idea that first you have to prove a value hypothesis, and only once you’ve proven the value hypothesis should you test a growth hypothesis. To me, product market fit is when you have proven the value hypothesis. So the value hypothesis is the what, the who, and the how: What are you going to build? For whom is it relevant? The how’s the business model.
+
+Mike Maples, Jr.: I get this question a lot: “How do I know when I have it?”
+
+Andy Rachleff: I have four heuristics that I use, two for consumer and two for enterprise. So the two best consumer ones that I know are exponential organic growth. People can gain growth and they do it all the time, and I’m always amazed that people fall for it and that they kid themselves into thinking they have product market fit because they bought it. The only way to know that you have product market fit is if you get word of mouth. I learned this from Scott Cook, who’s the best product guy that I’ve ever met. So Scott was riveted on word of mouth. Well, the best test of word of mouth is exponential organic growth, because the only way you can get exponential organic growth is through word of mouth.
+
+The other heuristic that I suggest is net promoter score, which is a proxy for word of mouth. It’s not quite as good, and there are outliers where it just doesn’t work. So Chamath Palihapitiya, who started the growth group at Facebook, once told me that at the height of Facebook’s growth, their net promoter score was negative 14. So it’s not always an ideal indicator.
+
+On the enterprise side, the two that I suggest, are one that I learned from one of my teaching partners at Stanford, Mark Leslie, who created something called the sales learning curve. One of the metrics that Mark used to determine where in a company’s life — sales life — it was, was by measuring the sales yield. The sales yield is the contribution margin of a sales team divided by the total cost to field the sales team. So if you have a direct sales rep, an SE, an inside sales rep, and management overhead, a sales team might cost in the order of $500,000 or $600,000. What Mark and Chuck Holloway, his co-author of the paper that they published in Harvard Business Review found, was that when a company gets to a sales yield greater than one, that’s how you know you’ve hit product market fit. That’s, to me, the best test of enterprise product market fit.
+
+The other one I learned from Doug Leone of Sequoia. All my best ideas have come from other people, I just put a name on it.
+
+Mike Maples, Jr.: You just curate it.
+
+Andy Rachleff: I just curate it.
+
+Mike Maples, Jr.: You’re channeling their wisdom.
+
+Andy Rachleff: Exactly. So Doug, who has one of the best noses for product market fit of anyone that I’ve ever met, taught me an amazing lesson when we sat on one of our boards together, and that was, every enterprise company has to do a proof of concept trial. In order to make these trials as productive as possible, companies typically require that they be limited to 30 days and that the customer sign a contract that says, “If the product does what you represent, I will buy it after 30 days.” No company ever lives up to that contract, as you’ve experienced.
+
+Mike Maples, Jr.: Right, right.
+
+Andy Rachleff: So what Doug suggests is at the end of 30 days you pull the trial, no matter what. If the customer doesn’t scream, you don’t have product market fit. Because if they’re not going to buy it at the end of the 30 days, they’re not desperate, and if you’re not desperate, you don’t have product market fit.
+
+Steve Blank, in his book Four Steps to the Epiphany, conjures an image of the customer reaching across the table and grabbing you by the collar saying, “When can I have this? I need this.”
+
+Mike Maples, Jr.: Or even, “I’ve wanted this. I’ve tried to do this before.”
+
+Andy Rachleff: “I’ve spent money on it.” Even better, “I’ve already spent money trying to do this myself.”
+
+Mike Maples, Jr.: Yeah. So it’s interesting because I think there are two counterintuitive lessons. One is, a lot of founders when they pitch are like customers. They want to feel that their idea gets validated and they sometimes don’t see that you’re trying to find people who are in on the secret with you. The real goal is to find the limited subset of people who are in on the secret with you. You could go talk to those other folks later, but don’t waste a lot of ergs of energy. But the other thing that I think that this reveals is, it’s not necessarily bad if the customer’s built what you view as a competitive offering.
+
+Andy Rachleff: That’s great.
+
+Mike Maples, Jr.: Exactly. So it’s counterintuitive because you’d think, well, it’s going to be hard to close this customer because I have competition here, but precisely the opposite’s true. They’ve progressed down the idea maze far enough to know that they’ve been waiting for you.
+
+Andy Rachleff: Some of the most successful enterprise software companies actually were spin-outs of products that companies built for themselves but they couldn’t maintain them. It’s really funny, the second biggest mistake that I see entrepreneurs make, especially in enterprise, is that when they pitch a potential customer on the idea, and the potential customer doesn’t like the idea, then they try to iterate on the product to build something the customer would want. By definition, that’s righting consensus, so it’s going to lead to a mundane outcome. That’s the absolute wrong thing to do, even though that feels right. So you want to go find people who actually love what you’re doing, not try to convince the nos and turn them into yeses.
+
+Mike Maples, Jr.: Yeah. And you want them to be saying, “When is our next meeting? What is our next step? How are we going to make progress on this? Come back tomorrow. I wanted to have my boss, Bob, here but I didn’t know what you were really doing. I want to get on this.”
+
+Andy Rachleff: By the way, this is an analogous on how to attract a venture capitalist as well. If the venture capitalist doesn’t immediately say, “When can I meet you again?” you haven’t found product market fit.
+
+Mike Maples, Jr.: And it’s funny, to me, the best startup scenarios I’ve seen are when the entrepreneur, the early investors and the early customers are all in on a secret together. They’re starting a movement that the rest of world will one day accept, but they’re starting it as rebels. They’re starting it as people who are going to prove to the rest of the world that their insight is right —
+
+Andy Rachleff: That is fine.
+
+Mike Maples, Jr.: — and that they haven’t caught up. There’s a book that I’ve heard you reference recently, that it seems like people have forgotten about and maybe they should put more front and center, which is Crossing the Chasm. Why do you think that this? Why do think Crossing the Chasm is current for today’s world and should be read by more folks?
+
+Andy Rachleff: Well, the fundamental idea expressed in Crossing the Chasm is there is a natural rate of adoption of every product. That hasn’t changed. It was true 100 years ago and it’s going to be true in another 100 years. The basic premise is that there are different people who are willing to adopt at different rates. By the way, those people change over time, but putting aside the lunatic fringe of the innovators, the first people who adopt products are the early adopters. These people are revolutionary, not evolutionary. They want to buy a product to solve their problem, and all they need is a proof of concept in order to do it. If they get a proof of concept, they’re going to buy on the merits of the product. They have a problem, they’re desperate, they’re willing to buy it.
+
+Next come the pragmatists. The pragmatists, they want something that’s evolutionary, not revolutionary. They’re not trying to get ahead in their jobs, they’re trying not to get fired. They’ll only buy if five people tell them they should buy. So it doesn’t matter how well you serve their needs, they’re not going to buy until they get references. They need social proof.
+
+The next group, the conservatives, or the late majority, as Geoffrey Moore, the author, calls them, only buy once it’s become the standard. And then finally are the laggards who don’t buy.
+
+Now the biggest chunk of the market is represented by the pragmatists or the early majority, which leads most entrepreneurs to go after them first, but there’s a catch-22: How can you go after them first if you don’t have any references? The biggest problem by far, the biggest mistake I see people make, is trying to start with the pragmatists because it’s the biggest market, because every podcast you listen to or every book written on entrepreneurship says you should go after a big market because ultimate size of market addressed is the single greatest determinant of outcome. Which is true, but you’re not going to capture that market if you try to start with that market. This lesson will last forever.
+
+I often get asked, “Well, if your product is so great, why doesn’t everyone use it?” Because it takes a while for you to transition from early adopters to the early majority to the late majority and the laggard.
+
+Mike Maples, Jr.: A lot of times I find it interesting people will bring up so-called counter examples like Facebook, and they’ll say —
+
+Andy Rachleff: Well, they’re outliers.
+
+Mike Maples, Jr.: Yeah. And also, Facebook started at Harvard.
+
+Andy Rachleff: Actually, Facebook is a perfect example of the Crossing the Chasm philosophy. So they solved a very, very small problem, which is there was no common Facebook across the freshman class at Harvard, it was only by house. So the only way you could see who else was in the freshman class was through The Facebook. And then it spread to some other Ivy League schools because the kids at Dartmouth and Yale had friends at Harvard. And then it spread to other colleges, and then it spread to high schools after that. So it exactly followed the Crossing the Chasm model. It’s not an outlier at all.
+
+But I often hear people try to find issue with theories using examples, and my teaching partner from my product market fit class at Stanford is a fella named Bill Barnett, who’s a professor. One of the great lessons I learned about teaching from Bill is, he does not allow students to use examples in their arguments because the example could be an outlier. So he asks the students to, “Give me the logic, and if you can’t give the logic, you can’t win the argument.”
+
+Mike Maples, Jr.: And even, I guess, in the case of Facebook then, it feels like that was an example where Mark Zuckerberg didn’t say, “I wonder what the market for social networking’s going to be?” I think he was solving his own problems.
+
+Andy Rachleff: So here’s the problem. As soon as a company becomes successful, it revises history because people in the early majority want to believe that the product was built for them. Telling the story of how you actually got there is off-putting. So every great marketer I know is a revisionist.
+
+Here’s another great example: Google. So we all know about how it took off as a search engine, but as a business it exactly followed the Crossing the Chasm philosophy, or the technology adoption lifecycle. When they first started monetizing, they used text ads. Now at the time, Yahoo offered display ads. Yahoo sold these ads through a sales force. So in order to justify the cost of a sales call, you had to sign up to a minimum of $10,000 a month contract for six or 12 months, to justify the cost of the sales call. You also had to pay for a graphic artist. Back then we didn’t have designers in startups or in companies, they were contractors. So you had to pay for a graphic artist to design the display ad, and that might cost $3,000 to $5,000. So the minimum cost to run an ad was $13,000 to $15,000.
+
+When Google came to market with this six word text ad — they got the idea from Overture, but it didn’t matter — but they had this text ad. When they took it to people who did display ads, they said, “A picture’s worth a thousand words. Why would I pay for a text ad?” So you know who the only people who bought the text ads were in the beginning?
+
+Mike Maples, Jr.: I guess anybody who wasn’t paying $6,000 to get started!
+
+Andy Rachleff: Startups who couldn’t afford it. So they went to the desperate, and you could buy an ad for as little as $1 on your credit card with a self-service process, and they got startups to sign up for it. They were the desperate. Now once they proved the efficacy of text ads versus display ads, they crossed the chasm into the early majority and they got references and they were able to grow the market. But they started with startups, they didn’t start with traditional advertisers.
+
+Mike Maples, Jr.: What I love about that example is how it illustrates —
+
+Andy Rachleff: But no one tells that story because that’s not what you wanted to hear if you were a traditional advertiser.
+
+Mike Maples, Jr.: Yeah. If you’re a pragmatist buyer, you want to be central and the hero’s narrative about you, right?
+
+Andy Rachleff: Exactly.
+
+Mike Maples, Jr.: Not about the crazy, wacky stuff you did in the early days when you were trying to find a small band of desperate people who believed what you believed.
+
+Andy Rachleff: One of my biggest challenges when I teach this concept to my students is they’ve all heard the revisionist story, so they don’t believe me.
+
+Mike Maples, Jr.: And the storyteller has no incentive to change the story. So you’re talking to the voice of authority of that company. You’re talking to the founder of the company and he’s saying, “This is my story.” That’s pretty hard to go against. Bu when you go back in time, I see this with some of the investments that we’ve made that worked out, it’s easy to misremember how it even happened. It’s easy to not even understand why you did something or why it worked or what in fact worked or —
+
+Andy Rachleff: One of my favorite stories, revised stories, that the founder actually never tells himself, or the CEO never tells himself, but everyone tells about him, is the story of Netflix. So Netflix started as a DVD rental by mail where you literally paid $6 every time you rented and they’d mail you another DVD. It failed miserably. Well, Reed Hastings was the seed investor. He wasn’t the founder of the company. He was the chairman of the company. One of the big mistakes we talked about was how people iterate on the what, they shouldn’t, but you should iterate on the who and the how, the business model. So Reed ran a very successful technical software company prior to starting Netflix. I know this because I was on his board of directors.
+
+Mike Maples, Jr.: Pure Software.
+
+Andy Rachleff: Pure Software. One of the things that Reed did to turn Pure into a very successful, I think greater than $100 million revenue technical software company, which was very unusual at that time, was he changed the business model from perpetual license to subscription license. That was really controversial in the early 1990s. When he stepped in to take over Netflix because it was failing, he said, “Well, why don’t we try this subscription thing? It might work.” And little did he know it was the ideal antidote to the late fees that Blockbuster charged that used to drive everyone crazy.
+
+So Reed was trying to find people who were desperate at the time. You couldn’t rent DVDs. You didn’t have much of a selection at Blockbuster stores. So people were desperate to get the DVDs but not at $6 per unit through the mail. The business model allowed the desperate people to do it. Now the story changed to Reed was driving to Blockbuster to return a movie one day and he passed his gym and he thought, “Why don’t I apply the gym business model to Blockbuster?” That’s not how it happened at all.
+
+Mike Maples, Jr.: So that’s what he says now?
+
+Andy Rachleff: That’s not what he says, but that’s what the myth became about Netflix.
+
+Mike Maples, Jr.: Okay. Rather than, “This business ain’t working, I’d better try plan B.”
+
+Andy Rachleff: And it sure worked.
+
+Mike Maples, Jr.: Which is probably a good way to think about pivots in general. How does this thought process relate to pivots in your mind?
+
+Andy Rachleff: You have to be willing to fail, but you don’t pivot on the product. If you fix the market and pivot the product, then you have no advantage because your original insight is gone. So what advantage do you have over anyone else? You’re now in that righting consensus quadrant. You have to try to find a different market or a different business model to enable people to buy your product.
+
+Mike Maples, Jr.: The technical insight that underlies your product is usually what you’re betting the whole company on, and if that insight is invalid, you’re probably better off just starting over.
+
+Andy Rachleff: You’re better starting over. Exactly.
+
+Mike Maples, Jr.: You don’t have a company. Now you’re just out there selling whatever, hoping for a miracle.
+
+Andy Rachleff: Exactly.
+
+Mike Maples, Jr.: But I guess similarly —
+
+Andy Rachleff: That’s a Hail Mary.
+
+Mike Maples, Jr.: Okay. So then, if I understand correctly, the valid definition of a pivot is, keep your insight, keep your proprietary insight, but then find the right customer for that existing insight rather than abandon your insight. Don’t let go of your secret.
+
+Andy Rachleff: I don’t believe that everyone can apply the Lean Startup methodology to succeed. I think it increases your odds of succeeding. Just because you’re pivoting on the market doesn’t mean you’re going to find a desperate market. But if you do, you’re going to build a much better business.
+
+Mike Maples, Jr.: The metaphor of pivot is apt in that a pivot involves keeping your pivot foot on the ground as you move your body, and your pivot —
+
+Andy Rachleff: That’s a great insight.
+
+Mike Maples, Jr.: And your pivot foot has to be the same. You can’t have any arbitrary aspect of success be your pivot.
+
+Andy Rachleff: Now, there are outliers, there are exceptions. A great example is Instagram, ended up doing something completely different than what it started out to do. That was not a pivot, that was a restart.
+
+Mike Maples, Jr.: Well, it’s funny, and I was involved with a company called Chegg, which did textbook rentals. A complete restart. We were out of money and we’d had this idea and Facebook decided to go into classifieds and so we’re like, “Well, we’re out of business if we’re a classifieds company. So let’s try this textbook rental idea that we’ve had at the back corner.” And we didn’t have enough money to do it but we thought all we have to do is prove people will rent textbooks and we’ll raise something. But the company was fundamentally different from the idea. It was just an idea that we tried out of desperation.
+
+Andy Rachleff: So the vast majority of successful startups, or successful technology companies, pivoted from their original proposed market in their business plan. Very, very few restarted. There are exceptions, but that’s why you shouldn’t argue the example, you have to argue the logic.
+
+Mike Maples, Jr.: Which relates to a point I’ve heard you make before: Not everybody needs to like your product. In fact, it may even be better if not everybody likes your product. What do you mean by that?
+
+Andy Rachleff: It’s actually the subject of the first class in my product market fit course, which is, not everyone should like your idea, or should everyone like your idea? And the answer is absolutely not. So let me give you some context.
+
+First, let me offer a framework for thinking about this that I learned from my investment idol, a man named Howard Marks, who’s the founder of a distressed debt investment firm called Oaktree Capital. He believes that investing in I believe entrepreneurship can be described with a two by two matrix. On one dimension you can be right or wrong, and on the other dimension you can be consensus or non-consensus. Obviously, if you’re wrong you don’t make money. But what most people don’t realize is if you’re right and consensus, you don’t make money because the returns get arbitraged away. The only way to make outsized returns as an investor or an entrepreneur is to be right and non-consensus. The problem is, you only know that you’re non-consensus when you start, not whether or not you’re right. You hope that you’re right. Unless you’re non-consensus, you don’t have a chance to serve the desperate because they wouldn’t be desperate if they were already served.
+
+Now if you ask five people in the street about your idea, which might be a killer idea, at least four out of the five of them should say they don’t like it because they haven’t been conditioned to like it. Human beings are conditioned to like things or not like things. Think of the greatest ideas in the last 10 years. Uber. If you asked 10 people on the street about Uber, a ride hailing service, they’d say, “What? Why do I need that?”
+
+Mike Maples, Jr.: “That feels unsafe,” and “Why would I let a stranger drive me around?”
+
+Andy Rachleff: Airbnb: “Would I let somebody into my home to rent a room? That’s crazy.” So you want people to not like it. If everyone likes the idea, it means they’ve already been conditioned, so you’re trying to do a better job of what somebody else has, and that is not a recipe for success in technology.
+
+Mike Maples, Jr.: You talked earlier about Scott Cook and being the best product guy you knew. I’ve also heard you use the term savored surprises. I think that’s a really good framing principle. So could you talk about that a little bit?
+
+Andy Rachleff: Sure. That’s something that I learned from Scott. One of the best parts of teaching is how much you get to learn. We are really fortunate being here in Silicon Valley that we can write cases about companies and then have the protagonist of the case actually come to the class to discuss what happened, and not give you the revised history but tell you what actually happened.
+
+So I’m incredibly fortunate to have taught a couple of classes where Scott was the guest, he was the protagonist of the case. One of the amazing lessons that I learned from him was a concept that is a core part of the Intuit culture now, which is to savor surprises. And by that they mean that whenever you create a new product and bring it to market, either as a minimum viable product to a group of five users or to a thousand users, there’s always going to be a surprise, something you didn’t expect people to react to, positively or negatively. Scott found that all of the value lies in the surprise.
+
+Mike Maples, Jr.: And it’s interesting. I’ve heard him say that in another forum which was — so we were on a panel together once at South by Southwest and he brought this up. He said that when he’s in a meeting and somebody’s proposing a big project or a launch or a new initiative, he would ask, “Well, as you did this analysis and work, what surprised you?” And what he learned was that if the people couldn’t answer that question, they were really just trying to get their agenda across. They were just really trying to get money for their pet project. But how could you possibly have a market discovery or customer discovery exercise where nothing surprised you? How could that ever make sense?
+
+Andy Rachleff: You’re in the righting consensus quadrant if you have, which is death.
+
+Mike Maples, Jr.: Or you just weren’t listening to the market. So where we internalized it was, now when we talk to people we say, every iteration — every company in zero to one pre-product market fit mode, we like to say, has an iteration tempo. So a consumer product may iterate every day. An airprice software company can’t deliver half a loaf to General Motors, so their tempo may be slower. But we like to say, “You must have savored surprises at the end of every iteration, or on some level you wasted the iteration. You didn’t gather any new earned secrets in the engagement with the customer.”
+
+Andy Rachleff: Our president at Wealthfront has a great saying that, “The definition of a good experiment is one from which you learned, not one that succeeded.”
+
+Mike Maples, Jr.: Right, right.
+
+Andy Rachleff: So if there are no surprises, then you didn’t learn anything, and it wasn’t a good experiment.
+
+Mike Maples, Jr.: What was the biggest mistake you made at Wealthfront where you look back on it and you’re just like, “I should have known —
+
+Andy Rachleff: Oh, my —
+
+Mike Maples, Jr.: — that was unforced error?”
+
+Andy Rachleff: So number one was I ignored a lesson that I teach my students over and over and over again, which is, don’t project your own tastes on to other people. This is an enormous mistake my MBAs make. They say, “Well, I wouldn’t use that product, therefore it’s not a good company.” Well, you might not be the target audience, so that’s irrelevant, and as a venture capitalist you know that’s one of the first things you have to unlearn.
+
+Mike Maples, Jr.: Yeah.
+
+Andy Rachleff: So I did that in terms of thinking about the attractiveness of what we initially offered. The other thing was, the original implementation of the idea was a marketplace where you could choose investment managers who we would apply the Ivy methodology to determine who was likely to outperform the market. We did a really good job of picking the managers and nobody cared. Part of the problem was, we applied Steve Blank’s customer development methodology to one side of the two-sided marketplace, but not to both sides. Because at Benchmark we had backed a number of very successful marketplaces, or network effects business. I had effectively co-founded Equinix, which is now a multi-billion dollar company. So I’d seen that firsthand. We had OpenTable. We had operating systems companies.
+
+Mike Maples, Jr.: eBay.
+
+Andy Rachleff: eBay. We had a ton of them. So what I had learned from this experience was that it’s hard to catalyze a marketplace. So you tend to focus on the sell side before the buy side. I even recruited Jeff Jordan, who’s now a partner at Andreessen Horowitz, who had run eBay North America and PayPal, and after he retired from eBay, he actually ran OpenTable, another network effects business marketplace, and he agreed that this was the right thing to do. So we spent all of our efforts applying customer development to the sell side and never to the buy side, assuming that if we had the liquidity, that the buy side would just come. That was the dumbest thing I ever could have done.
+
+Mike Maples, Jr.: When did you have the epiphany that, “Oh, oh, I need to re-remember some of my thinking on this?”
+
+Andy Rachleff: Well, we were failing. That tends to get your attention! We had about 10 or 11 months of cash left in the bank. We were growing, but we weren’t growing at the rate that would get us another venture financing. I knew that we had to do something different.
+
+Interestingly, the night that I made the decision, I was reading a chapter of a Clay Christensen book that I was going to talk about in my product market fit class, and it just hit me like a sledgehammer that what we were doing wasn’t disruptive in the Christensen definition. It was better, but better doesn’t matter. It was one of those “Oh, my God” moments. “This makes no sense.”
+
+I’d been trying to get my VP of marketing to talk to people who started a signup process but didn’t follow through, to see why they didn’t. One of the challenges with millennials, and forgive me for saying this, I’m 60 years old, is that people in my generation like to talk to people, millennials don’t. This is the key to the success of Wealthfront by the way, is our clients pay us not to talk to them. We deliver a full suite of next generation banking services and investment services without having to talk to us about anything. Everything’s automated. The downside of it is, they only want to look at behavioral data or email feedback to make decisions, and I knew we had to get out — as Steve says, “You have to get out of the f’ing building to talk to customers.”
+
+So after six months of trying to get my VP of marketing to do it, I was a first time CEO and I didn’t want to step in and tell her what to do because that’s not very empowering, and finally I said, “To hell with it, I’m going to start calling these people myself.” And the feedback they gave me was unbelievably consistent, which was — we used to just address the public equity portion of your portfolio which is about a third — should be about a third of your money, and people said, “I’d rather that you manage all of my money adequately and inexpensively than a portion of it superbly.”
+
+Mike Maples, Jr.: And how did you nail your niche early on?
+
+Andy Rachleff: Actually it was a Crossing the Chasm suggestion from one of my angel investors. Again, we had started as this investment management service. So we had evolved. It was a pivot, because 90 percent of the software was the same. Instead of having a marketplace of investment managers, it was just us that managed your portfolio. At a board meeting, before we launched the new service, and I said to my board members, “People who are exposed to this love it, but my biggest concern is that we have a chicken and egg problem, and that is, people don’t know how to evaluate a financial advisor, so they use assets under management as the proxy for quality. It’s actually a terrible proxy for quality. It’s a great proxy for how good someone is at selling others, not how good they are at investing. So I’m not quite sure what we’re going to do here.”
+
+Doug Mackenzie, who’s a retired partner of Kleiner Perkins, who believed in Crossing the Chasm because he’s my age, said, “Andy, why don’t you focus on young people and tech because they’ll care a lot more about the quality of the user experience than they will the assets under management, and you and your team have enough credibility in this community that they’ll take the — early adopters will take the proof of concept.” That was the critical insight in the history of our company.
+
+Mike Maples, Jr.: So what do you do, just call up people at Facebook and say, “Try this?”
+
+Andy Rachleff: Facebook was about six or 12 months away from IPO. A number of employees had sold secondary stock. We thought, well, who are the best connected people in Silicon Valley? It’s the people who work at the social networks. So we did three or four seminars at Facebook and LinkedIn where we educated people on investment best practices, not Wealthfront, because we wanted to get the engineer as the earliest adopter because we thought they would provide the references to the less well-educated people on investing. What we know about engineers is they hate being sold. They’re like cats, they’re not like dogs. Sales people are like dogs, they want to be petted and loved. Engineers do not want to be sold to.
+
+So we did this beta test, I’ll never forget, with Adam D’Angelo of Quora, and a few people at Quora, and the beta test we did of the seminar to eight people was 80 percent education and 20 percent selling. At the end of the seminar, Adam said, “Andy, you have to decide which one it’s going to be because it can’t be both.” He was absolutely right. That was the surprise. So we went all education, and immediately Facebook and LinkedIn people signed up and then used their networks to start telling their friends.
+
+Mike Maples, Jr.: Oh, interesting.
+
+Andy Rachleff: Then we learned that employees of enterprise software companies were not good targets because they were older than people who worked at consumer internet companies.
+
+Mike Maples, Jr.: Well, and it may also be the case that at first it’s like, well, selling just to engineers and social networking companies, doesn’t that limit your market? But it turns out that those are the people who will respect the contrarian insights that you had.
+
+Andy Rachleff: Exactly.
+
+Mike Maples, Jr.: So then the leap of faith becomes whether there are going to be more people who respect that value proposition over time.
+
+Andy Rachleff: And then we moved into adjacent markets. We got product managers. We got business development people. We got sales people at the internet companies. And then they went to school with people in other professions. So we started getting doctors and lawyers and accountants, and people in the investment business, and it just kept spreading and spreading and spreading, and we grew exponentially organically.
+
+Mike Maples, Jr.: I remember when I first got it, just the idea that it will just autopilot everything. The tax loss harvesting, all of the dynamic balancing of your —
+
+Andy Rachleff: We didn’t have all that in the beginning, but over time, as we added more features, we appealed to an ever broader audience, and then we had this insight last year. Some people in the company were anxious to hear what our vision was. So we made a huge investment over the previous three years in our automation engine and in our advice engine, two things that others haven’t done.
+
+I had gone for a walk with one of our product managers and it sort of hit me that the vision for the company was to optimize and automate all of your finances. Then one of our engineers simplified that to self-driving money. That’s where we wanted to be. Now in order to do that we had to offer a cash account because the idea is that you would direct deposit your paycheck with us, we automatically pay your bills and then route the remaining money to the most appropriate account, be it a short-term account or a long-term account, be it something that pays a high yield interest or something that’s invested. So we came out with a cash account. We put it in beta last year and it came out in February, and it just exploded.
+
+So now we’ve completely repositioned around delivering a next generation banking service that’s differentiated by the fact that we will offer self-driving money. So we appeal to millennials who save whereas all of the existing new banks are focused on people who are unbanked or are living paycheck to paycheck.
+
+Mike Maples, Jr.: Well, thanks for hanging with us, Andy.
+
+Andy Rachleff: Always a pleasure, Mike.
+
+Mike Maples, Jr.: It was great to see you.
+
+Andy Rachleff: Always a pleasure.
+
+Mike Maples, Jr.: Thanks.
+
+Mike Maples, Jr.: Thanks for listening to this interview with me and Andy Rachleff. I wanted to take a moment now to talk about a key point that Andy made that I think is essential for going for greatness.
+
+Andy Rachleff: Entrepreneurship can be described with a two by two matrix. On one dimension you can be right or wrong, and on the other dimension you can be consensus or non-consensus. Obviously, if you’re wrong you don’t make money, but what most people don’t realize is if you’re right and consensus, you don’t make money. Unless you’re non-consensus, you don’t have a chance to serve the desperate because they wouldn’t be desperate if they were already served.
+
+Mike Maples, Jr.: If you aspire to create a great startup, consider one simple fact: Great breakthroughs come from insights that defy conventional wisdom. Andy Rachleff referred to this as being non-consensus and right. At Floodgate we call it insight development, but the high order bit is the same. Let’s examine each perspective, starting with Andy.
+
+Andy pointed out that startup ideas have two dimensions: Are you right or are you wrong, and are you consensus or non-consensus? Wrong is always bad because if you’re wrong, you fail. But it turns out that just being right is not enough either. Most people don’t realize that if you’re right and consensus, you’ll usually not achieve greatness. Your startup might have a good idea, but if it’s too obvious, multiple me-too competitors will get funded by me-too VCs, and as competition floods the market, prices erode, sales cycles lengthen, and exit options become less compelling.
+
+The path to greatness is to be non-consensus and right. As soon as a business opportunity becomes apparent, to even a small number of people, the odds begin to work against the startup. I call this effect the startup law of the jungle. If you’ve ever watched the nature channel and seen a baby wildebeest born on the Serengeti plains of East Africa, you can get a visceral feel for what the typical startup faces in its early days. The baby wildebeest is dropped out of its mother’s womb onto the ground in a wet sac. It can barely stand up. If the baby animal takes more than five minutes to get moving, it will find itself surrounded by hyenas, jackals and Nubian vultures.
+
+In the startup law of the jungle, startups are initially very vulnerable to the various predators and hazards that surround them. Being non-consensus and right affords the startup the time to survive, adapt and succeed after trial and error, without fatal consequences. No one preys upon them because no one believes their idea’s important. This gives the startup time to master differentiable and specific skills. It builds strengths for the inevitable competitive battles that will come in the future.
+
+At Floodgate, we emphasize that insight development should happen before customer development. This flows directly from Andy Rachleff’s reasoning. Many of you have heard of customer development. Andy mentioned it in our discussion. It was defined by Steve Blank and applies the scientific method to getting product market fit. Many subsequent works have been built on Steve’s theory. Insight development happens even before customer development. It helps you figure out if your idea’s big enough before you even get started.
+
+One of the most valuable lessons that Andy teaches us is that insight is not the same as analysis. You can analyze customer pain when you start your startup, and the pain might be real, but that does not prove that your idea’s unique. You can analyze a market for gaps or white space but that doesn’t mean you’ve discovered something that no one else has yet seen. Insight is about knowing things that others don’t know yet. Insights are what help a startup get an unfair advantage when they have very few other advantages.
+
+Insight development is a method we have learned from the super-performing founders. When you develop insights, you ask different types of questions that go beyond basic analysis: What is my earned secret? What work have I done to find something out that others don’t know? How did I uncover the secret? Why is it a secret? What work did I do to develop conviction that my secret is real? What is my why now? Almost every startup idea’s been tried. Shouldn’t I assume that my idea’s been tried? Who’s tried something similar? Why did they not succeed? Has there been any major technology change event that makes something possible only now? Is there increasing adoption of a technology that makes something possible only now? Why is now the time for your idea to happen?
+
+In future episodes, we will talk lots about insight development, but speaking of now, what does this all mean for you? You must commit yourself to having a real insight if you want to be truly great. All of the greatest breakthroughs came from unconventional insights: The theory of gravity, Euclidean geometry, the solar system. All these ideas were put forward by heretics in their time. So my own quote I will leave you with is, “There’s a right kind of crazy.”
+
+If you liked this interview, please subscribe to my podcast, Starting Greatness, where each week I’ll share an interview with a legendary founder or thought leader like Marc Andreessen, Reid Hoffman, Steve Blank and more. Each interview will be accompanied by a deeper exploration of a key lesson of the super-performers, in order to provide you actionable insights as you pursue your own path to greatness.
+
+You can follow me on Twitter at m2jr, and please shoot me an email with any comments or questions to greatness@floodgate.com. If you liked this show, I’d be grateful if you could leave us a review on Apple Podcasts.
+
+Never let go of your inner power to do great things, in whatever matters to you. Until we meet again, remember, greatness is a decision.
+
+
+TAGS
+ANDY RACHLEFF, MIKE MAPLES
+	

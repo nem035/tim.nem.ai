@@ -1,0 +1,594 @@
+
+
+FEBRUARY 3, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tim O'Reilly (#278)
+
+
+
+
+Please enjoy this transcript of my interview with Tim O’Reilly (@timoreilly), the founder and CEO of O’Reilly Media, Inc., and one of the most fascinating polymaths I’ve ever encountered. 
+
+Tim O'Reilly - The Trend Spotter
+
+Tim Ferriss: Hello, boys and girls, damas y caballeros, this is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show, where it is my job to deconstruct world-class performers of all different types to tease out the tactics, habits, routines, and so on that you can use. I am recording this intro at a Mexican airport after a top-secret retreat doing top-secret things, and maybe I’ll talk about that sometime, but this episode you’re going to hear is with one of my favorite people, Tim O’Reilly, and I recorded this some time ago and held onto it – like a piece of gold to my chest – to release at the right time. @TimOReilly on Twitter.
+
+He’s one of the most fascinating polymaths and autodidacts – one of the most curious minds I’ve ever encountered. He’s been called “The Trend Spotter” in the world of tech, and certainly involving wider macro trends. He’s been called “The Oracle of Silicon Valley.” He’s the founder and CEO of O’Reilly Media, Inc. His original business plan was pretty simple: Interesting work for interesting people, and that’s worked out pretty well. He’s generated hundreds of millions of dollars in revenue doing many different things.
+
+O’Reilly Media delivers online learning, publishes books, runs conferences, urges companies to create more value that they then capture, and tries to change the world by spreading and amplifying the knowledge of innovators. But, as he would say himself – one of my favorite quotes of his – “Sorry for the noise.” This is some audio verité for you guys. But, he would say, “Money in a business is like gas in a car: You don’t want to run out, but you’re not doing a tour of gas stations,” and we talk quite a bit about that.
+
+Tim has an incredible history of convening conversations that reshape the computer industry. In ’93 – that’s 1993 for you young’uns – he launched the first commercial website – that was very Sean Connery, “the firsht commercial website” – and then, in ’98, he organized the meeting where the term “open-sorf –” – I’ve been speaking too much Castellano; my English is not happening – “open-source software.” My God. Let’s try that again. He organized the meeting where the term “open-sorf –” [Laughs]
+
+I swear to God, I’m not drunk, guys. “Open-source” software was agreed on, and helped the business world understand its importance. In 2004, with the Web 2.0 Summit, he defined how Web 2.0 represented not only the resurgence of the web after the dotcom bust, but an entirely new model for the computer industry based on big data, collective intelligence, and the internet as a platform. Web 2.0 is actually one of the conferences where the four-hour workweek reached its tipping point, so also, thank you to Tim for that.
+
+In 2009, with his Gov 2.0 summit, he framed a conversation around the modernization of government technology that has shaped policy and spawned initiatives at the federal, state, and local level, and all around the world. He has now turned his attention to – and is very focused on – artificial intelligence and the implications of artificial intelligence, the on-demand economy, and other technologies that are transforming the nature of work and the future shape of the business world.
+
+He really has both a 30,000-foot view of the larger shifts – the tectonic shifts – that will produce changes in 10, 20, or 30 years, but is also on the ground and really in touch with the people who are shaping the details of how that will come to pass, and his brand-new book, which I encourage everybody to check out, is WTF? What’s the Future and Why It’s Up to Us, and I will link to all of that in the show notes, of course. If you liked Kevin Kelly, he is a bird of a feather with this fine gent, Tim O’Reilly. So, without further ado, please enjoy this very wide-ranging, extremely – for me, certainly – enjoyable conversation with Tim O’Reilly.
+
+Tim, welcome to the show. Thank you for making the time.
+
+Tim O’Reilly: Well, thanks for having me.
+
+Tim Ferriss: I have been looking forward to this for some time, and most recently, your name came up because I was in a car in the back mountains surrounding part of Uzbekistan with Kevin Kelly.
+
+And, when I asked him for a very short list of who he thought I should have on the podcast, Tim O’Reilly was one of the names that came up. So, I also leaned on Kevin for some deep intel and suggested topics and questions, but I thought I would start with what’s on everyone’s mind, which is why are you similar to Cookie Monster?
+
+Tim O’Reilly: I often joke about myself that as a VC and a businessperson, I’m a little bit like an episode that I remember from when my kids were little. Cookie Monster – I may not have this completely right, but he’s on a game show, and he has to pick his prize, and behind Door No. 1 is $1 million, and they tell him that behind Door No. 2 is a chateau in France, and behind Door No. 3 is a cookie, and of course, everybody knows what he picks.
+
+What I like to say about myself is that I always go for the cookie because in some sense, what I really care about – what’s my cookie – is finding people who are doing something new and interesting that I think other people want to know about and that they can learn from. My whole business has been built around finding people who have cookies, and then sharing it with the world.
+
+Tim Ferriss: So, not to take the Cookie Monster discussion too far, but – you didn’t know this – I happen to be standing in a house where Seasons 1-10 of Sesame Street were partly written, so many of the characters – including Cookie Monster – were actually written where I am standing.
+
+Tim O’Reilly: That’s amazing.
+
+Tim Ferriss: So, it’s come full circle. When I bought the house, the former owners were going to throw everything out, including a Season 1 staff jacket for Sesame Street, which, of course, I kept, and that is hanging in the doorway. But, when we come back to ideas – and, we’ll certainly spend a lot of time talking about publishing and many things that are perhaps a little more recent in your life – but, I wanted to rewind the clock a bit and start with an odd story. Could you tell me about how your father – who, in my understanding, was a neurologist and also deeply religious – injected radioactive copper isotopes into your arm. Is that a true story?
+
+Tim O’Reilly: That is absolutely true.
+
+Tim Ferriss: So, tell me – I need some more context on that.
+
+Tim O’Reilly: It wasn’t my dad who injected them. It was a guy named Leroy Shipley. He was the lab tech. Oh, my God, he was amazing. He was very funny. But, when I was 14, my best friends and I and my best friend’s sisters – the girls were a little older – agreed to participate in a study of Wilson’s disease, which is a disease of the abnormal retention of copper in the body. It’s a genetic disease. My dad was pioneering early genetic medicine and also radio medicine, and Wilson’s disease was one of his specialties. So, they needed to have control subjects to understand how copper is excreted normally.
+
+And so, they would inject us with radioactive copper, and every day, we went in and lay in this room where there was this massive thing – not like today’s MRIs – it was this whole room that was called the Whole Body Counter. They traced where the copper went. It accumulates in the liver, and then in the brain of people with Wilson’s disease, and it’s normally excreted after some relatively small amount of time. So, it was copper-64, it’s got a half-life of a few weeks, and so, presumably, it was all gone. But, if I ever come down with liver cancer, I may have my father to blame.
+
+But, we actually did it twice, and again, he obviously took some thought about whether it was safe because once we became lab rats for him, there were other researchers who wanted us to do other experiments, and he said, “No, I don’t want you to do that one. That doesn’t seem right to me.” So, of course, he used himself as a guinea pig for his experiments.
+
+Tim Ferriss: What did your mother do? As I understand it, you had a total of seven children in the family.
+
+Tim O’Reilly: That’s correct.
+
+Tim Ferriss: That’s certainly a full-time job just to take care of the kids, but what did your mom primarily spend her time doing?
+
+Tim O’Reilly: Taking care of seven kids is huge. I still remember her – one of my memories of my mom is her on her hands and knees in the bathroom, scrubbing the toilet, and she looks up and says, “Life is not a bowl of cherries.”
+
+But, of course, the idea of my mom like that brings up another great story about that time that she likes to tell. She was apparently up on a piano stool trying to dust a light, and she fell off and was lying flat on the floor. My brother, James, who must have been 8 or 9 at the time came running in from the schoolyard – we lived about a block from the school – saw her on the floor, and said, “Mommy, what time is it?” She said, “James, I don’t know,” and he said, “Okay,” and ran back out.
+
+Later, she said, “What did you think I was doing, lying on the floor?” He said, “I don’t know, maybe dusting under the piano.” So, she was basically – she was the old-school – she made every bit – on account of my background, she ought to have made us do more of the work.
+
+We had some chores, but basically, she made all the beds – It was a lot with seven kids. Again, I was in the older cohort, so there were still young babies. The thing that’s actually been such a great delight to me in my life – my dad died very young, when he was 60, and that’s now 40 years back. My mom later came to travel with me. She would just come with me on my business trips, and she was such a willing, interested traveler.
+
+She was a girl from the back of the mill in Yorkshire. She grew up from a – Actually, her parents and her grandparents before that were factory workers, but her dad was also a bookie, taking bets on horses back when it was illegal, and she would always tell us stories which were full of shame for her but full of romance for us about how she used to have to college bets from strangers in the park when she was a girl.
+
+The police would come, and she’d have to light out over the back fences. We took great delight in the thought that we were descended from petty criminals. Again, of course, by the time I was a teenager and went to visit, it was legal, and his son actually had the betting business and a little betting shop, but it’s a lot of fun.
+
+It actually brings up something that’s completely irrelevant but kind of a bit of pattern recognition – the fact that here was a guy who had a living doing something that was illegal, and then, when it became legalized, he was able to do it. It made me think of what’s happening right now with weed in places like California, where it’s been legalized.
+
+And – Sorry, I was trying to think of the name – the head of the San Francisco Foundation was at dinner, and we were talking about various issues, and he said – this is Fred Blackwell – “What about the weed problem?” I said, “What do you mean, ‘the weed problem’?”
+
+He said, “Well, there’s all these people coming in now, and they’re making all this money selling weed, and the only people who can’t participate in this new economy are all the black and brown people who have convictions on their record for selling weed!” It’s just that kind of interesting thing that we don’t think about. When we change the rules, what do we do about the people who played by the old rules with the new rules?
+
+That just leads me down this path. A lot of what’s broken in our society is this layering of ideas that change, but they change incompletely. People have this effectively bad map of the world that doesn’t work anymore. It’s the same thing – a lot of the work that we do at Code for America, my wife’s nonprofit, is around fixing some of these things.
+
+We do a lot of work in expunging low-level offenses – that’s why we were talking with Fred – from people’s records. They passed something called Prop 47 here in California, and there was something like $30 to $40 million spent to pass this proposition, but nobody thought about the implementation. And so, a tiny fraction of the people who are eligible have actually done it.
+
+We saw the same thing with the healthcare.gov failure back in 2013. People pass policies, and they don’t actually think about how they’re going to actually do this thing. So, right now, if you want to clear your record, you have to go to the DA’s office, and you pick up this form, and then you go somewhere else, and get it signed by someone – These are people who don’t have the time to go spend months on this process. If they were going to pass this, they could have thought through how they would make it easier for people.
+
+A lot of the other work we do is around improving access to food aid, and we got brought in because they didn’t really understand why people were signing up, falling off the program, and then signing up again immediately. It was just administrative stuff that people didn’t know how to comply with.
+
+And, they didn’t have any measurement – in the tech world, people have gotten very used to A/B testing, measuring things, and understanding where people are falling out of the pipeline, where things don’t work, and a lot of the things that we’ve ended up building at Code for America are alternate pathways that are designed to teach us about what’s wrong.
+
+So, they’re exploratory – my wife, Jen Pahlka, calls it “apps to ops.” We’re basically building apps that do let us follow the users, so we can say, “Oh, you’re losing some number of people here because your application takes 45 minutes to fill out, and there are people who are trying to do this in libraries where there’s a 30-minute timeout, and you have no mechanism for them to save their work.” It’s stuff like that. Or, “Hey, you’re telling people the documents are uploaded successfully, but they’re not.”
+
+Or, “You’re sending out” – in some counties, they were sending out letters about people’s appointments that they were supposed to make, and 25 percent of them – or some significant fraction – were coming out after the date of the appointment, and they didn’t know it. That was the worst part. It was bad enough that it was happening, but they didn’t know it. It’s the same thing, too – we work a lot at the federal level.
+
+Under Obama, Jen was Deputy CTO and helped set up something called the United States Digital Service. A lot of the problems at the VA were very similar. People – homeless vets – would be applying from library computers, and they couldn’t get through the process. Basically, the people at the VA Headquarters in Washington were saying, “They’re obviously not eligible because they’re not succeeding.” They had tested their procurement process. “Oh, yeah, we have to test this app.”
+
+But, they tested it with a particular combination of Internet Explorer and Adobe software, and that wasn’t what was out there in the real world, and it didn’t work. So, they went out and filmed users, and then, they were able to see that it really doesn’t work. In some ways, that’s been my life. It’s funny because Code for America is one of the latest incarnations of that, but early in my career, just doing documentation, writing down the steps –
+
+I still remember working with one author on one of our early books, and he said, “I can’t write this chapter yet.” I said, “Why?” He said, “Because the software doesn’t work.” I said, “That’s what you have to write. While you’re sitting here, not getting this book done, and there’s this piece of the software that doesn’t work, people are beating their heads against the wall, and they think it’s them. So, telling them that it doesn’t work is actually the documentation that’s needed right now.”
+
+Tim Ferriss: So, I want to underscore something – this question of how we can make X easier for people, or why isn’t Y easier for people? I do want to rewind just a little bit because I am – and, many people are – very interested in how you think and how that leads to, for instance, identifying edges. You’ve been a great pioneer on the edge of many different frontiers. So, I want to go back, not necessarily to the bookie, but to ask what – Well, first of all – this is just personal curiosity – what do your other siblings do these days as professions? Any examples?
+
+Tim O’Reilly: Well, let me go through them. My oldest brother has had a pastiche of careers. He owns a small fleet of taxicabs where he’s been competing with Uber and Lyft.
+
+Fulminating against the taxi system, he would like to be able to operate like Uber and Lyft, and he can’t. He also runs a business reselling used books – including mine – on Amazon. So, unfortunately, he’s dealing with two very declining industries. My next brother runs a small publishing company that I started with him called Traveler’s Tales, which basically wrote a story-based approach to travel. Rather than guidebooks, which tell you what to do, it was more like people sharing their experiences, so you could say, “Oh, yeah, that sounds like exactly what I want,” as opposed to the catalog approach. So, he’s been a travel writer for many years.
+
+And then, all of my sisters have basically just raised families, although it’s interesting – there’s a very heavy percentage of home-schooling in my family, so they’ve been teachers as well as parents. My younger brother, Frank, is a builder. In college, he basically built a house to live in and never looked back. When he was a junior, he had a friend build the house that they went and lived in, and they went, “This is great.”
+
+So, they rented it to some other students, and then built another one over the summer, and lived in that. Anyway, he started that, and it’s funny because he’s really built – he still lives near the college – he built the church, the school, the library, the homes that many of the people live in, and he now has a rental business.
+
+Actually, there’s some fabulous places that he’s built on the Shenandoah River that he rents. It’s interesting because he’s been a lot like me in that he built his business intuitively, from the ground up, by following his nose. What was so interesting is that when we were growing up, if you had asked my mom, she would have said that Frank and I were the most dissimilar.
+
+Tim Ferriss: Why is that?
+
+Tim O’Reilly: Because I was always the top student in school and he got Ds and Fs. My brothers and I would always say, “No, he just isn’t interested.” We would see him at home. When he was 10 years old, he got totally obsessed with the Civil War. He was reading Bruce Catton, and had lots of history, and set up all these recreations of battles of the Civil War, and we said, “He’s just not interested in school.”
+
+And so, it was just interesting to watch. He’s seven years younger than I am, so I’ve watched him on the path of building his own business, creating a lot of value for the people around him, and pivoting as necessary. Even though he got started with this rental thing in college, he was basically building and selling homes, and then, after the 2008 financial crisis, nobody would finance homes unless you had cash, but you could borrow for business properties. So, he ended up building – he had these lots, and he started building places and renting them, and he actually got pretty good at it. So, he has a variety of businesses.
+
+Tim Ferriss: What advice would you give to a parent who currently has a kid like your brother, who’s clearly bright, but doesn’t seem to be interested in school, and therefore is getting poor grades?
+
+What would you say to someone like that – a parent in that position?
+
+Tim O’Reilly: It’s a tough one because sometimes, you do have to push kids. I think the main thing – and, this is true whether you’re a parent with your kids, a businessperson, or just somebody trying to solve problems in your own life – is having an attitude of receptivity and openness, and really looking and understanding what’s going on. At the end of the day, there are no recipes, and so many problems come from people following recipes or following maps that don’t match the reality. Frank didn’t match the recipe of what you were supposed to do in school, but it was pretty clear that he was following his own path.
+
+The same thing is true of – I have two daughters, and for one of them, school was easy, and she always did well, and the other one did not do so well, but she was totally following her own path, and she’s become this amazing sound artist. She’s the artist in residence at the Exploratorium.
+
+She created an iPhone app for something called Rhythm Necklace, which is this different way of visualizing rhythm. She’s exploring medieval hockets, and she scored some stuff for Bjork’s Biophilia tour, and created all these odd musical instruments. She totally built her own curiosity-driven path into the world. So, the thing I would say is to look at your kid.
+
+There’s wonderful book – I forget the name of the author – called Loving Every Child, and it’s about a guy in Nazi Germany. He basically had two schools, and one was for children of wealthy Germans, and the other was a segregated school for Jews. When they came to take his Jewish kids, he went with them and died in the concentration camp. It’s funny how we can forget those things. But, anyway, the point of the book is to love your children, look at them, understand them, and listen to them. Treat them as people.
+
+A lot of people treat their kids as objects. I’ve been in a room with people where they talk about their kids when they’re there, as if they don’t listen, as if they’re not there, as if they’re on show or told what to do. Treat them like you would want to be treated. I feel like I did my best as a parent. Parenting is a hard job. Just be there with their kids, talk with them, and listen to them.
+
+Tim Ferriss: Are there any questions that you like to ask your kids a lot? Are there any questions that you’ve taught them to ask themselves? This might seem like a non-sequitur, but it’s what came to mind for me.
+
+Tim O’Reilly: I wish I had an easy answer to it, and I don’t.
+
+Tim Ferriss: That’s okay. I don’t have kids, so I don’t have any answers to it.
+
+Tim O’Reilly: Well, the one thing that I – this is not a question, but there’s one piece of life advice that I give in the form of a quote. It’s from a psychiatrist named Irvin Yalom, who was also a novelist, and he wrote a novel called When Nietzsche Wept, which is an imagined story of early psychoanalysis about a guy who was a predecessor to Freud. It’s actually him analyzing Nietzsche, and there’s this one line in it that actually stuck in my head, as lines from books sometimes do, and it was, “First, will what is necessary, and then love what you will.”
+
+It does have to do with the one thing we do have to teach our children – well, there’s a lot of things we have to teach our children, but one of them is that everything doesn’t come easily, and there are some things that you have to do that you don’t want to do.
+
+One of the secrets of success in life is to first will those things, and then come to love them. You think about that with exercise, which is a great example. It’s hard to get started, but once you get into it, it becomes a joy. There are a lot of things that are like that: Doing the dishes, cleaning the house, looking after other people. So, having an understanding of what your responsibilities are, and then working at them – if necessary, with will – until they become something that you love is just an incredibly useful piece of life advice.
+
+Tim Ferriss: I’m definitely going to want to come back and talk about what you have personally found difficult, or about difficult moments, but I want to ask about a decision that you made, and this is transitioning from a classics degree to writing technical manuals, for lack of a better descriptor. You could certainly give some more context. But, how did that happen, and why did you decide to trend in that direction?
+
+Tim O’Reilly: Well, it was pretty simple. First of all, let me give you a little context for the classics. In the early ‘70s, when I was actually just a teenager, I had worked with a guy named George Simon, who had developed this theory about the evolution of consciousness, and also about an experiential approach to inner spiritual growth.
+
+I could go into it in more detail, but one of his ideas was that there had been this profound evolution of consciousness over time, and there was this historical art to it, and that we were in a period of individuation that had begun in Classical Greece. There are books like Bruno Snell’s The Discovery of the Mind where you can see this. They talk about how, in Homer, Odysseus doesn’t decide to do something; Athena puts this idea into his thumos – his liver – and he acts.
+
+And then, 400 years later, when you’re reading about Socrates, you’re seeing them wrestling with these ideas that are really at the heart of – what is truth? What is justice? What is happiness? By the way, that was the subject of my thesis in classics. It was about mysticism and logic in Plato, because we talk about how with these mystical passages, he must have been influenced by the Orphics, and I’m like, “No!” These things that we rehearse about ideas of justice were incredibly new and powerful, and they felt like these mystical kinds of things that they were wrestling with.
+
+Anyway, I digress. The reason I was interested in classics was deeply connected with George’s theory because I was into how we’re now entering – he had this idea that we were entering into this new phase of global consciousness, and it’s a real irony because my long detour into tech turned out not be a detour at all.
+
+Who would have thought that –I’m trying to think how much longer – 30 years later, I would be the prophet of global consciousness in the form of Web 2.0, mediated by technology? But, to answer your question very specifically – My wife and I have been talking about having kids. She was saying – she’s seven years older than I am, and she was ready before I was. I was 24, and I basically said – one day, I said, “I’m ready.” She had been saying, “Let’s have kids,” and I said, “Okay, I’m ready.”
+
+The very next day – I still remember it – these three things happened on the same day, and it was almost like a sign. The main thing I would say is once I decided, it was like I had to start being the breadwinner and the provider.
+
+It was sort of like a wake-up switch got flicked. Daddy gears kicked in. So, the three things that happened the day after that decision – one was not really meaningful other than as a psychological boost. I had a friend who was dating the Philippines’ ambassador to the U.N., and he was trying to remember a quote from Lao Tzu, and she knew that I was deeply into Lao Tzu, so she called me up to say, “Hey, my friend needs this quote for a speech he’s going to give at the U.N.” It was cool to be this kid being asked about the source for this speech, so that gave me a boost.
+
+The second thing was that I got approached by another friend to write a book about Frank Herbert, which was the thing that ended up convincing me that I was a writer. The third thing was that I had this friend who was a programmer who got asked to write a manual, and I said I would help him. In some ways, it was like I made the decision, and then, magically, all the pieces arrived on the table for me to start assembling the puzzle of my life.
+
+Tim Ferriss: Perhaps you also just have the selective attention to spot those things. I have a couple of questions. I don’t want to gloss over this, “One day I woke up, and I said, ‘I am ready.’” What triggered that? Was there a conversation you had in your head over a cup of coffee that morning? Was there a realization? What actually led you to proclaim that you were ready?
+
+Tim O’Reilly: Let me go back to George Simon because a lot of what he taught was a kind of mental discipline that was rooted in a model of how consciousness happens. It was framed somewhat in the language of Alfred Korzybski’s general semantics. Korzybski drew this wonderful diagram – it was actually a tool he used to train people – that he called the structural differential.
+
+Korzybski’s fundamental idea was that people are stuck in language, but language is about something. And so, he represented what he called the process of abstraction so that people could ask themselves, “Where am I in that process?” So, the first part of the structural differential was a parabola, and the reason why it was a parabola is because reality is infinite, but we can’t take in all of reality.
+
+And so, hanging from the parabola was a circle, and the circle was our experience, which is our first abstraction from reality. And then, hanging from the circle are a bunch of label-shaped tags – multiple strings of them – and these are the words that we use to describe our experience.
+
+Korzybski’s training was for people to recognize when they were in the words, when they were in the experience, and when they were open to the reality. George mixed that in with this work of Sri Aurobindo, who was an Indian sage, and had come up with a model that integrated a spiritual view of this, and a practice which was just listening and being open to the unknown.
+
+Tim Ferriss: Is that an active practice?
+
+Tim O’Reilly: Yes, it’s an active thing. You can see when somebody is doing it, but it’s just letting go, letting things come in, and then, actually, letting – if you do it correctly, what starts to happen is you start feeling things, and you don’t really know what they are. You don’t match – it’s not like putting your hands on the table and feeling the table, but it’s a spiritual energy that you feel. You sit with it, and eventually, ideas form.
+
+This actual process that was described by the structural differential is able to be used as a spiritual practice. If you’re wrestling with a problem like, “Am I ready to have kids?”, you’re not sitting down there in the labels, looking at the pros and cons. There are people who do that, right? But, using this approach, you simply say, “Let me pose this as a problem to this infinite universe, and let me sit in an attitude of receptivity and listen until an answer comes.”
+
+And, I think this what a lot of people mean by “prayer,” but it’s really interesting to put it in the context of perception. This same process happens in the real world. It is what happens. There are these things outside you, and you don’t really look at them. You don’t take them in. Basically, the answer is that I said, “Am I ready?” I just had this attitude of openness, and there’s this internal process that goes on, and one day, it just crystallized, and the first label that hung off that moment was, “I’m ready.” And then, the next label was, “Here are these things that I’m going to do.”
+
+Tim Ferriss: I am fascinated by this. Did you pose the question – I have a number of friends like Josh Waitzkin, who is the inspiration for the book and the movie Searching for Bobby Fischer, and who is thought of as a chess prodigy, but is a lot more than that. Reid Hoffman also has a similar approach to journaling, where you will pose a question to yourself the day or night prior to when you journal in the morning. Did you pose this question at a particular time? Is this something that you have used in other places?
+
+Tim O’Reilly: Oh, absolutely. For me, at that particular time, when I was younger and closer to that as a big part of my daily work, I think it was a natural outflow. At the time, what I was doing for a living was teaching these techniques, so I lived and breathed this stuff.
+
+But, it has continued to be this key part of my life. Whenever you’re confronted with a problem, you find yourself wrestling, and you go, “Oh, wait. I’m just rearranging the labels.” That’s not useful.
+
+Tim Ferriss: Could you give me a real-world example from your life or a hypothetical specific example?
+
+Tim O’Reilly: Let me give you a specific business example. It’s not quite the same in that it wasn’t this explicitly inner process, but it was certainly an outgrowth – actually, it was an inner process. I take it back. This is my contribution to the evolution of the open-source movement. I was sitting there, and I had been part of this UNIX community and this internet community, and I noticed something.
+
+What I noticed was that, for the most part, with relatively few exceptions, the people that I knew from UNIX – which is really represented by people around this conference called USENIX – and the people from the internet who would meet over at the IFT didn’t overlap, and that they did overlap in my life because I was publishing books about work coming out of both these communities.
+
+I wanted to bring them together, but something was stopping me. I had this idea that I wanted to get people from the UNIX community, and I started thinking about it, and I kept delaying and delaying. There was something that was not letting me do it. And then, Netscape announced that they were going to release what later became Mozilla as free software.
+
+I said, “Damn, I’m too late. I should have moved on this sooner. It’s now starting to become a story about free software and why it’s important.” That kicked me into gear, and I organized this event that I first called the Freeware Summit, to where I invited people from all these different communities, and it was at that meeting that Eric Raymond said, “We were meeting a couple of weeks ago, and Christine Peterson came up with this new name, ‘open-source software,’ because ‘free software’ has these problems as a name.”
+
+We voted on it and all agreed to use “open-source software,” as this name, and I’d organized a press conference at the end of the day – even though I didn’t know what the outcome was going to be – and I put people up on the stage and said, “Look at all these guys. They all have dominant market share in these interesting categories of software, and they all have this thing in common that they give their software away for free. We’ve come together and decided on a new name for it. We’re calling it open-source software.”
+
+And, the thing that was interesting about it was that first of all, yes, I noticed that something was wrong in the map of the world – that basically, people who were talking about free software were only talking about Linux, and that there was this whole other world of free software on the internet side that was left out because the dialogue was about the battle against Microsoft, and the PC, and so on.
+
+So, I was just sitting with it and trying to think about what to do, and that sitting – that attitude of receptivity – was something very similar to what happened in some sense. One day, this thing happened – I suddenly used the analogy that you’re doing a puzzle, and you can’t solve it, and then, somebody dumps new pieces on the table. You go, “Oh, that one there fits right in,” and that’s exactly what happened there.
+
+But, that waiting is part of this psychological process. If you have this engineering mindset – “We’re just going to go and work with all the pieces that we have” – you may not get to the right answer. And so, this receptivity to the unknown – I often think of Socrates in this regard. He referred to something he called a daemon, listening to this inner voice that would tell him yes or no.
+
+There’s also this great line that recurs continually in my favorite translation of Lao Tzu, The Way of Life According to Lao Tzu by Witter Bynner, and the line is, “He has his no, and he has his yes.” And, listening to that no and that yes – I had this no about “I’m not ready to have a child,” and one day, I had a yes. I had this “No, I’m not ready to bring all these people together,” and then, I had a yes.
+
+And, the fact that this – I had no way of knowing that this new term had been introduced, but if I had had my meeting a month earlier, the term “open-source software” would not have been there to be picked up at my meeting. It’s a mystery. Why is it that – I didn’t know that, but something stopped me, and I was kicking myself, but also listening to that inner voice. And then, one day, it’s like, “Yes!” He has his no, and then he has his yes, or she has her yes.
+
+Tim Ferriss: I don’t know if you drink alcohol, but if you do, then maybe this is more of a conversation for several bottles of wine.
+
+Tim O’Reilly: I do; I love wine.
+
+Tim Ferriss: What I’m about to bring up – so, you mentioned Odysseus, a.k.a. Ulysses, and a god planting an idea or a desire in his liver. And then, you flashed forward to Plato grappling with this concept of justice, and what seemed mystical now being part of the norm. Is our consciousness evolving, or – looking back at the framework you were discussing with the parabola, then abstraction – so, you have reality, then an abstraction of experience, then a further abstraction of language. Are we just getting further from reality, or are they the same thing – evolving consciousness and getting further from that direct experience of greater reality?
+
+Tim O’Reilly: It’s different – when you say “we,” if you mean all of humanity, I think we’re all rediscovering that process in our lives.
+
+I think societies can get further or closer; individuals can get further or closer. But, I think as a whole, we have, in fact, taken in more and more of that parabola. The circle has gotten bigger and the useful labels have gotten bigger. Also, many of them have gotten mislabeled.
+
+This was another piece of what I learned from George Simon. It really was the idea that that is our work. Our work is to take in more of the unknown, and to bring it into our experience, and to bring it into our knowledge, and there’s always more. George used to have this great formulation. He referred to God as “Et cetera – all the rest.”
+
+Tim Ferriss: I love it.
+
+Tim O’Reilly: I love that. For me, it’s not just a useful mental construct, but a useful psychological construct. When I have an idea like this, I just see it everywhere. There used to be – and still is – this mock tarot called Morgan’s Tarot –
+
+Tim Ferriss: I’ve never seen it.
+
+Tim O’Reilly: – which was popular in the ‘70s. I don’t know if it’s still available anywhere. But, it had these fabulous cards, and my favorite card was always the one – it was basically a blank card with the caption, “Always remember this.” It was that moment of just listening to the silence. When you have that ability to listen to the silence, you also have the ability to take things in a different way and see the world as fresh.
+
+So, I think about Morgan’s Tarot, but I also think about Wallace Stevens, one of my favorite poets. From “An Ordinary Evening in New Haven”: “We keep coming back and back/To the real, to the hotels, and not to the hymns/That fall upon it out of the wind.” “Reality is the beginning, not the end/The naked Alpha, not the hierophant Omega.”
+
+He’s talking about the way that our mind endlessly elaborates on what he calls the eyes playing –something. “The vulgate of experience.” It’s a great line. “A poem is the cry of its occasion/A part of the thing, and not about it.” This dialogue between the mind and the stuff that we engage with in the world is our life.
+
+Tim Ferriss: There’s so many directions we could go in. I’m going to tie this into a later question, but I wanted to flash back to Frank Herbert. You mentioned the name in passing. As you mentioned, you had the opportunity to write a biography – correct me if I’m wrong – of Frank Herbert, who is the author of the Dune series. Dune is one of this fiction books – the first Dune – that shaped a lot of how I look at the world in some pretty wide-reaching ways. Why did you decide to undertake that? Were there any lessons that you took away from studying his life or his work?
+
+Tim O’Reilly: It was complete serendipity. When my friend Dick Riley asked me if I would write this book, he had been appointed the editor of this new series of critical monographs of detective novelists and science fiction novelists.
+
+I first said I wanted to write about Samuel Delany, who was my favorite writer at the time because I’d loved a little book of his called Empire Star, which was – as you might expect – about the nature of consciousness. Dick said, “No, I think a book on Herbert will do much better. You should really do him.” And, I had loved Dune.
+
+I have a very funny story about it going back to my childhood. I think I read it when I was 12, and I got it from the library, and I remember that my dad picked me up from the Merced Library in San Francisco. You could check out eight books, and I would get eight big books, and he looks at this and says, “It’s sinful that so large a book should be devoted to science fiction.” I couldn’t quite bring myself – when I wrote the Frank Herbert book – to dedicate it to my father, but –
+
+Anyway, I was really grateful to Dick because I had loved Dune, but getting deeper to it and spending time with Frank – he was the other – I’ve had multiple fathers in my life, which is a wonderful thing – people who’ve helped shape me. It does make me think that one of the things that is so missing in our culture is that we don’t have enough fathers –
+
+Tim Ferriss: I agree.
+
+Tim O’Reilly: – or enough mothers. When you think about how we were meant to be raised in these communities, the nuclear family is kind of a crime against humanity. That’s a strong word, but how did we build stronger communities?
+
+In my life, I think about how important it was to have people who said, “You’re special, and I know you deeply, and I see something in you,” and just to expect that two adult parents are the only people who can do that for you – how did we build richer communities who helped model and shape our children?
+
+So, I was lucky because I had my own dad, and I had George Simon, and I had Frank Herbert, and I had my ex-wife’s father Jack Philbin, who inspired me to think about business and was so interested as I built my business. When he died, it was almost like I had been leaning on this wind, and I almost fell over because I hadn’t realized how much his continued interest was feeding me. The love and interest we can give to other people is such a gift.
+
+Tim Ferriss: Did you spend – and, I apologize that I don’t know this, but I suppose it would be boring if I knew all the answers to my questions – did you spend time with Frank Herbert, or was it –
+
+Tim O’Reilly: Oh, yeah. I did. It was funny because I met with him two or three times when I was writing – I did two books. The first book was this critical biography, which is really about his books as much as it’s about his life, and it only went up through Dune Messiah. None of his later dune books had been written at that point, which is fortunate, because they were just basically – he was kind of milking –
+
+Tim Ferriss: Milking the golden calf.
+
+Tim O’Reilly: – the franchise, yeah, whereas the first three books were really conceived of as a whole from the beginning. The second book was a collection of his essays – which I edited – and the interview. So, I interviewed him on the road for the first book. He would be at some science fiction convention and so on, so I interviewed him two or three times in that period.
+
+What was frustrating was I wanted to get below the surface. He was a brilliant conversationalist, and he had very inspiring ideas about how we have to live on the edge of crisis and it’s what keeps us alive. He was just a fount of fascinating ideas. It was scintillating stuff where if you could do these interviews, you could publish them immediately, but I wanted to get under the surface and learn more about who he was and how he thought, but I couldn’t because was “on” because he was on tour.
+
+And then, when I did the second book, I said, “I need some more of these Frank-on-fire interviews.” I went to his home in Port Townsend, Washington, we hung out for a couple of days, and he was just mellow and relaxed, and I got to know him, but it wasn’t all this great material. It was like I’d gotten the interviews in the wrong order.
+
+So, anyway, he was a really wonderful guy who thought very deeply about the world and had very prescient ideas about the things that continue to bedevil us today. I think many great lines from his books all the time.
+
+Tim Ferriss: “Fear is the mind-killer,” the Bene Gesserit. There’s so many good lines. If you were to – so, I was a nonfiction purist for a very long time – for decades. In retrospect, I’m embarrassed to admit this, but I was of the mind for a very long time that if I wanted to make stuff up, I could do that in my own head, and I wanted to actually learn things by reading nonfiction. I’ve realized – at least, for me – how off that was and how many deep truths are better transmitted through fiction. For nonfiction addicts who are willing to have an intervention and read a few fiction books, are there any that you would suggest people start with?
+
+Tim O’Reilly: That’s so tough.
+
+Tim Ferriss: Or, to make it less pressured, a few of your favorites?
+
+Tim O’Reilly: Well, there are certainly books that have shaped my life. Dune is definitely one of them. I highly recommend that. There’s another fantasy book – well, it’s not really fantasy in the sense of heroic fantasy – there’s a book called by Islandia which was a personal passion project of a Boston lawyer named Austin Tappan Wright. It was an imaginary world whose probable closest analogue in the real world was New Zealand. It was this pastoral country somewhere in the Southern Hemisphere that had been closed off to Western civilization.
+
+He started writing it in 1910, and he died in a car accident in 1930 or so, and in the mid-‘40s – ’43, I think it was – his daughter had carved out of his writings about this imaginary world in the book Islandia, which was published and made it up to – I think – No. 3 on The New York Times’ bestseller list, and it was rediscovered in the ‘70s, which is when I came across it.
+
+It’s a wonderful guide of the values of living a slower life because it’s all about this guy whose roommate at Harvard – class of ’06 – was from Islandia, so he learns to speak Islandian, and when they open up the country, he gets tapped to become the consul, and he’s struggling with the modern way of life versus this Islandian way of life. A lot of people I’ve tried to give it to find it too slow, but there’s such a rich cornucopia of wisdom in that book.
+
+In terms of classics, you can’t do better than Jane Austen for understanding the human soul. I still remember discovering Pride and Prejudice ­– I think I was 14 – and I was a little embarrassed to be reading what I thought of as a “girl book,” but it was so good.
+
+In a similar vein, I’ve come to love Anthony Trollope because he’s like, “Let’s get this plot stuff out of the way. I just want to talk about the people.” You read a book like The Warden and you go, “Oh, my God, I’m reading a novel about the moral quandaries of an 1850s British cleric, and it’s fricking fascinating.”
+
+I think of another book that I read – what was it called? – Night Train to Lisbon. I wouldn’t say it’s in that same category, but sometimes there was just a line in a book that changed my life in some way, and it came at a critical juncture. The line was, “Given that there is so much in all of us, what happens to the rest?”
+
+That moment of – and, that hit this very deep part of me. When I was a teenager, I used to have this fantasy that I could live multiple lives, but I didn’t just want to have a different life, I wanted to have multiple lives at the same time. I wanted to be this multiplex person who could be multitudes.
+
+The other thing I would highly recommend in addition to fiction is poetry. The thing that changed my life with regard to poetry – I’m not sure why it was, but when I was in a junior in high school, I decided I wanted to “get” poetry, and I picked up the collected poems of William Butler Yeats, and I read the entire book. It’s 300 or 400 pages of poetry.
+
+The two things I learned from that were how to read poetry – because a lot of people are unfamiliar with the stylized form – but more than that, what I learned was that 20 of them do nothing for me, and there’s this one that just goes “Bang!” And so, learning that – so, many people don’t learn to love poetry because they’ve been force-fed 19 poems, and they never got to that 20th poem.
+
+Tim Ferriss: That’s such a good point. Not to interject, but I resisted poetry for far longer than I resisted fiction, which is saying a lot, and then, I interviewed a friend of mine named Rolf Potts, who wrote a wonderful book called Vagabonding, which I took around the world for 18 months in 2004 and 2005, and he suggested a few starter books for poetry. Later, I ended up picking up a fantastic Rumi collection by Coleman Barks, and the introduction alone to that book will make the hair stand up on your arms – if you have hairy arms; maybe elsewhere otherwise.
+
+And, when I asked a friend of mine who’s a huge Rumi fan how I should read Rumi, he said exactly what you just said. He said, “You need to read a lot of them because for me, it’s every 15th, every 20th, that really grabs me, and I know is going to stick with me.” So, don’t expect that you’re going to get or like every single one of them. Are there any places that you would suggest people potentially start when it comes to poetry?
+
+Tim O’Reilly: Well, I think you picked up a good one. My exposure to Kabir and Rumi came through Robert Bly. I love Robert Bly’s Kabir book, though I like Coleman Barks’ a lot as well – not his father, the Stephen Mitchell editions – but –there’s good collections of poetry like Immortal Poems of the English Language. Maybe it’s too intellectual for some people, but Wallace Stevens – go find a couple of poems of Wallace Stevens’. If you can’t read “Of Mere Being” or “Esthétique du Mal” and say, “Oh, my God, that’s magical,” then – Again, he’s particularly difficult because – oh, actually this is where I would start: “East Coker” by T.S. Eliot. Oh, my God, that’s one of my favorite poems. It’s about death and rebirth, and is unbelievably good.
+
+Tim Ferriss: Yeah, T.S. Eliot is hard to go wrong with. So, I wanted to come back to living multiple lives and having multitudes contained within a single person because I think you have lived many lives –
+
+Tim O’Reilly: Yeah, I do my best.
+
+Tim Ferriss: – and I have more questions on books, and I’ll just give out a teaser. We’ll come back to this, but I’ve heard from reliable sources that you love to read old bestsellers from generations ago that are now long-forgotten, so I want to find out why. We’re going to come back to that, but since a lot of people listening are curious about the edge that you often find – so, in 1993, you launched the Global Network Navigators, the first web portal, the first site to be supported by banner ads.
+
+Tim O’Reilly: Let me correct you on that – not banner ads. Banner ads came two years later. The very first ads were much closer to Yellow Pages ads, and the reason was there were only 200 web sites. So, we basically said, “Hey, we can put content for you on the web,” so it was much closer to putting up a website than it was to putting up a banner. Banner ads didn’t come until there were enough websites to even point people somewhere else.
+
+Tim Ferriss: That’s a good point. AOL bought it in ’95. Is that right?
+
+Tim O’Reilly: That’s correct.
+
+Tim Ferriss: Why do you think you were one of the first people to recognize this opportunity, meaning an ad-supported web portal?
+
+Tim O’Reilly: First of all, I should be clear that I came up with the ad-supported part.
+
+Dale Dougherty, who was one of my key people at O’Reilly Media for many years, went on to start Make magazine and Maker Faire, and we spun that out into a separate company called Maker Media. He was the was the one who discovered the world wide web for us, and it was really from following earlier threads in our business. Dale had been very interested in online publishing.
+
+In 1987, he had created our first e-book, which was a HyperCard version of a book I had created called UNIX in a Nutshell. So, he had been pursuing e-books, and he’d started something – I may have the timing wrong, but I think – so, we had basically trying to figure out to – and, we had these books on something called the X Window System, and we started working – this is before XML existed.
+
+There was something called SGML, standard generalized markup language, which is before the web. We were trying to figure out how to represent our books for online publishing. There was a piece of pattern recognition that I had done which was –
+
+There was starting to be a lot of commercial software for reading books, but I felt like we needed a standard of some kind for our online content because we weren’t going to be a software company, but we wanted everybody to be able to read the same content. This was inspired by – we were a documentation consulting company, and we had worked with this guy who’d had to maintain 200 different versions of his software, and we were like, “Screw this.”
+
+We had all these people who were coming to us because our X Books had been adopted as the documentation by a bunch of UNIX workstation companies. HP had Answer Book, and Sun had Info Explorer, and there were five, six, seven different – we said, “No, we want to have one format that everybody reads.” And so, Dale had started working on developing that format, which came to be called DocBook. It was really made for representing technical books in a markup language.
+
+But then, we realized – one of the things that we learned from the X Window System – Bob Scheifler taught us this. He said, “The way that we use free software” – this is in big contrast to how Linux grew up – “was simply that we were trying to build a reference implement – not even a reference implementation, a sample implementation that people can improve on.”
+
+And so, we had this idea that we needed a free book browser, and Dale discovered this tool called tool called Viola, which was really the first graphical web browser, and that led into the web. And then, Dale introduced me to Tim Berners-Lee, and Dale was like – we were just publishing our first book about the internet, a book called The Whole Internet User’s Guide Catalog, which we published in the fall of 1992.
+
+It had a catalogue in the back of interests to internet sites. If you tell that to this site, you’ll get earthquake information. It was Gopher – the web – actually, Dale was the one who said, “We’ve got to have the web in here.” There were only 200 web sites, and the editor, Mike Loukides, wrote a chapter at the last minute, right before publication, so we could slip it in. But then, Pei Wei, who was a student at the time and had written Viola, said, “I could make a cool demo for the catalogue in the back of the book.”
+
+The catalogue was this list of a couple hundred interesting sites on the internet that people could try out, so he built this thing, and it was basically a point-and-click catalogue of the early internet. I said, “Pei, that’s not a demo, that’s a product.” The internet was still very early, so our first idea was that we were going to build a kiosk, so people could try the internet using this point-and-click interface, so that was what we built.
+
+And then, Dale wanted to build a magazine – like what Make magazine became for the maker movement – about the early people of the web, and he originally thought of this as a quarterly magazine. I said, “Dale, I think people are going to be looking at the web every day, so we have to have it constantly updated.”
+
+We brainstormed back and forth, and we developed the catalogue component, which was part of what we were doing, and then, articles about the people behind this new thing, and I was just looking at my desk one day – we followed the industry through these print magazines, and the way they worked was that there were articles, ads, and this bingo card in the middle, which was this giant matrix of numbers like a multiple-choice exam, and you would circle “82,” and the ad or article corresponding to No. 82 would send you a package in the mail.
+
+Tim Ferriss: I remember those.
+
+Tim O’Reilly: And, I thought, “That’s really inefficient. We can do that on the web. We can deliver the information directly.” So, that was the original vision, and it’s sort of funny – so, the advertising that we invented for the web was really the commercial website.
+
+Up to that point, there were no commercial websites. So, the banner ad – which was this much later layer – was simply this idea that you could build a commercial website that advertised your product or service and gave information about it.
+
+So, the very first ad we did was effectively a website for our law firm within GNN. It wasn’t because we didn’t set up the entire website, but it was literally, “Here’s Heller, Ehrman, White, and McAuliffe. Here’s what we do. Here’s how to reach us.” It was an ad – so, we had this directory. “Here are all these cool sites, and here’s the commercial catalogue.”
+
+Tim Ferriss: So, I wanted to confirm something about The Whole Internet User’s Guide and Catalog.
+
+This book you mentioned is from ’92, and in a piece in Inc. titled “The Oracle of Silicon Valley,” there’s a description of one of your marketing approaches. It says, “To market a general-interest book from a small publisher about a relatively obscure topic, O’Reilly devised a novel marketing strategy. He would turn himself into an activist. He hired the former director of activism from the Sierra Club and devised an activism campaign that treated the adoption of the internet like the effort to save the rainforest. He mailed copies of the book to every member of Congress, and then went on a media tour in New York City and Washington, D.C.”
+
+And then, this is a quote from you. “I was saying, ‘The internet is coming, the internet is coming,’ and O’Reilly Media had the only book that could explain it to you.” Is there anything that you would add to that? Anything you would correct? It’s a fascinating story, but that’s all I have.
+
+Tim O’Reilly: As is the case in so many of these stories, there’s the “hero” story. It wasn’t my idea to do that. It was this guy Brian Erwin.
+
+We had hired Brian Erwin from the Sierra Club. We were up in Sebastopol. He was actually commuting down to San Francisco, and he said, “Wow, there’s a company up here that might be interesting.” And then, he came in, and he was the one who taught me about activism. It wasn’t like I had this idea. Brian was a master of activism, and he invented early internet marketing, and he’s one of the unsung heroes.
+
+He was the one who said – first of all, what he said to me is, “People are not going to care about our book. We want to make them care about the internet.” And, that was where he taught me about marketing as activism, and about big ideas. He was the one who said, “We’re going to go do a press tour about the internet.” He also gave away copies of the internet to people who were on Usenet. He really pioneered a lot of influence or marketing techniques. This was in 1992. It’s sort of sad that he has not gotten enough credit. I always try –
+
+Tim Ferriss: What was his name again?
+
+Tim O’Reilly: Brian Erwin.
+
+Tim Ferriss: How do you spell his last name?
+
+Tim O’Reilly: E-R-W-I-N. I think he’s still – he left the company around 2000, and I think he’s still a marketing consultant living in Santa Rosa.
+
+Tim Ferriss: All right. I’ll track him down and send a link his way. The observation that you brought up about the cards in the magazines – where you circled No. 82 – that’s really inefficient. This also relates to how you can make X easier for people. These types of questions or heuristics are interesting to me. I’d love it if you could elaborate a bit – I’m embarrassed to say I don’t actually know this name – on Hal Varian and his observation that if you want to understand the future, just look at what rich people do today. Could you elaborate on that, please?
+
+Tim O’Reilly: First off, Hal first came into my ken because he was the chief economist at Google. He was the guy who figured out a bunch of things about the Google ad auction that made Google such an economic powerhouse. But, it turns out that he also wrote the textbook on microeconomics that almost every economist learned from.
+
+He’s made that comment famously, and I remember talking with him one night during dinner with Andy McAfee and Erik Brynjolfsson, the authors of The Second Machine Age and Machine, Platform, Crowd, and Carl Shapiro, the guy with whom Hal had written a book called Information Rules. He’d been one of Hal’s grad students when he was teaching at Berkeley.
+
+Carl had just been at the White House, and he was reacting horror at this statement of Hal’s. It sounded like this was the worst Silicon Valley libertarian observation, and it’s very easy for people to react that way to it.
+
+But yet, if you think about it, who first owned automobiles? Rich people. Who first owned cell phones? Rich people. Rich people used to fly – not fly, they would do the grand tour of Europe. Now, soccer hooligans follow their team around Europe. Rich people used to eat out. Now, everybody eats out. More people eat out than cook. And so, it really is an interesting tool for thinking and seeing, and I think that’s such a key concept for me.
+
+This goes back to the structural differential and people trying to judge ideas against other ideas as if it’s some kind of zero-sum game. No – all of these things – reality is infinite. Reality is far more than any of the nets we weave to catch it in. So, if you accept that, then you go, “No, these are simply tools to help us see.” So, I say, “Does this help me see? Yes.”
+
+For example, in my forthcoming book, there’s a whole chapter that’s based on this in some way. It’s called “Why We’ll Never Run Out of Jobs.” You look at what happens in rich societies and how commodity products basically get elaborated in more and more ways. Think about craft beers that are more expensive than commodity beers. Think about specialty coffees that are more expensive than commodity coffees.
+
+What’s added? In a lot of ways, it’s a story that’s added. Sure, the story has physical components – this coffee came from – Alexis Madrigal’s Containers podcast is fabulous on this subject. Episode 4 is about the evolution of the coffee market.
+
+But, yeah – “This coffee came from this particular coffee plantation in Guatemala,” and all the things that have to come into place to bring that to a particular coffee roaster, and they tell that story, and as a result of that story – and the reality that goes with the story, that this is actually a unique flavor – now, if it doesn’t match and doesn’t deliver, then people say, “Eh, there’s not much to this story.” But, if it delivers, then people will pay more.
+
+And so, this is why I believe that as we commoditize labor – one of the reasons, I should say – with A.I. and robots, we can find new things for people to do. There are three things. First of all – again, this is a major theme of my book, which we haven’t really talked about –
+
+Tim Ferriss: Let’s get into it.
+
+Tim O’Reilly: One is that there’s plenty of work to do, for Christ’s sake. So, the big question is not – We talk too much about jobs and not enough about work. If we focused on what work needs doing, then we start to ask, “What’s keeping us from doing that work?” We realize that there’s something broken in our economic system that’s diverting our energy and investment away from doing the work that needs doing towards financial gain, and people who are extracting money from the economy without actually getting the work done that we need doing. So, that’s one piece.
+
+The second thing is how there’s all this work being done that is not being compensated. I have this metaphor that originally came to me in the context of open-source software, but it really entered my consciousness as a mental tool in the ‘70s when I read it in Stewart Brand’s CoEvolution Quarterly.
+
+It was a concept called the clothesline paradox, which is that there are things that simply disappear from our economic accounting. In the clothesline paradox, we’re measuring solar energy or renewables versus fossil fuels, and if somebody puts their clothes in the dryer, it’s fossil fuel usage, but if somebody takes their clothes and puts them on the line, it doesn’t accrue to the solar column.
+
+And, I made an analogy from that to open-source software, which disappeared from our economic accounting for so long, before Amazon and Google figured out how to build enormous businesses on top of it. If you look at our economy today, taking care of people is mostly uncompensated. There’s a lot of creativity that’s poorly compensated. Why is it that these things that are so valuable don’t get paid for? They’re taken out of the economic paradigm. We need to fix that.
+
+It’s not necessarily about saying, “Thou must pay for this,” because people – all this supply and demand. There’s all kinds of hacks that societies have used to value things differently. A good example is child labor. We didn’t start saying, “Well, we have to pay children more.” We said, “No, we’re going to stop using them for this thing,” and that actually reduced the workforce, we reduced working hours, and what did we do with them? We sent them to school.
+
+We actually paid society to send kids to school, and then, later, we don’t need all these teenagers on the farms anymore. “Oh! Let’s send them to school.” The high school movement started around 1909. 9 percent of Americans went to high school in 1909. By 1935, it was about 70 percent. It was this amazing social revolution.
+
+What is it that we could do today around – it doesn’t have to be that we start paying people. It could be that we use universal basic income, but we somehow need to revalue some of the things – education, creativity, caring – in our economy. Again, in that whole creativity economy, you have to understand that that economy writ large is wrapped up in that Hal Varian statement because if you look –
+
+I mentioned coffee and beer, but look at food in general. 2 percent of our population in the U.S. works in agriculture, yet we have a greater variety of food than we ever had in the day when we all worked in agriculture. That design pattern is what we need to be exploring to make our economy. We need to say, “Let’s figure out what kinds of things become valuable as other things become commoditized, and let’s start valuing them appropriately.”
+
+Tim Ferriss: Is the decision to value something appropriately – what are some of the potential drivers of that change? You have market demand, so there could be – for instance, you have an Uber, or something like that, and all of a sudden, all this potential excess inventory or idle time of resource X can be valued differently. People devalue owning cars, for instance.
+
+You have regulatory – in the case of child labor, you can change the rules of the game, so incentives are different. What are some of the other drivers, and are there any particular examples of things that rich people are doing now that you think are going to be commonplace and much more widely adopted?
+
+Tim O’Reilly: Clearly, the thing that most rich people do that could become a big driver of the economy is have experiences. You were talking about hiking in Uzbekistan with Kevin Kelly. Most people don’t get to do things like that. But, the experience economy writ large is – and, that’s everything from new kinds of food, new kinds of – I think we’re going to have a lot in augmented reality. There’s already a lot of things in social media that are new kinds of experiences and new kinds of learning.
+
+Learning is huge. Teaching people to enjoy learning and to always learn new things – there’s an economy in that. Policy-wise, the thing that I think we need to start thinking about is that first of all, we have a lot of economic policies that reward non-productive investment. What do I mean by non-productive investment? It’s summed up pretty beautifully in the tale of GE, where Jeff Immelt was recently forced out. GE said, “Oh, no, he meant to retire.” I don’t buy it. He was basically an activist investor who bought a stake in the firm and started agitating for share buybacks, among other things.
+
+The thing that’s so amazing – they wrote this whitepaper in 2015, and it describes in detail what a great company GE is. They have bigger market share than their competitors in these categories, they’re growing faster, they’re getting more focused – it’s this amazing story of how GE is succeeding in the real economy. And then, they go with this – “But, the stock price has lagged. We must fix the stock price.”
+
+The way that they should do these various things, the way they need to spin this out – some of those things might be rational, but they should also borrow money and basically – When you buy back shares, it tends to reduce the number of shares, so the earnings per share go up, and since stocks are often priced as a multiple of earnings per share, stock price goes up. So, GE should borrow $20 billion to make the stock price go up.
+
+Who benefits from that? Who benefits from that? GE doesn’t need that. GE’s customers don’t need that. Investors benefit. It turns out that at this point, 85 percent of all investment in our economy is of this kind. It’s for the benefit of investors.
+
+Warren Buffett put it really well in this quote from Rana Foroohar’s wonderful book, Makers and Takers, which is all about the financialization of the economy. He told her, “Sometimes, people prefer to go to the casino over the restaurant.”
+
+We have built an economy that is largely a casino. I think this is why both Donald Trump and Bernie Sanders played on this. People know there’s something wrong. Our government has basically been supportive of this paper economy, and they’re wringing their hands, but it’s this failed idea – and this brings me back to my book –
+
+Tim Ferriss: The title of which is WTF? What’s the Future and Why It’s Up to Us.
+
+Tim O’Reilly: Yeah, and the “why it’s up to us” is the key part. There’s this sense of technological determinism that I revolt against, this idea that technology inevitably wants to eliminate jobs. I believe that technology wants to solve new problems, and we have to ask ourselves what the incentives are that we’ve created in our system.
+
+In some ways, the book is an economic polemic wrapped in a business book wrapped in a memoir, and the memoir starts with my experiences dealing with and thinking about the great platforms of the computer industry, starting with Microsoft, and what I saw was that Microsoft took too much of the value for themselves.
+
+People deserted their ecosystem and went elsewhere to the internet. And then, I’ve watched the story replay itself as Google, Facebook, Twitter, and so on have competed with their developer ecosystem and made it less of a good place to be. That lesson seems to be lost.
+
+And then, of course, by extension, I’ve seen that that’s also how our financial markets – which were originally designed as an enabling platform for the economy and society – have ended up trading against society, taking too much of the value for themselves. And so, it’s this ecosystem view of platforms.
+
+It’s also interesting in the book seeing how – I hate that books are slower than modern media because I call it a little bit on Lyft versus Uber because they are creating more value for their ecosystem of drivers, and that really matters in the long run. Sure enough, Lyft is really gaining on Uber because Uber’s extractive business model has caught up with them.
+
+Tim Ferriss: I have a question for you – I have so many questions, of course – but, you have – and, I think this is related to what you just said. You’re sort of an anomaly in the Silicon Valley area in the sense that you built a profitable business with several hundred million dollars in revenue without any venture capital. The slogan is what I’d love to touch upon. We can take this in any direction you’d like, but how did you come up with the slogan – and, maybe you can give some backstory – “Create more value than you capture”?
+
+Tim O’Reilly: That’s actually Brian Erwin again. It was his last gift to the company. We had a management retreat in 2000, and I think I told the story – I won’t mention the name, but more than one internet billionaire has told me that they got started with what they learned from an O’Reilly book.
+
+Brian laughed and said, “That should be our slogan. We create more value than we capture.”
+
+Tim Ferriss: That’s how it came up?
+
+Tim O’Reilly: And, of course, we all went, “Yes!”
+
+Tim Ferriss: Why is that –? Now, as I understand it, you’ve had discussions with Eric Schmidt about “Don’t be evil.” It’s a Google slogan. What do you think of that slogan? Is that sufficient?
+
+Tim O’Reilly: The problem I have – and again, we were at Google Zeitgeist, and we had a conversation in the lobby. It wasn’t like it was profound and deep, but I was trying to say that “Don’t be evil” isn’t measurable.
+
+“Create more value than you capture” is measurable, and it is. Again, I expand on this idea quite a bit in my book. When you have a system – whether it’s a platform, an economic system, or an ecosystem – this goes back to Frank Herbert and what I learned from him – when you have an ecosystem, it has to actually create value for all its participants, and you have to be able to measure that.
+
+We need to actually start thinking as a society how we more holistically measure the ecosystem value that gets created. What we’ve done is created a set of measures that are focused exclusively on one set of market participants, which is really the market owners. If you think about what the stock market is about, it’s the people who own the systems and companies.
+
+We’ve sort of forgotten that the financial markets are a map of our expectations of what’s supposed to be happening in the real economy, and instead, we’re just manipulating the map and hoping nobody notices that the real economy is going to shit while we’re telling ourselves this great story. I think that figuring out if there are other measures –
+
+Clay Christensen has also written about this. His original book was The Capitalist’s Dilemma – I’m sorry, his original book is The Innovator’s Dilemma, but he wrote a paper that may be a book now called The Capitalist’s Dilemma, which is about this question. We started measuring the wrong things, and effectively, we started measuring a small subset of the things we ought to be measuring about the health of the economy.
+
+Tim Ferriss: So, what’s – and, this may or may not be related, so feel free to tackle it in any order. What I’d love to ask about is what we should measure, but I’ve read that you think the financial markets may well be the first rogue A.I. Why do you feel that way and what should we do about it? Maybe that relates to the measurement.
+
+Tim O’Reilly: This is an extended metaphor at the core of the book. I’m trying to explain what I learned from platforms, so, for example, I look at Google and the way they manage search quality, and you understand that even though they have this cornucopia of algorithms including A.I., it’s all serving a master fitness function, the thing they’re trying to optimized towards.
+
+In this case, it’s relevance, whether it’s the relevance of a search result or the relevance of an ad, and it’s this constant battle against bad actors. You’re trying to deal with new information, but you’re always trying to optimize towards that goal. So then, I look at Facebook and see that they have a related but somewhat different fitness function. Google’s fitness function is to serve you something, and then you go away. If you’ve gotten the real answer, you’ve gone away, whereas if Facebook gives you the thing it really wants you to get, you come back and spend more time.
+
+So, it’s almost the inverse, but again, they still have this master fitness function. You could describe it as engagement. I talk through fake news and how you can see how a fitness function can lead you astray and how right now, Mark is saying, “Oh, wait, the things we told our computer – our system – to do are not what we really meant.”
+
+Actually, there are a couple of quotes – they’ve been life quotes for me, and I can’t believe that I didn’t put them in the book. One of them was this great quote from Walt Mossberg, the famous tech journalist, who said to me years ago, “I told Steve Ballmer, ‘If you guys could just dial back the greed 5 percent, people would like you 100 percent more, and people wouldn’t hate you.’”
+
+ 
+
+The other one was this quote about debugging from a guy named Andrew Singer, who was a friend of mine who I haven’t seen for many years. He once said to me, “Debugging is the art of finding out what you really told your computer to do instead of what you thought you told it to do.”
+
+And, in some sense, right now, Mark is trying to debug the fitness functions of Facebook’s engagement paradigm. He’s talking about real communities – how do we support more real communities as opposed to these fake, manipulative communities that contribute to polarization?
+
+But, when you look at our financial markets, we have that same challenge. We have a master fitness function. It’s interesting to realize that the master fitness function that we had after World War II – that golden period of the growing middle class – was full employment. They were scared shitless because after World War I, they’d seen – first of all, in America, you had all the returning soldiers who were homeless or whatever, and all this had led to the Great Depression.
+
+It wasn’t just the returning soldiers, but they went into this period where people were out of work, and they saw what happened with the rise of Nazism in Germany, and they were really focused on putting people to work. All of the policy interventions were built around that. And then, in the ‘70s and ‘80s, we shifted the fitness function to shareholder value. If it was good for the stock market, it was good for America. Now, we’re looking at it and saying, “Oh, that didn’t work.”
+
+In some sense, the challenge that I’m trying to lay out in the book is that a lot of people are saying this – economists, politicians, whatever – I’m just trying to make another line of argument or reasoning from tech and what we learn from tech platforms. In a similar way, we have to look at what we’re telling our economy to optimize for, and we have to realize that we make choices in that.
+
+Despite all of the ideas that it’s a free market, it isn’t at all. It’s a designed system, and it has all kinds of rules, just like Google has all kinds of rules for achieving relevance. We have all kinds of rules in our economy that bias it towards the outcomes that we’re optimizing for – namely, shareholder value. We have tax preferences for capital gains versus how we tax labor. We have rules about how people can organize.
+
+It’s no accident that labor got a bigger share of the pie when labor organizing was supported as opposed to when it’s not. A lot of things went wrong with unions, and that has to be debugged, too. We have to rediscover what it means for people to be able to stand up to the machines that we’ve built. There are rules about how much people work, how much time off that they get, and you can see that there’s different – just look at German stakeholder capitalism and say, “Oh, here’s a different system with different rules and different outcomes.”
+
+You look at the interventionist evolution of the economy in countries like South Korea, and you say, “This whole free market thing is just – It’s a map, and it’s got some great stuff in it. It’s just not the whole picture.” Again, it goes back to Korzybski. The map is not the territory. So, we have to constantly check our map and ask ourselves, “Are we optimizing for the right things? What rules should we be changing in order to get closer to the outcome we really want?” And, of course, we have to agree on that outcome.
+
+But, if we want a human-centered future, we can choose that. Again, I end on an optimistic note, looking at the ways that people are choosing that, and they are reaching for that better future – working on hard problems, inventing new forms of creativity that other people are willing to pay for, and building that wonderful fiction that we have, and now I’m back to poetry.
+
+Wallace Stevens had this amazing idea that reality is actually a fiction that we create for each other.
+
+Tim Ferriss: That – well, yeah. “Reality” or not, it seems to be that case.
+
+Tim O’Reilly: His great line is, “Reality is an activity of the most august imagination.”
+
+Tim Ferriss: One thing that I really love in both reading your work and speaking with you is how much the new relates to the very old and vice versa, or even reminds us to examine base assumptions. For instance, we could look at the fanciest of high-frequency trading – or even some disasters like long-term capital management – to see how these systems and humans respond to incentives, and if you don’t look at them closely enough, the debugging process can be super painful.
+
+Or, we could see how cryptocurrency has made people take a closer look – if they dig in – at what money represents. So, I wanted to ask you a question about money, not on a macroeconomic level, but on a smaller scale. Correct me if I’m getting this wrong, but “Money in a business is like gas in your car. You don’t want it to run out, but you’re not doing a tour of gas stations.”
+
+Tim O’Reilly: That’s right.
+
+Tim Ferriss: Can you elaborate on that? There are certainly people who disagree, or they would not say that life should be a tour of gas stations, but they would assert that the function of business is to generate profit, and at that, as much profit as humanly possible. Could you explain that position?
+
+Tim O’Reilly: Yeah. Well –
+
+Tim Ferriss: Also – sorry, not to interrupt – also, talk a little bit about – you know a lot of very wealthy people in tech who, in some cases, have come from very meager backgrounds. I’d love to also hear about the mistakes that you see in your mind as it comes to personally – on a personal or familial level – relating to or dealing with money.
+
+Tim O’Reilly: Do you mean my own mistakes?
+
+Tim Ferriss: I think you appear to have a very healthy relationship with this concept of money and money in general, but I’m wondering what – We can come back to that. I’m asking you seven questions in one.
+
+Tim O’Reilly: Well, let me – I guess I would say a couple of things.
+
+Anybody who thinks that money is the object – I’m sad for them because money is a tool. We want happiness; we want happiness for ourselves, we want it for the people we love, and if we’re a great soul, we want it for everybody, and we should want it for everybody. There is a legitimate debate about the right way to do that. We were talking with Russ Roberts, who is a dedicated, libertarian free-marketer. I don’t know if you’ve seen his film It’s a Wonderful Loaf about Adam Smith and his book – how Adam Smith can change your life.
+
+And then, coming into this idea that there’s this magic when people just pursue their own aims and it magically produces this wonderful goodness of the economy – but, those people are not pursuing money. Money is a measure of what they are pursuing. So, that’s the first piece that I would say. Obviously, there are lots of studies about how above a certain level, money doesn’t make you happier. In general, happy and prosperous societies are more egalitarian. It’s not flat. I don’t think…
+
+It’s interesting because a lot of people say that if people aren’t allowed to be come as rich as inhumanly possible, then you’re somehow cutting off this capitalist impulse. That’s not true. I just look in my own history, and I think about the people who drove the industry when I was young, and what their expectations were about how much money they would make.
+
+I think of titans of the industry: People like Hewlett and Packard, or Gordon Moore, or Andy Grove. They probably made less money than some punk kid who built and sold a startup that basically vanished as soon as it was sold. We have people who are billionaires who created very little value, and yet, we have somehow upped our standard of what it means.
+
+There was that great scene in the movie The Social Network – “A million dollars isn’t cool. Now, a billion dollars – that’s cool.” That’s vanity. I just feel that – Anyway, I guess I would say there’s a set of social issues where self-interest should tell you that if we don’t build a more just and equitable society, this system is going to fall down. There are people in North Korea who are doing very well for themselves. There are people in Venezuela who are doing very well for themselves. But, the vast majority of people are living very badly, and that’s a failed state.
+
+That’s the endgame of an economy in which there’s this ferocious competition between some people to get as much as possible, and I think the goal for all of us should be to create as much value as possible and to capture enough of it, but not all of it. I do think that if you see – there’s a lot of wonderful – one of the things that I do feel is wonderful about Silicon Valley is that there are a lot of people who say, “Yeah, that’s enough. I want to go do something really valuable.” We’ve tapped into this with Coach for America and United States Digital Service – people who say, “Okay, I’m going to go to government.”
+
+Or, we see it in someone like Jeff Huber at Grail who says, “I’m going to try to develop an early detection test for cancer. I don’t need to go make another startup that’s going to make a bunch of money.” Maybe he will make a whole bunch of money, but that’s not what he’s doing.
+
+Or, Elon Musk – that’s a great example. Elon put his own money at risk – a lot of it – saying, “I want to do something really hard that’s going to move the needle about making a better world,” and he’s done it again and again – whether right or wrong about needing to become a multiplanetary species – I think he’s right; other people go, “We should be spending the money here on Earth.”  He’s basically doing something. He’s harnessing this machine of the economy – this wonderful machine of capital – to do something. He’s become rich as a byproduct of what he’s trying to accomplish, which is exactly what I mean by “You’re not doing a tour of gas stations.”
+
+Meanwhile, there are people like those people on Wall Street leading up to 2008 – they knew they weren’t creating value. They were simply trying to extract it. They were doing a tour of gas stations.
+
+And I have to say, – there are too many people in Silicon Valley who are like that. It’s funny because I feel like we call people in Silicon Valley “entrepreneurs,” and yes, there are Silicon Valley entrepreneurs, but there are also a lot of people who are a lot closer – if you draw the right map, they’re a lot closer to actors than they are to entrepreneurs. That is, they’re going around, looking for a project to attach themselves to which is funded. Substitute “venture capitalist” for “movie studio.”
+
+You could say an actor is an entrepreneur. They have their own drive, their own career, but they’re basically waiting for somebody to give them money to do this thing.
+
+And, if they don’t get the money – so, they’re really a special kind of hired employee, and that’s what we’re doing with our venture firm. My partner Bryce Roberts has kicked off this thing called NDVC, which is really about building real businesses. You might need some real money to get started, but mainly, you want to get funded by customers. I’ve seen all these people in Silicon Valley who basically go from failed startup to failed startup like an actor goes from one movie to another.
+
+Tim Ferriss: You seem to be so forward-looking and so often at the leading edge of various trends and changes that become something seemingly obvious in hindsight. You’re so forward-looking in so many ways. I promised I would come back to this – why do you read old bestsellers from generations ago?
+
+Tim O’Reilly: Well, really, just for fun.
+
+Tim Ferriss: How do you pick them, if that’s the case?
+
+Tim O’Reilly: Again, it’s one of these pattern recognition things. I first became conscious of it – this must have been close to 30 years ago – I had dropped my daughter off at a doctor’s appointment and I went for a walk while she was – actually, maybe I had just gone back to the car, and it was starting to rain, and I walked by this bookstore that was going out of business, and they had put all these books out on the street.
+
+There was a box, and it was starting to rain, and I saw this box of Zane Grey books. I saw Riders of the Purple Sage, and I thought, “I’ve heard of that.” I couldn’t bear to see the books get rained on, so I said, “I’m just going to pick them up, put them in my car, and give them away somewhere else later.”
+
+But, I pulled that book out, I read it, and I loved it because I thought this guy had invented the mythology of the Old West. I read a bunch of the other Zane Grey books that were in there, and that was when I first started to think there was something interesting. Sure, they’re still popular in a certain way, but they’re super dated.
+
+But, they’re a time machine into how people felt about the world in – Riders of the Purple Sage, written in 1915, I think. And then, I started relishing the same thing about other books that I had read and started to seek them out. A lot of it was helped by the fact that my father-in-law at the time had a big library, and I could read in his library.
+
+I’d also seen the Charlie Chan movies, but he had a Charlie Chan novel by Earl Derr Biggers, and I go, “Let me read that,” and it’s like a time machine with the casual racism, where people approach Charlie Chan as “the chink.”
+
+More than that, it was just this view in the one I read – I forget the title – that from some family in Philadelphia, the daughter has run away to San Francisco, and from there, to Honolulu. The view of California is that of this distant land that –literally, it’s the Wild West, and Honolulu is off the edge of the earth. It’s this piece of magic where you see into the past. And then, as you mentioned with Anthony Trollope, looking into the depths of life in the Victorian era.
+
+But, what I find that’s interesting – and, what I started to seek out – are books that are largely forgotten, or some piece of them has survived, but they haven’t survived – Everybody knows Charles Dickens, but only a certain number of people will have read George du Maurier’s Trilby.
+
+Everybody knows – maybe not everybody; I’m probably showing off too much literacy – they’ve heard about mesmerism, and they’ve heard about a Svengali. Well, Svengali is a character in George du Maurier’s book Trilby, which is about mesmerism and the way mesmerism – hypnotism – was this rage through Victorian society in the 1890s. Everybody was fascinated by it.
+
+I guess it would be a little bit like reading the more recent Electric Kool-Aid Acid Test by Ken Kesey, or something from Thomas Pynchon – getting into the world of psychedelia and that era of the ‘70s. Or, for that matter, reading – there will be a time when somebody could read Michael Lewis’ Liar’s Poker, and it will be a time machine into this place when our financial economy went crazily wrong, and guess what? There’s actually a novel about that by Anthony Trollope called The Way We Live Now about the great railroad bubbles of the 1860s.
+
+In some ways, fiction is also a key part of a way to learn about history in a way that’s a little deeper because one of the things that I think we’re not very good at is – We rewrite history all the time, so if you read a modern history, you’re reading what we think about it now. So, you could read an old book of history, but when you read a novel, you are reading about how people thought and what they were struggling with.
+
+You read a book like – another Trollope that I love – Can You Forgive Her? It’s this sort of proto-feminist novel about these women who made choices that were unconventional in who they would marry, and the fact that that was even an issue – But, we look back on that – but, you can see it as a moral struggle, and he’s trying to set you up to say yes, you can forgive her for not marrying the socially approved guy.
+
+It just gives you deeper insight into our own world because one of the things that – and, this brings me back to Korzybski and the structural differential, “The map is not the territory,” and my training with George Simon – learning to see our own world in the same way. One day, other people will look back on the things we take for granted and say, “How quaint.” In our daily lives, the ability to say, “Wait, this way that I have always been may not the only way to be. I can change” – so, seeing change is a prelude to being change.
+
+Tim Ferriss: So, this is a great place to start to wrap up, and I have a question I’ve been wanting to ask since we started, but I think the answer will be more impactful now that we’ve covered a lot of the context. What do you do? You strike me – and, I think, many people – as extremely optimistic and extremely upbeat. What do you do or what have you done when you’ve felt down, or have gone through periods of darker times?
+
+There are a lot of people who would like to be change of some type, but they feel intimidated or depressed for personal reasons, or because every time they open the newspaper, it looks like the world is falling apart in every possible respect. What do you do when you aren’t your usual upbeat, optimistic self – if that happens?
+
+Tim O’Reilly: Since I gave an homage in the opening to Sesame Street, I also have to give an homage to that other wonderful teacher of children, Mr. Rogers. By the way, before I had kids, I thought Mr. Rogers was the stupidest thing ever. Once you have kids, you go, “Oh, my God, this guy was a genius.” He was a genius. Anyway, there’s a video of him doing congressional testimony once. I forget what the reason was. It was the early days of PBS. You watch this Congressman, who’s sort of hostile in the beginning, gradually start nodding and smiling. It’s so great. But, I digress.
+
+To your question, there’s this fabulous quote from Fred Rogers. On his show, he’s telling children, “When you see bad things happen, look around for the people who are helping. There are always people helping.” It’s such great life advice.
+
+I just tweeted something like that the other day because I had just come across a new video about Planet Labs – one of the companies in which I’m an investor – trying to image the surface of the earth every day. They call their satellites “doves.” All the military satellites have names of raptors, and they wanted theirs to signal that they’re there for peace. There’s this piece about the launch of the largest flock of earth-imaging satellites, and in the tweet, I posted something like, “If you need your dose of optimism, watch this video.”
+
+Here’s somebody who’s doing something idealistic. Maybe I said, “Here’s your dose of idealism.” So, look for people who are helping the world be a better place.
+
+Tim Ferriss: Well, Tim, I think you are one of those people, and we could talk for hours and hours more, but I think I will bring this one to a close. But first, so people can find you elsewhere and learn more about you, the book, and everything else you are up to, where would you suggest people find you on the internet?
+
+Tim O’Reilly: Probably, the best place right now is a site called tim.oreilly.com. It’s a subsite of oreilly.com which is our online learning platform, which includes tens of thousands of e-books – mostly on technology and business topics, but increasingly on other things – videos, and live training. It’s really the core of our entire business.
+
+But, tim.oreilly.com sort of has my personal archive of – for example, a link to this podcast will go on there once it’s up. It also points to my book. There will be a site for the book, but it’s not up yet. The site will be called WTFeconomy.com. I think the book is something that really covers a lot of the topics we talked about today, but also, a lot more.
+
+There’s a lot about how to draw a map of your business model and how to think about the implications – for example, I spent a lot of time on dissecting the business models of Uber and Lyft, and then saying, “What does this teach us about their story about self-driving cars?” If you draw a correct map of the world, it tells you something about the future. But anyway, I would say go to tim.oreilly.com, and from there, you’ll find everything else.
+
+Tim Ferriss: And then, the best place to say hello on social – would that be @OReillyMedia?
+
+Tim O’Reilly: No, @TimOReilly on Twitter. I do see all my @ messages, and I also respond to email, and if you know my name, you can guess my email.
+
+Tim Ferriss: Well, Tim, thank you so much for taking the time. This was really fun for me. I have a reading list as long as my arm, which I’m prepared to dig into. Is there anything – any question or suggested action that you would have for people listening before we completely wrap up?
+
+Tim O’Reilly: I guess the biggest advice I would have is to try to create a daily practice where you stop thinking and start listening to nothing.
+
+Some people would call that meditation, but it could just be that if you go for a run, don’t think. Just let things come into your head. If you sit by a fire or go sailing, those are good activities for letting that happen, or going for a very long walk until all the thoughts fall away. Cultivate that head space and that soul space where you’re not filling it up with the stuff you already have or already know, but are just listening – Morgan’s Tarot card, “Always remember this” – that space that lets stuff come into you, surprise you, and give you new thoughts and give rise to curiosity.
+
+Tim Ferriss: I think that is the perfect place to wrap up. Again, Tim, thank you so much. I really appreciate you taking the time.
+
+Everybody should check out everything, including your writing on Medium. You had a great piece on how you separate fake news from real news that should be required reading. There’s so much more that we can dig into, so, thank you, first and foremost. To everybody listening, you can find the show notes – links to everything we’ve discussed, including Tim’s new book and everything else – in the show notes at tim.blog/podcast, along with every other episode, so just check those out at tim.blog/podcast, and as always and until next time, thank you for listening.
+
+
+TAGS
+TIM O'REILLY
+	

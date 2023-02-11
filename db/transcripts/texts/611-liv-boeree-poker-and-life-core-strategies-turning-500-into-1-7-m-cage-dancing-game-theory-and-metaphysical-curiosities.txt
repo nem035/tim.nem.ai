@@ -1,0 +1,1320 @@
+
+
+AUGUST 2, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Liv Boeree, Poker and Life — Core Strategies, Turning $500 into $1.7M, Cage Dancing, Game Theory, and Metaphysical Curiosities (#611)
+
+
+Please enjoy this transcript of my interview with Liv Boeree (@Liv_Boeree), one of the UK’s most successful poker players, having won both European Poker Tour and World Series of Poker championship titles during her professional career. Before poker she studied astrophysics and now focuses her time as a TV host and YouTuber specializing in game theory, futurism, and rationality. She also gives seminars on high-stakes decision-making, and recently spoke at the annual TED conference about the application of poker thinking to everyday life. In 2014, she co-founded Raising for Effective Giving (REG), a nonprofit based upon the philosophies of effective altruism that has raised over $14,000,000 for its carefully selected list of maximally cost-effective charities.
+
+
+
+Brought to you by Wealthfront automated investing, Athletic Greens all-in-one nutritional supplement, and Eight Sleep’s Pod Pro Cover sleeping solution for dynamic cooling and heating. More on all three below.
+
+
+#611: Liv Boeree, Poker and Life — Core Strategies, Turning $500 into $1.7M, Cage Dancing, Game Theory, and Metaphysical Curiosities
+
+
+
+
+Tim Ferriss: Ladies and germs, boys and girls, this is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show. This is a rare in-person interview. Think this is the first time doing a full shebang with video since COVID, the appearance of that little bug. You may have heard of it. And let’s jump right to the intro. My guest today is Liv Boeree. That’s B-O-E-R-E-E. On Twitter, @liv_boeree. She’s one of the UK’s most successful poker players, now a resident of Austin, Texas, winning both European Poker Tour and World Series of Poker championship titles during her professional career. Before poker, she studied astrophysics, and now focuses her time as a TV host and YouTuber, specializing in game theory, futurism, and rationality. What a world we live in that you can now do that on YouTube. It’s fucking amazing. It’s incredible.
+
+She also gives seminars on high-stakes decision making, and recently spoke at the annual TED conference about the application of poker thinking to everyday life. In 2014, she co-founded Raising for Effective Giving, REG parenthetically. Let me try that again. She co-founded Raising for Effective Giving, in parentheses REG. Let me try that again. In 2014, she co-founded Raising for Effective Giving (REG) — we should keep all of those takes in. This is so bad. I’m trying to cut back on my caffeine, and this is the price I pay — a nonprofit based upon the philosophies of effective altruism that raised more than $12 million for its carefully selected list of maximally cost-effective charities. You can find her online, livboeree.com, livboeree.substack.com, and on all of the things, all of the socials, Twitter, Instagram, YouTube. You can certainly search and find her, Liv Boeree. Liv, welcome to the show. It’s nice to see you.
+
+Liv Boeree: Thank you for having me.
+
+Tim Ferriss: And we can go so many different directions. I thought we would start, actually, maybe in an unexpected place. So I asked you, before we started, “What color would you prefer?” Black, blue, orange, or — I think it was — yellow. 
+
+Liv Boeree: Oh, that’s what it was for was for? It was for mic cable?
+
+Tim Ferriss: It was for mic cable so that I can tell which line is feeding into which input on this recorder.
+
+Liv Boeree: Right.
+
+Tim Ferriss: It certainly looks a lot better in audio. Right? So it does have a certain clown car appearance to it when we do it in person with video. But when you said black, I said, “I bet it’s going to be black” right beforehand. And it was black. And the reason I said that is I read something about you and Metallica. And to get into the zone coming here, on the drive over, I listened to “Orion,” the remastered version.
+
+Liv Boeree: Great choice.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: Niche choice.
+
+Tim Ferriss: Very, very, yeah. Now we’re really getting off track here, but that’s okay. There is no track. My very first album I ever bought was on cassette tape, and it was Master of Puppets. And can you guess why I bring up Metallica?
+
+Liv Boeree: Well, they were my love, that bordered on an unhealthy obsession, from the ages of like 16 to 22. So that’s probably, I would guess, why you brought it up.
+
+Tim Ferriss: That is a big part of it.
+
+Liv Boeree: I don’t know how you would know that, though.
+
+Tim Ferriss: Well, we do research over here.
+
+Liv Boeree: Geez.
+
+Tim Ferriss: Metalinsider.net. “The Iron Maiden of the poker world,” they called you. There was a short discussion of “The Unforgiven.” And this led you, I guess, in some respects, into guitar. Do you still play guitar?
+
+Liv Boeree: I don’t.
+
+Tim Ferriss: You don’t, but you did for a period of time.
+
+Liv Boeree: I did, yeah, from like 16 or 17 till 24, basically, until poker took over.
+
+Tim Ferriss: So do you then have, typically, one obsession at a time? Do you ever have multiple obsessions simultaneously, or do you tend to have one obsessive fixation, and that is where you put your energy?
+
+Liv Boeree: I used to. There’d be a new thing. A shiny new activity would come along. If it ticked enough boxes, I’ll be like, “I have to become the best at this.” I would rarely become the best at it, but I would certainly go down the rabbit hole deep enough to become proficient. And I was like that, I would say, until some point in probably my early 30s, some point around the age of 30, where I lost that a little bit. In some ways that’s good because it means I can try more, a greater breadth of things, but it comes a little bit at the cost of then not ever picking. I’m currently struggling with the fact that I’m being too much of a jack-of-all-trades, master of none. Am I going to be focusing on YouTube? Or maybe I should just do speeches, or maybe I should actually just start a company and give up on this silly public-facing stuff. It can be a bit of a blessing and a curse, I guess, of not fixating on one particular thing.
+
+But certainly, as a teenager, I was — I don’t know — certainly with metal. Because, I think, with teenagers, they so often — because you haven’t formed your identity yet — 
+
+Tim Ferriss: Right.
+
+Liv Boeree: — you will form it, typically, around a genre of music.
+
+Tim Ferriss: Sure. I was a metalhead, which is part of — 
+
+Liv Boeree: You were a metalhead?
+
+Tim Ferriss: Oh, for sure.
+
+Liv Boeree: Oh, sick. Right. So yeah, you get it. And metal is so — 
+
+Tim Ferriss: I mean, I say “was” as if it’s past tense. If I’m in the gym, I’m still a metalhead.
+
+Liv Boeree: Right. Exactly. But you don’t look it. You don’t live it in your visual.
+
+Tim Ferriss: No, I mean, from the neck up, I definitely have the sort of early era — well, actually, no — mid-era Pantera look to me.
+
+Liv Boeree: I was about to say Phil Anselmo a little bit, Phil Anselmo after his Vulgar Display of Power era, whatever.
+
+Tim Ferriss: Yeah. Exactly.
+
+Liv Boeree: Yeah. I was kind of uncool until the age of 16, and then metal came along, and I was like, “Oh, this is what I was waiting for.” And then I just went all out. I had the piercings, red hair, black hair, blue hair, the guitar, and just would not listen to anything but metal, and not just nu metal. I hated nu metal. No Korn or anything like that. No, I wanted the really heavy shit. Pantera, that was like a nice day on the beach. I’m talking Dimmu Borgir, Burzum, some of the — 
+
+Tim Ferriss: Oh, wow. Yeah. Yeah, you — 
+
+Liv Boeree: — Swedish black metal or Norwegian black metal.
+
+Tim Ferriss: Once you get to the Scandinavian — 
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: — death metal, then you’ve gone really deep.
+
+Liv Boeree: Yeah, exactly. But Metallica were a huge forming part of that. They were the one sort of classic metal band that I just loved so deeply.
+
+Tim Ferriss: All right. Let’s paint a picture here. What was the age range of your competitive poker career? And then we’re going to back into that by going to some very early, early chapters. But what was the span? Because I’m trying to overlay that on what you just said.
+
+Liv Boeree: So, I first learned to play poker aged 21.
+
+Tim Ferriss: Mm-hmm.
+
+Liv Boeree: Yeah. It was 2005. I had just graduated uni, didn’t really know what I wanted to do. Thought I was going to carry on in physics. I decided to take a gap year because — when I first started taking physics, I was like, “Oh, I’m definitely doing this. This is so interesting. I love it.” But then, the more time I got to spend with PhD students or even people doing their master’s, they seemed — I don’t know. They just didn’t seem very happy. I don’t know. Just personality-wise, I was wondering if it was actually was going to work for me because all I really wanted to do was go out partying and clubbing, and go see rock shows, metal shows. And I was also still wanting to be a rock star at the time. And I was like, “Eh, I just don’t know if this is going to quite work, me sitting in a lab, fiddling around with lasers.” And so decided to take a gap year. And I think I signed up at — oh, I was doing random goth modeling sometimes. And I — 
+
+Tim Ferriss: As one does in their gap year.
+
+Liv Boeree: Right. Well, just any way I could make some money. And I thought — I don’t know. I enjoyed dressing up in my heavy metal costumes as often as possible. And I was like, “If I can get paid to do that, that’d be great.” I also got paid to be a cage dancer in rock clubs in London. That was — 
+
+Tim Ferriss: Yeah. Well, I was admiring the boots on the way in. This is a shoeless household. So thank you for accommodating, with the socks.
+
+Liv Boeree: This is not — my least metal sock ever. I’m so embarrassed.
+
+Tim Ferriss: These are gray and pink striped socks with hearts all over them. So, yes. Well, it’s like the hard exterior, the goth, death metal exterior, and then the soft, sweet inside.
+
+Liv Boeree: You don’t understand how much pain I’m in, actually, the fact that this is these. I have so many. Most of my socks are black. I just grabbed whatever I needed to.
+
+Tim Ferriss: So, goth modeling, which I also did during my gap year. Totally lying. I’m kidding. Kidding.
+
+Liv Boeree: Oh, man.
+
+Tim Ferriss: I wish I could have. So, goth modeling, cage dancing.
+
+Liv Boeree: Mm-hmm.
+
+Tim Ferriss: And then?
+
+Liv Boeree: I think I signed up for this website that would advertise different TV shows or modeling opportunities, that kind of thing. And I remember seeing an ad which said something like, “Could you use your powers of skill and deception to win £100,000 on TV?” And seeing as I was rapidly getting pretty damn broke, because dancing in a rock club cage doesn’t pay you anything, really, and I had some student debt mounted up but really didn’t want to get a real job. My parents were like, “What are you doing? You’ve moved to London. Get a job.” So I was like, “Okay. This seems reasonable. I’ve wanted to try being on TV. I like game shows. This seems like a game show. I’ll apply.”
+
+Turns out they wouldn’t tell us what it was that we were applying for, because they needed to keep it a secret. But turns out it was a reality show that was looking for five beginners at poker, to teach them how to play. And the sort of loose scientific premise was they were looking for five different personality types to see which is most suited for the game. And so I got selected for that.
+
+Tim Ferriss: What was your personality type?
+
+Liv Boeree: They called me The Professor, which I most certainly was not.
+
+Tim Ferriss: I mean, I could see it. I could see it.
+
+Liv Boeree: I literally turned up in skintight, tiger-print spandex self-made trousers.
+
+Tim Ferriss: Now, did you do that because they had put you in the professor category? Was that a rebellion, an active rebellion, or did that just come out of your — 
+
+Liv Boeree: No. I mean, that was genuinely how I dressed.
+
+Tim Ferriss: It was style emoting.
+
+Liv Boeree: No. It was my genuine — 
+
+Tim Ferriss: Got it.
+
+Liv Boeree: — appearance.
+
+Tim Ferriss: I mean — 
+
+Liv Boeree: As I said, I lived and breathed metal.
+
+Tim Ferriss: Sounds good for TV.
+
+Liv Boeree: Right. And I think that’s probably why they selected me, honestly. I was strange, very, very overconfident to the point of cocky, 21-year-old brat, who was — yeah. I was — 
+
+Tim Ferriss: Unheard of with 21-year-olds.
+
+Liv Boeree: Yeah. I don’t know. I just thought I was the smartest person in the world, and I think I even said something like that in the interview, the audition.
+
+Tim Ferriss: And they’re like, “Oh, we’re definitely bringing you in.”
+
+Liv Boeree: And they’re like, “Yeah, this is going to be a good one.” And I didn’t disappoint, because I ended up having a complete meltdown on the show. So glad this is not on the Internet. I think we played like seven preliminary rounds, where the five of us would play, and then that would accumulate points, and those points would translate into chips for the final game, where we would play for the 100,000. And I was winning. I was leading, going into that. And clearly I had a knack for the game, and I remember the hosts and the professionals that they brought on the show to teach us were like, “Oh, you’re definitely going to win. You are the most talented at this.” So I was so sure I was going to win this thing.
+
+And then I ended up making — not to get too technical, but basically, I misread my hand. Oh, no. I didn’t. I misread the board. I made a straight on the river. The opponent bet. I was so excited. I was like, “I raise,” which was, basically, all my chips. And then I looked at the board again and noticed there were four diamonds out there, and I didn’t have them. I had two black cards, and audibly went — 
+
+Tim Ferriss: Now, I’m no professional, but is that what — 
+
+Liv Boeree: Don’t do that.
+
+Tim Ferriss: — one would call a tell?
+
+Liv Boeree: Yeah. That is a tell. Do not do that. And my opponent — it was a really nice guy called Lee — was like, “Well, I guess she doesn’t have a diamond.” And he was like, “I’m all in.” And instead of, again, keeping my cool or anything, I just started crying, melted down.
+
+Tim Ferriss: The producers are high-fiving in the background.
+
+Liv Boeree: Oh, my God. Yeah, they were, literally. And they were like, “Oh, Liv, what’s the matter? Tell us more.” And I was like — makeup everywhere. I think I ran away from the table. They try and follow me with a camera. It was just classic reality TV meltdown stuff. So that was my intro to poker. But I just completely fell in love with the game. And funny enough, during the filming of that, which took two months, I went to a local card club in London to try and get some practice. And they had this now sort of infamous — this £5 rebuy. So it was the cheapest tournament they had.
+
+Tim Ferriss: What is a rebuy?
+
+Liv Boeree: A rebuy means that for the first hour or so, if you bust out, you can just buy back in again. So considering it was only £5 entry, you can imagine. It’s just pandemonium. Everyone’s going in every single hand.
+
+Tim Ferriss: Right.
+
+Liv Boeree: And people were easily — spent like £100 in their entry overall, 20 rebuys.
+
+Tim Ferriss: Good for the house.
+
+Liv Boeree: Yeah. But I turned up with £10 because I was like, “Well, it’s a £5 tournament. Why would I ever need more than £5 for the entry and £5 to buy a drink? And that will be my day.”
+
+Tim Ferriss: You’re like a player in a video game with two lives, where everybody else has a hundred lives.
+
+Liv Boeree: Right. Yeah. And most people were doing that. Yes. Only for the first hour. After that period ends, then if you bust out, you’re out.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: So anyway, I go. This is the first tournament I ever play. And I enter this thing, somehow get through this carnage period in the first hour.
+
+Tim Ferriss: The zombies that just keep standing back up.
+
+Liv Boeree: I think I did, yeah, I think I did rebuy once with my other £5, so I didn’t buy a drink. And anyway, I ended up winning it, ended up playing till 5:00 in the morning. It was like 120 people in it. And then I came home. They paid me out in 10s and 20s, I think 750 pounds or something like that, which was more money — I’d never seen that amount of cash before. It was just so much money. And I remember going home to my boyfriend at the time, and waking him up at 5:00 a.m., and just throwing the cash on him. Like, “This is the best thing ever. This is my game. And I must be the best in the world.” It’s my first-ever tournament, basically, and I win it. So even though the TV show did not go well, and I didn’t win the hundred grand, I’d already got the bug, basically, from that little win.
+
+Tim Ferriss: Okay. So let me weave through this and inspect a bit because I have many questions. What do you think helped you during the show itself, to make it to the final table? What were some of — whether they’re your characteristics, things you learned, things you observed, trained abilities, anything that comes to mind that you think helped in the very early, nascent stages?
+
+Liv Boeree: Of that tournament?
+
+Tim Ferriss: Yeah, the TV show.
+
+Liv Boeree: Right.
+
+Tim Ferriss: The TV show. And then I have more questions.
+
+Liv Boeree: I mean, I think the thing that was most helpful early on, for me, in poker was, I was just so pathologically competitive. I just had to win and prove that I was the best in this game.
+
+Tim Ferriss: And that translated to just more study time, more practice.
+
+Liv Boeree: Just, yeah, just this laser focus, and then this ruthlessness, because the thing about poker is that you do have to be really ruthless in the game. If you — 
+
+Tim Ferriss: In what sense?
+
+Liv Boeree: Well, bluffing people. Right? If you’re not comfortable with bluffing someone at the poker table, which I don’t think — a lot of people say, “Oh, it’s lying.” It’s like, “It’s not really lying.” No. It’s a strategy within a game, as defined by the rules of the game. It’s an integral part of it. But if you’re not — 
+
+Tim Ferriss: It’s sanctioned lying.
+
+Liv Boeree: Right. If you’re not willing to do that, then it’s not the game for you. And — 
+
+Tim Ferriss: Right. Play chess.
+
+Liv Boeree: Right. And then you have to be just willing to, I guess, just really laser in and pay deep attention to what is going on. Because technically, at any given moment, even if you’re not in hand, there’s really valuable information being exchanged about the types of cards people play, the way that their bodies move when they’re uncomfortable versus comfortable. Are they a naturally aggressive person, or are they naturally scared? What are the things that make them scared? Et cetera. And certainly, in the beginning, because I didn’t know anything about the actual statistical sort of the mechanics of the game, all I could rely on was the stuff I knew, which was looking for when people are bluffing.
+
+Tim Ferriss: So looking for when people are bluffing. Okay. So let me ask you about the statistical side. Because you’re coming out of physics, you have, it would seem, a huge competitive advantage. Why would you not begin to study the tables, and the statistics, and so on?
+
+Liv Boeree: Well, I did, too.
+
+Tim Ferriss: You did that as well.
+
+Liv Boeree: I would say, the thing is that the statistics required in poker at a high level, you’re not going to learn within the first months.
+
+Tim Ferriss: Sure. Right.
+
+Liv Boeree: And also, people didn’t even really know — because this is 2005. Even the top players in the world back then didn’t really understand game theory. Even an average player understands it today. So, I was reading. I read all the books I could get my hands on. So I guess my sort of physics training helped, to an extent, with being willing to just dive in and research on a big, amorphous topic, and not even clear directions of where to start. That probably gave me a bit of an advantage there. And then, presumably, I have an higher-than-average IQ from physics —
+
+Tim Ferriss: All the cage dancing.
+
+Liv Boeree: Exactly. Really helps. And all the drinking, and guitar playing, and chasing after rock stars. Yeah. Which I think, obviously, helps in any kind of strategic game.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: But honestly, the thing about poker is — the beautiful thing about poker, in fact, is that if you’re talking about one night, you can have the literal best player in the world, a medium player, complete beginners, and provided everyone knows the basic rules, then technically, anyone can win. It’s only over the long run does anything actually meaningful start happening.
+
+Tim Ferriss: Right.
+
+Liv Boeree: And so even in this TV show, where we played, I think, eight different games, statistically, it’s not that meaningful, the results over that time period. There’s so much luck going on, and I didn’t realize that early on in the game. In some ways, winning that big tournament early on was — not a big tournament. The £5 rebuy. It gave me an immense amount of confidence and love for the game, which I think had I not had, I wouldn’t have then pursued it as much as I did. But it can also delude you a little bit, because I then just assumed, “Oh, okay, well, I’m going to win this. There isn’t that much luck. It’s just who’s the best player, wins.” And I think that’s partly why it was such a kick in the face when I screwed up and didn’t win the 100,000.
+
+Tim Ferriss: When you say you fell in love with the game, aside from things that maybe you’ve mentioned already, what made you fall in love with it? What was so appealing? There’s an inherent excitement to it — 
+
+Liv Boeree: Right.
+
+Tim Ferriss: — of course, because there’s a blending of skill and chance.
+
+Liv Boeree: Yes.
+
+Tim Ferriss: And money. I mean, there’s stakes built into it.
+
+Liv Boeree: Right. The potential of just winning, making a living, where I don’t have to go and sit in an office, and I can do that. That was obviously a big, big carrot.
+
+Tim Ferriss: Driver. Yeah.
+
+Liv Boeree: There’s just so many different skills that it draws upon. So there’s the statistical side, the scientific side. There’s the game theory, if you really want to dive deep into math, and I mean, these days you can work with simulators, computer science stuff, basically, and go in that angle. There’s an art to it as well. There’s psychology, trying to mentally model what level someone is thinking at and be one step ahead of — they’re going to zig. You’re going to zag, that kind of thing. And then also just, I mean, there’s a scientific way to read body language, but sometimes you just get a vibe that you can’t explain. And so there’s just so many different approaches you can take to it.
+
+And today I’m going to work on my body language reading. And today I’m going to work on my pot odds and my combinatorics. And so there’s never a dull moment. And there’s always a new situation as well. Even after playing for 10, 15 years, I’ll still see something crazy with like the cards run out, like straight flush against quads, that kind of stuff. These incredibly rare scenarios will sometimes happen, or people will do weird things, or some strange ruling will happen that everyone’s scratching their heads like, “I don’t know what the right call is here.” There’s such depth and complexity to the game.
+
+Tim Ferriss: Okay. So, I’m going to admit something. It’s embarrassing. I have been fascinated and drawn to poker for a very long time, and I’ve never learned how to play properly.
+
+Liv Boeree: No way.
+
+Tim Ferriss: It’s true.
+
+Liv Boeree: Wow.
+
+Tim Ferriss: Now, there are many excuses I may have for this, and one of them is that friends of mine, like a guy named Jason Calacanis, want me to play, but it’s mostly because he wants to take all my money, because he’s going to be far better than I am. And that’s a compliment, Jason.
+
+Liv Boeree: I’ll teach you how to beat Jason.
+
+Tim Ferriss: And a lot of these investors are very confident. I know some of them, certainly, particularly the quants, who I’ve observed from afar, seem to be pretty competent.
+
+Liv Boeree: Mm-hmm.
+
+Tim Ferriss: I had a little bite of the bug probably five years ago, when I did an episode of a TV show — bringing back TV — where I trained for a week, or five days probably, to play heads-up against a whole cohort of folks, including some pros. And I was trained by — I want to give him credit — Phil Gordon for that. And for a very short period of time, until the next skill I had to learn for the next episode pushed it right out of my head, had a lot of fun with heads-up. But one night, when the filming had finished, and I was like, “Let me go try just a regular table,” and I got slaughtered. It did not translate at all, which I expected would largely be the case, but I just got dismembered. I mean — 
+
+Liv Boeree: Well, heads-up is a very different game — 
+
+Tim Ferriss: It’s super different.
+
+Liv Boeree: — to playing against eight people.
+
+Tim Ferriss: Yeah, totally.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: So yeah, one-on-one, a totally, totally different game. But it’s actually brought back, in a way, my love of mathematics and statistics, which I lost. Not to make this like a confessional, but I lost it in 10th grade because I had this one teacher who just had this huge ax to grind with the boys in the class. And almost all the boys ended up quitting math or avoiding it after that class. My brother had the opposite experience and then later became a PhD in statistics. It’s amazing to look at these divergent kind of points, right, where you have a fork in the past, depending on your experience. So my question, after all that word salad, is if you were to suggest a way of learning or to teach me an approach to learning regular poker, whatever that means, the type of poker I would play with my friends who are like, “Let’s play poker,” right, how might you think of approaching that?
+
+Liv Boeree: Well, given that you are, I mean, you’re pretty well rounded in your personality, and that you like both sort of human, interactive things but you can also nerd out really hard — 
+
+Tim Ferriss: Yes.
+
+Liv Boeree: — I don’t think there’s really a wrong way to teach you poker. If I was to teach my mom or something like that — my mom is the most — sounds strange to say, but she’s the least autistic person, in that she is so able to intuit social situations.
+
+Tim Ferriss: Yep.
+
+Liv Boeree: And emotionally, unbelievably emotionally intelligent, but she’s phobic of math, phobic of — she’s interested in sort of scientific concepts. But if you actually try and get into the technical weeds, she cannot. She would be in arms with Molly right now. She just feels. She’s a very feel-based person. And if I was to teach her the game, I would take her to the table with a group of fun people, and we would slowly just turn the cards over and talk through. I’ll give her the hand rankings. I’m going to take it very steady in terms of like, “Look how the way that they’re acting. So they seem quite confident,” take the human approach to it. But I think with you, we would want to jump sort of straight into the game theory to an extent.
+
+Tim Ferriss: So let me apply some parameters, if I could, just to allow us to conjure an image. He’s really going to want to take my money now, which he will, probably. So let’s say I had a game with Jason, and you can pick the sort of minimally viable period of time over which you think I could learn to be competent enough that I might have a chance. Is it four weeks? Is it 12 weeks? And this is also not knowing how good Jason is. I have no idea, because I’ve always refused to play, but — 
+
+Liv Boeree: He’s pretty good.
+
+Tim Ferriss: Okay, great. So let’s just say if luck is on my side, having some chance in Hell.
+
+Liv Boeree: Well, here’s the thing. So, you have a chance in Hell anyway. If you sat down and just played — 
+
+Tim Ferriss: Because it’s not just going to be Jason. It’s going to be an entire table.
+
+Liv Boeree: Well, no, but even if you were playing one-on-one against Jason, if you guys sat down, assuming the basic rules of which hand beats what — 
+
+Tim Ferriss: There’s always a chance.
+
+Liv Boeree: Okay. But let’s assume the very basics. You know what “betting chips” means and how — 
+
+Tim Ferriss: Sure, sure, sure.
+
+Liv Boeree: — whether you have a straight on the river or not. Assuming that, you and I could sit down and play 10 hands, and it’s basically 50-50 who wins.
+
+Tim Ferriss: Okay. Let’s say we have — you can pick the period of time of training. And it’s — 
+
+Liv Boeree: Right.
+
+Tim Ferriss: — however long it is, and then Jason and I are going to play — 
+
+Liv Boeree: A thousand hands, let’s say.
+
+Tim Ferriss: Exactly.
+
+Liv Boeree: Yeah. A thousand hands. Your chance of beating Jason over a thousand hands probably, with just knowing the rules, is 45 percent.
+
+Tim Ferriss: All right.
+
+Liv Boeree: That’s how crazy — that’s the thing.
+
+Tim Ferriss: That is crazy.
+
+Liv Boeree: Maybe it’s a bit less than that. Sorry, Jason. Maybe it’s, let’s say 37 percent, maybe 35. I’m going to get a phone call after this. But could we get it so that it so that you are a favorite against him?
+
+Eight weeks of intensive.
+
+Tim Ferriss: Okay.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: Eight weeks.
+
+Liv Boeree: If you sat and studied all the charts, because that’s what it is really these days. So, poker is a — now that we know the mechanics of the game, basically there’s this thing called game theory optimal solutions to different scenarios, which is basically if you have jack nine suited on this type of board against a person in this position, you will want to check raise them 30 percent of the time and check calls 70 percent of the time or something like that.
+
+Basically, there are answers to what you should do in different scenarios with what frequencies, it’s all about frequencies. And so, it’s very much, now that we know this and you can run simulators to give you the answers of all these fictitious scenarios, now it’s changed the game into a basically who’s willing to learn as many different scenarios as possible, and basically emulate them in their head when they go and play. So, it’s a very different type of game. It’s more like, kind of, almost studying chess moves.
+
+Tim Ferriss: I was just going to say, it sounds a lot like studying chess scenarios.
+
+Liv Boeree: And it wasn’t like that even 10 years ago. It was very, very different. I mean, there was some. It was more about you’d sort of do combination calculations in your head and that kind of thing, but that was kind of the limit of it. And honestly, it’s actually one of the reasons why I, in the end, didn’t like the game as much anymore. I’d been doing it for 12 years anyway and I was just starting to get itchy feet naturally, but it required more and more time spent at the top levels at least with these — 
+
+Tim Ferriss: Just for incremental gains.
+
+Liv Boeree: Exactly. Diminishing returns in terms of hourly. Because also what it means is because it’s like these game theory optimal solutions exist, it means that there’s technically this perfect style of play that any one person can play. And the more people study this style, the more people are close to it. And so that means there is a ceiling of how perfectly you can play. Like, technically if you and I are both two computers that are able to play this game theory optimal style, we’re just breaking even against each other over infinity.
+
+Now, over the short term, if we play for an hour, whoever gets the best cards will therefore win, but over infinity, we will just break even. And so, that meant that you would have to be putting more and more time in to win a sort of shrinking pot of money, essentially. So, which is why I don’t now recommend to people to go out and try and be professionals in poker, but I still absolutely recommend that people go and learn the game, because it is probably the best way to — it’s the best mini analog for the type of complex decision making that you need to do in life that you can do.
+
+Tim Ferriss: And we’re going to come back to this because I do think with my very little exposure to poker, and having watched some on TV, and nonetheless having had my ass handed to me when I tried it live, that particularly maybe an easy map is investing and poker because there are just so many variables that are similar. Which is why I think so many investors are drawn to it. And also, give a plug, All-In Podcast, check it out. That’s J. Cal’s Podcast.
+
+Liv Boeree: It’s amazing.
+
+Tim Ferriss: But it is a fantastic, fantastic show. I do think it is one of the best new podcasts, newish podcasts, that I’ve put into my rotation. So don’t take all my money, Jason.
+
+Eight weeks. What does the density of practice look like? Is that two hours a day? Is it 10 hours a week?
+
+Liv Boeree: Oh, no.
+
+Tim Ferriss: What does the distribution look like?
+
+Liv Boeree: To be confident that you’ll have like a 60/40 edge on him? I would want to do like 40 hours a week, at least.
+
+Tim Ferriss: Okay.
+
+Liv Boeree: Oh, yeah.
+
+Tim Ferriss: All right. 40 hours. How does that break down if we have, you said eight weeks, right?
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: So, hypothetically let’s say week one, what does the schedule and curriculum look like?
+
+Liv Boeree: So in the first week, I think we would — I mean, I would sit and just run out lots of different hands. I think in person is better than online. So you actually just get to play with the cards, feel what it’s like. You get really familiar with the betting patterns and that kind of thing. And we would talk about the more sort of general things like, “Why are we betting? What are we seeking to find here?” Okay, we want to find information. We’d get into the idea of ranges because kind of a strange word, but basically, if we are playing a hand right now, I don’t know anything about your cards. All I know is that you’ve got two cards out of the a thousand and whatever the number is combination of two cards that you can have.
+
+So, right now your range is a hundred percent and same back at you. And then as the hand progresses, basically I want to narrow down the perceived range that I think you could have. Gain information so I can narrow that down and put you on a hand. While meanwhile, giving away as little information about my own possible range. So, keeping it as wide open to you. So it’s about maximizing deceptiveness — 
+
+Tim Ferriss: Sure.
+
+Liv Boeree: — while extracting information out of your opponent. So, I’ll teach you about concepts like that. And we would talk about ways that you can do that. And then I think we would go and actually play a little bit in person, just so you get used to the, again, the kind of dynamics.
+
+Tim Ferriss: So we would need to find a table somewhere.
+
+Liv Boeree: Yeah. We’d go to a local, I mean, probably invite friends over and we’d just have some — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: — have some games. And it would be so much fun anyway, those are the best type of poker games.
+
+Tim Ferriss: Bring in my card mechanic and take all their money.
+
+Liv Boeree: Exactly. Yes. And then after that, I think we would start, I don’t know what stage, but once you seem competent and you’re able to do sort of basic math calculations in your head about like, “Okay, well I have to call a hundred dollars into a pot of $400. I’m getting four to one. What does that mean? How many cards are there that I need to hit?” Et cetera. So, these kind of pot odd calculations, that kind of stuff.
+
+Tim Ferriss: Could you just take a second and explain what you mean by pot odd calculations?
+
+Liv Boeree: So pot odds are basically like an investing to an extent, what is your likely — if things go well, what do you win? Versus how much would you lose? So you can — 
+
+Tim Ferriss: And then how do you bet size accordingly?
+
+Liv Boeree: Right, exactly. Or like, let’s say you are trying to hit a flush and there are nine cards left in the deck that could help you, say out of 36. So, you have a 25 percent chance of hitting the card you need. And meanwhile, the pot is odd, offering you five to one. Well, now it’s actually a profitable thing, right? Because the pot is offering you more than the odds that you need to hit your card. So Matt and I haven’t talked about this stuff in ages. It’s really interesting seeing my brain’s like, “Oh, find the words.” And so those kind of rudimentary types of math calculations that you need to do. And then as you get more comfortable in that, then you would start doing more like combination calculations.
+
+So again, as you’re sort of narrowing down your opponent’s range, there will be presumably some hands that they will have that are better than your hand, you know? So what we would call value hands that they would be playing, but they would also have some bluffs in there. So you need to try and think about what are the conceivable bluffs they would have given the sort of story that’s been told? Like, pre flop they raised early, so that means they probably have stronger cards than weaker cards. So, you can narrow it down to like the top end of the cards like aces, kings, ace, king, ace, three suited, that kind of stuff.
+
+But then on the flop, when an ace came out, they actually slowed down. So, that maybe suggests that they don’t have an ace. Maybe they have more like nines, tens, eights, to a pocket per like that. These like little weaving together bits of evidence to be able to narrow down people’s ranges and put them on conceivable bluffs versus conceivable strong hands. So, that kind of stuff. And then after that, if you’re seeming to grasp all that, then we would actually start looking at the solver charts.
+
+So, these are these like simulators, there’s this one called PioSOLVER that was at least popular in the day when I was playing.
+
+Tim Ferriss: How do you spell that?
+
+Liv Boeree: P-I-O.
+
+Tim Ferriss: P-I-O.
+
+Liv Boeree: PioSOLVER. I think it’s still the main one. And at least when I was using it, that was back in 2016 or so, it would take many hours to run a sim. And so, you’d be like, “I want to know what the optimal players with jack nine suited on a 10, eight, four rainbow board or something like that. And then let it run.
+
+Tim Ferriss: Folks listening, I have no idea what that means either.
+
+Liv Boeree: I know. That’s the thing, I don’t know how technical to go.
+
+Tim Ferriss: No, I just love how it sounds though.
+
+Liv Boeree: Yeah. There’s so much jargon in poker.
+
+Tim Ferriss: I think I need a rainbow board.
+
+Liv Boeree: That’s actually probably where we would start. We would start with glossary because there’s so many terms.
+
+Tim Ferriss: The vocab.
+
+Liv Boeree: The vocab is — there’s just so much going on there. But yeah, so, we would start running simulations so you can see and understand like, “Okay, this is what the optimal solutions would be in these certain situations.” Because once you know what the optimal solutions are, then now you are sort of equipped with this like really solid baseline of what the perfect play is, where if you don’t have any information about your opponent, that you can just follow and know that at worst you’ll be breaking even, but you’ll still be beating them.
+
+But then because you know what the perfect players, you can look for ways to exploit their screw ups because in reality, everyone, even the pros, are making mistakes. They aren’t playing this perfect GTO style, but you can’t really know the way that they’re screwing up until you know what the GTO is in the first place. So, it acts as this like baseline benchmark of high quality play. So, we would sit and we would study these charts. And if over that course of eight weeks, I got you so that you were able to emulate these charts to — I don’t know how to quantify it, but to a good amount, that would be more than sufficient to beat Jason, because he’s not a full-time pro.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: He’s good. He’s played a lot, and we’ve only played once. And I was more just like bemused at the amount of words that were coming out of his mouth.
+
+Tim Ferriss: Well, I was going to say, if his poker is anything like his basketball, his ability to shit talk — 
+
+Liv Boeree: Oh, man.
+
+Tim Ferriss: — is actually incredible.
+
+Liv Boeree: That guy is world class.
+
+Tim Ferriss: He’s very good at getting under your skin if he wants to get on your skin.
+
+Liv Boeree: Oh yeah. Oh yeah. We’ve been at a few parties together and he knows how to ruffle feathers, but he’s so funny. I love him. Yeah.
+
+Tim Ferriss: Excellent interviewer and moderator. I just want to — 
+
+Liv Boeree: Yes.
+
+Tim Ferriss: — second the recommendation that was made earlier. 
+
+Tim Ferriss: Let’s depart from the training for a bit. We may come back to it, but actually let me ask a question I haven’t asked in a long time. Maybe similar, this is like kicking in the gears, starting the old car, trying to turn the key, get it to turn over. If you could predict the main reasons, the failure points, the reasons I would quit in those first eight weeks, what do you think they might be? Assuming that I had the time.
+
+Liv Boeree: Right.
+
+Tim Ferriss: Right? And the interest, what are the things that might break me or cause me to walk, give up?
+
+Liv Boeree: Hm. If for some reason you couldn’t wrap your mind around what these charts mean, I guess that would be a sort of breaking point, but I just don’t see that ever happening to be honest. I think the reason why you’d walk away is because you’re like, “Ah, actually this isn’t that much fun and I don’t care enough about beating Jason.” You’re not playing for suitable stakes. And you’re like, “This is not worth my time.”
+
+Tim Ferriss: And for people listening, I’m just using Jason as a stand-in because it’s fun. But, right.
+
+Liv Boeree: Right.
+
+Tim Ferriss: I don’t care enough about beating anyone.
+
+Liv Boeree: Exactly. Just the opportunity cost would be too high.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: That would be the only reason I think, because I think you would find it fun otherwise.
+
+Tim Ferriss: And I would have to, well I wouldn’t have to, but ensure that I have a certain frequency of play after putting in — 
+
+Liv Boeree: Yes.
+
+Tim Ferriss: — 40 hours a week for eight weeks, otherwise the decay rate would — 
+
+Liv Boeree: Well, absolutely.
+
+Tim Ferriss: — be brutal.
+
+Liv Boeree: And part of that time, by the way, in that 40, it’s not just studying the charts. It’s also going out and actually practicing and getting real because assuming you’re going to play one on one in the flesh. So, a big part of poker that we haven’t touched on yet as well is emotional control, understanding yourself and your own emotional — your own biases, not only cognitive, but also the way different negative emotions will arise, which they will in the game, particularly with someone like Jason, who is so adept at saying things to needle, and that’s a big part of the game.
+
+Tim Ferriss: Getting the verbal — 
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: — bamboo shoots under your fingernails.
+
+Liv Boeree: Exactly. That would be as important, particularly if you’re playing for a particular — you’re training for a big match. The mental game side of it, because ultimately you can study all the charts and think you’re a GTO machine and like, “Oh, I’m, I’m fine.” But then you get down there and he looks you in the eyes and it’s like, “Well, you screwed up that hand, Tim.” Like, “What are you going to do? What are you going to do? Huh?” And just goes full Jason on you. You’ll forget everything. The red mist, I call it the white noise — 
+
+Tim Ferriss: The red mist. I’ve never heard that. Okay. I like it, though.
+
+Liv Boeree: The red mist descends. So, there’s two mental blocks.
+
+Tim Ferriss: And that’s when one might go tilt.
+
+Liv Boeree: Tilt. Exactly.
+
+Tim Ferriss: If I’m catching the lingo.
+
+Liv Boeree: Yeah, tilt. Very good. For those who don’t know tilt is what people do basically when their emotions get the better of them and they start playing badly.
+
+Tim Ferriss: Yeah. Now, is monkey tilt just an exaggerated version of that?
+
+Liv Boeree: Yes.
+
+Tim Ferriss: Okay. Yeah. Because — 
+
+Liv Boeree: Monkey tilt is just like the — you’ve got sort of — 
+
+Tim Ferriss: I love the image that this — 
+
+Liv Boeree: One of the flavors.
+
+Tim Ferriss: — conjures. Now, the reason that this is fresh on the mind is not too long ago, I was in a non-sober state and decided that it was a perfect time to start making stock trades. And my friend was watching me and he’s like, “I think you may be full tilt right now.” And I was like, “Do I look excited? Do I look upset? I’m not on tilt.” Those didn’t work out very well, those trades.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: But the red mist, when the red mist — but you call it the white what?
+
+Liv Boeree: Well, so there’s two, there’s the white noise. So, the white noise is when it’s less about — so redness is when you are angry, someone has wound you up.
+
+Tim Ferriss: That would probably be my Achilles’ heel.
+
+Liv Boeree: Right.
+
+Tim Ferriss: The white noise?
+
+Liv Boeree: Yeah. And the white noise is where for whatever reason, perhaps you’re just really tired or you’re really stressed, but you’ll go and consult your brain and it comes back with nothing.
+
+Tim Ferriss: Okay. Yeah. You’re just beach balling.
+
+Liv Boeree: Just beach ball, yeah. It’s like — and I’ve had that a few times. I remember having it in the world series day four or something, day five. And it was a really big pause and I just needed to think, and then, but then my brain was like, “Well, this is a really important decision. You just really pay attention to this one.” Like, “Are you paying? Well, I’m not sure you’re paying attention. Why are you listening to me?” And so, it was this little voice. And then I was like, “Okay, pay attention. Let’s count the combos of what they’ve got,” and just nothing. So, in the end I was like my system two.
+
+Are you familiar with system one, system two?
+
+Tim Ferriss: No.
+
+Liv Boeree: Okay.
+
+Tim Ferriss: Oh, wait a second. System one, system two. Is this like Daniel Kahneman?
+
+Liv Boeree: Yeah, it’s a Danny Kahneman thing.
+
+Tim Ferriss: If you could just give some context.
+
+Liv Boeree: So, his thesis is that we have two modes of thinking. System two, which is, well, system one is like your intuitive, like if I ask you what’s five plus five, you immediately know the answer is 10. So, kind of your gut instinct.
+
+Tim Ferriss: I just got a shot of adrenaline because I thought you were going to make me do multiplication tables.
+
+Liv Boeree: Well, wait.
+
+Tim Ferriss: Woo.
+
+Liv Boeree: Well wait.
+
+Tim Ferriss: Okay. All right.
+
+Liv Boeree: So that’s your system one. It’s just that things you immediately know an answer to, or it’s like an unconscious process. Technically it’s system one if you’re driving down the street and someone cuts in front of, your body will take over and you’ll swerve because you don’t have time to do a sort of cost benefit analysis of going left or right. And then your system two is the conscious thinking. So, if I was to ask you what 471 plus 88 is.
+
+Tim Ferriss: It would be 560 — I didn’t even — forgot the numbers now. Nine?
+
+Liv Boeree: 471 and 88.
+
+Tim Ferriss: 471 and 88. What’s that?
+
+Liv Boeree: I got no idea.
+
+Tim Ferriss: 471. Yeah. 9, 5 — 5, 5, 5, 9. Is that right? 559? I have no idea.
+
+Liv Boeree: Five hundred and — well, I can’t even remember. Anyway, the point is — 
+
+Tim Ferriss: Whatever that was. You can’t use your gut feelings for that.
+
+Liv Boeree: Right. You have to think it through, you have to do the calculation mentally in your head. So that’s your system two. And poker is really interesting because — 
+
+Tim Ferriss: You know I’m on five hours of sleep. I just want to buy myself a little bit of wiggle room on the mental math.
+
+Liv Boeree: I didn’t even answer my own question.
+
+Tim Ferriss: Yeah. Right, right.
+
+Liv Boeree: And I have no excuse.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: But, so — 
+
+Tim Ferriss: May I make a quick aside?
+
+Liv Boeree: Mm-hmm (affirmative).
+
+Tim Ferriss: One of the coolest things I’ve ever seen was when I was 15 as an exchange student in Japan and I got to know multiple kids because it’s mandatory that every kid learned how to use an abacus and something like one out of every 30 or 40 kids would get so good that they no longer needed the physical abacus.
+
+Liv Boeree: Wow.
+
+Tim Ferriss: They could see it in their minds. And so, for party tricks, their friends would just lob these three-digit multiplication problems at them. And they could come up with the answer. It would take them a second because they actually had to physically — 
+
+Liv Boeree: Map it out.
+
+Tim Ferriss: — map it out and move these beads and so on — 
+
+Liv Boeree: I love that.
+
+Tim Ferriss: — in their minds, but astonishing.
+
+Liv Boeree: My partner Igor can kind of do that.
+
+Tim Ferriss: Yeah?
+
+Liv Boeree: It was one of the ways he got me, honestly.
+
+Tim Ferriss: Wow.
+
+Liv Boeree: You just throw numbers at him and he hasn’t done it in a while and he’ll hate that I’ve mentioned this because now everyone’s going to do it to him. But he can usually answer within like a second or two with these things.
+
+Tim Ferriss: Wow, that’s fast.
+
+Liv Boeree: Yeah. It’s hot.
+
+Tim Ferriss: A second or two.
+
+Liv Boeree: It’s hot shit.
+
+Tim Ferriss: Rock stars to mental mathematics.
+
+Liv Boeree: Yeah. But yeah, so those are — I can’t remember where I was going now.
+
+Tim Ferriss: So, where you were going is we were talking about system one, system two.
+
+Liv Boeree: Yes.
+
+Tim Ferriss: And that white noise moment.
+
+Liv Boeree: Yes.
+
+Tim Ferriss: And that is not a time that you can rely on system two. Is that what you’re going to say?
+
+Liv Boeree: Right. Exactly. Because system two has shut down.
+
+Tim Ferriss: Yes. System two is offline.
+
+Liv Boeree: Yes. Offline. Does not compute. There’s nothing there. Hello?
+
+Tim Ferriss: 404, 404.
+
+Liv Boeree: 404. Yes. Blue screen of death. And it’s bad when that happens in poker.
+
+Tim Ferriss: Yeah, it sounds fucking terrible.
+
+Liv Boeree: It’s no good at all. Yes. And that is, if you’re playing, it can be various reasons. It can be because particularly, well, if you’re wound up, someone’s gotten under your skin, that will shut it off. But also just pure adrenaline and stress. You’re excited. Even I’ve had it when I had a really good hand.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: And I was really — I was like, “Oh man, I’m going to win a huge pot here. This is so exciting.” And I’m like, “Well, I need to think through what the optimal bet size is.” And again — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: Because it’s so hard because I think you are put into, well, you know this stuff better, your sympathetic nervous system is in play, right? So, you’re kind of in fight or flight and that is not conducive to slow cognitive thought. It’s conducive to immediate. Physical stuff, really useful for, but not so good for the mental.
+
+Tim Ferriss: So let’s talk about the regulation, the self-regulation. So I have in front me some notes, obviously you can see them, those who are on audio only will not be able to see them. That’s fine because it makes me sound more professional if you think I’m doing everything off the top of my head. So at one point you turned 500 euros into 1.25 million euros, which is around 1.7 million. And if I’m getting roughly, I believe that math right. That was at the EPT San Remo, and it was 500 euro buy-in?
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: Or $500?
+
+Liv Boeree: It was a 500 euro satellite tournament into the main event buy-in which was 5,000 euros. So everyone was buying in for 5,000, but I won my way in because I couldn’t afford the 5,000.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: I won my way in through a feeder, smaller tournament.
+
+Tim Ferriss: So, a few just housekeeping questions about this. How long after that first tournament win, after the TV show was this?
+
+Liv Boeree: This was 2010, so five years.
+
+Tim Ferriss: Wow. All right.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: So five years later this happens. Presumably in this tournament there was less — and then crying and running away from the table.
+
+Liv Boeree: Correct.
+
+Tim Ferriss: Okay. So, what type of self-regulation did you learn over that period of time and then subsequent to that?
+
+Liv Boeree: Oh man, that tournament was nuts because, so the TV show was in 2005. I didn’t actually really turn fully professional whereby I was living off it until late 2008. I was still sort of playing casually. Couldn’t really get my act together enough to be — I wasn’t good enough really to be living off poker before then. And so I’d been playing on the circuit now for like a year and a half and I played some bigger buy-in tournaments, but I’d never made any really big, final tables or anything.
+
+And this Italy one kind of happened by accident. Remember the volcano that went off in Iceland?
+
+Tim Ferriss: Yeah, I do.
+
+Liv Boeree: And it shut down all of European airspace. I was in the south of France for something completely different and I couldn’t get home. And I heard that there was this tournament going on in Northern Italy and it was like a train ride away. So I was like, “All right, screw it. I’ll go there.”
+
+Tim Ferriss: Thank God for volcanoes.
+
+Liv Boeree: Bless that volcano. Oh, yeah. And then I arrived and there was this feeder tournament that’s called a satellite that night where it was 500 euro entry and one in 10 people would win their ticket for the 5,000 at the main event. So I won my ticket that night, at four in the morning, and then went and played it the next day, starting at noon. And a very strange thing happened to me actually at noon before the tournament started. But that’s another topic I think we can get into later maybe.
+
+Tim Ferriss: Wait a minute. You can’t leave that. Just give us a teaser and then maybe we’ll come back to it.
+
+Liv Boeree: I had my first of a handful of completely unexplainable, borderline metaphysical experiences.
+
+Tim Ferriss: Okay.
+
+Liv Boeree: I won’t say what it is.
+
+Tim Ferriss: We’ll come back to that.
+
+Liv Boeree: It’ll be better if we talk about it later, yeah.
+
+Tim Ferriss: We’ll come back to that later.
+
+Liv Boeree: But anyway, so I had a very strange thing happen just before the tournament started at noon and long story short, six days later, it ended up being the largest tournament ever held in Europe at the time.
+
+Tim Ferriss: Leaving that undescribed is what I call keeping the audience listening.
+
+Liv Boeree: Yeah. Yeah. You better keep watching.
+
+Tim Ferriss: And now for short commercial break. No, I’m just kidding.
+
+Liv Boeree: I ended up attracting the biggest field of players of any tournament in Europe to date at the time at least was over 1,200 people. So huge, huge tournament. And six days later, I was on the final table down to the final nine.
+
+Tim Ferriss: How many hours a day are you playing?
+
+Liv Boeree: I played 10 hours a day on average.
+
+Tim Ferriss: Yeah. Yeah.
+
+Liv Boeree: Some days were a bit longer. Some days were a bit shorter. So you can imagine how exhausting that is. It was also because the longer you’re going, the more intense it gets.
+
+Tim Ferriss: Right.
+
+Liv Boeree: Because in the beginning, the stakes are like, “Okay, I might lose my 5,000 euro buy in.” But as the tournament wears on and there’s less people, your chip stack is worth more and more in terms of equity and — 
+
+Tim Ferriss: Yeah, so the loss aversion starts to — 
+
+Liv Boeree: — oh yeah and by — 
+
+Tim Ferriss: — go vertical.
+
+Liv Boeree: But by the time of the end of day five, where we played down to the final table, the final nine, for ninth place, I was already guaranteed, I think, 90,000 euros. I only had — I think I had 50,000 pounds to my name at this point. So I was already guaranteed double my net worth for whatever happened on that final table. And first prize was the 1.25 million euros, $1.7. And that morning I did not sleep. I don’t know what — I think I got some sleep the night before, because I’m somewhat of an insomniac anyway. So if I have something on the next day that’s big, I often will just not sleep very well. And so you can imagine this cranks it up to 10 and I was dreaming I don’t know if you ever have that, where you’ve been doing a lot of a particular thing, like trading or whatever, and you semi sleep and see the thing.
+
+Tim Ferriss: Oh, sure. Yeah.
+
+Liv Boeree: I was playing poker. I was lying there. I had pocket jacks. I had a king, queen, just these fictitious hands my brain just could not shut off. And that was my night, the night before. And I was just in complete tears, because I’m like, “Oh no, we have a play tomorrow. I’m a mess.” I was so nervous before the final table. I threw up three times on the way, walking down to the thing. It was so stressful. But I don’t know, once we actually started playing, once I got the cards in my hand, it was just like, “Whew.” And I just switched into this mode of — I don’t know, it was weird. It — 
+
+Tim Ferriss: Was that the first time that it happened or did that happened to you before?
+
+Liv Boeree: Not to that extent, because I think it was the perfect storm of it’s such extreme nerves and being such a mess beforehand and then actually being able to play well. I don’t know. The delta felt more than I’d ever had it before, but I had had that before where I was able to get into the zone very well.
+
+Tim Ferriss: I wonder if you had just spent all of your — 
+
+Liv Boeree: Nervous energy?
+
+Tim Ferriss: — stress calories. Yeah.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: You know what I mean? That tank was empty.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: So you needed to switch to a different tank.
+
+Liv Boeree: Yeah, I don’t know. But as I’ll go into the story, honestly, it felt like I had something guiding me that whole time. It was a very strange experience. And anyway, I won and it was great.
+
+Tim Ferriss: So for those we are — of course, I’m not going to let go of this metaphysical experience. We are going to come back to that probably quickly. But before we do, for people who are not going to bank on having metaphysical experiences or the feeling of being guided, what else have you learned about regulating — 
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: — whether it’s the white noise or especially for me of personal interest, when someone is actively trying to fuck with you and disrupt up all of your systems?
+
+Liv Boeree: The best thing I’ve found, it’s super simple, is just breathing. Three deep breaths. It’s so cookie cutter, but it just works.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: Just close your eyes and inhale in. You could feel even if your heart’s pounding, my heart’s actually pounding a little bit now — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: — because of retelling the story. It’s funny. But just that you notice that you feel your body, you breathe in and you breathe it into your belly. And I imagine my favorite color.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: Which is usually a mix of turquoise and purple, something like that. And I’m sucking that in and pulling it down into my stomach and then it’s just this, settling feeling and it’s — half it is just bullshitting myself.
+
+Tim Ferriss: But it’s an interrupt. It’s a — 
+
+Liv Boeree: It’s an interrupt. Exactly.
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Liv Boeree: And it just is enough to settle your nervous system a second, just ground you back to here and then be like, “Okay, now what’s the problem?”
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Liv Boeree: Another thing that’s helped as well is just laughing at myself.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: Like, “Oh, you’re taking this one awfully seriously, all silly,” almost like playing a silly little (singing) in my head just to make light of the situation — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: — a bit. But that requires a lot of ability to step out and observe the situation — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: — because obviously once you’re in the red mist, particularly the redness more than the white noise, tby definition you are animalistic. You don’t have the ability to step outside and observe a situation well, so — 
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: — I think just practice, really. Practice by getting angry, practice reading. I guess a way you could do it is go read something that makes you angry. Really reliably gets your blood pressure up and then try and build in some trigger that makes you do the three breaths thing.
+
+Tim Ferriss: So for 99.9 percent of the sadomasochistic users of Twitter, myself included, just going — 
+
+Liv Boeree: Absolutely.
+
+Tim Ferriss: — just go on Twitter.
+
+Liv Boeree: Yeah. Just go on Twitter every day.
+
+Tim Ferriss: Just go on Twitter.
+
+Liv Boeree: You’ll be reliably upset. Yes.
+
+Tim Ferriss: For two minutes.
+
+Liv Boeree: Oh, man. Twitter.
+
+Tim Ferriss: Oh, what a nasty neighborhood that’s turned into.
+
+Liv Boeree: Oh, so sad.
+
+Tim Ferriss: As you were saying this, I’m imagining Jason listening to this and formulating in his mind. That’s why I was smirking. For if he sees me taking deep breaths, he’d be like, “Yeah, Timmy, take those deep breaths. Come on buddy. You can do it. Oh, sorry I upset you. Oh yeah, yeah, no, you’re doing great.”
+
+Liv Boeree: I’m really getting you, huh? Just close your eyes. Don’t even look at me.
+
+Tim Ferriss: “No, close your eyes. Don’t look at me.”
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: “Don’t worry. No, no, nothing to see here.”
+
+Liv Boeree: Yeah. “Just imagine I’m not here. You can’t hear me.” Yeah. Yeah. He’ll just — Endless stream of words.
+
+Tim Ferriss: “It’s not like everybody’s waiting for you or anything.” All right. Before I lose track, which I wouldn’t, but what the hell happened in the morning?
+
+Liv Boeree: So this was — 
+
+Tim Ferriss: And you can contextualize this however you want.
+
+Liv Boeree: Sure. No, what happened was, I’d played a bunch of these tournaments, not of one’s quite this size, but I’d still played a lot of tournaments at this point. And I was there before it actually started. Usually people turn up late, but for some reason I was there in my chair before the first hand was dealt. And I remember the company PokerStars, whose event it was, they dimmed the lights like, “Welcome to EPT, Sanremo, huge. We’ve got incredible field, blah, blah, blah.” And then they, they dimmed the lights and they put on the screens around the room, just a promo, exciting — 
+
+Tim Ferriss: Promo video.
+
+Liv Boeree: — promo video. And I remember distinctly the music, it was Chemical Brothers, “Hey Boy, Hey Girl”. Which I always loved. I always loved that song.
+
+Tim Ferriss: Yeah. Good choice.
+
+Liv Boeree: Yeah. And I was like, “Oh, this is cool. I’m excited.” And while I was just listening to it, just out of nowhere, it was like a bolt of lightning, felt like. There was this — and this voice in my head said, “You are going to win this tournament.” And it sounded like my own voice. But what I can’t remember is whether it was, “I am going to win,” or “You are going to win,” but I’m pretty sure it was, “You are going to win.” But it literally sounded like my own voice. And it was so — 
+
+Tim Ferriss: Sounded like your own voice?
+
+Liv Boeree: Yes. So it was the — when you speak in your head, the voice you hear. I think most people have that, right?
+
+Tim Ferriss: That Tuesday voice that everyone hears.
+
+Liv Boeree: Well, man, I’m learning a lot out here. It sounded like how I would sound in my own head — 
+
+Tim Ferriss: Yes, I understand.
+
+Liv Boeree: — to myself. And it said, “You are going to win this tournament.” And I got this rush of goosebumps, really that are — it’s even happening a little bit, the hairs up on my arms to the point where I was like, “What?” And I remember looking around the room like, “Did I just say that out loud? Did anyone else hear this?” And everyone else was just in their phones or whatever. And I was like, “Well, that was freaky.” And then the lights came back up and they’re like, “Okay, cool. Shuffle up and deal.”
+
+And I was still stunned, and I was like, “Okay, cool.” And then halfway through the day — and then I, a little bit, forgot about it but then halfway through the day I got in a big pot and I lost half my chips. And it’s always a bad feeling when that happens. And I was like, “Oh man, I’m nearly out the tournament. I guess that was bullshit.” So though I had little, multiple moments over the next few days where — it clearly was a real thing because I’ve checked in on it. And I was like, “Oh, this,” and I even told a friend of mine on date — 
+
+Tim Ferriss: What do you mean, “checked in on it?”
+
+Liv Boeree: Well — 
+
+Tim Ferriss: Meaning you remembered that it had happened?
+
+Liv Boeree: — that it had happened. Well, because obviously the rational explanation to this it was just a false memory — 
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Liv Boeree: — that I have retroactively remembered something that didn’t really happen — 
+
+Tim Ferriss: I see. You — 
+
+Liv Boeree: As a way of making — 
+
+Tim Ferriss: You reconstructed it.
+
+Liv Boeree: Exactly. I’ve reconstructed it.
+
+Tim Ferriss: But you have multiple points at which you referred to it.
+
+Liv Boeree: Yes. And I even had a friend, my friend, Melanie, who was there and I bumped into her in the women’s bathroom on day two. And she’s like, “Oh, you got a lot of chips. It’s going well.” I was like, “Yeah. Yeah. Things are going well. Really weird, I feel like I’m going to win this. In fact, I almost had a premonition that I did.” And she’s like, “Yeah, you seem really confident.” We actually had this conversation and to the point that she, after I won it, she was like, “What the fuck was that? You predicted this?” I’m like, “I know, I don’t know.” So yeah. I don’t know how to explain it.
+
+Tim Ferriss: Now, I think you said “string” or “series” of experience. This is not — is that type of experience in poker isolated to that, or — and it doesn’t have to be constrained to poker. I’m just wondering — 
+
+Liv Boeree: Right.
+
+Tim Ferriss: — what other stories you may have that — 
+
+Liv Boeree: Well, so I had a few — so what was interesting was after — 
+
+Tim Ferriss: Actually, to ask — 
+
+Liv Boeree: Mm-hmm (affirmative).
+
+Tim Ferriss: — I apologize for doing this herky-jerky questioning style, but did you have any of those types of experiences when you were younger — 
+
+Liv Boeree: No.
+
+Tim Ferriss: — you recall? No?
+
+Liv Boeree: No. I was not a weird kid or that had — sorry, let me start again.
+
+Tim Ferriss: Weird kid. You weren’t like the kid from The Sixth Sense.
+
+Liv Boeree: No, I wasn’t The Sixth Sense kid. No. No, I did not, to answer that question.
+
+Tim Ferriss: Got it.
+
+Liv Boeree: I had not really ever had, I think, anything,. I never saw a ghost or anything like that.
+
+Tim Ferriss: I’m not asking about ghosts.
+
+Liv Boeree: Well, to me, this is — 
+
+Tim Ferriss: Don’t lock me in with the ghost hunters. Come on.
+
+Liv Boeree: I don’t, but I want to just paint the picture of that. I was a very, in fact, a deep skeptic.
+
+Tim Ferriss: Right. But you still are a deep skeptic in a lot of ways.
+
+Liv Boeree: Right, right. But certainly then, I’d never had anything weird that I couldn’t really explain — 
+
+Tim Ferriss: Okay.
+
+Liv Boeree: — in any conventional way. I’ve certainly not had any time loops or anything like that or weird voices in my head.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: But yeah, to answer your question of, is it a common thing in poker — 
+
+Tim Ferriss: No. Not so much common thing in poker, but have you since had more of those types of experiences?
+
+Liv Boeree: Not of explicit premonitions, no. I’m nothing even close to that. I have had one really notable thing that is — yeah. I’m happy to talk about it. It’s — 
+
+Tim Ferriss: If you change your mind, we can cut it later.
+
+Liv Boeree: Exactly. For want of a better word, I had an extreme energy healing, an almost accidental one. So it was a few years ago. And seemingly out of the blue, I started getting this very unpleasant sensation in my ear where particularly it was a low frequency, buzzing, humming quite frequently. So some tinnitus.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: But it was almost like a pressure and voices, particularly, men’s voices became distorted to the point that they were unbearable to listen to. And it was really bumming me out because it would come in clusters. I would have it for a few hours and it would go away and come later on in the day. And it was stopping me from doing any social events because any loud scenario was unbearable, but particularly men speaking, I just couldn’t handle it. And this went on and off for a few months.
+
+And I went and saw a doctor, multiple doctors, and had hearing tests and they said, “Oh, you’re losing your hearing. And the low frequencies of your hearing in that ear. We think you have Ménière’s disease.” Ménière’s is this degenerative thing, which usually people end up completely deaf when they have it, where basically the nerve cells in the inner ear start dying. And they don’t really know why. They think it’s something to do with like salt and ion channels. And it’s incurable as far as they know. And so I was told that’s what I probably have. And they’re like, “It’s pretty — we’re really sorry.” It was just bad news to find that out. And also because one of the symptoms of it is you start having balance problems as well. You get these vertigo attacks and people vomiting and so on.
+
+And so you can imagine, I was really down in the dumps finding this out. And then cut to three months later or so, go to Burning Man. And I have, for the first time, one of these vertigo attacks one of the days. I wasn’t completely sober, but it was not a good time as you can imagine, having a vertigo attack while not being sober for the first time. And so I was then really down in the dumps. And then on the last night of the burn, I was talking to some friends and started talking to this girl who I don’t know that well, but she’s a friend of a friend and I mention about my ear and she’s like, “Oh, well, I do energy healing. I’m an energy healer.” I was like, “I don’t know what that is, but sure. Do whatever you want to do. Yeah. Have a go.” She’s like, “I can try.”
+
+And after, she put her hand over my ear for a few minutes, and then she starts. I remember saying something like, “There’s something there. I need to get it.” And she starts sucking over my ear with her mouth. Not touching it, but just — and it was really unpleasant because you can imagine that sensation of someone inhaling over your ear. And I was like, “Oh, please stop.” She’s like, “No, I need to get this. There’s something there.” And she does it, I don’t know, for a few minutes. And then eventually collapses in a heap on the floor, crying and freezing cold going, “Oh, my God, that was bad. I don’t know what that was. That was really, really bad.” And again, I was not fully sober, so this is a slightly retelling but was very — I just remember being so shocked because I just didn’t expect anything to actually happen.
+
+I didn’t really feel anything other than this unpleasant sensation of her sucking, but I was so shocked at the way she was now reacting and — because she was shocked. She did not seem to expect whatever had just happened to her. And she said afterwards, she came around after a little while and she’s like, “I don’t know what it was. It was bad energy. I don’t know. It’s gone. I’m very pleased to say it’s fully gone and it’s gone away.” And I was like, “Well, okay. What does that mean for my symptoms? Am I cured?” She’s like, “Yeah, yeah. You’ll probably have symptoms for a couple more weeks and then you’ll be fine.”
+
+And that’s exactly what happened. And I haven’t had any problems since. So yeah, I don’t know. It just blew my world open because aside of that premonition thing, which I’d forgotten about, I have not ever subscribed to anything like that. I’m a physicist. In fact, I built a career of being a materialist, rationalist physicist, and I don’t have any time for that stuff. It’s all nonsense. It’s all confirmation bias. No one’s ever actually tested it empirically or proven it. Show me the study and I’ll believe it. But here I am having that experience with — to feel like pretty — what’s the word?
+
+Tim Ferriss: Incontrovertible?
+
+Liv Boeree: Incontrovertible data points that something that I cannot explain happened and fortunately, would be incredibly beneficial to me. Such a blessing. So yeah.
+
+Tim Ferriss: So these experiences are particularly interesting to me. Right? As direct firsthand experiences. Of course, second hand, now that I’m listening, but are particularly interesting to me when I’m speaking with someone who has demonstrated a very well developed ability to use system two — 
+
+Liv Boeree: Mm-hmm (affirmative).
+
+Tim Ferriss: — thinking and rationality and reasoning and mathematics and so on in not just the world, but in competitive arenas. Right? So you have a calibrated and also tested ability to use those faculties that you’ve developed. And I’m glad you’re mentioning these things just because weird shit happens, and the idea that we have it all figured out is ludicrous. Right?
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: Even though humans at any point in history, whether you go back to the Middle Ages, Dark Ages, I’m sure 6,000 years ago or whatever it was with the Egyptians, I’m sure they thought they had most things figured out. And it’s just so clear when you begin to really poke and prod, and as you gain more years and have more experiences, especially if you start pushing into some strange corners — 
+
+Liv Boeree: Mm.
+
+Tim Ferriss: — that there’s a lot we simply don’t understand. And even if we were to, say, not chalk those up to false memories, but let’s just say we chalked it up to placebo effect.
+
+Liv Boeree: Right.
+
+Tim Ferriss: Nonetheless, even if it were just placebo effect — 
+
+Liv Boeree: Incredible.
+
+Tim Ferriss: — that doesn’t diminish the absurd inexplicably of it — 
+
+Liv Boeree: Exactly.
+
+Tim Ferriss: — with the current mechanisms that we understand. Right? And that’s super exciting to me. It’s super exciting to me. And it doesn’t mean that you nor I would advocate that people just accept everything at face value. Of course not. There’s horseshit everywhere.
+
+Liv Boeree: Mm.
+
+Tim Ferriss: We’re sitting in Austin, like the world capital of conspirituality. There’s so much nonsense and so many charlatans, but I do pay attention to people like you who have demonstrated in other areas that they have the ability to think rationally and have some grasp of you have a very good grasp of science and so on. Right? That’s one of the first litmus tests for me. If someone’s sharing something with me, I’m like, “All right. Can this person show me, can they fight logically out of a paper bag?” Right? Have they demonstrated any ability to use — 
+
+Liv Boeree: Right.
+
+Tim Ferriss: — structured reasoning in other places?
+
+Liv Boeree: Are they able to cross examine their own beliefs?
+
+Tim Ferriss: Right. Exactly. Exactly. And are they skeptical in other areas, or is it just like, okay, they accept anything as long as it’s alternative, but they reject like Western science for any number of reasons that don’t make sense to me. If you’ve ever had antibiotics, yeah, Western science may have saved your life. And there are many other examples. I certainly wouldn’t be here if it weren’t for Western medicine, let’s just say, not science. 
+
+And I struggle with where to even take this because there’s so many directions it could go that are pretty strange. And I don’t want to co-opt physics. So please give me a slap here if this is just an amateur butchering the good name of physics. But I’ve had a number of cognitive scientists on the podcast like Donald Hoffman. I’ve had physicists on the podcast, although some would consider Michio Kaku more of a science communicator, but still, has some fundamentals.
+
+I’ve had private conversations, certainly, with a number of physicists. And I lack the foundation of mathematics necessary to fully appreciate it. But when you even start to look at the conversations that were being had between Einstein and Bohr way back in the day, relative to quantum mechanics — putting aside, even, the experimental design and evidence for quantum entanglement that have been done, I think in the Canary Islands and in other places, stuff is really strange. Right? Just even spacetime itself as an objective reality. There are pieces people can find online by qualified scientists on the death of space time. Right?
+
+Liv Boeree: Mm-hmm (affirmative).
+
+Tim Ferriss: And thinking about that as almost a UI that we have evolved to utilize, but not as the one and only user interface to — 
+
+Liv Boeree: Right.
+
+Tim Ferriss: — whatever we might be contending with.
+
+Liv Boeree: And Donald Hoffman even thinks that — well, and not just Donald Hoffman. He thinks that consciousness essentially gives rise to space.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: And while a lot of — theoretical physicists poo-poo his ideas, and I think by and large, they are correct to, even they would agree that it seems like space itself is an emergent property. It’s not a fundamental thing. We’re not objects rattling around in a big, empty box. It is a thing that emerges from basically interactions of mathematical functions on some — whether it’s on a substrate or whether it — I don’t know if it even needs a substrate. I’m too rusty on that stuff. But it’s super weird if you dig into the fundamental structure — 
+
+Tim Ferriss: Right.
+
+Liv Boeree: — of this reality. Yeah.
+
+Tim Ferriss: This is not a Wiccan witchcraft shop with tarot cards — 
+
+Liv Boeree: No.
+
+Tim Ferriss: — in the display case, not to knock that. Right? But we’re talking about some of the most esteemed scientists in a hard science with peer-reviewed publications and so on. And if you just look at that stuff closely enough, shit’s really weird.
+
+Liv Boeree: Yeah. There’s a paper I was recently reading that’s digging into the — that it seems like spacetime is — well, space itself is essentially coming out of observers interacting with each other.
+
+Tim Ferriss: Oh — 
+
+Liv Boeree: Consciousness is interacting with each other, but it’s really, from what I can tell, really granular, legit physics. It’s a math paper, basically.
+
+Tim Ferriss: Yeah.
+
+Liv Boeree: It’s beyond my pay grade. So I don’t know.
+
+Tim Ferriss: I may need your — 
+
+Liv Boeree: I want to send it to Sean Carroll. I don’t know if you’ve ever had him on.
+
+Tim Ferriss: Sean Carroll, I haven’t had on, but my brother — 
+
+Liv Boeree: He’s amazing.
+
+Tim Ferriss: — introduced me to his podcast, Mindscape.
+
+Liv Boeree: Yes.
+
+Tim Ferriss: Is it Mindscape? Excellent podcast.
+
+Liv Boeree: So good.
+
+Tim Ferriss: So if Sean Carroll is out there listening, or if anyone knows him, let him know I’m a — he may not want to hear this. I don’t know what his opinion will be of me, but big fan of his podcast. He is a damn fine thinker and a damn fine communicator.
+
+Liv Boeree: He really is. Yeah.
+
+Tim Ferriss: And he had an excellent episode on — I think it was an archeological exploration of Stonehenge and other artifacts as external mnemonic devices. Super cool.
+
+So, Liv, Olivia, question for you. How do you, as someone who is a trained rationalist, materialist, although you may not identify as solely those things, I don’t want to imply that, how do you integrate some of these experiences into your life, your framework, your worldview, what do you do with that?
+
+Liv Boeree: It’s tricky. I mean, I think with all these things, it’s walking this fine line between gullibility, open-mindedness, whatever you want to call it, and skepticism and cynicism. I think where my poker training comes in handy is that poker trains you to think improbabilities, you’re never certain about anything. You could be bluffing me with you could have aces or you could be bluffing me with six-four suited, that missed the card it needed.
+
+So, you become very comfortable in terms of holding concurrent belief states in your mind with different weighted probabilities of those things being true. So, with these two weird unexplainable experiences that I had, whether it was the ear thing was just pure placebo, which would still be crazy, because it would mean that basically I have the ability to heal my mind by thinking I was going through some kind of thing being sucked out my ear. Fine.
+
+Tim Ferriss: Yeah, and potentially here heal your inner ear.
+
+Liv Boeree: Yeah. I was literally told I had a degenerative thing and I was going to go deaf, and like no one’s been cured of it, and this is miraculously gone away. So, whatever the hell happened, the point is, I didn’t go and change my life, I didn’t suddenly go and be like, “That’s it, I’m going to go and practice energy healing and become a witch,” and so on. I continued still like I’ve still am an adherent to the scientific method. It’s just that I’ve now broadened my — but, as you mentioned, it’s almost like people, they believe in the scientism as opposed to being a scientist.
+
+A true scientist is that you are maximally curious and you do your best to devise experiments in order to get reliable, robust results that you can use to predict the world, and you try and minimize all the biases and things that could mess up your experiment and give you faulty result, and so there’s no reason why I can’t incorporate these two data points in terms of — I mean, I haven’t gone out and done any — I really should, I guess, go and do some tests, and see if I can try and recreate that experience, but it’s very difficult because set and setting were very important in what happened there. I would assume anyway, I don’t know that, but — 
+
+Tim Ferriss: Well, when they make the Netflix series about it and they recreate the entire environment and then you can sit down and try to recreate.
+
+Liv Boeree: Yeah. But, so what I guess I’ve done is I have up weighted, whereas before, I would’ve given the probability that energy healing is a real thing, I would’ve given it like a, well, probably if you’d asked my old skeptical self, I would’ve literally said it’s zero, but I wasn’t such a bad Bayesian in it that I would give it actual zero, maybe like one in a million.
+
+Tim Ferriss: Bayesian! Oh, that’s good. We don’t have time to unpack that.
+
+Liv Boeree: No, no. But, yeah. Well, I’ve given it a one in a million, and now I’ve updated it, with this evidence to — how many orders of magnitude do I want to go? I mean, I will give it, at least give it a one in 100. But, do I give it more than — I think it’s more likely that there is an explanation through what we know conventionally that that is still more probable than that it is some completely novel thing that is untapped, but that said, I’ve actually had a few other little ones I won’t go into, but other little data points of just weird energy things that have happened in certain scenarios where it’s helped me.
+
+But it’s still important to keep the skeptical hat on. Extraordinary beliefs require extraordinary evidence. In order for me to give up everything that I know about our current understanding of the world, I would need significantly more data points. I think that would — it’s just not the practical way to go forward.
+
+Tim Ferriss: Yeah. I would also add to that that if folks want to be proper skeptics, you owe it to yourself and to the people you interact with to be an informed skeptic. So, if you are going to invoke the name of science, and not invoke it, like the name of Odin in some like, “God works in mysterious ways,” kind of way, you need to actually, my opinion, have the ability to read a study and understand a study, and study design. It’s not good enough to get the journalistic interpretation from The Wall Street Journal, or a fill in the blank online publication, that’s not good enough.
+
+Tim Ferriss: It’s also not good enough for you to just get the gist of a few sentences in an abstract and — 
+
+Liv Boeree: Confidence intervals. Right.
+
+Tim Ferriss: So confidence intervals, understanding, powering, because you’ll also find folks who, and I’ve been saying scientism, but I guess it’s scientism the sort of like capital S, in either case, it has a capital S and is not good. So, if you succumb to that, one of the telltale characteristics that I’ve come across is they’ll ask if something was a controlled study or a placebo controlled or randomized study, randomized control, RCT, and they’ll say, “Well, how many subjects were there?” Or, “What was the N?” If they get fancy. I might say, “20, 25.” They’re like, “Oh yeah, small study.”
+
+Liv Boeree: Onsets.
+
+Tim Ferriss: I’m like, “It’s not that simplistic. There are quite a few variables you have to take into account.” So, recommendations for folks who are interested. Number one, “Studying the Studies” by Peter Attia, MD, excellent series of blog posts that take you into the fundamentals of understanding how to dissect and understand a study, which includes meta analyses and gets into the risks of taking meta analyses as gospel also, because garbage in garbage out, and there’s a lot to it.
+
+Another recommendation, actually, a podcast that I did six years ago, I realized when I pulled this up, this is podcast number 194, “The Magic and Power of Placebo.” This is with Erik Vance who wrote a book called Suggestible You, subtitle, Suggestible You: The Curious Science of Your Brain’s Ability to Deceive, Transform, and Heal. He’s written very widely on placebo, is an excellent book. Many of his feature pieces are exceptional. There’s a great piece in WIRED magazine probably 10 years ago on the evolution of the placebo effect and how it has changed depending on the culture and other influences. So, in certain places, say, a placebo pill in a blue capsule or a red capsule perform better than other colors. It’s really — 
+
+Liv Boeree: You need to do a — don’t do a blue or red one in this day and age.
+
+Tim Ferriss: That’s true. That’s true. Yeah, we could pick other colors. But, the context that surrounds that is really, really interesting. Then the last thing I would recommend people check out is cognitive biases and looking at both frameworks intended to avoid them and just getting a better understanding. So, you can go to Wikipedia and just look up cognitive biases and get a pretty basic list. You can look at something like Poor Charlie’s Almanack with Charlie Munger, although it’s a bit dense and — 
+
+Liv Boeree: Yeah, that’s intense.
+
+Tim Ferriss: It’s a little user unfriendly in a lot of respects, but what were you going to say?
+
+Liv Boeree: I think I would recommend is some of Julia Galef’s work on The Scout Mindset and motivated reasoning.
+
+Tim Ferriss: What was the first one?
+
+Liv Boeree: The Scout Mindset.
+
+Tim Ferriss: Scout Mindset.
+
+Liv Boeree: Yeah. I mean, she did a TED talk on it, but she’s just written a book on it as well. I think she actually goes in, if I remember rightly, she goes in — 
+
+Tim Ferriss: Her last name is G-A-L-E-F?
+
+Liv Boeree: Yes.She goes into the sort of, again, because what’s interesting with when I first learned about rationality, like I read everything on LessWrong, if people know that, which is incredible resource for it and really breaks down how you get this, your brain, which is the map to match the actual territory, which is the universe, as accurately as possible. But, where I think it’s maybe lacking a little bit now because I’ve had some of these weirder experiences, which actually where I wasn’t, in the classical sense, rational, I clearly went off the beaten path into some weird land, but it was actually very beneficial to me, even if it was some completely useful fiction, it was still useful.
+
+Tim Ferriss: Yeah. Yeah.
+
+Liv Boeree: This idea of useful fictions, I think, needs to be explored further.
+
+Tim Ferriss: Yeah. I’d also add that much like poker, science, I don’t think a lot of folks realize, is largely a game of probabilities.
+
+Liv Boeree: Yeah.
+
+Tim Ferriss: You don’t prove something a hundred percent, most of the time. It’s like, well — 
+
+Liv Boeree: Literally never actually.
+
+Tim Ferriss: Yeah. I mean, it’s like exactly. I mean, you can have overwhelmingly compelling data even with, say, an observational study, say, with the sort of quintessential example would be cigarette smoking causing lung cancer, right? But, most of the times, like this suggests with this degree of certainty, that this is the case. But, when you start to look at the replication crisis, which is not just in social sciences, it’s all over the place, and especially if you start to actually roll up your sleeves and get involved in science, whether that’s as a subject, I’ve been a subject in studies at all sorts of places. I started doing it as an undergrad.
+
+I was a subject in one of Daniel Kahneman studies, and it was not very intellectually engaging. It was like space bar every time you have green square popped up or something, but I needed the $7 an hour, whatever it was. I’ve been a subject at Stanford with heat exhaustion experiments, that was also not terribly fun. Marching to exhaustion with a esophageal probe and an anal probe kind of meeting in the middle in fatigues with weights on a treadmill and a sauna to complete — 
+
+Liv Boeree: Collapse?
+
+Tim Ferriss: Mental collapse.
+
+Liv Boeree: Geez.
+
+Tim Ferriss: Yeah. So, why do I do these things? Because I’m interested in seeing the process, and even some of the best science you could point to in the most prestigious journals, when you actually get in there, it’s a lot messier than people think, right? But, people want to have confidence in something, and then religion has become so out of fashion that they look to the high priests of science and they’re like, “At least I have the confidence in this being true.”
+
+Liv Boeree: So I actually wanted to, one of my next videos I want to make on this, which is about basically these signaling prestige, bad incentives that get society stuck in these kind of these traps, essentially. So we are stuck in one of those with the current status quo of the way science is done, and this is not at all to knock any scientists, they’re doing their absolute best, but the way the system has been designed, we give all the reward to the people who first make the new fancy discovery, and don’t give any credit to the people who then actually replicate it and verify it.
+
+Tim Ferriss: Yeah, totally true.
+
+Liv Boeree: So there’s this incredible incentive to be always looking for some new novel thing in order to get your thing published in Nature and get those research dollars for the next time. But it doesn’t actually really advance human knowledge, because so many of these things don’t replicate, and so it’s sort of like we are sort of stuck in this spiral of just like everyone’s trying to do whatever they can to get in the journal, and there’s a name for it. So, actually, there’s this really incredible short online book called Inadequate Equilibria, by the guy who wrote most of the stuff on LessWrong, Eliezer Yudkowsky, and I recommend — 
+
+Tim Ferriss: Inadequate Equilibria.
+
+Liv Boeree: Yes.
+
+Tim Ferriss: It’s a heavy name. Heavy name.
+
+Liv Boeree: Oh man. I know it sounds — it’s so good. It has one of the best things. It has a discussion, a fictitious discussion with an alien from a perfect society. Like a basic, I don’t know, just a basic person who thinks everything that’s wrong in our society is because of there’s bad people being greedy, and then with the cynical smart economist, and they have this three-way discussion talking about reason why the US healthcare system is so expensive, and it sort of goes into this meandering thing about — 
+
+Tim Ferriss: That’s a cool premise.
+
+Liv Boeree: It’s so good. You must include this in the show notes.
+
+Tim Ferriss: Yeah. How long would you say it is?
+
+Liv Boeree: I mean, ideally they could just read chapter three, honestly. I don’t know, it’s like a 45-minute read.
+
+Tim Ferriss: Oh yeah, sure.
+
+Liv Boeree: Yeah. It’s just like a book chapter, and you can kind of read it standalone.
+
+Tim Ferriss: We’ll put it in the show notes.
+
+Liv Boeree: But, basically it’s talking about these traps that we can get into where it gets people, now speaking game theory, it gets society stuck in shitty Nash equilibria. So a Nash equilibria is when two people, or multiple people, are playing in a strategy where it would be bad for anyone to deviate from that strategy. It’s like everyone’s stuck doing that, but some, not all Nash equilibria are actually created equal, there are some where if everyone was doing X instead of Y, everyone would be happier, they’d also be now stuck in a new thing.
+
+So, a good example of this would be — let me think. Well, so, I just made a video called The Beauty Wars or about this like fictitious thing called Moloch, which I call the demon of negative sum games. Basically, it’s the god of negative sum games. It’s a force of bad, usually economic incentives, that make people sort of sacrifice things that they want in order to optimize for a short term goal. The example I talk about is these beauty filters on Instagram. I don’t know if you’ve spent any time.
+
+Tim Ferriss: They are horrifying, I mean, in how dramatic they are. I’d never seen these things before, until my girlfriend showed them to me. I was — 
+
+Liv Boeree: They’re mad.
+
+Tim Ferriss: — dumbfounded.
+
+Liv Boeree: Well, they’re horrifying not only in how impressively good they are at doing stuff, but also how, now, the really insidious ones, are the subtle ones, because there are some where you would go online and you would not be able to tell, if you don’t know the person, or even if you know the person, you wouldn’t necessarily be able to tell, you’d just think it’s a good picture of them, that they’re so subtle, but they’re so effective. It seems like there is clearly just some kind of optimal face structure that our eyes find pleasing, and it just tweaks people, it makes the eyes a little bit wider apart, or a little bit bigger, or the lips — just changes the proportions just right, that it sets the dopamine spike off in your brain.
+
+Tim Ferriss: It’s going to make online dating really hard.
+
+Liv Boeree: Oh man. Well, so as a girl on Instagram.
+
+Tim Ferriss: Not that I’m on the field. I’m not on the playing field, but — 
+
+Liv Boeree: But right.
+
+Tim Ferriss: — if I were, that sounds like a headache.
+
+Liv Boeree: Well, but also, for people who use them — so I’m a girl on Instagram, I, for a while, certainly made a lot of my career off the way I looked, like there’s such an incentive pressure. If I want to keep playing the game of trying to grow my Instagram, like sexy pic — 
+
+Tim Ferriss: It’s the arms race.
+
+Liv Boeree: Yes. It’s the arms race. Exactly. That’s what Moloch is, Moloch is the god of arms races, and it’s like these bad incentives where we could — the cheap thing for me to do is just to use one of these AI filters on all my pictures. I know I’m going to look good, and I’m going to get a ton of likes, and it’ll grow my thing, but it will make me miserable in the process. If you poll, probably, most particularly women on Instagram, they are not having a good time with these things either on themselves. Because if you then compare your face side to side, you are just like, “Man, I — ” it just makes you feel ugly.
+
+So, we’re in this weird situation where no one wants to do stuff that makes them hate their face, but they’re doing it anyway. That’s what this, it’s like a lower Nash equilibrium. We could all be in a higher Nash equilibrium where we’re not doing it, but instead we’re all stuck down there because of these bad game theoretical incentives. So, this is my current obsession, this thing called Moloch. I think about it all the time.
+
+Tim Ferriss: M-O-L-O-C-H, for people wondering. We’ll link to that in the show notes. So, just to underscore this for folks, because I do suggest that everybody check out your YouTube channel, what’s the best way for them to find your channel?
+
+Liv Boeree: Probably the best thing is if they search for my name and then The Beauty Wars. That’ll link to the video I just talked about.
+
+Tim Ferriss: All right.
+
+Liv Boeree: Then you can find my channel from there.
+
+Tim Ferriss: Just for the spelling, everybody, it’s Liv, L-I-V, last name, B-O-E-R-E-E, which means I learned just beforehand.
+
+Liv Boeree: Drunk farmer. So they say say.
+
+Tim Ferriss: So they say.
+
+Liv Boeree: And I did grow up on a farm, and I did drink a lot.
+
+Tim Ferriss: It’s so good. So good. Yeah. Ferriss, the best I can tell — 
+
+Liv Boeree: You’re a big wheel.
+
+Tim Ferriss: It could be that, it also refers to Ferriss like ferrous oxide, F-E-R-R-O-U-S.
+
+Liv Boeree: Oh, rusty.
+
+Tim Ferriss: Because, apparently, some of my progenitors were silversmiths. I don’t know how it all fits together. Seems like a very dubious story. I’m not sure, but I want some story to go along with the last name.
+
+Liv Boeree: Sure.
+
+Tim Ferriss: But, I don’t have drunken farmer. That’s an amazing one. Liv, we should do a round two sometime.
+
+Liv Boeree: I would love that.
+
+Tim Ferriss: We’re practically neighbors, we have so much we could talk about, we’ve got a million other things, even in the notes in front of me that we could cover and should cover. I’m thinking about this training, and — 
+
+Liv Boeree: Are you going to do it?
+
+Tim Ferriss: We’ll see. Requires more mezcal to make that decision.
+
+Liv Boeree: I think we could condense it down. We don’t have to do the full eight weeks.
+
+Tim Ferriss: Okay.
+
+Liv Boeree: I think commit to even three weeks, honestly. I think you would — J Cal would still be better than you at that stage. I have to say that. No, he would be.
+
+Tim Ferriss: All right. Three weeks, three weeks. I’m going to sleep on that. I do my best thinking when I’m asleep. So, let me sleep on that. Is there anything else that you would like to say, any closing comments, places you’d like to point people, at anything at all that you’d like to say before we wind this down?
+
+Liv Boeree: No. I mean, I guess, do check out my YouTube. I’d love people to go, and I’m now I’ve moved to Austin and I’m building a studio and everything. I’m going to be ramping up production again. So, I would love people to go and just sub to my channel so that they catch my stuff because of playing the rat race, The Attention Wars, that’s the name of the next video is The Attention Wars, which is about that why Twitter and everything is making us so angry and hate each other.
+
+Tim Ferriss: Oh yeah.
+
+Liv Boeree: That’s a big one.
+
+Tim Ferriss: Talk about a nasty game.
+
+Liv Boeree: Yeah, and Moloch, Moloch’s in that.
+
+Tim Ferriss: Moloch, Moloch’s all over that.
+
+Liv Boeree: Fucking Moloch.
+
+Tim Ferriss: So, Liv, we are going to link to everything in the show notes. People can find you at livboeree.com also, which I would imagine has links to many things, and we’ll put links to everything we’ve discussed, all the resources, Inadequate Equilibria, and all other good things in the show notes at tim.blog/podcast. So nice to see you. Thanks for taking the time.
+
+Liv Boeree: Yeah, this was awesome. Thank you.
+
+Tim Ferriss: Super fun. Super fun. For everybody listening as per usual, thanks for tuning in. Until next time, just be a little kinder to yourselves and to others than you think is necessary, and take care.
+
+
+TAGS
+LIV BOEREE
+	

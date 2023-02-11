@@ -1,0 +1,896 @@
+
+
+JANUARY 21, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Dr. Matthew Walker, All Things Sleep — How to Improve Sleep, How Sleep Ties Into Alzheimer’s Disease and Weight Gain, and How Medications (Ambien, Trazodone, etc.), Caffeine, THC/CBD, Psychedelics, Exercise, Smart Drugs, Fasting, and More Affect Sleep (#650)
+
+
+Please enjoy this transcript of my interview with Dr. Matthew Walker (@sleepdiplomat), professor of neuroscience at the University of California Berkeley and founder and director of the school’s Center for Human Sleep Science. Walker is the author of the New York Times and international bestseller Why We Sleep: Unlocking the Power of Sleep and Dreams, which was recently listed by Bill Gates as one of his top five books of the year. His TED Talk, “Sleep is Your Superpower,” has garnered more than 17 million views. 
+
+He has received numerous funding awards from the National Science Foundation and the National Institutes of Health and is a Kavli Fellow of the National Academy of Sciences. In 2020, Walker was awarded the Carl Sagan Prize for Science Achievements. Walker’s research examines the impact of sleep on human health and disease. He has been featured on numerous television and radio outlets including 60 Minutes, Nat Geo TV, NOVA Science, NPR, and the BBC. He is also the host of the 5-star-rated podcast The Matt Walker Podcast, which is all about sleep, the brain, and the body.
+
+
+
+
+#650: Dr. Matthew Walker, All Things Sleep — How to Improve Sleep, How Sleep Ties Into Alzheimer’s Disease and Weight Gain, and How Medications (Ambien, Trazodone, etc.), Caffeine, THC/CBD, Psychedelics, Exercise, Smart Drugs, Fasting, and More Affect Sleep
+
+
+
+
+Tim Ferriss: My good Dr. Walker, Matthew.
+
+Dr. Matt Walker: Tim, it is a splendid delight to be with you. Thanks very much for having me.
+
+Tim Ferriss: Absolutely. And this is for people listening, a very self-interested conversation. You and I connected I think not that long ago, maybe six months ago or so after I finished Why We Sleep, which is a spectacular book. It has as many highlights I think as words in the book in my Kindle notes. And not only did it change how I think about sleep, but it both gave me answers to outstanding questions, because I’ve battled with onset insomnia my entire life, or for as long as I can remember, certainly. It gave me better questions and it gave me better frameworks for thinking about sleep. And this conversation for folks who are wondering what the roadmap might look like, is intended to explore areas of personal interest to me and also several or many areas that I don’t think you have explored in depth in other places. So we’re intending to check both of those boxes.
+
+And I thought we would start, if we can just skip the foreplay and jump right into the main event here, discuss the connection or connections, the interrelatedness between sleep and Alzheimer’s disease. I wanted to just hop right into it. I have Alzheimer’s disease on both sides of my family and have seen this up close and personal. What are the connections, if any, between those two?
+
+Dr. Matt Walker: I think this is perhaps one of the most exciting areas to have emerged in sleep science over the past maybe five or six years or so. And just taking a step back, of course, everyone knows that Alzheimer’s disease, it’s a form of dementia typified by memory impairment and memory decline. And we’ve learned that there are at least two protein pathological culprits that contribute to Alzheimer’s disease. One of those is called beta amyloid, which is a sticky, toxic protein that builds up in the brain. And the second is called tau protein. So coming back to your question, how are those things related to sleep? Well, it’s probably unfolded, gosh, maybe in a three-part or even four-part story. I’m very nervous to say four-part, and you’ll see why in terms of that in just a second, but the three main parts were correlation, causation, and then mechanism.
+
+And so early on what we started to discover is that individuals who reported sleeping six hours or less across their lifespan had a significantly high risk of developing high amounts of this toxic beta amyloid and also tau protein in the brain. Then we discovered that two sleep disorders, both insomnia and sleep apnea, which is a condition of heavy snoring, sometimes you stop breathing and it’s clinically diagnosed, both of those conditions were associated with a high risk of both Alzheimer’s pathology. But also the transition to early stages and ultimately the transition to full-blown Alzheimer’s disease. In fact, I think there was a recent meta-analysis looking at maybe it was over 27 different studies. And what they found is that people who had sleep problems during their lifespan were about 3.78 times more likely to develop the early stages of Alzheimer’s disease in a premature fashion.
+
+So those were these epidemiological studies, but those are simply correlational. They’re associational. They don’t prove causality. So correlation then went in search of causation. And what we’ve discovered, we and other individuals, some people working in animal studies, we work in humans, but across species what we found is that if you deprive individuals of a night of sleep, or even if you deprive them selectively of just their deep non-REM sleep across a single night, then the next day we can see an immediate and significant increase in beta amyloid and tau protein circulating in the bloodstream, circulating in what we call the cerebral spinal fluid of the brain, which is this fluid that bathes the brain. And also using special pet scanning images we’ve been able to see that same buildup of amyloid within the brain itself.
+
+And in fact, there was a recent study that looked at the signals of metabolic detritus in the brain. And what they found is that after one night of sleep deprivation, even a full recovery night of sleep was not sufficient to downgrade those metabolic toxins that have been building up in the brain. So in that sense, it was a demonstration causally that you can remove this thing called sleep or even selectively excise different types of sleep, and you can manipulate the amount of Alzheimer’s protein in the brain the next day. So that was the causal evidence. Causation then wanted a mechanism. And perhaps here in some ways you can reverse engineer it or you can flip it on its head. If that’s the bad that happens if I take sleep away from you, then what is it about sleep when we get it that deescalates your Alzheimer’s disease pathology risk?
+
+And this comes onto a series of discoveries. The principal person underlying this was a wonderful scientist at the University of Rochester called Maiken Nedergaard. And she was working with mice. And she made three stunning discoveries, in my mind at least. The first is that she discovered that the brain has a cleansing system. Now, it sounds strange. Many people would think, “Well, it must have,” because the body has a cleansing system and everyone’s familiar with it. It’s called the lymphatic system. But we didn’t think that the brain had its own cleansing system. She discovered it. And it’s called the glymphatic system. And it’s named by the way, that way because of the cells that make it up. They’re called glial cells. They’re a different form of brain cell. We’ve got neurons and we’ve got glial cells. And it’s the glial cells that make up this network of this cleansing system. So that was the first discovery that she made.
+
+If that wasn’t amazing enough, she then found two more related discoveries. What she then found was that that cleansing mechanism in the brain is not always switched on in high-flow volume across the 24-hour clock face. Instead, it was particularly when those mice fell asleep and when they went into deep non-rapid eye movement sleep or non-REM sleep, the other stage of sleep being rapid eye movement sleep, but it was during deep non-REM sleep when that pulsing cleansing system kicked into high gear. And so that was then her shift to then say, “Well, what are those things that the brain is cleansing during deep sleep?” And this is what brings us back to Alzheimer’s disease. Two of the pieces of the metabolic byproducts that were being washed away by deep non-REM sleep at night were beta amyloid and tau protein, these two culprits associated with Alzheimer’s disease.
+
+And scientists in Boston a couple of years ago, and we’ve now replicated this in humans as well, identified a similar cleansing mechanism in humans using special MRI scans. So that was evidence almost from a biochemical perspective. And this is probably slightly hyperbolic to say and I’m mindful of it, but biochemically, perhaps it’s true, which is we were starting to understand that wakefulness was low-level brain damage and sleep was your sanitary salvation. It was almost like a good night’s sleep clean that was a power cleanse for the brain that was happening during sleep. But this started to explain why you got maybe this trajectory of Alzheimer’s disease. It went all the way back to the associational studies. So now we can understand why night after night, if you’re not getting the sleep that you need, you’re not cleansing the brain of the pathology.
+
+And it’s not vast that builds up after one night of sleep. And I don’t want to scare anyone here. And I’m sure I’ll probably get some concerned voices. I’m not trying to make anyone nervous about a bad night of sleep and the next day you’ve guaranteed your Alzheimer’s disease fate, that that’s not at all the situation. But it did help us understand that night after night, if you’re not cleansing the brain, it becomes like compounding interest on a loan, that it continues to escalate time and time again, night after night. And then if that wasn’t depressing enough, we then went on to make a further discovery that it’s a vicious cycle, that Alzheimer’s disease pathology, those proteins, do not build up in the brain homogeneously. They don’t build up in all areas of the brain equally.
+
+And what we discovered is that the parts of the brain that start to get attacked by Alzheimer’s disease early on are unfortunately the same regions of the brain that generate deep non-REM sleep, the same stage of sleep that’s associated with the cleansing.
+
+Tim Ferriss: That’s unfortunate.
+
+Dr. Matt Walker: Isn’t it just? And so now, we’ve found this vicious spiral that if you don’t get enough sleep each night, you get more of that Alzheimer’s build up. The more that builds up, the less the brain is capable of generating deep sleep. The less deep sleep, the more that builds up. 
+
+Tim Ferriss: What are the structures involved with the production of that deep, non-REM sleep?
+
+Dr. Matt Walker: They are a collection. It’s essentially a network of brain regions.
+
+Tim Ferriss: A constellation.
+
+Dr. Matt Walker: Exactly. But one, if you look at it with brain scans or electrical recordings, one of the main epicenters, in fact probably the principal epicenter that generates this deep sleep is a part of the frontal lobe, particularly the middle part of your frontal lobe. So if you put your finger just above your nose and slide it up about an inch and a half, that’s the middle part of what we call the prefrontal cortex, or the medial prefrontal cortex. That is a deep sleep generating center for the brain. You get principal dominance of your deep sleep in that part of the brain. And then these big brainwaves, they splash on the brain and they actually wave across the brain from the front of the brain to the back, from the front to the back. It’s this beautiful mechanism that we can see, this wave of these deep slow brainwaves. It’s amazing.
+
+And so that was a part of the brain that showed these Alzheimer’s attacks early on. And it’s the same region that is generating the deep sleep in adults. So that was the demonstration of a mechanism that helped us perhaps go back and explain the associations. Then perhaps the fourth ingredient that I’m really, I’m almost nervous to say it because it’s the most dangerous of all things, which is the suggestion of hope. And I don’t mean to make false promises here, but what I find interesting is that unlike many of the other features that we know are associated with Alzheimer’s disease, for example, changes in the physical structure of the brain or even the blood flow dynamics of the brain, those are very difficult to treat right now. And medicine doesn’t have any good wholesale approaches. But if sleep is a missing piece in the explanatory puzzle of aging and Alzheimer’s disease, then maybe we can do something about it.
+
+Sleep is a modifiable factor. And we’ve been looking at this in the laboratory. We’ve been approaching this not by using sleeping pills. We may come onto those things. They seem to be more blunt instruments that don’t produce necessarily naturalistic sleep. But we’ve been developing some technology, it’s called direct current brain stimulation, which sounds like the stuff of science fiction. It’s actually science fact where you apply these pads to your head and you insert a small amount of voltage into the brain. And it’s so small, by the way, that you typically don’t feel it, but it has a measurable impact. And early studies demonstrated that if you apply the stimulation during sleep, as if you are singing in time with those deep sleep brainwaves, not only can you amplify the size of those deep sleep brainwaves, but in doing so, people were able to almost double the amount of memory benefit that you get from sleep.
+
+So the question then was, could we translate that same affordable, potentially portable technology into older adults and could we restore back some deep sleep and salvage aspects of learning and memory function? That’s one of our goals. And we’ve been developing this and have a startup company that’s public now that’s looking at this. To me though, that is probably not really where I’ll ultimately be excited about, because thinking about late stage Alzheimer’s disease, when the brain has been pathologized that much, it’s very difficult to salvage. I am much more interested in shifting from a model in Alzheimer’s of late stage treatment to midlife prevention. Because to me, if I look at the sleep data, that’s when you start to see the great depression of your deep sleep. It’s bloody depressing, I know. I’m an incredibly depressing person, but if you look, it’s in your mid to late 30s that we start to see the decline in deep sleep.
+
+So could I intervene in midlife and start pushing back against the decline of deep sleep? And in doing so, could we bend the arrow of Alzheimer’s disease risk down on itself? So that’s shifting from a model of late-stage sick care to a model of midlife health care. I think that’s probably a much more reasonable approach.
+
+Tim Ferriss: Matt, what causes the decline in deep sleep, whether it’s absolute hours or just a percentage of sleep when people get into their mid 30s, let’s just say? How is that explained currently?
+
+Dr. Matt Walker: You can already start to see the brain atrophy beginning. 
+
+Tim Ferriss: Oh, that’s it. Okay. So it is just overall brain atrophy.
+
+Dr. Matt Walker: Yeah. There is a development. And there are some sex differences. It turns out, unfortunately, that men seem to decline in that deep sleep earlier than women. Women will hang in there. Females will hang in there for the deep sleep, a little bit longer than men, but ultimately, by late stage, there’s a more severe decrease later in life in females. So net net, they ultimately get there. But it’s simply because we start to, just like the rest of us, I’m sure many people, once you get into your mid to late 30s, you start to think, “Wow, I’m just not as robust as I used to be. I start to get more injuries. The body starts to deteriorate.”
+
+Tim Ferriss: That’s a very generous way to put it, robust, I’m not as robust as I used to be.
+
+Dr. Matt Walker: Well, I’m so sensitive now, because I think I’m about the same age as you. I’m now solidly in the foothills of middle age. So I want to be tender and sensitive to myself than be politically correct.
+
+Tim Ferriss: You know what? I’ll take the tender to yourself. With the politically correct, we can skip, but — 
+
+Dr. Matt Walker: I think it’s politically correct. This is the language of cowards and truth. So you’re right.
+
+Tim Ferriss: All right. So we can be the countervailing force. But before we get to that, gender differences — and I apologize in advance. I’m going to ask a lot of questions in the line of three-year-olds and four-year-olds. I’m going to ask why and why and why, in part because I find it so simultaneously exciting and depressing, moreso exciting that we spend, let’s call it, and I’m not using a precise number here, but a third of our lives asleep and we, relative to so many other areas, know so little about it. It’s just incredible. And I find it so full of promise as a result, meaning it could represent one of the most powerful levers that we can pull for different purposes. But coming back to the age-related decline, why do women hang in there longer? Is that due to estrogen? A lower level of other hormones? Other factors? Do you have any explanation for why they seem to hang in longer than men?
+
+Dr. Matt Walker: It’s a great question. Largely unclear at this stage, that some of it may again come down to brain atrophy, that the speed of that atrophy in the brain, in those sleep generating regions, is more rapid and more accelerated in men than it is in women. Other aspects, you are absolutely right. Maybe the sex hormones that we think that aspects of estrogen, luteinizing hormone may be more either sleep protective or neuroprotective. It’s a little bit unclear right now. Certainly, menopause, of course, is a huge issue. And once that begins, we know that the sleep issues are markedly higher in women than they are in men as well. So right now, the evidence there is far less clear. And to come to your point, you’re absolutely right in terms of sleep. And we know so much about our waking lives, but we seem to know so little about our sleeping lives.
+
+There’s definitely been a remarkable amount of evidence, so much so that perhaps a dimwit like me can try and write a book that’s 130,000 words of facts. But you’re absolutely right. If you think about it, 20, 30, 40 years ago, we used to ask, “What are the functions of sleep?” And back then, the crass answer was that “We sleep to cure sleepiness,” which is, it is the ridiculous equivalent of saying, “Well, I eat to cure hunger.” That tells you nothing about the biological and nutritional benefits of food. And the same was true for sleep. In a way though, now, 20 or 30 years later, we’ve had to upend that question based on the weight of the evidence. Now we have to ask, “Is there any major physiological system within your body or any major operational network of your brain that isn’t wonderfully enhanced by sleep when you get it or demonstrably impaired when you don’t get enough?” And, so far, the answer largely seems to be “No.”
+
+Tim Ferriss: Are there any species, I’m going to get way outside of my area of expertise here, phylum, kingdom, are there any species that you’re aware of, of anything, that do not require sleep? And maybe that’s a poorly worded question. But is there anything notable that does not require sleep? How far down can we go? Down to bacterium? I mean, how small can we go and still see a near ubiquitous need for something resembling sleep?
+
+Dr. Matt Walker: It’s a lovely question. And some people have said that nothing in biology makes sense unless you look at it through the lens of evolution. And we have certainly done that in the sleep field. I think it’s fairly safe to say that at least in every species that’s been carefully studied to date, sleep or something that looks very much like it seems to be present. And so what that means is that sleep perhaps emerged with life itself on the planet and has fought its way through heroically every step along the evolutionary path, which if that’s the case, it must mean that sleep is absolutely fundamentally necessary across phylogeny. Perhaps there’s one common theme and function of sleep. How far back in our time capsule can we go through evolution? Certainly, we see it there in all mammalian species. Then if we descend down, if we look at birds, reptiles, and fish, we can see sleep.
+
+We also see both types of sleep in mammals and in birds. We don’t actually see REM sleep or dream sleep in most reptiles. An emerging controversy is perhaps there’s a proto version of dream sleep that comes out, which is REM sleep, you can think of it as, in reptiles. But we don’t see it there. Can we go further back? Yes. We can see insects even sleep. So fruit flies will sleep. Go back even further and you can find that earthworms, which are ancient in terms of their evolutionary history, even earthworms will have a period that looks very much like sleep. It’s called lethargicus. And they just become immobile. It literally looks like these worms go into this state and cellular state, in fact, not just a motility state, but a cellular state of sleep.
+
+And then some people have even suggested that for some forms of bacteria, as long as they live several days, some bacteria don’t live longer than 24 hours, so you can’t really ask this question, but if they live for several days, they will go through cycles of activity and inactivity from a cellular perspective, which is perhaps the predecessor, the precursor of these things that we call wake and sleep states. You can even do a nerd out. And I kind of put this out. I’m thinking I’m desperately wrong on this one too, but most of us assume that sleep evolved. But why should we make that assumption? Why isn’t it that sleep was the default state when life emerged, and it was wakefulness that evolved? that it was from the sleep state, that wakefulness emerged that we came out and we started to develop wakefulness.
+
+It’s almost this assumption that sleep evolved. And there was wakefulness before it, rather than the other way around. Now, I don’t think we’ll necessarily ever be able to prove that. But it’s an interesting kind of gedanken to play with.
+
+Tim Ferriss: Oh, I love that. Did you say “G’Dunkin?” Is that what you just said?
+
+Dr. Matt Walker: Yeah, gedanken, it’s a brain experiment. It’s just one those philosophical experiments.
+
+Tim Ferriss: Oh, I see what you did there, just that you pulled out some German. That’s what it was. Gedanken. I see what happened.
+
+Dr. Matt Walker: I’m bilingual. I can speak both British and a little bit of American and that’s it.
+
+Tim Ferriss: What I heard was “G’Dunkin,” “Good day” from Australia, but like G apostrophe and then Dunkin like Dunkin’ Donuts, but yes, I hear you. And I should also say, I think Lethargicus is my gladiator name. But I’ll put that to one side.
+
+Dr. Matt Walker: It may actually have to be a license plate on, ’cause our mutual friend, Peter Attia, we love to race cars. But based on my lap times, I think I need Lethargicus as my number plate. Clearly, no one here is going to see it.
+
+Tim Ferriss: Well, all the mTOR license plates are taken, so you’ll have to make due with Lethargicus. Let’s revisit this direct current brain stimulation for the amplification, let’s say, extension of deep sleep. Could you describe in practice what this looks like over the course of an evening? You could also mention the company name, because I know people will be interested. And compare this to — TMS might be too much of a layup in terms of comparison, but let’s just say tDCS. So other types of transcranial or brain stimulation that can be used for other purposes, which could relate to different types of therapy and treatment of depression, could relate to the enhancement of memory in some cases. But I would love to learn more of the direct current brain stimulation and what that looks like in practice.
+
+Dr. Matt Walker: So the complex version of it requires you to be in the sleep laboratory, or at least for us to be recording the electrical brainwaves of your natural sleep. And then essentially what we start to do is we’ll develop an algorithm that understands the cycling cadence of your deep slow brainwaves. And then start to temporally predict where the next brainwave will hit in its monumental peak of explosion. And then you time the stimulation, this is almost at the millisecond level, to strike at the point of midnight, as it were, on that big powerful, slow wave. And therefore, it’s almost like acting as a choir to a flagging lead vocalist, that these deep sleep brainwaves, hundreds of thousands of cells in your cortex, what they’re doing to create these deep sleep brainwaves, by the way, they all fire together. And then they all go silent together. And they all fire together and go silent.
+
+And what we’re trying to do is estimate the point, the next wave, when they’re all going to fire together. And then we stimulate to activate and amplify that stimulation even more. So it requires this closed-loop feedback, where you’re measuring the brain and you’re stimulating, then you keep measuring, and then you stimulate
+
+Tim Ferriss: And people are wearing caps. Or what is the format, the physical format?
+
+Dr. Matt Walker: It’s different. Sometimes we’re just placing electrodes on the head and then the stimulation pads are going in between those electrodes. And you can have a very stripped-down number of those electrodes. This makes it much more — 
+
+Tim Ferriss: And now, you pointed, for people who are not watching, you pointed basically to that medial prefrontal area, if I’m not mistaken, when you mentioned the stimulation pads. So those are effectively being placed in over that cortical area?
+
+Dr. Matt Walker: That’s right.
+
+Tim Ferriss: Or are they being — 
+
+Dr. Matt Walker: No, they’re placed over that cortical area. And this is why I can speak about the simulation and it sounds fairly simplistic. It’s actually an incredibly complex, high-dimensionality problem. What I mean by that is, you can ask, well firstly, where do you put the pads to try to create this stimulation, whereabouts on the frontal lobe? Or do you put another one somewhere at the back of the brain, so you’re exiting current from the front to the back? How do you do that? The next question is, how long do you stimulate for to create this profile? The next component is what frequency do you stimulate? So coming back to the more complex version of this, you are measuring the brainwaves and then you’re stimulating in this predictive manner, as I said, at that stroke of midnight.
+
+What we’re now starting to try and do is a very different approach with the stimulation company. I think it’s unlikely that people are going to start strapping things on the head and wishing to go to bed. And this is the reason that I’m not necessarily the biggest fan of sleep trackers where you stick them on your head or even wristwatches, et cetera, or chest straps, because we take things off to go to sleep, we don’t put things on. And so the shift that we made with the technology that we’ve been developing with the company is rather than stimulating — 
+
+Tim Ferriss: What is the name of the company?
+
+Dr. Matt Walker: The company’s name is StimScience. And we’re just in the early stages here. I am very happy to take a long time to develop something that is scientifically proven. I don’t want to sell snake oil out there, if it’s a device. My mother, for example, who’s in her elderly age is told that the stimulation device is going to help her, then I don’t want that to be scientific falsehood. So we’re taking our time, but the company’s called StimScience. And people can have a look at it. What we’re trying to do though is something slightly different. We’re trying to stimulate before sleep for about five to 10 minutes. And this is a slightly different approach. A good analogy would be a child on a swing, where to begin with you have to start pushing the child on the swing and at some point they gain enough momentum that you can stop pushing and they keep oscillating back and forth.
+
+So now, we’ve taken this approach where we’re stimulating as you’re cleaning your teeth, you stick the headband on, you get the stimulation, and you are essentially fertilizing and stimulating that territory of the brain to then germinate more deep sleep naturalistically when you fall asleep. And what’s nice about it is when you do this stimulation for that duration of time, it has an efficacious, a dose impact for about two to three hours afterwards. So you can stimulate and you can take it off. It has this lingering effect, as it were. And what’s nice about that is that’s the time when we have most of our deep non-REM sleep. Deep non-REM sleep does not keep coming cycle after cycle, 90-minute cycle after 90-minute cycle across the night. You get most of your deep sleep in the first half of the night, and most of it in the first two hours of the night.
+
+So we can nicely fertilize that territory of the first couple of hours of deep sleep using the pre-sleep stimulation. And therefore, you can remove the component of having to measure the brainwaves and do all of this fancy acrobatic technology. But coming back to your question, I keep digressing, so — 
+
+Tim Ferriss: Actually, let me pause for one second. So just, I know I’m subverting my own question here. But a few things. The first is, if we’re looking at the option of pushing the swing set, so to speak, while people are brushing their teeth and so on, so they’re having that amplification for 10, 15 minutes and then they go to sleep, what types of clinical outcomes or measurable outcomes would you hope to observe? I’m not asking you to paint a picture of something that’s pie in the sky, but just speculating a bit. But with the information that you have, what would you hope to observe in terms of changes?
+
+Dr. Matt Walker: We’re actually measuring these outcomes. So we’re doing a whole bunch of validity trials within the company, essentially scientific studies. So we have outcome measures along the following lines. The first is the speed with which you fall asleep. And it’s something that we call sleep onset latency. How long does it take you — 
+
+Tim Ferriss: My nemesis.
+
+Dr. Matt Walker: Yeah. And that’s a component of what we call one of the flavors of insomnia.
+
+Tim Ferriss: SOL.
+
+Dr. Matt Walker: Yes, SOL.
+
+Tim Ferriss: My good friend, SOL, sleep onset latency.
+
+Dr. Matt Walker: It is. And that, that’s a form of what we call onset insomnia or sleep onset insomnia.
+
+Tim Ferriss: Shit out of luck, in my case.
+
+Dr. Matt Walker: I know, I’m so sympathetic. It’s miserable, isn’t it? And I’ve certainly had my bouts with insomnia across the lifespan. It is no fun at all. So one of the things that we’re trying to do is to see, will that pulsing, and we’re pulsing still at the slow brainwave frequency, I should note. Can we increase the drowsiness pre-sleep so that sleep arrives with you with greater alacrity, as it were, and you reduce the nice sleep onset latency, as it were? That’s the first thing.
+
+The second is that we then, in our scientific, studies are measuring sleep electrically and we’re looking to see if the amount of deep sleep or the number of those deep sleep brainwaves has increased during sleep. That’s another outcome measure.
+
+A third outcome measure is the number of awakenings that happen during the night. So one form of sleep difficulties and insomnia is difficulty falling asleep, which is, as you have described publicly before, something that has been a challenge for you. The other component though is something called sleep maintenance insomnia, which is, I can fall asleep fine, but then I wake up and I can’t fall back asleep. So that’s something else that we’re trying to target just because of the clinical efficacy.
+
+The third component involves another actual flavor of insomnia, which is not just, “I have problems falling asleep,” or, “I have problems staying asleep,” but you can also get a diagnosis of insomnia if the next day you say, “Well, I fell asleep fine and I stayed asleep, but I don’t feel refreshed. I don’t feel restored and rejuvenated by my sleep.” That’s a different form of insomnia and they’re not mutually exclusive, those three things. Unfortunately, you can have all of them. That’s another outcome measure that we’re looking at. When you wake up the next morning and you subjectively ask people, “How refreshed and restored by your sleep do you feel?” is that better as a consequence of nights when you’ve had stimulation versus nights when you haven’t?
+
+So those are some of the outcome measures that we’re interested in. If we see some of those outcome measures, then we’re looking at function not just did you sleep better the night before and do you wake up feeling more refreshed? But then the next day presumably, because sleep is interwoven with so many incredible brain and body benefits, are there outcomes, are you better able to learn and remember the next day because of that better sleep? Is your mood improved? Is your metabolic regulation of your blood sugar better and do you not crave food as much because your appetite hormones are controlled or your blood pressure is altered? That’s my dream set of things much later down the pipeline.
+
+Tim Ferriss: All right, so I have a million follow-up questions, as you might imagine, and what I’d like to do is return to the concern and fear that people have related to neurodegenerative disease, specifically Alzheimer’s, and I’m going to talk for a second so I apologize in advance.
+
+Dr. Matt Walker: Please do.
+
+Tim Ferriss: First I’m going to double down on my apology and say I did not mean to imply that the state of sleep research is dismal by my previous comment. Only that all of those centimillionaires and billionaires who are spending their time trying to figure out how to live to 140 should take a substantial amount of their funds for research and allocate it to sleep-related research, in my opinion. If they’re looking at optimizing not just lifespan but healthspan. So I’ll put a button in that.
+
+Dr. Matt Walker: Brilliant point.
+
+Tim Ferriss: Then we were talking about the direct current brain stimulation, but an outstanding question for many people listening to this might be along the following lines. “I agree. I now understand how important this deep sleep is for the, let’s just call it brain maintenance recovery, et cetera, vis-a-vis the glymphatic system and perhaps other pathways. How do I increase my deep sleep if I do not have access, which no one presumably does, to direct current brain stimulation along the lines that you’re describing?” What are some other things that people can do?
+
+I’d like to pause here just to maybe front load a bit for folks of personal context, if that’s okay with you.
+
+Dr. Matt Walker: Please do.
+
+Tim Ferriss: So I’ll mention a few things, the first of which being a disclaimer that nothing we’re discussing in this podcast is intended to be medical advice. It is for informational purposes only. Please consult your licensed healthcare professionals before taking or ceasing anything, especially prescription drugs. I mention that in part because we’ll be talking about some of these compounds.
+
+So I have had onset insomnia for as long as I can remember and I have theories for why that may be the case, some of them relating to premature birth and being in the NICU for a very, very long time. But who knows ultimately what the causes are. But symptomatically, I often throughout my life have required or seemingly required one to three to four hours to fall asleep. And that has had, I think, far-reaching consequences, including or at least contributing to, depressive episodes and other types of cognitive challenges, short-term memory being the most obvious, I think.
+
+A number of things I’d say in the last year have been very helpful and I owe you thanks for taking the time to have several conversations with me. Of course, in conjunction with my conversations with doctors and people like Peter Attia and so on have led me to experiment with a number of things that I’ve found very helpful. There are the environmental factors and those are what we’re talking about, and the behavioral factors, avoiding screens past a certain point, et cetera.
+
+But I will just mention a few things that have been very helpful. trazodone, particularly for decreasing the SOL, and increasing the speed to sleep. Pregabalin, which we might talk about just a little bit to explain what that is, due to lower back pain and some muscular issues that have been contributing to several species of sleep problems.
+
+Thirdly, and these are not taken at the same time typically in my case, but some type of THC and CBD combination. And for me, THC appears to be a necessary component. If that is absent CBD, at least at the dosages that I have most frequently experimented with, does not seem to address any of these primary issues.
+
+But I will say in the last six months, paying attention to temperature, consistent timing, caffeine intake, both quantity and schedule, I actually had a pretty good run of good sleep. So I want to thank you for the book and then also the input that you’ve provided over time.
+
+So folks who are listening to this podcast, we will talk about a number of the things that I just mentioned. It’s not all going to be technology that is in the lab and unavailable. So how might people think about increasing, let’s say they have a family history of Alzheimer’s, and they want to get on the maintenance train, they want to do as much possible to ensure that their glymphatic system and so on is operating in top order?
+
+Dr. Matt Walker: In some ways you can break it down. I’m almost going to pull a Peter Attia and think about it as like a two by two, but I won’t go there in terms of matrix. I think there are some — 
+
+Tim Ferriss: Not going to go full McKinsey on us.
+
+Dr. Matt Walker: I know. Yeah, maybe I can one up him and do like a two by three. You can think about things that you should not do that otherwise would be roadblocks to deep sleep, and things that you should do more of that will facilitate and increase the amount of deep sleep. At least that’s one of the ways, the frameworks with which I think about it.
+
+So you’ve already mentioned some of the things to be mindful of that will decrease the amount of deep sleep, the first of those being unfortunately caffeine. Caffeine and we will probably go into detail here, is certainly something that not only disrupts your sleep and makes it harder for you to fall asleep, it does seem to selectively deprive that deep sleep and particularly the quality of those deep sleep brainwaves, especially in the first couple of hours of the night. So that’s one thing to be mindful of.
+
+The second is probably light exposure in the evening. In fact, there was a recent study published by Phyllis Zee from Northwestern demonstrating that even light exposure in the bedroom at night while you’re sleeping, despite your eyelids being closed, can still penetrate and provide a signal into the brain that will decrease the amount of deep sleep. So trying to aim for darkness, not just in the last couple of hours before bed, but also darkness when you’re in bed. Blackout curtains, eye masks, all of those good things. Feel free to do those things too. So be mindful of caffeine, be mindful of also light, I think.
+
+The other big issue, and it’s really hard to manage, is stress and anxiety. And we’ve been doing a lot of work in sleep and mental health, one of the ways that you can decimate your deep sleep is to increase your state of anxiety. This has been demonstrated in animal studies and we’ve demonstrated it in humans too. If you induce a state of anxiety, not only is sleep disrupted, but the type of sleep that is excised most powerfully from your finger buffet menu of different stages of sleep is deep sleep. So that’s another way that there will be a prevention of deep sleep.
+
+Coming onto the things that you can do for yourself to enable more deep sleep that are not necessarily technologically advanced. One of the most interesting I find is temperature. Temperature makes a huge difference to the amount of deep sleep. Temperature is not quite as simple as keep it cold, even though people like me have probably been out there just saying, “Oh, keep your bedroom cold. It’s the best thing.” It’s actually a three-part equation that you need to warm up to cool down to fall asleep, and then you need to stay cool to stay asleep and then you need to warm up to wake up.
+
+But coming back to the first two parts of that ingredient and why temperature is important and what people can do, what we’ve discovered is that you need to drop your core body temperature to initiate sleep. In fact, people with insomnia, interestingly, have problems with thermo regulation and they don’t seem to be able to thermoregulate as well. So you can do these studies where you place people’s hands or feet into a hot bath and you can look at how well the hands and their feet vasodilate, which is, in other words, the vessels open up and that’s how we release heat, that’s how we regulate our body temperature. But insomnia patients don’t seem to be able to regulate their body temperature as well. They don’t vasodilate as well.
+
+What this means is that for most people who are healthy sleepers, the way that we drop our core body temperature is actually by pushing the blood out to the surface of the skin. And as we fall asleep, if you move the blood out to the hands and the feet and the face, which is particularly where you get the highest amount of vasculature surface area, at that point, you can emit the heat from the core of the body and your core body temperature plummets.
+
+The way that people can manipulate this is by using hot baths or showers before bed. I think many people sometimes will say, “Well, I know that if I have a hot bath or a shower before bed, I get into bed and I typically fall asleep faster.” And you think that it’s because you’re nice and warm and toasty. It’s the opposite. It’s that the warm water on the skin actually dilates the blood vessels. That’s why you would get rosy cheeks. And all of a sudden the blood comes to the surface and it’s almost as though you’re charming like a snake charmer. You’re charming the heat out of the core of the body, bringing it to the surface. And when you get out of the bath, your core body temperature actually plummets, and that is what helps you fall asleep and stay asleep more soundly.
+
+It’s so reliable, by the way, we call it the warm bath effect in sleep science, and that will consistently increase the amount of deep sleep that you get as well. There’s also been some studies where you can warm the hands and the feet. You don’t need to jump in the bath or the shower. You can use a hot water bottle, for example. We’re thinking about a lo-fi version of technology rather than a fancy headband as well. We haven’t yet got funding for these studies, but can you selectively just warm parts of the bed or parts of the feet and can you instigate sleep?
+
+And they did it actually in rats, these studies way back. They started to warm the paws of rats and bring the blood to the surface of the paws, and those rats started to fall asleep more quickly. You can replicate that in humans now too. So that’s another way that you can think about doing it.
+
+Other aspects that we know can increase deep sleep, exercise is a really good one. We found that both — 
+
+Tim Ferriss: Any particular types of exercise?
+
+Dr. Matt Walker: There have been a series of reviews that have looked at this, and it seems to be that when it comes to deep sleep, it may be that more aerobic forms of exercise, so basically more cardio-based forms of exercise may get you greater bang for your buck in terms of deep sleep enhancement relative to, let’s say just heavy resistance training and lifting weights in the gym. Of course that can also be aerobic depending on how intense you go.
+
+But also any form of exercise seems to be beneficial for deep sleep. But if you want to then split it apart, cardio versus lifting weights, cardio seems to give you a slightly greater benefit. People have then tried to split down the cardio, running versus cycling, and at that point, I think the analyses just get so fine-grained that you start to lose some of the signal in the noise. But exercise is another great way that you can enhance that deep sleep.
+
+There are not so many studies, but there are few studies demonstrating that it doesn’t seem to be strongly time-of-day dependent. So some people may then ask, “Well, when should I be doing that exercise to best optimize my deep sleep? Should I just be doing it from 7:00 to 9:00 p.m. or from 8:00 a.m. to 10:00 a.m.?” We don’t really see that much of a difference. There’s a few studies that can argue differences there, but I wouldn’t worry about that. The overall message is that exercise versus non-exercise, exercise always wins out in terms of generating that more and greater and more powerful deep sleep.
+
+Tim Ferriss: Yeah, I would say pick the schedule and the type of exercise you’re actually going to fucking do consistently would probably beat the perfect prescription. It’s like, yeah, you’re going to do wind sprints up that hill with bowling balls taped your hands. The literature shows that’s ideal. It’s like, well, good luck with adherence.
+
+Dr. Matt Walker: Exactly.
+
+Tim Ferriss: So stick to what you’re going to do.
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: I want to come back to caffeine. So I’m looking at prep notes for this conversation. You’ve changed your mind, it seems, on coffee in so much as you now advocate for it, or at least support the idea of a cup of coffee in the morning. An outstanding question, because we were going back and forth on what we should talk about in this conversation, that I really don’t know the answer to, and that is, why is coffee associated with so many of the same health benefits as sleep? It doesn’t seem, at least at face value, to make immediate sense.
+
+So both of those. Why a cup of coffee in the morning, and then why is it associated with some of the benefits of sleep? And maybe you could also get into some of the pharmacokinetics of caffeine. I guess coffee could be its own thing just in terms of half-life and stuff, so people have an idea.
+
+Dr. Matt Walker: So I’ve certainly changed my tune on caffeine and I think I tried to change my tune in general, I think, when I first came out with the book, and was just getting my training wheels underneath me in public communication. I think I was probably a bit too absolutist in truth. And anyone who speaks in absolutes, you should always be wary of, and I was very much guilty of that. And I think this that was true for caffeine and sleep in general.
+
+But let me just come back to the first part of the question, which is caffeine, what is it? How does it work in terms of waking you up? How does it work in terms of preventing you from sleeping? But also why, despite those things, I would still advocate for it? Caffeine is a chemical, as I’m sure you and everyone else knows. It’s a stimulant, it’s a psychoactive stimulant, one of the few that we feel readily comfortable giving our children.
+
+But caffeine works in a very interesting way within the brain, which brings us back to another chemical that sounds very similar called adenosine. Caffeine, adenosine. From the moment that you and I and everyone listening, I suppose, woke up this morning, a chemical built up in your brain and that chemical is called adenosine. The more of it that builds up, the sleepier that you feel. And so we think of adenosine as a signal of sleep pressure. It’s not a mechanical pressure by the way. It doesn’t mean that at the end of the day, your head is nearly going to explode on the basis of your adenosine. It’s a chemical pressure.
+
+Caffeine works to keep us awake by way of competing with adenosine. So the longer that we’re awake, the more adenosine is building up, and that adenosine is telling your brain you’re getting sleepier and sleepier. After about 16 hours of being awake, you should feel heavily weighed down by that adenosine signal that you can fall asleep easily and then you can stay asleep. Caffeine works by way of racing into the system and it latches onto those adenosine receptors. But what it doesn’t do is activate them. Because you would think, if it’s binding on and latching onto those welcome sites of adenosine in the brain, then wouldn’t that make you more sleepy? Well, the reason it doesn’t is because it has the opposite effect. Well, not quite the opposite effect. It races in and it just latches itself onto those receptors and inactivates those receptors. So it doesn’t inhibit the receptors, it just blocks them.
+
+It’s almost as though caffeine is like the mute button on your remote TV controller. It just comes in and it mutes the signal of adenosine, of sleepiness. So it’s what we call a competitive receptor blocker, and it has very sharp elbows. It will come in, it will nudge adenosine out the way, latch on and hijack those receptors, and block the signal of sleepiness. And that’s why all of a sudden you think, gosh, I was feeling pretty sleepy. I’ve been awake for 14 hours. I have an espresso. I don’t feel sleepy anymore. It’s not as though you’ve removed the adenosine. The adenosine is still present. Sleepiness is still present, and it will continue to build up the longer that you are awake. It’s simply that your brain is no longer getting the message of adenosine because caffeine is blocking the signal, if that makes some sense.
+
+So that’s the reason that caffeine will then start to disrupt your sleep, and it will disrupt your sleep in probably several different ways. The first is that it will, because it’s a stimulant, prolong the time it takes you to fall asleep. And you mentioned that too. The other aspect of caffeine, though, is that it’s what we call anxiogenic, that it increases your anxiety. Anxiety, including what we think of as physiological anxiety, biological anxiety, which is essentially having your fight or flight branch of the nervous system switched on into higher gear, and aspects of your stress chemistry and things like cortisol, those things will be ramped up by way of caffeine. And that is the exact opposite of what you need to be able to fall asleep. You need to disengage the fight or flight branch of the nervous system and shift over to the more restful branch of the nervous system that we call the parasympathetic nervous system. And you can’t do that because of the caffeine.
+
+So what happens is that psychologically the caffeine is preventing you from falling asleep. Then you start to get anxious because it’s anxiogenic, it increases anxiety. At that point, you start to ruminate. This Rolodex of anxiety begins to whirl and you start to then ruminate. And when you ruminate, you catastrophize because everything seems so much worse in the darkness of night than it does in the light of day. And at that point of catastrophizing and ruminating, you’re dead in the water for the next two hours, as it were. So that’s one of the problems.
+
+Tim Ferriss: Story of my life.
+
+Dr. Matt Walker: Yeah, I’m so sorry. This can sound painfully familiar to many people out there. So that’s one of the issues with caffeine.
+
+The other is its duration of action. You mentioned its pharmacokinetics. It has a half-life of what we call five to six hours, which is just a fancy way of saying that after about five to six hours, half of the caffeine’s still in your system, which means that caffeine has a quarter life of, for the average adult at least, 10 to 12 hours. And it’s probably, again, not really a very good analogy, but if you have a cup of coffee, let’s say at 1:00 p.m. or 2:00 p.m. in the afternoon, is it similar to then saying, “Well, that’s the equivalent of tucking myself into bed at midnight before I switch the light out. I swig a quarter of a cup of coffee and I hope for a good night of sleep.” That’s probably not going to happen because a quarter of the caffeine is still in the brain swilling around at midnight. So its duration of action is something that people may want to be mindful of and that will impact sleep.
+
+The other component is that caffeine will destabilize your sleep, so it makes your sleep more fragile. As a consequence, if you are prone to waking up, and we all will wake up across the night, even healthy, good sleepers will wake up. Because caffeine will destabilize and make your sleep more fragile, it’s more likely that you’ll wake up. And when you do wake up, your sleep is less robust and it’s harder for you to fall back asleep. So now sleep maintenance, insomnia.
+
+And then the final part of caffeine comes back to deep sleep. We’ve done these studies where we can dose people at different times of the day and into the evening. If you give people a standardized dose of caffeine, maybe 150, 180, or 200 milligrams, which would be, I suppose, the equivalent of probably a very strongly dripped, brewed cup of coffee or probably one and a half cups of coffee, what we can see is a decrease in the amount of deep non-REM sleep, particularly in the first two hours of the night. It can decimate that deep sleep.
+
+In fact, there was a reduction, if you look at that, and we’ve done some of these studies, by a single cup of coffee in the evening, it will drop the amount of deep sleep by about 30 percent, which to put that in context, I would probably have to age you by about 12 to 14 years to get that type of reduction in your deep sleep. Or you could just do it every night with an espresso if you wanted to.
+
+I do think that that’s relevant, by the way. Some people will say, “Look, I can have a cup of coffee with dinner or even two and I can fall asleep fine and I stay asleep. So no harm, no foul.” The problem there is that it discounts the idea that you have no sense of how much deep sleep that you get at night. Yes, you probably remember, did you struggle to fall asleep or did you wake up? But none of us has a recollection of the quality of our deep slow brain wave activity, but yet you may still be suffering from that excising of a significant amount of your deep sleep.
+
+So the next morning, you don’t feel refreshed or restored by your sleep, but you don’t remember struggling to fall asleep or having a hard time staying asleep. And so you discount the idea that it was the coffee the next night. But now you start reaching for three cups of coffee the next morning, and then so on and so forth. The vicious cycle begins. The harder it is the next night to fall asleep. The less deep sleep, the more coffee you get. And then people start falling into the trap of alcohol or sleeping aids to help them fall asleep.
+
+Tim Ferriss: So let me hop in. Let me hop in. I’m going to stage an intervention. All right. So the stimulant depressant cycle is a whole mess. I’ve been an active participant on that field before. But if I could just return to some of the questions that kicked us off. So why allow or endorse the idea of a cup of coffee in the morning, number one, if it is after this litany of sins? And then how could coffee be associated with any of the health benefits of sleep? And if so, how is that the case?
+
+Dr. Matt Walker: You’re absolutely right. I think at the time when I was writing the book a few years ago, the evidence was starting to emerge there that drinking coffee had health benefits. And there’s been some great meta-analyses quite recently, and it is striking. And you just can’t really deny it on the strength of the evidence that drinking coffee is associated with numerous health benefits and the reduction in risk for numerous health conditions.
+
+And what’s striking, as you mentioned elegantly, is that many of the same health-related conditions that drinking coffee is associated with reducing are the very same diseases that sleep will also reduce in terms of your risk. So how on earth does this work? They seem completely paradoxical.
+
+The answer is antioxidants. Because it turns out that the coffee bean itself contains much more than just caffeine. It contains a very healthy dose of antioxidants, a family called the polyphenols. Perhaps the principal one is — well, there’s a number of different polyphenols that it contains, but chlorogenic acids are probably the principal ester that carries some of these health benefits.
+
+So what we realized is that the coffee bean, because most people in developed nations are still deficient in the whole food dietary intake, the humble coffee bean has been asked to carry the Herculean weight of all of our antioxidant needs. And that’s why drinking coffee has such a strong statistical health signal in the data when you do epidemiological studies. So it’s not the caffeine that’s related to the health benefits, it’s the antioxidants. In case in point, if you look at de-caffeinated coffee, you get many of the same health — 
+
+Tim Ferriss: I was just going to say, I hate to spoil the party with a question. If I could jump in for a second, just a quick side note. So the antioxidant and nutritional value of coffee bean in, let’s just say, less industrialized or lower income strata of various countries is true also for cocoa in the Peruvian Andes and elsewhere. It’s actually a source of very important nutrition for a lot of these communities and indigenous groups.
+
+So I just wanted to say that as an aside. Also, chlorogenic acid, I think, is contained in quite a few other compounds and beverages, if I’m not mistaken. So I want to say that it’s present in yerba mate, which they drink all the time in Argentina. I may be getting that wrong, so somebody can fact-check me. But is chlorogenic acid found in camellia sinensis tea plants or other types of beverages? Or is it particularly prevalent in coffee?
+
+Dr. Matt Walker: No, you can find it. It’s certainly nowhere near exclusive to the coffee bean itself. By the way, it doesn’t contain any chloride. Please don’t be worried about drinking in bleach or something like that. It’s got nothing to do with that. But yep, the chlorogenic acids, that’s certainly one group. It’s not to say it’s the only group though. There are others. Acrylamide is another one that we’ve been very interested in terms of the coffee bean, which is another antioxidants. So it’s a cluster of different antioxidants that provide these benefits.
+
+Tim Ferriss: Any brewing methods, roasts, grinds, any combination of those variables that if one wanted to maximize for the good stuff and minimize the potential damage to sleep and sleep architecture? Any thoughts on what that Goldilocks combination might look like?
+
+Dr. Matt Walker: It is interesting, and by the way, I think the Goldilocks combination comes onto the idea that when it comes to coffee, it’s the dose and the timing that make the poison here. Obviously, if you look at the health benefits too, once you get past about two and a half, three cups of coffee a day, the health benefits start to go down in the opposite direction. So it’s not a linear relationship. Don’t start drinking like seven cups of coffee, and be mindful of the timing.
+
+But to come to your question, I suppose, if we’re talking about caffeine concentration and then maybe antioxidant concentration, actually here I am going to do a Peter Attia. I’m a two by three, because you could think about the rows of this table being the caffeine and the antioxidants. And then the columns, three columns would be the roast maybe of the coffee bean, the grind of the coffee bean, the granularity, the coarseness, and then maybe the brewing method.
+
+It’s not quite as simple as this, but certainly what we found is that for the roast of the coffee bean, and this comes onto the color of the coffee bean, a coffee bean is a coffee bean in terms of when it comes out, what changes its color is how you roast it. And what we found is that gram for gram, light roast actually has about the same caffeine content as dark roast. But the issue is that the dark roast, the longer that you roast it, the more degraded the coffee bean becomes and hence the lighter its density. So net-net on average, a lighter roast will contain more caffeine than a darker roast. So it’s a little bit complex.
+
+In terms of the grind, I think it’s fairly clear that fine-grain coffee produces higher degree of caffeine concentration than a coarse grain. Now of course, we’re not talking about brewing methods yet, but that’s simply probably on the basis of surface area, that the finer the grain, the greater the surface area, the greater the release of the caffeine.
+
+Brewing method, it’s really interesting if you look at some of the data. The longer the brewing method, the greater the caffeine concentration relative to shorter. Also, cold brews tend to produce a stronger caffeine content than hot brews. I think part of that simply is down to the duration of the brew itself. Cold brews typically take longer, and therefore you get a stronger pound for the punch in terms of caffeine. So that’s caffeine.
+
+Antioxidants. In terms of the chlorogenic acids, you’re probably going to favor lighter rather than darker roasts. Lighter roasts typically have higher amounts of chlorogenic acid than darker roasts, although there is some evidence that darker roasts have higher amounts of some of the other antioxidants like acrylamide, for example. So I don’t think you need to worry too much in terms of the antioxidants. And also, by the way, thankfully, the decaffeinating process still preserves the antioxidants, and that’s why it’s still related to the health benefits. You don’t lose out on the antioxidants when you switch to decaffeinated.
+
+Finer grinds typically produce more antioxidants than coarser grind in terms of that. And then brewing method, it’s probably that cold brew seems to produce stronger antioxidant concentrations. Then probably the next down would be espresso preparation. Then instant coffee seems to have finally higher concentrations of antioxidants than drip or infusion bag versions. So I’m sure that I’ll stand corrected by the internet, but that’s my reading of the literature.
+
+Tim Ferriss: Perfect. So let’s go from one socially acceptable psychoactive to one that is certainly becoming more and more socially acceptable that I’d like to ask about next. And that is cannabis, broadly speaking, but specifically in this case CBD, THC, and then potentially CBN, if you have any thoughts on it, because it is commonly sold as for sleep, but I don’t know how much that is supported in any way.
+
+So let’s talk about the CBD, THC. And this is a personal interest to me because I find that THC specifically helps me tremendously with turning down the volume on the rumination that tends to be associated with really horrible sleep onset insomnia. It tones down the chatter tremendously for me, and I find that at least subjectively to be one of the primary reasons it helps me to sleep.
+
+However, I’ve often wondered if I’m taking, say, what I would consider smaller doses in the forms of edibles, which are then converted through first-pass metabolism into other things, but at 2.5 milligrams or five milligrams or 7.5 milligrams, am I inhibiting my REM sleep? Coming back to what you said earlier, sometimes you don’t know what you don’t know because you’re not immediately aware of how much REM sleep you’re getting unless you’re tracking it using some type of biometric device. Am I screwing myself in the long term by using this aid in the short term? So that’s the context, but please, in any way that makes sense, tell us what you know about CBD, THC and anything else related to this fine plant.
+
+Dr. Matt Walker: So there’s probably more research that we have right now on THC, which is the psychoactive component of cannabis, but there is some fairly interesting data on CBD, too, and a little significantly less data on CBN.
+
+We have a set of cannabinoid receptors in the brain, both what’s called the CB1 receptor and the CB2 receptor. The CB1 receptor is the primary one that’s expressed in the brain. That’s where we think THC is having its sleep effect. And by the way, if you go back, some of the first writings of the first emergence of this story of THC for sleep, at least from what I found, came from the writings of this brilliant British physician, Dr. Clendinning. He published his first monographs in 1843, I think it was. And if you read it, I think you would love it, Tim. I should send you some of these articles.
+
+Tim Ferriss: Before it was cool.
+
+Dr. Matt Walker: Yeah, before it was cool.
+
+Tim Ferriss: Yeah, he was on it before it was cool.
+
+Dr. Matt Walker: It was hemp resin this that he was talking about. But just the writing itself you would love. It’s this wonderful — oh, gosh, I wish I could write that way. But his writing is lovely and delicious, and I could read it all weekend. But he was the first to describe some soporific and sedating benefits of hemp resin. And then another doctor the same year, O’Shaughnessy published some evidence too.
+
+What we probably know are four things related to THC with a possible caveat. The first is that you get a fairly reliable, very nice reduction in the time it takes you to fall asleep. And this is just what you are describing too. It seems to have sedative benefit. And we’re starting to unpack and understand exactly why THC has that sedating effect.
+
+The next issue, however, isn’t quite such rosy news, that you seem to develop tolerance, which is that the same dose, if you’re using it chronically, consistently every single night, can in some individuals lead to a tolerance. That means that you have to increase the dose, and therefore, you develop a dependency. And I think the way if people want to test dependency would be to say, look, if I have to, let’s say, travel internationally, and I obviously don’t want to transit illicit drugs into other countries if they’re not legal there, then would I start to just get very anxious? I would think, well, my goodness, I’ve lost my crutch of THC, and at that point, it probably demonstrates that there is a dependency that you have on it, which I’d prefer or wish for people not to have necessarily.
+
+The third feature of THC is that it has quite a significant withdrawal rebound effect. So when people stop using THC, they typically don’t just go back to the bad sleep that they were having before. It’s often even worse. 
+
+Tim Ferriss: Do we have any idea of the dosage range that we’re talking about, right? Because you could develop DT and tremors and so on from alcohol withdrawal, but that’s not going to happen if you’re having one glass of wine per night. So in this particular case with THC, how much does one need to be taking, or do we know, on a consistent, let’s just say, nightly basis to experience that type of rebound that would be so harmful to sleep? Do you know?
+
+Dr. Matt Walker: Yeah, I wish I had an answer and we currently just simply don’t know. There are not enough systematics. Right now, it’s more simply survey studies where people — 
+
+Tim Ferriss: But it’s observable, like it can happen.
+
+Dr. Matt Walker: I mean, it’s so observable. It’s so reliable, this rebound insomnia withdrawal, that it forms part of The DSM, The Diagnostic and Statistical Manual of Mental Disorders, the psychiatry Bible. It forms part of the criteria symptoms for cannabis withdrawal, this insomnia syndrome. That’s how consistent and reliable it is.
+
+Tim Ferriss: Wow.
+
+Dr. Matt Walker: It’s part of the diagnostic criteria. And in fact, often it’s the insomnia that happens when you stop using it that is one of the prime reasons for remittance, that people will then go back to using it because they just dislike the insomnia so much. And so — 
+
+Tim Ferriss: Go back to the wacky tobacco. They can’t stay away.
+
+Dr. Matt Walker: And so you get that — 
+
+And then the other aspect is that it seems to quite significantly disrupt your REM sleep, and it does it in three ways. The first is that it will decrease the overall amount of REM sleep that you are getting. The second is that it delays the arrival of the first episode of REM sleep in the cycling nature of sleep. And then the third aspect of that is it seems to decrease the intensity of rapid eye movement sleep. And one of the ways that we measure that is just how many of these eye movements — that’s where it gets its name by the way, rapid eye movement sleep because your eyes dart back and forth — and the more of those rapid eye movements that you’re having, the more intense the REM sleep and, in fact, the more intense the dreaming and THC will decrease the intensity, that metric of REM sleep too.
+
+I think perhaps the more powerful piece of evidence for me looking at the literature that it is REM sleep disruptive is less about the amount or the quality of the REM sleep as you are using, but what happens when you stop using, which is all of a sudden you get a rebound effect where you start to get significantly more REM sleep when you stop using THC. And that’s a demonstration, as a scientist, that we would say is a homeostatic response, which is that if you deprive yourself of something, when you get the chance to get it, you get an increase in the amount. There is a response. And that increase, that homeostatic rebound effect, is usually a sign of a deficiency that’s been happening before that. Does that make sense, Tim?
+
+Tim Ferriss: It does make sense. And if you could allow me to indulge myself for a second here, I would say that in my personal experiences, and this is an end of one anecdote and I understand that, but I’ve also used sleep trackers. So I’ve used various devices. I have observed over and over again, with more or less a hundred percent predictability, the destructive effects of alcohol. It’s so obvious. You feel miserable the next day. You see it in the numbers. It’s just incontrovertible evidence that alcohol is not friends with my sleep, at least the quality of my sleep.
+
+Now on the other hand, and I say this as someone who only began experimenting with cannabis a few years ago — so I am not a lifelong pothead. This is not a religion to me. I have no identity wrapped up in cannabis whatsoever. And for the most part, I had a very low opinion of cannabis because I saw so many people become unproductive through overuse of cannabis over the decades. But I have seen incredible effects on sleep, and I’ve not observed, at least at the dosing that I’m using — and as you mentioned, Paracelsus’ “The dose makes the poison.” You need to be careful with the dosing on all these things, including water, for instance. But it hasn’t seemed to inhibit my REM sleep.
+
+And I suppose there’s also a question that comes to mind, which is, well, let’s say it inhibited your REM sleep or hypothetically, on average, it reduced REM sleep 10 percent. If it took you from 90 minutes to fall asleep to 15 minutes to fall asleep, could that end up in an absolute increase in your REM sleep, even if theoretically it would decrease it percentage-wise 10 percent, if that makes any sense at all.
+
+Dr. Matt Walker: No, it does.
+
+Tim Ferriss: So how would you suggest we think about this? Because the dosing has always been a question for me. How much does it take? And I could also just do an end of one experiment where I do some on/off, as you mentioned, to try to observe what happens. But do we have any literature to point us in any direction with respect to what type of dosing starts to suppress?
+
+Dr. Matt Walker: Yeah, it’s a fantastic question. We don’t right now in terms of looking at a dose response curve. We probably have that dose response curve when it comes to the benefit of reducing the time it takes you to fall asleep. And there, going up starting at 2.5 milligrams all the way up to 20 milligrams, there is that sedating effect, and we start to understand why there is that. Do we have that same data for REM sleep? We don’t. Simply that if you look at acute studies where you bring individuals into the lab, often they’re cannabis naive individuals, you dose them with THC — 
+
+Tim Ferriss: You just bake the shit out of them.
+
+Dr. Matt Walker: They are seeing visions of biblical characters in the sleep laboratory before you put them to sleep. No. So you can give them these — 
+
+I would say cut that part out. Leave it in, please do. Absolutely. Leave it in.
+
+But what we have are these acute studies where when you dose acutely, you also certainly get that reduction, that decrease in the amount of REM sleep. That’s fairly reliable, fairly consistent. But we don’t have other studies where we will then, say, do a longitudinal study where we keep dosing people across a month and we track the evolution of these REM sleep impairments.
+
+Could it be that there is also some homeostatic pushback where gradually the brain starts to fight back against the deprivation of REM and turn up the volume on REM sleep generation, and therefore, you don’t see the effects long term? The only reason I would predict that that’s not the case is when you speak to lots of people who are chronic cannabis users and they say that they stopped after one year, two years, they will say, “I just started to have all of these crazy intense dreams as soon as I stopped smoking.”
+
+Tim Ferriss: Yeah, very common.
+
+Dr. Matt Walker: It’s so common. And so I think at that point, it still tells me that the brain was bereft of REM sleep throughout that period. It was undernourished. And by way of that nutrient deprivation of REM sleep, it had built up this increasing hunger and desire for REM, where as soon as you stopped the blocking agent, which is the THC, it comes back with a vengeance. That, I think, is the only evidence that I know of right now that still tells me it probably is having a suppressing REM sleep effect.
+
+Tim Ferriss: Yeah. And I will say that I have met a number of chronic users who have told me some version of, I haven’t remembered a dream in 10 years, and then they stop and begin having these extremely vivid dreams. And to your point, it does seem to have that effect. I have not personally observed it. I think that may also be partially due to the fact that I try, or historically I have tried, to cycle on and off very deliberately to avoid the development of tolerance, and I have to imagine that that helps on some level.
+
+How does CBD fit into things, if at all?
+
+Dr. Matt Walker: It is an interesting emerging story. So CBD, which is the non-psychoactive component of that, firstly emerged on the sleep map probably in the 1970s, much later than THC in the literature. It’s actually really interesting. They were dosing pigeons, Tim, would you believe it, with all of these different compounds. And they were looking at the learning ability of pigeons. Turns out pigeons are actually very smart. You can teach them things like the alphabet. And they were dosing them in the ’70s with different compounds. One of them was with CBD, and they were using — 
+
+Tim Ferriss: Sorry, can I just pause?
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: I’m imagining this experimenter, like the PI, going to the IRB and they’re like, “Can we do this in humans?” They’re like, “No.” “Okay. Can we do this in monkeys?” “No.” “Cats?” “No.” “Rats?” “No.” “What the hell can we do this in?” “All right, we’ll give you pigeons.” And they’re like, “Ah, fine. We’ll do it in pigeons.”
+
+Dr. Matt Walker: Yeah, I know. People seem to think of pigeons as rats with wings. “Oh, sure, you can work on them.”
+
+So they were looking at pigeons — I would love to be able to say that I’m a sleep scientist and my specialty is in pigeon sleep. But they were studying pigeons. And what they found was that with CBD exclusively, at higher doses I should say, the waking life of those pigeons became a lot less wakeful. They started to demonstrate the expression of slowed motoric movements. Their learning started to become worse. They demonstrated signs of drowsiness. Now, by the way, they weren’t high. They weren’t getting these pigeons baked because there was no THC. It was just CBD components. So that was the first evidence that we had.
+
+If you look at the human stuff, I don’t think there’s anywhere near enough data to go on record to suggest that CBD is the Shangri-La of good sleep at night. It’s mixed right now. But I think the story is that in higher doses, CBD does seem to be able to potentially increase the amount of deep non-REM sleep that one gets, if you look at some of the studies.
+
+The concern, though, is that CBD seems to have a bimodal distribution. And what I mean by that is in lower doses — and again, I don’t think there’s good enough signs to tell you exactly what those doses are, but perhaps if you squint your eyes and you look at it slightly sideways, maybe it’s about 25 milligrams or less of CBD. And again, this is not me being medical in terms of my advice or anything like that, as you said. This is simply me being descriptive on the basis of the scientific data, not prescriptive in terms of medical. But less than 25 milligrams, you actually get a wake-promoting effect where CBD will actually make you more alert.
+
+Tim Ferriss: Oops.
+
+Dr. Matt Walker: Yeah, exactly. Whereas in higher doses, maybe perhaps 50 milligrams or above, it may have some sleep-inducing effects.
+
+Part of the reason that I think there’s a lot of variability out there is that, at least here in the United States, it’s not FDA-regulated and there’s a lot of variability from one batch.
+
+Tim Ferriss: Right.
+
+Dr. Matt Walker: And if it really is so dose sensitive dependent that there’s this U-shape function, then you could be thinking, well, the bottle is telling me I take 50 milligrams every night and some nights I struggle with sleep and other nights I get knocked out. And I don’t understand. It’s not consistent.
+
+So that’s the reason I think there is some emerging evidence that gets me more excited about CBD. And for myself, I think, and perhaps other scientists, for a long time we were a little bit puritanical about THC and CBD. Well, it’s an illicit drug and you don’t want to do it. But I think in truth, you can’t just as a scientist sit it out and say, “Well, it’s illicit and therefore I’m going to discount it.” I think you need to put your feet in the trenches and get your hands dirty.
+
+And so I’ve actually decided to start working with a proper clinical outfit based from a group, Imperial College in London, and we’re really trying to actually dig in and create a proper clinical-based CBD compound and do the studies to see if it’s — 
+
+Tim Ferriss: Amazing.
+
+Dr. Matt Walker: — really real or not.
+
+Tim Ferriss: Great.
+
+Dr. Matt Walker: And it’s a particular CBD analog. Obviously, they’ve got a patent on it. But we really want to look at this. So we’re going to do proper studies, phase one, phase two, phase three studies and try and pull out all of the nonsense there.
+
+But if you were to then say, “Well, what is it about CBD?” If it does have a sleep benefit, that would be helpful. Because we know some of the ways in which THC is “helpful” for sleep, and we also know how it’s harmful to your REM sleep. What about CBD?
+
+For CBD, I think there’s probably at least two mechanisms that I become thoughtful about. One is indirect. The other is direct.
+
+The first is that CBD is quite a significant anxiolytic, that it seems to reduce down anxiety. And there’s great science using brain scanning technology. This has got nothing to do with sleep. But where you dose people with CBD and inside the brain scanning, you can see a reduction in the emotional centers, regions like the amygdala that light up, CBD will decrease those. So I think as we mentioned before, anxiety is a roadblock to good sleep, and if you remove that anxiety, sleep arrives to you on that royal road in a slightly more kindly fashion. So that’s one way. It’s anxiolytic.
+
+The second is a direct pathway that if you dose rats with CBD, it drops their core body temperature. So CBD seems to be hypothermic. And as I said, we need to drop our core body temperature to get colder. And so I think that’s the other plausible route, if it does benefit sleep, that I would hang my hat on.
+
+Tim Ferriss: So on the hypothermic side, one study I would love to see someone do — and studies cost money and they cost a lot of money and they take a long time often, as you know — but the potential combination therapy of MDMA and some type of cannabis derivative, probably not whole plant, but whether it’s THC, CBD, or CBD by itself, or THC by itself — and people will take issue with this, I’m sure, but one of the risks, if you go to any uncontrolled environment where MDMA is consumed at a festival or otherwise, and you go to the medical triage teams, you will find people who are overheating. That is one of the primary risks of excessive MDMA intake. So could you not just mitigate some of the physiological risk but also improve clinical outcomes by combining the two?
+
+I haven’t seen anything on this, but I did about a year ago a bunch of reading on both looking at if that could not only stem some of the risk factors but also enhance clinical outcomes. Now, I will say that on the con side, one of the counter arguments would be that cannabis can sometimes have an amnesic effect on people. And if you are doing it in a clinical setting where you want to have recall, that could be an issue. If you’re with a therapist, they should also be doing a lot of the recording and so on. So you might end up at neutral. If you’re taking methylenedioxy methamphetamine, which by the way, one could say would improve recall in some people, then maybe you just end up net zero at baseline, depending on the dosing. I just haven’t seen much research done with it. So I’d be curious at some point.
+
+Side note. What is your — just for everyone listening and for myself — handle on Twitter? What is your username on Twitter?
+
+Dr. Matt Walker: On Twitter, you can find me @SleepDiplomat. I chose not to use my own name because I’m quite shy and I’m typically a little bit private, and also it’s not about me. It’s about sleep. And so I wanted to remove my name and just be — 
+
+Tim Ferriss: Sleep Diplomat. All right. So @SleepDiplomat and I, @tferriss, T-F-E-R-R-I-S-S — actually, I don’t want to speak for you, Matt, but I’ll speak for myself.
+
+Dr. Matt Walker: No, speak for me, please. You’d be much better with eloquence than I would.
+
+Tim Ferriss: I’m @SleepLoudmouth and he’s @SleepDiplomat. No, @tferriss. So @tferriss, with two Rs, two Ss. I would like to hear from people out there who fall into a few camps. One would be researchers who have looked very closely at this literature, scientists or even amateur scientists who have the technical ability to at least read studies well, to see what’s out there or what people would like to do from a research perspective.
+
+And the second group I would love to hear from are self-trackers, people in the quantified self-movement or who are using devices like the Oura Ring or others who may have data from their own measurements related to, say, THC and/or CBD consumption and how that has affected REM sleep, as an example. I would be so interested to know if anyone is willing to share that, specifically dosage, dosage range, and whether or not they have observed it to interfere with REM sleep.
+
+Dr. Matt Walker: Yeah, I would love see that. Please loop me in on that. Because I think we can probably crowdsource a good amount of that data. Will it be scientific? Of course, it’s not going to necessarily be scientific, but it’s a little bit like Amazon reviews. If there’s a product that has 30,000 reviews and its 4.9 stars, you probably don’t need the science to suggest that it’s going to be a fairly decent product. And so thank you for suggesting that.
+
+Tim Ferriss: For sure.
+
+Dr. Matt Walker: I would love to be included in that.
+
+Tim Ferriss: Yep. Yeah, and people can just tag both of us on Twitter with what they have found. And I would say furthermore that some of the self-tracking can go a long way. I don’t want to make too strong a case, but I have seen — I’m not going to name names, but when I was much younger, I volunteered as a subject in scientific studies all over the place, including at some very well-known universities because I wanted to see how it was done. I wanted to see how various studies were conducted.
+
+And I will say that there is high variability in how tightly experiments are run, and some of them with very small subject sizes can be run quite sloppily. And when the output is very precise and it’s a P-value out to four decimal points and this, that, and the other thing, it can create the illusion of being much more compelling or at least more accurate than it might be. And that’s not to malign all of science. There are great scientists out there. I fund a lot of them. But there’s also the good, the bad, and the ugly in the realm of experiment design and execution.
+
+On the other hand, if you have, let’s just say, an N of a thousand people who claim to be using THC at a certain dosage range, it’s unlikely that all of them are lying. So even if you account for some degree of fudge factor, it can at the very least be very useful in formulating more precise hypotheses that you can then test. I’ve felt this way for a long time, since predating The 4-Hour Body. I went to the first quantified self-meetup ever. I think it was 12 people at Kevin Kelly’s house in Pacifica in 2008. And it’s still very, very fertile ground.
+
+Let me take a hard left turn, if I could for a second, and ask you a question that has been on my mind since I first read your book. There was passing mention of this, and I’m not looking at my highlight. This is from memory. So I apologize if this is something that came to me in a fever dream and it’s not even in the book. But I feel like I read a passage that said something along the lines of rocking, having a bed that rocks or having a rocking motion has been experimentally, or at least observationally, determined to improve some facet of sleep quality or duration. And it prompted me to think, why are more people not spending time on this if that is the case? Am I making this up? Is this just a figment of my imagination?
+
+Dr. Matt Walker: There’s nothing wrong with your memory. It’s wonderfully exquisite. That’s what we found. It comes from the early inception of parents, that they would take their child and they would rock them back and forth, and it seemed to have a sleep-inducing benefit. And then you’d get cradles where you would rock the cradle. So there seemed to be something about the rocking motion.
+
+And so then there were a group of scientists from the University of Geneva who conducted a brilliant study. It was one of those studies that I was just so envious that I didn’t do the study and I didn’t come up with the idea. And what they did was they essentially took a bed frame and a mattress and they suspended it from the ceiling rather than planting it on the floor, on these chains, which starts to sound very S and M, and please stick with me. It’s not quite going there.
+
+Tim Ferriss: Oh, I’m on the same page. I’m ready for it.
+
+Dr. Matt Walker: Yeah, maybe that’s the conversation we have after we stop recording. So yeah, there’s no candle wax on the nipples, nothing like that that’s involved in this study.
+
+Tim Ferriss: Never say never. There’s funding for it.
+
+Dr. Matt Walker: Oh, Tim, you’re a great guy. So they got the bed and they suspended it from the ceiling, and then they put this device, this oscillating device that would essentially rock the bed in a lateral fashion left and right. And what they — 
+
+Tim Ferriss: Just so I’m envisioning this properly, laterally would mean if I’m laying on the bed, I would be moving side to side — 
+
+Dr. Matt Walker: That’s right.
+
+Tim Ferriss: — my left to right?
+
+Dr. Matt Walker: Yep. So you’d be shifting towards your left side and then your right side. It’s as if you’re on a boat and it’s shifting.
+
+Tim Ferriss: Sure.
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: Or in a hammock.
+
+Dr. Matt Walker: Exactly, in a hammock. Much better visual. So they started to rock the bed, and they were rocking it at a frequency that was trying to match those deep, slow brain waves. So those deep, slow brain waves, the reason they’re called slow brain waves is because they go up and down maybe once or twice every second, which for brainwave activity is actually very slow. Now, when you and I are both awake, it’s going up and down maybe 30, 40, 50 times a second. So it’s very, very, very slow.
+
+They were trying to match that frequency of brainwave with the rotating rock of the bed back and forth, the oscillation back and forth. And what they found was that lo and behold, they were able to increase the amount of those deep, slow brainwaves by rocking the bed back and forth. They also increased another brain oscillation that’s associated with deep sleep and with non-REM sleep, which is called a sleep spindle, which are these incredible bursts of electrical activity that ride like surfers on the top of these slow brain waves. They increased those as well and they also demonstrated that they’re learning and memory function the next day was improved. And we may speak about learning and memory with sleep. So in other words, it wasn’t just an epiphenomenon. That it wasn’t simply just epiphenomenologically that you increase deep sleep and it doesn’t really mean anything. You increased it, and it has a functional outcome, which was better memory as a consequence. So I believe there is a company that has — I saw them a couple of years ago. I don’t know where they’re at. That develops these little feet that you then place underneath the frame of your bed. They’re mechanical feet, and they will start to try and sort of rock the bed back-and-forth on the basis of this scientific literature. Now, whether or not that’s making any difference, I don’t know. I haven’t seen any evidence, but you’re right. There’s that paper, and it’s a great paper. Haven’t seen it replicated.
+
+Tim Ferriss: Yeah. As soon as I came across that, I was thinking, “Why have I not seen more companies looking at this?” Because you could try to — I’m going to use a word that’s going to get people to laugh at me. So taking, say, the bed that we have and putting it on these feet or the rockers, I could see working. I would actually be very interested in testing that. But it’s also skeumorphic in the sense that we’re trying to take something we know, and slightly modify it with a new technology to make it work. But we could take something that most of the world is very familiar with, but Americans are perhaps less accustomed to using, and those are hammocks. Right? I mean, all throughout the tropics, hammocks everywhere. And you could have a very lightweight system that you could set up in the home. I can think of a number of different configurations. And you would just need a mechanism by which you could perpetuate the rocking and establish a cadence. Right?
+
+Dr. Matt Walker: Right.
+
+Tim Ferriss: But, I mean, you could ostensibly have a system that you could put in a suitcase and travel with, in that case. I mean, it got me very excited, because I have had, and I’m not saying this is the same thing, but some of the best sleep of my life in hammocks in the tropics. And there are a million other factors. I get it. This isn’t a controlled experiment. But you can also take a hammock and fold it up into something that you could, I mean, stick inside a large jacket pocket. I mean, there are such hammocks. They’re so easy to set up and so easy to move around. So anyway, that was just scratching my own itch.
+
+Dr. Matt Walker: No, I think it’s a very interesting idea. It’s one that I’ve also had too myself, so I sort of — you throw out or you develop these patents with this sort of sci-fi knowledge, but I did this anyway. Because another way you could stimulate the sensation of rocking is not by physically rocking, but by having a small inner-ear device that will actually stimulate the machinery within the eardrum itself.
+
+Tim Ferriss: Right. The vestibular system.
+
+Dr. Matt Walker: Correct. So it would be vestibular stimulation.
+
+Tim Ferriss: Whoa. That’s wild. Okay.
+
+Dr. Matt Walker: I grabbed this patent that I wrote because I sort of had this idea. It’s sort of like — 
+
+Tim Ferriss: That is sci-fi.
+
+Dr. Matt Walker: It’s like I’m trying be an academic, be a podcaster, help some startup companies teach and research, and then also do some of these other things. And by the way, make sure you get your eight-plus hours of sleep. So I put this together because I think that that’s another interesting way that you could do it. I don’t have to physically rock you. Because you could imagine that, perhaps if people are in couples, that they don’t necessarily want to get into a bed and some people like rocking, other people don’t. But I’m talking about the physical — I’m getting myself into trouble. You get what I’m trying to say, which is — 
+
+Tim Ferriss: Yeah, I get it. I get it.
+
+Dr. Matt Walker: — there’s some point there that you may not wish to do the physical movement and the rocking. So why don’t you just get these little devices? You could put them in the ear, and you could travel with them too. And it will just stimulate the vestibular system, fool your brain into thinking that it’s rocking. Could I do that? Also, then could I do it even more carefully, where that device that I put into the ear also has a sensor? Because it turns out that you can pick up electrical brainwave activity that is bleed over, and it comes down into the ear. So I could actually measure your brain waves, not by sticking electrodes on your head, but just simply with the inner-ear device alone. Then I can measure the sweet spot of your own sort of da Vinci code frequency of slow-wave sleep, and then I can match the vestibular stimulation to your individual unique slow oscillation. So I’ve got all the crazy ideas.
+
+Tim Ferriss: No. I’m just imagining you on late-night television selling The Da Vinci Code magic sleep device. You may run into some trademark issues. But you know what?
+
+Dr. Matt Walker: Oh, please.
+
+Tim Ferriss: Let him chase it. Let him chase it.
+
+Dr. Matt Walker: If you ever see me doing that, please just come over and extinguish my life with rapidity that I would be most grateful for. Never do I want to become the George Foreman grill of sleep. Oh, my goodness. No offense, George. You are brilliant.
+
+Tim Ferriss: Yeah. No offense, George. So how far in would this need to go in your ear, and is it something you could easily remove, or is it an implant? I guess I’m wondering, is it some type of — I’m thinking of the beetle. It’s not really a beetle. It’s like this strange, alien, creepy-crawly millipede-type thing in The Wrath of Khan, I think it was, the Star Trek II movie, that crawls in your ear. But is this something that you could put in and take out, or is it something that’s implanted that you turn on and off? What does it look like?
+
+Dr. Matt Walker: No, I think it would be put-in and take-out. In fact, I was at a conference some years ago, and I’d already sort of put together the patent. But I think maybe the military, maybe it was DARPA, the advanced component of the American Military Technology Agency, they had already developed something that was quite like this. And the reason that they were using it was as a silent method for directing soldiers in terms of their direction of progression at a particular special-ops location. So where you don’t want any communication, you don’t want to put out there any signals. They were just using this inner-ear to say, “Go left, go right, go front, go back.” So that technology is, I think, is out there, and they’ve developed some of that. Can’t we just turn it for sleep? Anyway, crazy idea.
+
+Tim Ferriss: So, side note on DARPA. If people want to see an incredible, I mean, just mind-boggling, many, many multi-decade-long track record of innovation, study DARPA. It is unbelievable. I mean, if you invent the internet, you get free license to do a lot of stuff. But take a look at DARPA. And if anybody can recommend a really good book or long-form article that describes innovation at DARPA, please let me know, also, on Twitter.
+
+I’d like to come back to the glymphatic system for a moment. I don’t want to attribute this to anyone, but I’ve spoken to a number of very credible researchers who are now heavily engaged with psychedelic compounds. I phrase that carefully, because they’re not exclusively psychedelic researchers. These are world-class researchers who are now directing their attention to certain psychedelic compounds. Not that there’s anything wrong with people who focus exclusively. I am very fond of a number of excellent scientists who do incredible work, who might fit that description. However, the point I want to make is that in conversation, I want to say they described how some of these psychedelics, and I want to say we’re talking about the serotonergic, classical psychedelics, or at least psychedelics that affect the type 2A receptor, and how they impact microglia in the glymphatic system. Which then raises questions about what long-term impact that might have with a certain frequency of the administration, hypothetically, on let’s just say the longevity of some of the cortical structures we were talking about earlier. Would there be the potential of staving off or slowing the onset of some of these neurodegenerative conditions?
+
+I happen to be very — look, I’m talking out-of-turn here. I couldn’t prove this, but I happen to be very bullish on this. I think it’s worth exploring at least. Are there other means by which people can ensure the proper functioning of their glymphatic system? If they want to ensure they are facilitating this self-repair and cellular-cleaning in the brain, are there any other levers people can pull? Any other things that people can do, or not do, that you’re aware of?
+
+Dr. Matt Walker: I think right now, sleep seems to be the more — 
+
+Tim Ferriss: The big one.
+
+Dr. Matt Walker: — potent of those. But I think there’s also some emerging evidence that physical activity, i.e. exercise, can increase the efficiency of that system. But to come back to your question about psychedelics, I think I would love to examine what’s going on with sleep during the treatment phases. Well, actually I would like to look at it both pre, post, and during. Because one could imagine, is there something about the integrity of your sleep as you go into those therapeutic experiences that sets you up for and is deterministic of the efficacy success of that? In other words, it’s a little bit like the evidence for sleep, and the immune system, and vaccination. That if you’re not getting sufficient sleep in the week before you get your flu shot, you’ll produce, sorry, less than 50 percent of the normal antibody response, rendering that flu shot significantly less effective. By the way, we’ve found similar evidence most recently with the COVID shot as well.
+
+So is there something similar like that, but upstairs in the brain, when it comes to the therapeutic effects of MDMA? That if you are seeding the brain with sufficient sleep before, does it predict certain outcomes? Second, I don’t think we really understand in detail, at least not in this kind of Web.2, or sort of the second coming of these psychedelic compounds, with the hard science that’s narrowly there, I don’t think we’ve got good data on sleep. There were some age studies back in the ’60s and the ’70s looking at different psychoactive components and how they would impact your sleep, but I would love to see science and be involved in that.
+
+If there’s people doing these types of studies, I should probably have more conversations with them and see if we can just get some even lite, L-I-T-E, versions of sleep tracking in those to see what’s going on. And then also, what happens afterwards? What happens to your sleep as a consequence of that treatment is part of the long-term trajectory, because it helps re-establish, re-stabilize, re-energize sleep. Does it impact and harm sleep? That, to me, would be even more interesting. That you can get an emotional therapeutic benefit despite disruptions in sleep. Wonderful to learn that too.
+
+Tim Ferriss: So let’s talk about this. We’ll do — I’m not sure I’m using this correctly. Maybe the Germans can come in and say yay or nay, or ja or nein, as the case might be. Gedanken. Let’s do a gedanken or two. Good Duncan, as I like to say. No, no. We’ll approach it by me sharing a number of observations. Patterns that I’ve recognized just having been involved in the discourse around psychedelics for a reasonably long time now. I mean, publicly, probably since 2014 or ’15. Maybe a bit earlier, and then have been immersed in it for quite a bit longer. The first is that — well, let me say a few things. So with MDMA, given that it is effectively a methamphetamine, people generally don’t sleep at all afterwards. Sleep is terrible. It’s awful. Which would be, just as a side note, another possible pro argument for a combination therapy using THC. So I won’t go into too much of the personal details on that, but that would be, I think, a compelling reason to do research looking at that, as a combination therapy.
+
+With the classical psychedelics — so, flashback. Let me give a flashback. My sophomore year — I want to say it was my sophomore. It might’ve been my junior year. Sophomore or junior year in college, so this is a long time ago. This is like ’96, ’97. I put this paper online somewhere, and I don’t think it’s defensible. There’s a lot of undergrad hand-waving going on. But I was at Princeton, focused on becoming a psychology major with a focus on neuroscience. And I actually was able to be a subject for some of Daniel Kahneman’s studies while I was there. So pressing space bars a lot, looking at tons of screens, which was actually really instructive. But I wrote an either sophomore or junior paper on what appeared to be similarities between REM sleep and LSD administration or consumption. What I have now, many decades later, seen over and over again is that people need less sleep after psychedelic experiences. And I would be curious to know how you might explain that.
+
+If we take that as true, they have this experience, and then they seem to require less sleep. To me, that implies there may be similarities between the two. But I would be curious to hear your thoughts. I’ll give you another, I don’t want to say data point, because I realized this is all anecdotal, but I’ve seen this now replicated a whole bunch of times. If some people — and I’m not advising this, folks. These are illegal in most places still, and Schedule 1 can really ruin your day. So lots of legal risk, and also psychoemotional, and in some cases physical risk. But if someone takes, let’s just call it, 250 to 500 milligrams of dried psilocybe mushrooms, which would be considered not a microdose. So a microdose might be in the range of a 50 to, say, 100 milligrams. And there’s high degree of variability. So let’s just assume that it’s been finely ground and mixed, so it’s been homogenized somewhat in terms of actual psilocybin content.
+
+A solid session, let’s just say, for someone who is maybe an intermediate would generally be in the 3 to 4.5 gram range. The Terence McKenna heroic dose is five grams, although some people go significantly higher. The clinical studies of psilocybin are generally using, I want to say, 25 to 30 milligrams, which would simulate a roughly five-gram experience. So now we’re talking about 1/10 of that as the top end, 500 milligrams. And you could actually go significantly lower, like 200, 300 milligrams. If someone takes that immediately prior to sleep, what I have heard reported multiple times now is in their dreams, they have what they would consider a almost mirror experience of taking five grams outside of sleep, in a waking state. This isn’t 100 people, but it’s enough now where there might actually be something there. What would you make of any of this?
+
+Dr. Matt Walker: I think it’s fascinating. Some of these components actually work neurochemically very differently to dream sleep. So if you’re getting some of the similar benefits — and the reason I say similar benefits is because dream sleep and REM sleep, and we try to do as much work as we can in this area, does provide a form of mental health benefit. It provides a form of overnight therapy. That is during dream sleep, when we strip away emotion from memory. So we can detox those emotional memories, almost like a nocturnal soothing bomb that sort of takes the sharp edges off those memories, and you come back the next day feeling better about those things. So in that sense, when it comes to dream sleep, it’s not time that heals all wounds, but it’s time during sleep, and particularly during REM sleep dreaming, that provides that form of emotional convalescence.
+
+So how does that then fit with some of these psychedelic stories? I think it fits because both of them provide mental assistance benefits, but through, I suspect, very different mechanisms. Many of those psychedelic drugs will act on serotonergic mechanisms within the brain. In fact, if you look at REM sleep dreaming, it’s the exact opposite. In fact, you mentioned the point where people were sort of needing less sleep. I wonder if it’s that they need less sleep or that the brain is prevented from generating sufficient sleep. And I don’t know if we have the scalpel to sort of systematically separate one from the other there right now, but if they do produce both very similar emotional health and mental health benefits — which I think that’s what the evidence is suggesting. They both seem to do it. I think mechanistically, they do it through two different routes. Because during REM sleep dreaming, your brain shuts down levels of two monoamines. One is called serotonin, or 5-HT. The other is noradrenaline, which everyone knows downstairs in the body its sister chemical’s name, called adrenaline. But upstairs in the brain, noradrenaline.
+
+So I think mechanistically, I’m fascinated by these two questions that you pose, because they probably come through two different routes. But yet you arrive at the same destination by way of two different trajectories, neurochemically and mechanistically. But then also, what does that mean in terms of sleep need? Are we impairing the generation of sleep by way of these compounds? Or are we simply, because we’re making up for what sleep produces naturally, you relieve the burden on sleep, and so the homeostatic drive for sleep is reduced, and therefore you don’t need to sleep as much? That would be a stunning finding too.
+
+Tim Ferriss: Yeah. Let me throw out another wild aspect, which I probably should have mentioned up front. That is, when people have experimented with these, let’s just call it, two to 500 — usually on the lower range, two to 300 milligram pre-bed experiments, very often the report goes something like this. “Holy shit, that was intense. That was like like I took five grams. I feel like I didn’t sleep at all, but I’m not tired at all. I actually feel fully rested.” Which relates to the first question, which is a valid question. That is, well, if these are operating very differently, is it not reducing the need for sleep, but rather inhibiting your ability to sleep? I think that’s a very interesting question that also can be entertained side-by-side with the fact that when you do both at the same time, you have this very bizarre set of outcomes.
+
+I should say also, I want to give credit where credit is due, that the person who initially galvanized a lot of my interest in the scientific study of psychedelics was a professor, might still be there, named Barry Jacobs at Princeton. Very impressive researcher and professor who also spent a lot of his time studying cats, because cats sleep all the time, and was certainly studying a lot more than psychedelics. But I want to give him a nod, since looking at a lot of his work and what he was doing — which was really pushing some incredible boundaries at the time. I had a lot of respect for that.
+
+These are some outstanding questions that I wish, I really wish, people would take a look at. I do know there’s some people, some groups who have tracked their sleep post experiences with, say, psilocybin. And I would be curious to see any reports from folks who have tracked over time, on-off, on-off, that type of data. So once again, please, please send me a note on Twitter if you have that. Not just a trip report, please. As much as I want to hear about the neon diamond-encrusted crocodiles that you rode across the waters to Australia, where you learned the secrets of the universe. What I’m most interested in right now is just — 
+
+Dr. Matt Walker: Oh, you too? Yeah, that’s —
+
+Tim Ferriss: Yeah. You too. Yeah. Graphs and numbers. Graphs and numbers. And once you’re lucky twice, you’re good. I know I’m misusing that, but I don’t want to see one example. Ideally, someone who’s looked at it multiple times. What I will say is that, and I don’t know what effect this can have on sleep or what relationship it has to sleep, but I have seen some evidence to suggest that certain psychedelics can increase heart-rate variability. So that’s another piece of the puzzle that I haven’t seen people examine too, too closely. There may be a few studies that have tracked it, but I’m not really aware of anyone that’s done it en mass. All right. So that’s my musings with Tim. Gedanken on the psychedelics. 
+
+Let’s talk for a second about sleep, food intake, weight gain, all that kind of good stuff. Part of the reason I wanted to ask about this is because it seems — this is based on a comment that you had sent to me a few days ago about, and maybe you can tell me how to pronounce this, endocannabinoids. Am I saying that correctly?
+
+Dr. Matt Walker: Yeah. Yeah.
+
+Tim Ferriss: Cannabinoids?
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: And how do you say this? What’s the proper pronunciation of this?
+
+Dr. Matt Walker: Endocannabinoids.
+
+Tim Ferriss: There we go. On endocannabinoids. Because I’m wondering if this somehow ties into the earlier conversation we were having about THC. Maybe not, maybe it does. But certainly people who have smoked a lot of weed, which is not me, or for that matter, who have had enough edibles, will be familiar with the munchies. Very consistent. Very consistent for a lot of folks who might dance with the wacky tobaccy on occasion. So, could you introduce this in any way that makes sense to you? Just in terms of how sleep relates to food intake, relates to weight gain, sleep and food timing, all of that jazz. Because the endocannabinoids, or changes in endocannabinoids caused by sleep loss, seem to increase hunger, food intake, and thus waking gain. So it makes me wonder, why would that be the case?
+
+Dr. Matt Walker: Yeah. It is very interesting.
+
+Tim Ferriss: Why is that? I have observed, as someone who’s had a lot of sleep trouble, that I become ravenous, or at least much more compelled to overeat, when I don’t sleep.
+
+Dr. Matt Walker: It’s striking, and I’ve certainly noticed that too when I travel. If I’m going back home to the UK, to England, and my sleep is usually always rough with that. I definitely notice the change in my appetite. The evidence is really very strong now that when sleep gets short, unfortunately it will lead to a waistline that can expand. The early evidence came on to — 
+
+Tim Ferriss: @ObesityDiplomat.
+
+Dr. Matt Walker: Yeah. Exactly.
+
+Tim Ferriss: Very nice way to put it.
+
+Dr. Matt Walker: Yeah. My Twitter handle is changing by the minute here. And then at some point, there will just simply be #cancelculturesleepdiplomat, which is kind of, yeah. But anyway, so the evidence looked at two appetite-regulating — 
+
+Tim Ferriss: It takes a village, internet. Let’s make his dreams come true. Sorry. Go ahead.
+
+Dr. Matt Walker: The world will be a better place without me, I’m sure.
+
+Tim Ferriss: Oh, stop it.
+
+Dr. Matt Walker: So there are two appetite-regulating hormones. One was called leptin, one was called ghrelin. Leptin, by the way is, a hormone that says to your brain, “Okay, don’t eat it.” We think of it almost like the satiety signal that makes you — when you’ve had food, it makes you feel satisfied by your food, and so you don’t want to eat more. And then ghrelin, on the other hand, it does the opposite. It is the I-want-to-eat-more hormone. It increases your appetite. What researchers found — 
+
+Tim Ferriss: Ghrelin. G stands for “Go eat the cookies.”
+
+Dr. Matt Walker: Yeah. Exactly. G for, “My stomach is growling and I desperately want to eat more.” What they found was that when you limit people to, let’s say, just four to five hours of sleep a night for several nights, you see a dastardly change in those two appetite hormones. Firstly, what they found was that leptin, the I’m-satisfied-with-my-meal satiety signal, that dropped by about 18 percent. If that wasn’t bad enough, levels of ghrelin, which is the hunger hormone, that increased by 28 percent. So in some ways, it’s almost like physiological double jeopardy. That you’re getting punished twice for the same crime of not sleeping. Once by a loss of the signal that says, “Don’t eat. You’re full with your food.” You lose that signal. And then, if that wasn’t bad enough, you ramp up your ghrelin signal, which is, “I’m hungry.” Hunger levels would increase by around about 24 to 25 percent, depending on the study.
+
+So that was the emerging evidence on the appetite-regulating hormones. By the way, that doesn’t necessarily lead to a consistent change in eating more of every type of food. The unfortunate thing is that the class of food that you start to increase your greatest — it’s not just that you want to eat more. It’s the things that you want to eat more of are the things that are more obesogenic. So these are more carbohydrate-rich foods, simple-sugary foods, ice cream, sweets, et cetera. Also, they found an increase in your preference for eating salty snacks, which can put you towards a path of greater hypertension.
+
+So that was the evidence at the basic appetite-regulating hormone level. But then the more recent data came out. You’re right. That all of us, even if we’re not smoking the wacky tobacco, as you described, all of us have our own cannabinoids that we release inside of our brain and our bodies. We have naturally occurring cannabinoids in our brain, and they’re called the endocannabinoids. Meaning that they come from inside of us, endo. And you’re absolutely right that when you give people exogenous cannabinoids like TCH, it makes them hungry. You get the munchies. But what they found was that when you sleep-deprived individuals, this has got nothing to do with THC, or cannabis, or smoking weed, you increase the amount of these cannabinoids within the brain and within individuals. So all of the sudden you start to see, perhaps it’s not just these leptin and ghrelin that are changing to conspire to increase your hunger and your waistline, but it’s also that these endocannabinoids are increasing.
+
+You can then start to ask, “Well, why? Why would that be the case? How can we explain those things?” Currently, we don’t quite know. One hypothesis is that the only time when you see other species deprive themselves of sleep — because human beings, in truth, are probably the only species that will deliberately deprive themselves of sleep for no apparent good reason. But animals will do it occasionally, and the most common occurrence is when they’re under conditions of starvation. So here, under those conditions, the brain releases a wake-promoting chemical called orexin. The reason is because the brain has figured out, “I’m under conditions of starvation. It must mean that my ability to forage for food in my standard perimeter during the time that I’m awake is not yielding enough food. So I need to push myself to be awake longer to forage in a wider perimeter, and therefore to find and solve this caloric deficit.”
+
+So one possibility is that because you are deprived of sleep, you’re getting this signal of, “Let me ramp up my hunger even more. Let me drive up my motivation to go and search for food. Because otherwise, I’m going to be an omission-critical, break-glass-in-case-of-emergency situation.” But we don’t truly understand why these hormonal patterns go awry. We certainly know that you will increase your intake of food. We then went on to discover that it’s not just about what changes in your endocannabinoids or in your hormones, because in fact the choices that you make for your foods are controlled by your brain. That’s the central dominating decision pivot point for here.
+
+So we took a group of individuals, and we deprived them of sleep, and then we gave them a full night of sleep. And it was a counterbalance study, where they go through both full sleep and without sleep. The next day we placed them inside an MRI scanner, and we started to show them different images of food that range from really unhealthy foods, pizza, and donuts, and ice cream, all the way up to really healthy different types of foods. And they had to rate the desire that they had for those individual foods. We also did something a little bit dastardly to make it more ecologically valid. We told them, and we did do this, that one of those items that they said that they found desirable, we would then serve them when they came out of the MRI scanner. And they had to, politely please, eat that food. So it sort of just forced them to make sure that they’re making the choices correctly.
+
+What we found is that the brain — you started to rate these obesogenic foods as much more desirable. And the reason was that the control regions of the brain, once again, in the prefrontal cortex, were shut down. Whereas more hedonic drive centers within the brain, dopaminergic centers and also the amygdala, which is also controlling hedonic food desires, those ramped up in terms of their activity. That’s a profile that we typically see in patients who are suffering from obesity. It’s this profile of what we would call a brain state of hedonic eating. That you shift over into just going after desirous foods, unhealthy foods. So it was a two-part equation, changes downstairs in the body and then changes upstairs within the brain. There have been since some studies looking at dieting without sleep, which I think is probably some really fascinating data, but let me just pause there for a second because I keep just talking. I get so excited.
+
+Tim Ferriss: So, orexin. Is that O, R, E, X, I, N?
+
+Dr. Matt Walker: Yes.
+
+Tim Ferriss: How do you spell that? I was hoping you would say E, R, E, X, I, N, because then I was going to suggest that you could actually cross-sell the orexin for male vitality after The Da Vinci Code magic sleep device.
+
+Dr. Matt Walker: Oh, my spot on late-night television is assured after this conversation.
+
+Tim Ferriss: Yeah, I’ll take my customary 15 percent. That’s fine. So orexin, I was asking about that and also just contextualizing my own mind, everything you just said because I’d love to get your read on just a amateurs play hypothesis, and this came about after, unfortunately, my personal experience of many sleepless nights, lots of sleep deficit over many decades, and have observed this eating, increased volume of intake, even if it’s healthier foods. If I’m trying to exert control, I’m still just eating a lot more and the drive is so strong that I started to wonder what the evolutionary explanation for that might be.
+
+Let’s say this is an adaptive and not a pathological behavior, how would this be adaptive? And I was thinking, and this may not hold any water, but I was thinking if you rob the body of its ability to repair itself during sleep, could this not be a compensatory mechanism by which you try to fix things by say, driving up anabolism? It’s like, okay, you’re not going to give us the sleep that we need. Fine. We’re going to try to turn on all the anabolic machinery we can by throwing insulin into hyperdrive, by increasing caloric intake, which might have some effect on testosterone or who knows what. Do you think there might be anything there or is that just me yelling nonsense into the wind as usual?
+
+Dr. Matt Walker: I think it’s certainly one alternative hypothesis that what you’re trying to do is eat yourself in an overcoming way and to overcome the sleep deprivation and see if you can placate some of what you are not getting by way of sleep. I think that’s one hypothesis. Right now I think the evidence is entertained in the other direction, which is sort of flipping the causal inference, which is that it’s the lack of sleep that your brain is receiving the signal of, which then suggests, oh, my goodness, I must be under conditions of starvation. Because from an evolutionary standpoint, the only time that Mother Nature ingrained in its biology has experienced insufficient sleep is under conditions of starvation, and that’s why you increase the drive to eat. Other people have suggested it’s because of energy expenditure, but that has been largely dismissed. That’s a myth, which is that when you are awake, surely you are burning many more calories than when you are asleep.
+
+And so the increase in food intake is simply trying to offset the increased metabolic caloric expenditure. The problem is twofold. First, that sleep itself, metabolically is an incredibly active process. We think of it as a passive process, but metabolically it’s hugely demanding. And in fact, the difference between you lying on a couch doing nothing versus you sleeping is a very small amount, meaning that sleep is a highly metabolic process. Second, if you look at it across a full eight hour period of sleep, if you keep people awake, in particular chambers where we can measure very concretely the amount of caloric and metabolic activity that’s going on and how many calories you’re burning, what you find is that you will probably burn only around about an extra 140 calories by being sleep deprived all night than you would be if you slept. However, the amount of increased calories that you take on board is usually at least double or triple that, you will overeat by somewhere in the region of three to 600 calories when you are sleep deprived. So it’s not simply that you are trying to eat back.
+
+Tim Ferriss: Amateurs. Oh, my God, these guys should see my diet log. 300 calories.
+
+Dr. Matt Walker: Yeah, maybe it’s not twofold. Maybe it’s a 10x situation. So I think that’s the, right now, that’s the sort of the model that we have, which is it, it’s not you trying to overcome necessarily your caloric expenditure because you do that plus a lot more, and that’s why it sets you on a path towards obesity and increased weight gain.
+
+Tim Ferriss: Again, just looking at this as a layperson who’s had a lot of sleep problems, I would totally agree with the caloric deficit, if any being, I don’t know, it just seems trivial enough that it wouldn’t drive that type of overeating. The reason I wonder about the plausibility of turning on the anabolic machinery to try to achieve repair that wasn’t permitted by insufficient sleep is because when I think about, and thank you for putting up with me because I know that I’m coming at this as a layperson who should know better, but so I’ve done a lot of fasting, done tons of fasting up to 10 days. I’ve done a lot of fasting, and that’s water fasting. And so when I hear the example, which I believe, which is the only time you see animals depriving themselves of sleep is when they are in under starvation conditions or under conditions of food scarcity.
+
+It would seem to me that maybe another way to put that would be the only time that animals sleep very little is when they’re under those conditions because they’re not actively, I would imagine they’re not actively trying to deprive themselves of sleep. And the only reason I say that is that it would seem to me, based on my experience as fasting, if I were to extend that to then other mammals at least, or some other mammals, when you fast, it gets really hard to sleep, very often at least, I mean, you can experience tachycardia, you can have all sorts of, I don’t know if it’s a cholinergic response, you could probably tell me, but it is very hard for a lot of folks to sleep when they fast and you take, say humans as an example. So if you were to really fast, you would have trouble after a handful of days, of course, and some people would get kidney pain or pain associated with muscle loss because of the catabolism.
+
+Now, there are a couple ways that you can attenuate that. One, is and it doesn’t solve it completely, but it helps a lot, is to consume supplemental electrolytes. And so one is to consume supplemental electrolytes, another is to consume stuff that monkeys like so much, and that is fruit. So fructose will help you to maintain blood pressure where it might otherwise plummet, and you could get, what’s it called, orthostatic hypertension, where you stand up and you think you’re going to pass out and.
+
+Dr. Matt Walker: Orthostatic intolerance. Yep.
+
+Tim Ferriss: Orthostatic intolerance. There we go. So I just wonder if the lack of sleep is basically directly caused by the caloric insufficiency. I think that was a bit of a word salad that I just tossed all over the place.
+
+Dr. Matt Walker: No. Let me sort of mix it further. I think it’s a delicious salad because that evidence is fairly reliable. When you speak to people who are fasting very consistently, they’ll say one of the things that’s perhaps hardest about the fast is not necessarily the struggle with hunger, it’s also that my sleep just takes a nose dive like a dart into the ground. And if you look at the studies, there is some conflicting studies, but some studies are found firstly, if you put people on either daytime fasting or reduced calories. And what we’re talking about here is as little as sort of 300 calories or less when you measure changes in sleep regulating components, things like melatonin. Melatonin is a hormone that helps time your sleep, when you do a reduced caloric diet, there is about a 20 percent impairment in melatonin, which is then associated with a difficulty in falling asleep.
+
+Although there are some studies, I should note by the way, that with fasting, even though you struggle to fall asleep once you fall asleep, there may be less time spent awake when you do finally get to initiate sleep. And so I think there’s nuance there that I want to respect if probably the other evidence, and there’s just not good enough evidence yet to really look at this, but I think the strongest, most robust evidence is probably in areas of religious-based fasting such as Ramadan, where people will fast from sunrise to sunset for about a month. And there, what we’ve noticed is probably at least five specific changes. First, once again, coming back to orexin rather than erexin, orexin, the wake-promoting chemical, by the way, we discovered orexin by way of studies in narcolepsy, where patients who have narcolepsy who have an unstable wake sleep switch, where they just can’t maintain wakefulness during the day, they keep flip-flopping back and forth between unstable wake and sleep.
+
+What we discovered is that narcolepsy is principally a condition of a deficiency in orexin. In other words, orexin is this wake-promoting chemical and the amount of orexin that they release in narcoleptic patients and the cells that release it are markedly deficient and the number of orexin receptors in the brain are deficient, which we think explains the reason why they lose the wake-promoting on switch during the day and why they are so susceptible to sleep attacks. But anyway, I digress. Coming back to Ramadan, you see individuals, the levels of orexin in increase, they have a decreased level of peak melatonin as I sort of just mentioned with reduced caloric diets. Also, the arrival of when that peak in melatonin occurs is much later into the night. In other words, you are not getting the signal of it’s darkness, it’s nighttime at the same time of your normal bedtime.
+
+You get it several hours later, which may in part explain why it’s harder for you to fall asleep. Related, their bedtimes drift forward, which is really interesting. And we think it’s related to that delay in melatonin release. Total sleep time decreases by probably about an hour if you look at those studies. And we also see an interesting dissociation sleep stages in Ramadan. The thing that takes the greatest hit seems to be rapid eye movement sleep, whereas non-REM sleep seems to be largely unaffected. So right now, that’s probably some of the best evidence that we have as to what’s going on to explain why people suffer such problematic sleep when they’re going through fasting. But again, I think most of these looking at real true fasting are required because those aren’t necessarily reflective of the fasting that you are talking about.
+
+Tim Ferriss: So let me make a few comments and then I’ll ask a thousand more questions. So the first, I would say, not to make light of narcolepsy, but if anyone listening has not seen video of the fainting goats, which have been bred to have narcolepsy.
+
+Dr. Matt Walker: Well, that’s actually not narcolepsy, the fainting goats. No.
+
+Tim Ferriss: What is that?
+
+Dr. Matt Walker: Very much like narcolepsy, but it’s a condition where when you frighten, so in patients who have narcolepsy, one of the other features is not just that you are unstable in terms of your sleep wake and you fall asleep during the day. There’s something called cataplexy, and cataplexy happens where all of a sudden if you get strong emotion or you frighten a patient with narcolepsy or an animal with narcolepsy, and there are dogs that have been bred without the narcoleptic gene, then all of a sudden they lose all muscle tone.
+
+And part of the reason is when we go into REM sleep, we actually become paralyzed. Our brain paralyzes our body, so the mind can dream safely, but that same mechanism of paralysis seems to go awry in narcolepsy. And these patients will go into this just cataplectic attack where they all lose all muscle tone and they’ll collapse down on the floor. And it looks like they’ve gone into REM sleep. They haven’t, they’re awake. They’re just locked into the unusual paralysis that would normally happen during REM sleep. Whereas, with the fainting goats, it’s actually a different mechanism where when they get frightened, all of a sudden their muscles become incredibly rigid and then they topple over.
+
+Tim Ferriss: They look like some type of statue you would see in a menagerie for a Christmas display in front of a church or something. I mean, they’ve totally just stiffen in the fall right over.
+
+Dr. Matt Walker: That’s right. And they will sometimes just hop on their straight legs to try and get away, or they just keel over, but that’s actually quite difficult.
+
+Tim Ferriss: Poor things.
+
+Dr. Matt Walker: But you can go online and look at sort of search for dogs and narcolepsy, and you’ll see many of these things. It’s a stunning condition. Very tragic, of course, for the narcoleptic patients. Cataplexy is a major sleep, sorry, daytime disruptive feature.
+
+Tim Ferriss: So I’m glad I brought up fainting goats just so I can stand corrected. So would it be fair to say that these are cataplexic goats, or what would you call them?
+
+Dr. Matt Walker: No, not on the basis of the way that we term cataplexy within narcolepsy.
+
+Tim Ferriss: All right, because that would be the loss of muscle tone.
+
+Dr. Matt Walker: Correct. Exactly.
+
+Tim Ferriss: What would even call them if you wanted to use a fancy scientific term?
+
+Dr. Matt Walker: My typical term is just muscle rigidity, that they go into a muscle spasm rigidity, and that all of a sudden it’s that they, and there’s sort of, it’s bred, there’s gene, and I think there’s some evidence that, because it’s bred, there was this whole group of, I think it was cattle actually, that had this genetic abnormality. And what was interesting is that cattle were housed next to a train track, right at the point where the train was on its points and it would always have to honk its horn. And so reliably you could video a whole herd. And you knew it because you knew the timing of the train. It would come through. You knew that the train would honk its horn, it would startle the cattle, and the whole field of cattle would just collapse down.
+
+Tim Ferriss: Oh, man.
+
+Dr. Matt Walker: But anyway, so I’m sorry, I’m taking us on a non-scientific tangent.
+
+Tim Ferriss: Poor cattle. Oh, no, I mean I love science, but we don’t have to do it all the time. All right, well, let’s get to story time with Tim related to the Olympics for a second, and then we’re going to get to a question about modafinil. So I’m going to seed that. So there was a time, I want to say this was maybe two or three Olympics ago, could have been further back where lo and behold, something amazing was observed, and that was almost all of the sprinters who made it to the final rounds of the Olympics were prescribed modafinil because they had been diagnosed as narcoleptics by their doctors. So who knew all of these world-class sprinters would happen to be narcoleptic. It’s amazing.
+
+Dr. Matt Walker: What a coincidence.
+
+Tim Ferriss: What a coincidence. So the subtext here is that modafinil can be used as a performance enhancing drug. Now modafinil, as I understand it, I think that is Provigil and not Nuvigil. Maybe it’s both. At least in Provigil, do we know how modafinil works? Do we understand how it works? Or was that a discovery in search of a mechanism in a sense? Because there’s so many drugs that are used, including some very common drugs where we don’t really know exactly how they do what they do, we just know that they do X. Is modafinil understood well?
+
+Dr. Matt Walker: No, it’s not. It certainly doesn’t work by the classics that we used to prescribe, we, collectively as the science community and clinical, we used to prescribe patients with narcolepsy amphetamines to try and brute force them awake. So they didn’t have that excessive daytime sleepiness that is so prohibitive of a normal functioning life. And now that clinical practice has shifted towards prescribing modafinil, modafinil, like amphetamine is a wake-promoting chemical, of course. But it doesn’t seem to work by way of that classic amphetamine based route. Exactly how it works. It’s a little bit unclear. It may be working by way of stimulating levels of noradrenaline, serotonin, and perhaps also levels of another chemical called histamine, which is a very strong wake-promoting chemical.
+
+Tim Ferriss: Just quick side note, for people who have ever felt drowsy after taking a Benadryl, it would be experiencing an antihistamine.
+
+Dr. Matt Walker: That’s how we discovered part of the role of histamine as a wake and sleep-regulating chemical was that the older forms of anti-allergy medications that they would cross the blood-brain barrier and the anti-allergy medications were principally blocking this thing called histamine, because in the body it controls the allergic response, but if it gets into the brain, then it also decreases levels of histamine in the brain. And histamine is a wake-promoting chemical. So when you decrease it, you result in a level of sleepiness and it starts to knock you out. So those are some of the different current chemical systems that we think modafinil may be working on, but it’s still very unclear right now.
+
+Tim Ferriss: Yeah, and I’m asking this partially as a public service because I know of a lot of folks out there who are self-described biohackers who use modafinil long term without cycling off. And it strikes me as a bad idea when the mechanisms are poorly understood. But who am I? Who am I to say, I will say from personal experience, because I’ve experimented with modafinil, I have never in my life experienced the development of tolerance as quickly with anything than with modafinil. I mean, it is remarkable.
+
+I will say if I use it once at the sort of therapeutic dosing range, amazing day, super productive, oh, my God, I just got a week’s worth of productivity crammed into one day. The next day, same dose doesn’t work. I mean the tolerance that I develop and the necessity to increase the dose is so violently rapid that I decided very quickly I didn’t want to use this stuff because I also experienced, and this will not be a surprise to you, that if I used it for a few days and I’d already developed a tolerance by that point, and I stopped, my productivity was absolutely annihilated for multiple days. I just didn’t find it to be the tool for me. So part of the reason I was asking about modafinil is just in case people are thinking of using it.
+
+Dr. Matt Walker: I would be concerned about its long-term use in part because of its disruptive impact on sleep. And also the fact that in biology it’s very rare that you get a free lunch. And when you fight biology, you normally lose. And the way you’ve lost is long-term disease and sickness.
+
+Tim Ferriss: I did find that my immune system felt funny, also, when I was using the modafinil after a while. It didn’t sit super well with me. But that’s not to malign it as a tool in the toolkit, especially for people who need it. 
+
+So let’s talk about the name that has been invoked several times, and we may do it by speaking more broadly about sleep drugs, the good, the bad, and the ugly. But let’s have it also include trazodone since it’s come up now at least twice. How would you suggest people think about sleep medications and sleep architecture? Where should we begin?
+
+Dr. Matt Walker: It’s really difficult. Again, just to state for the record, I’m not a medical doctor and so this isn’t anything sort of medical, and I’ve always been reticent to sort of go on record, I suppose because of that, because it’s not clinical advice. But I can at least try to offer some of the scientific evidence regarding classic sleeping pills. And then maybe more about the more novel compounds that you and I have discussed. Right now, I’m probably not a big advocate of the classic sleeping pills or even the newer classic sleeping pills. And don’t necessarily need to name any names. Everyone can name them, but they’re in a class of drugs that we call the sedative hypnotics. And the problem is that sedation is not sleep. And so the way that those drugs work, those classic sleeping pills, is that they go after a chemical system in the brain that’s an inhibitory system.
+
+It’s called the GABA system, which stands for gamma aminobutyric acid, which is the major kind of red light stop signal in the brain. So when you take those sleeping pills, I’m certainly not going to argue that you are awake at night, you’re not. But to argue that you are in naturalistic sleep, I think is perhaps an equal fallacy because if I were to show you the electrical signature of your sleep with and without those classic sleeping bills, they’re not the same thing. And one of the potential concerns is that if you map out the electrical brainwave sort of signature of sleep, the spectrum of electrical brainwave activity, you and I were discussing deep sleep. And it’s particularly the deepest of the deep slow brainwaves. And we can come onto some of the functions of those for learning and memory and immune function, but where those classic sleeping pills will leave the most significant dent in the quality of your sleep is particularly in the deepest of that deep sleep brainwave activity.
+
+So it’s taking a bite out of that. So that would perhaps be scientific cause for being mindful about them. Now, by the way, current medical practice suggests that there is a time and a place for those sleeping pills, but they are typically not advocated long term. And again, please speak to your doctor, don’t do anything on the basis of my advice. I would say though, that one of the other aspects of those sleeping medications is first that you typically develop tolerance. You also get some pretty unfortunate side effects. Things like next day drowsiness, drowsy driving related accidents, an increased risk of dementia. There’s also been evidence that it increases your risk for falls leading to hip fracture and skull fracture. There was an FDA warning about these sleep medications recently that was published for those concerns. And due to the, I think back in 2016, the American College of Physicians offered the recommendation that sleeping pills should not be the first line treatment for insomnia, it should be something called cognitive behavioral therapy for insomnia.
+
+So I think they’ve fallen somewhat out of favor. If you were to come back to what I was telling you, that they don’t leave you with the very best quality of electrical sleep, they certainly will increase classically the amount of sleep that you have. And even, in fact, they can look like they increase the amount of deep sleep that you get on the basis of classical sleep scoring. But if we separate the brainwave activity, then you start to see that the news is not all good. But if you are sleeping longer, shouldn’t you get at least some benefit of that? And the reason I became less bullish too, on those medications was because there’s a great study done by a colleague of mine, Marcos Frank, and he was dosing animals with different sleep medications. And firstly, he was using a learning paradigm. And as the animals would learn, they would create this memory trace in the brain that he would map. And he could measure the strength of the synaptic connections within the brain.
+
+Then, what would happen is that, if you let those animals sleep naturally, the next day they would come back and the strength of that memory trace, the strength of those synaptic connections had been increased even more. And this is part of the reason why sleep is so beneficial for learning and memory.
+
+What he then did was dosed those animals with classic sleeping pills, one of which was Zolpidem or Ambien. And firstly, those animals, certainly they did sleep longer, which you would think on the basis of then sleep’s role in learning in memory and plasticity would mean that the memory trace was even stronger the next day. However, what he found was that not only was the memory trace, the memory circuit not strengthened by way of that sleeping pill induced sleep, it was actually reduced. In fact, he found almost a 50 percent reduction, a weakening in the strength of the memory trace as a consequence.
+
+So I think there’s a, as I said, there’s a time and a place that clinical medicine believes there is a significant use case for these sleeping medications. But I think in the long term, the evidence is favoring against them and going towards psychological treatments or other types of non-traditional sleep medications, things like, as you mentioned, trazodone. We can also speak about pregabalin and gabapentin.
+
+Tim Ferriss: Let’s get after it. Why don’t we keep the momentum? So which would you like to put on the platter first? Trazodone?
+
+Dr. Matt Walker: I think probably trazodone. Yeah. Right now, trazodone is probably the most off label prescribed sleep medication. It’s doesn’t receive the current labeling for a sleep medication, but it is used by many doctors off label.
+
+Trazodone, I find fascinating for a number of reasons. It’s originally designed as an anti-anxiety or antidepressant medication in higher doses. But what we’ve discovered is that in lower doses, and lower doses being anywhere between 25 milligrams all the way up to maybe 300 milligrams, it’s quite sleep inducing. And the reason I find it interesting is, firstly, it does not work like classic sleeping pills, which, as I said, just knock out the cortex, sedate the cortex by stimulating the inhibitory transmitter GABA. Instead, trazodone actually works on the three neurochemical systems that we’ve mentioned before, which are the wake-promoting systems within the brain.
+
+Specifically, trazodone will target the noradrenaline system within the brain, and it’s what we call an alpha-1 adrenergic antagonist, which simply means that it dials down the volume on noradrenaline. It is a 5-HT2A antagonist, meaning it reduces serotonin activity. And finally, it reduces down histamine by targeting the H1 receptor, which, again, we spoke about histamine being wake-promoting. If you block it with anti-allergy medications, you get sleepy.
+
+By the way, trazodone, I know sounds quite scary. It sounds like a tranquilizer. And it’s not like that at all. It’s actually very nuanced. And what I like about its profile perhaps is that, from a scientific perspective, is that it tries to do something more naturalistic. It tries to switch off the volume of the wake-promoting regions and therefore allows sleep, the passage of sleep to be produced and arrive with you in a more naturalistic way.
+
+Also, one of the other interesting features is that not only does it — and by the way, it seems to be quite effective. There was a meta-analysis that was done recently on 11 different really well controlled, randomized placebo controlled trials, or RCTs, across probably almost around 500 different patients. And what they found probably was three things of interest. The first is dose, then age, and then duration of use or efficacy. They found that regardless of the dose, whether it be below 50 milligrams or above 50 milligrams, it provided benefits for reducing the time it takes to fall asleep, which is what you were describing with trazodone use. It reduces the amount of time you then are spending awake for the rest of the night. It increased deep non-REM sleep.
+
+But here was the fascinating part for me, it didn’t come at the cost of REM sleep, which in some ways is a little bit surprising. They’re not utterly antagonistic in their role, REM and non-REM. But I mentioned earlier on in the conversation that you can increase deep non-REM sleep by way of exercise. But if you look at some of those sleeves, when you increase deep non-REM, you can have an exercise induced reduction in REM sleep.
+
+But yet what’s interesting about trazodone is that it seems to increase the amount of deep non-REM sleep, but leaves REM sleep untouched. You don’t get a consequence to REM sleep. And we don’t quite understand why that is, but that’s one of the nice things is that whether it be below 50 milligrams or above 50 milligrams, you get these benefits.
+
+The age dependency is quite nice, because if you look at people who are younger than 60 years old, you get these sleep benefits. But even you see many, not all of them, but many of the same sleep benefits for people who are 60 years or older. And we know that as we get older, as you and I discussed earlier, the harder that sleep becomes. And so that could arguably be a more challenging use case where that medication would fail, yet you seem to get quite a lot of the distance and the benefit even as you get older. So I think that’s a potential upside.
+
+And then the other aspect of it was the duration of action. They did look at this, which comes onto aspects of tolerance and withdrawal. There didn’t necessarily seem to be a significant tolerance buildup, where if you look at acute dosing for one week, you get these nice benefits. But then if you keep assessing people week after week up to one month, at least in the meta-analysis, the benefits were still there for the most part, which suggests that there isn’t necessarily tolerance to the drug, that those benefits persist even when you continue to take the drug.
+
+So right now, that’s why I think it’s an interesting drug in terms of its profile and how it works. So I’m not anti-medication. Please don’t think that. It’s just that if those medications aren’t producing naturalistic sleep, I prefer to say so. But here, it seems to be a very different mechanism.
+
+Tim Ferriss: So now, to those listening, they might say, “Well, wait a minute. Dr. Walker, you have said there is no biological free lunch. This sounds like a free lunch.” So if you were to take the other podium, right, so you’re on the debate team and you want to make the counter case, what is the downside risk or what is the, “Be careful when you use trazodone” argument to be made?
+
+Dr. Matt Walker: I think right now, if I wanted to steelman the argument on the other side, I would say it’s unclear what the long-term, necessarily, health-associated risks are. Certainly, trazodone has been used for decades, as I said, for antidepressant purposes and anti-anxiety purposes. And it seems to have a largely safe profile. So maybe I’m less concerned about that.
+
+But what I would still like to see, other studies that look at things like learning, memory, plasticity in the brain, because things like classic sleeping pills, like Ambien, have been found to produce non-naturalistic sleep. There were obvious studies of them being done and found that the functional benefits of sleep are not emergent when you are taking those drugs, and that raised the red flag even more so.
+
+I don’t think we have those studies yet for things like trazodone, not at least in a very strict, specific way. So for me, I think I would still want to warrant caution and look at those outcome measures long term.
+
+Tim Ferriss: Agreed. Totally agreed. Yeah. Certainly for a learning fanatic, learning-obsessive person like myself, those are highly important questions that lead me, at least for the time being to — I’m not a doctor. I don’t play one on the internet, folks, but to cycle, right, with medical supervision, but to try to not always hit the same nail with the same hammer each night. And I’m not giving medical advice. That’s just my personal approach.
+
+Question on the serotonin type 2A antagonism, how strong is that effect? And part of the reason that I ask is I know there are other drugs, well-known drugs. Ketanserin, if I’m saying that correctly, which is classified as a anti-hypertensive by the WHO and the NIH is being investigated by some as a potential, and I have a lot of strong opinions about this that I’ll save for another time, but for a potential trip-canceling intervention, so if someone is having a psychedelic experience that has become unmanageable or unpleasant. And I would actually generally take the position that I think it is premature to just hit the escape chute in those cases, unless we’re looking at actual physical risk, which the lead up is very important.
+
+But let’s just say there are companies, for-profit companies who are looking at ketanserin as a potential trip-stopper. And I’m wondering if trazodone would be strong enough to exert that kind of effect? I just don’t know at what type of dose it would even be plausible. Not to say that I’m going to use it for that purpose, but I’m wondering if it could go toe-to-toe with some of these other type 2A antagonists.
+
+Dr. Matt Walker: I think it’s a good question. I don’t think we really know what percentage strength of pushback on each one of those three neurochemical systems, trazodone exerts its principle effect. Is it more so a histamine? So if you rank order how it’s impacting noradrenaline, serotonin, and histamine, is it that it’s principally histamine where you get the greatest, let’s say 70 percent of the impact is on histamine, then 20 percent is on noradrenaline, and then 10 percent is on serotonin? Or is it reversed in that order? We don’t know.
+
+I think once you know that, you would then be able to understand exactly how the utility value of it for pulling the rip cord, as you described, to exit the trip. One way you could do that is in animal studies where you were to dose animals with trazodone, and then you could selectively block each one of those things. So I could give trazodone, I could selectively block noradrenaline receptors and leave serotonin and histamine unchanged and ask, “What’s the impact?” And then I can go through those. I can leave noradrenaline and histamine unchanged and block serotonin, and then leave noradrenaline and serotonin unchanged and block histamine. And that way, I could create this rank ordering effect of the impact of trazodone on each of those three systems. I at least don’t know of evidence that has systematically done that to disentangle the priority rating of those three things.
+
+Tim Ferriss: Got it. And I should issue a warning here, which is work with professionals before you start combining drugs or taking any drugs for that matter, because if you don’t read the fine print on what I’m saying, you can get yourself into trouble.
+
+So to give an example, there are some cases where SSRIs will decrease the hallucinogenic effects, psychedelic effects of given compounds. There are other cases, maybe not most notably, but notably in the case of ayahuasca, where if you combine psychiatric medications with ayahuasca, you could actually suffer from a potentially highly dangerous serotonin syndrome. And so instead of reducing the effect, you would be compounding the effects of the experience. So you’ve got to be very, very, very careful with this stuff. You can get yourself into deep water very quickly and get yourself into trouble.
+
+Dr. Matt Walker: I think that’s actually a really important point, which is the interactive, what we call polypharmacy.
+
+Tim Ferriss: Yeah.
+
+Dr. Matt Walker: And a more benign version of that, or perhaps a less malignant is a better way of describing it, version of that actually comes back to our discussion of caffeine. There is some emerging evidence that using SSRIs increases your sensitivity to caffeine and it decreases the clearance of caffeine. And so you can think, “Well, I’m this type of person with my caffeine use.”
+
+Tim Ferriss: Interesting.
+
+Dr. Matt Walker: And then you can start taking these SSRIs, which then all of a sudden you realize, “I’m not sleeping. I’m not sleeping as well as I used to. And I don’t think it’s because of the caffeine intake, because my caffeine intake has remained stable. I haven’t changed that.” But what’s changed is the interaction between those SSRIs, ramping up the duration and the severity of action of caffeine. So you have to be really thoughtful, and that’s where it gets very complex.
+
+Tim Ferriss: Yeah.
+
+Dr. Matt Walker: That’s where us human beings are desperately messy things.
+
+Tim Ferriss: So messy. Wow. What a tangled web we weave. What a sad situation it would be if someone were using trazodone for sleep and yet experienced this dramatic magnification of their experience with caffeine and netted out in the red. That would be a real bummer.
+
+Dr. Matt Walker: Well, yeah. We don’t yet know if it’s trazodone in particular.
+
+Tim Ferriss: Yeah. Yeah.
+
+Dr. Matt Walker: These were the more classic SSRIs.
+
+Tim Ferriss: Yeah. Trazodone is pretty weak. It’s sort of a failed — I don’t want to call it a failed antidepressant.
+
+Dr. Matt Walker: No. It’s certainly not a first line treatment and that’s why it’s become — its most popular use right now is not as an antidepressant. It’s because it’s, yeah, sleep-inducing. Yep.
+
+Tim Ferriss: All right. So let’s leapfrog to pregabalin and gabapentin. You can take either. Gabapentin, people may recognize because veterinarians love to hand it out like Pez candy when you take your dog in or your cat in.
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: But which of those would you like to talk about first?
+
+Dr. Matt Walker: We can talk about both of them, because in some ways — 
+
+Tim Ferriss: Yeah. Great.
+
+Dr. Matt Walker: — they’re part of the same class of — 
+
+Tim Ferriss: Perfect.
+
+Dr. Matt Walker: — drugs, pregabalin and gabapentin. You’re right that they’re used for multiple different reasons, one of which is pain medication, muscle relaxant. Neurologically, they’re often used in seizure disorders, because they will reduce down the seizure tendency. And you would think by the names pregabalin and gabapentin that they’re going to act by way of targeting, once again, the GABA system, that inhibitory system. And so they’re sedatives, and so you don’t seem to be a big fan of those, Matt.
+
+But it turns out that that’s not the case. You shouldn’t be fooled. They’re actually calcium channel — they alter the functioning of calcium channels, which in part — I’ll start that again. They actually impact the functioning of calcium channels on neurons, and those calcium channels will dictate the firing of those neurons. And so you can reduce down the firing propensity of those neurons. That’s why they’re given in seizure disorders, in epilepsy, to try to suppress the excessive, this hyperpolarization, this hyperactivity of the brain that creates the epicenter of the seizure.
+
+If you look at the evidence, it’s interesting. When you dose both naive individuals, meaning naive patients who’ve never received either of these drugs or don’t have seizure disorders or sleep disorders, they both do seem to increase the amount of deep non-REM sleep and they do seem to reduce the amount of light stage one, non-REM sleep. So I think they are interesting.
+
+I think there’s probably indirect mechanisms, too. They certainly have a relaxing property. They can be a muscle relaxant. They can reduce some degree of anxiety. We also know that those drugs will decrease down both the fight or flight branch of the nervous system and what’s called the HPA axis, the stress related cortisol axis. So I think part of it is because they reduce down anxiety, which, as we’ve described before, is not great for sleep. So it’s an indirect mechanism. And then the other component is that it may actually have some, unknown to us right now, neuronal impacts by way of calcium channel alteration that increases deep sleep.
+
+But right now, I don’t know of anyone who’s pulled apart that mechanism within the brain itself.
+
+Tim Ferriss: Question on pregabalin. So when I first used pregabalin, so I had been using trazodone as a monotherapy and then introduced pregabalin, I experienced — and it was very noticeable, could just be placebo effect, but I wasn’t anticipating it, which is why, unless I’m just seeing things, it wasn’t expectancy effect, because I wasn’t looking for it. But I seem to notice a carryover effect of lowered anxiety, so an anxiolytic effect all the way through maybe the first five, six hours of my waking subsequent day after using pregabalin pre-bed. Is that a mirage, or is there a plausible explanation for that?
+
+Dr. Matt Walker: No. I think there is a plausible explanation. It actually has quite a — well, not a quite short, but a somewhat short half life of about five to six hours. So when you come back then to the quarter life, we’re talking about somewhere around 12 hours. So it would make sense that it’s in the first part of the day where you still get that floaty, reduced jittery feeling in the morning, where things just feel a little bit more relaxed, because that still is present in your system. It depends on the dose.
+
+By the way, pregabalin and gabapentin in the sleep field are principally used not for insomnia, but actually to treat a sleep disorder called restless leg syndrome, which is a horrific disorder where you get these, in America, I think you call them Charliehorses, but in England, we’ll just get these creepy crawly feelings in your muscles and you have to move, you have to stretch them. It disrupts sleep terribly. It’s a pretty tough sleep disorder. And it’s used there to try to treat some of the aspects of the muscle cramps and the muscle problems.
+
+There, you can go up to doses, I think people can use up to 225 milligrams of pregabalin, gabapentin, maybe up to 600 milligrams. So there, you can get lingering after effects that are not only a reduced level of anxiety, but also an increase in sleepiness that people don’t like it that they have next morning grogginess and hangover effect. So one has to be a little bit thoughtful for dose, I think. But it makes complete sense based on the half life of what you’re describing there. You would still get some of that benefit.
+
+Tim Ferriss: So I do know someone, I don’t want to name names here, I’ll protect the guilty, but who is a — let’s call this person a pharmacological champion. They have high tolerance for everything. And pregabalin forced them to tap out.
+
+Dr. Matt Walker: Wow. Wow.
+
+Tim Ferriss: In the sense that they were so laid out — not laid out, but altered the next day. They were like, “Okay. That was too much. That was too much.”
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: I do not have that experience personally, but I do find it to be a fascinating drug. It really is a fascinating drug. And I don’t want to become too dependent on it. I should take a step back and also say, lest people think that I am just swallowing pills all day to wake up and then feel X, not feel Y, and then go to sleep, what I find is that if I simply have these drugs available and I put them on my nightstand and say, “If I’m not asleep in 20 minutes or 30 minutes, I’m going to give myself permission to take some of these sleep aids,” that’s enough a lot of the time. Just knowing it’s there, having a rule in place often allows me to get to sleep without anything.
+
+Dr. Matt Walker: I think this is such a powerful message, thanks for bringing it up, which is it’s almost this strange placebo effect of knowing security is there, because when you suffer from insomnia, and I’ve been there too, one of the miserable parts is that you lose all faith in your ability to sleep.
+
+Tim Ferriss: One hundred percent.
+
+Dr. Matt Walker: In other words, your sleep controls you. You do not control your sleep. And by way of these types of medications, that’s why I’m not completely anti-medication, I think there’s enormous value in you regaining your confidence that every time I go into this thing called my bedroom, because when you’re in insomnia — if you never suffer from insomnia, you would never think this. But when you walk into the bedroom, it’s already a trigger. You already start to get negative emotions. You look at the bed and you think, “I know what’s going to happen. I am going to have a miserable night of sleep.”
+
+And just to have a pharmacologically-assured, it’s not guaranteed, but certainly higher probability of being able to get into bed and fall asleep, at that point you’ve turned the tables. Now you control your sleep, rather than your sleep controls you. That freedom, that release from the incarceration of the, I think, vicious condition of insomnia is incredibly powerful. And I’m so glad that that’s what you experience.
+
+Tim Ferriss: Yeah.
+
+Dr. Matt Walker: It’s a miserable place to be.
+
+Tim Ferriss: It’s a huge boon just to know that you have something reliable that can brute force the problem towards a solution if needed. Is not to suggest that I always want to brute force the solution. And you and I have also spoken about this, where there are tools out there like CBTI, right, cognitive behavioral therapy for insomnia, that are extremely valuable.
+
+But if your mind has suddenly become on some level or is, I don’t want to say the enemy, but if the mental self-talk is such that you walk into the bedroom, you try to sleep, you’re failing to sleep, you start berating yourself, you get angry, then you start to worry about what the next day is going to look like, and so now your heart rate is 30 percent faster, your cortisol is being released, and on and on it goes in this vicious cycle that further ensures you are not going to sleep, knowing that you have the emergency option, which will put you to sleep, is a tremendous stress reliever. And I have found that just having it there, just having the break glass in case of emergency pills on the nightstand allow me oftentimes to sleep without taking anything. And it’s just the security of knowing it’s there.
+
+Dr. Matt Walker: Yeah.
+
+Tim Ferriss: And — 
+
+Dr. Matt Walker: I’m so glad that that’s, yeah, that’s the case for you. And I am also a big advocate of CBTI, cognitive behavioral therapy for insomnia, which is just as efficacious as classic things like Ambien. But I would also note that it’s not uncommon that people combine both cognitive behavioral therapy, which is the psychological treatment that people can look up, CBTI, together with these types of sleep medications to produce the very best benefits. And then at some point, maybe you start to taper down the pharmacology, maintain the cognitive behavioral therapy components, and lead people out into that pathway of confidence with their sleep. But it’s just having that reassurance can make the world of difference.
+
+And the other aspect with pharmacology, and I know it maybe goes against the idea of no free lunches, sometimes in medicine and science, we think of taking medicines as putting us out of balance. And that’s the mentality that people have, I think rightly so, as to their resistance against pharmacology. Sometimes, though, a way that I think about it is that whatever condition that you are in that has led you to think about pharmacology probably means that you are biologically and physiologically out of balance. And what those medications are doing is actually putting you back into a more natural biological balance rather than the inverse view that perhaps some people rightly have, which is, “When I take these drugs, I’m putting myself into an artificial, unnatural imbalance.” That may not necessarily be the case.
+
+Tim Ferriss: That’s a great observation. And I think this is also a pretty good place to start landing the plane. And I don’t know if you’d be open to this, so you can listen to my ramblings for another two and a half hours and put up with my questions, but would you be open to doing a round two at some point?
+
+Dr. Matt Walker: Oh, just sign me up — 
+
+Tim Ferriss: All right. All right. Beautiful.
+
+Dr. Matt Walker: — next time. Yeah.
+
+Tim Ferriss: So let me — 
+
+Dr. Matt Walker: Any time, I would love to.
+
+Tim Ferriss: So let me give people — if it’s okay with you, I’m going to give people a teaser of what we might cover. This is a non-exhaustive list, but there are a number of things that we brainstormed beforehand. I do not know the answers to these things and I would really love to explore them. So we have sleep, learning, memory, and creativity, and there are many bullets to explore there. We have sleep and sex, intercourse, orgasm, masturbation, libido, all my favorite things. So we can talk about that next time around in round two. And then also dreaming and lucid dreaming. So I have a long standing, multi-decade long interest in lucid dreaming and I really want to dig into dreaming and lucid dreaming.
+
+So those are just a few of the things that we can and should explore in round two. Matt, is there anything you would like to mention in closing that we haven’t brought up? Anything you would like to point people to? Certainly, people will want to follow you @DastardlyDiplomat on Twitter. I’m kidding. It’s @SleepDiplomat on Twitter. But are there any resources, websites you’d like to point people to, closing comments, recommendations, anything at all that you’d like to bring up?
+
+Dr. Matt Walker: No. Firstly, I would just say I think I love those topics. I think there’s so much to discuss. And maybe when people are threading you and I in on Twitter, they can chime in as to whether those topics sound great. And anything else that we can discuss, I would love to do that.
+
+I think people have heard enough of my dulcet British tones. I won’t say too much more. If you want to find out more about sleep, I would probably say the best place to learn more about what I’m doing with sleep is probably my own podcast, which it took us months and months to come up with the creative naming of it, and it’s called The Matt Walker Podcast. And so you can just find that on all places where you get your podcasts. So The Matt Walker Podcast is probably the best place to get more info on me.
+
+But no, I will keep my mouth shut. I’ve said enough. I’ve spilled enough of my diatribe to not bore people with anything more.
+
+Tim Ferriss: So British. So British. I love it. Those dulcet tones. Oh, the — 
+
+Dr. Matt Walker: I think, yeah, some people have suggested that my personality may be the best prophylaxis known to man. And so — 
+
+Tim Ferriss: Oh, boy.
+
+Dr. Matt Walker: I’m sure some people have probably lost the will to live listening to me during this conversation.
+
+Tim Ferriss: Well, all the better to bring your mellifluous, dulcet tones back for the conversation around orgasms and masturbation next time around.
+
+Dr. Matt Walker: Yeah. Maybe finally I will sort of redeem myself with all of this bad news about different alcohol and caffeine. All of a sudden, I can give you some good news about sex, masturbation, and why you have your own sleep fate in your hands, literally, when it comes to masturbation. So — 
+
+Tim Ferriss: Oh, my God. What a cliffhanger. So folks, stick around. We have a lot of exciting things coming. And this has been a fantastic conversation. Thank you so much, Matt, for taking the time and also for doing the work and the research and designing these studies and not only executing on the research, but conveying it then in a way that makes it understandable and useful to a broader audience. A lot of science can stay in the distinguished hallways of universities and be read by peers in journals, but it takes a very separate and valuable set of skills to be able to translate that without dumbing it down or sacrificing integrity to communicate to a broader audience. And I think you do a tremendous job of that. So thank you very much. Really appreciate it.
+
+Dr. Matt Walker: Thank you so much for that, Tim. I really appreciate those words. Thank you.
+
+Tim Ferriss: Absolutely. And to everybody listening, we will have links to everything in the show notes, as per usual, at tim.blog/podcast. So until next time, be a little kinder than is necessary to others and to yourself. Have faith that if you have sleep issues, and I’ve had sleep issues, some very, very crippling sleep issues for decades, that there is hope, there are tools. And we will be and have been discussing some of the options that are worth investigating and discussing with your licensed professionals. And thank you so much for tuning in. So until next time, take care, everybody.
+
+
+TAGS
+DR. MATTHEW WALKER, SLEEP
+	

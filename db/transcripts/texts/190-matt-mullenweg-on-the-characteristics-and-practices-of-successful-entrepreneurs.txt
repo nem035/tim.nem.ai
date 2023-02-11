@@ -1,0 +1,331 @@
+
+
+JUNE 5, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Matt Mullenweg on Characteristics and Practices of Successful Entrepreneurs (#190)
+
+
+Please enjoy this transcript of my second episode with Matt Mullenweg, lead developer of WordPress, where he answers your questions. 
+
+
+#190: Matt Mullenweg on the Characteristics and Practices of Successful Entrepreneurs
+
+Tim Ferriss: Hello, boys and girls, lemurs and squirrels. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show, where is it my job to deconstruct world-class performers and tease out the habits, routines, morning meditation practices, favorite books, whatever it might be, that you can use and test in your own life. One of my most popular episodes to date was with Matt Mullenweg, who is best known or thought of as the lead developer of WordPress, which now powers more than 25 percent of the entire web. He is the CEO of Automattic, which is a multi-billion-dollar startup, fully distributed.
+
+He loves tea; he loves tequila; he loves Chicken McNuggets. He’s an incredible guy. He’s very good at using a keyboard layout known as Dvorak, as well. We had a very, very long conversation. You’ve all been asking for a Round 2. So in this episode, he answers your most popular questions, which were up-voted online.
+
+You can say hello to him online on Twitter @photomatt; that’s photo M-A-T-T. So please enjoy Round 2 with Matt Mullenweg.
+
+Matt Mullenweg: All righty. Hello, hello everybody. This is Matt Mullenweg coming back to the amazing Tim Ferriss podcast. It’s been actually not that long since I was last on here, but a lot’s changed for me and the company. When I was last coming to you all to a conversation with Tim filled with much tequila, WordPress was about 23 percent of the internet. We’ve gone up to about 26.5 percent, which I’m really happy about. My company Automattic has changed a lot in that time, too. We were about 300 people when I last spoke to Tim and we actually just this week passed 500. So things have grown a lot.
+
+But I am excited to be checking out some of these questions you sent and that Tim and Adam compiled. So I guess let’s go ahead and dive in. All righty. Let’s start from Steve Rubell. He asked:
+
+What’s the hardest part about running a company with a distributed workforce? One that perhaps others don’t fully consider when trying the same.
+
+Hmm. You know, a lot of the how-to and technical sort of logistics, the tactics of running a distributed company, I think are getting better and better. We use Zoom for video conferencing and Slack for chats; P2s on WordPress instead of email.
+
+Google apps are really good. So a lot of the basic tools are out there and they’re getting better every day. In terms of being able to communicate certainly with one person, you can do that extremely at high fidelity almost instantly from wherever you are in the world with an internet connection.
+
+I think there’s still challenges in terms of getting a group of people on the same page. However, I don’t perceive those challenges to be that much different from what people who work in the same office have. So I talk to friends with startups of a similar size to Automattic – you know, 400 or 500 people. They’re typically spread across a couple floors in a building or a campus. They talk about how they have to repeat themselves a lot and sort of really hone in messages and do town halls and all these sorts of things that get everyone in the company on the same page.
+
+So I think that just might be something difficult about groups or scaling organizations. That as soon as it goes above what can be in one or a couple people’s heads, there’s a drift that happens between how different people imagine what a goal is.
+
+The thing I found best for that, even though it wasn’t your question, is to have some sort of prototypes or mockups, or there’s an Amazon thing when they’re starting a new project, they write the press release for it. Or I would call it, write the blog post for it. So write what the announcement will look like when you tell the world about this. So techniques in that low-fidelity mockups can really help make sure everyone’s thinking about the same thing when you use the same words, which is surprisingly difficult.
+
+Finally, the thing that I’ll say is hard about distributed that’s not talked about that I think I uniquely appreciate right now because once a year the entire company of Automattic comes together. We call is our “grand meetup,” as opposed to the normal meetups which teams do individually and are usually like five to ten people. The grand meetup we bring the whole company and this year it was in Whistler, British Columbia, up in Canada.
+
+So we had about 460 people out of the 500 there. It was incredible. It’s pretty much my favorite week of the year. People are so different and everyone’s weird in their own ways and unique and has crazy hobbies. A couple days before, I actually did overlanding with two colleagues across from Calgary to Whistler, so we were off-road and doing crazy things in Jeeps. Then there’s a band where people play together. Everyone gives flash talks, so little miniature five-minute talks about a topic they’re interested in. So the aftermath of that is that I think the thing about being distributed is that it can be a little lonely.
+
+I really love my colleagues. I love spending time with them, I love learning about them, and I love talking to them. It’s true that in person is still the best way to connect with someone. Virtual has gotten better, but there’s so many more sense that are engaged in ways you can read people and you can share a drink or break bread or share food.
+
+When you’re in person, we don’t have virtual equivalence for it yet. So I think that’s one of the hardest things, assuming you like your colleagues. You miss them and it can be a bit lonely. So one thing I always encourage, especially when younger folks maybe straight out of college join Automattic is to make sure you have a good social work outside of work because sometimes we default to getting that human connection and that engagement from our colleagues. That’s not a bad thing at all.
+
+I’m a little jealous of folks who go to an office every day with awesome people who get to do that. But when you don’t have that, it’s important to develop that social network outside of it. And so that’s one of the reasons I love hanging with Tim or other friends in San Francisco when I’m there. When I’m in Houston, it’s a lot of my friends from high school and family.
+
+So making sure you have that social layer to support you and keep you connected with the world so you don’t become a weird hermit. All right. Next question. Jeffrey McLeod:
+
+Now that you have many hours of travel and work under your belt, what used to be an annoying experience with working on the road that you have adapted to or overcome?
+
+Hmm. So travel-wise, I would say two of the coolest thing you can do as a traveler are, especially if you are a U.S. citizen, are get pre-check (it’s a total game changer), and I think this is related, there’s a program called Global Entry that lets you bypass all the customs lines when you’re re-entering the U.S.
+
+Not all the customs lines – all the immigration lines. You just go straight to this machine that scans your fingerprints and you just breeze on through. You feel like you’re in the future. It’s amazing. So that definitely whenever I go through the pre-check line or the Global Entry line, I just feel amazing.
+
+I don’t know if it’s totally rational, but it feels really good. The thing that’s probably changed the most over the few years is just connectivity. You can have an LTE connection in the U.S. pretty much everywhere. When I’m international, I use Google Fi, which is kind of a cellphone service from Google that works in over 100 countries. It’s $10.00 a gigabyte. Or if I’m going to be in a country for a longer period of time, sometimes it’s cheaper to just buy a local sim card. But once you have that LTE connection, you don’t have to worry about WiFi anymore because you can tether to a computer.
+
+You don’t have to worry about does the coffee shop I’m in offer this? Or does my hotel have – I mean, hotels are the worst for WiFi. The more expensive the hotel, the worse it is too. You could stay in like a Motel 6 and they have fast and free WiFi and then I’m in like a Ritz Carlton and they want to charge me $15.00 or $20.00 a day for it and it’s so slow.
+
+So just that mobile connectivity I think has changed because anyplace that I have my backpack and an internet connection, I can be fully productive. I can have my keyboards, my mice, my headphones, everything and I can work just as if I’m at my desk at home and connect with Automatticians and just do my job I have to do as CEO. So that is the thing that has definitely helped me the most. I also am constantly updating sort of the kit of what’s in my backpack that is my super hero bag; everything I have. I do a blog post on this once a year.
+
+If you just search for “Mullenweg what’s in my bag,” you’ll see them. I’m sure Tim can link to them in the notes as well. So that changes every year. Yeah, check that out, check out that blog post. Another one from Jeffrey is he says:
+
+If you could start from scratch with what you knew know, what part of growth, personal or professional, would you have omitted or asked for more of?
+
+I think on the professional end, I just emphasize that hiring and being thoughtful about hiring is the best way to scale an organization. I feel like that’s one of the things that to me [inaudible] question what’s your super power? I don’t actually remember what I said last time, but if I were to answer it today, actually it’s hiring. I’ve done it now enough and looked at enough résumés and everything that – and we have a process at Automattic that tries to remove a lot of the bias from things. You get the right people around the table and it makes all the difference in the world. What I would tell my younger self to avoid professionally is probably – it sounds a little tricky. So oh, that’s one thing I forgot. After the podcast with Tim and before now, Automattic ended up doing another round of funding. We raised about $160 million.
+
+Maybe that was before; I don’t recall exactly. So that funding has really transformed the areas that we’re able to move into, the things we’re able to work on. I think previous points in Automattic’s history we were capital constrained and that held back our growth, the growth of Automattic [inaudible]. The other thing that I’ve really been learning a lot that I would tell my younger self is the thing about marketing. I’ve always been kind of like a “if you build it they will come.” To be honest, for most of my career, that’s worked.
+
+I’m now starting to appreciate more and more how marketing and getting your message out there in the right way, it wasn’t that WordPress didn’t do it before, it’s that we did a lot of it and didn’t really think about it. We kind of lucked our way into it. I think being systematic in approaching that with as much care as you would to pixels and the design or how an interface works or how the architecture of the code is really crucial to a great product.
+
+It’s one of those fundamental tenets and bases of a product that resonates with lots of people. On the personal life, I’d probably tell myself to start meditating more. All the basic stuff: meditate, exercise, eat well, boring stuff I’m sure you’ve heard on every single podcast Tim has done. More on the personal side, I would say that learning to be vulnerable and sensitive was something that, especially when I was younger, I was just like “go to the world and show no weakness.”
+
+Because I was young and I was often operating with people who were decades older than me or getting investment. I thought I had to be invincible or put on this air of invincibility. Of course, no one is invincible. As a leader and actually through meditation, I’ve become a lot more empathetic.
+
+Part of that isn’t just understanding and feeling other people’s emotions, but being willing to show your own weaknesses and emotions and be vulnerable. I think it’s Brene Brown’s book, Daring Greatly, talks about this really well. Or Krista Tippett on Becoming Wise, another great book. I’ll just leave it at that. Those are some good areas for listeners of the podcast who have maybe done all the stuff from Four-Hour Body and Four-Hour Workweek and are thinking about growing their soul more. It might be some good avenues to investigate.
+
+James Clamaut asked:
+
+What’s the most important skillset for an entrepreneur to develop and what characteristics do you look for when recruiting new employees?
+
+There’s another question that I think is a little related to this. Neil Harris Demarhos says:
+
+What are some skills you look for in non-technical people?
+
+So I’m going to tie that into the recruiting question. So important skills for an entrepreneur to develop: resilience, a balance where you can maintain your health, both mental and physical, while working really, really, really hard, and exactly what I just talked about, empathy. Actually just yesterday I saw an amazing presentation from Julia Hartz, who is the CEO of EventBrite, where she really spoke about this as a lesson that’s she’s learned over the past few years where being vulnerable and showing empathy is one of the things that’s helped her most as a CEO, which is counterintuitive.
+
+So I’d say those skills are very important. Also, just the basics. If you’re an entrepreneur, learn about term sheets, learn about preferences, learn about all the mechanics of your business. Know enough accounting that you can talk to your accountant. Know enough development that you can talk to your developers. Know enough marketing that you can talk to your marketers.
+
+You have to know at least a bit about really every part of your business, because that’ll allow you to hire and recruit people that really understand it. Of course, you want them to understand it way better than you, but by having even just a common vocabulary that you can converse with that person in, you’ll be able to operate with them at a much higher level than if you were just a complete novice in their given area of expertise. By the way, you can also have them teach you. It’s an amazing way to grow these skills. I rely on our ops team at Automattic very heavily. I think that’s one of the things we’ve been really lucky about.
+
+Everything with HR and finance and legal and everything. They’re just super top-notch and I both learn a ton from them and don’t have to worry about that, which has been amazing. So the characteristics you look for in recruiting new employees and what do you look for in non-technical people question?
+
+The saying is from a basketball guy and he was like, “You can’t coach tall.” So four of the qualities I look for are the things that you can’t really teach. That’s work ethic, taste, integrity and curiosity. If you think about all of those, if someone has those four things: work ethic, taste, integrity and curiosity, I believe that you can learn pretty much anything in the world. If you look at any expert, this is something that I think is good to remember.
+
+If you look at Elon Musk on space rockets or Tim on health and fitness, well, all the things Tim’s an expert on, or any of these different areas, remember at one point that person knew nothing about it. We’re all born, we all learn and so I really do truly believe that you can become an expert in any field if you put in the hours and the work and the practice and everything.
+
+If someone has those four things, I know that they will be able to rise to whatever the job and role requires of them. Of course, we look for experience and such in order to shortcut that process a little bit. But I also know that for every person I hire at Automattic, what we’re doing today and what they’re hired for is likely not what we’re going to be doing 5 or 10 and certainly not 20 or 30 years from now.
+
+When we hire, I do it with the expectation that someone’s going to be at the company for decades to come. It’s not just a short stint, it’s something that’s really a long-term relationship. It’s like getting married. I think about not just where they are today, but how will they adapt when the company changes and when the world changes and when we’re all in the singularity? So those sort of intrinsic and tough-to-teach things become more and more important.
+
+Next question. This comes from Rock M. Fard:
+
+If WordPress is the platform of writing and Shopify is of commerce, are there other similar platforms you think are worth developing?
+
+That’s a good question. There are a few areas that I think are sort of like fundamentals for interaction on the web that there aren’t great open source tools for yet. Or, in some cases, good tools in general. One area that’s getting a ton of investment now that even though there aren’t perfect source things, I think we’re in a pretty good place is just messaging.
+
+So between Slack and Facebook is making Messenger, Telegram, WhatsApp, messaging built into platforms like Instagram and all of this, I feel like the communication side of things is being pretty well invested.
+
+But then when you think about how communication happens online, there’s still so much to do there. So, for example, we actually have something we’re reviving a little bit called “blicki,” which is the combination of a blog and a wiki. Basically, the idea is that wikis are pretty cool, but you lose when you have everyone being able to edit everything. You lose some of the elements of moderation or curation that make many websites great. So a blicki is essentially something in between. It’s a moderated wiki.
+
+So anyone can edit it, but the edits go through a moderation queue, much like the comments on WordPress go through a moderation queue that can be accepted or denied. So you can get the best of both worlds of community participation and the curation and editorial direction that comes from great websites and blogs. So I think wikis are an area that need some innovation.
+
+Forums as well. Forums are so much fun. I learned a lot of what I’ve done and had lots of great conversations on forums. I know Tim has as well. I know it’s kind of one of these things that forums aren’t really sexy, so no one talks about them or looks at them. We have a product called bbPress there that we use for the support forums on WordPress that are on WordPress.com and it’s used by some other folks. That’s definitely an area I’d like to invest more into and I think that needs better platforms for.
+
+You mentioned commerce and Shopify. Shopify is an incredible tool. Commerce is actually an area we’ve moved into. We did an acquisition of a platform called WooCommerce, which is built on top of WordPress. I think that commerce – for many ways, commerce is where blogging was in 2007, 2008, where there’s some great hosted tools and some great open source tools like WooCommerce.
+
+But if you want to use WooCommerce, you probably need to be a little more tech savvy or have a developer. We’re entering the area much like where WordPress was in 2008, where we’re starting to make it so anyone can use the software, so you get kind of the best of the ease of use of other platforms, but the flexibility of having complete control over your domain, the code, everything. You can customize it. I think that’s a winning combination. I hope that over the next couple of years, WooCommerce can live up to its fantastic competitors in the marketplace, including Shopify, Ecwid, Bigcommerce, etc.
+
+Finally, you said we’re the platform of writing and I’m very flattered there, but still with blogging, and especially with comments, I think there’s so much more to do. You just got me really excited to get back to work. I almost want to stop the podcast and go talk to some teams around WordPress and Automattic.
+
+So that was a good question. The toughest thing that I deal with day to day is a lot of the stuff I just talked about, outside of Woo, which we’re making huge investments in. Our ideas we had, sometimes even five or ten years ago that because our opportunities with our main business lines, which are WordPress, Jetpack and WooCommerce, are so much that it’s tough; we have to focus in on them. There were years, and maybe this goes back to something I would tell my earlier self professionally. So in the early years of Automattic we deluded ourselves. We spread ourselves too thin. So we really had to say no to a lot.
+
+That’s how I understand that famous Steve Jobs or Johnny Ives line, like “A great product is saying no to a thousand things.” I used to think that was a thousand buttons and you say no to 999 of them. I think now it resonates with me more saying that in addition to these things we’re focused on, there’s 999 other things that we’d love to be working on.
+
+Areas I’d love to tackle. It’s really saying no to even just the future of the product, but to working on other products entirely. Some other things that makes me excited about – scaling Automattic from 500 people today to 5,000 in the future – is that we can do our core areas really well and make sure that those continue to be the best in the world, but also it spans the breadth of what we work on.
+
+All right. Next question. This is from, I’m going to say Jocko Timmonen. I apologize for everyone’s names. I’m doing my best to pronounce them. Send me a Tweet or something afterwards that I could do it better. He says, and this actually relates to the say no to 999 things:
+
+What has been the most important default setting in you that you’ve later questioned and removed? By default setting, I mean a value or behavior that’s been hardwired by parents, environment, education, or society.
+
+I think it’s almost just more than a specific default setting, which I probably have some things I do difficulty. I type the Dvorak layout instead of the QWERTY layout. Or just living distributed versus living in a home or being in one place or building companies in a different way. It’s just the fact that you’re constantly looking at default settings.
+
+So I’d say, Jocko, by this question, you’re probably thinking about it the right way because my default settings and the way I grew up in society and everything like that is going to be different from yours. So the things that need to change will be different and our situations are different. So what you should think about is just asking yourself that question at various intervals.
+
+This is why I love the Christmas/New Year’s time, because it forces you to take a step back and look from the 10,000 feet view. But I try to do this – it’s actually something that happens a lot when I’m trying to meditate and I can’t quiet my mind and I’m thinking of lots of things. Sometimes I’ll just take a pause and be like okay, I’m just going to not meditate, but also not do anything, not look at my phone, not do anything.
+
+Have a piece of paper and just try to see everything that’s caught up in my mind and where do I think that’s going, how do I think it’s – sort of unwind my mind in terms of what’s stuck in there and what are the things I’m thinking about. And that often leads me to take that step back from the day to day and look at things from a broader sense. Is my life heading in the right direction? Are my relationships in the right place? Who are the people that I love and care about but maybe haven’t spoken to in a few weeks or a few months or maybe even all year?
+
+So those sort of steps back I think cause you to look at your own operating system. Actually, something that I think meditation is great for is almost like an interrupt. I read a cool book called, I think it’s called Search Within Yourself. It’s a fellow at Google that started, I think it’s even called Search Within Yourself Meditation and Mindfulness Program. I believe his name was Jade Ming Tong. He kind of has an engineering background and also a Googler, so the book I think is pretty cool for leaders of companies because it talks about the business benefits of mindfulness.
+
+From an engineering point of view, how mindfulness and meditation is almost like a background process that runs and whenever your operating system throws up like an interrupt like a reaction or emotion to things, it can kind of catch that. So before you immediately react and do the thing that would be sort of your first intuition or reaction to an emotion or a thought, it says, hey, wait a second.
+
+That’s essentially the muscle you’ve developing when you meditate. When I started thinking of it that way, I was like, wow, okay. So just like I might do a plank or pushups or something like, I need to work this muscle every day if I can. I think it’s impossible to do that and not think about your default settings or go back to the first principles of why you do things, the reason why you got into what you in the first place. Are you truly happy?
+
+These are tough questions, but ones that you can honestly, with the distraction of day-to-day life and our phones and our blogs and our social media, it is so easy to just be lost minute to minute and be busy all day and not really bring yourself closer to the mountain that you want to climb.
+
+I would say if you are listening right now, maybe even pause and just take ten minutes, whether you’re driving in the car or whatever you’re doing, just pause the podcast and do nothing. Have zero inputs and just think about that. All right. I guess we’re back now.
+
+Next question is from Matthew Arnold:
+
+Hard work in and of itself does not seem to guaranty success.
+
+It’s true.
+
+There are plenty of truly hard working entrepreneurs who businesses will fail. To what other factors besides hard work do you attribute your massive success in business? Luck, good mentors, timing?
+
+All right, Matthew – which is an awesome name – thank you for that question. I think it’s definitely all – it’s funny that when people call me successful, I don’t think of myself as that way.
+
+I think part of that, even though I know objectively by many measures I have been and I’ve been extraordinarily fortunate and lucky and everything. But part of it’s because I fail so often. So I don’t think that yes, if ten businesses were started today, nine of them would fail. By the way, including if I did them. So it’s not how many times you fall, it’s how many times you get back up is really key. People talk about resilience and all these things. So that is true.
+
+Even like I think of business icons and the greatest companies of our time. Facebook has products that fail all the time. They launched Poke – like a Snapchat rip-off. Amazon, which I am a huge admirer of Jeff Bezos. Do you remember the Kindle phone? That was just like last year. That was a huge failure. And not just a huge failure like one that they must’ve spent the better part of a billion dollars on.
+
+So we don’t stop failing. It’s just you want to hopefully design your systems to assume failure and have some back-up plans: a Plan B, a Plan C, a Plan D, all the way to a Plan Z, so that you’ll be able to get up and fight another day. Just whatever that drives you to do it. I think having a higher motivation beyond the extrinsic things, which might come from success. So something more than money, something more than material goods that motivates you is really key and so that’s kind of the thing that I would attribute it to. Especially in business press. We just see when people hit the home runs. We don’t see all their at-bats. Very rarely do we even know about all the at-bats they’ve had. So just remember that.
+
+No matter how bad a day you think you’re having, there’s probably someone you admire who’s probably also having a bad day right this second. You’re not alone.
+
+Next up. Julian Bosley:
+
+You have 30 minutes before the end of the world and you find yourself in a very well-stocked bar next to an amazingly varied delicatessen. What choice of food and drink did you enjoy?
+
+I liked this question a lot because well, I love food and drink. I’m actually on a quest right now to go to all the top 50 restaurants in the world. There’s a list that gets published I think by Pellegrino or sponsored by Pellegrino. I’ve been to 9 of the top 10 and I think about 40, 45 percent of the top 50. These experiences from these chefs, it’s like a whole out-of-the-world thing, but I love food and drink.
+
+Now usually when I’m drinking – part of why I like this question – is there’s 30 minutes before the end of the world and generally when I engage in libations, I try to stick to the same alcohol all night. This is just something I’ve learned from trial and error; mostly error. When I mix different types of alcohols, I feel kind of terrible. I heard a saying once that “Drinking is borrowing happiness from tomorrow.” That’s true to an extent, especially if you mix.
+
+But if I stay with one, you know, if I stay with a great Casa Dragones all night or wine all night, or whiskey all night – I’d say those are my three favorites (of course, to a reasonable degree; if you have too much of anything, it’s bad for you) – I’m typically pretty okay the next day. But the truth is I love all sorts of different drinks. There’s great drinks made by gin and rum and other things, like great cocktails that I would love to have but I typically avoid because I don’t want to drink gin all night.
+
+So for the drinking part of things, I would basically have a bunch of everything at the bar and just enjoy it, preferably in some great cocktails. In terms of a wine, I actually love California wines. There’s some great, old California wines like an Alpha Omega or just some of the classics. For basically the last thing, I’m going to assume this delicatessen has a foie gras and I know this is so bougie, I can’t even believe I’m saying this, but like there’s an experience that foie melts on your tongue and then you wash it down with like a great Sauterne, like a Château d’Yquem.
+
+Just the best one that the bar has. It is a party in your mouth. It’s almost impossible to describe the sensation of what goes on there with those two tastes interacting. So that would be like 29 minutes and 45 seconds the thing I would have.
+
+Then otherwise from the delicatessen, I would probably just go for a couple good sandwiches. Definitely like eggs and cheese and bacon on a croissant is a go-to that always gives me joy. It’s funny, we’re coming up on Thanksgiving and everything Thanksgiving, I’m like man, turkey is so good. Why don’t I eat more turkey? And especially you know those day-after turkey sandwiches where you have the pulled turkey, like the dark meat, and then you get some mayonnaise, cranberry and horseradish and just like kind of mix up the sandwich a lot? Pickles, lots of pickles.
+
+Maybe something like, maybe even mix in some sauerkraut or some kimchi, something fermented in there. That would probably be like my go-to, super good deli sandwich. Julian, thank you, because this question was super fun for me to think about because I really went in a lot of different directions. Some mixed cocktails, some good wine, and then ending it off with a great Sauterne.
+
+All right. Next question. We’ve got Alexander Francesco Newman:
+
+Matt, what are your thoughts on artificial intelligence web developer designer tools such as The Grid or Wix ADI? Will WordPress use some sort of AI developer or designer feature in the future? Or just an AI?
+
+This is kind of funny.
+
+I don’t like to talk bad about competitors, so I won’t mention any specifically, but I do think that right now there’s kind of an almost like a completely viscous marketing hype cycle around AI that has nothing to do with artificial intelligence at all. So people are just slapping “AI” on everything, maybe before they slapped “cloud” on stuff.
+
+That just isn’t AI at all. So I think it’s really just marketing. Nothing I’ve seen in the marketplace so far is much more than vaporware and a good demo. I do think that essentially what they come down as kind of wizards. It’s not that different from what a clippy would do in Microsoft Word in the ‘90s. So I think there’s much better approaches to that sort of problem. Now, embedded in that is do I think that there’s changes we could make to WordPress that would make it easier for folks to get going or get started?
+
+The thing I think about which is really our biggest challenge and the thing I work on every day, which is how do you connect? Bridge that gap between what someone imagines and what they’re able to create. So absolutely, that’s what we work on every day. Big parts of Automattic work on how do we make it easier and more intuitive to have that effortless flow as you’re building things?
+
+That is at the core of what we do. In terms of AI and sort of that impacting the business, I think that we’re still a few or many years away from that being more useful than a well-designed, traditional interface. Actually, a really great essay about this – we’ll find the link for the show notes – but essentially, there’s a fellow who looked at all the chat bots, which are sort of an area of AI right now.
+
+For Messenger, for Telegram, there’s these bots and you can say, “Hey, I want a pizza.” They’re like, “What kind of pizza do you want?” You’re like, “Hmm, how about some pepperoni?” Or maybe it’s smart, so it says, “Hey, you usually get pepperoni. Do you want some pepperoni?” You’re like, “Yeah, let me have some pepperoni. But oh darn, it’s not my cheat day, so deliver it on Saturday instead.” So you sort of have this conversational interface, that sometimes people call AI, with this product or service that you consume or buy or interact with.
+
+Basically what this essay does is it compares that model to what a lot of folks in the US are trying to copy, which is the success of platforms like WeChat in China. It shows how these days WeChat actually it’s not that you’re purely chatting with someone and asking them, which sounds to me like the inconvenience of calling a restaurant to get a reservation versus using like a Reserve or an OpenTable to just click a few buttons and get one. WeChat really embeds these interfaces.
+
+He talks about the number of taps it takes to chat with a bot to get something versus the taps – I think maybe he even uses the pizza example – to order a pizza in China on WeChat through this mega-conversational platform. I think that’s one of the areas where a great interface can still surpass a chat.
+
+One thing that we’re doing – so I’ll give you all a preview of something we’re working on for WordPress.com – is we actually are working on a new chat interface. So we provide for paying customers live chat support. It’s a great experience. You’re connected with a real, live human being and they will help you through whatever you’re having trouble with. So it’s real intelligence. It’s better than artificial intelligence; they can help you with anything.
+
+There’s some disadvantages to this though in terms of it’s difficult to scale in terms of we’re hiring people as fast as we can and we’re happy with the happiness engineers at Automattic, but we want to create tools that enable them to just reach more people. So we’re working on this new chat system and the two big things it changes are (1) it abstracts out who you’re talking to.
+
+Because right now – and by the way, I do live chat support sometimes too – so if you’re chatting and you have maybe three or four chats going on simultaneously, you’re helping people, it’s a little bit difficult both to wrap those up, like say you want to go to lunch, but even things like using the restroom. You don’t want to leave the people you’re chatting with hanging because they’re waiting for you. So by abstracting it out, so basically you’ll be chatting with an agent or a cartoon character, whatever it is that we decide, instead of a specific person, we can allow transferring of chats between people way easier behind the scenes.
+
+So you could have an “I’m going to the bathroom” button or “My dog just starting chewing on the couch” button and the chat could be transferred to someone that gets all the transcripts and everything and could just pick it up instantly and keep the chat going, invisibly to the person they’re chatting with. But (2) is we’re looking at, and this is an area I like way more than artificial intelligence, which is machine learning. So we now have all of the chats.
+
+I mean, at this point, probably close to a million interactions we’ve done or way more than a million. Emails, chats, everything. So we can apply – and I’m going to say a buzzword – “deep learning,” which I’m going to say is not totally hype because there’s been some amazing open source tools released by Google like TensorFlow and all of the technology is actually pretty useful here.
+
+To learn from those and essentially augment the happiness engineers, the people doing support, by when we get something that looks a lot like what we’ve seen before, we can suggest essentially like a pre-reply, like an answer for them that saves them having to type out or do everything. Then they can customize that or use that to augment their ability to chat with folks. So this has been a pretty cool project in the area where I think AI could actually have a real impact versus just be marketing hype.
+
+Hamid Fadifar asked:
+
+If you hadn’t accomplished what you’ve accomplished and started over with nothing, what would the next six months of your life look like?
+
+This is a pretty trick question because there’s a lot of ways to think about it. I think the first way I thought about it was, well, if I just lost everything, like I had to declare bankruptcy and had no assets or anything, the obvious thing, I have lots of friends and family, so that’s sort of my safety net. So I would probably move back in home and start to rebuild from there.
+
+But that’s probably not how you intended it and hopefully, unless the question is, if you don’t have friends and family that you think would take you in if you were having a hard time, develop some deeper relationships, you never know what’s going to happen. And by the way, that means that you’ll take them in if they’re having hard times. It’s totally reciprocal.
+
+Then there’s the version of this question I’ve seen before, like what if you knew everything you know but you’re homeless one day? So you lose everything and you don’t have any friends or family you can sort of fall back on. So you’re kind of alone in the world, but you have all your knowledge. What would you do? My answer there again, and this also assumes the privilege of being in the United States and things like that, is I would probably go to the external version of friends and family, which is maybe a church or a YMCA or one of the nonprofits that tries to help out people with nothing, and sort of use that as a home base to then develop.
+
+The other version of this that I thought of was well what if instead of all that you have your house, you don’t need to worry about surviving, but you are starting something brand new. So the thing I would do first here is – so I know everything I know now – I would use my craft, engineering or music, essentially get a job.
+
+So I think I would probably look for the most interesting company I could get access to and just do my best to be hired there. Create a really great application. Really craft, learn a lot about their business and go into interviews knowing a ton about it. Try to stand out. If they say no, keep trying to be hired and really put the – just to try to get around a great group and have a great job where I know I’ll learn and start to save and develop the net for which I could do something more entrepreneurial in the future if I wanted to, which I think is what you’re getting at with the question. So I get this job.
+
+There was a saying when I was a musician, “You never want to be the best musician in the band.” Ideally, you’re the worst musician in the band because that means you’re learning from every single person around you. So I would try to find a company or a group or someplace where I could be the worst musician in the band, where just every single person was so much better than me.
+
+I still made the cut to make it in, but then I would just be learning from everyone around me every day. If I was just trying to start something new and it couldn’t be related to anything I had done before, so it couldn’t be content management or ecommerce or any of the areas that WordPress kind of plays in, I think what I would try to do is figure out the zeitgeist. So I would buy a copy of The New Yorker and New York magazine and The Economist and Wired and Fast Company and I’d just read them cover to cover, maybe for a month or two, maybe get some back issues, and try to figure out what area is in the good part of the hype cycle.
+
+So something like VR or AI is probably in the bad part of the hype cycle where the expectations people have for it are so out of line and we’re just early, too early in terms of the impact that the technology can have.
+
+So I’d try to look for an area that is no longer – maybe I would go back three or four years on those magazines and look for something that was hot then but no one’s talking about then. That’s probably where the biggest opportunities are. So the thing that everyone was excited about five, six, seven years ago; it got a ton of overinvestment and companies have started and failed, and now it’s at that point in the cycle where the real stuff is happening. Like the carpetbaggers and the folks who are in it just for money have all like come and gone and it’s just the people who really want to make a difference in the world are still there are working.
+
+In some ways, I think content management is in this area right now, where a lot of the hype was four or five, six years ago. But now we’re actually reaching scale and having an impact on hundreds of millions of people’s lives. That’s where the big opportunity is. That might be outside of the web – areas like CRISPR or gene editing. Some of the bio stuff I think is getting pretty interesting.
+
+We’re approaching times when the devices – cellphones, some mobile stuff is probably in this area right now where we have more than a billion mobile devices. No one’s really thinking, I’m going to start an app. That kind of when it’s most interesting to start an app. When WordPress started, the biggest criticism was that there are too many blogging systems and the world didn’t need another one. So that would be what I would try to find. What do people say the world doesn’t need another one of because there’s plenty of it? And try it out.
+
+Carlos Reale:
+
+Where do you see the future of the internet in terms of user behaviors, given that 20 years ago people started to use and visit websites. Now most people just use their phones and when VR becomes useful, it’s like we’ll all live on a VR platform and the phone will fall like the desktop.
+
+Hmm. So my hope is that phones don’t fall like the desktop because even in a world where the VR is super amazing and we’ll all be plugged into the Matrix, I still really hope that I can go on a hike with Tim.
+
+Or get out in the world and see some of the beautiful things all around us in nature and in cities and in instruments live and concerts and things like that. So when I’m mobile, something like a phone will hopefully be on me and I hope that’s still there. So in terms of the internet, I think the behavior that’s changing the most is still just this megatrend that we’re still riding where there’s six billion people still coming online.
+
+So everything that we think is amazing and huge and big now is going to 6X or more likely 10 or 100X where it is in terms of user interaction, in terms of posts per day, in terms of number of people tweeting. All of this is going to be so, so, so much bigger than even the already amazing levels it has reached.
+
+As people become more comfortable being native online, the same cycles that people listening to this podcast might remember about 15 years ago where you were nervous to put your credit card online or things like that. Folks coming online for the first time are going to have those same nervousness and go through the same, hopefully accelerated, learning process of what’s it like to truly live digitally and live online? So I think that will be adopted faster.
+
+I also hope that payments will be an area we can have a lot of innovation on because the friction of payments I think puts us in business models like advertising right now, which aren’t the best. How cool would it be that everyone listening to this could give – instead of Tim having advertising or doing whatever he needs to do, everyone listening to this could just put in a dollar or maybe even not a dollar, maybe put in like two pennies, some sort of micropayments that could support creators all over the world.
+
+Like right now, the payment systems that we have just aren’t set up for that, but I could imagine something like that being really cool in the future. The thing that I think is going to have to change user behavior-wise is we need to develop more antibodies, more immunity. Because the technology is going to get better and better and better at engaging us. Machine learning. And in the future 20 years from now, when we do have something more approaching artificial intelligence, could entertain us perfectly and keep us always connected and engaged with whatever companies want us to be engaged with. Because a lot of this will be commercially drive. So that worries me a little bit. It’s a little more Brave New World, 1984. It reminds me of that great intro to Brave New World.
+
+No, it’s Neil Postman. I think he wrote a book called Amusing Ourselves to Death. There was an intro. We’ll put it in the show notes. That’s the one made into a comic that was pretty amazing in terms of what 1984 predicted would be our oppressors, like big brother, and what actually is our oppressors, which looks more like Brave New World, which is just we’re kind of, like the title of the book, amusing ourselves to death. We’re so caught up in distractions and pleasure and entertainment that we might be missing out on the bigger things.
+
+So just like it took the world 100 years to develop antibodies to an addictive technology like tobacco and cigarettes, I think the world needs to develop antibodies to technology addiction and the addiction of really engaging experiences.
+
+Nathan Aaron says:
+
+With all these web development boot camps opening up, is a future demand for web developers still high or stagnating?
+
+I’ve actually been really impressed with some of the boot camps, especially in contrast to how prepared people coming out of these boot camps are compared to people coming out of four-year universities or colleges.
+
+So I think that universities and colleges need to really up their game and adapt if they’re still going to be something that people think is a good investment. Just a tip for people who are going through or thinking about going through one of those hack camps or things, the thing that I still see – I was actually looking at it the other day. I’ve reviewed 22,000 applications and résumés to Automattic in the past three years. So I look at a lot of these. All the web development, web boot camp ones seem to follow a little bit of a template. So see if you can break out of that a little bit. But also even though you might do projects as part of that, the thing missing is often just a little more experience.
+
+And you say, well, I don’t have a job yet, how do I get experience? Open source! Contribute to open source. Get involved with the open source project. It’s something that I think would – because you’re competing with folks who maybe have three or four years at Google or Facebook and things like that.
+
+You might be just as good from a development point of view, but you need to get some of that experience in. So the hack, the cool shortcut there is get involved with the open source project. Or start one and show sort of real world users, real world collaboration with other people. I don’t think I talked about that earlier in the things I look for. But the most brilliant person in the world, the greatest developer, the greatest anything that can’t work with other people is basically not ever going to have an impact and honestly, someone I would let go of Automattic.
+
+It doesn’t matter how great you are, if you’re not going to be able to work within the context of the team, it’s not someone who I want to work with personally. So being able to show that in your application I think is really key.
+
+The growth for web developers I think is going to grow hugely, but it’ll also become more sophisticated. Even think about pre- in the ‘90s, before something like WordPress. You might need to call your web developer every time you wanted to change your website. Now tools like WordPress make it easy for you to do that all day long without talking to anyone. So the basics are going to get easier and easier because the software will enable people to do that. So what they need developers for is we’re going to become more sophisticated. I talked about earlier that at WordPress you can start and make a great site.
+
+If you’re going to use WooCommerce, you can definitely get started with it, but maybe to customize it how you want, you need a developer. So that’s where the demand for developers is growing. So you need to become more and more sophisticated as the general world becomes more sophisticated.
+
+We’ve got Tom, Tron Ammon:
+
+Considering the heights you’ve reached, how do you motivate yourself on a daily basis over the course of any projects?
+
+You know, I’m actually really lucky. I just got two awards in the past few weeks. One was a Fortune 40 Under 40, which I guess is a recognition, not an award. The other was the Heinz Award, which I’m really super honored by. It’s kind of like the MacArthur genius grant or something. The pick five people for year in different areas and it comes with a $250,000 grant. It’s a huge honor. I’m even blown away that I was considered for it. So to win it was very humbling.
+
+But when these things happen, when this recognition comes in or a height you’ve reached, this is a new height I’ve reached, if anything, it makes me work harder. Because I don’t want to let down the people who chose this. Expectations are that much higher for what I need to do. If the world has given me something, I want to give it back ten times that.
+
+So I would say that success can actually be very motivating to not let the world down in terms of you’ve been lucky, it’s blessed you. How do you give it back? How do you pay it forward? It’s not just being more successful. It’s also literally how do you give it back? How do you put goodness into the world? How do you give it away? That’s really key to balance an importance. If I have something, I would just give a little tip. When I have a grind, like I’ve said, I’ve reviewed 22,000 applications. There’s about 600 waiting in the queue right now I need to look at.
+
+With something that is a long task I know is going to take a few hours that I need to get through, I have them break it up using the Pomodoro technique. Sometimes I do 25 minutes on, 5 minutes off. Sometimes I’ll actually do a longer version, where I do sort of 50 to 55 minutes on and then 10 minutes off, because I find that I can really stay in the flow for a longer period of time if I have the right music on and everything like that.
+
+So that is something I use to get through a grind when maybe I don’t have that motivation because let’s be honest, no one, including myself, wakes up every morning of every single day being like, ah great! Sometimes you wake up those mornings, maybe you mixed your alcohols like I talked about earlier, and you just don’t want to do anything.
+
+But something like a Pomodoro technique or forcing yourself to stare at the blank page and just typing gibberish or whatever it is to kind of get the engine started can just help it on those days when you have no motivation, which happen more frequently than any of us would care to admit.
+
+Brian Kapp asked:
+
+What has been the biggest technical problem you’ve had to overcome and how did you end up solving it?
+
+This was an interesting one because as I thought about it, all the all the technical problems that I’ve faced in my career in terms of like a really difficult bit of code or an upgrade, path or bringing in WYSIWYG to WordPress or any of these sort of things, are fundamentally tractable. Meaning that you can essentially chip away at it enough that they’re solvable. Or you get the right people involved or whatever it is. They’ve certainly been fun ones.
+
+There’s a great presentation by a WordPress contributor, Andrew Nacin. He talks about when we added emoji support into WordPress, it was actually kind of a behind-the-scenes way. We had found a really key security problems in an underlying database, which was MySQL, that affects not just us, but everyone out there in the way that we deal with multi-byte characters.
+
+So this is kind of technical, but normal ASCII text is represented by a single byte and Unicode, which is the system which allows representing every language in the world and also things like emoji, are multi-byte, so they might be two or four bytes long. There was just a really obscure bug that allowed you to essentially do some security exploits by changing how multiple-byte characters were truncated and anyway, it was honestly a ton of fun, really cool. But because the vulnerability was so widespread, including not just WordPress, is we wanted to give people a chance to upgrade before then.
+
+So what we framed as emoji support was actually this Unicode fix, essentially. Which was funny because we got a lot of criticism. People were like, “Why are you putting emojis in when there’s bigger things to work on?” Little did they know. So if you’re a super geek and if anything I just said made sense or seemed interesting, check out Nacin’s presentation there. You’ll enjoy it. But when I think of biggest problems, it’s always the people.
+
+I talked about WYSIWYG earlier. When we brought in the WYSIWYG editing to WordPress, which now seems like a very non-controversial feature, at the time it was very controversial. The people side of it was way more difficult than navigating the technical side. The fact that I studied political science in college I think has been way more useful to me than if I had done computer science, because anything, and it’s applicable not just to technology, but anything is about people working together. So learning how to manage, learning how to communicate, all of those skills are the things that kind of go to some other questions like what would you take with you?
+
+Or what would you tell your other self? Or if you were doing something else? For me, that’s the skill which I think I’m going to use the rest of my life and continue to grow and develop the rest of my life. It’s not any language I know today or any field, knowledge expertise or domain expertise. It’s just that working with other human beings and becoming better at it.
+
+Which is the thing I probably, especially as CEO, I think about and try to work on every day, is kind of the fun part, right? Because you think about it, most all fun activities involve at least one other person. So if you can interact better with other humans, life gets better. The final question as we end up, about one hour into this, from Cesare Roki, “What is your evening routine (if you have one)?” This is a cool one and I like Cesare, that you put in the “if you have one,” because this is where I’ll just be open and honest and vulnerable. I’d like to say that I have a cool evening routine.
+
+The reality is that for whatever reason, the way that I currently work right now and live is that I kind of go until the gas tank is empty.
+
+Whether that’s working, whether that’s with friends or whatever. Then I, within a short period of time, run out of gas and I just fall asleep. I’ve been very fortunate that I’ve never had trouble sleeping. My head hits the pillows and people [inaudible]. They laugh at this. They’re like, “Literally, your head hit the pillow, 20 seconds later you were asleep,” maybe snoring, I don’t know. It’s like, “What just happened? You were talking just seconds ago.” This literally happened last night. I had four or five friends over. The conversation was going great. I didn’t want to stop them.
+
+So I said, “Hey, keep going.” But yesterday I had to wake up at like 4:00 a.m. to catch another flight and get some work in and some meetings and things. So I was just done, even though it was just 10:00 or 11:00. So I said, “Hey, keep going. I’ve got to peace out.” If it had been a big party, I would have done the Irish goodbye, where you just kind of leave without talking to anyone.
+
+There was just four of us, so I said, “Hey, keep going.” I fell asleep as they were still having a great time. I kind of hit the end of the road. So that’s my evening routine, is passing out. I don’t know if that’s super useful, but I have thought a lot about morning routine. This is the latest iteration, which I think I’ve talked about before, but this is the latest. I still use coach.me, which is the app where you can check things off every day. It’s like a daily to-do list. The things I try to do every single morning are: I try to do reading in the morning, at least 30 minutes of reading because I find that’s the time of the day where I am the most engaged.
+
+After that is I take my vitamins and pills. So that’s Elysium, which is – well, you can just Google it. I take some of the Nootrobox ones, so like Rise and Kado. And then just some other stuff, whatever Tim has me taking at that time. So like some Ubiquinol, ginseng, whatever it is.
+
+Honestly, I didn’t use to care about this stuff as much. Now that I’m in my 30s, I figure it can’t hurt, it might help and I’ll do whatever Tim’s saying most recently. I try to do a little bit of exercise, so right now it’s plank. I do a plank first, then I do squats, then I do push-ups, then I do some sun salutations to kind of stretch things out. Again, I’m not super into yoga, but I do a few sun salutations every single day. It’s amazing. Finally, I meditate for at least ten minutes. I use an app for that called Calm – C-A-L-M. Then I look at my computer. I try to do a blog post at least four or five days out of the week.
+
+So essentially you could translate this into writing. That, I would say, is my perfect morning. Now how many mornings do I hit all – there’s three, six, eight of those things? Not all of them? Fewer than I would care to admit. But to me, that has been the current recipe for a thing that just works the best.
+
+So on that note, I will leave all of the amazing Tim podcast listeners. We all are a super cool group. I am excited and honored and thank you to Tim for allowing me to connect with y’all again. I can’t wait to see the comments and tweets and everything that come out of this. So I’m happy to engage with y’all. Again, I’m Matt Mullenweg. My Twitter is @photomatt, P-H-O-T-O-M-A-T-T. You can see my blogging at matt.blog or at ma.tt. and I’m on Facebook as well.
+
+
+TAGS
+AUTOMATTIC, MATT MULLENWEG
+	

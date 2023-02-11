@@ -1,0 +1,153 @@
+
+
+JUNE 30, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Adam Robinson — Outflanking and Outsmarting the Competition (#322)
+
+
+
+
+Please enjoy this transcript of my podcast featuring Adam Robinson (@IAmAdamRobinson), who answers a number of questions highlighted in my most recent book, Tribe of Mentors. Adam is a rated chess master who was awarded a Life Title by the United States Chess Federation and one of the two original co-founders of The Princeton Review. He now serves as an independent global macro advisor to the chief investment officers of a select group of the world’s most successful hedge funds and family offices. 
+
+
+Adam Robinson — Outflanking and Outsmarting the Competition
+
+Tim Ferriss: This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show where it is my job to interview world-class performers from every discipline imaginable, to tease out the habits, the patterns, the belief systems, favorite books, whatever it might be that you can apply to your own life.
+
+This episode is going to be a slightly different format. You will get what I just mentioned, and it will be with one of the biggest surprise hit guests that I’ve ever had on the podcast, and you wanted me to have him back on to pick up where we left off and to ask the rapid fire questions that are your favorites, which we didn’t get to, and that is the purpose of this recording. He does deliver. His name is Adam. So, without further adieu, let’s get into it.
+
+Our guest today is Adam Robinson. You can find him on Twitter @iamadamrobinson or at robinsonglobalstrategies.com. Adam has made a lifelong study of outflanking and outsmarting the competition. He is a rated chess master and has been awarded a Life Master title by the United States Chess Federation. As a teenager, he was personally mentored by Bobby Fischer in the 18 months leading up to his winning the World Championship, and Adam and I talked a lot about this in our first conversation on The Tim Ferriss Show that you guys can check out. Back to the bio.
+
+Then, in Adam’s first career, he developed a revolutionary approach to taking standardized tests as one of the two original co-founders of the Princeton Review. His paradigm-breaking, or category-killing as they say in publishing, test prep book, cracking the system, the SAT is the only test prep book to have ever become a New York Times Best Seller. After selling his interest in the Princeton Review, Adam turned his attention in the early 90s to the then emerging field of artificial intelligence, developing a program that could analyze text and provide human-like commentary.
+
+He was later invited to join a well-know quant fund to develop statistical trading models, and since, he has established himself as an independent global macro advisor to the chief investment officers of a select group of the world’s most successful hedge funds and ultrahigh net worth family offices.
+
+Tim Ferriss: If you could have a gigantic billboard anywhere with anything on it, what would it say and why?
+
+Adam Robinson: Well, first, Tim, thanks for having me back. It’s always a great joy and a privilege and a pleasure. I’ll leave aside the danger of having a text-heavy billboard that would distract passing drivers. Instead, I’ll focus on four core quotes I live my life by, two by others, and two by me.
+
+First, the two quotes by others. The first is Rudyard Kipling. “If you did not get what you want, it’s a sign either that you did not seriously want it or you tried to bargain over the price.”
+
+The second quote is Amelia Earhart’s: “The most difficult thing is the decision to act. The rest is merely tenacity.”
+
+Kipling and Earhart almost capture the secret to achievement, but we need to qualify them because they can lead to obstinate persistence either to goals or methods that aren’t working, and because they ignore or dismiss the emotional component of achieving goals.
+
+So I’ll add two quotes of my own, and the first – and I think this is my favorite personal quote: “If you’re not getting the results you want, change what you’re doing.” You’d think that would be obvious. You’d think people, of course, would change. They would pivot, but they don’t. They do more of the same. They double-down on what they’ve already done. They try harder.
+
+Tim Ferriss: So, how do you change what you’re doing?
+
+Adam Robinson: A good starting point is to take a step in the opposite direction. So, if you’ve been spending a lot of money, spend less. If you’ve been making a lot of phone calls, make fewer phone calls or none at all.
+
+So, these new steps might not work, either, in which case, change and change again. Keep pivoting until you find something that works and then do more of that.
+
+My second quote is, “If you experience any negative emotion – doubt, fear, frustration, anger – it’s almost always a sign to redirect your attention either to the task at hand or to others.” Michael Jordan once said that he’s never thought about missing a shot, and the reason he’s never thought about missing a shot is that his attention is totally focused on making the shot. So, it would be wrong to say that Michael Jordan was self-confident about making the shot because the attention there would be focused not on making the shot, but on him.
+
+So, self-confidence, in this sense, is almost as bad as self-doubt. Your attention is focused on the wrong thing. It’s focused on yourself as opposed to the shot you’re trying to make or the task at hand whatever it might be or the other, the other person.
+
+So, I have dozens and actually hundreds of other quotes that resonate with how I live my life, but for a billboard, I would confine myself to those four.
+
+Tim Ferriss: What are bad recommendations that you hear in your profession or area of expertise?
+
+Adam Robinson: My field is that of global finance, and virtually all investors have been told when they were younger – or implicitly believe or have been tacitly encouraged to do so by the cookie-cutter curriculums of business schools they all attend – that the more they understand the world, the better their investment results. It makes sense, doesn’t it? The more information we acquire and evaluate the “better informed we become and the better our decisions.” Accumulating information, becoming better informed is certainly an advantage in numerous, if not most, fields, but not in the counter-intuitive world of investing where accumulating information can actually hurt your investment results.
+
+So, in 1974, Paul Slovic, a world-class psychologist and a peer of Nobel laureate Daniel Kahnema, decided to evaluate the effective information on decision-making. This study should be taught at every business school in the country. Slovic gathered eight professional horse handicappers and announced to them, “I want to see how well you predict the winners of horse races.” Now these handicappers were all seasoned professionals who make their living solely on their gambling skills. Slovic told them the test would consist of predicting 40 horse race in four consecutive rounds. In the first round, each gambler would be given the five pieces of information he wanted on each horse, which would vary from handicapper to handicapper. One handicapper, for example, might want the years of experience the jockey has had as one of his top-five variables, while another might not care at all about that, but want the fasted speed for any given horse that achieved in the past year or the weight the jockey or whatever.
+
+Finally, in addition to asking the handicappers to predict the winner of each race, he asked each one to also state how confident he was in his prediction. Now, as it turns out, there was an average of ten horses in each race. So, we would expect by blind chance – random guessing – that each handicapper would be right 10 percent of the time and that their confidence with a blind guess to be 10 percent. So, in round one, let’s see how they did. With just five piece of information, the handicappers were 17 percent accurate, which is pretty good, actually – 70 percent better than the 10 percent chance they started with given zero pieces of information. And interestingly, their confidence was 19 percent, almost exactly as confident as they should’ve been. They were 17 percent accurate and 19 percent confident in their predictions. Excellent calibration.
+
+In round two, they were then given ten pieces of information, in round three, 20, and in the fourth and final round, each handicapper was given 40 pieces of information. That’s a whole lot more statistics than the five pieces of information they each started with. Surprisingly, their accuracy had flatlined at 17 percent. They were no more accurate with the additional 35 pieces of information they had. Unfortunately, their confidence in their predications had nearly doubled to 31 percent, so the additional information made them no more accurate, but a whole lot more confident, which would’ve led them to increase the size of their bets and lose money as a result.
+
+Beyond a certain minimal amount of information, additional information only feeds confirmation bias, leaving aside the considerable cost and delay occasioned in acquiring that information. The additional information we gain that conflicts with our original assessment or conclusion we conveniently ignore or dismiss, while the information that confirms our original decision makes us increasingly certain that our conclusion was correct.
+
+So, to return to investing, the second problem with trying to understand the world is that it is simply far too complex to grasp, and the more dogged our attempts to understand the world, the more earnestly we want to “explain” events and trends in it, the more we become attached to our resulting beliefs, which are almost always more or less mistaken, blinding us to the financial trends that are actually unfolding right in front of our eyes.
+
+Worse, we think we understand the world, giving us a false sense of confidence, when, in fact, we are almost always more or less mistaken. You hear all the time from even the most seasoned investors and financial experts that this trend or that doesn’t make sense. It doesn’t make sense that the dollar keeps going lower or it makes no sense that stocks keep going higher, but what’s really going on when investors say that something makes no sense is they have a dozen or whatever reasons why the trend should be moving in the opposite direction, yet it keeps moving in the current direction. So, they believe the trend “makes no sense”, but what makes no sense is their model of the world. That’s what doesn’t make sense. The world always makes sense; we just don’t understand it.
+
+In fact, because financial trends involve human behavior and human beliefs on a global scale, the most powerful trends won’t make sense until it becomes too late to profit from them. By the time investors formulate an understanding – again, a false understanding – that gives them the feeling of confidence to invest, the investment opportunity has likely already passed.
+
+So, when I hear sophisticated investors or financial commentators say, for example, that it makes no sense how energy stocks keep going lowering. I know that energy stocks have a lot lower to go because all of those investors are on the wrong side of the trade, in denial, probably doubling down on their original decision to buy energy stocks. Eventually, they’ll be forced to throw in the towel and have to sell those energy stocks, driving prices still lower.
+
+Tim Ferriss: What is one of the best or most worthwhile investments you’ve ever made?
+
+Adam Robinson: I’ve made many investments in my life – of money, of time, of energy, of passion, and emotion – and one of the best payoffs for the amount invested was learning to meditate. I’ve always been driven, excited by the world, so my mind is continually racing at 1,000 miles per hour, pursuing this question or that, creating this system or that, nonstop, 24 hours a day, 365 days a year, 366 on leap years. Now all of that nonstop mental and psychic stimulation gets exhausting, of course, and if you want to perform optimally at anything, you need to find a way to recover from the stresses of that activity.
+
+So, I knew that though I should find away to turn off my mind and “just relax, just enjoy, just be,” for years, I had failed to find a way. I tried everything – yoga, exercise. I even tried hypnosis. I researched once the best hypnotist in New York City as a way to somehow turn off my hyperactive mind, but after four attempted and hugely expensive sessions with this guy, the hypnotist gave up saying, “Your mind is too active to submit to the hypnosis.” “Well, thanks a lot, doc,” I told him, not concealing my annoyance. That’s exactly why I had come to him.
+
+Then, about two years ago, my bestie, Josh Wateskin, recognizing that I couldn’t unwind or disengage from my relentless analyzing of the world – especially the financial world – recommended that I take up meditation. “Sorry,” I said, “It doesn’t work for me. I can’t sit still long enough for any benefits of meditating to kick in.” So, he asked, “Have you ever tried heart rate variability training – HRV training?” and I said, “No, what’s that?”
+
+He said that you just focus on your breathing using biofeedback to measure the smoothness and the amplitude, hence the word variability, of your heart rate. The heart, not surprisingly, registers all our real-time emotions and stresses, so the normal heartbeat is highly erratic, staying within a tight band around an average. The goal with the biofeedback training is to gain control over your own heart rate by focusing on your breathing, making your jagged heart rate smooth out like a sign curve and to widen its amplitude. That sounded interesting, but it wasn’t until I reframed meditation that I submitted to trying it.
+
+The problem with meditation, I thought, was that it wasn’t practical, and worse, the time I spent meditating was time I could’ve spent analyzing the world. But, I eventually reframed meditation as a way to relinquish control of my conscious mind so that my more powerful unconscious mind could take over, and my analysis of the world would improve. Motivated by that reframing, I enthusiastically adopted biofeedback HRV training and in a few weeks learned to quiet my mind after just a single, deep diaphragm belly breath, gaining the ability to achieve a Zen-like calm on demand.
+
+Now, whenever I needed to detach from the world or from the stresses of daily life and to allow my mind a rest, I simply get centered and inhale from my diaphragm, and I do so numerous times a day – a minute here, a minute there – and at least once a day I “waste” a larger 15 to 20-minute block of time meditating in this way. But, it’s not wasted time, of course, since the increased creativity and productivity from these many restorative sessions is far more valuable than the time I spend being “unproductive” while meditating.
+
+Meditation is one of the most practical, powerful productivity-enhancing tools ever created, and learning to meditate is one of the best investments I’ve ever made.
+
+Tim Ferriss: What purchase of $100.00 or less has most positively impacted your life in the last six months or in recent memory?
+
+Adam Robinson: Well, this purchase is not less than $100.00, but at 159, it is too close to pass up. The heart and math inner balance biofeedback monitor – it detects your hearts minutest rhythms and sends a graph to your smartphone facilitating HRV training, and while you’re at it, get the book Heart and Math Solution. In the last five years, what new belief, behavior or habit has most improved your life? The understanding, which has become a habit that has most improved my life in the last five years, dramatically so, is recognizing the importance of others and not only changing the world, but in enjoying it. By nature, I’m an introvert, so much so that some friends revealed after high school that there were students, classmates of mine, who had never seen me speak, not once in all of high school.
+
+By the time I graduated from Oxford after doing my undergraduate work at the Wharton School of the University of Pennsylvania, I had begun to emerge from my interior world to a great extent, but I was still 95 to 5 on the introvert/extrovert scale.
+
+I very much enjoyed the company of other people, but only for brief periods – 15, 30 minutes – beyond which I’d reach overload and I’d need to seclude myself to recharge.
+
+After college in my career, my success in the world was the product of my insights and imagination and thinking. So, I inhabited the world of ideas far more than I did the world of people. The more and better ideas I came up with, the more success I achieved. So, it came as a surprise relatively late in life – in fact, only in the past year – that if you want to change the world, you have to enroll others in your plans and vision. Not only that, but I discovered the immense pleasures and satisfactions that can be derived from focusing on others and putting them first, and the surprising discovery that the more I gave to others, which I’d always done, the more the universe gave me back in return, whereas in the past when I went outside and encountered others, I would invariably be lost in thought. Now, I am solely focused not inwardly on my ideas, but outwardly on connecting with others.
+
+I mentioned this discovery publicly for the first time in a live group podcast I did with you, Tim, back in December 2016, and was inspired shortly thereafter to write a book, An Invitation to the Great Game: A Parable of Love, Magic, and Everyday Miracles, in which I articulate my three guiding rules of life. First, whenever possible, connect with others; second, with enthusiasm, strive always to create fun and delight for others; and third, lean into each moment and every encounter expecting magic or miracles. This discovery so profoundly altered my life path, revealing for the first time my true mission on this planet, that I now divide my life into two periods: Pre-discovery of others and post-discovery.
+
+Now, I so eagerly look forward to leaving my home each day, wondering what magic I’ll create encountering others that I can scarcely contain myself. My days now have a natural rhythm between introversion and extraversion that is akin to breathing. When I’m alone, I inhale my ideas, and then I exhale with others. The number of remarkable people and serendipities and successes that have come into my life since I’ve adopted this awareness of others, which quickly developed into a reflexive habit of directing my attention solely on them when I’m not alone has been nothing short of astonishing.
+
+So, Tim, I have to thank you for inspiring that book with that question at the 92nd Street Y, “What have you learned this past year?” The book, An Invitation of the Great Game, will be coming out soon in January.
+
+Tim Ferriss: What advice would you give to a smart, driven college student about to enter the real world?
+
+Adam Robinson: Yikes! I could write a book in response to this question, so instead, I’ll just toss out a hodge-podge of observations, truths, maxims, caveats, and exhortations that wish I had known or at least fully appreciated when I had just entered the real world myself.
+
+Congratulations. You recently left, or you’ll soon be leaving, an ecosystem you’ve known your whole life for an entirely new one.
+
+To switch analogies, you’re leaving a game you’ve played since at least first grade with a rule book you’ve consciously, if not unconsciously, assimilated, and more or less mastered for an entirely new game with no formal rule book handed out. You’ll have to write your own rule book. You’d think the point of education would be to prepare you for the real world, but the real world is more unlike school than like it. Indeed, you will find that many of the traits and habits that served you well in school will either not work in the real world, or it will work against you.
+
+So, you’ll have to adopt an experimental attitude towards everything, continually testing what works for you and what doesn’t. Graduating from college or leaving behind your formal schooling in whatever form it took to enter the real world is a major step since it marks the first time in your life when you’ll be making most of the decisions that affect that life rather than being told what to do or being assigned what to do. You won’t receive a clear course syllabus every few months detailing the assignments and exactly what is expected of you, and the standards by which a single person, your professor, will evaluate your work and award you a single-letter grade. So, you’ll have to find your own incentives.
+
+Another enormous difference is that for the first time you won’t be needing to navigate simply a cohort of peers more or less exactly your age and from very similar backgrounds, if not aspirations, no longer. Now you’ll be interacting with a broad spectrum of humanity in all of its delightful, but sometimes challenging, diversity. So, you’ll need to acquire a whole new set of people skills and ways to relate to others and cultivate what’s known as emotional intelligence.
+
+So, the rhythms of your life from the daily to the weekly to the monthly to the yearly will be ones you establish on your own rather than the structures and timetables dictated by the academic calendar year. You’ll find this lack of structure more or less disorienting, and the more you develop routines daily and weekly, at least, the better.
+
+Another recommendation: Instead of asking yourself, “What do you want to do?” ask rather, “Who do you want to be?” Whatever you’re doing for work, whatever, throw yourself into it wholeheartedly even if you realize it’s a transitional gig while you search for something better. Don’t ever worry that “you’ll be doing this for the rest of your life.” You won’t, but if that’s your attitude, you’re missing out on the next point. If there were a single quality underappreciated by recent graduates that will most ensure your career success, it’s not the obvious ones like intelligence and good habits and discipline and the capacity for hard work, but rather this: Enthusiasm. In all matters, be enthusiastic, and others will want to be around you including work with you, and you’ll flourish. Unrelenting enthusiasm – I can’t recommend that strongly enough – unrelenting.
+
+As long as you’re following all of the other rules here, have patience. Life moves at once much slower than you expect and much faster. You can be doing every right, paying your dues, and for months or years it seems like you’re not making any progress, and then all of a sudden, boom! Your life explodes forward at light speed. Benjamin Disraeli said that the secret to success was being ready for your opportunity when it presents itself. Until then, pay your dues.
+
+Your success in the world rests largely on your ability to create compelling, positive visions of the future that others feel irresistibly drawn to be a part of. That goes not only for your professional life, but also for your personal and even romantic life. As early as you can, try to connect to your personal mission. Who are you here on this planet to be? Mark Twain said, ‘The two most important days in your life are the day you’re born and the day you discover why.’
+
+I promise you, the sooner you become aware of a mission larger than yourself that you’re devoted to, the exponentially more rapidly your personal and professional goals will be achieved. Find out what you love to do and do best, and cultivate that talent or talents. Then, be relentless in finding jobs or situations in which those strengths and passions are most in demand. Know what your hammer is, in a sense, and then look for nails to hit. The most important gifts and goals in life, including love, success, and happiness, are never achieved – I want to underscore that – never achieved by pursuing them directly.
+
+Those people focused on finding love, for example, have their attention and priorities diverted from being the kind of loving, lovable person that would actually attract the love they are looking for, and if your focus is on becoming successful or wealthy or whatever, your attention isn’t focused on the activities and tasks and to others that will actually lead to that success and wealth.  Love, success, and happiness catch you best by surprise while your attention is focused on doing in the world and being your best self in that world.
+
+Tim Ferriss: When you feel overwhelmed or unfocused, what do you do?
+
+Adam Robinson: When I’m feeling unfocused, the first question I ask myself is, “Am I rehearsing my best self,” and if the answer is no, I ask myself how I can reset. Each day presents us with 86,400 seconds, which means each day presents us with virtually countless opportunities to reset, recover our balance, and continue rehearsing our best selves.
+
+If I realize my focus is off, and certainly when I’m experiencing any negative emotions, I ask myself, “Where should my attention be right now?” Almost always, the answer is, “My mission,” which is like a beacon that always beckons. But, sometimes I take on too many commitments because I sometimes have trouble saying no to others eager to work with me. I can become a bit overcommitted and overwhelmed. So, when that happens, rather than attempting to do everything badly, I ask myself, “What activity or commitment can I cut out right now that will free up the most time?”
+
+Reminds me in a funny way this news story I read ages ago about a small European town – I won’t say what country, lest I offend it unnecessarily – in which the postal workers had trouble keeping up with their deliveries. So, on Monday, they do their best to deliver the mail, but they’d have some pieces left over, which they’d add to Tuesday’s delivery pile. Tuesday, they’d fall further behind, of course, and Wednesday and Thursday, further still. By Friday, they’d have an enormous pile of undelivered mail, which they’d burn so they could start fresh on Monday. The process would repeat the next week, a small bonfire every Friday purging their delivery vans of that week’s undelivered mail.
+
+Now that was a highly dubious way of resetting each week, which I don’t recommend. But, the idea of having a fresh restart whenever overwhelmed is excellent. So, let’s say by noon on any given day I’m falling behind, and it’s clear I’m in danger of becoming overwhelmed in short order. Rather than attempting to keep all of my afternoon appointments, which I’d reach later and later as the day progressed, I scanned my calendar and I asked myself, “Which is the earliest appointment as it where I can burn by postponing it to another day?” I’d rather reschedule one appointment and make the other three on time than be late and frazzled for all four appointments that afternoon.
+
+Speaking of which, each week, I leave one day completely open and schedule a pretend trip out of the city so I’m not tempted to fill it in any way, not even meeting with friends or having other fun diversions. Then, if an emergency arises or I fall behind and become overwhelmed, I know I have a “free day” to use any way I’d like. So, when I get overwhelmed trying to juggle too many balls simultaneously, I ask myself, “Which one or two balls can I set down for the moment so that I can get caught up on all of the others?”
+
+Tim Ferriss: In the last five years, what have you become better at saying no too?
+
+Adam Robinson: This is such an important lesson, being able to say no. It’s especially hard for me because of my inherent optimism and my unflagging enthusiasm, and because I always lean into each moment and every encounter expecting magic or miracles, and because life has rewarded me increasingly with tantalizing offers. So, I not infrequently say yes too often, to my regret, because I wind up overloading my cognitive or physical or energy bandwidths or simply run out of time.
+
+So, I’ve found a powerful, useful editing principal, as it were, in deciding whether to say yes or no to any particular request or proposal or invitation or opportunity is answering the following question: Will saying yes to this option advance any important goals in my life, especially my calling or my mission? The key point there is to have a personal mission in the world, which will not only give you a stronger sense of direction and structure and energy and motivation personally as well as professionally, but it’s also a filter with which you can decide whether to say yes to any particular short-term or long-term options or opportunities that arise for you on any given day.
+
+Keep in mind that the time spent on pursuits not related to your mission is time that could’ve been spent on it – not that all your time, of course, should be devoted to your mission. You’ll have other goals in your life personal and professional, and sometimes you’ll just want to goof off or otherwise enjoy yourself. But, the sooner you connect to your mission, the sooner all aspects of your life will fall into place.
+
+Tim Ferriss: What is an unusual habit or an absurd thing that you love?
+
+Adam Robinson: In the old television show, Candid Camera, reprised by Ashton Kutcher, Punk’d, in more recent times, unsuspecting people were videotaped coping in real time with an insane, prearranged situation usually to great, ensuing hilarity.
+
+I get endless delight covertly ambushing unsuspecting strangers with random acts of kindness. So, for example, after ordering my iced latte, I’ll give a Starbucks barista a $20.00 bill and tell him or her to comp the person right after the person behind me for whatever he or she wants, and to give that person the change as well. I don’t do the person immediately behind me, who might suspect that I was the mystery benefactor. Then, I sit my latte from afar and watch the confusion give way to smiles when the random beneficiary realizes the unexpected bounty. Sometimes, the person leaves all of the change as a tip. Sometimes, he or she will pay it forward and gift the next person behind a free coffee, but the beneficiary always leaves smiling broadly, and I know that I’ve unleashed a positive ripple effect in that person’s community and to anyone he or she encounters that day. I love spreading the magic.
+
+
+TAGS
+ADAM ROBINSON
+	

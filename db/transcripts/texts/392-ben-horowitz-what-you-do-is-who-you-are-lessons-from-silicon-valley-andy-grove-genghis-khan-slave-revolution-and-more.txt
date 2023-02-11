@@ -1,0 +1,277 @@
+
+
+NOVEMBER 12, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Ben Horowitz — What You Do Is Who You Are >> Lessons from Silicon Valley, Andy Grove, Genghis Khan, Slave Revolutions, and More (#392)
+
+
+Please enjoy this transcript of my interview with Ben Horowitz (@bhorowitz), a cofounder and general partner at the venture capital firm Andreessen Horowitz. He is the author of the New York Times bestseller, The Hard Thing About Hard Things, and the upcoming Harper Business book, What You Do Is Who You Are, available October 29th. He also created the a16z Cultural Leadership Fund to connect cultural leaders to the best new technology companies and enable more young African Americans to enter the technology industry.
+
+Prior to a16z, Ben was co-founder and CEO of Opsware (formerly Loudcloud), which was acquired by Hewlett-Packard for $1.6 billion in 2007. Previously, Ben ran several product divisions at Netscape Communications, including the widely acclaimed Directory and Security product line.
+
+Ben has an MS and BA in Computer Science from UCLA and Columbia University, respectively.
+
+
+
+
+#392: Ben Horowitz — What You Do Is Who You Are >> Lessons from Silicon Valley, Andy Grove, Genghis Khan, Slave Revolutions, and More
+
+Tim Ferriss: Ben, welcome to the show.
+
+Ben Horowitz: Thanks, Tim. Very excited to be here.
+
+Tim Ferriss: And I have so many questions. I have pages and pages of questions. We’ll try to get to as many as possible. I thought I would start with a name that I know you’re familiar with and that is Andy Grove. That may not be a name that all people know, but could you please describe who Andy is, why he’s interesting to you?
+
+Ben Horowitz: Yeah. So Andy was one of the founders of Intel, which is the foundational company of Silicon Valley, if there was any. And foundational, not only technologically but also culturally, I think importantly — and just an amazing guy. Probably for my money the best CEO we ever had out here. But he started his life, he was a refugee from Hungary, from World War II, and he had to escape the Nazis and then the communists, and came over on a boat, and with, I forgot, they gave him $27 when he got to New York and he taught himself English, and he went to school at CCNY, and became a physicist, and then eventually met up with Bob Noyce.
+
+He actually told me a very funny story towards the end of his life where Gordon Moore, who is the famous Moore’s Law and also a co-founder of Intel, when they brought Andy in to Fairchild Semiconductor, the way they picked him out, and he told me his very life, he said he finished his PhD at Berkeley in two and a half years, and Gordon Moore had found that people who have finished their PhD quickly correlate with high performers, so that’s how he got the job.
+
+Tim Ferriss: Well, that’s a perfect jumping off point for about a half a dozen things that I was meaning to get to anyway, but I’ll try to ratchet back my caffeine enthusiasm, and focus on Andy for a bit longer. High Output Management, you wrote the foreword to a reprint of that book which, when I lived in Silicon Valley, I was able to observe the rebirth of the resurgence of this book and its popularity. And I know some incredible founders who have stacks of this book in their offices to give away. Why did you agree or offer to write the foreword, and what are some of the takeaways that people might find in that book or that you found of particular value?
+
+Ben Horowitz: Yeah. Well, it was one of my favorite management books by far. In fact, I think it might have been the only management book that I ever read that I liked. So it was quite a thing for me when Andy called me, and he said, “Ben, I was watching you give this talk at Stanford.” And in the talk I was talking about my book, my first book The Hard Thing About Hard Things, and somebody asked me why I wrote it, and I said, “Well, when I was a kid, I read this book High Output Management.” And it was amazing because it was the CEO of Intel, which is the most important company in technology, he wrote this book and it wasn’t to say how great he was or all these books that these guys write who run big companies and how they, “Here’s when I learned the value of a dollar and then this is when I built a great big company,” and all this kind of thing they say. But it was a book to teach young people like myself how to manage. So it was just a complete contribution back to the environment with really, in a way, nothing in it for him.
+
+Reading that book I said, “Well, if I ever make it, if I ever become anybody that anybody wants to listen to, I’m going to write the sequel to High Output Management,” and that was what I tried to do with The Hard Thing About Hard Things. When he called me, there was no question. I was 100% I’ll write the foreword. But the reason it was such a great book is it was the original Hard Thing About Hard Things, and that most management books are like, “Here’s all the obvious easy stuff, and here’s eight random steps to do the most easiest thing in the world that anybody could figure out who wasn’t an idiot.”
+
+But Andy Grove, he went all the way right to the worst, hardest, most messed up things that you’d have to do. One of the things I remember from the book is he goes, “Well, hey, you’re writing a performance review and the rule of thumb is you never put anything into the performance review that you haven’t already told the employee, right?” Like, “Yeah, that’s the rule, that’s what we do.” And he’s like, “Okay. So now you’re at the performance review and there’s something that the employee needs to improve that you haven’t told them. What do you do?”
+
+And it’s like, okay, that’s a real life thing, and he’s like, “Do you put in the review or do you not put in the review?” And his thing is, “You’ve got to put in the review. It’s bad that you didn’t tell him, but it’s worse to not tell him now.” And those kinds of difficult decisions, how you really do that. Or it’s like, okay, people are late to meetings, they’re wasting everybody’s time, so stealing money from the company. It’s very awkward to deal with them, and so how do you deal with them on that? And that kind of thing, which is really what you need to know to put any of these management techniques into effect as how do you do it when there’s real conflict. And that’s why it’s just an amazing book.
+
+Tim Ferriss: So you mentioned the coming to meetings late, and then in one of your blog posts, you have some fantastic blog posts and excellent writing — both of course on the web in this case and then in the books — but you share an anecdote that begins with — for example, we can talk about sort of wartime versus peacetime CEOs, but a basic principle in most management books is that you should never embarrass an employee in a public setting. But Andy Grove, in the situation you just mentioned, once said to an employee who entered a meeting late, quote, “All I have in this world is time and you are wasting my time,” end quote, right?
+
+Ben Horowitz: Yeah. That’s one of my favorite things.
+
+Tim Ferriss: And well, almost —
+
+Ben Horowitz: And you have to realize when he said that, he was like God. So it was like God, he’s God of Intel, and you’re walking to an Intel meeting, so it’s like God telling you that you’re wasting his time.
+
+Tim Ferriss: I suppose the first question that I’d to ask, and we may end up getting into the wartime versus peacetime CEO differentiation, but what occurs to me is that he has a scientific background. He has an engineering and physics background. You also have a computer science background. How do you think about management? And I know this a very broad question, but do you think about management differently than many people? It would seem to be that the answer is yes, also just based on the observation you had about most management books, which I would agree with. How is your life experience maybe including computer science, informed how you approach or think about management?
+
+Ben Horowitz: Well, I think it’s an interesting combination because there’s a part of an engineering background that’s extremely helpful, which is can you think about systems? And can you think about how broad scale systems interactions occur, and what the implications are? And then there’s a different part which is a very kind of, I would say, high EQ component, which is in order to make that system work, you have to be able to see the company through the eyes of the people who are doing the work, which are usually the people who are not in the room when you’re making the decision. And you have to understand how it’s going to affect them, how it’s going to change their behavior and so forth.
+
+As an example of that, it’s easy if somebody comes to you and they say, “Ben, I really deserve a raise.” And you could go, “Okay, well, I like you and I want you to me, so I’ll give you that raise.” But you have to think about, if you’re [fair about] it at all, you go, “How will it look to the people who are not here? Is that fair? Have they gotten a chance at it? Is this person just getting the raise because he came into my office, or does he really deserve it? So do I have a systematic process to evaluate talent and allocate the money that we have, or do I run it like that because I’m not really thinking about it from everybody else’s perspective?”
+
+And so you end up needing both to be good at it, and I think going back to Andy screaming at that employee, that’s a little bit in the balance because that employees is definitely going to be ashamed and horrified, and maybe demotivated by him publicly embarrassing him, but in that instance what he was doing was something different, which was he was setting the culture, and saying, “Look, culturally, fundamentally, I’m going to teach everybody in this company a lesson by saying something that’s so powerful and so colorful that it’s going to spread like wildfire through my company. And everybody’s going to know that it’s not okay to waste people’s time by being late for a meeting.”
+
+And that’s more important in this case than the individual. It’s kind of a Confucian approach that the individual must be sacrificed for the good of the whole. And you have to do that as CEO from time to time. Now, you don’t want to do it gratuitously, because that is definitely going to hurt somebody’s feelings, and maybe that’s a great employee or whatever, but you do — particularly, if the culture is in place and they’re willfully ignoring the culture, which I believe is the case in this case, then you have to value the system and value that above that person’s feelings. And these are the trade-offs that you make in management, and that’s why it is complicated to get it right. It’s always broken down in management books are often, it’s like you’re talking to one person at a time, and that’s never the case. You’re always talking to everybody.
+
+Tim Ferriss: If this is a useful distinction, I’d love for you to define the two terms for us or the differences between two terms that is management and leadership. How do you distinguish between those two? I know it seems like a stupid question maybe, but I’d love for you to, if you’re able to just comment on that for a second or if it’s a bad question, we can move on.
+
+Ben Horowitz: I mean, I think a lot of leadership is — or the way I think about it, my own dictionary of it is — leadership is the art of getting people to follow you. And as Colin Powell said, “if only out of curiosity.” So that involves having a vision being able to articulate it, being inspiring, creating a feeling among people that you care about them in a way, and you care about their goals and objectives, and what they want out of life. And people want to follow people who have some number of those attributes.
+
+Management gets more into, okay, you have this great vision, you’ve articulated everybody likes it, but how do you operationalize it? How do you break it down into its steps? How do you make sure that people who need to communicate are communicating in these kinds of things? A lot of leadership is knowing what to do, getting people to follow you, and then management involves getting people to do what you know, and that’s a little bit of different part of your brain. Leadership is a little more on the creative side, management requires a little more discipline and systematization.
+
+Tim Ferriss: On the former, in the case of leadership getting people to follow you, if only out of curiosity, and this may not be a fit, but in the course of doing research for this conversation. I came across mention of a paper called Good Product Manager/Bad Product Manager.
+
+Ben Horowitz: Yeah. I wrote that when I was a little kid.
+
+Tim Ferriss: Yeah. And it seems like — at least the way it was phrased in this Fortune piece, quote, “It became a bible for the startup’s” — in this case referring to Netscape — “for the startup’s unpolished young executives.” So could you describe that paper and what impact it had on you and/or the people around you when it came out?
+
+Ben Horowitz: Yeah. So it’s funny. It was a piece I wrote out of pure frustration. So it turns out product manager is a weird job in Silicon Valley and in every single company it means something different. So what you do is that it doesn’t really translate well from one company to the next, and many companies have just bad product management functions. And so the people that I inherited when I got the job to run the team all had these differing and weird views on what the job was. I always found myself yelling at them going like, “Does that make any sense to you?” that kind of thing. I was at that level of frustration.
+
+And then one day I was just like I have to train the team on what I want, but I didn’t have time to put a training program together. So I sat down, I just wrote this document, Good Product Manager/Bad Product Manager. And the thing I had in my head was — and it’s a bad thought — was “This is going to be like dog training, like, ‘Bad, bad dog, good dog, bad dog!” So that’s where the name came from.
+
+But it was really just like, “This is what good product managers do and this is what bad product managers do, and just like let’s just be clear on that so you’ll know you can anticipate what I’m going to say if you do something bad, and we don’t have to have that conversation all the time.” And so that’s all it started out to be, and then what happened was, as you said, is people valued just getting that information so much that not only did my team use it, but then everybody at Netscape started using it, and then a huge number of people, product managers in Silicon Valley, still refer to that thing which I wrote in 1995.
+
+And what it taught me was everybody, no matter how smart they are, no matter if they went to Stanford or Harvard or whatever, they can always use training in the job that you want them to do because the job that you need them to do is, one, these jobs are very complex, and they’re different. And a lot of it is what do you expect as a manager? And so if your manager doesn’t train your people, I can’t imagine you’re good at your job, just because there’s no way they’re going to be able to read your mind on everything.
+
+Tim Ferriss: So I’d to talk about more lessons learned and then I’m going to segue from that into how you might teach others, because in a lot of ways you do teach others. Let’s chat about Bill Campbell. And Bill Campbell has come up once before on this podcast when I had a conversation with Eric Schmidt, legendary figure known throughout the valley as Coach, has advised people like Jeff Bezos, Steve Jobs, and so on. Could you share what your relationship was like with Bill, and some of the things or any of the things that you really absorbed from Bill?
+
+Ben Horowitz: Yeah. I mean he was just such a great help to me as CEO, and a lot of it was just being able to have a conversation with somebody who knew what I was talking about, and who knew what they were talking about at the same time, which is when you’re CEO it’s just very difficult to have those in a way that’s confidential and not with somebody who could remove you and that kind of thing. And so he was just invaluable to me in that sense.
+
+And a lot of what was so great about him is we could — so on the one hand we could argue about whatever, and he would have him put in like maybe I would listen to it, maybe I wouldn’t, but it would never — whatever I did never affected the relationship. It was just that kind of thing with him. But the thing that he did better than anybody that I’ve worked with is he could really see the company through the eyes of every single employee. He knew how people would react to every single decision. And he wasn’t even running the company, he was just coming in once in a while and so forth. He’d know enough people and that he would — but he had just this incredible sense about that, and that just proved to be very valuable. 
+
+So I’ll give you an example. So we had done this giant deal with EDS to sell them our old — we had this business that was going to basically make us bankrupt and by doing the transaction with EDS, we escaped bankruptcy and then launched into this other business, a software business which eventually became worth $1.6 billion or I think that was it.
+
+And so it was like, probably the most important deal we’d ever done as a company, and we do the deal, and I go, “Bill, we got the deal done. I can’t believe it. We’re going to announce it. You’re going to go on New York on Monday and we’re going to announce it.” And he’s like, “No, no. You can’t go.” And I was like, “Why can’t I go?” And he’s like, “Well, when you do the deal, this deal is going to involve selling some employees to them, laying some people off, and so forth. As soon as that news hits, you’ve got to be the person in the company talking to the employees and letting everybody know where they stand as quickly as possible.”
+
+And I was like, “Oh, of course. He’s right. I didn’t even thought that through.” And had I not done that — so I did that. I sent Mark to New York to do the announcement, but had I not done that, had I not stayed back and had that conversation, I don’t think we would have made it as a company because that day ended up being pivotal to reconstructing the trust that I needed to run the company going forward. And that’s the kind of value that Bill added. If you want to know who he is, the only person I’ve ever met who could do the thing that Bill could do is Oprah Winfrey. And I know that sounds probably weird in a way, but Oprah Winfrey can meet you and talk to you for five minutes and she can know you as well as somebody who’s known you 10 years. And Bill could do that too.
+
+Tim Ferriss: That’s so wild.
+
+Ben Horowitz: Yeah, You may have run into somebody like that, but it is amazing.
+
+Tim Ferriss: What do you think is behind that? Is it an ability to see behind the words and just deeply, empathically sense more about your core personality and what’s shaped it than other people? What allows an Oprah, for instance to do that? Do you have any theories?
+
+Ben Horowitz: It’s definitely a combination of things that I don’t possess. So it’s a little hard to read it, but yes, she can read in every signal your sending. So the tone of your voice, the expression on your face, the way you’re holding your hands. Everything is complete high fidelity information to her. And then she knows the exact right question to ask to get to the deeper level of what’s going on. I’ve seen her do it, I’ve seen Bill do it. I learned from it, but I literally don’t have the capacity to do it anywhere near their level. But, yeah, it’s some combination of they’re able to just process way, way more information about a person much, much faster and then great retention on the thousand people they’ve met before that might match to that. It’s super impressive.
+
+Tim Ferriss: Yeah. I enjoy trying to deconstruct the secret sauce, but sometimes it is just impossible to do.
+
+Ben Horowitz: They’re magic.
+
+Tim Ferriss: Yeah. There are certain people who are hard-wired for a different spectrum of perception. On the other hand there are a lot of coachable or teachable skills, and if we’re looking at management I’d shift from, say, in some respect, student of Bill or advice receiver of Bill Campbell to advice giver, and has said that you are the management guru to all of the young entrepreneurs in the valley. I want to dig into that for a second because of course you have much faster experience than I do, but having spent almost 20 years in Silicon Valley before moving, you spend a lot of time with first-time startup founders who in some cases have a real tiger by the tail. And many of these CEOs are really great product people with no real management experience to speak of, who have never had this type of game to lose, if that makes sense.
+
+What would you teach or what do you teach or advise someone like that if you have, say a first afternoon meeting with them or a few hours there, a new portfolio company. In walks this bewildered CEO who’s entering deep waters. How do you begin to cultivate them or advise them as a manager in training so to speak or a CEO in training?
+
+Ben Horowitz: Yes. They’re all different but there’s things that are similar about them, and some of them are good at some things, and others about others. So I don’t know that there’s a thing that I would say to any of them, but one thing they all struggle with is how to build their team, particularly their management team. It’s kind of what you’re speaking about, okay, it’s different if they’re not succeeding or whatever, but if they’re succeeding and the company’s degenerating because they don’t know how to run it then that usually gets into this whole executive hiring, integrating, managing problem and this is — First of all, none of them are good at it. We’ve never had a first-time CEO who is good at this, and I know I wasn’t good at it when I started.
+
+And the problem is your board goes, “Hey, you need to hire a CFO. Somebody’s got to keep track of this place. It’s going crazy. What are you doing?” You go, “Okay. I’m going to hire a CFO.” And you go, “Well, I’m the CEO so I must know how to do that.” But you don’t know how to do that. And not only that, you’ve never worked in a finance organization, you don’t even know what the CFO job is. I always ask “What’s a good control structure? How would you distinguish a good one from a bad one?” They may have no idea, and so how are they going to interview a CFO? It’s sort of like interviewing a Japanese interpreter if you don’t know Japanese. They are going to sound wonderful, right?
+
+Tim Ferriss: Now I’m going to plead ignorance before we get too deep into the weeds. What is a control structure in this context?
+
+Ben Horowitz: So just how does money get spent? Do you know every dollar that’s getting spent? When money comes in, do you account for it properly these kinds of things and how do you do that systematically as the company grows? And people have budgets and all these kinds of things. So it’s just something that they don’t know how to do and they don’t know how to save that they don’t know how to do it, and they don’t know how to learn how to do it. And so I always like to just start with, “Okay, let’s talk about a process for learning how to possibly at least get a criteria for your company for this position, not a general, like, the platonic form of a CFO because it doesn’t exist.”
+
+But a CFO for this company right now, what do we need? And then how do we do that? Well, maybe we should talk to some CFOs, see what they would hire for us, see if that matches us, see how they would test for it in an interview, and then get deeper into it. But even as you go through all that, once that CFO gets signed, how do you teach them about your company? What does day one look like? How do you integrate them? These kinds of things.
+
+It really has to be a hand-over-hand instruction. And then once they’re in there, if you hire somebody — a lot of times these CEOs will hire somebody who’s so senior and so aggressive because they went for the biggest resume they could find — and the person doesn’t want to be CFO, they want to be CEO, and then that person will start trying to grab territory from the CEO and all these kinds of things, and you’ve got politics you’ve got to handle. And so it’s just a long — I would say it’s not a quick manual; it’s an ongoing conversation to understand where they are, what they have to do, how to retain their mojo, all that kind of thing.
+
+Tim Ferriss: Well, I’ll start with saying that The Hard Thing About Hard Things, your book, one of your books I should say, is one of the most recommended books that has come up in the last handful of years on this podcast —
+
+Ben Horowitz: I appreciate that.
+
+Tim Ferriss: By what I would consider certainly high-performing founders and CEOs. You mentioned or we mentioned High Output Management earlier. Are there any other books that you would give to a first-time founder who does have a tiger by the tail? Who’s doing well but clearly out of their depth in a new level of complexity with running what is turning into a company as opposed to just a good product?
+
+Ben Horowitz: It’s funny. People always ask, “What are the management books you’d recommend?” And I’d be like, “I don’t know.” So I think that — and it depends a little on the leader — one of the books that I have been recommending for years was a book written by CLR James in 1937 called The Black Jacobins, which is the story of the Haitian Revolution. And you go, “Okay, what kind of leadership book is that?” But it turns out that Toussaint L’Ouverture, who led that revolution, was basically a management and cultural genius better than anybody that I’ve ever read about or learned from. And it just ends up being a great leadership book. I think Colin Powell’s book, his autobiography, is very, very interesting on leadership. There’s a bunch of — I think if it’s a little company, Eric Ries’s book is great, The Lean Startup.
+
+Tim Ferriss: The Lean Startup.
+
+Ben Horowitz: Yeah. I mean, amazing at teaching you things that particularly if you’ve not built a new company before or just really fundamental lessons, and we see — there have been some things in the news lately about with fat startups, which were all the ones from my era, but the dangers of fat startup I think he really articulates amazingly well in that book, and that is one of the early traps you can fall into, particularly in an environment like this where there’s a lot of venture capital money running around.
+
+Tim Ferriss: And the the job of CEO, I’ve enjoyed a lot of your writing and in one of your blog posts, I think the title is making yourself a CEO at least that’s — You talk about how the job of CEO is a very unnatural job, and I’m cherry-picking here a couple of lines, but to be a good CEO, in order to be liked in the long run, you must do many things that will upset people in the short run, unnatural things. How have you cultivated that ability in yourself or helped others to cultivate a willingness to be unpopular in the short run? I think this at least strikes me as a real critical differentiator. Could you speak to that?
+
+Ben Horowitz: You’ve hit on probably one of the most important kind of leadership skills, and the easiest way to think about it is if you make decisions that everybody likes all the time, then those are the decisions they would have made without you, so you’re not essentially adding any value. Almost by definition a lot of the most important decisions end up being ones that people don’t agree with and don’t like and are difficult, and cause people not to like you — at least for a while. And the way I generally work with CEOs on this is — because it’s very difficult, because there’s so much emotional psychological force pushing them to make the wrong decision, the easy decision, the one that is going to be the people-pleasing decision. And a lot of it is just pointing out what’s going to happen, letting them make it, and then when the pain comes, “You remember we talked about this, and this is what happens.”
+
+A lot of it is just you have to go through making those mistakes to train yourself. It’s running towards the darkness. There’s this pain and dark area where you know people aren’t going to like you. You know it’s going to suck. Maybe you have to fire somebody, maybe you have to lay them off. Maybe you have to make a very unpopular decision to cancel a project or whatever. But if you run away from that — because then you always know you have to do it; you can sense it when you run a company — if you run away from that, that’s when you really get a huge raging fire, and that will potentially burn down your company.
+
+Tim Ferriss: And it seems to me — and I’ve never run a large company, but just in my interactions with various CEOs and founders — coming back to the CEO position is a very unnatural job that there are certain maybe technical abilities or procedural abilities maybe that are pretty easily trained or relatively straightforward, and then there are others that are perhaps less explicitly taught. And one that you’ve written about before is the ability to manage your own psychology.
+
+Ben Horowitz: Yeah.
+
+Tim Ferriss: What tools or techniques have you personally found or routines, anything at all really to be useful for cultivating an ability to manage your own psychology, and maybe you could just describe what that means to you?
+
+Ben Horowitz: Yeah. It is certainly the hardest part of the job because what happens is — and you don’t think about this when you’re starting a company. It’s one of these — and I always talk to entrepreneurs about this. I’m like, “If you knew what was involved when you started, you would never would have started.” They’re like, “Absolutely right. There’s no way I would have done this.” So it’s kind of a blessing that you don’t know, because if you did know, then nothing would have ever happened.
+
+The thing that happens is you have this idea to start a company and then if you just think about that socially. So you’ve got a lot of friends and relatives and some of them are excited for you. Some of them say, “That’s never going to work,” and you da, da, da, da. And you want to prove them wrong and all that. But then you’ve got to go out and you’ve got to sell people on the idea, so you’ve got to hire people into this vision that you have, and then you’ve got to raise money behind it. And often some of that money might even come from your relatives, that kind of thing.
+
+So you’ve got this money that people have entrusted you with. You’ve got careers that people have entrusted you with, and you start going, and then something goes wrong. It looks like the company may not work. And so what’s the consequence of that? Well, every relationship you have, you’re going to violate if at all goes down. And that is super scary. It couldn’t be more scary. To not let that thought or that set of thoughts paralyze you can be really difficult at times. A lot of it — first, one of the most important things which I wrote about is, first thing you can’t think and — you’ve got to not think the way investors think in probabilities, you have to just think in terms of “How do I do this? If there was a way out, which way is out?” and train your mind in that direction as opposed to, “Well, there’s a 90% chance that we’re not going to get this deal, and if we don’t get this deal, we’re going to whiff the quarter and if we whiff the quarter, we won’t be able to raise money. If we won’t be able to raise money, then I’m going to have to lay everybody off.” 
+
+Once you start thinking like that, you literally can’t function. And so getting around to, “Okay. I’ve got one bullet in the gun. I have got to hit the target. So I’m going to do whatever I can to get as close as possible, and then we’re going to shoot our best shot, and there’s going to be no contingency plan, and no way out. If somehow we don’t make it, we don’t make it, but we’re going to die trying.” Getting to that mentality is really the key to being an effective entrepreneur, I think.
+
+Tim Ferriss: What have you found to be helpful for managing the stress of that type of sort of existential threat level, one shot, one kill psychology? Are there are any particular habits or types of self-talk or anything that you use or encourage that allow people to perform better under those types of circumstances?
+
+Ben Horowitz: Well, I don’t want to exaggerate how good I was at it because I was up at 2:00 in the morning in a cold sweat with my guts boiling, all that stuff. It’s not like I didn’t have that. I wasn’t great at it in terms of managing it in that way. I mean the things that helped me were one just always focusing on what I could do. There were so many things I couldn’t do. So many things out of my control. So many things that — I mean, I was in the middle of the greatest technology equity meltdown in the history of the world. So there was nothing I could do about that, although it was hurting me, but it just didn’t make any sense to think about those things. So just really thinking about the things that you can do.
+
+And then Bill Campbell is just very helpful to just be able to talk to him. It wasn’t like he had any answers either, but just to have somebody that I could at least get it off my chest, I was like, “Look, we’re in a spiral.” And he’s like, “Yeah, you’re in a spiral,” and I was like, “I think we have two shots to get out and here they are.” Just at least talking it through and not feeling like I was missing anything.
+
+I think a lot of people now they meditate and do other kinds of things and so forth. I would have wrapped it up, but that’s not what I did at the time. So just like sweated it out, and cut years off of my life and all that kind of thing.
+
+Tim Ferriss: It strikes me that one of your superpowers may be running towards the scary things and not away from the scary things — which might result in a lot of acute short-term duress, but it may ultimately result in less long-term duress. Could you explain the line “sharpen the contradictions?”
+
+Ben Horowitz: Yes, this is a line, I think this was from, actually, originally Karl Marx, and he was speaking of sharpening the contradictions between capital and labor to basically accelerate the revolution. I definitely think Lenin used it because Lenin was amazing with rhetoric, and that kind of thing. He was definitely a rhetorical genius — also wrong about everything and had a horrible impact on the world, but that’s a different story. But I like to use it in management because it’s a great cue for the CEO because what happens in an organization is you’ll see little disagreements between people, and a lot of your inclination is to smooth things over, but the right answer is usually to sharpen the contradictions.
+
+And the reason you want to sharpen the contradictions is because there’s information in that contradiction. There’s information about how you’re not communicating, how the objectives are not aligned, how the strategy might be wrong. You’ve got to get that, because that’s where the truth is. And so when you smooth that over, if you don’t bring it to a head and resolve it, then you miss an opportunity. So it really is — it’s one of the most important techniques, I think. Any time in a board meeting, any time I hear a little bit of disagreement or I see an inconsistency in the strategy aisle, that’s always my cue to own self. That’s when you get the answer. Now it’s also a good way to start a revolution, so you’ve got to be careful.
+
+Tim Ferriss: So you are not a fan of the default —
+
+Ben Horowitz: Bolshevik revolution?
+
+Tim Ferriss: No. Well, maybe that too, but I was going to say you’re not a fan of the default backpedaling, “Oh, no. It’s a miscommunication” that type of — 
+
+Ben Horowitz: It may be, but it’s probably a systemic miscommunication. You know what I mean?
+
+Tim Ferriss: Right.
+
+Ben Horowitz: As opposed to like, “Oh, yeah. You meet this, and you meet that, so now we’re all happy.” That’s not what happened. [inaudible]
+
+Tim Ferriss: Very rarely. You have a new book.
+
+Ben Horowitz: Yes.
+
+Tim Ferriss: Why write a new book? I mean, you’re a gifted writer, but why write a new book and why this book? Could you describe what it is?
+
+Ben Horowitz: That’s a great question because after I wrote the last one I was like, “I’m never writing another one.” I said no.
+
+Tim Ferriss: Right.
+
+Ben Horowitz: So it surprised me, but it’s interesting because when I was first learning to be a CEO, one of the — I asked Bill and I asked a lot of other mentors what should I focus on, and a lot of them said, “You should focus on culture.” But then I said, “Well, how do I do that?” And nobody really had any kind of — it was all these weird abstract ideas that they weren’t compelling, they weren’t well articulated. And I never — and it was always a grope in the dark for me to try and understand how to set the culture, how to change it. And so I really became obsessed with this question for myself, and I did a lot of — even in my life, I’ve been interested about culture in a broader sense.
+
+And so I just really, really, really spent a lot of time going through history, going through kind of trying to understand how people did it, what were the components, and it turns out to be I think one of the most central parts of management and that if you think about management tools, there’s the mission statement, and there’s the OKRs and KPIs, and whatever your objectives. And you’ve got all these kinds of things, but none of them really dictate the things that really define who you are. You show up on time for meetings, you stay at the Four Seasons, you stay at the Red Roof Inn.
+
+Do people go home at 5:00 or they go home at 8:00? What company is this? What are all those behaviors? Do you get back to people right away or do you never get back to them or you get back to them in three days? All those behaviors are your culture, but how people are behaving when you’re not looking. So what do you do about that? And how do you set that, and how do you make that go because that ultimately is really going to speak not only to the quality of your company but what impression it makes on the world? Is it a good company to do business with? Is at a bad company? Is it a place where people work and their life becomes better? Is it a place they work and their life becomes worse?
+
+What are all these things? And they’re all a result of this weird abstract thing called culture, and so as I started working with CEOs, of course none of them know, really, how to deal with it at all. They have ideas but mostly ideas are half-baked and mostly wrong. So I thought I should really go back and re-study this problem and see if I can articulate it, and that’s what the book is about. And it’s called What You Do Is Who You Are because it’s not what you believe, it’s not your values, it’s not what you tweet, it’s not your social signal, it’s what you actually do, that’s who you are. And once you get your head around that, you realize that’s a big task.
+
+Tim Ferriss: And the subtitle is How to Create Your Business Culture, and you, I think alluded to at least one big component of this, but is culture then, as you define it here, a shared set of behaviors and beliefs? Or how would you suggest people who are listening to this perhaps change how they think about culture or ask themselves questions that will help to refine their thinking if they’re CEOs or founders of a company for instance?
+
+Ben Horowitz: Yeah. And one of the greatest, most longest-lasting cultures in history is this way of the warrior, the culture of the samurai. You can like that culture or not, but you have to give it credit for the fact that it lasted over a thousand years, and to hold a culture for that long is amazing. And one of the key insights from Bushido is: a culture is not a set of beliefs, it’s a set of actions. And that’s really what the culture is. And this is why I think people miss it so much because they think it’s a shared set of beliefs, but it’s not. It’s a shared set of behaviors. And you don’t even have to believe, but if you behave that way, that’s a culture.
+
+And what you have to ask yourself is: “What are the behaviors that show for real that we’re doing what we believe?” And I’ll just give you an example in venture capital. Every venture capital firm says they have great respect for the entrepreneurs.
+
+Tim Ferriss: Right.
+
+Ben Horowitz: Very few treat entrepreneurs with any respect at all. And so you go, “Well how do you have that disconnect?” And it’s because they haven’t defined what are the actions that translate into that being a real thing and a real part of the culture. And so this is one of the problems we had to solve when we started the firm, and one of the things I put in place very early on was if you’re late for a meeting with an entrepreneur, I collected $50 a day. It’s $10 a minute. And people are like, “Well, what if I had to go to the bathroom?” I don’t care. “What if I had to make a phone call?” I don’t care. And the reason I have it that way is because I want them to ask me “Why?”
+
+And when they say “Why?” I say, “Because building a company is really, really hard.” And if an entrepreneur takes time out of their day to come see us, we’re going to respect the fact how hard it is and we’re always going to be on time. No excuses, plan your day, finish that phone call five minutes before you have to meet with the entrepreneur. Go to the bathroom earlier or don’t drink that eighth cup of coffee. You need to do what you’re supposed to do. And you have to set these kinds of things in place if you’re really going to live up to your ideals, and that has to be across every dimension of the culture. You have to program it in, or you’re just not going to have it. You’re going to talk it. And then if you talk it and don’t do it, then your culture becomes your hypocrisy.
+
+Tim Ferriss: Right. Is culture something that you really have to get right at the get-go or is it possible to do a rehaul and make it work without replacing all of the employees at a company?
+
+Ben Horowitz: You definitely can change culture. You definitely can change culture. Actually two of my favorite examples in the book are one, the Haitian Revolution where L’Ouverture reprogrammed slave culture into a military culture, which is almost unfathomable in that not only did he have a slave culture, but it was one of the most difficult slave cultures. It was a significantly more brutal slave environment than even the US slave environment. From the beginning of the transatlantic slave trade to the Haitian Revolution, I think 900,000 slaves were brought to Haiti. At the end, there were 465,000 left at the start of the revolution.
+
+In the US, 500,000 slaves were brought in that same period and there were 700,000 left. So it was quantitatively that much more brutal. So a very difficult environment of low trust to build a military force, and he built a culture that created an army that defeated probably at least two of the strongest European military powers in history: France under Napoleon and the British Empire. And so you got to say absolutely you can change the culture, and he used the same guys, the same guys who were slaves, didn’t even have clothes, that kind of thing to that kind of army.
+
+And then the other one that I found very interesting is Shaka Senghor, who was running a prison gang, a very violent prison gang, and just changed the culture to be remarkably empathetic for it. It’s still a prison gang. So it wasn’t all friendly, but it was a really significant change. And those guys — I have met some of those guys that he had there as they’ve gotten out of prison, and it’s just remarkable the effect it had on them not only in that organization, but coming out. So 100% it’s possible.
+
+Tim Ferriss: And in either case, in the former, that is, at least based on my very limited understanding, was, if not the only, one of the only successful slave revolutions?
+
+Ben Horowitz: Yeah, it’s actually the only slave revolt in human history that ever resulted in an independent state.
+
+Tim Ferriss: What were any of the things that he did that helped with that transformation from slave culture to sort of organized military culture?
+
+Ben Horowitz: Yeah. He’s quite a remarkable guy along these lines and that he was born a slave so Toussaint was born a slave, but he was so smart that the plantation owner basically made Toussaint — he let him read. So he learned to read and he read things like Caesar’s commentaries where he learned a lot of his military strategy and some economics books and so forth. But he also made him his driver and so Toussaint was able to go to all these meetings on the island so he learned French colonial culture kind of Roman military culture and then he also knew slave culture, so he had this really comprehensive cultural understanding. So he knew the elements of the various things that he wanted.
+
+And so one of the techniques he used, which I refer to as create a shocking rule was he had to solve this problem that trust was super low. I mean, the most difficult part of slave culture is it lacks trust and the reason is trust is really a long-term commodity, and that I’m going to do something for you today because I trust that over time, it’s going to pay off for me. But if you’re a slave there’s no tomorrow. You have no possessions, they could take your family at any point. They can kill you at any point. you don’t own your own life. So to build trust in that environment is almost impossible.
+
+The way Toussaint did it is — or one of the ways he did is he created this rule, which was basically officers can’t cheat on their wives. And you think about that, and you go, “Okay, well, maybe that’s not that big a deal,” but you’re talking about an environment where basically soldiers were paid in raping and pillaging. That was a fundamental thing that everybody did outside of Toussaint’s army. But he said, “Now, look. I need to be able — your word is everything.” And he had a great line about — he’d rather relinquish his command than break his word. That’s how much emphasis he put on it. “And if I can’t trust you to keep that one promise, then you can’t be an officer in the army.”
+
+And so everybody wanted to know why that rule was in place. And so that starts to build up. “Okay, here’s how much we value you keeping your word.” And so that was one little aspect that he did to reset the culture. Another thing was he really elevated ethics. And you go, “Well, like, why is that important?” Well, you live with a higher code, and you have a stronger bond because it gives you a feeling about yourself, and a feeling about the people who you’re working with that we’re doing something important. He outlined that and outlawed raping and pillaging in the army.
+
+He said, “Look, we’re after something more important, and that’s liberty. And so we’re not going to rape and pillage.” It became so powerful that the white women in Haiti referred to Toussaint as father. This is a slave who’s running an army. They like him better than the troops from Spain, or Britain, or France. They loved the slave army better because they treated them so much better. And there’s a great story around this which — and it’s a legend, so it’s one of those ones we don’t know is true, but the name Toussaint L’Ouverture, he was born Toussaint because slaves only had a first name. It was part of the dehumanization process. And L’Ouverture came later and nobody knows for sure why.
+
+But the story is Napoleon hated him. He drove Napoleon crazy. Napoleon suffered more casualties in Haiti than in Waterloo, and he wanted to get him so badly. And he got his generals around. He said, “How can you not defeat this slave?” And the general said, “Well, we get him backed up, we surround him, but every time we think we have him, there is an opening.” And so his name is Toussaint L’Ouverture, Toussaint, the Opening. At least my belief is that those women in the town, they helped him in a way that Napoleon could never understand because he had elevated the culture to that degree. So those are a couple of things. I could go on for obviously hours and hours and hours on the Haitian Revolution.
+
+Tim Ferriss: Yeah, fascinating. I mean this is something I knew nothing about before doing some homework for this conversation, and I’m excited for — but hopefully the clarity, and with that precise action that the book will bring to something like you said “culture” in quotation marks is often thrown around as a collection of very high altitude abstract concepts, but without any real plausible next steps. But this really makes the abstract concrete or it seems that way that you’re both giving examples historical and current day of how to install these shared and in some cases rewarded behaviors.
+
+Ben Horowitz: Yes, definitely. That’s why I’m so excited about the book. I mean, I just feel particularly now, and you see all these criticisms of high tech culture, and this CEO, “How could he run a company like this?” and so forth. And whenever I see that I’m like, “Well, it’s really hard. It’s really hard to get 10,000 people to behave the way you want them to. And the default is everybody’s culture is screwed up and it takes a lot of effort to make it good.”
+
+Tim Ferriss: Yeah, it makes me think of the — there’s a Ram Dass quote which I’ll paraphrase, but it’s something along the lines of “If you think you’re enlightened, go spend a week with your family.” And it’s like okay, everybody should reflect on that when they’re criticizing especially, I would say, a relatively unseasoned or new to the job CEO’s ability to get 10,000 people to behave well. It’s very difficult. It’s very, very, very, very, very challenging. What would you consider success for this book? What type of outcomes would you like to see in the world?
+
+Ben Horowitz: That’s a great question. It’s funny because when I wrote the first one my goal was that the CEOs in the portfolio would read it. And that turned out to be a good goal because it was so narrow that I think it forced me to write a specific book, which I think a lot more people liked. And this one, I think that anybody who cares about their imprint on the world, this is the book for that and that — and I always tell the people at the firm, “Look, when we’re all retired, we’re not going to remember every deal that we did that was good, or that we did that was bad, or that we won or that we lost, or how much money we made, or any of that, but we’re going to remember what it felt like to work there and what it felt like for the people who interacted with us. And we’re going to know if we were proud of it or it’s something we want to forget.” 
+
+That’s what culture is really about. It’s like who are you? What do you do? What does it mean to know you? I think it’s such an important thing, but people don’t have the mechanics for that or I hadn’t been able to find anything that I could read on that. So that’s the purpose of the book.
+
+Tim Ferriss: And I really that it also — I would imagine, and I haven’t yet read the book, but I’m very excited that it provides examples that allow people to see principles in action and sort of deduce how those might apply to their own decisions whether that’s, say, Reed Hastings right at Netflix or rewinding the clock and going all that all the way back to Genghis Khan who’s of course — I shouldn’t say of course, but someone that I’ve been really fascinated with for the last few years.
+
+Ben Horowitz: Oh, interesting.
+
+Tim Ferriss: For many, many reasons. And has been really portrayed in a lot of the coverage in a one-sided, sort of one-dimensional way.
+
+Ben Horowitz: Yeah, unfairly.
+
+Tim Ferriss: Very unfairly. But the scale and scope.
+
+Ben Horowitz: He’s underrated.
+
+Tim Ferriss: Very underrated. And the vision of cultural inclusiveness that you talk about in the book as it relates to that, I think it will be really eye-opening to people, and I’m excited about it for that reason. I know we’re coming up on time. It be fun to grab a coffee and a round two some other time.
+
+Ben Horowitz: Yeah. That would be awesome.
+
+Tim Ferriss: I still have a long list of questions, which we can get to some other time, but let me ask just a couple of really quick closing questions, and then we can bring this to a wrap, but this question is sometimes one that is difficult to answer, but I’ll lob it out there and see what we get, and that is if you had a billboard, this is a metaphor of course, but a billboard on which you could put anything you want, an image, a question, a word, a quote, but it allows you to convey something to billions of people, non-commercial. Can you think of anything that you might put on such a billboard?
+
+Ben Horowitz: So this is just really off the top of my head because I was listening to this song this morning, but my friend Nas has this great line which is, “I know you think I’m rich because of my diamond piece, but I’ve been rich since I started finding peace.” That’s my vibe today.
+
+Tim Ferriss: Well, that could be a podcast in and of itself just digging into that.
+
+Ben Horowitz: Right. I think it says life is good. Maybe life is good. I think my life is good because of my diamond piece.
+
+Tim Ferriss: All right. Well, finding peace. That will be part of our round two. Is there anything else in terms of closing comments, suggestions, recommendations asks of the audience that you’d like to add before we close up this first installment at least?
+
+Ben Horowitz: Yeah. I think that what I would just say is the book is really to enable you to do what you need to do as a leader and as an organization to be who you want to be. And as a leader I think that’s the most important thing.
+
+Tim Ferriss: Wonderful. That is What You Do Is Who You Are. You can find that anywhere books are sold. People can wave hello on the internet, on Twitter @bhorowitz, and we’ll link to you that and everything else in the show notes including everything that we mentioned. So people listening can find that at tim.blog/podcast. Ben, this has really been a lot of fun and very enlightening and enlivening. And I have all sorts of notes to follow up on for my own research and reading. And so thank you so much for taking the time. I really, really appreciate it.
+
+Ben Horowitz: All right. Thank you, and I’m looking forward to round two, and the cup of coffee.
+
+Tim Ferriss: Deal.
+
+
+TAGS
+BEN HOROWITZ
+	

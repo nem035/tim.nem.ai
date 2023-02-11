@@ -1,0 +1,904 @@
+
+
+JUNE 21, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Kara Swisher (#218)
+
+
+Please enjoy this transcript of my interview with Kara Swisher, executive editor of Recode and the host of the Recode Decode podcast. 
+
+
+
+#218: The Most Feared and Well-Liked Journalist in Silicon Valley - Kara Swisher
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss, and welcome to another episode of the Tim Ferriss Show, where it is my job to deconstruct world class performers of all types to tease out the habits, routines, beliefs – sometimes very strong beliefs – that they have, or philosophies that you can apply in your everyday life and take for a test drive.
+
+This episode is a treat; it was a lot of fun to do. My guest is Kara Swisher, @karaswisher on Twitter, K-A-R-A, S-W-I-S-H-E-R. She’s been called “Silicon Valley’s most feared and well liked journalist” by New York magazine, specifically Benjamin Wallace. That is such a good headline and it’s an even better piece, so I suggest you check that out as well.
+
+Here’s just one example of why she’s feared and respected. You can graph the impact on Yahoo’s stock price of various posts by Kara. That’s just the tip of the iceberg. She attended Georgetown’s School prior to changing course to journalism. And as it turns out, many of the skills that would make a good spy, let’s say, are the same that make a good journalist: developing sources, asking good questions, scenario planning, and much more.
+
+She forged her reputation at the Washington Post and the Wall Street Journal, and now she spends the majority of her time as Executive Editor of Recode, and the host of the Recode Decode podcast. Over the last 11 years and alongside Walt Mossberg, she’s also produced D: All Things Digital, a major high-tech conference with interviewees such as Bill Gates, Steve Jobs, and many other leading players in the tech and media industries. There’s almost always – I think it probably is always a waiting list to attend this event.
+
+And in this podcast episode, she and I cover a lot of subjects, enjoy quite a few laughs, and dig into details you can readily apply and test yourself. Topics include the art and craft of good questions, lessons learned and favorite moments from interviewing Steve Jobs, some great war stories; what separates good from great journalists. Then we have more war stories, missed opportunities, and optimistic pessimism. It’s very wide-ranging and I’ll leave it at that. Without further ado, please enjoy my conversation with Kara Swisher.
+
+Kara, welcome to the show.
+
+Kara Swisher: Thank you, Tim.
+
+Tim Ferriss: I am so excited to be here.
+
+Kara Swisher: I am excited to be here even more so.
+
+Tim Ferriss: I would be lying if I said I weren’t just a little nervous.
+
+Kara Swisher: Why is that?
+
+Tim Ferriss: Because you’re so experienced and so good at asking questions.
+
+Kara Swisher: Well, you’re saying manipulating people; yes I am fantastic at it so just accept that fact and let’s move on.
+
+Tim Ferriss: Alright. So moving on, what separates in your mind a good journalist from a great journalist?
+
+Kara Swisher: You know, it’s interesting. People ask me this all the time because I do tend to beat people a lot. It’s pretty easy in lots of ways to do better than other people. And I think about it a lot. A lot of people think there’s some special sauce, or some magic or you have a particular skill. I think there are skills that you can develop but I actually do think I just work harder than people. I just work harder and I try harder, and I am more persistent; I guess that would be it.
+
+Tim Ferriss: What do you do more of or less of, if you were to, say, compare your focus and the way you work to people who are unable to do what you do?
+
+Kara Swisher: They’re lazy. I just really don’t know how to put it. Two things. It’s not just laziness; it’s laziness and lack of observation and awareness. The skills that reporters should have are persistence, ability to ask questions, and just an ability to analyze. You know what I mean? I went to the School of Foreign Service at Georgetown; I was going to be a spy. And I do a lot of scenario building whenever I think about things, or when I’m thinking about companies or businesses.
+
+So often when I’m thinking about what some company is doing or what I want to cover, like for example Twitter and a sale; just anything. It could be any errant thing. I go: what would I do? What are those fuckers up to? What could they be up to? And there are ten things. There are not more than ten things they could be up to, and I follow every one as if it’s the truth. Then I find the right one. It’s really pretty easy. I think reporters are so reactive. Something happens and then they write it, and they tend to type it down.
+
+They never take a minute to analyze it; they never take a minute not to react, to imagine what people could be doing. So you can almost create your news if you start to get smarter about it. Most reporters literally just react and type. So that’s what I find.
+
+Tim Ferriss: Why did you not become a spy?
+
+Kara Swisher: I wish I did. I was gay. At the time, it was hard. I’m pretty old, Tim. I’m 54. At the time, and people forget this and maybe it’ll happen again but I don’t think it will; it was hard to be gay. You had to be furtive and hidden. At the time I was somewhat hidden, not completely but enough. There was a price when you came out. There were all kinds of issues around being out and being in government at the time. Remember, we had Don’t Ask Don’t Tell for awhile, which was insane.
+
+Before that, a lot of punitive things that would happen; your own family would be awful. I remember talking to someone at the time, and they were like: well, you obviously couldn’t be deployed to Saudi Arabia because they hate gays; they want to kill gay people; they want to kill gay people across the world.
+
+And I was like: well, I don’t speak Arabic so that wouldn’t work out for me; that kind of thing. So it was just a constant thing I couldn’t do, besides being a woman, also. So I think it was that. I think I would have been a good spy. I would be like Carrie Matheson without the bipolar. That’s the kind of spy I would have wanted to be.
+
+Tim Ferriss: What drew you to that, and following that track in the first place?
+
+Kara Swisher: I studied at college and then later at journalism school at Columbia, propaganda. I’m really interested in the uses of propaganda and the effectiveness of propaganda. It’s probably why I’m attracted to the internet because it’s propaganda in a lot of ways. So I would study communist propaganda systems; Nazis, I was very interested in how the Nazis managed to [inaudible] –
+
+[Crosstalk]
+
+Kara Swisher: Yes. By no means admiration but it was effective. So I was really interested in how they could take a whole group of people and demonize them, the subtle norms of it; all the different things.
+
+So I was really interested in that. And I was interested in how people are fooled and tricked and how easy it is to manipulate people. I wanted to not do that and make things clear for people. I’m both offended by propaganda and fascinated by it. I’m doing it on a lesser level. I’ve started to write about Trump a lot, which I think is more meaningful to me.
+
+With companies, like so-and-so, Yahoo tells you this: well, let me just actually tell you what’s going on. Like, it’s not precisely a lie but it certainly isn’t the truth. And I think Silicon Valley is one of the places that tries to suspend disbelief almost all the time. Sometimes it’s great because you have to believe in yourself, and other times it’s just pure bullshit; more bullshit lately than anything else.
+
+Tim Ferriss: A lot of bullshit out there.
+
+Kara Swisher: Yeah, there is.
+
+Tim Ferriss: I would imagine part of discerning the truth and building up these scenarios, and traveling down, say, ten paths until you identify the proper story, the real story is sources.
+
+Kara Swisher: Right.
+
+Tim Ferriss: This all makes so much more sense now, thinking about the spy context. We’ve landed in Beirut; how am I going to cultivate my sources? How do you cultivate sources?
+
+Kara Swisher: A couple things. There are tricks. You know, there are conversations and I do them actually without a lot of thinking about it. But if I had to think about it, I think I’m pretty charming; I think I’m interesting. A lot of reporters are transactional; I’m not transactional. I don’t say tell me this, give me this; that kind of thing. I conduct relationships with my sources over years, and I think they appreciate that.
+
+Because I sometimes give them information. I have a lot of information; I have a lot more than anybody, actually. So I don’t trade information particularly, but I know things and I have insights. I had someone call me the other day that has been a very good source, who is a very well known person. They asked about something and I said no, no, you don’t want to do that because of this. And they didn’t know. And they’re like: oh, thank you. I think this is the way you should do that. I’m not giving them free advice or anything like that. It’s just that I develop relationships the way you would talk to a person, anybody who you have a relationship with.
+
+And I’m not ignorant; that’s the other part. It’s I know more than they do. I’ll never forget, I was doing the book on AOL with Steve Case, and he was very restrictive. Restricting information is a trick that everybody uses. I’m going to restrict the information and then you’ll be at my beck and call. What I do is I interview hundreds of people. I interview everyone around him so I get all the stories. And at one point, he said something and I said no, actually it happened like this. And he’s like, oh.
+
+And then we did it again. And it was like: no, no, actually I talked to this person and this is what happened. He goes: I have no control over you anymore, do I? And I go, no. That happened weeks ago. You have no fucking idea. So I use that. I use lots more information than other people have. I think I appeal to people’s egos sometimes. But I do the opposite version, which is I insult them, which works beautifully.
+
+Tim Ferriss: That’s called negging.
+
+Kara Swisher: Negging. I’m a really good negger. But I’m really funny; I’m a funny negger.
+
+One of the VCs recently had a facelift and nobody was saying anything, but everyone was talking about it.
+
+Tim Ferriss: Just the open secret.
+
+Kara Swisher: It wasn’t open; it was a terrible facelift. So I went up to him and I said, “What the hell’s going on with your face?” And he goes, “What are you talking about?” I said “You had a facelift, clearly, and everyone’s talking about it. I’m just asking because I’m curious why you did this horrible thing to your face.” And he’s like, “I never had a facelift.” I’m like, “Come on, stop, like please stop. What are you doing?” I’ll do stuff like that. I think people either like it, because I don’t cut them down but when they say something dumb to me, I immediately go: you’ve got to fucking be kidding me that you just said that.
+
+I was with a tech titan, from your book, Titans; I don’t know if he was one of the Titans in your book. But I’ve known this person for years. And you’ve done a lot of people before they were billionaires, right?
+
+Tim Ferriss: Sure.
+
+Kara Swisher: Sacca is one that I’ve known for many years. I’ll tell you the one I did with him.
+
+We were at a party. I don’t even think he remembers this. Whenever he’d introduce him to me, I go, “I’m sorry; I don’t remember you.” And I did. I did it all the time. And he’d go, “Chris Sacca; we met.” I’m like, “Oh, I’m sorry, I’m just such a…” I blamed it on myself.
+
+Tim Ferriss: You pulled a Willy Wonka.
+
+Kara Swisher: That’s right. What? I just… And he fell for it all the time. He finally caught on, I think, ultimately and then I stopped doing it. I just thought it was funny because it’s so easy. Or you go to someone who says, “Oh, I went to Harvard.” And I go, “Where’s that?” And they’re like, “Boston.” I go, “Oh, MIT is a great school.” And they’re like, “No, Harvard.” And I’m like, “Yeah, I’ve heard of it.” Because Harvard people always tell you. So I do stuff like that.
+
+A lot of it I do try to knock them down to size because I think what happens with Silicon Valley people who have gotten wealthy who I knew before that, they get licked up and down all day; they really do. Come on. You know what I mean? Like, “Oh, you’re so smart.” And they never think they’re wrong, and they never can be challenged. I was with another one the other day, and I said, “No, I don’t agree with that; it’s wrong.”
+
+And by the way, I was right. So they’re like, well… And I’m like, “I know you get agreed with all day long but you’re not always fucking right.” Like, I’m sorry; I knew you before when you were a normal person and nobody was kissing your ass all day. I’ll get back to the tech titan. So we were talking at I think a TED or something like that, which I sometimes like part of it; I like a lot of it. But there’s a lot of self actualization going on aggressively.
+
+Tim Ferriss: There’s a lot of –
+
+Kara Swisher: Swanning.
+
+Tim Ferriss: – self back patting.
+
+Kara Swisher: Yeah, like aren’t we great, over privileged people. So he started doing the downward facing dog in front of me while I was having a conversation.
+
+Tim Ferriss: Hold on. Just for context, this is not in an Astram or…?
+
+Kara Swisher: No, it’s just like where the water was in the steel bottles, like the area of steel bottled water because plastic is horrible. So he started doing yoga while I was talking. And I like yoga, and there’s an appropriate place to do yoga. But I was looking at his ass in these horrible Juicy Couture pants.
+
+And I was like, “What are you doing?” He’s like, “What are you talking about?” I said, “Let’s finish our conversation and then you can do your stupid downward facing dog; it’s fine.” He’s like, “No one seems to mind.” I go, “That’s because you’re a billionaire and they don’t tell you you’re an asshole, but you’re an asshole. You don’t do a downward facing dog in front of someone.”
+
+Tim Ferriss: Especially ass facing.
+
+Kara Swisher: I know! But he had lost all perspective of behavior because everybody tolerates it, because they want to get on his plane, or they want something from him. And I think the last part in that vein is I don’t want things from people. I don’t need their love, I don’t need their money, I don’t need their acceptance or anything like that.
+
+I was with another guy who’s a big deal in Hollywood, and he’s like, “Do you want to come to my party?” I’m like, “No, I really don’t; I’m going to go to the movies.” And I didn’t. I wasn’t doing it on purpose; I wasn’t interested in going to his party. He goes, well, do you want to meet this star? I’m like, no. He’s like, do you want to meet this star? No. I don’t need to go to their house. That doesn’t help my life.
+
+And literally he goes, “There’s nothing I have you want, is there?” And I go, “No, no. I don’t even want a prostitute. There’s nothing I want.” It was funny. So I think being really self aware of things, like don’t get sucked into it has been really effective. So if they don’t have anything to hold over you, you really do have a lot of power.
+
+Tim Ferriss: It’s a huge amount of leverage.
+
+Kara Swisher: Yeah.
+
+Tim Ferriss: Have you always cared so little what other people think?
+
+Kara Swisher: Yes. Yes, that’s exactly what you’re talking about. I was going to say I think being gay has given me that gift in terms of… I don’t think it’s formed everything about me. But again, I grew up in an era where there was a lot of pushback and rejection. So you had to say I like who I am and I’m going to keep doing that, and then just not care. So it sort of created a situation where if I cared what people thought about me being gay, I would have been just crushed. Then I just didn’t care about that, and I thought it was actually quite nifty. Like wow, I’m better than you, kind of thing.
+
+I think it started three, it really did because I knew I was gay when I was 4, and I was super happy with it, and I stayed happy with it. I think a lot of gay people of my era… I was at the cusp of it being accepted with a lot of struggle. The people before me, they went through terrible times. Because it’s the only thing your family rejects. If you’re black or Jewish, people get anti Semitism or racism; your family does. But your family is the one on the attack many times for people.
+
+So I think it started with that, and then I think I was just like that. I just didn’t care what people thought of me. I don’t know why. It’s unusual for a woman, too because women are particularly pleasing, good girl; try to be a pleasing person. And I’m always pressing people not to do that, especially women. A lot of people come to me and ask me about jobs, or what they should do or something like that. I try really hard to be mentors to people because I had a lot of great mentors, although I hate that word.
+
+They always come to me, like someone came to me recently and said I’ve gotten this job offer and this job offer. I said, what do you want to do? They said well, this job offer’s interesting. I was like, I didn’t ask you that question; I asked you what do you want to do. They’re like, well this job… I said no, that’s what’s being offered to you.
+
+That’s over the transom, right? It’s like being in a restaurant and they say we have chicken, we’ve got pork, and we’ve got beef and you can have one of those. Do you want spaghetti? Like maybe you want fucking spaghetti? And so it was really interesting. And they were like, oh, I never thought of that. Like, why are you taking what’s handed to you? What would you like to do?
+
+At every point in my life where I have said what pleases me, I always get more successful. I don’t know if you think this, but I don’t like to take what’s offered to me.
+
+Tim Ferriss: You know who made this point to me, has made this point to me over and over again is Matt Mullenweg.
+
+Kara Swisher: Yeah, he’s great.
+
+Tim Ferriss: When someone says do you want A or B, he goes well, that’s a false dichotomy.
+
+Or, why not C or D or E? And I agree with you 100 percent. I think if you’re constantly choosing from the multiple choice test…
+
+Kara Swisher: Right, and people do that. It’s amazing. You sort of fall into relationships. Like who offered you a date? Like instead of what do you like? Most people I’ve gone out with, I’ve decided I’d like to go out with them. You know what I mean? Or what kind of person I want, that kind of thing. I think it limits your choice, essentially but at the same time… I’ll never forget when I walked out of a building once when I was working on the book about AOL.
+
+I was in New York and it was one of those beautiful spring days. I had been working at the Washington Post and I was on the trajectory to go way high there. I was doing super well. I had taken the time to work on this book about AOL and the beginning of the internet, and the beginning of digital stuff. I remember walking out and it was bright, bright, bright. And I really believe in these moments, and I think people have to pay attention to them.
+
+I thought: I have to leave the Washington Post. I have to leave.
+
+Tim Ferriss: It was just an epiphany.
+
+Kara Swisher: It was an epiphany. And it wasn’t like God, like whoa; it wasn’t like that. It was like: it’s time to go. I’ve got to do something else. I’m not going to grow. And I remember thinking everyone in the building was in the same seat and they weren’t going anywhere. And I remember thinking going in, like nobody’s moving and I have to move; I have to go.
+
+Same thing when I left the Journal. It was like: I’ve got to go. It’s time to go. I want to do something else that’s better for me. I’m becoming difficult with people. I started to get super rude to my bosses, which I do periodically. So I thought I shouldn’t have a boss. Not having a boss is a good idea because it makes me a lesser person. And I don’t like their opinions, kind of stuff.
+
+Tim Ferriss: If you, say, had – it doesn’t have to be a woman but you mentioned having had mentors. If a woman came up to you, or one of your sons for that matter, and they cared too much about what other people thought…
+
+Kara Swisher: I hate that.
+
+Tim Ferriss: And they asked for help, though. They said what should I do? How can I train myself? What would you say to them?
+
+Kara Swisher: I just had this conversation with someone very close to me about two days ago about this because they were talking about how social media informs them too much. They said I wonder if I’m more influenced by the outside or the inside, and I’m worried I’m more… you know, like photos on Facebook or people being happy. We had discussed this issue before, and it’s absolutely true; that’s exactly what was happening.
+
+I was like, those pictures aren’t real. That’s their best side. That doesn’t mean what’s actually going on. There’s lots of unhappiness in there, and not just necessarily unhappiness but it’s not true. That’s the photo; it’s not the true thing that’s happening. So just because I’m a reporter, I know that’s not the real story. So I’m always thinking that people… It’s a thing I use a lot. When I was a young reporter, I used to think what are people lying to me about? And then to become a great reporter, what are people lying to themselves about every day? What do they need to lie about to get through the day?
+
+And so I think that’s the stronger thing, and I think people do that all the time. I tell myself the truth a lot; like that’s not true. I’m not feeling that. Today I was mad at someone; I was like, I’m fucking pissed. I think most people: oh, don’t be pissed. And so what I tell my sons, because my oldest son is a real pleaser; I really don’t like that about him.
+
+He’s really worried about what people think. He’s a teenager; I get it. But I was like, what this errant person thinks about you, 20 years from now you’re not even going to remember that person and it doesn’t matter what they think about you. It’s hard to see into the future but I promise you, what this person said about you doesn’t matter even slightly for a second.
+
+So I don’t know how you get out of it. But if you start to realize that the best instinct is first yourself, and then people you really trust, and even people you really trust don’t give you great advice sometimes. If you trust in your own self, you often can not feel bad when people come after you.
+
+Tim Ferriss: I was chatting just yesterday with this gent I’d been hoping to talk to for decades, Dr. Phil Zimbardo. He’s a professional emeritus at Stanford. He ran the Stanford Prison Experiment in 1971.
+
+Kara Swisher: Oh, wow. He didn’t want to talk to you?
+
+Tim Ferriss: No, I had dreamed of speaking with him for decades but hadn’t pursued him. I was going to say I thought he was dead; he’s 83. He’s not dead; he’s very much alive and busier than ever. But he researches and writes a lot about how to mitigate damaging conformity and this subservience to power. He brought up this exercise that he calls “deviant for a day.” He said, “Just get an erasable black marker and draw a square on your forehead and walk around all day, and resist the pressure that you’re going to get from everyone to take it off.”
+
+He has a series of exercises like that.
+
+Kara Swisher: That’s a great idea.
+
+Tim Ferriss: And it reminded me of what Kato, thousands of years ago, used to do. He was considered the perfect stoic bicennica but he would wear, for instance, a tunic. He would wear clothing that was of an unfashionable color to illicit ridicule from other people deliberately to develop an immunity. He did that just routinely to develop that tolerance.
+
+Kara Swisher: Yeah, I do that myself. I wear boys’ tee shirts. I like them. So a lot of people like my mom, all these people go: oh, why do you have to do something like that? I’m like, fuck you, I like it. And they’re like, well… I’m like, no, fuck you, I’m going to wear it. I think part of me, I wear it because it bothers people sometimes. Or my glasses; I wear my sunglasses. Now, I have super bad eyes and I I have dry eyes so I can’t wear contacts.
+
+That’s more information than you need, but… And I have light sensitivity a little; I just don’t like bright lights. So I wear my sunglasses a lot of places, and they’re always aviators, which people know me for. People constantly have to comment when I have them on. “Well, do you have to have them on?” I’m like, “Yes, I do.”
+
+They expect me to take them off that minute. Like, “Well, can’t you take them off?” I’m like, “No, I can’t.” Like photographers are like, “Well, can’t you take them off for a second?” I go, “No, I can’t.” They’re not used to people not being cooperative. It’s really interesting because I really like not being cooperative if it’s something I don’t want to do. And I make jokes, now. I’m like, “Oh, I’m trying to avoid intimacy.” You know, stuff like that so they’ll get the fuck off my case. But I’m like, “I’m not taking off my fucking glasses; it’s not happening.”
+
+But it’s really interesting how quickly pressure, how quickly you do to pressure. I almost feel sometimes that I’m somewhat too rude. It’s not a New Yorker thing. I’m from New York but it’s not that. It’s just people really try to impose their opinions on you almost continually. I have this thing that sometimes I say things, and I literally say something; I’m like, “Oh, did I just say that out loud?” Like, you’re an asshole? And I’m sort of like whoa, I just said it out loud. So I think sometimes I should not do that; sometimes.
+
+Tim Ferriss: A few things to underscore. No. 1, I will defend your Wolverine shirt any day.
+
+Kara Swisher: Isn’t it great? There’s a new movie coming out.
+
+Tim Ferriss: Logan. I love Wolverine.
+
+Kara Swisher: So do I. He’s so bad!
+
+Tim Ferriss: I was so worried. I’ll digress for a second since you brought up the movie.
+
+Kara Swisher: Please!
+
+Tim Ferriss: I was so worried as a devout comic book nerd for my entire upbringing that they were going to cast somebody terrible for Wolverine.
+
+Kara Swisher: No, he’s perfect.
+
+Tim Ferriss: Then when they got Hugh, oh, my God. He’s perfect.
+
+Kara Swisher: He’s perfect, isn’t he? He’s perfect. I don’t like when they make him cute, though. I like him really unhappy.
+
+Tim Ferriss: Gruff and surly.
+
+Kara Swisher: I’m excited about this next one. I watch those over and over again. I love the movies. The last one wasn’t so good, sadly.
+
+Tim Ferriss: Yeah, Hugh’s a machine. The question I wanted to ask is you mentioned the Sacca story. You mentioned a few things, the downward facing dog story.
+
+Kara Swisher: Oh, God. I’ll never forget that ass.
+
+Tim Ferriss: That seemed to reflect, and I’d love for you to correct me if this isn’t accurate, but an ability to throw people off of autopilot that I would imagine helps you do what you do.
+
+Kara Swisher: Yeah, absolutely. I do it on purpose. I do it naturally; I don’t calculate it. A story written about me in New York magazine, Mark Anderson called it “Stockholm Syndrome.”
+
+Tim Ferriss: Where you learn to love your captors?
+
+Kara Swisher: Yeah. He goes, “I don’t understand. She literally will call me up and make me insecure and angry, and I tell her exactly what she wants to know.” He goes, “I think it’s the Stockholm Syndrome. I’m not sure what’s happening.” I think they don’t get challenged, a lot of them. But then I agree when they’re right. Like, I don’t go “you’re an idiot” almost continually. I have said this before: smart people like to be challenged and they like smart people challenging them.
+
+If all day you get silly, stupid puffy questions, you’re bored out of your mind. And if someone doesn’t agree with you, you grow. If they’re disagreeing with you just to be disputatious, that’s different. I was having a meeting at someone with Google about Twitter or something; I was just asking questions.
+
+They were giving me the pap smear – pap smear, oh, my God, that’s a terrible word. You know, the pap, like well… And I was like, “Alright, you don’t believe any of that, right? Can we get to the actual thing?” And it was really funny. The minute I did that, it gave them permission to act like a real person. You know what I mean? The other thing I don’t do is I don’t use everything. I’ll talk off the record with people for hours, and I don’t use it. I file it away for later. I don’t sneak up on them. I think one of the things that’s really effective for a great reporter is they see me coming. I’m not sneaky.
+
+Tim Ferriss: You don’t ambush them.
+
+Kara Swisher: I don’t; there’s no reason. I tell them exactly what I’m going to do. Here’s what I’m going to do. The only person I haven’t been able to do that with is Marissa Mayer, who won’t speak to me, which is to her detriment. She should have spoken to me.
+
+Tim Ferriss: I’ve heard –
+
+Kara Swisher: Because I’ve been accurate.
+
+Tim Ferriss: Was this in the New York mag piece when they talked about how Yahoo has been able to stock price in timing with your pieces?
+
+Kara Swisher: Yeah. Well, they’ve been accurate pieces. Recently, I broke the story about the breach, the first breach.
+
+And I heard about it, and this wasn’t some dumb company she bought and frittered away $10 million, which offends me as a shareholder too. This was a serious breach of people’s privacy and everything else. So I called them, and they never call back, which just drives me crazy. They can’t even say no comment. So I called them at night. I left a message for a PR person, and I said, “Listen, this is fucking serious. This isn’t like a game I’m playing right now. This isn’t a dumb, little acquisition.
+
+This isn’t someone leaving. This is 500 million people affected; you need to respond to me. You absolutely have to.” Because they had written me an email. It wasn’t no comment; it was some weird comment. I said, “I’m going to print this entire email exchange if you do not call me back. Because I’m going to show how ridiculously badly you’re managing your company because this is not a little thing; this is a material issue.” They did respond, finally. I was just kind of pissed off.
+
+We tried really hard to get them to respond and to get them to react to things we think are accurate. And by the way, everything we’ve written has been accurate and has turned out exactly the way we said it was because we spent a lot of time analyzing and thinking about how it’s going to go. I think non-engagement and non-response is really the worst thing anybody can do to someone like me.
+
+Tim Ferriss: How do you, as a very smart, very strong-willed person illicit honest feedback from people? Or perhaps put another way, who do you rely on to tell you when you’re wrong?
+
+Kara Swisher: Me? Lots of people. I do listen.
+
+Tim Ferriss: Oh, no, I’m sure you listen. I can imagine people being intimidated.
+
+Kara Swisher: Right. You’d be surprised. People will – I think because I’m forthright, they become more forthright. I think people suddenly get permission.
+
+Tim Ferriss: Right, they snap out of it.
+
+Kara Swisher: They snap out of the dream.
+
+Tim Ferriss: Okay, real talk.
+
+Kara Swisher: Right. One phrase I use a lot when they say something to me that I think is just not accurate, or untrue, or sort of half-assed, I say I don’t believe you.
+
+What? You think I’m lying? No, I just think you’re not telling the truth, which is the same thing, right? I think once they start to do that, they do calculate that they have things to say.
+
+Tim Ferriss: I apologize for interjecting but could you give an example of when you might use that “I don’t believe you?”
+
+Kara Swisher: Oh, with Steve Jobs all the time, like on the stage. They had gone after a blog, or some memo that had gotten leaked. The memo was accurate but they went after this small, little blogger who had written about it. I can’t even remember; you never remember the circumstances of these dumb, crazy crises at the time. But they had gone after an internal memo, or they had gotten something but they were really attacking this small thing. And the issue was the thing was totally accurate. That pissed me off. It was accurate. It wasn’t like they did something wrong or something like that.
+
+And I was on the stage asking about this. And he said, “Well, you know, we have internal people, we have other things.” And I said, “Would you have done that to me?” And he’s like, “What?” And I go, “If I had done it, would you have done it to me and Wall?” And he was like, “No.” And I said, “So you’re doing it because they’re weak and you can get them, right?” And he’s like, “Yes.”
+
+Tim Ferriss: Wow.
+
+Kara Swisher: There was no other way to put it; he wouldn’t have done it to me. And a place where I didn’t do it this year, and I’ve regretted every minute. I was interviewing Cheryl Sandberg at Cove this year, and it was about Peter Thiel going after Gawker. I don’t agree with what he did, obviously, and I didn’t like the secretiveness of it. I thought if he really felt that way, he should have done it publicly and not given us lectures about journalism and then did it on the sly. Because if he hadn’t won, you never would have heard he did it; you know that. So the secretiveness really got to me.
+
+And also, Facebook is supposedly friends to publishers, and here’s one of their board members killing off a publisher that didn’t just have one property, they had ten properties and hundreds and hundreds of employees working at other places. So he had no thought to that. He just wanted to punish this one property in this media group and this one man, Nick Denton.
+
+I just wish he had been honest about what he was doing. Like, I’m an asshole; I’m going to go after them because I’m rich as fuck. You know, whatever; just something that was just a little more honest. I was interviewing Cheryl, and she said this has nothing to do with Peter being on the Facebook board; it’s his thing that he’s doing. That’s what she said. It was a perfect Cheryl Sandberg answer because she’s real good at that. She sort of answers but not really. She’s fantastic in her self control over herself.
+
+What I should have said right then is “Would you have done it, because they’ve attacked you a lot. Would you have done it?” I think I would have caught her. She would have had to say no. She’d have to say no. I should have gotten her on the record saying no, I would not have.
+
+Even if I hated them, I wouldn’t have done it. So I think that was a missed opportunity.
+
+Tim Ferriss: You mentioned Steve Jobs. I’d love to get your take on what the components of a reality distortion field are, or charisma, just more broadly speaking.
+
+Kara Swisher: Charisma is what I’d say. I think people like to do that reality distortion because you don’t have to believe him. Everyone was like, oh I had to believe him; like he had some magical kind of mojo. I didn’t find him that way at all. He was just doing his thing and he was better at it than other people. I think he was persuasive, I would say, and he was charismatic; aggressively charismatic, I guess. He was also certain all the time. One time on stage, I said, “Walter, are you going to do a phone?”
+
+And he said, “Absolutely not; I am not good at jumping through orifices,” which is a great word. You know he had thought about it because you don’t come up with orifice easily. It was like, I don’t like to jump through assholes; that’s really what he was saying in a really clever way.
+
+And literally the next year he introduced the iphone, so it was like you’re a fucking liar. We were like, you lied. And he was like, I did. It was like he didn’t hide it. he didn’t even say, “I didn’t lie precisely.” He knew what he did. Because they had been clearly working on it. But he went out of his way to lie; that was my favorite part. People sometimes got offended about it but I didn’t care. He was a showman; it didn’t matter.
+
+I think one of the things people got wrong about him, and he was difficult. I didn’t work with him but he definitely had the temper, and had opinions, and very strong opinions; he could be very cutting, but so can a lot of people. I don’t think he was any more than anybody else, necessarily. He’s just more famous and therefore people knew it. People always said he was heartless. I think he had too much heart, like he cared too much. So had so much heart that he just couldn’t stand it when things weren’t right.
+
+When I started looking at him that way, it made a lot more sense to me. And again, I didn’t know him personally very well. I interviewed him nine or ten times, and Walt knew him much better. But I think he just had a lot of heart, and it was overwhelming to him. And he had a lot of feelings and he never hid them. One time when we were backstage together, I have a son and my partner Megan at the time, we had two kids; same father. We each had a baby.
+
+He asked a lot of questions about it, like do you know the father? It was unusual. Most tech people don’t ask me personal questions, and he was really curious. Then I realized he was adopted and didn’t know his parents. He told the story of what happened about finding his father and not liking his father. This was way before the Walter Isaacson book. There was a fascinating story that he told better than it ever was told after he died about how he found his parents.
+
+He had talked about about his adoptive parents being hurt by his seeking the parents, which is totally understandable. And that your biological parents aren’t necessarily you’re parents. It was this whole thing; it was fascinating. And that I shouldn’t let my kids look for the father necessarily. It was so unusual, and it wasn’t unwelcome; it was really interesting because I didn’t know him that well. But he was so passionate and heartfelt about it.
+
+And then he hugged us all. It was so strange. I think he was probably in an emotional period around his illness at the time, but it was really fascinating because hew as like “your parent isn’t your parent and you should not think that.” One of the things that struck me, I’ll never forget it. He talked about the good thing that came out of it was he met his full sister, because his parents had had a child after they put him up for adoption.
+
+You really got insight into him because you thought they never went back for them, did they? They had another kid so it was even more troubled. So you do understand that had to inform him. Maybe he’d poo-poo him but I would think that would have to inform him, the anger of being left behind. Interestingly enough, he was very close friends with Larry Ellison, who had a similar experience with his mother who had left him; he told me the story of that. I do spend a lot of time thinking about people’s past and how it impacts them going forward.
+
+Tim Ferriss: I never met Steve but I heard a story that reflects him being a man of strong emotions but at points, really caring for people. This was from an old timer at Apple. I was in Cupertino and he said, “Do you see that ATM over there?” We were having lunch. I go, “Yeah, I see the ATM.” Because at one point there was a story going around about Steve because this extremely overweight guy who was 300-and something pounds was getting money out of the ATM and he heard, “What are you doing to yourself? You’re killing yourself.”
+
+And he turned around and it was Steve Jobs. And Steve said, “This is my office’s number. I want you to call. We’re getting you a trainer; you can’t do this to yourself.”
+
+Kara Swisher: I love that. I don’t mind that. He definitely had difficulties and people like to tear people down. He never pretended he wasn’t kind of an asshole sometimes, so I kind of like that; I like people like that. So people always aid he wasn’t as big a hero, and I said I don’t think he’s a hero; I think he’s fascinating. We tend to try to cartoonize people, and not make them complex and have complexity. Another reason I’m a good reporter is I understand complexity and that there are a lot of different personalities at once. I love that. I did that recently.
+
+I say things right out loud. I was at an airport. Someone in front of me who was overweight, and I shouldn’t have done this but I wasn’t calling them fat; I just didn’t want them to do it. And they said, “What do you want?” She said, “I’m not going to have the crueler. Give me the muffin because it’s healthy.”
+
+And I went, “No it’s not.” They were like, what? I said, “It’s full of sugar, carbs. It’s so much more caloric. Just get the candy bar. Just get the candy bar. If you want sugar, just get the fucking candy bar; it’s better, it tastes better. You don’t want that bran muffin because it sucks for you.” It literally was like… and she’s like, “It’s not your business.” And I said, “Just don’t eat it. Please, just have the candy bar. I know you want sugar so go for it.” I’m like, I’m not anti sugar and I should be anti sugar but it was like really fascinating. I did the same thing. And I’m thinking, I’ve got to shut up. But then I didn’t want her to eat it. You know what I mean? Like you see the steps. So I kind of like it that he did that.
+
+Tim Ferriss: Have you ever hit someone too hard in coverage or a story?
+
+Kara Swisher: Physically, never.
+
+Tim Ferriss: No, not physically.
+
+Kara Swisher: Not yet.
+
+Tim Ferriss: In a story and regretted it, or on stage?
+
+Kara Swisher: No.
+
+Tim Ferriss: No? Okay.
+
+Kara Swisher: No. No, I actually do hold back. A good one is Marissa Mayers.
+
+Remember that story when she slept through the meeting? I had that story. I didn’t write it. I thought she might be pregnant. I’ve been tired and pregnant before. I thought she just overslept. I thought it was sexist because a lot of Google male executives skip meetings all the time and nobody gives a fuck. I’ve held back on stories. That was one I held back on. She’d never know that. Same thing with a lot of that stuff around her divaness, calling her Evita. I never came across that, nor would I write it.
+
+Anything that’s personal and not pertinent, I don’t put in. And I know a lot of stuff. So no, I actually don’t do the hits. I will only hit on their financial performance. Every now and then I can make a joke, you know, like Jerry Yang. I said “raise the Yang ten,” like I have funny headlines. But they’re funny; they’re meant to be funny, not necessarily cruel. I don’t think anything I’ve written is necessarily cruel.
+
+Tim Ferriss: I don’t have anything in mind.
+
+Kara Swisher: I would have to go back. I’m sure someone could find something. I think Trumplethinskin is funny, you know what I mean? I think it’s funny. So I tend to go for funny more than stuff like that. I just did a recent piece about Peter Thiel when he was giving that idiotic speech at the National Press Club. Everyone just typed it, like just typed what he said, and I didn’t. I said he says this, and he talks about privacy and his money is made from two of the most privacy attacking companies around; Facebook and [inaudible]. Like come on, let’s just give some context. I don’t think I let people get away with things. I’m trying to think of something that’s cruel and I can’t think of one, no.
+
+Tim Ferriss: Do you remember the first piece or the first story that you were involved with where you thought to yourself: I think I could really be good at this; I think I could do this full time? Was there a moment?
+
+Kara Swisher: A lot of them. I was pretty good in college. It sounds crazy; I won something called the Bun Award, [inaudible] in college when I was a freshman in the newspaper.
+
+It was won by a senior and I won it as a freshman and I remember thinking, yeah, I’m really good.
+
+Tim Ferriss: What did you write about?
+
+Kara Swisher: I wrote columns about college life and stuff like that, and they were funny and they were pointed. I didn’t let the Jesuits get away with as much as other people did. And so I think when I called the Washington Post, there’s a pretty famous story of me calling Larry Kramer who was the Metro editor at the time. I had covered a story that they had covered, and theirs was full of errors and it made me mad. I called them and said you suck. He goes, “Do you think you could do it better?” I said, “I absolutely could.”
+
+And I went down and I got a job. He hired me on the spot. So that kind of thing worked out well. I think I wrote a series of stories for the Washington Post, and Ben Bradley loved them so that was the best thing ever; talk about crack, having him come over and go, “Great job, kid!” That was like wow, this is my dream. It wasn’t Watergate but I covered retail, and there was a family in Washington called the Halves. I did a great job covering their fighting. I wrote it like it was King Lear.
+
+It was a great job. I really got to the emotions and the complexity, and power, and money and there was sex involved. So it was a great story and I wrote it that way, and it was my natural instinct to do it. Young reporters didn’t do that. He wanted to know every day what the next chapter was and I began to see that I was super good at narrative, which I think reporters aren’t. They don’t think of it as an ongoing story.
+
+So I approach a lot of stories like narratives, like what’s the next chapter. So when he would come in every day and say “What have you got for me today?” he wanted to know. I thought that was a really powerful way to tell a story so I thought I was good at it from the beginning.
+
+Tim Ferriss: Maybe you’ve taught; I don’t know offhand, I apologize. But if you were to teach a college freshman seminar in journalism or writing…
+
+Kara Swisher: I’m a terrible teacher, but yeah. I taught at Berkeley and I was terrible.
+
+Tim Ferriss: Why were you terrible?
+
+Kara Swisher: Because I was like, they didn’t know how to do it. They’d be like, “Well, how do I do this?” I’m like, “I’m not going to tell you. I learned all by myself. No one taught me.” I’m a terrible person; I’m just the worst teacher. It’s just not my nature.
+
+Tim Ferriss: Okay, I can take a different angle. If you were to recommend any books to people who are aspiring writers or journalists, are there any that come to mind?
+
+Kara Swisher: Strunk and White’s The Elements of Style. I reread it every year. It’s a great book; it still is. I think anything by Joan Didion in the early years; Slouching Towards Bethlehem, The White Album are two of my favorite books. Slouching Towards Bethlehem I read over and over again, like three or four times a year. It’s so beautifully constructed. She’s so wise.
+
+She involves herself in the stories a little bit more and is very descriptive. I’m remembering when you said what do you remember, I remember I wrote a story about this company in Washington when I was at the Washington Post about a really expensive – all of a sudden these luxury grocery stores were getting started. This was not a thing. Now, they’re everywhere. But I covered retail and my lead, which they didn’t want to keep but I insisted on, was “Here in the land of the four-dollar tomato.”
+
+I loved it. I thought it was funny.
+
+Tim Ferriss: It’s good lead.
+
+Kara Swisher: It was, wasn’t it? The best lead I ever wrote, and I’ll never write a better lead than this, it always worked and a lot of people didn’t want me to put it on there. So trusting my own instincts on what people like, I was writing about Discovery, which had just gotten started in Washington, the Discovery Channel. This was many years ago and the founder was a guy named John Hendrix. He founded it and he was trying to get on cable systems, and it was all about how he tried to get on cable systems. At the time, it was super hard and he had to rely on John Malone and stuff like that. It’s kind of a boring, dry story.
+
+And I said, “What’s been the secret to your success?” Like you do, I ask what’s been the thing that’s worked for you. And he goes, “Sharks and Nazis, Nazis and sharks; thank God for Nazis and sharks.” Because they have Nazi shark week. And I made that the lead: Sharks and Nazis, Nazis and sharks; thank God for Nazis and sharks. It was literally the best quote I’ve ever gotten. I’ll never get a quote like that again.
+
+Tim Ferriss: I thought it was going to be a Haiku.
+
+Kara Swisher: No, it was like: you’re right, Nazis and sharks. But the juxtaposition of Nazis and sharks, and people love Nazi documentaries; you can’t get enough Nazi documentaries, right? People can’t! There’s something with Nazi documentaries and sharks.
+
+Tim Ferriss: Or movies in general.
+
+Kara Swisher: You’ve got to watch them, and sharks are the same thing. So they had Shark Week. Then I got into what happened when Shark Week and Nazi Week happened from a business point of view. That was super good. That was a super good day.
+
+But a lot of people didn’t want me to do it, which was interesting. The same thing happened at the Wall Street Journal years later. There was a guy named Greg Zachary who really helped me there, and he probably doesn’t even remember. But I had been trying to differentiate myself. I was trying to get to the culture of Silicon Valley, and nobody was covering Silicon Valley then in 1995, 1997, maybe. I was trying to get to the culture of it because I thought the culture was super important; not just the business stories that drive Yahoo today and earn as much money.
+
+Everywhere I went, two things they did. One was whenever I’d go out with them, they’d take me to a crappy taco place. They’d never take me to a real restaurant. I was like, what is wrong with these people? So I wrote a story about their favorite places to eat. Like, this is an unusual culture. Unlike Hollywood moguls or Wall Street moguls, these people eat at taco joints.
+
+Tim Ferriss: Not taking you to Spago’s.
+
+Kara Swisher: No, but it was taco joints. So I did a whole thing of taco joints that these up and coming Mark Andreesen or Yang loved, or Joe Krauss at the time at Excite. Then I wrote another one about their idiotic titles they had to put on themselves. I thought it reflected them a lot. They had like Chief Yahoo, or Chief Experience Officers. They have a bunch of dumb, fucking titles.
+
+Tim Ferriss: Sure, oh yeah.
+
+Kara Swisher: And so I wrote a story, and it wasn’t quite like the Journal to do that. And Greg just lied and got it in; like we’re going to publish these and we’re going to tell them it was approved. Do you know what I mean? He was a pretty powerful reporter at the time. I learned a lot from that, like “Fuck ‘em, you’re gonna shove that thing right in there.” I liked that. He was really helpful to me in that regard.
+
+Tim Ferriss: You’ve been involved with a lot of live events. What makes a great event?
+
+Kara Swisher: It’s theater. People don’t think it but it’s theater. I’m a big theater fan. I used to write a column about theater for the Washington Post on the side. I love theater. I went from when I was a kid. My mom took me to all kinds of live events, especially Broadway and stuff like that.
+
+Tim Ferriss: Any favorite shows?
+
+Kara Swisher: All of them. There’s nothing I don’t like on stage. Well, that’s not true. There was a Rollerblade show that Andrew Lloyd Webber did that was just awful. But it was good in its ridiculousness. I love Angels in America; I’ve seen it dozens and dozens of times. I love every iteration of Angels in America. It was long; it was three hours or whatever. I did like Hamilton a lot. I was not expecting that. I was expecting it not to be as good. I thought it was wonderful. It was very traditional. Even though it was rap, it was a traditional musical. I like everything. I like stage work a lot. I think about, again, the narrative of a conversation.
+
+A lot of people ask a question, get an answer; ask a question, get an answer. I have a conversation, and it’s a narrative conversation. It’s story telling. I ask questions people don’t expect, and questions people want to know. It’s not Oprah-like. She’s real good. She’s an amazing interviewer.
+
+Tim Ferriss: She’s brilliant.
+
+Kara Swisher: One time with Steve Jobs, I’ll never forget and I think people remember it to this day, this question. He said something and it was right near the end. We did the interview months before he died. It was interesting because you’d see him better and worse over the years. If you look at the pictures, there’s one year where he has some weight on him; another year no and then the last year he was just skeletal and it was sad. But at the same time, he had more vibrance than everybody on that stage; I’ll tell you that. That was really striking. And a lot of people, when someone’s dying or sick, try to pretend that’s not what’s happening. Do you know what I mean?
+
+Tim Ferriss: Definitely.
+
+Kara Swisher: Like, let’s pretend you’re not very, very ill, here.
+
+And I asked two questions people did remember. I said, “What do you do all day? What’s a Steve Jobs day like?” I just wanted to know. I just was like, he’s going to be dead soon, or he looks very sick and what does he do all day? Like you were asking people what do they do the first 60 minutes of the day. I wanted to know, what does he do? Does he get up, does he eat breakfast? And he answered it; it was great. It was really great.
+
+Then I asked, “What are you going to do with the rest of your life?” And everyone was like… sharp intake of breath; like don’t you care? That’s insensitive. And I was like, I want to know. He had a wonderful answer. It was about television, of all things. He wanted to change television. It was so great that he had that ambition when it was possibly clear that… Who knows when people are going to die but he looked real ill. He just started to come alive talking about television and how to change television. He was great.
+
+Walt told me later when he talked to him on the phone, right before he died, he was still talking about how it pissed him off and it was great. He lived right up until he died. So not asking the questions that you really want to know, I think reporters, people on stage don’t do that. So when I want to know something, I’m just curious. And I also treat them like people, not potentates, you know what I mean? I imagine very day they have problems like I do. I’ll treat the president the same I would a janitor that I’m interviewing. I’m not rude to the janitor; I’m not rude to the president. So that’s one thing that’s useful.
+
+Tim Ferriss: Do you have any particular routines or habits, rituals on a daily basis or otherwise that are important to you?
+
+Kara Swisher: Yeah, unfortunately. We were just talking before on my podcast about picking up the phone. I’ve got to stop that. I feel it. I feel that I’m really wasting my time. It’s addictive, and I’m not an addictive personality. I don’t drink; I don’t take drugs.
+
+We won’t go to the sex; that’s possibly the most addictive part of my personality. But I have to stop. It’s sucking time away. That’s such a cliché but it truly is; there’s something happening to my brain that’s getting rewired. It’s dopamine, I think. That must be it, right?
+
+Tim Ferriss: Yeah, there’s dopamine involved. There’s also serotonin involved in, say, social media hits and so on.
+
+Kara Swisher: But it doesn’t feel good. It’s not a feel-good feeling. It’s not pleasing. When I have a cookie, I’m happy. It’s kind of interesting, or ice cream. My kid, I’ll never forget giving him ice cream for the first time. He tasted it and you could see his face: what? What? Oh, my God. Like you could see the look; it was physical, it was mental, it was everything. You don’t get pleasure from this stuff. I’m not happier. It’s entertaining and it’s addictive so I feel like I have to stop that. I’ve got to figure out how to do it because I do have a job where people do have to get in touch with me, and sometimes immediately.
+
+Tim Ferriss: Right.
+
+Kara Swisher: So I’m trying to figure out, like the ding-ding of the phone, I try to turn on the thing and then I don’t want to hear from people. I’ve got to correct things because I fil up my days way too much. I feel like I’m overscheduled.
+
+Tim Ferriss: You may be overscheduled. At the same time, you’ve been extremely productive in your work and your career.
+
+Kara Swisher: Yeah, I’m super productive.
+
+Tim Ferriss: And you’ve made choices along the way to break from certain things, start new projects.
+
+Kara Swisher: Always. I always break.
+
+Tim Ferriss: So how do you choose? If you could walk us through your thought process, how do you choose which projects to take on and which to say no to?
+
+Kara Swisher: It’s interesting, and maybe you disagree with this; people go through creative periods.
+
+Tim Ferriss: Oh, I agree 100 percent.
+
+Kara Swisher: This month, I’m really creative. I don’t know what happened. I’ve started a column and its really good. And someone just said what happened to you? There are some things that went on in my life, but I don’t know what.
+
+Oh I do know; I have some ideas but it’s really interesting to go through those periods. Right now, I’m not saying no to any idea because it’s super creative. I have an idea for a book, finally, that I like. People are always trying to get me to write books. And part of me is like oh, write another book, like Uber, with Yahoo. Then I want to shoot myself in the eye. I could write that in my sleep but I don’t want to do it. I decline to do it. So I have an idea that just suddenly hit me and I was like, I’m going to do this. So I was doing that. And we’re working on a TV show, and I’m kind of interested in it.
+
+Tim Ferriss: You said no to the Uber or Yahoo book.
+
+Kara Swisher: I have for the last couple of months. I get offered books all the time.
+
+Tim Ferriss: If you got offered that book in January, would you have said yes?
+
+Kara Swisher: No.
+
+Tim Ferriss: Why not? What’s the thought? Just not stimulating?
+
+Kara Swisher: I’d hate myself. I’d be bored. I couldn’t do it. You know know when you can’t? I actually don’t do things I can’t do. Years ago I had an assignment for Glamour magazine; write ten things, ten interesting people. I couldn’t do it. I refused to do it.
+
+It was weird. I was like well, if I can’t do it, I can’t do it. It was a lot of money. So money doesn’t motivate me, so that’s hard. It never did and it doesn’t anymore because I’ve got plenty. I’ve got to be interested in it. sometimes I like things because it makes me famous. I like being famous. Maybe that’s my motivation. I like being notorious, or whatever is the thing that pleases me is what you have to respond to, or that it’s an interesting puzzle or a question. Like this book, I want to know about it. Soon people will know what it is.
+
+But I want to know about it, and that’s why I want to do it because I’m interested in it. With the TV show, I really want to figure out how to do a TV show. I know it sounds dumb but I love television and I’ve always wanted to do something. We have this great relationship with NBC, and there are all kinds of opportunities. I’m not going to get this opportunity too much. With a column, I don’t know why; Trump. I’m pissed about Trump. I am. I can’t stand him.
+
+I’m trying to channel it in a way that’s not quite as hateful as I feel, as many people feel. Because you shouldn’t react to idiots but there’s something about him that’s an “er” feeling about everything that you might dislike and retrograde people. So I try to channel it in a really effective, funny, interesting way.
+
+I know it sounds morbid but my dad died when he was 34 from a cerebral hemorrhage; just died pretty quickly.
+
+Tim Ferriss: So unexpected.
+
+Kara Swisher: Very, very. Three kids, thought he was on his way. He had just left the Navy. He was a poor guy. The Navy put him through medical school. He had just gotten a job as head of anesthesia at Brooklyn Jewish Hospital. He had just bought a new house; everything was starting. He just died.
+
+Tim Ferriss: Wow.
+
+Kara Swisher: Super affected me, like you can’t believe. It just creates a situation. There’s this thing where people whose parents died when they were very young become highly functional. There’s actually a Stanford professor who’s written a lot about this.
+
+Nothing bothers you. Like war, pestilence, I don’t care; I survived my parent’s death. Because when you’re that young and someone dies, it’s like as if half the people you know died because they’re the people you depended on. He was a wonderful parent; very attentive, very loving. Those are my memories, and they are true; they’re actually accurate.
+
+So I think it’s always made me think I’m going to die young. You know what I mean?
+
+Tim Ferriss: Definitely.
+
+Kara Swisher: It just does. There’s not that much complexity to it, logically speaking. So my brothers and I are all incredibly successful and very functional. We don’t get bogged down a lot. After I turned 34, I felt better. Like once I passed that landmark. But where it really hit me is in two places. One was when my son was 5 and I realized how well he knew me. I don’t remember a lot of my father. You remember little snatches and memories. I’ve always wanted to get hypnotized to get better memories but I’m not so sure that will even work.
+
+But he knew me incredibly well at 5. We were very close. We had conversations. So I must have had that and I don’t remember it. But I remember being devastated at the time.
+
+Tim Ferriss: When you had that realization.
+
+Kara Swisher: That he knew me so well. I realized how devastated I was. Like oh, my God, look what I lost? So I lost that relationship, and it was more significant than I can recall. You can’t remember, you just can’t remember. There are only so many things you can remember. I don’t remember last week. So I remember being very devastated for me, for me as a 5-year-old. And I never let myself feel that way when I was younger, for most of my life. So I really was like wow, that really did hurt me.
+
+It was a good realization to not think you’re not weak, or you got hurt. Again, that’s not something I had any control over. It wasn’t a cruel parent, it wasn’t abuse; it just was a bad thing that happened. The second thing is when I had a stroke, which was five years ago. I don’t know if you know this. I had a stroke on my way to Hong Kong.
+
+I was going for a code, all things de-Asia. I was flying in coach and should have not been flying in coach. I didn’t get up from my seat, I didn’t drink water. I’m like the ad for –
+
+Tim Ferriss: For the deep vein thrombosis.
+
+Kara Swisher: Yeah, exactly. As it turns out, I also had a hole in my heart, which 20 percent of the human race has, apparently; I was told. It’s called a PFO. Interestingly enough, a lot of people still don’t know they have them later told me they have them. And it’s super common. But this was like a hole-in-one. And it also turns out from doing 23 and Me that I have – Ann Winjisky called me in Hong Kong after it happened and said you need to look at your report because you have this blood disorder that’s also very common. It’s called Mediterranean blood; it’s thick blood, essentially.
+
+My family is Italian. So I had all these things I didn’t know and they all conspired to have a stroke; I had a stroke. I was working, writing about Yahoo. Someone had left. I’m like oh, this fucking place is like a disaster. And I said it out loud and it came out garbled, super garbled. I was like, oh, that’s weird. I had suffered from migraines so I thought it was a migraine.
+
+I was tired, I had landed and I didn’t go to sleep. So I kept typing, and then I went to eat a strawberry and it fell out of my mouth. And I’m like, that’s weird. Then I felt a tingling, and that was it. that was the entire range of symptoms. I couldn’t speak, strawberry, finger. I couldn’t call anyone to tell anyone about this. Because I was like, this is odd. I wasn’t totally disturbed but I was like, this is unusual; perhaps it’s just a bad headache.
+
+I wrote an email to my brother who’s a doctor, who followed my father’s footsteps. He was asleep because of the time difference. Then I went up to breakfast. I took a shower. I literally didn’t do anything. I’m like the worst; I’m like the ad for what not to do when you have a stroke. By the time I got to breakfast, I was speaking as if I had dental work. So it was coming back pretty quickly. I was like: oh, see, it’s just a weird muscle thing.
+
+My brother called me and said “You need to get to a hospital; you’re having a stroke.” I was like, “Oh, come on, you terrible doctor.” I insulted him. “That’s ridiculous. I’m young.” I was in my 40s. He’s like, “Please just do me a favor and go get an MRI; not a CAT scan. Tell them this. Please go right now.” And I was like, alright. I went to the hospital and turns out I was having a stroke, which was amazing. It was sort of like I was outside of myself while I was having it. by the time I got to the hospital, I was talking like this. So I wasn’t feeling bad, I wasn’t tired. There was no anything..
+
+Tim Ferriss: No symptoms.
+
+Kara Swisher: Nothing. But they did the MRI and it turned out I had had one, or had just finished one. I was fascinated by this. I shouldn’t have been so fascinated but you could see the blood going around the clot. It was so cool, though. Your body just did it.
+
+Tim Ferriss: Cool and terrifying.
+
+Kara Swisher: Yeah, but your body fixed it. Your body found another – like you’re in traffic. You’re in traffic and you find another route. It found another route to get the blood through. I’ll never forget. All the people in China, they have things over their faces all the time, in the hospitals they do which is disturbing; it’s sort of weird.
+
+And the doctor said you had a stroke. It’s the first time I got upset because I thought about my kids. I thought about my kids without me; this is going to be horrible for them. And I remembered how horrible it was for me, and I had a flash, like a trigger. I didn’t get upset any other time during that process, and I started crying just then because I thought about my kids. It was quite emotional. And since then… I’ve always been like this; it’s tripled and quadrupled my determination to do whatever I wanted to do and keep going.
+
+Tim Ferriss: What would you like to be remembered for, if anything comes to mind?
+
+Kara Swisher: I think being forthright and honest. I think the reason I’ve done really well is because people are so tired of pushing themselves down, in good ways and bad ways. And I think part of the Trump thing, I hate to say I’m like Donald Trump of course because I think he lies all the time. So he does it and lies all the time. But I think he’s sort of Id, right? Pure Id.
+
+There’s no super ego stopping anything and it’s just whatever the fuck comes to his mind he just says, sort of thing. I admire nothing about him but I do think that’s fascinating, the ability to do that. So I’d like to be remembered for someone who told the truth, or tried to tell the truth and tried to make people understand things a little better without all the useless frippery we go around doing. Do you know what I mean?
+
+Tim Ferriss: Definitely.
+
+Kara Swisher: I think that would be good. I’d like to be known as a good parent. I think I am a good parent. It’s funny because people are like oh, you shouldn’t say that. I’m like, why? I’m a good parent. I have great kids. It’s funny because people always want to insult their kids. It’s weird. You know, you say how are your kids? I say, “My kids are great.” And they’re like, “Oh.” And I say, “No, they’re remarkable kids. They’re wonderful.” And they’re like, “Oh, well everyone has problems.” I’m like, “No, I don’t.” It’s funny. So I think I’m really pleased with my kids. And Megan’s and my parenting; I’m very proud of that.
+
+Like last night my son, Alex, called and he was crying over the Obama speech. He’s 11. He was crying; he was really crying. He was like, “I can’t cry; I’m a guy.” I was so proud that he was crying. I know it sounds dumb because he was super upset. I didn’t want him to be comforted. I want him to feel that feeling of being so disappointed about what’s happened politically.
+
+And it was good for him. And I really loved that he felt like he could do that. That was one thing. And then my other son, Louie, who has a much easier time in life in general because he’s like the happiest kid ever known. He was born happy; he remains happy. So far, knock on wood. He and I talked a lot and they live away from me right now because Megan is working for President Obama, and I go back and forth. I miss them a great deal.
+
+So we talked a lot over the holidays. He’s 14 now, almost 15 so we really can have great conversations. Sometimes he says dumb things but we have great arguments and stuff like that, and I say dumb things.
+
+It just was really lovely to talk to him because I really enjoyed spending time with him. I don’t think a lot of people enjoy spending time with their kids. I’d rather be with him than other people because he’s super interesting and has a great mind. I was sad about something and I hadn’t said anything to him. I don’t involve him in everything. Like some people tell their kids too much stuff.
+
+And I said, “It’s been really nice talking to you. I’ve been a little sad but now I feel better.” And all he said was, “I know.” What a great kid, right? I was very moved by it because I felt like he was so mature that he didn’t have to over talk it; he just…
+
+Tim Ferriss: I know.
+
+Kara Swisher: It was great. That was all he said and I was so proud of me, and him for getting to be a really smart young man, and he really is.
+
+Tim Ferriss: What are the keys to good parenting for you?
+
+Kara Swisher: It’s hard because you’d be surprised but Megan and I are not very hard on them on school.
+
+I find the obsession with school and achievement to be disturbing. We do not push that. Megan more than I, but I really don’t. I’m like, “You don’t need to know that. You don’t need to know that.” I’m always like, “This is useless; don’t even bother. Go for a walk.” I want them to go outside more. The obsession with making your life better through your children I think is really demented, and you see it all over the place.
+
+Tim Ferriss: Vicarious living through your kids.
+
+Kara Swisher: More than that; the achievement. Pushing them when you know full well it doesn’t matter. Like most of my schooling doesn’t matter; like seriously doesn’t matter. I had an argument with one of his teachers recently. They were doing some homework assignment, and I was like, “This is stupid.” And they were like, “No it’s not.” I’m like, “No, it is. Trust me. It’s stupid. You don’t need it. And by the way, I’m more successful than you and I’m telling you it’s stupid.” So it was really interesting. And I tell that to them. And one of the things, it does manifest itself. My youngest son is quite brilliant.
+
+He’s a builder, a mentor. He’s got some special skills that are really quite amazing. And my other son is very smart, but not at school. School, he just gets bored by school. But he’ll do great; he’ll probably be the president. He’s that kind of person. He can go from A to D in two seconds and it’s fascinating. Because he could do it if he wanted to. And so I should be one of those parents who’s like, “You’ve got to try harder to get that A.”
+
+I hate this about him but I love it. because so many of his friends are so tightly wound, like so tightly wound at a young age. And you’re sort of like don’t do that. You have plenty of time to be tightly wound. He got a D in math or something like that. And he’s pretty good; he could get an A, or maybe a B. He definitely could get a B. He gets a D and I go, “Louie, a D?” And he goes, “Eh, at least it’s not an F.” I loved him for that answer.
+
+It’s horrible! He goes, at least it’s not an F. And I go, “It is an F. A D is an F. Just so you know, they don’t give Fs anymore. They give you a D and that’s an F.” And he goes eh… And I can’t compliment him for that response but I love it. I was like, good for him. Like fuck you. You know what I mean? And I know he’ll be fine so I feel like I just don’t want to get them all… Like so many kids, and the parents are tightly wound.
+
+Tim Ferriss: The kids are living like adults by the time they’re 10 years old.
+
+Kara Swisher: I’d rather them be here. Right, exactly. You know, he’s like, “What if I don’t go to college?” I’m like, “Eh, whatever.” People are surprised because I’m so ambitious and so hardworking but I just feel like I’m happy with what I’m doing; that’s why I’m ambitious, not for achievement. They’re in an East Coast school which is very tightly wound. The East Coast people are just – I grew up on the East Coast and I forgot. I forgot.
+
+Tim Ferriss: Oh, me too.
+
+Kara Swisher: And they’re all – like Mosh and they’re all lawyers. They’re clearly in unhappy marriages; you can see it.
+
+You’re like oh, you’ve really never had sex in years. I’m thinking that in my head and I kind of want to say it out loud. We were talking about something about the internet, and I just was like, that is not true. It’s just not true. It’s not the tools, it’s you. It’s you and your kids. They get over… I don’t know. It’s funny. I’ll tell this last story. He’s on Snapchat all the time. The youngest one is not on this stuff right now; he’s not involved in a lot of this stuff. He’s not interested.
+
+My older son is on Snapchat a lot, he does a lot of videos. He likes it, obviously, like a lot of teens; it’s very typical. They had this Instagram account where they post memes with each other, and they joke. And he did one that one kid got really upset about. And when does a joke not become a joke? Well, it wasn’t. And so there was a hubbub at school, and that’s one issue I’m very particular on is how he presents himself about women, about people of color; all kinds of stuff like that.
+
+And it’s not PC, it’s just he’s a white guy in America; he could be a little nicer. That’s my whole thing. And he’s lucky. He’s rich, he’s healthy, he’s tall, he’s handsome; he could be nicer. He really needs to be, and kinder. So he had done it and I made him call the parents of the person. I made him talk to the kid and stuff like that. The school called, and he didn’t mean it in a malevolent way; he didn’t. Like I wasn’t trying to say you’re an asshole. But I didn’t want him not to feel like he was wrong.
+
+So the school was like, “Well you know, we don’t want to be punitive here.” And I go, “No, I want to be punitive. I want him to feel the consequence.” I spend a lot of time talking about consequences with him because he’s a teen. The 11-year-old, it doesn’t matter as much. But I want him to feel consequences of his actions, always so that he understands the price of things and when you do something, I want him to understand that. That’s one of the things I think parents don’t do nearly enough.
+
+Tim Ferriss: Definitely.
+
+Kara Swisher: But they’re great kids. They’re great kids. They’re fantastic. And I don’t want them also to feel that they’re special. In California, it’s the opposite problem; everybody’s special. You don’t have children but it’s…
+
+Tim Ferriss: I don’t, but I’ve seen it.
+
+Kara Swisher: You’ve seen it. Like awards for everything and stuff like that. So I was in a meeting. I’m very grammatically accurate. I love grammar. I was in a meeting and one of the parents, or the teachers, was like, “Well, you know, we’re all special.” They said that, that thing. And I put my hand up, and I go, “Point of fact, if we’re all special, no one’s special.” I said, “It’s a word that means different…
+
+Tim Ferriss: They’re like who let this lady in here again?
+
+Kara Swisher: I know, exactly. They were like, excuse me? I go, “If everybody’s special, nobody is. Just so you know, the word special, it’s like unique. There’s no such thing as very unique.” When people do “very unique,” it drives me crazy. I hate when people modify “unique.”
+
+So they were like “Well, you know, we’re all special in different ways.” I go, “No, no, no. We’re not. We all know the rules and the status symbols. We all know it’s either money or a job or fascinating, or beautifully creative.” I said, “Everybody isn’t special. And if we teach kids that everyone’s special, they’ll think they’re special when they’re not.” Like, there are special things, like they’re the best little baker or whatever but let’s set the parameters. But what you’re talking about is achievement, and wealth and whatever you are. Let’s assume that.
+
+Once we set the rules, we can say who is special but we can rank people, we can. You do it every day of your life. Why are you pretending to these kids that we’re not ranking all day long? And of course this is San Francisco; their minds were like bah. I said language matters; it matters what you say. And I don’t know why I said this but I am successful; so is Megan. Megan worked at Google and [inaudible] of America. I go, “We’re more special than everyone else here in jobs, probably; a lot of people here. Let’s be honest!
+
+“Like come on. If you had a gun to your head and you had to rank people here, come on. And I was like that might be jobs, or it might be money. This person over here is fucking rich as hell. They win on that one.” The headmaster, who I am in good friends with, was like, “Oh, Kara.” And I was like let’s define our terms if we’re going to use that word so carelessly.
+
+Tim Ferriss: I want to switch gears a little bit, and I’ll run through what I call rapid fire questions. They don’t need rapid fire answers.
+
+Kara Swisher: Oh, I like rapid fire questions.
+
+Tim Ferriss: If you had to give a TED Talk on something you’re not known for at all…
+
+Kara Swisher: I gave one on my stroke. I gave one of those TED…
+
+Tim Ferriss: If you had to give another one, but on something you are not known for, what would you give it on?
+
+Kara Swisher: My obsession with television. I love TV shows, like bad television.
+
+Tim Ferriss: Bad television. What’s your favorite bad TV show?
+
+Kara Swisher: Anything with Heather Locklear. I love her.
+
+Tim Ferriss: Wow, I haven’t thought of Heather.
+
+Kara Swisher: She’s the best. I did an interview with her once. I was so happy. One of my greatest moments of my life. Anything with Heather.
+
+I like bad TV. Bad TV actresses. They always insult her, and they’re like oh, she’s terrible. I’m like no, she’s brilliant at bad acting; or that kind of acting, that genre.
+
+Tim Ferriss: She’s the master; the Michelangelo of bad acting.
+
+Kara Swisher: Not bad acting as bad acting, like I don’t even think it’s bad. It’s just bad, like the dramatic lines. I even love – it sounds stupid – Viola Davis, who’s a really good actress; she’s going to win the Oscar for Fences. But she’s in that show, How to Get Away with Murder, which I love. It’s a terrible, horrible show; it’s Shonda Rhimes at her very best.
+
+She had a line. Her husband was sleeping with a coed. “How did your penis get in that white girl’s mouth?” And she read that like she was Lawrence fucking Olivier. How did your penis get… and I was like oh, that was brilliant! I was happy for days at that. And I was like, she fucking ate that up. She took that line and she went with it. Like who wrote that line? And she didn’t even…
+
+Tim Ferriss: Didn’t even flinch.
+
+Kara Swisher: She did that line reading like you can’t believe, and I thought I love you, Viola Davis. You can act up a fucking storm over here but over here, you’re taking that, you’re biting it, you’re going for it and I love that mentality of hers.
+
+Tim Ferriss: You’ve met a lot of people; many, many, many, hundreds probably at this point certainly, that are held up on a pedestal as successful. When you hear the word “successful,” who comes to mind and why?
+
+Kara Swisher: Among tech people, or…?
+
+Tim Ferriss: No, any across the board.
+
+Kara Swisher: That’s a good question. Again, it’s how you define the term, right?
+
+Tim Ferriss: Yep, that’s why I’m leaving it open so I’d like to hear how you define it.
+
+Kara Swisher: I really thought Steve Jobs was great, I just do. He was who he was. I like someone who’s like that. So I thought he was successful at being the person he was and dealing with the issues he had going forward. He could have been nicer, I guess; I don’t care. I wasn’t married to him.
+
+Although, he seemed to have good relations with his kids. I don’t know. Of the people I’ve met, I like Pierre Omidyar. I think he’s a lovely guy. I think he’s been very successful, and he’s kind. I tend to like the kinder people. I think he’s true to himself. He’s kind of quirky and unusual, and has unusual taste. Things he invests in, it’s all do-gooder. And I’m not a do-gooder, trust me but I like that about him.
+
+I do like Cheryl Sandberg. We get along very well. Some of the stuff I tweak her all out about lean in. I always say I lean in and fall over; it’s a big joke I have with her. I think she’s true to herself, again.
+
+Tim Ferriss: That seems to be the common thread.
+
+Kara Swisher: Yeah, true to themselves.
+
+I do like Mark Zuckerberg a lot. I didn’t when I first met him. I didn’t not like him. When I first met him, I didn’t want to go down there. It was 2000; early, early. And Owen van Natta, who was the president of Facebook at the time – this was a million years ago and nothing was successful. It wasn’t public; it wasn’t doing well.
+
+It was doing okay. It wasn’t an upward trajectory the whole time. He came in the room and I said I don’t want to meet him; I heard he’s an asshole. Like oh, do I want to meet another little shitty little startup white dude? Like ugh, kind of thing. He walked in the room and he goes, “I heard you think I’m an asshole,” which I liked that he did that.
+
+Tim Ferriss: I was going to say, I knew you were going to like that.
+
+Kara Swisher: I liked it. And I go, “Well, I don’t know you well enough. You might very well be an asshole but I really should get to know you before I call you an asshole.” And it was great. We had a great talk. And I like him because he learns; he seems to learn. I don’t like everything he says, like this last thing about fake news, I thought he was being inane. And he’s said a lot of inane stuff. But I like that he seems to learn. I like people who learn and improve.
+
+Tim Ferriss: Very focused on learning.
+
+Kara Swisher: He is. It’s very earnest but I kind of like it. Who else do I like that I wasn’t expecting? There was someone the other day where I walked in the room and he was wearing khakis in a way that I hate, you know what I mean? The golf man khakis and a golf guy shirt. I’m like oh, this guy.
+
+Tim Ferriss: I have an allergy to those, too after Princeton.
+
+Kara Swisher: But here what I was doing was okay, he looks like a person I wouldn’t like. And we had the best time. I’m blanking on who it was. I was just sort of like oh, like this guy; he’s fantastic. I wasn’t expecting to have such a great mind. So I was surprised, and I kind of was like oh, Kara, don’t be so easily judgy. I’m trying to think of who else I like. I like a lot of people. I like more people than you think.
+
+Tim Ferriss: I don’t necessarily think you dislike people.
+
+Kara Swisher: Yeah, I like a lot of people. I like the guy at the corner store, Sammy. He’s fantastic.
+
+Tim Ferriss: I’ll ask the billboard question, because I like this question. If you had a huge billboard and you could patent a short message on it, or an image to get it out to millions of people, what would you put on it?
+
+Kara Swisher: Stop.
+
+Tim Ferriss: Stop. And for you, what does that mean?
+
+Kara Swisher: One of my favorite books I read a lot, one of the ones that had the most effect on me… I took a course freshman year at Georgetown, which I didn’t love Georgetown.
+
+I’m Catholic but I grew up in a very progressive school. So I got there and there were all these kids from Catholic school that just went wild, so they drank too much and vomited, and date rape everywhere, and so sexist and so horrible and anti gay. So it was not a great time to be a Georgetown. And I was in a course called Problem of God.
+
+Tim Ferriss: Problem of God.
+
+Kara Swisher: Right, it’s a great title. It was an existentialism – it was taught by a Jesuit. Jesuits are amazing teachers. When you get a great one, Jesuits are amazing teachers. And it was perfect. I was 17, I think when I went to college; I was a little younger. It was a mind blowing course because I read Sartre, Kamu, Kafka, Dag Hammarskjold, which I’m not a religious person but it really had an impact on me. He was seen as a technocrat; it turned out he was quite religious. Markings, I think was his book.
+
+It was just so mind blowing. I had never thought of these issues and it really impacted me. I’ll never forget, the first day of the course, the guy’s name was Father Chiafi.
+
+I’ll never forget him. He goes, “Is it God’s problem with man, or man’s problem with God?” I was like whoa. It’s true; like what is it? Probably man’s problem with God is more the thing. So we read all these texts, and we read The Trial, one of my favorite books. I read it again and again. That’s another book I read again and again. The first line of the book, The Trial, I’m not saying it right: someone must have been telling lies about Joseph K because he was arrested one fine morning.”
+
+It’s something like that. That’s the first line. Everybody thinks it’s about totalitarian states but it’s not. It’s not about Russia, it’s not about China, it’s not about communism. It’s about stopping in your life. It’s about stopping, like being stopped; being arrested. The word “arrested” is not arrested here; it’s being stopped and considering what you’re doing. This is a man who would not stop and consider what he was doing.
+
+And the last line, you do get it. He taught it so well. When someone teaches you a text really well, or shows you a painting that you didn’t understand and then opens it up to you; I think that’s what I do with writing sometimes. I make people think differently. Like oh, wait a minute; I hadn’t thought of that. Maybe that’s the truth. And so this guy taught so well. The last part of the book he’s supposedly about to be executed but he’s not. He’s about to go to the execution, because he’s not getting it.
+
+God is trying to get through to him but God can’t impose himself on Joseph K. But he won’t hear God. You know what I mean? So it was a lot about that. And the last part of the book, someone throws a window – as he’s going to the gallows or wherever he’s supposedly getting killed, someone throws up in the window and puts their arms out, and it’s God saying “Stop, just stop for a fucking second.” And nobody does that. And so I’d say stop. Do you know what I mean?
+
+Tim Ferriss: I totally know.
+
+Kara Swisher: Like nobody – just a second. Just stop. Like what you’re talking about, meditate in the morning; just stop.
+
+Tim Ferriss: What’s the rush?
+
+Kara Swisher: Not just what’s the rush; there is a rush.
+
+Tim Ferriss: Well, there is a rush but there’s… not to interject but I have the mental moray all over my house so I’m constantly reminded of death, all over my house.
+
+Kara Swisher: Yeah. Oh, that’s important.
+
+Tim Ferriss: So I recognize the value of time, but I recognize how, when I rush or when I feel rushed, I’m not present. I’m constantly stuck somewhere else.
+
+Kara Swisher: I think it’s the same thing with stop, no. No. Everyone, say yes. No. No, no, no. No, no, no. And the best part – there’s a great line from Shakespeare; I think it’s Henry V, maybe? “I waste time, and now doth time waste me.” I’ve always loved that quote.
+
+Tim Ferriss: That is a good line.
+
+Kara Swisher: That’s a great line. It’s a great line.
+
+Tim Ferriss: Do you have a favorite failure, meaning a failure, something that didn’t go the way you hoped that set you up for later success in some way?
+
+Kara Swisher: I think a lot of relationships. I wish I could go back. Again, that’s why I liked La La Land. It was really interesting. It’s all about mistakes that we make with each other.
+
+In work, no; I think I’ve been very… I haven’t asked questions that I wanted; I maybe didn’t move fast enough.
+
+Tim Ferriss: You’ve charted the path well.
+
+Kara Swisher: I was thinking the other day, someone was talking about their career and I’m like, I’ve timed my career beautifully. It’s nowhere but up now, and then I just leave. I was thinking about all the interviews I’ve done with all the different people over the years, like over 10, 15 years. I could leave right now. That’s how I feel. Like wow, I’ve done a lot. My body of work is excellent. I’m leaving behind all these amazing interviews with the greatest minds of our day.
+
+Like I interviewed whoever was Edison, I did that. Whoever was Tesla, whoever was Lincoln, I did it, that moment. So I feel good on the work stuff. There’s some stuff I want to do and try, and I think I could get to another plane. Probably I haven’t tried very hard in relationships as I should. I haven’t been as smart as I should have been, as I am at work. I guess in failure, I don’t know.
+
+Because when I wanted to leave the Post, I left. I always leave when I should leave. I’m good at leaving; realizing I’m not going anywhere and stopping. So I’m good at that. I think I probably – no, I didn’t stay at that; I left.
+
+Tim Ferriss: Well, you’re good at stopping.
+
+Kara Swisher: I’m good at stopping, looking around and saying no, not this anymore; no more of this. And that’s in a career sense. I’m good in that way with my kid, so I’ve been I think a great parent. I think probably I don’t leave quickly enough in relationships, and I think I’m getting really good at that. I just recently got separated from Megan, who I love; we have a great family. But I think I did that well. We did that. It was a good thing; it’s good for both of us and we are much happier because of it. And I feel good. That’s the first time I’ve gone: huh, this has to change. And it had to go with my stroke, too.
+
+Tim Ferriss: When you stop and leave, say, the Post or a given publication company or a relationship, is there a way you frame it to the other side when you have that conversation?
+
+Kara Swisher: Yes. The relationship was interesting. I’m sure Megan doesn’t mind me talking about it but I was fascinated by the reaction of people because they liked us as a couple. We love each other, by the way. Again, we are the best not married couple ever. We’re happier than most married people. We don’t even have lawyers. But they’re like, why are you divorcing? You get along so well. I’m like well, just because we have other things to do.
+
+So I think what was interesting, not so much Megan because Megan’s really wonderful and kind and good, was reaction. What I did bothered people. I remember watching reactions to people, and a lot of them it’s like you can’t do that. No, you’re great together. I’m like, how do you know? First of all, how do you know? Like I was talking about social media before; how do you know what’s really going on here
+
+And there was nothing awful going on, but it’s like how do you know? Then I realized oh, it’s about them. They’re vaguely unhappy and I’ve actually done something about it. And I said I’m not happy. I said I’m not unhappy, I’m just not happy and I want to be happy. That’s what I want. And so it really bothered a lot of people. And a lot of it was like, you’ve invested all this time. And I said it’s not an investment. Marriage isn’t an investment that you lose it if you stop it. we have wonderful children, we’ve had wonderful times.
+
+We still like each other. We’re not mean to each other. It’s not an investment, it’s just done. It’s done. It’s done and it’s not done in a cruel way, it’s not done in any way. It’s not perfect because it’s leaving. A lot of them liked us as a couple because we were a famous lesbian couple; they love that, like iconic and I get that. We were always on the power lists and stuff, which I hate. They have one lesbian couple they have to find and now they don’t have one.
+
+It’s true, though.
+
+Tim Ferriss: I get it.
+
+Kara Swisher: You know what I mean? Someone’s like oh, you’re on a power… I’m like I know I’m a power couple. We’re always on it. We’re it. It’s like sometimes Megan and I get lesbian awards. I’m like, we’re it; they’ve run out of people to give awards to.
+
+A friend of mine called me and I told them, and so they were like – and I’ve never forgotten this. They were like, “How many percentage unhappy were you?” How many percentage? I’m like, what? I hadn’t even thought about it in a numerical way. And I was like, “I don’t know.” She’s like, “50 percent? 40 percent were you unhappy? Were you 60 percent unhappy? What’s the percentage?” And I was like, “I can’t answer that. I guess 60, 70, I don’t know.” It was like weird to try to quantify it. And I wasn’t really that unhappy; it’s just I wasn’t where I wanted to be.
+
+I hung up the phone and called another friend. I’m like, she’s getting divorced. Like, I knew it. That was good because she started to reflect. Otherwise, people get disturbed by it because then they have to compare it to their own experience and what they’re willing to tolerate. I wasn’t apologetic about it. Neither Megan nor I were apologetic for it. We didn’t feel sorry for ourselves. There was no drama. There was no anger. We were great to the kids. We talked to the kids. It was bothersome. It was fascinating to watch. It was really interesting because people do tolerate being just okay happy. And I don’t want to be.
+
+Tim Ferriss: So on that note, and this will be probably the last question; maybe the second to the last. If you reflect back on one of the toughest periods in your life, one of the darker periods, if you can place us when and where that is, and what advice would you give that person?
+
+Kara Swisher: Gosh, that’s a good question. I haven’t had that many dark periods.
+
+Tim Ferriss: Or just difficult.
+
+Kara Swisher: It’s always been around relationships; breaking up. I’ve gotten broken up just as many times as I’ve broken up with people. One thing I do do in relationships that I don’t do in life, I’m very good at cutting things loose. I’m not good at that. I’m not good about leaving the relationship. I always hope for better, like I can fix it. That’s my problem. If they only understood my fantastic argument. There’s a really good Cheryl Strade quote about “you can’t make people love you.” You can’t. But I think of course you can.
+
+Now when I look back on it, it’s like the same thing with school. That didn’t matter. It didn’t. I’m sure it got me somewhere else but I can’t even recall that emotion when I think back on that. You know what, one thing that really made me sad and I shouldn’t have done this, maybe I should have. I probably should have. I still wonder if I should have. I went out with someone.
+
+We were very much in love and we broke up anyway because we wanted different things. You just have to know that if you’re with anybody. She didn’t want kids; I wanted kids. I wanted to live a loud life; she wanted a quiet life. We were too different but we really loved each other. Some people just spark, and stuff like that. But really just not for the long term. And it was devastating to me because you found someone you connect with; it’s hard in life. And I couldn’t be around her.
+
+It was relatively mutual and I always kept trying to come up with solutions, like an idiot. Oh, if we only… how do you get beyond I don’t want kids? You don’t. But I kept saying if only… And I would have had to give up kids, which I would never have wanted to do. I kept trying to figure it, trying to figure it and figure it and sometimes you just have to drop something. You just have to say it’s not fixable. And so I didn’t speak to this person at all; I just couldn’t. I didn’t want to be friends. I have lots of friends. We weren’t friends. And so what was really interesting is I didn’t contact her for years and years. I had kids afterwards. Time passed.
+
+I remember at the time, I just didn’t want to talk to her. I just didn’t. I knew that I didn’t, I don’t think she wanted to talk to me. And then I just let time go, and I wasn’t mad anymore. And I didn’t call her. I wrote an email. I was thinking about it. I was with a bunch of friends and I started to write an email to her: we should talk, finally. We really love each other; we loved each other. And so I would like to see you; I’d love to catch up on your life.
+
+I wrote the email and I started it because I was with some friends that reminded me of her. And I wanted her to meet my kids. I was like oh, it’s time. It’s time. And I didn’t finish it. Days later I was getting on a plane and I get a call. I was with Walt Mossberg at the time, and she had drowned.
+
+Tim Ferriss: Oh, God.
+
+Kara Swisher: It was shocking. In her basement. It was this weird – she did books on [inaudible] for a living. She was going down to collect some of her recording equipment. She’s a wonderful, beautiful actress and beautiful reader.
+
+She had gotten caught – it was a terrible death. I’m not going to go into it in detail but she drowned in her own house. It was through a flood, and it was just like so fucking random. It was weird and random. It wasn’t like a car accident or something like that cancer. It was just like random as shit. Like God just said you’re gonna die today. I was just… I literally had an email sitting there waiting to send, and I didn’t. I think I felt sicker than I’ve ever felt that I didn’t send it. not that I would have seen her, necessarily.
+
+As you know, I’m into time travel and change of time. I love that Ray Bradbury story, the one where he goes back and steps on the butterfly and suddenly we have Nazis kind of thing; you know in the future.
+
+Tim Ferriss: Oh, yeah.
+
+Kara Swisher: And so I was like what if I had written and gone to see her? Could I have stopped… because I’m such an ego maniac. But I still was thinking of why didn’t I do that? So I’m super interested in paths not taken. Like if you don’t turn left… Today if I go out here and I take a right instead of a left, what happens? I’m very interested in that kind of stuff. That’s another surprising thing; I’m super interested in that concept.
+
+What was that movie with Gwyneth Paltrow. It was not a great movie. Subway doors or something like that. She takes two different moves and it changes everything, and they show you both of them. So anyway, I felt – not because I didn’t write her but I remember thinking, I should have done that. I felt terrible for a long time. I still feel terrible. At the same time, it was the right thing not to contact. It was just a weird thing.
+
+Tim Ferriss: Reflective about it.
+
+Kara Swisher: Very. I was surprisingly upset about it. I thought about it a lot, why I didn’t. I’ve come to the conclusion now that it was the right thing not to be in touch but part of me wishes I had sent that email and gone up to visit and said hello, because you just didn’t know. Like, the same thing with my dad; you just didn’t know what was going to happen.
+
+Tim Ferriss: So in a world where so much is hard to predict or impossible to predict, and with so much cynicism out there, how do you remain hopeful?
+
+Kara Swisher: I don’t know if I’m hopeful.
+
+Tim Ferriss: Or optimistic.
+
+Kara Swisher: You know I have all these little rules. I think there are optimistic pessimists, which I think I am. There are pessimistic optimists, which I am not. There are optimistic optimists; that’s Megan, for example. And then there are pessimistic pessimists. So I don’t think I’m hopeful at all.
+
+Tim Ferriss: What is an optimistic pessimist?
+
+Kara Swisher: The world will be blowing up at some point and none of it matters. Like, it’s meaningless. I’m not religious so that’s harder; I wish I was religious. I think all of us do, a little bit. A little religion has brought more pain and suffering to this planet than almost anything, right? I mean organized religion. And so I really do believe the sun is going to blow up and it’s all going to melt. And worrying about recycling, or the elephants, or Donald Trump isn’t going to matter one bit someday, just one day.
+
+Tim Ferriss: Where does the optimism fit in, then?
+
+Kara Swisher: You should live every day like that. I’m with the Steve Jobs school. That speech really impacted me. I listen to that speech a lot.
+
+Tim Ferriss: The Stanford commencement? I have that in my calendar to watch every Sunday.
+
+Kara Swisher: Every Sunday? Every week? Wow. It’s true. That is the most beautiful piece of writing. I love that speech and the way he delivered it. That’s why I like Steve Jobs. I don’t care if it’s fake; it was fan fucking fantastic. It’s not fake. It wasn’t fake. He knows. And the thing is, he created some of the most creative things in the years he was dying, not the other years; the years he was dying is when the great stuff happened. So his being cognizant of that was really important.
+
+And the other one, people will be surprised to know but I’m very patriotic. Every time a flag comes out, I’m like oh, U S of A, even though a lot of it’s a lie. We’ve done horrible things in the name of our flag. I love the Gettysburg Address. I go to Lincoln Memorial all the time when I’m in DC and I go read it again and again, and it’s one of my favorites.
+
+It’s beautiful. It’s 800 words. Actually in my bag right now, I have a copy of it.
+
+Tim Ferriss: The Gettysburg Address?
+
+Kara Swisher: Yes, and all the rewrites of it. I love it. It’s so heartfelt about how people aren’t going to remember – of course everybody remembered it but the sacrifices these people made. Any kind of military cemetery I go crazy in. There’s one up in San Francisco that’s amazing. It has an amazing quote from Auden, I think ?
+
+Tim Ferriss: W.H. Auden?
+
+Kara Swisher: It might be Auden. I don’t think it is, actually. It’s up above the Presidio. There’s a little area there with these amazing quotes about young men dying and stuff like that. So I find sacrifice really profoundly moving, the stuff like that. There’s a line in the Gettysburg Address. Let me get it. I have it right here.
+
+Tim Ferriss: Sure.
+
+Kara Swisher: I carry it with me, which is interesting. See, look.
+
+Tim Ferriss: Wow, there it is.
+
+Kara Swisher: I carry the 14th Amendment; equal rights under the law because of gay things.
+
+So when anyone argues with me about gay rights, I’m like hello, it’s in the Constitution: equal rights under the law. But this is all about the history of it, and newspaper accounts; I just found this. There are four different copies. Where’s the original copy? I like the whole thing. It’s so short. It’s like 800 words or something. It’s like the most beautiful… where is it?
+
+Tim Ferriss: Take your time. I’m not in any rush.
+
+Kara Swisher: I will. I made my sons memorize it, by the way. I did.
+
+Tim Ferriss: The Gettysburg Address.
+
+Kara Swisher: Yeah. It’s the whole thing. Not that the world will long remember. When he goes, “Living and dead have struggled and consecrated far above the poor power to add or detract. The world will then long remember.” People remember that part. This is the line I love. I love the whole thing. “It is for us the living rather to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us, that from these honored dead we take increased devotion that the cause for which they gave their last full measure of devotion.”
+
+It’s death, right? “That we here highly resolve that these dead shall not have died in vain; that the nation under God have the new birth of freedom, the government of the people.” The last part I know got to be the famous part but it’s this last level of devotion, and that honoring that for some reason it just moves me, this piece of writing. And then you know that he’s going to die. You know what I mean? Like, what a narrative. You know what’s going to happen to him. And that he was able to pull this out and talk about something well beyond himself I thought was just… given all this carnage was really quite beautiful. This is my favorite thing.
+
+Tim Ferriss: Kara, I think that’s a great place to put a button in it. Everybody should get a copy.
+
+Kara Swisher: They should. It’s a great speech. And you can memorize it.
+
+Tim Ferriss: You can memorize.
+
+Kara Swisher: Did you ever see the Ken Burns documentary about this?
+
+Tim Ferriss: I haven’t.
+
+Kara Swisher: He gets autistic kids to memorize this passage. I don’t love everything Ken Burns has done because it can take forever, and the twakety-twank confederacy music gets to me after a while.
+
+But he did a thing about autistic – people with learning disabilities learning to memorize this. And it was great. It was so moving. It was beautiful. It was great because they got it.
+
+Tim Ferriss: Well, Kara this has been so much fun.
+
+Kara Swisher: Good.
+
+Tim Ferriss: I really appreciate you taking the time.
+
+Kara Swisher: Thank you. It’s been fun.
+
+Tim Ferriss: Where can people find everything more about you, say hello on the internet?
+
+Kara Swisher: Yes, @karaswisher. If you don’t like insults of Trump, please don’t tune in. I and the Trump can sort of yell at each other pretty much 24/7 at this point. They don’t get that I’m enjoying tweaking them in there. If I call them sore winners, they go crazy. They’re fucking sore winners. And they think I’m one of these liberals. Liberals just really have to stop and start to really tweak. You know, they get all offended by things. I’m never offended by things he says. I’m like, what a fucking douche. You know, getting all oh, can you believe it? That’s why I operate with writing. Can you believe this person did this?
+
+I’m like yeah, I can believe it. Yes, people have done horrible things to each other. If you’re a student of history, you should believe it, kind of thing. And so I like to get into it with Trump people because they bite every time. They’re so… not stupid; yeah, a lot of them are. but they just bite every… like it’s so easy. It’s enjoyable and easy and they’re such dumbkins.
+
+Tim Ferriss: If people want to watch your [inaudible] –
+
+Kara Swisher: @karaswisher. I think you can write me at Kara@recode.net. And recode.net is our site. I write weekly columns. And then the podcast, Recode, Decode which that’s the most enjoyable thing I’ve been doing lately, as you know. Are you having a good time with yours?
+
+Tim Ferriss: I’m having a great time. I love it.
+
+Kara Swisher: Podcasts are great. They’re fun.
+
+Tim Ferriss: It’s so much fun. You can get past the sound bites and really dig in.
+
+Kara Swisher: Absolutely. We had James Cordan on recently; he wouldn’t leave. I was like, you have to go. And he’s like, “I’m having a good time.” Because you get interviewed by dumb Hollywood reporters all the time: so, what suit are you wearing? Anyway.
+
+Tim Ferriss: Well, I will let you get back to your day. This has been great.
+
+And for everybody listening, for links to the Gettysburg Address and documentaries; everything that we talked about in the show, as well as how you can reach Kara, you can tune into the show notes. They can be found with the show notes of every episode at fourhourworkweek.com/podcast. And until next time, thank you for listening.
+
+
+TAGS
+KARA SWISHER
+	

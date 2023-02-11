@@ -1,0 +1,615 @@
+
+
+SEPTEMBER 5, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: David Allen — The Art of Getting Things Done (GTD) (#384)
+
+
+
+
+Please enjoy this transcript of my interview with David Allen (@gtdguy), one of the world’s most influential thinkers on productivity, whose 35 years of experience as a management consultant and executive coach have earned him the titles of “personal productivity guru” by Fast Company, one of America’s top five executive coaches by Forbes, and among The American Management Association’s top 10 business leaders.
+
+David’s bestselling book, the groundbreaking Getting Things Done: The Art of Stress-Free Productivity, has been published in thirty languages, and the “GTD” methodology it describes has become a global phenomenon, being taught by training companies in 60 countries. David, his company, and his partners are dedicated to teaching people how to stay relaxed and productive in our fast-paced world.
+
+
+
+
+#384: <span>David Allen — The Art of Getting Things Done (GTD)</span>
+
+Tim Ferriss: David, welcome to the show.
+
+David Allen: Tim, delighted to be here. Thanks for the invitation.
+
+Tim Ferriss: My pleasure, and it has been a very, very long time since we’ve had any contact. We were chatting before we pressed record. It was probably just a few weeks, maybe a month, after The 4-Hour Workweek came out in 2007 that I found myself being interviewed by someone alongside you, virtually, on the phone. And I was a nervous mess. I was very intimidated because I felt like I was stepping into the arena with the literal and metaphorical black belt in the productivity space.
+
+Because, also at that time, in 2007, GTD, Getting Things Done, was ubiquitous in Silicon Valley. I mean, it was the talk of the town, and 43 Folders, Merlin Mann, and all of these other outlets, Lifehacker, seemed to talk about GTD every day.
+
+And so it’s nice to have a conversation where I feel more comfortable asking questions.
+
+David Allen: Catching up. Well, for folks like you and me, time is somewhat irrelevant. Well, that’s what good friends are for, you know? It’s like, you show up and go, “Hey, what’s new?” Two years, 10 years, it doesn’t matter.
+
+Tim Ferriss: Yeah, exactly. And I was thinking back to that timeframe. 2007 was a very important inflection point for me, if I want to look at it that way. And around the same time, somewhere between, I want to say, 2007, 2009, a friend of mine actually interviewed you at South by Southwest in a format that is very difficult, I think in some cases, for both sides, inside a car. His name is Chase Jarvis.
+
+David Allen: Oh, I remember that. That was such fun.
+
+Tim Ferriss: He’s a phenomenal guy. A brilliant photographer. And he was trying to do his best to squeeze out — and, of course, you’re very good at providing this — but some type of nugget that he could extract in, say, a minute or two minutes or however many minutes it was. And I thought we’d begin there, because the answer as I remember it was, “Your mind is made for having ideas, not for holding ideas.” And I think this is so important. I would love to hear you just expand on what that means?
+
+David Allen: Well, your head’s a crappy office. And most people are still using their head as their office. And your brain did not evolve to remember, remind, prioritize, or manage relationships with more than four things. That’s new cognitive science data, by the way.
+
+So how many people are trying to keep track of more than four things, and manage the relationship between them and prioritize between them? It’s like, “Excuse me, how about 10,000, or 1,400?” Or God knows however many. And I just uncovered years ago, more practically, and just on the street, how critical it was to empty your head. And what then, in the early days of the new cognitive science field, they called “distributed cognition,” called “get it out of your head.” 
+
+And so I discovered that and then discovered, not only just get it out of your head, but there are other things you need to do to clarify. Dr. Peter Drucker defined what the work is that you’re getting out of your head, and what your [inaudible 08:58] is to it. So I spent 30 of the last 35 years trying to figure out what that algorithm is, and then spending thousands of hours, as you probably know, deskside, with some of the best and brightest and busiest folks on the planet, actually implementing that process and watching this transformational stuff happen.
+
+You know, come on. You’ve done a ton of coaching and advising, I’m sure, and the best advice is not to tell people what to do but ask them the right questions.
+
+Tim Ferriss: Right.
+
+David Allen: And find out what’s going on in their head and help them frame that in a way that’s useful. And so I just figured that out. I don’t know how long I’m going to be preaching this, Tim. You know, “Folks, your head is not — don’t do that. Don’t leave your stuff in your head!” And it’s such a huge habit.
+
+I think it’s because people have this — I think it gives people a false sense of control to keep it in their head. And control is the master addiction. So you’ve got to feel vulnerable enough to unload everything that has your attention and take a look at it. That’s daunting, I guess, for most people.
+
+Tim Ferriss: You mentioned coaching, so I’ll jump to that next. I’d love to hear you describe what you do with a, say, corporate client, past, present, hypothetical, when you come in to meet with, say, executives, and they’re individually very high-performing people, nonetheless carrying far more than four items in each of their heads, and you sit down. What are the first questions you ask, or exercises you do, when you sit down with high-functioning but, nonetheless, overwhelmed people, to work with them? What are some of the first things that you do with them?
+
+David Allen: Well, aside from establishing rapport.
+
+Tim Ferriss: Right.
+
+David Allen: Which is, “Hi,” and, “Why did you bring me in here? And what is your presenting issue, as best you can describe it?” And, “Here’s a little bit about who I am and kind of what we’re going to do.” But ideally, and over the years, I discovered the less I tell people about what we’re going to do, the better. You know, “Surprise.”
+
+So if I just walked in cold, the tabula rasa here is, first thing I would do, Tim, with you, would be, “Let’s make sure you have an in-tray.” A physical in-tray. We need some place to throw stuff until we can make decisions about what it means and what you’re going to do about it. But we need to collect a bunch of stuff first.
+
+So that’s what we’re going to do first is get some sort of a material version of collection, or “capturing” stuff that has people’s attention. So we just get a big stack of printer paper, a favorite pen or pencil, sit them down and say, “Okay. What’s on your mind? What has your attention?” “Oh, I need cat food. Oh, I need a life. Oh, I need a new vice president of marketing. Oh, our next vacation is coming up. Oh God, my cell phone just crapped out. The printer broke.” Yada yada.
+
+And we literally start writing, they write, each one of those items that has their attention on a separate piece of paper, and they toss that into their in-tray. You’d be surprised by, first of all, how many people don’t have an in-tray. Or if they do have one, it’s petrified because it’s just been sitting there with crap in it for weeks.
+
+Tim Ferriss: Right.
+
+David Allen: We need to have some sort of clear space to just collect all that stuff to begin with. That process, Tim, takes, usually, in my experience over all these years, for the mid- to senior level professional that we actually coach with this process, it takes one to six hours, just to capture what has their attention. Not to organize it. Not to prioritize it. Not to make decisions about it. Just to identify it.
+
+Tim Ferriss: Yeah. It’s so impressive and horrifying at the same time. And I was doing prep for this conversation, I found one paragraph that struck me as important that’s related to this, I think, in some capacity. This is from an older piece in Wired, and it reads as the following.
+
+At his seminar, Allen asks the audience to try to capture all their stuff by writing a list, and at the end of a few minutes he tells us to look at the list and think about the way it makes us feel. He guesses that our feelings include a mixture of grief and relief. The relief, he suggests, comes from the simple fact of making the list. But where does the grief come from?
+
+And this is the quote that really caught my attention.
+
+“These items represent agreements you haven’t kept with yourself,” Allen says. “What happens when you break an agreement with yourself is that your self-esteem plummets.”
+
+Could you speak to this a bit? Because I would imagine a lot of folks would say, “I feel guilt, perhaps, about all of the things I haven’t done for myself or for other people.” But this grief and agreements that you haven’t kept with yourself struck me as important, and at least got my attention. Could you speak to that?
+
+David Allen: Well, I’m going to reverse engineer a little bit and come back to the fact that your breaking of the agreement is because you’re keeping track of it in your head, and where you keep track of that has no sense of past or future. So that part of you, that little subliminal part of you, thinks you should be buying cat food 24 hours a day, or hiring a vice president 24 hours a day. That’s why it wakes you up at 3:00 in the morning. “Oh, shit, cat food. What am I going to do?” Because that thing has no sense of past or future.
+
+So because it doesn’t, you can’t do it all. You can’t do more than one thing at a time. And so there’s a part of you that thinks you should be doing all of that all the time. So talk about a ton of broken agreements. But you don’t have to finish the thing to keep your agreement. You do need to get it out of your head.
+
+See, agreements — and this is one of the things I learned back in the old personal growth days. Agreements, there’s an automatic price you pay when you break an agreement, is you disintegrate trust, either with other people or with yourself, or both. So if you don’t want to have a broken agreement, you have three options. One is don’t make the agreement, called “No, not going to do that.” Move it to someday, maybe, or something. Keep the agreement. Go buy the cat food. Go hire the VP. Go finish the thing. Or, most importantly for most people, is renegotiate the agreement.
+
+If I made an appointment today, for instance, Tim, as people may hear ambient noise out there. There’s construction going on. If that was too loud, I would probably have to try to renegotiate and reschedule this talk with you. And then I don’t have a broken agreement if I don’t do it, because we’ve renegotiated it.
+
+But you can only feel good about what you’re not doing when you know what you’re not doing. So most people have just made so many more agreements than they’re aware of. So all we do in our coaching is get people aware of, “What are all the agreements you’ve made? What are all the would, could, should, need tos, ought tos?”
+
+And that’s one of the reasons people feel good when they make a list is they look at it and go, “Well, gee, I can’t do all this right now.” No kidding, right? And so it comes back to externalizing stuff out of your head. That’s why it’s so critical to do that. And most people, I don’t think have really understood or certainly managed themselves with an understanding of that dynamic.
+
+Tim Ferriss: I’d love to underscore and maybe dig into a word that you used that I’m, certainly in my own life, trying to pay more and more attention to, which is “renegotiate.” Could you share, perhaps, any recommendations that you give, or perhaps language you use yourself, for renegotiating when need be? What do you say to someone, whether via email or otherwise, when you need to remove a commitment, whether it’s forever or simply for another time? Do you have any particular suggestions or thoughts related to that?
+
+David Allen: Yeah. Well, there’s probably — I could probably think of a dozen. But one of the most interesting ones, and useful ones sometimes, is to make it really politically correct, it’s like, “Wow. What you’re asking me to do or what I’ve committed to do is going to require so much more attention than I have the bandwidth to actually give it the attention it deserves right now. Can we renegotiate that in terms of when it’s due or how we’re going to make it happen, or if I even need to do it at all?” So that’s one way to do it. You just say, “Hey, that’s a cool thing. This is not bad about you. It’s not even bad about me.” Life changes, and sometimes we just have to renegotiate stuff in that way.
+
+I think it’s important to tell yourself, as I say, “You can only feel good about what you’re not doing when you know what you’re not doing.” That’s why, in order for me to be on the call with you and be present here, Tim, not long ago I looked at every single thing I might, could, would, should be, ought to be doing today and say, “No, this is it.” Maybe I made a mistake. We’ll find out. But at least for now, this is the coolest thing to do, it’s the best thing to do, it’s the only thing to do right now. But I just looked at everything else.
+
+But it’s hard to do if you haven’t seen everything else, because you don’t know what everything else includes. And so you’re not quite sure what you’re not doing. And so most people, then, can’t truly renegotiate for themselves because they’re not sure, what are all the things that they would, could, should, ought to do?
+
+That’s why, Tim, I mean, it’s to another point, but it ties very closely to it. When I’m not doing anything else, I’m cleaning up my backlog to zero, because there’s a surprise coming toward me I can’t see, and when that surprise hits, and that could be good, bad, or indifferent, but when that thing hits, if I’ve got a big backlog of unclarified, uncaptured, unorganized stuff, I’m going to be disturbed by any input, even if it’s good, because I don’t know what else I’m missing that, if I decide to put my attention on that new thing, what’s going to be missed? What’s going to fall through a crack somewhere?
+
+So that’s why keeping it clean, keeping the backlog as minimal as possible, is just a fabulous way to just make sure that you’re clear about what are all the agreements that you have renegotiated with yourself?
+
+Tim Ferriss: Yeah. That makes very good sense. On the whether this will turn out to be the best use of your time, give me perhaps another half hour to disappoint. We’ll see how it turns out.
+
+David Allen: Okay.
+
+Tim Ferriss: On the backlog, as minimal as it may be, where does that physically live for you currently? What is the holding pen for that for you?
+
+David Allen: Primarily two and a half places. One is obviously email. Right now, just because of some other stuff that’s going on, I have about a screen and a half full of email, which is a little too much for my comfort zone, but that’s okay. I’ll clean it up sooner than later. My physical in-tray that I’m staring at right now, which happens to be empty. While I was waiting for the construction site to slow down a little bit out there, I was processing a bunch of receipts that my wife and I collected in the last 24 hours, putting them into Quicken. So that’s all zeroed out right now.
+
+And the other half place is my little notetaker wallet that I carry around with me, that has one note in it that says, “chiropractor.” Okay. So I’m just throwing that into my in-tray right now. So those are the places I capture, really. I don’t capture much digitally. I do have an iPhone digital capture called Braintoss. Great little program that two GTD-ers in Amsterdam actually built. Because what it does is it doesn’t put it into the black hole of my iPhone. It automatically transfers it to my email.
+
+So if I’d care to digitalize anything that I’m capturing, some thought, some idea, a picture I want to take of something, whatever, it automatically goes to email, which then I clean up like I clean up my email regularly. But those are the main places.
+
+Tim Ferriss: What are the benefits of minimizing the digitizing, so to speak? Are there benefits? Is it simply a habit that you have continued over time, since that’s where it started? Or are there features to using physical —
+
+David Allen: Well, there’s two sides to the coin to the digital world. First of all, it’s a great time to be alive if you know what you’re doing and you’ve got a little discipline. If you don’t, it’s a black hole, and then you’re like, you could throw stuff in, but then you uncover it a month later and go, “Oh my God. I should have handled that.” Or whatever. And it’s, do you put it in Dropbox? Do you stick it in Evernote? You want to put it in Outlook? You want to put it in WhatsApp? Like, what, where are you going to stick this stuff?
+
+So the plethora of options has made it almost more work. You know, come on. I don’t know if you’ve seen all the studies that say that basically productivity hasn’t gone up at all, though technology has gone through the roof. And a lot of that is because the technology hasn’t necessarily improved productivity. It’s actually complicated people’s lives a lot.
+
+I know a bunch of high-tech people that are going back to paper planners, especially the ADD and ADHD type, because there are too many clicks. And out of sight, out of mind — you know, I’ve got a Thunderbolt screen, but I still don’t have the real estate on there that I used to have with my time/design paper planner. You can’t beat it, because you can see all of that relationship to each other much easier. There are no clicks. There’s no battery, no Wi-Fi required.
+
+It has all the downside. I mean, I’m kind of a high-tech end user, anyway. I like all that stuff because of connectivity and so forth. But you really need to know what you’re doing, otherwise the tech world can really be quite overwhelming.
+
+Tim Ferriss: Mm-hmm (affirmative). And I think what I’d love to do is rewind the clock a bit, just to get a better understanding of how you became the current version of David Allen. Could you describe where you were in high school, what you were focused on at the time, if anything, and what you wanted to be? What you thought you would be when you grew up, or what you wanted to do when you grew up?
+
+David Allen: Yeah. Well, I have rewind the tape quite a bit. Let’s see. High school. Well, first of all, I was an actor as a kid, right before high school. When I was 10, 11, 12 years old, I took acting lessons and actually became sort of a child star in Shreveport, Louisiana, where I pretty much spent most of my growing up years.
+
+So that was always kind of a love, was that. Then in high school, I became a debater, and state champion debater, regional champion debater, whatever. So I loved debating. That was fun. Standing up and trying to make it up while you’re on your feet. And I thought I was — you know, come on. We’re talking the ’50s and early ’60s, and in Shreveport, Louisiana, if you had any brains at all, you were either a lawyer, a doctor, or a teacher. If you weren’t necessarily in that line of things, you either sold cars or insurance or something like that. That was pretty much it. There weren’t a whole lot of other — “Consultant? What’s that? Actor? No, go get a degree so that you have a job.”
+
+So there weren’t a whole lot of options, basically, in my head. It turns out, I actually had the opportunity, we had an exchange student at our high school that I was going to, from Germany, and that was of interest to me. And so, I actually applied to the American Field Service, AFS, and back then, there were not many Americans that foreign families or international families would actually take an American for a whole year. Usually the Americans went for the summer.
+
+But I applied for the whole year. I said, “What the heck?” And it turns out I was able to — I got chosen by this family in Zurich, Switzerland. I went and lived with this Swiss family for a whole year. And that was eye-opening.
+
+Tim Ferriss: How old were you at the time?
+
+David Allen: 17 and 18.
+
+Tim Ferriss: Wow.
+
+Actually, ’63, ’64. I was over there when Kennedy was shot, which was quite traumatic for most of the Europeans, anyway, when that happened. But I went to basically the high school that the boy in the family went to. It wasn’t an academic program. It was more social, live with the family, see how they live and so forth.
+
+David Allen: So I went to Realgymnasium Zürichberg, which happened to be a block up the Kunsthaus in Zurich that had Monet water lilies drawn all over the walls. I was three blocks from the Odeon café, which is where Dadaism started, where Jung and all kinds of — so I was thrust into the middle of European history and culture just by being there. And that kind of opened my eyes a good bit. 
+
+Also, it turns out I had a half-sister, much older than me, who had wound up marrying one of the intellectual chroniclers of the Beat Generation, a man named John Clellon Holmes. If you ever looked up John Holmes, John Clellon Holmes, he wrote some very interesting books. And they lived in Connecticut. They were very, very hip. My dad died when I was really young and my mom, when I was nine, took me to visit Shirley and John, her husband. And so I got introduced to probably the hippest of the hip in terms of intellectual culture, New York City, Manhattan beat.
+
+Matter of fact, my brother-in-law John and Kerouac coined the term “Beat” together, watching somebody beat themselves, walk down Central Park. Anyway, so I got introduced early on to a whole new different world of sophistication and culture, really, back then. So I wasn’t blindsided by it, the fact that the world was a lot bigger than my world I was growing up in in Louisiana. So I wanted to get out of there as soon as I could.
+
+Nothing against that. I still love Louisiana. I’m still going back and seeing the culture and the food and the bayous and so forth and all that. But certainly my world had expanded by that point, and I was interested in pursuing that. So I didn’t know, I thought law, maybe, to begin with. But then after being in Switzerland, being around all that culture, then the interest in the liberal arts, philosophy, and so forth, was more interesting to me. So when I got into college, that was my focus.
+
+Tim Ferriss: And for those of you who aren’t familiar with the career path, so to speak, what did that look like from —
+
+David Allen: Well, I went to a crazy little college in Florida that would design your own education. No grades, independent study, called New College. And got bored by the philosophers. They wound up proving their original hypothesis using their original hypothesis and so, “Hm. That’s kind of a circle thing.” But what’s more interesting was the philosophers themselves. And I had a great friend, he turned out to be — he was my academic advisor and turned out to be a good friend, who was an intellectual historian, history of thought.
+
+So he turned me on to history of culture, history of thought, and I thought that was really cool. And we didn’t even use the word “paradigm” back then, but that’s what I got introduced to. I read Oswald Spengler, The Decline of the West, which is one of the earliest books, over a hundred years ago, talking about cultures having their own psyche, their own geist, and how that affected art, philosophy, math, science, medicine, and everything because there was a thumbprint or a signature in the various cultures that you could see through all of those things.
+
+So I was fascinated by that. So I guess that was the early stages of me being interested in models. Understanding a model. If you could understand a model, that could help the world make a lot more sense. I’ve always been somewhat attracted to that. Always also been attracted by how the invisible affects the visible.
+
+So if you look back in my career, my first job was a magician at age five, on the sidewalks of Palestine, Texas. I charged five cents for my magic show. So you can trace it, if you stretch a little bit, but you could trace it all the way back to there. I’ve always been fascinated by how, if we could understand what’s going on invisibly that’s affecting everybody and get a hold of it, that could make a huge difference in how you manage your life.
+
+Tim Ferriss: Mm-hmm (affirmative). It seems like you tried your hand at many different types of jobs, and we certainly don’t have to trace through all of them. But how did you end up teaching, say, corporations, or productivity which — and that may not be the —
+
+David Allen: Yeah.
+
+Tim Ferriss: Yeah. How would you —
+
+David Allen: I’ll make a very long story very short. I got into graduate school in American intellectual history. Again, this is Berkeley, 1968. They say if you can remember being in Berkeley in 1968, you probably weren’t there. But that was heady times to be there. At some point, I realized, “Wait a minute.” I really wanted to get my own enlightenment instead of just study people who had theirs.
+
+So I just figured that academia was not the place for it. And so I jumped ship. Left that, said, “Okay.” And then I went on my own personal exploration path. There were lots of things, lots of drugs, but also martial arts, spiritual stuff. You know, come on, this was the ’60s. This was Berkeley. And early ’70s.
+
+So as I studied all of that, I was more interested in finding out who I was and finding out about God, truth, and the universe, than having a job. But of course, rice bowl and cave wasn’t my style. So I said, “Okay, I’ve got to pay the rent, so how do I do that?” I had several friends who themselves knew what they wanted to do, and they were starting their own businesses and running small businesses.
+
+And so I wound up being a good number two guy. So just to have a good job, I helped two guys start a New Orleans-style restaurant in L.A. I helped a friend run a landscape company in San Fernando Valley. I sold mopeds. You can read the list on Wikipedia. It’s a lot of stuff that I did.
+
+But basically I would go in and see, “Well, how can I help them do what they’re doing? And how much easier can we make this, because I’m just a lazy guy?” Then I’d help improve — now we call that “process improvement” — but I was just trying to not have to work so hard. And then I’d fix it and then I’d get bored. So then I’d go find another job. And then I discovered one day, they call those people something. They pay them. They’re called “consultant.” 
+
+So 1981, hung out my shingle, “Allen & Associates.” Couldn’t spell it, now I are one! So then I said, “Okay. Well, let me see if I can throw myself out there project by project for people and make that work.” But then again, because I didn’t want to have to work so hard, I thought, “Well, I’m really interested in models that would work, in case I can’t see obviously how to help somebody in their process, it’d be nice if I had a model in my back pocket to pull out and be able to help them that would somehow improve their condition.”
+
+So I got very hungry for those models. Also, because of my meditation, spiritual work, martial arts work, I really loved the idea of being clear in my head. I had a lot of training in the martial arts about how do you clear your head so you can fight appropriately? But then my life got more complex and I said, “Well, this is kind of screwing up my clear head.” So both my interest in keeping a clear head, as well as good models to help people, had me start to get attracted to and pull in piece by piece, then fast-forward, all the stuff that became, ultimately, GTD, and Getting Things Done, 20 years later.
+
+But there was no grand epiphany. They were just little, small epiphanettes along the way that I began to cobble together in a system, in a systematic approach. And I found some stuff that worked for me. Had a couple of mentors teach me some of the key elements of these things, and I went, “God, that’s really cool.” And then I turned around and used those techniques with my own clients, and it produced the same results: more clarity, more focus, more meaningful space in their head. And I thought, “Well, that’s cool.” So that became a key part of my own consulting. We didn’t call it “coaching” back then. It was just consulting.
+
+And then a head of HR in a big corporation saw what I was doing. He said, “Wow, we need that in our whole company, David. Can you design a training program with this methodology so we can reach a lot of people with this stuff?” So I spent a couple of months and designed a two and a half day personal productivity training, and we did a pilot program for a thousand executives and managers at Lockheed in 1983 and ’84. And that worked. It hit a nerve. I found myself thrust into the corporate training world. Could have fooled me.
+
+If you’d told me as an American intellectual history major in Berkeley in 1968 that I’d be in the corporate training world, I’d say, “What are you smoking? Jeez. Come on. Are you kidding?” But it turned out that it happened to be the audience that was most attracted to what I had found out. Because the mid- to senior-level professionals were just starting to get hit with stuff like email and the tsunami of stuff that was starting to hit the corporate world. And they were also the clients that were interested in actually paying for training and coaching and so forth that would assist people in those roles.
+
+So that’s a very short version of the very long story. I got there.
+
+Tim Ferriss: I appreciate the background. I would love to hear a bit more about your mentors. Are there any particular mentors who were particularly important to the formation of GTD?
+
+David Allen: There were two, and I just had them on stage with me in Amsterdam, because I invited them to — we just did the GTD Global Summit, and I wanted people to hear some of the original DNA of where GTD started. One was Dean Acheson. The other was Russell Bishop. And Dean had been a 25-year consultant in executive consulting in organizational change, and he had uncovered the techniques that were critical to be able to loosen people up so they were able to make change, instead of having a lot of old business prevent them from being able to do that.
+
+So the whole idea of a mind sweep, getting stuff out of your head, I learned from Dean. He had figured that out, that that was absolutely critical for executives particularly because if they had all this old business spinning around in their head, for them to buy into some new goal and vision was like swimming in quicksand. So he discovered that getting that stuff out of their head meant having them make next action decisions, the very specific next action.
+
+So I learned the mind sweep and the next actions from Dean, and those are still core elements that anybody needs to get clarity, to get your head clear, in terms of your commitments. And Russell Bishop was the co-founder of Insight Seminars, which was a personal growth self-development thing that I got involved in in ’78. And I loved that. I loved that training. And a large part of that training was about commitments. So I learned about commitments there and how powerful that was. And it was a transformative experience for me.
+
+And then, I actually became a trainer for Insight Seminars, working with Russell, and we were designing some sort of personal productivity workshops, and we were being brought into the corporate world. Back in the ’70s, late ’70s, early ’80s, a lot of the corporate world started to be interested in what the personal growth had to offer. Actualizations, Lifespring, Insight, things like that were suddenly being brought into the corporate world.
+
+It was a little dangerous, because you had to be a little vulnerable and most corporate cultures were not that open for all of that kind of stuff. But it was an interesting experiment and foray into that world. And so I worked with Russell. We created the Insight Consulting Group, and we started to do these — what I had learned both from Dean and my own work, we started to do versions of this stuff in the corporate world, and that’s where Russell was my partner for many years. That’s where a lot of that started.
+
+Tim Ferriss: I’d love to dig into next action decisions. This is a really powerful concept, and a really important distinction that many people do not have a whole lot of clarity on. So could you talk about next action decisions and how they, perhaps, differ from what a lot of people put on their to-do lists?
+
+David Allen: Sure. Well, when we talk about next actions, that means as granular as, “Where, physically, visibly, are you going to go to do what to move the needle on this thing, on this commitment?” Is that at your computer to write an email? Is that at your computer to surf a website? Is that at the hardware store to buy nails? Is that at your life partner to have a conversation? What is the very, very next thing you need to do to get clarity on Mom’s birthday, or increasing your bank credit line, or hiring a vice president, or getting a life? What’s the very next action? If you had nothing else to do but that, what would you go do?
+
+People avoid that decision like the plague. They do. You could’ve fooled me. When we coach people, it takes one to six hours for them to identify all the stuff they have attention on, and then the rest of the day or two to go through each one of those and say, “Okay. What’s the very next thing you need to do about cat food, about vice president, about get a life, about should you get divorced or not? What’s the next thing?”
+
+And it takes — people actually have to think to make those decisions. It’s not hard. There are actually two aspects of getting clarity that I have to tie together is, what’s the very next action? And, if one action won’t complete whatever this commitment is, what’s the project?
+
+If you look at most people’s to-do list, you see things like, “Mom” and “bank.” It’s like, “Yeah, well, I’m sure you had a mom, so why is it on the list?” “Well, her birthday’s coming.” “What are you going to do about her birthday?” “I don’t know. I think it’s coming.” Yeah, right.
+
+So taking something like that and then, well, you captured the idea, great. That’s step one. But then step two is you need to then clarify what exactly you’re going to do about that, and what’s the final outcome? so “Give Mom a birthday party” goes on my project list, and, “Call my sis to see what she thinks we ought to do for Mom’s birthday,” is the next action.
+
+As simple as that sounds, outcome and action are the zeroes and ones of productivity, but most people have not actually identified the outcomes and the specific actions of the things that have their attention. You could’ve fooled me. But there are very few people that are exceptions to that, and most people have tons of stuff. Anybody listening to this right now, just pull out your to-do list and I’ll show you what I’m talking about.
+
+Most of the things on your to-do list are not the very next action you need to take about those. And probably the things on your to-do list are not the complete outcome that you’re trying to achieve by whatever action you need to take. So it’s funny that the zeroes, ones of productivity, people are avoiding. I mean, Getting Things Done, you need to know what “done” means. You get to mark it off as complete when what’s true and what does doing look like and where does it happen? “Oh, that’s a phone call,” or, “That’s a thing to buy at the store,” or, “That’s a conversation I need to have with somebody.”
+
+So I know it’s kind of a “Duh,” Tim, but it is something that most people need to train a cognitive muscle to answer those questions about stuff, because it requires thinking. Thinking’s hard.
+
+Tim Ferriss: It also requires a reframe as to what an effective to-do list or next action list looks like. Even the label itself, right? Should I be using the term to refer to Mom, bank, et cetera, as a to-do list? What does that actually mean when applied to “BANK,” in all caps?
+
+David Allen: In our case, it would just be your capture list. You’ve captured those. Good. But then you need to throw those in your in-tray, and then go through this decision-making process. Is it actionable, yes or no? If no, it’s either reference or trash or incubate. If yes, then it is, “Okay, so what’s the next action?” And if one action won’t complete it, what’s the project?
+
+So as simple as those questions are, that’s how you get your in-basket empty. Not by finishing everything. Yeah, anything you can do in two minutes, you should finish right then. That’s the two-minute rule. But otherwise, if you just need to clarify it, and then step three would be organize the reminders in some appropriate place.
+
+Tim Ferriss: I would love to talk about — and please feel free to rephrase this or take a different angle if better, but top-down versus bottom-up systems. And specifically, I looked at a number of listener questions that were posed, and one was related to, after doing a mind sweep and sorting the results into do it, discard it, delegate it, defer it, some people still having an extremely large list, after discarding aggressively, and not being sure of how to then eliminate more, if there are tasks or items that they can simply discard. Things that are not worth doing.
+
+And I’m wondering how you — I was just going to say, how you help people to, if they say, “I don’t know what is important,” or, “I’m not sure how to prioritize things,” if you have any advice or thoughts for those people?
+
+David Allen: Sure. I’ve got a bunch. One way to think about it is from a hierarchical standpoint of priorities. One of the things that I uncovered over all these years is the six horizons that we actually have commitments. And they’re at different levels, with different content. The top horizon would be “What’s your life purpose?” Or “What’s the purpose of your –” and you can do this, iterate it on your company or any enterprise you want, but let’s talk about personal. “So why are you on the planet? What are you here to do? What’s your purpose?” Obviously that’s going to set your priorities, right? You don’t want to be off purpose. So that’s at the top level.
+
+Of course, knowing your purpose is not going to help you decide which email to write first. A little bit. But then the next level operationally, and I say “down” not as less, but it just means it’s more operational, would be, “What’s the vision of your purpose being fulfilled successfully? Five years from now, Tim, where do you want to be? What does your lifestyle look like?” I’m sure living in New York as opposed to Silicon Valley was some part of a vision that you had, as opposed to just day-to-day. So you had some sort of a picture about, “Hey, if I really want to do what I want to do, here’s what it would look, sound, and feel like.”
+
+So that’s the vision level that people have. In companies, that’d be three, four, five-year long-term plan or vision, in terms of, “Where does this company want to be?” Now knowing the vision that you have in terms of life and career and lifestyle, is that going to help you decide which email is most important? Yeah, a little bit more.
+
+Then there’s a next level operationally, down from that, which is goals and objectives. So if you wanted that vision to actually come true, what do you need to accomplish over the next three to 24 months? That’d be usually what people talk about in terms of annual plans and so forth. “Yeah, well, I need to make sure my kids get into college. I need to make sure that we set up this new division. I want to publish the book.” Whatever those things are. Those would be goals that emerge as a way to get to your vision.
+
+So purpose would be horizon five. Horizon four would be vision. Horizon three would be goals and objectives. Horizon two, importantly, is all the things that you need to maintain, that are important to you to maintain, so that you get there. That you’re balanced and you’re moving in the right direction. So personally, this would be, “How is your health? How is your finances? How is your relationships? How’s your spiritual life? How’s your dog? How’s your fun factor?” And whatever all those things are that you say, “I need to maintain these.” You don’t finish that. You just need to make sure that they’re up to par, in terms of getting you where you want to go. So that’s horizon two.
+
+In your organizations, that would be your job description. “What are the things you’re accountable to do well?” Asset management, staff development, customer service, project design, yada yada. So that’d be looking at those levels there and saying, “Okay. Well, once you’ve defined your job description, or once you’ve looked at your aspects of your life, that’s going to help you decide a little bit more about what’s the most important email you need to send?”
+
+Then you get more operational and say, “Well, what are all the things you need to finish about any of those things above, projects? And most people have between 30 and a hundred. Gets tires on your car, handle the next vacation, hire the person, get a dog, research whether I can give my kids karate lessons or not, yada yada. So then that’s the project level. That’s horizon one.
+
+And then the ground level. We use ground, and then one, two, three, four, five like elevators in Europe, as opposed to US, since we’re so international now. So we had to change — in the first book, I call it 50,000 feet and 40,000 and so forth, but they don’t use feet in Europe. And so, anyway, then the ground level is, “What are all the things you need to do?” That’s the actions you need to take. And most people have 100 to 200 of those. Emails to send, stuff to buy at the store, stuff to talk to people about, et cetera.
+
+So when you say, “How do I set my priorities?” I say, “Well, which one of those horizons is not clear enough to you, needs more work? Or which one do you need to refer back to to then decide what’s most important on your list?” And that’s a big conversation, as you can imagine, for most people, to try to figure that out. But I tried to get it as simple as I could, but I can’t lie to anybody. That’s the truth. Those are all things that are either, conscious or not, they’re still an effect for everybody.
+
+And so, being aware of what your content is on all those different levels is going to help a lot, help a ton. On a more simple, practical level, I just set priorities by saying, “What’s most got my attention? What’s most got my attention right now? What most do I need to handle so I get to clear space again?” At this point in my life, I’ve got that kind of simplified.
+
+Tim Ferriss: Let’s talk about location for a second, because this is something that I’m certainly very curious about, and think about a fair amount. I’m in New York right now for writing, because I have a very set writing routine here in New York, and I’m also pretty isolated in rural New York. The move that I made from Silicon Valley to Austin, Texas was certainly dependent on my answers and descriptions to those higher levels that you described.
+
+David Allen: Mm-hmm (affirmative).
+
+Tim Ferriss: I’m sure this is written somewhere, but I didn’t want to try to research everything before the conversation. Amsterdam, why did you move to Amsterdam? What were the drivers or the reasons behind that?
+
+David Allen: Well, there’s kind of a perfect storm of a lot of factors. One is we wanted to get out of the US. We were a bit tired of US-centricity in terms of thinking. And we thought about — we loved Kyoto. We loved other places. But Europe seemed to be the place to go. Kathryn, my wife and I, don’t have kids, and so, we’re a little freer to do that. My work was becoming much more virtual, and actually much more global, and Amsterdam is much more the center of my world these days than Santa Barbara was.
+
+And we’d been to this city a couple of times, and fell in love with it. We loved the city. It’s an eye-candy city. I mean, it’s just gorgeous. And it’s lovely. And we kind of naively thought, “Well, let’s spend three months there and six month in Milan and six months in whatever,” because now that my work was becoming so virtual, we had the ability to be able to do that.
+
+Of course, once we found out what it takes to be legal and get legal residency in any place, there’s a lot of hoops to jump through. And it turns out that — I mean, we just kind of threw a dart and said, “Amsterdam.” It was warmer and not quite as dark as Copenhagen or Stockholm. A little more foreign and adventurous than London. And everybody here speaks English, so that was easy.
+
+Once we were here, the quality of life here is just so wonderful, and we just fell in love with the city even more so, and still are, five years later. So we intend to stay. As a matter of fact, we want to immigrate. We love the Dutch, we love the country. Now, golly, it’s just an oasis of global thinking and openness or whatever. That’s kind of rare in the world these days.
+
+Tim Ferriss: It is definitely one of my favorite cities in the world. You mentioned a lot of wonderful places, but Amsterdam really does check so many boxes. It’s a marvel of a city. It really is.
+
+David Allen: It really is. And it works. We haven’t had a car in five years. It just works. And Kathryn and I both have two bikes a piece. We walk. Gorgeous parks. It’s a very dog-friendly city. Our favorite restaurants allow dogs. That’s worth moving to Amsterdam just for that.
+
+Tim Ferriss: How have you found your state of being, whether it’s your emotional state, mental state, if it differs at all? To differ being, say, in Amsterdam after a number of years, versus being in California?
+
+David Allen: Not really that much. Come on, Santa Barbara’s a gorgeous place.
+
+Tim Ferriss: I mean, it’s not exactly —
+
+David Allen: Come on. And actually, we lived in Ojai.
+
+Tim Ferriss: The hard streets of Ojai, yeah.
+
+David Allen: Yeah, and for 22 years, and we loved it. We thought we were going to be there permanently. It’s a beautiful place. A wonderful place. Great people. Great style of a country place to live. And so, it kind of surprised us that, all of a sudden, we just felt like we were done. Call it dharma, karma, destiny, whatever it is. It’s like, somehow it just — there are times in our lives when things just are over. And so we haven’t missed anything at all. It didn’t really change. Quality of life here is just so nice. I mean, that’s nice to do whatever. There are no stray people and no stray dogs here, as opposed to California.
+
+Tim Ferriss: Was it a lingering desire over time, “Maybe we should move, maybe we should move,” or was there an event or a day or a conversation where you just said, “This is it. We’re done?”
+
+David Allen: It kind of was a four- or five-year move from sort of “Someday, maybe” to, “Yeah, let’s start to see if we can get real about it.” We had built our own little jewel box office building in Ojai, so we needed to unhook from that. Our house that we bought in 1992 was so gorgeous. It was like God’s little acre out on the east end of Ojai. It was just a beautiful little property, and it had old oaks in it and it was so — but it was kind of a teardown house to begin with. We just couldn’t afford to tear it down and rebuild, and we discovered that termites don’t move that fast.
+
+So basically, we just built a huge garden around it. We had one acre and we just build an outdoor fireplace. We had a stunning garden. We had a fabulous friend who’s a landscape gardener. So we just had a great time. We just lived outdoors. So that was wonderful. Then the termites started to win and we said, with Kathryn and my style and our inclinations, we would have rebuilt it with glass and concrete and iron. In that environment, it would’ve been just gorgeous there. But we didn’t have the money to do that.
+
+So we said, “Let’s just put a price on the house.” The market was crap at the time. We said, “Probably nobody’s going to show up, but come on, let’s just put a price on it. What the heck. It’ll be an emotional buy, anyway.” And we figured maybe one or two years from now, who knows? And two weeks later, somebody walked on and said, “I want it, right for that price.” I went, “This might be a sign.”
+
+So we got out from under the house and we said — but we weren’t quite ready to move to Europe at the time. There was still more work I needed to do there and locally with the business. So we said, “Well, let’s get trainer wheels.” So we then got a townhouse in Santa Barbara that we were at for three years. As we got trainer wheels for Europe, we got Dutch bikes and we lived in a townhouse close to town and we could walk into town and so forth.
+
+So that was our transition move there. And then, at a certain point, we said, “Okay. Let’s throw the dart. Time to go.” That’s what we did.
+
+Tim Ferriss: Off you went. Yeah. It seems to be landing on the radar of more and more of my American friends as a possible home base. It really is a wonderful choice.
+
+David Allen: It’s a terrible place. You’d never want to come. Stay away. Stay away.
+
+Tim Ferriss: It’s full. It’s full. They hate dogs. Stray people everywhere. There are certain decisions, at least in my life, I would imagine in your life, that are real chapter changes and end up informing many, many things that come thereafter. I’d love to ask you, what is one of the most worthwhile, or the best personal investments you’ve ever made?
+
+I’ll explain what I mean. That could be money, time, energy, anything else. So, for instance, if I asked Tony Robbins that, he would point to a Jim Rohn seminar that he paid for at the time when he was working as a janitor. If I talk to Amelia Boone, who’s a four-time world champion in obstacle course racing, she’d say the first time she cobbled together the fees to pay for one of the larger competitions, which then ended up showcasing how well-built and designed she was for this sport.
+
+Does anything come to mind as a particularly important investment that you made that had long-standing ripple effects?
+
+David Allen: Yeah. I mean, there are probably a dozen. But I’ll tell you one that comes to mind. I don’t think I’ve shared this with many people. But as you mentioned, what pops to mind is, I had a guy that became a very good friend of mine and a mentor of mine, many, many years ago, that I met in Berkeley. And he was the guy who offered to teach me karate. And he was quite an interesting guy. He was an Olympic fencer. He was a formula racer. He had black belt in karate. He was just a fascinating guy. He was also psychic. He was studied by the University of Pennsylvania just because of experiences that he had and things that he saw and things that he knew. And this was back in the early days, when universities were starting to study this psychic phenomena and where it came from.
+
+And Michael became a very close friend of mine. And as he started to teach me karate, I found my life started to change. And I’d been doing all the things that were cool to do and that were expected of me to do. I’d been a straight A student. I’d gone to a very hip and cool college. Obviously I got into graduate school. I had good grades. Married a beautiful woman. Got a house in Berkeley. I mean, this was as cool a life as one could have.
+
+And then, one day I woke up and realized this wasn’t the life I wanted. That there was an adventure that I was holding myself back from. That there were things I wanted to explore and expand and so forth, that I wanted to do. And that sort of changed me. One day I decided not to go back to school. And I have no idea what kind of records the University of California, Berkeley, has on me. But I just didn’t go back. I said, “Not for me.”
+
+So I left my marriage, left my life, left all of that, and then embarked on an inner and outer adventure that was quite adventurous. I ran into — you can read a lot of stuff about me out there. I ran into a lot of false starts and a lot of things that didn’t work very well, but it was all in my exploration. It wasn’t really escape. I was just looking, exploring an awful lot of things. And then found more and more stable ways, and more inner ways, with much more consciousness and stability than kind of random and ad hoc.
+
+So I grew up from that over the years and my outer life became a lot quieter, even though my inner life was still quite rich. So I suppose that was a hallmark event, was for me to make that decision to leave what people would probably consider was one of the best and coolest kind of lifestyles you would have and go on my own trip.
+
+Tim Ferriss: Was that a difficult decision? I mean, and I hate to sound like a broken record, but was this a one day, “I’m done,” or was it something that developed over time? I mean, a lot of people don’t leave situations that they feel they should.
+
+David Allen: Well, I can’t remember exactly whether it was days or weeks or months, but it certainly wasn’t — I don’t think it was months. I think it was probably weeks that I had that thought. And I’m Mr. Approval Sucker. I like people’s approval. I don’t like being the rebel and being out. I like people to like me. And so that was tough to give all that up.
+
+Tim Ferriss: What was the conversation like with your wife, with your partner at the time?
+
+David Allen: Not fun.
+
+Tim Ferriss: Yeah. I mean, was it just short like, “I’m leaving today?” Or was it more lead time than that?
+
+David Allen: Yeah. Yeah. No, it was short. Mm-hmm (affirmative). I didn’t understand myself well enough, not comfortable enough in my own skin to know how to engage with that. So it was radical. God bless her, she endured it as well as anybody could, I suppose. But I was not a class act in terms of how I did that, in other words.
+
+Tim Ferriss: The mentor that you mentioned earlier, my listeners will kill me if I don’t return to at least one description of this mentor. The psychic abilities, or extra-sensory abilities that led to him being studied by, as you mentioned, the University of Pennsylvania. Did you observe, were you able to observe any of this?
+
+David Allen: Oh, yeah.
+
+Tim Ferriss: What types of things did you observe?
+
+David Allen: Well, he would see certain things. In other words, he would have a vision of something and say, “By the way, I know this person did X, Y and Z.” And indeed, that’s exactly what they did, or what they were going to do. So he just had an extra-sensory perception ability for that. In his own story, he’s now dead, but if he told the story, he was quite depressed as a kid and he was so sensitive and didn’t understand why people were doing what they were doing. So he did all kinds of things to try to compensate for that. All these sports things that he was extremely good at.
+
+And then one day, he went to sleep and was taken out of his body and was shown other levels of why he’d been going through all the experiences he had, and who was going to be coming toward him, and that he would have this job, essentially, the karma of being able to share what he had learned with them because he owed them. So it turned out I was one of those people, at least according to him.
+
+Tim Ferriss: Wow.
+
+David Allen: That’s kind of in woo woo land, but there may be some people listening to this that know what I’m talking about.
+
+Tim Ferriss: Yeah. No, I appreciate you sharing the story. Yeah. This is something that we could talk a lot, much longer about. But I will try to keep the thread of the last question in the sense that, many of the listeners who asked questions they would hope I would explore with you asked something along the lines of, what Nick Dobos asked, which is, “How does he deal with things like mental fatigue, motivation, and mood’s role in productivity?”
+
+I’m going to approach that from a sideways angle and relate it to my last question, which is, could you describe a particularly difficult period that you faced? Because you’ve done a lot of incredible things. You have GTD being taught, as I understand it, in 60 plus countries, probably, at this point. Massive success on so many objective levels. I really like to humanize guests by asking about tougher times and how they got through it, or found their way through it. Would you be open to describing any particular tough or dark period that you went through, and how you made your way through it?
+
+David Allen: Sure. Well, back in my early Berkeley days, I had a really interesting time where I was having my own psychic or spiritual experiences, and didn’t understand where they came from, and didn’t understand why other people didn’t understand them. And so, though I’d been Mr. Nice Guy, suddenly I found myself outcast, and that was quite painful.
+
+So I wound up involved in aberrated behavior out of my frustration of all that, and they put me away in a mental institution, which I thought was kind of interesting because, at the time, I could see as much about what was going on with the people who put me there as anybody in there. And I thought, “Well, that’s kind of fascinating, just to be able to see all that.” And I’d read much of the literature about, “Is crazy really crazy or are you tapped into something very different?”
+
+So I knew I was tapped into something very different, but couldn’t get anybody to understand that. It became quite painful. And at a certain point I said, “Well, this is too painful. I think I’m going to decide to cooperate instead of rail against these people that can’t see what’s going on.” So, as I say, I never really got cured. You’re just looking at a high state of cooperation. So I managed to get — and it wasn’t very long. But it —
+
+Tim Ferriss: How long were you in?
+
+David Allen: A couple of weeks.
+
+Tim Ferriss: A couple of weeks. If I could interrupt for just a second, what were the behaviors that led you to end up there, and how did you end up there? I mean, was it family, friends?
+
+David Allen: No. I got really pissed off at my mentor friend, and he knew that I had gone off the rails. And I threw a brick through his window, and so he called the cops and the cops put me away. Anyway. It’s a much longer, more intricate story than that, but that’s the simple version.
+
+Tim Ferriss: So you decided to cooperate and you get released. What did your life look like for the weeks following that experience?
+
+David Allen: Well, I got a job and straightened myself up and started to cooperate with the world. And then, that’s when I discovered a whole lot of — I wasn’t sure what had happened to me, but I was walking down the street in Telegraph Avenue in Berkeley, and walked into a store called Shambhala Bookstore. And I walked in, I don’t know why, just intuitively, and I looked around and I looked down on a shelf and I saw this book that said The Gateways to Spiritual Science [Ed. Note: At the Gates of Spiritual Science] by Rudolf Steiner. I said, “I wonder if there are people who actually know what all this stuff is really about.”
+
+And so, I spent the next three or four or five months exploring huge amounts of the esoteric literature, of the occult and the White Brotherhood, and all kinds of stuff that I didn’t know anything about. But there’s a whole body of literature, the Theosophists to begin with, in the late 1800s, early 1900s Europe, that were studying the science of spirituality, essentially, and dug into that like crazy. I said, “Oh my God. I’m not so crazy.” I’d tapped into something that — there was something to tap into.
+
+So I then started to go on an exploration to see if I could find somebody who knew a lot more about that than I did, and that’s when I discovered a guy named John-Roger, who then wound up being my spiritual coach. So I hung out with him and said, “Well, I’ll see how much I can learn from him,” and that was 45 years. And he was just further down the path than I was, but had a lot of that information.
+
+So that’s when my life, my outer life, got much simpler and much more calm and traditional. My inner life got quite rich at that point.
+
+Tim Ferriss: What does the word “spiritual” mean to you, in this context? Or for people who —
+
+David Allen: Yeah, stuff you can’t see that’s affecting us. We all exist on many different levels. Like, you can’t see your mental, you can’t see your thoughts, you can’t see your emotions. I mean, yeah, there are people who can sort of see your energy field around that, but there’s a lot of stuff you can’t see that’s affecting us.
+
+And I use spiritual with a small s. [inaudible 1:07:44] There’s a lot of worlds out there, and it’s possible to experience those worlds if you meditate, if you practice certain practices, you can quiet yourself enough to be able to tap into a lot of the other levels that we actually exist on. So this level is just a schoolroom, but we are much bigger than all of that.
+
+So you can call it whatever you want. Your soul, your spirit, your intuition, your gut, whatever you want to call it. The still, small voice, essentially, inside of all of us that’s tapped into all of this and it is part of it. So that’s a huge universe.
+
+Tim Ferriss: Mm-hmm (affirmative). What does your meditation practice look like these days? Or, for people who want to develop a meditation practice but don’t have one, what do you recommend? Maybe those are two different things.
+
+David Allen: Well, it’s a good — I don’t know that I have a recommendation other than follow your intuition. I think there’s a perfect timing for all of that for everybody. Everybody’s on a spiritual path, whether they know it or not. Everybody’s doing what they’re doing as a way to fulfill something that they’re trying to complete here on the planet.
+
+And it’s all around. It’s in everything. So whatever is going to allow you to be quieter and listen to — as I say, the universe is always on, so meditation is not like stopping the universe or stopping anything. It’s just quieting this sort of material, loud world out here so you can pay attention to the more subtle voices.
+
+Tim Ferriss: What have you taken from that, if anything, for that initial experience that landed you in hospital? As you said, you weren’t cured. You just became more cooperative. As a strategy that has informed what you’ve done later, or even what you do today? I mean, were there particular insights or realizations that have translated?
+
+David Allen: No. Not really, Tim. More just the strength to get through all that and to come out the other side, and make life work in the way that it works for me. So I don’t know that there was any other particular “Aha!” that happened, other than, “Hm, well, I think I will change my attitude and shift my approach so that it’s much more effective.” Yeah. So that helped.
+
+I mean, having gone through that, there’s not a whole lot that scares me out here.
+
+Tim Ferriss: That makes a lot of sense. Yeah. I mean, once you’ve — it’s particularly true, I find, with people who have been taken to task in the sense of dealing with all that is in here, in addition to all that is out there, if that makes any sense?
+
+David Allen: Mm-hmm (affirmative). Sure.
+
+Tim Ferriss: Do you ever feel overwhelmed or unfocused? And, if so, what do you do when you feel either of those things?
+
+David Allen: Daily.
+
+Tim Ferriss: Okay. Okay.
+
+David Allen: Are you kidding?
+
+Tim Ferriss: I just don’t want to make assumptions.
+
+David Allen: I fall off my own wagon regularly.
+
+Tim Ferriss: Yeah, okay.
+
+David Allen: Come on, it’s not always — you know, come on. Every vision you have, every creative thought you have, everything you decide to do is going to throw you out of your comfort zone, because you’re going to have to undo what you were doing before and reconfigure everything for the new game. So it’s not like I’m totally feeling overwhelmed. I just don’t let myself go very long before I fix it.
+
+But as soon as I — this huge project I’d had, the GTD Summit, was quite — there were many times that I felt somewhat overwhelmed because I wasn’t quite sure what was going to happen. There was a lot of unknowns and so forth that I didn’t feel like I could control that well. But I eat my own dog food, as we say. “All right, sit down. Write it down. Make next action decisions, and what can I handle, what can I not handle?”
+
+Tim Ferriss: Yeah.
+
+David Allen: Everybody is. It’s like surfers. You’re always going to fall off. You just want an ankle tether around so you can get back on real quick, and it allows you to surf bigger waves.
+
+Tim Ferriss: Are there any new beliefs or behaviors or habits that have materially improved your life in the last handful of years? Any that come to mind?
+
+David Allen: Nothing comes to mind except just our wonderful dog that we had to put down a few months ago that we’re going to need another. You know, walking your dog and just being quiet, I think that was very cool. And actually, I’m reading a brand new book right now that — I was getting some shiatsu at the spa and my shiatsu master who was working on me said, “By the way…” Because I went to sleep. And he said, “By the way, you have a little bit of sleep apnea.” He said, “You must read this book.”
+
+So I am halfway through this book called The Oxygen Advantage.
+
+Tim Ferriss: The Oxygen Advantage?
+
+David Allen: I had no idea how critical it is to do nasal breathing instead of mouth breathing. It is amazing stuff. Anyway, so there’s a new habit.
+
+Tim Ferriss: The Oxygen Advantage.
+
+David Allen: Sleeping with — actually, he suggests going and getting adhesive cloth tape, like a four-inch piece, and putting it over your mouth when you go to sleep so that you train yourself and you build the practice of actually sleeping with nasal breathing. Fascinating stuff.
+
+Tim Ferriss: The Oxygen Advantage.
+
+David Allen: Yep. so you mentioned it, that’s a brand new habit I just started 48 hours ago.
+
+Tim Ferriss: Are there any particular books that you have — outside of your own — that you have gifted or recommended often to other people?
+
+David Allen: Oh yes. One of the latest ones is called The Antidote, Oliver Burkeman. Fabulous book. Totally fun. It’s happiness for people who can’t stand positive thinking. You’d love it. You’d love it, Tim. It’s great. The content is a good bit more serious than what the title sounds like. He’s really into pooh-poohing the people that just say, “Don’t have any negative thoughts. Just go think positive thoughts.” And not accepting reality.
+
+And so he goes into quite a bit of exploration of stoicism. And I couldn’t agree more with actually his hypothesis and his thinking. Anyway, it’s a fun book. My wife just broke out laughing regularly. She was reading the book. It’s very well-written. So that’s one of my latest recommendations, for sure.
+
+Tim Ferriss: The Antidote.
+
+David Allen: Yep.
+
+Tim Ferriss: All right. Note taken. Do you have a consistent, say, morning routine of the first hour or two of your day? When you are outside of a gigantic event like the Summit that you just completed, but when you’re in the in between spaces around those larger components?
+
+David Allen: Tim, what I do regularly is the night before, I look at my calendar for the next day or two and see what my hard landscape is, meaning, what are the things I’ve got to do, no choice, in terms of commitments that I’ve got? So I know how long to sleep. I’m a huge fan of sleep. I used to think I was just lazy, but now, given the new cognitive science, I’m just smart.
+
+We all need eight to nine hours of sleep a night, unless you’re really an exceptional person. So I love sleep. So that’s my first thing is, the night before, just to see how long I can sleep. Then when I get up in the morning, first thing I do is a glass of lemon water to cleanse the system. French press cup of coffee. Sooner or later, a protein drink. If we have a dog, the dog goes out. I read The New York Times on my iPad, European version. And I’ll probably play a game or two of Words with Friends, because I like to get my brain going by just doing Scrabble with people around the world.
+
+And then, whatever I feel like doing next.
+
+Tim Ferriss: Mm-hmm (affirmative). Take a long bicycle ride by those canals in Amsterdam!
+
+David Allen: Usually I go out — Kathryn and I will usually go for a — we have a beautiful park about an eight-minute walk from where we are that we love to just walk around. It’s a nice way to clear your head. Even when we don’t have a dog, we get outside, and it’s such a beautiful place here. That helps, too.
+
+Tim Ferriss: What do you wish GTD adherents, or people who, say, have read your books once through each, would pay more attention to? Are there any particular aspects or concepts or details that you wish more people would pay attention to?
+
+David Allen: Well, I’m not into having anybody change any of the behavior they don’t want to change. My job was just to give people information. Whether they want it or not, I’m not going to beat anybody up about it. I’m not even going to proselytize about is very much. I just say, “Look, you want a clear head? Here’s how you get it, and you can do it or not. I don’t care.” Well, I care, otherwise I wouldn’t share this information because it’s potentially transformational and life-changing for people when they actually get this methodology and capture, clarify, organize, reflect, and engage with their stuff, if they do that.
+
+But people can fall off on any one of those. A lot of people just don’t write everything down, so they don’t trust their head or their lists. A lot of people don’t decide the next actions and outcomes for stuff, and so their lists are, when they look at them, creating as much stress as they relieve. And a lot of people don’t have a trusted organization system that they trust that their head can absolutely let it go, knowing that they’re going to see the right thing at the right time, be reminded of the right stuff. And an awful lot of people don’t step back and reflect, what we call the “weekly review,” or any kind of a regular reflection review, where you step back and take an hour or two, at least once a week, and bring up the rear-guard and get current. Get clean again. Because life’s like that.
+
+Those are all the steps that people don’t take. So I’d say, “Hey guys. Read the book again.” I’ve had somebody read the book 20 times. He says it’s a different book every time he read it, because you’re ready for a different cut on the stuff when you read it again. So it sounds like it’s pretty simple, but it’s quite a habit for most people to change.
+
+Tim Ferriss: The weekly review, I’d love to spend just a few minutes on that. Could you describe what the weekly review might look like for someone? What are the steps of the weekly review?
+
+David Allen: Well, first of all, let’s step back a second and say, “If you haven’t captured, clarified, organized, and reviewed most of the stuff of your life, you don’t have the whole thing to review yet.” So the weekly review, the ideal weekly review, means that your system is relatively current. At least, it’s only a week old in terms of maybe stuff that you haven’t brought current yet.
+
+Then again, even if you haven’t set up a system, just to take an hour a week and step back and look at your life and say, “Hey, what’s happened in the last week? What do I need to do about that?” Just any kind of a thinking and a more reflective process is going to help anybody at any time. And not just go zone out or drink or even just meditate, but to really focus on the work of your life. It’s a different focus. When you’re thinking about, “Well, what did I commit to? What’s new? What do I need to be aware of?”
+
+If nothing else, just look at your calendar for the coming up the next two or three weeks. Everybody’s going to go, “Oh, God, that reminds me.” Yeah, no kidding. So any of that kind of stuff — and again, the more that you have externalized your life and your work, the more valuable this review is going to be.
+
+Tim Ferriss: When do you tend to do your weekly reviews? Is there — you don’t have a standard time?
+
+David Allen: No. No, I don’t really. Just when ambient anxiety creeps up on me. But it’s usually about every seven days. Years ago, I actually read somewhere, Tim, that the — because we’ve always said, we always knew just practically, anyway, that a weekly review was really critical to keep your system current, alive, and well, and then it grows. If you don’t do that, it gets out of date. You’ll fall off the wagon pretty fast and pretty coherently.
+
+But then I read somewhere that your brain actually, if you try to recall something that happened within the last seven days, you can pretty well recreate the context in your mind. After about seven or eight days, it’s kind of like there’s a part of your brain that does a Control Alt Delete, and it’s like, it’s just — if you’re trying to recreate something that happened two weeks ago, it’s like, “Can’t find it. What? Where?”
+
+So there seems to be some sort of a natural cycle of a seven-day cycle in that kind of thinking. It’s probably one of the most challenging habits to set up, but certainly the most rewarding if you do.
+
+Tim Ferriss: Do you have any rules or commandments for yourself for types of things that you categorically say no to? The reason I ask this is that I, at least in my own life, have really tried and found it quite valuable trying to figure out the single decisions that remove many, many, many decisions. So, for instance, no to all speaking engagements outside of Austin for X period of time, whether it’s six months or 12 months or whatever it might be.
+
+Are there certain categories of things that you simply say no to as a default?
+
+David Allen: Not really, except unpleasant people. That’s about it. I don’t know. I suppose this will change, but still, at 73, I still take advantage of every — I think there’s probably two or three or maybe five interviews or podcasts that we’ve refused because the sleaze factor was just too high. But I’ve done 2000 since Getting Things Done was published in 2001. I just say, “Hey, anybody is interested in this, sure, I’m here to share it with the world. Here we go.”
+
+And I don’t have really, really that deep of pockets. I haven’t been that entrepreneurial or aspirational to go build this huge fortune, and so, I still take advantage of work that shows up. If it seems interesting, it seems like something that people are interested in me doing, I go, “Yeah.” My price has gone up, so I’m not doing as much, but that’s okay.
+
+Tim Ferriss: Let’s return to the unpleasant people for a second. What, if there is, feeling gives you an indicator that someone is a person you want to avoid? Or is it more looking at them online, doing a little due diligence and deciding, “This is not the tone of person I want to interact with?” How do you vet and filter those people out?
+
+David Allen: You know, I don’t have to do much of that these days, Tim. I mean, I guess given where I am in my life, people usually don’t contact me unless they’re nice, or at least fun to — I have a little bit of the — what’s his name? I Never Met a [Man] I Didn’t Like? Will Rogers. I have a little bit of that in me. I think most people are good people to begin with.
+
+And most people just don’t, they don’t come to me with negative stuff. I guess maybe in the old days, a little bit, but I kind of just made a joke, kind of like, yeah. I don’t like unpleasant people, but I have a blessed life that I have nothing but, pretty much, pleasant people around me.
+
+Tim Ferriss: I’d like to read a short quote, and ask you to elaborate if you’re able, because it seems to allude to something very important. And this is from a Fast Company piece some time ago. This is a quote of yours that they may have got wrong, so you can correct it if need be.
+
+“People assume that I am a hard-working, left-brained, results-oriented, OCD, anal-retentive kind of guy,” he says with a laugh. “In fact, the reason that I was attracted to this work was that it allowed me to be more creative, more spontaneous, freer. I’m a freedom guy.”
+
+Could you explain what you mean by that?
+
+David Allen: It’s self-explanatory! I’m not sure what else I can say.
+
+Tim Ferriss: In the sense that, why does, at face value, someone might say that there are a lot of rules, this doesn’t — and this is what some people asked. Like, “Well, it seems like GTD is very rigid and has a lot of process. I want to be able to use my intuition and creativity.” So it may be self-explanatory, but I’d like you to explain it anyway because it doesn’t seem totally obvious to everybody.
+
+David Allen: Yeah. Well, I think it was Flaubert that said, “Be steady and well-ordered in your life, so you can be crazy and spontaneous in your work.” That was 120 years ago that he said that. It’s funny. People say, “I don’t want to be so structured.” I say, “What do you think about the middle line in the road out there? It’s a constraint. It’s a limitation.” “No, the center line is great.” “Why?” “It lets me think about other things while I’m driving, as opposed to someone who’s going to hit me.”
+
+So just enough structure to give you the freedom. So I don’t structure anything more than I need, but you do need a certain rigorous structure. Well, throw away your calendar if you don’t like lists. Come on. It’s just that the price of missing an appointment is emotionally pretty high, that’s why people maintain that structure pretty well. So you just need as much structure as you need. Ask anybody out there. Was it Picasso that said, “Inspiration is for amateurs?” [Ed. Note: Chuck Close, though it’s similar to Picasso’s “Inspiration exists, but it has to find you working.”]
+
+Tim Ferriss: It could’ve been. It sounds like Picasso.
+
+David Allen: It sounds like him. Yeah, I think it was him. It was like, “Assez puis.” “No, butt in chair, paintbrush, paint to canvas, stare at it, discipline yourself.” Anyway, so I think there is the degree to which that — well, I don’t know. That just seems so self-evident. Most of the people that, basically, that I know, some of the most creative people I know, one of the most creative guys I know, and he just spoke at the Summit, by the way. He sent in a video, so I know, since he was public about it, I can make it public.
+
+Probably one of the most successful — he just won, actually, the EY World Entrepreneur of the Year for 2019, Brad Keywell. And Brad’s, he’s on five boards. He teaches entrepreneurialism at the University of Chicago. He built Groupon and sold it. That’s why he has his own jet. His new start-up — now it’s four years old — but even two years in, had a two billion dollar market cap. This guy is so smart, so creative. He collects modern art. He runs Chicago Ideas Week. He started it.
+
+So this is probably one of the most creative people you would ever meet. Certainly one of the most productive people you’d ever meet. And I spent a year with him. People say, “Well, why would he do GTD?” I say, “Well, his presenting issue was, ‘David, I’m just up to here.'” He was 27, he said, “I’m just getting my traction, but I wake up with million dollar ideas, but I don’t know what to do with them or where to put them, or who to give them to.” So he just needed more room.
+
+So what GTD does is it provides space. Invariably, if you capture, clarify, organize, and reflect on all the things that have your attention, it will give you more room. What you do with that room is unique to you. Some people use it to be more creative. Some people use it to be more strategic. Some people to be more innovative. Some people to be just present with whatever they’re doing.
+
+One of my biggest champions, a guy named Howard Stern, you can’t find a more creative guy than Howard. He’d tell you, it changed his life. It gave him the time to learn to paint, which he’d always wanted to do, as well as keep Sirius Radio going. Or people like Will Smith or Robert Downey, Jr. They’re big champions of my stuff. I can say their names because they were public about that.
+
+So if people think that creative people can’t use GTD, I’d say, “There are a few people you ought to meet.”
+
+Tim Ferriss: A nitty-gritty question about the weekly review, as a few people asked this, and I’m curious as well. Is the weekly review inherently a solo process, or do you ever involve your staff with the reviews?
+
+David Allen: Well, I know people that would do weekly reviews with their families. Very cool to do. I think you need to do your own private one in any case, no matter what. But then, if you have groups of people to say, “What are the things that we are all interested in as a group, that we can share and update each other with?” So absolutely. That’s a great time to do that. Probably wouldn’t necessarily frame it so much as a weekly review, so much as, “Let’s review all the things that have our attention as a team, as a group, as a family, as a couple.”
+
+Tim Ferriss: Mm-hmm (affirmative). Do you manage your email in a task manager, or is it its own system? Is it simply the email client that you happen to be using? Could you describe the tools you use for processing email?
+
+David Allen: Yeah. Well, I still use IBM Notes, the old Lotus Notes. We still use that in our company. And I actually had my CTO for, let’s see, 15 years, Eric Mack, built an app that sits on top of, or within, Notes, that lets me use email as my task manager. But you’d have to be using Notes to use it, so it’s not publicly available unless you want to — it’s publicly available if you want to just set up Lotus Notes or IBM Notes, and then get eProductivity to stick on it.
+
+But that’s basically, as I look at my screen, for instance, I have navigator bars on the left-hand side, and they have my action list. There’s one of them says “projects,” one of them says “agendas,” one of them says “calls,” one of them says “computer,” one of them says “creative writing,” one of them says “errands,” one of them says “home,” one of them says “online,” one of them says “someday maybe,” and then “waiting for.” And so, I could actually drag an email into any one of those and it becomes that. Or I can just open that folder, and then add anything to that folder that I want.
+
+So it’s both an email manager as well as a task manager at the same time.
+
+Tim Ferriss: Do you use any particular app or program for pulling material like articles or references off of Web browsing into a system of any type?
+
+David Allen: No, not really. No, I use Evernote. I’ve used the Evernote little function —
+
+Tim Ferriss: Yeah, the Web Clipper.
+
+David Allen: The Web Clipper. But I still don’t use it that much. I don’t have that much stuff that I want to do about that. The problem with things like Evernote, somebody described it as “write-only.” They spend all their time adding stuff in there and don’t even go in and look at what they’ve got.
+
+Tim Ferriss: Yeah. It’s a risk with a lot of digital technology.
+
+David Allen: Write-only, as opposed to read-only.
+
+Tim Ferriss: Yeah. Addition and not sufficiently, well, at least subtraction from intentional perspective.
+
+David Allen: Any of those things would work. All you need are lists, basically. You just need something to be able to cut and paste reference material in. I’ve got reference material all over Lotus Notes. I’ve got reference material all over Evernote. I have reference material just in Word files, all over. I don’t have any particular template or any particular suggestion other than probably not a bad idea to every once in a while, maybe yearly, curate all of that stuff so you don’t have a lot of old, dead wood in there.
+
+Tim Ferriss: You’ve mentioned quite a few quotes. You seem to have a good memory for quotes of various types in this conversation so far. Are there any quotes that you would consider you try to live your life by or think of often as a mantra/reminder of sorts? Are there any quotes that come to mind as being particularly important to you?
+
+David Allen: Well, my screensaver just says, “Let go.”
+
+Tim Ferriss: Let go.
+
+David Allen: Yeah. Control is the master addiction. It’s always a good idea to say, “Hey, drop it. Let go.” Let life just be what it is.
+
+Tim Ferriss: Mm-hmm (affirmative). I often ask people, if you could have one gigantic billboard, metaphorically speaking, to get a message out to billions of people, or it could be a question, could be a quote, could be a word, would that be “Let it go,” or would it possibly be something else for you?
+
+David Allen: I don’t know. You’d have to give me that billboard, that opportunity. Let me see what shows up, because I need to let go to be able to see what showed up, as opposed to try to preconceive that. I mean, “Your head’s for having ideas, not for holding them,” is not a bad one. Just a practical, GTD-esque quote.
+
+Tim Ferriss: I was reading a piece in The Atlantic, which I found some of it very fascinating, and this was before you had applied the new labels to the various vantage points. So this was back when you were using the 30,000-foot view and so on. But you mentioned at one point in this, and again, feel free to fact check, but —
+
+David Allen: Is this Jim Fallows’ article?
+
+Tim Ferriss: I think it is. He met you — he talks about meeting you for dinner after a seminar in Washington.
+
+David Allen: Right.
+
+Tim Ferriss: And there’s a portion here that says: 
+
+“Back in the old days, I had this naive idea that people would see this cool tool we were offering and say, ‘Okay, what else?’ We’d have this great big Trojan horse that would march into the staid corporate world and let us find people who were interested in how life is really lived. They’d say, ‘Hey, let’s go discover God and Truth and the reality that sits behind all this stuff!’ But of course that never happened.”
+
+Is that still — do you still have that hope that people will do something with the space that is created, related to bigger questions?
+
+David Allen: No. It’s not really hope. Come on, after all these years, I’m not a proselytizer. I’m really not. I just think what I’ve — I’ve had the good fortune to uncover something that allows people to create more space. And again, what they do with that space is up to them. Whether they want to use it to be able to do their spiritual practices. People often say, “Is this a spiritual thing?” I go, “Well, I guess everything is, but no. But if you’re into practicing spiritual practices, this gives you a lot more space to be able to do that in a quieter way.”
+
+But, again, people will do whatever they do. But people are already spiritual. They just may not be that aware of it. But I don’t have any — I’m not out trying to get people to be something that they’re not, or to uncover something that they’re not. Again, I’ve been doing this for 35 years, so at a certain point you go, “People just do what they do. Let me just do the best work I can do, and just, with what’s in front of me, complete it with as much elegance and excellence as I can, and then the next thing is going to show up.”
+
+That was a big freeway “Aha” moment I had years ago, when I was agonizing about what I should do with my life. And this little still, small voice inside of me said, “David, don’t worry. You have created so much in this life, and probably many others. You don’t have to worry about that. Just complete whatever’s right in front of you with as much excellence as you can, and the next thing will automatically show up.” And I haven’t turned back from that. That’s constantly been what’s happened.
+
+Tim Ferriss: Well, David, I appreciate you making space for this conversation. We’re many, many time zones apart and I don’t want to consume too much of your finite time. But I very much appreciate you making space for having this conversation.
+
+David Allen: This was fun. Nice to chat with you, Tim, and connect again after all this time.
+
+Tim Ferriss: After all of this time. It’s been a while.
+
+David Allen: Let’s not wait so long for the next one.
+
+Tim Ferriss: No. I’ll let you know when I’m headed to Amsterdam, because I do absolutely love that city. And people can find you, of course, on Twitter at gtdguy, at gettingthingsdone.com. Is there anything else that you would like to say or share or mention to people, as we wrap up?
+
+David Allen: You know, the new edition of the book that came out two or three years ago is, if you have got the new edition, it’s really worth reading, I think. I’ve updated a bunch of stuff and tweaked the language-ing a good bit. I bet a lot of people really appreciated that. And read it a second time. If you haven’t read it but once, believe me, it’ll be a whole different book. And we’re coming out with The GTD Workbook in September. Penguin’s doing that. It’s going to have the 10 moves to trust-free productivity.
+
+Because Getting Things Done can be quite daunting for people that pick up the book and look at it and go, “Oh my God. Too much to do.” So in the genre of the workbook for The 7 Habits that was written, and the workbook for some of the other business guru books — I don’t know, Tim, have you written workbooks for The 4-Hour Workweek?
+
+Tim Ferriss: I haven’t. But workbooks are really, really helpful. And so I think that will really aid a lot of people. And I’ve certainly found the Morning Pages workbook and other things like that to be, personally, very helpful. So I will definitely check out The GTD Workbook. And you said that’s coming out in September?
+
+David Allen: Yep.
+
+Tim Ferriss: Perfect. Any other closing comments or recommendations for people, David, or have we covered it?
+
+David Allen: No. If there’s one thing most people could probably do more of, it’s relax.
+
+Tim Ferriss: Relax, yeah.
+
+David Allen: And enjoy life.
+
+Tim Ferriss: Very little downside to at least physically relaxing. Let it go. Is it “let go,” or “let it go” that’s on your screensaver?
+
+David Allen: Let go.
+
+Tim Ferriss: Let go. Good advice. Everybody listening, I will have links to everything that we’ve spoken about in the show notes as per usual, at tim.blog/podcast. So to everybody out there, thank you for listening. And David, once again, really appreciate the time. This has been a real pleasure, and I have a whole extra set of notes here to follow up on myself. And I really appreciate it.
+
+David Allen: Thanks, Tim. My pleasure.
+
+Tim Ferriss: All right. Until next time. Thanks.
+
+
+TAGS
+DAVID ALLEN
+	

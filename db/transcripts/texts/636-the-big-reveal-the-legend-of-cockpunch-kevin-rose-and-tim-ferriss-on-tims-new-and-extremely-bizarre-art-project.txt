@@ -1,0 +1,788 @@
+
+
+NOVEMBER 21, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: The Big Reveal: The Legend of CØCKPUNCH — Kevin Rose and Tim Ferriss on Tim’s New and Extremely Bizarre Art Project (#636)
+
+
+
+
+Please enjoy this transcript of an episode that explores my creative process, how I think about first principles, and how to get serious things done without being serious all the time. This time, I am the guest and Kevin Rose (@KevinRose) is the host. Who is Kevin? Kevin is a technologist, serial entrepreneur, world-class investor, self-experimenter, and all-around wild and crazy guy.
+
+For more on The Legend of CØCKPUNCH™, visit cockpunch.com and follow on Twitter (@cockpunch). Launch date is coming up soon, so make sure to follow that Twitter account for news, as well as @tferriss and @TimTimNifties. I will also be announcing next steps via my newsletter, and you can sign up at tim.blog/friday.
+
+Please note: 100% of primary sale proceeds are being donated to the Saisei Foundation, a registered 501(c)(3) nonprofit private foundation that funds cutting-edge scientific research and other initiatives related to psychedelic medicine, mental health therapeutics, and much more.
+
+The episode you’re about to hear was originally published on the PROOF podcast, a podcast hosted by Kevin, which provides in-depth NFT coverage.
+
+The PROOF podcast is part of PROOF (@proof_xyz). PROOF is creating community-centric products that celebrate art, connect collectors, and activate creative entrepreneurship. Under the PROOF umbrella, they have the PROOF Collective, a private collective of 1,000 dedicated NFT collectors and artists. There is also Grails—which I’ve been an artist for—PROOF-curated collections with artists revealed post-mint. And, of course, there is Moonbirds, a collection of 10,000 utility-enabled PFPs featuring a diverse pool of traits. That’s just the tip of the PROOF iceberg. Kevin is doing a phenomenal job, and I suggest you check out what they’re doing. 
+
+
+
+
+#636: The Big Reveal: The Legend of CØCKPUNCH — Kevin Rose and Tim Ferriss on Tim’s New and Extremely Bizarre Art Project
+
+
+
+
+Kevin Rose: Hey, everyone. Welcome to another episode that covers all things NFTs, including a brand new project done by none other than Tim-Tim Ferriss. Tim, welcome to the show.
+
+Tim Ferriss: So great to be here. Good to see you, brother.
+
+Kevin Rose: Good to see you.
+
+Tim Ferriss: For those who have not seen what happened before we pressed “record”, I’ve been enjoying non-stop sound effects of every possible type, because Kevin has a new toy.
+
+Kevin Rose: That’s right, I do. Investor dollars put to good work here. We have our own little soundboard now, which is awesome. No, in all seriousness though, it is nice to actually have a somewhat professional studio. It’ll be very professional once we actually have a real home-home, although this is coming together quite nicely. Mal has done a fantastic job setting it up, and we actually have real mics, real lighting, things of that nature. So, very cool.
+
+Tim Ferriss: Yeah, looks great. I like the purple background effect that you have working for you. It brings out your eyes.
+
+Kevin Rose: You know what’s crazy? Thank you, first of all. It’s crazy that we just moved in here. This was actually a temporary space a couple days ago, and Mal rushed to get this set up. He did a good job.
+
+Tim Ferriss: Good job, Mal. Looks excellent.
+
+Kevin Rose: But, yeah. Dude, this is crazy, because we’ve been talking NFTs for a long time now.
+
+Tim Ferriss: Long time.
+
+Kevin Rose: You were very gracious to let me chat your ear off about NFTs on the Random show, and talk about the early stuff and the early PROOF past days, and then, obviously, in the chaos that became fucking, but what people may not know is that you immediately went all in, as one does, especially you, and went deep. We really started going crazy with NFTs, especially around our trip to Martha, Texas. Remember when we went out there, and you started buying some serious Chromie Squiggles. You got some great NFTs. As a collector first, right?
+
+Tim Ferriss: Collector first. Yeah, absolutely. Then, that has been for me. I mean, I really haven’t showcased any collections of any type. I’ve just been collecting to scratch my own itch and to explore the world of NFTs, which I think for a lot of folks has been entered through the gateway drug of NFT artwork. As someone who’s been very not just interested in, but involved in art from a production perspective, from an illustrator perspective. A lot of that background is, or has been, invisible to I think a lot of folks who have read my writing or have listened to the podcast, is that prior to all of that, my plan was to be a comic book penciler for 10-plus years.
+
+Kevin Rose: It’s not too late.
+
+Tim Ferriss: It’s not too late. Worked in illustration and paid a lot of my way through college expenses and so on with illustrating books and magazines, and acting as a graphics editor, and so on. So, I’ve been very, very interested in all of these intersections within the Venn diagram of NFTs. Also, our background goes way, way back in terms of early stage tech, experimenting with new tools, and playing with these technologies. That goes, I mean, certainly way back, you even further than I, but for me, 2007, 2008 at the latest. This has provided a really fun opportunity to reengage with all sorts of things that I’m interested in.
+
+Kevin Rose: I feel like that is one of the things that you and I bonded over very early on, where I was more obviously definitely on the tech side and the angel investing side. You were just kicking off your career as an author and angel investor. Then you were into big into biohacking, which I was always curious about, but you were an order of magnitude more sophisticated in terms of your understanding of published papers and the literature, and all that stuff. So, I would just follow what you were doing, except for the stuff that got you in the hospital or other things. I would fast follow, where it was appropriate.
+
+Tim Ferriss: I could give you the “do not try at home” list also, so I could save you some hospital visits. Which, that’s what friends are for.
+
+Kevin Rose: Yeah, exactly. Then we would do angel deals together, try out new technologies together, things like that. When I got into NFTs and all that, and knowing your love for art, it makes sense that you would then venture into the space and kick the tires. Now, that said, it’s November 8th as of this recording. NFTs might be dead right now. We don’t know, because…
+
+Tim Ferriss: It’s been a hell of a day. It’s been a very exciting day.
+
+Kevin Rose: It’s been a hell of a few days.
+
+Tim Ferriss: Hell of a few days, yeah. Very exciting. I mean, exciting in the way that an avalanche is exciting, perhaps. Exciting, nonetheless.
+
+Kevin Rose: Right. You’d like to watch kind of, but you should be far enough away, but sadly, we’re right in the middle of it. So, yeah.
+
+Tim Ferriss: Better on video, instead of being on one ski, going directly into the avalanche. But some people choose to ride the bear, some people choose to do something else. Dangerous hobbies.
+
+Kevin Rose: That’s a great feature for you. Ride the bear.
+
+Tim Ferriss: Ride the bear.
+
+Kevin Rose: Let’s talk about your project. What would be a good place to start? Would it be with the idea of a PFP, or if you consider this a PFP, or what can we say and what can’t we say about the project right now?
+
+Tim Ferriss: Well, I think because ultimately you and I will sit around and have martinis and decide when pub date is, I can just go for it and we can get into the nitty gritty, and then we can release it when it makes sense. But I think it might make sense to start at the beginning, in so much as, let’s see here. Early 2021, you and I were having a conversation and you’re like, “You got to look more closely these NFT things.” And I think maybe prior to that, or maybe just after that, the timing is slightly lost on me. I think it would’ve been just before that, I don’t remember the exact date, I’d had Katie Haun on the podcast and we talked about NFTs, and then you had encouraged me in early 2021 to roll up my sleeves and actually start using some of the tools and to buy NFTs.
+
+Kevin Rose: Oh my God. Those phone calls.
+
+Tim Ferriss: Yeah, those phone calls.
+
+Kevin Rose: The Meta mass support phone calls.
+
+Tim Ferriss: Oh God, it’s just like remedial, walking your great-grandmother through buying the first NFT, Sorry about that, Kev-Kev. But I appreciated the 101, sort of short school bus help there. And it made me very, very excited on a couple of levels. To explain why, I need to give a bit of additional context. There were a lot of things that came together for me at once. One was new tech, always interesting to me, especially when there is some type of onramp/Trojan horse that allows a lot of, let’s just call them not obviously early tech candidates to become involved with early tech, if that makes any sense. If there’s some type of muggle pathway for someone like me to get involved. Really interesting.
+
+The next was, for I would say two or three years, probably two or three years at that point.I’d have to go back and look. I had been brainstorming, trying to brainstorm ways to run a, I suppose, let’s call it contemporary art auction with donated artwork to raise money for my foundation, Saisei Foundation, which supports a lot of the early stage… It has supported and continues to support a lot of the early stage cutting edge science related to psychedelic therapeutics and addressing so-called “intractable” psychiatric conditions of all different types. So, complex PTSD, OCD, anorexia nervosa, a pretty broad spectrum of difficult to treat conditions.
+
+I had been trying for a long time to try to put together something resembling a physical contemporary art auction, and as soon as I saw the mechanics and the marketplaces involved with NFTs, I thought to myself, wait a second, there may be a bunch of other options here that don’t involve putting on the kneepads and begging fill in the blank, agent of Artist X to give me a canvas, which it turns out they hate doing, generally. I was like, there may be a more elegant solution here that allows me to also experiment with the technology.
+
+And then on top of that, and if anybody goes back, if they’ve been following my Instagram for a while, they will have seen over the last two or three years, various attempts on my behalf to get back into using my hands to produce artwork. So, you’ll see experimentations with charcoal, you’ll see experimentations with pencil, with pastels, with different types of different media to get back into the physical production of artwork. And so, I saw in NFTs a great combination of excuses to engage firsthand.
+
+So, that’s when the wheels started to get moving, and I would say at that point began all of the most ridiculous ideas imaginable, right? Popping into my head for what I might do if I were to do something in NFTs. And at first it was, what could I do that would be really easy, that would be exciting for me, lightweight, fun? And then as it went on, my desire, I guess, got more and more ambitious and elaborate in terms of folding into a potential art project, which is how I viewed it, these things I wanted to explore, but had never really had the incentive to explore in a real way, like fiction and world building. And last but not least, kind of revisiting all the things that made me happy as a 12 and 13 year old. I’ve spent a lot of time with a bunch of people I respect recently, and almost all of them have been discovering and resurrecting joys of theirs later in life that were core to their enjoyment as a 12 or 13 year old.
+
+So, when all of these ingredients in the cocktail then got kind of shaken up and stirred over the last, let’s just call it, I guess, what the hell, is it now, a year and a half?
+
+Kevin Rose: Mm-hmm.
+
+Tim Ferriss: That has led, I guess, in the last nine months, and especially in the last six months to this project that is going to launch now in the next few weeks, which is pretty crazy to think about, at arguably the worst possible time to launch anything ever in NFTs. Which I’m actually very pleased by in a way, because number one, if I were doing it just for a money grab, this would be the worst time imaginable to do it. I could have done, have farted out some really terrible artwork and done something long ago. I decided not to do that. And I should say upfront, a hundred percent of the primary proceeds are going to my foundation, so that’s that, and that piece of the experiment is important to me.
+
+Also, when the markets are really bad, and you think back to when I first got involved with the angel investing, like 2008 to 2010, I mean, that was kind of a dotcom depression, and it was just the best time to be in the game because it was when the true believers were left on the field. Do you know what I mean? All the fairweather folks had to split. They just took off.
+
+Kevin Rose: All this happened?
+
+Tim Ferriss: Yeah, it’s happened.
+
+Kevin Rose: All that’s happened.
+
+Tim Ferriss: Oh yeah, no, I mean, all of the, I shouldn’t say weak, but all of the casual tourists in the herd have been culled already. And it forces you, and by you, I guess I’ll just say me, to think about all of this much more creatively, and to come back to first principles and think about, okay, why am I doing this? How could I make sure that I stay true to certain priorities like fun and play being the absolute core of all of my decisions around this?
+
+So, I’m having a hell of a time, man. And you’ve seen it. You’ve seen it in me, because we’ve hung out so much and had so many conversations. It has been, let’s see here, since publishing Tribe of Mentors. That came out, I want to say, 2016, 2017. It’s been five years since I’ve been this energized by anything as a public facing project. So, there you go.
+
+Kevin Rose: Yeah, that’s awesome. It’s great to see that in you. But I’m curious, what does this mean for you? Where does this fit in your career, in the sense that, let’s assume you get everything you want out of this project.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Obviously, you have some primary sales coming in. That goes to your foundation. A hundred percent that money goes in.
+
+Tim Ferriss: Yep.
+
+Kevin Rose: That’s great. That’s awesome for the foundation. But we know royalties are up in the air right now. Who knows what the heck’s going to happen with royalties.
+
+Tim Ferriss: Yeah, big time.
+
+Kevin Rose: What’s a win for Tim over the long term here? What does this project turn into? Because I think, if I’m putting my devil’s advocate hat on, which I love that Onion Post, devil’s advocate turns out just to be asshole.
+
+Tim Ferriss: Put on your asshole hat. Let’s do that. Yeah.
+
+Kevin Rose: Put on my asshole hat.
+
+Tim Ferriss: I’m ready.
+
+Kevin Rose: People will say like, okay, celebrity NFTs, we’ve seen this playbook before. PFPs, we’ve seen this playbook before. What I know, and the reason I’m asking this question is because I know what you’re doing behind the scenes, which I think you’re ready to share today, is a lot than just checking boxes. And obviously you’re not doing this for the money. So, what’s the creative win for you?
+
+Tim Ferriss: It’s so much work. It’s so much fucking work. Oh my God, if I did my hourly on this, I’m working at Burger King. It’s fucking hilarious. Anyway, so the win for me is continuing to play the game. That is…
+
+Kevin Rose: What’s the game?
+
+Tim Ferriss: Effectively, a quote from Carse and sort of the finite versus infinite games side of things. The game here is giving myself compelling excuses/reasons to engage with creative muscles that I have, but I haven’t exercised in a very long time. And one way to do that is through something that I’m reasonably comfortable with, but that I haven’t done in a very long time, and that’s visual art. I have very, very, very acute visual senses, I have pretty good fine motor control, and I can also, I’ve realized through this process, work with artists really well. That’s new for me. I’ve always been the artist when I’ve designed, say, all of my book covers, with the exception of Tools of Titans. I designed all of those book covers through sketches and then had them professionalized and polished obviously, to get ready for actual printing.
+
+But the visual piece is something I feel like a whole human being again when I’m engaged with. And it feels so good. It feels so good. But I need reasons to do that, because when all I’m trying to do is say, take a lesson with a teacher once a week, other things crowd it out. Other things crowd it out, life gets in the way, and I’m trying to adult my life as best as possible. I’m like, oh, well that’s not important, that’s optional.
+
+But when I have a team and when I have a project and when I have deadlines, the magic is that shit gets done, and I actually do a lot more art. I mean, I have in my bag right now, I took it with me to a coffee shop, a huge sketchbook. I have an iPad with Procreate on it that I have still not figured out how to use. I’ve just been putting it off because I’m enjoying scribbling in my notebook so much. So, that’s part of the game that I want to continue is the visual art.
+
+The other side of, and there are many pieces to this game, but one of the games that I want to really continue to engage with is fiction. I’ve spent so much time as a nonfiction writer. I’m in a thousand-plus blog posts, right? Thousands of pages of published material in the books, let alone the other thousands upon thousands of pages that were cut from those and the drafts that were thrown out and so on.
+
+Nonfiction is an incredible craft. It is super interesting and challenging in a million ways. However, I think when it’s done best, generally you’re a really good architect, and then you do a ton of research and you assemble all the materials, and then a lot of it is carpentry, right? You’re putting together what you laid out in the blueprint. And that has its own creative challenges, but what I really have enjoyed about playing with fiction and what, back in the day, I enjoyed so much in D and D, Dungeons and Dragons, right?
+
+By the way, I still have all of my modules, all of my books, all of my maps, all of my 20-sided die and four-sided die from when I was a kid playing D and D. I kept all of it. I still have it to this day.
+
+Kevin Rose: I wish I would’ve kept some of mine.
+
+Tim Ferriss: I have all of it. It’s literally in a room about 20 feet away from me right now. And what I enjoyed so much about D and D, whether I was the Dungeon Master or a player, and what I have enjoyed so much about art, and what I have enjoyed so much about now doing fictional worldbuilding, this is coming back to the question of what game I want to continue playing, is that you can set these initial conditions, or set a situation, say with a character or with two warring clans, or with, in the case of Dungeon Master, it might just be a setting in a particular campaign with different characters, and here’s the opening scene, and then you go from there.
+
+So even I, in this case, as the writer, per se, do not know what the ending’s going to be. I have no idea what’s going to be around corner number seven. And that is fun for me, right? I’m not just putting together, brick by brick, the building that I already know the finished look of. That’s not the case at all. What I would love–
+
+Kevin Rose: Let me ask you a question about that, though.
+
+Tim Ferriss: Sure.
+
+Kevin Rose: I mean, what you’re saying is, you’re talking about writing, but we’re also talking about NFTs. So, I think what we’re missing is how the thread is connected.
+
+Tim Ferriss: Yeah, totally.
+
+Kevin Rose: Because I would say most NFT projects, they’ll say, hey, we’re the Crazy Buff Squirrels, or whatever, and then you’ve got the squirrel page, and then there’s some copy about the lore of the squirrels and how they got their anabolics and all these things that go down. And then that’s kind of it, right? It’s like a page. You’re like, okay, that’s all. You’re talking, this isn’t just a one-pager, this is the characters, I buy this and I’m done.
+
+Tim Ferriss: No, no, it’s not a one pager. Now, I want to be clear, I’m not committing to writing a half-assed version of Game of Thrones or something.
+
+Kevin Rose: It isn’t 12 novels.
+
+Tim Ferriss: Yeah, it’s not 12 novels, but I have spent hundreds of hours thinking about worldbuilding. So, the NFTs here for me are a project with deadlines, with deliverables that keep me on track in thinking and engaging with art and fiction writing. So, what this means in practical terms is that this project, when it comes out, will have, I’ll give you some of the specifics. It’s going to have eight primary great houses. These are clans, and they’re going to have different characteristics, different strengths, different weaknesses, different cultures, different religions, different natural resources. I mean, there’s going to be a lot of fucking detail.
+
+And this has been written. I’ve already written this, and furthermore, I’ve already hired a primary voice actor. There are probably, I say probably meaning hopefully, be more to perform these, as also, this is an exclusive newsflash, wah-wah-wah! I’ll do the sound effect myself. It will also be a podcast, so limited edition season one of a podcast that will have this lore performed, and that will come out in drips and drabs so that people can slowly look through the haze and begin to piece this world together, because there’re going to be a lot of embedded secrets and mysteries and mythologies that folks, if they’re interested, will really be able to explore, and in some cases we’ll have to piece together.
+
+So, all of that writing’s being done, and that’s already in process. You’ve got these houses, you have maps. I have art to review right now related to refinements to a map, like a lay of the land, of the known territory, per se. And the writing then, thus far has been related to a lot of the backstory and the histories. But the conditions are now set in sort of the present day, and there will be at least one primary figure, character, who’s going to be very nebulous in a way. I shouldn’t say nebulous, but physically he will be, at this point, sort of unknown, who will be telling the story, or rather trying to piece together the story himself. He’s a stand-in, in a way, for the listener or the reader.
+
+And so, how do NFTs figure into all of this? It keeps me on track, because if I were just writing this, I don’t have any desire to write a fiction book right now. Putting it out as a blog post or a series of blog posts could be interesting, but it’s kind of like a fart on a crowded train. Will anybody notice? Maybe somebody will notice, but it doesn’t have the gravitas or the connective tissue to really hold collective attention and to foster collective imagination.
+
+Whereas, if you have an NFT, you have people with skin in the game. You certainly have me with skin in the game. You have a team. I mean, a team. I have a very small team that is focused on this right now. The game I want to continue playing is really engaging with developing the art. And if I look at, for instance, the first history that I wrote for one of these clans, and I look at the last, I can see a tremendous, and this is not my words, this is from a number of proofreaders, a tremendous amount of progress.
+
+I am getting better at doing this, and that’s super fucking exciting. I don’t think I’m the world’s Best or anything close to a great fiction writer right now, but I have been studying it. I’ve been going back, I’ve been reading the classics. I’ve been listening to podcasts and listening to lectures on worldbuilding, on systems of magic, all sorts of things. I’ve been paying attention. And so it’s getting better, and I know there’s so much room left for improvement. So basically, that is the game I want to continue to play.
+
+Kevin Rose: All right, some reflections.
+
+Tim Ferriss: Let me throw in a huge caveat, right?
+
+Kevin Rose: Wait, let me…
+
+Tim Ferriss: All right, go for it.
+
+Kevin Rose: Throw in the caveat first.
+
+Tim Ferriss: Well, the caveat is, if by engaging with NFTs and Web3, I just need to deal with a bunch of dicks on the internet all the time, then all bets are off. Then I’m like, all right, fine. I’m not going to continue to just take body shots on the internet if it’s energy draining. So, the reason I’m doing it right now is because I am getting so much energy from it. It’s so fucking fun. And it’s been a long time since I have felt that. So, I pay attention to that, just in terms of why this, why that? It’s like, what is giving me energy? Which people are giving me energy? Let me double down on that. So right now, it means doubling down on this.
+
+Kevin Rose: The thing about the NFT space that is so challenging for me and everyone else building in it is that a year ago, or close to a year ago, if you’d asked me as someone that’s a builder, how far out do you plan when you’re building product in general? I would have told you, kind of 8-12 months type world. That’s very much a Web2 kind of thing, right? And then, when I got into NTFs, I was like, oh, shit. Well, we shouldn’t be planning more than six months out. That’s just chaos, right?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Then I cut that down to three months, and now I’m at about 30 days. I feel like anything above and beyond that far out is dangerous, because you promise something. This community, the people that are NFT collectors, maybe it’s because the blockchain is just so transparent in general. They tend to, and this isn’t everyone, but the folks that I interact with, they want a level of transparency and understanding about where the project is going, how ambitious is the project, and what do you hope to build eventually?
+
+And so, I think the challenging part is figuring out, especially with you, Tim, because Tim, you have such a massive podcast, a massive following on the other end of the spectrum, which is the more kind of normies, not the Web3 folks, right?
+
+Tim Ferriss: Normies, yes.
+
+Kevin Rose: If you go in and say, hey, every single episode is going to be plugging this NFT collection, and it’s like, I’m going to put a lot of effort in this. Because there is a world where Tim Ferriss has the power to release comic books, to release graphic novels, to do miniature series on Netflix. There is a world where you could pull that off, because you are the type of human that has the wherewithal, the knowledge, the fanbase, all of that to make this happen.
+
+Tim Ferriss: Yep.
+
+Kevin Rose: I guess the really difficult question is, how serious are you with this? Because you just mentioned, I don’t like the crowd. I might pull back a bit. That’s going to be the number one question you get, right?
+
+Tim Ferriss: Yeah. So let me take a step. This is one of my favorite topics because I get to be the salty, cantankerous old man, which I’m really embracing these days. So all of those considerations that you just mentioned, right? What’s your roadmap? Has this, has this, has this, has this, comes down to, if we don’t want to call it by too fancy a name, people just wanting to know if they’re guaranteed to make a quick buck. By and large, they’re like, can I buy this and then flip it for 0.2 Eth more two seconds later? Or five day- I mean, you could push back, but let me just say-
+
+Kevin Rose: I will say 90% of people in this environment are exactly that. There are 10% of us that will say, I want to bet on Tim Ferriss over the long term.
+
+Tim Ferriss: Yes.
+
+Kevin Rose: So I want to come in and own this because I know he’s going to create something great.
+
+Tim Ferriss: I agree. So there are exceptions. I will say the default is a lot of folks who just want free money for no effort, and that world sometimes exists. There are windows of opportunity, but really that dynamic rarely turns out very well for the individual or collectively speaking. So to come back to how serious I am, I am so fucking serious about what I am creating right now. But I am not in any way afraid of the mob, in the sense that I am going to let all of my creative decisions be dictated by what the lowest common denominator of day traders wants. Does that make sense? I have zero interest in that. And also I don’t need it. I don’t need, I mean, just based on the amount of work I’ve put into this, I could figure out a way to do compilation, interview-based book and call it a day with far less work. So the drivers for this are different.
+
+Kevin Rose: And less people complaining for sure.
+
+Tim Ferriss: Oh my God. Yeah. Because people who buy a book aren’t like, How is this going to pay for my car down payment or whatever?
+
+Kevin Rose: My kids’ college.
+
+Tim Ferriss: Yeah, my kids’ college. Which nobody, I don’t, think anybody should put money into speculative anything for any type of important output. It’s just too risky. And there are risks intrinsic to a project. There are risks also inherent to just macro factors that are beyond anyone’s control. I mean, aka look at the last week. I mean, for fuck’s sake. So look, if you want something safe, NFTs ain’t it, folks. So with that having been said, so I’m very, very serious and I got some sage advice early on, which was from a different friend. Although you can confirm or deny whether or not you echoed this in some sense. But it’s either promise and promise a lot, and then deliver or promise nothing, and set expectations very, very low, which is my default with everything. It has been my default with almost every project I’ve ever done, because if I set expectations low, there’s nothing but upside surprise for people, so-
+
+Kevin Rose: Right. Except that you just told them that and now they’re like, oh, he’s setting the expectations low.
+
+Tim Ferriss: Well, I mean, I am setting expectations low, but here, let me… this will be fun. So there’s going to be an FAQ on some kind of mint pagers or website dedicated to the project. So here are a few of the drafts.
+
+Kevin Rose: Oh, your facts?
+
+Tim Ferriss: Of my facts.
+
+Kevin Rose: [inaudible 00:32:21] ask questions.
+
+Tim Ferriss: Yeah. Yeah.
+
+Kevin Rose: Nice.
+
+Tim Ferriss: Do these NFTs come with utility or roadmap and a discord? There’s no planned utility, no planned roadmap, and no planned discord. But there might be a few surprises. It’s a big experiment that I’ve been thinking about and planning for the better part of a year. And then there’s some other stuff. Right now I’ve given away a couple things. I wasn’t going to mention to anybody prior to launch. I was actually going to make these surprises after the mint, like the podcast and so on. But I’ve had a number of people say, “Hey, look, you’re really excited about this. If you just hedge and say nothing, it’s a kind of disservice to the whole thing. So you might as well mention a couple of them.”
+
+Kevin Rose: Right.
+
+Tim Ferriss: Okay. So here’s another one. Should I consider this an investment? That’s a question. And my draft so far is absolutely not. No, this is an art experiment and you’re getting funny and highly stylized JPEGs that are part of a fictional world. That’s it. And then it goes on and on and on. And I just basically say, come into it expecting, as you might, if you were to go to a casino and spend a hundred dollars as entertainment money. Much like you would spend money at a movie theater. You don’t expect to get your money back. You expect to have fun watching a movie, eat some popcorn, and then go home. And hopefully I give people some soul enriching laughs along the way, as well as provide a fictional world that people engage with. But I don’t want this to be viewed as an investment. And I’m definitely not positioning it that way. Right?
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Let me…
+
+Kevin Rose: Yeah. Correct me if I’m wrong here, but some of these come with free dinners with you and jam session. Is that right?
+
+Tim Ferriss: Yeah. Yeah. They come with unenthusiastic handjobs under a bleacher at NBA games twice a year for the 10 people who win the raffle at…
+
+Kevin Rose: And that’s where we cut.
+
+Tim Ferriss: No, I don’t promise any of these things. There’s another one. Or can I read a few more of these? Now, I might have to change some of these, but there’s another question on my frequently asked questions is, can I be a dick and expect benefits? If you’re a dick, I reserve the right to ban or block you from anything I do in the future. And then it goes on and on to basically say, I’m not planning on running an online preschool for children with behavioral problems. So if you’re an idiot, I don’t want you to be part of this world. I don’t want you to have any benefits if there are any. So I will block you in whatever way I can.
+
+So I just think the sort of norm of being in a community such as online Twitter, which is one of the most unfriendly neighborhoods of the internet, and just pissing on people’s heads as they walk by on the sidewalk and throwing potted plants at them is not acceptable to me. That’s not the culture that I want to foster. If culture is a byproduct in part of the worst behavior you’re willing to accept, I want to set the rules really early. And I think you can do that. It’ll be a challenge, certainly. But I was able to do that with say, blog comments on my blog a long time ago. I was like, We’re going to be cool. If you’re not cool, you’re going to get blocked. That’s it. And there’s no second chance. This isn’t like three strikes, you’re out. It’s like, No, you get one chance.
+
+If I invite you to dinner at my house and you put your balls on the table and then spit in my food, I’m like, Okay, yeah, you’re not coming back to dinner. One strike, you’re out.
+
+Kevin Rose: [inaudible 00:35:47] once at your house, actually.
+
+Tim Ferriss: That’s true. I didn’t want to name names.
+
+Kevin Rose: I was invited back.
+
+Tim Ferriss: It was a lot of tequila. I did give Kevin one pass on that, but here’s another one. Okay, so one more FAQ and then I’ll stop because I don’t want to reign on my own parade and undersell it. I’m trying to be very careful of that. But here’s another one. Will you be involved with this forever? Forever ever? Forever, ever? And then I said, probably not. I’m not pounding the pavement for any of my books or TV shows anymore. And I wouldn’t expect this to be all that different.
+
+I’ll be involved for as long as I’m super stoked and it’s massively energy giving instead of energy draining. If I have to deal with a lot of idiots online and it’s just nonstop punishment, I’ll peace out and move on. My goal is always to create something that can thrive without me, but tbd. What I would love as a dream outcome, coming back to your question is for this to go really well, for me to enjoy it and then to say, You know what? I want to keep writing fiction. I want to keep producing artwork. I already have all these ideas for possible extensions and all sorts of stuff. And me, I’ve thought about the possibilities for derivative creations. I’ve thought a lot about these things. It doesn’t mean they’re going to happen. It absolutely doesn’t mean they’re going to happen. But it could.
+
+Kevin Rose: How do you think about, there has to be some fans of yours out there that they’ll tune into this and say, This sounds really cool. And I’m a fan of Tim’s. I’m sure his sci-fi writing will be really interesting. It’s not something-
+
+Tim Ferriss: More like fantasy. More like fantasy.
+
+Kevin Rose: Fantasy. Sorry. Fantasy writing will be really interesting too into this because there’s of course, a lot of geeks out there that might be into fan fiction type stuff. Is there a world where anyone can help out, or do you see a world where you involved in any community type involvement or collaboration?
+
+Tim Ferriss: This is an excellent question, and I have not figured out where I land on it. I’ve talked to a ton of people about it, and I don’t know where I land yet. I don’t know exactly where I land yet, because there is such a broad spectrum of options. And on one hand you’ve got kind of the Disney super enforcement, but in part result of that, I think, they have very tight controls on quality/ narrative/character in such a way that these worlds have incredible longevity. I mean, some of their characters and so on have just unbelievable multiple decade long longevity. If they oversaturate, so I’ll use Disney as an example in this too.
+
+If suddenly there’s five Star Wars properties coming out every week, I think personally, okay, if you’re someone on the exec team who’s incentivized by shorter term stock performance, and that’s going to benefit you and maybe your shareholders over the short term, that’s fine. But you can also corrupt and damage a fictional world and characters very quickly by that oversaturation. Right? Now, there are other examples of folks, for instance, Hugh Howie with his book Wool, which was this huge sleeper best seller who is really supportive of all fan fiction. He’s the opposite end of the spectrum. And I think that both sides could make very compelling arguments as to why they’re doing what they’re doing. And then there’s a lot in the middle. There’s a lot in the middle.
+
+So you might have, for instance, and this is where NFTs get so tricky, and somebody had asked me, if you could go long and web through on anything, what would it be? And I said, If I could go long on new generation intellectual property lawyers, if there were a way to do that, I would do that. Because this shit is so complicated. It is unbelievably complicated, let alone the accounting and tax and all that. I mean, it is so bleeding edge that very few people have any idea where the puck is going.
+
+On the IP side, you have situations where, for instance, certain holders of an NFT will have the commercial rights or not to their particular image, but they do not have commercial rights to say the name of the project, because then what’s the incentive of the project owner to create a lot of brand equity value if it’s just getting sliced and diced into a million pieces? That can cause all sorts of problems. And you see this with a lot of the larger projects in the NFT space today. So how do you-
+
+So how do you thread the needle on that? There are sets of questions that consume so much, well, for me, at least, a lot of thinking that are invisible from the outside when you just see the output. But yeah, I’m doing a lot of reading on this and I’m talking to a lot of people about it. I’m not sure where I land yet.
+
+Kevin Rose: So I mean, you’ve got Gary V, for example, predicts all of his IP, so the Sacred sardine or whatever, it’s only Gary’s, only he can use that. Yeah. I don’t know if Sacred sardine is a thing, but let’s just say it is.
+
+Tim Ferriss: I like it. That might be my DJ name. 
+
+Kevin Rose: You’ve got that that’s fully protected. I’ve gone the CC0 route, which is nouns and cryptos and a few other projects out there where we say the remixes, the meme culture, the extension of the brand into a thousand different nooks and crannies is going to be what gets us more visibility long term, which experiment. We’ll see what happens.
+
+Tim Ferriss: Yeah, experiment.
+
+Kevin Rose: Middle of the road, kind of Bored Apes, we’ll give you a little bit of, you can go sell a coffee mug just don’t call it board apes. Call it number 65 whatever.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So any sense on which way you’re leaning or no, not yet?
+
+Tim Ferriss: Yeah, I would say I probably lean, and this is nothing new to me, I want to just maybe back step for a second and say, I’ve had to think about this stuff before. This is not new. I’ve had to think about it with respect to my books. I’ve had to think about it with respect to the podcast. And what do I do when people are slice and dicing the podcast? What do I do when people are creating summary books of one of my books? What do I do when there are various types of derivative products that get put out that are associated with my books or my name or whatever it might be? How do you respond to that and when do you need to respond to it? Right? Because there are laws established around, say, trademarks, If you never enforce your trademarks, you get yourself into trouble.
+
+Kevin Rose: I know this very well.
+
+Tim Ferriss: You know this really well. So as much as the web3 world is the Wild West, we live in a society governed by laws. And if you’re going to think about, here’s what I would say. If you’re going to think about if people are investing in a person or a team because they hope that person or team has a long term focus, anyone with a long term focus has to take this shit seriously and think about it. Otherwise, they’re not thinking long term. They’re just flying by the seat of their pants and the floor could fall out, not the floor in the NFT sense, although I guess that could be the case as well. But the metaphorical floor upon which the entire project stands could just disintegrate unexpectedly if they’re not minding these details.
+
+So where am I right now? Am I thinking? Probably somewhere closer to the Bored Ape Yacht Club and Disney. I’m probably closer to that end of the spectrum. And-
+
+Kevin Rose: [inaudible 00:43:59] wise.
+
+Tim Ferriss: Yeah, for me, I think-
+
+Kevin Rose: For this type of project, yeah.
+
+Tim Ferriss: For this type of project, and also if folks want me to try to craft a world that they can engage with in some way, whatever that some is, kind of like TVD. There be certain pieces that are reliable for me as foundational pieces of this world. So I can create, let’s call it physics that are reliable. I can create lineages that interweave in a way that makes sense, and we’ll see if that changes. I’ve also, for instance, come across, I have put so much time into this, Kevin. Oh my God. You know that I’ve done a lot of it, but the number of case studies that I have read and case law related to different types of IP is unbelievable. The number of cases I’ve looked at related to almost every major NFT project you can think of is mind boggling. And there are some cases of folks who are, for instance, opening up to certain types of fan fiction, and then they’ll have their community, whether it’s a DAO or otherwise, vote on pieces of fan fiction that are created that should be incorporated into the cannon-
+
+Kevin Rose: That’s interesting.
+
+Tim Ferriss: Which is interesting. However, one of my governing principles for this entire thing is actually a quote that I borrowed from Morgan Spurlock, the documentary filmmaker who made Supersize Me and so on, which is, “Once you get fancy, fancy gets broken.” So I’ve seen a lot of projects become so complex, especially around mechanics, that I think a lot of people opt out because it just looks like a grind to figure this shit out on any level.
+
+Kevin Rose: That’s right. That’s right.
+
+Tim Ferriss: So for me, I’m like, Look, it’s art. What you’re buying is art. And what that then gives you is some skin in the game as a playing piece in a world that you can then engage with. The form of that fictional world is not going to be 27 different mechanics. It’s going to be writing, and it’s going to be probably spoken word at least initially in the form of a podcast. And then we see where it-
+
+Kevin Rose: I think it’s brilliant, by the way. I’m very, very excited for the podcast because I just know it’s going to be fun.
+
+Tim Ferriss: I’m excited. You and I have had this cat and mouse game about the name of this project and the specifics, because one of the things that I love about you is you’re so supportive of things that you believe in and get excited about. And one of the most hilarious aspects of your personality is what goes hand in hand with that is that you, man, you have big mouth. And so I’m always worried about you blowing my cover with secrets.
+
+Kevin Rose: Okay, you want to talk some shit? You’re the most paranoid motherfucker I know, dude. You’re so concerned.
+
+Tim Ferriss: It’s true. It’s true.
+
+Kevin Rose: It could be something that you’ve already announced and you’re like, “Don’t fucking say a word.” I’m like, “Tim, you tweeted about it two days ago.” And you’re like, “Oh, okay. You’re good now.”
+
+Tim Ferriss: Oh yeah. Look, I agree. We are on.
+
+Kevin Rose: We’re on the opposite ends of the spectrum.
+
+Tim Ferriss: Which is why we get along, because-
+
+Kevin Rose: That’s right.
+
+Tim Ferriss: I’m the kind of paranoid squirrel minding the nuts like that guy from Ice Age and you’re-
+
+Kevin Rose: [inaudible 00:47:44] the laugh track, that was [inaudible 00:47:46].
+
+Tim Ferriss: The laugh track and you’re more like the hakuna matata warthog from Lion King. And so we get along.
+
+Kevin Rose: It’s been a while since I’ve watched that one. I mean, I remember he was fat. Other than that, I don’t know much.
+
+Tim Ferriss: Oh no. He is just like, everything’s going to be great. Hakuna matata. No worries, man. Things are fantastic. Peace out. And I will say, not that I have any personal experience, but I went.. oh shit, I just blew my cover. Someone went to see the Lion King show, the actual theater show with a friend of theirs and their friend’s whole family, including a bunch of little kids, and that someone was a little concerned that they just might not be able to sit through whatever, 90 minutes or two hours of this performance, really not knowing anything about it. So that said person took a handful of gummies and it was one of the most spectacular experiences of said person’s life. I mean, it was just, it’s beyond description in how amazing and hilarious. Especially hilarious it was. So thank you for coming to my Ted talk on Lion King and edibles.
+
+The point was that I’m paranoid, you’re very much the opposite of paranoid. And what I wanted to offer is to share with you for the first time ever, this is not bullshit, people. I’ve actually have not told Kevin the real name. There was a placeholder though. Do you remember the placeholder?
+
+Kevin Rose: Yeah, of course. So I was going to say, the only reason I’m going to agree to even publish this episode, as long as we can say what the placeholder name was.
+
+Tim Ferriss: Oh, yeah, yeah.
+
+Kevin Rose: Oh, I remember the placeholder name.
+
+Tim Ferriss: All right. So what was the placeholder name?
+
+Kevin Rose: You got a hold of me and said, I have this idea for an NFT project. Can I tell the real story?
+
+Tim Ferriss: Yeah. Yeah, of course.
+
+Kevin Rose: Okay. So the real story in this… okay, let me just put you this way. In the spirit of ideation and working through new ideas, it’s come a long way.
+
+Tim Ferriss: Oh yeah, yeah.
+
+Kevin Rose: When you first mentioned it, it was very much, imagine a couple of guys having a couple of drinks bullshitting about what would be hilarious if they saw this on the blockchain. And that’s I feel like how it kind of started.
+
+Tim Ferriss: Oh yeah, started with.
+
+ Kevin Rose: And then you turned it into something where when I first saw the art, I was like, Man, fuck, these are good. And I wasn’t joking. They were really good. You did a good job with this crew. And so I was pleasantly surprised with everything and how it’s come together. It was clear to me at some point in your head, it went from, haha, wouldn’t this be funny to, I’m going to build something pretty badass, right?
+
+Tim Ferriss: Yeah. All my friends were like, Wow, this got really elaborate very quickly.
+
+Kevin Rose: Right.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Yeah, exactly. So it started off with Tim being like, wouldn’t it be funny just to just mess with people and just create an NFT project that was just a bunch of roosters and have it be like cock and balls, just call it cock and balls. And you could do blue balls and you could do… And I’m like, Oh God, Tim God speed. Please make that happen. I just want to sit there with my Michael Jackson popcorn being like watching the shit go down.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: That’s how it started.
+
+Tim Ferriss: That’s how it started.
+
+Kevin Rose: And… yes.
+
+Tim Ferriss: That is…
+
+Kevin Rose: So it was cock and balls initially, which I immediately registered all the domains, so you’d have to buy them from me.
+
+Tim Ferriss: Which I knew you would do. So I’m glad that that was-
+
+Kevin Rose: [inaudible 00:51:19]. Yes.
+
+Tim Ferriss: A red herring. So I’m going to take moon birch from you now. I win. There’s no NFT project. I just all stole your birds. All the birds. So that was actually one of several initial spitball ideas where I was like, Okay, what is something that would just be really fun? Now, all the other things are also true. The engaging with tech, the engaging with art, the raising, hopefully raising money for the foundation. Those are all in play already at this point. But I was starting with, how can I make this fun for me? For me, for me, for me, for me. Because when I make things fun or interesting for me, it always comes across to, I mean, in the case of the books, like my readers or in the podcast case, my listeners, when I’m not stoked about something, it is very hard for me to hide that. So I was like, All right, how can I make this hilarious and fun for me? So cock and balls was definitely one was one idea.
+
+There were other ideas. One other idea was going to be, I was going to see if I could crowdsource eyes, meaning photographs of eyes from my audience. And then this was before DALL-E actually. I mean, now you could really do some crazy stuff. Although I think DALL-E, by default, the outputs are owned by is it OpenAI?
+
+Kevin Rose: They’re changing right now.
+
+Tim Ferriss: Okay. They are changing them.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: And then you have stable diffusion and so on, which I think by default makes everything public domain or CC0. So that would be compatible assuming that somebody had an approach like you have, potentially. Potentially. I mean, there are a lot of details, but I had this idea of doing something very interesting with eyes. And initially the eyes as the, let’s call it the window into the soul, was going to be tied into consciousness. And then crypto for consciousness type of fundraiser.
+
+Kevin Rose: Oh, man. You should still do this, by the way. You should talk to Platon. Have you chat with him at all? Do you need the photo?
+
+Tim Ferriss: I have…
+
+Kevin Rose: The photographer?
+
+Tim Ferriss: His photography is fucking amazing. I love his photography. I don’t think he and I have ever met.
+
+Kevin Rose: Oh man, I got to introduce you guys.
+
+Tim Ferriss: But I’ve seen him present. His photos are amazing. I mean, the stories behind, for instance, his profile pic pointing up of Putin sitting in this throne, basically. And the backstory with the question about the Beatles, it’s incredible. So I haven’t iced this idea completely, but this was one of the other ideas was like, Okay, I’m going to do eyes and do this, and then have this spin on stylizing the eyes. I had all these ideas. Another idea which was kind of, I don’t want to say too on the nose, but it was going to be for raising money for the foundation again. And it was going to be taking molecules of current and lesser known, also novel psychedelics. It could be pet tryptamines, it could be phenylethylamines, it could be any-
+
+Kevin Rose: You could sponsor molecule by buying it as an NFT?
+
+Tim Ferriss: Well, you could potentially… so I thought about this also by buying an NFT and looking at certain dynamics or mechanics, I should say. There are ways that different molecules get weighted. And then based on the weighting funding is applied to say, studies that support different classes or types of molecules. And there are a lot of molecules. There are databases of these molecules, at least as laid out in 2D. I’m sure there are absolutely ways that you could visualize them in three dimensional space. But that was another idea.
+
+And then, I mean, I’m looking through a bunch of my notes here. Yeah, here’s some terrible names too. WotS, Windows of the Soul, WotS. WotS was going to be some word play that would’ve definitely been changed. And I thought about different collaborations. For instance, I mean, I really think Brandon Stanton is amazing, Humans of New York. And he’s a friend. And I haven’t floated this by him because I didn’t want to put him at any risk of some like NFT curve ball screwing things up. But I thought, man, he would actually be an incredible person to potentially collaborate with on something like this if it were purely a fundraiser. But let’s get back to-
+
+Kevin Rose: Wait. There was one you wanted to do with the Dilbert creator.
+
+Tim Ferriss: Was there?
+
+Kevin Rose: Remember, was it the Dilbert? It was some comic.
+
+Tim Ferriss: I don’t think it was. I do know… I mean Scott Adams has been on the podcast. His story is quite amazing and his predictive ability…
+
+Kevin Rose: Look at your text with him. You wanted to call it Dil…
+
+Tim Ferriss: Oh, no, no, no, no, no. There was a joke. What the fuck was it?
+
+Kevin Rose: [Inaudible 00:56:18]
+
+Tim Ferriss: Oh, oh oh.
+
+Kevin Rose: What was it?
+
+Tim Ferriss: I think that was a joke. Yeah, I think I wanted to call it Dildog. Is it that?
+
+Kevin Rose: No, it wasn’t Dildog.
+
+Tim Ferriss: Yeah, I think it was.
+
+Kevin Rose: No. Read your text with him. You texted him at Marfa and you never wrote back or some shit. He was like-
+
+Tim Ferriss: Oh god.
+
+Kevin Rose: Horrified. It was Dil-
+
+Tim Ferriss: Yeah. No. It might have been Dildog.
+
+Kevin Rose: No-
+
+Tim Ferriss: No. He said that he was going to call, I think maybe in the podcast we did together, that I joked that he… No, Dildog was the name that got abandoned in favor of Dogbert.
+
+Kevin Rose: No. This was something so [inaudible 00:56:56] specific. It was really good.
+
+Tim Ferriss: Oh shit. You know what? I do remember though, because we had had a bunch of tequila in Marfa, and you and I were losing it laughing, which happened to be the same time that I stayed with you at that Airbnb where you’re like, “Yeah, there are no blankets.” And I slept on the couch in 40 degrees with a fucking towel on and was dying all night. And then we found the blankets just conveniently in a drawer two days later. Oh God. But anyway. All right. So cock and balls. Do you want to see the real name of this thing and how it’s developed?
+
+Kevin Rose: Yeah, please.
+
+Tim Ferriss: I’m going to show you a shot on my phone. So I’m going to hold it up to the camera. And I think you’ll be able to see it…
+
+Kevin Rose: We’re going to have some actual graphics we can overlay too because we got to show artwork and all that stuff.
+
+Tim Ferriss: Yeah, [inaudible 00:57:45] overlay stuff. And then I can explain the background on this. So now, as it’s a bit of a preamble, a little foreplay before I show you this thing. So part of the reason that this name made me so happy and it still makes me so happy, is, number one, I’m just emotionally immature and an adolescent at heart, and I find this hilarious. Secondly, if anyone wants to criticize this or slam it or whatever, they’re going to have a really hard time not using this project name. So in other words, they’re going to have to type it out or say it, which is going to make me lose my shit laughing every time I see it. Okay. So here we go. This is in process. This is not the final version, but this is a possible logo for the project, which is going to also be fully animated, or I should say partially animated. So here we go.
+
+Kevin Rose: The Legend of cockpunch.
+
+Tim Ferriss: So you heard it here first, folks. So this project is called Cockpunch. And yes, before you ask, I have cockpunch.com, I have cockpunch.wtf, I have @CockPunch on Twitter, I’ve got all the cockpunch.
+
+Kevin Rose: Wow. How did you get cockpunch on Twitter?
+
+Tim Ferriss: Oh my God. So this is part of the reason why there’s a good chance I’m going to lose money on this whole thing. I’ve put so much time and money into this, including buying shit like handles for cockpunch. It’s so stupid. Kevin Rose, I can’t believe my entire career has led up to the point where the pinnacle, the synergy of all of these things I have done is something called Cockpunch. But it gives me a lot of glee for a whole host of reasons. One is that I get to do something fun that actually should raise hopefully a, I don’t know, million, 2 million, who knows how many dollars for the foundation, which will immediately get deployed to science and scientists and projects that I care most about that I think are uncrowded bets that are super high leverage in the world in terms of impact and long term benefit to humanity.
+
+So that is just hilarious, that tech and our relationship and everything has coalesced in such a way that a project like this can even exist. So the explanation behind it, so it’s called cockpunch. Why is this called cockpunch? Right. I’ve shown you some of the artwork. With the artwork, which I’m just so, I’m so happy.
+
+Kevin Rose: It’s amazing artwork.
+
+Tim Ferriss: It is so incredibly detailed. And I’ll mention a couple of things which I might edit out later because I’m not sure how much I’m going to disclose before this launches. I was intending for a lot of things to be surprises, but times are tough. It’s a weird market. I feel like I should share some of it. So there are eight primary houses, as I mentioned. There is a lot of history that has been put together for this. And what I realized about Cock and Balls in its original iteration was that, yeah, it’s funny, but it’s very short term funny, right?
+
+It’s like Cock and Balls. Haha, I get it. Cock and Balls. It’s a cock, it’s holding some balls like bowling balls or billiard balls. Yeah. Okay. It’s funny for a second. And then it’s just not very interesting. What I also realized about that initial Cock and Balls, I just love saying it, iteration, is there just wasn’t much narrative or dynamic connective tissue to it at all, right? It was a joke. But what I realized very quickly is, I was thinking of variations on that, I was like, “Okay, hold on.” What if there were this fantasy world within which you have this Warring States period. So there’s basically this civil strife, waring states period, quite similar to Japan way back in the day. Not totally coincidental, just because I’ve studied so much Japanese history, and this is true for many, many, many places by the way, before they became large nation states, there are these warring states periods.
+
+And at one point, this truce of sorts, this peacemaking mechanism was developed, which is kind of similar in some ways to how geopolitics can be exerted through the Olympics now for humans, right? It is kind of warfare through athletic means. So there is this entire area in this realm called the Free Trade Zone. And within the Free Trade Zone, a lot happens. That is sort of the one demilitarized area within this realm. There is the Eightfold Arena, and within the Eightfold Arena, you have the Great Games. And the Great Games are one on one warfare between these characters who are sent as representatives from the eight houses, and they’re vetted in different ways. And that’s part of the lore that I won’t get into right now, because I want it to be a surprise.
+
+Kevin Rose: So it’s a little MMA style slash Olympic slash like-
+
+Tim Ferriss: It’s like MMA meets the Olympics meets Gladiator.
+
+Kevin Rose: And they’re all roosters.
+
+Tim Ferriss: They’re all roosters. And there are many questions this raises, which are going to be part of the mystery of this world. But-
+
+Kevin Rose: Are there any hens?
+
+Tim Ferriss: There are no hens. There are no hens. And this is going to be part of the mystery. Yeah, that’s all I’m going to say about it. It’s going to piss a lot of people off, I’m sure. And that’s okay because then they’re going to have to explain to people why they’re so pissed off by a project that is called Cockpunch for fuck sake people, you’re taking life too seriously. Find another fight. This is not the fight worth fighting, but there are no hens and… Can see why I’m having so much fun with this.
+
+Kevin Rose: Are you really serious?
+
+Tim Ferriss: Oh, it’s so great.
+
+Kevin Rose: The connective tissue between the IP rights of these different various projects. There are no hens, There are no hens.
+
+Tim Ferriss: Let me be clear. Let me be very clear everybody, there are no hens. If you’re buying these NFTs because you think they’re hens, there are no hens and so the artwork that you have seen involves all manner of, and there are a lot of elements involved, but they all have different gauntlets. So I don’t want to give away the name, but there is a specific name for these games. But colloquially throughout the realm, it is known as Cockpunch. Why? Because it’s bunch of cocks and they have each these gauntlets, and that is one of their primary weapons is punching with these gauntlets, hence cockpunch.
+
+Kevin Rose: Punching, wait, let’s go into the.. Can we go into the actual, how they look and what not. We can walk through what they’re-
+
+Tim Ferriss: Yeah, sure. How would you like me to go through it.
+
+Kevin Rose: You want to walk through, I would say any that you can send us to put up graphically and then you can walk through it.
+
+Tim Ferriss: Oh yeah. 
+
+Kevin Rose: Give me an example one you can share, and then we’ll put it up later. What’s one that we can show off?
+
+Tim Ferriss: Yeah, yeah, totally.
+
+Kevin Rose: That has an attribute you’d be willing to share.
+
+Tim Ferriss: Yeah, totally. So let me show you, I’ll show you again what I showed you before, and I’ll explain some of the components. So this guy here, it looks like it’s turned around on my phone, so the quality’s not going to be super high. But what you’re looking at here is a very, very large kind of Goliath rooster. What you can see, if you double click on this, you see a handful of things. So at the very bottom of this, and the configuration of all this is not an accident. This is where all of the Easter eggs and stuff that’s embedded in this fictional world, I think are going to be a lot of fun. People are going to have some-
+
+Kevin Rose: I still see The Legend of Cockpunch. I don’t see a Goliath rooster,
+
+Tim Ferriss: The Goliath rooster’s right at the top here.
+
+Kevin Rose: Oh, I see.
+
+Tim Ferriss: Yeah, I’ll send you an image. But this example in the logo, as I just shared it with you, is a Goliath rooster who will have many attributes people might associate with say, a berserker, right? So think of maybe the fictionalized Vikings with battle axes and things of this type, and the visual, I mean, in this particular case, he’s got war paint across his face and huge neck and also very detailed armor. And most of it is, in this case, leather. There is some metal at use. But there are going to be one or two clans who have primary access to and expertise with metals. And that is one of the types of scarcity that will exist in this world. And that changes behavior and it changes how things flow and it changes the interactions. At the bottom of this, you also have two gauntlets.
+
+And in this particular case, there are two gats that are bladed, and they have two different types of blades. But the type of gauntlet is really, really wide. I mean, I think we have, oh God, I want to say close to 300 different attributes that were all designed from scratch. I mean, so incredibly detailed.
+
+Kevin Rose: I mean, how do you even come up with that many?
+
+Tim Ferriss: So sat down and put together dozens of Google documents, put together hundreds of pieces. This is what I did, hundreds of pieces of reference images. So it’d be like, hey, it’s a blend of these five things, but go to this Wikipedia page, go to the sixth paragraph on this particular weapon that was used in this particular culture. I want this aspect, but not this aspect. And I want it to be roughly this multiple in terms of the size of the hand. I want it to be held in this way. I mean, the level of detail is completely bananas. And then there would be rough drafts and then illustration and design reviews. Sometimes those almost always, those would start in 2d. So something I haven’t shared, which I’ll share, and you saw the first teaser that was presented today that I put up on Twitter, @TFerris and @TimTimNifties.
+
+And that teaser blew a lot of people away. It’s well beyond what anyone would’ve expected. And the story behind how it was generated, hints at a whole extra layer of complexity that also makes this very interesting, which is all of these characters are modeled in three dimensions. So the way that all these teasers were created was by positioning light sources and camera angles around these characters who exist. And by doing that, you get these incredibly cinematic, stupidly, I think awesome shots of these characters. It’s all done with in effect the files that people will ultimately have access to in 3D. It’s going to start with 2D because these three dimensional files are like, I don’t know, some of them are going to be enormous. They’ll be like two gigs. So for mint purposes, it’s going to be too, things will be more likely to break if we try to do that out of the gate.
+
+But they are all three dimensional, which means you can do all sorts of fun things with them. If you take the time to learn how to use any of these three dimensional modeling pieces of software, you will be able to create photo shoots for your character and rotate and so on. What that also means though, is we did not just create something in 2d. We had to keep in mind what it looks like when you rotate it all the way around, when you look at it from the top. So the sheer number of details to build in was crazy. It’s been so incredibly labor intensive and I’ve loved it. Which is the maybe even crazier part, like I am. So you mentioned that I’m kind of paranoid or very paranoid. It’s true. Very hypervigilant. I think there are a lot of good reasons for that.
+
+A lot of weird shit has happened to me, including some pretty gnarly stuff. So I think my default is on alert. There’s that, what that default on alert though has is an upside because I’m very, very, very visually acute. I can probably draw the layout of every restaurant I’ve ever been in. I have incredibly abnormal visual acuity and visual memory. So reviewing this art… Well, here, I’ll give you a crazy example. You’ll believe this too. It sounds unbelievable. I was surprised. So we had to go through at one point, and not only did we create 290 different traits and by trait, that could be a hairstyle, but more commonly it’s a really intricate piece of outerwear or really intricate weapon or really intricate footwear, something like that. And then we need to go through and name all these things, right?
+
+Kevin Rose: I’ve been there. It’s a lot of work.
+
+Tim Ferriss: So I went through with the project manager and named all these things. I love naming things. There’s a lot of power in names, a lot of power in names, which is going to be part of the whole lore and world that I’m building and have been building. But after naming all of them, I remembered every image and what name it was associated with. So for the next week I’d be like, “Hey, I want to change that one thing. It was called this, but I want to change it to Amethyst Deceiver. This is what the gauntlet looks like. Here’s the reason for doing it. Could you update that in the spreadsheet?” So this is just a way of saying, I don’t think any… There’s no detail that I noticed that has been overlooked in this art. Really proud of it-
+
+Kevin Rose: It’s crazy, when I was on a call with you and one of your folks were working on it. They were zooming in really, really, really close along the edge to make sure that everything was connecting the right way. And I was just blown away at the attention to detail and just making sure that everything is just so perfect on these things for such a project that started off with such humble beginnings and you were just like, it’s crazy.
+
+Tim Ferriss: Yeah, yeah. And that right there is a great example of I think why I’m getting so much energy from this. from our initial conversations, there’s no way I could have predicted this is what would’ve happened. And that’s fun, right? That’s fun. And there’s another reason why it’s like, yeah, what’s your five year roadmap? Number one, I’m not doing this to cater to day traders. I understand that traders are a part of this. I realize that’s, in fact, in some ways I think a healthy part of the ecosystem. We didn’t even talk about royalties, but-
+
+Kevin Rose: That was my next question actually.
+
+Tim Ferriss: Fire away then because this is going to tie in.
+
+Kevin Rose: Yeah. So my question that I had around this, especially when you got into a lot of the more insanely well defined weaponry and things of that nature, I could easily see you assigning power to each of these individual things. Saying, this character has more armor, this character has more of this, this and that. And given your background in D&D, this could be an easy play to roll into either some type of game. I mean, that’s an obvious move. If we were back six months ago, eight months ago, and the royalty engine was fired up the way that it was back then, you could say, “Heck, I could launch this, get on a 10 to 15 million a year run rate in terms of secondary royalties and fund the hell out of all these kind of crazy ideas.”
+
+Tim Ferriss: I could fund all the development myself for stuff like that.
+
+Kevin Rose: And it’s like, that would’ve been amazing. Sadly, that’s no longer the case, what’s the plan.
+
+Tim Ferriss: The cherry blossoms have shed their flowers. Well you mean the plan in terms of royalties or just the plan in terms of how I would want to explore things like that?
+
+Kevin Rose: I guess a couple questions to that then. So one, what’s your current take on royalties? And I said before this at the eighth, so things could be completely different by now, November 8th. And then also how do you plan to fund things like that going forward?
+
+Tim Ferriss: Let me tackle the second one first. So the first, using first and second in a very confusing way. All right, so.
+
+Kevin Rose: The second one first.
+
+Tim Ferriss: Second hand, I’m going to tackle the first one second. So first, how do I plan on funding these things in the future? I don’t plan on funding these things in the future. So just so that is clear, I’m excited by the potential, the potential energy of this project is very, very high. How and if that gets translated is a different question for me. So I am not committing to doing any of this derivative stuff or line extensions because I don’t want people to buy any of these NFTs expecting that. Because they shouldn’t. There’s a very good chance I don’t do any of that stuff in part because there’s no funding for it, in part because if I don’t enjoy it, if it’s not giving me energy and I’m dealing with too much headache and dicks on the internet, then I will change direction. I’ll do something else. So that’s that.
+
+If I want to explore those things later, I would imagine, given as you said that the royalty engine, at least as it existed a year ago, is no longer, those times have passed and that the primary sales are going to the foundation, I would either have to go out of pocket in footing the dev costs for all those things, or I would need to partner with companies who would probably license the IP in some fashion, which is another reason why one could make the compelling argument for controlling the integrity of the meta brand and world, right? On some level, you can’t totally control it. I’m not going to try to do that, but to sort of maintain a core integrity to that.
+
+So I think that if I were to explore, whether it’s games, an animated series or something like that, it would almost certainly be in partnership with a specialized company that does that and does it better than anyone else who is willing to figure out some type of deal structure that allows that to happen. That doesn’t require TimTim to take out a fourth mortgage on his house to try to make it work.
+
+Kevin Rose: I imagine your swag game’s going to be pretty, if your hats and shirts and stuff that you sell is probably going to do.
+
+Tim Ferriss: There are so many options for fun things that can be done. But I don’t want to get ahead of myself. I want to see what the next, I want to do a good job on this first. All of that stuff is going to be there and I’m not committing to it. It is exciting and fun to think about. And this happens to me with books too, by the way. I need to be very careful about getting too excited about various spinoffs and marketing opportunities because that’s the fun easy stuff for me to think about. Whereas the writing and in this case, the art and the fiction, that’s the hard part per se, to get right. So I’ve just been focusing on that. But yeah, the marketing stuff, possible merch, all of that. Holy shit, I have a million ideas. I mean, it’s kind of a layup, right?
+
+It’s cockpunch for God’s sake. So coming back to the royalties though, because I think this is a conversation that is worth having, and I may come off as horribly naive. I’m sure people have arguments for this, that and the other thing, Let me begin with a story. So during Covid, I had conversations with many artist friends, visual artists, and also musicians who could finally make money, in some cases without touring all the time and being away from their family and friends. They could finally justify putting their energy into something that would pay them on an ongoing basis. They wouldn’t be singing for their supper nonstop for nickels and dimes.
+
+And I realize that there are many market drivers, let’s call it that, because I think that’s exactly what it is. Leading platforms to race to the bottom in terms of not just cutting their fees, but if that’s not enough for them to survive and thrive and eat market share, let’s figure out ways that we can cut other fees, including royalties to creators. That tide may be impossible to stem. That may be something that is just inexorably marching towards zero. But on a philosophical basis, as someone who has contended with very difficult economics in the book world. And look, I have been very, very lucky and managed to jump on top of a shooting star, and I made it work for me, but I don’t want to get into specifics, but people would be shocked by relatively speaking, how little money comes out of, I guess, five books now that are number one, New York Times and Wall Street Journal bestsellers that are in 40 plus languages.
+
+They would be shocked at what that actually translates to. Much Like I think people would be shocked to learn what musicians make from tens and hundreds of millions of plays on some streaming platforms. It’s unbelievable how little that actually adds up to. So, well, I’ll put it this way actually, I think I could say this, that all in, by the time this project is launched and kind of up and running, I probably will have spent the majority of after tax income that I’ve made from all of my books combined in the last year. Isn’t that fucking crazy? Crazy. It’s crazy, right?
+
+Kevin Rose: $50,000. That’s crazy.
+
+Tim Ferriss: You know me, I’m very judicious and thoughtful with how I spend money. I think I’m very good at capital allocation. I’m very surgical. I’m not blowing money. I’m spending it very, very intelligently, and nonetheless…
+
+Kevin Rose: You’re one of the best at that, actually. [inaudible 01:24:09].
+
+Tim Ferriss: Yeah. Thanks, man. I’m really high leverage and surgical with how I do it. Nonetheless, all in with this thing, including my time, which is a lot of time, and the time of my team and so on, and contractors and everything else. It’ll probably be almost certainly more than 50% of the after-tax income to me from all of my books in the last six to 12 months. That’s crazy. So on a philosophical level, I’m getting off easy compared to, say, musicians and most fine artists. I’m getting off really, really easy because I’ve had a tremendous amount of luck and good fortune with the books. So on a philosophical level, I want gifted artists to be able to share their work and create new work and to be incentivized to do that in a way that allows them to thrive. I strongly stand for that.
+
+Kevin Rose: I’m with you on that.
+
+Tim Ferriss: Yeah. Furthermore, I want nAscent artists or would-be artists who are choosing between paths of sell out to the man and go work at, fill in the blank, rank and file institution, bank, or whatever. Not to talk smack about banks, there’s a place and a time for it, some people are built for it. But for people who would shelve their dreams of exploring art, to take the reliable path because they see no way to make ends meet through art, I want to try to preserve options for them to do that. I think the world needs it. For that reason, I really strongly believe in trying to protect royalties. Now, that could just be whack-a-mole, it could just be a fool’s errand because it’s all going to zero anyway. But let’s telescope out and consider what that might mean.
+
+If it goes to zero and royalty streams just disappear and the call to arms and the request or the command from all the traders is, “Well, what you need to do is have a 10-year roadmap, you need to have a team, you need to raise money. And instead of being an artist, actually you need to be a startup CEO and founder, first and foremost, and a fundraiser in order to get an entry ticket to play in this game,” what do you think happens? 99.9% of all the artists disappear, that’s what happens. So then what happens? Well, it doesn’t paint a very rosy future for the space, I don’t think. Personally, even if it’s like, “All right, this is going to be the hill that I die on and it doesn’t really make a difference,” I do want to stand for royalties. That’s how I feel right now.
+
+Kevin Rose: Well, here’s the thing, Tim, that I think you and I will agree on this, and tell me what you think about this statement. One: I think it’s going to be fixed with code. I don’t think the whack-a-mole option is going to be the one that fixes it for the long term. I think that’s an arms race to who can outsmart the other one or deploy a new contract faster. It’s an antivirus game. It’s the virus gets released and you have to quickly come up with a patch to [inaudible 01:27:47].
+
+Tim Ferriss: Exactly, it’s also not adaptable, because retroactively, if you then need to modify your spark contract, that’s not always a piece of cake, right?
+
+Kevin Rose: Yeah. I think it’s going to be… Let’s just say it gets solved over the long term and you are able to actually enforce royalties. I think the beautiful thing about it is if you see something that’s enforcing a royalty and you see it on the screen that it’s enforcing the royalty, you don’t have to buy it. Let the market figure out what the right… Because I think what’ll most likely happen is it’ll probably be… Well, I think there’s a couple things. I like to think of these as more dynamic than what they are, where it’s always like, “Okay, it’s 5% or it’s 8% or it’s 10%,” or whatever it may be. I like to think of them as something that can change with the situation a little bit more. Because for example, if there was an option for…
+
+Tim Ferriss: Then I have a dream scenario that I want to tell you about, so please go. But I have this dream wishlist type scenario related to this, so for example…
+
+Kevin Rose: For me, well, there’s two things. I set the PROOF Collective Pass to be a three-year membership. I did that intentionally because I didn’t want to tie myself up forever, ever to having to feed the mouths forever. So far, it’s been great because it’s…
+
+Tim Ferriss: Do you say feed the mouse?
+
+Kevin Rose: Mouths.
+
+Tim Ferriss: Oh, yeah. I like feed the mouse. That’s the name of our new punk rock band.
+
+Kevin Rose: Well, to your point though, right now it still doesn’t feel like work. We’re creating great experiences for the people that own the passes, but I think it’s the last six or eight passes that were sold were done so that escaped the royalties, right? We have another side of the crowd that’s like, “Hey, turn the pass on to be a forever pass. Get rid of the three years.” We’re coming up on a year now. We’ll be a year come January 1st. You have two years left. I have some FUD, make it a forever pass, but how can I make it a forever pass if there’s not revenue to hire the employees to do the magic on the other side, right?
+
+Tim Ferriss: Yeah, exactly.
+
+Kevin Rose: It’s just like you can’t have it both ways, right?
+
+Tim Ferriss: Yeah. Yeah.
+
+Kevin Rose: So, my point…
+
+Tim Ferriss: There needs to be income. As much as people seem to hate anyone else making money in Web3, at least if I’m going to judge it from NFT Twitter, you need fuel to make these things run. Whether it’s single artist in a fucking studio or it’s a company of people who have a roadmap and want to deliver to their community. In either case, there needs to be fuel.
+
+Kevin Rose: The other piece of this that I think is really important is that there needs to be a checkbox that I believe, personally, you’d get 80-plus percent of companies that would check this. Where if there is a sale or someone is losing money from the last transaction, don’t charge them any royalties. If someone is underwater for something that they have collected on the art side that just isn’t working out, why would I want to kick them while they’re down? That would be a box that I would check right away. I don’t know. To me, better solutions are coming. I’ve been talking with a lot of folks and there’s a lot of really interesting tech being built right now.
+
+Tim Ferriss: What I was dreaming about, I knew it wasn’t going to be… I didn’t think it would be technically possible, but part of what gives me so much excitement around this is that… And people might view this as a negative; I don’t think they should. I don’t need to do this. I’m choosing to do this, but I don’t feel compelled to follow the dogma that has very quickly risen up to become scripture in Web3 like, “You can’t do this. You have to do this. You always have to do this. You can’t do this.” It’s like 12 months ago you had to have a Discord, and then a couple of projects don’t do it and now it’s like, “Oh, no. Now you don’t need a Discord.” And it’s just like, “Oh, my God. It’s the same opinion competition.” But these aren’t actually laws of nature.
+
+There’s a lot of room to maneuver. So, what I was hoping I could do with the launch of this would be to set basically a descending rate of royalty percentage so that if people hold, they get rewarded in a sense. If they sell in the first month, 50% royalty. If they sell after the first month, but within six months, then it’s… I’m making these numbers up, obviously, but like 20%. And then it goes down and I therefore incentivize people to hold, or more likely, I don’t change any behavior. I attract people who are willing to hold for a longer period of time, which is appealing to me because I don’t want to deal with the manic depressive folks who are just yelling on the internet every time they don’t get a 3x return on doing no work. I just don’t have a lot of respect for that. I don’t want to cater to that. And I recognize that there are really good people involved with the space. It’s just that the worst in the space tend to be the loudest.
+
+Kevin Rose: It is challenging, especially when someone’s upside down in something, where they put a lot of money in and the market takes a turn and you have a lot of people that are in a bad situation. So, you got to feel…
+
+Tim Ferriss: Yeah, it’s terrible. It’s bad.
+
+Kevin Rose: Oh, sorry. Go ahead.
+
+Tim Ferriss: No, I was just going to say… Coming back like a boomerang to one of the items in my FAQ: please, please, please do not buy something called cockpunch as an investment. It’s called cockpunch. Please, please, Dear God.
+
+Kevin Rose: I think that it’s the same for anything that has the word cock in it, you could broadly apply that to probably more than just yours.
+
+Tim Ferriss: Yeah, I agree. I agree. Like cock salad, cock dog.
+
+Kevin Rose: [inaudible 01:34:09] pocket butts worth hot for a minute.
+
+Tim Ferriss: Dick, dick butts. It doesn’t, doesn’t ride the fucking 100 foot wave of memetic power in the same way that cockpunch does.
+
+Kevin Rose: That’s fair.
+
+Tim Ferriss: Just…
+
+Kevin Rose: So I want to close out with a few more logistical things on the cock side. So collection, you could have done 10K, we don’t know where’s going to land. You haven’t a 100% locked that in, but you’re thinking, what, BLEEP now?
+
+Tim Ferriss: I’m thinking BLEEP. That’s what I’m thinking.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: And then I haven’t decided how many to reserve, but I like the idea… this entire thing unexpectedly is turned into a study of economics and game theory. It’s wild how complicated this stuff gets and how deep you can go down that rabbit hole and get distracted, I think from the art side. But you do need to think about certain aspects of it. So for instance, just the question of how many should I reserve? On one hand I’m like, “Well, no, primary sales. Secondary, who the hell knows? So let me reserve a bunch and then I’ll show that I’ve got my skin in the game and incentives are aligned with everybody else.” But then somebody said, “Well,” somebody who’s pretty well versed in the space said, “Well, but if you have a huge reserve, then people will be worried about you selling a bunch at the peak and then flooding the market and driving the floor price down.” And I was like, “Oh my God.” I mean number one, it wouldn’t even occur to me do that, but…
+
+Kevin Rose: Well, it would just ruin your reputation as a human. So I don’t think you would ever do that, obviously.
+
+Tim Ferriss: No, I wouldn’t do that but the other… So the other thing is, look, if you don’t know who I am, which why would you, I’m like tiered F celebrity, but if you followed anything that I’ve ever done, then you can answer most questions you would have about this project if you’ve followed it. If you think that I might do something like that, then you shouldn’t buy it. And I don’t think you’ve tracked any of the projects that I’ve done in the past. 
+
+Kevin Rose: I would say there’s a couple things there that I like. One, you hold them back and it gives you personal optionality should, let’s just say this thing is starting to gain some momentum. And you’re like, the people are loving the podcast. The lore’s going really well. You’re finding a writing groove. Things are going. Now you could say to the community, “Hey, the first day or the 1st and 15th of every month, I’m going to sell two of these. And all that cash is going to be used to fund development for X.” And so you don’t have to rely upon the royalties. You can go in and say, “I’m holding these back should we ever want to use them. Or I could just flood the market. And you all could lose that ever. But the choice is yours.”
+
+Tim Ferriss: Yeah. Yeah. I don’t want to tell you what to do, live your life, but these are your choices. A, you help me or B, I shoot your dog in the head. Yeah. I do think for me, right, for some people who are scheming bastards who just want to take the money and run, maybe they would pull some stupidly shortsighted move like flooding the market with a ton of their product, which is stupid. Doesn’t make any sense for me. But I like the idea. It, for me, it will… I will feel strongly aligned and I like that idea. So yeah, first I guess logistics question that I think I feel quite confident about is roughly BLEEP being available. I’ll tell you another reason why that’s important is with the number of attributes that we have, if we don’t have a certain critical mass, we will not get a good distribution of those traits and attributes.
+
+Kevin Rose: Very true.
+
+Tim Ferriss: And I want people to see these things. We have put so much time and effort.
+
+Kevin Rose: And that’s why I think you should do BLEEP or something so there’s more of them out there.
+
+Tim Ferriss: So I really want people to…
+
+Kevin Rose: Really quickly before I wrap up cause I have to go to my daughter’s birthday.
+
+Tim Ferriss: Okay. All right. All right, you win.
+
+Kevin Rose: I think given everything that you have on, that you’ve said that you’re just going to commit to a first season of. Even just putting your energy into a new podcast that is going to be…
+
+Tim Ferriss: I mean, yeah. It’s not going to hurt. It’s not going to hurt. My main podcast, Tim Ferriss Show, is going to cross a billion downloads in the next handful of months. It’s a big show. When I have launched… And look, past performance is no guarantee of future performance so please take this with a huge grain of salt. I launched dedicated episodes for my last two books, Tools of Titans and Tribe Mentors. Things are much more competitive now. There are 50,000 plus new podcasts come out per week. So everything has changed, algorithms have changed, blah, blah, blah, blah, blah. But both of those podcasts ended up being number one on Apple Podcasts out of all podcasts for a short period of time because of the way that things were weighted at that time. So I don’t think that’ll happen. I think things are too competitive.
+
+But when I launch a new podcast, at least a handful of people should listen to it. And they’re going to be so fucking confused that I think it’s going to get talked about. To go from dissecting world-class performers and deconstructing the habits and routines and favorite books that you can use in your own life to cockpunch is going to be such a jarring transition that people are going to talk about it. So that’ll be, at the very least, a very, very hilarious week.
+
+Kevin Rose: I love it. Well this is great, Tim. I think that I’m relieved. I’m relieved in that when I think of people that… I’m sure you can imagine when Moonbirds did its thing, right? And it just really took off.
+
+Tim Ferriss: Amazing.
+
+Kevin Rose: Everybody came out of the woodwork to pick my brain on NFTs. All of a sudden that became the number one phone call to I want to launch it, an NFT project. And a lot of them were really bad with no plan. And my advice to a lot of people was just like, “Don’t do this unless you’re willing to put your reputation at risk, or you have something that’s new and novel and exciting and it’s like uniquely yours that you can point to and say, “This is why I’m different than everything else out there.”” Your superpower one of many is your creativity on the writing side and your ability to go in and dominate that space so well, and so you were playing two year superpowers, the art side and then also the creative writing side. I don’t know, that’s a good powerful combination that isn’t just insert celebrity signing on artists to do drop to make X number of dollars and never show up again, right?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So it’s exciting.
+
+Tim Ferriss: Yeah, totally. It’s exciting. And also, I’ve sort of painted myself into a productive creative corner in the sense that I decided way before any other decision that all the primary sale proceeds would go to the foundation. So there is no option for me just rug pulling and running with my bags loot to The Bahamas or to St Kits or whatever. I have created conditions such that I need to be creative. And that’s great ’cause that’s what I want to do. So I’ve just created the constraints and the incentives such that that’s what I got to do, which I’m very excited about.
+
+Kevin Rose: Tell me if you agr…
+
+Tim Ferriss: I just going to say one thing. Can I say one more thing?
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: One more thing. I know you got to get… I know you got to get to the birthday, but I want to say one thing. I remember it being in Austin at Elizabeth Street Cafe, drinking a Vietnamese coffee and eating pastries while you were texting me during the Moonbirds launch. The fucking craziness that was ensuing. And I was so happy for you, man. I love seeing my friends win and win so big. And it was so fun to get those texts. It made me so happy. I was with a friend. I was like…
+
+Kevin Rose: I appreciate that, man.
+
+Tim Ferriss: “Look at this, man. I’m so fucking happy.” So it made my day that you were having such an amazing, amazing day. So that’s what I wanted to say.
+
+Kevin Rose: Well, I got to tell you… Well, I appreciate that. That means a lot, obviously coming from you. And the thing that I’ll follow up with this is, at the end of the day, I think that the thing that I love most about working in this space, and the reason why I get up still, even in this crazy market, still jazzed to play, is because it still does feel like play. It feels like we’re making shit up and that’s okay.
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Because this is a new frontier. We’re figuring it out on the fly. And as long as it feels that way, it’s going to be fun. And a good creative things come from a place of comfort, I feel, than a place of stress, right? And it seems like you are operating in a place that is low stress, you’re not making it seem like it’s this crazy roadmap. You’re just going to have a good time. And I think good things will follow from that if that’s a place you’re operating.
+
+Tim Ferriss: Yeah. And I’ll also say something out loud that a number of people have encouraged me to say out loud. They’re like, “Have you actually said that?” And I’m like, “No, I haven’t.” They’re like, :”You should.” Which is, And they’re, there are a few sentences, so it’s not going to take too long. It’s not TED Talk. So the first is, if you’re serious all the time, you’ll burn out before you get any of the really serious work done. You can do serious work without taking yourself and it too seriously. Because if you do that, you just burn out. I’ve yet to see a single exception, and, also, this is a grand experiment for me at least, but it seems very promising that you can get very serious work done in fun ways. So this is a project, it’s a very elaborate art project with visual art and writing called cockpunch. That’s the proper pronunciation by the way: cockpunch.
+
+And the funds from the primary sale are going to the [inaudible 01:47:56] foundation, which are going to fund therapeutics for people who are suffering from debilitating conditions like treatment resistant depression, which I’ve suffered from for my entire life. And complex PTSD as a result of trauma, like sexual abuse and experience of war and so on. I mean, these are fucking serious things and it can get really dark and really heavy when you’re immersed in it, as I have been for many years now. So the possibility of having fun and injecting play and having the side effect of that, the output of that then flow down into these very, very serious high leverage places is super exciting.
+
+So I hope, I hope, I hope, and I mean, I don’t want to say expect because secret to happiness is low expectations, but I’m very optimistic about this whole thing. And if it works, holy shit man. If it works, the door that opens to me. Cause I’ve been so serious, man, for the last handful of years working on all these therapeutics and it’s dark. It’s like you deal with these stories of trauma and so on, it gets very dark. So the idea that I can continue to do that work, not abandon it, not abandon those people, not abandon myself, but to also have this light fun side that offsets it, that gives me longevity and endurance. Oh man, that’s exciting to me.
+
+Kevin Rose: Yeah, that’s amazing. And I love that you’re not taking yourself too seriously and just calling it something just ridiculous that you could also get shit for for not having not be PC, by the way.
+
+Tim Ferriss: Oh yeah. Can’t wait. I can’t wait.
+
+Kevin Rose: It’s time for you to be canceled. That’s fine.
+
+Tim Ferriss: Oh yeah. But in the process of trying to cancel me, they’re going to have to write and say “cockpunch” over and over and over again.
+
+Kevin Rose: Right.
+
+Tim Ferriss: So good luck. Good luck. Just the gymnastics that people are going to have to go through from the peanut gallery to try to criticize it without actually taking the bait and saying, or writing cockpunch is going to be just pure entertainment. 
+
+Kevin Rose: Yeah. Well that and if this does take off, let’s hope it’s… This could be gravestone material where it’s hot punch.
+
+Tim Ferriss: Yeah, I was thinking…
+
+Kevin Rose: Amazing.
+
+Tim Ferriss: I was thinking one of the best moves… If I want to walk the walk of not taking myself too seriously launching, this is my first major NFT project and first attempt at fictional world building is going to mean that I would, what? A third of my Wikipedia is going to be dedicated to something called cockpunch.
+
+Kevin Rose: Yeah. That makes me happy.
+
+Tim Ferriss: Oh man. So anytime anyone in the Netherlands is like, “We run this business organization, we are thinking of having Tim Ferris be a keynote speaker. Let’s go to his Wikipedia page.” It’s going to be like cockpunch. Hello. So it’ll be interesting to see how that turns out.
+
+Kevin Rose: I love it. So good. Well, Tim.
+
+Tim Ferriss: Yes. Yes sir.
+
+Kevin Rose: Great to have you on the show. Excited for this launch. I will be [inaudible 01:51:03] with bells on and hope I get the wear blue ball cock, which is the rarest. Correct?
+
+Tim Ferriss: The blue balls are not common. Blue balls are not common. They’re treasured. They are…
+
+Kevin Rose: They’re treasured.
+
+Tim Ferriss: They’re treasured as our…
+
+Kevin Rose: And people think we’re joking, but that actually is true, right? One of the blue balls trait is treasured.
+
+Tim Ferriss: Blue balls are actually rare. And I don’t want to spoil all the secrets, but yes, blue balls are prized possessions. Those are going to be on the rare side of things. CockPunch.com. Don’t miss it.
+
+Kevin Rose: @CockPunch on Twitter.
+
+Tim Ferriss: @CockPunch on Twitter. Oh my god. Kev, Kev. How did I end up here?
+
+Kevin Rose: I love it. Awesome. Thanks brother. I you see it on launch day with tweet? I’ll be retweeting every cock related post I possibly can.
+
+Tim Ferriss: Oh, it’s going to be going to be glorious. Can’t wait. 
+
+
+TAGS
+COCKPUNCH, KEVIN ROSE, THE LEGEND OF COCKPUNCH
+	

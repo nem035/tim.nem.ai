@@ -1,0 +1,646 @@
+
+
+MAY 9, 2020 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tyler Cowen on Rationality, COVID-19, Talismans, and Life on the Margins (#413)
+
+
+Please enjoy this transcript of my interview with Tyler Cowen (@tylercowen), a professor of economics at George Mason University with a personal moonshot to teach economics to more people than anyone else in the history of the world. In addition to his regular teaching, Tyler has blogged every day at Marginal Revolution for almost 17 years, helping to make it one of the most widely read economics blogs in the world.
+
+Tyler cocreated Marginal Revolution University, a free online economics education platform that’s reached millions. He is also a bestselling author of more than a dozen books, a regular Bloomberg columnist, and host of the popular Conversations with Tyler podcast, where he examines the work and worldviews of thinkers like Martina Navratilova, Neal Stephenson, Reid Hoffman, and many more.
+
+His latest project is Emergent Ventures, a $5 million fund to support entrepreneurs who have big ideas on how to improve society.
+
+Transcripts may contain a few typos—with some episodes lasting 2+ hours, it can be difficult to catch some minor errors. Enjoy!
+
+
+#413: Tyler Cowen on Rationality, COVID-19, Talismans, and Life on the Margins
+
+
+
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show, where it is my job to deconstruct world-class performers. I would consider my guest today one of those. To tease out the habits, routines, thinking processes, practices, et cetera, that you can hopefully emulate or test in your own lives. My guest today is Professor Tyler Cowen, C-O-W-E-N, that is Cowen, and his personal moonshot is to teach economics — or economics — we’ll clear that up in just a moment, to more people than anyone else in the history of the world. And he might just succeed.
+
+In addition to his regular teaching at George Mason University, Tyler has blogged every day at Marginal Revolution for I want to say more than 15 years now, that’s incredible, helping to make it one of the most widely read economics blogs in the world. He’s co-created Marginal Revolution University, a free online economics education platform that’s reached millions and will no doubt reach millions more. He’s also a bestselling author of more than a dozen books. This man is an overachiever. A regular at Bloomberg columnist and host of the popular Conversations With Tyler podcast where he examines the work and worldviews of underrated thinkers like Martina Navratilova, Neal Stephenson, one of my favorite writers, Reid Hoffman, and many more. His latest project is Emergent Ventures, a $5 million fund to support entrepreneurs who have big ideas on how to improve society. You can find him on the Web at marginalrevolution.com and conversationswithtyler.com — I highly recommend checking out — and on Twitter @tylercowen. Tyler, welcome to the show.
+
+Tyler Cowen: Thank you, Tim. Happy to be here.
+
+Tim Ferriss: And there are so many questions I want to ask. We have so many friends, or at least I would say fans of your work in common, like Ryan Holiday, and you have been suggested and requested as a guest on this podcast for a very long time, indeed. Let’s start with my first question/area of confusion. As you may have noticed even in the introduction, I pronounced it differently several times. Do you say economics or economics?
+
+Tyler Cowen: Probably I’m not consistent, but I don’t think of myself as doing economics. I think of myself as doing a funny kind of philosophy with the economy as the topic. So my goal isn’t really to teach economics, it’s to improve my own ways of thinking and maybe people will learn some of that as I go along.
+
+Tim Ferriss: Why use, and I will flip flop here, why use economics as the vehicle? What makes that interesting or useful? For example, thinking —
+
+Tyler Cowen: I’m stuck with it at this point, right? So I think the most efficient way of learning at the margin for most smart people is travel, and I try to travel a lot. But I don’t necessarily try to talk other people into becoming economists. When I was a young kid, I was a chess player and I was very good at chess. Then I quit chess and I took up economics, and that has made sense for me as a career. But in a way, I’m not emotionally that wedded to economics. I think of anthropology as a more fundamental way of thinking about humans. And economics, indirectly, is parasitical on anthropology. And we should all be doing more anthropology and travel.
+
+Tim Ferriss: Could you explain what you mean by parasitical on anthropology?
+
+Tyler Cowen: So economics, the core insights are about incentives, right? The law of demand: price goes up, you buy less, that makes perfect sense. But in anything but the simplest contexts, you have to ask, how do people even understand what the price is? So if a mother says to her kid, “Oh, don’t do that or you won’t be allowed to play outside,” what is the real price? Does the kid really not get to play outside ever again? They get to play outside even more the day after? Who knows? It’s about how people understand how they communicate with each other. And that is a kind of anthropology, sociology, economics is embedded in those broader social sciences. So in my view, you need to be broad, read a lot, travel a lot, be a bit crazy.
+
+Tim Ferriss: I’m all for the right kind of crazy. I think we will be examining and exploring some nooks and crannies that would qualify as, if not crazy, at least weird. That’s the hope — part of the hope — for this conversation. And I want to come back to something you said or referenced, which was playing chess as a kid. So, in the course of doing some research for this conversation, I came across something that said you also played for money. What did playing chess and/or playing chess for money teach you? What did you take away from those experiences, or what impact did that have on you?
+
+Tyler Cowen: Well, this may sound trivial, but first it taught me I could win, and second, it taught me I could lose. And those are both very important lessons. And it also taught me I needed to be honest with myself about why I was either winning or losing and that there were real stakes here. So I learned that at age 10, 11 that was a great background. And chess is not forgiving of excuses, right? It cultivates what I now call meta-rationality. And you can’t lie about how well you’re doing, not in the medium term. You have a numerical rating, it’s pretty accurate, right? You win or you lose. You can’t say “The sun got in my eyes” more than once.
+
+Tim Ferriss: So you have many phrases that no doubt we will be digging into — or terms. Could you elaborate on meta-rationality please, or give other examples of meta-rationality?
+
+Tyler Cowen: A person is being meta-rational when he or she understands how smart or well-informed he or she is in a given topic area. Meta-rationality is very hard to come by in my view, so people typically do not defer to the views of experts when they ought to. Sometimes the expert might be wrong, but if you’re just playing the odds, the expert is probably right. So people are far too confident about too many things they shouldn’t be so confident about. Meta-rational people, who are essentially impossible to find, with the margin, we can be a bit more meta-rational. They know to whom they should defer or how to find out the right answer.
+
+Tim Ferriss: And as someone who is self-admittedly or self-described hyperlexic, a consumer of, it would seem, vast quantities, but certainly on some level, curated quantities of information, how would you think about, as an example, because you’ve also written for The New York Times in 2013 about pandemics, To Fight Pandemics, Reward Research. Now one could argue that we’re a little behind the eight ball with respect to current circumstances, but as we’re recording this on Monday, March 2nd, how do you yourself think about, for instance, parsing information and sources related to something like COVID-19? And I know that I’m using shorthand, but the virus is sort of awkward to say, so I’ll just use COVID-19 as a placeholder for this particular coronavirus that we’re contending with.
+
+Tyler Cowen: The returns to understanding how to build a good Twitter feed are very high, and right now many of us should be building coronavirus Twitter feeds and following a number of people like Helen Branswell. And then people need to trust you, so the returns to being ethical and keeping confidences are high. And then other people will tell you things if you’re at all known. And then you need to be meta-rational and judge, you know, which of them you should listen to more. Some of that might happen through WhatsApp. And then just at the end of the day, not to get too caught up in your own narrative, you need to be suspicious of stories. Just like the panic story, it’s all going to be fine story, probably the truth is somewhere in between, but dominant moods or emotions tend to seize hold of us even if we’re very smart. And often smart people go wrong because they’re just better at feeding more information into their chosen mood and then they’re likely to screw up. So it’s this very careful balancing act across many dimensions.
+
+Tim Ferriss: How do you cultivate meta-rationality particularly when — hopefully taking into account incentives? Because what I’ve noticed for instance is that, among the friends I’ve spoken to, who I all consider from the perspective of an IQ test at least, intelligent pretty far on the right, that the conviction with which they believe this is serious or not serious often corresponds in some fashion to how inconvenient or convenient it would be or how much of a financial sacrifice believing it is serious and requires, say, self-quarantine or something like that would cost them from a business perspective. How can one cultivate the ability to remain meta-rational during times of duress or panic like this? And I know that’s a very jumbled question, but I think you can probably get what I’m grasping for.
+
+Tyler Cowen: Maybe a certain bit of obliviousness actually is useful. So you want to be plugged in, but also somewhat detached. And so caught up in your own thing, your whole “What did I have for breakfast this morning?” routine, “When am I going to get to shoot baskets next?” that it actually distracts you from too much emotional involvement. So Peter Thiel sometimes says, “You want to own embody opposites in yourself in some ways.” So this extreme involvement in the processing of information but also a fair amount of detachment maybe is the best you can do if you can achieve that. I think the returns to detachment have gone up a lot with Twitter. So Twitter is fantastic, but most people use it badly and they hate it, and they criticize it, and they waste time on it. But if you just use it as a truth-generating mechanism and use Twitter Search and mostly ignore politics on it, it’s wonderful.
+
+Tim Ferriss: Could you give an example of how you have used Twitter in that fashion? What type of truth might you try to generate or identify through Twitter and how would you go about it?
+
+Tyler Cowen: Right now Twitter Search is mostly better than Google Search. So take a topic you’re interested in, which in this case could be coronavirus, and just type it into Twitter Search every morning or every evening and see what pops up. And then you’re not restricted to who it is you follow, which is always going to be limiting. You’ll sample different opinions, see how people respond, you’ll be led places by happenstance. That’s fantastic, we didn’t have that 15 years ago.
+
+Tim Ferriss: One of your most popular, if not the most popular, post of yours in 2019 on your blog was How I Practice At What I Do. I believe that’s the name of the blog post, please correct me if I’m wrong.
+
+Tyler Cowen: Yes that’s correct.
+
+Tim Ferriss: And to quote that blog post you wrote, “Recently, one of my favorite questions to bug people with has been ‘What is it you do to train that is comparable to a pianist practicing scales?’ If you don’t know the answer to that one, maybe you are doing something wrong or not doing enough.” Could you elaborate on that, please?
+
+Tyler Cowen: Well, say you’re a social scientist or you’re a writer or you give public talks, you are out there in some way all of the time. But if you look at people like, say, what Kobe Bryant did, or what Martina Navratilova did, they practice to an extreme degree and that’s how they got better. Martina was not world number one player until she had an intense regime of proper practice. Kobe, the older he got, he realized he needed to practice more, whereas a lot of top stars actually practice less and they coast on reputation and they have a guaranteed contract. So just every day you want to be reading, you want to be talking, you want to be thinking, you want to be exercising, and do it at an intense a level as you can, and just try to do that all day long, and that’s practice. And one hopes it will make you better. It’s not for you to say, but that’s the hope.
+
+Tim Ferriss: How do you practice your scales? What does scales look like for you?
+
+Tyler Cowen: Writing out large quantities of material, much of which I never use or publish. Writing out different points of view, which are not my own, is also a way of practicing. Trying to talk to a very diverse set of people, in my case not just academics, not just people I went to high school with, say. Listening to highly complex music, I think, is a way to keep your mind active. Periodically reading serious fiction I think is something people stop doing after they hit a certain age, maybe 30 or 40, but it forces you to be open to the complexities of how humans actually are. I recommend that too.
+
+Tim Ferriss: If someone listening were a nonfiction purist, say they quit at 20 and had not been reading fiction since, are there any particular fiction books that you might recommend for someone to use as their re-entry to the world of complex fiction, or fiction overall?
+
+Tyler Cowen: I would have to know their biography, but I would start with Harold Bloom’s book The Western Canon, which has a list and surveys a lot of his favorite works, a few of which are nonfiction by the way, and dig in there and just find what you love and pursue it. I think the greatest writer is Shakespeare. It’s not necessarily for everyone, and if you did not grow up writing and reading English it’s probably not for you, but that would be one start. The Henriade. 
+
+Tim Ferriss: When you say complex music, what does that mean to you?
+
+Tyler Cowen: Indian classical music, I think, is phenomenal and grossly underrated, and it really forces you to be in a complexity mindset. Beethoven, Late String Quartets, Bach, The Art of the Fugue, atonal music, Arnold Schoenberg, some of the stuff people don’t like and curse at and think has wrecked music. I’m all for it, pretty much, it’s just really, really hard.
+
+Tim Ferriss: The sophistication of the hand percussion in classical Indian music — I don’t know much about other instruments — but the sophistication of the hand percussion, speaking as someone who’s become very interested in hand percussion in the last few years, is mind-blowing. It is unbelievable how well-developed the system of hand percussion is in classical Indian music, just as one example.
+
+Tyler Cowen: It could be the best music in the world, and I wonder if it’s not related to Indian preeminence in the world of tech.
+
+Tim Ferriss: That is definitely one I’ll have to chew on. I like that as a thought exercise at the very least. You spoke to your writing and your writing practice. What does your daily writing practice look like, if it is indeed daily? I make that assumption, but perhaps you’re batching your writing. What does your writing process look like?
+
+Tyler Cowen: It is daily in an almost religious manner. I write on Christmas Day, I write on Sundays, I write columns, blog posts. I like to quit writing before I get tired of writing. That way I’m hungry to come back the day after. And the real enemy in writing is days where you get nothing written. If you write something every day, I don’t care how much or how little it is, it’s going to add up. And over time, you’ll get more done each day. So just make it an absolute rule. The really important thing, it may not be writing for everyone, but just do it every day, get better at it every day. Don’t take any excuses. Do it.
+
+Tim Ferriss: What does your routine and set up look like? What time of day? What are the ingredients that, for you, constitute a writing session? What are the characteristics?
+
+Tyler Cowen: I love having multiple offices to create variants in my physical environment, but usually I start at home. I have just an ordinary sofa next to a very good stereo and a lot of CDs, some being Indian classical music, and I just sit on the sofa and lean against the armrest. I don’t even know if I’m comfortable, but I’m so used to it. And I just write and I end up back there at the end of the day and in between, I’m at one of my two offices. Or if I’m on the road, I’ll write in a hotel room. I’ve gotten very used to writing other places. I enjoy the change of pace; somehow it forces you to think new thoughts a bit.
+
+Tim Ferriss: Do you do it first thing in the morning? Does the time of day vary? What does the timing look like?
+
+Tyler Cowen: Almost always it’s early in the morning. The first thing I do in the morning is check my email and eat breakfast, but after that, I try to get to writing pretty quickly. So I think a lot of people peak between, say, 8:15 a.m. and maybe 11:30, 11:45. And those are my core writing times most, but not all, days.
+
+Tim Ferriss: And when you check email, do you have any rules or tactics that help you to avoid getting consumed or pulled into the vortex of email to the extent that it overtakes your writing time? How do you think about that?
+
+Tyler Cowen: Well, keep in mind, responding to emails is writing too. I once said to Patrick Collison, “My business model is responding to my email,” so I respond to a lot of email. I don’t respond to it the second it comes in necessarily, and I certainly don’t in the morning, but there’ll be a few things if only because of time zones, or I do respond immediately, and email is how people are going to tell me things often. So if I respond I develop more and better relationships. You could say I’m a fan of getting somewhat drowned in your email. But I think here’s part of it: I try to stay a bit weird and obscure enough that mostly quite smart people are writing me. And if I had too many not-smart emails, I would feel I was doing something else wrong with what I’m writing.
+
+Tim Ferriss: What will the symptoms be of you having crossed the line into overexposed — or having made mistakes in your writing? I guess besides the email, but will you know? Will the indication be just a change in the ratio of smart to not-so-smart email, or are there other ways that you would recognize you’ve gone astray with your writing?
+
+Tyler Cowen: Maybe too many people asking me to do political things would be a sign that I had done something wrong; that mostly doesn’t happen. The people emailing me being less smart or less to the point; that mostly doesn’t happen. So I think I get a pretty large number of very good emails each day or WhatsApp messages, and I like that. But you have to reciprocate, right?
+
+Tim Ferriss: Yeah. With your writing, do you do your first drafts in Word, in LaTeX, in email composition? I know some people who do that in an actual Word — like a WordPress editor, or in a blog of some type. How do you draft?
+
+Tyler Cowen: I’m a software idiot, so if I’m writing a book or a column, I just use Microsoft Word. And I’m still struggling to figure out how it works. If it’s a blog post, I type it into WordPress. And I do find if I type into WordPress, I write different things than if I write on an open Word document. Recently I’ve been trying Google Docs. It’s better for collaboration, but it’s disorienting for me. It doesn’t feel permanent, somehow. It feels like if a quasar explodes somewhere out there, the whole thing will go poof and I’m nervous. Maybe that’s good and it gets me to finish what I’m doing more quickly.
+
+Tim Ferriss: Now you have written about your own 12 rules for life. I wanted to ask you about two of them if you would be willing to expand. So I’ll read them but these are rules seven and 12 respectively. And I’ll read both and then you can dig into either the first, number seven, “Learn how to learn from those who offend you.” Number 12, “Every now and then,” and I’m going to mispronounce things here probably, “Read or reread Erasmus, Montaigne, Homer, Shakespeare, or Joyce’s Ulysses, so that you do not take any rules too seriously. The human condition seems to defeat our attempts to order it.” All right. I would love for you to expand on either of those; you can choose whichever you’d like to talk about first.
+
+Tyler Cowen: Well, part of the brilliance of those writers I listed is they’re highly complex, they force you or induce you to see human motivation as very complicated, they run against the grain of their being simple answers, and you really have to focus on them and give them full attention. So if you’re dealing with them periodically, I think it’s a good way to always stay fresh if that’s a true, open, honest engagement. Now the people who offend you, I mean Twitter is a great place to find them, right? People are so negative on Twitter and, either directly or indirectly, they’re going to be negative about you whatever it is you do, or are, or think, someone’s going to dump on it and trash it.
+
+Those are the people where you really need to look closely and say, “What can I learn from this person?” Do not play a strategy, which I call devalue and dismiss. Because you can point to flaws in their thought or their biography. Like, say what they’ve done wrong or, “They didn’t say this right three years ago.” And you can dismiss them, but they’re, at the margin, really the ones you’ve got to learn from. For me that’s Paul Krugman. He puts down so many people, sometimes he puts down views I hold. You could say it offends me, but I need to suck it up and just realize there’s something I can learn from here.
+
+Tim Ferriss: What have you learned from Paul? What would be cultivated as a result of performing this practice?
+
+Tyler Cowen: Well, I would say a lot about regional economics. At the meta level I’ve learned a lot about how to communicate, sometimes how not to communicate. I understand a particular point of view much better, which I sometimes, but not usually, agree with. And he’s one of the smartest economists out there, he has a Nobel prize, of course, my goodness, we should be learning from this person.
+
+Tim Ferriss: What are things that come to mind that you have changed your mind on in the last few years or the last year? Are there any positions or beliefs or otherwise that you’ve changed your mind on or come to think differently about?
+
+Tyler Cowen: Well, one thing that I’m finding really striking is the number of different countries that have had demonstrations or sometimes even riots about their politics, and those are sometimes countries such as Chile, which at least in regional terms their leaders are doing better than other places. Chile has actually seen declining income inequality, and yet millions of people in a not-so-well populated country are going to the streets. So the sense of discontent out there is higher than I had thought. And I don’t feel I’ve thought that through properly yet, but I’m definitely changing my mind about the stability of current parties and regimes of politics. It seems to not quite be holding.
+
+Tim Ferriss: What are your working hypotheses with respect to why that might be?
+
+Tyler Cowen: I think one is the Martin Gurri hypothesis that in a world with the internet, we see everyone’s flaws more readily. So you look at politicians or, for that matter, top thinkers on social media, mostly they’re not very impressive. And again, you could play the devalue and dismiss strategy, but it means the citizenry ends up disillusioned. 
+
+So the second point I think is that if you look at, say, the United States, it has not in every way covered itself in glory over the last 15 or 20 years, and that disillusions people around the world. Yet they don’t know where else to turn, because in my view, some version of western liberal capitalist democracy is indeed the best system. People see China doing better, they don’t necessarily want autocracy, so politics becomes more confusing. And then finally I think we’re seeing big shifts in the income distribution where certain groups are seeing either stagnant or falling wages and this heightens their anxiety and then they too become dissatisfied in politics, but they’re not sure exactly where to turn. They tend to turn to politicians who promise them free lunches, but that’s probably bad.
+
+Tim Ferriss: How are you going to go about developing a better understanding or different perspectives related to this observation, for instance, in Chile? What do your next steps look like?
+
+Tyler Cowen: Well, the most likely next step is failure, but going to Chile would be one thing I would do. I’ve spent maybe five weeks of my life in Chile, which is not a lot, but enough that I have a sense of the place. I was recently invited back, I will try to find a way to get back and then I will speak with people. But I also try to figure things out just by writing them down or writing them up. And if I just sit in the shower and sing, I don’t really get anywhere, so I need to talk with people, or give a talk, or write something down. And that will probably be wrong, but that’s like the draft that doesn’t get out. And then it will get better, and maybe sometimes it’s okay.
+
+Tim Ferriss: What percentage of what you write would you say ultimately gets published on the blog or elsewhere? Just to give people an idea of what the pie chart looks like with published, unpublished, and maybe there are other categories, but what percentage would you say end up getting published somewhere?
+
+Tyler Cowen: It’s hard to measure, because the things I discard, I tend to rewrite them so much, whether I’ve thrown them out or just rewritten them, I’m not sure how to classify it. But I have many hundreds of pages of unpublished stuff, and it’s going to stay that way, in varying phases of completeness. But it was necessary to get to other things.
+
+Tim Ferriss: In, I want to say 2003, so this was some time ago, I suspect things may have changed, but at the time I read that you were watching television only in Spanish.
+
+Tyler Cowen: That was correct then.
+
+Tim Ferriss: Yeah. For what period of time did you do that?
+
+Tyler Cowen: Oh, over a dozen years. And I still do it sometimes. But I found it a good way to learn Spanish, but a good way to have a window onto a group of concerns that I would not necessarily encounter in the rest of my daily life. So if you watch Spanish language news from Latin America or from Miami, but essentially from Latin America, you will just get a very different sense of what is important, what is interesting, what is dramatic, very different sense of the role of the tragic, how families fit together, the importance of children. It really shakes up your worldview. But mostly I wanted to learn Spanish. But I became a bit addicted to it and I still do it when I have the time.
+
+Tim Ferriss: I listen to the Duolingo Spanish Podcast sometimes for similar reasons, although it doesn’t provide quite — it does in some cases provide that sort of contextual, temporal news, human interest element, but perhaps less of the breaking news.
+
+Tyler Cowen: I love Primer Impacto on Univision. I still watch that sometimes. It’s at 5:00 p.m. For me it’s channel 14. It’s just fantastic.
+
+Tim Ferriss: What do you find to be the benefits of focusing on language acquisition — or, I suppose, cultivation?
+
+Tyler Cowen: I only know two other languages: English, Spanish, and German. They force you out of your comfort zone. They make you realize what an idiot you are. You’re always learning something. You get windows into how other people think. I sometimes call it cracking cultural codes. Spanish is great, because it opens up a lot of different countries to you. German has some of the most profound writing and music, philosophy and culture, of human history. I wish I knew more. So I envy people who know many languages and people who have traveled to more and different places than I have. They’re the people you should envy.
+
+Tim Ferriss: I’d like to ask you about one of your many books, The Complacent Class. Now my read, and please correct me if I’m wrong, is that you’ve argued that we’ve, in some respects, become a stagnant and cautious society. What does that mean? If I’m actually sort of interpreting things correctly, and feel free to correct me.
+
+Tyler Cowen: We innovate less, especially outside of the tech sector. Our incomes grow more slowly. We move around the United States at roughly half the rates we used to. We are now unable to pull off grant projects, such as putting a man on the moon. Almost all of the spending of our federal government is now locked in, and much of that — most of that — going to the elderly. We’re just a less dynamic society. People are crazy how they bring up their kids. No risk is to be allowed. People obsess over “What kindergarten will my kid get into? If they don’t get into that kindergarten, my goodness, all is lost!” We are far more a society of credentials, which I regard as a huge negative. All of that and more.
+
+Tim Ferriss: What can one do? Are there any personal actions that you would suggest to counteract or counterbalance in some fashion, those societal trends? Of course that’s more than just societal trend. There are actual government policies and so on. But what can the individual do? If they listen to you say this and they agree with you, are there any particular practices or steps or recommendations?
+
+Tyler Cowen: Absolutely. Steve Levitt, the Freakonomics guy, he wrote a great paper where he took some people and he looked at their major decisions. And for some of the people, a coin was flipped. And if the coin said they had to make a big change, they made the big change. And next post, the people who made the big changes were happier than those who did not. So of course, it depends on the person and on the context. But in general, read that Steve Levitt paper. Think about the coin flipping, and more of the time, make the big change. Of course it’s a risk, right? But it seems on average it pays off.
+
+Tim Ferriss: Question for you. Now those were big changes determined by the flip of a coin, is that right?
+
+Tyler Cowen: Right.
+
+Tim Ferriss: Okay. How much of the happiness with the big change do you think was from making the big change, or being absolved of the buyer/seller’s regret equivalent — second-guessing, in other words, a decision that you had to make on your own?
+
+Tyler Cowen: I don’t know, but if it’s only the being absolved that matters, treat me as the villain and you are hereby absolved from responsibility. Just say “Tyler made me do it,” and go off and be happier. And the rest of society will do better as well.
+
+Tim Ferriss: What are some of the major decisions that you’ve made that have been extremely impactful in your life?
+
+Tyler Cowen: I decided that I would really focus on the internet and giving away my output for free, and mostly stopping doing peer-reviewed scholarly research and devoting all my time to blogging, and online essays, and online education, and my podcast. And that has gone phenomenally well for me.
+
+Tim Ferriss: When did you make that decision?
+
+Tyler Cowen: In retrospect, it doesn’t sound that scary. I started blogging I think, 17 years ago. And the notion that I would do this every day for what is now almost 17 years at the time was extremely weird. And I was doing well in my other endeavors. It wasn’t, there was some kind of failure that needed to be patched up. But I just thought, I’m going to do this. I’m not going to look back. At first, no one paid any attention for years. I just kept on doubling down happily in my oblivious fog, and it worked out great.
+
+Tim Ferriss: So I’m going to push back a little bit on the oblivious fog. You’re a smart guy. You’re able to, I think, look at — 
+
+Tyler Cowen: You didn’t say I was a meta-rational guy. You said I was a smart guy. Maybe I should be offended!
+
+Tim Ferriss: Yeah. All right, I was going to meta-rational next! That was my second compliment. What was your decision-making framework for doing that 17 years ago? So that places us around 2003, roughly. How did you make that decision, which at the time to many very smart — I will use the word smart here — colleagues probably appeared absurd? What was your decision-making framework, or how did you think about making that decision?
+
+Tyler Cowen: I’m not even sure I had a decision-making framework. I think in a way I’m dysfunctional as a decision-maker at that level. I did it for a day. I enjoyed it, and I just didn’t stop doing it in a very selfish, curious, greedy-with-information way. And it just became quickly impossible to turn that ship around. So I thought, wow, I’ve got to do more of this. And I would hesitate to recommend my so-called decision-making process to anyone.
+
+Tim Ferriss: What was the positive feedback loop on the daily experience that kept you going for years before it seemingly gained traction? What was it that appealed so much to you?
+
+Tyler Cowen: For three or four years, we had a few thousand readers, but it wasn’t a thing and it hadn’t taken off. It was fine. And when I started I thought, oh, it would be awesome to have only 5,000 readers, some kind of utopian dream. But I lost track of that. And I just found I was learning things, having to write all these posts. Oh, I need to learn this, I need to learn that. And then when I would write on it, I would change my mind. So I thought, this is some form of progress. And again, just stuck at it. And then later, blogs became a thing. And even though blogging has mostly disappeared, it’s gone very well for us. We’ve played a last-man-standing strategy, and we haven’t seen that kind of cutback in readership.
+
+Tim Ferriss: I think it’s lost some of its newness, sex appeal, but I would be astonished if long-form or even not-so-long-form writing, as long as it is of high quality, considered of high quality for at least a few thousand people or even less, I don’t see that going away anytime soon. And I know that there are other forms of media that are more fashionable, perhaps, but I’m certainly not concerned for the longevity of your readership. I think you’ll be fine. How have you thought about branching out from the written word and making decisions about that?
+
+Tyler Cowen: I do now a podcast every two weeks. That’s called Conversations with Tyler. And that keeps me very busy and dominates a lot of my reading time. That’s for free. It’s not a business for me. It probably costs me some money. But I find I read much better when I’m reading their work to go and interview them. So next I’ll be doing Philip Tetlock, the guy who writes on prediction and super forecasters. That will force me to get my thoughts in order on those topics. After that, I think it’s Emily St. John Mandel, who wrote Station Eleven, which coincidentally is a book about pandemics. And she has a new book out. I read fiction much better when I know I’m talking to the author himself or herself. When I interviewed Martina Navratilova, I had to learn a lot about the history of tennis. I read 50 books on the history of women’s and also men’s tennis. That was fantastic. I wouldn’t have absorbed them in the same way if I wasn’t going to be speaking to her. So I’m just going to keep on doing these podcasts. Again, totally dysfunctional decision-making on my part.
+
+Tim Ferriss: We’ll see. You could certainly have good outcomes with bad process, but I’m not totally convinced it’s bad process.
+
+Tyler Cowen: It’s not bad, but it’s not something I could explain or justify in terms of a model of rationality.
+
+Tim Ferriss: Right. It’s also low-risk in the sense that the max downside risk of doing this is very, it would seem, very low. Whereas a lot of the benefits as you said, putting an incentive and deadline in place so that you immerse yourself in these topics and worlds that you might not otherwise put so much energy into is certainly a benefit. How did you prepare for Neal Stephenson? Because I’ve read Neal’s books. And for people who don’t know, you have Snow Crash, Cryptonomicon, you have many others. And these are not short books. These are, in fact, incredibly long books in many cases. How did you prepare for that interview?
+
+Tyler Cowen: He was in some ways an easier-than-usual prep, because there are many Neal Stephenson books I already had read, which was a huge head start, just as you’ve read them. And then there were others that I simply cannot read, like Anathem, which I suspect is brilliant. But I’m just not a good enough reader or not smart enough or not something to get through it. It just loses me. And I’ve tried at least twice. I tried again to prep for him. I couldn’t read it. And it might be his best book. So I just had to put that one down, and I figure, well, this is Neal Stephenson. I’m just going to talk to him about “stuff” — a lot of the obvious, usual questions about science and the future and technology — and he’ll just be interesting. So that was, I wouldn’t say easy, but easier than many. Whereas people who know a very direct thing, like Emily Wilson, she was the translator with Homer’s Odyssey. I had to know Homer’s Odyssey really, really well. That’s what she does.
+
+I can’t just blah, blah, blah to her about, “What do you think of Peter Thiel and the tech stagnation debate?” We talked 85 percent about Homer’s Odyssey. That was one of my hardest preps.
+
+Tim Ferriss: That sounds hard.
+
+Tyler Cowen: She’s wonderful, by the way, if you ever want to have her on, but it’s really tough. I spent months of my life preparing for her and it was over in an hour.
+
+Tim Ferriss: Yeah, that’s a better ratio than the Olympics, I guess. How are you preparing for the conversation about, I suppose it’s not going to be limited to, but Station Eleven, if I’m getting that right, and pandemics? How are you thinking about navigating that conversation and preparing for it?
+
+Tyler Cowen: I watch her on YouTube. I read all of the interviews with her I can find online. Her two main novels I will read twice. And her earlier, less well-known novels, I’ve read once. And she’s from Canada. I need to think about Canada, where she grew up in Victoria, what her literary inspirations are, ask her about those, reread books that she has read. I looked again at Michael Crichton’s The Andromeda Strain. She wrote a novel about a pandemic. Now I have to think about Boccaccio as well. And you just have to dig deep into all your resources. What have I got here? And we’ll see how it goes. But she’s a hard prep.
+
+Tim Ferriss: You have read — you and Patrick Collison are birds of a feather here. For people who don’t know, Patrick Collison of Stripe, in that you are voracious readers, and consume more books than the next 10 people put together — and the next 10 high-achievers put together, I think many would say. What are the books that you have gifted or recommended to people most that come to mind? I know that you have a huge sort of pantheon of options available, but what books have you recommended most to others? We had a couple come up earlier in terms of people who might be interested in exploring fiction or complex nonfiction. What other books come to mind, if any?
+
+Tyler Cowen: I’m very suspicious about recommending books to people because there’s the risk they might listen to what you say. And if you’re recommending to them the book that is not the most valuable next book they should read, in a sense, you’re wronging them. So I don’t give people books that often. One thing I try to encourage people to do is to read more about music and the arts, not a particular book. But I say take the creators you love, whoever, whatever they may be, and read about them. If it’s The Beatles, great. If it’s Beethoven, and really dig into what you might think of as your hobbies, but to read about them in an intense way. And just think about Beethoven. How did he manage his career? What were his productivity tricks, what did he do wrong?
+
+And think through some of the questions you’ve written and talked about at length, but in the context of your cultural heroes. If it’s like, what do I tell people to read most often? I am not myself religious, but usually I’ll tell my non-religious friends they ought to go read the Bible. It’s a wonderfully deep and brilliant book and most non-religious people, even most religious people, barely know it, or Shakespeare.
+
+Tim Ferriss: If someone said to you they wanted to become more meta-rational, if that were their stated objective, are there any resources you would point them to, or practices?
+
+Tyler Cowen: Again, I’d like to know where they are starting from. But spend some time sitting down with groups of people you don’t usually sit down with, is my most likely recommendation. And that will depend on the person. So there’s one colleague of mine, I’m telling him, you need to travel to some very poor countries, and sit down and speak to some very poor, in terms of income, individuals. And that’s what I think he should do. Obviously, if someone say grew up in the slums of Mumbai, that’s probably not my advice.
+
+Tim Ferriss: What if they were a well-to-do Manhattanite?
+
+Tyler Cowen: Oh, my goodness.
+
+Tim Ferriss: Who felt — 
+
+Tyler Cowen: This is easy?
+
+Tim Ferriss: Who felt like they were prone to confirmation bias due to various incentives they had. So they’ve embedded themselves in a position. They have stories they’ve believed, maybe their stories from their parents. Who knows? Yeah. Besides spending time with someone who is from an income perspective, poor, what other advice might you have for such a person?
+
+Tyler Cowen: If you’re a Manhattanite, you actually will be in proximity to a fair number of poorer people. But I find on average, Manhattanites tend to think the world comes to them. And I suspect this is a delusion of sorts.
+
+Yes. So people say Silicon Valley’s a bubble. Maybe, but people in Silicon Valley don’t actually think the whole world comes to them. They realize they’re in a very special part of the world. And I think if Manhattanites would realize that more, they would then just leave Manhattan, if only to the other boroughs. Try Staten Island, right? Don’t go to Paris, don’t go to London. Try Staten Island, West Virginia, somewhere like Macedonia. And don’t think all these things are already coming to you in Manhattan, because they’re not. You’re getting a super filtered version of it. And you’re just seeing more Manhattan. Nothing wrong with that. I love Manhattan, grew up in New Jersey. But a lot of remedial work probably needs to be done.
+
+Tim Ferriss: What are you working on personally right now? Are there any particular problems or personal development objectives that you’ve set out for yourself?
+
+Tyler Cowen: I’m writing a new book. And it’s on what do the social sciences know about spotting and evaluating talent? And I have a project, Emergent Ventures, you referred to before, where there’s a fund of money I give away to individuals who are talented. Or I hope they are talented. So really just trying to get better at that, and trying to get better at communicating what I know or think I know to other people. And that’s very hard. There is no single really go-to source on how to evaluate talent. People who have not yet succeeded, but maybe they will.
+
+Tim Ferriss: I’m just pausing to think for a moment here. What have you learned about interviewing? If you look at, let’s just say, from either pre podcast to right now, or first few episodes of the podcast to right now, what have you learned about interviewing or how have you improved as an interviewer? And you can interpret that however you like because there are many different types of interviewing.
+
+Tyler Cowen: I’m not sure I’ve improved. Hard for me to say, but I think getting people to talk about what they do, actually do, tends to be good. Getting people willing to be weird, getting people to be conversational, getting people to be engaged and passionate. The worst question is, please tell us about your latest book. I try to start with something super specific, something they’re shocked that I might know about them, and then just dig deeper.
+
+Tim Ferriss: How do you get them to be willing to be weird?
+
+Tyler Cowen: Most of them are weird to begin with, right? So that’s a big force on your side. Being weird yourselves relaxes the environment. It makes it non-threatening. Just signaling you’re not there to screw them over, that you want to be there to be weird with them, and that you’re actually doing this because you enjoy it. And usually, it works. Not always. Some people just clam up. They think they’re going to get a government job someday. Try not to have them on.
+
+Tim Ferriss: What does weird mean to you? How would you define weird?
+
+Tyler Cowen: In a sense, it’s the weird that is truly normal. It’s how people actually are, what they really care about, think about. So in a sense you’re getting them out of the weird. The weird is the stage presence we put on, and all the puffery and unwillingness to say what you really think, because my confirmation hearing, whatever. So once you stop seeing the weird is actually weird, I think that’s also a help. It’s like, this is natural, let’s just do it. And most people respond to that, I think. But you do many of these yourself, right?
+
+Tim Ferriss: I do. I’m not convinced I know what I’m doing either. I somewhat selfishly have surrendered to following personal interest in interviews, with the assumption that if I find it interesting, I have at least a guaranteed satisfied audience of one person. But I think I have a very particular personality that then imprints my approach to asking questions. But I’m okay with that. I don’t have a desire to be anything other than who I am at the moment, when it comes to asking questions at least.
+
+Tyler Cowen: Yeah. Never have a guest on you don’t care about, right. That’s a good rule.
+
+Tim Ferriss: It is a good rule. What other rules have you developed, if any?
+
+Tyler Cowen: You mean in podcasting? Converse and just get to the point immediately. The old saying, personality is revealed on weekends. I think you present a version of that in one of your books. What does the person do on weekends? Probably the same as what they do on weekdays, but bring out that side of them, right? I’m just asking the person in essence, “What are your open browser tabs right now?” It’s one way of getting at who they are and the browser tabs don’t lie, right?
+
+Tim Ferriss: Yeah, that is a great question. That is a really great question. So part of the reason, not surprisingly that I might be asking this, is so that I can borrow and use in the future, but the future is now. So here we are, a few seconds after you just said that. What are some of the open browser tabs on your computer?
+
+Tyler Cowen: Twitter is always open. WordPress for blogging is always open. Several sets of email, always open. WhatsApp, always open. And then right now I will have typically five or six tabs to specific articles which at the moment are all coronavirus. That’s atypical. Usually they’re more varied, but right now there’s two big stories. There’s the election campaign season, which I hate following and don’t really write about, and coronavirus. So it’s going to be coronavirus.
+
+Tim Ferriss: What are you reading about coronavirus? This is of great interest to me. I’ve been tracking it very closely for a few weeks. And I know this is topical. But I do think that in a sense — there’s a parallel to the expression, and I’m going to butcher this and I’m afraid I don’t know the attribution, but that adversity doesn’t build character. It reveals character. And I do think that with the, let’s call it threat on one hand, panic on the other, and they’re not totally separate. Everything going on with coronavirus. The challenges of parsing good from bad information, reliable from unreliable information. Many of the frailties in thinking or logic or meta-rationality that otherwise would go somewhat unnoticed day to day are becoming much more pronounced in a lot of people. And many of them and maybe present company included, are not aware just how those things are manifesting. So what are you reading and how are you thinking about this particular coronavirus?
+
+Tyler Cowen: We’re speaking in very early March and it seems to me there are several distinct episodes. One is Wuhan. There’s other parts of China, there’s South Korea, Japan, Singapore, northern Italy, Washington state, Princess Diamond cruise ship. And the different numbers from these separate locations, they don’t really add up.
+
+Tim Ferriss: No.
+
+Tyler Cowen: So I’m treating it like a Sherlock Holmes puzzle. How do we make sense of all of these collectively, comparing them to each other? So yes, of course there are data mistakes, but what’s your theory of data mistakes where they all fit together? And I still actually don’t find a way of making it add up. So I’m trying not to approach it as a lecturer, telling everyone, do this, don’t do that. Wash your hands. Probably good advice. But as a kind of puzzle, and to stay open about it and see what it brings me. And also see which of the responses are the best ones. So far, Singapore is looking quite good, but there’s plenty of play left, so to speak. And the United States, it seems, has let the coronavirus get into its healthcare system. And it did nothing about it for six weeks in what could end up being really a huge crime of omission.
+
+Tim Ferriss: Yeah. I’m struggling with where to go with this, because I recognize we have a large audience listening. How do you currently plan to increase the resolution on those puzzle pieces or to continue informing yourself in such a way that the picture becomes clearer and not more difficult to make out. How do you think about information consumption?
+
+Tyler Cowen: There’s more data every day and I will write out the puzzles as I find them and try to think them through as I write them out and then get feedback and I’m not sure where all arrive with this. One hopes, of course, it just goes away and the puzzles remain that, puzzles. At this point that seeming a bit less likely than it had been, so I’m afraid to say I think we’re going to find out more than we want to know. I’m not really worried about that. If it all remains unresolved, I can just go away and celebrate.
+
+Tim Ferriss: Right. Aside from, for instance, Johns Hopkins has a very good daily newsletter, which I would consider reasonably uncharged politically speaking. You had mentioned someone on Twitter who you follow, and I’m blanking on the name.
+
+Tyler Cowen: Helen Branswell, she’s public health in Toronto.
+
+Tim Ferriss: How do you spell that last name?
+
+Tyler Cowen: It’s B-R-A-N-S-W-E-L-L, I believe.
+
+Tim Ferriss: Are there any other particular sources of information or other people you are following who you find to be reasonably level-headed about how they’re approaching and analyzing this?
+
+Tyler Cowen: There’s four or five. I don’t remember their Twitter handles by memory, but they’re in the list of people I follow. If you just go through that, it will be pretty clear which ones they are.
+
+Tim Ferriss: Okay, great. 
+
+Tyler Cowen: What I find by being out there writing about it in an open, non-hysterical way, I’ve just sent a flight of useful information and that’s arguably my main source. I don’t mean to say I trust it all, but you cross-check and you think and then you talk to people you know and you get a bit further.
+
+Tim Ferriss: Why did you, well, I’m also assuming then that this was your initiative, but why did you choose to create Emergent Ventures? How did that come about? You have a million projects, why have another one and why this one?
+
+Tyler Cowen: There’s a whole world of philanthropy out there and I think it’s one of the least well-functioning sectors of the American economy. You can’t blame it on government, it’s not that heavily regulated. So much of it is bureaucratic and risk-averse and people doing the same things and I thought, let’s go back to earlier models of giving from the Renaissance or the 18th century where in essence there was no bureaucracy, one person who says yes or no. We don’t ask anyone for a vitae, we don’t ask anyone about credentials, “Do you have a PhD?” Whatever. It’s basically 1,500 words: “Tell us who you are and what’s your story and what you’re going to do.” People can use that space more or less as they wish. We asked them, “Tell us one value that you consider to be of value.” We have that question and we’ve now had about 80 winners and we cut them a check, in essence.
+
+Tim Ferriss: How many applicants are you vetting those 80 from?
+
+Tyler Cowen: I think it’s about 800 now. The rate of good applications is reasonably high. Maybe I’m lowering it just by talking about the program. But we’ve had, even though it’s only about a year and a half old, we’ve had people go on to start companies, successful ventures, people end up in high positions in governments. A lot are just travel grants for young people, people who are say from ages 15, 16 up to 20 who get to meet mentors. I hope it’s changed the course of their lives. Those are often travel grants to Silicon Valley, but it can be anywhere really.
+
+There’s two researchers at Dartmouth. They’ve created a kind of Wikipedia-like structure that now contains data about every Indian village, in essence. Not every village is filled in, but we have the capacity to create and store and use demographic data about every Indian village. This is a not-for-profit venture. I think it will greatly improve public health and policymaking in India in the future. There’s a fellow who is starting a charter city in Zambia with Zambians. So many exciting things going on there. Young Indian woman, I think she just turned 18, starting a bus company. She’s raised really quite a bit of venture capital.
+
+For me it’s a very exciting, rewarding thing to do. I’m paid nothing to do it. The evaluator is me. There is no panel, there’s no bureaucracy. It’s thumbs up or thumbs down. I think far, far more philanthropy should work this way.
+
+Tim Ferriss: What will success look like or how do you, and it could be just a subjective feel, but how do you determine whether this program has been successful over what period of time?
+
+Tyler Cowen: So many people in philanthropy obsess over measurement and they end up tending to do the same thing. I’m actually at my margin, somewhat anti-measurement. I don’t want everyone to be anti-measurement, but my view is if I need to measure, you failed, right? If I supported Malcolm Gladwell when he was a kid, well, could I then measure how many books he sold? I could try, but it’s like, come on, it’s Malcolm Gladwell. If you need to measure, you failed. That’s my simple rule. You know, we’ll see. I may never know.
+
+Tim Ferriss: Well, of all of the many, many, many, many, if you look at rather, the posts you’ve put out, the classes you’ve taught, the books you’ve written, what are some of the views that you currently hold or still hold or perspectives that are most controversial, would you say? Meaning they seem to kick the hornet’s nest wherever that hornet’s nest may be. What are some of the views or beliefs that are most controversial?
+
+Tyler Cowen: You know, in the world of 2020 where the two leaders of the two parties at the moment seem to be Donald Trump and Bernie Sanders, I no longer know what is a controversial view, in fact. I used to know what my controversial views were. I think in general we should do much more to boost the rate of economic growth, devote fewer resources to the elderly and much more to the young and take more chances and travel more and learn other languages and be much, much more interested in foreign cultures. I’m not sure those are controversial. They’re obviously not controversial with a sliver of a particular demographic, but I’m not sure many people really mean them either. Maybe my most controversial view is it’s no longer clear what our controversial views are.
+
+Tim Ferriss: I would love to ask you because it’s a, I think, easy to be intimidated by how much you do and certainly seemingly do very, very successfully. You’re able to digest non-fiction pages in seconds and aggregate data from disparate sources into coherent blog posts that influence millions of people ultimately and so on and so forth. I’d like to try to offset that with a discussion. Doesn’t have to be long, but a discussion of a tough time or a failure that you’ve experienced and specifically if there is a favorite failure that comes to mind, meaning a failure you experience, which was very difficult at the time or just a dark period that somehow set you up or contributed to greater success later, if that makes any sense.
+
+Tyler Cowen: Yes. You know, I feel I’ve been very fortunate in life and I think I have about the most even temperament of anyone I know. I literally don’t have unhappy days. It would be hard to say I’ve had zero in life, but I think I’m almost weirdly never unhappy in a way that’s good for productivity, but maybe almost inhuman and to be a little bit feared or looked down upon or not thought well of. I think that’s a better way to think of me than to hear my story of failure. A few years in graduate school, yes, I felt pretty lonely. I didn’t have a girlfriend. I was like a nerdy kid. That was bad for me. I mean, that would be the best I could do and that’s so cliched and kind of pitiful. I don’t know the big life setback tale. I’m not sure what that’s supposed to be.
+
+Tim Ferriss: Well, that’s your answer.
+
+Tyler Cowen: That’s a weird answer, but it’s weirder than it sounds, I would just say.
+
+Tim Ferriss: Have you always been even-keeled in that respect? Is it just out of the womb that was your programming or is that something that you developed over time?
+
+Tyler Cowen: Both. I think that was my natural inclination and just as you mature, you become more that way. But I’ve always felt pretty happy. I suspect my peak happiness is well below that of most people. Hard to prove that or measure that, but intuitively when I see people very, very, very happy, it’s quite strange to me. I feel, “Gee, I’ve never felt this,” but same when people are depressed, so I think my range is compressed in an unusual way.
+
+Tim Ferriss: If for many people they strive to feel happy or perhaps more accurately to not feel unhappy, and much of their decisions, many of their decisions and behavior are kind of governed or driven by that, are there any feelings that you prefer not to feel that come to mind? I mean is there something for you that is analogous to unhappiness for other people?
+
+Tyler Cowen: Well, I feel guilty about my numerous shortcomings when it comes to behavior. For instance, I think to eat animals raised under terrible conditions is wrong, but still, mostly I do it. I’ve tried to improve. I’ve improved somewhat, but I’m reminded of that regularly by what other people do are right. I just think that’s wrong. I think I fall short. I guess I, at this point, I have to conclude I’m too selfish to change it, so I feel bad about that. But it mustn’t be that bad, right? I feel bad that I don’t feel worse about it as well.
+
+Tim Ferriss: Got it.
+
+Tyler Cowen: You could always do more for charity, right?
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: That’s another, it’s like never enough is it?
+
+Tim Ferriss: For people who wanted to develop a greater, a higher level of equanimity, basically if they said, “I want to train myself in some fashion to be more like you, Tyler. Insomuch as I don’t experience at least the acute lows that perhaps I experience.” Would you have any recommendations for those people? Are there any particular, any particular suggestions, reading resources, anything whatsoever that would come to mind that you’ve seen help other people?
+
+Tyler Cowen: Well, I’m not going to say, “Go read the Stoics.” I mean, Ryan Holiday can tell you that — 
+
+Tim Ferriss: No, Ryan’s got that covered.
+
+Tyler Cowen: But I feel a bit of the people in that position, it’s like they want to kind of talisman, almost like a voodoo object. I don’t know if they really want to be more detached and dispassionate or they just want the talisman and maybe my advice would be to think through, “Do you just want the talisman?” That’s fine. Don’t feel bad about that. But there’s a really cheap and easy way to buy the talisman. Buy one of my books, read my blog. That’s free. Pat yourself on the back and go away and forget that was your original motive. If you really want to do it, I don’t know. Probably the fact that you’re asking is a signal that it’s somewhat more in the talisman direction.
+
+Tim Ferriss: Well, could you elaborate on what you mean by talisman?
+
+Tyler Cowen: Emily St. John Mandel just tweeted, I think this morning, that there’s this risk of a pandemic with coronavirus and she wrote a novel about a pandemic that is really truly horrible, kills most people in the world, and she can’t understand why her book is selling so many more copies now. I suspect people want to buy it as a kind of protection against the worst-case scenario, like they feel they faced up to it, they own it a bit, they control it. I think I used the voodoo analogy a bit earlier and thus they’re a bit safer. We sometimes use comedy this way or see horror movies for similar reasons and that’s a talisman. You do it for a complex psychological reason to process an idea and be done with it and not necessarily to really incorporate what’s there and that’s fine. I don’t think we should look down on that, but you know, if someone asks, I’m going to say, “Is this a talisman or do you want the real thing?”
+
+Tim Ferriss: Well, what would distinguish those two within the context of the question I’m asking? I will, just because you brought it up, mention for instance, the Stoics. I do think that, and we don’t have to belabor this point, but the fact that I ask about resources, why would that indicate that I want a talisman or I’m seeking a talisman if I have found the regular review and practice of say, Stoic principles, to actually be of great benefit, much along the lines of a cognitive behavioral therapy or something like that? I do think that has impacted how I relate to the world and relate to others in the world, so I would say that that has tremendous practical value. [crosstalk] — 
+
+Tyler Cowen: Sure. I’m pro-talisman, but I think it’s like therapy. There’s two reasons you might go to therapy. One is to feel you did something about your problem and that could itself make you better. The other is your actual conversation with the therapist is useful. Yeah, both operate. There’s nothing wrong with the talisman use of therapy. And with the Stoics, probably both operate. Great. The talisman actually makes the Stoics better, in fact. They’re good for two things, not just one.
+
+Tim Ferriss: Well, I guess I, I’d love for you to just elaborate on why that use that I described is of the talisman variety — 
+
+Tyler Cowen: Well, that could be real learning, right?
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: The version of the talisman use of the Stoics would be that ex-ante, you feel a kind of personal and social anxiety that you haven’t done enough to calm yourself and maybe you’re just never going to be that calm, but your meta anxiety about not having calmed yourself, you can lower perhaps by buying and reading the Stoics. Maybe you’ll forget what they said on a test three years later, but at the end of the day you did something, you went through a process, you had a mastery over some part of your life and you feel better and the anxiety is diminished. I think that happens quite often.
+
+Tim Ferriss: Do you — 
+
+Tyler Cowen: In addition to whatever you learned.
+
+Tim Ferriss: Do you feel like you have such talismans in your own decision-making or behaviors, or is that — 
+
+Tyler Cowen: Oh, of course. Sure. No reason to think I’m any different and a lot of the books I read, maybe it’s I felt some anxiety. “Oh, there’s this book out there, Tyler, you haven’t read it yet,” and I go read it. I’m not saying I learned nothing from the book, but part of the enjoyment is the alleviation of the anxiety, right?
+
+Tim Ferriss: Right, sure. Oh yeah, for sure.
+
+Tyler Cowen: Too many books are like that. I wish more of them had wonderful, incredible content.
+
+Tim Ferriss: How do you choose your guests for your podcast?
+
+Tyler Cowen: Mostly the people I want to speak to and the people I wish to prepare for. There’ll be a lot of economics, some public figures, people who have written novels, just people who know a lot. People who are what I call infovores, people who are intense or curious. It helps if they’re nearby, so I do all of mine face-to-face. A few of them are public events, so just like, “Can this be pulled off?” is a big question.
+
+Tim Ferriss: Where would you — 
+
+Tyler Cowen: Kareem Abdul-Jabbar. That was a dream for me. I watched him, when I was a kid, play basketball and I saw his last game in the NBA. I had a chance to do Kareem. How could I not do that? Trying to get William Shatner now, probably it will fail. I don’t care how old he is. He’s William Shatner, Captain Kirk.
+
+Tim Ferriss: Who are other people on your dream list, on your wishlist?
+
+Tyler Cowen: Brian Eno, the British musician. I had an email forwarded to him and I’m still waiting for him to respond. He strikes me as the kind of guy who might respond seven years after the invite. Most people it’s like if you don’t hear in a week, you figure it won’t happen. This is Brian Eno. He could respond at any time with either yes or no.
+
+Tim Ferriss: For you, we talked a bit about the changes of perspective or changing your mind on anything, and you mentioned, I guess it was regional economics and we spoke about Chile. Are there any new behaviors that have been particularly beneficial for you that you’ve only started in the last year or handful of years? Any particular new behaviors or habits that have had a nontrivial impact on your life?
+
+Tyler Cowen: It’s hard to tell. I’ve spent more time with weights as a form of exercise. I vaguely feel it’s helped. I don’t have any measurement I could cite for you. How have my behaviors changed in the last year? Eating smaller portions of food, which I think has helped. My diet is just eat what you were going to eat but eat two-thirds of it.
+
+Tim Ferriss: Right.
+
+Tyler Cowen: I’ve had the discipline to make that work. You don’t have to fuss over what you’re going to cut out. You just divide by two-thirds and just trying to be kinder to people. Again, I’m not even sure I’m managing to try to do it, but that’s like always a priority or sometimes a priority.
+
+Tim Ferriss: What does that look like, being kinder to people or why did that become something of focus for you?
+
+Tyler Cowen: If you can be encouraging in a nontrivial way, it can really mean a lot to people and it takes several kinds of effort. There’s effort in the moment, but also the skill of how to sincerely have a sense of what would be the encouraging thing to say. It seems to me that’s greatly undersupplied in the world. Like some of the things that are undersupplied are just people telling other people what they’re good at, which happens plenty, but really kind of accurate, incisive. This is what you’re good at and why, greatly undersupplied.
+
+Supplying people, especially younger people, visions of what they could be, greatly undersupplied. But you also want to be better at it rather than worse, so making that more of a priority. In some of the grants I’ve given out through Emergent Ventures to younger people, I’ve also tried to give them a sense of what I think they could be and I suspect that’s more important in some cases than the grant. In a way it’s complemented by the grant. In a way you’re giving the grant so you can package it with this vision and the vision will matter and the grant makes the vision more vivid or more focal, like they believe the vision because you spent real dollars on them.
+
+Tim Ferriss: Yeah, that makes perfect sense. I only have a few questions remaining really on my list, so to speak, but I would love to explore anything certainly that I may have missed. This may sound like a cliched question and I’m sure that it’s not going to be a new one to my listeners, but you think very deeply about a lot of things, if you could put a message, a quote, an image on a billboard, metaphorically speaking, that were to reach billions of people, what might you put on that billboard? It doesn’t have to be super-short, but is there anything that comes to mind if you wanted to impart something, convey something to billions of people, what you’d say? Assuming they all are able to read the same language, of course.
+
+Tyler Cowen: Well, social context is so important for messages. As we just were saying, if you communicate to people a vision of what they could be, it needs to be packaged with some real behavior on your part probably to have impact. I also as an economist, tend to think very often the market works. So if I just put up on a billboard, “Tyler says ‘Do the right thing,’” I’m pretty sure that would be ineffective.
+
+If you look at billboards we actually have, what do you see on those billboards? The billboards I see a lot of them are advertisements for insurance. Some of them are, “Don’t drive drunk.” You see a bail bondsman on billboards and suicide hotlines. I guess I would study the market and pick one of those four things like, “Buy this insurance, bail bondsman, suicide hotline, don’t drive drunk,” after studying the actual market, because I don’t think I have some idea that’s so scarce that if it’s on the billboard with no supporting social context, that it will mean a damn.
+
+Tim Ferriss: Well, if it’s — 
+
+Tyler Cowen: I’d say go with the market.
+
+Tim Ferriss: Well, let’s take a more technologically advanced example. If you could have something pop up on everyone’s iPhone and stay there as the background for a day. Really the point that I’m stretching for here is to getting large numbers of people to consider a statement or a prompt of some type for a period of time. Putting aside the billboard as form factor, is there anything that — you’ve got it, you can choose not to use it, but you have the option of imparting something via the background of everyone’s iPhones for a period of time.
+
+Tyler Cowen: The people with iPhones, of course, I worry about much less. But I would say this, I think the social returns to a religion on average are fairly high. The religion most likely that people would accept in a particular area, I would want the message to be messages about that religion. If it’s the United States that would often but not always be Christianity. Again, that’s not going to work in every part of the world. But I worry families are not having enough children, we’re seeing depopulation population in many countries. Religious families have more children, religious people tend to be somewhat happier, so I would seek that the messages would make people more religious.
+
+Tim Ferriss: Hmm. Yet, you yourself are not religious, but I suppose that is — you wouldn’t choose religion to make yourself happier because you have very few unhappy days, but you yourself are not a practicing religious person.
+
+Tyler Cowen: I’m agnostic leaning toward atheist, so definitely not religious. Was not brought up religious. My parents were not religious. But I look at the data, it seems religion is the most effective way we have of carrying good ideas and at the margin I want to see more of that. I think also I don’t do any drugs. I don’t drink. Some people abuse drugs and alcohol and religion there can help. I don’t have that practical reason for needing more religion also. Let’s say 10 percent of people abuse drugs or alcohol. That’s a pretty high percentage. If you think the truly religious are less likely to, that’s a big expected gain.
+
+Tim Ferriss: Well, this has been very fun for me. Is there anything that we have not explored that you would like to explore or discuss that I haven’t brought up?
+
+Tyler Cowen: How do you restore lost focus?
+
+Tim Ferriss: How do I restore lost focus?
+
+Tyler Cowen: Yes.
+
+Tim Ferriss: I would say cold exposure, exercise, and having a routine that I do not deviate from. Most often for me if I feel a loss of focus, it is either physiological, say it is I’m not eating enough. I am low energy because I’ve had poor sleep for a period of days, something like that. Almost all of which can be remedied by attention to the basic elements of my routine. I would say that, that’s my answer. If I have deviated from routine, if I’m making too many decisions each day, that should be replaced with some type of default answer, what I have for breakfast, what time I’m waking up, where I’m going to write or record, et cetera, that usually, or I shouldn’t say usually, but often contributes to a feeling of being unfocused. It’s when I abandon my routines, some of the elements of which would be default meals and exercise. Also, cold exposure first thing in the morning. Restoring that order usually helps me.
+
+Tyler Cowen: Do you think cold exposure is partly a placebo or talisman or you think cold exposure works?
+
+Tim Ferriss: You know, I — it depends in part what we mean by works. Does it provide a jolt of adrenaline and other plausible physiological changes that seem to contribute to more alertness? Yes, I would say the answer’s yes. Could be a talisman. And if by talisman we really mean placebo effect or the desire to feel that we are doing something to address our problem rather than the actual efficacy of said approach. Sure. I think placebo effect is everywhere. So just as nocebo effect can affect things. But I can tell you that I find it personally helpful, but I do think there are some certainly obvious and then not so obvious plausible physical mechanisms that could improve alertness when you put yourself into 40 degree Fahrenheit water for a period of time.
+
+Tyler Cowen: And do you fear ending up in an equilibrium where you say no to too many things and how do you avoid that, or maybe you just think it’s not a risk?
+
+Tim Ferriss: What type of equilibrium do you mean?
+
+Tyler Cowen: So we all are faced with many demands on our time and we have to learn to say no, give a talk here, visit this, whatever. So we become very good at saying no, but it’s quite easy to say no, once you’re good at it. It’s like, oh an email comes, no, no. And you end up saying no too much and you end up with too little serendipity in your life. In a way you clearly would have had at age 17 or even 23 or maybe 27, but how do you refresh the supply of serendipity and keep the habit of saying no to the things you ought to say no to?
+
+Tim Ferriss: I do that through friends who have broad and diverse social networks and they are known friends of mine publicly. So they have broad social interactions and people will pitch them on things intended for me. I like my friends to feel there is a reputational risk slash gain to making introductions or suggesting introductions. And in using that approach, I have found that the introductions I end up agreeing to provide more than enough serendipity for me and they come highly qualified and highly vetted. So I then rely on a sort of more perhaps systematic approach or more tightly controlled approach to serendipity, which sounds like an oxymoron almost. Versus looking for serendipity, say in my inbox or Twitter feed.
+
+I prefer to be able to opt into serendipity as opposed to feeling like I’m being waterboarded with serendipity. I also get an absurdly high volume of inputs. So that could be reflective as you said earlier, perhaps that I’m making mistakes further upstream, but I’m not worried about equilibrium. I have more than enough intellectual stimulation at this point and of a higher quality signal for me at least.
+
+Tyler Cowen: Do you worry that too many of your friends are highly successful people?
+
+Tim Ferriss: I don’t, mostly because I was only referring to my publicly known friends. I don’t talk about my non-public friends publicly because I think that would be opening them to all sorts of problems that they don’t want to have. And I don’t want them to have. So I don’t worry about that. I have a lot of friends who are on the full spectrum socioeconomically and you were talking about addiction earlier. I mean my best friend growing up was — oh, well, until a few years ago a fishermen very low income and died of a fentanyl overdose. So he would certainly not map from a social or socioeconomic perspective on top of any portion of the Venn Diagram of the public friends that I have.
+
+So I don’t worry about it too much. I also historically travel a lot and have spent time among the homeless in San Francisco, for instance. I actually paid someone to give me a sort of day-long immersion tour of like the underground sort of economics and dynamics of homelessness in San Francisco. As you said, you don’t have to go to Mumbai.
+
+Tyler Cowen: Right.
+
+Tim Ferriss: You can find destitution and poverty and addiction right around the corner if you live in an urban center. There are plenty of things that I would say I worry about. I do think I probably lean towards the worrywart side of things on the sliding scale, but I don’t worry about all of my friends being in one place or being well to do or successful in quotation marks. I don’t worry about that one.
+
+Tyler Cowen: Great.
+
+Tim Ferriss: Yeah. Any other questions? I’m happy to field questions.
+
+Tyler Cowen: What’s your favorite movie?
+
+Tim Ferriss: My favorite movie. I’ve watched different movies for different purposes. I would say that Princess Bride, The Princess Bride is very high up there. I think William Goldman is just a genius screenwriter. A lot of the movies that are my favorites are movies I’ve watched hundreds of times on repeat while writing. Babe would be another one.
+
+Tyler Cowen: I love that. Yeah, those are two of my favorite movies.
+
+Tim Ferriss: What’s your favorite movie or some of yours?
+
+Tyler Cowen: Ingmar Bergman movies as a whole would be my favorite part of cinema. Maybe Scenes from a Marriage being my all-time favorite of those, but just Empire Strikes Back is a favorite movie too,
+
+Tim Ferriss: So good. So good.
+
+Tyler Cowen: It is.
+
+Tim Ferriss: Yeah. It’s a great film. It’s a great film. Amelie, another film I love. Spirited Away would be one of my absolute all-time favorites.
+
+Tyler Cowen: I love Miyazaki movies, all of them.
+
+Tim Ferriss: Yeah. Yeah. Spirited Away I just think has — there’s a lot of metaphor and just beautiful transformation in that movie that I find reveals itself as you watch it more and more. So I’ve watched that movie a lot and those would be a few. Those would be a few that come to mind. And then there are a bunch of flicks you might expect. I like the first Jason Bourne, The Bourne Identity and — 
+
+Tyler Cowen: That’s all, it’s a good movie.
+
+Tim Ferriss: Yeah. Snatch all these movies that I got hooked on a long time ago and haven’t been able to give up. Casino Royale I think is an exceptional film.
+
+Tyler Cowen: You mean the later one not the early David Niven one?
+
+Tim Ferriss: The later one, yeah. The later one.
+
+Tyler Cowen: Yes, that’s good.
+
+Tim Ferriss: But I do enjoy film and fiction as a respite from the problem-solving default. That I think is a constant for me with hyper rumination. And I think that’s very common in people who have suffered from say depression in the past as I have. Fortunately, no major episodes in the last five or six years, which I can attribute to a few things. Talisman or otherwise.
+
+Tyler Cowen: Yep.
+
+Tim Ferriss: Or would attribute I suppose in that case. I think the ability for those people who are prone to hyper rumination, which can often take the form of obsession with the past in repetitive loops in the case of depression or obsession with future scenarios. In the case of chronic anxiety, I think that film and fiction have high medicinal value.
+
+Tyler Cowen: And let’s say you could put your major commitments on hold, somehow freeze time in the life you’re in and take a year off and spend it somewhere. Where would you choose and why?
+
+Tim Ferriss: Does it have — 
+
+Tyler Cowen: And then you’d just come back. We put it on pause and you come back to the life you have.
+
+Tim Ferriss: Yep. Does it have to be one location or can it be multiple locations?
+
+Tyler Cowen: It can be more than one, but you can’t say everywhere, right?
+
+Tim Ferriss: No, it wouldn’t be everywhere.
+
+Tyler Cowen: So it could be well-traveled down the Amazon or, right. That’s multiple locations. It has to be one kind of thing. One plan.
+
+Tim Ferriss: One plan. Okay. If it has to have some theme, I say, I would take a year, ideally with my beloved girlfriend and perhaps a few close friends if possible. To walk some of the pilgrimage trails around the world. So I’ve done a small portion of the Kumano Kodo in Japan.
+
+Tyler Cowen: Yes.
+
+Tim Ferriss: The Camino de Santiago is of interest to me but extended, long-duration walking with a minimum of necessities and material goods for that year with a minimum of inputs I think would be a tremendous way to spend a year.
+
+Tyler Cowen: And how much do you think we’re alike versus being different?
+
+Tim Ferriss: The two of us?
+
+Tyler Cowen: Two of us. Yeah.
+
+Tim Ferriss: Wow. That’s a great question. There’s a sort of an asymmetry of information here because I know less about you than I know about myself. My feeling is that we’re quite similar.
+
+Tyler Cowen: Well, same here.
+
+Tim Ferriss: Yeah, my feeling is that based on — I think we have many shared interests and intellectual interests. I would say that. I think you’re imminently more qualified in speaking on most of these shared interests. But the topic of meta-rationality and metacognition, which I realize are not exactly the same thing but very interrelated. Those are of incredible importance to me and I think about them constantly. So I think our avenues of inquiry and interest are very similar. Sounds like our hard wiring is very different just in terms of like the software that we have I think is very different.
+
+But I like those differences. I think the world doesn’t need more than one of me, that’s for sure. So I really revel in the differences. I would say my impression, I’d like to hear your answer but my impression is we probably have perhaps even more similarities than we realize. I mean, I am a fan of alcohol and one might even say drugs on occasion. So we have that difference. But I think those may be largely cosmetic in some respect. So what’s your impression? What’s your read?
+
+Tyler Cowen: I might be a bit more mono than you are. So something like drugs. If there were a safe way to do it, probably there is. I still wouldn’t do it. I would fear it would distract me from a kind of program I’ve set for myself, although I’m not religious. I think of my mental structure is somehow more like Protestant and mission-driven. I suspect you’re more competitive than I am.
+
+Tim Ferriss: Maybe. I’ve tried to be less competitive over time.
+
+Tyler Cowen: I’ve never tried to be less competitive. Whether or not I should, but I just think I’m less competitive to begin with.
+
+Tim Ferriss: Yeah, that could be true. That could be true. I think that many of my male role models growing up sort of surrogate influences in that domain were coaches and so I think honed much of — well, honed makes it sound all positive. Developed many of my behaviors and predispositions, some I’m sure, I’m aware of and some certainly I am not through the lens of competition and receiving positive reinforcement when I win. So that I think has been a huge blessing and provided a lot from the perspective of achievement. But I do think that conditioning can be very problematic. So I envy you being less competitive.
+
+Tyler Cowen: What do you find of most value in religion?
+
+Tim Ferriss: Well, I think that it’s sort of presumptive for me to say in a sense, because I don’t consider myself religious, but I think of peace of mind with otherwise what would be considered unknowns. So frameworks for making decisions, rules that you don’t have to come up with on your own and an assurance of plans or certain certainties with things like death for instance, which otherwise could be existentially overwhelming to many people.
+
+Tyler Cowen: And you wanted to do these pilgrimages, right?
+
+Tim Ferriss: Say that one more time.
+
+Tyler Cowen: That you want to do while these pilgrimages. That’s wonderful. But it’s striking that, that’s your plan for the year is something almost defined by its religious nature.
+
+Tim Ferriss: Yeah. Well, they are certainly, I think for some people define the pilgrimages are defined by their religious nature. I find religion endlessly fascinating. Though I myself would not self-describe as religious. And I also find that I could perhaps get many of the same benefits of doing that if I walked the Appalachian Trail or one of these other long defined paths. But I like the inbuilt social interactions of stopping at inns or shrines, et cetera with pit stops along the way for reflection. So I would say that I am more a naturalist or if I wanted to stretch and somebody said you have to choose a religion, maybe an animist of some type.
+
+Tyler Cowen: Well Miyazaki, if you love Spirited Away, right. That movie resonates with you for a reason.
+
+Tim Ferriss: Yeah. Right. That I could still find tremendous value in a pilgrimage and contemplate the deep meaning that these paths have had for people during very tumultuous, difficult times or times as all times are of great uncertainty. I find that I enjoy thinking about that even though I wouldn’t sort of, I don’t ascribe to any formal religious group.
+
+Tyler Cowen: I took my daughter once to Santiago de Compostela in Spain. We had a fantastic time and the social resonance of it did truly matter for us.
+
+Tim Ferriss: Yeah. Yeah, absolutely. And not to get too — you can tear this apart, feel free, but I feel like there’s a sort of a residue or an imprint that is made when you have thousands or millions of people traveling the same path that whether it’s just a story you make yourself or otherwise, I’ve found my experiences on those paths to be quite non-ordinary and that could get into some pretty woo-woo hand-wavy territory really quickly. But suffice to say, I’ve had very unusual experiences on some of these pilgrimage paths and I find that intrinsically interesting to explore.
+
+Tyler Cowen: If you think about this interest in pilgrimages, the large number of guests or people written about in your books that you relate to and then also your ability to quickly learn languages and master very idiosyncratic accents in say Spanish and German. I mean do you have a sense in your own mind of how that all fits together? Like what’s your unified theory of you? Because those are three very striking things about you.
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: And maybe you’ve explained them somewhere that I haven’t seen or heard, but this is my chance. So I’m asking you.
+
+Tim Ferriss: Yeah. So we have the pilgrimages, we have the language learning and then the skill acquisition of sort of strange, idiosyncratic, eclectic things like horseback archery.
+
+Tyler Cowen: But I have your book here, Tools of Titans and your other books. There’s so many different people you talk to or correspond with and you manage to enter into their worlds in some way to draw them out, including on your podcast, of course.
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: So that’s a skill.
+
+Tim Ferriss: I would — 
+
+Tyler Cowen: The pilgrimages and then the language with highly idiosyncratic accents done almost perfectly, I might add.
+
+Tim Ferriss: Thank you for that. I — 
+
+Tyler Cowen: But it’s the mix of perfect and idiosyncratic. That’s unusual.
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: And the languages.
+
+Tim Ferriss: Yeah. I would say that if I had to come up with a unified theory of Tim, I’ve never tried before, but I’ll take a stab at it and it might be very dissatisfying. And I appreciate the questions by the way.
+
+Tyler Cowen: Well, this is what I’ve been thinking.
+
+Tim Ferriss: Yeah, yeah, yeah. I think that much like you had certain software perhaps since the beginning that enables you to handle the world with a certain degree of equanimity. I think that my programming from the beginning has made me very sensitive to stimuli. I think that as a kid I was very, very sensitive, not in the pejorative sense that I got upset about things easily, but rather if I were a scale, I wasn’t a pound scale. My senses were more of a jewelry scale or something like that. Jewel scale, excuse me.
+
+So when I was a kid I had some terrible things happen to me and I may talk about those more on a future episode of the podcast, we’ll see. But suffice to say I learned it was safer and better to numb myself and desensitize myself operating in the world. And developed a lot of habits. I think competition was one high pain tolerance related to that. Another that allowed me to kind of bludgeon my sensitivity into submission. So that I could achieve in the world. And I know this is a little long, but I’ll wrap it up.
+
+Tyler Cowen: No, this is great.
+
+Tim Ferriss: Which is I think all of the things you described reflect a slow rediscovery and reopening of those sensitivities. And I am definitely at this point, an introvert who can perform for short periods of time as an extrovert. But I find it exceptionally energetically costly.
+
+Tyler Cowen: I have a saying, it goes, introverts make the best extroverts.
+
+Tim Ferriss: Yeah, yeah, yeah.
+
+Tyler Cowen: Because we’re not really putting ourselves out there in a way.
+
+Tim Ferriss: Yeah.
+
+Tyler Cowen: Whereas the extroverts, there’s so much social anxiety involved. It’s like being on camera, being taped.
+
+Tim Ferriss: Yeah, totally.
+
+Tyler Cowen: Yeah.
+
+Tim Ferriss: So I think that that sensitivity would be the unifying, if it’s a unifying theory is just that I have, my perceptual aperture is by nature very wide. I have a very wide perceptual aperture, so I notice things like inflection in Mandarin Chinese or inflection in Greek or Turkish or languages that I might just study for a few weeks while I’m traveling. I notice things that for whatever reason seem to only be noticed by a small percentage of say tourists in those places who are actively focusing on a language. And I can find a walk of a hundred miles, extremely interesting because I notice it’s not dull to me precisely because I notice so many things around me. But there are environments in which, if I’m noticing the details versus using these kind of 2D Simpsons-esque avatars for things, it can be very exhausting. So that’s my best stab at answering your question.
+
+Tyler Cowen: I very much hope you write and talk more about this because I think it would be phenomenal.
+
+Tim Ferriss: Thank you for that. I appreciate it. I expect I will be writing a bit more about it. And what about yourself? I know, I’m just reflecting back a very good question, but I’d like to get some practice. What is your unifying theory? The unifying theory of Tyler?
+
+Tyler Cowen: I think Tyler is quite curious, loves to collect information. I think in a way I’m more an information collector than economist or any other single thing. Very even-keeled, maybe just somehow fundamentally difficult for those reasons. Like hard to relate to. Definitely introverted but sort of always game for the next thing. And I think what I take from religion is this Protestant notion of having a personal project that you’re obligated to see through in a very serious way. That I find quite American and not really found in Protestantism elsewhere or even kind of like the Jewish version of that. I’m not Jewish, but there’s kind of a Jewish version of the American Protestant sense of obligation that I find culturally powerful and appealing.
+
+And I think not somehow being involved or engaged enough is my danger in many things. But there’s a kind of thinness to myself, a kind of versatility that I can grasp onto things or work with different people or make a part of a project work that make me very productive and very flexible. And I can just kind of power through and keep on going and like just not ever stop or feel the need to or need distraction. And when I do art, music, theater, whatever, it’s all piling on. It’s not escape from something I’m doing that becomes too much. It’s like intensification.
+
+So that’s like part of my theory of Tyler, but I’m also convinced like we never know ourselves. Right?
+
+Tim Ferriss: Right. Yeah.
+
+Tyler Cowen: So we really don’t, and that’s part of the great tragedy of life, but it also makes life interesting.
+
+Tim Ferriss: Yeah. It’s part of the great tragedy and also I suppose part of the great incentive to find friends you can sit with who help you to discover more of yourself or develop more of yourself. Not necessarily to compensate for it, being unable to know yourself completely, but being a social creature and engaging with friends more deeply is a relatively new thing in my life. I would say since regaining some of the sensitivities that I’d lost. So I find, in a sense the inability to know oneself completely a wonderful driver to facilitate more of those deep connections with others. At least for me.
+
+Tyler Cowen: That’s great.
+
+Tim Ferriss: Yeah — 
+
+Tyler Cowen: I hope — 
+
+Tim Ferriss: Go ahead.
+
+Tyler Cowen: Go on.
+
+Tim Ferriss: Oh, no, I was just going to say I hope this is just the first of more conversations.
+
+Tyler Cowen: I was going to say exactly the same. So we are a bit more alike than we thought five seconds ago.
+
+Tim Ferriss: I really appreciate you taking the time, Tyler. This has been great and I appreciate you sort of pushing at the edges a bit and making me think which I always appreciate. I’ll be thinking of — 
+
+Tyler Cowen: And I will, in turn, think about this all more a great deal and I hope you do too.
+
+Tim Ferriss: I will. I will and people can find you at marginalrevolution.com. Conversations With Tyler the podcast, which I definitely recommend people take a look at. They can find you on Twitter @tylercowen, and I’ll link to everything in the show notes at tim.blog/podcast for people. You can find it very easily. Is there anything else you would like to mention before we wrap up?
+
+Tyler Cowen: Just to thank you heartily and till whenever.
+
+Tim Ferriss: All right. Thank you so much and to everybody listening and possibly watching. Thanks for tuning in. Watch out for your talismans, work on your meta-rationality, and thanks for tuning in.
+
+
+TAGS
+TYLER COWEN
+	

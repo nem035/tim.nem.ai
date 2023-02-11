@@ -1,0 +1,1096 @@
+
+
+NOVEMBER 19, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Jason Calacanis on Brooklyn Grit, Big Asks, Angel Investing (Uber, Calm, Robinhood, and More), The Magic of Thinking Big, and St*bbing People in the Face but Never in the Back (#635)
+
+
+Please enjoy this transcript of my interview with Jason Calacanis (@jason), an investor in more than 300 startups in the past decade (Uber, Calm, Robinhood, and more), Sequoia Capital’s first Scout, author of the book ANGEL, and host of two podcasts, This Week in Startups and All-In.
+
+
+
+Brought to you by Eight Sleep’s Pod Cover sleeping solution for dynamic cooling and heating, House of Macadamias delicious and nutritious nuts, and LinkedIn Jobs recruitment platform with 800M+ users.
+
+
+#635: Jason Calacanis on Brooklyn Grit, Big Asks, Angel Investing (Uber, Calm, Robinhood, and more), The Magic of Thinking Big, and St*bbing People in the Face but Never In The Back
+
+
+
+
+Tim Ferriss: Hello, boys and girls, ladies and germs. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show. We’re getting close to 700 episodes. Crazy to think. And my guest today, long overdue, is Jason Calacanis.
+
+Jason Calacanis: Calacanis. There it is.
+
+Tim Ferriss: Don’t leave out the second A, folks. He has invested in more than 300 startups in the past decade, who is Sequoia Capital’s first scout and is the author of the book Angel. He also hosts two podcasts, we’re going to talk quite a bit about, This Week in Startups and All-In. You can find them online at Calacanis, that’s C-A-L-A-C-A-N-I-S.com and on Twitter @Jason, because he was an early bird on the Twitter platform. Jason, nice to see you, man.
+
+Jason Calacanis: It’s nice to see you, brother. You and I have random phone calls for an hour or two and I think this is the first time we’re actually recording it.
+
+Tim Ferriss: First time.
+
+Jason Calacanis: The first time we’re actually recording it, which is great. I listened to, I would say, two out of three of your episodes. You’ve had a lot of investors on.
+
+Tim Ferriss: I have.
+
+Jason Calacanis: Somebody’s like, “How come you haven’t been on Tim Ferriss’ Podcast? I’m like, “He’s got so many investors on, what can I add?” I’m sure at some point — 
+
+Tim Ferriss: There’s a lot.
+
+Jason Calacanis: I’m sure. But it is so great to see how well your podcast has done over the years.
+
+Tim Ferriss: Oh, thanks man.
+
+Jason Calacanis: I remember the first time I met you in Tahoe with, I guess Sacca. He was like, “Hey, this is The 4-hour Workweek guy.” And I was like, “Do you know how hard you’re making my life? All these founders? Now they think I work four hours.” I was breaking your chops.
+
+Tim Ferriss: It’s part of the charm. It’s part of the charm.
+
+Jason Calacanis: Good to see you.
+
+Tim Ferriss: It is good to see you. You, I consider a master of podcasting. We’re going to come back to that, because I have some other questions maybe before that. But I wanted to give an example of a great piece of tactical advice. And you actually told me about this before we started recording. QuickTime. So we are both running backup QuickTime audio, so we have extra local copies in case something breaks, because things often break. What was the tactic that you shared? Because it’s so smart.
+
+Jason Calacanis: You load a QuickTime thing and you’re like, “Hey, can you start a QuickTime?” People go, “Oh yeah. My QuickTime’s running.” But then one out of three times, at the end of the show we’re like, “Okay, can you upload the QuickTime?” They’re like, “Oh, I didn’t hit the record button.” So instead of asking, “Can you record a QuickTime?” I say, “How many seconds is your QuickTime running?” And they say, “It’s been 36 seconds.” Now I know it’s running. But the bigger piece is there’s this book, The Checklist Manifesto, you and I are obsessed with, probably part of our kinship.
+
+Tim Ferriss: Atul Gawande.
+
+Jason Calacanis: Yeah. We’re both into tools and optimization. And this book, I had heard Jack from Twitter would give it to every Square employee, give it to every Twitter employee, The Checklist Manifesto. And I make everybody read it, I’m obsessed with checklists, because people forget. And all those great stories in the book about surgeons and pilots were like, “I don’t need a checklist.” And then everybody dies. And then a nurse comes along and was like, “I could just make this little checklist for you and you say something. I say, ‘Okay.’ You say something. I say, ‘Okay.'” And then all of a sudden you could have a plane with four engines because people had more discipline.
+
+Tim Ferriss: And it’s like, “Oh, I know you guys didn’t need this checklist, but we have bacterial line infections down by 39 percent this year.” Go look at that.
+
+Jason Calacanis: People would take a scalpel that was dirty and they made this little device, these little life hacks that are so much a part of what you do. And by the way, super weird for you to tell me that I’m a podcast master because I take notes on your podcast. Anyway.
+
+Tim Ferriss: It works both ways.
+
+Jason Calacanis: They would put a little tent on top of the clean instrument, so a clean scalpel would have a tent on top. And the nurse was responsible for cleaning everything and putting the tents on, so then they knew it was clean. And you take the tent off, now it’s been used. So “Tent on” means “Clean, don’t put the tent on a dirty scalpel.”
+
+Tim Ferriss: Tent off, no bueno.
+
+Jason Calacanis: No bueno.
+
+Tim Ferriss: Now, you can’t believe everything you read on the internet, so please correct me if I’m getting any of this wrong, but either your mom was tending to people in the ER, your dad had a bar, as I understand it. There were times when you would be cleaning blood off the floor from all the brawls and fights.
+
+Jason Calacanis: That’s a true story.
+
+Tim Ferriss: And then raided at one point, I think, by the, I don’t know if it was the FBI, but with — 
+
+Jason Calacanis: Tax authorities.
+
+Tim Ferriss: Tax authorities.
+
+Jason Calacanis: My dad got a little behind on the taxes.
+
+Tim Ferriss: Yeah. The taxes, they sneak up on you.
+
+Jason Calacanis: It turns out the tax authority, they’re humorless. You pay your taxes or you go to jail. And so when I was 18 years old, growing up in Bay Ridge, Brooklyn, which is the last stop on the train, just to give you an idea of how far out there it is. This is the ’70s and ’80s. In 1988, my dad’s bar, after the stock market crashed, he went into basically debt and it was really gnarly. And then one summer afternoon in July, the feds basically and the tax authority came and padlocked the place, took everything out of it, and this close to my dad going to jail, and had one of the great traumas of my life.
+
+And that is one of the things I really appreciate and respect about you is you shared your trauma on this podcast. It’s like a gift to the world. That’s a pretty scary thing when you’re 17 years old and your dad says, “I’m sorry, son. I don’t have money for college, I’m probably going to jail. I tried to make this business work, it didn’t work. Take care of your mom.” Whoa. It’s like that scene when, if you remember in The Empire Strikes Back and Han Solo comes over to Chewbacca, he’s like, “Just take care of the Princess. I’ll be back.” It was really intense. Really intense.
+
+Tim Ferriss: Yeah. Yeah, I bet that’s — 
+
+Jason Calacanis: Crazy. My life just got crazier and crazier after that. So I forged such a crazy childhood that was so violent and crazy and just Brooklyn, when it wasn’t cool, that it made when I went into business, I was like, “I don’t have to worry about somebody jumping me? There’s no violence here? I’m not going to be murdered? I’m not going to jail?” It’s like, “Wow, this is easier.” But I didn’t know that world existed. The only world I knew was the people who hung out at my dad’s bar, the Mafia, the Hell’s Angels, a bunch of cops, some percentage of which were in on the take with the other two groups, and then a bunch of Wall Street people. And so it was like out of a film like Goodfellas. Tim, I kid you not. I would have to go serve espresso to the bookie or the dealer or the head of the Hells Angels. It was bonkers. It just made me really good at dealing with people, I think. And having a certain — 
+
+Tim Ferriss: I would imagine you developed a lot of situational awareness.
+
+Jason Calacanis: Adaptations, right? You get a lot of adaptations real quick when you’re dealing with those different types of individuals. But I look back on it now and I’m like, “Did that really happen?” And then I look back at what’s happening in my life now, and I’m like, “Is this really happening?” So it’s been a pretty surreal life the whole way, I have to say.
+
+Tim Ferriss: If we flash forward a little bit, and we don’t necessarily have to spend a ton of time on this, but Silicon Alley Reporter in the beginning, you’re photocopying it yourself, you’re hand-delivering it to coffee shops and other spots. Did you know or decide you were going into business for yourself to be an entrepreneur? And I ask especially given what you saw happen to your dad. I can see some people responding by going entirely in the opposite direction, getting the safest nine-to-five possible. So how did you end up an entrepreneur?
+
+Jason Calacanis: Having a dad who was an entrepreneur puts it in you. And I had one or two jobs when I was in college. I went to college at night. So I would fix laser printers and build networks. This is before the internet existed, you would have to connect computers together with coaxial cables and create what’s called a local area network. And I did a couple of those jobs and it was well-paying and it helped me pay for college, because remember my dad had no money, so I had to pay for all this on my own. It took me five years to go through school at night. But when I would ride the train in, I would look at people reading magazines and then I would go to cafes, pre the web and mobile phones. And we would go hang out in cafes in the Lower East Side, Bleecker Street, wherever, the Village. When I was at college, we’d go play chess on Bleecker Street or read magazines or free newspapers.
+
+And I just looked at the people who were in the pictures, Tim. And I was like, “Why are they on the cover of the magazine? Why is this person on the cover of Spy magazine? Why is this person on the cover of Paper magazine? Why are people important?” All I knew was nurses, doctors, lawyers, cops, firefighters, that’s all I was exposed to. I didn’t understand there was other stuff in the world. Then I went to school in Manhattan at night and I would work in Manhattan during the day, and I was looking around going, “Who’s that person getting out of that limousine to go into that big, tall building? What’s in that big tall — oh, those are apartments?” It was really weird, like being dropped on an alien planet because Brooklyn was so different than Manhattan at the time.
+
+Tim Ferriss: For sure.
+
+Jason Calacanis: Brooklyn was a bunch of blue collar people, Manhattan were rich people and powerful people. And so something just clicked in my brain and I said, “I want to be powerful, I want to be rich, I want to be on the cover of a magazine.” And I started looking at the magazines and then I discovered the masthead. And I saw the masthead and I said, “Wait a second. Who’s the publisher and the editor-in-chief? Who has more power? Who is this editor-at-large? That sounds more important. But wait, it’s in a smaller font and lower.” And then I started to meet people and I started asking them, “What’s this? What’s that?” And I was at a party and I ran into somebody at Barneys. Somebody had invited me to a party in the basement of Barneys. And I’m talking to this guy and I said, “What do you do?” And he says, “I work at a magazine.” I said, “What magazine do you work at?” He said, “Paper…”
+
+Tim Ferriss: Let me pause for a second. Barneys sounds fancy. How did you get invited to the party?
+
+Jason Calacanis: You know what? I just was hanging out in the downtown scene where a company called Voyager was making CD-ROMs, Blender was making CD-ROMs, a friend of mine, Josh Harris, was doing Pseudo and he was doing online chat rooms with Prodigy. So I was just hanging around with the tech scene there, and it was probably 50 people who were in the tech scene. Because the only thing that existed were online services, dial-up, CompuServe, Prodigy, The WELL. It was just a small set of dial-up services and I knew how to use a modem and I knew about the internet. So started to meet those people, and then those people started to tip over into the media business in New York, because the media business was very attracted to, “You can dial up and read an article?” People started to put these connections together, magazines plus a dial-up service, music plus a dial-up service, booking a ticket to a movie, a dial-up service. And a CD-ROM has a video on it or it has an article, so you could make a CD-ROM with an article end.
+
+So this multimedia thing happened and then I was at Sony setting up their computer networks when the internet happened. And then Sony was going to build a website and so I was on the website team. And the website was a picture of 10 Sony logos, Sony Music, Columbia Records. We literally sat 10 people in a room designing a webpage with 10 logos on it. That was the entirety of the website, it was one page, and then a 12-page legal disclaimer. So this was a very interesting moment in time.
+
+And I said, “What magazine?” He said, “Paper magazine.” I said, “You work at Paper magazine?” And he said, “I created Paper magazine.” I said, “What do you mean you created it? You work at the printer?” He said, “No, no. I’m the editor-in-chief. I’m David Hershkovits.” I said, “Tell me everything.” So I start talking to him. He says, “Why don’t you come by my office, because I’m setting up my dial-up.” And I said, “Okay.” And I go down to his office, which was where Balthazar is now at Lower Broadway. And I help him with his internet, and we’re talking about dial-up services. “You should write a column for us about the internet and this technology stuff.” So I started writing for Paper magazine. And I was this little nerdy kid. I didn’t know how to write, I didn’t know how to spell, I didn’t know how to put a comma in a sentence.
+
+So Christine Muhlke was my editor. She was 20-something years old, I was 20-something years old. I started writing for Paper magazine. And then Hershkovits, he was really getting into the internet. And I remain friends with him to this day, 30 years later. And he would just ask me to come by the office to hang out. I’m hanging at Paper magazine and he’s like, “Hey, you want to go to a concert tonight?” “Yeah, sure.” He says, “We’re going to go to the Roxy. This new band, Chemical Brothers is going to be playing. Orb is going to be opening for them.”
+
+And then we’re in the green room or the VIP room waiting to go on and he’s like, “Jason, meet this woman from Iceland.” And I’m like, “You’re from Iceland. Where is that? Is that Norway or Sweden?” And she’s like, “No, it’s over here.” And just talking really low. And I’m like, “So what do you do?” She’s like, “I have a record coming out.” And I’m like, “Oh, that’s awesome. What kind of music? Is it like these guys?” She says, “No, just I’m a singer.” I said, “I’m Jason.” And she goes, “I’m Björk.” This is New York in the ’90s. It was cool as F. It was the zeitgeist was  crazy. So all of this starts to spiral and I just said, “I need to make a magazine.” And David had showed me the early issues of Paper. And Paper magazine was originally — 
+
+Tim Ferriss: I’ve never heard you censor your cursing before. That was very delicate of you.
+
+Jason Calacanis: It’s a family show, I think.
+
+Tim Ferriss: You can curse. It’s okay.
+
+Jason Calacanis: Don’t tell a kid from Brooklyn to start cursing. Your poor editors are going to be — you just created three hours of editing.
+
+Tim Ferriss: Oh, boy. Search, replace. We have 47 fucks in the first 30 minutes. All right. Good.
+
+Jason Calacanis: 47 fucks given. So anyway, it’s actually fun to remember all this stuff. So he takes me to the archive room of Paper magazine, which was a glossy at the time. And he says, “Look.” It was a foldable thing. I got a foldable piece of paper and I folded it and we would just put it for free in cafes. You know in The Terminator, you see from his view and all the words are going by and he’s just processing everything really fast, that was happening in my brain. I was like, “Okay, wait. Free, fold it, print it. What? Okay. Do this.” And I’m taking all of these instructions. And I literally went to Tower Records, which is a place where they used to sell CDs and records and they had a zine section. And zines were short for magazines, Z-I-N-E, for people who are under the age of 40.
+
+And this was the most punk rock thing you could do, after being in a punk rock band, was to start a zine. And a zine just meant you got your friends together and wrote an article together and then you would photocopy it. So 2600 famously was a zine about hacking in New York. And I had met the founder of that. So there’s a little zine culture going on and I was like, “Huh. All my friends are starting the internet stuff, I’m writing about the internet once a month, I write 400 words, I could write 40,000 words. I can write 4,000 words, whatever.” And people had never been to San Francisco or Silicon Valley, but somebody referred to what we were doing as Silicon Alley. And I was like, “Silicon Alley? That’s rad.” And then I was like, “I should be a reporter about Silicon Alley. I could do a Silicon Alley Reporter and it would just be me reporting on what’s happening here because this is cool. Now, it’s 200 people doing stuff.”
+
+And so I just started a photocopy called Silicon Alley Reporter. And I went up to the Village Printing Shop on 43rd Street and Sixth Avenue. And every time I’m in New York, I like to walk when I’m in New York just to remind myself of those moments in time. And I always walk down that block to see if it’s there. Village Printer, I know it’s still there, a couple years ago it’s still there. And it was 24 hours. And I brought it to the guy and there’s a thing called tabloid paper. Eight and a half by 11 plus eight and a half by 11 equals whatever it is. The 17 by whatever.
+
+And you could take that paper, fold it, and put a staple in the middle and it would look like a newsletter. And so I said, “Okay, that’s the format.” I got PageMaker, I started laying it out, I took pictures, I wrote a couple articles, and I went there and I printed it and he said, “It’s going to be 10 cents a photocopy.” And I was like, “All right. 80 cents an issue, I could do this.” So I go, I said, “Make me a 1,000 copies, 800 bucks, right?” And I’m just going to start handing them out like David Hershkovits did. And I go and he hands me a bill for 1,750. And I said, “Wait, you said 10 cents. It’s eight pages.” He said, “It’s double-sided.” I said, “It’s double-sided.” I said, “I don’t have the money.” He goes, “What do you mean you don’t have the money? I got a thousand copies of Silicon Alley Reporter here.”
+
+And so I start talking to the guy. Now I’m haggling with him. And he’s just the overnight manager. And I said, “Listen, I don’t have the money for this. My credit card’s maxed out. Can you do me a favor? Maybe someday I could do you a favor. I could put an ad in there.” And he’s like, “Don’t tell anybody, okay?” And I was like, “No, I won’t tell anybody.” He’s like, “They got a counter on these things. I could get busted.” And I was like, “I don’t want you to get busted.” He’s like, “I don’t know, man. This thing’s really cool. Just give me 800 bucks.” And I just gave him 800 bucks.
+
+Then I realized, I started to learn a very interesting lesson in my life that when I ask people things, that many times people will do what I ask them to do, like a Jedi kind of trick, but this guy did it out the kindness of his soul. But I started to learn early in my career, you could ask for things in the world, even sometimes outrageous things, and sometimes it happens. And I took them over to Roseland where there was a internet party going on for — Roseland’s a venue, a music venue. And then some electronic music person had played and then a bunch of internet multimedia people were going to be hanging out.
+
+So I walk over there, I had dropped off mostly issues at my little office I had. A little office-share. And then I took 200 of them in my backpack and in my hands to the party. I get to the party at 1:00 in the morning, and I just start handing them to people. And I had this moment of clarity in my life. People started coming up to me to get them. And then I turn around and I look at the party, which was popping off. And every single person has the magazine open, the zine open, the photocopy, and is reading it with two or three people around them. The entire party stopped.
+
+Tim Ferriss: So what did that feel like? What happened to you when you saw that?
+
+Jason Calacanis: Power.
+
+Tim Ferriss: Oh, okay. Tell me more.
+
+Jason Calacanis: I got the power.
+
+Tim Ferriss: You got the power. Tell me more.
+
+Jason Calacanis: Remember I said I had no power as a child, and they take your dad’s bar? We’re going deep into the trauma work here. Listen, I consider it a privilege to be on here and you’ve shared a lot and if this helps other people, but when you don’t have power and you’re a kid and you live a scared life, which I did, and then all of a sudden the entire party in Manhattan is in the palm of your hand and something you created has stopped everybody dead in their tracks, the adrenaline and the confidence, it felt like all of a sudden Superman figures out when he reaches into the fire to get something he dropped and it’s like, “Oh, the fire doesn’t burn me? Whoa. I can fly?” Just these incredible wings sprouted. And I was like, “Wait a second. I could be an entrepreneur. I could do something in the world.”
+
+And the next day I was at it. My phone was ringing, people were calling me. And then I just made a set of postcards that said, “Subscribe to The Silicon Alley Reporter. 10 issues a year, $90.” And I had seen Esther Dyson charged $1,000 for her newsletter. So I was like, “She’s Esther Dyson. So if I charged 10 percent, maybe that’s the same thing.” Esther Dyson was this famous Angel investor. When I went out, if I didn’t have the magazine on me, I had the cards and I’d just hand the cards. And then within two or three months I would get to my office-share and there would be a stack of envelopes and it would be 20 people sent me $90. It’s $1,800.
+
+Tim Ferriss: Mailbox money. What a feeling.
+
+Jason Calacanis: Every day, $4000, $6,000. And all of a sudden there was 30, $40,000, people subscribing. And it was like the Kevin Kelly, “You only need 2,000 true fans.” And then all of a sudden I was like, “Wait a second. I can quit my jobs. I can do this. I’m David Hershkovits and Kim from Paper. I did it.” And I was like, “Whoa.” And this all happened within 60 days. From a nobody trying to get into a party to meet somebody, to all of a sudden every CEO and person trying to meet me. And it was basically, this all of a sudden becomes the Sliding Doors moment of your life. Some random occurrence happened, I meet David Hershkovits at a party. I get this guy to print out the things, I go to that party and drop them off, and all of a sudden I’m important.
+
+But remember, I wasn’t covering tennis, I wasn’t covering wine, I was covering this new thing called the internet when the browser didn’t support graphics. So the timing was so insane because the intern — you talked about this Forrest Gump thing, now that’s a problem. This is going to stick. Everybody’s going to be like, “I guess life is like a box of chocolates, Tim.” I just turned into the Forrest Gump of the internet industry, it’s going to stick forever. I’ll take it. I’ll take it. Forrest Gump had a great life.
+
+Tim Ferriss: Yeah, yeah. He did. He did.
+
+Jason Calacanis: That was the start of a great life for a very simple man.
+
+Tim Ferriss: I’m so glad we’re talking about the early days because, of course, I had no idea of a lot of this stuff.
+
+Jason Calacanis: But you had the same thing. Nobody knew who you were, you were some guy and all of a sudden this 4-Hour Workweek goes from — you got paid nothing for that book and then all of a sudden — wasn’t it the same exact experience?
+
+Tim Ferriss: It was similar. It was similar. Yeah. It was very similar. I remember when the book came out and I got a call from my editor, Heather Jackson, at the time. And she said, “Why, hello, Mr. New York Times Bestselling Author.” And I had just finished a day of radio satellite tours, which people did back in the day. They may still do them. And I’d had two pots of coffee and I was just exhausted. And I sat down on the floor and I said, “Heather, don’t fuck with me. I’m too tired.” And she said, “I’m serious. No, you made it. You’re 15 on the extended list. Not in print, but you’re on the list technically.” And I thought, thought to myself, “Oh, wow. Things are about to change. Things are about to change.”
+
+And all of a sudden, let’s call it within the next few weeks, it kept growing and then it stayed on the print list for, I want to say, four years plus unbroken. And in the beginning, I started getting these calls asking me to speak, offering to pay me for keynotes. None of this had happened before and it was — 
+
+Jason Calacanis: Mind-blowing.
+
+Tim Ferriss: — bewildering. Yeah. Very bewildering.
+
+Jason Calacanis: The speaking gig is an interesting moment because you work your whole life, you make 30 grand, 40 grand a year, and then this kind of stuff happens to you. And then somebody calls, “Oh, Tim. Would you like to come speak at this corporate thing?” And you’re like, “Why would I speak there?” “Oh, well, your book.” And you’re like, “Okay.” And they’re like, “Of course, we’d like to give you an honorarium.” And you’re like, “Okay.” And they’re like, “And it’s $30,000,” or “40,000.” Whatever. And you’re like, “That’s what I made last year.”
+
+Tim Ferriss: Come again? Come again?
+
+Jason Calacanis: “$3,000?” “No. Add a zero, 30,000.” And you’re just like, “That makes no sense.” And they’re like, “It’s going to be two hours of your time. We don’t want to put you out, Mr. Ferriss.” And you’re like “Can I do it tomorrow too?” It is a mind-blowing experience. I’ve literally just had one of these come in today, some corporate gig. Because All-In‘s gotten so popular, all of a sudden now people want me to speak at a bunch of stuff again. And it’s just the numbers are mind-boggling. And you’re just like, isn’t it very weird how you can go from being an absolute nobody to somebody wanting to give you tens of thousands of dollars to speak for an hour? That really screwed with my mind a lot. Also, because I had a lot of feelings of guilt and stuff about my parents. And I was like, “You’re offering me a speaking gig, which is what my mom or dad made in a year.”
+
+Tim Ferriss: In a year. Yeah. It’s weird.
+
+Jason Calacanis: You also had this — 
+
+Tim Ferriss: Same situation. So weird.
+
+Jason Calacanis: It really does screw with your head and it’s very hard to stay grounded or figure out what’s actually happening, right?
+
+Tim Ferriss: Yeah. Let’s talk about another “Holy shit” moment. And this is January of ’99. You’re offered — 
+
+Jason Calacanis: You’ve got all the moments.
+
+Tim Ferriss: — 20 million, I believe.
+
+Jason Calacanis: It’s a true story.
+
+Tim Ferriss: I’m reading here, this is from Fast Company and it talks about your interaction with — 
+
+Jason Calacanis: Alan Meckler.
+
+Tim Ferriss: I think this was with I think Douglas Rushkoff.
+
+Jason Calacanis: Oh, Doug Rushkoff. My friend in New York. That was another guy who taught me so much. I love Doug.
+
+Tim Ferriss: Walk me through getting this offer, the conversations you had, the decision you made, and then if anything you take from that to this day, if you wouldn’t mind.
+
+Jason Calacanis: The magazine had gotten very big and it became a color glossy. I had almost a hundred people working for me. It was 300 pages and it was during the dot com boom. Talking about 1999 now. So the magazine is doing six, seven, eight million a year. I had done an event or two that started making two or three million. So now I’ve got an $11 million company, I built up my credit cards and I was making, just a couple years earlier, minimum wage to work in the computer room at Fordham, which was $3.50 an hour. And then I was fixing laser printers for $9 an hour. And then I got a job at Amnesty International doing their internal network for $12 an hour. So all of this happens in a very short period of time. And again, for a poor kid from Brooklyn, I’m just trying to navigate it.
+
+And this guy, Alan Meckler had internet.com, he took it public, it became worth a billion dollars and he offered me 20 million bucks for Silicon Alley Reporter. But it was my identity and it was making 10 million. And I was like, “I don’t want to give up my identity.” But I thought about it, I said, “If I can clear a million or $2 million a year off the magazine in profits, it’d be the same amount of money. So maybe I wouldn’t do.” And then the dot com bust happens and I lose everything. And I wound up selling the scraps of the business to Dow Jones. And they give me two years of salary and the magazine’s dead. And I get two years at $300,000. It’s maybe five or $600,000 in this employment agreement. And they paid off all the bills because I then had, like my dad, I was in arrears when the magazine collapsed.
+
+If you’ve got a magazine about the internet and the internet collapses, literally not only — 
+
+Tim Ferriss: Tough business.
+
+Jason Calacanis: — not only did I not have any money, all the money that was owed to me never showed up, because all the companies had gone out of business. So I was like, “You owe me for three ads.” They’re like, “Phone number didn’t pick up.” The company was shut down. And so then I show up for work at Dow Jones and they say, “Hey, can we take you for a walk?” It’s middle manager guy. And I’m like, “Sure. Walk? Okay, sure. We’ll go for a walk.” We walk. “Hey, listen, you’re so talented. We don’t think — you being here and you’re so talented.” And I’m like, “Yeah?” And they’re like, “So you should go do something else.” And I’m like, “Are you firing me?” And they’re like, “Yeah, we don’t need your services.” I said, “You just bought my company and the 20…” I had 20 people left and I reassigned them to this other venture capital thing they were doing.
+
+And I said, “You don’t want me, Jason Calacanis, the Silicon Alley Reporter, to work here?” They said, “No.” I said, “I just signed a contract with you for five or $600,000.” They said, “Yeah.” And he pulls out an envelope and he hands me a check for $500,000. He says, “We’re paying out your contract.” Tim, you’re the first person I’ve told these stories to really. This is literally the crazy life I’ve lived. And I am looking at a $500,000 check, which is a extraordinary amount of money, obviously. And the only thing I can think is, “I want to beat the shit out of this guy. You just fucking fired me? You don’t want me. Who went from being a nobody to running New York, being on Charlie Rose, being on the cover of The New York Times, having a New Yorker thing being written about me, just living the peak New York experience.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Living in a loft in Manhattan, sitting in the first three or four rows of the Knicks games, hanging out with Allan Houston, the number one star on the Knicks of the time. I mean I was living it, the peak. And then overnight boom, everything’s gone. I got a 500k check in my hand and nothing. Nobody wants me. And I got so — the rage that I felt in that moment was Hulk-like rage. I was a berserker. The samurai armor, just took the sword out and I was like, “I am going to prove I can do this again. I am going to show everybody that this was not a fluke.” It made me — I’ve never felt more rage in my life, I don’t think. And I’ve been in some pretty big brawls. And so then I just went and I took the money and then I just went back to my, I got an office and the next day I said, “I’ve got to build something. I’ve got to build something.”
+
+Tim Ferriss: The next day.
+
+Jason Calacanis: The next day I was like, literally got an office share with my friend’s office. I said, “Can I — you got a desk?” And it was like that blank sheet of paper in 2000, 2003. “I’ve got to figure something out. What’s next?” And I just started making designs on whiteboards — 
+
+Tim Ferriss: I was going to ask, that day, how do you even begin with such a blue sky — 
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: Blank page. How did you even start? Were you just pulling from random bits and pieces floating around? Did you have some approach?
+
+Jason Calacanis: Approach? I started calling people up. I started calling people up, “What are you working on? What’s happening?” And then this one person was making this photosharing site, Flickr. Another person was doing a bookmarking site called del.icio.us. There’s just this little underground of people who were building stuff for the web because the web had gotten advanced now in the second decade.
+
+And it do — the webpages could refresh themselves with Ajax and there were kind of tables, it became more responsive and there were all these new technical things and editorial formats people were playing with. And I was like, “Huh, who’s doing anything?” And then there was this one group doing journaling on the web. There was another group that was trying to do photosharing and follow your friends. And I’m just like, huh. And then I had somebody who had worked for me named Rafat Ali and he had started a blog — 
+
+Tim Ferriss: Let me interrupt for one second. So the reason you’re calling these people is not because you want to work with them on what they’re doing necessarily or was it? Or were you just trying to get read of the landscape?
+
+Jason Calacanis: No, it’s literally just trying to network with people who I had known and I was literally asking people, “What’s going on? Is anybody doing anything cool?” And I just started looking for people doing cool projects just to see what was going to happen after the dot com bust because everybody quit and everybody went and got jobs at big companies.
+
+Tim Ferriss: So you’re trying to get a read of the playing field to see where the pucks might be going next?
+
+Jason Calacanis: Exactly. Is there anything interesting — 
+
+Tim Ferriss: I’m mixing my sports metaphors, but you get the idea. Yeah, I’m talking about field hockey everybody. Yeah. Yeah.
+
+Jason Calacanis: Let’s just say Tim Ferriss, when he learns a sport, it’s wild to watch. Watching him first learn a sport is hilarious because I taught him how to do a layup.
+
+Tim Ferriss: It is. It is funny.
+
+Jason Calacanis: Taught him how to dribble basketball, it was hilarious. That’s another story.
+
+Tim Ferriss: It is funny. And also if you learn a sport with J Cal, you are going to have to listen to so much shit — 
+
+Jason Calacanis: I’m going to torture you.
+
+Tim Ferriss: He will torture you at every opportunity. Yeah.
+
+Jason Calacanis: Watching Tim Ferriss go from being a perfect fencer or perfect yoga in negative a hundred degrees and then he tries to dribble a basketball, it’s literally like looking at a drunk person with a blindfold on.
+
+Tim Ferriss: Oh yeah.
+
+Jason Calacanis: But to your credit — 
+
+Tim Ferriss: True story.
+
+Jason Calacanis: I watched you learn how to do a layup and I gave — you asked me like three or four questions and you went from looking like you were blind and drunk to all of a sudden doing a layup in under three minutes perfectly. And I was like, yeah, that’s Tim Ferriss’ gift. He knows how to ask the right questions and I’m watching you process. It was actually impressive.
+
+But anyway, it was one of those moments where you’re like, “What’s next in the world?” I was just trying to figure out what was next. So I was just — because also so many people were out of work that if you couldn’t get a job, you kind of just started tinkering. Which is kind of how multimedia started. So it was like, I’ve seen this before. Technology keeps going, people are starting to tinker. And Wi-Fi had come out at that time, I was very fascinated about Wi-Fi and I was thinking about Wi-Fi routers and putting Wi-Fi in places and maybe you could have internet in cafes and stuff.
+
+It was just all kinds of crazy little ideas. And I started whiteboarding stuff. I started — Kozmo had gone out of business, the delivery service. So the first idea I had was for Mercury Club. And I was going to get a hundred New Yorkers and give them Mercury Club number one, two, three, four, five, all the way to a hundred. I was going to give one to Charlie Rose, one to Howard Stern. And my idea was to get a bunch of people on Vespas, because I had gotten a Vespa and I was driving around New York and I realized, because I had driven one in Barcelona, I was like, this is the way to — if you’re in a city, a bike’s too slow, a car’s too slow, and a Vespa goes fast because you can just weave in and out of traffic. And I had seen Kozmo had started experimenting with Vepsas and I said, “I’m going to create a service where you pay a hundred dollars a month for rich people and you get four hours of deliveries, 25 bucks an hour.”
+
+This is when minimum wage was six or seven bucks. But this is only for rich people. And if you needed a bottle of wine or pack of cigarettes, whatever, you would just call an 800 number. Because 800 numbers were another platform, they became zines for a while. 1-800-FLOWERS, 1-800-MATTRESS, 1-800 everything. And so I started looking into buying a 1-800 number because I was just always very interested in mediums, right? Because if you get to a medium first, you can exploit it. Whether it’s podcasting like you and I did, or blogging like I did and you did, I think, or zines.
+
+Tim Ferriss: Yeah. Started in 2005, blog.
+
+Jason Calacanis: Yeah. So if you get to it first, you get to play with it first. You get a disproportionate amount of credit for being there first. Just if you go to Austin first or you go to, Bed-Stuy Brooklyn, first you get the cool loft that you bought for nothing and then everybody else comes and your loft goes up in value. So the value of the platform goes up as the people who tinker and create it get to play with it. So I never really actually thought about it, but it is true. And so I also got the 800 number. 1-800-MERCURY, I was trying to get a Mercury Club number. And my idea was the — because remember I was talking to the guy who had done Kozmo, because I covered it in my magazine. And he said, “Yeah, I should have just charged a delivery fee.”
+
+Because the last six months they started charging a delivery fee. And he said, “Yeah, the business worked in three of the nine cities. If I had only charged delivery fees,” I was like, “Why didn’t you?” He’s like, “The VCs told me not to, wanted to grow. I’m trying to get public.” It was just literally the same lesson people are learning now. So I was like, well wait, instead of charging a delivery fee, why don’t I just make it — because I knew bike messengers. Bike messenger culture was a big thing in New York. So bike messengers used to hang out outside where my loft was because it was business commercial loft, the Starrett-Lehigh Building in New York. It was commercial and we were living there illegally. Me, DJ Spooky, a couple of artists were living in these illegal lofts. Anyway, the bike messengers were out there all the time.
+
+They were always smoking weed. And it was a very cool culture because they had figured out life. They made nine or 10 bucks an hour, they would make 10 bucks per run. They could do two runs an hour. And they got to just bomb these bikes all over Manhattan. And they got exercise, they were fit, they were smoking weed, listening to music. It was like the coolest gig ever. I was like, these guys, they figured out life. You get to ride your bike all day, smoke dope, listen to cool music, joke with your friends, and you just drop off an envelope now and again. And you make more money than the people you’re dropping off the envelope to, which are outside. It was just a crazy revelation I had. So I was like, yeah, I’m going to do Mercury Club. And I built the whole business model for Mercury Club and then I was watching the blog — 
+
+Tim Ferriss: How did you land on the name?
+
+Jason Calacanis: Well, Mercury the god with the wings on the feet and I just came to, I was Greek. I always liked the Greek gods. So I was just like kind of started thinking about fast and I just thought, well this would be incredible. Can you imagine you’re like Charlie Rose at a party or David Hershkovits from Paper and you’re just like, “Oh, should we get cigarettes?” “Yeah.” And you just pick out your — because mobile phones had come out at that time. So imagine taking out your StarTAC, and I had seen a StarTAC phone, those little flip phones. It’s like imagine you take that out and you dial an 800 number and you say, “Yeah, I need two packs of Marlboro Lights and bring me a copy of Vanity Fair or Esquire magazine, because I’m at a party, I want to show somebody,” and then just somebody comes there and hands it to you? The ultimate luxury, the ultimate power move. I can just call my assistant and just get anything I want. Anyway, I didn’t wind up building that.
+
+Tim Ferriss: So, Greek. Your name is Greek. What does your last name mean?
+
+Jason Calacanis: Yeah, so Calacanis means “to have done well” or “good for you.” So sometimes when I use my credit card and a Greek person does it, they’re like, “Good for you,” or “You’ve done well, very nice.” But it’s with Ks. So when my grandfather went through Ellis Island, God rest his soul, they were like, “Calacanis, here’s your banana, keep moving.” And he was like, “No, it’s Ks.” And they were just like, “Fuck you, Calacanis.”
+
+Tim Ferriss: “Here’s your banana.”
+
+Jason Calacanis: No, they used to give bananas at Ellis Island, I understand.
+
+Tim Ferriss: What? That’s real?
+
+Jason Calacanis: Yeah. It was some weird thing where they just would give everybody who comes in a banana, because they were hungry off the boats and bananas were, a lot of bananas were coming in from South America to Ellis Island as well. So they’d just be like, “Have a banana.”
+
+Tim Ferriss: Today I learned.
+
+Jason Calacanis: Keep it moving. And then the crazy thing, Tim, is I was on the Ellis Island website and on the Ellis Island website I searched for my last name and they had archived everything. And Calacanis, my great grandfather, or my grandfather rather, went through 12 times. And it turned out he was in the Merchant Marines. He was an inching captain. He wasn’t — and I knew that, but every time he came back to America with human passengers, he had to sign in again. And so he has gone through it 12 times. It was quite a weird — 
+
+Tim Ferriss: That’s wild.
+
+Jason Calacanis: And I was like, wow, he’s coming from Brazil, he’s coming from Ireland, he’s coming from Italy, he’s coming from everywhere in the world. The cargo was humans, it was Americans.
+
+Tim Ferriss: Human cargo.
+
+Jason Calacanis: It was human cargo. It was pretty crazy, right?
+
+Tim Ferriss: That’s wild.
+
+Jason Calacanis: Anyway, then I watched the blog stuff happen and two people who had worked for me, Xeni Jardin was my event producer.
+
+She had been working for a famous law firm, Latham Watkins, and then she came — they were a sponsor of one of my events. She did a great job at the event. I asked Latham, “Can I hire her, because she’s awesome and rad?” And I hired Xeni to come work with me at Silicon Alley Reporter, she would produce my events. And then when everything shut down, she started working on this Boing Boing thing. And I’m like, “Boing Boing? What are you doing with your life?” She was like, “Yeah, we write blog posts.” I’m like, “Blogs? Blogs?” And I was like, “Like Rafat Ali was doing?” This kid who had worked for me, Rafat Ali was doing a blog on the site called paidContent.org and somebody ratted him out when he was working at the magazine that he was moonlighting. Now, back in the day, you couldn’t have a side hustle, that was instant firing.
+
+So I call him into my office, I’m like, “You got something to tell me kid?” He’s like, “No.” And I’m like, “You sure you don’t have anything to tell me?” He’s like, “Is it about paidContent?” And I’m like, “Yeah.” I’m like, “What are you doing?” He’s like, “I’m just writing about people who are charging for content on the internet.” I’m like, “Hey kid, information wants to be free. Nobody’s paying for content on the internet.” He goes, “Actually, I think you’re wrong.” “Hold on, kid, let me stop you. Number one, nobody’s paying for content. The whole reason we started the internet is information wants to be free. Number two, you’re not a great writer. I’m your editor. Who’s your editor for paidContent.org? And he goes, “I don’t have an editor. It’s a blog.” I’m like, “No publication will ever work if there is not an editorial structure. It will fail because there’ll be spelling errors. You’re going to write stupid headlines. You need an editor. That’s how this works.”
+
+He’s like, “Am I fired?” I’m like, “No, just focus on work and stop doing stupid shit on the weekend. Get back to your desk.” And I just like admonished Rafat. Now I’m an investor in this company now, Skift. But that incepted in me because when we shut down, I had talked to Xeni and I talked to Rafat and Rafat was like, ‘”Yeah, I’m making four grand a month on ads.” I’m like, “I was paying you 35k, you’re making 4k now? You’re making 48,000? You’re making $13,000 more than when you worked for me.” And then Xeni’s like, “I’m getting a 5k draw a month.” I’m like, “What?” I’m like, “How many hours a day do you work?” She’s like, “Look, I do like two hours in the morning, and then at night I come home, I do two or three hours.” She’s like — this is before The 4-Hour Workweek revolution. I mean, this is during the 60-hour reality of being a worker. And I was like, blogs, huh? And then I started reading blogs and I was like, there’s something here. Blogs are dope.
+
+Blogs, even though they have spelling errors in them, come out faster than magazines and newspaper articles. They’re faster and faster is always better. It’s faster. I said, and for the right writer, it’s spicy. Like “Ooh, Xeni’s spicy.” And I remember I wouldn’t have let her write that. I would’ve stopped her. And then I checked, just when I saw all the magazines and everybody had them, I just all of a sudden, The Terminator, everything clicked at once, Tim. I was like, it’s faster and it’s better. It’s faster, it’s better. It’s cheaper. Faster, better, cheaper. Wait, I had heard Marvin Minsky and Kevin Kelly and all these guys at a conference, a TED at some point talking about faster, better, cheaper. I didn’t understand what they meant, but literally was at TED and they were at one of Brockman’s dinners and they were talking about “Faster, better, cheaper, whatever, pick two.”
+
+And I didn’t understand what they were talking about, but it kind of another Inception moment. I was like, wait a second, what if you had a hundred of them? So then I called Brian Alvey, who had worked with me on the magazines and I said, “Let’s go to the next game.” And went to the next game. And I said, “What if we had weblogs?” The blogs were originally called weblogs, because they were on the web and they were logs. And then people dropped the W E and they became blogs. You remember all this? But a little history lesson for those listening.
+
+And so I was like, what if we did weblogs for business? Nobody’s ever done a business topic, so we’ll do weblogs. And he goes, “Oh yeah, we should call it Weblogs, Inc.” And then he got the domain name and then we started building them and we did a weblog on Wi-Fi and we did a weblog on Apple. And then we started building all these ones. And in under 18 months we had built 87 blogs, we had $200,000 in total revenue and AOL bought it for $30 million. And we had one investor, my friend Mark Cuban had put $300,000 in for 20 percent of the company or something. And I gave him six million back. And then Brian and I and Peter Rojas split the rest. And in 18 months after my 20 million offer had gone away, I got the 30 million offer.
+
+Tim Ferriss: That’s just insane. That’s just insane.
+
+Jason Calacanis: And the berserker insane J Cal, “I’m going to prove it to the world,” proved it. And then I was like, yeah, I just looked at the sword. I took the armor off, hung it up, and I was like, “Yep, I can do it. I can do it anytime I want. Anytime I want, I can build a brand, a business and I can just get it from zero to whatever.” I may fail two out of three times, but I could do it. And that was when it was like, okay, once you’re lucky, once you’re lucky twice — 
+
+Tim Ferriss: Once you’re lucky, twice you’re good. Yeah.
+
+Jason Calacanis: It was my once you’re lucky, twice you’re good moment. Because then everybody who had watched me fail and kind of danced on my grave at Silicon Alley Reporter was like, “Oh God. J Cal did it again.”
+
+Tim Ferriss: The cat came back the very next day. We thought he was gone, but he wouldn’t stay away.
+
+Jason Calacanis: There’s a lot of people who are just like, “Oh, he’s going to be insufferable after this.” They weren’t wrong.
+
+Tim Ferriss: They weren’t wrong. They weren’t wrong. So just a couple of maybe boring housekeeping questions. I’m thinking of the timing of building these weblogs. How did you find the writers to do this?
+
+Jason Calacanis: A great thing for people to understand right now, in this moment of time, we’re taping this in 2022 with the market crash and Facebook laid off 11,000 people yesterday. Yeah. I don’t want to date this too much. I don’t know when you’re going to release it.
+
+Tim Ferriss: Oh, that’s okay. It’ll come out reasonably soon. But as a snapshot in time, also crypto is having a complete implosion.
+
+FTX is oing through the meat grinder. People are probably going to go to jail.
+
+Jason Calacanis: Yeah. Jail, 32 billion eviscerated. I actually wanted to talk to you about people who commit fraud and lie because I was interested in your perspective on it.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: I just can’t imagine it because the system is so easy to win and the system is set up for entrepreneurs to win in this country. Why on Earth would you cheat if it’s so easy to just have a win by just working hard? Anyway, putting that aside.
+
+Tim Ferriss: But I interrupted you because you were tying the weblogs and — 
+
+Jason Calacanis: Oh, the writers. Yeah. So it was very simple. Everybody was out of work. And so when you hired a writer, you’d say, “Do you know anybody?” And the original deal was we started going to people who were doing LiveJournal blogs and we’d find somebody who had written a blog about Apple, Sean Bonner.
+
+Tim Ferriss: Yeah, Sean Bonner! Yeah, yeah.
+
+Jason Calacanis: And I said, “Hey, Sean, I’m doing this Weblogs, Inc. thing, we’re going to try to sell ads on blogs.” He’s like, “Well, that’s stupid.” I’m like, “Yeah, but I think I could figure it out because I did a magazine.” He’s like, “All right, that’s pretty smart.” I was like, “I see you’re writing some Apple blogs. Could we put them on our Apple blog? Or if I gave you the login, would you post them?” Because Brian Alvey was a genius. He’s now running WordPress for Matt Mullenweg.
+
+Tim Ferriss: Oh, no kidding.
+
+Jason Calacanis: WordPress, like Pro, VIP like people like you and I use.
+
+Tim Ferriss: At Automattic. Yeah.
+
+Jason Calacanis: At Automattic. So anyway, he was a great collaborator of my career. He’s kind of my George Harrison or he’s my Paul to my Lennon or vice versa. And he had built the software that was better than everybody’s, better than Typeform, better than Blogger, better than everything. And I just gave Sean the login and I was like, “Listen, I want to pay you something because I want to own the blog posts.” He’s like, “You want to own a paragraph of me writing about a MacBook? It’s three sentences, Jason, it’s worthless. I’ll do it for free.” And I was like, “I’ll tell you what. How many a day could you do about Apple products?” He’s like, “Two.” I was like, “Okay, two, 60, I’ll give you 150 bucks a month, cash, to just let us run these over here. It’s a paragraph each.”
+
+He’s like, “I can write these in 10 minutes. You’re an idiot, but sure, I’ll take whatever it is, two or $3 a blog post.” And so we just then just started hiring people, and then we made five bucks a blog post, eventually 10 bucks a blog post. And people thought we were stupid because minimum wage at the time was 10 bucks. And people were like, “I wrote three blog posts this hour and you gave me $30.” But I had done a spreadsheet with Brian and I said, “Here’s how many page views we’re getting. Here’s what I think we can make per page view. Here’s what the cost is per blog post. All we have to do with this business is scale it and then somebody will buy it.”
+
+And he said, “Yeah, I think you’re right.” I said, “You do the tech, I’ll get the writers and the advertising. I’ll see you on the other side.” And we both put our heads down for 18 months, and we had 450 bloggers in the system, of which maybe 200 were active. And we were pounding out thousands of blog posts a week across 87 different topics. And then AOL found out about what we’re doing. And they had looked at Gawker and they had looked at us and Engadget was crushing Gawker because we stole Peter Rojas from Gizmodo. It’s a whole other story.
+
+Nick Denton and I had quite a rivalry for a while. It was a fun rivalry too. But Peter Rojas was actually the missing piece with Brian Alvey and I, and once we got Peter Rojas, he taught us like, “Hey idiots, just come up with a name for the blogs. I don’t want to be gadget.weblogsinc.” So then we made the apple.weblogsinc, The Unofficial Apple Weblog, TUAW, T-U-A-W, which people fell in love with. People were addicted to TUAW because at that point we were doing eight or nine blog post a day about Apple. And Steve Jobs read it. And Jony Ive and everybody and then Engadget became a juggernaut. And it was just a very simple business. And at that time, $30 million was the equivalent of hundreds of millions now.
+
+Tim Ferriss: Yeah, for sure.
+
+Jason Calacanis: It was a different era.
+
+Tim Ferriss: It’s still, I mean, 30 million today would still a lot good chunk of change. So let me flash forward and I want to ask you specifically, because it came up already about events. So you seem to love producing events and you’ve produced a lot of events. I only produced one event — 
+
+Jason Calacanis: In Reno.
+
+Tim Ferriss: It was very, very — 
+
+Jason Calacanis: Oh, Tahoe.
+
+Tim Ferriss: It was in Napa long ago. And it was so — 
+
+Jason Calacanis: I have a friend who went, she loved it.
+
+Tim Ferriss: It was a great event. It was — 
+
+Jason Calacanis: People still talk about this event. Somebody brought it up last year.
+
+Tim Ferriss: They do. They do. And it was opening, it was called Opening the Kimono, OTK. I actually have a wine bottle from that event over there. Because we had a wine making competition that the participants all engaged in. And then we took the winner and we bottled whatever it was, 200 bottles and gave them to everybody. So it was incredibly elaborate. And I came out of that feeling like I had just finished a tour of duty. It was so hard. Why do you love doing events and what is the smart way to do it? What is the J Cal recipe?
+
+Jason Calacanis: So in the Myers-Briggs, I’m going to say you’re INTJ or INTP.
+
+Tim Ferriss: Nailed it, INTJ.
+
+Jason Calacanis: Yeah. But I could see you being a perceiver. But anyway, I’m ENTJ. And so you and I vibe until such time as I absolutely exhaust you, and you need to go to your room and take a deep breath. That’s the relationship between INTJs and ENTJs. This is for people who don’t know the Myers-Briggs, which is, or as we call it, astrology for men.
+
+Tim Ferriss: Yeah, that and Enneagrams. Astrology for men. That’s basically it.
+
+Jason Calacanis: We don’t believe in astrology, but we believe in this other thing where we answer questions and it tells us things we want to hear about ourselves. But anyway, I scored 86 and a hundred percent on entrepreneurship. I’m sorry, on extroversion, the two times I took it. So I’m so extroverted that when I’m with an introvert like yourself, or say, Evan Williams, a friend of ours, I can burn people out. I want to talk for seven hours. And when I’ve been on vacation with Tim Ferriss, it’s like Tim Ferriss was like, “Well, that was an interesting 90 minutes with J Cal, I need to go write for four hours,” or whatever. You need to recharge your batteries.
+
+Tim Ferriss: Take a nap.
+
+Jason Calacanis: Take a nap, whatever. And if I talk for seven hours, I want to talk for five more. I just can’t go to bed or I want to start working. And so I think you have to understand your format, I think the reason why you are the number one guy in podcasting is because this format works really well for you. You take a lot of time to think about it. You do your 90 minutes and then you got a lot of time to decompress and process. For me, I do my show five days a week and All-In six days a week. I like to talk every day. So once you understand I’m like the morning radio guy, right? And you’re like the weekly 60 Minutes guy, right? And viva la difference, the problem with events is some people who are introvert, if they do an event, they need recovery time.
+
+And so for you to do an event, it should be you interview somebody on stage, you then go backstage and write some more notes, and then somebody else interviews somebody and then you come back out and do a Q&A with the audience and then the events over and that’s the totality of the events. I did a bunch of events because I realized if you could manifest a community in a real world space, again, back to my childhood, need to be important or have power, which was based on having no power and no money. And I feel like I’ve kind of processed that now. I kind of processed it, if I’m honest, maybe 15, 20 years ago, I kind of figured it out. But I love the idea that if you host the party, those people get to meet new people, create some relationship or moment that then changes their life forever.
+
+And so what you should be very proud of with your Open the Kimono event is that to this day, people talk about it as a peak experience in their life. And when you think about what our lives are, in some ways it’s just like Blade Runner when the Nexus-6 is on the roof and he says like, “Oh, my God, all my memories are going to be gone like tears in the rain.” All we have at the end of this, I believe, I’m not a religious guy, I’m an atheist. But I do know that that singular moment in film is the most powerful moment in any film I’ve ever seen and is kind of my spirit moment of any piece of cinema or perhaps even literature, that speech he gives, because that’s what we, I think human existence is about at its core. It’s a series of memories you collect over time.
+
+You and I playing basketball on that court, in the woods, in Italy, laughing our asses off and then you figuring it out, right? It’s just like this weird moment in time that when I just start describing it to you, you and I just start laughing where it’s just a great Tim and J Cal moment that nobody else was there for, is just the two of us literally in a basketball court hidden in the woods in on a farm in Italy somewhere that we discovered. It’s a really beautiful memory for me and I think for you.
+
+Tim Ferriss: And for me too.
+
+Jason Calacanis: And you just, then we’ll get to the end of our lives and just that Nexus-6 that has this four-year lifespan, and he’s crying for the lost memories. That’s all you have. And then gone like tears in the rain. So make those memories. And that Open the Kimono event, I was literally talking to somebody, not, yeah, I was talking to them about it on Halloween. It was just two weeks ago.
+
+Tim Ferriss: Very recent.
+
+Jason Calacanis: And she was describing how that was her favorite event. I was like, “You’ve been to mine?” And she’s like, “Yeah, but that was the one I liked best.” And so you could be proud of, even if that was the only memory that happened there, that was the only tear in the rain, you’ll always have that, right? And so for me, that’s what it is. People have these incredible moments and I have them, and I have now, I’m 51, I’m just looking at the next number of years we have left. And people of our age, like Dave Goldberg passed, Tony Hsieh passed, a lot of our friends are gone.
+
+Tim Ferriss: Yeah, it’s wild.
+
+Jason Calacanis: Gone too soon. And now I just look at it, I’m like, “How many more memories can I put into the memory bank before the tears in the rain moment?”
+
+Tim Ferriss: So let’s talk about friendship, because there are a few things that come to mind when I think J Cal and friendship. I wanted to actually sidestep and just mention something that ties back to a few things you said that I was going to bring up later, but I’m just going to bookmark this one. But this is a quote from October, 2008 when a lot of shit was going down. People may or may not remember, if you weren’t aware of it, a lot of things were imploding. And your quote at the time in The Guardian is, “Everybody else is going to be depressed and drinking and not working, so it’s a great time to be an entrepreneur.” So that ties into a lot of what you already said, but on friends, I want to say two things related to that. The first is, let me find this amazing quote. So this is a quote from Douglas Rushkoff.
+
+Jason Calacanis: Oh, this is a good one. I put this on the back of my book.
+
+Tim Ferriss: Yeah, yeah. “Jason would never stab you in the back. He might stab you in the face though.” So I really admire you as a friend. And this is not just for me, this is related to other people because you are one of the most loyal friends I have come across in my adult life, and I’ve seen you defend your friends in so many circumstances where, A, you don’t have to out of pure self-interest. B, there’s a very good chance it’s never going to get back to the other person. So I have a question for you, and maybe that’ll be the first one about loyalty. The second question, because I do want to talk about All-In, is going to be how you navigated starting a project with your very close friends and the conflict that ensued because I have always avoided working, by and large, with my friends. So loyalty, where does that come from and why? And then the navigating, starting a project with your close friends.
+
+Jason Calacanis: Well, so much of what makes us who we are is I think formed in childhood. So when you’re a kid, I think you have this computer hard drive operating system and things start getting written to it. And one of the things that my dad wrote into it is like, “Hey, you and your brothers, you’re The Three Musketeers. You’ve got to be there for each other. Loyalty above everything else. You always have to have each other’s back.” And that wasn’t just his operating principle. It was “You’re going to get in a fight on the way to school. We live in Brooklyn, this is a dog-eat-dog world. I want to make sure that you two, you never leave your brothers behind.” So that was one of his rules. If he saw two of us, he wanted to know, “Where’s your brother? Go get your brother.”
+
+Doesn’t matter, it’s the oldest, the middle, I’m the middle, or the youngest. You three have to be by each other’s side all the time. Never leave one of your brothers behind. Never let anybody say anything to your brother. Always fight. It was one of the great things my dad taught me and it stayed with me. And over time, what I realized was one of my superpowers is being there for my friends and being a loyal friend. But I guess the Doug Rushkoff quote, I might be full contact at times where if I disagree with somebody — 
+
+Tim Ferriss: At times, at times.
+
+Jason Calacanis: At times I might be like, “I don’t agree with you.” Or, “That’s stupid.”
+
+Tim Ferriss: “Timmy, that’s the ugliest layup attempt I’ve ever seen.”
+
+Jason Calacanis: “Jesus, Timmy.”
+
+Tim Ferriss: “What the fuck is wrong with you?”
+
+Jason Calacanis: “What the fuck is wrong with you? I showed you there’s a little square box there. Just aim for the box. You missed the entire backboard. There’s a little box behind the rim. Is there’s anyway you can put the ball in the box? Your chances go up dramatically if you hit that box.” You’re like, “Okay, I got it. I’ll put it in the box.”
+
+But anyway, I like to laugh. I like to be loyal. And I think if I have a large number of acquaintances and then I have a small number of very close friends, and that seems to me to be a good philosophy. And then somewhere along the lines, people become transactional with you, you’ve had this experience. We’ve talked about it before. Everybody wants something from Tim Ferriss. Everybody wants Jason to fix their problems. Or they think they get a meeting with somebody who’s more famous than the two of us put together, that magically is going to change their life because they got to talk to the person and tell them their ideas.
+
+I’m like, okay, you’re delusional. This person does not care about your ideas and they’re busy. So let Travis finish building Uber, he doesn’t need to talk to you about your startup. That’s not going to make any difference. And there’s something really special about being able to be supportive of your friends and being there for them, because as you become more successful, the world, people think the world gets bigger. Oh, you have more money. Oh, your podcast went up the rankings. Oh, Tim Ferriss is on his 12th best seller. The world gets smaller and the number of people — 
+
+Tim Ferriss: Yeah, it gets a lot smaller. A lot smaller.
+
+Jason Calacanis: And then you’re sitting home on a Saturday night when you’re famous or affluent or rich or whatever combination of things you succeeded in your life. And it’s a Saturday night and you’re like, going out to this event is going to be arduous and painful rather than delightful. And what I realized is for people who have this in even a more acute fashion than you or me, you have to create, I think a safe space. A place where you can have true friendship and talk about things that matter. Your kids, your friendships, your spouses, your life, your hopes, your dreams, whatever. Or just shoot the shit and watch a movie and laugh. And so it’s kind of one of the great things in life, I think is friendships and people. You get what you put in, you get what — the friendships you get are the effort you put into the friendships you have.
+
+And so people don’t invest in it. And if people are so transactional, it’s actually kind of weird. I was at a Halloween party and a lot of people were coming up to take pictures. And I don’t mind it at all, I’ll take a hundred pictures in a row. It’s fantastic. You listen to the pod, I’m super happy. I suppose for you it’s a little bit annoying, with the extrovert/introvert thing. I bet you can get through about three of them before you feel like you need to leave the party.
+
+Tim Ferriss: Yeah, then I need a bathroom break. I do that at dinners. I mean, I’ll admit something embarrassing, but you won’t be surprised. Maybe people listening will. If I go to a dinner with or an event with more than eight or ten people, I will leave the dinner every 10 minutes to go into the bathroom and just close my eyes and breathe. I will disappear. And people are like, “What’s wrong with his prostate?” But it’s actually fine. I’m just so overwhelmed by the stimulation that I need to take breaks. It’s really — 
+
+Jason Calacanis: Well. And now imagine it’s people who are a fan of yours or think that they can use you to achieve some goal, right? And literally all these influencers, this party, really their goal is to just get a picture. And I just had this profound sadness for them. I’m like, if I was meeting me and I was an entrepreneur, like a photo’s great, but if you’re a first time entrepreneur, maybe you should ask me about startups and running them or raising money or there’s a million things we could discuss.
+
+But the goal was to get a selfie? Who cares? So anyway, it’s important to be, I think, a really good, loyal friend. I have been burned in this regard where I’ve been more loyal to certain people and they have not been loyal to me. And it’s very frustrating for some of the people around me when they see that happen to me. And for me, I say that is that person’s chance to learn how to be a friend, they just haven’t gotten there yet. They don’t understand how much more special it would be if they were reciprocating the friendship I was showing them. And it makes it just even more rich. For All-In, it is a very interesting thing because you and I are solo acts.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: And you have one duet you do. It’s my favorite part of what you do is — 
+
+Tim Ferriss: The Random Show!
+
+Jason Calacanis: With Kevin.
+
+Tim Ferriss: Kevin Rose.
+
+Jason Calacanis: Literally has had profound impact on my life.
+
+Tim Ferriss: Oh wow.
+
+Jason Calacanis: Big part of why I lost 30 pounds this year. You were telling me how good I looked, but I was in Italy a couple of summers ago and you and Kevin were talking about Ozempic and you had taken Ozempic and puked and I went to my doctor and I talked to them about Ozempic, like a TV commercial. And I haven’t talked about this previously, because I don’t want to influence people. But I did a couple of series of Ozempics along with fasting that I learned about from you and Kevin and using the Zero fasting app, which I learned about from the show. And then I obviously hear you talk about weightlifting and the impact that has. And so for the past year or so, I just did the Tim Ferriss, Kevin Rose program. I did a couple cycles of Ozempic. I did the weightlifting and I did the intermittent fasting using the Zero app. And yeah, I dropped 30 pounds and I — 
+
+Tim Ferriss: You look great, man. I said it before we started recording. I was like, you look really, really good. Well done.
+
+Jason Calacanis: Would like to get five or 10 more pounds of weight, muscle, and be able to run a marathon again. So we get those two goals, I’d be pretty happy.
+
+Tim Ferriss: Yeah, you can do that. You can do it You can definitely do it.
+
+Jason Calacanis: I’m in the window.
+
+Tim Ferriss: Yeah. So solo act, suddenly decides, wait a minute, I want to be in a rock band, but I may — 
+
+Jason Calacanis: Did not decide that actually. I got tricked into it, if I’m being honest.
+
+Tim Ferriss: So tell the story.
+
+Jason Calacanis: Well, no, what happened was Chamath and I had become friends. Chamath Palihapitiya.
+
+Tim Ferriss: And you should explain. If people have no context, what is All-In? What is the premise?
+
+Jason Calacanis: All-In is a podcast with four friends who are all capital allocators, in other words, like, venture capitalist investors and business builders in — yeah, and I guess in all cases. And so four folks who are 50 years old, with 30 years of business experience each, so that’s about over 120 years building businesses or investing in them, getting together and talking about business, and then whatever the topics of the day are. But everybody’s a little unique and different. And it started as something we did in COVID, because we would all play poker together. And four of the poker players, eventually, wound up doing this every week, this podcast, and this is in decade two of me podcasting. And so I kind of created a format that I modeled after The McLaughlin Group, which was a Sunday morning show.
+
+Tim Ferriss: Don’t know it.
+
+Jason Calacanis: Yeah. So yeah, there’s a guy, McLaughlin. You can look up some tapes of it.
+
+Anyway, this guy McLaughlin was super cantankerous and he’d have a Republican, a Democrat, an Independent, whatever, a young person, a Bostonian person, a California hippie, whatever. And he was always cantankerous and moving the conversation along and he would say, “Wrong!” and do this. And it was a very full contact, kind of dynamic, interrupt each other conversation. But it always drew me in. It was the best Sunday morning political show of all time, The McLaughlin Group.
+
+And so Chamath and I had known each other from AOL. He was working at AOL when I sold my company there, the blogging company, back in the day. We had met. He became a venture capitalist and then he met Mark Zuckerberg and he was one of the first employees at Facebook. Grew Facebook from 10 million to 800 million users or something crazy like that. He was responsible for the growth team. Super intelligent, considerate, fun, thoughtful guy, and dynamic, aggressive, and just great leader of people.
+
+We became friends, we started playing cards together, joking, laughing, and I said, “I really would like to have you on my podcast.” He wanted to be under the radar. He didn’t want people to know who Chamath Palihapitiya was. But he came on the podcast. In a lot of ways, like Chris Sacca did, our friend, I think I was one of the first people to actually have him on a podcast when I did my two-parter with him. So Chamath became a bit of a brand after he was on the podcast a couple times. And then he keynoted a couple of events and we just had this rapport. And the rapport came from just breaking chops and laughing at the poker game every week. And then people saw that rapport when we were on stage. And then he said to me one time when he was coming out of CNBC, “We should just do a podcast together.”
+
+I was like, “Yeah, come on This Week in Startups.” He said, “No, no, I want to do a different type of thing, just me and you. You just bring up the news of the week, I talk about it, then I ask you a question, and then you talk about it, and we go back and forth. Startups, public markets, specs, public private.” I was like, “That’s a really good idea. Sure, let’s do it.” And we started texting back and forth and “What do you want to call it?” And I was like, “We should give, like, a poker thing since it’s like poker. We should call it All-In.” And so the two of us started doing it, but this was during COVID. So then we’re like, “Well, who knows about COVID?” And Sacks had been doing a bunch of research on it, and he bought ventilators and he had masks.
+
+Tim Ferriss: So explain who Sacks is.
+
+Jason Calacanis: So David Sacks is an old friend of mine who worked at PayPal with Peter Thiel, went to college with Peter Thiel, is a Republican, independent, really, chess club, debate club, brilliant product manager, created Yammer, sold to Microsoft for a million dollars, a billion dollars. Just really smart individual, but right-leaning. Seriously right-leaning, like writing articles, donating to people on the right. And we became close friends. Our families would go on vacation together, just as close of friends as you could be. And then we had him on as a guest to talk about, “Hey, what’s going on with this Wuhan flu thing and what’s going on with Trump?” And people were very scared and confused that time.
+
+And then we had another friend who came to poker. I didn’t have a big relationship with Friedberg at the time, I just knew him from poker. And David Friedberg, who runs something called the Production Board, he was an early Google employee, came on and he actually created climate.com and sold that to Monsanto. So he understands science at a very deep level. And so all of a sudden, this thing clicks, and then Robinhood and that whole AMC thing happened, and I was an investor in Robinhood, and we started talking about that. And the show just caught heat and the dynamic between the four of us people really started to like, and people were — 
+
+Tim Ferriss: Caught heat in a good way.
+
+Jason Calacanis: I think caught heat in, like, “Wow, this is really dynamic. They’re smart, they’re opinionated, and they’re successful.” And so when people see that you’ve made a lot of money, is one thing I learned in my life, it’s like the day before the Weblogs, Inc. sale and then the day after, when I had no money and then became a millionaire, people treated me incredibly different. All of a sudden, I got 30 more IQ points and I was two feet taller. I was like, I’m the same guy, but people would just take you a lot more seriously. And it just is a really good thing to understand. Literally if you inherited a billion dollars, people would think you’re a genius. It’s a big failing of human nature that we have this weird thing with the scorecard that we think the scorecard of dollars is important. It’s not. Long story short, all the stuff comes together and it seems to connect with people and it starts racing up the charts.
+
+And the last couple of weeks, I think we’re in number 24, 26, 27, just top 30 podcasts in the world. Gwyneth Paltrow wrote about it in her Goop newsletter a couple weeks ago, that she’s obsessed with the podcast, the personalities. And so This Week in Startups had millions of listeners every month and doing incredible, five days a week, making millions of dollars in advertising. But it’s a very niche thing. It’s just about startups. So if you’re in the startup space, you would want to take a selfie with me. All-In has crossed over in a way you experience with the Tim Ferriss Podcast and people who are pursuing excellence. It’s a much wider aperture of people. And so this thing just appeals to a lot of people and it’s — literally, people say, it’s like their Sunday morning ritual, or their Saturday morning ritual. It’s replaced the Sunday morning talk show.
+
+And it turns out Politico is writing some kind of a profile of us right now, because it’s become so influential in Washington, because we talk about the economy, technology, and technologies obviously have a big impact on the economy and politics, whatever. So anyway, in some ways it’s become a hit. It’s very weird for me because I’ve had a couple of hits before, but this one also is bigger and I’m not in control of it.
+
+I have three partners and all three of my partners on it have never had a boss. So you’ve literally got four of the most opinionated friends who’ve never had a boss who have four different directions they want to take it. And it is a bit chaotic and I’m the producer of it as well, and did all the work, came up with the format, et cetera. But objectively, Chamath has a series of fans. Friedberg has the stans. Sacks has the whole right wing. So it’s like a super team has come together, and it’s very hard to keep a super team together for any period of time. And this thing has come off the rails famously two or three times.
+
+Tim Ferriss: So could you walk us through your favorite of those three times and how it was resolved?
+
+Jason Calacanis: Well, I wanted to do an event, because, you mentioned, bro, I like events, and I was like, let’s do this All-In Summit. I’ll do all the work and you guys show up. I have a production team and here’s what it will be. And one of the four of us was in a complete panic and complaining and arguing incessantly because he thought I was going to ruin their reputation because what if it’s not great? The thing comes out of the gate, people are comparing it to the TED Conference, saying this is better than ReCode, or better than TED, and it’s the new TED, and whatever, because we got the most incredible speakers in the world showed up for us, just everybody. I invited you, you didn’t make it, but I’ll get you next year. I don’t know if I can afford your speaking fee, but — 
+
+Tim Ferriss: If it makes you feel any better, I remember this, and I have not done any speaking, except for South by Southwest, I want to say in three or four years. But — 
+
+Jason Calacanis: There’ll be an opportunity. I’ll interview you. No, there’ll be some opportunity where you’ll — 
+
+Tim Ferriss: And I have — 
+
+Jason Calacanis: There will be funding for us to do it.
+
+Tim Ferriss: And in my own defense, I have been to events of yours before. I have spoken with you at events. Yes. So I couldn’t make that one.
+
+Jason Calacanis: Couldn’t make that one. Yeah, it’s true.
+
+Tim Ferriss: Anyway, where does the conflict come in?
+
+Jason Calacanis: So the conflict came in that I just told him like, “Hey listen, I’m working over here. “You need to shut the fuck up and let me just do my work and stop being in a panic attack all the time.” And he’s like, “My reputation. What if it’s bad? We pay — people paid $7,500 a ticket.” I’m like, “Listen, people pay $7,500 a ticket for every event. It’s not a big deal.” And then I gave half the tickets for scholarship for people — anyway, we had this back and forth, and then I told the person, I was like, “Friedberg, if you don’t want to be on the show and you’re complaining so much, I got Brad Gerstner over here.
+
+Tim Ferriss: I love how he was anonymous up until right now.
+
+Jason Calacanis: Whatever. Anyway, the good news is, Friedberg and I, after this blowout, like many friendships, we actually are really enjoying our time together, but it was another one of these stab you in the back, stab you in the face things. You know, got the quote from Doug. I said, “Listen, if you’re not enjoying your time on the All-In podcast and you don’t want to do the event, why don’t you do 25 episodes a year? And I’ll have Brad Gerstner, who sits in when one of us is out, as like the fifth Beatle, I’ll have him do the other 25.” And we got into this big fight and the whole thing’s going to explode and then these two are going to do their own podcasts, whatever.
+
+And then we all just sat down and we realized the audience fucking loves this. We love it. Let’s not do any events. Let’s not do any spin outs. People wanted to do a TV show with us, top networks, all this stuff. And you understand how big the podcasting business now is better than anybody. You’ve got a top 50 podcast, these podcasts have become a very big business. On top of that, my biggest media success to date with my three partners refuse to do ads.
+
+Tim Ferriss: Yeah, yeah. This is one I was hoping you would bring up. So yeah — 
+
+Jason Calacanis: I’m sitting here on arguably $25 million in advertising, which I would get 1/4 of. And they’re like — Sacks is like, “Well, I’m already rich and I’ve got a plane.” And Chamath’s like, “Well I got a plane. I’m already rich. I don’t need advertising.” I’m like, “I’ll read the ads, I’ll sell the ads.” And they’re like, “No, it’s so cheap to have an ad.” And I’m like, “No, it’s not. It’s like everybody’s got ads. It’s just an ad. People listen to the ad. They drink some Athletic Greens. Athletic Greens is healthy for you. We’re done here. Who doesn’t love Athletic Greens?” We’re good. Sorry to give Athletic Greens — use the promo code Tim, not JCal.
+
+Tim Ferriss: Oh yeah.
+
+Jason Calacanis: Use Tim, not Twist.
+
+Tim Ferriss: Oh, I love AG. I was just texting with the CEO Chris 45 minutes ago.
+
+Jason Calacanis: I just had it this weekend. I made a really good ginger and some other juices. I know people drink with water. I like a little juice. And what I do now is I use half the amount of Athletic Greens, but I do it twice a day. I kind of like the space out Athletic Greens.
+
+Tim Ferriss: I like the ginger idea.
+
+Jason Calacanis: Slightly different. But the ginger, when you blend that ginger, you have that spicy. Yum yum.
+
+Tim Ferriss: But your partners were not buying the ginger cocktail pitch.
+
+Jason Calacanis: So literally, I could use another $7 million a year. This is big cash, six or seven million. It’s literally to have — 
+
+Tim Ferriss: It’s a lot of money.
+
+Jason Calacanis: Well, after taxes, it would be a jet. I have no jet. This is when this podcast is — this episode is going to get clipped like crazy.
+
+Tim Ferriss: So good. This is great.
+
+Jason Calacanis: Let me have a jet. You’re standing between me and private aviation. I’m being a little facetious right now, but it’s not exactly facetious.
+
+Tim Ferriss: Yeah, yeah.
+
+Jason Calacanis: So anyway, I just said, “You know what? I’m not going to try to monetize this anymore. We’re not going to do live events. It causes too much chaos. Let’s just do it every week.” And then I’m raising my next venture capital firm, my next venture firm fund Launch4. And I decided to raise it publicly. If you pick a designation 506c, you can say “I’m raising a fund.” So I said, “Guys, would it be okay if on the podcast I mentioned I’m raising a fund and people can email me jason@calcanis.com.” Boom. All of a sudden, I get a thousand emails. People are like, “Oh yeah, I’m a rich person. I would love to be an investor in your fund.” I do five webinars.
+
+Tim Ferriss: I really hope the emails read exactly that.
+
+Jason Calacanis: Basically. It’s like, “Oh hi, J Cal. I’m a huge fan of All-In. My family office. We do this, we save the whales, and we would love — big fancy pod…”
+
+Tim Ferriss: Translation to 140 characters. “I’m rich. Can you make me richer?”
+
+Jason Calacanis: Basically. And so, I kid you not, I do five webinars the last five weeks, $44 million in commitments.
+
+Tim Ferriss: Whoa.
+
+Jason Calacanis: From people I have never met. My last fund was $44 million. I have not done an in-person meeting yet. So I said, you know what? Now listen, for people listening, in the venture fund, I have to deploy that money, triple it, and then I get 25 percent of it. I don’t get the 44 million. It’s not a donation. It’s what I do for a living. But holy cow, I was like, I don’t need to have the ads on it. I can just play the long game and raise a larger venture fund and meet a bunch more of these LPs or whatever. But every LP meeting I have, or most meetings I have now, start with, “Hey, can I take a selfie? And this is my favorite thing about All-In.”
+
+And so it’s like I had to come to peace with the fact, all four of us, that we hit lightning in a bottle. That’s number one. Number two, we have to trust and love each other and put on a good show and we have to be rooting for each other. And I said to everybody, “If we’re going to do this, let’s be rooting for each other.” And that means when you’re having this debate and you disagree with me, and Sacks and I have had blowout battles over Ukraine, and I’m like, “Listen, Putin needs to be stopped.” And he’s like, “Biden and these people are tempting a nuclear war.” This is a very important debate and it gets very heated and people think Sacks and I hate each other. Sacks and I love each other deeply, even though he can’t say it. I can say I love Sacks and I know he loves me.
+
+And what I hope happened from that podcast is people see that we can have a brawl, still love each other, still respect each other, and still make forward progress and learn from each other. And Sacks is right about a lot of the things with Ukraine. We should have maybe tried for peace earlier. A lot of the things he said actually turned out to be right. Now it seems like Biden is saying to Zelenskyy, “Maybe you guys can start working on negotiations now and maybe we won’t give you an unlimited supply of support. We’re giving you the weapons. Can you please sit down and try to work this out?” But it has created chaos. And because the podcast is so popular, Tim, it’s like a lot of things. People maybe give it a little too much credit.
+
+Tim Ferriss: Well, yeah, you start to have a very big responsibility.
+
+Jason Calacanis: Exactly. You nailed it. That’s what I was thinking. Now people are calling me saying, “Hey, you’ve got to get Sacks in line.” And then people are calling Sacks saying, “Oh, J Cal hates Trump. He’s got Trump derangements.” I mean, everybody’s projecting into this while we’re just having a conversation, like, “Hey, what gives you the right to have a conversation about Ukraine? What gives you a right to have a conversation about affirmative action in this Harvard case? What gives you the right to talk about masks and COVID?” And what I tell people is when we talk about things in our wheelhouse, capital allocation, company formation, the markets, take notes. We’re experts. Totally awesome. We’ve been at it for over a century combined. Great place for you to learn if you wanted to be a venture capitalist entrepreneur or bet on the markets. Totally get it.
+
+When we talk about anything else, COVID, Ukraine, politics, we’re as informed as you, maybe a little more, maybe a little less. You’re listening to four people have a conversation. Go do your own research. Go find your own truth. And what we found with COVID specifically, which was kind of ironically where this whole thing started and what caused it to start is now Politico, I’m sorry, Vanity Fair and Politico. No, Vanity Fair and ProPublica, I don’t know if you saw this, are like, “We intercepted some communications. It looks like it was probably a lab leak.” And we were sitting here 18 months ago and when different people in the podcast were saying, “Well, maybe it’s a lab leak,” they were like, “Well, we have to take that podcast down now.”
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: So we can’t have that conversation that it’s a lab leak?
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: There’s two labs in the world that are studying the Wuhan virus and one of them is where the leak happened. I mean, one of them, when COVID happened, it happens to be in Wuhan. There’s 10,000 locations in the world. Pretty easy jump to make, but there’s some weird thing going on right now where people expect Tim Ferriss or Joe Rogan or David Sacks can’t have a conversation and talk about a topic, because their shows are popular. And we have to work this out, because you are allowed to have a conversation and people need to come to their own truth. And sometimes institutions do a great job, sometimes they fail us. We still have to debate these issues.
+
+Tim Ferriss: If it’s helpful. I can tell you my policy on this stuff.
+
+Jason Calacanis: Please, tell me.
+
+Tim Ferriss: Or I should say my protocol. My protocol is if I’m going to talk about something that I know is going to light people up, but that it is important and I feel like I have maybe access to an expert who can actually speak credibly, then I’ll add in very strong disclaimers and then I will not look at Twitter for at least a week.
+
+Jason Calacanis: Yes.
+
+Tim Ferriss: It’s very simple. It’s like, it’s very simple. It’s like if you don’t want the cock punches, don’t go to where everyone’s throwing cock punches.
+
+Jason Calacanis: You’ll get Ouch My Balls. Literally Idiocracy, the TV show, Ouch My Balls. You’re going to get your nuts kicked over and over and over again just for having a conversation. I thought Joe Rogan did a really good job when they were like, “Hey, you’re having these people on, they have uncertain whatever.” And he’s like, “I’m a comedian.” And I’m like, “Yeah, you’re a comedian with 10 million or 20 million viewers.” And he’s like, “You know what, if I get it wrong, tell me who to have on. I’ll do it again. But again, I’m a comedian, interviewing people and trying to learn.” And I actually think there’s a little bit of responsibility on the audience’s part here.
+
+Tim Ferriss: There is. I will — 
+
+Jason Calacanis: You know he’s a comedian.
+
+Tim Ferriss: There is. However, I’m going to push back a little bit.
+
+Jason Calacanis: Okay, yeah, let’s go.
+
+Tim Ferriss: And just that — to just say that I have, I, well, decline or, through vetting, disqualify probably 80 percent of the people that might be on the show, because I do a lot of fact checking ahead of time and I will do scientific fact checking, reference checking. And if it seems like someone is playing it too fast and loose, they do not come on the show, generally speaking. So I do a lot of heavy lifting on the front end, which if someone’s goal is to learn and they’re not a domain expert, I think is incumbent upon them, if they have a large audience, and I’m not saying Joe doesn’t do that, but I do think — 
+
+Jason Calacanis: Well he said he doesn’t do it. He said, “I don’t come prepared.”
+
+Tim Ferriss: Oh, there you go.
+
+Jason Calacanis: “Just to be clear, when this whole thing blew up, I want to let you know I do not come in prepared. Sometimes I just have — somebody hands me notes.” He said, “And I’m thinking about changing that.” So I do think if he’s going to talk about medical stuff, he should have a researcher do some stuff. And then I also — 
+
+Tim Ferriss: You’re a very close friend of mine and, like — 
+
+Jason Calacanis: Yeah, look. Yeah, I know you do research.
+
+Tim Ferriss: I’ve got 20 pages of notes.
+
+Jason Calacanis: Which is why, when you talk about whatever topic you’re talking about, the audience has an expectation that it’s going to be tight. When people go into Joe Rogan, they should have the expectation that he just walked in unprepared or modestly prepared. So that’s where I think — 
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Audiences have to take some responsibility. It’s probably between the two things we’re talking about.
+
+Tim Ferriss: It’s between the two. And I think that, and he might not want to do this, but if Joe wanted to do something preemptively, it’s just at the very heading of the show, there could be a disclaimer of the kind of disclaimer you’d see on Jackass back in the day, which would be like, “These are professionals, this is for entertainment, and do your own homework.”
+
+Jason Calacanis: It’s a little bit of a tell that we’re doing stupid things that we will regret. Actually I have an idea for Joe Rogan. I think he should start a second podcast, it’ll make tens of millions of dollars, called After Joe. And it should be a group of experts vetting whatever was talked about or goofing on it.
+
+Tim Ferriss: That’s a great idea.
+
+Jason Calacanis: And After Joe, Post Joe, and it would just be a breakdown of what happened on the episode and then he could say, “Listen. Yeah. Did you listen to After Joe or Post Joe? Post Joe wrote a webpage.” Like you do great notes and there’s people who do show notes of both of our shows once in a while that are pretty good. He should just pay somebody a thousand bucks to do a show notes. The thing makes so much money. Pay three people $2,000 each. You spend five grand on it. This is a medical episode. Vet it, put a bunch of links in it. That would just make it so much better, right? I think.
+
+Tim Ferriss: So I have a question.
+
+Jason Calacanis: Okay.
+
+Tim Ferriss: Since I did call you Podcast Master in the beginning, and I want to put on a showcase for a moment. So you and I have offline talked, well I guess it’s probably online, but offline meaning not publicly, talked about how you prepare privately. Jesus, what am I, a writer? I used to be. Use your words, Ferriss. Privately.
+
+Jason Calacanis: You’re a great writer.
+
+Tim Ferriss: You’ve talked about your moderating. I think you are one of the best moderators I’ve ever seen.
+
+Jason Calacanis: Aww.
+
+Tim Ferriss: And it’s true. That is absolutely — I would say that to anyone. I think I’m actually pretty sure I have said it publicly.
+
+Jason Calacanis: You have, actually. Thank you for that.
+
+Tim Ferriss: And I’d like to look at the mechanics and the preparation that goes into that, because you’ve talked to me about this and I remember one of the examples again, which is hyper-specific, which is, if you guys are on Zoom, which most people are not going to see, raising your hand and using visual cues for things. So could you walk through what the preparation process looks like for a good episode?
+
+Jason Calacanis: So we build a docket every week for All-In. The docket I took from Red Scare, which is this dirtbag left podcast, these two women who live in the Dimes Square in New York. They’re quite charming and hilarious, probably a little cutting edge for some people. But anyway, the Red Scare podcast is hilarious and Dasha always says, “Oh, what’s on the docket?” And they have a docket. These are the people who we’re going to pass judgment on before a judge. So we have a docket. I make a docket every week with my producer, Nick. And basically we’re in a group chat and whatever links we share that week, we put in there. And then with the docket — 
+
+Tim Ferriss: So the docket is a Google Doc?
+
+Jason Calacanis: Google Doc of topics.
+
+Tim Ferriss: And then this is put into a private Slack channel that you guys use or something like that?
+
+Jason Calacanis: Yeah. We’re on Signal and so we — 
+
+Tim Ferriss: Signal. Great.
+
+Jason Calacanis: Yeah, so they all disappear within a week. Hard lessons to learn. Thank you for getting it. So anyway, Signal. You can reach me on Signal.
+
+Tim Ferriss: So now do you use desktop client for that to make it easier to use or do you do it all on mobile?
+
+Jason Calacanis: Yeah. Signal is desktop and mobile now. Yeah, it’s pretty great. And it’s not owned by the Russians.
+
+Tim Ferriss: Do you use mobile?
+
+Jason Calacanis: I use mobile and I use the desktop, yeah.
+
+Tim Ferriss: Okay, great.
+
+Jason Calacanis: Yeah. And anyway, I have the bullet points in there, and I will sometimes push people to come up with topics. So hey, when Friedberg was kind of sitting back a lot on the episodes, I kind of dubbed him the Sultan of Science and I kind of created this character and I said, “Listen, you’re kind of like a little bit of a wallflower last episode. Can you give me whatever the most interesting science story of the week is?” And if I don’t get one by whatever, a day before taping, I’m like, “Hey,” and maybe I’ll do a little research myself. “Hey, what do you think of this? Or what about that?” And when I get a science topic out of him, I throw to him and he just lights up. It’s great.
+
+And then Chamath will make a joke or Sacks will go check his email. And then for Sacks, I throw him red meat. So the red meat for Sacks is anything political, anything to do with the Constitution, anything to do with the Supreme Court or legal cases. And then if I want to give an alley-oop to Chamath, so I think about it as the moderator. I’ve got to get out of this guy, I’ve got to get him engaged, Friedberg. I’ve got to give him some science so that he gets excited, right? Because he’s not excited to talk about politics, because he doesn’t like it. With Sacks, I’ve got a tiger, like a fierce tiger. And if I throw a couple of chickens out there, he’s going to maul them. But I know what they are. So I’m like, “Okay, here you go. Supreme Court decision.” Loses his mind.
+
+“Oh, here you go. Biden said this and it’s inconsistent.” Or boom, “Hey, here’s something with Trump.” He’s going to just go crazy. So now you got your lion going crazy. You got your science nerd coming out of his shell. And then with Chamath, it’s more like an alley-oop.
+
+Tim Ferriss: Sweaters.
+
+Jason Calacanis: I know — what’s that?
+
+Tim Ferriss: Sweaters.
+
+Jason Calacanis: Loro Piana. Conspicuous consumption. No, it really is more about markets and startups. And for him, I like to say to him, “Can you explain this financial topic and why people are talking about interest rates are bad for tech companies? Why would the interest rate have any impact on that?” Now I know the answer to that, but he can actually explain it better than anybody on the squad. So what I’m doing there as the point guard is like I have a clear path to the basket, I can just lay it in and do the layup, but I see him out the corner of my eye, and I’m like, you know what a big the audience have a better experience, is if I pretend I’m going to do the layup, and then from behind my back, I throw it up to him and he slam dunks it.
+
+And so I’ve learned with each of them how to feature them and make them really their best selves. And then behind the scenes, when you see the point guard in basketball take somebody and they whisper in their ear something, I very quietly give them notes on their performance, on how to do that — 
+
+Tim Ferriss: And this is after each episode?
+
+Jason Calacanis: After each show. Oh, I did it had to do it more earlier. And then sometimes I’ll do it in the group chat, if I think it’s something everybody can benefit from. But more often than not, I’m doing it quietly. And so I had to say to Friedberg, “Listen, you know, don’t say a lot about politics, but I think your opinion actually represents a large portion of the audience. And although you hate it, I think you expressing a little bit is going to be fine. And if you’re not happy with how it comes out, and I think it’s putting you at risk, I will tell you, and we can cut it from the show.” And once I gave him that, sort of, I think a little bit of a clear lane and encouragement, you will hear him talk a little bit more about politics, not to the extent Sacks does. And then I had to tell Sacks, “Hey Sacks, when I ask you something or I challenge you, I’m not disagreeing with you. I’m helping you clarify your position or helping the audience understand your position more.”
+
+Tim Ferriss: Very, very smart way to put it.
+
+Jason Calacanis: “And you are attacking me, telling me I’m watching MSNBC and I get my information from Rachel Maddow. I didn’t ask you to explain…” One time, I said, “Just to be clear, Putin invaded Ukraine, not Biden. Correct?” And he just went off or whatever. And I said, “The reason I’m asking you that is because the audience thinks, and the feedback online is, you’re a Putin apologist. It would help your position if you said to the audience, ‘Putin and Putin alone is responsible for invading Ukraine.’ Now how we manage Putin and his unjust immoral invasion is up to us. And that’s what we can debate.” But I’m trying to save him from being misunderstood.
+
+Tim Ferriss: And so you’re like one part moderator, one part coach, one part comms director.
+
+Jason Calacanis: Well, in a way — 
+
+Tim Ferriss: I’m not saying that as a bad thing. It’s just like — 
+
+Jason Calacanis: No, no, no, I think it’s super active.
+
+Tim Ferriss: Yeah, you’re helping everybody.
+
+Jason Calacanis: Well what I realized was like — listen, you and I have done hundreds of interviews with people. Great. It’s awesome. We’re both interested in people and learning from them and having great conversations. But this became something different for me, being the orchestrator of the action.
+
+Tim Ferriss: Oh, it’s a different skill, different skill.
+
+Jason Calacanis: It was a totally different skill. And I had done these moderations before at events, and I had sometimes done round tables, news round tables, but a lot of times, I was one of the featured players, not the point guard.
+
+Tim Ferriss: Can I give one example of why they’re totally different? In a one-on-one conversation, you can have a guest who monologues. If you have a group of people, that can be a huge problem. How do you deal with that specifically?
+
+Jason Calacanis: There’s two techniques. Yeah, two techniques, because you and I like technique. So the two techniques I have. One of them is I say to people beforehand, “Great job on the show today. At this moment in time, you made four really great points. It would’ve been better if you made your first one or two and then said, ‘I’m really interested in what Sacks thinks of that.’ Or ‘I’m curious, Sacks, what you think?’ And then you have those two. Just write them on a piece of paper there. There’ll be time for those two. We’ll circle back around. But now it doesn’t look like you are taking all the chips off the table.” Because in a conversation, with four smart people about a topic, there might be five good points to make. All four people might understand all five points or four of the points. And then if somebody comes in and they’re just like, ding, ding, ding, ding, I just took all the good points, there’s nothing left for anybody else to do.
+
+And so you want to share the ball a little bit. You took two good points. You let somebody else make a good point. You could have made that point. It was an obvious one, but you let somebody else have it. It’s a little bit generous as a performer. So it’d be like, you know, you’ve got some incredible guitar player. They come out and they just do a solo of six minutes and you’re like, “Piano guy could have done a solo for a minute. You could have done two. We could’ve given the drummer a minute and they could’ve let the vocalist lead off the song with an a capella moment, right?” And so I’ve really tried to be better at it and specifically tried to be better at it, because people have been critical of me for interrupting certain people. And so I had to actually adapt to that. And so, because certain people, if you interrupt them, it’s a trigger for them or it can break their train of thought.
+
+Tim Ferriss: And I ran into this — 
+
+Jason Calacanis: That’s where I came up with — 
+
+Tim Ferriss: I ran into this recently and I was like, I wondered, “How would Jason handle this?” I was curious.
+
+Jason Calacanis: So I came up with another one. I said, “I’m going to give you the circle.” So if people aren’t watching right now, I’m just taking my index finger, and I’m just given the wrap up sign. But I’m also nodding. So I’m saying, “Yeah, good stuff. I’m giving you the good stuff. But hey, let’s wrap that point.” And then I’ll just stop and they finish their thought. And the other thing I do is I just use, “Okay.” And I got that from Sam Harris. I was listening to Sam’s podcast. He gets people monologuing. These are some of the most brilliant academics in the world on his show. And you’ll see sometimes he wants to break in, but I think in academia, it’s even more difficult to do that.
+
+Tim Ferriss: Verboten. Yeah.
+
+Jason Calacanis: Verboten. That’s the word I was looking for. My dyslexia was killing me on that one. Forberwritten? Verboten. You let people finish, but he’ll say, “Okay.” And it’s like, “Okay, I got it. Okay, you did it.” And then the person’s like, “Oh, oh, Sam has something to add.” And that’s in a one on one situation. You get good by studying. I study a lot of what you do and you have a way when you’re asking a question of slowing down and it’s almost as if you’re bringing us into your brain for the formation of the question. And that was me imitating you.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: But, yeah. You do it, it’s like somebody at a dinner party who’s talking in a lower voice and everybody leans in. I know it’s going to be a fucking important question when you do that, and I don’t know if it’s unconscious or it’s conscious or you are truly forming the question. But when listening to Tim Ferriss, when Tim slows down and Tim is thinking, “I want to ask you one more question. I have it on this note here. Hold on…” It means it’s a really important question and it really does work as a technique and everybody’s techniques doesn’t have to work for everybody. Like I talk fast. You talk a little slower, more methodically. Sam talks even more monotone.
+
+Tim Ferriss: He speaks in finished prose. 
+
+Jason Calacanis: Unless it’s about Trump, then he gets on tilt. It is funny how we all study each other, right?
+
+Tim Ferriss: Oh, yeah, I love doing it. I mean, I remember doing so much studying in the beginning. I’m still studying.
+
+Jason Calacanis: Me too.
+
+Tim Ferriss: It’s fun to notice, because when you’re in the game and you’re doing a lot of interviewing, I don’t do as much moderating, so I can’t speak to that, but you begin to notice, just like you noticed, you begin to notice the little things that were you not also doing a lot of reps you wouldn’t pick up.
+
+Jason Calacanis: It’s about the reps.
+
+Tim Ferriss: I wanted to ask you about moderators. You mentioned The McLaughlin Group earlier. Are there any that stand out as good moderators to you?
+
+Jason Calacanis: There’s not a big cohort of moderators, because almost everything is — yeah. I mean, you might say, what’s his name from Politically Incorrect?
+
+Tim Ferriss: Bill Maher?
+
+Jason Calacanis: Bill Maher. So Bill Maher, he can drop something funny into a moderated bit. So two people are talking and I do a little comedy on the side and will sometimes make jokes during the podcast. And I have seen him do this particularly well. He’s watching two people spar and he’s kind of set that up and he’s leaning back and then he just lets a little funny thing out.
+
+So as a device for a moderator, it’s getting super heated and then you drop something funny and you’ll see me do this on all end. It kind of just cracks the whole thing open. Everybody’s like, okay, that was getting really serious, but we’re all humans and we can laugh too about it. So somebody’s having some crazy debate about Roe v. Wade and then he makes some joke and you’re just like, whoa, that’s a funny joke. Oh, I can laugh about Roe v. Wade and abortion? Oh my god, I’m not allowed to laugh about that. That’s a dicey place to be, but that comedic interruption, it works pretty well, but there aren’t many people or shows that do it well.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: I think you could pull it off, I think with, you have your great rapport with Kevin Rose and if you’ve got one or two more you could do your own little All-In/McLaughlin Group thing, it would be quite successful, I think.
+
+Tim Ferriss: Yeah, I guess it comes down to the chemistry, like you said, because with Kevin it’s like we just, it’s having a good improv comedy partner or something. It’s like your styles just work for some reason and then you can always improve the craft and work on it. But there is just this baseline of compatible chemistry.
+
+Jason Calacanis: When you look at your podcast player. If I see Random Show, that’s just like, I snap that immediately, when The Random Show comes up in my feed. Because you know what? We were going back to friendship. We spent a little time in this conversation. Friendship is so special. It is one of those very special things in the world’s unique. And when people see friendship, true friendship, it’s such an intoxicating thing to know that you and Kevin are having a great time catching up and we get to be there for it.
+
+And I do think that is a big part of why people have become addicted to All-In. And we had one or two weeks we took off and man, I have never had people, I was so depressed. “God, what’s going on?” And then when the show was going to break up, and “Oh, my god, what’s going on? This sucks, man.” People wrote me very long notes. “I really think you guys need to think about the fans and the impact is going to have on us.” And I feel like we’re in Pink Floyd and Roger Waters and Gilmore are doing separate tours and they’re like, “It’s the same songs, folks. You could just listen to the old albums.”
+
+Tim Ferriss: I think there’s another piece which is right parallel to this, and that is with friendship on display, you get to hear people also talking as humans without overly self censoring in a world where that has become the norm. Do you know what I mean?
+
+Jason Calacanis: Yeah, no, just now in our conversation, when we were bringing up “Ouch! My Balls!” from Idiocracy, I was like, “Oh, we’re going there? Oh, no. Are we going to get canceled for liking a funny bit in the movie?”
+
+Tim Ferriss: Yeah. And the fact of the matter is as, I don’t think anyone will disagree. If anyone listening to this podcast had their group chats publicly shared, everything would be over. It’s just like their chats with their five closest friends. All of us would be unmasked for the complete children that we all are.
+
+Jason Calacanis: Yes. Goofballs.
+
+Tim Ferriss: And despite that, given the times, I think the majority of folks feel like they have to put on a mask and stuff all of that so far down, because the risk seems so high. So when you have a show where friends are having fun, they’re not taking themselves or anything too seriously, even though they do take things seriously in life. It allows everyone to just exhale for a second.
+
+Jason Calacanis: Yeah. Chill out.
+
+Tim Ferriss: Take off the psychological corset that they strain to put on in the morning.
+
+Jason Calacanis: It is very weird being a Gen Xer where the Overton window was so much wider when we were young and now the Overton window, people are like, close it tighter, close it tighter. And I’m like, who cares? Just a window. You can pick how wide or open you want it to be, but people are really trying to narrow the topics you can discuss in a way that I find kind of a bummer, because all those conversations are still going to occur. They’re just going to occur in private. I almost would rather they be occurring publicly so we could make more progress as a society. It feels like — 
+
+Tim Ferriss: Yeah. I agree.
+
+Jason Calacanis: It feels like it’s going to work against us. I hope it opens up. That’s why I was talking about that Red Scare podcast or another podcast. I like is the guy who wrote Less Than Zero and American Psycho, Bret Easton Ellis.
+
+Tim Ferriss: Oh yeah.
+
+Jason Calacanis: And both of these are on Patreon and both of these are behind paywalls, which I think is interesting. Both of them are podcasts where people are being an Overton window that’s twice as wide open.
+
+Tim Ferriss: But just for folks who are listening: Overton window?
+
+Jason Calacanis: What’s allowable to discuss in society writ large. I’m using a fancy word. What you’re allowed to talk about in society without feeling ashamed or that you are being inappropriate. So there was a time — 
+
+Tim Ferriss: Or you’re going to be persecuted.
+
+Jason Calacanis: Persecuted for sure. So there was a time when just even talking about somebody being a homosexual was outside the Overton window. And if you brought it up, everybody would leave the dinner party, be aghast. “Oh, my God.” So you had to just treat a person who was a gay person at a dinner party as like, “Oh, yes, they’ve got a roommate,” and we’re just going to sweep that under the rug. “Oh, yeah, they’re here with their roommate. They split their rent, because it’s cheaper.” And then you could be like, “Yeah, Ernie and Bert are gay. They’re roommates. Pretty obvious.”
+
+Tim Ferriss: I like the little judo move you did with the Ernie and Bert there, the jelly and peanut butter. I was like, “Well, wait a second. Oh, wow.” I’m just, “Now I know.” Yeah. I like it. I like it.
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: So you have this experience with these friends, you build this podcast. Two questions that you can pick, either or both. The first is, you mentioned capturing lightning in a bottle. And I’d be curious how you would explain the success of this show, because there must be, you were so deliberate, so deliberate. Every example you’ve given, I think from at least your earlier career, shows how systematic and methodical you are. So I know it wasn’t an accident. It may have coalesced in a way that couldn’t have been predicted, but I don’t think it was an accident. So how would you explain the popularity? What are the ingredients?
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: And then secondly, how do you now think about success for yourself? And you made that joke earlier about being separated from the private jet, your friends standing in the way of this private jet. So I was just curious — 
+
+Jason Calacanis: Jet blockers.
+
+Tim Ferriss: Yeah. How do you think about success and or power? Because that played such a role in your life up to this point. So the ingredients that made the podcast successful or that make it successful, and then the success power piece.
+
+Jason Calacanis: I think there is something that comes from repetition and getting reps in, and you and I are both big fans of that. And so I think having done whatever at the time, maybe 13- or 1,400 episodes of This Week in Startups and all those event interviews, I came into All-In with a 10-person podcasting team. I mean, that includes some salespeople, so whatever. But having had done so many podcasts that I came in with so much knowledge and ability and it was like, oh, my skill, but a different playing field.
+
+It would be like somebody who plays ping pong all of a sudden gets on a tennis court, which happened to me. I used to play ping pong as a kid and I bought a house that has a tennis court, quite embarrassingly. It’s a mind-blowing thing for a kid from Brooklyn to have a tennis court on their property. You’re like, “Wait, aren’t there two for 10,000 people in Brooklyn? And you have to wait to get on it.” And then I have one, where I can just sit there and let it go unused for a month. Like ping pong and tennis is the same thing. There’s a net, there’s a ball, you put spin on it. And I started taking tennis lessons this year and it was like, woo, your brain kind of lights up?
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Same thing, but different game skill. So I think it was all that preparation had led to this new thing that you actually cued off on and we talked about last year for an hour during the winter of, “Hey, what happened there?” And so I think that was the lightning in the bottle for me personally, was maybe I’m a better moderator than an interviewer. Maybe that actually was sitting there the whole time. Maybe I’m a better tennis player than a ping pong player.
+
+So that for me, I think has opened up a lot of possibility, possibilities of what I could do with the last 10, 20, 30, 40 years, whatever I’ve got left on this planet, before the tears in the rain moment happens. And so it has opened my aperture a bit and I am thinking about things differently, which dovetails with your second question, which is, after I made whatever amount of millions of dollars, I had a profound realization when I go out to eat with a friend who’s a billionaire of me, you, and Travis were sitting around, or me, you, and Matt Mullenweg were sitting around and we took out our net worths and was like, “Oh, my God, you and I are down here. These two guys are up here.” 
+
+We all go and have a steak. Steak tastes the same, we all go and go skiing or we go to Japan. Same experience. And once I realized that, I was like, for me, it might be different for other people, the scorecard of cash doesn’t matter beyond a certain point. And for me it was the freedom to do whatever I want in my life and to take care of my three daughters, take care of my wife, and be a good provider, take care of my extended family if they needed some help on the margins. 
+
+And once that happened, I was like, I actually, I drive a Model Y and I prefer that to the Plaid. And I have a Model X, I enjoy sometimes the New York strip better than Wagyu. I just kind of like the flavor of it. It’s a fifth of the price.
+
+So once you start to realize, okay, these are just constructs and money is just not the right scorecard. The right scorecard is, did you wake up and couldn’t wait to get out of bed. To me, that’s the true scorecard. I cannot wait to get on air and do this weekend startups with Molly and talk about tech. Can’t wait to meet with founders. I can’t wait to teach another course on how to start a company. Can’t wait to see my friends for dinner, can’t wait to help my friends if they’re in need. Can’t wait to come on the Tim Ferriss pod. If I can’t wait to do the activity, I know I’m doing something right. When you invited me on, I went to Jade, I was like, my wife’s name is Jade, and I was like, “Oh, Tim invited me on the podcast. I can’t wait to do it.”
+
+And I have never, that very rarely happens, but I was like, “I listen to the Tim Ferriss podcasts all the time, and I’m sure at some point I’ll be on it.” But the act of doing it with you, to me was like, “Oh, I’m excited.” And being excited and enthusiastic, to me, it just means something has aligned. And when I’m writing, you and I have the same thing, when you get, I don’t know where it is for you, but somewhere around a third of the book, things start heating up for me and all of a sudden the first third of the book is like, “Oh.” And then all of a sudden, “Oh, I know what sections I have to do. I can see behind the next corner, the book just flows.” And you’re like, “Boom,” 2,000 words are coming out at a clip.
+
+And those kind of moments, when you have that flow and you have that enthusiasm for life, you have to construct a life around those. And then life is just pulling you out of bed every day and just telling you, I got to go to bed every night. I go to bed. And I’m just like, I don’t want to close my eyes. I want to just do another hour. And it’s hard for me to go to bed some nights, because my enthusiasm is so high for life and I wasn’t always that way. A lot of it was a struggle. A lot of it was trying to figure out who I was.
+
+But I really do want to enjoy this last couple of decades of if there’s an interesting project or moment that’s going to create that great memory and going to make me enthusiastic, I want to do it. And if that means helping out a friend on a special project or going on a friend’s podcast or whatever, doing a new podcast. I feel very blessed that I got here and I want to just squeeze every single drop of juice out of that box of oranges.
+
+I mean, really think about it, our friend Dave Goldberg, rest in peace, Tony Hsieh, the darkness there, it can be over and it can be, it’s exactly like our age range where we start saying goodbye to people. And so if you are in your 20s or 30s, you’re just on adrenaline and then you get to 40s and 50s and you’re like, “Huh, what do I do with what’s left?” Especially if some things have hit for you. If you’re Tim Ferriss, you’ve got to really start thinking, “Okay, well I’m one of the top podcasters in the world, one of the top authors in the world, is this actually making me happy?”
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: And that’s the thing I’m writing in my new book about is, my new book is about money and wealth and I really — 
+
+Tim Ferriss: Yeah, I can’t wait to read it.
+
+Jason Calacanis: Can’t wait, well I want to send you some early stuff and get your thoughts on it, but I’m writing about this paradox that you and I are talking about right now, which is what happens when you catch the car?
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: What happens? It’s part, how do you catch the car? But then once I get you on the hook for that, how do you get the money? Now what happens when you have caught the car? And then now you have to look in the mirror, “I caught the car. Okay, the adrenaline rush is over. Am I actually happy? Did I want to catch that car? Did I want to be Tim Ferriss? Did I want to be J Cal? Did I want to be Travis? Did I want to be Matt Mullenweg?”
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: “Is this actually making me happy? What now?” And that’s where Buddhism and a lot of soulfulness has hit me in my 50s or right before my 40s, basically when my two friends died. Two of my poker buddies died and it just reprogrammed my brain in a major way, those two events. And it’s actually been a gift in a way, because now I just look at the world differently. It’s a big — 
+
+Tim Ferriss: Put things in perspective.
+
+Jason Calacanis: Yeah. I mean it does really.
+
+Tim Ferriss: And another pattern I’ve noticed, just with respect to catching the car, is that not everyone, but a lot of achievers I know who have been driven enough off and worked hard enough and focused long enough and sacrificed enough to make a lot of money, when they finally crossed that threshold where they can’t really rationalize the need to make more, which by the way, I mean, not to plug my own, I haven’t done this, I haven’t mentioned The 4-Hour Workweek in a long time, but if you actually read some of the basics, the fundamentals in that book, it outlines just how much self-deception goes into believing that you need 20, 30, 50, a 100 million dollars. It’s mostly unjustifiable.
+
+Jason Calacanis: Totally.
+
+Tim Ferriss: And when you get enough money that you’ve won the game, you always thought would answer your prayers and remove all the pain, anxiety, and depression, and it doesn’t, that is a terrifying moment.
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: Oh, my God, do people — and I’ll include myself in this group of people —
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: — begin to panic, because you’re like, “Wait a second, if that didn’t fix these things…” 
+
+Jason Calacanis: Yep. “What will?”
+
+Tim Ferriss: “What in the fuck am I supposed to do?” And it can be, and I don’t want to make it a complete swan song. I mean, look, it’s better to — all things being equal — to have the money than to not have the money. However, the prevalence of depression in successful people, that has increased, rather than decreased, after they catch the car, it’s worth studying. I think it tells us a lot about the human condition, even if you never end up catching the car.
+
+Jason Calacanis: And this is where doing the work internally, and I really respect the fact that you’ve used some of the resources you’ve gathered to do the work you’re doing at psychedelics.
+
+Tim Ferriss: Thank you.
+
+Jason Calacanis: I’ve never publicly talked about the psychedelic work or psychedelics period, because as a person who sometimes people follow what I do with a fan base — I talked about actually taking Ozempic for the first time. I think there’s suffering in the world that psychedelics are uniquely qualified, I suspect. And you’d want to talk to a doctor and a therapist and do these things in a very considered fashion. But the fact that you are looking at psilocybin and other people are looking at ayahuasca or ketamine or whatever, I think the research and the suffering that’s happening, a lot of it is because people have not done enough of the work to look inside and find out where that trauma is and maybe try and clear it and maybe try to understand it. And that is, I think, the breakthrough that’s going to happen in our lifetime, because of people like you and some other friends of ours, who have dedicated significant resources towards the study of these. I don’t know if you saw Colorado? I think past — 
+
+Tim Ferriss: I did, yeah.
+
+Jason Calacanis: 122 yesterday.
+
+Tim Ferriss: Yeah. It’s big news. Very big news.
+
+Jason Calacanis: It’s big news. Colorado’s going to allow therapists to do all these different psychedelics in really safe settings with really qualified people for people who have PTSD, people who have trauma, people who have anxiety, people who’ve been to wars, people whose lives have been wars, and it’s having a profound impact. And people are out there and they’re suffering.
+
+I really, really encourage them to go to therapy and to maybe even research this stuff, because again, you give these disclaimers all the time on this podcast, but there is help out there and you don’t need to suffer alone. And sometimes people will mask their suffering and mask their problems with performance. And this is the show about performance and that’s why people listen to it and people are drawn to it. But sometimes we’re drawn to performance, because we don’t want to face the pain or suffering that is driving that performance. The fuel, a lot of times those hot coals that are burning, that’s a lot of pain and suffering and it fuels an engine, a mighty engine. But then you get to the destination we’re talking about here and then, hey, maybe this isn’t serving me well anymore. And you want it to serve you well.
+
+Tim Ferriss: Yeah, agreed. And I’ll make just a couple recommendations for folks. One, this is an extremely heavy podcast in terms of content, but if people are curious in the capacity of researching psychedelic therapies or psychedelic assisted therapies, but also looking at alternatives to that, I did do a podcast that people can find at tim.blog/trauma, which is a conversation between myself and Debbie Millman.
+
+Jason Calacanis: That’s incredible.
+
+Tim Ferriss: Who suffered from a horrible childhood abuse. And we took very different paths, but found solace, found support in very, very different ways. And there are a lot of resources associated with the blog post and the show notes that people can look at the other, if people are interested in identifying at least some of the credible institutions and scientists doing research on, say, complex PTSD and MDMA-assisted psychotherapy, which is now, I believe, through phase three and psilocybin for treatment-resistant depression, et cetera. If you go to saiseifoundation.org, that’s the foundation I started some time ago, which is S, A, I, S, E, I, which means “rebirth” in Japanese, saiseifoundation.org. There’s a projects page where you can see the various universities and a lot of the researchers.
+
+Jason Calacanis: I’ve been looking for this to see where all the research is actually occurring. You actually made a page. I was telling somebody recently, there should just be a place people could go to see where the progress has been, because people are not aware of how much people, I think it’s next year that MDMA will be available in therapy in some psychiatric settings, right?
+
+Tim Ferriss: Yeah, I’d have to check the latest and greatest. It’s certainly last time I checked in, it would be as potentially as soon as the end of, say, 2023 or early 2024. I’ll have to check. There’s so much flux, because there’s not only the federal landscape and potential reclassification, which you can do through demonstrating medical need. Because schedule one is supposed to be, and I’m painting with a very simplistic brush here, but schedule one compounds are supposed to be drugs with a high potential for abuse that have no known medical application. And rather than fighting the political fight, which you do have to fight at some point, you can demonstrate medical application through good science and clinical trials, which has been the area where I’ve predominantly focused. But then you have Colorado, you have Oregon as well. And these parallel systems or initiatives to create parallel systems on a state basis, a statewide basis, that will be very interesting experiments.
+
+And they could go a lot of different ways. I mean, it could all go well. There will probably be, as happens when therapies scale, various issues and problems and scandals and so on. I expect that. Humans are humans, so they’re going to find a way to screw it up one way or the other, but net the hope, and I do think there’s a lot of good that has come of, say, the decriminalization nature initiatives, although I disagree with some of their stances. It’s a very exciting time of flux at the moment. And as you put it, there is help out there and there are sources.
+
+Jason Calacanis: If you think about what we saw happen with cannabis in this country and the legalization of it, life went on. But these drugs are really going to help people, I think, especially with the complex PTSD, especially with anxiety.
+
+Tim Ferriss: Absolutely.
+
+Jason Calacanis: It’s just great when combined with a proper therapist, I think.
+
+Tim Ferriss: Yeah, they’re very powerful, as a friend of mine, I don’t think he said it publicly, so I’ll keep it anonymous, but a very senior scientist. He said when you’re working with psychedelic compounds, you are working with nuclear power, so you just need have the right therapeutic context around it. But they’re very, very, very powerful. J Cal?
+
+Jason Calacanis: Yeah?
+
+Tim Ferriss: Yeah. We’re coming up on — 
+
+Jason Calacanis: I was like, oh wow. Just a quick 75 minutes, 90 minutes. I looked at two hours.
+
+Tim Ferriss: Two hours.
+
+Jason Calacanis: We talked two hours.
+
+Tim Ferriss: Two hours plus. Is there anything that you would put just as winding this to close? Anything that you would put on a billboard, metaphorically speaking? Like a message, a quote, a word. Anything at all that if you were to get a message out to billions of people, assuming they would understand it, what might you put on the billboard? Anything at all.
+
+Jason Calacanis: There’s part of me that wants to tell people to take chances and that they can do it. Like, to give it a shot. To just give it a shot. Right? It might just work out. What if it works out? Give it a shot. What if it actually works out? And then there’s another part of me that, that’s my head speaking, and then my heart is just be kind to each other. Especially in the face of when people are unkind. I’ve just noticed that people, and this is coming from me, I mean, I’m known for arguing with people, a brawler.
+
+I don’t know what’s in the air. I don’t know if it’s since Trump and this whole polarization of the country, but I would really like to see people be kinder to each other and just have really open-hearted discussions with each other. And I think your podcast, to a lesser extent, what I’m trying to do on All-In, I think there are roadmaps here for people to have productive discussions with each other that move themselves, evolve themselves and involve humanity. I think that’s why podcasting is such a special medium. And I think you really can have productive discussions with people you disagree with. You can have great relationships. You don’t have to agree on everything. You can have great friendships. So have those productive discussions with a big open heart and develop those friendships. It really is the best part of life. So for me, yeah, I don’t know. The two best things I’ve done in my life is have great friends and build cool shit. So I guess that’s my billboard. “Have great friends; build cool shit.”
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Put a comma in there.
+
+Tim Ferriss: Yeah, and you know, just building off something you just said, you can have disagreements with good friends. And I would go so far as to say if you’re not having disagreements or if you don’t disagree on anything, someone’s not telling the truth.
+
+Jason Calacanis: No.
+
+Tim Ferriss: Because we’re all different.
+
+Jason Calacanis: Absolutely.
+
+Tim Ferriss: And if you’re spending time with people who are thinking for themselves, you’re almost certainly going to have things you’ll disagree about. And that is part of the relationship, that is an asset to the relationship. But that also means you have to learn how to manage conflict and resolve conflict. And do repair also. And do repair.
+
+Jason Calacanis: Yeah, repair.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Wow. That’s a whole ‘nother podcast.
+
+Tim Ferriss: That’s a whole ‘nother podcast.
+
+Jason Calacanis: Promise us, Tim, that you’re not going to stop. I get worried a little bit that you’re going stop doing this podcast. You can take a break, but don’t ever stop. I mean, you’re 45. If you do that, can you imagine if you do this for another 20 years, how great this archive of Tim Ferriss’ podcast is going to be?
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Think about the legacy.
+
+Tim Ferriss: It’s hard for me to see stopping. I’ve thought about taking a break after a billion downloads, which should happen in the next few months, actually. And as much as I fantasize about burning it all down and going to live in a hut in the mountains and growing out a beard and smoking a corn cob pipe and reading books, as much as I fantasize about that and doing cold plunges in a river and running with my dog, there’s a lot to the fantasy. But I can’t imagine, as you mentioned earlier, we’ve had so many private conversations and I think both of us have come away thinking, “Fuck, why didn’t we record that? That would’ve actually made a fantastic conversation.”
+
+Jason Calacanis: Would’ve been a great ep! Find him a podcaster.
+
+Tim Ferriss: I’m going to be seeking out incredible, fascinating people to have conversations with, whether I’m doing the podcast or not. So I might as well record them.
+
+Jason Calacanis: It’s just amazing the impact it’s had on society. I can’t tell you how many people, people don’t know I know you or that we’re friends even. So then I’m at a dinner par, oh, did you hear this podcast by this guy with this odd thing? And all the time you’re really in pop culture in a way that’s just really impressive to me. It’s actually, you know what? I guess I’m going through it now with All-In, to a lesser extent. It really is a weird thing. So think about being in people’s ears, makes it incredibly intimate.
+
+Tim Ferriss: Very intimate. Yeah, it’s very intimate.
+
+Jason Calacanis: I think AirPods specifically, these little things that you can fall asleep in your ears or you have them in your ears all the time. And the act of listening to somebody’s voice so often so consistently has created some new phenomenon in the world. We call it podcasting, but it’s really like this lifelong friendship you have with a personality you’ve never met. It’s really trippy.
+
+Tim Ferriss: It is trippy. It’s super trippy.
+
+Jason Calacanis: Thanks for having me on.
+
+Tim Ferriss: Yeah, of course.
+
+Jason Calacanis: I can’t wait to see you.
+
+Tim Ferriss: Can’t wait to see too, man. So people can find you — 
+
+Jason Calacanis: We’re going to play some poker.
+
+Tim Ferriss: Oh, god. That’s a whole separate episode too. Yeah, that was — 
+
+Jason Calacanis: We’ll play for charity.
+
+Tim Ferriss: That was a poke — 
+
+Jason Calacanis: We’ll play for your psychedelic charity. That would be funny.
+
+Tim Ferriss: All right. Perfect.
+
+Jason Calacanis: I’m just Jason on Twitter.
+
+Tim Ferriss: Yeah, Jason on Twitter.
+
+Jason Calacanis: Jason on Twitter.
+
+Tim Ferriss: And anything else you’d like to mention before we wrap up? Closing comments, complaints, requests of the audience?
+
+Jason Calacanis: No. As I randomly tweeted, I don’t know, six months ago I just had this revelation, because I listened to three of your podcasts in one weekend. I was kind of catching up and I just like, you’re a fucking national treasure. It’s just good to know you.
+
+Tim Ferriss: Thanks man. I really appreciate that.
+
+Jason Calacanis: Congratulation on just, it wasn’t always great.
+
+Tim Ferriss: Yeah. That’s true.
+
+Jason Calacanis: It was rough in the beginning and now it’s just fucking brilliant. So just congratulations from one person who’s been grinding it for a while. It’s just great to see you at the top of your game. I told this in a private conversation. It’s just like, I listened to your podcast. I’m like, wow. He’s on the top of his game. It’s like watching Michael Jordan or something. Just play basketball. It’s beautiful to watch and you get the best guests. Now when you have great guests on, they’re enamored with you. And it used to be, you’re kind of like, yeah, I’m Tim Ferriss, just kind what I’m doing. They come on and they just want to talk about you. And I’m like, whoa this is tipped over, hasn’t it?
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Famous person.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: Is talking about your podcast, where you’re trying to interview them. Whoa. Interesting to be Tim Ferriss. Anyway, we’ll see you all next time. Bye bye.
+
+Tim Ferriss: Yeah.
+
+Jason Calacanis: You’ve got to end this podcast it sounds — 
+
+Tim Ferriss: No, we’re going to end it.
+
+Jason Calacanis: We tried to end it five times this.
+
+Tim Ferriss: I know. We tried to end it five times.
+
+Jason Calacanis: It’s because we miss each other.
+
+Tim Ferriss: The tearful goodbyes. So I will say this, Jason, thank you.
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: It’s lovely to see you. I am studying what you’re doing, so it gives me great joy to have you on. And you’ve inspired me to think about maybe trying my hand at an experimental format with moderating a few folks.
+
+Jason Calacanis: Do it.
+
+Tim Ferriss: I’ll give it a go. And this has been a blast. I’ve learned so much and heard so much. I never thought that I would, never would’ve expected to hear.
+
+Jason Calacanis: Yeah, here we are.
+
+Tim Ferriss: So happy we made it happen. And to everybody listening, as always, we will have links to everything we discussed in the show notes at tim.blog/podcast and until next time, be just a little bit kinder than you think necessary to other people and to yourself.
+
+Jason Calacanis: Please.
+
+Tim Ferriss: And squeeze the shit out of that box of oranges, because we’re all going to end up — 
+
+Jason Calacanis: Drop folks.
+
+Tim Ferriss: We’re all going to end up on the roof as in Blade Runner. We’re not going to last forever. So make those moments count.
+
+Jason Calacanis: Yeah.
+
+Tim Ferriss: Thank you, Jason.
+
+Jason Calacanis: I love you, brother.
+
+Tim Ferriss: Love you too.
+
+
+TAGS
+JASON CALACANIS
+	

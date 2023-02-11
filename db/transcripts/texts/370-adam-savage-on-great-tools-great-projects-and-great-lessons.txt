@@ -1,0 +1,517 @@
+
+
+MAY 8, 2019 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Adam Savage (#370)
+
+
+
+
+Please enjoy this transcript of my interview with Adam Savage (TW: @donttrythis, IG: @therealadamsavage, FB: therealadamsavage), former co-host of Discovery Channel’s 14 seasons of MythBusters and current host and executive producer of MythBusters Jr., as well as host of the brand-new series Savage Builds, which premieres on Science Channel this June. 
+Watch the interview on YouTube.
+
+
+
+#370: Adam Savage on Great Tools, Great Projects, and Great Lessons
+
+Tim Ferriss: Adam, welcome to the show.
+
+Adam Savage: Thank you, Tim. It’s so awesome to see you, at least virtually on my screen.
+
+Tim Ferriss: Yes, indeed. And there’s going to be no shortage of things to get into, and I thought we might start. Some people will be listening to this audio only, but I couldn’t help but notice a piece of, maybe not memorabilia, because you probably made it yourself.
+
+But there is a No-Face behind you in your workshop, and for those who don’t know, it is from arguably my favorite film of all time, which is an animated film, Miyazaki — called Spirited Away. And could you please explain? Because I don’t know why you have a No-Face behind you.
+
+Adam Savage: So Spirited Away is also one of my favorite films of all time without a qualifier that it’s animated. Hayao Miyazaki is one of the world’s great treasures as a storyteller, and Spirited Away is a mind-blowing film. I love explaining to people that it’s an entire universe that you only get the tiniest details about, and yet you’re clear it’s a completely consistent universe.
+
+The film is about a little girl who loses her identity in the spirit world and with the help of this strange, needy spirit named Kaonashi, or No-Face, she gets her name back and is able to escape the spirit world.
+
+At one point in the mid ’90s, I was at a Halloween party and I saw a really terrible rendition of No-Face, but still, seeing a No-Face in person made me jump and I thought, “I really want some of that.”
+
+So once I started attending Comic-Con really regularly and thinking about putting on big costumes, I made a No-Face costume. I think it was my third or fourth Con. And it is, I have over 75 costumes, and some, like the Kane space suit from Alien behind me, that took 14 years and cost me probably, I have probably $10,000 of my own money invested in that suit and the commissions and the collaborations.
+
+No-Face here cost me about 75 bucks. I think the most expensive single item was arm-length matte satin gloves from the Lusty Lady Drag Queen Store here on Mission Street that’s no longer around.
+
+And even though it wasn’t an expensive costume and I put it together in about a day, the effect that it had on people when I hit the floor at San Diego Comic-Con was shocking. And not just shocking like they were surprised, but I was also handing out gold coins to people from beneath my hoodie.
+
+Tim Ferriss: Amazing.
+
+Adam Savage: I had chocolate gold coins, so every time I took a photo, I’d hand one out to someone. And then people started giving me back the gold coins, angrily. I could feel them grab my hand, put the coin in. And it turned out that of course it’s bad luck to take gold from No-Face in the film.
+
+This was like the expansion of my mind about what cosplay really was. That it is a form of theater where the audience and the performers are all one thing. And we are all playing about a narrative that we love.
+
+And it just started a lifelong fascination with what that process is, process of putting on costumes, transformation, enjoying that transformation with others who are as weird and wonderful as you are. There’s no end to it. And No-Face was where that first tic of consciousness about what it could be.
+
+Tim Ferriss: I am so glad I asked, and I encourage everyone to try to see this film. I remember searching desperately a few years ago. I didn’t want to find it on Pirate Bay or somewhere else. I really wanted to pay for it. But it was so difficult to find Miyazaki films digitally. I couldn’t find it years ago.
+
+Adam Savage: They still don’t stream. You have to buy physical DVDs. And this is actually, I’ve been recently getting into more Japanese anime and some of the really, you know, Satoshi Ohno and, I’m not getting that name right. I’m sorry. But like there’s some amazing filmmakers and so little of great Japanese animated cinema streams in the U.S., so I’m firing back up my old DVD drives for the laptop in order to be able to watch them.
+
+Tim Ferriss: Yeah. Everybody should check it out. The name in Japanese, which I think is Sen to Chihiro no Kamikakushi, or something like that. She loses her name, but is given a new one with just one character in her full name, which is Chihiro, so Chi and Sen are pronounced the same way in Japanese.
+
+In any case, I don’t want to go down that rabbit hole too far, but I thought we could flash back and tie this obsessive tendency or tendencies really, that you’ve harnessed for the greater good and certainly as a career, all the way back to a suit of armor, at least that’s how I would describe it, that you built, I want to say sophomore year in high school?
+
+Adam Savage: Yeah.
+
+Tim Ferriss: Could you tell us about this suit of armor?
+
+Adam Savage: Yeah. The suit of armor has its origins in 1982, going to see, which was the year, my sophomore year in high school. 1982, John Boorman’s film Excalibur came out with an amazing cast of Gabriel Byrne, Patrick Stewart, Liam Neeson, and some wonderful British actors like Nigel Terry, who played Arthur from the age of 17 to the age of 65. I was blown away by this film.
+
+The armor in it is so beautiful. The knights wear their armor all the time, which was certainly something I wanted to do at 14, 15 years old. And I made two suits of armor inspired by that film in high school. The first one was in my sophomore year, I made one out of cardboard, replete with a white horse that I wore around me like one of those silly horse costumes.
+
+Then I made one out of roofing aluminum and pop rivets, and it’s where I learned. My dad taught me all about pop rivets and we used about a thousand of them in this suit. And I wore it to class. I felt amazing. I immediately passed out of heat exhaustion in third period from the append that I was wearing.
+
+And I woke up in the nurse’s office. And like, this is one of those moments in life where you feel like a screenwriter is writing it, and maybe they’re a little too on the nose.
+
+Because I woke up without the armor on, because they basically removed it from me because I passed out. And I woke up and went, “Where’s my armor?” They were like, “All right. I get the analogy of the armor being both physical and theoretical, but Jesus, we could tone it down just a little bit!”
+
+Tim Ferriss: Now you, as I understand it, have your hands in a lot of projects, a lot of materials. You’ve developed many divergent skills that then converged in interesting ways. In high school, what did you think you were going to be when you grew up?
+
+Adam Savage: I thought I was going to be an actor. The drama club was definitely my people, the theater group in high school were my people. It was where I found acceptance and camaraderie and collaboration. And by the time I was 15, when I was 15, I wanted to take it seriously and I knew that my dad had worked in advertising in the ’60s. And so he reached out to an old friend of his, Charlie Kimbrough. Charlie is famous for playing Jim Dial on Murphy Brown. Charlie was one of my dad’s oldest friends.
+
+And Charlie introduced me to his agent at ICM, Doris Manson. She took me on and started sending me out on commercials. And I got the first commercial I auditioned for, which was to play Mr. Whipple’s stock boy in a Charmin commercial. And I thought, “Oh, this is it. It’s that easy. I went on an audition. I got a great job.” I then played second lead in a Billy Joel music video and I did a few more commercials and stuff like that. And I really thought that acting was going to be it.
+
+I even went to NYU for six months and studied acting at Tisch School for the Arts before realizing that my peers in that program were really serious about the craft of acting, and I wanted to be an actor. I got very quickly that there was a fundamental difference between their drive to study the thing and my desire to be a thing.
+
+My desire wasn’t a real desire. It was more like a theater flat of desire. There was nothing behind it. So I ended up giving that up and by 19 I stopped going out on auditions and I stopped taking it seriously and I started concentrating on what I was doing for work, which was to be a graphic designer and assistant animator and I started doing a lot more working with my hands.
+
+Tim Ferriss: I had read that in your 20s, you were concerned at points about being highly unspecialized. And you can’t believe everything you read on the internet, so feel free to correct me. But it reads, and I think it’s a transcript, actually.
+
+“But I actually spent an inordinate amount of my time in my 20s thinking that I was too unspecialized.” Could you comment on that and how you got to a point where you got to a point where you didn’t feel like you were too unspecialized or that that was a liability.
+
+Adam Savage: Yeah. So I lived in Manhattan from age 18 to 23, from 1985 to 1990. And then I moved to San Francisco, and the move is really the turning point for me and that understanding of specialization. The fact is my closest friend who is still in New York, was telling me in 1986.
+
+“Your problem,” he said, “is you have talent, but no ambition.” I go, “Really?” And he goes, “Yeah. If you had ambition, you wouldn’t be talking to me. You’d be saying, ‘I’m sorry, Mr. George Lucas, I can’t make that by Tuesday.'”
+
+And he really was totally correct. This was a guy who had been born and raised in Manhattan, and the thing that I now understand is that Manhattan is an amazing city if you know what you want out of Manhattan. It is a place built on and for ambition, and the people who get their work out and get seen in Manhattan have busted their ass to do it because it’s the singular focus in their life.
+
+And it means, culturally, it’s a really important city because only the stuff that has been fought for gets to your attention. And I think that many great cities are like that. Los Angeles is totally like that. Chicago, London, et cetera. The world’s great cities are worlds where the culture is something, the culture of those cities is a competitive one.
+
+But if you don’t know what you want to do, a place like Manhattan is a very cold and weird place. It’s not going to open its doors to you and you’re not going to be able to stumble into your ambition. And so after five years there of kind of trying several different careers and several different job paths and still not having a singular focus, I moved to San Francisco, which is I think one of the great cities in the world for finding your ambition.
+
+It means that some of the culture here is not as good. It means that everyone, if you want to have your artwork in a gallery, San Francisco, you could do it within a few months. It’s not as hard to do it here as it is in a place like Los Angeles or New York. And I think that has its good points and its bad points.
+
+Again, like I said, I think some of the culture here, some of the stuff you go out to see at night isn’t necessarily as rigorous as it might be in a city like L.A. or New York. But at the same time, it saved me because I was able to call myself a sculptor and have my work in like 40 group shows in the first two years I was in San Francisco. I got huge amounts of feedback from people about what that work meant to them and it gave me perspective in what it meant to me.
+
+And it slowly allowed me to sort of build an ethos of what I wanted to do with my hands and my life. And when I ended up stumbling from the theater industry into the film industry, film and commercial television special effects was where I all of a sudden saw that everything I’d been doing was leading towards this.
+
+Like this was an industry in which all of my excitement and creativity and passion and drive could be pointed in a singular direction. And so I was like, “Oh, I’m going to give everything over to this.”
+
+Tim Ferriss: Did you notice that in a moment, in a flash? Or did it take a while to see sort of like the end of The Usual Suspects, or the red doorknob at the end of Sixth Sense or whatever? Did it take a while to realize that it was that, or did you recognize it immediately?
+
+Adam Savage: No. So it happened like this. So I was working in theater for several years. Eureka Theater, Berkeley, REV, Beach Blanket Babylon. And I started getting a reputation for solving weird problems, and that got the attention of Jamie Hyneman, who was running a shop at Colossal Pictures. And he brought me in. We had a great interview and I ended up working for Jamie on and off full time for about four or five years.
+
+Just before I was working for Jamie, I was working at Berkeley Repertory Theater and I was working at Beach Blanket Babylon. And so I was basically putting in an eight-hour day during the day. I was then doing three hours of a show every night, and I was still staying all night long making sculpture in my studio at Hunters Point. So I was like never sleeping. I was just a one-man building machine.
+
+And when I started working for Jamie full time, I noticed after about a year that I was no longer staying up all night building stuff, and I thought, “Huh?” And then I thought, “I think this is specifically because this work is satisfying all of that creative problem solving that I get in my studio.” And then I went further and thought, “This is why so many people in film and special effects say things like, ‘I used to be an artist.’”
+
+And I resolved at that moment, “I get this. I get that this work for commerce is satisfying the emotional and aesthetic need I have to explore this type of problem solving I was exploring in my art, and now I can point all of that towards this career, and I am steadfastly never going to say ‘I used to be an artist.’ Because it is the same mechanism.” I recognized it. And I still do stuff for myself that’s weird and sculptural and different.
+
+I still apply that aesthetic, and I didn’t think, I think most importantly I didn’t consider it a loss of a purity. To take that energy and point it towards something that had to do with commerce, because I also saw that the commerce was feeding me. That this was a thing I could call a career, and hells bells, if it gave me the same kind of output thrill as making art, screw it. Let’s totally go towards this. Let’s see where it leads.
+
+Tim Ferriss: Are there skills in this? I have one answer for myself in mind. I’m not asking you to parrot it. But are there skills that you developed along the way that have ended up being very important to the success of Adam now? And the background in theater for instance, seems like it might be one of those force multipliers for a lot of what you’ve been able to do.
+
+Are there any other kind of overlaid skills? Kind of like Warren Buffett and public speaking, right? He feels like public speaking just makes you in many cases unique or better at everything else. And so you don’t have to necessarily be like Michael Jordan, top one percent of one percent of one percent. You could be top 10 percent in three things that are very rarely combined. And I’m just curious if any other skills or attributes come to mind.
+
+Adam Savage: Yeah. There’s a family story in my family, that in the mid ’60s, my dad partnered up with a producer in New York and they formed a consortium. And my dad’s partner would be the business side and my dad would be the creative side.
+
+And at the time, his partner had more experience in the advertising industry and he said, “We’re going to make a big splash about forming this consortium. We’re going to put ads out, we’re going to get articles in Millimeter and all these other trade magazines, and I got to tell you, if you start to believe in your own bullshit, I’m going to cut you loose.”
+
+So there was always a family ethos about not believing your own bullshit. It’s a necessary family ethos because my family, because the men in my family, can tend to be very full of shit. Myself included. So watching the watcher and watching out for that drinking your own Kool-Aid is definitely an ethos I was raised with.
+
+You’re right. Theater is a force multiplier for its camaraderie — its low threshold to entry. In fact, I think theater as an art has the lowest threshold to entry because if there is an apocalypse and there are 14 people left in San Francisco and they find each other and make a campfire, theater is the first art form that they will explore together. They will start telling stories and then they will start performing those stories. Because we, as humans, we need narratives to help us make sense of the world.
+
+So I love theater. I have an abiding passion for it, and it was where, when I was working in theater and I saw something I didn’t know about, I could go, “Hey what about that?” And someone would make the opportunity for me. “Oh, I’ll show you how I do that.” So for me, as soon as I got into film, it doubled my income because unfortunately the pay in theater is still really crappy. So I didn’t look back from film.
+
+But the experiences that I had in theater, of the camaraderie, of the learning everything that I could get my hands on, and of that low threshold to entry really have informed most of the rest of what I’ve done.
+
+But all that being said, there’s a quote in Steve Martin’s book Born Standing Up. When someone says to him, “You will eventually use everything you’ve ever learned.” And it’s so true. Because that early acting training I had made me way more fearless about being in front of people and being myself and being out there than I would have otherwise been. And I think, you know, like we were saying about Warren Buffett and public speaking, that ability to perform is one of the biggest As in steam.
+
+If you want someone to understand your scientific proof, you have to explain it, and explaining it is an art form. It is the art of getting your argument across, and nobody can do that in a vacuum. So one of the things I thought was most amazing when MythBusters showed up is I was like, “Oh, look at that. The performer sat dormant for 15 years and while the maker was ascending, and then all of a sudden, this opportunity showed up and the performer and the maker get to meet on the same plane.”
+
+Tim Ferriss: Yeah. It’s really, it’s been a lot of fun to watch your career. I want a second Born Standing Up. That is an incredible memoir. I listened to it actually while I lived in San Francisco. I walked the streets of San Francisco listening to the audio book. Just a fantastic story.
+
+Adam Savage: The thing about the audio book that I was sad about, because I read it, and then on a big road trip, I read it out loud to my wife, she read it out loud to me. Then we got the audio book and we listened to Steve Martin read it. And the only problem I had with the audio book was that Steve Martin didn’t fully commit to his recapitulation of his own comedy bits.
+
+Tim Ferriss: Yeah, that’s true. That would have been the icing on the cake.
+
+Adam Savage: Which I totally get and I don’t begrudge him. He must have had a very real and reasonable reason. I’m just, I grew up on his standup comedy and I wanted to hear it again.
+
+Tim Ferriss: So I want to revisit 2008.
+
+Adam Savage: Okay.
+
+Tim Ferriss: And I mention 2008 because I think it might have been the first time we ever bumped into each other, very briefly, in person. I want to say it could have been. And this was at the Entertainment Gathering, the EG. And it was, certainly for me up to that point, my highest pressure if you want to call it that, public speaking engagement. I was very, very nervous. And for those who don’t know, the EG, I think an easy way to describe it would be a smaller TED created by the same person who created TED, Richard Saul Wurman.
+
+Adam Savage: Yeah.
+
+Tim Ferriss: Who is a very funny guy. And it was, I want to say at the time, what would you say? 500 to 10 days. Something like that.
+
+Adam Savage: Not even.
+
+Tim Ferriss: Not even.
+
+Adam Savage: Maybe three, it was very intimate.
+
+Tim Ferriss: Yeah, it was very small. I remember, please correct me if I’m wrong, but I want to say that you gave a presentation that involved The Maltese Falcon.
+
+Adam Savage: That was that year. Yes, it was.
+
+Tim Ferriss: And what struck me, aside from the fact that it was a fantastic presentation, what struck me was that you, I don’t know if you remember this. You started. You went for about 30 seconds, and then kind of like Adele when she did this tribute song for George Michael not too long ago, you stopped and said, “Nope. I want to start that over.” And then you started over. And you just nailed it. I mean the word per minute rate was so outrageous. It was clear that you really had planned and rehearsed and prepped for this.
+
+But I had never seen someone call an audible like that and start over. And I was so impressed because I remember thinking, “If I fuck up my talk, I will not have the confidence to do that.” Was that the first time that you’d done that? And how do you think about, or how do you prepare for public speaking like that?
+
+Adam Savage: That’s a great question because there’s many, many layers to this. First of all, that talk started its life as a 10-minute throwaway talk I did at Ideal at one of their evenings they called quickies. They paraded a bunch of people and each one does a quick rapid fire talk, and I thought, “Oh, let me talk about something that’s weird and personal. I’ll talk about how much time I spent on The Maltese Falcon.” I was followed by the World Yo-Yo Champion, who just blew the whole house away. It was a lovely, fun evening.
+
+And coming off the stage, I ran into Kevin Kelly, who said, “That’s a really good talk.” Kevin Kelly, founder of Wired, Cool Tools. Kevin is one of the Forrest Gumps of the internet, along with Stewart Brand and a few others.
+
+Tim Ferriss: Totally. Yeah, totally.
+
+Adam Savage: Kevin said, “That was a lovely talk.” And I said, “Thank you, Kevin.” And he said, “I think you should workshop that.” And I said, “I have no idea what that means.” And he said, “I think you should continue to give that talk and keep refining it, because I think there’s a really great talk inside of it.”
+
+And about a month later, my wife and my kids and I were in Nashville Airport waiting to change planes and we ran into this other nuclear family, Jon Ennis and Arline Klatte and their kids. And Arline and Beth Lisick run Porchlight, as they have for the past 20 years in San Francisco.
+
+And we started conversing. And we’ve since become friends. We’ve been friends forever with them now. But she said, “I’m about to do a Porchlight on obsession. Are you interested in giving a talk?” And I was like, “Fascinatingly, I have a talk that I’ve been working on about obsession.”
+
+So I went to Café Du Nord and I gave a version of The Maltese Falcon talk at the old Café Du Nord, where the audience is sitting all at your knees and you’re right in front of them and among them. It was one of those electric nights where it was, everything fired on all cylinders, and I thought, “I have got a really extra special talk here. I can’t wait to give it again.”
+
+And that was the second year I had been to EG, I think. Or maybe even the third year. At any rate, in going to EG and having workshopped this talk, I decided that I wanted to rehearse it really, really precisely. Part of that meant that I wanted to tell the story with a lot of imagery. I wanted it to feel cacophonous because that’s the way my obsessions feel in my brain. I wanted the talk to feel kind of like a river moving past you.
+
+So I think I have something like 120 slides in 13 minutes. And the rhythm is really important. I think in the very beginning of that talk, I gave this, I say, “A cache of dodo bones was found.” And that naturally happened the first time I was rehearsing the talk, and then I thought, “I’m building that in because I think I can make it sound honest and true. I think I can act that moment.”
+
+And so this was the first time I had taken a talk and turned it into a bit of theater. And so when I was up there and I was rolling through the slides, because if you remember, the first one was taking a bunch of shots on Google Earth and zooming in on the island of Mauritius off the east coast of Madagascar. That rhythm between the words and the imagery, it was music. And I could tell in that first pass that I was out of step, and because I was trying little things to get back in step and they weren’t working and I thought, “You know what?” In my head.
+
+“I’m doing this for two audiences. I’m doing this for the audience here, but I know they’re recording this. And I want the recording to be good. So screw it. I know I’m not going to get in trouble for asking to start again, and in fact I may even bring the crowd more with me. This is a net plus.”
+
+And that comes from the more you do public speaking, the more you encounter the fact that each audience has a kind of character to it, and some are difficult, some are easy. Some of the difficult ones can be your best audiences when you find that rhythm.
+
+And the EG audience, like the TED audience, is a heady and intense crowd of people to perform for. I mean years later, about four years ago I did a juggling talk for the EG, and Michael Hawley, who runs it, neglected to tell me that all of the Flying Karamazov Brothers would be in the audience when I was doing my juggling. And I got heckled by the Karamazov Brothers.
+
+But all this is my way of saying, I give talks in many different ways. When I talk every year at the San Mateo Maker Faire, and when I do that talk, I do very little rehearsal for it. I want it to feel and be raw and off the cuff because I feel that I owe that to my fellow makers. I want them to see that it’s not all polish and perfection. And I want to be a little vulnerable with them. But when I spoke at TED in Vancouver four years ago, I rehearsed that talk so many times I forgot it.
+
+And then it came to me as if a fresh thing, but a funny thing happened on the TED stage when I was doing the talk about cosplay, which was about a minute in, I thought to myself, “Look. I’m ahead of myself. I’m thinking a little too far ahead and consequently, I’m not taking the spaces with the words and the concepts in this moment, because I’m running the fore re-track a little too far the forward.”
+
+And then I thought, “You’re always this far ahead in the first minute. Relax. It’ll be fine.”
+
+Tim Ferriss: So you have the watcher. You have the speaker, you have the watcher watching the watcher, and then you have the watcher watching the watcher. That’s really remarkable.
+
+Adam Savage: I love the exercise. I love the exercise of interacting with a crowd. I love the laughs that come with when you don’t expect. I love — Well, I particularly love the gasp.
+
+When you can create a piece where the audience goes, “Ahh!” I’ve only done it a few times. As David Mamet points out, you can easily blackmail an audience into a standing ovation. It is impossible to blackmail them into a gasp.
+
+Adam Savage: And thus ‘gasp’ as far as I’m concerned, the highest possible achievement you can attain on stage.
+
+Tim Ferriss: So let’s talk about workshopping. Well, actually this goes far beyond workshopping. Could you talk to the origin of the phrase, “Failure is always an option,” please?
+
+Adam Savage: So that grew out of a joke on set. It was the first season of MythBusters. I think we were trying to make biscuit dough explode inside a hot car. And this was the first season. We had no infrastructure. We didn’t know what we were doing. Jamie were still brand new to building scientific methods and thinking through worst-case scenarios.
+
+It didn’t occur to us that even with 10 space heaters, it would be really hard to get the temperature inside a car above 100 degrees. And it took hours and hours and hours, and we’re sitting there and it is so boring. And we also realizing that like, “Are we getting enough on camera?” And I turn to the camera and I just said, “Remember kids, failure is always an option.”
+
+‘Cause I was thinking, my sense of humor runs, “What is the opposite of the right thing to say?” Like, to me, the worst possible thing you could say is sort of like a stress reliever just to imagine in my head. I don’t then say it, but sometimes when I find a joke where you say the opposite of what you should say, it pleases me, and “failure is always an option” was — that’s a wrong thing to say in that moment.
+
+And they cut in the show, and it became a kind of a catch phrase. And then I realized once people started saying it back to me, that there’s a deep scientific truth about it. That the idea of success or failure, to a certain extent, is anathema to scientific exploration.
+
+And when I say scientific explanation, the qualifier is exploration, but any kind. And when you want to explore anything in a rigorous way, you’re doing it using the scientific method. Just by default, you’re comparing your results to previous things, from building the future experiments based on the things you’ve learned in the past.
+
+And, you know, in film, we have the mad scientist go, “Damn it! My experiment was a failure!” And a scientist doesn’t say that. A scientist said, “I screwed up my methodology. I don’t have enough results,” or, “Wow! The outcome was totally not what I expected,” and to be honest, that’s usually why the fictional villain is upset, because the results are the opposite of what they wanted.
+
+But a real scientist who comes up with the results that are the opposite of what they thought, is the most thrilled human being you’ve ever met. They are ecstatic that their expectations and their biases have been turned on their heads, and they have now this brand new, much wider understanding of what’s going on.
+
+And that might be called failure by a neophyte who doesn’t understand the scientific method, but to a scientist, that’s opening up the whole world.
+
+Tim Ferriss: Do you have any favorite failures that come to mind? And that could be a failure that set you up for something you later considered a success. It does not have to be MythBusters specific, it could be from any point, but any failures that in retrospect ended up being very, very helpful.
+
+Adam Savage: Well so, in fact I had forgotten until you reminded me just now that at that EG talk, I stopped and restarted it. And that is a huge example. That was the first time I’d ever done something like that on stage and I realize now that it was inspired by a singer who I love named Jane Siberry.
+
+And Jane Siberry famously did a beautiful duet with K.D. Lang called Calling All Angels, that was part of the Until The End Of The World soundtrack way back when. And she’s an incredible singer. She’s written many of my favorite songs.
+
+And back in the ’90s, I used to see her perform whenever she came through San Francisco, and I saw her with a jazz ensemble at one point, and she started a song, and 10 bars in was like, “Stop! Everyone stop. We didn’t get that one right. Let’s go back to the top.”
+
+And I thought, “What?” Glorious balls to do that on stage. Like, and again, it brought the audience closer to her to do that. And I loved that and I’m sure that I was thinking of that at that moment. I was like, “I’m going to do what I saw that I thought was courageous. I’m going to do that thing.”
+
+But that’s not necessarily a failure in the traditional sense. And I think the distinction is important, because we talk a lot. I’m sure I know that in the lingua franca of self-improvement and making your output as impactful as you can, we talk a lot about helping kids to fail, helping them learn to fail.
+
+In Silicon Valley: Build fast and break things. But we don’t mean failure. We actually are lying. It’s a great word. It catches your attention, which is important, but it’s not what we really mean, and I’d like to point out that real failure is getting drunk and missing your kid’s birthday party. That — that’s failing at what you should be doing.
+
+What we really mean when we say failure is we mean iteration. We mean the creative process is messy and it’s iterative and you have to chase up a lot of wrong branches in order to get to the right one. And you’re never going to end up where you think you’re going to end up. And while some people may think that that’s failure, a true creator knows that you follow the thing to where it’s going, not to where you think it ought to go.
+
+So, you know, I have a couple of jobs I did where I took them on without the correct amount of experience or foresight and I screwed them up. I’ve done jobs so poorly I lost friends. I’ve done jobs so badly I didn’t sleep for 60 hours, and you know, delivered something that was way not what the client wanted. And I still feel shame and sadness over those moments.
+
+But the fact that I got through those, and the fact that I was able to see past them and learn from them, I remember at one point, the job that I did that I lost a friend on, when she told me, “You couldn’t have done anything more to make it clear that I should not be friends with you.” That’s how she put it. And I like called my dad. I was 19. I was like weeping into the phone and he said, “Look. You can’t change what happened. You can’t fix that. The only thing you can do, and you can’t even tell her about this, is you can take in what you did, you can absorb it, realize what mechanism in you led to that screw-up, and resolve not do that again. And that’s what’s being a human is about. It’s about noticing those things and trying not to do them again.”
+
+Tim Ferriss: You think about — it strikes me that you think about your own thinking a fair amount, which I think is worth digging into a little bit. By way of looking at influences. And I’d read that you were, I think in your own words, radicalized by Noam Chomsky —
+
+Adam Savage: Oh, yes.
+
+Tim Ferriss: — in your late teens. Could you speak to that and then also, any other authors or thinkers, philosophers, anyone who has helped shape your thinking or impacted you?
+
+Adam Savage: Oh, my God. There’s so many. I mean, you know. Starting off by reading all of Harlan Ellison’s weird and complicated semi-misogynous canon back in my late teens, to Kurt Vonnegut, who showed me that you could have rigor and deep affection and love all at the same time, to Richard Feynman who showed that there are — it is genuinely possible for there to be brilliant polymaths in the world who can explore many disciplines and be at the top of their field at any of them.
+
+You know, all of that comes into play. Chomsky is amazing for — it’s funny, ’cause I’m thinking a lot about Chomsky now. There are two current schools of political thought about our current situation. And especially as somebody who vehemently disagrees with everything the GOP is currently doing.
+
+These two schools of thought are important distinctions. One is that Trump is an aberration, and all we need to do is win in 2020, and we can erase that aberration and get back to the status quo. The other is, that Trump is a symbol or a measure of just how screwed up our culture really, really is and that we’re going to need to open up and take a look at those parts of our culture that we might not want to notice and understand how each of us is complicit in that, and really work towards building a society that we all want to live in.
+
+Those two distinctions are really important and understanding — my clarity for me is that I think that Trump is a symbol of what’s wrong — of a significant amount of what’s wrong — with America. And Chomsky is coming back into this. You know, as I’ve been very upset about Trump, I get very upset about how The New York Times covers him, because I feel so much both sides-ism in The New York Times, and I read The New York Times, and I feel like it’s the pot of boiling water and I’m the frog.
+
+And then I think back to Noam Chomsky, and I’m like, “He’s been telling me The New York Times supports the status quo and the power structure since 1984.” Like that’s when I read my first Noam Chomsky pamphlet.
+
+And it is about that when they are asking these questions culturally. And you may just, you know, whoever’s listening to this may disagree with me politically and that’s totally fine. I’m assuming that if we’re all good actors acting in good faith, we’re simply trying to make the world a better place for our kids and our friends and our family.
+
+As long as you’re with me on that, I’m happy to disagree with you about the methods we use. But asking those cultural questions, it is about being part of a culture and trying to help define it so you can be a better part of it all at the same time.
+
+And it goes back to what you were saying, that watching the watcher, which is a very Buddhist, Dharma is full of exhortations to be able to meta-shift yourself so you see above the plane of what’s going on.
+
+I remember at one point, speaking of watching the watcher, I remember at one point having an argument with a partner of mine at the time, and we were — it was one of those arguments where you both feel super vulnerable, but no one wants to give, and you attack, you both attack. And I thought to myself, “Ugh! I have no idea what to do with this situation. Neither of us wants to budge. How do we get out of this?” And I thought, “Okay. Let’s say I was writing this scene as a screenplay.”
+
+This is again, it’s a shift. Right? I’m watching the watcher and I thought, “If I’m writing a screenplay, and I’m writing my character, how does the audience feel about my character? Oh. They don’t like him. I lost the audience. The last thing I said was shitty. And because I was looking to attack, the audience can see that, they can see my vulnerability and my venality, and they no longer are with me.”
+
+And then I thought, “If I was rewriting this scene, how would I bring the audience back to my character’s side?” And I realized, “Oh, like being vulnerable and telling the truth.” And so I kind of wrote the scene in my head as I said it, which was, “I am really sorry for the thing that I just said. I am not upset with you. I am angry and vulnerable to XY and Z and it’s coming out as this, and I am really sorry.”
+
+I said all of that also without expecting a specific response. I said it cleanly and for the reasons it should be said, but I didn’t get to it without making that meta-shift.
+
+Tim Ferriss: Did you develop this watching the watcher habit organically? Did that come from parents? Did it come from books? That meta-level of self-awareness —
+
+Adam Savage: That’s a good question.
+
+Tim Ferriss: — yeah. Where would you say that’s come from, if anywhere, comes to mind?
+
+Adam Savage: I’m really not sure. I know that I was reading a lot of — In my late teens I was also reading a lot of Carlos Castaneda —
+
+Tim Ferriss: Oh, yeah.
+
+Adam Savage: — and a lot of Ram Dass.
+
+Tim Ferriss: Yep.
+
+Adam Savage: Ram Dass talks about that a lot. And I do remember being with a girlfriend in 1985 or ’86, and she was upset, and I couldn’t figure out why. Like I — yeah. And so I thought to myself, I remember distinctly trying this thought experiment once. “Oh, what is the world bubble? What if I could see this scene through her eyes?”
+
+And so I literally thought of her head as a machine that I could climb in and look out through the eyes, and when I did, I saw a color, like — I saw a color, and the color helped inform me where she was mentally.
+
+Now, you ask me what I think that — what was going on there? I think I was using the analogy of color to help tap into my own intuition that my emotion wasn’t letting me tap into. I think that I built a framework with, I think that’s frankly, what, if you know, if you’re someone listening to this, and you go to see a psychic, and they help you, I’m quite sure that what that psychic is doing is using the cards that are in front of them, but mostly you being in front of them to kind of tap past an emotional response to an intuition about what’s going on.
+
+We do that to our partners and our friends all the time, in terms of giving them perspective. And that exercise, really early on in my romantic life, gave me a sense that there were other vantage points from which to view something rather than through your own angry eyes in the middle of the melee.
+
+Tim Ferriss: You’re a very well-spoken guy. I think that your abilities and the breadth and depth of your abilities can be intimidating to a lot of people, and I’m sort of speaking in the royal way here, because I find it a little intimidating. So I want to ask — no, no. So I want to dig into it, because you, I would have already mentioned this in the intro, we’re going to talk more about it, but you have a book, Every Tool’s A Hammer, and I’m super excited about it, in part, because I have this closet dream of being a maker.
+
+Now, specifically, a maker with my hands. Right? So, not necessarily a keyboard, but really making things. And I have had this fantasy and this dream for a very long time. I’ve been to Maker Faires in the Bay Area and kind of wandered around sheepishly looking sideways at various things, but not engaging too closely. I even long ago, went through the — I get a number of areas in the MythBusters workshops with Jamie and — this has been with me a long time.
+
+But at my current state, I would consider myself a manual illiterate. I’ve never really built anything, and so I’d be really curious to know if there are any particular projects you would suggest for kind of remedial maker 101? Or for people like me who know there’s something there —
+
+Adam Savage: Yup.
+
+Tim Ferriss: — who really desperately believe that using the hands kind of unlocks a certain humanness —
+
+Adam Savage: Yeah.
+
+Tim Ferriss: — that they don’t have access to. Where might you suggest that they start?
+
+Adam Savage: So, number one. I don’t necessarily think that the secret is always in using your hands.
+
+Tim Ferriss: Yup.
+
+Adam Savage: I’m really careful that I define making as any time you are creating something from nothing, even if it’s a poem in your head.
+
+Every time we reach out mentally, physically, to create something that is generated from us, we are participating in our culture and we’re adding to it. And I want everyone to have that experience.
+
+But you ask specifically about the physical making of stuff. I do. I do have a project I think is a great gateway project to making and it is to build an architectural model of the living space you have. Your house or your apartment using cardboard and hot glue.
+
+This is something that is not difficult to understand and to parse, and it’s not difficult to do a really good job at it. You can look at your room that you’re in. It’s got four walls at least. And this wall, let’s say, has a window in it, the wall behind you has a door in it. Those measurements are knowable measurements. You can build a 1/12th scale model of that room simply by taking the inch number and making it — taking the foot number and making it an inch. There you’ve done scaling, you’ve cut a piece of cardboard out where the door is the right distance in inches as it is in feet from the wall, and then you assemble these four things together, and holy hell, now you’re looking at an architectural model of your room. And it’s five pieces of cardboard.
+
+Adam Savage: And you should go out from there. I have built architectural models of all of my living spaces, because it helps me put them into my head and thus it helps me put them into my body. I love understanding things from those different vantage points.
+
+Tim Ferriss: What do you get out of putting it into your body? Can you explain that for a second?
+
+Adam Savage: Well —
+
+Tim Ferriss: Or what does that mean?
+
+Adam Savage: So at the beginning, let’s say after our podcast, you start making an architectural model of the house. The mental process you’re going to go through is going to be one of a constant gear switching, from the macro to the micro. You’ll be, “Okay, uh, that wall is going to come to this, and that measurement comes to this,” and it’ll be this kind of constant back and forth.
+
+For me, after all the years of experience that I have, it’s a very different mental process. I look around and I see the wall as a set of like — I’m instantly translating it as a set of actions from the real thing to the smaller thing.
+
+And so there comes a point in the making of things, in which the discipline you’ve chosen gets past that gear-switching mode and goes towards an almost entirely mental mode, where, I build something in my head first, and then what I do with my hands is just cutting the chunks I see in here.
+
+And it takes practice, that you know, most of — so like most of what happens when I’m collaborating with another builder, is I’m taking my next picture and attempting to grid it onto the one that they have. And it’s best if we’re doing that with pen and paper or with models in front of us. But frankly, you know, much of my building, like I said, happens in my head.
+
+The other thing that I would say, so, I love the idea of building an architectural model as an exercise. Actually when I did my first Maker Box, that was the first project. I gave people a blueprint of my shop, and had thousands of people build architectural models in corrugated cardboard of my shop. And I loved that. And many of them went on to build models of their house. That’s a great exercise for sort of the gateway drug to getting you with a low threshold of materials, low threshold of cost, low threshold of skill, high probability of quality output, ’cause you’re just cutting squares. And there’s nothing complicated about it.
+
+The other intersection that I suggest is to find something that you have to have. Now I am sure that in the explorations you do around the world, that you go to someone’s house and they show you the Japanese sword they have, or you go somewhere and you sit in a chair, and you’re like, “Holy hell. This is the greatest chair I’ve ever sat in.” Or you see a cup that is like, “Oh! I love this cup!” And you want one.
+
+When you find something like that, that you can’t not think about, that’s the thing to maybe try and make, because you want something out of the process. I’ve never learned any of the skills I had — the skills that I have are myriad, but I’ve never learned any of them in a vacuum just because I wanted to learn a skill. I learned them in service of achieving something that I desired, whether it’s a ZF-1 from The Fifth Element or a No Face costume.
+
+Tim Ferriss: Amazing. What is the last object or a notable object that you had to make yourself? Is there anything that jumps to mind?
+
+Adam Savage: [crosstalk] Yup.
+
+Tim Ferriss: Adam has run off camera to grab an item.
+
+Adam Savage: So, so last year for my — I’m friends with the guys at the Weta Workshop. Peter Jackson and Richard Taylor, many of the amazing craftspeople at Weta have become really close friends of mine and I love what they do, and I love Lord Of The Rings, I love all the output that those guys do.
+
+And last year for my 50th birthday, Richard Taylor gave me Boromir’s sword from Lord Of The Rings.
+
+Tim Ferriss: Amazing.
+
+Adam Savage: This is one of the most beautiful objects I’ve ever seen. This is hand built by Weta’s sword master Peter Lyon, who built all the swords for Lord Of The Rings. It’s an incredible blade and this is a full tang, battle-ready piece of spring steel that is razor sharp. It’s a masterpiece. And as soon as I had it, I knew I’ve got to build a scabbard for this.
+
+And then I built four or five scabbards for other swords of mine in preparation for this scabbard. I’ve wanted this one to be beautiful and this is the scabbard I made for Boromir’s sword. It is leather and it’s steel, and I used techniques I had never tried before, and it is a suitable house for one of my favorite objects.
+
+Tim Ferriss: Amazing.
+
+Adam Savage: Yeah. And I absolutely, like not only did I have to do this, but for the first time, I did a lot of practicing before I built the Hero one that I want to do. And by the way, this is simply version 1.0. This is close by in my workshop, because I’m just about to strip it all down and make it even more correct.
+
+Tim Ferriss: For the building of a scale home with cardboard and so on, what are the materials necessary and if this can easily be found somewhere, you can tell us where to find it, but what tools does one need?
+
+Adam Savage: Well, so let me explain the process first of all, as I do it, which is, in general, most of us live in houses of a consistent ceiling height. The ceilings in your house look like they’re maybe nine feet. So if you were building a 1/12th scale model, that would be nine inches. If 24th scale, it would be four-and-a-half inches. Right? Half of that.
+
+So the way I start any architectural model is I figure out my ceiling height, and then I cut out a bunch of strips of corrugated cardboard at that exact height. Now I’ve got my walls. They’re all overly long. So I take a piece of cardboard that will be the base and I draw out the floor plan in scale.
+
+That only takes a right-angled ruler and a pencil. Once I have that, now I have a measuring device for these long strips of cardboard that are the correct height. So, I measure all four walls. Now I have four walls, that they’re correct height and correct width. Now I start to just measure where the windows and the details go.
+
+All of this takes a ruler with an edge you can cut against, an X-Acto blade, a hot glue gun, and a few Amazon boxes, and that’s it. Oh, and a pencil.
+
+Tim Ferriss: You know, this makes me think of a documentary. I’m going to butcher the title. If you haven’t seen it, I think you would love it. It’s called, I want to say, The Art Of Seeing, and it’s a BBC documentary. You can find it for the time being on YouTube, and it is about and features the artist David Hockney.
+
+Adam Savage: Oh, yes. I have not seen this, but he’s a good influence on me.
+
+Tim Ferriss: Oh, he’s amazing. And hilarious and brilliant and very good at explaining his own thought processes, which I admire. The reason he pops to mind is that at one point I want to say, and I’m going to butcher this as a yank, but the Royal Academy something, something, such, it’s a very famous gallery, offered him the entire space for not a retrospective, but his new work, which happened at the time to be landscape art.
+
+And he created an entire scale model of this multi-room gallery so that he could tilt it and look through different doorways to see how his various pieces of artwork, which he had also replicated to scale, would appear through different walkways and entrances. And it was — When I first glanced at it, because I didn’t have any of the explanation, it seemed like potentially a huge waste of time, but as soon as he started demonstrating the utility, it was so genius.
+
+And also, the miniature artwork seemed actually quite difficult to pull off, but aside from that, reasonably straightforward exercise that later in at full scale in the facility made such a huge difference to the experience of everyone who walked through. It’s — that is all to say, I’m excited about trying out this project.
+
+Adam Savage: I’ll do another example. I was just in L.A. for the upfronts, and I stopped by a friend’s production office, ’cause a friend of mine is filming a big feature film right now, and they have this gigantic set they’re going to build for the finale of this film. It’s huge. It has all these different parts and it’s not just a set where the final action of the film happens, it’s also a set that has to fit with what the script is saying.
+
+So there’s a part where one of the characters comes into the set and hides somewhere. So what they did was they built a scale model of the exact extent of the sound stage they’ll be building the set on. Then they have these things like rocks and stairs and architectural details and they’re placing them within that set but also asking, “Okay in this scene, if they’re hiding behind here, can we get over here so we can see that they don’t have the eye line? Then we’ll build the set with this part that moves and that part that doesn’t.”
+
+It becomes a critical problem-solving tool in bridging, and this is bridging between the art department, the construction department, and also how the narrative actually pieces together, and what the audience will see, and how the whole last part of the film plays out. Huge chunks of this have to be in the right place, otherwise the story won’t get told correctly.
+
+Tim Ferriss: So in the spirit of maybe low tech or at least low barrier to entry maker projects, I have read again in my internet research that you are good at making eggs. I don’t know if this is true.
+
+Yeah no, eggs are my —
+
+That you’ve thought a lot about making eggs. So this is a maker project in a sense, right? In a lot of respects I learn to cook by testing all sorts of things on eggs. So I would love to hear how you think about making eggs or really any aspect of eggs that you find interesting. Why eggs?
+
+Adam Savage: Well, eggs are tough. Eggs are unforgiving. Eggs, like chicken, have a wide range of being edible, but a short range of being delicious.
+
+Tim Ferriss: That’s very true.
+
+Adam Savage: A lot of cooks and chefs that I know say that eggs are one of the hardest things to get right. I have always loved eggs. I’ve always loved scrambled eggs. I tend to not like omelets ’cause I think in the US omelets are too full of shit, literally. Then I guess about 15 years ago I came across this Gordon Ramsay video on YouTube where he talked about doing a slow cooked scramble. He literally, it’s a very weird scramble. You crack the eggs in whole. You’re stirring them constantly over a medium heat with a bunch of butter. As soon as they start to congeal you put them off the heat. You’ve stirred them like a risotto. You never stop stirring.
+
+But the temperature control and attunement is all about not letting them ever congeal too much. I was like, “Oh, I’ve got to try this!” and I tried it. It kind of worked the first time and I’ve been doing it ever since. There’s this amazing moment I found — so first of all when you talk to cooks, they’ll say, “Oh, yeah, the slow cook temperature adjusted scramble is just objectively the best way to make eggs.” It’s literally they come out this sweet custard and there’s nothing else quite like it. It’s really hard to do right in a restaurant where you don’t have 15 minutes of concentrated time for everyone’s entrée.
+
+So restaurants have all these really wonderful techniques for doing that and Ramsay was saying he makes new chefs cook him eggs in order to guess their chops. I have discovered so much about myself and about the process of what makes food textural and what I want out of them by adjusting that recipe over the years. So now I make my eggs the same way. I tend to let them get a little bit more congealed at the very end so I have some tooth to some of the eggs, ’cause I’ve found over the years that I don’t love it when they’re all custardy and soft.
+
+But there’s this great moment that happens when you’re doing the stirring. When the heat helps the whites and the yolks fully emulsify, and this is before you’ve added salt or anything else, you just have butter in there. So you have some residual salt, but where the emulsification happens I feel like it’s because of the heat. When all of a sudden this sweet smell rises out of the pan and it’s the moment I know like, “Oh, cool I’m on the home stretch. Now I got it.”
+
+Gordon didn’t talk about that. That was like my own exploration. But every time it happens. Because it happened to me spontaneously, it’s part of my love affair with eggs, is getting that “Ah!” moment out of that. In 2016 after the most recent president was elected into office, we started just having brunches every Sunday and having friends come over ’cause we just needed to be around a lot of people we loved on a very regular basis. I made those scrambled eggs for everywhere from five to 25 people every Sunday. I would make big batches, small batches, and sometimes I’d add in scallions or cheese or a little pepper or something like that.
+
+But I have now cooked that dish thousands and thousands of times.
+
+Tim Ferriss: I love it. Scallions are very underrated. Texturally, so I love eggs, and you can also learn so many fantastic principles and techniques related to cooking from eggs as a somewhat neutral palette if that makes any sense at all. Highly recommend people play with slivered almonds right at the end just when you’re getting ready to eat the eggs. Fantastic. You don’t want to put them in too early or they’ll get soggy and brittle. But if they have that crispness, remember a French chef told me at one point, and I don’t know if this is in French, but he said you want to take the eggs off the heat while they’re still a little snotty.
+
+And that stuck with me and it’s like, “Yeah, you want a mild snot consistency when you take it off because you’ll have the carry over cooking,” and so on. But huge fan of eggs.
+
+Adam Savage: On the flip side of that, there’s a great cookbook, you probably have it in your collection, Jacques and Julia. Jacques Pepin and Julia Child.
+
+Tim Ferriss: Oh Jacques Pepin is like the Jedi master of …
+
+Adam Savage: Dude, watching him debone a chicken in two minutes and telling you afterwards that he went slowly because they were filming it.
+
+Tim Ferriss: Oh yeah. His manual skill, I mean when I was writing my third book, which involved a lot of cooking, I was prepared to dislike him for a few reasons. Number one, he had a fancy, to me, sounding French name. Number two, he was extremely well known, so I was like, “How good could he really be if he’s sort of French food for export? How technical could he really be?”
+
+And his videos are just incredible. You watch him make a French omelet on high eat or any of these things, his knife skills alone.
+
+Adam Savage: I did a pan flip once. I am not willing to try it again. Actually, when I do flip my omelets, my friends point out that actually as I’m doing the flip I’m using the spatula and the pan and my friends point out my whole body goes up when I do it. I try to get the whole, everything weightless like I’m [inaudible 01:05:29]. But Jacques Pepin and Julia Child both have the same way of finishing scrambled eggs. He does them fast over high heat, she does them slow over a medium heat, but they both take half of a beaten egg and pour it over the scrambled eggs just as they’re pulling it off the heat.
+
+Then they stir it up and you end up getting this lovely sort of a little bit of extra wet on top of the scrambled eggs.
+
+Tim Ferriss: Yeah. You could also use I think McEvoy is the name of the olive oil that’s in your neck of the woods, in northern California. You can use a finishing olive oil too, right in the last 60 seconds, and stir that in and you get a nice texture to it as well. I love eggs, so I appreciate you indulging the egg question.
+
+You know what I’d love to ask if you’re open to it, because one of the risks in doing this podcast and speaking with people who are well known for being very good at what they do is that people who may be struggling or who have struggled in different ways may feel like everyone else is stepping up to bat and hitting home runs every time. Would you be willing to talk about, and certainly I’ve experienced some difficult times and talked about them publicly, do any particularly difficult periods in your life come to mind? Difficult stretches of time. If so, would you be willing to talk about one or two and how you found your way out so to speak?
+
+Adam Savage: I mean, I think it’s the universal thing is that nobody escapes. Nobody gets out scot-free. Nobody suffers like the poor, as Charles Bukowski pointed out. But nobody escapes from suffering. It is the universal condition and it’s the reason it’s the first of Buddhist truths.
+
+I love the output that we do on my website, on Tested.com, because I realized we don’t make — so I do builds in my shop on Tested.com, and I do them here in my cave. I realized at a certain point that they’re not how-to videos because I’m often discovering the process that I’m exploring on camera. They’re more like what happened videos. A couple years ago I was making some space suit parts. Actually if I tilt the camera, you can see that I’ve got a murderer’s row of-
+
+Tim Ferriss: Wow.
+
+Adam Savage: — [crosstalk] and fictional space suits over here ’cause I’m so obsessed with them. My friend Ryan Nagata in L.A. is an amazing space suit maker and I was making some parts for him. I’m intimidated by the quality of Ryan’s work and I wanted my pieces to be as good as the output I see comes from his shop. I was doing this build and I kept screwing it up. I spent this entire day with my camera team here just consistently getting these things further and further along the line and then boning them with a bad choice about the tool usage or what I was doing.
+
+I was getting my order of operations all screwed up and I ended up finishing the day feeling super, super shitty. Like depressed about how crappy the day went. I went home and in this blue funk I literally had this thought, “You have no business making stuff.” The fact is, I feel that judge in me comes up on almost every build. He shows up on almost every build. When I finally got to Industrial Light & Magic in 1998, into their model shop on episodes one and two and Space Cowboys, I found an incredible group of peers and teachers and friends and there still was not a single build in the five years I spent in that model shop where I didn’t feel at some point someone was going to come up, tap me on the shoulder and tell me the relief pitcher’s coming out because I clearly have no idea what I’m doing and it’s time to go home.
+
+And at a certain point at ILM I was like, “Man, I’m in Valhalla. I’m in the place where every model maker in the world wants to end up here and I am good enough to get here. Why do I still have so much judgment every time I screw something up?” Then I realize, “Well, that’s part of my process. It’s part of the process. Clearly it’s going to happen no matter how technically competent I get. So I’m just going to push past it.” And on Tested, that day that I finished feeling so crappy, I came in the next day. We filmed again for a day and I got the part right. Then I turned to the camera and I explained all of that because look, I really appreciate the way in which you were last year openly talking about your anxieties and about the things that inhibit you from fulfilling the things that you want to do.
+
+I love the way Wil Wheaton is so forthright and honest about his difficulties and about depression. I view it as incumbent on those of us who are able to find the luck and circumstance to achieve some success to explain that it is not linear. It’s rarely on purpose. There’s so much luck and privilege and love involved in the process and we all feel uncertain all the time. Because, yeah, it really is easy to walk in here and go, “Oh, my God, you’re so productive!” I was tweeting last night about Laura Kampf and Simone Giertz, two of my collaborators on one of the episodes of my new show, and I described them as annoyingly productive.
+
+The fact is, I am sometimes annoyed by how productive they are and I know that I have a fairly high degree of output. Yet I can get jealous about someone else doing something that I’d like to try. I can get venal. We’re all flawed. To be honest, confronting that, confronting the limits of one’s ability to be perfect, that is tough. So I will actually — you’ve asked me to talk to this, and I think one of the most instructive things I can mention is I’m a pleaser. I’m a mender. I’m a caretaker.
+
+I want people to like me. So I am very, very attuned to the moods and the attitudes in a room when I’m in it. And in my place in my family, I was good at doing that mending and it’s a terrible thing to be good at doing that because it means you’re taking on a responsibility that isn’t necessarily yours. You can suffer trying to be the place where those difficulties end, like being the locus that doesn’t allow them to get past you.
+
+It’s still very difficult for me to confront the fact that I’m a flawed human being. There’s still some part of me that thinks, “Oh, as long as I perform all these things correctly, everything will go smoothly.” The answer is, no. That’s fiction. Nothing will ever go smoothly. No plan ever survives first contact with implementation and we’re all going to screw up and feel unworthy at a very constant pace in our lives. That’s being a person. The trick is to be honest about that.
+
+Tim Ferriss: I really appreciate you being willing to share. I think as you do that it’s really important because it’s easy, particularly in or I should say immersed in an online world where very often what you see is the highlight reel, it’s easy to feel uniquely flawed or alone. I grew up seeing, not just bipolar disorder but schizophrenia in my family. I know you’ve certainly witnessed a fair amount of bipolar disorder.
+
+If anyone listening is going through a tough patch realizing that you are not alone and you’re not uniquely flawed and that it is part of the ride on this journey that we call human life. So thank you for being willing to speak to it because I think it is very important. It will become increasingly important I think for people like yourself to speak to it when you have a chance because I think increasingly what we see online will be, aside from the what bleeds leads headlines, very often self-selected highlight reels of sorts, which can make people feel very isolated. So thank you for that.
+
+I’ve just a few more questions, but let’s start with, and I don’t say this lightly, I am so excited to get your book. It’s already ordered and it is your first book, which a lot like first funds for investing, I’m very bullish on first books. Particularly after a career like yours and having practiced explaining and having workshopped so many things that no doubt made it into the book in some form or another. So I have it here described as a love letter to creativity, secret thrills, exploring, making, and productive obsession. Could you tell us a little bit more about the book please?
+
+Adam Savage: Okay. So when I sold this book to the publisher, to Atria at Simon and Schuster, the chapter in the book that I used as my north star is a chapter called Use More Cooling Fluid, which is a joke that I’ve told for years. Which is if I could go back and tell my young self one thing, this is an interviewer’s favorite question. If I could go back in time and tell my young self one thing it would be, “Use more cooling fluid.”
+
+I’m being facetious to a certain extent, but actually there are some interesting keys to the castle in that phrase. Because on one hand, and I cover this in the chapter, I talk about why cooling fluid is important. How when you’re cutting metal with metal, keeping your cutting blade cool is really vital. I explain deeply the physics of what happens to metal when you let it get hot, how you cut metal with metal, the differentials between the hardnesses of the materials that you’re using, and where it can go south.
+
+Then from there, I go on to talk about how using more cooling fluid is about taking extra time in order to do something right. And that actually is about a wider philosophy of addressing your work. By addressing, I mean putting the things that you’re working on in front of you at a comfortable position so your hands can actually operate them. Even that is a philosophical choice that we make when we make things ’cause sometimes I’m like, “Oh, I can do this without removing those three bolts.” And then, bang, something breaks and I’m boned.
+
+Taking the time where it’s necessary at the same time as trying to go as fast as you can to be able to have a reasonable return on the investment of time you have on this project, especially if you’re working for hire. Taking the time to do it right saves a lot of time on the backend. It is an ongoing conversation in my head between future me and past me. So that was the chapter. So we thought that all the chapters would end up being like I describe one specific maker skill and talk about the physics of it and then talk about the philosophy and open that up to wider and wider onion skins of philosophy. Except that when I started to look at other things that I know, I definitely deeply understand the physics of cooling fluid and I understand the physics of the glues that I use.
+
+So the glue chapter is also very much in that vein. But as far as a lot of other skills, I’m such a generalist that I am mediocre at all the other things that I know and thus I felt really strongly I shouldn’t present myself as any kind of authority on these things if it didn’t come naturally. That if I researched heavily the physics of something that I didn’t quite understand, well then I’m kind of being dishonest in this book.
+
+So as I started to flesh out the other chapters with the things that I wanted to talk about, I realized that there was more to talk about from my autobiographical details that led me to the conclusions I came to about how I run my shop space, about how I deal with collaborations and partnerships. About how I’m a husband and a friend and a father. So whereas originally I thought it would be 50% instructional and 50% philosophical with some autobiographical stuff peppered in, it ends up being about one third each. Both my editor and I were surprised by the book that came out. When I gave him the final manuscript in December he was like, “Wow, this is totally different than I thought, but it’s great. It works. It’s its own thing.”
+
+There’s a quote in the book from Andrew Stanton, Pixar director, directed John Carter. He directed the Finding Dory film and many other things. He’s an amazing. Andy is like the story guy and he loves unpacking story. He was telling me things like, Pixar has institutionalized the late understanding of what a story is about. So he’s like, “You go to the client and you say, “We’re going to dig up a tyrannosaurus rex. We’re going to spend millions of dollars digging up a tyrannosaurus rex.’” He’s like, “And there comes a point when you’re digging you realize, ‘Oh crap, we’ve got a stegosaurus.’ Are you going to have the guts to go to the funders and tell them, ‘You know, it turns out we have a stegosaurus?’”
+
+Andy said that the central theme of Monsters, Inc., which is that the scream is the currency of the world, he said that didn’t come to them until like a year before they were finished. But once they understood it, it so framed the world that they invested in all of the changes they had to make to weave that into the plot and make it central because they discovered they had a stegosaurus and they had to service that.
+
+Tim Ferriss: Amazing. Amazing. Thinking also of Spirited Away, where we started this conversation, if you ever have the chance and maybe you’ve already been, but if you go to Tokyo and have a chance to go to the Studio Ghibli Museum —
+
+Adam Savage: I’m going. I’m going. My wife and I are planning a trip right now to go to Kyoto and Tokyo.
+
+Tim Ferriss: Oh, you’re going to have the best time, particularly with the trained eye that you can use for the details. Look for the marbles that are within the metalwork on the spiral staircase. It’s really just incredible. I mean they have the full scale Cat Bus and everything you can imagine from the canon of his work, including some of his working desks.
+
+It really digs into the process in a way that I think you will find enchanting. Well, I —
+
+Adam Savage: There’s one other thing I wanted to say about the book, which is that as we were talking about sharing our personal experiences in the hopes that they resonate with people who might feel that their own experience is unique and keeps them from exploring what they want to explore, I also took as axiomatic this wonderful phrase I heard from Mary Karr in an interview. When she was writing Liar’s Club, her first memoir, she was talking to Tobias Wolff about it and he said, “You’re going to write about yourself as a young pre- and mid-pubescent girl, you need to write about yourself as you were.” He said, “Don’t sugarcoat it.” And the phrase he used was, “Take no cure for your dignity.”
+
+And I loved that phrase so much because when we really do share those parts of ourselves where we are venal and jealous and weird and sad and uncertain and vulnerable, that’s when we get to connect with other people. So in the very beginning of this book, I say that I like to think of this book as a permission slip for me to you, if you need to be told, to fly your freak flag and try the thing that you can’t stop thinking about even though it’s weird. And I admit that this whole shop is filled with my weird hobbies of early computer history and costuming and space suits and I’m not necessarily solving the world’s problems in this space. But I am feeding myself and I am using this as a springboard about my experience to help others follow their weird passions. And that’s my goal.
+
+Tim Ferriss: I think that’s an admirable goal. People can say hello on Twitter. Donttrythis is your handle. @donttrythis on Instagram and Facebook, the Real Adam Savage. They can certainly find the book anywhere books are sold, also at adamsavagebook.com. Are there any other places or any other places online, any other projects that you would suggest people check out?
+
+Adam Savage: Well, so I just wrapped and announced a brand new show I’m making for the Science Channel called Savage Builds. That starts airing on June 12th. Among the things we did on that show, absurd engineering. I work with different collaborators in every episode. In one episode I worked with a master blacksmith to make a sword out of a meteorite. In another I worked with the Colorado School of Mines, with an N, not mimes, to make a 3D printed suit of Iron Man armor out of 3D printed titanium.
+
+Tim Ferriss: Wow.
+
+Adam Savage: And it is mind-blowing. I also have a bag and a parent company called Savage Industries. At adamsavage.com I make bags out of used and recycled sail cloth. We have a number of other small projects there. I also sell plans and kits for making your own bag if you want to go that route and I think that is all of the things going on right now.
+
+Tim Ferriss: Amazing. Well, never any shortage of projects. I will link to all of those in the show notes as well so for folks listening if you are commuting or juggling or doing something that doesn’t allow you to take notes at the moment, you can find certainly links to everything we’ve discussed at tim.blog/podcast as well.
+
+Adam, this has been such a pleasure. It’s always fun to see you and I hope we get to share scrambled eggs sometime soon.
+
+Adam Savage: Like I said, I’m coming to Austin on the book tour. I’ll ping you and give you plenty of notice so that hopefully we can go out and have a beer and then maybe some scrambled eggs.
+
+Tim Ferriss: That sounds fantastic. Is there anything else that you would like to say, any closing comments, suggestions? Anything at all that you’d like to add before we close up?
+
+Adam Savage: No I think we’ve covered a lovely, wide range of stuff today. It’s been really fun.
+
+Tim Ferriss: All right, well, thank you so much, Adam. I wish you all the best on the book tour. I’m really excited to dig into this and go get a glue gun and start my own cardboard project. So thank you for what —
+
+Adam Savage: Take pictures man.
+
+Tim Ferriss: I will take pictures and I’ll make sure I get the process so it’s not just this pretty final shot, or not-so-pretty final shot. I’ll get some of the ugly in betweens and really, really lovely to see you again. Until next time, thank you so much for sharing your stories and to be continued, I hope.
+
+Adam Savage: Of course. Thanks, Tim.
+
+Tim Ferriss: All right. Bye bye.
+
+Adam Savage: Bye.
+
+
+TAGS
+ADAM SAVAGE
+	

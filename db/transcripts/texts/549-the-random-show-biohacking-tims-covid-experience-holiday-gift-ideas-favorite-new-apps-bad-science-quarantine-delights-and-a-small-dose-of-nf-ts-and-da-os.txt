@@ -1,0 +1,941 @@
+
+
+NOVEMBER 30, 2021 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: The Random Show — Biohacking, Tim’s COVID Experience, Holiday Gift Ideas, Favorite New Apps, Bad Science, Quarantine Delights, and a Small Dose of NFTs and DAOs (#549)
+
+
+
+
+Please enjoy this transcript of another episode of “The Random Show” with technologist, serial entrepreneur, world-class investor, self-experimenter, and all-around wild and crazy guy, Kevin Rose (@KevinRose).
+
+In this one we discuss the recent KevKev and TimTim reunion in Marfa, good television for anyone passing time in quarantine, Kevin’s latest biohacking adventures, utility NFTs (including Kevin’s upcoming PROOF drop), donating cryptocurrency for psychedelic research, ketamine therapy, my COVID experience, holiday gifts, financing and budgeting apps, and much more.
+
+
+
+
+
+#549: The Random Show — Biohacking, Tim’s COVID Experience, Holiday Gift Ideas, Favorite New Apps, Bad Science, Quarantine Delights, and a Small Dose of NFTs and DAOs
+
+
+
+
+MEDICAL DISCLAIMER: I’m not a doctor, nor do I play one on the Internet. Speak with a medical professional before doing anything medical-related.
+
+FINANCIAL DISCLAIMER: I am not an investment adviser. Nor is Kevin Rose. All opinions are mine alone. Or his. There are risks involved in placing any investment in securities or in Bitcoin or in cryptocurrencies or in anything. None of the information presented herein is intended to form the basis of any offer or recommendation or have any regard to the investment objectives, financial situation, or needs of any specific person, and that includes you, my dear listener or reader. Everything you’re going to hear is for informational entertainment purposes only.
+
+Tim Ferriss: Hello, boys and girls, ladies and germs, Kevin’s and Toasters. This is Tim Ferriss, and welcome to another episode of The Random Show, episode number 1,374. My guest today, as always, is Kevin Rose. Mr. K Rose, how are you, sir?
+
+Kevin Rose: Dude, I’m so glad we finally got a chance to hang. We went and did that trip together. It had been so long, and then we finally, now that we’re all vaxxed and whatnot, had a chance to hang out in Marfa, Texas. We could talk about all that stuff later.
+
+Tim Ferriss: You should. You’re teasing it. So you might as well just describe for folks what we ended up doing. It was a lot of fun. It was a great time. It was also just fun to crash together. Me on the couch — 
+
+Kevin Rose: Yeah, you tried to get in the bed.
+
+Tim Ferriss: I did. I tried to snuggle into bed. It was freezing. Well, we should provide some more context, but I will just say that Kevin’s like, “You got the couch.” I’m like, “That’s fine. I can crash on the couch.” And I was like, “Where are the blankets?” And we found basically some towels and it got down to mid-forties at night. I was dying. And then the very last day I was like, “Are you sure you checked everywhere?” He’s like, “Yeah, I checked everywhere.” And I’m like, “What about these drawers?” I pulled them out under the bed and I’m like, “You fucker. There are comforters everywhere.” So it was good. Good shared privation. It wasn’t actually shared, it was isolated Tim privation, but that’s okay.
+
+Kevin Rose: There must have been some health benefit from doing that cold. It’s like a cold plunge at night for you basically is what you’re doing.
+
+Tim Ferriss: It’s great. Yeah, it was fantastic. But what the hell were we doing in Marfa, Texas? And why is Marfa, Texas noteworthy? I can also chime in.
+
+Kevin Rose: So we were out at Marfa, Texas, which, for those of you that don’t know, it’s in the middle of nowhere. It is quite the trek to get out there. Well, we had a little easier time getting out there, but we got out there and it was the Art Blocks conference. And so they were doing their first kickoff event. They have a house out there. For those of you that don’t know, Art Blocks is a NFT generative art platform. So they were the very first generative platform. Meaning that artists come in, they write code that creates art. So the code actually you don’t know what you’re going to get when you’re minting it. So when you come in to Art Blocks and you see a project that looks cool, because you’ve seen a test mint, you go ahead and connect your wallet.
+
+And when you connect your wallet, you choose “Make me one of these.” And then it’s all random and you get some beautiful new creative piece of artwork that is defined by the code that was written by the artist. Generative art’s been around for quite some time, but this is the first time we’ve been able to capture it. It’s always been art installations. And now that it’s captured in NFTs, this platform really took off, and you and I were like, “Heck, let’s go check out the kickoff event and see what’s going on there.” And it was awesome.
+
+Tim Ferriss: I said, “Kevin, heck, let’s get out of here.” What the heck? This is exciting, Kevin Rose.
+
+Kevin Rose: I’m keeping it PG.
+
+Tim Ferriss: That was good. You’re ready to move to Utah.
+
+Kevin Rose: We had fun though, dude. It felt like early South by didn’t it, remember? You know early South by Southwest?
+
+Tim Ferriss: Yeah. It felt like South by Interactive, 2007, to be really specific, where you could tell there were the seeds of something that was going to grow to be much larger, but it was still being largely as a phenomenon. It wasn’t even considered a phenomenon. It was the new curiosity that wasn’t taken terribly seriously, if that makes any sense, and then it started to gobble up everything else in terms of interactive. And in the same way that some people think NFTs will be ubiquitous in some respects with the ownership economy. And I should say also for people who are listening to this, if you’re like, “Good Lord, is this going to be another entire episode on NFTs?” We are going to talk about NFTs, but we’re going to also touch on many, many other things, including my experience with finally contracting COVID. We’ll talk about that. We’ll talk about all sorts of tools, biohacks, many other things.
+
+Kevin Rose: We’ve got a full agenda today, all kinds of crazy stuff.
+
+Tim Ferriss: A full agenda. We have holiday gift ideas and we’ll cover a lot of ground. So NFTs will be part of that, but not all of that. And it was great to hang, man. It was so nice to finally be able to spend some time, just the two of us in person. It’s been a very, very long time. When would you say the last time is that we were able to do that? If we think about the old days, right, just KevKev and TimTim —
+
+Kevin Rose: My bachelor party. Remember that?
+
+Tim Ferriss: Yeah. So it’s been more than a few years at this point. I do remember that.
+
+Kevin Rose: Oh, no. You know what? We did my 40th birthday in Japan together. That was the last time we got some real good quality time and that was four years ago, which is crazy.
+
+Tim Ferriss: Wow.
+
+Kevin Rose: Yeah. So it was great.
+
+Tim Ferriss: It was great to actually hang and be stupid and drink lots and lots of sotol.
+
+Kevin Rose: Oh, speaking of which.
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Kevin Rose: Yeah, we should talk about what that sotol is, because I thought that was a fantastic drink. And you ended up being an investor in a company that was based in Marfa, which was crazy. And then also we should talk about the old school. We’re drinking drinks now, but on The Random Show we used to talk about what we were drinking.
+
+Tim Ferriss: So let’s check off the drinks. I’ll describe sotol first. So sotol, S-O-T-O-L, is a really fascinating plant that is found in a few different places, certain parts of Texas, like West Texas, and also a few distinct portions of Mexico. And when you create a spirit from this — and the company in Marfa is Marfa Spirit, so it’s easy to find, Marfa Spirit Co., and we had a lot of sotol when we were there — it is, tastewise, somewhere between tequila and mezcal. So the cooking process is actually very similar to mezcal, which has a smoky feel to it. And that’s actually what I’ll be drinking today, is some mezcal. So I’ll just show what I’m drinking today.
+
+This is Aquí Nomás from Oaxaca, which is an artisanal mezcal and it is dot, dot, dot, we’ll find out. This was a gift from a friend because he knows that I like mezcal and he brought this back. So this is what I’ll be drinking today. But what we had were at least two different types of sotol when we were in Marfa. And we also had Marfa Spirit’s sotol that has been aged in, I want to say, rum barrels, which gave it an incredible flavor. So that was a blast. In Marfa, but today it is Aquí Nomás from Oaxaca. What are you drinking?
+
+Kevin Rose: It’s a little earlier where I am versus where you are, so I went with some champagne actually. So I’m doing Billecart champagne. Which, for me, just the rose, I know it sounds — it is what it is.
+
+Tim Ferriss: You live in Portland, you have Japanese/Chinese calligraphy artwork and you have a designer hypoallergenic dog on a bed behind you. So I think it matches. It works.
+
+Kevin Rose: This is the guest bedroom. Dude, you know what? I wanted to just come out and say it, I love champagne. Champagne is good. I’m sorry. It is just a good beverage. It’s like it doesn’t spike my glucose. And I think that Billecart, for under $100 — champagnes can get really expensive obviously, for under $100, I think it’s 60 bucks or so, it’s like the best. It’s fantastic. So that’s my pledge to Billecart. I’m not a sponsor. Although if you want to sponsor me, Billecart, I’d love that.
+
+Tim Ferriss: Actually, I’ll give people a two for one, because I had two choices. I had more than two choices, but I decided to narrow it down to two, mezcal and then tequila. And this tequila here, which I’m not having today but I’ve had before, I was introduced to a few weeks ago, it’s called LALO. It’s made in Mexico, L-A-L-O, and it is 100 percent agave, as well, blanco tequila. And it’s from Los Altos de Jalisco. It’s delicious. It has a vegetal green flavor to it, which is, from my palette and my experience, at least, pretty unusual with tequila. And I was introduced to this at a restaurant called Suerte here in Austin.
+
+Kevin Rose: Is that a blanco?
+
+Tim Ferriss: Yeah, it is.
+
+Kevin Rose: Awesome.
+
+Tim Ferriss: Well, it’s Agave Azul Blanco. So I guess it is a blanco. Yeah, blanco tequila.
+
+Kevin Rose: You what we had in Marfa? We had Dragones, which we both love. Casa Dragones, that is a fantastic tequila.
+
+Tim Ferriss: It’s also a great tequila. So thank you, Chinati Foundation — or I guess thank you  Casa Dragones for probably sponsoring the Chinati Foundation weekend, at least that event. So that was a rare opportunity. They were just serving Casa Dragones out of a booth. And to everyone who was there, I was like, “Even if you don’t love tequila, you should go try that because it’s $300 a bottle and they’re just pouring it like it’s water. So you should try some.”
+
+Kevin Rose: It’s funny, you and I showed up to this basically — it was a buffet. You and I, we’d show up at this event and it’s a buffet with a bunch of people and it’s in the middle of nowhere, this field and shit with buildings falling down all around. And I’m looking, I’m like, “There’s Dragones, holy shit.” And you and I look at each other and we’re like, “We can just go tap into that. That’s free money right there because that stuff’s expensive.” And then we started hitting the free Dragones. I was like, “I want to see if they could make it neat.” Because, remember, they were making mixed drinks. I’m like, “I just want to pour this in a little flask and take it home. It’s good deal.”
+
+Tim Ferriss: It was the greatest asymmetry between value on your plate for food and value in your drink.
+
+Kevin Rose: It was like an Olive Garden salad with a $300 tequila pairing.
+
+Tim Ferriss: It was awesome. It was great. Kevin, where should we start? I feel like maybe since we are talking about booze, this leads right into biohacking, but we could start really anywhere you want to start, but why don’t you jump into that because you’ve been doing more experimentation or at least voluntary experimentation than I have recently.
+
+Kevin Rose: Yeah, absolutely. And I will say, first and foremost, you’ve obviously had Peter Attia on your show many, many times, when we mentioned these crazy biohacks, always best to go back to his podcast and refer to these episodes where he talks about these in great detail, because — 
+
+Tim Ferriss: Even better to talk to your own doctor.
+
+Kevin Rose: Well, no doubt!
+
+Tim Ferriss: None of this constitutes medical advice, but yes, to hear Peter’s descriptions in greater length, his podcast will not disappoint on the detail side.
+
+Kevin Rose: I’m just a consumer, he has real scientists that he interviews and whatnot. So for me, I’ve been following the news around rapamycin for a while. Right now, the drug is used for immune suppression in transplant patients. So if you get a new organ, a high dose of rapamycin is used to suppress immune system so your body doesn’t the organs, but they’ve shown that in lower doses, in all different types of mice and rats, and now hopefully in dogs here pretty soon, through something called the dogagingproject.org, which I actually helped fund their most recent study out of the University of Washington.
+
+Tim Ferriss: You and me both!
+
+Kevin Rose: I didn’t know you did that as well! That’s awesome. So essentially we’re hoping that this will also translate. They’ve already shown improvements in dog cardiovascular health and in aging dogs, and it looks like it’s working in terms of extending life in dogs. And the hope there, and Attia will talk about this on his podcast, he’s been taking it for a couple years now, low dose, the hope there is that it’ll actually extend life in humans as well. So I decided to try an eight-week cycle of it. I did it. People vary on what they believe is the correct dosage and the correct duration and whether you should cycle it or not. And there’s a bunch of just unknowns right there. So I just wanted to see what it would do if I noticed anything different. I had some knee joint pain in my right knee that hadn’t gone away for a few months, that went away. But I stopped it —
+
+Tim Ferriss: The barnacles on your right testicle?
+
+Kevin Rose: They’re gone.
+
+Tim Ferriss: They’re gone?
+
+Kevin Rose: They’re gone now. Yeah. Clean as a whistle. Like a couple of boiled eggs down there, just beautiful. This is what happens when we introduce champagne into the episode. Billecart champagne, people, it goes straight to the head. I’m sure they want to sponsor the next episode. So the Dog Aging Project, I figured, well, Mr Toast, who’s sitting behind me on the video, he’s looking so alive right now. He looks like he’s dead.
+
+Tim Ferriss: Looks like a tuna fish laid out on the beach.
+
+Kevin Rose: Exactly. Toaster is 11 now, and I decided let’s get him on the dose that they’re using in the Dog Aging Project. And I’m not joking, Tim, there is an absolute difference. Darya and I will tell you that — he’s having some hip issues as he’s getting older, his hips slip out from underneath him from time to time. And it doesn’t help that we have concrete floors and it makes that a little more slippery for him, but he’s jumping up on people now when they come in the house, including us, and just the level of excitement and energy and everything else that’s come out of him. He’s been on it for about two months now. It’s is working.
+
+So I have no doubt that those early studies around cardiovascular health and obviously that will extend dog life to a certain extent. So we’ll see what it is, whether it’s five percent or 10 percent or 20 percent or whatever it may be. I think we powered the study now to detect up to 20 percent, is that right? I had to look and see what — because that was the additional funds that we recently put in, or that I recently put in. I don’t know if you were part of the original funding or the add-on.
+
+Tim Ferriss: Good question. This is all through the foundation. I’d have to go back and look. How did you feel? Did you notice anything subjectively? Obviously, who knows? You’re not doing a placebo control trial.
+
+Kevin Rose: The only thing was that my right knee was bugging me in just a dull pain for many months and that went away. But it’s N of one, dude, that could have gone away for — so other than that, nothing.
+
+Tim Ferriss: It’s so tricky with this stuff, and we’ll talk about my COVID experience later, but whenever you take something, there’s this phenomenon of regression to the mean. This is not a perfect example with the knee, but when you are feeling your worst, you’re likely to throw everything in the kitchen sink at something. And that is also frequently when you are at the peak, after which you begin to regress to the mean, which is your normal baseline. So it’s really hard to determine causality, but great that your knee isn’t bothering you.
+
+Kevin Rose: And then I stopped it and four weeks later I just had a steroid shot on my shoulder today, because I think I tore something in my shoulder, but that’s just getting old. One thing I will say, because there’s going to be a ton of people asking this question, I have an older dog, how do I get my dog on this? There is a study. You can go to the dogagingproject.org. You can apply to be in that study, but the easier way honestly is to talk to your vet and have the vet go to the project, go to the site, they have dosing instructions for what they’re using in the study.
+
+And under a vet’s supervision, if they’re willing to do it, and some will, including my vet out here, once I explained everything, you can prescribe it off label to dogs. And so Toaster takes two milligrams a week for his body weight. And that’s going to vary for your dog, and I’m not a veterinarian, but talk to your vet, show him the project and they might roll the dice with you, but so far so good with Toast. And I’d just love to get an extra three years out of Toast. That would mean the most to me. This is like family.
+
+Tim Ferriss: How old is Toast right now, again?
+
+Kevin Rose: 11.
+
+Tim Ferriss: 11. I feel you, man. Molly’s seven. And I would imagine, but I don’t know enough about the science to say this with any confidence, that like many things, the earlier the intervention, the more likely you are to avert different icebergs. I would have to imagine that’s the case, but that’s a question for the scientists. Suffice it to say, I would love to see Toast around for a much, much longer time. I remember in one of the very first Random Shows when he was a little pup, he chewed through our microphone cables when we did it in person in San Francisco. Do you remember that?
+
+Kevin Rose: Yeah. Toaster was the king of chewing through cables. He chewed through a power cable that was not plugged in one time. And we came home and it was like he had gone all the way through it. I was like, “That would’ve been the end of him.” At that time he was 10 pounds. We would’ve come back to just a fried Toast.
+
+Tim Ferriss: Fried Toast. So what other experiments have you been doing?
+
+Kevin Rose: So dude, I’ve got a couple crazy things. So I’ve been playing. It’s like you go through these times when you don’t do any biohacking stuff and then you go deep. And I started a new drug called Ozempic. And the reason I did this is a couple reasons. One, I’ve always had poor glucose control. So when I did a glucose tolerance test, which is basically you go to your doctor, they make you drink 100 percent glucose, a pure sugar drink, and then they draw your blood and they check your insulin levels and your glucose levels. And they check it every 30 minutes for two hours. And they want to see how high does it get and how long does it stay that high, and how quickly do you return back to your baseline. And mine, I’ve always had what’s called bad, poor glucose disposal.
+
+And Attia was the first to detect this in me. And there’s a bunch of stuff you can do. You can do zone two cardio. You can sensitize your muscles. You can do a lot of things that will suck up glucose and get you back quicker. But there was this drug that came out called Ozempic, and it’s been out for a while now, that does a few things. One, it helps lower glucose, which is great. It is a subcutaneous injection. So it’s a little tiny pin that you get. You get it from your pharmacy. You push this little pin against your stomach and you don’t even feel it because it goes in a quarter of an inch in this little tiny injection of 0.25 milligrams. But they also showed there was a 39 percent reduction in non-fatal stroke and a 26 percent relative risk reduction of a major cardiac event. Which on my family side, my dad and my grandfather both died from heart disease and heart attacks. It was heart attack in my dad and a stroke in my grandpa.
+
+And so for me, while I’m not diabetic, it’s a no brainer. And get this, the number one side effect is weight loss. I have one buddy that’s been on it for seven months, lost 15 pounds of belly fat and looks great now. Another buddy just started a couple months ago, has lost five pounds of belly fat. And I like those Portland beers and I was just like, “This is going to be a great nice little trimming if I can get that benefit as well.” But I will say, there are side effects that are unpleasant as well. So let me tell you those — 
+
+Tim Ferriss: It’s not just like magical Bitcoins appear in your wallet and your penis gets larger and you lose belly fat. Sounds great.
+
+Kevin Rose: If you find that drug, I’m in. So this one’s tricky because a lot of doctors will prescribe it at 0.5 milligrams versus 0.25. And at 0.5 you get some nausea for the first couple days and it’s intermittent, so it’s not nonstop nausea, but what some doctors do, including mine, is a slow ramp. So I started at 0.25, and you do it for about four weeks and then you go up to 0.5, with the goal of getting to one milligram once a week. And so that’s exciting. I’m really excited for Ozempic. So a couple other really quick ones, unless — do you have any to throw in? Have you been trying anything new?
+
+Tim Ferriss: Well, I have been trying things new, but I’m going to save that for — 
+
+Kevin Rose: Save that for the COVID.
+
+Tim Ferriss: The category of COVID, yes. Please continue.
+
+Kevin Rose: All right. So a couple other things. Fantastic article, which we can put in the show notes, from The Atlantic where they found the Prozac of the Middle Ages is what they called it. And so back in the Middle Ages, they found out there were these nuns that used to get high off of taking saffron. So saffron like you have on cooking food is a very potent happy drug. And they used to have these people called these Croakers who were these people, they harvested saffron and they would have to take a break when they were packaging the saffron to avoid getting the giggles, because they would laugh so much from just packaging and smelling this stuff.
+
+And so saffron, it’s almost like a happy drug, like a Prozac. So I was doing some research and I was like, “Okay, maybe they’ll have it in supplement form.” I found some shady stuff on Amazon. I was like, “I’m not going to do this,” but this company, I finally found one that I trust is Olly brand, O-L-L-Y. You’ve probably seen it before. You can link it up in your show notes. They call it the happy gummy worms, and they offer gummy worms now that are infused with saffron with a good enough dose to get you a little bit of that happy feeling like loopy —
+
+Tim Ferriss: A little bit of the croakies.
+
+Kevin Rose: Little bit of croakies. So that’s fun to play with. And then the last one is — 
+
+Tim Ferriss: I remember from 4-Hour Chef that really good saffron is very expensive.
+
+Kevin Rose: Yes. 100 percent. I’ve seen it. By weight, it’s more expensive than gold, which is crazy. Do you know Zak Williams at all? Have you ever met Zak?
+
+Tim Ferriss: Zak Williams? Maybe. Wait a second. I think I have in the Bay Area?
+
+Kevin Rose: Yeah. Robin Williams’ son.
+
+Tim Ferriss: Yeah. I don’t know if we’ve ever met in person, so I shouldn’t say, but there’s a good chance that we’ve bumped into each other at some point.
+
+Kevin Rose: He’s definitely in some similar friend circles, but Zak’s just a fantastic human. And after his father, Robin Williams, passed away, he became obsessed with mental health and trying to figure out things that he could do that could improve people’s well-being. And he came out with these mood chews called PYM, P-Y-M, and they’re on Amazon. You can link them in your show notes, but it’s actually a really basic thing. It’s just GABA, L-Theanine, and Rhodiola, which is all these like really stress, anti-anxiety type mood chews. And he sent me some, and I didn’t try them for a while. And then Darya is like, “I want to try some of these.” And my wife, she got hooked on them, she’s like, “These are amazing.” She takes them and she’s like, “I don’t even want to drink anymore.” Whenever she wants a glass of wine, she just takes a couple — yeah. And you know, she likes the juice. She still drinks, but —
+
+Tim Ferriss: Not 10:00 a.m. on Tuesday.
+
+Kevin Rose: Exactly. So the good 10:00 a.m. chew, but they’re awesome. Zak is in this for the right reasons, he’s not putting any funky, weird ingredients in it and he’s just such a good human. I wanted to give him a shout out because they work well.
+
+Tim Ferriss: I will say also that I am a big fan of L-Theanine for a number of reasons. It’s really helpful for, in some respects, taking the edge off of coffee consumption. So if you have a tendency — 
+
+Kevin Rose: Oh, yeah, I take it with coffee.
+
+Tim Ferriss: That’s what I mean. So if you have a tendency to perhaps over-caffeinate and get into the creepy crawly Trainspotting end of the spectrum, then the L-Theanine can help minimize some of that. Rhodiola is very interesting for developing endurance and for endurance output also. So that one is interesting on multiple levels. Do you have any idea why it’s called P-Y-M?
+
+Kevin Rose: I believe that’s his middle name.
+
+Tim Ferriss: Oh, wow. Okay. Dig it. So we’ll link to that in the show notes, P-Y-M, original mood chews, you can find them on Amazon.
+
+Kevin Rose: And it was also… you baked it in the supplement, something your mood, prove your mood or improve — I can’t remember what it was, but he also put it in the name of the actual chew itself. He had a double meaning for it. [Prepare Your Mind]
+
+Tim Ferriss: I like simple interventions or simple supplements that have two or three variables because otherwise if it’s just a laundry list of 27 things, especially, and I say this as someone who knows this industry pretty well, if it’s a proprietary blend, so you don’t know the actual ratios of these ingredients, it’s very hard, if not impossible to determine what is doing what. Whereas if you have three, at the very least, if you then wanted to try to determine for yourself which of those three was having an impact or not. There are ways to actually placebo blind as an N of one, as a single subject. People can just look up quantified self and blinding or placebo control to learn more about that. But you could actually do a deep dive on each of those three and further test to try to determine for yourself, which is not possible if you’re just getting something with 30 or 40 or 50 ingredients, which you do see in some cases.
+
+Kevin Rose: You’re right. You’ll see these proprietary blends and there’s no clue how much — they don’t list any amounts in there. There’s just 30 ingredients.
+
+Tim Ferriss: Not very helpful, as I’ve learned. I keep giving these teasers. I will say that when I was diagnosed with COVID, the very first thing I realized is if I were to take the advice of everyone sending me advice right now, I would almost certainly die of several dozen contraindications.
+
+Kevin Rose: Just give me a little taste before we get into it, what was the weirdest thing somebody told you to do? Not the whale thing that I joked about.
+
+Tim Ferriss: I have to just say that we were joking about whale semen, I think gargling with whale semen or something, or you said that, I want to give you proper credit. And then I was joking with another friend of mine who asked me the same question, he’s like, “What’s the best advice you’ve received?” And I said, “Well, I think somebody told me to gargle with horse semen, I used horse semen.” And he said, “Actually, it would be great if after you recover you talk about this seriously as an April Fools’ joke because people would be jerking off horses around the planet. It would be the best prank ever.” I did not end up deciding that would be a good idea, but the most hairbrained craziness you can imagine. Every alternative remedy possible.
+
+So you pick you it, there was a recommendation. It doesn’t matter. And we can come back to this, but it is interrelated with the problem of not just determining causation, but avoiding contraindications, which is really, really, really important. So we’ll come back to that. And part of reason I keep delaying this folks, if they’re just like, “Why the tease? Why the tease?” Is because people get crazy. On both sides I’ve noticed that the people on far ends of the conspiracy spectrum or on the political spectrum are like a horseshoe when it comes to COVID. They bend around towards each other and they actually get very, very similar. So there’s no way for me not to upset people when I talk about COVID and the various steps that I took and so on.
+
+Kevin Rose: Well, I’m excited to hear this. Save it for the end.
+
+Tim Ferriss: We’ll save it, and it may be a disappointing punchline for folks, but that’s why we’re pushing it off, because we have a lot of fun stuff to talk about. I will say, let me throw something in related, which was when I was isolating, so as soon as I was diagnosed, I ended up isolating about 24 hours or 36 hours later, first sequestered myself upstairs, my girlfriend stayed downstairs. And then I ended up isolating myself in a separate location so that my girlfriend wouldn’t get sick. And I found Comedians in Cars Getting Coffee to be an incredible — “Cure my COVID, grandma!” No, it’s not a cure. I found it to be extremely psychologically helpful and a real gem of a discovery when I was stuck in this apartment by myself for 10 days.
+
+And so I would make a habit of watching two or three episodes when I got up and two or three episodes if I got really tired, two or three episodes right before bed. And it allowed me to, obviously in a synthetic way, but to interact with people and to feel like I was socializing on some level, I loved it. So I really, really, really applaud Jerry Seinfeld for, first and foremost, designing a format for himself that is the most fun and ease he could possibly have in putting together a show. And for people who don’t know the format, he likes classic cars and cars in general, so he gets to drive an incredible classic car, different classic car every episode, and he goes to pick up one of his friends to go get coffee and bullshit and talk about comedy and life and so on. And it gets cut down to 17 minutes. It’s just a genius format after coming out of the show Seinfeld in the ’90s, which was — I don’t want to say a death march. That’s too severe, but it’s so much work, right? So much incredible work to put that show together and to sustain it for that long. So to do the opposite and create a format that is really fun, really easy, an excuse to hang out with your friends, kind of like The Random Show, quite frankly. It was great. So I really recommend people check out Comedians in Cars Getting Coffee. I watched it on Netflix. Bob Einstein is probably my favorite episode. That’s Super Dave. Larry David, also amazing. Sarah Silverman, always incredible. Garry Shandling. Lot of old timers, some of which are no longer with us, are kind of captured for posterity. So highly recommend Comedians in Cars Getting Coffee.
+
+Kevin Rose: Speaking of things that just make you feel good, have you watched Ted Lasso?
+
+Tim Ferriss: I have not watched Ted Lasso yet. It’s been recommended at least a thousand and one times to me, and I haven’t watched it yet.
+
+Kevin Rose: Tim and everyone else that hasn’t watched it, everyone that has watched it is screaming right now, “Yes, please Tim. Watch this.” You have to see Ted Lasso. It is really, really good.
+
+Tim Ferriss: Yeah, it is on the to watch list. What my girlfriend and I have been slowly chipping away at when we watch something short together because we’re not always in the mood to watch something that’s 90 minutes or two hours long, like a feature film. So we’ll watch Schitt’s Creek, and we’re making our way through all of the seasons of Schitt’s Creek, which is amazing. But Ted Lasso, I remember polling on social at one point, what series should I binge watch next? It needs to be of a certain length and it needs to be, first and foremost, feel good. Right?
+
+Kevin Rose: Oh, dude, it’s the ultimate feel good.
+
+Tim Ferriss: If you just get your face kicked in during the day, this is something you would look forward to watching after such a day. And Ted Lasso was probably the most consistent recommendation.
+
+Kevin Rose: Dude. You have to do this tonight, seriously. It is real — it’s funny because when you think of, for me, I’m not a soccer fan, or football as they call it in some parts of the world.
+
+Tim Ferriss: Fútbol!
+
+Kevin Rose: I’m just not a fan. Not that I couldn’t get into it, but it just not — it’s not about that. It’s about the relationships, and it’s funny and sweet. And it’s endearing. There’s a lot to love. Anyway.
+
+Tim Ferriss: I’m into it. I’m into it. 
+
+Kevin Rose: Sweet.
+
+Tim Ferriss: All right. K. Rose, what other news? What other exciting updates, findings would you like to share?
+
+Kevin Rose: Yeah, I have one last NFT thing, and then I promise we won’t talk about NFTs because you and I both got the sickness.
+
+Tim Ferriss: No, but you’re doing a great job. I feel like I am doing a very junior varsity job. I feel like you have sort of full-spectrum expertise. I’m very impressed. You’re like a decathlete of NFTs right now.
+
+Kevin Rose: Well, thank you.
+
+Tim Ferriss: Yeah. You’re welcome. You’re welcome. Yeah. I’ve been very impressed with your shot put, especially.
+
+Kevin Rose: I think you and I are both kind of — tell me if this is true for you. I think it is. I like to go — well, it’s definitely true for me. I like to go light on a lot of different things until I get hooked on something, and then I go really, really deep if I get the hook.
+
+Tim Ferriss: Yeah, yeah. Yeah, that’s true for me.
+
+Kevin Rose: So NFTs, I got the hook, but anyway. So yeah, I guess there’s a couple of things to mention. One, people should be aware of just an overarching trend that’s happening in NFTs that is, without a doubt, the future. So it’s just important that people should know about this. Sarah Jessica Parker just launched an NFT for her wine. And at first, you think — everyone that thinks about NFTs, they think about, these are just pictures. They’re photos. They’re JPGs. They’re being captured in the blockchain. People are trying to pretend they’re art or whatever, and they’re selling them.
+
+And they don’t necessarily think about actually the technology, and how it can be applied to different things. And what they have done with her wine company and what she has done that’s really impressive is they’ve used NFTs as utilities. And so what I by that is, if you collect one of her wine NFTs, it’s not about saying, “This is a piece of art I’m going to hold in my home.” It’s about showing ownership over membership of something. So it’s a membership to her wine club. So you get your wine allocation based on the fact that you actually hold one of these NFTs. So that may sound boring, but if you think about it, it’s really interesting in that now that can be resold to someone else. Let’s say I buy an allocation of her wine —
+
+Tim Ferriss: Well, that was going to be my main question. Not to interrupt, but I will.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: Wine clubs have existed for a long time.
+
+Kevin Rose: Right.
+
+Tim Ferriss: Or you have Soho House and you have memberships, so people have figured out how to have exclusive memberships. So is the unique aspect of this that the sale of that NFT cannot, or in this case, isn’t being constrained?
+
+Kevin Rose: Right. Well, think of it this way. Okay. So let’s think about some of the most scarce things in the wine world, and let’s talk about Napa Valley for a second. There are two wineries that are far and above the cult, hottest wineries in Napa Valley. It’s Screaming Eagle, and it’s Harlan Estate. And I say that with a slight conflict because I’m on the advisory board of Harlan Estate, but these — well, it’s fantastic wine. It really is. Everyone would agree with that statement that’s in the wine world.
+
+Tim Ferriss: It is.
+
+Kevin Rose: Now, imagine you — 
+
+Tim Ferriss: Don’t exclude me just because I’m not in the wine world. I enjoy Harlan Estate.
+
+Kevin Rose: Yeah. You know what’s up.
+
+Tim Ferriss: It’s usually when I’m just riding on your coattails, but that’s okay.
+
+Kevin Rose: But imagine Harlan — let’s take Screaming Eagle because I don’t want to shill my own stuff here. So Screaming Eagle is, I believe it’s around $4,000 a bottle right now, which is just madness, right? But the waitlist to get on their actual allocation is something like 20 to 30 years. So that means if you go to their website today and say, “I want to sign up for your wine program.” It’s going to take you 20 to 30 years to even get considered to be offered an allocation. And that’s not just because they’re being dicks. It’s actually a very small producer, so they don’t have a lot of wine to sell. So they have to wait for people to kind of come off of that waitlist. Now — 
+
+Tim Ferriss: In fairness, they could expand production if they wanted, but they know how to constrain supply because it’s ultra premium, right?
+
+Kevin Rose: Well, yes and no, but they have this hillside that has very specific climate, very specific soil conditions. You can’t just grow that without compromising some quality. Right?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: So there’s other ways. You could do a sub-brand or something like that. You could expand it. They actually have one called Second Flight, which they’re smaller, less expensive, $500 bottle kind of sub-brand type thing. So imagine membership is no longer about someone retiring and the new person coming on, but about it being a liquid environment. So if I had a membership, I’m like, “Tim, I want to get rid of my Screaming Eagle membership. I bought it when this NFT was a $100 10 years ago, and now what would that cost?” I bet you that membership would go for $25,000, $50,000 or more. And so now that can be resold —
+
+Tim Ferriss: We’re talking about Screaming Eagle?
+
+Kevin Rose: Yes.
+
+Tim Ferriss: Oh, minimum! Are you kidding me?
+
+Kevin Rose: Yes, exactly.
+
+Tim Ferriss: I mean, if the bottle costs $4,000, it’s just bragging. I shouldn’t say just, but a lot of the value is in bragging rights. Right?
+
+Kevin Rose: Right.
+
+Tim Ferriss: Just having access. So there’s no ceiling for what someone could spend it on.
+
+Kevin Rose: So now here’s the crazy thing. When I sell that to, let’s say I sell it to you, because of what’s written into the code and the smart contract behind the scenes for the NFT, 10 percent of that sale could go back to the manufacturer, to the producer. So they are, in essence, the artist receiving a commission on the resale of their membership. So these types of utility NFTs are going to be coming, and it’s not just going to apply to wine. It could be applied to individual objects as well. You can imagine no longer waiting in line for some crazy Supreme drop or some Yeezy sneaker drop. You get the NFT instead. And then price discovery happens in the secondary market via NFTs, and then if you decide to destroy the NFT, you’ll actually get shipped the actual shoes from the manufacturer. Gets rid of fraud at the same time. It’s amazing. 
+
+Tim Ferriss: Destroy, meaning you’re sending it to a wallet that is known to be inaccessible.
+
+Kevin Rose: Well, what you would do is, let’s say for example, and this doesn’t exist today, but it will in the near future. So this is coming. Let’s say you have a limited edition Air Jordan NFT, right? And you’re like, “I actually want this pair of shoes.” You bought it in the secondary market. It started selling. Nike sold it for $250. You bought it for $1,000 and you’re like, “It’s going for $2,000, but I actually want the pair.” So rather than have to go on eBay or any of these secondary marketplaces to figure out are these legit shoes. And I know there’s other places that are clearing houses to determine whether or not they’re legit. But you could go direct to Nike and say, “Nike, here’s my wallet. I’m going to connect my actual cryptocurrency wallet. Here’s my NFT. So I prove that I have the rights to one of these pairs of shoes. Now take my NFT and you will destroy it. And in return, you’ll present me with a form where I put in my shipping address, and you’ll actually ship me the physical shoes.”
+
+So it’s so cool, and it’s coming. So anyway, that’s a little preamble on what’s going on in the industry, but today I have an announcement to make. I have this podcast. It’s called Proof. It’s all about covering the entire NFT landscape. And I’ve been lucky to have a pretty decent audience. We’re up to 250,000 downloads per episode now, which is just crazy for the NFT world. And I’m going to be offering a utility NFT to these listeners. So I’m going to do 1000 NFTs in total that are utility, and they will unlock early access to podcasts, a private collectors-only Discord, and unfortunately, a bunch of perks that I have planned, but I can’t talk about. I talked to some legal counsel, and they always say, “Don’t promise things. Like over deliver, but don’t make any outrageous promises.” But rest assured, I’m going to do everything in my power to make sure that this membership is just awesome. But Tim, I don’t want this to be a commercial. I think this is going to apply to all podcasts, dude. I think that there is a world where in my mind — I don’t know. You might cut this out. You might cut this out if I say it, but I’m going to say it anyway. Please, don’t cut it out.
+
+Tim Ferriss: You do this every other Random Show and I usually keep it in. Go ahead.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: We’ll see.
+
+Kevin Rose: I would buy one of your NFTs just not to hear your ads, dude. If I could get a Tim utility NFT, cut out the ads, get access to episodes and behind the scenes, additional extended footage — this is where things are going to go. You’ll hold something and whoever the creator is, is going to provide additional benefits, additional things for their audience. I’m telling you in the next two years, you’ll see so many podcasts adopting this type of model. Not just podcasts, but sites in general will be adopting this type of model.
+
+Tim Ferriss: So if someone buys KevKev NFT —
+
+Kevin Rose: It’s called PROOF. The PROOF NFT, but yes. I love that you’re trying to rename it KevKev.
+
+Tim Ferriss: So if people buy the PROOF KevKev NFT — 
+
+Kevin Rose: Yes.
+
+Tim Ferriss: And they could also flip that and sell that six months later to give someone else the same access.
+
+Kevin Rose: That’s right. You sell the NFT off to someone else, and then they immediately receive all of the perks going forward from that point.
+
+Tim Ferriss: You’re such a crafty little monkey. You really are.
+
+Kevin Rose: Dude, you’re going to be doing this. You know this could be applicable to what you’re doing.
+
+Tim Ferriss: I know it could be. Quite honestly, I feel like I’ve been thinking and cogitating and meditating on this too long. And honestly, the novelty of all of this will have worn off by the time I do anything. And therefore, I have less interest, but maybe I’m wrong. Maybe I’m wrong. I don’t know. I’m curious though to hear from you, why do this? You have a great life, great setup, got plenty of things to keep you busy. Why do this of all things that you could do? What do you get out of this? So of course you could get income from the initial sales of the KevKev, I’m kidding, the PROOF NFT. But there have to be other reasons. So why are you doing this?
+
+Kevin Rose: This is, at my core. It’s one of — the PROOF podcast is probably, since Diggnation, it is — and obviously our show that we do here, The Random Show —
+
+Tim Ferriss: Ooh, stinger! Ooh, stinger!
+
+Kevin Rose: No. I would say it’s the most fun that I’ve ever had, dude. I think we’re both in this boat of being creative people. I love building things. I’ve been a builder and an entrepreneur for many times over.
+
+Tim Ferriss: Is this a breakup conversation? Is this the swan song?
+
+Kevin Rose: No, this is not a swan song! I’m just saying the reason I want to do it is because I want to help these artists get off the ground. And I think that this is the future. I truly believe that in a hundred years from now, we’ll look back on CryptoPunks and these early projects as being a changing of the guard and a brand-new shift in a way to capture value. And we’re in the very first innings. It’s the same excitement level I got in 2004 when I started Digg at the very beginning of Web2. Web3 has the same gut — I wake up at 5:00 a.m. I can’t stop thinking about things. Tim, when you were laying on my couch, when we were in Marfa, you said the same thing. You’re like, “I can’t sleep.”
+
+Tim Ferriss: I know, I know. I couldn’t sleep.
+
+Kevin Rose: Because it’s so exciting. And when you get that much excitement, I’m like, “How can I help make this a reality?” And that’s what I want to do. So.
+
+Tim Ferriss: You know what? I’m going to share one of those ideas right now because if he hasn’t grabbed it by now, he should have grabbed it.
+
+Kevin Rose: Yes. I know what you’re going to say. I love this.
+
+Tim Ferriss: So we couldn’t sleep. We’re thinking of all of these maybe genius, mostly half-assed, ridiculous ideas.
+
+Kevin Rose: By that time, DAO was first.
+
+Tim Ferriss: Yeah. All right. So well, DAO has come up a couple of times on the podcast. DAO is — go for it, give it a quick summary.
+
+Kevin Rose: So in the world of Web3 and crypto, there’s something called the DAO. It’s a decentralized autonomous organization. It basically means a fancy way of saying a group of people coming together, decentralized, independently, to work on something together, work on a project together, collect NFTs together, whatever it may be. So a DAO is a very common — it’s like saying a new corporation or a new LLC. So there’s all of these DAOs. There’s Flamingo DAO. There’s Meta DAO. There’s Neon DAO. Friends with Benefits.
+
+Tim Ferriss: There’s so many. A million of them, and there are going to be a billion more of them. Yeah. Okay.
+
+Kevin Rose: Go ahead.
+
+Tim Ferriss: And you can use them, or I should say design them, for many, many different purposes. And so, for the few days that we were in Marfa, everyone’s drinking booze, we’re routinely just coming up with more and more ridiculous DAOs that could be. And — 
+
+Kevin Rose: The TimTim DAO. The TimTim DAO would be huge.
+
+Tim Ferriss: Right? The TimTim DAO. And then I was, for whatever reason, thinking of cartoons because as you mentioned, I used to be an illustrator and paid a lot of my expenses in college as a graphic illustrator for magazines and so on. And I was thinking of cartoons, and then I realized, “Oh, my God. I need to send a text to Scott Adams.” So for those who don’t know, I’ll actually back into it. So the DAO is called Dil DAO. D-I-L-D-A-O. And the Dil DAO would be a DAO for fans of Dilbert, one of the most successful comic strips of all time. And so, I texted Scott — 
+
+Kevin Rose: You texted him.
+
+Tim Ferriss: Yeah. I texted him and I was like, “Trust me on this. Please just go out and buy dildao.com. dildao.xyz.” Something like that. And he replied, given that he hasn’t heard from me in God knows, three or four years, I think it was a very polite response given the absurdity of my text. And it was something like, “Hi, Tim. Great to hear from you. I think I need a little more context.” So there you have it. Dil DAO. It may be taken, it may not. The race goes to the swift. What the hell were we talking about?
+
+Oh, we were talking about Web3 and how excited you are. And I should also say yes, I’m very excited. I encourage people to listen to my conversation with Chris Dixon and Naval Ravikant that really goes kind of soup to nuts with a lot of this stuff. What I would be interested to know from you is, if we look at some of the benefits that you are offering, right? You were in a very, very unique and not accidental position at all. You have navigated the world of Web3 and NFTs so brilliantly, I have to give credit where credit is due. And I’ve said this to a number of friends of mine, I’m like, “Man, it’s like this playing field is so perfectly designed for Kevin’s superpowers.” Right? They don’t apply in all places. They don’t line up in all places, but — 
+
+Kevin Rose: No, they don’t.
+
+Tim Ferriss: Your weird quirks and nerdiness and superpowers all line up for this fucking weird thing called Web3, specifically NFTs. It’s hilarious. It’s just every time I get news, and obviously a lot of it is private, and I’m just like, “Of course. Of course this is working.” Amazing. So congratulations, and it’s fun to watch. But I want to ask you what’s some of — let’s say I did my own NFT or something along these lines. What might some of the benefits be that I would provide that would not be stripping out ads? It could be, but quite frankly, I’ve tested this before with memberships. Ultimately, it turned out that most of my fans, I shouldn’t say most, but a lot of my fans recognize the vetting and selection that I do with products. They don’t mind it. And they would rather hear the ads than pay.
+
+That just seems to be true for the vast majority of my audience. They can fast forward. They would much prefer to let sponsors shoulder the burden of keeping the podcast going and growing than pay even 15 bucks a month. Doesn’t matter. They don’t want to do it. Now, maybe that changes once they have an asset that could appreciate. Maybe it changes. I don’t know if just the economic model has some difference, but what are some other benefits that I might be able to provide that are not going to make me want to smash my head through a car door window? Because I’m like, “Why did I ever agree to do all of these things?”
+
+Kevin Rose: Yeah. Well, I think on the ads thing, just touching on that briefly, there are going to be, let’s just call it 50,000 people or something that would love to have a no ad version of your show, right? It may not be massive numbers, but there’s going to be some subset of that that would be stoked. But I think, Tim, it’s more about what do you do early that you don’t share with the rest of us, and how can you share that back to your community of insiders? Because when I think about what I do is finding these early artists, and how can I tell people about this stuff before it becomes big? And so for you, what is that crazy — 
+
+I mean, not so much these days, but back in the day, it would’ve been like, what’s the crazy biohack that you’re on? Or maybe what’s the new transcript of the book that you’re going to publish? Or an early galley copy that no one gets to see, or they all get to see before everyone else? There’s things that are exclusively you, that you could say, “Here’s my private discord where we do a Q and A, which is only for members.” That’s just with you because I’m sure a lot of your listeners have tons of questions you probably get via email. And you could do that in a real format where you actually get to interact with the smaller subset.
+
+Dude, I could have done 10,000 or 50,000 NFTs for this PROOF collective, but I wanted to keep it at a thousand because that’s a number that if I go to a city and I host a private meetup, it’ll be a hundred people or whatever, or 50 people because people will be distributed all over the place. And I can manage that number, and I can hang out and we can have conversations. So actually Tony Robbins does this. He has a really high end tier of people that pay a — 
+
+Tim Ferriss: Platinum Group, I think.
+
+Kevin Rose: Platinum. Exactly. And so this is access to you, access to pick your brain, your knowledge. It’s just a different — it’s a deeper connection to you basically.
+
+Tim Ferriss: Yeah. I suppose what I’m trying to figure out, right? Because I understand in the case of PROOF, in Modern Finance, if people, for instance, were able to listen to the podcast a week earlier, and this is not investment advice, I’m not saying this is guaranteed, but there’s a possibility those people could do really well from an investment standpoint. If they really know what they’re doing, there’s a lot of incentive in that case. And it’s not a very heavy lift for you to provide, say, a separate RSS feed that’s available to a smaller subset of people. There’s so many things that I could do, right? For instance, I could have something where it’s a hundred people as members and they have to pay a hundred thousand dollars a year.
+
+I’m sure I could figure out a way to make that work. I could make that valuable enough just by selecting those hundred people properly, so there’s value in the network. I could make it work. I could make it worth it and worth much more financially. But I’m like, “Do I want to do that?” I remember I thought about doing that. And then one of my friends was like, “Well, you could just end up babysitting billionaires who think they have 24/7 access to you.”
+
+Kevin Rose: See, that’s a problem.
+
+Tim Ferriss: “Do you want that?” And I’m like, “No, I don’t want that.” So I decided not to do it.
+
+Kevin Rose: But that’s not adding any value back, right? That’s like just rubbing elbows with the people that are already really wealthy. I think you have to go a little bit wider than that.
+
+Tim Ferriss: I would push back a little bit in the sense that I could make that very valuable in part, because I could add people to the community who are not buying in. So there are ways that I could make that very, very valuable. The question for me is, what will nourish me and not deplete me? 
+
+The numbers are fun. The money’s fun. Let’s be honest, right? It’s a nice, clean, obvious way of kind of putting points on the scoreboard or having them taken away. So that, I think, is understandable, right? It’s sort of like the gamification of life is this thing called money beyond our kind of subsistence needs. But what I’m wondering is what could I do that would actually nourish me, right?
+
+Kevin Rose: I know what the answer is.
+
+Tim Ferriss: A hundred percent. Tell me.
+
+Kevin Rose: It’s really easy. And this is what my approach is going to be, and it should be yours as well. When you launch a program like this, it’s not about knowing. It’s about trying 20 different things, and two or three of those are going to be really nourishing to you. And you’re going to say, “This is amazing, and I want to do more of this.” And your fans will love it because you’ll try a Q and A. You’ll try a live event. You’ll try an early podcast. You’ll try a bunch of different things. And all of a sudden, something will click, and it’s about the experimentation. That’s what Web3 is right now.
+
+Tim Ferriss: I see. So you just have to set the expectation up front, right? Because if you say, “Hey.” This is an exaggeration obviously, but if you’re like, “Hey, I’m going to go ice skating with you at Rockefeller Center every winter.” And then you’re like, “Wait, I changed my mind.” After they buy the NFT, you’re like, “Actually, I can’t stand Tony. I don’t want to go ice skating with Tony anymore.” So you’re going to have to just set the expectation then, I guess, up front. “Hey, I’m going to try a bunch of stuff. And I’m only going to keep doing the stuff that’s fun.” Basically.
+
+Kevin Rose: And also, they have to know that you’re Tim. You have a reputation. You’re going to deliver on something that you sell. There’s no doubt. You never haven’t. And I think that’s the unique thing that, whether it be a Gary Vaynerchuk, or you or me, we care too much about our reputation to grab money and run. So we’re going to deliver on this in some way. We don’t know what it’s going to be. I’ll try 10, 15 different things, and I guarantee you, there’ll be some things that you’ll find that your fans will love and you’ll enjoy doing.
+
+Tim Ferriss: Slip and Slide in Manhattan. That should definitely be one.
+
+Kevin Rose: Connect Four with Tim.
+
+Tim Ferriss: Connect Four. Connect Four with Tim, that’s right.
+
+Kevin Rose: Twister.
+
+Tim Ferriss: Twister. Twister is the one I was going for. Yeah. So where can people learn more about the PROOF NFT? Is there a place to go? I guess they should just go to your Twitter handle. Where would you suggest they go? They’re listening and they’re like, “Tell me more, Kevin Rose.” How do I do this?
+
+Kevin Rose: Yeah. Well, my main website for it is proof.xyz. And on the top there, there will be a link for a newsletter. If you subscribe to that newsletter, those will be the first people to know along with Twitter, but Twitter you can miss because it can just go downstream, but newsletter folks will get it in their inbox.
+
+Tim Ferriss: And then you’re in the Kevin Rose flywheel of infinite joy. It’s so beautiful. It’s so beautiful. I love it.
+
+Kevin Rose: By flywheel, I mean — I forget to send a newsletter. I probably only send a newsletter every three months.
+
+Tim Ferriss: Oh, it’s great. It’s perfect. It’s perfect. It’s a very slow flywheel, but it’s a — 
+
+Kevin Rose: Yes. That’s right. It’s more like a tricycle.
+
+Tim Ferriss: Yeah. Yeah. So a couple of questions. Where did this XYZ thing start? Because that is a thing.
+
+Kevin Rose: Yeah, the domain handle .xyz was co-opted by just the whole NFT and crypto movement. It just became this thing where all of the dot coms were taken. It seemed too commercial. It was played out. It was old. .so was big for a while. Notion.so and things like that. And for some reason, if you’re Web3, if you’re crypto, if you’re NFTs, just use .xyz. And everyone just latched onto that. So that’s been the thing.
+
+Tim Ferriss: Was there someone who led that charge? Because it could have been a million other — 
+
+Kevin Rose: Those are good questions. Yeah. I don’t know.
+
+Tim Ferriss: Oh, I’d love to know. I’m so fascinated by how these conventions start. Who was the person who was just like, “Guys, this is what we’re doing,” or just had the reputation that they were the first people to do it?
+
+Kevin Rose: There has to be a .nft coming soon, you would imagine. That would be a no brainer.
+
+Tim Ferriss: I just wonder about so many conventions, right? Back in the day when every startup ended with LY, you know what I mean? Bit.ly. Optimiz.ly. This.ly. Everything was LY, and then there’s Spoti.fy, Shopi.fy. Who was the first person to use the fy?
+
+Kevin Rose: Expensi.fy.
+
+Tim Ferriss: Oh, man. Well, I have a blockchain/crypto update. It’s not nearly as well-formed as yours, but it’s my first dip into the pool in a sense, because I’ve always wanted to experiment first with fundraising for scientific research related to so-called intractable, psychiatric conditions. So things that are thought to be incurable or almost impossible to treat with current tools. And so, as you know, Kevin, and a lot of people know, Saisei Foundation, which is my foundation, and it’s all my money, has committed many, many millions of dollars now to psychedelic therapy research and medicine research, helped establish centers.
+
+The first in the world at Imperial College London. The first in the US at Johns Hopkins. Many studies that have done incredibly well. So in terms of picking bets, we’ve had now studies that have been in Lancet, in the New England Journal of Medicine, kind of sweeping the Oscars equivalent from a scientific standpoint. And I was introduced — so you mentioned Art Blocks earlier in this cover conversation. And sorry, I’m slurring my speech a little bit. It’s actually not from the alcohol. We’ll talk about that with COVID, but losing the words is not from the booze.
+
+Kevin Rose: The horse semen?
+
+Tim Ferriss: It’s mostly from the horse semen. It’s a little viscous. It taxes your vocal cords.
+
+Kevin Rose: You always take it to that —
+
+Tim Ferriss: I just want to dial it. I just want to turn it to 11 for a second. God, we took it from Saisei Foundation to horse semen in one second flat. So Snowfro, who is the founder of Art Blocks, introduced me to a nonprofit called Endaoment. This is another great name. So E-N-D-A-O-M-E-N-T.org, endaoment.org. And he introduced me to them because they help nonprofits accept cryptocurrency donations, and it’s a very cool — effectively, company, I mean organization.
+
+In this case, they have a nonprofit arm. I believe Giving Block is a for-profit company that takes a very different approach, but is complementary if you’re a larger organization, a nonprofit, or 501c3 that wants to accept cryptocurrency but doesn’t really have the knowledge or desire to develop the expertise around crypto. These are two ways to do it. And so, I was introduced to Robbie and Zach at Endaoment, and they helped get the Saisei Foundation set up on Endaoment. So if anybody out there is looking to back a proven player who really picks good shots within the scientific research fields and that includes many different things, but predominantly focused on psychedelic medicine and addressing things like treatment-resistant depression, opioid use disorder, so different types of addiction and many, many other things, then you can go to Endaoment. That’s E-N-D-A-O-M-E-N-T.org/saisei. S-A-I-S-E-I.
+
+Well, we’ll include a link in the show notes at tim.blog/podcast, but if you want to type the whole thing out, it’s just app, A-P-P.endowment.org/saisei. And Saisei, I’m surprised I probably haven’t mentioned this before, the name of the foundation means a whole bunch of things in Japanese. I used to live in Japan, went to a Japanese school. I love Japanese culture and language. Saisei means rebirth or to be born again, and that is how many people feel after undergoing properly administered psychedelic therapy or psychedelic-assisted therapy. So that’s why the name is Saisei. So people can check it out and — 
+
+Kevin Rose: It’s so cool.
+
+Tim Ferriss: Yeah, it’s great. I’m excited about it. And it’s also a way for me to feel really good about engaging with it. So that — 
+
+Kevin Rose: A couple things, Tim. You were so early on this and nailed it before it was cool. I feel like all the universities these days are like, “How do we add psychedelics to our roster?” And it’s like, it’s a snowball that I feel like, in many ways, you started, which is awesome to see.
+
+Tim Ferriss: Thanks, man. Thanks. Yeah. It’s been really, really exciting to see a lot of what has happened in the last handful of years and just to see how far it’s come politically also. There’s a lot of room left for improvement, but just last week on Veterans Day, that was November 11th, I was in Coronado, which is in San Diego, basically. And I’m pulling up my Twitter profile for a second because I can give you the actual website, which I would like to do. I was there for a benefit for vets. On Twitter, it’s the handle @vetsforvets, but they had a Strength in Numbers Gala to End Veteran Suicide. And the website for vets is vetsolutions.org. They sponsor psychedelic treatments for veterans and have a particular focus, I believe not exclusively, but have worked with many Navy SEALs, therefore the location in Coronado.
+
+And the reason I bring it up is that I was on stage with Governor Rick Perry. So former governor, I guess he’s the 47th. I want to say Governor of Texas, former Secretary of Energy, Republican, and right next to him was Rick Doblin, founder of maps.org, which is doing incredible work, including phase three trials for MDMA-assisted psychotherapy for PTSD, so they have many veterans involved with this. Who is as far left as you can go. Sort of hyper — and then again, these are maybe exaggerated terms, but kind of like hyper-conservative, hyper-liberal, sitting on the same stage, disagreeing on many things, but agreeing completely on the value of psychedelic medicine for these conditions like PTSD.
+
+Kevin Rose: That’s amazing.
+
+Tim Ferriss: So it’s really kind of mind-blowing — pun intended — to see how we were in a scientific winter and a policy winter, basically, for 50 or 60 years after the Nixon administration. And in the last 18 months really, last two years perhaps, there’s just been this flash boil and so much has happened. So cautiously optimistic, and I do think that Saisei Foundation will continue to be on the forefront, seeing around corners and looking at things that are not yet on the mainstream radar at all.
+
+Kevin Rose: It’s great that it takes crypto. Anyone can, I see here, you just connect your wallet and you can donate crypto and it’s good to go.
+
+Tim Ferriss: Yeah. And I want to give also some credit where credit is due. I ended up there because I was invited by a friend of mine, former team member named Nick Norris. So I want to thank him for inviting me to participate in the event. And I also want to give thanks to all of the sponsors who supported that event, including Future Ventures and I’m an LP in Future Ventures, but Steve and Genevieve Jurvetson were there, who were kind enough to host me and allow me to sit at their table. And it was just an incredible event. So I’m super excited about what is to come in 2022.
+
+Kevin Rose: One question I had for you. A friend of mine, she recently did ketamine therapy for depression, and there’s actually a startup that I’m not affiliated with at all. I don’t even know the founders called Mindbloom. Have you heard of this?
+
+Tim Ferriss: Yeah. Okay. So I’m very glad you brought it up. I have thoughts on Mindbloom. So continue. I can — 
+
+Kevin Rose: It’s interesting because what she did is she signed up for it. And normally, people think of ketamine as like an IV treatment that you go into a clinic and all that, and that’s kind of hardcore to get stuck up with an IV. You have to be a certain — some people are very not cool with needles, right?
+
+Tim Ferriss: Right.
+
+Kevin Rose: This is actually pills that they mail to your house. They pair you with a therapist and she was saying fantastic things about it. It’s kind of home therapy. Only available in like a dozen or so states right now, but ketamine treatment at home, I just wanted to know what your thoughts were.
+
+Tim Ferriss: I started off incredibly skeptical and concerned with telemedicine as applied to psychedelic experiences and that extended to ketamine, because I do think that there are even with some psychedelic compounds, probably with all, but to a lesser extent with some and to a greater extent with others, the potential for abuse. So I had a lot of questions around telemedicine, particularly when you’re dealing with remote/virtual administration of drugs. And ketamine, for those who don’t know, it’s a dissociative anesthetic. It is, generally speaking, extremely safe. It is widely used. I believe it’s one of the 100 most essential medicines as defined by the World Health Organization because as an anesthetic, and again, double check everything with your doctor, but my understanding is it’s famous for being inexpensive and not suppressing respiration. So it has a great risk profile.
+
+And some people will say, “Oh, that’s a horse tranquilizer.” That’s not really accurate. It is used in veterinary medicine, but it’s very widely used in humans.
+
+Kevin Rose: So many horse drugs these days. There are a lot of hot horse drugs.
+
+Tim Ferriss: Lot of hot horse drugs.
+
+Kevin Rose: Lot of hot horse therapy out there these days.
+
+Tim Ferriss: People need to take a closer look at these horses. 
+
+Kevin Rose: These horses have got it figured out! They beat COVID. They’ve done everything!
+
+Tim Ferriss: These horses have it all figured out. Oh, God. Yeah. So you know what, I’m going to share just a quick side note, which you’ll get, I’m pretty sure, but the reference is going to be lost on a lot of people. I was sent this GIF of — it’s a drawing of the two arms in Predator with Arnold Schwarzenegger and Dillon, where he’s like, “Dillon, you son of a bitch.” And they slapped their hands together.
+
+And they’re basically like arm wrestling with their biceps showing, and it’s one gigantic white arm, which is Arnold Schwarzenegger. And then, one gigantic muscular black arm, which is Carl Weathers, I believe. I mean both incredibly jacked. And they’re like, baby oiled up. And it’s this extremely long handshake just for the glamour shot. And I was sent this painting of this and it said, and on one side it had, “Liberal,” and then on the arm, it said “Ketamine.” And then, on the other side, it says “Conservative.” And then, on the arm, it said “Ivermectin.” And then below that, like, “At least we can agree on horse drugs.”
+
+Kevin Rose: Yeah, exactly.
+
+Tim Ferriss: So technically, not accurate, but it was still pretty funny.
+
+Kevin Rose: I saw that, as well. That’s great.
+
+Tim Ferriss: Yeah. ivermectin actually is, I believe, used by many people suffering from psoriasis. I want to say it’s psoriasis. It might be rosacea. It’s either psoriasis or rosacea. And because of all of the buzz around ivermectin, one of the casualties has been that people who really need it for known indications are having increased trouble procuring it, kind of wild to think about. In any case, someone will be able to fact check that on the internet. Shall we talk about COVID? What do you think?
+
+Kevin Rose: Yeah, let’s do it, dude. Now’s the time.
+
+Tim Ferriss: Now’s the time. All right.
+
+Kevin Rose: So wait, wait, wait, I get a text from Tim and it’s two COVID tests. It’s me. You’re texting me and Sacca, I think we can say that. And it’s two COVID tests and it’s like they’re both clear red-lined and you’re like, I mean, you didn’t say, “Fuck,” but you were just like “Shit, this happened.”
+
+Tim Ferriss: “Here we go.”
+
+Kevin Rose: What was the first — walk me through it. You just woke up one morning and was like, “I just don’t feel right.” What happened?
+
+Tim Ferriss: Yeah. I’ll walk you through it. So this is about two and a half weeks ago now, I want to say, something like that. And if I look back, as you know, I’ve been very, very careful and — 
+
+Kevin Rose: So careful.
+
+Tim Ferriss: — began tracking COVID, end of January, beginning of February 2020. Put up a blog post, which was very moderate, super moderate. And ultimately, in the subsequent weeks, encouraged South by Southwest to cancel and was kind of dragged over the coals at the time.
+
+And then, of course, COVID turned into what COVID turned into, and had been very careful, not because I assumed that it is instantaneous death. That is not what I assumed, but because I have preexisting respiratory issues, very well-established respiratory issues, and there were a lot of unknowns — there continue to be a lot of unknowns related to COVID-19 — and I wanted to delay getting it as long as possible. So looking at the lifestyle calculus, it was very easy for me to mitigate risk without making huge sacrifices. I saw a lot of potential upside and very limited downside to taking certain precautions. I ended up going to F1. So Formula 1 in Austin, where at least in the paddock, everyone had been believed both vaccinated and tested negative with a PCR test within 48 or 72 hours, where I think I contracted it because there’s so few options because I’ve been so careful.
+
+There’s so few options where I would’ve been exposed. What I think happened is I succumbed to social pressure. And the way it happened is I had taken a car by myself to and from Circuit of The Americas, from COTA, each day. And then, on the last day, getting back, I had made some mistake and there was a snafu with transportation. And so I ended up getting directed to a location to transportation, which I assumed meant I would be able to get a one-on-one ride back to the city, since trying to find parking is just impossible. I mean, there were 400,000 people there over three days. So I end up in a golf cart, driven like a half a mile to this point, and it’s complete pandemonium. Everyone is trying to leave COTA at the same time.
+
+And I get directed to this van and it’s like, “There’s your ride.” Now, I had taken a van to the event that day, but I was one of three people in the van and we spaced out and so on. And I also had a mask. On the way back, I opened the door of the van and it’s packed. It’s like a 12-seater with 12 people or 11 people, so that I could fit in. And they’re like, “Okay. Yeah, hop on in. We’re headed downtown.” And I was like, “Oh, fuck. I don’t want to do this.” But at least where I was, everyone was tested. “Fuck. Fuck. Fuck. Whatever.” And then I got in and I sat down and it’s like, there was this one model chick vaping in the fucking van. I mean, it was terrible. And I’m just sitting there reading my Kindle.
+
+I’m like, “If I’m going to get fucking COVID, it is going to be right now here.” And then, about five days later, started feeling very, very congested and began to develop a really severe headache. And I attributed it to allergies in Austin because Austin has really, really bad allergies. You have cedar or juniper ash. You have ragweed. You have all sorts of allergens that cause really severe reactions to people. So I just assumed that it was allergies. And then I was getting ready to pack to get on a flight to go to New Orleans for a friend’s 50th birthday and Halloween. Basically, by my request, everyone was going to be PCR tested when they landed and we had, my girlfriend and I, Binax kits at home. So we had Abbott-manufactured rapid antigen test at home. And I was feeling congested. And so, she very wisely suggested, “Well, before we get on the plane and pack and do all this stuff, why don’t you one before we go?” And I did just as a formality. Kept packing. Da, da, da, da.
+
+And I came back and I’m like, “Oh, shit. That looks positive.” And I don’t know what the, let’s just call it accuracy — there are different ways to assess these tests, but let’s just say that it’s 85 percent accurate and Peter Attia could give you a much better description.
+
+Kevin Rose: I think it’s one of those things when if it has a positive, it’s more likely to be positive, but it could miss — you know what I’m talking about? Like there’s — 
+
+Tim Ferriss: Right, I do. But also, if you just take two tests or three tests, you can get the likelihood of two false positives down to say less than five percent.
+
+Kevin Rose: So let me ask you a question. The one thing I’m always curious about these things, because we’ve all done these at home or at least a few of us have that are listening, how quickly did that other line show up? I always wondered — 
+
+Tim Ferriss: Within five minutes. It showed up so quickly.
+
+Kevin Rose: Oh. So it wasn’t like — because it’s always like, “Wait 15 minutes,” and I’m always waiting.
+
+Tim Ferriss: It popped up really quickly and then did the second test and it popped up really quickly. And I was like, “Well, this looks like a positive.” And at that point, went immediately into action mode. I didn’t panic at that point. I’m very good in crisis or I should say, and some people listening might say, “Well, that’s not a crisis.” Well, if you knew my history and you knew some of the outcomes that I’ve seen and the doctors I’ve interacted with, you wouldn’t be as cavalier.
+
+Kevin Rose: What is action mode for you? What does that mean, action mode?
+
+Tim Ferriss: Yeah. I’ll tell you, but I’ll just say in crisis situations, it’s like the little paper cuts of life on a daily basis that make me lose my shit. But if there’s a car accident or someone is in the hospital or something really bad happens, I’m good in those circumstances. Like the freeze in Austin and doing disaster response, I’m really good in those circumstances. So what action mode meant for me was number one, immediately scheduling a PCR test to definitively confirm that I was positive.
+
+Kevin Rose: You knew. You’ve taken three of these things.
+
+Tim Ferriss: No, I’d taken two at that point, but before — and actually, this is important. So before considering different types of actions or interventions, I wanted to really, to the extent that I could be close to a hundred percent certain, be a hundred percent certain because as one doctor I know, we’ll put it, not Peter. Another doctor, he says, “Drugs are all terrible with a few positive side effects.”
+
+Meaning, you’re signing up for a targeted effect that you’re hoping will be helpful or beneficial, but almost all drugs have known and/or unknown side effects. It’s just part and parcel. Very few things are so selective that it’s all upside. So I want it to be as certain as possible. So PCR test, and then as soon as I was confirmed, sort of simultaneously scheduling because I could cancel, let me just pause for a second and say, none of this is medical advice. This is very specific to me. It’s very specific to conversations with my doctors, but I want to, for educational purposes only, walk through this so that people can, if it’s helpful, have some view into my thought process. So I booked IV monoclonal antibodies, which are from Regeneron, in this case.
+
+Kevin Rose: Question.
+
+Tim Ferriss: Yes.
+
+Kevin Rose: As this is unfolding, where you’re at, where you’re based, you were in Austin at the time, is that correct?
+
+Tim Ferriss: That’s right.
+
+Kevin Rose: Okay. Is that something you could just book? I didn’t even know you could just book or do you have to have a doctor go and like, how hard is it to get that?
+
+Tim Ferriss: Yep. So you know what I just realized also? I didn’t answer your question about Mindbloom and I want to come back to that, because this is related. So let me just put a bow in Mindbloom. So Mindbloom CEO Dylan, I’ve met with him. I’ve had a number of people I know, who are extremely seasoned facilitators with psychedelic medicine. The vast majority of those facilitators are charlatans, as you and I know, but there are a handful of folks who are really methodical and expert in my opinion and they’ve gone through the Mindbloom process and they have said only positive things, which I was dumbfounded to hear.
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: I’ve never gone through myself, but I have, through a clinic here in Austin about a year and a half ago, done five or six infusions with IV over the period of two weeks, so that I would be able to speak to the effects and side effects of ketamine if people ask me about it, specifically for depression or suicidal ideation, I think ketamine is very interesting. Also for chronic pain and that relates to NMDA receptors, but we won’t get into that. So Mindbloom, very interesting and I have a very high opinion of both the company and the CEO, Dylan. So that’s Mindbloom.
+
+Kevin Rose: I’ve heard good things, as well.
+
+Tim Ferriss: So the reason I tied that in, I’m sorry for forgetting that earlier, is because there is a company called Drip Hydration, driphydration.com. And my girlfriend booked the monoclonal antibodies through Drip Hydration. And the way that works is you effectively sign up and then, you will be, and I’m probably getting some of the details wrong here, but you will be contacted by a doctor or nurse practitioner who does an intake evaluation, because there are risks with almost anything that is an unfamiliar compound. You can experience anaphylactic response. You could have anaphylactic shock, and you could die. So there are people who have adverse events with monoclonal antibodies. And as I am also going into action mode, I’m talking to three different doctors and it gives me tremendous sympathy every time I have a situation like this or some type of acute medical situation how challenging it is to navigate medicine and science, even if you are really plugged in.
+
+So I was in contact. I’m not going to name names. So I was in touch with three doctors, all very good doctors. One, effectively said, “Do monoclonal antibodies as quickly as you can because the sooner you do it, the better.” My understanding is generally, you want to administer within seven days of contracting, but keep in mind, I don’t know when I contracted exactly. It was probably five days before I was diagnosed.
+
+The second person said, “I don’t think you fit the risk profile. You are not immune-compromised,” from sort of a textbook assessment.
+
+Kevin Rose: Yeah. You double vaxxed, right?
+
+Tim Ferriss: “You’re double-vaccinated,” in my case, with Moderna. “There are possible downsides to having the monoclonal antibodies administered. I would advise against taking it and you should wait and see, and if you develop more severe symptoms, then we can talk.” The third doctor gave me the pros and cons, and this is a very common response that you’ll get, gave me the pros and cons and said, “Really, it’s up to you. I could justify saying ‘Go,’ I could justify saying ‘Don’t go.'” That’s a very challenging situation to be in. There is no tiebreaker, in this case.
+
+Kevin Rose: Can I ask you how you got three doctors? Are these like preexisting doctors that you’ve worked with in the past?
+
+Tim Ferriss: Preexisting doctors.
+
+Kevin Rose: Okay. I know, you know a lot of doctors. I just was wondering, are you calling people randomly or — 
+
+Tim Ferriss: Right. 1-800 COVID doctors. I am not calling up people randomly. I, as you know Kevin, really believe in redundancy and backup. And I have two backup whole house generators at my house, which meant I was one of two houses in an entire neighborhood with power during the Austin freeze last winter. My feeling, and this is from the military, not that I was in the military but a lot of my friends who have been in the military will say, “Two is one and one is none.” If you have two of something, you’re going to lose them and then you’ll have one. If you have one, just consider it none, because doctors get sick. Sometimes, doctors are unavailable. I’m not in a near fatal car crash, so it may not even qualify as an emergency for some doctors.
+
+And for that reason, I want to have multiple people sort of on-contract or multiple people I’ve already done intake with, who I have relationships with, who I can contact via cellphone. If I’m going to spend excess money anywhere for redundancy, medical is where to spend it for you and your loved ones. So that’s how I had three people and I was doing this via email and also via cellphone. And I spoke with all of them and they’re all great, but the point is there was no consensus. I ended up for psychological reasons deciding that I wanted to do it. Because of some of my preexisting conditions, I did not want to wonder whether or not I was going to develop some type of respiratory distress or collapse. I just didn’t want to have that on my mind for the next five days.
+
+I knew that if I had an anaphylactic response, there are ways to kind of attenuate that response with say an EpiPen or intravenous. I think it’s diphenhydramine, Benadryl. So there are ways to kind of mitigate the risk. So I decided to do monoclonal antibodies and then also decided with, through the advice of two out of three doctors in this case, to take fluvoxamine. So I started taking something called fluvoxamine, which is a repurposed antidepressant. This is a very interesting case. So fluvoxamine and I’m reading here from nature.com, so I would expect it to be credible and fact-checked, but obviously do your own homework and please always speak to any doctor before stopping or starting any medications. So common antidepressant slashes risk of COVID death. So fluvoxamine, not to be confused with Prozac, which is I think fluoxetine. It has a very similar name, but it’s different.
+
+So fluvoxamine is a different antidepressant that is cheap, widely available, and frequently used for depression and obsessive-compulsive disorder. So also, I was like, “I’m kind of curious to see what this’ll do to me.”
+
+Kevin Rose: Win-win.
+
+Tim Ferriss: Yeah, yeah. Win-win. So I’ll just read briefly, so that people have an idea of why this has been repurposed. “It is also known to dampen immune responses and temper tissue damage, and researchers credit these properties with its success in the recent trial. Among study participants who took the drug as directed and did so in the early stages of the disease, COVID-19-related deaths fell by roughly 90 percent and the need for intensive COVID-19-related medical care fell by roughly 65 percent.” Now, I should, however, also read the quote from a scientist at Emory University School of Medicine in Atlanta who says, “A major victory for drug repurposing!” but next, “Fluvoxamine treatment should be adopted for those at high risk for deterioration who are not vaccinated or cannot receive monoclonal antibodies.”
+
+So one could make the argument, and one of my doctors did make the argument that A, you’re not at a high risk of deterioration, B, you’re vaccinated, C, you’re getting monoclonal antibodies. You do not need to take fluvoxamine.
+
+Kevin Rose: So you took the kitchen sink approach, basically?
+
+Tim Ferriss: I didn’t though. I took, I really — 
+
+Kevin Rose: You didn’t do the horsey, but you went full horse?
+
+Tim Ferriss: I didn’t do the horsey. I didn’t go full horse. I chose two interventions, and then I supplemented with Vitamin D and a handful of other supplements that are very low risk. I also supplemented with baby aspirin for any type of thrombosis risk. So one could make the argument that this is complete overkill, but for me in my mind, as I’m tracking outcomes, and I’ve tracked this since February, and I’m not crazy, I don’t think I’m crazy. I think I’m actually pretty — 
+
+Kevin Rose: I think I would’ve done the exact same thing, by the way. Based on everything that I’ve read, I think I would, my protocol would’ve been the same.
+
+Tim Ferriss: Yeah. I don’t think I’ve been crazy about this stuff. I think my paying attention to this early allowed me to make some of the best investment decisions of my life. So even if you think I’m a crank when it comes to the science, understanding the societal and supply chain implications of this is useful. So that is what I did and I’ll just add a few things. So what happened? I ended up having, I would say, overall, mild symptoms.
+
+Kevin Rose: What was the text you sent me, where you said you woke up in the middle of the night with a little bit of a panic? What was going on there with the chest stuff?
+
+Tim Ferriss: So there were a number of events that were very disconcerting. But when people ask me, zero to 10, how bad was your COVID? And I was like, “Well, people die from this, so if dying is 10, not a seven.” I have to assume that if it’s like a seven or above, you’re in the hospital. So four, five, perhaps, I don’t know. So I had a mild fever. I had severe, severe headache and very bizarrely like a localized headache that felt kind of like an ice pick in the side of the head. 
+
+Kevin Rose: Oh, I hate those.
+
+Tim Ferriss: Which was unpleasant. I had extreme muscle soreness to the extent that it was hard to move at all, but the most disconcerting — those are all, say, severe flu symptoms. Let’s call it.
+
+Kevin Rose: Yeah. It’s the lung shit that scares you though, right?
+
+Tim Ferriss: It was the respiratory distress and labored breathing, like tightness in the chest and having difficulty breathing, that was the most disconcerting for me, by far. That was definitely the scariest and — 
+
+Kevin Rose: That was just one night?
+
+Tim Ferriss: That was a few different nights. That was a few different nights. And also, it’s very difficult to determine causality, what causes what, because so many things are happening simultaneously. As an example, when I started to wean off of the SSRIs, because I’ve never been on SSRIs before. I also spoke to a number of doctors. A few you were like, you don’t need to taper off, you can stop cold turkey because it’s only 10 days. Then I spoke to a few other psychiatrists who I trust very deeply and they said, absolutely don’t stop cold turkey. And I tapered off. So I taper off of the SSRIs, this is maybe five days ago. So let’s just call it two weeks post. Although I took the fluvoxamine at full dose for 10 days and then tapered off over say three or four. Talk to your doctor, don’t just do what I did.
+
+What I noticed was each night as I started tapering off, I would wake up at between four or five in the morning with really rapid heart rate and sweating profusely.
+
+Kevin Rose: Crazy.
+
+Tim Ferriss: Now it happened once. Who knows what it’s from.
+
+Kevin Rose: That can’t be the SSRI though.
+
+Tim Ferriss: Well, hold on, hold on. Well, hold on. So it could be anything. It could be any number of things. But then it happened the next night and then it happened the third night and I’m like, okay, something’s happening. But is it from COVID? Is it from the SSRIs in some capacity? There’s a chance that that is it.
+
+Kevin Rose: It might be from the lack of SSRIs, right?
+
+Tim Ferriss: Well, that’s the other thing. Is it because I’m experiencing a rebound inflammatory response from removing these SSRIs that have an anti-inflammatory effect? I don’t know. So I’m about now two and a half weeks out. I did my first workout last night and have had a splitting headache since. Within a few minutes of starting exercise, my heart rate spiked to 150, 160 beats per minute.
+
+Kevin Rose: Wow. Crazy.
+
+Tim Ferriss: One of the most consistent — 
+
+Kevin Rose: That’s high dude. Doing what?
+
+Tim Ferriss: Doing nothing. I mean, getting on a stationary bike for five minutes to warm up.
+
+Kevin Rose: Wow.
+
+Tim Ferriss: I will say the fatigue and extended fatigue, and ease of fatigue, has been the most noticeable persistent effect. I remember also the symptoms coming in waves, maybe at day five, I really was just going so stir crazy. I wanted to go outside for a walk. A mask on, away from other people, late at night. I ended up going for my first walk, not that night, but the next kind of late afternoon off hours. And I went for a walk, downtown Austin, not near anybody, way, way outside of any congestion, for a half hour, really slowly flat ground and I came back and I was so tired that I fell asleep for four hours.
+
+Yeah. So I’m glad I took the precautions I did. And I will say this because, and I’ve probably lost some people already just listening to my recounting of this, but the purpose of the vaccine, I saw a number of comments when I put up a notice just saying, I’ve contracted COVID; anyone who’s waiting for anything for me, please just be patient because it could be a few weeks. When I put up that note on social, people lost their minds on every side and every direction. It’s really disheartening to see. It’s not because I care personally, but it’s become such a divisive issue. What I’ll say, just from me personally, I never expected the vaccine to prevent me from becoming infected.
+
+What I did hope for, and based on the data believed was likely, is that the vaccinations would, once I got COVID, would reduce the risk of being hospitalized or having severe complications, including long haul symptoms, even if your initial symptoms are mild. So I just think that’s really important to say because a lot of the responses I saw were, “Oh, you think you’re so fucking smart? Doesn’t seem like your vaccine is working.” And it’s like, well guys, if less than one percent, and this is the number I’ve been told by a number of docs, definitely check the primary materials. But if less than one percent of the people currently hospitalized are vaccinated, just based on the data, forget about the politicians, forget about all the yelling and screaming on YouTube. But just looking at the data we have, which are not all manufactured by big pharma, as someone who funds a lot of science, I just want to say, it’s not that simple, right?
+
+The conspiracies on one side, which are like, all of this is being driven by big pharma, have a grain of truth to them in the sense that big pharma lobbies and has a lot of capital and they can exert influence. But they don’t have complete control over something like this. Similarly, on kind of the other end of the spectrum, you have people who are concerned about nanny states or police state and the US government inflicting this, enforcing this upon people. I’m not talking about mandates, by the way, I’m putting that aside. That is just outside of the purview of this conversation. But if we’re talking about my personal reasons, I happen to still believe that good scientists exist. And that the scientific method is the best approach we currently have for asking questions of nature and getting back verifiable repeatable answers.
+
+I was vaccinated to keep the symptoms as mild as they happened to be for me. I’m not convinced that that would’ve been the case otherwise. Given that when things were hitting New York, I was on the phone talking to doctors at Mount Sinai and other places, senior attending physicians who are telling me on the phone, “If you hear people telling you that this is just affecting people who are 70 and 80, don’t believe them because I am looking in front of me at two or three people in their twenties and thirties who are intubated and they have no preexisting symptoms or comorbidities; none of them smoke. You’ve got to be careful with this stuff.” So that is my story.
+
+Kevin Rose: Well, I’m glad you’re okay, man. That’s the most important piece. That’s great.
+
+Tim Ferriss: I have had some residual cognitive effects though. I was mentioning earlier that the kind of slurring of words and missing words. There do seem to be, I don’t think they’re going to persist forever necessarily, but there do seem to be some residual effects. Part of the reason that I chose to become vaccinated, part of the reason I chose to take the approach that I took, which is heavily dependent on your individual doctor input, was not just to lower the risk of severe symptoms in the early stages, but to decrease the likelihood of long haul symptoms, which are no joke.
+
+Kevin Rose: Yeah, no joke. Yeah. I just got my booster. I actually went with the Pfizer and decided to mix and match because I saw some pretty compelling early data around additional coverage with the mixing and matching. I’m sure you probably saw that as well.
+
+Tim Ferriss: Yeah you should get your fourth booster with some horse semen. That’s the finisher.
+
+Kevin Rose: For people that are listening, don’t freak out. My mom has cancer, so I got the booster so I could be safe around her. I know that’s not my time to get the booster, but I want to see my mom. So that’s reason enough right there.
+
+Tim Ferriss: Yeah, for sure, man. So that’s the COVID story. It’s crazy though. I will say that A, I’m glad that I got it now and not in March or April of 2020. I’ll also say that there is some relief to it because my opinion of COVID is similar, it’s developed a bit, but similar to what it was in March of 2020, when I took to social media to encourage the organizers of South By to cancel. And that is it can’t be contained. It doesn’t have the profile of a virus that can be contained. My expectation is everybody’s going to get this and people are probably going to get it multiple times. The follow up question to that then, or the consideration is, how do you minimize the likelihood of having severe symptoms?
+
+So that’s the lens that I’ve been using. Now that I have it right, like tiptoeing around and taking all these precautions, to finally have the thing, it was so fucking weird to walk around —
+
+Kevin Rose: I remember when you were telling me you weren’t even taking Amazon packages and shit in the early days. You wouldn’t touch them, right?
+
+Tim Ferriss: Yeah, no, well, early days I was disinfecting everything and there were just so many unknowns.
+
+Kevin Rose: Oh, for sure. I was wiping down my egg cartons and shit.
+
+Tim Ferriss: Yeah. It’s very important, I think, to understand the limits of the known knowns and the known unknowns for that matter in everything, right? Whether that’s picking a partner, girlfriend, or a wife, or a husband, or whatever, or investing or looking at science, it’s really important to know of limits and to try to make decisions based on the knowns.
+
+I’ll also say one more thing. Just because this comes up a lot and people are going to hate me for bringing this up. One of the most common responses/criticisms that I’ve heard in the far left kind of conspirituality folks, and also from some folks who wouldn’t fit into that demo, but who are vaccine hesitant. I understand the concern is we don’t know how the vaccine affects fertility or long term fertility right? They’re absolutely right. They’re absolutely right. But I would agree with that, but disagree that, that automatically means one should not be vaccinated, because if you’re going to apply that logic to the vaccine, you should apply that logic elsewhere. I would just love to see anyone open their cabinet and tell me what the long term fertility implications are for all the supplements and medications and Chinese herbs and so on that they have in their cabinet. They can’t.
+
+That science hasn’t been done. What I would say is it’s a calculus that includes not just looking at the downside of that potential unknown, but looking at the downsides of some risks where we have more data. So what is the likelihood that COVID, or severe COVID improves fertility? I would say pretty low. Is there a possibility that contracting COVID decreases fertility? I don’t think it’s impossible. I certainly think that’s a possibility. Therefore, if the assumption is everyone is going to get COVID. I think what I just mentioned should be part of the conversation. It doesn’t mean you automatically get a vaccine. It doesn’t mean you automatically don’t get a vaccine. But I think it is simplistic and dangerous to say, well, just because you can’t prove the long term implications for fertility, therefore, nobody who’s thinking about kids should get vaccinated.
+
+Kevin Rose: So one question for you, and I don’t know the answer to this at all. Maybe you don’t, but is there any data that suggests it does impact fertility in any way?
+
+Tim Ferriss: COVID or vaccine?
+
+Kevin Rose: Vaccine.
+
+Tim Ferriss: I am not aware of any and I went pretty high up the flagpole with people who I consider highly credible because I’m planning on kids. I certainly don’t want to jeopardize my fertility. I don’t want my girlfriend to jeopardize her fertility. I don’t want anyone to unnecessarily jeopardize their fertility. But not getting vaccinated does not mean you automatically have a free pass. A, you’re taking lots of things where the long term implications have not been proven or sort of demonstrated to any significant statistical degree. Next the effect negative, probably not positive, but potentially, that COVID has on fertility is at least an unknown, or I should say possibly unknown and possibly known.
+
+It just seems unlikely given the mechanisms we understand and the sort of action effects of this disease, that it has a positive impact. Who knows? Maybe. I don’t know how one would ever do that study also, right? As somebody who is very deeply involved in funding science and fundraising for science, I can tell you science is very, very, very, very expensive, and it takes time and it takes ethics boards, and it takes all sorts of approvals, IRB approval, and the case of psychedelics, DEA approval and so on, and so on.
+
+Let me make a recommendation, because this can sound really overwhelming to everybody. Two things. One is check out a book called Bad Science by Ben Goldacre. He’s a British MD. I took a number of excerpts from that book with his permission, with publisher’s permission, and put it into the appendix of The 4-Hour Body. So if you have The 4-Hour Body, or you buy The 4-Hour Body, you can also find a very succinct appendix, which helps you to just become more literate and intelligent when reading science. Because everybody and their brother, every media outlet is going to make mistakes. Just about every single outlet is going to take shortcuts and sensationalize on every point in the political spectrum. Also they’re going to make mistakes in interpreting results. So one of the best things you can do for your life and critical thinking and decision making with health is to become just a little bit more literate with science and your ability to separate fact from fiction or at least clear bullshit from something that might be plausibly okay.
+
+You can do that with a few hours of investment. You just need to read, say, Bad Science. I took some of my favorite parts put in this appendix in The 4-Hour Body. There’s also a series of articles by Peter Attia, Dr. Peter Attia, called Studying the Studies, I believe it is.
+
+Kevin Rose: Yes, his are great.
+
+Tim Ferriss: That’s a deeper dive, but really, really worth taking a look at that. It’s been incredibly helpful to me. It’s enabled me outside of COVID to make some really critical decisions, I think, well. And it doesn’t take that much time. If you’re willing to invest five hours, you could really change your life or the lives of others by making better decisions later. It’s a great investment of time.
+
+Kevin Rose: Awesome. Good recommendations. Let’s get to holiday gifts.
+
+Tim Ferriss: Yeah, let’s do it. Then I have to run in about 10 minutes. So why don’t you go first?
+
+Kevin Rose: Sweet. I’ve got a bunch. We’re getting to that time of year where, especially with supply constraints, that it’s good to order on the early side for a lot of this stuff. So I don’t know when this is planning on dropping, but — 
+
+Tim Ferriss: These are all for Christmas 2022.
+
+Kevin Rose: Yeah, exactly. So I’ll say a couple things. One of the things that I have found to a really fun thing, speaking of Ted Lasso and other fun things that you can do at night that don’t involve drinking or some fun things to do with your spouse or significant other, LEGOs for adults, man. Some of these LEGO projects, they’re not for kids. They’re super throwback, super complicated, crazy LEGO sets. I just got Darya, my wife just had her birthday, actually her birthday’s three days, but I just got her the ECTO-1 because she’s a huge Ghostbusters fan.
+
+Tim Ferriss: Oh, that’s awesome. I’m looking at it right now.
+
+Kevin Rose: Yeah. It’s super legit. It’s not snap five pieces together, this is like a thousand piece, or whatever it is, project. I got a Voltron one, which is awesome. They have a vintage Porsche 911, and you can link these up, but they’re just fun. It’s just something when you’re at home and bust out the LEGOs and have a good time. Go ahead, what were you going to say?
+
+Tim Ferriss: I was just going to say, we’ll have links to all these in the show notes. So if you’re lucky enough to listen to this on the early side, because I’m sure they’ll all sell out. Then just go to tim.blog/podcast and search Random Show and it’ll pop right up.
+
+Kevin Rose: There you go. A couple quick things from me, because I know you’ve got to bounce. So dude, are you a fan of Benchmade Knives?
+
+Tim Ferriss: I am, yes.
+
+Kevin Rose: Okay, cool. So I got this new favorite from them. It’s the 537 Bailout Family of knives. It’s just a sick little pocket knife.
+
+Tim Ferriss: Is it open assist, or what is it?
+
+Kevin Rose: This has the little tiny nodule that you kind of just flip open; it’s not automatic. I do have an automatic that actually right here, check this out. You can only get these in Oregon because they’re legal here in Oregon. But you got the full, see you [crosstalk] video. Yeah. But that’s the Oregon-only edition. That’s Benchmade as well, but Benchmade makes great knives. For those of you listening to audio version, I just pulled out a switchblade on the video. But they’re legal in Oregon. So I’m a Boy Scout, so I always like to have a blade.
+
+Tim Ferriss: Every Eagle Scout needs a switchblade.
+
+Kevin Rose: Exactly. So anyway — yeah, go ahead.
+
+Tim Ferriss: I was just going to add another pocket knife that I’m a huge fan of, since you mentioned knives, is the Kershaw Ken Onion Leek Serrated folding knife with SpeedSafe. It has an open assist that is fantastic.
+
+Kevin Rose: I like Kershaw. I don’t know if you know this, but Benchmades are actually made about a half hour from my house. I went to their factory.
+
+Tim Ferriss: Oh, that’s cool.
+
+Kevin Rose: Yeah, it’s super cool. You can take your knives in and they’ll just sharpen them for free. It’s really cool.
+
+Tim Ferriss: You know, you should actually, now that I — I totally blanked on this. I think he’s still near Portland, but Murray Carter, who was on my podcast —
+
+Kevin Rose: Yes.
+
+Tim Ferriss: — the knife maker who was trained in Japan is nearby. So also if you wanted to make your own knife, he could help get you up to speed.
+
+Kevin Rose: Carter Cutlery, right? Is that right?
+
+Tim Ferriss: Yeah. Carter Cutlery, he’s amazing. Yeah. You can make a neck knife if you really wanted to go full Portland thug.
+
+Kevin Rose: I need to go visit. Those are great holiday gifts right there.
+
+Tim Ferriss: Those knives are one of a kind, super, super special.
+
+Kevin Rose: Yeah. Got to link those up.
+
+Tim Ferriss: Yes, we’ll link this.
+
+Kevin Rose: So Oura has a new ring out, the Oura 3, it’s got realtime heart rate, better sensors. Full disclosure, I’m an investor, but I don’t get anything from saying that, it is just a cooler ring. The last thing, by the way, I use the Oura for sleep. So I put it on when I go to bed. Shows me my sleep stats.
+
+Tim Ferriss: Me too, I use it for sleep as well.
+
+Kevin Rose: Matt Walker just joined as an advisor and is doing stuff for them and helping with the algorithm side. So it’s cool.
+
+Tim Ferriss: That’s awesome.
+
+Kevin Rose: Do you know these stone paper notebooks? Did I ever tell you about, [crosstalk 01:59:49].
+
+Tim Ferriss: I just pulled up the website, but I don’t know these guys.
+
+Kevin Rose: So imagine, we all know Moleskine and notebooks are always kind of a fun little gift to give people. These Karst notebooks are the softest, they’re made out of stone so it’s not paper, they’re made of the stone composite, each page.
+
+Tim Ferriss: Wait, so each page is made out of stone? That’s what I was trying to figure out.
+
+Kevin Rose: Yeah, it’s made out of stone.
+
+Tim Ferriss: So this is like hipster Abe Lincoln?
+
+Kevin Rose: Yes. Pretty much. It’s the softest, it’s a velvety type page, it’s just a dream to write on. Anyway, these Karst notebooks are fantastic. They’re not that expensive, they’re better than Moleskine.
+
+Tim Ferriss: How did you find this?
+
+Kevin Rose: Somebody gifted me one. When I put pen to paper, I was like, “Wow, this feels so good.” Then I researched them and realized that they were sustainable and just made from not trees, but from stone. And I was like, “I have to…” Now I just have them all over the house. I buy them; I’ve got two on my desk right now.
+
+Tim Ferriss: How on earth do you slice stone thinly enough?
+
+Kevin Rose: I think it’s pulverized and they make like a sheet out of it.
+
+Tim Ferriss: Ah, that makes more sense.
+
+Kevin Rose: If you click on the “About” and then click on the “Materials” link there and it’ll show you how they do it. It’s really, really beautiful to write on. Oh, and then also, dude, my last gift I idea is that venison jerky that you invested in. You got me hooked on that stuff. That stuff’s so good. It’s so good. I keep ordering it.
+
+Tim Ferriss: I ate a bag right before we recorded.
+
+Kevin Rose: It’s the best 10 grams of protein post workout or whatever. It’s tasty, it’s really good.
+
+Tim Ferriss: It’s so good. Yeah. It’s so good. So people can check that out. Maui, M A U I, Nui, N U I, Venison. I think it’s just Maui Nui Venison.
+
+Kevin Rose: I get the bars because they make them in links as well. But I like the bars the best, the pepper bars.
+
+Tim Ferriss: Yeah. Yeah. I love the bars. I actually eat the links more. They have fresh cuts. They’re used in some of the top restaurants in the country. They’re fantastic.
+
+Kevin Rose: And they’re wild and they’re wild harvested. What do they call? Yeah. Wild harvested. So they’re not penning them up or anything. They just do like — 
+
+Tim Ferriss: Oh, no, no, no, no. No, no. They’re gobbling up the ecosystem in Hawaii, which is why, also, you’re actually improving the ecosystems in Hawaii by eating this deer because the effects are so destructive. It’s part of the reason I invested, there’s aerial footage of erosion and runoff damaging and destroying coral reef in Hawaii because the undergrowth has been so decimated by axis deer.
+
+Kevin Rose: Yeah. You sent me this video and there’s thousands of them.
+
+Tim Ferriss: It’s insane. Yeah.
+
+Kevin Rose: It’s not like you’re some butterfly where you’re making extinct — 
+
+Tim Ferriss: No, no, no, no. They’re everywhere. They are everywhere. It is just about the most nutrient dense, probably the most nutrient dense red meat I’ve ever had in my life. It’s fantastic. So Maui Nui, I definitely second that.
+
+Kevin Rose: Dude. We forgot my budgeting finance tools. I want to mention those real quick. Can I say those real quick one at a time?
+
+Tim Ferriss: Yeah. Go for it. Go for it. Actually. I’ll cheat on my answer on the holiday gifts.
+
+Kevin Rose: Oh, you go first.
+
+Tim Ferriss: No, no, no. It’ll work out perfectly. You go because I do have to run in a couple minutes. So why don’t you do your budgeting apps? I’ll actually just say that I just put together a 10 of my favorite goodies that make great gifts. I think, let me just check here, I think it’s just tim.blog/giftguide and that’ll take people directly to 10 Gifts to Make Your Holidays Extra Fun, Relaxing, and Delicious. Yeah. So people can just check that out: tim.blog/giftguide. All right. Budgeting apps.
+
+Kevin Rose: Yeah. So real quick, we’re going into a new year. I always try to track finances and all that good stuff. And so I spent a bunch of time going through all the latest and greatest iOS apps and desktop apps and just seeing what is out there. What’s new. So I’ll just give you real quick. There’s one Tim, you would love this one. Actually. I’m not joking. It’s called Kubera, K U B E R A.com. It’s more spreadsheet style, but it ties in all of your S and it also ties in all of your cryptocurrency as well. It’s a net worth tracker and it’s very simple, but very powerful. It’s beautiful. It’s awesome.
+
+Tim Ferriss: That’s a cool screenshot on the main website.
+
+Kevin Rose: On the website?
+
+Tim Ferriss: Yeah.
+
+Kevin Rose: Yeah. It’s super, super simple. It’s just more of how am I doing net worth wise across a bunch of different assets. On the day to day budgeting side killer iOS app that I just fell in love with is called Copilot. So you can go to copilot.money. Sadly there’s no Android or desktop app yet, but they say that’s coming. Then lastly Mint, old school Mint, I hated Mint for years and years and years. Horrible app. The reason I hated it is because it was packed with ads all over the place. My buddy was like, “Hey, you need to check out Mint again.”
+
+Tim Ferriss: They needed an NFT to offer an ad-free version.
+
+Kevin Rose: Seriously, ad-free, but it’s gotten so much better. So if you gave up on Mint a while ago, it’s time to go back and take another look because they completely redesigned it and it’s a lot better. But copilot.money is my favorite on iOS and Kubera for overarching kind of net worth tracking is the go-tos. I’ve tried probably two dozen of them over the last month or so.
+
+Tim Ferriss: Now, let me ask a silly question, I know you’re not scraping by; you’re doing pretty well. What do you find — you are more fluent with budgeting apps than anyone I know.
+
+Kevin Rose: I don’t budget.
+
+Tim Ferriss: Well, what do you consider this, then? Is it just so you can swim in your pool of money like Scrooge McDuck and do the backswim or backstroke? What is it that helps you about this or that you like about the tracking?
+
+Kevin Rose: Well, I would say that for most people it’s going to be about the general budgeting. For me, I don’t want to say, this sounds really bougey or whatever, but I have someone that does budgeting to make sure we’re on track and stuff. I just want to know if I’m spending too much money on wine or on travel. At the end of the year, it’s always nice to sit down and be like, “Okay, here’s what we did. Here’s how our stocks did. Here’s how our crypto did.” I just kind of like having that holistic view and then also, how much are we spending on the kind of more stuff that we could dial back on a little bit like on the crazy wines or the travel or whatever it may be. That’s what it is for me.
+
+Tim Ferriss: Now, if we look at say Kubera, Kubera — 
+
+Kevin Rose: That’s not going to your budgeting.
+
+Tim Ferriss: That’s assets.
+
+Kevin Rose: Yeah. That’s assets. It’s just overarching, all of your different banks, brokerage stocks, currencies, it’s almost like a spreadsheet, but better. It just puts in all of the data, it has all the right connections. That is the go-to dashboard, just to see, “How am I doing across the board?” If you’re one of these people that has a 401k here, and some Robinhood crypto over here, and Fidelity here, and Wealthfront there, it’ll bring it all together under one roof so you can see everything.
+
+Tim Ferriss: Cool. Dig it.
+
+Kevin Rose: It is really cool. It’s the best, I want to see how I’m doing. It’s cool.
+
+Tim Ferriss: You know what I’ve also heard great things about — also from listeners and, full disclosure, they do sponsor the podcast, but I did a lot of vetting and reached out to Ramit Sethi and reached out to Mr. Money Mustache, if you know who that is and a number of folks.
+
+Kevin Rose: I just had Ramit at my house two days ago, by the way.
+
+Tim Ferriss: Oh, no kidding.
+
+Kevin Rose: He stopped by. Yeah. He was in town.
+
+Tim Ferriss: He’s so fun. He’s a great guy. And You Need a Budget, YNAB.
+
+Kevin Rose: Oh, YNAB.
+
+Tim Ferriss: Yeah. YNAB.
+
+Kevin Rose: Yeah. YNAB is fantastic. I should have included that. It’s old school, it’s been out for a long time, but YNAB, for people that are if you’re really into budgeting, I’d say YNAB is for the hardcore hardcore. Copilot, I would say, they don’t have the desktop apps, you can’t really get as deep, but Copilot is more, I think it’s a better interface.
+
+Tim Ferriss: I don’t always judge products this way, but I look at the level of cult following, like how intense is the cult following. And YNAB, people put it on their license plates when they buy a car for cash for the first time or pay off a house. It’s pretty awesome to see just how loyal and dedicated a lot of these folks are. I will also check out Kubera; that’s super interesting. I do most of this stuff on desktop so I could use something that would actually really tie lots together simply. So I’ll take a look at that one as well.
+
+Kevin Rose: I use things like Copilot and Mint, you say budgeting, you’re right, I don’t really pay a ton of attention to that, but if they do things like big purchase detection and they’ll send you a push notification. So if you do have fraud or something weird going on, you get a push and you’re like, “Oh, wait a second. Did I actually buy that?” It’s always nice to have little things like that.
+
+Tim Ferriss: Yeah. Crazy world out there Kevin Rose. Anything else you’d like to add?
+
+Kevin Rose: No, dude. I’m glad you’re healthy, man.
+
+Tim Ferriss: Yeah, me too.
+
+Kevin Rose: Not in four hours, but you beat it.
+
+Tim Ferriss: Yes.
+
+Kevin Rose: We should beat a small little drum there.
+
+Tim Ferriss: We can add it. Hold on, hold on, hold on, hold on. Wait, wait. I’ve never done this before, but — did you hear it?
+
+Kevin Rose: I heard it. I heard it.
+
+Tim Ferriss: That’s amazing. I’ve never used that before in my life.
+
+Kevin Rose: That’s awesome.
+
+Tim Ferriss: Incredible. All right, man. Well, it’s good to see you, brother.
+
+Kevin Rose: Yeah. Good so see you, as well. Thanks for doing this, man. It’s always fun to do these shows with you.
+
+Tim Ferriss: Oh, it’s always fun. Yeah. I can’t wait to see you again in person, man. Give Darya a big hug for me. And for everybody listening, tim.blog/podcast, just search Random Show and we’ll link to everything in the show notes. Happy holidays!
+
+Kevin Rose: Happy holidays!
+
+
+TAGS
+KEVIN ROSE, RANDOM SHOW
+	

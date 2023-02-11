@@ -1,0 +1,455 @@
+
+
+JUNE 30, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Master Investor Ed Thorp on How to Think for Yourself, Mental Models for the Second Half of Life, How to Be Inner-Directed, How Basic Numeracy Is a Superpower, and The Dangers of Investing Fads (#604)
+
+
+Please enjoy this transcript of my interview with Ed Thorp (@EdwardOThorp), author of the bestseller Beat the Dealer, which transformed the game of blackjack. His subsequent book, Beat the Market, coauthored with Sheen T. Kassouf, influenced securities markets around the globe. He is also the author of A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market.
+
+Edward was one of the world’s best blackjack players and investors, and his hedge funds were profitable every year for 29 years. He lives in Newport Beach, California.
+
+You can find our first conversation here.
+
+
+
+
+
+#604: Ed Thorp, The Man for All Markets — How to Think for Yourself, A Real Estate Cautionary Tale, Hedge Fund History and Warnings, The Incredible Power of Basic Numeracy (and How to Develop It), Thought Experiments on Risk, Popular Delusions, Cryptocurrencies, and More
+
+
+
+
+Tim Ferriss: Ed, welcome back to the podcast. It is so nice to see you again, and thank you for taking the time.
+
+Edward O. Thorp: Pleasure to be here.
+
+Tim Ferriss: I thought that we could start with a few of the points that I had specced out for our first conversation. And I want to recommend to everyone, if you haven’t heard our first conversation, we cover a lot of your bio, a lot of your background, and we get into many, many topics. And we’ll create a short length, so if you want to listen to episode one, just go to tim.blog/thorp, T-H-O-R-P. And you can listen to the first episode. We’ll try not to have too much overlap in this. So let’s start with the topic of investing and specifically the value of long-term thinking and or the price of short-term thinking. And perhaps we can begin there in any way that makes sense to you.
+
+Edward O. Thorp: Well, short-term thinking is what benefited me when I first investigated the markets. There were people who bought a common stock warrant and held them. And when the warrants only had a couple of years to go, they had much less value than they had many years earlier, but the people who owned them didn’t seem to recognize that. So these warrants were vastly overpriced with around two years to go. So I discovered that, and that’s how I first began to cash in with an edge in the marketplace.
+
+Tim Ferriss: Could you define, just for people who may not have familiarity, the common stock warrants. What is a common stock warrant in this context?
+
+Edward O. Thorp: A common stock warrant is a certificate issued by or a security issued by a company. Typically, a claim on its own shares. Sometimes companies issue them on other companies and they have shares in the treasury, which they will give up to you if the terms of the warrant are realized. And the warrant is basically like what people know as a call option today. And they were the granddaddy of the whole listed call option movement. They led to very big changes in the securities industry.
+
+Tim Ferriss: So you benefited from short-term thinking, or at least awareness of short-term implications. What are some other examples of, or maybe combinations of short and long-term thinking, how would you suggest people think about that?
+
+Edward O. Thorp: Here’s an example from real estate. I used to have a friend that I walked with quite a bit, and he wanted to sell his house around 1989 or 1990. And at that time he could have sold his house for, I believe it was three million and he wanted to get three and a quarter million. And of course, there was a housing downturn. And I said to him, “Look, get rid of the house now. Use the money and invest it.” Well, he wouldn’t do it. It took 10 years before he could sell his house and get his price. Meanwhile, this is short-term thinking, he wanted to hold out for a little extra money and he was willing to hold out however long it took. And he didn’t understand that by holding out for the extra money, he was tying up his capital. He was having an opportunity cost and he was missing maybe a multiple of two or three in the stock market over the next decade. So it cost him tremendously. The quarter million that he went for, probably cost him six or eight million.
+
+Tim Ferriss: Why do you think humans in general, but let’s look at it within the sphere of investing, why people are generally so poor at taking the longer term perspective or at least considering alternatives to that type of short-term focus?
+
+Edward O. Thorp: Well, I talk to all kinds of people, off and on. I have through my life. And what I found is that most people seem to be focused on what’s immediately around them and what’s happening then. For instance, I know a very talented woman who is a lawyer for a charitable organization, and she’s been in this job for over 20 years and she is brilliant. She does hard work and she wants to do good, but the organization is terrible in the way they’re managed. So she’s a victim in a high mental management position and she needs to take her talent and go somewhere else. But getting somebody to actually make that uncomfortable transition is very difficult, even though for an outsider, it’s totally obvious. So a lot of people, when it’s involving them, they can’t see clearly. When it’s involving one of their friends or acquaintances, they can generally see a lot better, or think they can.
+
+Tim Ferriss: Let’s segue, because I think this may be complementary to what we’ve just been discussing, to numeracy. And perhaps we could begin with a definition of terms, but it strikes me that this is one of the most valuable topics that I could ask your help in unpacking and exploring. Where would you like to begin? I mean, we could talk about numeracy versus its opposite. We could talk about the fundamentals or basic numeracy. Where would you like to begin a chapter of conversing about numeracy?
+
+Edward O. Thorp: I’m going to go back to 1960 when I was teaching at MIT and I went to a wonderful lecture in their big Kresge Auditorium, a public lecture. And it was on the topic of Two Cultures and the Scientific Revolution by a well-known Englishman named C.P. Snow, I think Charles Percy Snow, but I’m not positive about that. Anyhow, there were a lot of brilliant people on stage. And what the topic was was how many people, really accomplished people in the humanities, don’t understand much about science, but there are a lot of first-class scientists that are very good in the humanities and lacking elementary numerical skills or comfort with it. And I’ll put in that thought statistics and probability and game theory and a whole lot of other things that have become much more important in the last many decades.
+
+So when you, for example, talk to an attorney, most often, they’re really good with words, but they make elementary numerical mistakes, get a decimal place in the wrong place and they won’t realize it. That’s one illustration of the sort of things that happen. I think there are some fundamental things that you miss. If you read a news article that’s full of numbers, the numbers will often be presented to ridiculous precision like, “63.8 percent of people polled said such and such.” When you think about the poll, what does that really mean? It means somebody out there copied down some stuff and did a division and came up with 68.3 percent. But it doesn’t mean that poll represents what people really believe. It might have been badly worded. The sample might be too small. The sample might have been biased and so forth. You might read it if you’re not a numeric person and think that 68.3 percent’s pretty good precision. Well, the real answer ought to be something like, “Somewhere between 30 and 80 percent of people believe such and such, we think.” Put that way, you can go on to the next poll.
+
+Another fundamental thing that people do, they don’t understand the difference between averages and the way things are distributed in a population. So an example to drive the point home, there are a hundred people in a bar and somebody knows who they are and says, “Gee, the average net worth of the hundred people in the bar is a hundred thousand each.” An hour goes by, one guy walks out of the bar. Another guy walks in. The guy checks again, he says, “The average net worth has gone to a billion and a half.” What happened? Well, one guy walked out and either Jeff Bezos or Elon Musk walked in.
+
+So the average may tell you virtually nothing about the distribution. And we deal with people often by thinking about averages, instead of dealing with the individual person and all their unique qualities and where they might be in the distribution. So when I meet somebody, I don’t think about them as being in any particular category. I think that as far as I’m concerned, they’re my equal and they know things I don’t know. I probably know things they don’t know too, but I can learn from them. And I usually try to hear what they have to say instead of telling them what I have to say. Today’s an exception.
+
+Tim Ferriss: Well, you are in the hot seat so I think you’re certainly allowed to answer more and say more than I do in this context. If we look at, let’s just say the example you gave of how averages can be misleading. And I think people listening, even if they are, let’s just say they are smart, educated, but haven’t had any particular training in this domain and they’re unsure of how to train themselves or develop this type of awareness. I’ll make a recommendation. There’s a book called Bad Science by Ben Goldacre, who’s a, I believe he’s a UK physician, excellent communicator as well. And there are a number of sections in this book that I think are valuable for separating, for instance, absolute versus relative risk.
+
+For instance, you might see a headline, as you pointed out, in the newspaper that says something like, “Bananas double your risk of colorectal cancer,” something like that. I’m making this up of course, and people might panic and stop eating bananas. But if the risk is one in a billion and then it goes to two in a billion, the risk itself and how you should consider it in terms of your lifestyle choices, pretty minimal. So there are certain resources like that book that I’m aware of, but how would you suggest someone train themselves to become more numerate or are there other basic concepts that you would suggest they become aware of?
+
+Edward O. Thorp: There are two things that I would encourage someone to start with. One of them is to understand elementary statistics and how it works, nothing complicated. There’s a series called Schaum’s Outlines. It’s a sort of a, like a crib book for college courses and they have a whole set of topics. And one of them is on statistics, which I just gave to one of my daughters, because she was interested in this exact conversation we’re having.
+
+Tim Ferriss: How do you spell Schaum?
+
+Edward O. Thorp: I think it’s S-C-H-A-U-M.
+
+Tim Ferriss: Got it.
+
+Edward O. Thorp: You’ll find other simple college outline books with statistics. And what they do is they get down to how to do it, as opposed to a lot of theory and math formulas and that sort of thing. They give you a few basic formulas and they show you how they work. And that’s really all you need to get started. And then if you’re curious and like it, then you’ll teach yourself more. If not, what you have will serve you well.
+
+That’s the first thing. Second thing is elementary mental calculations. People have their little Apple phones or calculators, and they can find all kinds of things out on that. But if they hit the wrong key, they won’t often know that what they’ve gotten is garbage instead of the right answer. And you can figure out a lot of things in your head very easily if you get used to it. So I would learn how to multiply small numbers in my head, if I were someone. And probably how to make other calculations. Like in finance, compound growth calculations in your head are very useful. And my book has a little section about that called the Rule of 72. The that’s only the tip of the iceberg, but if you learn that and you like it, you can go a lot further.
+
+And another pretty neat thing that I’ve come across is if somebody asks you, “What day of the week was 4th of July, 1776?” for example, You can figure it out in under a minute in your head. It turns out to be a Thursday. And so this is a well-known thing in the literature. I happened to stumble across it for myself, but thousands of people figured all this out long before I did, but I find it’s very handy. And I tend to remember the calendar that way, I don’t actually look at calendars, but if somebody says, “Well, what day is Christmas?” I might say, “Sunday,” after thinking about it for a little while, but I don’t have to go check my calendar and find out.
+
+Tim Ferriss: Do you know what that method is called, of determining the day of the week for a specific date? I remember [John] Conway, who was a mathematics professor at Princeton, could do this also very, very quickly. But if someone wanted to learn how to do that, how would you suggest they learn how to do that? Or is there a particular name of the method?
+
+Edward O. Thorp: There is. And I’m trying to think, since it was discovered independently by many people, I’m not sure it has one name, but I’ll just tell you briefly how it works. For every — 
+
+Tim Ferriss: Great.
+
+Edward O. Thorp: — for every date in a month. Like, well, let’s see, today is Tuesday, June 14th, 2022. So 14 is the day number that you assemble. Each month has a number of its own. The number for June is four, where this comes from requires a little investigation, but the people who write the books explain it all to you. You just have to memorize how it works. So you have 12 month numbers. And then every year of a particular century has a number that goes with it. And there’s a way to figure that out pretty easily. And then every century has a number. And so the calendar repeats every 400 years. So you only need four century numbers, and then it rolls over and repeats again. So you add up all these numbers, you throw away sevens and see what’s left. And if, let’s say, a three is left, then it’s a Wednesday, two is left, it’s a Tuesday and so forth.
+
+This was made pretty well-known to people quite a long time ago in a movie called Rain Man. Ever heard of that movie?
+
+Tim Ferriss: Right. I have. I have, absolutely.
+
+Edward O. Thorp: He had two super skills. One of them was to deliver the day of the week for any calendar date. So we know how to do that. And the other one was to count cards to blackjack and win. And we know how to do that. And by the merest chance, my wife and I were flying out on an airplane first-class, heading from, I think L.A. to New York one time. And we looked across the aisle and there was Dustin Hoffman and his retinue. And I thought about it. I said, “Should I go over and tell him that I know how to do all the Rain Man stuff? No, don’t bother him. They’re having a good time over there.”
+
+Tim Ferriss: So let me mention a few things just for people who want to explore this. So the first is we will find links to this particular method and I’ll put them in the show notes at tim.blog/thorp. I’ll just put them with the first, and this now, second episode. I want to come back to the Rule of 72 in just a moment, because I think that’ll be fun to just explain briefly for folks. Rain Man, so the basis of Rain Man is someone named Kim Peek, P-E-E-K, who also had some pretty astonishing capabilities. He could read a book by flipping the pages and the fixation points of his two respective eyes would be on the two respective pages in a given spread. So he had some remarkable capabilities, but a lot of these capabilities, as you pointed out, can be learned and learned very quickly.
+
+For instance, if you want to multiply a two-digit number by 11, it can get a little more complex than this, but if it’s 34 times 11, it’s 374. How do I know? Because it’s three plus four, seven, you stick it in the middle, and it’s really straightforward. So you can develop these heuristics, these shorthand methods. And another, I’ll give a reference to another guest. Ed Cooke has been on this podcast. He is a, or was a competitive memory champion. So he can memorize a shuffled deck of cards in 60 seconds or less, that type of thing. And we talk about various methods and mnemonics for memorizing long strings of digits, things like that. So people can check that out and I’ll link to it in the show notes. Ed, would you mind elaborating on the Rule of 72?
+
+Edward O. Thorp: It’s well-known in real estate circles. If you want to know how long it takes something to double, how many years or how many periods, let’s say. You take the interest rate per year, let’s say. Suppose the interest rate is eight percent. If you divide 72 by eight, you get nine. And so the doubling time for eight percent compound growth is nine years. Let’s suppose that, with eight percent, the rule’s very accurate. If you use numbers below eight percent, the doubling time turns out to be a little shorter than the rule tells you. And if you use numbers above eight percent, it gets a little longer the further away you get above eight percent, but it’s pretty good for a first pass. So for instance, there’s a house on the beach that I looked at in 1974. And so that was 48 years ago? Can it be that long?
+
+Tim Ferriss: Your mental mathematics should be better than mine. I’ll accept 48.
+
+Edward O. Thorp: Okay. So you can use rules like the Rule of 72 and their offspring to use that time period, to see what the compound rate of growth was for investing in that house. Now, the house now sells for 300 times what it did then. So you end up with a pretty good rate of return when you apply these rules. Anyhow, the rule can be used to calculate all kinds of stuff like that. And the easiest way to use it is to calculate doubling things. For instance, let’s say that I invest in the stock market and long-term, it goes up 10 percent a year, long-term, but there might be very bad periods and super good periods mixed together. But over a very long time, if it goes up 10 percent a year, then I can figure out how long it takes to double. And it’ll be about 7.2 years, a little less, because the 10 percent’s higher than eight percent.
+
+So call it seven plus a small amount. What happens if you let it run for a 100 years? Well, seven into a 100 is about 14. That’s 14 doublings. And one of the handy mental things that you’ll find is very useful is to know what the doubling powers are. two, four, eight, 16, 32, 64, 128, and so on. And for 14 periods, we’re looking at about, well, 10 doublings is about a thousand, and four more is about another 16 more, multiplying. So you get up to around 16,000 times. So that’s what the nominal growth at 10 percent over a century is, 16,000 multiple. So it tells you it’s nothing but the power of compounding and why investing for the long-term really pays off.
+
+It also tells you why wasting money really pays off in the negative way. A small example, just at the low end, suppose a guy buys two packs of cigarettes every day. I don’t know what that costs. I don’t pay attention to that, but let’s say it costs $15 for two packs. So if he put that $15 a day in the bank, and then every few months went and bought an index fund in the stock market with the money that he’d saved up. In maybe 60 years or so, he might have half a million dollars just because he gave up the two pack a day habit. He’d also probably have seven more years of life and he’d probably also feel a whole lot better. So this is just a little thing that you can change with a huge long-term impact. But short-term thinking says, “Well, it makes me feel good. I’ll just have another pack today, another pack tomorrow. I’ll get over it sometime.”
+
+Tim Ferriss: Well, let’s come back to your friend, just to use a — I suppose it’s not entirely hypothetical. It’s a real case, but your friend who could have sold his house for three million, but wanted to hold out for the 3.25 million or however much it was. And it ended up taking 10 years. So you’re dealing with — or we are dealing with, he or she is dealing with — knowns and unknowns in whichever path they take in the decision tree, whether it is hoping for the extra 250k in an unpredictable real estate market, but also dealing with unknowns in putting, let’s just say, the three million into the stock market. Because as you said, there could be a bad stretch. There could be a really bad stretch of any number of years.
+
+If you had been having a conversation with this friend, and they listened to your advice, and they said, “Well, I read a book on indexes. And yes, I understand S&P 500 and retained earnings, and over time, X, Y, and Z, over the long term. But what if I put it in, and I have five, six, seven bad years, or however many bad years?” How would you walk them through the decision process, understanding that we can’t control outcomes necessarily, only the decision process? But if they voiced that, they said, “I’m open to it, but I’m afraid that I’m going to put it in, and then the stock market’s going to crash because there’ll be some terrorist attack or who knows what,” how would you walk them through making the best decision, given the knowns?
+
+Edward O. Thorp: I’d tell him that if you put it into something risky that has good long-term history and good long-term prospects, then you’re going to get shaken up a lot along the way. So you have to be prepared to hold for quite a long time to ride out the speed bumps that you’re going to cross. If you’re not prepared for that, then you’re going to make all kinds of bad decisions along the way, like getting out at the bottom. So let me know first whether you’re prepared to do that or not. And if you’re not, you’re on your own.
+
+Tim Ferriss: What would you consider the minimally viable long term? How many years, in this particular case? If they said, “Long term, sure.” What’s long term?
+
+Edward O. Thorp: For him, he was 50 or so.
+
+Tim Ferriss: Yeah.
+
+Edward O. Thorp: And he was still working, and he had other assets. So he didn’t depend on what happened to this money alone. If it was down, if the market were down by 50 percent at some point, that wouldn’t hurt him. He could wait. Some people can’t wait, and so those are the people that have to do things differently. They don’t have enough capital. I was listening to Thomas Piketty talking about his new book, which is very interesting. And one of the things he said was that the poorer part of the country, maybe the lower half, have insignificant capital resources. So if they’re out of a job, they’ve got to get another job right away because they’re living paycheck to paycheck. So they don’t have the luxury of being able to make better choices. They’re being forced to make immediate choices that aren’t good. So this long-term investing advice is for somebody who’s not being forced to make immediate choices and don’t think that they’re going to be forced to do that.
+
+Tim Ferriss: So in the case of your friend, 50, still working, would you say the long term that he should be prepared to buckle in for is 10 years, 15 years? Where would you put that number if you had to peg a number just for the sake of conversation, if you were actually having this conversation with him at the time?
+
+Edward O. Thorp: Okay. I’m talking to a person who’s 45 years old, I believe. Is that right?
+
+Tim Ferriss: Right now, yeah. I’m close to 45. Yes.
+
+Edward O. Thorp: Oh, almost 45. Pardon me.
+
+Tim Ferriss: Almost 45.
+
+Edward O. Thorp: Okay. So I would say, “Look at the rest of your life. How do you project it? ‘I can live to be 80, 90, 100.'” You don’t know.
+
+Tim Ferriss: God. I mean, I hope I live to be — and I know averages can be misleading, but let’s just say the median death age of males in my family seems to be 85 to 88. So you’ve already outrun that. I’m hoping to outrun that. So I’m aiming higher, but let’s just, for the sake of argument, say 85.
+
+Edward O. Thorp: Well, if you follow all kinds of healthy habits, which it seems to me that you do, and you’re up on the latest things that you believe actually have merit, not just any fad, and you haven’t had any major issues, it means you’ve probably got good genes.
+
+Tim Ferriss: So far, so good.
+
+Edward O. Thorp: And you have economics behind you. Wealth is associated positively with longevity, and it’s obvious why. I mean, it’s not fair, but if somebody has advantages, they can avoid problems that people that don’t have those advantages are forced to face. So anyhow, I would say that the odds of your reaching 100 are substantial.
+
+Tim Ferriss: I love this. Yes. I’m certainly aiming as high as possible.
+
+Edward O. Thorp: Yeah. So, let’s see. What was the question you just — that triggered this?
+
+Tim Ferriss: The question was, if we’re personalizing this to me — I mean, it may be a little strange to do so. But if I’m just imagining a conversation between you and your friend who had the opportunity to sell this home for three million, and you’re talking about the different options and one being putting the three million into, let’s just say, a low-cost index fund for the long term, and your friend turns around and says, “I’m open to it, but I know there are bad stretches. When you say long-term, how many years should I be prepared to hold for?” I’m using that as just a chance to clarify, for people who may be listening, what “long-term” could mean in terms of absolute years.
+
+Edward O. Thorp: When do you think you might need the money, really need it instead of keeping it from compounding?
+
+Tim Ferriss: In my case, I wouldn’t need that money to pay the bills.
+
+Edward O. Thorp: Okay. So you can let it run and run and run.
+
+Tim Ferriss: I could. Now, I mean, this gets into varied terrain just because I think in terms of not just lifespan, but also healthspan. So am I hoping to build that capital and then, let’s say, whether it’s give to family or give to charity, do I want to enjoy it in some fashion while I am still physically capable, and able to be out and about, and fully capable, mentally and physically? I mean, these are certain questions that come to mind for me as well. But the truth is, I would not need to liquidate that to pay the bills.
+
+Edward O. Thorp: Yeah. If you can let it grow to some extent, not spend it down, then you have the luxury of being able to invest for a very long time. But if you need to spend down capital — take a person who’s retired. He has no sources of income but Social Security, and they’ve got a million-dollar retirement fund, and they’re going to live another 20 to 30 years maybe. They’ve got to be pretty careful. Assume they’re not able to or willing to work anymore. And so somebody like that needs a plan that will cause the money to last as long as possible, while they’re still alive, and take care of them. But also they need to be able to spend at a rate that gives them a decent life. So that’s a tricky, tricky trade-off. Everybody’s different. I would say that the more pressure there is in which you might have to spend down your capital at some future point, probably the less likely you are to try to become a long-term investor in something that’s quite risky. 
+
+There’s no one thing that’s going to satisfy everybody. It’s a well-known problem in financial economics, the lifetime consumption problem. But my view is if you can get ahead enough so you have enough capital so you’re comfortable, then this problem mostly goes away. Just stick it in for the long run at a high rate of return and let it go. And you spend some of it as time goes by, but you don’t have to spend so much as to really eat into it heavily.
+
+Tim Ferriss: So, let me pause for just a moment to mention and ask a few things. So, the first is the Schaum’s Outline of Statistics is spelled exactly as you said, S-C-H-A-U-M apostrophe S, and covers any number of subjects. So I’m excited to dig into that. Someone very close to me is actually going to be taking statistics in grad school soon, and they’re very intimidated. This will be ordered today. My question for you is, to develop more numeracy and basic familiarity with probabilities/statistics, something that comes to mind for me — and this is from recently interviewing a poker player — is that perhaps by encouraging people to play poker or blackjack, you could enable them to absorb some of these principles while having fun, or doing something that has an objective outside of just becoming numerate. Are there any approaches like that, or that come to mind, that you might suggest to people who would like to absorb and cultivate some of these principles and numeracy, aside from reading a book on statistics? There are other games, other activities, anything that comes to mind?
+
+Edward O. Thorp: There’s a mathematician in the Claremont Colleges named Arthur Benjamin, and I think he has a book called Mathemagic, and he also has a course on The Great Courses. I haven’t followed The Great Courses for a while, but I’ve seen that he has such a course. And you can learn how to do a lot of math in your head by looking at his stuff.
+
+Tim Ferriss: Wonderful. Mathemagic. Arthur Benjamin. All right. I will link to all of that. What I thought we might do next — we were talking about a fairly common and simple example of your friend with the real estate decision. We discussed in our last conversation a number of things related to hedge funds. And there were questions around Citadel, and listeners wanted to know how one might get an edge in hedge fund investing. What would you like to say to that? Or any comments you’d like to add to satisfy some of those folks?
+
+Edward O. Thorp: The hedge fund world has gotten very big. When I first started, there were only a couple of hundred hedge funds. And “hedge fund,” in its original usage, meant a private limited partnership that invests in, typically, financial products. And it could be things like real estate loans, equities, commodities. Very wide-ranging. It’s kind of a catchall for “private limited investment partnership.” The typical structure is that there are a group of limited partners. There could be 100, 200 of them, and a managing general partner. And the limited partners just collect whatever returns they get. And the managing general partner charges a fee, typically so much per year plus a percent of the returns. So that’s the basic structure. And Citadel, that I talked about last time, isn’t such a thing. It is a collection of businesses, and only one part of those businesses is the private limited investment fund that I happened to be a limited partner in. So just a clarification on that.
+
+Now, the asset class of hedge funds is very large. It’s now about $3 trillion, which is like two percent of the entire net worth of the United States. And it has perhaps 10,000 or so hedge funds in it, some of them very large, like your guest Ray Dalio or like Citadel. They range in size all the way down from the multibillion-dollar ones down to a few million dollars. And they often start at a small level like that. It’s pretty hard to run one now, and start it up, because of all the cost, if it’s less than a few million dollars. So the hedge fund world used to be a much better place for individuals to invest. Now it’s better for institutions. I’ll give you an illustration. In the hedge fund that I was in for 30 or so years, in the hedge fund part of Citadel, in the first — I don’t know — 17 years or so, we were making 20-plus percent annualized net to us, after all the fees.
+
+Tim Ferriss: That’s incredible.
+
+Edward O. Thorp: It was incredible. Now, it wasn’t so good for me because I was taxable. So I might be getting 14 percent, a 35 percent combined state, federal tax rate. But then, for an institution, it was fabulous, a tax-exempt institution like a university endowment fund. And then, maybe from 2008 to 2015, returns were somewhat less. I don’t remember the exact numbers, but let’s say they were 14 percent, and now I’m in the 50 percent tax bracket. Taxes went up. So I’m only getting seven percent. So the market long-term is riskier, but it’s going to give me 10 percent, and I don’t have to do any work. All I do is invest once. I don’t do any paperwork or that sort of thing. And so, at that point for me, the market’s probably a better choice. But for the tax-exempt investor, they’re still getting 14 percent. It’s a wonderful choice.
+
+So that’s sort of how the hedge fund world changed for the really good hedge funds. For the not-so-good ones, they, as a group, have gotten sort of less and less attractive for people. But now you might say, “Who should invest in hedge funds today?” I would say wealthy, tax-exempt investors, whether they be individuals or institutions. You might say, “Well, how many of my listeners have that pedigree?” Maybe not very many. But when you think about all the people who are listening to this, a lot of them are probably on the boards of tax-exempt entities like university endowment funds. And so they can advise them, if they want to learn about this sort of thing, and see whether some of these hedge funds are good choices.
+
+I might say the collection of all hedge funds together, taken as a pool, are not attractive. That is, if there were an index, a cap-weighted index of hedge funds would not be an attractive asset class anymore, my opinion. There are exceptions, like the Citadel operation. Well, I shouldn’t say Citadel. Like the hedge fund part of Citadel. The whole business is beyond me. It’s like I invested in the Amazon bookstore initially, and now Amazon has all these other things. I don’t know. I don’t have anything to do with all the other things as a passive investor. I’m still invested in the bookstore.
+
+Tim Ferriss: I’ll also mention, just in passing, that if you were to look at the venture capital industry, let’s call it, as a whole, it would make a terrible index. If you were to average it all out, it would perform under the market, more times than not. There are standouts.
+
+I wanted to recommend two books. And if you have any opinions on these — actually, I suppose it’s more of an author recommendation than anything else. But for people who want to gain some familiarity with the history of hedge funds and what constitutes a hedge fund — in other words, a fund that has hedges, versus those that are, say, unidirectional but nonetheless call themselves hedge funds, et cetera — there’s a book called More Money Than God by Sebastian Mallaby that I found very entertaining. And he has written a new book, which I have not read — believe it’s called The Power Law — which really delves into venture capital. And there are some striking similarities. I will just leave those two aside.
+
+Ed, I would love to ask you next about a few books that I have here in front of me — the titles of, that is — that were in some notes I had for our last conversation. And it relates to expert advice, predictions, and more, but there is a book here which I have not read, but I’ve heard of before, called Extraordinary Popular Delusions and the Madness of Crowds.
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: Is this a book that you would recommend?
+
+Edward O. Thorp: Yes. It was originally written, I think, back in 1851. I forget who the author is. The name Charles Mackay comes to mind, but I don’t know if that’s the publisher or the author. And you’re finding out now.
+
+Tim Ferriss: I am. The Madness of Crowds. No, you got it. Charles Mackay, Extraordinary Popular Delusions and the Madness of Crowds by Charles Mackay, M-A-C-K-A-Y.
+
+Edward O. Thorp: And I’ll say this about it. It’s not wholly accurate. I’ve seen the critiques and corrections of it. But it’s a great read, and it gives you the flavor of crowd madness. It might be good reading for people who are involved in cryptocurrency now, for instance. Or in GameStop.
+
+Tim Ferriss: And I will also just mention for folks that there is a — it looks like a decent Wikipedia page for this book, which covers some of the main tenets, and anecdotes, and stories within it. It was first published in 1841. What would you hope people to get out of this? Let’s just say that they are in the midst of buying and selling cryptocurrency, and they say, “This Ed Thorp seems like a very bright guy. I’m going to take his advice and read this book.” What would you hope them to gain from reading this book?
+
+Edward O. Thorp: I think the first fundamental thing is, if everybody’s heard about it already, there’s, historically at least, no reason to believe that you have any kind of edge. You’re basically rolling dice or buying lottery tickets. And just as in the gambling casinos, where most people do not have an edge, you hear stories about lucky winners, and that draws in more people who want to play. But if you look at all of them as a group, including the good players, who actually have an edge, if you look at all of them as a group, they lose. And that’s how the casinos survive. If the they didn’t lose as a group, the casinos wouldn’t be there.
+
+Tim Ferriss: Right. Let’s segue off to a slightly, well, a completely different subject area, which is physical and mental fitness. We covered some of this in our last conversation, but there’s certainly more specifics that we can explore here. Just to ensure I’m doing my fact-checking, are you still 89 years of age, or have you already turned a new birthday?
+
+Edward O. Thorp: Still 89, but getting close.
+
+Tim Ferriss: All right. So I will reiterate, for people who didn’t hear the first episode, you look like you’re 60. It is remarkable, certainly something to aspire to, and removes any excuses I might have. And I have notes in front of me with a number of things that I would love to discuss. The first is developing awareness. And I have a note here about recording your weight. What is your suggestion for people? And is this something that you have done yourself?
+
+Edward O. Thorp: Yes. First of all, I had a relative who was significantly overweight. He wished to lose weight. And so I said, “I’m not going to tell you what to eat, or how to eat, or anything else. The first thing you do is, you get on a scale every morning, and you write down the date and how much you weighed. And just observe that number. And do that day after day.” Well, it turned out he didn’t really want to lose weight. And so after a while, he stopped doing this. And so I got after him, got him to do it again for a while, and then he’d quit again. And his weight would go down and bounce back up, and go down and bounce back up. But when he was writing it down, it seemed to alter his behavior, and his weight would slowly drift downward.
+
+I’ve made a habit myself of getting on the scale. Maybe not every morning, because I don’t need to anymore. But for a long time, I’d get on every morning and just observe what I weighed. And I’ve been pretty well bracketed between 151 and about 158 for as long as I can remember. And if I get in here 158, I say, “Well, I don’t need that dessert tonight.” Or, “That beer, we’ll have it some other time.” Or, “How about a great, big healthy salad today instead of a burger?” And it’s enough to shift me down. And then I have another little thing that I check, there’s a simplistic notion of apples and pears in people. I don’t know. Have you heard about this one?
+
+Tim Ferriss: I have.
+
+Edward O. Thorp: So an apple is somebody that tends toward getting a big pot belly when they gain weight. And I come from family of apples, and this is not healthy because you get all this fat around your internal organs. So one of the things I put on my list early was never get that pot belly. So all I have to do, I can look down, if I see anything that isn’t flat down there, I know I weigh too much. That’s another awareness: needs to change things.
+
+Those two feedbacks are more than enough to control my weight for a lifetime, and I rarely have to use them. But anyhow, I would say that a person can develop their own feedbacks, whatever those are, and use them. And measurement is important because you want facts on which to base what you do instead of hopes, beliefs, wishes, so on.
+
+Tim Ferriss: I remember a t-shirt that I was given a long time ago by the director James Cameron. It was actually an original staff shirt for the film Avatar. And the very top of it said, “Hope is not a strategy,” which I liked, which I liked quite a lot. And your weighing, just to get specific, is before breakfast and without clothes, or what you would recommend? Is that accurate?
+
+Edward O. Thorp: I do two things. When that’s convenient, I do that. When it’s not convenient, I just happen to go to the scale maybe before a shower in the middle of the day. And I weigh myself and put that down as a little side fact. And of course, I’m going to weigh more in the middle of the day than I did first thing in the morning. So I know that, so maybe I weigh 152 in the morning, but when I put my little side thing down, it might say, at 3:00 p.m., might say 154 and a half.
+
+So I know that roughly speaking about each third of the day, corresponding to each possible meal, I gain about one pound. So I can mentally correct back to the beginning of the day. I don’t have to weigh myself every morning if it’s not convenient, but I get other feedback.
+
+Tim Ferriss: Absolutely.
+
+Edward O. Thorp: The whole thing about health and fitness as I see it is you want to do things that are preventative and you want to make sure you’re not missing something important because it’s the things you miss that are going to do more damage than the positive things are to save you. I mean, you can work out and be fit and have high aerobics and so on, but if you’re not going in for routine colonoscopies and skin cancer checks and so on, you’re leaving a big risk factor open for yourself. So you’ve got to try to get rid of the risks that you can cover.
+
+Tim Ferriss: Do you have a checklist for yourself, or how do you ensure that you are not missing gaps or blind spots?
+
+Edward O. Thorp: I think about it and I talk to people and I pick up information all over and my list expands. There’s a lot of topics on the list. There’s physical fitness of various kinds. There is mental health. There are supplements, which I don’t take much of because their evidence isn’t strong enough in my mind for them. Other people will disagree, but I’m not heavy on supplements, only if I think they’ve really been proven. One thing that I found that really worked well was bone supplements. I was able to reverse osteopenia and turned it into excess bone after several years.
+
+Tim Ferriss: Bone supplements, meaning, say, calcium, magnesium, K2, blends — 
+
+Edward O. Thorp: Blends.
+
+Tim Ferriss: — things of that type?
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: I have a few bullet points that I would love to hear you expand on. And actually, before I get to that, I should say that it is incredible how much behavioral change can subconsciously seep into someone’s life, also consciously, but I find the subconscious side especially interesting if they simply begin to measure, whether it’s body weight or body composition, which is partially why self-directed observational studies or at-home clinical trials or experiments are so difficult to design well, because you can say to someone, “All right, you’re going to follow the Mediterranean diet, keep all of your other variables the same, don’t change anything else,” but rarely is that going to be the case.
+
+So, that’s just a side note. One more factoid for folks. Mr. Rogers was also very diligent about weighing his body. I think it was every day when he swam and his magic number was 143. He tended to stay within a few pounds of 143. There are a few bullets here I would love to hear you expand on. The first is limit alcohol to a total of a few drinks a week. So this makes sense to me. Do you drink alcohol yourself? If so, what do you drink?
+
+Edward O. Thorp: I typically drink maybe a half a beer, three or four times a week. And maybe when I have company, a glass or two of wine. That’s pretty much it — and I think it’s too much!
+
+Tim Ferriss: You think that’s too much?
+
+Edward O. Thorp: Yeah.
+
+Tim Ferriss: Do you have a favorite beer or favorite wine that you tend to consume if you’re rationing in that way?
+
+Edward O. Thorp: I never drank beer until a few years ago, but we went to over to Ireland and we visited the Guinness Brewery, which has a long, colorful history, really interesting. And the stuff was really great. So I — 
+
+Tim Ferriss: I did not see that coming. Wow. All right. So you picked up beer a few years ago. So [at] 85, 86, something like that. I love that. I probably need to go in the opposite direction with some of my alcohol consumption.
+
+Edward O. Thorp: Go where there are no breweries.
+
+Tim Ferriss: Yeah. I’m actually pretty good these days. My girlfriend doesn’t drink very much at all and she’s like 20 pounds, so we tend not to drink too much. One is reduced stress. Now this is also something that at face value, I think will make sense to a lot of people, but begs the question of specifics. How do you reduce stress? What have you done to reduce stress in your life that you’ve found to have a meaningful impact?
+
+Edward O. Thorp: One thing that really works for me is listening to music. And also another thing is just going for walks and thinking about whatever, my mind just kind of runs free and I’ll — maybe after this conversation, I’ll go for an hour walk and I’ll think about the things we said and what I wish I said, but forgot, so on.
+
+Tim Ferriss: Is there a type of music? 
+
+Edward O. Thorp: I happen to like classical, but I also like guitar. I like a lot of old songs and music from the movies. Reminds me of pleasant times I’ve had. I like soft jazz, too.
+
+Tim Ferriss: I do too. I’ve developed a real predilection, this eagerness to consume more jazz and blues. I’m not sure, maybe it’s my proximity to a lot of that in Austin and recently spent time in New Orleans, but I’m on the same page with those. There’s a bullet here, avoid unnecessary risks. Could you expand on that? What type of risks have you trained yourself to avoid?
+
+Edward O. Thorp: Well, they’re really everywhere. So I have a laundry list of them that gets longer and longer as I think about them more. Here’s a for instance, COVID, good current example. People are wandering around now, mostly without masks and they’re act acting like it’s over, but I don’t see any reason to catch it. It’s not going to do any good if I do catch it, especially being 89, high risk group, the death rate there is probably close to 20 percent in the 89-year-old category.
+
+Now, I’m healthier and I probably have better medical access than most people. So it might be only two or three percent for me, but that’s too big. So I try to be careful, avoid crowds. No commercial travel unless it’s forced upon me. You just can’t avoid it. The key thing is don’t share air with people that might possibly be ill with COVID, and some of them don’t know it.
+
+So anyhow, that’s an avoidable, a largely avoidable risk if you’re willing to limit your activities. Now, what I’m hoping is it’ll have a broad spectrum antiviral that will allow us to get a shot and put an end to all this. But government seems very slow in getting its act together and there’s no telling how long it’s going to be. That’s one risk.
+
+Another one is travel. Let’s say that I want to go from Orange County, California to New York City. I could fly out of Orange County airport nonstop to Newark and take a somewhat less convenient for me flight. Or I could connect, land somewhere, take off again on the way, a so-called direct flight, but it’s not nonstop. Or I could go to LAX and get all kinds of flights with much greater time ranges.
+
+Edward O. Thorp: If I go to LAX, I’m going to spend 40-plus miles in a car two ways. The risk of driving in a car is roughly 100 times per mile what it is flying in an airplane, which is a gigantic difference. Now, airplane risk, most of the risk is takeoff and landing. So I won’t take a direct flight if I can help it because there are more takeoffs and landings.
+
+So my option is to go to Orange County, take a somewhat less convenient flight, avoid takeoffs and landings. And so there’s a small risk reduction. You might say, well, how much risk reduction is there? It’s maybe a chance in a million, but with a little thinking, I can get rid of it.
+
+Here’s another example. I don’t know if we talked about this before or not. It was about a story I heard by Benjamin Stein on his program. He is the son of Herbert Stein, famous economist, Benjamin Stein himself is an economist, but also he’s partly comedian, and on purpose. He and Milton Friedman, a well-known name, were walking in New York City. And they came to one of these cross streets where the right light was red, but didn’t seem like anybody was going back and forth.
+
+So Benjamin Stein stepped up the curb and Milton Friedman said, “Benji, wait a minute.” And Benjamin Stein said, “No, it’s safe to go.” Benjamin, and Milton Friedman said, “Benji, probably it is, but maybe it isn’t. Why should I risk the rest of my life to save 20 seconds?” And that’s a sort of position that a lot of people don’t make. They’ll run that red light because they can just barely get through. Once in a while, one of them gets t-boned. So there are risks everywhere like this. And if you think about them a little bit and make it a habit, you get rid of piles of them. 
+
+There’s a book called, let’s see, The Unthinkable, I think by Amanda Ripley, and she talks about horrible things that people, horrible situations people have gotten — have found themselves in. For example, the Twin Towers in 2001 and people made various decisions, some of which saved their lives and others caused people to lose their lives. So she has three steps. Denial, where this can’t be happening. Deliberation, where you say, “Well, this is happening. What am I going to do?” And then there’s decision, I’m going to do something now. So I kind of look at I’m a little more proactive. I say that there’s a, for me, there’s awareness and then there’s analysis and then there’s action. So what kinds of things could happen? Well, besides the twin towers, you might find yourself in a burning theater, you might find your building shaking from an earthquake.
+
+We hope none of these things happen. You might see the sun light up, the sky light up like a thousand suns and you figure out that there’s been a nuclear detonation. So multiple things. Or a huge volcanic explosion somewhere, or a tidal wave. A million and one very remote things. But then there are things in everyday life, somebody starts shooting here in the crowd.
+
+You have very little time to decide what to do. I mean, I would drop to the ground, first thing, and then figure out what to do next because you’re a small target, and then see how you can help. But people have these things suddenly thrust upon them. And if you have some thought about how you’d act in some of those things, like I know what I’d do in my high rise office building if there was an earthquake, if you have some idea of how you’d act ahead of time, it helps prepare you so that you can probably have a better chance of coming out of it with less loss or damage. So that’s another approach or big risk, the sort of things most of us don’t like to think about and prefer to think about happy things.
+
+Tim Ferriss: Having been through a number of natural disasters and also crisis situations for instance, in Austin, Texas, but also in San Francisco, it is always astonishing to me. And maybe I just have a healthy, sometimes unhealthy degree of paranoia about low probability events. But if you look at even recent history, like the Loma Prieta earthquakes in San Francisco, or you look at the freezes in Austin that paralyzed the city, prevented transport trucks from delivering goods, ended up disrupting water supply. I am amazed how few people have a week or two worth of backup water.
+
+It’s just an example of something that you could remedy with a few hundred dollars, less than they spend on a given weekend at restaurants, but just how few people have that type of contingency planned for, even after they have had a really close call.
+
+So I remember in Austin, deep freeze lasts a week and I had some involvement during this entire thing with disaster response. And it was pure luck that we had the thaw when we did, if it had lasted another day or two, it would’ve been catastrophic in terms of lives lost for a number of reasons. But even after that happened, I spoke with a number of acquaintances who had been in dire straits and I asked them if they had bought backup water and a few other things, and they said, no, that was a one in a hundred years type of storm. That’ll never happen again. It was just puzzling.
+
+Are there any other risks from say, an exercise perspective or a behavioral perspective, a day to day, kind of week to week perspective that you have removed by doing this type of analysis for yourself, things that you used to do that you no longer do?
+
+Edward O. Thorp: Yeah. I used to run on roads when I was training and I soon changed that because I read about what the statistics were for runners are being hit by cars on roads. Even if you’re running on the side and the bike path, it’s too much risk. So I went off road. And now when I walk, it’s the same thing. I don’t walk on roads. I walk off road, except in a community where there’s basically no action and I could see and hear everything.
+
+Tim Ferriss: What is the age-guessing experiment?
+
+Edward O. Thorp: Oh yeah. That’s a funny thing. I think when I was about 82 or so people kept saying, “Gee, you look like you’re 60.” And I said, “Well, that’s very flattering,” but it’s nice to hear. I wonder how much truth there is in this? So can I measure this? Has this got any fact behind it? So what I decided to do was approach strangers at convenient places, like a waiter in a restaurant where I’d never eaten before. And I’d say, “I have $5 here. I’d like you to answer a question about me, assuming you know nothing about me, and if you are close, I’ll give you the $5.” And the question was, how old am I, within five years?
+
+So I did this with a wide range of people, about 20 people altogether over several months just to entertain myself. And I had a lot of fun with it. In one restaurant, when somebody guessed like 53, I said, “No, and do you want to go higher or lower?” Oh, I said, “No.” And they said, “Well, my friend wants to guess.” And I said, “Friend, do you want to go higher or lower?” So friend thought, “Oh wow.” I think they went higher. So they said something like 65 or so. And I said, “No.” And they tried again, 75. No.
+
+But one woman came pretty close. She was an old lady in a senior citizen’s library. She was about 83. And I asked her the same question and she looked at me and she said, “I think you’re about 72.” I said, “No, you’re not more than five years.” And then I said to her, “See that kid walking along there, how old do you think he is?” Kid was about 18 or 20. She said, “Oh, I think about 40.” Anyhow. The mean was in the 50s then, but that was several years ago.
+
+Tim Ferriss: Well, that just sounds like a fun game to play also.
+
+Edward O. Thorp: It’s very entertaining and you can play with any other kind of question too.
+
+Tim Ferriss: Ed, it strikes me that you have developed an ability, and perhaps this is somewhat innate as well, but to think for yourself and to attempt to start from first principles whenever possible. I’d love to pick up on a thread that I was hoping to explore last time, which is other-directed versus inner-directed. And there’s another book title, I believe it’s a book called The Lonely Crowd.
+
+Edward O. Thorp: Yeah, by David Riesman.
+
+Tim Ferriss: That’s right. Could you speak to this and provide any elaboration that you think is helpful? And if there are any resources or approaches that you might suggest to people who want to become more inner-directed.
+
+Edward O. Thorp: Sure. The first of about The Lonely Crowd, it basically explores the idea of people who are “inner-directed.” You’d call them maybe introverts, but it’s not quite the same thing. And people who are other-directed, who tend to overlap with extroverts. And other-directed people tend to get their direction on their values and their ratification from people around them. So they tend to conform, and they tend to go with fads, and they tend to go with a majority vote on things.
+
+And inner-directed people tend to be more self-deciding about things. They tend to be more associated with introverts, but not exclusively. There are a lot of, I’ll call them inner-directed extroverts. By inner-directed, I think of yourself as having your own independent moral and ethical compass, set of rules for living and guiding yourself.
+
+And an other-directed person tends to pick those up from others. Others basically indicate to them what the right things to do are and what the wrong things to do are. So it’s an interesting line of thought. There’s a way to get into this a little bit. There’s a book, it is a personality-typing scheme started by a mother and daughter, and they have four major personality dimensions. One is introvert-extrovert. The next is sensing versus — 
+
+Tim Ferriss: Oh, is this Myers-Briggs?
+
+Edward O. Thorp: Yes, it is. That’s it. Thank you.
+
+Tim Ferriss: Right, the Myers-Briggs type indicator.
+
+Edward O. Thorp: Yes. And so that is, I think, very useful, even though it’s simplistic. It breaks people down into 16 major categories, depending on which choice they are in each of four dimensions, two times two times two times two. And then it gives you a general description of a pure type. Like INTJ is a pure type.
+
+And so, the general description will be a scientist slash mastermind or something like that. And ESTP is promoter. And so, all kinds of things come with promoter, but E is extrovert, S is sensing, which means more thinking and — more, I guess, more sensitive to the people around you, and how they do things and how they act. You can read them. So if you look at these categories, you realize that individual people aren’t any one of these 16 types.
+
+But if you run into a person, you’ll often find that one of them is very much like one of those 16 types. And when you find that out, you can understand a lot of things about them very quickly. Sometimes they’ll be a mixture of two of the 16 types. And again, it’s not too hard to figure out a lot of things about them. And if you type yourself and you’re anywhere near one of the 16 pure types, your hair will stand on the back of your head. To the extent either of us have any hair, it will — 
+
+Tim Ferriss: You have a lot more hair than I do.
+
+Edward O. Thorp: I’ve been growing it and growing it. So, in any case, it’s incredible sometimes the insights that you’ll suddenly get into somebody that you know. You say, “Oh, they’re this kind of person. They’re artistic and artistic has these things that go with it all the time almost.” So you learn quite a bit quickly about people. Not everything. And you run the risk of stereotyping, of taking a prototype from a group and using that to represent everybody in the group.
+
+And of course there’s a huge spread among the people in the group, what we talked about before about averages and distributions. It’s the same idea. But anyhow, it’s a useful introduction to thinking about other people and realizing they’re different from you. They’re not better or they’re not worse if they’re a different type. They’re just different. And you need to try to understand where they’re coming from. And it helps one do that a bit. So I’d recommend that as a pop psychology introduction to understanding people better.
+
+Tim Ferriss: What is your type?
+
+Edward O. Thorp: It’s INTJ.
+
+Tim Ferriss: Do you know your type?
+
+Edward O. Thorp: Mostly.
+
+Tim Ferriss: INTJ? I did the typing a long time ago for Myers Brigg and I’m also an INTJ.
+
+Edward O. Thorp: Oh.
+
+Tim Ferriss: Which is not to imply I have your personality or skillset.
+
+Edward O. Thorp: Well, that shows you how different people in a category can be. And of course we’re not pure. We’re 90 percent I or something like that, or 80 percent, whatever it happens to be, instead of a hundred percent.
+
+Tim Ferriss: I think I’m, it’s introverted, intuitive, thinking, judging. I’m probably 99 percent judging, which I’m not sure always helps me. That’s a joke. It’s a joke. But The Lonely Crowd, just to pick up on that, what is the takeaway or what would you hope people in an overarching way to glean from The Lonely Crowd? Is it the personality differentiation that you’re describing along the lines of a Myers-Briggs? Or is there more to that book that you would hope people would notice?
+
+Edward O. Thorp: I think the biggest takeaway for me was simply the notion that people who are, quote, “other-directed,” unquote, which means that they pick up their cues about what to do and how to behave, and what’s good and what’s bad, from the crowd. Those people are afloat without a compass. And it’s harder to be that kind of person. And those people are lonely because they don’t really have anything inside that helps them feel a sense of worth, and helps them make decisions that are clear cut and that they feel like they can really count upon. So they’re kind of adrift, in a way.
+
+Tim Ferriss: Yeah. I’d love to tie two things together because I always wonder for myself, how does one develop this as a skill, as opposed to an inborn attribute, let’s say, or is it developable? If I want to learn to swim, I can improve my stroke, but I’m never going to have the same phenotype as Michael Phelps. I’m just not going to have these crazy anomalous flipper feet, for instance, with a hyper range of motion. It’s just not going to happen.
+
+So in the case of The Lonely Crowd and developing an inner compass, I want to tie that back to numeracy. Because I find that if someone learns how to, say, scrutinize studies, or journalists who try to interpret studies, it is incredibly liberating and confidence building because they no longer feel entirely dependent on some high priesthood of interpreters to tell them how to think, or to tell them how to digest or metabolize data. They can actually go straight to the source.
+
+So I do feel like developing a basic, basic, basic understanding of probability and statistics, a very basic ability to do a handful of mental calculations, a very basic ability to read a study for one’s self. And I think all three of those check boxes could be checked in a single month. I think with a few hours a week for a few weeks, you could make an incredible amount of headway. For me, that seems to correspond to people who are more internally directed. I don’t know if that resonates at all for you, but I did want to, at least from my experience, tie those two things together.
+
+Edward O. Thorp: That resonates fully with me.
+
+Tim Ferriss: So I’ll add some more resources, in addition to those that you mentioned, into the show notes for this episode so people can pick up on that. And people will harangue me if I don’t follow up on one comment that you made, which was, “I’ve been growing and growing my hair.” So how does an 89-year-old grow and grow their hair?
+
+Edward O. Thorp: I stumbled on one thing accidentally, which may or may not work for everybody. It only applies to men, by the way. There’s a drug called Finasteride, or Proscar. Have you heard of this drug?
+
+Tim Ferriss: I have.
+
+Edward O. Thorp: If you have an enlarged prostate, which most older men tend to get, you want to keep that thing from getting larger and larger because it squashes other things down there, like your bladder, for example. So you have to go to the bathroom more often if you have a huge prostate. I’ve often, from the opera, gone into the restroom at intermission, and these guys who are standing there for five minutes, I know they have enlarged prostates.
+
+So slowing the growth of your prostate’s a good thing. So Finasteride does that. However, it just so happens that it also promotes hair growth. And it’s the best thing I’ve ever heard of for promoting hair growth. It doesn’t promote massive hair growth, but it’s noticeable. And it also causes you to retain your hair. So I noticed more hair right away when I started taking it.
+
+Tim Ferriss: How long have you been taking it?
+
+Edward O. Thorp: Probably 20 years.
+
+Tim Ferriss: 20 years. Do you have much baldness in your family? 
+
+Edward O. Thorp: He had male-pattern baldness.
+
+Tim Ferriss: All right. See, my father is not bald, and my mom is not bald, but I certainly, at this point, am bald. Maybe I’ll pick up the Finasteride. For people wondering, also, Finasteride is also sold as Propecia. So it’s well known as Propecia as well. It’s a 5-alpha-reductase inhibitor.
+
+Edward O. Thorp: I think you get a higher dose if you get Finasteride prescribed. I won’t swear to that, but I’m pretty sure that’s true. Because I knew about the over-the-counter versions, but they were maybe a fifth as strong at the time I checked.
+
+Tim Ferriss: That makes sense. And of course I’ll just mention because it’s a good idea, speak to your doctor. Neither of us are doctors, we don’t play them on the internet. So please speak with you’re medical professional. There are possible side effects with this and most drugs, but — 
+
+Edward O. Thorp: Absolutely.
+
+Tim Ferriss: — Proscar, Finasteride. Look it up. Good Wikipedia entry. Is there anything else that you would like to mention on the health side of things? And we can potentially, and we can discuss this another time, but look at adding something on tim.blog that might outline some of this in greater detail. But is there anything else that you think we would be remiss not to mention or that we should include in the conversation of health and longevity?
+
+Edward O. Thorp: I think we’ve pretty well covered it from my standpoint.
+
+Tim Ferriss: Yeah, I think we’ve covered quite a bit. There’s really one more thing that I have highlighted here that I’d love to hear you expand on, and that is using scrap time. I had never seen this expression before, although I can sort of intuit what it might mean. How do you use scrap time, or recommend people use scrap time and what is that?
+
+Edward O. Thorp: I just made it up for this conversation.
+
+Tim Ferriss: Oh, you did? Great.
+
+Edward O. Thorp: Because I was thinking about things.
+
+Tim Ferriss: Perfect. This is an exclusive. A worldwide exclusive.
+
+Edward O. Thorp: Well, a lot of people complain that they’re bored, or they get impatient when they’re stuck somewhere. For example, let’s say I’m at a long traffic light. I happen to have to drive through about three or four two-minute traffic lights. Sometimes they catch me, sometimes they don’t. This is the couple of days a week I go in for a few hours to my office. So when I’m at the traffic lights sitting there, what do I do? I could say, “I wish this light would change. Or maybe I should have run that light.” No, I don’t do that.
+
+Instead, I say, “You know, I’ve got a couple minutes here. I can do whatever I want. Well, my neck’s a little stiff today. Why don’t I do a few neck exercises, or a few shoulder shrugs, or whatever?” And by the time I’m done with that, the two minutes is gone and I’m ready to go to the next traffic light.
+
+So the scrap time turns out to be a payoff rather than a negative. And I don’t care about being caught at lights, not at all, or a doctor’s office. I go into the doctor’s office, they say, “Well, we were going to take you at 10:30, but there’s been a delay. The doctor had to do an operation. He won’t be here for a while. He’ll be back at 11:00.” If I don’t have something else scheduled, I say, “Okay, fine.” If I have anything on my phone, I do that. I use the scrap time. If I run out of stuff like that, I try to get some exercise in, some stretches, some limbering up, and so on.
+
+And it’s amazing. When I start doing that, they take me in a lot quicker than they would otherwise, because everybody knows this guy’s being forced to wait and wait and wait. It’s not why I do it. I try to do it as subtly as possible. Or I’m sitting there in the doctor’s room number seven waiting for him to show up. Same thing, more scrap time. I can get 10 or 15 minutes, leg raises, pushups, all kinds of stuff in.
+
+Tim Ferriss: Another advantage I can imagine is that they see you doing all this and they’re like, “This patient is scaring the other patients. We have to get him through the system as quickly as possible.”
+
+Edward O. Thorp: That might be.
+
+Tim Ferriss: They move you along. Ed, I’d love to know, and if there’s no answer that comes readily to mind, that’s fine as well. But I’m 45, and I’m wondering — or roughly 45. After — so I’m thinking, I am roughly at the midpoint to my next target, which is to get to your age. And then from there to 120 or who knows where.
+
+Edward O. Thorp: By then the world will have changed a lot, and your odds will be a lot better.
+
+Tim Ferriss: One can hope. A boy can dream. So I hope that is the case and that we’re not living in some dystopian future where no one has any reproductive health. So I am hoping for the upside case. Let’s assume that is true. What are some of the new beliefs or changes in beliefs that most positively impacted your second half? And of course, this is self-serving, and it’s possibly a hard question. But how did your thinking, or priority, or beliefs change after the midpoint that you think, retrospectively looking at it, have most benefited you or those around you?
+
+Edward O. Thorp: Well, I started running probably when I was about 40, just a mile or so on a Saturday. And then as we talked about last time, I built it up. And then I started actually running marathons when I was 47. So I got into running very late. But marathoning taught me quite a bit about life in a way, because I began to say to myself, “Life is a lot like running a marathon.”
+
+And if you look at it that way, here I am at that age then back in roughly around 50, here I am at the midpoint perhaps of a marathon. So if you’re running a marathon, you don’t sprint because you’ll burn yourself out early. You are careful not to step in potholes. There are all kinds of other things that you need to take care of in order to get to the finish line.
+
+And you eventually learn, some of us learn, how to get through the wall without there being a wall anymore, which it took me seven marathons to figure that one out. And so, I thought to myself, “Well, the same thing about life.” If you plan ahead, you can avoid a lot of problems that sink other people: knee replacements, heart clogging up, catching diseases because you don’t do proper vaccination, going to countries where there are horrible diseases to catch in the first place and you can’t protect yourself fully maybe. That sort of thing.
+
+So thinking long-term is one thing that running a marathon teaches us. And so, I tend to think long-term anyhow, but that was a great reinforcement.
+
+Tim Ferriss: In the last, say, five to 10 years, is there anything you’ve profoundly changed your mind about? Or it could be recently. I don’t need to put a timeframe on it.
+
+Edward O. Thorp: To me, the value of being around good people and not being around a few bad people is much higher than it ever was before. And the people in my life I consider the most important, and my actions with good people the most important thing.
+
+I enjoy other things, but I think at this age, you’ve basically done most of the stuff that you’re going to do of any general broad significance. And so, it’s a time to reflect, and to think about life and enjoy it. And if one has any wisdom, to share it to some extent.
+
+Tim Ferriss: Well, you seem as sharp and as lively as ever, as far as I can tell. I mean, you certainly have more vitality. However, I know that’s a bit of a, maybe an italicized word, but life force, than a lot of the 40-somethings I know.
+
+Edward O. Thorp: Well, thank you.
+
+Tim Ferriss: So whatever you’re doing, keep doing it. And is there anything else, Ed, that you’d like to add before we bring this conversation to a close?
+
+Edward O. Thorp: I think an important thing for everyone is to think about the world and society as us instead of me, and to try to act that way, and to think longer term. Think about how the things one does affects the people around not only right away, but down through the years. And it might seem like it doesn’t matter, but it does in a way. And a lot of these things that you make better now, for the future, will actually benefit us a lot sooner than you might think otherwise.
+
+Pollution, for example. Climate change is coming along and it’s coming along pretty fast. And people might say, “Well, what do I care about what happens 50 years from now?” But it’s happening in increments. It’ll be a little worse next year and a little worse the year after and so on. And you might not want to be around when it’s really bad 50 or a hundred years from now, but you might not care because you’re only going to be alive another 10 years, let’s say, if you’re a pretty old person.
+
+But still, these things come along sometimes faster than you think and in ways that you don’t expect. And so it’s wise, I think, to just try to make the world a better place any way you can, even though you might not reap all the benefits.
+
+Tim Ferriss: Yeah, hear, hear. I recall a conversation a friend had with an engineer I won’t name, a very famous founder, and they were discussing artificial intelligence. And the two questions were, for anyone who this particular founder would speak to about AI, he said, “Number one, I ask them, ‘Do you have kids?’ And number two, I ask them, ‘Do you know how to code?'”
+
+And the, “Do you know how to code?” is self-explanatory. It’s engineering bias, which is understandable. But the, “Do you have kids?” was to evaluate if they are thinking sufficiently long-term. That was just one of the hurdles that he hoped people would pass. And if not for your own kids, if you don’t have kids, then just think about your closest friends and their kids, or their grandkids. I mean, there are many ways to look at it.
+
+Ed, I so enjoy our conversations. I know we’ve only had two long-form conversations thus far. I hope this is just the second of more. And people can find you certainly online, edwardothorp.com. Your books, Beat the Dealer, Beat the Market, and A Man For All Markets, subtitle From Las Vegas to Wall Street, How I Beat the Dealer and the Market. Is there anything else you would like to point people to, any other recommendations that you would like to make requests of the audience other than what you just requested?
+
+Edward O. Thorp: No, I think we’ve covered everything. Thank you. It’s been a pleasure.
+
+Tim Ferriss: Well, thank you so much, Ed, as always. And for people listening, we will include resources, everything we discussed, links to all of the books and concepts and so on at tim.blog/podcast. Or better yet, just go to tim.blog/thorp, T-H-O-R-P, and we will add as many helpful things as me and my team can think up and cull from this interview.
+
+And until next time, be a little kinder than is necessary. Think long-term. Become a little more inner-directed. Learn a little bit more about probability statistics and Mathemagic. I will link to that. And thanks for tuning in.
+
+
+TAGS
+ED THORP
+	

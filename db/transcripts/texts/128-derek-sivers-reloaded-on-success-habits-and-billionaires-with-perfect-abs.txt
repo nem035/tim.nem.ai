@@ -1,0 +1,182 @@
+
+
+ 
+
+Derek Sivers Reloaded on The Tim Ferriss Show — Transcript
+
+Below you’ll find the complete, unedited transcript of my interview with Derek Sivers on The Tim Ferriss Show.
+
+You can listen to the entire episode here or stream it below:
+
+NOTE: You are welcome to share up to 50% of the below transcript on your own site or social, as long as you:
+
+1) Include attribution to “The Tim Ferriss Show” or “The Tim Ferriss Podcast”
+
+2) Link back to this page at both the top and bottom of the excerpt somewhere noticeable.
+
+Want a PDF of the transcripts of some of my most popular episodes of all time? Simply click below, and they’ll be delivered to your inbox.
+
+The Tim Ferriss Show, Derek Sivers Reloaded
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss. Welcome to another episode of The Tim Ferriss Show, where it’s usually my job to deconstruct world class performers and tease out routines, the habits, favorite books, et cetera, that you can use. This is a slightly different format today. We have an in-between-isode, which is a shorter episode, a shorter format. We have a reloaded round 2 with Derek Sivers, by popular demand. Derek Sivers, @Sivers on Twitter, S-I-V-E-R-S.
+
+He’s one of my all-time favorite humans. I call him often for advice. You can think of him as a philosopher-king, programmer, master teacher, and merry prankster. Originally a professional musician and circus clown – I’m not kidding – Derek created CD Baby in 1998. It became the largest seller of independent music online with $100 million in sales for 150,000-plus musicians. He then sold CD Baby in 2008 for $22 million, giving the proceeds to a charitable trust for music education. I could use some talking education because I’m chewing my words today.
+
+This particular episode is composed and comprised of questions that you guys submitted in part. There are a number of questions I didn’t get to asking him, and he answers those. He cut my voice out of other episodes to do so. Then there were questions uploaded on Reddit for him to answer, which are promoted on Facebook and on Twitter, so you guys could participate.
+
+He asked those folks to send in audio. The questions he answered were, in part, determined by those willing to send in their questions via audio from all over the planet. He answers things such as successful, who’s the first person that comes to mind? How should one share themselves or their work online? Probably the best answer I’ve heard anyone give. Parenting advice, or at least his practices. Socrates and learning programming. Now those are related.
+
+One of my favorite quotes that I’ve ever heard him put out there: “If more info were the answer, we’d all be billionaires with perfect abs.” He talks about the difference between knowing and doing and how to bridge that gap. Habits for living a successful life and what he would do if he were starting over with $1000 in the bank and just the clothes on his back, could not use his name or face recognition to do anything.
+
+This episode is worth listening to, even if you just listen to the last 3 minutes. That is where he answers the question: what is something you believe that other people think is insane? He expands that to mean what unpopular opinions do you hold. It is awesome and hilarious. If you want to listen to the first interview that I did with Derek, you can just go to fourhourworkweek.com/Derek, all spelled out, but this one stands alone. You can listen to it independently or just by itself. I suppose those are the redundancy, department of redundancy department. That is it. Please enjoy this solo act by Derek Sivers.
+
+Tim: When people ask you, “What do you do?” How do you answer that?
+
+Derek Sivers: Oh, that’s a heavy question for everyone, isn’t it? We think, “Oh no. This is my big moment. This is where I define who I am!” I heard that Stewart Brand gives a different answer every time he’s asked. I like that. It’s a good challenge.
+
+If you search YouTube for the British magician Derren Brown doing his hypnotizing handshake – I think one of his videos is called Russian Scam – he holds out his hand as if to shake yours, but then when you lift up your hand to shake his, he grabs your forearm with the opposite hand instead, and he puts something else in your hand. It’s all very confusing. It puts people into this state of confusion, where they’re open to suggestion to help find some reason for what’s going on here.
+
+He’s got this great, little book called Tricks of the Mind that I highly recommend, where he tells how he did something similar to stop a mugging. He was held up at knife-point in a dark street once. The attacker said, “Give me all your money!” and Derren Brown just turned to him and said, “My grandfather had a wall that was 5 feet high. Little ducks all around. Do you know the type? Like this?” and a few more nonsense sentences like that. The mugger was just completely thrown off and he walked off derailed. I think confusion is a great way to break habits.
+
+Lately, when someone asks what I do, I tend to say something like, “I don’t know,” or “I’ve never thought about it before.” That just derails the whole routine of a boring conversation. It lets them know we’re not just painting by numbers now. Also, I think it’s like finding someone who doesn’t know their name. “How could you not know your name? How could you not know what you do? Poor guy must have amnesia. Let’s help him figure it out because we can’t just have someone walking around not knowing what it is they do now, can we?”
+
+Tim Ferriss: When you think of the word “successful”, who’s the first person who comes to mind and why?
+
+Derek Sivers: The first answer to any question isn’t much fun because it’s just automatic. What’s the first painting that comes to mind? Mona Lisa. Name a genius. Einstein. Who’s a composer? Mozart.
+
+This is the subject of the book Thinking Fast and Slow by Daniel Kahneman. There’s the instant, unconscious, automatic thinking and then there’s the slower, conscious, rational, deliberate thinking. I’m really, really into the slower thinking, breaking my automatic responses to the things in my life and slowly thinking through a more deliberate response instead. Then for the things in life where an automatic response is useful, I can create a new one consciously.
+
+What if you asked, “When you think of the word “successful”, who’s the third person that comes to mind? Why are they actually more successful than the first person that came to mind?” In that case, the first would be Richard Branson because he’s the stereotype. He’s like the Mona Lisa of success to me. Honestly, you might be my second answer, but we could talk about that a different time. My third and real answer, after thinking it through, is that we can’t know without knowing a person’s aims.
+
+What if Richard Branson set out to live a quiet life, but like a compulsive gambler, he just can’t stop creating companies? Then that changes everything, and we can’t call him successful anymore.
+
+Tim Ferriss: What are the most common misconceptions about you?
+
+Derek Sivers: Oh, I feel pretty understood. I don’t think people are thinking about me enough to conjure up any misconceptions. We think the goal of writing and communication is to be understood, but I think a better goal is just making sure that you’re not misunderstood.
+
+I learned this the hard way at my last company because we had a quarter million customers. When I’d sent out an email to everyone, if any sentence was at all unclear in any way, I’d get 50,000 confused replies from people, which would take my team a thousand man hours to go through. Anything I put out into the public is rewritten and edited like crazy until I think it’s as clear as can be.
+
+Tim Ferriss: Let’s talk about your morning rituals. On your ideal morning, what does the first 60 to 90 minutes of your day look like? When you wake up, what morning rituals are important to you, et cetera?
+
+Derek Sivers: Not only do I not have morning rituals, but there’s really nothing that I do every day except for eating or some form of writing. Here’s why: I get really, really, really into one thing at a time. For example, a year ago I discovered a new approach to programming my PostgreSQL database that made all of my code a lot easier. I spent 5 months every waking hour just completely immersed into this one thing. I bounce out of bed at 5 in the morning and programming SQL code for 19 hours from 5am until midnight. I’d stop maybe an hour or two a day to go for run or talk on the phone with a friend.
+
+Then after 5 months, I finished that project. I took a week and I went hiking in Milford Sound in New Zealand. Totally offline. When I got back from that, I was so zen nature-boy that I spent the next couple of weeks just reading books outside.
+
+Then it was time for me to prepare my big keynote speech for this conference, which tied into something I’d been wanting to do for years anyway, which were all those book notes turned into directives that we talked about last time. For the next 3 or 4 months, I did nothing but that. Again, like 5am until midnight, just doing that one thing. When I’m really into my work, you can’t pry me away when I’m really in the zone like that. I don’t want to hang out, I don’t want to watch anything, I don’t want to distract myself in any way. I’m just so into what I’m doing.
+
+If I think back to when I started CD Baby, it was just like a little thing like this that I thought was going to last a few months, but it ended up lasting 10 years. For those 10 years, like 7 days a week from 7am until midnight, I did almost nothing else but that. Sometimes a project can last for years.
+
+The point is I can picture that ideal world, where I spend a few hours a day on each of my top 3 priorities, but I just get so in the zone with one thing that it feels like going against my nature to break that. I read once that people who were happiest with their life, when interviewed at the end of their life, were the ones who had spent the most time in that state of flow, just being in the zone.
+
+Although I feel I probably should have these morning rituals and daily habits, I just don’t. Knowing this, I can plan accordingly. If I want to learn a language, it’s probably not going to be by doing it 2 hours a day, but just total immersion.
+
+Tim Ferriss: What are you world class at that people might not realize, or what do your friends know you’re world class at that the rest of the world doesn’t know about?
+
+Derek Sivers: I’ve got the world’s longest attention span. I’ll just sit down and do one task for 12 hours straight, or all day for 25 days in a row. I love that my kid is getting it from me by the way that we play. Whenever we play, I never say, “Let’s go, time to go”. We just do something until he’s ready to move on. He’ll lead me to the river and just throw rocks in the water for a couple of hours.
+
+Then we’ll go the ocean and build a fort out of driftwood for hours and then draw in the sand with the shells until he’s sleepy. We’ve always done it this way, since he was 1 year old. Other families would come play on the playground for 20 or 30 minutes at a time, but we would just be there for hours with him fully immersed in some newly invented game. What’s funny is that nobody else can hang with us like this, not even his mom. Everyone else gets so bored. People ask if I meditate or do yoga, but no. My daily life feels like working meditation. Even being with my kid is like meditation, as you can tell.
+
+Now we’re doing the format today, where we’re going to open up the phone to callers, but since it’s Christmas Day, the phones are a little … Hey. There’s a call.
+
+Sam Davies: Hey, Derek. This is Sam Thomas Davies from Stockholm, Sweden. My question is where are you up to with the Do This Project? Are you going to be sharing your findings on your blog? Many thanks.
+
+Derek Sivers: Yes, definitely. In the first podcast, I said I had 18 sentences, but really I have 18 categories, such as how to be useful to others, how to get rich, how to like people, things like that. Altogether, I’ve got about 120 directives, and each one, I think, requires a little more explanation. Instead of just listing them all, I think each idea deserves its own little spotlight, a little page that can be linked to and shared about just that one idea, instead of only the entire list.
+
+If you want to be notified when they’re ready, just get on my private email list either by going to sivers.org/list or just email me to ask. It’s derek@sivers.org. I think they’re going to be my next 120 blog posts, really. Then, afterwards, I’ll just post the big list with each point linking to those past posts for more information. Then, when done, I guess I’ll probably make it a book.
+
+Tobin: Hi, this is Tobin in Boulder, Colorado. My question is what are a few directives for sharing thoughts online in an authentic way, particularly for introverts? Thanks.
+
+Derek Sivers: That’s not really an introvert/extrovert thing. I think everyone is scared to show their work publicly. At least doing it online is easier than getting up on stage. The best book on this subject is called Show Your Work by Austin Kleon. You can see my notes on it at sivers.org/book, but I highly recommend just getting the book and reading the whole thing. It’s awesome.
+
+As for directives, since you asked, I’ve got 4. Number one: teach whatever you’ve learned immediately after learning it while you still remember what it’s like to not know it. Once you get used to knowing it, you can’t imagine what it’s like to not know. Number 2: share your work online. If your work isn’t online, it basically doesn’t exist.
+
+Number 3: share the process and the residue of your work. People really do want to see how the sausage gets made, so become a documentarian of what you do. Number 4: release your creations some time after completion, so once you’ve already moved on to the next thing. That way when the world gives you its feedback or critique, it won’t feel like it’s reflecting on you, but just some work you did in your past.
+
+Eamon: Hi, my name is [Eamon 16:43] from [Rog-o 16:44]. My question is why and how did you become a programmer?
+
+Derek Sivers: For me, it was absolute necessity. I think that’s the best way to learn anything. There’s this story about Socrates, that a student came to him and asked, “Socrates, how do I get wisdom?” Socrates said, “Come with me,” and they walked down to a nearby lake. When the water was waist high, Socrates suddenly grabbed the student’s head and held it under water. At first the student thought it was a joke, but then Socrates kept holding him. He started panicking and struggling to get up and his lungs started burning. Finally, Socrates let him up coughing and gasping for air. Socrates said, “When you desire wisdom as much as that next breath then nothing will stop you from getting it.”
+
+If you want to start programming, first you have to have a problem that you need to solve. You have to feel the pain of the problem first and then go find its solution. Usually that means just start trying to build something that you need so you can find out what you don’t know. Also, I think it helps to learn from a well-written book that guides you through things that you didn’t even know existed. Search Amazon for a programming book released in the last few years, where multiple reviews say that it was good for a beginning to use. Reviews would say, “Hey, I’m a total beginner. This one really helped me.” Those are the books I gravitate towards for learning a new thing.
+
+As for me, it wasn’t until after my business, CD Baby, took off that I started learning programming out of necessity, because I was doing hours a day of manual labor, like copying and pasting things and processing everything by hand. By learning to write some really simple, little 20-line programs, I saved myself hundreds of hours of work – the ultimate motivation. Then, as my company grew, each new thing I learned to automate would save my whole team hours a day of work. Yeah, the ultimate motivation is necessity.
+
+Now I just love it for its own sake. I think it’s fascinating, and the lifestyle suits me. I love to sit in solitude and think and make things. I love the immediate feedback you get from it. I highly recommend it to anyone interested.
+
+Tobin: Hi, this is Tobin in Boulder, Colorado. My question is what are some directives for creating relationships with people who hold interesting worldviews? Thanks.
+
+Derek Sivers: You make people interesting. If you’re boring, they’re boring. If you’re interested, they’re interesting. I’ve read a lot of books on people skills, and they’ve all been worth the time. Some of them are How to Win Friends & Influence People by Dale Carnegie. That’s the classic. Start with that. How to Talk to Anyone by Leil Lowndes; How to Make People Like You in 90 Seconds or Less by Nicholas Boothman; and Power Schmoozing by Terri Mandell.
+
+They have the most awful titles, but really every book I’ve ever found on the subject of people skills has been great. I highly recommend that you go read 5 different books on the subject of people skills to get you into a considerate mindset. Then just practice with anyone. I think start with low stakes. You’re actually probably a better conversationalist if you don’t think that someone is a VIP.
+
+I have a funny story about that. Back when I was a musician trying to get famous, I went to a music business conference, where I was trying to meet VIPs from record labels that could sign me to a record deal. It was such high stakes, and I was so nervous. Then during a break, I went out to just go dip my feet in the pool and exhale a bit. I was sitting next to some dude that was just doing the same thing. We started shooting the shit about that girl over there and the silly platters of food they had laid out and why people come to these events in the first place, stuff like that.
+
+After a while he needed to go. He got up and he handed me his card. He said, “Yeah, nice to meet you.” He gave me his card. It turned out that he was the vice-president of A&M records. I was like, “Holy shit!” If I’d have known, I’m sure I would have been an uptight mosquito. I learned a lot about being a good friend and conversationalist from that moment. He and I are still friends to this day. He sent me some of my biggest clients when I started CD Baby. Start with low stakes. Then, ideally, stay with low stakes.
+
+Lastly, I think it really helps when you have something to show for yourself. You’ve got to have some kind of cred, because people want to meet another winner. Whenever you’re introducing yourself, definitely don’t hide your accolades. It helps to just have a little timeline that hints at the fact that you got something going on.
+
+David: Hi, Derek. This is Dave DiGiovanni from Kalamazoo, Michigan, in the USA. Thanks for doing the podcast with Tim. Thanks for taking this question. You’ve helped a lot of people make money. I’m just wondering if success in business has to be more complicated than that. I get overwhelmed reading all the … There’s so much content out there on how to make money, how to grow your business, how to start a business. I’m just wondering if business needs to be more complicated than coming up with ideas on how to help other people succeed. Thank you.
+
+Derek Sivers: Let’s talk about 2 things: simple versus complicated and easy versus hard. Look at running. If you talk with people who hate running, you’ll hear them say, “Ugh. First, you have to get your running clothes then you get dressed. Then you’ve got to put on your shoes then you’ve got to lace them up just right. Then you’ve to stretch and then you’ve got to warm up. Then, afterwards, you need to cool down. Then you need to shower. It’s such a pain!” If you talk with people that love running, they’ll say, “You just pop out for a quick run.” If you ask them about the steps involved, they’ll say, “There’s just one: you just run.”
+
+Knowing that we have this human nature to think of things we like as simple and things we don’t as complicated, you can use this to deliberately simplify how you think of something you’re avoiding, making it more appealing. An ultra-marathon is simple: you just run 100 miles to the end, but that doesn’t mean it’s easy.
+
+Success in business can be simple. You just find a need that people are proving they are willing to pay for and then find a profitable way to solve that need for them, but it doesn’t mean it’s easy. What you have to do is notice in your mind when your complications are holding you back. Turn the dial towards simplicity in your mind, so you just jump out the door and start running. Then notice in your results when a simplified approach might be holding you back. Perhaps you’re using only one tool in your toolbox, and you need to learn others.
+
+As for all the business advice out there, if information was the answer then we’d all be billionaires with perfect abs. Really, you – yeah, you, listening to this – most of you probably just need to shut that shit off, put your blinders on, and get out the door and start running, metaphorically speaking, that is.
+
+Matt: This is Matt in Toronto, Canada. My question is, on the homepage of sivers.org and during your podcast with Tim, you mentioned that your personality type is INTJ. How has knowing your type affected your life? Has it played a role in any major life decision?
+
+Derek Sivers: To me, it doesn’t really matter much. I think it’s just shorthand for a basic description of my preferences. I could write a few paragraphs about how I love solitude and I love making systems, or I could just link to the INTJ description because I think it says it pretty well.
+
+I think the Myers-Briggs are like … It’s like we made 16 little clubs, like Hufflepuff, Gryffindor, Ravenclaw. Because of these Myers=Briggs types, you can see someone else and say, “Oh, hey. You’re a Ravenclaw, too.” I’ve met a few other INTJs who contact me because I have it right there in my self-definition. We always seem to get along really well. I think it’s cool.
+
+As for affecting my life, I found that when I stopped going against my introvert nature and instead just decided to shape my life around it, it made me very happy, because, before that, I used to do a lot of really extroverted things, thinking that I had to. Now I work alone instead of around others. I say no to almost all big group things, and instead spend really good one-on-one time with other people, and I’m happier than ever. I really think it’s one of the best changes I ever made in my life.
+
+Tobin: Hi, this is Tobin in Boulder, Colorado. My question is what should someone ask to determine their own utopia? Thanks.
+
+Derek Sivers: First, ask yourself, “Is this in theory or in practice?” Have you proven from your experience that this is really what works best for you? Whatever idea you have, you have to challenge it. You need to argue against it because there are so many things that seem great in theory.
+
+For example, say you’re living in a little apartment in a noisy city. You think that you’d be happy if only you had a big place out in the silent country. You do it; you splurge, you buy a place, or you sign a year-long lease. Then you move out to the country and, uh-oh, after 2 months, you realized that you missed too many things about the big city. You made the wrong prediction. It happens the other way, too. People moving from the quiet burbs to the big city, or somebody who’s an employee that thinks they’d just be happy if they could quit their job and start their own business. Oops! It doesn’t always work out like that.
+
+My recommendation is to do little tests. Try a few months of living the life you think you want, but leave yourself an exit plan, being open to the big chance that you might not like it after actually trying it.
+
+The best book about this subject is Stumbling on Happiness by Daniel Gilbert. His recommendation is to talk to a few people that are currently where you think you want to be and ask them for the pros and cons. Then trust their opinion since they’re right in it, not just remembering or imagining.
+
+James McGeough: This is James [McGeough 28:04] from Sligo, Ireland. My question is how do you define success? What habits or skills are most important to living a successful life? Thanks.
+
+Derek Sivers: First, let’s define success. Ask yourself if you think Robin Williams and Philip Seymour Hoffman were successful actors? I think it’s a tough call. First reaction is yes, but the more I think about it, my answer moves halfway towards no.
+
+A different example: think of someone you know who you’d consider to be the definition of a total loser. Now you give that person a million dollars. Are they now a winner? Of course not.
+
+That sounds like a contrived example, but a lot of fame and fortune is dropped into the lap of people who were just the right face in the right place at the right time, but are actually miserable, awful people by any definition. The more you think it through, the more you realize that you have to define success first by your inner game, not some outside measure of money or fame; mastering yourself, your mind, and your actions. If you only master yourself and you, don’t help anyone else, then we’d call you happy, but nobody would define you as successful.
+
+The very definition of success must include how much you helped others. I’ll bet that if you helped thousands of people, even if you didn’t ultimately profit from it, but you were personally miserable, we might still call you successful because you helped others.
+
+The point is if you want to be undeniably successful, you need to both master yourself and help others. Don’t focus on the money or the fame. The real success is mastering your emotions and actions and actually helping lots of people.
+
+The definition, but now you asked, “What habits or skills are most important to living a successful life?” By this definition, habits and skills. Number one: the skill and habit of managing your state and your emotional reactions and actions. Number two: knowing what people need in general and what you need in particular. Number three: people skills; how to see things from the other person’s point of view and how to communicate from their point of view. Number four: the ability to focus, learn, practice, and apply what you learn.
+
+If you can do those four things, you can do anything. You can first be happy without depending on anyone or anything in particular. Then you can understand what people need, learn how to provide it, and make sure they know it.
+
+James: Hi, this is James in New Zealand. My question is if you instantly lost all your resources, money, contacts, et cetera, had no possessions except the clothes you’re wearing right now and $1000, and look like you’re a completely different person, i.e., no one would recognize you, what steps would you take to become successful?
+
+Derek Sivers: Notice how we all assume that when you say “become successful” you really mean “get rich”. As we covered in the last question, money is almost moot in what it means to be successful. If you took absolutely everything away from me, I’d still be successful because I know how to be happy, how to be considerate, how to be useful, and how to learn.
+
+It sounds like I’m being Mr. New-Age Positivity, but it’s really not. This was learned the hard way. I’ve spent years with very little, with just a few hundred dollars in the bank. Now I’ve spent years with millions in the bank. I found that having millions gives you a nice sense of security, but when I look at my daily life, I’m not even using the money.
+
+Here’s what actually makes me happy: a quiet little place to live alone, a working laptop, access to the internet and books, enough money for food, my good health, and, let’s say, 2 good friends. Everything past that is bullshit. If I had $1000 and these clothes, I’d already be successful because I’m successful at thinking, learning, and thriving. That’s all I need to be happy.
+
+What would I do? If you actually want to know the actions, if that really happened, what would I do? I’d just go get any old job. I’d find an old used laptop for $100 and install Linux on it, I’d go get a teacup and some tea, and I would get back to reading, learning, writing, thinking, and sharing what I’ve learned because, to me, that’s success. My only expensive qualification is that I like to live alone. I’d probably use my programming skills in return for rent so I could have my own place at first.
+
+I think even if I had no skills at all, if you put me a few hundred years into the past or future, I know how to focus, learn, and practice. There are these skills, like sales and marketing, that everyone always needs help with.
+
+Now if you’re talking about how to make a lot of money, I’d probably pick almost any of the paths online that are in these programs that are out there about how to make a lot of money, but the ones that aren’t a long shot to mega millions, but the ones that are really just proven strategies on how to pick a business and optimize it. I think it’s like diet and exercise plans, where most of them work well enough if you actually follow through and do what they say, not just half-ass it, but really do it all the way. Any of those would work.
+
+Tim Ferriss: What is something you believe that other people think is insane?
+
+Derek Sivers: Oh, that’s easy. I’ve got a lot of unpopular opinions. I believe alcohol tastes bad, and so do olives. I’ve never tried coffee, but I don’t like the smell. I believe all audio books should be read and recorded by people from Iceland, because they’ve got the best accent. I believe it would be wonderful to move to a new country every 6 months for the rest of my life.
+
+I believe you shouldn’t start a business unless people are asking you to. I believe I’m below average. It’s a deliberate cultivated belief to compensate for our tendency to think we’re above average. I believe the movie Scott Pilgrim is a masterpiece. I believe that music and people don’t mix, that music should be appreciated alone without seeing or knowing who the musicians are and without other people around. Just listening to music for its own sake, not listening to the people around you and not filtered through what you know about the musician’s personal life.
+
+I believe it’s unwise to prioritize lifestyle design because it’s dangerously self-centered, and you’re rewarded most in life for keeping your focus on being useful to others. I believe loyalty is silly, that we should constantly try to be disloyal and only be loyal to the rare person, place, or idea that we’re just unable to be disloyal to. I believe it’s good to feel smug. It means you’re proud of yourself, which means you’re living according to your beliefs.
+

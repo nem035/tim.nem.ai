@@ -1,0 +1,777 @@
+
+
+JUNE 19, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: The Random Show Threesome — Tim Ferriss, Kevin Rose, and Matt Mullenweg (#209)
+
+
+Please enjoy this transcript of my Random Show episode with Kevin Rose and Matt Mullenweg. 
+
+
+#209: The Random Show Threesome -- Tim Ferriss, Kevin Rose, and Matt Mullenweg
+
+Tim Ferriss: Why, hello, my dear little Machen. This is Tim Ferriss and welcome to another episode of The Tim Ferriss Show, where it is my job to deconstruct world-class performers of all different walks of life, industries, spheres, whatever you might call it. This episode is a little bit different. (A) I am in the office of my publisher in New York City, hence the bounce off the walls. But the episode you’re going to listen to was recorded live at the 92nd Street YMCA and no, it wasn’t on bleachers in from of a junior varsity basketball game. I was actually in a gigantic venue which is gorgeous, to a sold-out crowd of about 900 people.
+
+This was my first live podcast in New York City and it was split into a few parts. This part is a live edition of The Random Show. There are two guests. We have Kevin Rose, my partner in crime for many things. Kevin Rose – Twitter, Instagram: @kevinrose. You can also find him at thejournal.email. He has a great newsletter. He’s one of the best stock pickers in the start-up world.
+
+He predicts even non-tech trends with incredible accuracy. Co-founder of Digg, Revision3, which was sold to Discovery, and Milk, which was sold to Google. After that, he became a general partner at Google Ventures, where he was part of the investment team that funded companies such as Uber, Medium, and Blue Bottle Coffee. He’s now the CEO of Hodinkee, the world’s leading online wristwatch marketplace and news site. He has a lot more, of course in his bio. The other – this is my first Random Show threesome – is Matt Mullenweg, one of the most popular guests that I’ve had on The Tim Ferriss Show. An incredible guy.
+
+Twitter, Instagram: @photomatt. Website: Ma.tt. He’s been named one of BusinessWeek’s 25 most influential people on the web. I think that’s an understatement. He’s perhaps best known as the original lead developer of WordPress, which now powers more than 25 percent of the entire web. If you’ve visited sites like The Wall Street Journal, Forbes, Ted, NFL, or Reuters, or my website, then you’ve seen WordPress in action.
+
+He’s also the CEO of Automattic. Maybe you didn’t notice it’s M-A-T-T in the middle – Automattic, which is valued at more than a billion dollars and has a fully distributed team of 500 employees around the world. I’m also an advisor to that company. We had a blast. We talk a lot about setting goals, New Year’s resolutions and so on because quite frankly, I wanted to ask them. I’m always looking for help myself. So I do hope you enjoy this Tim Ferriss Show episode and also Random Show episode with Kevin Rose and Matt Mullenweg.
+
+All right. So we’re going to bring our next guests out and we’re going to get to it. So please welcome to the stage Matt Mullenweg and Kevin Rose. I’ll hand you guys these mics.
+
+Kevin Rose: Howdy.
+
+Matt Mullenweg: Thank you, sir. Hello. Hey, everybody.
+
+Tim Ferriss: This is a live edition threesome of The Random Show. Welcome to that. What do we have here, Kevin? What are you drinking?
+
+Kevin Rose: I have no idea. These guys at the corner store – it’s a $7.00 pinot.
+
+Tim Ferriss: Fantastic. And we also have, I may have to hail the crazy Bulgarian. I think I will do that, actually. Crazy Bulgarian, that’s – you all should get one. They’re on sale on Amazon. Thank you. [Speaking foreign language.] Thank you. So we also have $7.00 pinot and then we have Matt’s reacquaintance, Casa Dragones. This is a sipping tequila. And we have the finest Dixie cups that money can buy.
+
+Matt Mullenweg: Last time we had this we had the Blanco and this is the Joven.
+
+Tim Ferriss: That is correct. Mixing it up.
+
+Matt Mullenweg: We’re upgrading.
+
+Tim Ferriss: What is the pinot, the $7.00 pinot? They want to know.
+
+[Off mic]
+
+Tim Ferriss: Oh, the tequila is Casa Dragones; it’s a sipping tequila, which means you do not make shots out of this. It would be very expensive to do that.
+
+Kevin Rose: There we go.
+
+Matt Mullenweg: Nice.
+
+Tim Ferriss: How’s the audio on that? We added that in. So I think I’m going to wait for a second. Kevin, do you want to do the introduction or should I?
+
+Kevin Rose: You go ahead. I’m pouring.
+
+Tim Ferriss: All right, Kevin’s pouring.
+
+Kevin Rose: Do you want wine or do you want tequila?
+
+Tim Ferriss: I’ll start with wine and then it’ll end poorly as I add tequila.
+
+Kevin Rose: Thank you, sir. This is not hangover $7.00, by the way. It’s a little bit better than that.
+
+Tim Ferriss: All right, fantastic.
+
+Kevin Rose: Just so you know, you’re not going to be –
+
+Tim Ferriss: I appreciate that.
+
+Kevin Rose: Yeah.
+
+Tim Ferriss: So first of all –
+
+[Crosstalk]
+
+Tim Ferriss: Matt left without – what a dick.
+
+Matt Mullenweg: I’m drinking straight tequila. I’m already screwing things up, sorry man.
+
+Kevin Rose: No worries, no worries. Cheers.
+
+Tim Ferriss: Cheers, guys.
+
+Matt Mullenweg: Cheers.
+
+Tim Ferriss: And cheers, audience. Thank you for coming. This is a great way, a really fun way for me to wind up the week with everybody. Welcome to The Random Show episode #679.
+
+Kevin Rose: We have no idea what number it is.
+
+Tim Ferriss: We always just make up the number. We have no idea where we are. I am Tim Ferriss.
+
+Kevin Rose: I’m Kevin Rose.
+
+Tim Ferriss: And?
+
+Matt Mullenweg: I’m Matt Mullenweg, special guest.
+
+Tim Ferriss: Special cameo appearance.
+
+Matt Mullenweg: Woohoo! It’s awesome.
+
+Tim Ferriss: So Kevin, I’m going to ask the same question because honestly, I ask questions that I’m trying to answer for myself. This is the big secret of the podcast and The Random Show. How do you think about the end of the year? Like how are you thinking about what to change? What to keep the same? Do you have any approach to that?
+
+Kevin Rose: That’s a good question. So typically I do my end-of-year, New Year’s resolution list. This time, I decided to forego that and not do one at all, actually. Because every year, I tend to stick to about half of the things that I want to do. However, I have made a lot of tweaks recently that I want to carry on into the new year. One of them for me was just really dialing in all of my different blood levels. We have a mutual friend, Peter Thiel, who’s been on your show a bunch.
+
+He’s helping me dial everything in now that I’m getting a little bit older. So I’ve been doing a lot of crazy hacks around that.
+
+Tim Ferriss: Like what?
+
+Kevin Rose: Well, I just completed my first five-day fast, which was really shitty, to be honest.
+
+Tim Ferriss: Was that water only?
+
+Kevin Rose: No, it was very – a lot of broths that go with it. So obviously super-low calorie. Still shoots up your ketones, but I thought it was going to be pretty easy because everyone talks about fasting. It’s great, blah, blah, blah. You lose five pounds. Obviously it improves a bunch of different markers. My GF-1 levels, hopefully my insulin resistance and things like that. But I decided to give it a shot and on Day 3, I was just beat down, zapped, like in hell. Day 4 was worse. Day 5, I caught a cold. I mean, it was really bad. But after about a week later, I just felt amazing.
+
+I just had my blood draw done and so we’ll see if it improved a lot of those different markers that I’m looking at. So fasting is definitely something I’m interested in, something I’ll be doing.
+
+Tim Ferriss: You did this using the fast mimicking diet, correct?
+
+Kevin Rose: That’s right.
+
+Tim Ferriss: This is from Dr. Longo.
+
+Kevin Rose: Yeah, Valter Longo.
+
+Tim Ferriss: It’s prepackaged, low-calorie food.
+
+Kevin Rose: Yeah, so it’s pretty –
+
+Tim Ferriss: It’s intended to allow you to mimic the benefits of pure fasting while consuming nutrient-dense food of some type.
+
+Kevin Rose: That’s right. He’s a scientist that basically said okay, we all know that fasting with just water only really sucks. Is it possible to –
+
+Tim Ferriss: That was actually, I think, the headline of his paper.
+
+Kevin Rose: That was his paper, actually. No, but he said okay, there are a lot of people that can benefit from this: cancer patients and people with diabetes and a few other folks that we know benefit from fasting. Were you not recording?
+
+Tim Ferriss: No, I was recording. I turned off the mic that isn’t being used.
+
+Kevin Rose: Okay.
+
+Tim Ferriss: Yeah, if you could just repeat all that.
+
+Kevin Rose: Yeah, exactly. So anyway, long story short, he was like, okay, I’m going to do a study, and do some research and see what the minimal amount of food that you can eat but still get these positive benefits on the fasting side. He found out that it’s right around 500 calories a day, which sounds like a lot, but actually it’s just a couple sipping broths and two olives and one almond is basically what I ate every day.
+
+Tim Ferriss: Do you think your fast would’ve been easier had you not gone through the torture of being like okay, I’m going to eat, but I’m only allowed to have one and three-quarter olives?
+
+Kevin Rose: I think it would’ve been easier. So the problem – and I’m curious if this is – so Longo’s diet actually suggests things like a pretty high, starchy diet. So you don’t get into full ketosis. You’re in kind of this like really shitty zone.
+
+Tim Ferriss: Yeah, you’re in the limbo, misery zone.
+
+Kevin Rose: Yeah, you’re like .8 millimolars of ketones. It’s kind of this really crappy, no energy, and not enough carbs to have energy, not few enough carbs to be in full ketosis.
+
+[So, it’s a bad place to be. I would like to – and something I was working with Rhonda Patrick on recently, another scientist that’s been on your show – her thoughts are okay, let’s take the same amount of calories. Let’s flip it and say all high-fat though, so you can fully get into ketosis. That’s kind of the thinking on Round 2 that I might try and see what it does.
+
+Tim Ferriss: Yeah, I endorse the second, for sure. Which is basically when I do when I’m fasting for any period of time. By the way, you should do this with medical supervision. Clearly, he is. But allowing some degree of fat, or at least exogenous ketones or MCTs to make the first two days a little bit easier in transition.
+
+Matt Mullenweg: Yeah, don’t you also like sleep in a hyperbaric chamber or something?
+
+Tim Ferriss: Like Michael Jackson?
+
+Kevin Rose: Yeah, I was just going to say that.
+
+Tim Ferriss: I don’t sleep in a hyperbaric chamber. I’ve done hyperbaric oxygen treatments before during fasts. Primarily just to see –
+
+Matt Mullenweg: Did you just Google that?
+
+Tim Ferriss: Just to see what would happen. Well, it turns out that Dominic D’Agostino – who is this incredible scientist who’s been on the podcast who has, I think, the second-longest chapter in Tools of Titans, which goes deeply into ketosis and fasting and ketogenic diets and so on – has also done studies looking at how to use or applications of hyperbaric oxygen treatment or therapy to different types of disease states. I was just very curious to see what would happen, so I’ll give you an example. This is going to sound like I’m completely making this up, but I tracked it and you can choose to believe it or not.
+
+I went into a hyperbaric chamber at about, I want to say 2.5 atmospheres usually, and that’s an indicator of the pressure. You have to be very careful with this. They do not allow you to take inside because it’s pumped full of pure oxygen and if you have say a paperclip, you could ignite yourself into a gigantic fireball.
+
+Or anything just about. You can’t bring anything in there. You have to wear very – you have to wear their clothing and so on. There were two things that I did simultaneously in the hyperbaric chamber. I was in there for a total of about 90 minutes. Again, don’t try this at home. Do this with proper supervision, which I had. I was deep into ketosis because I did a 10-day fast, which you would never try without medical supervision. I was at about 6 millimolars or 6.5 millimolars, which is the concentration of ketones in your blood. I use a device called a precision xtra, X-T-R-A, to measure this. It’s very simple to do. So I was in deep, full-blown ketosis. What Dom noticed, Dominic, and I noticed and other people noticed, when you’re in deep ketosis, and there are scientific reasons this is the case, you can hold your breath about twice as long as normal, if not more.
+
+Kevin Rose: Didn’t Navy SEALs try and do this or there’s something he was doing training for the government.
+
+Tim Ferriss: So Dom has been funded by divisions of and components of the military to develop supplemental ketones and other therapies that people can use to avoid hypoxic disorders.
+
+So if, for instance, you’re a Navy SEAL and you need to be underwater for a long period of time with a rebreather, a certain type of breathing apparatus, you can develop – I suppose in the extreme – brain damage from being underwater for a very long period of time. So if you can extract more energy from every molecule of oxygen, there’s a huge competitive – well, competitive – it’s called a competitive advantage. So he’s been developing these ketone esters and so on for military applications. So I was not only in deep ketosis, I was in a hyperbaric oxygen chamber, so I’m breathing effectively 100 percent oxygen. I did a bunch of Wim Hof breathing exercises while inside the capsule.
+
+Kevin Rose: Nice.
+
+Tim Ferriss: And I –
+
+Kevin Rose: Did you pass out? You must’ve passed out.
+
+Tim Ferriss: I thought my brain was going to melt at one point and I stopped and then I held my breath.
+
+I did three rounds of breath holding and I held my breath for seven and a half minutes.
+
+Kevin Rose: And then you did high-dose mushrooms right after that?
+
+Tim Ferriss: It might’ve been two hours before, which would explain the feeling of weightlessness. No, but seven and a half minutes. If I tried to hold my breath right now, it’d be about 45 seconds. That’s my normal –
+
+Matt Mullenweg: How did you count? Because you can’t have any devices or anything?
+
+Tim Ferriss: Oh, no. There are windows because they’ll show you like cheesy ‘80s movies which they have on DVD while you’re sitting there bored out of your skull. So if you want to watch Lethal Weapon 17, it’s available. They have –
+
+Matt Mullenweg: Sign me up.
+
+[Crosstalk]
+
+Tim Ferriss: And they have clocks outside that you can see, so I could actually track the time. What about you, Matt? We’re going like rewinding here a bit. In terms of end-of-year stuff, how do you think about that? Do you do a recap?
+
+Matt Mullenweg: Yeah, actually I just got out, I was telling Kevin we just did the sort of all of the execs at Automattic – which is the company where I work at where we make WordPress.com and stuff – got together to plan out actually the next three years.
+
+Then on Saturday, I delivered the State of the Word address, which is like the annual WordPress, this is – it’s like State of the Union, but for bloggers, I guess. So a lot of planning. Basically, my last month has been super heads-down. I’ve been in a cave. Just like today coming out of it, which is kind of cool to share that with all of you.
+
+Tim Ferriss: And “all of y’all,” that’s a Massachusetts accent, if you were wondering. But correct me if I’m wrong, but that’s primarily a work focus, right? You’re looking at the future of the organization; you’re looking at the future of say WordPress as an open source project, potentially. Do you do the same personally? Do you have three-year goals outside of that personally? Of course the business involves you, but are there things outside of that you have long-term goals for?
+
+Matt Mullenweg: I typically make a Simplenote for each year, like goals within the year. I started the 2017 one. The only thing in it so far is to visit Russia.
+
+Tim Ferriss: Wait a second, all right. Do you have sticky note on your computer and you just write in 2017 – enter. Is it Russia or do you put this in? How do you capture this?
+
+Matt Mullenweg: So Simplenote, the app.
+
+Tim Ferriss: Simplenote, yeah.
+
+Matt Mullenweg: I kind of dissed Russia accidentally, because I was looking at a map of all the workcamps in the world. I was like, “Hey, Russia, what’s up?” But just being like a geographically ignorant American, I didn’t realize that 90 percent of Russia lives in the western 10 percent. So there was actually a workcamp in Moscow that I pretended there wasn’t. So all the Russians got mad at me. I figured that was a very bad thing. So I was like okay, I’ll go to Russia.
+
+Tim Ferriss: Make amends.
+
+Matt Mullenweg: So that’s why I wrote it down.
+
+Tim Ferriss: So it’s a diplomatic mission?
+
+Matt Mullenweg: Yes.
+
+Tim Ferriss: What did you have in your list for 2016?
+
+Matt Mullenweg: So much. It’s actually a long list. This year took a few side turns.
+
+I try to think – actually it’s something I often do around the end of the year is I ask a lot of people who I know, kind of crowdsource resolutions. Have you ever tried this?
+
+Tim Ferriss: No.
+
+Matt Mullenweg: You should do it. All right, what should we do?
+
+Tim Ferriss: Let’s try it. Okay, so visit Russia.
+
+Matt Mullenweg: We’ve done this before, actually.
+
+Tim Ferriss: Yeah, we have done this before. We’ve been on a lot of Thelma-and-Louise-style travel trips before.
+
+Kevin Rose: I have one for Matt that I want you to do this year.
+
+Tim Ferriss: You have an assignment for Matt?
+
+Kevin Rose: He wanted crowdsourcing, we’re giving crowdsourcing.
+
+Tim Ferriss: Okay, all right.
+
+Matt Mullenweg: This is exactly the idea.
+
+Kevin Rose: I want you to do the Wim Hof method, the ice training, the freezing cold. That has been a game changer for me last year.
+
+Matt Mullenweg: So I get met the dude at [inaudible]. I went to his workshop. But I haven’t really done it since. It was a little weird.
+
+Tim Ferriss: Just something for your list if you want to add it.
+
+Matt Mullenweg: Do you ever Wim Hof in public?
+
+Tim Ferriss: Do I ever Wim Hof in public?
+
+Matt Mullenweg: Because it’s very vigorous breathing, right?
+
+Tim Ferriss: Oh.
+
+Matt Mullenweg: So sometimes I feel like I could use a little energy right now, but then I don’t want people to –
+
+[Crosstalk]
+
+Tim Ferriss: You don’t want people to call the police when you’re doing it in a waiting room?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: So just a caveat on Wim Hof for everybody. Fascinating stuff. You have to be very careful. So Josh Waitzkin, we’ve talked to before –
+
+[Crosstalk]
+
+Tim Ferriss: The shallow-water blackout that he suffered from, which could have killed him, was after practicing Wim Hof breathing before swimming. You have to be very, very, very careful with this.
+
+Matt Mullenweg: Can I just say anything Tim recommends you should be very careful?
+
+Tim Ferriss: Morning journaling – you can take your thumbs off. That’s high-velocity journaling, only professionals.
+
+Matt Mullenweg: So I’m down with this though. Have you done the hiking the mountain in your underwear thing? How cold do you get?
+
+Kevin Rose: More or less.
+
+Tim Ferriss: Less the mountain and less the underwear.
+
+Kevin Rose: I mean, there’s a photo on the internet of me in my underwear in the ice.
+
+Matt Mullenweg: Really? Wow.
+
+Kevin Rose: So I did go that far. I will say to everyone out there, the Wim method, you’ve probably heard him on Tim’s show and he’s been on a bunch of podcasts. It’s ten weeks of pretty hardcore training.
+
+Matt Mullenweg: Ten weeks?
+
+Kevin Rose: That starts off really slow. So you start off with like a 15-second cold shower at the end of your shower and then it gradually builds up to – for me, at the end, it was buying ten bags of ice, putting it in my bathtub and then laying there up to my neck for about 15, 20 minutes and not even shivering. So you actually gain a pretty high tolerance to the stuff. But the thing that was most interesting to me is that I think that at least for me, all of us, me and most people I’ve talked to, we have this emotional rollercoaster we all ride. For me, it’s always between the 80 and 90 percent.
+
+Some days are great and you can go up to 100, but it’s always depending on what’s going on in your life and what challenges you have. You’re always kind of riding that. I’ve always considered myself a pretty happy person, but after about two or three weeks, actually week 2, the end of week 2, the breathing exercises are great, but it’s really the cold that does it.
+
+It releases a bunch of different compounds in your brain and you feel just amazing. More energy and focus and just I felt as though almost like when you’re a kid and you don’t have a worry in the world and everything feels amazing and you lose track of time? I got all of those emotions back again. For me, it’s kind of a winter thing because the cold is coming anyway. So every year – and even now, I’m on week 2 of it, I started back up again. I just feel so much better. It’s crazy. It lifts the bar. I didn’t know the bar could go that high.
+
+So you still have those little fluctuations, but the bar is a little bit higher for me. And Rhonda will give you all the science behind it. It’s the release of norepinephrine in the brain, but it’s amazing stuff.
+
+Matt Mullenweg: So we both got here at the same time. We were both wearing coats.
+
+Kevin Rose: That’s right.
+
+Tim Ferriss: Kevin actually walked through the lobby. He was in underwear and he had ice packs strapped to his body.
+
+Kevin Rose: Yeah, you don’t know what I have underneath this. Do you want me to strip down? I mean, I can go low if you want.
+
+[Crosstalk]
+
+Tim Ferriss: Do you guys want Kevin to strip down?
+
+Kevin Rose: This is every time I hang out with him.
+
+Matt Mullenweg: Like two people –
+
+Tim Ferriss: The people want it. Those two people want it.
+
+Matt Mullenweg: Is this boring?
+
+Tim Ferriss: So the cold, I’m just going to make a note on that, which is coming back to one of the audience questions about chillness. This is something that I’ve also invested in, in the sense that I’m regularly going to Russian baths. You guys are very fortunate if you’re in New York City to have some incredible Russian and Turkish baths here, as filthy as they may be, that have tremendous cold plunges.
+
+Kevin Rose: I took my wife one time. She’s like, “I am never going back to that place, ever.”
+
+Tim Ferriss: Yeah, when I went there I think three trips ago; there was a guy, this old Russian guy, shaving his neck.
+
+Kevin Rose: Shaving – I was with you.
+
+Tim Ferriss: And blowing hair just into, just onto the floor where everyone was walking.
+
+Matt Mullenweg: Ohmygod, that is –
+
+Kevin Rose: We were sitting there, looking at this guy and he’s blowing his hair – it was disgusting.
+
+Tim Ferriss: Onto the floor, so yeah, wear your sandals.
+
+Kevin Rose: Something about that is awesome though.
+
+[Crosstalk]
+
+Tim Ferriss: Even as far back as Van Gogh, when he cut his ear off, which I also don’t recommend, was prescribed cold baths as part of the recovery therapy.
+
+Kevin Rose: Who was that?
+
+Tim Ferriss: Van Gogh, the painter?
+
+Kevin Rose: Oh, yeah.
+
+Matt Mullenweg: He’s the best example –
+
+[Crosstalk]
+
+Tim Ferriss: No, look, no one bats 1,000, but –
+
+Matt Mullenweg: I do have a question about the cold thing, because I know you both do it. Have either of you done that thing where you get in the freezing thing?
+
+Tim Ferriss: Oh, yeah, a ton of times. The cryotherapy?
+
+Matt Mullenweg: Yeah, the cryotherapy. How does it compare?
+
+Kevin Rose: I don’t think it’s as good, actually, as the ice.
+
+Tim Ferriss: I don’t use it.
+
+Kevin Rose: Ice is better.
+
+Matt Mullenweg: Whoa, okay.
+
+Tim Ferriss: I prefer the ice. The cryotherapy, there are a few things. No. 1, it really just –
+
+Matt Mullenweg: I just want another device in my house.
+
+Tim Ferriss: Well, so it turns out I was going to get a cryotherapy chamber in my house. Very dangerous for a host of reasons.
+
+Matt Mullenweg: Well, you want an attendant, right?
+
+Tim Ferriss: You want an attendant and also the gas that is used can be highly explosive. I looked into this quite seriously and decided against it for a million reasons. But the ice – super cheap. I have a standing freezer that is dedicated to ice. I have bags of ice. I looked at all these sophisticated cooling systems and I just decided, use Instacart, if you have the option, to get a bunch of ice. I’m like their nightmare customer.
+
+[Crosstalk]
+
+Tim Ferriss: I’m like the 1 percent who’s like ohmygod; I can get 100 pounds of ice delivered for $5.00? Yeah, I’m in. Sure. Then I put it in this standing freezer dedicated further –
+
+Kevin Rose: This is why startups fail, people, is people like you.
+
+Tim Ferriss: The Tim Ferriss effect. The dark side.
+
+Kevin Rose: It’s like pets.com ordering the dog food for free shipping.
+
+Tim Ferriss: Exactly, the edge cases. Those are going to bleed you. But the cryotherapy, I also didn’t like the fact that on numerous occasions I’ve tried it and my eyelids have frozen shut. Just not really a huge fan of that experience or sensation whatsoever.
+
+Matt Mullenweg: What’d you say? Eyelids?
+
+Tim Ferriss: Yeah, my eyes froze shut. So I wasn’t a huge fan of that entire sensory experience. It’s not something that I would expect to pay for.
+
+Matt Mullenweg: You’ve just got to open your mind, Tim.
+
+Tim Ferriss: Yeah. Trust me; I think it’s too open. I have the surgeries and MRIs to prove it. What other types of resolutions are you hoping to crowdsource?
+
+Matt Mullenweg: Well, I like this. Kevin gave me one. Can I get one from you and then we can trade them?
+
+[Crosstalk]
+
+Tim Ferriss: Sure. And, in fact, the way I learned to swim was by doing this exercise with a friend named Chris Ashington. We gave each other assignments. So his was a one kilometer minimum open-water swim. At the time, I couldn’t do one lap. So that was the incentive. The potential for never-ending shaming that drove me to learn to swim in my 30s. For him, he was addicted to stimulants. Meaning just tons of double espressos, coffees, everything you can imagine, all day every day.
+
+So, it was a year without anything stronger than green tea, which he also did. So it changed both of our lives that year. I’ll give you a resolution. I would say because of how much we have traveled together, I will say conversational fluency in a foreign language.
+
+Matt Mullenweg: That’s been on the resolutions for like ten years. I just stopped trying.
+
+Tim Ferriss: I know. When we travel, the deal is I’m like the Tarzan sounding translator. I’ll try to learn Turkish or whatever language corresponds to where we happen to be traveling and Matt is like the National Geographic photo documentarian. He takes all the photos. So that’s been the arrangement. So I would say learn a language.
+
+Matt Mullenweg: Didn’t you say something about accentuating strengths instead of improving weaknesses?
+
+Tim Ferriss: I did, but I think you’re trying to dodge this assignment that you have asked for. So I would say conversational fluency, which just means being able to hold a basic, five-minute conversation in a foreign language.
+
+Matt Mullenweg: All right. Can I do one for you?
+
+Kevin Rose: Yes, I would love that.
+
+Matt Mullenweg: I think a little bit – have you ever done a long hike, like a week or more recently?
+
+Kevin Rose: No.
+
+Matt Mullenweg: You’re kind of a city, comfort guy?
+
+Kevin Rose: No, I like it outdoors.
+
+Matt Mullenweg: You like outdoors?
+
+Kevin Rose: I mean, I do little hikes like little jaunts and whatnot.
+
+Matt Mullenweg: So that’s –
+
+[Crosstalk]
+
+Tim Ferriss: He’s talking about the two blocks to get some Blue Bottle coffee.
+
+Kevin Rose: Yeah, I take my dog for a walk. I throw the ball.
+
+Matt Mullenweg: That would be the thing, like a long hike.
+
+Kevin Rose: Yeah, explain the one that you were telling me backstage, because that one sounds amazing.
+
+Tim Ferriss: Oh, is this the Japan walk?
+
+Matt Mullenweg: Yeah, so with Dan Rubin and Craig Mohr I did a Kumano Kodo, which is a pilgrimage [inaudible]. Kind of like the Camino Santiago, I think it’s called?
+
+Tim Ferriss: Yeah, Camino Santiago.
+
+Matt Mullenweg: So it was about 100 kilometers we did over eight days from the coast to Koyasan. It was super amazing. It was like glamping, which is totally okay for this challenge, for this resolution, even though you’re not –
+
+[Crosstalk]
+
+Tim Ferriss: Don’t tell Kevin that. He’ll have Sherpas carrying him on a throne.
+
+Kevin Rose: Dude, you are more like that than I am.
+
+Tim Ferriss: What are you talking about?
+
+Kevin Rose: I am an Eagle Scout, so I have that.
+
+Tim Ferriss: Kevin, I’m so tired of this Eagle Scout routine. We can be talking about fucking anything.
+
+[Crosstalk]
+
+Kevin Rose: It’s because [inaudible] come back to that, that’s why.
+
+Tim Ferriss: You’re like yeah, we should really go do this and this and this and then go pick our friends at the Crosby and you’re like, hey, I was an Eagle Scout.
+
+Kevin Rose: It’s like that joke, “How do you know someone’s an Eagle Scout? They tell you in the first 30 seconds.”
+
+Tim Ferriss: It’s like Crossfit and veganism and Eagle Scouts.
+
+Kevin Rose: Dude, why do you have to [inaudible] Eagle Scouts?
+
+Tim Ferriss: No, I like them. I’m just like, thou doth protest too much.
+
+Matt Mullenweg: It’s actually legit.
+
+Kevin Rose: Thank you.
+
+Matt Mullenweg: I only made it to Star. Eagle Scout is – high five.
+
+Kevin Rose: Dude, Star is pretty legit too.
+
+Matt Mullenweg: I mean, it’s okay. That was okay.
+
+Tim Ferriss: So Japan.
+
+Matt Mullenweg: Okay, so maybe the outdoor thing. If you did Eagle Scout – did you ever do Philmont? I bailed on the Philmont trip.
+
+Tim Ferriss: Wait, what’s Philmont?
+
+Matt Mullenweg: Philmont’s like this famous, Boy Scout hiking thing.
+
+Kevin Rose: It’s like 50 miles though.
+
+Tim Ferriss: If you’re going to do a week of hiking, you’re probably going to cover more than 50 miles.
+
+Kevin Rose: Well, his was pretty short though. What was it?
+
+Matt Mullenweg: 100 kilometers, it’s not so bad. But it’s in the mountains, so you’re up and down a lot.
+
+Tim Ferriss: That’s a good one. That’s like an extended trip. So people have asked me about my year plan, my two-year, and five-year plan. The only thing that I will – or I shouldn’t say the only – but one type of thing I will schedule far in advance is this type of extended trip. So I think it’s an 18-day kayaking trip through the Grand Canyon planned in 2017. It’s the only extended block of time that I’ve set aside, aside from Japan excitement that is coming shortly. But the benefit of that also is when you put it on the calendar, and I think both of you guys have experienced this, is you get the benefit of anticipation and that is 90 percent of the payoff, if that makes any sense.
+
+Matt Mullenweg: Unless it’s a really good trip. Then it’s like [inaudible].
+
+Tim Ferriss: All right. Well, for me maybe I have a very overactive imagination. It’s like 90 percent of the benefit is the anticipation of it.
+
+Kevin Rose: I have one for you.
+
+Tim Ferriss: Oh, boy, here we go. All right. Yes, Kevin?
+
+Kevin Rose: No, this is easy and I know you want to do it and you bailed on it this year.
+
+Tim Ferriss: Ooh, let’s hear this.
+
+Kevin Rose: I want you to do –
+
+Tim Ferriss: Are you talking about Van Damme splits? That’s on my New Year’s resolution every year.
+
+Kevin Rose: I want you to do Van Damme splits in front of everyone right now. No, I want you to go on a ten-day, silent meditation retreat.
+
+Tim Ferriss: Okay, yeah. No, this is good. So I accept and I actually had it on my calendar to do this year and then I don’t know it conflicted with. It conflicted with something.
+
+Kevin Rose: Something happened and you bailed. I remember.
+
+Tim Ferriss: Yeah, I know, I did, but it was on the calendar.
+
+Matt Mullenweg: Ten days is a lot. Ten days is long.
+
+Tim Ferriss: No, challenge accepted. I’ll do a ten-day silent retreat. Challenged accepted.
+
+Kevin Rose: Eagle Scouts do that a lot, but –
+
+Tim Ferriss: Those Eagle Scouts.
+
+Matt Mullenweg: There’s a lot of talk about being Eagle Scouts.
+
+Tim Ferriss: It’s like The Hunted, right? They’re chasing fugitives. That’s what I hear about those Eagle Scouts.
+
+Matt Mullenweg: For the hikes, I’ll say the Kumano Kodo. Apparently, there’s an awesome one in Iceland, where you can stay in little huts and then the Camino Santiago one.
+
+Tim Ferriss: For those people interested, –
+
+Kevin Rose: Done.
+
+Tim Ferriss: – A Walk in the Woods is a great way to invigorate and –
+
+Kevin Rose: Well, forest bathing. You’ve heard about this, right?
+
+Tim Ferriss: I was talking about a book. Forest bathing?
+
+Kevin Rose: You said walk in the woods, right?
+
+Tim Ferriss: A Walk in the Woods, a book by Bill Bryson.
+
+Kevin Rose: Okay, so anyway, there was a study that came out recently – well check it out.
+
+Tim Ferriss: Okay.
+
+Kevin Rose: I had two glasses of wine before I came out here. So forest bathing, a new Japanese study came out that showed that the Japanese that spend time in the forest have lower levels of cortisol and all these positive benefits from just spending – it’s 15 minutes a week in the forest.
+
+Tim Ferriss: I completely believe it. There’s so extra wine for you.
+
+Matt Mullenweg: Care for a little more?
+
+Kevin Rose: I’m good.
+
+Tim Ferriss: It’s amazing how these new discoveries are the most commonsense conclusions that people would have drawn 500 years ago. It’s like, let’s put you into a concrete prison where everyone’s angry and honks a lot and screams at you because you knocked over the cashews –
+
+Kevin Rose: Don’t talk about Manhattan like that.
+
+Tim Ferriss: Well, I was just thinking to myself today, I bet if every person stopped honking, it would all move the same speed. So much anger. So go upstate, take a trip upstate. I think that’s a good call. What questions would you guys like to hear answered up here? Anything? Just fire away. Go for it.
+
+Female Speaker: Okay, [inaudible].
+
+Matt Mullenweg: Ohmygod. I think this is the highest stakes for Kevin.
+
+Kevin Rose: You’ve got to repeat the question.
+
+[Crosstalk]
+
+Tim Ferriss: All right. The question is, what is most frustrating and inspiring about the women in our lives?
+
+Kevin Rose: Oh, Jesus.
+
+Tim Ferriss: This is just like here’s a grenade, I’m going to pull the pin, and enjoy.
+
+Matt Mullenweg: That’s a great question, really great question.
+
+Tim Ferriss: Let’s start with the inspiration. I’ve been very fortunate. I’ve had some really great relationships.
+
+Kevin Rose: Oh, here we go.
+
+Tim Ferriss: Did I tell you I was an Eagle Scout? Let me tell you.
+
+Kevin Rose: Seriously, seriously.
+
+Tim Ferriss: Okay. I am. I’ve been very fortunate to have some really good relationships with significant others over the last six, seven years. Fucking Kevin. This guy. You can’t take him anywhere. I would say whether it’s with my Mom, with whom I have a very deep relationship or significant others, I think that the – and this is going to sound funny – but I think a lot of men get, they’re proud of how analytical they think they are and get very good at ignoring the flashing signal that’s right in front of them the whole time. At least speaking personally, that’s been the case for me. So helping me to listen to – like Ramit said earlier, the intuition, as maligned as that might be and to pay attention to feeling.
+
+This just like kinesthetic embodiment or perception of what is good or bad has been hugely valuable to me. Also, I think that men, in general, can be overly aggressive and combative. The fight, I think, is sometimes overestimated as an asset. The counterbalancing that I’ve experienced with a number of women in my life, where like, maybe he’s just hungry? Maybe he’s not out to get you. Or, he sent that email that you’re so upset about.
+
+Maybe he just needed a sandwich. Chill the fuck out. Why are you assuming the absolute worst motivation behind it? Having that type of tempering voice has been hugely valuable to me. Frustrating? Okay. I think this is a Tim problem more than anything else, to be honest.
+
+But I am not always the best at expressing my emotions or with contending with some of the emotions that I don’t view as particularly valuable to me at a given point in time. So I’ve developed a lot of body armor over a lifetime of believing this and getting the shit kicked out of me for a long time in school, literally, physically. I have developed a lot of coping mechanisms and when I am confronted with someone who has, let’s just call it more emotional range than I do, more emotional volatility maybe than I do, I am a deer in the headlights. I have a lot of trouble contending with that.
+
+For some women, it’s just like a tempest that blows in and blows out and then everything’s cool. It’s like complete meltdown like crying hysterics for two minutes and they’re like I’m fine, I’m fine, and they’re totally cool. I’m liked fucked up for hours by that.
+
+So, I would say that’s probably pretty high on the list for me. Which, I think, again, is more of a ‘Tim’ issue than an ‘anyone else’ issue. You guys? Go ahead, please. This is when the awkward Matt laugh comes out.
+
+Matt Mullenweg: On the inspiration – first I think, of course, of my mother and just my entire – my mother and my sister, really. Mullenweg women are very strong, so they grow up around really strong women. To now, I have the good fortune to work with and be very close friends with women. In the technology field, I think it is a tough one for women, especially engineers. So there are examples of folks who work twice as hard to get half as far.
+
+The resilience I think is something we can all learn from. I think the thing I’ve learned the most actually, which is close to yours, which is empathy. This, for me, has been a year where a lot of emotions opened up I didn’t even know I had.
+
+Tim Ferriss: Like what? Fury? I’ve never seen you really angry.
+
+Matt Mullenweg: Yeah, well, it was grief this year.
+
+Tim Ferriss: Grief, yeah.
+
+Matt Mullenweg: My father passed away.
+
+Tim Ferriss: Yeah, we’ve talked a lot about this.
+
+Matt Mullenweg: And sadness. That was this weird thing where, because it triggered in other places. I’d see a story on the news and just get so emotional about it. I was like, wow, where did that come from? That it was something that would have never affected me before. I just would’ve been like water off duck. I was practically in tears or in tears for a situation with people I had never knew or heard of.
+
+I was like, where did these emotions come from? How are they happening? How do I make it stop? I’ve definitely been close to folks who are like that. I think the frustration for – and this is again, probably a Matt thing, probably a Tim thing too – is just learning around expectations. Something I’m learning to navigate more. That men and women sometimes have very different expectations out of the same things. So learning to navigate that is something I’m really trying to figure out.
+
+Tim Ferriss: What type of things? Expectations of what types of things? I’m not going to let that slide.
+
+Matt Mullenweg: So for me, I think part of it’s around relationships is kind of where I had expectations in mind where I said that. If you’re in a relationship or not in a relationship, what are the expectations going on?
+
+Tim Ferriss: Those are the parameters, the rules of engagement in a relationship.
+
+Matt Mullenweg: Yeah, especially this year, where I’m trying to withdraw a little bit and kind of rebuild. Also, work’s been incredibly busy. So I haven’t had a lot of time.
+
+Tim Ferriss: Rebuild, you mean just yourself?
+
+Matt Mullenweg: Yeah. That whole expectations externally can both be flattering and frustrating and heartbreaking and everything, all in one.
+
+Tim Ferriss: What was the – if you’re willing to share, there was a book that you found really helpful when contending with grief. I remember you’d mentioned it to me. You thought it applied to a lot more than that. I remember when we chatted about it.
+
+Matt Mullenweg: Yeah, I’d recommend it. It was Elizabeth Kubler Ross and one of her first books was the one that came up with the five stages of grief: anger, depression, denial, all that. Then her last book, which was actually published posthumously, was called On Grief and Grieving. I think one was called On Death and Dying, On Life and Living, and this final book, On Grief and Grieving. It’s really beautiful as well because she wrote it on her deathbed. It helped me understand that grief is something that happens before you have a loss.
+
+The anticipation of a loss. Something during. Something after. There’s a lot of guilt involved at the various stages of that. The other thing I didn’t realize that’s just useful for everyone to note is the stages don’t happen in order. I actually have some glasses that have the stages on them, so you can fill up your booze to the different levels then drink it down.
+
+Tim Ferriss: I took a photograph of that today.
+
+Matt Mullenweg: Oh, cool.
+
+Tim Ferriss: I thought it was the strangest thing I’d ever seen. Yeah, there’s these little line markers on the glass that correspond to the stages.
+
+Matt Mullenweg: So part of that implies it’s a linear, but you can have a couple going at once and out of order. Sometimes you jump into one of those stages just out of the blue. It was definitely one that was really helpful this year. I would recommend for anyone – actually anyone – because we all have parents. Sometimes those parents pass. They get older. Or just anything in our lives. Like you said the other day, people often go before you’re ready or they’re ready.
+
+It felt like reading it afterwards wasn’t ideal, but it felt like I had a lot more, almost emotional vocabulary to talk about these things that I didn’t even know what the words were or what the experiences were.
+
+Tim Ferriss: Okay, Kevin. Eagle Scout.
+
+Kevin Rose: So, let’s see here. My two. I would say that this last Thanksgiving was probably pretty difficult when it comes to family and the women in my life. My Dad passed away a few years ago, so it’s pretty much all women from this point forward. My sister and Mom definitely have different political and religious beliefs than I do. So that is very challenging, especially when it’s time to sit down and have the religion talk and how I should rejoin the fold in certain ways. I would say that’s been the biggest challenge for me, just because it’s, you know, it’s Thanksgiving. It’s hard to navigate those waters.
+
+I think with any family, male or female, it really doesn’t matter; it can be difficult. So that was biggest challenge. I would say the thing I’m most grateful for and impressed by would have to be my wife’s willingness to work on problems together. So it’s easy for me to get to angry, I’m pissed off and stomp and put up a wall. I’m very lucky in that it’s her natural state to try and work on things and say, well, this is part of being married.
+
+Let’s continue to work on this and come to a resolution and really break that side of me down into something where I can realize that we are in this for the long term. Let’s work on this. It will forever be something that we have to work on because there is no such thing as a perfect state, you know?
+
+I mean, there can be for certain periods of time. But there’s always going to be something coming up every year. Just the ability to have a mate like that, someone that’s willing to work on things. It would be hell if you were both like that, right? Because that’s when relationships fall apart. So I’m very fortunate to have someone that’s that open to that kind of stuff.
+
+Matt Mullenweg: Thanks for sharing that, by the way. That’s really vulnerable.
+
+Kevin Rose: No problem.
+
+Tim Ferriss: So, we’re going to close with a question from me and then I think we’re going to let you guys get to your Friday evening. We’ll move on to – for those of you who do have the blue wristbands, we’ll do that part.
+
+Matt Mullenweg: VIP.
+
+Tim Ferriss: Yeah, that’s right. VIP. God, I hate that acronym. But it’s the only one I have as a placeholder.
+
+Kevin Rose: What’s your VIP room like? Is there like weights in there and –
+
+[Crosstalk]
+
+Tim Ferriss: Ponies everywhere, yeah.
+
+Kevin Rose: I’m just going to pour some of this, by the way.
+
+Tim Ferriss: It’s very exciting. I hope – that’s what you guys read the fine print on that sign-up. I think the [inaudible] people are just like cursing themselves for letting me get on stage now. Ohmygod, we’re moving to tequila.
+
+No, the VIP thing is just going to be a smaller group where we can hang. The question I have for you guys, oh, God, wow. Look at the heavy hand of Matt Mullenweg. It’s amazing how quiet the room got on the hookers and blow comment. Did you see that? So the question is – I’m waiting for some residual laughter. Okay, everybody got it who was going to get it? Great. The question is, what would you like – we’re at the tail end of a year – any closing recommendations, asks of the audience or suggestions that you would have?
+
+Just for a very good, in this case, 2017, people will be listening to the podcast probably for a very long time. I’ll start. So the one that I would recommend is two things: (a) be your stupid, weird self and don’t be ashamed of it, which is why I deliberately why I say stupid things like the preceding four or five sentences; and (b) goal setting isn’t enough.
+
+Goal setting is what we all do. We all set resolutions and we tend to find the same resolutions popping up the next year and then the next and the next. So I think fear setting as an exercise is very important. I’ll describe it briefly. It’s certainly in Tools of Titans. I’ve written about it elsewhere. You can Google “fear setting” and find it. Take whatever it is that you’re considering or putting off. It could be starting a company, quitting a job, starting a relationship, ending a relationship, and break the page into three columns. So you have what you’re considering or putting off at the top – you’ve thought about a long time.
+
+On the left-hand side, you’re going to write down all of the worst things that could happen in excruciating detail, bullet by bullet. The second column for each of those bullets, what you could do to minimize the likelihood of it happening, and then in the last column, what you could do to get back to where you are now. It could be two months, six months, a year, if you had to, if each of those happened.
+
+When you go through that exercise, you very quickly realize that 9 times out of 10, you’re risking, say on a scale of 0 to 10 impact, a 2 or 3 negative transient or temporary setback, compared to a potential 9 or 10 semi-permanent, positive impact. That makes the bet really easy, right? If I said to you, we’re going to roll a six-sided die. If I get a 1, you pay me a dollar, anything else, I pay you a dollar. You would take that all day long. So you start to realize that and you’re able to take the emergency brake off, which is what prevents you from hitting the goals that you’ve set. So fear setting would be my recommendation. Either of you guys?
+
+Kevin Rose: So just recommendations for year end?
+
+Tim Ferriss: Yeah, recommendations, thoughts, asks, sure.
+
+Kevin Rose: Sure, okay. A few things real quick. One, go see the movie, Kubo. Have you seen Kubo? Anyone seen Kubo at all? It was amazing. Stop-motion animation like The Nightmare Before Christmas. Have you seen it?
+
+Tim Ferriss: I haven’t yet seen it.
+
+Kevin Rose: Ohmygod, it’s so good. All right, so see that one. The Birth of Saké is another one you’ve got to watch. I highly recommend it. Anyone see that at all?
+
+Tim Ferriss: Saké, Saké, Eagle Scout, Saké.
+
+Kevin Rose: And then I would say my last one is on the meditation front. Obviously, everyone talks about meditation. It’s like the hot topic these days. We’ve all played with Headspace and Calm and a few other apps. I will say that my biggest insight in the last six months has been that when you do the 10 or 15-minute little trial and get going, you do it and you think okay, I tried that and you put it away for a while. If you stick with it and you just go a little bit deeper, things start to unlock and I feel like the stress level and everything else just kind of plummets.
+
+Obviously, I’m just a couple years into this whole world, but I feel like I didn’t know that in the early days. I thought that I had tried it and I kind of gave up. I would say that in the last few months, it’s really started to have a deeper impact on me when I dedicate more time to it. It’s hard to find the time, but if you can set aside the 20+ minutes a day, I think that’s when you really start to see what it’s all about or at least get a glimpse of what it’s all about versus the really lightweight, 10 minutes I tried it and I’m done kind of thing.
+
+Matt Mullenweg: Do you track that differently from your Win Hof time?
+
+Kevin Rose: Yeah, completely different.
+
+Tim Ferriss: Yeah, the 20 minutes I find for me is kind of the magic number, in the sense that like you said, 10 definitely reduces stress. 10 after, for me at least, you know, 20 minutes, 15 minutes in, it’s like okay, now the mud is finally settled and the water’s actually clear for a few minutes and it’s those few minutes that are so impactful. Matt?
+
+Matt Mullenweg: I realize I didn’t get to assign you a 2017 goal.
+
+Tim Ferriss: Oh, all right. Here we go.
+
+Matt Mullenweg: So I’m going to mix those in. I think a 2016 one which I’m going to carry forward, but you can’t really tell whether it’s done or not, is everything in moderation.
+
+Tim Ferriss: I’m so bad at that. Okay.
+
+Matt Mullenweg: Yeah, you’re good at everything except moderation.
+
+Tim Ferriss: Yeah, this is true. All right.
+
+Matt Mullenweg: So that’s my challenge.
+
+Tim Ferriss: Moderation, all right.
+
+Matt Mullenweg: But the specific thing I’ll ask of you and the audience, you all already have Tim’s book. I’m about halfway, three-fifths in. Loving it. I’ll recommend two other books that are coming out. One is coming out in the beginning of January. It’s called Rebirth, from a mutual friend of ours.
+
+Tim Ferriss: That’s right.
+
+Matt Mullenweg: Kamal Ravikant. Which is actually about a story going on the Camino Santiago. El Camino Santiago. I forget the name. I’m probably messing it up.
+
+Tim Ferriss: That’s close enough.
+
+Matt Mullenweg: Yeah. Really beautiful book. And (2) which was probably the best book not written by Tim I’ve read in the past five years, is called Becoming Wise by Krista Tippett. It’s got a longer subtitle. So that’s the other challenge to you. I would love to see you interview and then later be interviewed by Krista Tippett.
+
+Tim Ferriss: Cool. Yeah, I’d love to do that.
+
+Matt Mullenweg: It’s actually very similar to Tools of Titans in that she has interviewed hundreds of amazing folks, but focused more on philosophy –
+
+Tim Ferriss: Theological and philosophical and existential.
+
+Matt Mullenweg: Sometimes theological, yeah. It’s actually really fascinating and opened my mind in a lot of ways. Much like your stuff, I came out with a ton of notes and a ton of things to read, like going to the source materials and everything like that. So that would be – if you like Tim’s stuff, I think you’d also like her stuff. It’s almost like a different side of the same coin.
+
+Tim Ferriss: Yeah, agreed. No, I think – I have her book. I think it’s very –
+
+Matt Mullenweg: Oh, cool.
+
+Tim Ferriss: – complementary, absolutely.
+
+Matt Mullenweg: Have you read it though?
+
+Tim Ferriss: I have.
+
+Matt Mullenweg: Darn, you’re ahead of it. Check.
+
+Tim Ferriss: All right, guys. Please give a hand – Kevin Rose, Matt Mullenweg.
+
+Kevin Rose: Thanks, guys.
+
+
+TAGS
+KEVIN ROSE, MATT MULLENWEG, RANDOM SHOW, THE RANDOM SHOW
+	

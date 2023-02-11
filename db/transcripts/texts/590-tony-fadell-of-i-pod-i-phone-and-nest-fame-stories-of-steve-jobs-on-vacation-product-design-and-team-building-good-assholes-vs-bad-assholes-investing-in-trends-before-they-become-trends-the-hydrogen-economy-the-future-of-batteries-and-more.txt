@@ -1,0 +1,563 @@
+
+
+APRIL 29, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tony Fadell of iPod, iPhone, and Nest Fame — Stories of Steve Jobs on “Vacation,” Product Design and Team Building, Good Assholes vs. Bad Assholes, Investing in Trends Before They Become Trends, The Hydrogen Economy, The Future of Batteries, and More (#590)
+
+
+Please enjoy this transcript of my interview with Tony Fadell (@tfadell), an active investor and entrepreneur with a 30+ year history of founding companies and designing products that profoundly improve people’s lives. As the principal at Future Shape, a global investment and advisory firm coaching engineers and scientists working on foundational deep technology, he is continuing to help bring technology out of the lab and into our lives. Currently, Future Shape is coaching 200+ startups innovating game-changing technologies. 
+
+Tony began his career in Silicon Valley at General Magic, the most influential startup nobody has ever heard of. He is the founder and former CEO of Nest, the company that pioneered the “Internet of Things” and created the Nest Learning Thermostat. Tony was the SVP of Apple’s iPod Division and led the team that created the first 18 generations of the iPod and the first three generations of the iPhone. Throughout his career, Tony has authored more than 300 patents. In May 2016, TIME named the Nest Learning Thermostat, the iPod, and the iPhone as three of the “50 Most Influential Gadgets of All Time.” 
+
+His new book is Build: An Unorthodox Guide to Making Things Worth Making. 
+
+
+
+
+
+#590: Tony Fadell of iPod, iPhone, and Nest Fame — Stories of Steve Jobs on “Vacation,” Product Design and Team Building, Good Assholes vs. Bad Assholes, Investing in Trends Before They Become Trends, The Hydrogen Economy, The Future of Batteries, and More
+
+
+
+
+Tim Ferriss: Tony, what a pleasure to see you. Thanks for coming back on the show.
+
+Tony Fadell: Tim, it’s great to be with you, and with you again. I hear that’s a rare occasion, to come on a second time, so thanks for having me.
+
+Tim Ferriss: It is a rare event, and I think there are many good reasons for it. The first is we only got through a small percentage of my total notes the first time around, and many things have happened since we last spoke, and I have to ask you right up front, so you have this new book, Build, subtitle, An Unorthodox Guide to Making Things Worth Making, which is incredibly well put together. I looked at it.
+
+Tony Fadell: Thank you.
+
+Tim Ferriss: I didn’t read the whole thing, but I did read quite a few chapters. I’m going to read more. Lots of diagrams, lots of illustrations, stories, case studies, et cetera. I was looking back, however, at the transcript of our first conversation, which I always do before having a followup, and I had asked you what you struggle with, what doesn’t come easy, and you had said analytics has always been tough, also, long-form writing. It’s a lack of patience. You have a hard time waiting on people to move when the time is now. “He just wants to get things done.” That’s you. So long-form writing, but yet here we are with a book. So what the hell happened? How did this come to manifest?
+
+Tony Fadell: Build has been in the back of my mind, obviously, not the title, but the concept has been in the back of my mind for about 15 years now. I’ve had a lot of people bugging me, “When are you going to write a book? When are you going to write a book?” and I just didn’t want it to be some kind of autobiography or some, “Look at this great stuff, and here’s all the wonderful things that the team and I created together,” and it’s just these kind of hero stories. Well, I really wanted to give back, and the real reason for doing this is I looked up, and this was just before COVID hit, and so I was looking around, going, “The only reason why I’m sitting here, talking to someone such as yourself, is because people helped me with my success.”
+
+I had mentors along the route, and all the way from when I was a young kid through school, into the working world. I thought about that and I was like, “Wow,” and then I thought about who were or are my mentors, and I found out most of them had died. For me, I was like, “Wait a second. That means the baton has been passed,” and to take what people gave me, their heart, their time, their energy, their passion to help me, with no economic benefit to them directly, they helped me. So now it’s time for me to give back. Given our work at Future Shape where we have over 200 companies we’ve directly invested in, and lots of other companies who’ve just come to ask for advice, I was being a mentor every day.
+
+So I just started putting together all of the topics that kept coming up every single time, every day, multiple times a week, into a spreadsheet and start going, “Okay, this, this, this. These are the core things necessary.” So Build was born out of just those conversations that I have all the time, and so to get into long-form, obviously, long-form is difficult, and I didn’t do it all myself. I had a brilliant co-writer, Dina Lovinsky, who helped me tremendously, and we’ve worked together for over a decade. So she and I put the words on the page, but the concepts and everything came directly from the conversations I have daily with all of these startup founders, or even high schoolers going into college, what should they do, college people getting out, where should I go work?
+
+So it was all of those things coming back and it flowing back, and hopefully, this book is a mentor in a box. So, no matter whether you’re a high schooler or all the way through retirement age, you are able to access something in the book, and the book is set up — yes, it’s long-form, but really, every chapter started out as micro chapters, short chapters about real key topics that I think affect most people in most industries who are trying to do something special for either themselves in their career or for the world in the businesses that they create or manage.
+
+So that was really what it was, is just trying to give back, and it was really rewarding. It was very difficult. It was very cathartic at times. It’s very personal. It’s very raw. I didn’t pull punches, and we’ll see what happens. I hope there’s real practical advice, not just about success, but here’s all kinds of ways that I’ve failed, and how I picked myself up from the failure and moved on, because for as much success you hear people talk about, and you know this, Tim, there’s a lot of failure along the way that most people don’t talk about, and I think we actually spend more time talking about the failures than we do the successes in the book so people can learn.
+
+Tim Ferriss: Okay. So I’m grinning ear to ear, for people who can’t see me, if you’re listening just to the audio, and I’m grinning for a whole bunch of reasons. The first is, if we just pause for a second, everyone listening should imagine Tony in front of employees, say, rallying them for a launch or, say, identifying how they’re going to move forth, or after conquering a crisis. There’s a chapter on storytelling that I just finished reading, which talks about putting the why before the what. So you are a walking illustration of a lot of what’s discussed in the book, and I want to underscore the not pulling punches, and you’ll have to trust me that I know at least some subset of my audience when I give this example.
+
+There are a lot of memorable, very highly-specific stories, and they range from org chart design all the way to handling internal politics and different breeds of assholes, and the particular story, we don’t have to get into this right away, but the story, you may know where this is going, that I broke out laughing over when I was reading it was having someone pull you into an office with HR and saying, “There are two big swinging dicks in this room, and mine is the biggest,” and that’s how they started the meeting and how you deal with someone like that, because this is the unpleasant reality of navigating the entrepreneurial, and in some cases, whether it’s product or company building, journey.
+
+So I wanted to now just go to this mention of mentors. So you’ve had many mentors, and you can learn from mentors in different ways. So mentors can sit you down and teach you a lesson. They can lead by example. In some cases, they can show you, perhaps, what you shouldn’t do, and you can learn from their mistakes. So I want to visit the “Killing Yourself for Work” chapter, which I’ve only read the very beginning of because I didn’t want to spoil any surprises for myself. Could you tell us what you learned from Steve Jobs about taking vacations? How did Steve Jobs take vacations?
+
+Tony Fadell: Well, I don’t know of all of his vacations. I know of the vacations he took while we were together at Apple for 10 years, and what was really happening was Steve would go on vacation, and in my early days there I would be like, “Yes, he’s going on vacation. This is great. We’re not going to have to hear from him for seven or 14 days,” or whatever the case may be. Well, that dream met reality, and the reality was very different. It turned out that Steve, he would go on vacation. He would usually vacation at one or two places, and he’d go to the same places all the time, and that’s what he liked, and that’s all good.
+
+He would go silent for the first 24, 48 hours. He would be gone. He would be in transit. He would be with his family, what have you. For those first 48 hours, you wouldn’t hear anything, maybe 72. But somewhere right after that, you started getting calls. It wasn’t emails. It was calls from Steve, and Steve would be on vacation, and he would be pondering where the next product, the next direction for Apple, new technologies, things he’s reading. He used that vacation as a time to expand his thinking and get outside of the Apple, the day-to-day and the projects that we all knew and loved, or maybe there was just a couple of things to improve on the projects we were working on.
+
+But he would start thinking about, “Oh, let’s go buy a music company,” or, “Should we go and do this other kind of product?” or, “What technology will it take to do this?” because he’s also reading. He’s reading or he’s listening to others saying different technologies. So he would be calling going — you would be like Google for him, be like, “Hey, what is the latest on this?” and you’re like, “Okay, Steve. Here’s what we know. I don’t know that. I can go get back to you.” He’s like, “Oh, let me know when you know. Send me an email on that,” and then 15 minutes later he might call back with a different idea.
+
+So it was literally, while he was on vacation, during reasonable hours — this wasn’t crazy hours, but you might hear from him on vacation five or six times, depending on what he was thinking about at that time, per day. It could be as much as maybe zero per day, but sooner or later along that vacation, he would call you and want to brainstorm something or want a piece of knowledge or want to know the latest about something that was related to some idea he had in his head. So you loved it because you got to talk to him about all kinds of things that weren’t the day-to-day, but at the other times you were like, “Okay, Steve. You need to be on vacation,” and then two is, “How much work are we going to have when you come back, besides the incredible mountain of work we’re already on top of, or trying to get on top of?”
+
+Tim Ferriss: So why did you lead with that, and why write this particular chapter? Because flashing back again to our first conversation, which I encourage people to read, I’m going to try to not overlap too much with that, but back at General Magic, you had a certain, let’s say, approach to work, which was — 
+
+Tony Fadell: Sure. Yeah, yeah.
+
+Tim Ferriss: — high volume, high intensity, 10 out of 10, and that seems to have changed over time. Just for people who have no idea what General Magic is, I just want to say, and tell me if this is off base, but it’s kind of like Jodorowsky’s Dune in a sense where — if people don’t understand that, that was an attempt at making Dune, which failed, but the talent that was assembled ended up being this incredible diaspora of technical innovation that then spread all over the place. You had Giger creating Alien and so on. So General Magic was somewhat like that, I would say, the genesis of a lot of amazing careers. Why write this chapter — 
+
+Tony Fadell: It’s a great analogy, yeah, a great analogy.
+
+Tim Ferriss: So why did you lead with that story in that chapter, and why even write that chapter?
+
+Tony Fadell: Well, I think for me, I went through that personal struggle, and I think a lot of people do of, “I need to work harder than everyone else and spend more time working.” So I was working 80, 100, 110 hours a week kind of thing because that’s what I thought needed to happen. I thought I needed to prove myself through the number of hours, through the amount of work that I could get done, and I was also really passionate and kind of like you’re a kid in a candy store. For me, I’m a geek. I’m like, “Oh, I could do this, I could do that, and I get to work on this,” and the more hours I got at there, I could go and work and learn from all of these great people around me.
+
+So one thing I had to learn, how to do the work, and the other one is doing the work and learning how to do it at a professional level like my heroes around me would do. So there was a lot of learning, and when you go to school, you go to school, but you’re also doing your studying and all that other stuff. So it was a little bit more than going to a university, but your first jobs are really like that. You spend a lot of times, but you also start to learn how to be productive, and what being productive means, and doing a great job versus just being there a lot of hours.
+
+So that’s where it all hit for me, and I will say this. I was undiagnosed ADD, ADHD at that timeframe I was in General Magic, and ultimately, a couple years later, then I actually figured out what was going on. So I was trying to do my work and perform at a professional level, learn the work, and I had ADHD across all of it. So if you know anything about writing code, writing code and being in the details, and if your mind’s always going — oh, my god, it made everything harder. So it was all of those things compounded, and so that chapter is really about, “Here’s where I was. Maybe you’re experiencing a lot of this yourself, and here’s a more balanced approach.”
+
+Now, it’s not your typical work-life daily balance, but here’s a way to do it to be high-performing, do amazing things, but to also give yourself the right amount per day, as well as per year, of time off, and time to think and realize that when you get to go away from a certain activity you’re doing every time, you might actually be able to think about it more clearly and come up with the answers more clearly if you’re away from it as opposed to into it all the time.
+
+Tim Ferriss: What did you find for yourself that annual cadence off looked like as a CEO? I know in between gigs we talked in the first conversation about getting bored, spending three weeks reorganizing your garage and doing something so that the ideas that are not obvious might make an appearance, and you could have insights. We spent quite a bit of time chatting about that. Where have you landed for yourself personally, or where did you land as a CEO?
+
+Tony Fadell: So as a CEO, and even to this day, you need — for me, on a weekly basis, each week was make sure you’re doing the right thing for your physical and mental health, either in the mornings or afternoons, or wherever it is, five to six days a week, and that’s the first one. There’s eating healthy. So for me there was eating healthy, so I got rid of all kinds of bad foods. I got rid of alcohol. I got rid of all kinds of stuff. Then there was making sure you’re physically fit, making sure you’re mentally fit. Those are really important things to do, and you spend a lot of time doing those.
+
+During that time, I was able to come up with great ideas and solve problems when I was quieting my brain and getting out of it. It was just like all of a sudden things popped in my brain. It’s not that I was thinking about it. It was like all of a sudden, I don’t know what happened, but consolidation happened in my memory, in my brain. I went, “Ding. Oh, that’s what we’ve been thinking about,” or thought about it differently, a different perspective. So that was kind of on a weekly basis. I would also go for a long bike ride or yoga or whatever, and this was three or four hours on the weekends, really just taking my time, no devices, nothing around, just totally being absorbed in whatever activity I was doing, and that was really, really great.
+
+Now, let’s move out to more like a year kind of area from the week, and that, made sure going on vacation, getting out of the fray every day when you’re on vacation, really taking a vacation, and turning over the reins to people I trusted. So people who reported to me, they always look up and they go, “Oh, I’m sure…” They didn’t say this to me, but in the back they’re, “Oh, I could always be better. Why did Tony think of it this way, and why did he manage this this way?” I’m sure there’s all kinds of backstories that I didn’t hear about, but I’m sure they’re — everyone talks about their manager or leader or whatever.
+
+So I was like, “Okay. Well, I’m going to just hand over the keys to the candy store to one person on my team,” and it would be a different person each time, and I was like, “Okay. Now you get to sit in the chair. You get to see and be from my perspective, see from my perspective and try to manage and lead in that special way.” To me, it was kind of a humbling experience both for me, because they would take that one, and two, they would come back and ask all kinds of questions. So it was a great training ground so they could understand how it is to sit in that seat and help the team in the way that a leader can, by doing it themselves, and then all of a sudden, the tables turned, and there was more empathy both ways. You know what I mean?
+
+Tim Ferriss: Sure.
+
+Tony Fadell: To each other’s responsibilities.
+
+Tim Ferriss: So we’re going to talk quite a bit about empathy, I think, in a number of different capacities, for instance, a good story being an act of empathy, and I do consider you a master storyteller, so we’re going to come back to that, but I want to ask you a completely self-serving question first.
+
+Tony Fadell: Okay.
+
+Tim Ferriss: Okay. I suppose the podcast in general is pretty self-serving because I enjoy doing it, but talking about killing yourself for work, you have another chapter on breakpoints. I’d love to ask you a super specific question, and it’s related to burnout for employees who have many hats to wear, and I’ll give you a very specific example. So I have a very small team, and I’d just be curious to know how you might think through this or how you have seen it handled or handled it in the past, and I currently have two full-time employees. That’s it, and that’s for everything. That will probably expand in the near future, but I’m not quite clear how to properly expand it because I’ve got a lot of conflicting advice.
+
+So on the one hand, I have someone who handles, say, the podcast, and for lack of a better term, editorial. They’re like the general manager of these very specific roles that have very specific responsibilities, and there are a fair number of wins built into this for them, so they get a good amount of positive reinforcement. Then the other employee is executive assistant, chief of staff, probably in the future more of chief of staff role, and they’re handling so many different miscellaneous responsibilities that the potential for burnout seems to be quite high.
+
+Tony Fadell: Very high.
+
+Tim Ferriss: They also get, and I need to be better at doing this in person, of course, but they have fewer wins to chalk up that are obvious, that someone, say, on the editorial side, would have, or in any maybe product management role where there are launches and so on. How have you handled this in the past for yourself for someone who’s in an admin support broad role? Do you have any thoughts that you can share? You’ve had so many more reps than I have.
+
+Tony Fadell: Well, small teams are challenging. As you say, you have to wear a lot of different hats, and we have a small team at Future Shape as well. So we’ve been working that way for five, six years now, so we deal with the same things, similar things, at least, with a small team. I think it really boils to me to — well, one is, as you say, the wins. Let’s talk about the wins. Certain people have certain things that have big projects they produce or what have you, and they can feel that. For people who are more the day-to-day, number one is, typically, when they’re in those roles, they like those roles. That’s what they want to be, and that’s the first thing. So that’s what they naturally are accustomed, and that’s what they feel good in.
+
+The biggest one for me is just saying thank you a lot and acknowledging even the little stuff, acknowledging that, “Yes, you’re going through — I know there’s so many things, so many different hats you’re wearing,” what have you. “Can I help with prioritization? Is there something we can prioritize? Is there something we can remove from that list, at least temporarily to help you get through the day? Are there better tools we can get? Are there any other suggestions that you might have for us to upgrade our capabilities to allow you to have other superpowers so you can get more things done, or the things that are just unnecessary?” So first it’s thanking for even the smallest stuff, and the second thing is really talking about tools, processes, prioritization of managing, and at some point you have to add people. Right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: You don’t want to add too many people, but you want to add in the right amount, and as you start, you as the leader, start to understand the prioritizations and what’s falling off, either, one, they don’t really need to be done, or they really need to be done, and you have to start bundling that into a new role. Right?
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Tony Fadell: The other one is making sure that you’re taking regular breaks because podcasting, as we know, is really time-consuming. There’s a lot happening all the time, and just shutting down for two weeks every so often, and everybody shuts down. Right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: They all go away. I’ve always wanted to do this thing where email clients, the send of email and even the receive of email would actually go offline, so it would just be bundled and buffered in the server, and it would only turn on for certain hours. I thought that was going to be a next-generation kind of thing for companies to offer to their employees, which was really work time around the communications thing. So if you can find a time to take everybody away from the day-to-day, that is another way to really reward the team and make sure that they actually have the time off as well.
+
+Tim Ferriss: Yeah, definitely. If you don’t mind, I’d love to just spend a few more minutes on this because I get asked all the time by friends of mine, people, I’m sure, we know in common also, I’m not going to call them out, who ask me for help with this because I have done a lot of experiments, but when you have had more than one person in a, let’s just call support role, where they wear many hats, what type of division of labor have you found to work? This could be for 10 years ago, it could be today, but when people are really handling a lot of different tasks, and if a miscellaneous new task pops up, they tend to be the first person in line to handle that. What type of division of labor have you seen work or not work?
+
+Tony Fadell: It really boils down to the people, especially in the small teams. It all really — what your team likes. So there is either time or task sharing, or there’s time or task separation. 
+
+Tim Ferriss: Mm-hmm (affirmative).
+
+Tony Fadell: So there could be two in a box for handling all of your exec and all of these little things, and the two people really love working together, whoever they are, and they know how to self-manage between them. They look like one person, even though they’re two people, and they can manage around the clock, or depending on when people have personal time or what have you. So there’s that kind of task sharing / time sharing, and that can work really well, but those people have to get along, and they say they want to do that.
+
+Then there’s the other one, which is task separation, which is really — you know what it’s like. Okay. There’s your travel schedule or there’s your calendar, or there’s doing briefs for a podcast, or finances, or reports, or whatever those are, and then just getting people into each of those things, and then making sure that — to me, I always try to make sure I have proactive people on the team when it’s a small team so that they’re working together, and then I only insert when there’s either a prioritization thing or a little process of who does what, because I want them to self-manage.
+
+I’ve managed so many teams. I’d rather not manage people, to tell you the truth. I’d rather mentor and be there as an adviser, but if you need me to manage, I’m happy to do it, but typically, the best people to manage, if they’re proactive and they’re similar to our kind of character, they like to manage themselves, and they like to manage between each other. Then I tell them, “Well, what do you want to do? Just tell me what you want to do, and if that works for you, and I think it’ll work for me, then we go on and we try that, and then you modulate.” So there’s no real rules.
+
+It really boils down to the people, absolutely the people, and then when you get past — if you’re one leader on a small team, you get past 12, 13 people, that’s when the first breakpoint really starts to happen, like you recognized in the book. There’s those breakpoints at different team sizes. It becomes that where there’s even more specialization and more management. If you want to just be a leader that’s delegating to everyone and there’s a chief of staff, well, that’s a different story, but I like to keep it very flat, get everyone to learn how to work together, how to communicate together, read each other’s tea leave, if you know what I mean, and be proactive because we know how to work. So that’s my preference.
+
+Tim Ferriss: Thank you for spending some time on that.
+
+Tony Fadell: No problem.
+
+Tim Ferriss: This is current — 
+
+Tony Fadell: Hopefully, it helps.
+
+Tim Ferriss: It is. Yeah, it is helpful, and this is very current for me. You mentioned — 
+
+Tony Fadell: And write down job descriptions. write down roles and tasks, and be very, very specific on the things that they should be specific on, and other things that are like, these are the general pool of things that we work on, and then it’s a grab bag, and you can give them out to people, or they can just jump in and take them.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: But even though you might be small, write it down, because once you write it down, and you know this, it’s visible and you go, “Wait a second. That seems too long. That’s too many things they’re doing,” and then you can have a discussion. We don’t all ever want to add more people to the team because we think lean and mean is better, but at some point you’re killing each other because you’re trying to do too much. So either do less, or you got to add capabilities and hands to the situation.
+
+Tim Ferriss: Yeah. I think that’s the point in the decision tree where I am right now, I think if I could use the word intuitively the time sharing appeals to me, because it implies that you have redundancy, in so much as you have two people who can handle all of the respective buckets kind of under their job description. I worry a little bit that if it was task separated, that there would be vying for more interesting or less interesting. Or if there were some overflow, if someone were handling, say, finance and investments and kind of more technical stuff, that if they were asked to do personal, they might balk for instance, like on a very small team. So like you said — 
+
+Tony Fadell: We also move the tasks around. We also move the tasks around so not everyone’s doing the same thing each half year.
+
+Tim Ferriss: Oh, that’s a great idea.
+
+Tony Fadell: So you can move it around because you want everyone to learn each of the different things.
+
+Tim Ferriss: That’s a great point.
+
+Tony Fadell: And that keeps it interesting for everyone, as opposed to you get locked in the rut because I don’t know how much you want to grow your business, your platform, right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: And for us, I’ve been very clear I don’t want to add anymore. We already have too much to do, and to add more people it’s just going to be more things on my head, and everyone else’s head. We’re like, “No, we’re going to just stay small, because we can be.” We don’t have any business goals to grow beyond that.
+
+So the other thing is, not just your team, but understand what you need, what you want. What are your goals as the leader for what you’re trying to do? You can be everything if you want to be, but then that comes with all kinds of other resources you need to add in, and just be really cognizant. If your life and everything’s working, just because somebody else has got, “Oh, well, they have more followers,” or they have three houses and whatever. Like what is meaningful for you? And what’s meaningful for your team to really be doing? And is everyone financially taken care of? Start there. Don’t think about, “Oh, I want to conquer the world.” Maybe you do. But a lot of people don’t, and you’re very successful as you are. How much more? I don’t know. That’s for you to answer.
+
+Tim Ferriss: Yeah. I mostly just want to hike in the woods with my dog and barbecue.
+
+Tony Fadell: Well then maybe you’ve got to do just slightly less or add one person, or a half person.
+
+Tim Ferriss: I think you and I have a number of converging interests that we’re going to talk about a little bit later. Let me ask you with Future Shape, what does the headcount and org chart look like within Future Shape? Since you’ve had the opportunity to kind of design many different teams, what does Future Shape look like?
+
+Tony Fadell: Future Shape, depending on how you count is around nine people. When you factor in all of the accounting and all of the other pieces, about nine to 10 people. And they’re both on the west coast and also here in France. So we have it on both sides. But truthfully Future Shape is a set of individuals. I might be a leader in a way, but everyone on the team is a leader for the expertise they bring. And so it’s all proactive. We’re all friends. We all want to help each other. We’re here for a mission. And so we want to keep it flat, lean and mean, because the reason why, at least I am and a couple other people are, on the team is we don’t need to work in a corporation. We don’t to work in something much more highly structured.
+
+We are professional adults. We know how to work together. And we just want to do really great stuff within reason while having great lives. Obviously there’s peaks and valleys and all that stuff. Like now with the book, it’s very peaky right now, and so people are burning the midnight oil. Yeah. People are burning the midnight oil now, but typically it’s not like that. And we try to make sure it isn’t like that. Even though we have two different time zones, we’re very respectful on each other’s time zones, even when we’re traveling, these kinds of things. So the nice thing is because we have the teams on both sides, on the both sides of the Atlantic, there’s only windows of time when we can each be working together if you know what I mean.
+
+Tim Ferriss: Definitely.
+
+Tony Fadell: So it’s a great self-limiting function. I find these kinds of things, really interesting. The other self limiter is because we’re an investor, we’re limited by only our family funds. We don’t have LPs so we’re not always chasing the next billion dollar fund or $2 billion fund. So we also have an internal pressure there, which is we’re only going to be doing our capital. So we have to manage this portfolio. So we try to make sure we have constraints on our time, on our resources, such that it doesn’t allow us to grow too big. So it’s like the fish and aquarium. It grows to the size of the aquarium size, or the fish pool size. So I try to make sure we put those constraints on it, team size, how much we’re doing those kind of stuff, to make sure we don’t spill over. Right?
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: And if we do spill over, then we just say, “Okay, we’re going to do less.” You know, it’s hard. You always want to do more because you see lots of interesting things. You see a lot of incredible teams. But you can’t do it all, and you have to say no. I think we discussed that on our last podcast.
+
+Tim Ferriss: We did.
+
+Tony Fadell: Talking of saying no a lot. And so really what’s your mission? What are your goals? Personal, and also the team goals. And make sure it’s all aligned.
+
+Tim Ferriss: Could you mention, just describe in brief, the mission of Future Shape and then if you’re open to it, would you mind describing the set meetings that you have in terms of whether it’s one-on-ones or all-team meetings? Like what the cadence of set meetings looks like if they exist?
+
+Tony Fadell: Our heartbeat. That’s a chapter in the book, “Heartbeat.” So for our team, again, we are mentors. We call ourselves mentors with money.
+
+Tim Ferriss: Yeah.
+
+Tony Fadell: We’re not a VC who takes third party money and invests it on behalf and have to worry about returns for LPs or limited partners. We are not philanthropic, so we’re not just giving away money either. Sometimes it feels like that because we do have failures and stuff like that. We still have a portfolio that between 70 and 80 percent of the portfolio will be a failure or a push in terms of like the financial outcome, but the other 20 percent or 25 percent could be really dramatic. So that’s kind of the framing of where we’re at.
+
+But to talk about what we are really passionate about, our mission. Our mission is to deploy our network, our expertise into these companies doing really hard, disruptive, typically deep technology companies who could be disruptive to a given industry. And that is either in the environment. It’s either as society, societal issues, problems we want to solve, or health issues. So really, the planet, society, or health, individual health.
+
+So that’s what we’re focused on, and we get to work with some of the best entrepreneurs on the planet trying to help, help in a big way. We don’t invest in sales technology, or media technology, gaming. We don’t do that. Marketing or ad technology. We care about doing the things that most people, most investors, will shy away from. Things that are not in vogue. Things that are not like we hear about metaverse or whatever, that kind of stuff. No. We don’t play those trends. Typically, we’re pre-trend.
+
+So before the trend happens, we’re early. And like we’ve been doing the climate investing for a while now. And it was crickets. People are like, “You guys are crazy. What are you investing in this stuff?” We had 2008 with the green tech implosion. You know, “It’s never going to turn, why you spending all this time, Tony?” COVID hits. Then all of a sudden people start changing their priorities, whether that’s the investment people themselves or their limited partners, and family offices starting going, “Well, what are we having in climate change? What’s out there?” And now they’re starting to call me. They’re going, “Wait a second. You’ve been in this a while. What are you working on? What are the cool companies? What should we be investing in?”
+
+So typically we are ahead of the curve. It can be lonely at times, but now it’s finally hitting in many of our different aspects of what we invest in. And it’s like, okay, finally, it was right place, right time. But there are years when you’re sitting there navel gazing and going, “Is this going to go? Is this just a pipe dream?” We know that there are problems. When is the world going to wake up to them? Because we’re solving pains. We’re not just doing things frivolously and doing fun things. We think we’re doing very important things. And that’s what drives our team. That’s what drives us.
+
+Now, as far as how we work our day-to-day, we were virtual well before COVID. Okay? We are a virtual team. We’re even more virtual now, but before COVID we were virtual. Okay? We have one physical office now. We had two physical offices, but even then we were virtual. So when COVID hit, we all said, “What do we do?” We were like, “Well, what we’ve been doing for the last two years.” So that went really well. So we’re always on the messaging apps going back and forth, but we have regularly, either every week or every other week, all-team meeting. Okay?
+
+Just an all-team meeting. We go down, here’s our work list. Here’s what’s going on. You know, funny stories, just kind of keeping, that team esprit de corps alive and going. It’s very operational. All the fun stuff happens in our group chats where we’re sending each other posts about this or funny stories or what have you. And then we’re probably talking to each other almost every day one-on-one or one-on-two or something like that. Or we have conference calls with our portfolio companies who we’re mentoring, or CEOs, or what have you.
+
+So we get to pick and choose our schedules. That’s really unlike a lot of other companies and other businesses. We’re in a special space, so we try to make sure our lives and our mission are paramount in the work that we do.
+
+Tim Ferriss: This is going to be maybe a mundane, tactical question. But I know companies that use Slack. I know companies that use many different tools. Most recently, some have started using Telegram. What do you use for group chat out of curiosity?
+
+Tony Fadell: So interestingly enough, we go between WhatsApp and we go between, of all things, Skype.
+
+Tim Ferriss: No kidding. Why?
+
+Tony Fadell: Yes.
+
+Tim Ferriss: Okay. Tell me more.
+
+Tony Fadell: Well, we started on Skype years ago before all of this other stuff, and it works. It’s maybe not the most modern, but it works. We have had, more or less, less issues with that group chat than anything else. I don’t know why. Maybe we also have less noise in it because very few people use Skype. So it’s kind of like our own messaging client without all of our friends and family in it. Because if you’re on WhatsApp, I got friends, family, I got all kinds of crazy. Very few people use Skype. So it’s kind of our own messaging app that’s all our own thing. You know? It’s kind of like a Slack channel without being a channel.
+
+Tim Ferriss: Yeah. It’s pristine.
+
+Tony Fadell: We’re a pristine Slack.
+
+Tim Ferriss: Uncluttered. So let me ask you about something I know absolutely nothing about, but I would love to hear you expand or just explain what it is, if you’re able to take a minute. And that is programmable electrification. So I’ve read this is something that you have been interested in at least as recently as 2020. I don’t know if that has changed, but could you speak to what that is and some of the areas that you’re focused on, if you’re open to mentioning them, that are pre-trend?
+
+Tony Fadell: Sure. I think, programmable electrification, or truly the electrification of everything, which also includes the wireless of everything, if you go all the way from the place where you first start, where energy is produced or created and it goes through the transmission lines or wherever it is and then where it’s consumed. There’s all kinds of things. The same thing goes with wireless. There’s all kinds of things in the middle or at the ends that are consuming, generating inefficiencies and that stuff. So we look across these entire value chains in these systems and we look at fundamental things that need to change in those systems to be able to make them more efficient.
+
+So today, this isn’t electrical energy, but all energy in the world today that is created, 60 percent of that, 60, is lost in inefficiencies. It doesn’t even do work. So just imagine what our climate crisis would be if we just saved that energy. Okay? If we saved even half of that 60 percent, like 30 percent, we could still live the life we’re leading without all of the problems we have because we’re just throwing it away. We’re just being wasteful. You know when you’ve seen people. To me, waste is horrid. I abhor waste. I loathe waste. When I go to the trash can each day, I’m like, “Okay, this is organic. I know where that could go. But where is this thing going? Where is that thing going?” And it drives me nuts.
+
+And so when I see something like 60 percent of energy goes away just in losses, I’m like, “Where can we go target that?” So one thing in this is better motors, electric motors, and that’s from not just cars, but all the way to electric appliances. Everything that uses motors. Manufacturing. So many things use motors and we’re throwing away tons. Fans on your ceiling, tons and tons of energy there.
+
+So one company that we invest in is Turntide and we’ve been there well before they were named Turntide. We’ve been in six, seven, eight years now. They’re making a next generation motor. And that motor can be much more efficient, like 10 percent, 15 more percent efficient. But it uses fundamentally new software and hardware technology and gets rid of rare earth magnets, all the things that we keep talking about with supply chain. So it’s a very, very different motor, much higher efficiency, slightly higher cost in certain regards, but that’ll come down over time. But it’s such a dramatic reinvention of the motor that we had to be in it, because energy losses in motors is just very high and they’re used everywhere. So let’s go after that.
+
+Another company that we’re in is called Menlo Micro. Menlo, Micro’s all about the distribution of a electricity from place to place. Today, we have things that are called relays. You’ve probably heard of them. You’ve probably heard them. It’s like click, click, click, click, in thermostats and various appliances or whatever. Those have not been innovated since the 1880s, I think it was, right, or 1850s. Electromagnetic relays and silicon state relays, solid state relays, have really not been innovated. They’re the same thing, but they have all kinds of inefficiencies or reliability problems. There’s been no moment. The same as like when the vacuum tube became a transistor and all of a sudden all of these things changed in the world. So that vacuum tube to transistor moment is now about to happen in relays and it’s happening by Menlo Micro.
+
+And so it’s these little MEMS switches, they’re silicon switches and they switch very fast, very reliably, billions of times, and can replace all of these old technologies, 20 billion or more are sold a year today. And with this, we can get much better energy efficiency and getting it out of the transmission lines, out of the problems in the cars, in all the traffic signals in the world, in how you do your lighting in your houses, or dimming, or fans and all those kinds of things. So that’s another example of this kind of getting into the electricity system and trying to find those inefficiencies and get rid of that waste.
+
+And so to me, this is incredibly beneficial. It’s so much so that like Menlo has an incredibly long set of customers because these engineers have been working for years with this antiquated technology. Now of a sudden they said, “Finally, the Holy Grail,” and they’re diving in. To give one example, the country of India, eight percent of all their electricity today is used by ceiling fans in homes. eight percent of energy consumption.
+
+Tim Ferriss: Wow.
+
+Tony Fadell: Ceiling fans. Yes. If you put our one switch in, just in the wall switch, we can save 50 percent of that. So we can go down from eight percent of the country’s energy consumption down to four percent, just because their waste, it turns into heat. If this one little switch that’s not very expensive at all, you’re like, “Oh, my God, what other things can we do like that with all kinds of other countries who have these kinds of?” We all have the inefficiencies. It’s not just India. It’s the US. It’s Europe. It’s everywhere. What else can we do when we have these fundamentally new things that are not cool and of the moment like a metaverse or NFT or something.
+
+This is the stuff that matters. That’s why we get up every day and go to work and have a great time with this kind of mission. Finding these people. Doing these kinds of things that take six, seven, eight, 10 years to actually realize. But once they’re there, they’re transformative everywhere in the world.
+
+Tim Ferriss: So let’s return to storytelling. We’ve been listening to storytelling from start to finish, but I want to read a truncated two sentences from the book. And there’s more to, of course, this entire chapter. But, “The story doesn’t exist to sell your product. It’s there to help you define it.” And there’s more on that second sentence, but could you elaborate on this, please, because I think this is a really fascinating and deeply important point.
+
+So the story doesn’t exist to sell your product, right? So a lot of people make something then they’re like, “All right, what yarn do we spin? What do we pitch? How do we angle this properly so we can sell it.” But if we then reframe it’s there to help you define it, that is the product. What does that mean? And could you give an example?
+
+Tony Fadell: Okay, You hit it right on the nose here. So the story, what what I grew up learning, which you just mentioned, is that you create something you really think is meaningful. And then, at the end, you go, “We’re going to market it now. And we’re going to tell a story about it.” And hopefully that story resonates, and hopefully it relates to the product. You’re actually delivering what the product can deliver. Right? And you’re like, “Okay.” If you actually move that story to the front, while you’re concepting whatever it is, you’re trying to build, trying to create. When you actually create that story, as you know, you have to understand your audience, you have to understand why they’re tuning in, what their problems are, how you can solve them, and how you make it easy for them to listen in and learn. Right?
+
+And hopefully some tools so they can apply it in their day- to-day life after they get done. So that it’s kind of almost like a loyalty thing. They’re like, “Oh, he did all these great things for me. I want to listen more.” So it’s not just a one-time thing, but it’s a relationship that you’re building, even though it might have started out as a transaction. Right? So how do we tell that story? What are the pains you’re solving? Why does it matter? Why does it matter to the individual? Why does it matter maybe to their family? Why does it matter to their society? Or where they live? How is it going to help them both rationally and emotionally?
+
+In other words, is it about money savings? Is it about some time savings? What’s the rational part of the story? What’s the emotional part of the story? To say, “Oh, that is so cool. I want to get up, I want to get off my butt and actually make that transaction happen because I really believe in it.” I believe in the rational part. So you need to have this incredible balance of understanding your audience, understanding all of these variables and you need to write them down before you embark on the creative journey. It does help to guide you so you don’t get off track and you just start building things that resonate with you, but don’t resonate with anyone else.
+
+General Magic was a perfect example of that. General Magic, we were making all the things that we thought were cool because we knew those problems would exist sometime in the future. We were going to make all of this technology in service of what we think is the coolest thing. But we really didn’t have a great idea of who we were targeting, why we were targeting, was society ready for it? What were the both rational and emotional reasons for buying it? All those things. And that’s why General Magic failed, because the technology wasn’t even ready yet. But the market was so far from being ready, even if the technology was close.
+
+Tim Ferriss: Wow. So there seems to be a threading the needle here that you have accomplished quite a few times, not just in building, but also in investing where, and this is going to sound like a strange comparison, but I was reading a book called Of Wolves and Men by Barry Lopez, one of my favorite nonfiction books, kind of redefined the genre of nature writing and what it could be just in terms of complexity and nuance and beautiful prose. And he talks about, gave several example of wolfpacks that would set off in a very particular direction at high speed or with great intent and then intervene with a migrating caribou herd like four days later. So they weren’t sort of following the puck or weren’t following the action to where the puck would be in an obvious way two seconds hence. They were actually converging with the caribou in this case.
+
+I’m using it as a clumsy metaphor for sort of customer and customer demand, right? Because you were talking about the investments you’re making in the electrification of everything in the motors where it’s sort of a seven to 10 year time horizon. The problem is known. And I would love to know of another example, if you could give another example, of using the story to help you define the product. And I mean, one example that jumps to mind and you could use another one, that I also had never been exposed to was Steve Job’s presentation for the launch of the iPhone and how people, this is directly from your book, were saying, “Oh, my God, it’s so amazing. He has no notes.” And your point was, yeah, of course he has no notes because he has been honing that with every person he met, kind of like Jamie Foxx working on standup material for the last several years. Of course he has it dialed.
+
+Tony Fadell: Exactly.
+
+Tim Ferriss: So could you speak to that or any other examples that come to mind?
+
+Tony Fadell: Well, first let’s just talk about the example, which is this book. So we went through those same tools, who are the audience? What are we trying to solve? What’s the right form factor for them? How is doing micro chapters versus full chapters? How much is story? How much is advice? How much is just kind of giving more tools, right? It’s trying to find all those balances.
+
+So if you look at the tools that are in the book, we actually fill those out, and we gave the press release for the book for telling that brief story up front. Here’s what the book’s about. And we did the raw ones, not today, but the raw ones when we started to help us form the mindset, so we could help us make sure we stay on track. You know, we could write the book, read the press release, or read some of the tools, go back. And we could then obviously change the tools if necessary. But we would go back and forth and iterate to make sure we’re staying on track.
+
+Tim Ferriss: So just to interrupt for one second. Just for clarity with the people listening. So you wrote the press release for the book before setting kind of proverbial pen to paper to write the book, just to be?
+
+Tony Fadell: Correct. Absolutely.
+
+Tim Ferriss: Got it.
+
+Tony Fadell: Absolutely.
+
+Tim Ferriss: Uh-huh (affirmative). Got it.
+
+Tony Fadell: Now there might have been ideas on a outline, right? Like we had an outline in terms of a spreadsheet of here’s the different things I want to talk about, but it was more like, okay, what is this? What are these ideas going to form into? And that’s when the press release happened. And that was the same thing that we would share with the publishers, possible publishers, who were bidding on the book going, “This is what it would look like.” So we had to use that same thing to communicate to people who wanted to buy the book, right? Because they’re a customer too. Well, what is this thing you’re building? And we hadn’t even put, maybe a page, a page and a half of kind of some prose down. But it was literally that blank sheet of paper, but with a great idea that encapsulated in, I think it was a one page or one and a half page press release. And it’s part of the book. It’s actually in the book.
+
+Tim Ferriss: Yeah. Oh, I missed it. Okay. Can you give us a teaser? Is there anything that jumps to mind that really stood out to you, or just that comes to mind now from that press release? Does anything come to mind that was particularly important later kind of in the execution of the book?
+
+Tony Fadell: I think one of the things was mentor in a box. Right? Was really trying to make sure that we spent more time and advice. There are so many stories we could tell. Right? And there’s so many things that people want to hear more and more stories. But we wanted to make sure that there was takeaway, usable advice. And the reason being is so many people are so busy these days, that any great leader, entrepreneur, or even somebody in their career, if you want to read and get in-depth, they’re going to have to read 40 books on all these different topics, summarize them for themselves, and then kind of figure it out.
+
+Well, we want to be the exact opposite. That’s why we call it an encyclopedia. Go learn about all these different topics and here’s some suggestions of other books so you can go in further if you need them. So it was trying to be a mentor. Right? Not a storytelling biography, what have you. We had to trim a lot of stuff out because we wanted to be takeaway, quick takeaways, advice, real usable advice. And we wanted it to be easily digestible. So as you know, in the book, you could read it literally if you want, but it’s really dive into one chapter, dive into one micro chapter, another micro chapter to pull out what you wanted. The format is even as you know, there’s a summary at the beginning and then we tell the stories to see if — the summary is here. If that summary hooks you, then you’re going to probably want to hear the stories and the practical details behind them.
+
+And so all of that stuff came specifically out of that press release and the tools we used in the book to make sure we stayed on track, because we wanted to make sure it was accessible to any age, high school and above. Now let’s talk about, you wanted to know more about, I think you said about Steve? What was the specific question on Steve?
+
+Tim Ferriss: I just brought up Steve as a possible segue into an example, which you gave of the book of the story so to speak, that people thought was developing for the presentation having been worked on forever, right? It had actually been refined over such a long period of time.
+
+Tony Fadell: That’s where I got my whole learnings, to tell you the truth, about doing this stuff up front. Steve didn’t have the same, we’re writing the press release up front. But what he would do is in his mind, he would start nailing the top parameters of the story. What are the problems we’re trying to solve? Who are we talking to? How are we going to solve them? Why are we solving them?
+
+He would then use that message and talk to either us as the team or to his trusted people around him as friends or whatever, and give this pitch daily. Right? He would be refining it and refining it and refining it and so when it came time at the presentation, it was just natural and guess what? The product met those things, because maybe we had to make some changes to the product over time because of during the development because we couldn’t get the right technology or who knows what, it can’t get done in time, schedule issues.
+
+He would keep modifying that and making sure it’s a crystalline, little gem that made sure it solved the problems that we are trying to solve because a lot of times you get into schedule issues or whatever. Should we delay the project? Should we just throw this feature off board? Should we not do this? What have you.
+
+And that press release or his story were those guiding things to go, “No, this is so important because I talk about it all the time. We cannot lose this.” That means we’ll have to push it back maybe in the schedule to make sure we get this, as opposed to just throwing things out just to make a date and your story erodes and then it falls flat when it shows up.
+
+Tim Ferriss: Yeah, you lose the lodestar, right? If you’re getting that sympathetic resonance with your audience per se, because you’ve refined this thing so well, using that as the true north of sorts for all of these decisions, Let’s do a hard left here for a second and talk about assholes. You have a chapter on assholes and I think the opening line under the summary is, “Plenty of people think I’m an asshole.”
+
+Maybe a way to approach this is just to ask you what the right breed of asshole is. Not all assholes are created equal, so we don’t have to go through all of the variations, the different species that you expect we could. But why have plenty of people thought that you’re an asshole and how would you delineate acceptable versus unacceptable assholes?
+
+Tony Fadell: Okay. This was a chapter that was very hard to write. It took seven or eight full rewrites to get there and it was very cathartic. The reason being, is that in my heart of hearts, I know that who I am and I’ve had significant people tell me, I really try not to be an asshole. Okay?
+
+But there are certain things that are core to me, whether that’s ethics, morals, values, or certain product features that need to happen. And that they have to happen with a certain quality level, certain customer experience or certain technologies that need to exist and you push, and you push, and you push because you’re trying to deliver for the customer.
+
+There are these assholes and even people have called Steve that too, right? People have all said, “Oh, yeah.” The question is motivation. What is motivating that? When I mean behavior, I mean pushing people. I’m not saying offending people. I’m not saying degrading people. I’m not saying you’re worthless. That should never be allowed, period.
+
+No bullying, none of that should be allowed but challenging people, pushing them to be better, pushing themselves to be better, the team to be better, making the product better, that does not make an asshole, that makes somebody who cares. I care so much that it may come off as an asshole but it’s just that passion and that caring that matters it’s all in service of the customer and the team/company/mission.
+
+A lot of times when you see assholes it’s about them, their ego and their self-centeredness. Really you have to understand why assholes who might feel that way and the knee-jerk reaction, “Oh, he’s an asshole, he’s just always on my back.” He’s da, da, da da. Well, are they literally degrading you? Are they making you feel less? Are they pushing you down so they feel better? That is definitely an asshole.
+
+If they’re there to push the details to really make sure everybody’s doing their best without insulting them, without telling them whatever, just horrible behavior but making people asking why five times. “Why can’t we do this? Why can’t we do this? Why can’t we do this?”
+
+To me that is as we say, a passionate hurricane in the book. Somebody who people don’t always like to work with at the time, but usually years, weeks, months, years later they go, “My God, that was an amazing experience.” Yes it sucked and yes it was hard but I did the best work I possibly could and it was in service of our mission, that’s what matters.
+
+You have to really delineate the two. Even though there are characteristics that might be shared or ways that you react, the person who’s on the other side react to it be like, “Oh.” They’re defensive or they’re worried about their ego or they’re getting bruised, if it’s about the work and it’s about the mission, not about the person, then that’s really the delineation there.
+
+Tim Ferriss: For those people wondering where I pulled out the opening salvo in the office with HR at the beginning of our conversation, that was from that chapter. You also give practical advice on how to deal with political assholes with Machiavellian techniques.
+
+Tony Fadell: Sometimes they don’t always work, but you can try.
+
+Tim Ferriss: Sometimes it will — 
+
+Tony Fadell: You have to try because sometimes people are just having a bad day or sometimes they’re just scared and you’ve just got to build a relationship with them. But sometimes it isn’t the case and sometimes you just have to get away if no one can help you.
+
+Tim Ferriss: Yeah. Sometimes the answer is quitting. Last time we spoke, we spent quite a bit of time talking about plastics. Is this something that you have continued to focus on? I’m wondering if you’ve had any particular insights related to that, discoveries, or if you have maybe segued from that to other angles on the same or related problems?
+
+Tony Fadell: Well, plastic is still forefront of my mind. I continue to work on it. It is not going away. Until the plastic problem has been mainly solved I’m not going to stop, all right? But in the meantime, in the last three years or so, two-and-a-half years since we last spoke, there’s been a lot happening, which is a great way. I’ll give you some examples right here. I don’t know if you could see this, but if you know that logo, that’s a Chanel logo and that’s a cap from a — 
+
+Tim Ferriss: Okay, I see it.
+
+Tony Fadell: Yeah, it’s hard to see with the black background.
+
+Tim Ferriss: Yeah. For people who are on audio it looks almost like, if you’re old enough to know what the hell a film canister is.
+
+Tony Fadell: Yeah. It’s just a cap for a perfume bottle but it has this Chanel logo on it. Then this, that’s a plastic cup. It’s just a regular plastic cup. I have a whole box of all kinds of things. I won’t bring them out.
+
+This is a company in the Nordics that makes these are full, home-compostable plastics. They’re taking biomaterials and creating fully home-compostable plastics to the level of quality for someone like a Chanel or a luxury brand and you can go all the way to day-to-day kinds of things.
+
+If we ever lose it in the environment or whatever, it will actually get eaten by the microbes and in the soil and it will disappear. You can throw it in a compost pile. This stuff is real, it’s now in production and this wasn’t necessarily there just two or three years ago and it’s gotten better and better and better.
+
+Those are the kind of companies we’re looking at. That said, we’re also, I have a couple of companies that I’ve been working on a trash to treasure. What other things can we take as trash and turn them into treasure? traditional plastics, how can we turn those into treasure?
+
+I can’t talk about it right now, but we’re going to have a very exciting thing to talk about in nine months’ time probably in a big way but that’s been something that I’ve been working on. I’ve been looking at e-waste and how do we extract all the minerals and the elements out of gold and palladium and silver and all these things out of e-waste and other waste streams in general because why go dig up more of the Earth?
+
+Tim Ferriss: Waste meaning devices.
+
+Tony Fadell: Yeah. E-waste being, yeah, all of our phones, our computers, our TVs, what have you. All those elements have been already extracted from the Earth, let’s just reuse them. A lot of this stuff is about reuse and trying to take today’s trash and turning it into treasure.
+
+Plastic is a big one, but that’s not the only one that we’re looking at because we think it’s an underserved category, tip of the spear. Some people are looking at it. Now battery recyclers are getting into the act like Redwood Materials, those kinds of things. There’s going to be much more of this over time because it’s so much cheaper to extract from a waste stream than it is to extract from the planet and benefiting the environment.
+
+Tim Ferriss: You have a small team, I’m sure very capable, hyper-capable people. If you have a small team within the, say, scope of let’s just call it climate solutions or technologies that are both attractive in and of their own right for various reasons. But have some, let’s just call it, beneficial impact on the circumstances we find ourselves in, how do you apply constraints to that?
+
+You have positive constraints that you’ve applied elsewhere in the company in terms of total headcount and various other ways that you’ve applied constraints. How do you choose your targets and make sure that you have a focus? How do you eliminate things?
+
+Tony Fadell: Well, I think, well, first is it’s a wide funnel, so it really is based on do they have a cool mission? Are we curious about the technology? Is this something that’s important? Is this a really big market or a really big problem that is solving something for, let’s say the climate crisis?
+
+And it could be anything so it’s not just materials or just petrochemicals or carbon capture, we look across everything. Frankly, at the end of the day, the reason why we do this is because we love to learn and you’ve got to really understand the systems thinking as opposed to just one thing if you’re really going to solve the problems we have.
+
+We like to look broad, very broad, both from a technology perspective, value-chain perspective, as well as regional perspective or country based. We look at all this and that’s just how much, how many cycles we have to learn and how many people bring us interest ideas.
+
+That’s the top of the funnel but as we narrow it down there’s a few things. One is, can this be deployed en masse in the next 10 years and is it going to be disruptive? Is it going to be like we talked about, the switch from the vacuum to the transistor, but this electrical distribution MEM switch? It can be applied to so many things along the way and it’s so disruptive we’re like, “That needs to exist.”
+
+When it’s disruptive and not just evolutionary but it’s going to change the players on top. It’s going to change the products fundamentally. It’s going to bring a win, win, win for the environment as well as the customers and the end customers as well as the manufacturers, that’s when we see big gains like we’re talking about the motors as well.
+
+We want something with disruptive, wide impact because that’s what it’s going to take to help fix this planet. We can’t just have little. There’s no silver bullet for this. We’ve created so many different systems over the last 150 years. Most of them, almost all of them haven’t even been thought about in a circular fashion and how to get the trash or how to make it more efficient. It’s just like, “Oh, it works.” But it works for that business, not for the planet for us as a society.
+
+Those are the things that we really look to and that’s how we narrow that funnel. That’s the first thing is, does the technology, is it disruptive? Is it close to being marketable? Is it close to being a product?
+
+The third thing is, and this is one of the most important things that we’ve learned across all of our portfolios, is there a way that we can quickly scale? We have to reboot the planet. This is not just, oh, we’ve got to go do one industry in this one state or some in this country. We’re talking about when we say “plastic problem,” it’s around the world.
+
+When we talk about energy inefficiency, it’s around the world. If you have something, we want to see the disruptive technology. That it meets a lot of needs and can be out of the lab and into people’s lives within 10 years in a mass scale and do you have the technology for scale?
+
+In other words, a lot of times when we see, well, we don’t want to just hear about your one factory. What is your scale plan for making 100 of these factories so we can quickly deploy them around the world. Right? How can we get this stuff moved quickly to every corner of the planet because we all have these problems?
+
+I think those are the three fundamental things that helped us to narrow that funnel down. Then there’s obviously the financial terms and if we can help and all the other stuff, but the big, the broad strokes are really those three things.
+
+Tim Ferriss: All right. I’m going to dig a little deeper on this. I just want to mention briefly and I can never pronounce his last name. Maybe you can get it right but rather than butcher it, Chamath. Most people know who I’m talking about when I say Chamath.
+
+Tony Fadell: Sure. Chamath, yeah.
+
+Tim Ferriss: Has said, “The first trillionaire in the world is someone who’s going to fix climate change or greatly contribute to climate change.” I do think having just watched the sea change in the last few years, there’s really some tremendous opportunities for, just let’s just call it cold-blooded capitalists who want a great return on investment. There are many technologies and solutions being developed now, that if we’re talking about direct to consumer or the products that consumers use, that consumers will choose over alternatives, so I think it’s become really exciting on the playing field.
+
+You mentioned, now there are certain things that I would say seem obvious and get discussed a lot. Let’s just say adoption of solar, maybe subsidies from the government, such that we have less depend on fossil fuels and especially foreign energy. But I had never realized, as you described, that so much energy was lost just due to inefficiencies from point A to point Z. What are some of the uncrowded or underestimated targets let’s just say, or areas related to climate change that you think people should pay more attention to?
+
+Tony Fadell: There is what you can do personally and there’s what it can be done professionally. if we look at obviously there’s EVs and doing the right thing there and doing the recycling and composting and all the right stuff at home and not reused, don’t buy all new. There’s all those kinds of consumer-facing things that need to happen.
+
+But it’s really incumbent on the innovators, the companies, the individuals in the world to bring new solutions to consumers or change out the system without the customers even knowing to make things more efficient. Because customers don’t know that 60 percent of all the energy created in the world’s lost. What can they do about it, it just shows up. We have to go and reboot our infrastructure in some ways and so in many ways, in almost every way.
+
+And so there’s one for me that we’re now finally getting into, which is the hydrogen economy. If we think about all these different chemicals that we use today come out of petroleum. Okay? They come out from sucking something out of the ground and then refining it, what have you, plastics is one of that.
+
+We can move to a hydrogen-based economy to create all of those products. We can create them more quickly with no or little CO2, get the similar products out and they’re actually more profitable to be made for the companies themselves. There’s all of these things around hydrogen like let’s give you fertilizer. Okay. It doesn’t sound sexy but we need a lot of fertilizer in this world. Now there’s other ways of tackling that too but fertilizer’s a huge one.
+
+Concrete is another one. Steel, concrete. Steel, another one, right? Thermal, just creating thermals like high temperature steam and those kinds of things for different industrial processes. Today we burn coal, natural gas or whatever. We could do it with hydrogen or we can do with electricity, right?
+
+That whole area is unloved. People are starting to work on it. They’re starting to make inroads there, but we need a lot more work on those things. It’s not just electric cars. It’s not just the things that you hear about in the press every day.
+
+I think that we need to be really thinking about the hydrogen economy and to a certain extent the biomass economy. Because we can actually turn a lot of the things we use today like let’s say jet fuel, those can come from bio sources, trash sources, not edible sources, but really trash or waste and turn those into things that can stay carbon neutral.
+
+It’s not a perfect solution because we’re using things on the ground, on the planet, biomass. But it’s just sitting there and it’s going to turn into CO2 or methane and we could put it back in and use those things now and we have lots of technologies to do that.
+
+I think the hydrogen economy, the biomass economy. Not chopping down trees and lighting up smoke, that’s not what I’m talking about here. I’m saying transforming it into chemicals and raw materials so that they can be used. Not just burning wood, which we see a lot of people fudging that they say, “That’s clean energy.” It’s not.
+
+Tim Ferriss: Yeah. Let’s return to a term that you used earlier that I would love to hear you speak about just a little bit, carbon removal. I’ve become very interested in the last six to 12 months in different means of carbon removal. Not carbon credits, not offsets, but actual carbon removal. I’ve looked very closely at what Stripe has done, which I think is really innovative and inspiring.
+
+I would love to know if you have any general thoughts about carbon removal. If any particular approaches or companies you find particularly interesting? Any comments or thoughts at all on carbon removal.
+
+Tony Fadell: Okay. There’s carbon removal from the air. Okay. We see CLIMB Works and we see other people trying to put up these big factories, so to speak, to suck in air and take out CO2. That may or may not scale. I don’t know enough about that. I always like to go to where the source of the problem is, as opposed to fixing the problem to allow other people.
+
+That’s what they’re at. I don’t know if that’s going to be great. I hope it is. We need lots of solutions. There’s, again, not one silver bullet so I hope they’re very successful and their competition around that’s successful.
+
+But there’s another one which is taking the carbon that’s already locked into plants and turning that into something that stays locked into biomass. In other words, how do we take the oil that we pumped up or coal and how do we put it back in the ground and leave it the ground just like we’re just storing it again, not as gas or whatever.
+
+I look at biochar and I don’t know if you know about biochar, but biochar is a way to take various bio masses. You basically light them on fire, yes, but at a certain degree, certain temperatures, certain airflow and it locks all that carbon in. Once you put it on the ground, it stays there for thousands of years and then gets buried under the surface and that’s what turned into oil or coal over time, which was biochar.
+
+If we think about today, biochar’s been around for thousands of years, now we have to do it at scale. We can get energy out of it, but we can also lock that carbon in because again, if you have dead tree trunks or whatever else, sooner or later that carbon will be emitted maybe 50 years, 100 years, whatever, from the decaying mass. Well today we can just take biochar, lock it in in a very simple process, put it in the ground, get energy out and it’s like a win-win for all of us.
+
+Those are the kind of things when I see carbon sequestration, that’s really smart because people are like, “Let’s just plant more trees.” Yes. But once the trees fall down, we need to make sure that carbon stays out of the environment. How do we do that? Something like biochar and locking it and storing it.
+
+There’s a third one, which is carbon capture which is just hooking on carbon basically filters from smokestacks or whatever’s coming out, and then trying to recapture that and turning it into other products which can be done as well. I think those are the three different areas that I see as carbon capture.
+
+I think that all three are necessary and we should be seriously throwing those scrubbers on sooner rather than later. Especially on the CO2 generators, as we start to make the transition to much cleaner hydrogen-based manufacturing process or whatever that are not using the old CO2 emitting processes.
+
+Tim Ferriss: Are there any other or any companies, startups or larger — I mean, startups, I guess their startups these days are getting series A funding at billions and billions and billions of dollars, so it’s hard for me to even wrap my head around a lot of that. But are there any companies that stand out for you in those categories?
+
+I want to say that one, Charm Industrial would fall into the second category, I believe. I’ve quite impressed by them with the caveat that I’m just an amateur who’s still learning on the job. But any companies that you’d like to mention that you think are doing a good job?
+
+Tony Fadell: I think these are all small companies. Let’s be very clear, they’re trying to do the right thing. They want to do the right thing and now people are really starting to rally around them, investors are, the early money. And so there’s another one called Carbo Culture. They’re also doing the biochar so Carbo Culture is there and they’re doing it en masse and they have their first factory. But again, I want to see a factory for a factory. How are they going to make lots of these so they can deploy them everywhere?
+
+I’m seeing a lot of new technology. I don’t have any specific companies unfortunately right now that I can talk about in the smokestack scrubbing. There’s a lot of new technology in terms of membrane technology, other kinds of chemical treatment technology to extract that CO2 from those emissions and bring them right down and into some useful form. I don’t have anything right off hand. I should go do some look up and I’ll give you some things you can put in your comments or the description.
+
+Tim Ferriss: The show notes. Yeah. We’ll put some links in. I heard of one recently and I can’t speak to the company. I haven’t done any diligence on this at all but a great name. It’s called Remora Carbon, R-E-M-O-R-A but it’s a reference to this. I believe it would be categorized as a fish that hangs on the sides of sharks and eats the scraps as the sharks consume their own food and it’s carbon capture for semi-trucks.
+
+It’s scrubbing technology that is piggybacking, just like a remora in the ocean, on semi-trailer trucks. It’s super exciting. I mean, a lot of innovation happening right now. Like you said though, very much so on a small scale so how do you make a factory for a factory is a great way for — 
+
+Tony Fadell: Exactly. Remora, they’re doing it for trucks. I think those are something that can actually move to hydrogen or ammonia propulsion. They don’t necessarily have to use diesel, right, because those are longer haul stuff. Same thing with electric or trains, electric trains or hybrid trains.
+
+Yes, there are a lot of these things and some of them are stop gaps for the next five to ten years while we transition away from petro-based economy to a more electron-based economy. Yeah. All of these things are really interesting. We’re trying to go for the stuff that’s the ultimate solution, not necessarily these kinds of windows of time because to me it’s like a hybrid car. Sure, you can get an electric gas hybrid car, but really it’s two systems that are much more complicated, more things to break. Let’s try to get to the end goal as opposed to this interim goal. So I always try to look at something where it’s the destination, not the way-point along the way.
+
+Tim Ferriss: Yeah. As we move to electrons, I don’t know if you are open to taking a stab at this, but If you just look at electric vehicles, EV, you look at the raw materials, and I’m not technical enough to know what those raw materials are, but if you look at the incredibly good job that certain countries are doing, which you can certainly name, but in Africa, in South America at establishing — 
+
+Tony Fadell: China, Russia.
+
+Tim Ferriss: Exactly, really good relationships on the ground, they’re building infrastructure for cities and countries. And I don’t want to say in exchange, but often in tandem, developing incredibly good, incredibly dominant sourcing and distribution for a lot of raw materials. So what do you think that — what are some plausible ways that that develops?
+
+Tony Fadell: Well, I think we’re seeing the reality right now with the Ukraine war that’s going on, and we’re starting to understand that we need to have more independence in terms of our energy supplies, our raw material supplies. And we need to be working with people that have like values, like ethics, like morals, if we’re going to truly be a — we’d like it to be a global economy.
+
+I think we went down that road and we’re seeing people exploiting that to their own gain for too long, and now wanting to rise up more in a powerful position, whether they can or can, I’m not going to judge that. But I think that we need, we being each country needs to have their — and Europe is EU, I’m calling this — I know it’s many countries, but they each need to have their own strategic way of doing energy sourcing.
+
+Luckily, as we go to electrons, that’s going to be easier because it can be done inside the borders. But from a materials’ perspective, there’s going to have to be many more of the suppliers. And the reason being is we kind of let monopolies prevail in there, and we’d like, oh, those are dirty. Those are hard businesses. Actually, there’s a lot of interesting businesses that can be built with new technology that will actually help us to find and mine things or find these elements much more easily inside our national borders or our true friends national borders so we can get these strategic things set up.
+
+What we were witnessing in many regards, whether that’s in materials, minerals, manufacturing, it was outsourced to the lowest GDP country or the lowest GDP per capita country to get that lowest cost labor. And then those things would come back to us. We’re not going to see that anymore. We’re going to see technology derived extraction, these kinds of things, and it’s going to have to be nationally protected. And it’s just going to happen more and more now.
+
+So that’s one thing which is the supply. But if we also look at the technology, there’s things like non lithium based batteries that are coming, sulfur based, sodium based, iron based. So we’re actually able to then gear some of the technologies for certain things to the resources that we have, or the abundance of resources around the planet, where it’s not as strategic. Well, we hear about the rare earth, some are rare and some aren’t, but rare earths. And that’s just the reason why we invested in that motor company, Turntide, is because they’re not using any rare earths.
+
+So what does that look like when you have a different way of creating those motors and in different partnerships that you need to be able to do so? So I think we’re going to be spending more and more time on understanding. We need to invest in strategic capabilities. And we can’t just farm it out to the lowest cost in the world and use the logistics chain, and then we get trapped from the geopolitical side.
+
+And the war is horrible. It’s devastating, all those other things, but with high energy prices, guess what, it makes climate change a lot easier in terms of the rational argument for why we need to do it from a business perspective. Obviously there’s an emotional and rational to preserve our species on the planet, but some people don’t see it that way, especially some shareholders. But I think we’re starting to see that it’s not just doing the right thing. It’s not just about us as a society. It’s also the right thing geopolitically to start to really figure out how to be more self-sufficient and get away from these things. And luckily we do have technologies today that are already available to allow this kind of world to exist, even though we’d rather be all one thing. Unfortunately, not everyone sees it the same.
+
+Tim Ferriss: Yeah. It’s certainly when people get hit in the wallet as intensely as a lot of people have been with fuel costs — 
+
+Tony Fadell: And we’ll continue to be. We’ll continue to be.
+
+Tim Ferriss: It sort of highlights the vulnerabilities that we have if we don’t take a lot of these newer technologies seriously and newer options sourcing.
+
+Tony Fadell: Exactly. And frankly, if you look at our petrochemical world, it’s been subsidized for decades. It has been propped up. And if you look at when we look at inflation, I really look at it the opposite. De-inflation is stopping. We’ve been de-inflated. We’ve been moving everything offshore. We’ve been going the lowest common workforce, your lowest common monies for paying a workforce, getting rid of healthcare and all this other stuff. We’ve been just pushing the externalities on everyone else, what we’re doing to the climate. Now it’s all coming back to roost.
+
+And that de-inflation thing that was happening is no longer. And we’re paying back what we’ve been paying all those years. So when people go, “It’s being done to us.” No, we did that to ourselves to try to keep prices low for so long. And now all of a sudden we really press reset on the whole system, whether that’s workforce, materials, manufacturing, sourcing, now it’s coming back and we’re like, “Oh, inflation.” No, we’re finally paying the prices we should have paid, maybe not all spread evenly, we should have been paying with a steady increase over time.
+
+Tim Ferriss: So you seem like an optimistic guy to me. Would you consider yourself optimistic?
+
+Tony Fadell: Well, the alternative sucks.
+
+Tim Ferriss: Well, say more about that because I think I’ve seen various, and I can’t cite the sources here, but polls and surveys of especially younger people like 20 to 35, maybe even younger who have record levels of apathy and passivism. That’s a problem. That is a very, very significant problem.
+
+Tony Fadell: Huge problem.
+
+Tim Ferriss: Especially when you consider a lot of the entrepreneurs who are going to be in the full contact, kind of professional sports of business, do a lot of great work in that band. And whether that is — it doesn’t have to be in the for-profit sector, but just people getting big things done in the world for a lot of them fall in that band. How do you cultivate optimism? Or how would you sell optimism to people who are feeling apathetic when they’re just getting barraged all day long by what they consider to be fatalistic bad news?
+
+Tony Fadell: Well, first change your media diet. First change your media diet and start talking and listening to people who actually have some possible solutions for the problems. Now that you’re tuned into the problems that some of the problems we have, go learn about them, go see how you can be part of the solution. So either you can sit there and be apathetic and be part of the problem, or you can move and be part of solution.
+
+Apathy doesn’t sit in the middle between problem and solution. If you are in apathetic, you are part of the problem. You need to be working on the solutions and more than you look at the solutions. And I’m seeing things for five, seven, 10 years out, 15 years out, you can’t help but be optimistic because you see the stuff that’s coming down through from these research labs or from these brilliant entrepreneurs who have great ideas. And some will fail, of course, but a lot of them will succeed and you start going, “Oh, my God, there is a future.”
+
+We can do this if we want to embrace it. We saw it with COVID. We all got together in COVID just two years ago, like this week or last week. Oh, my God, we’re putting up temporary hospitals. What can we do about testing? What are we doing about new ways of communicating the data and getting the new stories out there. And of course there was misinformation, all the other stuff, but look at how the world rallied together and tried to figure this stuff out. Governments did.
+
+And you might even feel, at least I did here in Europe, a sense of leadership from the politicians and the governments of trying, even if you might not agree, trying to do something about it. When you see that we do have that capability as humans to help each other and help our own, as well as each other. When we know that there are climate crisis problems out there, and when you start to see the solutions, it’s hard to be pessimistic or apathetic about it. Because again, if you are, then you’re not helping to solve it. You’re not helping to be on that side. Be on the other side, helping to solve it and maybe you’ll see something. I’m a cautious optimist.
+
+I’m not just a — I used to be an optimistic optimist. I’m a cautious optimist. Or a pessimistic optimist. I make sure we pick things because there’s lots of things to pick from that can be real and help those become real. But I obviously ask all the questions. It’s just not, oh, yeah, that’s going to be great. No, we have to really dive in because there’s a lot of shady people out there selling things that don’t really exist. But when you start to get on the other side of the equation and start to look for solutions, then you can start to get optimistic.
+
+So change your media diet first and foremost, start learning, think about things you’re passionate about and dive in and learn because there’s so many resources out there. You wouldn’t believe how many things are out there and people are needed for those. And they’re usually really well paying too. And you’re going to do something that’s meaningful to you, to your family, maybe your kids or grandkids, and it’s going to help your society, and it’s going to help the planet.
+
+So that when you sit at a dinner table in 2050 with your grandkids or whoever it is and they go, oh, my God, we just got past this climate crisis issue. It’s always going to be lingering with us, but we got past it. And your kids or your generations, people around the table go, what did you do about it? How did you solve it personally or professional? How are you part of the solution? You can actually have really good answers because this is an existential thing.
+
+This is not about metaverse or the craziness around the NFT gambling. This is about true problems that we have. And to your earlier point, the first trillionaire will be someone who solves these massive problems on this planet that we have, because why? Because we’re not going to exist without them. And that’s the biggest pain ever.
+
+Think about this, when you get sick or I hope you never do. But when someone gets sick, what happens? They all of a sudden go, I’m going to change my life. They have a heart attack, who knows what it is. God forbid anything happening, but I’m going to change my life. I’m going to go and — and they wake up to it. Well, guess what? We have a sick planet. Our planet is incredibly sick and we caused it. Nobody else did. We cause it. Maybe its other generations, but you can’t just sit around and go, well, it’s sick. I don’t know what to do. It’s a family member. It’s so important. It’s a family member. What are you doing to be on the right side and trying to find solutions, both personally and professionally?
+
+Tim Ferriss: Are there any — 
+
+Tony Fadell: It’s a passion, man. I love this.
+
+Tim Ferriss: No, I know. This is why I wanted to bring it up. So people I think will come away from this conversation with lots of notes related to everything we’ve discussed. Are there other, in terms of changing media diet, any particular people, resources, could just be one or two, anything or anyone else you could recommend people take a look at to diversify, get some more sort of nutritious fiber in their information diet?
+
+Tony Fadell: Well, I think this is a great, great place to start, which gives a great overview. Speed & Scale. If you could see it, but that’s John Doerr’s latest compilation of all kinds of different people working on climate solutions. I think that’s a really great one. The subtitle is An Action Plan For Solving Our Climate Crisis Now. It’s not fully complete, but it gives a good sense of just reading about it. I’m sure there’s podcasts about it. I’m sure John’s done a lot of different ones. I think that’s a really good place to get started.
+
+There’s also things like My Climate Journey. It talks about people who are in the industry and trying to solve things. And it’s just looking at different blogs. There’s all kinds of different blogs that you can read with daily articles about various solutions that you can get into. And there’s also great podcasts too, video or YouTube videos that dive into a lot of this stuff.
+
+So it really depends on what — hopefully there’s something that you really get you really upset. Like, why is there so much pollution in the environment? Or why do we have trash on the streets? Or why is there food waste? Finding something that you really care about and either going in it personally or professionally and learning about it, and seeing how you can use your time and your passion or your disgust and turn it into something positive and help.
+
+Tim Ferriss: And for people listening, I’ll also include links to everything we’ve discussed in the show notes. So you’ll have a couple of places to start nibbling and exploring at Tune Up blog/podcast. Tony, you’re always inspiring to talk to. I always recharge myself full of piss and vinegar to go out and tackle something difficult. So I appreciate that about you. And I also appreciate that you are an uncommon blend of someone who’s deeply technical, but also deeply honed. I was going to say deeply talented, but that might imply something innate, which you may also have, but you have developed the skill of storytelling and communication. I think it’s a really formidable combination.
+
+Tony Fadell: Thank you.
+
+Tim Ferriss: I mean, I do think it’s incredibly compelling and it’s — 
+
+Tony Fadell: And it was all learned. Your audience can learn it. You can learn it. It’s just always thinking about the audience, thinking about the message. Why are you doing this? Why? Why? Not what. And it’s about the mission, not about your ego.
+
+Tim Ferriss: And the why, why, why, and the storytelling plus the technical side, and a lot of details are conveyed, I think, beautifully in the new book, Build: An Unorthodox Guide To Making Things Worth Making. And I am going to read a lot more of this book. I did a little taste tester over the last 24, 48 hours. And it’s very well, I just want to give you credit where credit is due, it’s very well formatted.
+
+I’m amazed how many well written books are poorly formatted in the sense that they are simply visually difficult to absorb. But the book is formatted in such a way that the pages are incredibly readable and the chapters are incredibly short. So the rat with a cocaine pellet dispenser, dopamine reinforcement used in the positive sense, I know it’s a bit of maybe an awkward example, but it’s very self-perpetuating as a reader experience. So I really encourage people to check it out.
+
+Tony Fadell: Well, I really appreciate it, because I spent a lot of time re-architecting the book and trying to get it into that thing. And that was a big risk. We took a risk through it out there and see, because I think it’s unlike other books. And like I said, it’s not — you can read it literally, but it’s really not for that. And we just want to help. At the end of the day, we just want to help.
+
+And to be truthful if you buy the book, there is all proceeds that come to me or any profits that come to me, they’re all going to a climate fund that I’m going to run that I’m matching with five times the money. So whatever comes out, I’m going to matching it five times and we’re going to personally manage and put that money to work in climate crisis solutions. And we’re going to continue to invest that, and then over time, we’ll then be donating all the profits of that as well to climate focused charities.
+
+So the whole thing here is just to give back to inspire people who are working on tough societal health or planet scale problems, help them learn through the failures we had and to also help the planet. So trying to take whatever comes out of it and reinvest it because the whole world, as we know its circular. Everything in the world is circular. And so I want to make sure this all goes back. And I hope your listeners, your watchers will find something, find a value in the book and go out and purchase it so that you can be also helping find the solutions to climate change, helping us find the solutions to climate change, at least.
+
+Tim Ferriss: So people check it out, Build: An Unorthodox Guide To Making Things Worth Making, Tony Fadell. You can find them on Twitter and Instagram, @TFadell, F-A-D-E-L-L. You can find Future Shape on Twitter @futureshapeLLC. And is there anything else you’d like to add Tony before we wrap up any comments, other requests to the audience, complaints, anything?
+
+Tony Fadell: So at the end of the day with the Ukraine-Russian war that’s going on, we have geopolitical tensions between China and the rest of the war and everything. I’ve been trying to really understand from a historical perspective what that means, and how technology can be brought to bear on those things. And so I’ve been reading books like The Hundred-Year Marathon, something like this just to learn to get from a different perspective, that’s by Michael Pillsbury. I’m also been really fascinated by The Changing World Order by Ray Dalio.
+
+And when you start to look at history repeating itself, it’s really insightful to help you try to understand the world better. And these books do a great job of illuminating those things. The other one that I hope is going to happen and Ray does a second edition of this book is going to really talk about the new technologies for government, for currency, for finance, all of these things that in his book, he’s talking about these arcs and that these — the World Order, which country was on top, whether it was the UK or whether it was the Dutch and then ultimately the US, these kinds of things, how those changing worlds happen. And they almost happen all the same way.
+
+I won’t give it away in the book, but you should read the book. But we now have technology for currencies, for financial systems, for governmental systems, for community action and bonding that may change these arcs. It’s so disruptive. They may change these arcs. And it doesn’t mean what is written in the book today will happen tomorrow in the future. Because now technology can change those fundamentals that have been more or less locked in for the past hundreds of generations. So it’ll be very interesting to see how these lessons or these historical lessons change as we change the technology. So I think those are two really great books that people should, if they want to understand a little bit while it’s going on and make sense of it, those are two really great books.
+
+Tim Ferriss: Thank you, Tony. I think, for a lot of folks, the starting point, whether it’s prior to building a company or educating themselves on some of these technological innovations and possible solutions is, as you said, changing your information intake. I think it’s so critical. And you’ve given a bunch of recommendations on the entrepreneurial side and also on the climate solution side. I just think garbage in, garbage out. So you got to fix the garbage in piece.
+
+Tony Fadell: Without a doubt.
+
+Tim Ferriss: Yeah. You just can’t give automatically any company that wants it broad access to your brain. It’s a very dangerous set of permissions to just automatically give away. So really thinking about information intake, I think you’ve given some really good guidelines. So thank you for that.
+
+Tony Fadell: Well, thank you. Thanks for the time. Hopefully our discussion on your small team management stuff, maybe that can help a little bit.
+
+Tim Ferriss: Oh, great. Oh, I took a ton of notes. I took a ton of notes. And it’s incredible how some of the most powerful insights can be just hiding in plain sight. I was thinking in my head of this kind of false, well, in a sense, like a false dichotomy of the time sharing versus task sharing. And in my head, I’m thinking, well, once you task split, those are set. Although, I didn’t even phrase it in my mind because it didn’t occur to me that you would have a rotation. I mean, it’s so simple, but I needed someone to tell me, God, it’s just like, how blind can you be sometimes? It’s incredible.
+
+Tim Ferriss: So I’m very excited for you. I know everybody’s burning the candle at both ends right now on your team for the book launch. I think the book really stands on its own two feet. A lot of people do a big push for a book launch and at the end of the day, the book has to stand on its own. And I think the book has a lot of really, really good tactical advice. 
+
+Tony Fadell: Thank you.
+
+Tim Ferriss: I appreciate you taking time once again to have a conversation with me. It’s nice to see you.
+
+Tony Fadell: Hey, I really appreciate it. 
+
+Tim Ferriss: Thanks Tony. And to everybody listening. Well, first of all, thank you for listening. And until next time be a little kinder than necessary, cultivate optimism. It is something you can cultivate. Start with picking your information sources more carefully. And I encourage you to check out the book, Build: An Unorthodox Guide To Making Things Worth Making by Tony Fadell. And once again until next time, thank you for tuning in.
+
+Tony Fadell: Thank you, Tim.
+
+
+TAGS
+TONY FADELL
+	

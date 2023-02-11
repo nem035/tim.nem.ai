@@ -1,0 +1,1461 @@
+
+
+MARCH 12, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Tim Ferriss and Matt Mullenweg in Antarctica: Exploring Personal Fears, Bucket Lists, Facing Grief, Crafting Life Missions, and Tim’s Best Penguin Impressions (#578)
+
+
+Please enjoy this transcript of my interview with Matt Mullenweg (@photomatt), a co-founder of the open-source publishing platform WordPress, which now powers more than one-third of all sites on the web. He is the founder and CEO of Automattic, the company behind WordPress.com, WooCommerce, Tumblr, WPVIP, Day One, and Pocket Casts. Additionally, Matt runs Audrey Capital, an investment and research company. He has been recognized for his leadership by Forbes, Bloomberg Businessweek, Inc., TechCrunch, Fortune, Fast Company, Wired, Vanity Fair, and the University Philosophical Society. 
+
+Matt is originally from Houston, Texas, where he attended the High School for the Performing and Visual Arts and studied jazz saxophone. In his spare time, Matt is an avid photographer. He currently splits his time between Houston and Jackson Hole.
+
+For my first interview with Matt, way back in 2015, go to tim.blog/matt.
+
+
+
+
+
+#578: Tim Ferriss and Matt Mullenweg in Antarctica: Exploring Personal Fears, Bucket Lists, Facing Grief, Crafting Life Missions, and Tim’s Best Penguin Impressions
+
+
+
+
+Tim Ferriss: This is a new acoustic environment for me. So Matt Mullenweg, we’ll get to you in just a minute, but we’re sitting here in a shell tent, which has surprisingly good acoustics, like sitting inside a spherical curtain, I guess, right? To deaden the noise or deaden the echoes. We are on top of ice.
+
+Matt Mullenweg: Miles of it.
+
+Tim Ferriss: Miles of ice. We have two layers in this shell tent and inside we have a little fold out table on which we have Bluetooth speaker. We have some caffeine, you have some water. How would you say this?
+
+Matt Mullenweg: Ah Glenmeringue.
+
+Tim Ferriss: Glenmeringue! Glen Morangie? Somebody’s going to correct us here. Help us out. 
+
+Matt Mullenweg: It’s a little embarrassing. 
+
+Tim Ferriss: G L E N M O R A N G I E Highland single malt scotch, whisky legends, the Cadboll. I’ll let somebody sort that out. And then we have a Nalgene bottle full of water, and then we have a Nalgene bottle that is colored. It is orange, and the reason that it is orange is it is currently full of 28 ounces of my urine.
+
+Matt Mullenweg: Oh, wow. Strong open, Tim.
+
+Tim Ferriss: Yeah. And.
+
+Matt Mullenweg: Does that need to be on the table?
+
+Tim Ferriss: This is a reminder that I need to dispose of it. So if you come to Antarctica, which is where we are right now, everything that is brought in needs to be carried out. That includes all human waste. Because if you pee in the snow here, it’ll be here for hundreds of years or thousands of years.
+
+And in such a case, if you have to pee when you’re outside or you’re in your tent and you’re freezing your ass off and don’t want to walk to one of the bathrooms, you need to pee into a bottle. So that’s why I have a differently colored bottle so I don’t mistakenly assume, as you might, because there are no bubbles here that this is my water, which I guess it is in some sense slightly used. So last time we did a podcast, I guess we were doing some back of the napkin is what, five or so years ago? Five years ago. And a lot has happened in the last five years. But before we get to that, cheers, sir.
+
+Matt Mullenweg: Cheers.
+
+Tim Ferriss: So fun to spend time with you, as always.
+
+Matt Mullenweg: And thanks for coming to Antarctica.
+
+Tim Ferriss: Well, thank you, you for the invite, I’m so excited to find and like come here for a million reasons, principal of which is just getting to spend more time together honestly.
+
+Matt Mullenweg: This is our fifth continent, so we got two more [crosstalk 00:02:34] and Australia, and then we’ll have hat trick —
+
+Tim Ferriss: We’ll have the hat trick of all seven and — 
+
+Matt Mullenweg: Yeah, we’re we’re day nine now in Antarctica.
+
+Tim Ferriss: Day nine.
+
+Matt Mullenweg: We’ve been off the internet for a while, which I’m a little shaky because —
+
+Tim Ferriss: Yeah!
+
+Matt Mullenweg: It’s like 98 percent of my brain.
+
+Tim Ferriss: Some withdrawal symptoms.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Wait, you have to know we’re going to get to the bow, don’t worry, folks. But so one of your coping mechanisms, like the methadone for the internet addict, was downloading — what did you download a lot of before you came here?
+
+Matt Mullenweg: Downloaded a good chunk of the Wikipedia.
+
+Tim Ferriss: The Wikipedia, like the Facebook. I like — 
+
+Matt Mullenweg: The Wikipedia. Yes.
+
+Tim Ferriss: I like that flair. 
+
+Matt Mullenweg: And, well, I remember last, I downloaded the Scrabble dictionary too. I remember last time I was Antarctica in 2014, it was really just looking stuff up that I missed the most. And I’ve used it a number of times here. And also might have the fullest copy of the Wikipedia of our group. So that’s like — 
+
+Tim Ferriss: It came in handy.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: I wanted to look up a few factoids about Suriname, and boom, there it was.
+
+Matt Mullenweg: There it was.
+
+Tim Ferriss: But then I found out that Ernesto Hoost, who is one of my favorite kickboxers of all time, was born in Suriname, later won K-1 a million times. People who know what that is will know and is long story to explain, but there were no accompanying photographs, of course. Yeah. I should say just given the bandwidth limitations. So here we are, day nine. I guess we’re ruminating on what day it might be and I had no idea because it is daylight all the time.
+
+Matt Mullenweg: 24 hours a day.
+
+Tim Ferriss: And it is so bright. I had experienced 24-hour twilight once above the Arctic Circle in Alaska, but this is totally different. This is like laying on your back in Santa Barbara with the sun beating down on you at 10:00 a.m. on a perfectly bluebird day. It’s so bright all the time. So everything blends together and you’re not really sure when you should be tired or shouldn’t be tired. You think it’s 1:00 p.m. and we came back from an excursion today and it was already 6:45, something like that. It’s really strange. It’s super strange to not have a circadian rhythm modulated by light change to synchronize to. Super weird.
+
+Matt Mullenweg: It feels very timeless when we’ve been here, and day of the week, everything has been lost. We also had a very special morning.
+
+Tim Ferriss: We did. So before we get to the morning, Matt Mullenweg, for people who don’t know, who are you?
+
+Matt Mullenweg: Friend of Tim, but probably better known for a co-founding open source software called WordPress, which is blogging CMS, content management system, has over 50,000 plugins and themes. And I’m the CEO of a company — it was a lot smaller last time we talked — called Automattic. There’s a Matt in there. That’s a little pun and we make wordpress.com, easiest place to get WordPress, WooCommerce, which is e-commerce built on top of WordPress, Tumblr, Jetpack, all sorts of — Day One, awesome journaling app, Simplenote, Pocket Casts for podcasting. So check out Pocket Casts.
+
+Tim Ferriss: Great app.
+
+Matt Mullenweg: Basically we try to make the open web, make the web more open.
+
+Tim Ferriss: What percentage of the web uses one of those products or WordPress itself at this point?
+
+Matt Mullenweg: [According to] the W3Techs, WordPress is now up to 42 percent. It was probably 10 last time we talked.
+
+Tim Ferriss: That’s incredible
+
+Matt Mullenweg: It’s coming up.
+
+Tim Ferriss: And what would you guess five years ago, roughly size of the company then and now?
+
+Matt Mullenweg: Then we were a couple hundred and now we’re a couple thousand. We’re coming up on 2,000 people, which has been really amazing.
+
+Tim Ferriss: Distributed before it was cool.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: That’s worth noting.
+
+Matt Mullenweg: That was a funny thing as well, as I even started at a podcast called Distributed, and I was like, okay. My goal for the 2020s, basically the next 10 years, was to get more remote work happening,
+
+Tim Ferriss: Blew up.
+
+Matt Mullenweg: It happened. Sorry about the virus, guys. So it just woke up one day and people who could, the numbers were incredible how many people switch to distributor work. But yeah, we’ve been distributed since the beginning. We’re about 2,000 people, 92 countries, majority of the company’s first language is not English, and we communicate primarily asynchronously through blogging.
+
+Tim Ferriss: Now when you say blogging, you’re referring to internal tools that resemble blogging?
+
+Matt Mullenweg: Yeah. We have this tool called P2, the letter P as in penguin and the number two, and it’s basically an internal blog and we have no email in the company. The only email I get is HR stuff and everything.
+
+Tim Ferriss: It’s usually not a good day.
+
+Matt Mullenweg: No I work a lot with HR and stuff, so that’ll happen privately but everything else instead of sending email, we’ll just blog to each other. And so everything has a permalink, everything is archived, everything is searchable and you can have rich embeds like Figma embeds, YouTube embeds.
+
+Tim Ferriss: What was that first embed?
+
+Matt Mullenweg: Figma?
+
+Tim Ferriss: I don’t know what that is.
+
+Matt Mullenweg: Figma is actually an awesome tool you should check out. Imagine a way to coordinate design online and in real time. So you and I could be working on the same wire frames or interaction design. And — 
+
+Tim Ferriss: It’s really good?
+
+Matt Mullenweg: Actually it’s the latest episode of the Distributed podcast. And I didn’t actually interview the founder, Dylan, but Connie Yang did — mutual friend of ours who’s a designer.
+
+Tim Ferriss: We owe Connie credit for another prop we have on the table we may or may not use, which are the Holstee — H O L S T E E — reflection cards. And there are a lot of decks of questions that I’ve seen out and about and I’ve tried quite a few my girlfriend loves these various decks and there’s the good, the bad, and the ugly. And I’d say mostly fairly mediocre. And this as a deck is quite good, so we might get to some questions here. So Connie, you were saying, interviewed the founder of Figma on the Distributed podcast.
+
+Matt Mullenweg: Yeah. Latest episode. It’s a cool tool. You might enjoy checking it out actually.
+
+Tim Ferriss: I will. Figma. I’m on it. And let’s see what else. This is such a lazy question, but it boggled my mind to think that it’s been five years since we last did one of these.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Because you said, what? The first episode we did was number 60 something.
+
+Matt Mullenweg: 61.
+
+Tim Ferriss: 61 in the Bay Area at my kitchen table or dining room table all the same in Glen Park back when you had your golden locks, I think that was when you still had your golden — 
+
+Matt Mullenweg: Had pretty long hair. I tried to change it up every year or two.
+
+Tim Ferriss: Every once in a while and at the time the nectar of choice was tequila. And that featured very heavily in more ways than one.
+
+Matt Mullenweg: Dragones Joven. Yeah, that was — 
+
+Tim Ferriss: That was a good evening. So this morning, if we switched from evening to morning, so we had a very interesting morning and it started, well, I didn’t really ever end, I guess. I mean, it was continuous. Most people didn’t sleep, but what happened this morning?
+
+Matt Mullenweg: So part of the reason we’re in Antarctica besides the penguins, which I know you talked a lot about with Sue — check out that episode with Sue Flood — is the total solar eclipse that happened here in Antarctica. And it’s only one in the country — in the continent — until 2039, I think.
+
+Tim Ferriss: That’s total solar eclipse.
+
+Matt Mullenweg: So you and I at the wee hours of the morning — 
+
+Tim Ferriss: Very wee, very wee.
+
+Matt Mullenweg: We got to see what was my first visible total solar eclipse — 
+
+Tim Ferriss: Mine, too.
+
+Matt Mullenweg: And it was incredible. And just the landscape in Antarctica is so dramatic.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: It’s a place that really makes you feel. It’s a very patient landscape and it makes you feel like your size in the cosmos.
+
+Tim Ferriss: Interesting that you’d use the word patient. Why do you use that adjective? I was anticipating you might say vast or majestic, vast even more so than majestic, but why patient?
+
+Matt Mullenweg: There’s something to me about Antarctica that feels really timeless and also just unconcerned with — 
+
+Tim Ferriss: Human welfare.
+
+Matt Mullenweg: Human welfare and timescales.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Things here happen over huge timescales and it’s so cool to see mountains buried by glaciers, essentially. They look like they have a blanket over them.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And that was over how many tens or hundreds of thousands of years? It’s pretty incredible.
+
+Tim Ferriss: It is. And we were chatting with a gentleman yesterday I don’t know if he would want to be named, so I won’t name him, but he had mentioned how deep an impact, I guess, his first full totality as it’s known first total solar eclipse had affected him and how he had always on some intellectual level understood our relative insignificance from a cosmic perspective. But the first time that he viscerally felt that, which actually was deeply therapeutic for him, was seeing a totality with his daughter in his arms. And somebody behind him caught this amazing photograph of his daughter, tiny little daughter pointing up at the totality as it’s happening. I mean, you couldn’t have scripted a better photograph, and then this morning it still feels like it was two days ago. Everything blurs and blends together which is — 
+
+Matt Mullenweg: We’ve lived lifetimes.
+
+Tim Ferriss: We’ve lived lifetimes.
+
+It was around what, 4:44, I want to say. And leading up to it — in the days leading up to it — I was looking forward to it, but I wasn’t jumping up and down with excitement. I just assumed, okay, it gets progressively darker, then it’s dark. And then it gets progressively lighter. I’m not that blown away by this phenomenon.
+
+Matt Mullenweg: “Cool story, bro!” 
+
+Tim Ferriss: Yeah, yeah! “Cool story, bro.” And had to be there and it turns out you really do have to be there. And when it actually started creeping up and you’re watching this happen and you’re observing the progression through these eclipse glasses, because otherwise you’ll blow your eyes out of course, especially if something’s magnified through equipment and when it actually fully overlapped and you’re able to take off your glasses and look at it directly, it was — 
+
+Matt Mullenweg: Stunning.
+
+Tim Ferriss: Stunning, and the effects on the horizon and on the visibility of stars, the things happening around it, the shadow bands as people refer to them as traveling across the ground.
+
+Matt Mullenweg: Did you see the wavy ones?
+
+Tim Ferriss: I did.
+
+Matt Mullenweg: That was so surreal.
+
+Tim Ferriss: Yeah. And just everything about it. Almost hark back for me to prehistoric humanoid times. It touched something very old, if that makes any sense. It felt like it touched something in species or racial memory going back thousands of years where you can imagine the impact that this would have on any sentient being who’s observing it and really paying attention and watching it. Difficult to put into words, that was the most common sentence, probably some variation of that I heard afterwards, people were giddy. People were euphoric, and the expression was, “You just can’t put it into words,” or “I can’t put it into words,” and I encourage people to look up the history of eclipses.
+
+Matt Mullenweg: There’s been some cool historical moments.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Where predicting eclipse or not predicting eclipse or I think two kings died after seeing them. And then that was part of the creation of Europe.
+
+Tim Ferriss: Yeah. King —
+
+Matt Mullenweg: [Louis] the Pious or something. 
+
+Tim Ferriss: King [Louis] the Pious, you were saying, and then Europe was split up into — 
+
+Matt Mullenweg: What became France, what became Italy, and what became Germany to his three sons.
+
+Tim Ferriss: Yeah. Eclipses seem to figure pretty strongly into the shaping of history and the shaping of national borders.
+
+Matt Mullenweg: What’s more reliable than the sun?
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And for that to be blotted out for a moment is awe-inspiring.
+
+Tim Ferriss: Yeah. I — 
+
+Matt Mullenweg: Let’s do it again?
+
+Tim Ferriss: Yeah. I don’t say this lightly. Once it happened though, I immediately turned to a few friends that were with and I said, “I get it. I see why people chase this.” Because we have people here in this camp, because you have these shell tents arranged in rows of sorts. And then they have snow piled around them to brace against the wind. And it does get really cold here. Surprise, surprise, it’s Antarctica. It’s also very dry and people get a lot of sun damage even more so than — 
+
+Matt Mullenweg: This is the driest desert in the world.
+
+Tim Ferriss: It is dry. It’s part of the reason you can dry the surface of your steak by putting it in a freezer on an elevated rack for a short period of time. It’s the driest place in your house is a good freezer.
+
+Matt Mullenweg: I know that.
+
+Tim Ferriss: So, and you just expand that gazillion times — 
+
+Matt Mullenweg: We’re in a really good freezer! 
+
+Tim Ferriss: — over eons. And here you are in Antarctica.
+
+Matt Mullenweg: It’s also interesting that where we are on Union Glacier, there’s no birds, no animals, no insects, literally nothing living except us.
+
+Tim Ferriss: Yeah. I was going to say disturbingly, but it’s not disturbingly. It is oddly quiet when you go to certain parts of the camp if you’re not within shouting distance or within a hearing distance to the mess hall or something like that.
+
+Matt Mullenweg: And especially after we spent seven days with the penguins.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Which have a constant din.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And it was really cute, they would walk into camp and just walk past your tent. The tents have no noise isolation — 
+
+Tim Ferriss: Or right up to the tent.
+
+Matt Mullenweg: Right up to the tent and go “BWAR!” Actually, you’re better at the noises.
+
+Tim Ferriss: *Penguin imitations galore.*
+
+Matt Mullenweg: That was pretty good.
+
+Tim Ferriss: Thank you. Although that is actually the pairing call that you hear more at the colony, but they would just go: *more penguin noises.* 
+
+Matt Mullenweg: Tim has been practicing this.
+
+Tim Ferriss: I have been practicing. Much to the chagrin of my traveling companions, I’ve been doing that like a hundred times a day.
+
+Matt Mullenweg: If you can cut in some of that field audio you took, it would be pretty cool.
+
+Tim Ferriss: Oh, we will.
+
+Matt Mullenweg: Oh.
+
+Tim Ferriss: There will be magic in the editing room. 
+
+[FIELD AUDIO PLAYS OF PENGUINS AND TIM NARRATING HIS EXPERIENCE.]
+
+Tim Ferriss: So Matt, where should we go next? What do you think? Should we pull out the deck? See what happens? Should we go somewhere else? Are there other things in the last five years, maybe we’ll roll into that. I mean, five years, it seems like so recently that we recorded our other episodes and it’s not that recent. If you live 80, let’s just say we live 80, 85 years. Five years is a meaningful percentage of that.
+
+Matt Mullenweg: It’s true.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Makes me think of that essay, the great one from Tim Urban.
+
+Tim Ferriss: “The Tail End.”
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Which you introduced me to, and I have shared with so many people put an edited or, I don’t think it was highly edited, but a slightly shortened version in, I think it was Tools of Titans, because that had such an impact on me. And that’s all thanks to Mr. Mullenweg.
+
+Matt Mullenweg: Yeah. That was one of the big things since our last episode was my father passing.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And you were a great friend through all that, so thank you. But that taught me a lot about grief and the ephemerality of life and everything. That was a big one. Yeah. Pretty much everything in my life has changed a lot in the past five years. I don’t even think we, we hadn’t even acquired WooCommerce when we last spoke. In this year, it’s going to do, what’s the number that we say, I think 21 billion of transactions. 
+
+Tim Ferriss: That’s a big number.
+
+Matt Mullenweg: We’re hoping to do for e-commerce what we did for websites, and I think there’s a chance. The web wants an open source thing out there for commerce. I think what’s been exciting for me is everything is always changing. I’m not good at staying still.
+
+Tim Ferriss: Everything is always changing, not in a macro world sense, although I guess that’s true. You’re saying for you personally.
+
+Matt Mullenweg: Yeah. You asked me the other day, do I have a weekly routine where Mondays are staff meetings, Tuesdays are design — 
+
+Tim Ferriss: If you have an infrastructure for your week, because people like Jack Dorsey have talked about this. I don’t know if he does it any longer, but I did ask you, and your answer was?
+
+Matt Mullenweg: Every day is different.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And that’s part of what keeps it super exciting for me because I feel like I’m always learning, I know nothing about podcasting software or journaling software or e-commerce software or anything, but I love making tools that people use. It’s very satisfying.
+
+Tim Ferriss: If you don’t mind, let’s just come back for a second to your dad’s passing.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: And I know that was an understandably, extremely tough period. And I don’t even know if it’s something you’ve ever fully metabolized. I don’t know if that’s something you even view in the past tense, it’s like something you went through or if it’s something that you continue to live with. But my question is if there are any resources, tools, books, or just simply advice that you would give to someone who is experiencing grief or has lost someone or maybe is on the cusp of losing someone.
+
+Matt Mullenweg: Yeah. The book that I found most helpful during that was co-authored by Elisabeth Kübler-Ross, who came up with the Kübler-Ross scale. I think that’s the five stages, denial, anger, acceptance of the five stages of grief. And the book was called Grief and Grieving.
+
+Tim Ferriss: Yeah. On Grief and Grieving.
+
+Matt Mullenweg: On Grief and Grieving. That one was really powerful.
+
+Tim Ferriss: It might be just Grief and Grieving. I shouldn’t be so definitive, but yeah. One of the two.
+
+Matt Mullenweg: Yeah. So that one was very helpful for me. But one of the things I learned was how personal the process is and how different it is. For example, for me and my sister grieved completely differently. And I’ve seen other friends go through this since then. And so I were to say, one thing I really learned is just that everyone has their own way of processing and it’ll happen at different times. And it’s very easy to get annoyed or mad or angry or disappointed at how someone else is grieving if it’s different from yours.
+
+Tim Ferriss: How did the book help you? What did it explain or help you to accept or clarify, or otherwise.
+
+Matt Mullenweg: I had heard of those five stages, but I thought they happen serially. Like you are in an order.
+
+Tim Ferriss: Well, that’s what I would assume.
+
+Matt Mullenweg: And it turns out you can have them out of order and multiple ones at the same time and in the same day, in the same hour. And so that was really helpful. Pre grieving was something I learned a lot from the book, this idea that if you have a sense that someone’s going to pass, it’s actually a whole grieving process that happens before then. And my father was in the hospital for about five weeks. That was one of the most intense periods of my life. And that pre-grieving I hadn’t really understood. Those are some big ones.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And it’s been helpful as well. I think, especially in American culture, we don’t talk about death.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: We don’t think about it and we like to pretend it doesn’t happen, but it’s the one thing that for certain is going to happen to every single one of us. And we’re all going to lose someone we love and we’ll pass some day and very much like the Stoics, I think that you can think about it or if you, the more you think about it, the better you are able to handle it yourself and help others when they’re going through it. I have an app for my phone that I think it’s, what is it Bhutanese, It’s called MyCroak — or WeCroak?
+
+Tim Ferriss: WeCroak? Yeah. I’ve used WeCroak.
+
+Matt Mullenweg: And five times a day, it just sends you a notification, it’s like, “Just a reminder: we’re all going to die.” 
+
+Tim Ferriss: Gives you a quote.
+
+Matt Mullenweg: And then it gives you a quote that you can open the app. And that one’s been — I’ve kept that going.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I think we might have talked about this before, but on my Chrome new tab, I calculated the average number of days I’m probably going to live. So every time I open a new tab, it has a countdown.
+
+Tim Ferriss: Now is that something you did manually, or is that something other people can do reasonably easily?
+
+Matt Mullenweg: Yeah. I use a tab thing called Momentum, which allows you to customize your new tab screen, and it can do countdowns. And I think the dates were something like 2060, 2000, January 11th. I picked my birthday and then it just counts down. And so that’s also really interesting and I find also a good interrupt to remind me when I’m starting a new tab, which is usually the beginning of distraction or something, so —
+
+Tim Ferriss: Totally.
+
+Matt Mullenweg: It just says Memento Mori and the countdown.
+
+Tim Ferriss: Do you find that you begin to tune that out? So I’ve used Momentum. I like it a lot. But do you end up at some point becoming immune to the reminder? Have you experienced that or not so much? Is there anything you do to prevent that?
+
+Matt Mullenweg: Totally. Yeah I’ve definitely developed like a selective blindness to it.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I was actually just thinking today, if I just used every app on my home screen regularly?
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: My life would probably be much better. I’ve got Calm and Fitbod and all these sorts of things. I put on there Smart Matts, Thoughtful Matts. I put that on the home screen of Twitter.
+
+Tim Ferriss: Smart Matt! Thinking of your future.
+
+Matt Mullenweg: Yeah. But I’ll still scroll the four screens over to get the Twitter, Instagram, or something.
+
+Tim Ferriss: Yeah. It’s hard to win that one, outgunned as we are. I actually deleted all apps from my phone, excuse me. That would not make any sense. That would make my phone very hard to use. Deleted all social apps from my phone about a year and a half ago. And haven’t installed — haven’t reinstalled any of them. And it’s been liberating in some ways and also frustrating in others to see how addictive these tools are and how I will find workarounds by using — 
+
+Matt Mullenweg: The browser.
+
+Tim Ferriss: Yeah. The browser. Right. And it provides a hurdle, right? So it’s like the candy isn’t within reach. I have to open a door and walk through to another room, metaphorically speaking, to get the candy, but still, I end up, as you’ve seen on this trip with the chocolate covered almonds.
+
+Matt Mullenweg: It’s amazing how much chocolate-covered almonds Tim has consumed.
+
+Tim Ferriss: So horrifying.
+
+Matt Mullenweg: A good reminder we’re all human. Even like 4-Hour Body Tim Ferriss.
+
+Tim Ferriss: Definitely even — especially 4-Hour Body Tim Ferriss. Uh-oh! Once he goes off the rails, it’s very off the rails. Oh, man. So anything else that you’d like to add within the context of the last five years?
+
+Matt Mullenweg: Yeah. One more thing on the parents is one thing I wish is that had more recordings of my dad, I just remembering his voice or, or even some video though, people more self-conscious about video. So I think it’s great if there’s people you love, do something like this, have a conversation with them. Yeah. Record it. I think it’s something you’ll both probably appreciate.
+
+Tim Ferriss: Well, you’ve been a big part of the impetus for me to set time aside and schedule time to do this with my parents. We had it scheduled and then there were some calendar and travel issues of course with COVID and everything else going on. But that is something that I’m planning on doing in the next few months and I’m looking forward to it. I think there at different points, I’ve had various reservations, but as I think more and more about kids. I think it dawns on me more and more clearly how valuable or how treasured that could be at some point to have that.
+
+Matt Mullenweg: Yeah. And just what our parents, our loved ones might remember about our life is so different from sometimes what we remember.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And could be really enlightening sometimes.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Because memory’s so fallible, right?
+
+Tim Ferriss: Yeah. Super fallible.
+
+Matt Mullenweg: So it’s interesting to see the different perspectives on it and triangulate how we turned out the way we did or things that might have been very influential on us.
+
+Tim Ferriss: Question for you, then: any recommendations for my conversations with my parents, are there any particular types of questions that you would ask or angles of inquiry or anything at all? No fly zones, anything that comes to mind.
+
+Matt Mullenweg: This is where being offline is going to get us. What’s the project it’s like on NPR, where they interview people, there’s an app for it, StoryCorps, Story and then C O R P S.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: And I think they even have an app with question. And part of what they do is try to get an oral history of Americans, people around the country, maybe around the world.
+
+Tim Ferriss: I don’t know anything about this.
+
+Matt Mullenweg: But people can record their own and they have a really great set of questions that walk people through — 
+
+Tim Ferriss: Amazing.
+
+Matt Mullenweg: — their life history. So I would StoryCorps. Those would be the experts and check it out. Maybe some things that a good framework.
+
+Tim Ferriss: Amazing. I will and for what it’s worth, since we’re talking about recording, we can just mention briefly what I have right here in front of us, which is the sophisticated grand podcasting studio of Tim Ferriss Enterprises, which is very simple, it turns out.
+
+There’ve only been a few minor changes since our recording five years ago. And the first recording being number 61 of the podcast. Now we have whatever it is, close to 600 episodes. So we’ve got the Zoom H6 recorder in front of me and then we have XLR cables, one going to a handheld mic for Matt, another going to a handheld mic in my hand. One of the upgrades that I made is one I do in-person recording, I have two different colored, the default is going to be black cabling, I get colored cables. So for video, this would be horrible on the eyes, but practically for recording it’s great because it makes it very easy for me to see which levels I need to adjust.
+
+Matt Mullenweg: Oh, cool.
+
+Tim Ferriss: That’s why the cables are different colors. So we have yellow and orange and then I have rechargeable batteries, which are Panasonic Rechargeable, BQ-CC55 is going to probably take you to the proper make and model. And then we have an iPhone with a Shure MV88 microphone that attaches to the iPhone through a Lightning port and captures really good audio. So we have that running as backup and then the handheld mics are also Shure. And I usually use SM58 mics. These are slightly better for voice. And if I could just see yours for a second, this is the KSM8 and they’re very nice. Work really, really well. And that’s it. And this all fits into, as Matt can tell you, there’s a small bag, but it all fits into a Banya hat. I have a Russian sauna hat that is perfect padding and insulation for the recorder itself. Then everything else fits easily into a backpack. You could probably fit most of it into a big jacket.
+
+Matt Mullenweg: And you can record anywhere. You’ve now recorded, too, in Antarctica, which is amazing.
+
+Tim Ferriss: It is kind of amazing. And so we’ve had 200+ degrees Fahrenheit with Rick Rubin, the incredible music producer, although he does a lot more, in his sauna, because that was a condition for doing it.
+
+Matt Mullenweg: That’s super hot.
+
+Tim Ferriss: It was so hot and hilariously so because we ended up having to take breaks and do ice baths and the mics got so hot. That was one thing we didn’t budget for. I was so worried about the recorder being damaged or going nonfunctional that I didn’t pay attention to the simple fact that when you have the mic at body height in the sauna, it’s going to get ripping hot.
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: So the equipment was fine on the floor, but the mics got so hot we had to wrap them in towels and do it that way. So we’ve done +200 degrees and with wind chill probably at — 
+
+Matt Mullenweg: I think you were saying it was -35 last night and this morning.
+
+Tim Ferriss: Yeah. -35, maybe even a little bit colder. -35, maybe a little bit colder at Gould Bay with Sue because we were outside.
+
+Matt Mullenweg: Oh, yeah, that’s right.
+
+Tim Ferriss: We have a bit of shelter here, but there, we had an open-sided tent with wind ripping through and a table made of ice instead of this nice foldout table.
+
+Matt Mullenweg: Why didn’t you close the door of the tent?
+
+Tim Ferriss: It was a lounge that had been created by the staff and one was up over the top.
+
+Matt Mullenweg: Gotcha.
+
+Tim Ferriss: And I suppose we could have closed it, but we were all wrapped up and reasonably cozy.
+
+Matt Mullenweg: I took a picture of you. I’ll have to share it.
+
+Tim Ferriss: That’s right. Yes, you have a good photo.
+
+Tim Ferriss: Would you mind opening the non-pee bottle so I can have some of the water? I’m pleased that they have the color coding and I’m going to open this deck.
+
+Matt Mullenweg: It’s come a long way from Casa Dragones. Cheers, by the way.
+
+Tim Ferriss: Yeah. Cheers. Let me do that with the booze. It is very nice. It is very nice. How much would you give me to drink a swig of that urine right now? What would you trade?
+
+Matt Mullenweg: I like you too much, Tim. I wouldn’t do that to you.
+
+Tim Ferriss: I don’t know how this came about, but I ended up, this is only for you, my fine listeners. No such thing as TMI. I remember at some point, I don’t know what it was.
+
+Matt Mullenweg: You can’t spell Tim without TMI.
+
+Tim Ferriss: That was good. That was good. So let me take a break from the pee bottle. I’m going to come back to drinking my own urine story.
+
+Matt is the master of what is known in Japanese as [foreign language 3:49]. Okay. So, [foreign language 3:55] is like pops. It’s like saying dad, but in a really informal way. And then [foreign language 4:03] is gag and as it turns out, cross culturally, dads love puns and wordplay. So if a shitty pun comes up and often did in my host family, when I was 15 in Japan, then the host brother would be [foreign language 4:21], and Matt is the master. So yeah, you can’t spell Tim without TMI. That is actually very, very good. That’s very, very good.
+
+I did take in that same apartment in San Francisco, I remember at one point, just deciding, you know what? I think I should sample my own urine. For what reason, I can’t recall. And I did. And you’ve seen how much water I consume. So it was actually totally fine. It was totally fine. It wasn’t oversaturated with B vitamins or anything. That will affect the taste, I suspect. Not that I’ve had many samplings, but I will say I don’t make a regular practice drinking my urine nor do I recommend it. This is not medical advice. It’s actually pretty stupid as a story to begin with — 
+
+Matt Mullenweg: But you did it so others don’t have to.
+
+Tim Ferriss: I did it so others don’t have to. Yeah. It wasn’t the most delicious thing I’ve ever had.
+
+All right. So let me offer you, you want me to choose a card or do you want to choose a card?
+
+Matt Mullenweg: Go for it.
+
+Tim Ferriss: All right. So let’s see. And you can always refuse.
+
+Matt Mullenweg: Hey, would you say your recordings in Antarctica have been in tents?
+
+Tim Ferriss: Intense? Is that another pun? Oh! In tents! Oh my God. That was so bad.
+
+Matt Mullenweg: Sorry. I apologize.
+
+Tim Ferriss: That was good. That was good. You can’t about a thousand. In tents. True fact, as my friend Kelly Starrett likes to say, “True fact. True fact, Tim Ferriss.”
+
+Here’s one. What is one fear you would like to conquer?
+
+Matt Mullenweg: Hmm. You’re going to answer the same one?
+
+Tim Ferriss: I can, or you could choose another one.
+
+Matt Mullenweg: Yeah. I think that’d be fun if we both answer it.
+
+Tim Ferriss: Yeah. Let’s do it.
+
+Matt Mullenweg: Because maybe we’ll inspire a different way of thinking about it in each other.
+
+Tim Ferriss: Great.
+
+Matt Mullenweg: You know, I have a hangup around body issues and exercise and stuff. And it kind of got bigger in the past six months and as I’m 37 now.
+
+Tim Ferriss: Old man. Old Man Mullenweg.
+
+Matt Mullenweg: And yeah, I think that’s a fear I’d like to conquer because it’s totally irrational.
+
+Tim Ferriss: What is the fear exactly?
+
+Matt Mullenweg: I don’t know how to articulate it, but there’s something where — I don’t know how to articulate it. Because it’s a fear. It’s not rational. It’s not something I put into words.
+
+Tim Ferriss: Well, there are a lot of fears that are rational. So just because it’s a fear doesn’t automatically make it irrational.
+
+Matt Mullenweg: I think this is probably an irrational one. Yeah, it’s something around — 
+
+Tim Ferriss: It’s like an insecurity. I’m not going to let you go. So is it an insecurity around appearance?
+
+Matt Mullenweg: I think it’s something — yeah, something about — I’m sorry. I don’t know how to go deeper.
+
+Tim Ferriss: This is where I should do some heavy lifting or help do some heavy lifting. What would be an example of a time when it shows up for you?
+
+Matt Mullenweg: The resistance I feel around sort of exercise. That’s been growing I would say. It shows up like a fear in that I can think of so many excuses why, including I’m going to injure myself again or I’m going to hurt my knee or my wrists are bad right now so I shouldn’t be doing this or things like that. But which really just add up to be a bunch of excuses.
+
+Tim Ferriss: What do you think that is protecting you from? If you did not have, because it seems like you’re a smart guy, so there’s probably some part of you not to go too far into IFS Dick Schwartz-type stuff. But your subconscious is trying to protect you from something, potentially. What is it protecting you from?
+
+Matt Mullenweg: What do you think it is?
+
+Tim Ferriss: I don’t know. I mean, it could be injury. It could be performing below your expectations, perhaps. If you exercise, that you’re not going to meet some standard you’ve set for yourself in your mind, I have no idea.
+
+So it sounds like it’s a hesitancy that you can’t fully explain, therefore it’s kind of falling into the category of fear for you.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: How about for you? What’s a fear you would like to overcome?
+
+Tim Ferriss: Man, how much time do we have? I think that’s a bit of an overstatement, but if we’re drinking our single malt and really going for it, I would say the fear that I am just hardwired and also just software coded through DNA to be depressed and unhappy. And that is a baseline I cannot escape. There is the gravitational pull to out-of-the-box settings is so strong that no matter what I do, no matter how many morning routines I tweak, no matter how much I exercise, no matter how much I program meticulously different areas of my life, the regression to the mean is always going to be to a place of depression, or this is a strong word, but self-loathing. Something that it is not quite self-loathing at a 10 out of 10 intensity, but like a discontent and disappointment with myself.
+
+Matt Mullenweg: That actually locked in something about mine, which is, I think a fear of being bigger.
+
+Tim Ferriss: Bigger?
+
+Matt Mullenweg: Yeah. My family is bigger.
+
+Tim Ferriss: Bigger, meaning obese?
+
+Matt Mullenweg: Yeah. I have some prebuilt settings with a proclivity towards that.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Do you believe that? Can you overcome that?
+
+Tim Ferriss: Depends on the day, depends on whether I’ve had a good stretch or a bad stretch or an average stretch. I mean, even if it is deluding myself, I want to believe that it is something I can overcome because I don’t see how the alternative plays out is terrifying to me.
+
+If I truly, truly believe that 100 percent of the time, the consequences of that are staggeringly scary. So I don’t want to believe that, but if I were a scientist just looking at the data set, I’d be, Yeah. If we’re rating days like -2, -1, 0, +1, +2, somewhat like Jim Collins does. If people want more on that, you can just listen to the first conversation I had with him. But I would say I probably average out -1. Just on an emotional tone, the gestalt of the day being sort of positive energy. [crosstalk 00:42:04]
+
+Matt Mullenweg: Have you tracked it?
+
+Tim Ferriss: Not in that way.
+
+Matt Mullenweg: That’d be interesting to do.
+
+Tim Ferriss: Not in that way.
+
+Matt Mullenweg: Some data around it.
+
+Tim Ferriss: I should do it also because I do think, and my girlfriend has certainly pointed this out and I recognize that it is true, that I have a negative selection bias. I think a lot of humans have negative selection bias because you get rewarded by overreacting to threats.
+
+Matt Mullenweg: What’s a stat you feel a dollar you lose seven times more than a dollar you gain or keep? They’ve done studies around this.
+
+Tim Ferriss: Yeah. How hard would you work to make $100 versus how hard would you work to avoid having $100 stolen or taken from you?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: That is probably the macro. That is one of my macro fears. Tied to that would be a fear — I don’t know if people can hear that, because there are no birds, there’s no insects. The footsteps on the snow are deafeningly loud. The foot traffic is so loud, which makes it even harder to sleep around here. But where was I going? Where was I?
+
+Matt Mullenweg: A macro fear that’s related.
+
+Tim Ferriss: Yeah. That is related is that I will never have enough energy and I think some of that ties back to undiagnosed Lyme when I was a kid, which has been verified because I then later had confirmed Lyme. And I grew up on Long Island where it’s very, very, very common. And when I was properly diagnosed after very severe symptoms the second time, which was, I don’t know, 2012 or ’13 or ’14, when they did the ELISA blot test and other testing, they gave me my results. And the first thing they said was, “Well, you realize you’ve had Lyme disease before, right?”
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: Because I was showing I guess the long-term antibodies, like the serologic testing. I might not be getting the details right, but suffice to say, I’d already had Lyme, but it had gone undiagnosed, which meant it was untreated for a long, long time. So I don’t know how much to attribute to that versus a family history of depression versus other things, but I’ve always struggled with energy levels. It was the currency in which I am poorest. And it doesn’t matter how much time you have, tension or otherwise. If you don’t have just the battery to execute, you are S-O-L, shit out of luck.
+
+Matt Mullenweg: Do you think people who listen to your podcast would guess that about you?
+
+Tim Ferriss: I don’t think so because they’re getting one percent of my time. Not one percent, but I don’t spend all of my time recording conversations.
+
+Matt Mullenweg: Yeah. Yeah.
+
+Tim Ferriss: Right? So they get to hear me when I’m having fun usually. I enjoy the podcast. It is very deeply nourishing to me. And when it starts to feel anything other than that, I change something. I decrease the frequency. I could do it three times, four times, five times a week, but it would start to feel like a burden or a chore and I don’t want that to be the case. So I don’t think most people would guess that.
+
+Matt Mullenweg: You know, you did share with me, I don’t know if you’re willing to share here or want to share here, that you got a lot of comfort from a revelation.
+
+Tim Ferriss: Oh, was this the existential piece?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Yeah. I’m willing to share. This is a weird one. So, I guess this kind of ties into another fear, which is, I don’t know if it’s a fear. I mean, it’s a belief, the consequences of which are really unpleasant. Although I’ve started to look at it in a slightly different way. And I’ll back into it by saying I think meaninglessness can be terrifying, but in a way it can also be liberating because it frees you to kind of do whatever you choose to pursue.
+
+Over the last year, and you and I, we’ve been talking about this on this trip, we agree on a lot of things. The one very non-trivial thing that I think we have differing opinions on is just inherent human nature. I have a, I don’t want to call it dystopian, but I tend to think we are closer to chimps than not, one percent — 
+
+Matt Mullenweg: More Hobbesian.
+
+Tim Ferriss: Exactly. Yeah.
+
+Matt Mullenweg: Nasty, brutish, short.
+
+Tim Ferriss: Nasty, brutish, short. Hobbesian is the right way to put it.
+
+Matt Mullenweg: And I’m a little more Pinker-esque, Better Angels of Our Nature.
+
+Tim Ferriss: Yeah, exactly. So as such, I have been involved in a bunch of things over the last handful of years, including psychedelic therapeutics, especially on the non non-profit research side. I haven’t done any for-profit investments myself and you’ve been a huge supporter of that world as well. So thanks for that.
+
+Matt Mullenweg: Thank you.
+
+Tim Ferriss: That’s a big deal. And then also different conservation work in the Amazon, in North America and so on and have just run into what I view as this kind of — I know one could argue against, but almost for me, an irrefutable truth, just based on overwhelming evidence that I’ve faced over and over again that humans cannot resist pissing in the pool. They can’t help themselves. They’re so competitive and driven by incentives which, of course, all animals are. And it has been, for me, I’ll make it active.
+
+I have depressed myself and upset myself, so I’ll make it transitive here so that I have some agency. To repeatedly run into what I view as unavoidable, self-destructive tendencies. Which on smaller scales aren’t necessarily self-destructive, but at larger scales with billions and billions of people become just untenable. And so I was, “What’s the point?” I found it very difficult to get up and muster any kind of enthusiasm or motivation to knock out these email about various bullshit items that might be very interesting, but I’m, “Okay, I’m going to invest in some whatever the fuck app that does something that really isn’t making a dent. And what’s the point of all this?” Because ultimately we’re all just careening towards this incineration that I don’t see is particularly avoidable.
+
+And then I was reading this book, which does punch The 4-Hour Workweek in the balls a little bit, which I found kind of funny, honestly. So, it does make a reference to The 4-Hour Workweek and not in a terribly kind way, which is fine because what do you expect if you title a book The 4-Hour Workweek? And the book also has a “four” in the title, but it’s called Four Thousand Weeks and that refers to the average lifespan of humans. And there’s actually a lot of great exploration in this book, looking at the frailty and the fallacies of time management and productivity and the to-do list obsession and optimization of different types.
+
+One of the chapters, I think is called something like “Cosmic Insignificance Therapy,” which I think this morning was a great example of. Where you actually find it liberating to realize how much it doesn’t matter. So you end up finding it kind of inspiring and freeing instead of debilitating and crushing, which I find hard to do because I tilt towards the dark. I tilt towards the darkness.
+
+And so the realization was even if people are just Hell-bent on self destruction and we head that way, at the end of the day, our sun is going to red giant, white dwarf klaplooie, and then the Earth is gone anyway. All life on Earth is gone at that point or certainly as far as I know all life on Earth. So even if we kill our own species and all sorts of other species off on this planet, the life per se of Earth is finite regardless. And actually that brings some peace to me.
+
+Matt Mullenweg: Sunshine Tim.
+
+Tim Ferriss: Yeah. I mean, God, this sounds so depressing, but this is kind of a lot of the shit that I think about in part, because I know this is supposed to be me asking you questions. We’re going to get to another question, but I don’t know if you’ve experienced this because you didn’t grow up rich. I didn’t grow up rich. And at least for me, in my group of friends and their families growing up lower middle class, it was like if only we had money, our problems would be solved. Here are these problems. If we just had money, it doesn’t grow on trees. And that rich person, wouldn’t that be nice? Everything is smooth as gravy over there. I am sure.
+
+And then you pursue, you pursue, you pursue and you can kind of push your issues to the side in pursuit of becoming “successful” because the assumption underlying it is “When I have X or Y or Z, whatever that amount is, then I’ll be happy.”
+
+And then you run through one of those finish lines and you’re, “Well, wait a fucking second. This is a false bill of lading. That didn’t work at all.” Which, by the way, when some people ask, what would you change or emphasize if you wrote The 4-Hour Workweek again?” It’s the “Filling the Void” chapter, which is the chapter that people kind of skip over because it’s not this hyper practical, tactical nuts and bolts chapter, but it’s really important. So yeah, that’s my very, very, very long blank rambling answer to the existential realization, which is, “Oh yeah! This planet’s got a finite lifespan anyway as far as organic life goes.”
+
+Matt Mullenweg: That’s something I always find interesting is sometimes relief from what seems like existential problems can come from the most unusual places. And so I was surprised that this came for you. That was a comforting thought.
+
+But I do believe in the cosmic insignificance. It’s very humbling to think our time span, even all of human recorded history, is just a speck of dust of the universe’s time span.
+
+One thing I really appreciate about you, Tim, is that you engage with work and thinkers that some people might assume are the opposite of you or advocate for different things, but it’s all part of your growth and your journey and firming up things. So I like that you went and read this book and how cool that it provided this relief for you.
+
+Tim Ferriss: Yeah. Thanks, man. Yeah. It’s a solid book. It’s a solid book and the way that I parsed it online was I put it on, I guess, Twitter. And I said, “For people who have read this such and such book, Four Thousand Weeks, how much would you recommend it to a friend from one to 10, no seven allowed?” which is something I learned from a person named Kyle Maynard, because it forces people to pick a barely passing or pretty strong recommendation at eight. And the vast majority of answers, and there could be a selection bias, obviously.
+
+Matt Mullenweg: People who have read the book in the first place.
+
+Tim Ferriss: Yeah, exactly. But came back at eight, nine, 10, the vast majority. Which was certainly enough to convince me to get it on Kindle and read a few chapters. And I ended up liking it a lot. Just because I can’t resist just a little jab, the author does use a lot of $10 words where a 10-cent word would work. So I think I’m pretty well-educated, but I still had to look some words up.
+
+Matt Mullenweg: It’s okay. He apparently punched The 4-Hour Workweek.
+
+Tim Ferriss: He did.
+
+Matt Mullenweg: So you punched back a little bit.
+
+Tim Ferriss: He did punch The 4-Hour Workweek in the nuts, but that’s okay, get in line.
+
+Matt Mullenweg: So how many years has it been since 4-Hour Workweek?
+
+Tim Ferriss: It was published in April of 2007, so 14.
+
+Matt Mullenweg: 14. It’s a teenager.
+
+Tim Ferriss: It’s a teenager.
+
+Matt Mullenweg: It’s going to college. It’s starting high school. It’s going to college in a few years.
+
+Tim Ferriss: Yeah. Yeah. It’s incredible.
+
+Matt Mullenweg: Let’s try another card.
+
+Tim Ferriss: Let’s try another card. All right.
+
+Matt Mullenweg: So you want me to read this one first?
+
+Tim Ferriss: God, no, that’s a fears one. Here, I’ll let you choose. And let me just grab a few cards off the top. And again, for people interested, I don’t even know if these are made anymore because I recall them being sold out or discontinued at some point. Holstee, H-O-L-S-T-E-E Reflection cards. I got these on Amazon.
+
+Matt Mullenweg: All right, let’s see.
+
+Tim Ferriss: All right. Dealer’s choice.
+
+Matt Mullenweg: Dealer’s choice. And what’s the light and dark side mean? Is one a tougher question?
+
+Tim Ferriss: Yes. The darker half of the card is intended to be a more difficult question. It’s not always the case, but that’s what it’s intended to be.
+
+Matt Mullenweg: If a crystal ball could tell you the truth about your life, the world, or anything else, what would you want to know?
+
+Tim Ferriss: I think you should answer that first because I just finished a TED talk.
+
+Matt Mullenweg: What would I want to know? I’d want to know what is before life and after life.
+
+Tim Ferriss: I had the same answer.
+
+Matt Mullenweg: Really?
+
+Tim Ferriss: Yeah. I had the same answer.
+
+Matt Mullenweg: Yeah. It’s one of those things I think it’s very difficult to truly know.
+
+Tim Ferriss: Very difficult, yeah.
+
+Matt Mullenweg: It’s something humanity has grappled with in a million different ways for probably as long as we’ve been conscious and yeah, curious about that.
+
+Tim Ferriss: I need more, Matt. You’ve got to do more than just whisper to me about generalities.
+
+Matt Mullenweg: Wait. More about what’s interesting about the afterlife or the prelife?
+
+Tim Ferriss: Yeah. Either both and. I would say this is obviously a big one, but if you had to speculate, what do you think happens afterwards? I mean, if you want to go with pre-birth, we could do that. That’s definitely an unusual way to approach it, but — 
+
+Matt Mullenweg: Well, it’s why I thought of that is because I’ve done meditations before where they say feel what it was like before you were born. That’s what it’ll be like after you’re done. So meditations on death. And so yeah, in theory, there’s something before if there’s something after, right?
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I’m going to plug two books here.
+
+Tim Ferriss: Plug away.
+
+Matt Mullenweg: Annaka Harris’ Conscious. Four theories of consciousness.
+
+Tim Ferriss: After our conversations on this trip, that’s absolutely on my to-read list.
+
+Matt Mullenweg: A great book and I think it kind of gets to this question of prelife and afterlife as well because where does the consciousness come from? When does it start? Where does it go? How is it suspended when we’re under — 
+
+Tim Ferriss: Suspended? What does that — 
+
+Matt Mullenweg: Under anesthesia. Yeah. It’s so interesting. What turns it on and off and what does it even really mean? And this book is a fantastic kind of, and brief, so very densely packed or very valuable, I would say, not longer than it needs to be book.
+
+And then David Eagleman, who — 
+
+Tim Ferriss: Is this Sum?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: So good! Have we talked about that?
+
+Matt Mullenweg: Was it?
+
+Tim Ferriss: Or maybe you recommended it to me.
+
+Matt Mullenweg: It might have been. I think I did one of your “Books I Recommend” thing.
+
+Tim Ferriss: Ah, yes. “Books I’ve Loved.” Yeah.
+
+Matt Mullenweg: And forty tales of afterlives and each one starts basically at the moment of death and then it’s kind of something that happens afterwards and they’re hilarious and it’s a great bedtime read.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: So I like to read — 
+
+Tim Ferriss: Short chapters, two to five pages.
+
+Matt Mullenweg: Yeah. And it’s nice to break it up nightly. And some of them I’ve even read aloud to friends. When you’re at Burning Man, I did that as a gift. I would read one of these short stories to people.
+
+Some of my favorites are “The Scent of Species.” It was really great. And the opening one of Sum is actually pretty fun.
+
+Tim Ferriss: Can you give a teaser? So I think it’d be helpful to give people an example since each of these short chapters is a hypothetical manifestation of the afterlife. So what might one be?
+
+Matt Mullenweg: So the opener, Sum, and I’ll tell a little without giving away the amazing ending, but you relive life, but serially. So all the things that you did at different points broken up in your life, you do all at the same time. So you shower for 80 hours, you sleep for 30 years. You cut your nails for — you’re trying to remember a word for two days. You’re standing in line for 14 days. And so it kind of goes through this almost laundry list of it, beautiful ending.
+
+Tim Ferriss: It is a great book. That is an exceptional book. So after plugging these two books, what do you think? What happens? Or doesn’t happen? Unplug computer, lights out, that’s it?
+
+Matt Mullenweg: I’m looking forward to finding out someday. Not too soon, but you said you had the same answer.
+
+Matt Mullenweg: Wait, which answer? The crystal ball?
+
+Tim Ferriss: Oh, the crystal ball. Well, I just think it would help. I do think, and maybe I’d be open to a counterargument, but I do think it would just help you decide how to spend your time better in this particular iteration if it’s the one and only. Thank you, getting a little boost from a flask. Classy, we’re classy. And I it would answer so many questions.
+
+Matt Mullenweg: I think the interesting thing was would humans truly be different?
+
+Tim Ferriss: What do you mean by that?
+
+Matt Mullenweg: How would they act differently if we had a definitive answer? A lot of people think they do have a definitive answer. It’s kind of the basis of many religions and things. So it’s not unusual. And a lot of people, you could say that — how would Anthony de Mello put it? They’re not truly living. They need to wake up. They need to pay attention, even though they might think there’s this happening in the afterlife.
+
+Tim Ferriss: Well, if you knew for sure though — let’s just say it’s hellfire and brimstone, that’s one thing, sins and the whole nine yards.
+
+Matt Mullenweg: Purgatory.
+
+Tim Ferriss: The Judeo-Christian model. But then if you had, say, karma and you’re reincarnated as a hamster or a porpoise or a demigod, depending on your behavior, then that would certainly, well you would think, would affect some choices. If you knew what happened afterwards definitively, it would also affect how you viewed things. This is going to get dark, folks. Sorry. But things like suicide. So the Stoics didn’t have a particularly negative view of suicide. But then once you get into the Judeo-Christian lens, it is most certainly negative. And that is one of many different things that would be clarified if you knew. If you were just simply zeroing out a character, like Ready Player One, that’s one thing.
+
+Matt Mullenweg: Insert coin.
+
+Tim Ferriss: Right.
+
+Matt Mullenweg: But would that make people less responsible with the lives they have right now?
+
+Tim Ferriss: Define responsible.
+
+Matt Mullenweg: Reckless, careless, because they thought they could just insert another coin and play again.
+
+Tim Ferriss: Well, if they knew they could, then it wouldn’t be reckless.
+
+Matt Mullenweg: I think that’s an interesting area of thought. And it also reminds me of something, I think, which I hope expands a lot in the coming years is — what’s the word for ethical assisted euthanasia? People, end of life with waiting periods, and all these sorts of things. I know Hawaii is a place where you can do it, and in a few different countries. Going back to seeing people pass away the past five years, I understand why some people might choose to do that if they had a terminal illness or something.
+
+Tim Ferriss: Interesting. We had the same answer and not altogether completely unsurprising. Oh, boy. That’s a good one.
+
+Matt Mullenweg: Can I tell you what I’d like it to be?
+
+Tim Ferriss: What you would like your answer to be?
+
+Matt Mullenweg: Yeah. 
+
+Tim Ferriss: Yes.
+
+Matt Mullenweg: The afterlife —
+
+Tim Ferriss: Oh, what you would like the afterlife to be?
+
+Matt Mullenweg: I think it’d be kind of cool if our brains are antennas to some deeper consciousness and we reconnected with it, sort of went back to that non-dual nature of enlightenment.
+
+Tim Ferriss: You mean a drop of the ocean returning to the ocean type situation?
+
+Matt Mullenweg: Yeah. I find that comforting.
+
+Tim Ferriss: Yeah, I do too. All right. Here’s one. We got one for you. If you knew that in one year you would die suddenly, would you change anything about the way you are living now? Why? Let me change — I’m going to modify that question. If you knew that in one year you would die suddenly, what would you change about the way you’re living now? Why?
+
+Matt Mullenweg: Which is nicely related to our previous conversation.
+
+Tim Ferriss: It is.
+
+Matt Mullenweg: What I would change, well, what I did change after that “Tail End” essay was spending more time with loved ones. If I knew I had one year, gosh, I’ve got so much left to do. What’s funny is — 
+
+Tim Ferriss: Let’s assume it’s perfect health for a year and then just lights out.
+
+Matt Mullenweg: Yeah. I think I would — this is kind of a funny answer. I wouldn’t have thought of this before, but I’d write more.
+
+Tim Ferriss: You’d write more? I did not see that coming. Tell me more.
+
+Matt Mullenweg: It brings up for me what’s the legacy? How do I pass on the things I care about? Democratizing publishing in the web to the generations that are going to carry the torch. And how much of what motivates me towards that lifelong mission around open source is — I don’t know if I’ve written about particularly well or articulated well that in a way that might inspire others. WordPress is open source, has tens of thousands of contributors. So there are a good number of people involved, but I feel for open source to truly win, we need millions of contributors. We need most of the world working on it, because the alternative is proprietary, bad-for-humanity things. So I think I’d write and really try to write something that, or write as much as possible things to bring more people contributing to open source.
+
+Tim Ferriss: Tell me more. What else, if anything else?
+
+Matt Mullenweg: I think that’s really, because that’s my life mission. It really is. And so if my life was ending, I think how do I get that mission, keep that mission going?
+
+Tim Ferriss: I’m so envious of you. That is so clear. I don’t think most people could sit here. I can’t and say, “X is my life mission.” That’s pretty fucking amazing.
+
+Matt Mullenweg: Thank you.
+
+Tim Ferriss: Well, I mean it is. It just seems so —
+
+Matt Mullenweg: I feel very lucky —
+
+Tim Ferriss: — liberating to have that defined. I want to say constraint, but not in a bad way. You’ve defined the target in the bullseye in such a way that makes, I would think, it makes decision making — your decision fatigue must be less, if that’s clear.
+
+Matt Mullenweg: It does really help. It really helps clarify things. You know that in the Memento Mori, I do feel I have — 
+
+Tim Ferriss: Memento Mori being meditating on death and the finite nature.
+
+Matt Mullenweg: I call it 14,000 days, give or take a couple hundred, left to try to move this mission forward as much as possible.
+
+Tim Ferriss: That’s to death, that’s not necessarily firing on all cylinders.
+
+Matt Mullenweg: Yeah. I feel I’m going to keep working until I croak. It also — sometimes it’s really hard and there’s days and weeks and months where the job, WordPress, Automattic, everything could be very, very challenging and it also helps keep it going. But I would say that it probably, I think you do have that actually.
+
+Tim Ferriss: Me? Oh please. Pray, tell, please fill me in.
+
+Matt Mullenweg: Well, how do you spend your time?
+
+Tim Ferriss: God, this is going to be — 
+
+Matt Mullenweg: Doing things like this. And why do you do it? Why do you share it? Why don’t you keep all this amazing information for yourself?
+
+Tim Ferriss: Because it’s too — I think it’s too — it sounds so self-aggrandizing. I think it’s humanizing and valuable. It’s too humanizing and valuable to keep private if it’s so easy to make public. It’s nourishing to me, number one, and I know how much conversations like this — if you and I were sitting here with no mics, bullshitting and drinking single malt scotch whisky, we’d be having a similar conversation anyway. You know what I mean?
+
+Matt Mullenweg: We’ve had lots of these.
+
+Tim Ferriss: We’ve had lots of these. And the reason I started the podcast, because I’d be having these conversations with friends, they would end and I’d be like, “God, what a waste.” That conversation was so helpful to me. I have to imagine it would be helpful to other people.
+
+Matt Mullenweg: I think that drive to share, to learn and share, which I’ve seen in the entire 10 plus years I’ve known you, it is a life mission. I can’t imagine you ever stopping that.
+
+Tim Ferriss: Yeah. I can’t either.
+
+Matt Mullenweg: You’re going to be in an old person’s home and be like, “I figured out this new way to move the wheelchair. Look what I can do.” This is just something that — so I think you do have that and I think you should play with that to maybe find what words resonate for you and describing that around that learning and sharing. Because I do think — do you think you’ll do this the rest of your life, some form of this? Maybe not a podcast, but — 
+
+Tim Ferriss: Yeah, some form of this. When people ask me, “How long do you think you’ll do the podcast?” I can’t — it’s the first thing I’ve done this consistently over an extended period of time and I can’t think of a compelling reason for why I would stop which is another reason why, even though I’ve had a bunch of conversations, I haven’t seriously considered — you’ll obviously support this, I think, doing anything that would put me in a walled garden because it just it’s so kind of antithetical if I were to sacrifice a large part of my reach or distribution, it just doesn’t make sense to have shackles on in any form or fashion. It would suck the soul out of what I’m doing. Which is not to say there couldn’t be interesting collaborations with large platforms or companies, but to make any sacrifice on the creative side or the editorial freedom side or anything like that, just wouldn’t make any side.
+
+Matt Mullenweg: And you would do it even if you made no money?
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: You would pay to do it. You do pay to do it.
+
+Tim Ferriss: I do pay to do it.
+
+Matt Mullenweg: So this is something around that I think would be interesting fear to find out because I can’t imagine never growing, stopping learning, and then not sharing it to whoever will listen.
+
+Tim Ferriss: That’s true.
+
+Matt Mullenweg: So you do that. I’ll democratize publishing in the web and commerce and I think that’ll be fun.
+
+Tim Ferriss: Yeah. One year. One year is real short. It’s a short period of time. You think about the last year, interminably long and also unbelievably short at the same time. And I think for me, I don’t know if she’d be game for this, but probably having kids with my girlfriend, just to at least — God, it’s depressing to think about, but also incredible to think about, just being near for the birth, for a few months and then adios, amigo, off I go. But to have that experience, I think that would be core to the next to the remaining year. I remember, I don’t know if he’d want his name mentioned, but a very famous scientist and I were chatting at one point and he mentioned having a kid pretty late in life and his brother — the first thing his brother said to him was, “Congratulations, and welcome to the human race.” He was like, “You’re just…” And we chatted about that quite a bit, but it just seems on some level, I’m not saying it’s required, but fundamental to a lot of obviously human existence and our programming pointed towards procreation.
+
+Matt Mullenweg: It’s incredible how strong that drive is.
+
+Tim Ferriss: And you talk to people who they have the most incredibly sophisticated rationalizations and at the end of the day, you’re just doing what you’re programmed to do. And maybe there’s a beauty in that, maybe there’s a real beauty in just fulfilling that. You’re a cutter ant, you carry leaves around, and you build shit in your gigantic ant colony and that’s just what you do. And I have to imagine it feels good to them to do or that least it would feel bad for them not to do that.
+
+Matt Mullenweg: And it’s interesting you bring that up because that’s something that changed for me in the past five years actually.
+
+Tim Ferriss: Okay. Wow. If we’re willing to go there, let’s go there.
+
+Matt Mullenweg: After my father passed, I really decided I went down the path of, okay, have a kid. And I think part of that was just thinking, “I wish he had known a grandchild or something.” And part of that process was later deciding that’s not going to be how I leave an impact on the world. And so I decided to not have kids. Made that a very explicit communication and everything like that because WordPress and this other work I’m doing, I want to be the thing that I leave. And I don’t feel there’s anything particularly good about my genetics that needs to be passed on or that I would be a world-unique parent. But I do think I’m one of the people in the world that does have a chance to shape the future of the web. And so I just want to focus all of my energy into that.
+
+Tim Ferriss: Where would you put, if you were a betting man, which of course you are, we’re all betting people. We’re all placing bets. Everything’s probability, except for death and taxes, I guess. Maybe a few other things. Where would you put the likelihood that that changes?
+
+Matt Mullenweg: I think you had an answer in mind when you asked me that.
+
+Tim Ferriss: This is not a leading question. I’m just curious.
+
+Matt Mullenweg: And as a guy, we do have some more optionality around these things. Never say never, but that is my working software and firmware right now.
+
+Tim Ferriss: Okay. So let’s say — 
+
+Matt Mullenweg: I’ll say 20 percent chance. 20 percent chance.
+
+Tim Ferriss: 20 percent chance.
+
+Matt Mullenweg: Maybe less. Maybe less than — I’d say eight percent chance.
+
+Tim Ferriss: Eight. Oh, wow. That’s very precise. I like that, eight percent. So next five years, child being born, eight percent. I fucking love that, eight percent. That’s going to be the headline of this podcast episode. You want to try another one? Do you want to — 
+
+Matt Mullenweg: Yeah. Let’s see.
+
+Tim Ferriss: Give it a go.
+
+Matt Mullenweg: Wow. This is actually a question you ask all the time, which is kind of funny. We won’t do that one.
+
+Tim Ferriss: That’s funny. What message would you put on a billboard for thousands of people to see every day? I did not get it from this deck, but yes, that is a question that I do ask.
+
+Matt Mullenweg: Let’s see.
+
+Tim Ferriss: “Don’t drink your piss because I said it on a podcast.” That’s what I would put on my billboard.
+
+Matt Mullenweg: Okay. Here we go. What are two things still on your bucket list?
+
+Tim Ferriss: God. Part of me — we had enough whisky, I just want to mention all these ridiculous sexual fantasies, but we’re not going to get there. We need — it’s just you and me and our few million of my best friends listening. Let’s see. Two on the bucket list. I’m not going to count the kid because we already discussed it. So I’m going to put that out of bounds. I might need some time to think about that, which is actually disturbing to me that I need time to think about it. Does anything immediately come to mind for you?
+
+Matt Mullenweg: Yeah. You know what one comes to mind?
+
+Tim Ferriss: What’s that?
+
+Matt Mullenweg: That could be a fun trip for us to do actually is the Aurora Borealis.
+
+Tim Ferriss: So actually this comes full circle. You will like this. And I think I’ve told you this, but you — man, I’m sorry that it was of course catalyzed by the passing of your father, but you recommend “The Tail End” to me. And I’m with you during this, not with you, but we’re in contact during this entire process. I read “The Tail End” and I go, “Holy fucking shit.” And by the way, everybody just look up “The Tail End,” Tim Urban, and read it. Do yourself a favor.
+
+And so I made a commitment to take my family on a trip once a year. And we haven’t done it in the last two years. But I think it was the first trip my mom had wanted to see the Aurora Borealis. I took my whole family to Iceland and went to middle of nowhere in the middle of winter. It’s dark all the time. So it’s the opposite of what we’re experiencing right now. And we had the best luck ever. And we just saw the most incredible displays, the Aurora Borealis. And I have to say much like what we experienced this morning, you cannot currently capture it at all on video or camera. It doesn’t bear any resemblance to the feeling and the experience of doing it in person. So I would definitely do that again.
+
+Matt Mullenweg: I was actually looking for it this morning because while the totality is happening, you can actually see stars when the sun’s totally covered by the moon. And there’s a different word for the Southern Borealis, I think, or Southern Aurora. But there’s a chance we could have seen it.
+
+Tim Ferriss: I wonder what that’s called? The Aurora Borealis, the Austral Borealis? I’m making up words now.
+
+Matt Mullenweg: We don’t have the internet.
+
+Tim Ferriss: We don’t have the internet. We’re hobbled.
+
+Matt Mullenweg: Because that’d be one thing on the bucket list. Did that remind you of anything on your bucket list?
+
+Tim Ferriss: There’s so many things. There’s so many things I would like to do. I would really like to, for instance, this isn’t a discreet item on a bucket list, but get back into scuba diving. Scuba diving is one of my great loves. I haven’t done it in so long and it is really, truly, if you get to the point where you’re reasonably comfortable and you can do wall dives and really kind of hover using your buoyancy — 
+
+Matt Mullenweg: What’s a wall dive?
+
+Tim Ferriss: Or a cliff dive, where you — let’s say you’re swimming over coral that’s, I’m just making this up, 30 feet below the surface. Colors are still really vibrant at that depth. And then there’s just a cliff and you drop off of this cliff and you just go down this wall. So you’re looking at — let’s just call it a coral reef, but it’s vertical instead of horizontal.
+
+And you look down and it’s just into the abyss. And so you swim along a wall and you can drop down, go up and down, looking at everything there is to see. And I often use scuba diving and it doesn’t work for everyone, of course, but as a metaphor for psychedelic experiences because in the beginning, the first time you dive the first one, two or three times you dive, you’re just getting used to the equipment. You don’t know necessarily reflexively how to grab your octopus or if you lose your respirator, how to deal with that. You’re constantly checking your gauge. You’re screwing with your BCD. I think it’s BCD, buoyancy control device, BCD, where you’re over-inflating your vest and then letting the air out. So you really don’t have much control and you’re discombobulated, but you might only notice a really large fish or a turtle or a shark or see in your peripheral vision a school of fish.
+
+You’re really not seeing very much. And then as you get more comfortable, you see more and more. You notice more and more. And then you get to a point where, let’s just say on a wall dive, it doesn’t have to be a wall dive, but where you can control your buoyancy. You’re just less at risk of smashing stuff with your feet, obviously, because you’re looking down and it might be hundreds or thousands of feet. And you can just hover and look at a square meter, three by three foot. 
+
+Matt Mullenweg: Just hang out there.
+
+Tim Ferriss: And it is an entire universe of life and activity. And you could spend an hour just looking at that tiny patch. That wonder, this is something I thought about this morning. I think it’s really hard to go wrong if you chase, chase might be too strong a word, but pursue wonder and awe. You can probably overdo it and dull your senses and your appreciation of that. But I think there’s a wonder deficiency in most lives, not that you should have it three times a week.
+
+Matt Mullenweg: What’s the line about a universe in a grain of sand or something? And so I think part of that is what is there to wonder that’s all around us all the time in your backyard, on a tree and that’s one of those things that we sometimes get reminded of. And it always feels like the most obvious trite thing, but also the most profound and meaningful.
+
+Tim Ferriss: And the scuba diving for me reinvigorates my powers of fixed attention, my attention to details. And I haven’t gone scuba diving in quite a long time, but when you’re underwater and you’re really noticing all the details, if you try to maintain that as you come out of the water, you still notice more.
+
+Matt Mullenweg: That’s cool.
+
+Tim Ferriss: There’s a transfer.
+
+Matt Mullenweg: I just love that floating. So for me, the buoyancy. I actually got certified with another one of your guests, Adam Gazzaley.
+
+Tim Ferriss: Oh really? Adam.
+
+Matt Mullenweg: That point when, if you breathe in, you notice a little bit — 
+
+Tim Ferriss: Six pack. PhD. You disgust me, Adam!
+
+Matt Mullenweg: And new father.
+
+Tim Ferriss: I know. Beautiful, beautiful, beautiful fellow. I’m just jealous of his p-bar workouts. And incredible, really engaged dad too. It’s been so fun to see how much he’s gotten out of that and given obviously, but it’s — anyway, not to interrupt. So you got certified with Adam.
+
+Matt Mullenweg: Yeah. When you breathe in and you float up a little bit and you breathe out and you go down a little bit, when you can kind of control your buoyancy with the air in your lungs, that’s so meditative. And I’ve actually gone to that space sometimes while meditating or sometimes in dreams. And I really, really appreciate it. But it also reminds me, I wish we had an Elon Musk of the ocean, some crazy awesome billionaire who was exploring the ocean as much as Bezos and Musk are going to space.
+
+Tim Ferriss: You know who’s — I mean the first name that comes to mind, controversial guy, but God, he’s really good at getting shit done, is James Cameron.
+
+Matt Mullenweg: I was going to say, but that’s all we got.
+
+Tim Ferriss: That’s what — 
+
+Matt Mullenweg: We need two billionaires fighting and competing. And then that will — we’ll finally map the oceans and understand things.
+
+Tim Ferriss: I wonder who else is out there? There’s got to be somebody else out there. Well, we’ll do some recon and put it in the show notes.
+
+Matt Mullenweg: Hopefully one of your listeners can — two of your listeners can start competing for conquering the ocean.
+
+Tim Ferriss: I know there are a few of you billionaires out there listening to this right now. So please take a look at our oceans. I would like to spend more time with, especially after doing work with the Amazon Conservation Team, which you’ve also contributed to, co-founded by Mark Plotkin, famous ethnobotanist, one of the proteges of Richard Evan Schultes out of Harvard. I would to spend some more time, because I have spent some, but I would to spend much more time with some of the indigenous groups, in this case in South America. It wouldn’t have to be in South America, but because I have access, before those ways die out. And I think it’s at somewhat, and again, this is maybe where you and I differ, but I think it’s kind of inevitable. I do think the march of so-called progress and the introduction of Western goods and consumerism and so on, once you have sat phones and Wi-Fi and big screen TVs and so on, there’s a tremendous amount of erosion that takes place.
+
+And I’m not implying or saying that I idolize the old way. There’s a lot of writing around the so-called noble savage and if we could all just revert to living in communities of 50 with the bare essentials, everything would be wonderful. And I don’t agree with that. I don’t think that’s true. But there is a lot of, I think, medical knowledge and also knowledge of how to treat the whole person instead of just suppress symptoms.
+
+Especially, not despite, but especially including what we would consider placebo effect. So harnessing the power of ritual and myth.
+
+Matt Mullenweg: The power of the mind.
+
+Tim Ferriss: And narrative belief, exactly, to basically co-opt the power of the patient to help them heal themselves is dramatically under explored by Western scientists in those communities. Not to say that would be my job because I’m not a Western scientist, I’m not a scientist, but certainly on my bucket list would be spending time with some of those groups. Because I do think, and this gets into some pretty strange territory, but there are other ways of knowing.
+
+Matt Mullenweg: Tell me more.
+
+Tim Ferriss: Well — 
+
+Matt Mullenweg: Give me a hard time, I’m going to turn it around. I’m not going to let you get away with that.
+
+Tim Ferriss: I do think there are other ways of knowing outside of things that are easy to put into a cube of a laboratory and test with placebo controlled randomized trials. And I think it is easy to become dogmatic with Scientism, with a capital S, in the same way that it is easy to become dogmatic with religion, without truly having even a basic literacy or understanding of what we’re talking about when one discusses science, which is a scientific method, a structured way of testing a hypothesis. That’s all it is.
+
+Matt Mullenweg: It’s a journey, not an end point.
+
+Tim Ferriss: Exactly. So for instance, the scientific method itself is not good at generating hypotheses. It’s good at testing hypotheses and it’s a framework for doing our best not to fool ourselves, in a sense. But there are then observable phenomena. I’m just fingering this pile of ginger chews here, might have a ginger chew. This is going to be terrible for audio. So don’t take this as an indication of podcasting professionalism, but I am going to have a ginger chew because I love ginger. I’ll have this after I ask my next question instead of while I’m talking, but there is a book, I think it is actually called Another Way of Knowing that just discusses — it’s a discussion. It’s basically an anthropological exploration of a handful of tribes, I believe, in Malaysia, so certainly not in South America in this instance, and phenomena that were repeatedly observed that seemed to be very odd.
+
+For instance, when this particular anthropologist would head towards this village to visit, and he would be going by boat, and then trail, and so on, and so forth, that there would always be someone waiting at a trail head to meet him, as if they were expecting him, but they had no prior notification that he was on his way.
+
+What’s happening here, right? Is it repeated coincidence? Sure, it could be, right, and like the self-avowed hyper-rationalists would be like, “Well, come on now.” Right, and then that would be the default, but I think it’s perhaps helpful to ask, “what might other possibilities be?” Right, let’s generate a bunch of different hypotheses before we edit. What are a bunch of other, I don’t even want to say plausible. They could be outrageous, but what are some other hypotheses, theories for how this might happen?
+
+In these tight-knit groups, let’s just called them tribes for simplicity, you see a lot of these behaviors that mimic some phenomenon you see in the natural world with other species. If you read, say, Of Wolves and Men by Barry Lopez, he talks about wolves being tracked, like by scientists that head off in a specific direction, traveling in a straight line.
+
+They intersect with a herd of caribou that started like 300 miles away. They perfectly intersect at a given point, where they’re known to hunt, and it’s like, “Okay, that’s cool. What’s happening? Is it coincidence?” Maybe, sure, you can’t rule that out. It could be.
+
+I think about, as I say this, I have some trepidation in saying it, because there are people listening, who’ll be like, “Oh, my God, that’s so ridiculous.” Or, they might even say, “That’s so unscientific,” and what they mean by that is, “I can’t provide definitive proof or some framework that provides perfect explanatory power.”
+
+But, as I was thinking about this morning, right, if you have, say, an eclipse, I was just thinking about thousands of years before this morning, eclipses were still happening. Humanoids have been around for a long time. If the crossing of the Bering Strait supposedly was whatever it was 20, 30, 40,000 years ago, I don’t really know, humanoids, even just in North and South American continents, have been around for a long time, and prior to that, even longer.
+
+They’ve been looking up and seeing these things. How would they have explained them thousands and thousands of years ago? Certainly not the way that we explain them today, nonetheless, the eclipses were happening.
+
+Matt Mullenweg: It was kind of cool, we saw a little presentation from one of the people here on different cultures, and I think in China, it was a dragon eating the sun. In Vietnam, it was a frog. There was like different sort of myths, and every culture had a version of it, which is pretty cool.
+
+Tim Ferriss: I’ll give another example. During — 
+
+Matt Mullenweg: But, how’s that connected to — 
+
+Tim Ferriss: No, I’m going to connect it. What I mean is, I think you can observe and record phenomena, and even in the absence of perfect explanatory power, some theory that holds up to modern scrutiny, just the fact that someone can’t explain how something works doesn’t mean it doesn’t exist. That’s what I’m trying to say.
+
+For instance, while we were in lockdown during COVID, there was this video that went viral of a coyote and a badger going out on a hunt together. The coyote would trail out in front, guess it wasn’t trailing, it was leading in front, and then stop, and wag its tail. It looked like a dog playing with another dog, and then pulled the badger along, and that, from a naturalist or field BI biological perspective, at least according to some people, shouldn’t happen.
+
+Right, that was always a myth, and in some of the Northern Native American traditions, they talked about, it’s the coyote and badger hunting together was talked about, but it was considered a myth. Then, boom, now you have some video footage, and it’s like, “Oh, look at that. Okay.”
+
+I do think that just because cultures have superstitions and beliefs that are not founded on hard evidence, and let’s not fool ourselves, we still have a lot of that. Even the most technologically advanced among us have plenty of those, that somehow a phenomenon can’t exist if you don’t have perfect explanatory power. That’s just kind of ridiculous. If you study the history of scientific discovery, you observe a lot of things far before you can — 
+
+Matt Mullenweg: Radio waves, germs.
+
+Tim Ferriss: Yeah. Radio waves, germs.
+
+Matt Mullenweg: I mean, like so many invisible things happening all around us all the time.
+
+Tim Ferriss: Yeah, and we look back 20 years from whatever point in time — or, let’s say 50 years, just to make it a little easier. Like 50 years before whatever point in time the discussion is taking place, is like the Dark Ages, right. Like, “Oh, my God, I can’t believe we didn’t know this. Oh, my God. Like how ridiculous that is in hindsight,” sort of neglecting all the while the fact that, of course, if we were to be looking back at today 50 years from now, as some doctors say, “Half of what we know is wrong, we just don’t know which half.”
+
+Matt Mullenweg: Yeah. That’s why I think it’s so important to make space for people to update their views. I think it’s so silly when we get mad at someone for they something said 30 years ago, it’s like, yeah.
+
+Tim Ferriss: You’re waffling. No, when I get new information, I change my mind. What do you do?
+
+Matt Mullenweg: Yeah, I’m sure there’s things on your early podcast, maybe our last podcast, I no longer agree with that one of us said, and that’s beautiful.
+
+In programming, we talk about, “If you’re not embarrassed by your old code, you’re not learning.” You should feel bad when you look at your old code. If you think it’s better than you can do now or great, that means you haven’t grown as a developer.
+
+I think it’s really important to always be evolving in that way. But what you brought up does make me think about how much communication is happening all around us, all the time.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: That we don’t understand.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Whether that’s bird calls, or what we heard with the penguins, how they’re able to connect with each other and identify each other. I just saw the documentary Fantastic Fungi.
+
+Tim Ferriss: Yeah, great film.
+
+Matt Mullenweg: Paul Stamets.
+
+Tim Ferriss: Yeah, super fun.
+
+Matt Mullenweg: Yeah. Louie Schwartzberg.
+
+Yeah, and the mycelium networks. There’s so much communication that’s happening all around us, and that’s another thing that I think is so interesting to explore.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: How are we ever going to understand aliens if we can’t understand dogs? Although I heard there’s a startup around this that’s trying to do like machine learning around dog barks.
+
+Tim Ferriss: Oh, God. Machine learning. Is it machine learning or deep learning?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: There are all these terms. Slap it on.
+
+Matt Mullenweg: When I was AI, you can raise more money.
+
+Tim Ferriss: Yeah. AI, although, hey, if someone can help me better communicate with Molly, I’m into it. 
+
+Matt Mullenweg: I’ll send my second bucket list, and then we’ll do another question.
+
+Tim Ferriss: What else would be on my bucket list? It’s such a simple thing. I want to get another dog.
+
+Matt Mullenweg: Oh.
+
+Tim Ferriss: Yeah, to accompany Molly, and also, to have some overlap so that, I think if Molly passes away, it’ll be very hard for me to get another dog.
+
+Matt Mullenweg: Would you clone Molly?
+
+Tim Ferriss: No. You want to share anything about cloning?
+
+Matt Mullenweg: I might know something about cloning. You can clone cats, dogs, and horses now in America.
+
+Tim Ferriss: Well, let’s get more specific.
+
+Matt Mullenweg: I think the company’s called ViaGen, and you can pay, and they take a skin sample from the living animal, and they make an embryo from it, and embed it in a surrogate. Do you know anything about this?
+
+Tim Ferriss: No comment. No comment. All right. Well, I’ll let the audience draw from that what they may. I would not clone Molly. I think the uncanny valley, I don’t think I would do that for myself. No, I wouldn’t try to do like Molly 2.0. I think I’d feel very ethically conflicted about that and emotionally conflicted, too. I don’t think I would do that, but I would get like mini-me to play with Molly, who then carries on the torch. I would definitely do that.
+
+Matt Mullenweg: Yeah, yeah. I was party to this, a person who wanted to do the cloning. I was very, very surprised.
+
+Tim Ferriss: You were surprised?
+
+Matt Mullenweg: I was incredibly surprised that this person wanted to do it.
+
+Tim Ferriss: Why were you surprised?
+
+Matt Mullenweg: Religious backgrounds. She’s Catholic.
+
+Tim Ferriss: Are Catholics against cloning?
+
+Matt Mullenweg: I don’t know if for sure, but it seems like it should be on that list. I don’t know.
+
+Tim Ferriss: I guess if it’s skin, it’s okay.
+
+Matt Mullenweg: I was surprised, but it’s been — I now have met this clone, the first of the clones.
+
+Tim Ferriss: Like a congressional hearing, I love your wording, “I’ve met said clone, Mr. Senator.”
+
+Matt Mullenweg: A beautiful thing about it is that the previous dog, who has passed, was a rescue and had a difficult early life. And so, even though I knew this dog for 15 years, she would be pretty skittish with me or any men in the room, which is just so heartbreaking to think, like what happened to her when she was younger.
+
+This new dog with the same genetic material, the genetic twin, is so excited to see me. It’s like a six sigma event when I walk through the door, and it’s kind of amazing, but completely different. I would say that it’s just like a twin, a genetic twin. The coloring will be different, personalities totally different. I think it really shows you nature versus nurture, as well.
+
+Tim Ferriss: Oh, that’s for sure.
+
+Matt Mullenweg: Which I think for dogs can be huge, although, you know way more about dogs than I do.
+
+Tim Ferriss: Well, I’ve spent so much time training Molly, and another reason I would like to have another dog is that she’ll help train the other dog.
+
+Matt Mullenweg: Yeah. They’ll pass on good and bad behavior, right?
+
+Tim Ferriss: Yeah. She doesn’t have too many bad behaviors. She has a few, but not too many. For people who want to look at the communication side, you can Google. I think there’s a Radio Lab episode on the Wood Wide Web, as they call it, which talks about inter, I think it’s inter, I always mix up inter and intra, but inter-tree communication.
+
+Matt Mullenweg: Oh, yeah. Trees will privilege ones that are closely related to — 
+
+Tim Ferriss: The progeny.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Yep, and as they’re going to die, they’ll basically like drop their resources into the root system, and distribute to direct descendants.
+
+Matt Mullenweg: Pretty cool.
+
+Tim Ferriss: It’s so wild. The reciprocal relationship with the fungal networks, right, is just incredible, so you can look at that.
+
+Let’s not forget also, it wasn’t that long ago, I don’t know the exact dates, but I think it’s within the last 100 years, that that doctors or surgeons would operate on infants without anesthesia.
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: It’s not that long ago. I might be getting it slightly off, but our assumptions about consciousness, and communication, and perception have been so consistently off, that I think it’s fair to assume that we’re still pretty off.
+
+Matt Mullenweg: A lot to learn. Yeah. I think my second bucket, I mean, honestly, this trip has been a bucket list item, the emperor penguins. We were going to, hopefully, see the totality over them, but it was too cloudy, so that’s why we came to this Union Glacier Camp, seeing the totality.
+
+I’ll put a travel thing as the second one, which is I’d love to go to Egypt with my sister.
+
+Tim Ferriss: Why Egypt?
+
+Matt Mullenweg: She wants to go, and I think it would be pretty incredible.
+
+Tim Ferriss: Here’s a bucket list for me, is taking a bunch of my closest friends to Japan. That’s a huge Sno-Cat in the background.
+
+Matt Mullenweg: Is it showing up on the levels?
+
+Tim Ferriss: It showed up on the levels, so that it would be the Tucker Five, which the staff used to refer to, because it was the largest Tucker Sno-Cat that had ever been custom built.
+
+On the radio, they would refer to it as the Mother Tucker, but then that was not PC, apparently, so it got vetoed at some point. Now it’s the Tucker Five, how boring. I prefer the Mother Tucker. That might be part of this podcast episode title, as well.
+
+Matt Mullenweg: Well, which is funny, because you always make fun of me for not cursing.
+
+Tim Ferriss: I do. I do. Yeah, Matt does not curse. Why don’t you curse? Don’t give me that, “I have so many vices, I needed to get rid of one.” You always use that.
+
+Matt Mullenweg: We don’t have the internet, so I can’t confirm, but I think the English language has more words than any other language.
+
+Tim Ferriss: Has a lot of words.
+
+Matt Mullenweg: I just love finding that really great word to match things.
+
+Tim Ferriss: Except for curse words.
+
+Matt Mullenweg: Except for curse words.
+
+Tim Ferriss: Why not? Is that a religious thing?
+
+Matt Mullenweg: Actually, I had one of the first WordPress blogs, actually, it was a private blog myself and four friends had at a high school, and I was looking back at an entry from like ’99 or something, and it had a curse word in it.
+
+Tim Ferriss: From you?
+
+Matt Mullenweg: From me.
+
+Tim Ferriss: Oh, what curse word?
+
+Matt Mullenweg: I don’t remember which one, nor could I say it if I did.
+
+Tim Ferriss: Such horseshit, horseshit.
+
+Matt Mullenweg: But I was so shocked because I don’t.
+
+Tim Ferriss: I was hoping I would get you there.
+
+Matt Mullenweg: I think I’d forgotten when I stopped, but I think it was influenced by reading someone or something around just the expressions of the English language, finding the right word for things. In other ways, I don’t exclaim much.
+
+Tim Ferriss: You don’t have a very ejaculatory style to your speaking? What do you mean you don’t explain much? What does that even mean?
+
+Matt Mullenweg: Gosh, darn it.
+
+Tim Ferriss: Oh, oh. Them’s fighting words.
+
+Matt Mullenweg: Yeah, I don’t exclaim much.
+
+Tim Ferriss: We have someone else on the trip who exclaims a lot. Not me.
+
+Matt Mullenweg: Like an exclamation would be like, if I stub my toe, or something, I’m not going to — 
+
+Tim Ferriss: What do you say when you stub your toe? Do you just grin, like bite your tongue?
+
+Matt Mullenweg: I’d probably just make a noise, like a yelp.
+
+Tim Ferriss: If someone cuts you off on traffic, I guess, I mean, you may be so Zen that you just don’t get annoyed, but if you get annoyed, do you say anything?
+
+Matt Mullenweg: I like to tell myself that they are doing something urgent, or have something in their life that they really need to get that spots.
+
+Tim Ferriss: When does Matt get upset? What are some Matt triggers?
+
+Matt Mullenweg: Oh, Matt triggers.
+
+Tim Ferriss: Besides people spelling WordPress with lowercase P.
+
+Matt Mullenweg: I know where I’m not Zen at all is I get upset on behalf of others.
+
+Tim Ferriss: Oh, yeah. I’ve seen this.
+
+Matt Mullenweg: You’ve seen it, yeah.
+
+Tim Ferriss: Yeah. Yeah.
+
+Matt Mullenweg: I’m more likely to be, probably to a fault, like overly protective sometimes. A person, themselves, might not be mad, but I’ll get mad on their behalf. Injustice really bugs me.
+
+Tim Ferriss: What’s your response then? Most people be like, “God fucking dammit.” Most people would curse to let some steam out. What do you do?
+
+Matt Mullenweg: Get even.
+
+Tim Ferriss: Oh, this soft-spoken weapon of incredible menace. You’ve got to be careful with the Mullenweg, or the Mullenberg, as one of the staff here refer to him as when we did our drone test earlier.
+
+Matt Mullenweg: It’s better than Mulletwig, which I used to get in school. You’re welcome.
+
+Tim Ferriss: Mulletwig, or Adam Gazzaley calls you Mulley Legs.
+
+Matt Mullenweg: Mulley Legs, yeah.
+
+Tim Ferriss: That’s another good one.
+
+Matt Mullenweg: Sometimes I get Mullenweb, which I actually kind of like.
+
+Tim Ferriss: Oh, that’s good.
+
+Matt Mullenweg: Get some web in there.
+
+Tim Ferriss: Mullenweb. I like that. Okay. We’ll come back to the get even part another time. Let’s see. Let me, oh, all right. Do we want — let’s see.
+
+This is just the one that I pulled out. Say we do maybe one more because my bladder’s about to explode, but my fucking pee bottle is full, so I’ve got nowhere to put it.
+
+Well, I guess I could try to pee into the scotch whisky bottle that we’ve now, sorry, Glenmorangie. I know, my God, that’s like the worst yank pronunciation of that ever, but if I have to pee in your bottle, I apologize in advance.
+
+Do intentions matter more or less than actions?
+
+Matt Mullenweg: Yeah, what’s the legal word for this? mens rea, or something?
+
+Tim Ferriss: Oh, I don’t know.
+
+Matt Mullenweg: Yes. I think they do.
+
+Tim Ferriss: Intentions matter more. Oh, all right. Tell me more, Matt Mullenweb.
+
+Matt Mullenweg: Do intentions matter more? What I like about intentions is the intentionality. It’s a choosing, it’s the deliberateness of a decision.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: To do something, and I think that’s super important for us to do. Maybe that sounded a little abstract, like what you choose to do, I think, is more important than what necessarily happens along the way, which you have less control over.
+
+You have complete control over your choice, so I’m going to say intentions matter more than actions, but I’m defining actions in a certain way.
+
+Tim Ferriss: How are you defining actions?
+
+Matt Mullenweg: Things that happen.
+
+Tim Ferriss: What the fuck are we talking about? Okay. Actions are things that happen.
+
+Matt Mullenweg: Yeah. For example, you intend to give me a present, but your action on the way is you stumble and step on my foot.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: Your intention to me matters more than the fact you stepped on my foot and broke a toe.
+
+Tim Ferriss: Let’s say there’s someone who decides I want to give back and do the right thing, but they have no money, no resources, no network, no leverage. They have this pure intention, but they don’t end up being effective in impact, let’s just say. I know that’s kind of a broad statement.
+
+Then, there’s some person who just cold-blooded, capitalist killer, who like takes no prisoners, racks up incredible wealth and then says, “I’m going to give to a bunch of charities, because that’s the right social move. I can get in on these boards, create really good optics, have a conversation at these dinner parties, blah, blah, blah, blah, blah.” It’s not coming from virtuous intention per se, but has an out-sized impact just because of the sheer resources behind it.
+
+Matt Mullenweg: I’ll take it.
+
+Tim Ferriss: You’ll take it. You’ll take the second one.
+
+Matt Mullenweg: I think doing the right thing for the wrong reason is still the right thing, which I guess takes us more to actions and intention.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: What’s your answer to that one?
+
+Tim Ferriss: I think actions count more.
+
+Matt Mullenweg: Yeah, so it’s the right thing for the wrong reason would still be the right thing, and that matters more?
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Yeah, for me, which isn’t to say I would like people to do the right thing for the wrong reason. I was chatting with, I can’t remember who it was I was chatting with, but they were saying — it might have been when I got a tour of Bethlehem from an Arab Christian, which is definitely a minority.
+
+I don’t know if it was him, it might have been someone else who was saying, “Jews and Muslims should really get along on some level, because they care more about actions than they do what’s in your heart, what you believe, whereas, Christians care about like what you believe. Like you can do all these atrocious things, but then truly believe, and repent, and be saved.”
+
+I thought about how much all of that has likely shaped cultures and empires and civilizations, right. Just that different lens on things. If it’s like, “We don’t care what you believe. It’s all about what you do. Like follow these rituals, do these things. Don’t eat this thing on this date. A, B, C, D, E,” versus like the belief slash maybe intention is what matters, even if you fuck up and make these terrible mistakes, that’s okay.
+
+Of course, I’m going to offend like pretty much everybody on the planet by what I just said.
+
+Matt Mullenweg: I think you missed a few.
+
+Tim Ferriss: I’m dramatically oversimplifying, and sorry if I don’t know what the hell I’m talking about, but I do think this question though, that I threw out from this deck of cards is an interesting one, right. Intention versus action.
+
+Matt Mullenweg: I’m glad that we disagreed on it, too.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Find the points where we disagree to be interesting things to mind.
+
+Tim Ferriss: All right. Last question, because my bladder is about to explode, and the neck of this scotch whisky bottle is way too narrow for any attempted reasonable accuracy.
+
+Matt Mullenweg: Tim is sharing, again, a lot.
+
+Tim Ferriss: Yeah, yeah, it’s not a claim to any Coke-can-like girth, who are we kidding? We’re in Antarctica. Do you remember when somebody with us was like, “Let’s all take a naked shot together,” and we’re like, “No, no, no, not the most flattering shot we could do right now.”
+
+Tim Ferriss: What are you grateful for right now?
+
+Matt Mullenweg: I’ll give you an easy answer and a harder answer. I mean, I’m so grateful for the time we spend together.
+
+Tim Ferriss: Yeah, me, too. Me, too.
+
+Matt Mullenweg: The bigger and harder answer I would say is I’m so astounded at the creation and roll out of the vaccines, and it gives me hope for maybe humanity solving other big problems if we can all kind of focus on the same thing at the same time. Yeah, so everyone who worked on COVID, I’m really grateful for.
+
+Tim Ferriss: All right, I’ll take a stab. I’m also really grateful for the time that we’ve been able to spend on this trip. It’s been a while since we’ve done one of these.
+
+Matt Mullenweg: We’ve been disconnected, which has been twitchy for me. I tried to download and scroll half the internet before we went offline for Wikipedia.
+
+Tim Ferriss: Let me just read about the US Postal Service. Let me read this [inaudible 01:54:34]. I am grateful for this trip. It’s been a great trip. I’ve had a lot of people ask me why I came to Antarctica, like why am I interested in Antarctica? I am interested in Antarctica, but the main reason is just to spend time with you. We’ve had so many great trips before, and included, and now this one, adding it to the list, so super grateful for that.
+
+Super grateful for my girlfriend, honestly. She’s incredible, puts up with a lot of nonsense. I don’t think I’m the hardest person to be with, but I certainly don’t think I’m the easiest person to be with. She’s just been such a wonderful complement, and I think we are so we’re so different, yet our values are so similar, that it allows us to really stretch in ways that — 
+
+Matt Mullenweg: That’s a good thing to look for in a partner, I would say, is like where you are different in many ways, but then, exactly the same on a few key values, goals, fighting, style communication.
+
+Tim Ferriss: Yes. She is the cleanest fighter. I would say the cleanest fighter I’ve ever been with, probably.
+
+Matt Mullenweg: Good influence on you, too.
+
+Tim Ferriss: I would say that. Yeah. I would say so. Hopefully, she would say the same about me. I think so, and so I’m very, very grateful for that.
+
+I’m grateful for having the bladder capacity of camel, so I don’t even know what time it is. God, what time is it? It’s probably like 10, or 11, or God knows.
+
+Matt Mullenweg: Oh, my goodness. It is now almost 11, so it’s probably a good time for the camp.
+
+Tim Ferriss: It is 11 p.m., and it is bright as high noon, as we speak.
+
+Matt Mullenweg: Hey, also, thank you. We both shared a lot of personal stuff on this one.
+
+Tim Ferriss: Yeah, we did.
+
+Matt Mullenweg: Thanks for that vulnerability.
+
+Tim Ferriss: Yeah, thank you, too, man. Yeah, really great to do this, and let’s not wait another five years.
+
+Matt Mullenweg: All righty.
+
+Tim Ferriss: All right, man. Love you, bud. And to everybody who is listening, you can find links to anything we’ve talked about, books and so on, I don’t know what else. We’ll find a bunch of random links and put them in the show notes for you to peruse @tim.blog. Thanks for that, also.
+
+Matt Mullenweg: No problem.
+
+Tim Ferriss: Recommendations from Mr. Mullenweb @tim.blog/podcast. And until next time, be just ever so slightly kinder than you think necessary, and that includes to yourself, and thanks for tuning in. 
+
+
+TAGS
+ANTARCTICA, MATT MULLENWEG
+	

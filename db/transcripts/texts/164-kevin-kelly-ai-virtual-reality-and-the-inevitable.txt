@@ -1,0 +1,778 @@
+
+
+JUNE 1, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Kevin Kelly – AI, Virtual Reality, and The Inevitable (#164)
+
+
+Please enjoy this transcript of my second interview with Kevin Kelly, senior maverick at Wired magazine. 
+
+
+
+#164: Kevin Kelly - AI, Virtual Reality, and The Inevitable
+
+Tim Ferriss: Hello, boys and girls. This is Tim Ferriss and welcome to another episode of The Tim Ferriss Show, where it is usually my job to deconstruct world-class performers across all different areas and industries – whether they be military, chess, sports, entertainment, or otherwise; business, of course, the obvious one. This time it is a conversation between friends and I am extremely excited to have Kevin Kelly back on the show. Kevin Kelly – I’ve said this before – might be the real life most interesting man in the world. I’m not making up what I’m about to read to you. He is senior maverick at Wired magazine, which he co-founded in 1993.
+
+He also co-founded the All Species Foundation, a non-profit aimed at cataloging and identifying every living species on Earth. In his spare time – of course I’m using that tongue and cheek – he writes bestselling books, many of them. He co-founded the Rosetta Project, which is building an archive of all documented human languages, and serves on the Board of the Long Now Foundation.
+
+As part of the last, he’s investigating how to revive and restore endangered or extinct species including the Wooly Mammoth. That is not made up, folks. We touch on a lot of really fun stuff in the episode. When Kevin arrived at my house to record, I had certain plans and I asked him what he wanted to highlight or focus on and we just decided to catch up, as friends. So this is very truly the type of conversation that led me, in the first place, many moons ago to ask, why don’t I record these and share these conversations? Because I have so much fun catching up with friends like Kevin.
+
+This is about as close to a banter over drinks as you’re going to get, in my life certainly, putting this out publicly. So I hope you enjoy it. We touch on all sorts of things: stories about Jeff Bezos and his email management approach, favorite books, impactful books, tech literacy, why there are “no VR experts,” which is very inspiring.
+
+There is a video that didn’t make it into this interview but Kevin mentioned afterward that I think is “The History of Japan in Nine Minutes” that I highly recommend everybody check out. We talk about the evolution of China, why he spends so much time in China, artificial intelligence, network effects, virtual reality, GMO, we talk about everything. If you think I am the only big fan of Kevin, well of course that’s not true. Here is a little bit of praise for his most recent book called The Inevitable and these are real quotes. I’ll truncate some of them.
+
+So here we go: “Anyone can claim to be a prophet, a fortune teller or a futurist, and plenty of people do. What makes Kevin Kelly different is that he’s right.” It goes on and on. That’s David Pogue; many of you will know. Then we have “Kevin Kelly has been predicting our technological future with uncanny prescience for years. Now he gives us a glimpse of how the next three decades will unfold.”
+
+That’s Ernest Cline, author of Ready Player One. And then also referring to the book (The Inevitable, that is) Marc Andreessen (who I had on the podcast recently), co-founder of Andreessen Horowitz and technological icon, refers to it as “an automatic must read.” So I hope you enjoy this very informal and wide-ranging conversation with none other than Kevin Kelly. If you want to listen to a longer conversation where I dig into his bio and learn all sorts of nuggets that even I didn’t know, then you can check out fourhourworkweek.com/Kevin. Just go to fourhourworkweek.com/ Kevin and you can find previous conversations with him. Enjoy.
+
+Kevin, welcome back to the show.
+
+Kevin Kelly: It’s always a pleasure, Tim. It’s so great to be here. Fantastic low horizontal space.
+
+Tim Ferriss: Thank you. It’s great to have you in my house for a change. I remember still the very first Quantified Self meet-up at your place in Pacifica with however many people it was.
+
+Kevin Kelly: There were twenty-five people that showed up with a call to “if you think you’re quantifying yourself, come.” Tim was one of the people who arrived.
+
+Tim Ferriss: It was a broad spectrum of folks.
+
+Kevin Kelly: It was; it was really good. We had no idea what to expect. This is Gary Wolf and I, probably eight or nine years ago. That was the very first meeting of the Quantified Self Movement. It was a meeting in my studio in Pacifica.
+
+Tim Ferriss: Where is Quantified Self now? What is the scope of that?
+
+Kevin Kelly: There’s meetings in almost 300 cities around the world.
+
+Tim Ferriss: Amazing.
+
+Kevin Kelly: We have an international conference once a year. So it’s entered into vocabulary – that is, people talk about it – whether for or against it. There are of course tons and tons of hardware sensors. The last CES before this year was called The Quantified Self CES because there were so many wearables. The Apple watch being one of many.
+
+So it sort of entered into the mainstream in a certain sense. It remains to be seen where it goes next. You’re probably not wearing your Fitbit today.
+
+Tim Ferriss: I’m not.
+
+Kevin Kelly: Some people have spells with this where they find it useful and the question is, how deep can these sensors go so they are something that everybody does? It’s the new normal. I think we’re still a ways from that.
+
+Tim Ferriss: I don’t think we’re that far away from it being opt-out though instead of opt-in.
+
+Kevin Kelly: Right.
+
+Tim Ferriss: For most people – actually, you’re already quantifying yourself, because you have an iPhone with an accelerometer that has location tracking and so on.
+
+Kevin Kelly: Exactly.
+
+Tim Ferriss: The fascination I have with your life extends in many different directions. But one is there’s the Kevin Kelly futurist, technologist; and then there’s the Kevin Kelly, and they’re one in the same of course, but another aspect of you which sends me your family letters. I love getting these letters.
+
+They read like fiction, quite frankly. It’s straight out of Rin Tin Tin. I remember just recently getting a text from you and it was from a number I didn’t recognize. What did it say? “I just finished tracking elephants”?
+
+Kevin Kelly: Temple procession elephants in Kerala. And I’m on my way to Oman tomorrow or whatever.
+
+Tim Ferriss: Yeah, “Would you like to come?” I was like “I’m sorry, who this is?” You’ve spent time with the Amish. We’ve talked about this in episodes; in the first episode we did together, certainly. But at the same time, we can get really granular and tactical; but first, before we go to – I have a question about email and books and Hamilton and so on. Why do you spend so much time in China? You’ve written a little about this in your family letter updates, but you seem to spend every year more and more time in China. And why do they love you so much?
+
+Kevin Kelly: Yes, okay. So it’s a very complicated reason. My connection to China is kind of deep. Starting with the fact that my wife is Chinese and my kids are all bilingual and have spent time in China. But more importantly, I wrote a book called Out of Control twenty-five years ago or maybe more now, 1994, I guess. It was a little early because it was about how the internet was going to happen before the internet really happened. It was about how these decentralized, sharing things were going to – they were almost biologically inspired, and they were going to go into our built environment. That’s what I was talking about. I was talking about all the rules that the internet were going to run by before there was internet.
+
+It never really took off in the US, but it was translated into Chinese, crowd source translated about five years ago. It was just at the right time when Honi Ma, Jack Ma, and all these guys in China were starting their internet companies.
+
+They read the book in Chinese and were influenced by it and talked about it. There’s kind of a little bit of a social herd mentality in China. So when these famous successes were talking about this book –
+
+Tim Ferriss: I don’t think we do that at all in the U.S.
+
+Kevin Kelly: Exactly, right. Everybody started to buy it. So I became, for better or worse, kind of the Alvin Toffler of China. They have this ridiculous idea that I’m predicting the future. Because, in fact, there were very little predictions in the book. It was just that I was talking about things that later on became common. So they have this idea – they always introduce me as the guy who invented the internet or who predicted the internet. Of course, the next person who introduces me has to ratchet that up even higher, so it’s embarrassing at this point. I have a lot of fans in China who are trying really hard to be innovative.
+
+They’re listening to people from the West – not just me – about how to do that in their culture. So my book has become one of those books that they are reading to understand where it’s going because they are rushing into that future so fast that they really need all the guidance they can get.
+
+Tim Ferriss: For people who don’t know Toffler, can you give a little context?
+
+Kevin Kelly: Yeah. So Alvin Toffler wrote a book called Future Shock in the ‘70s or ‘80s. I don’t remember where it was. But he, in some ways, for a long time was the most famous futurist; and even people who didn’t know what he was talking about knew him as a futurist. So if you knew about a futurist, it was Alvin Toffler, even though you hadn’t read his book. I have the same thing in China where people might recognize my name and call me a futurist, even though they have never read anything by him. So Alvin Toffler’s book Future Shock is still worth reading.
+
+He was the one who introduced the term ‘future shock’ which was that people would actually have like a resistance or a reaction to the future, in general, just because things were changing fast. But he also invented, in that same book or the next one, the idea or the term “prosumer.” Which is a person who is both producing and consuming, which we now call user-generated content. But this idea that most of this economy would be prosumers. That was his idea in like the ‘70s or ‘80s, so he was way ahead.
+
+Tim Ferriss: That’s incredible.
+
+Kevin Kelly: Yeah.
+
+Tim Ferriss: How do you see China changing in the next 10 to 20 years?
+
+Kevin Kelly: I believe that China is within five years on the cusp of actually having a global brand of something that everybody in the world would want.
+
+Tim Ferriss: Meaning a Nike, a fill in the blank.
+
+Kevin Kelly: Yeah exactly, whether it’s a car or a drone, or a camera, or some appliance, or device, or digital thing that would be world-class in its innovation, in its quality.
+
+Like Sony became eventually for the Japanese. The reason why I think that is because, as you said, I go there a lot. I’m going there probably every three months. I’m not just going to the big cities, which I do my talks at, but I will always take an extra week or two and go out to the hinterlands. Out to Yunnan or Guangxi or some other province. I spent some time on the Silk Road way in the west, where it’s Muslim, to get a sense of the other China and to gauge the depth of their dream. What do the Chinese want? They are going so fast, where are they aiming for? What they are trying to do is innovate. They are coming to the West to learn how to innovate.
+
+I think like we taught the Japanese how to do quality. The Japanese said, how do we do quality? So they went to Taylor and all these guys gave them a list of “do this and do this, and do this, and you’ll have quality.” The Japanese went through their list, they did it, and then they became the world’s expert on making quality. The Chinese are saying, how do we do innovation? All the people from the West, “You need to have science fairs and you have to have innovation hubs. You have to have start-ups. You have to have all this stuff.
+
+So they’re going down the checklist: we’re going to do that, we’re going to do that, we’re going to do that. I think they are doing it and they are going to succeed in making something that we all want. I don’t know what it is, but I feel that they’re really doing all the things that they wanted to do, although there are two cultural characters that they haven’t yet gotten to.
+
+And those two cultural ones are that they haven’t yet embraced failure and they still don’t collectively question authority enough. They’re working on those and they know that they have to do those and they know that those are difficult to do collectively. Individually of there’s no problem. The Chinese come to America, they can do all of this; but collectively as a culture, those are challenging for them. They’re working on them. It’ll be some more years but I think they will do it.
+
+Tim Ferriss: Now if you look at, let’s say Singapore, I know we are getting pretty China-focused here, but as a sidebar you were talking about visiting these sort of far flung corners of China. China – just for those people who are listening who haven’t been – is a lot more diverse than you might think. In fact, when you hear Chinese, the language for instance, like Mandarin Chinese – it’s basically Beijing dialect Chinese. On top of that, if you were to go to China, there are many ways to say Chinese depending on where you are.
+
+It indicates a lot of how you feel. So you could say like [Speaking Chinese] like center, the center county, middle kingdom language. Then you can also say like [Speaking Chinese] so the language of the Han people who are the dominant ethnic group.
+
+Kevin Kelly: [Speaking Chinese].
+
+Tim Ferriss: [Speaking Chinese] if you go to Taiwan. Now the mainlanders hate that. If you say [Speaking Chinese] that means kind of like the mainland talk. I mean I’m translating very liberally here. That, of course, really irks the Chinese who view Taiwan as a rogue province that is nonetheless still a part of them, much like Quebec or something in Canada. The other point that I was going to make, or question, rather, that I was going to impose is, if you look at Singapore. Singapore has tried with some success for at least I would say the last ten years to replicate Silicon Valley. They’ve faced very similar cultural hurdles, but they have fantastic, at least my impression is, financial resources.
+
+They have unilateral freedom to do whatever they want. They have a well-educated population. They are very, very, very small, right? The sandbox is incredibly small. You can walk around Singapore in a day and then you’re like what am I going to do here? I need to go to Malaysia to have a new meal. Why will China differ? Is it just the sheer number of people that they have to choose from or to filter from, from which you can find the Michael Jordans, the Jeff Bezos, the fill-in-the-blank?
+
+Kevin Kelly: Absolutely, I think this is an arithmetic problem. I mean, 1.4 billion people. By the way there’s like .3 billion North Americans. There’s a billion more of them. I think there definitely is a critical mass, a scale that the Chinese have. It’s almost translated into a momentum that you need and that you have this critical mass of people behind you doing.
+
+You were mentioning the diversity, which Singapore does not have as much of, but it does have a lot for being a little city, but not compared to China. You have a huge diversity in China, as you were saying. Not just the language, but even ethnically, geographically. So I think they have all those necessary requirements, the requisite complexity that you would need to make something. But I would say two things: One is, if they attempt to make another Silicon Valley, I think that fails. There are network effects in all these things and the network effect says that the best get bigger.
+
+And the bigger you get, the better you get. And the better you get, the bigger you get. So you have this sort of compounding acceleration. That means that there is only going to be one or two dominant players. By the way, AI is going to be a network effects phenomenon. Social media is a network effect phenomenon. The kind of start-up culture is a network effect phenomenon in a particular category.
+
+So if they try to do a Silicon Valley for software, it will not happen. If they decide to take something, which I think they might, like robotics or aviation, or biotech, and really develop and grow to a sufficient scale, I think they could have an equivalent. Right now they do have one in manufacturing.
+
+Tim Ferriss: Right.
+
+Kevin Kelly: The Pearl River Delta area from Guangzhou to Shenzhen. Hong Kong that is, that is basically one they do the world’s best manufacturing in China. It’s not because it’s the cheapest, it’s because it’s the best and they have this whole ecosystem, with thousands and thousands of suppliers and dynamic real time inventory control and this whole thing. They do have the Silicon Valley for manufacturing in that area, and they will continue to grow that and people are going there not because they’re the cheapest, in some cases they aren’t, but because they have the absolute best in manufacturing.
+
+Tim Ferriss: How much of the – and this is for those people listening. Kevin and I decided to wing it. We had a conversation prior to recording and this is just us talking about stuff that we’re interested in. I’ve been, over the last few weeks, discussing with folks visiting Silicon Valley and the origins of Silicon Valley, or trying my best to explain why Silicon Valley may have happened here and not elsewhere. How much of Silicon Valley do you think can be attributed to a handful of companies that just happened to land here, like Fairchild or some of these semiconductor companies?
+
+The inability to enforce non-compete contracts in California, which I think allowed these people to then split off and form many other companies that might have stepped on their former bosses’ territory or other? When somebody asks you why did Silicon Valley happen here, what do you say?
+
+Kevin Kelly: So there are reasons why. There was actually a really good book on this by AnnaLee Saxenian, I believe her name was.
+
+She studied Route 128 around Boston and Silicon Valley and compared the two. Because Route 128 actually had a little head start in this kind of tech world. Why didn’t they become the Silicon Valley?
+
+Tim Ferriss: Why didn’t Sand Hill Road kill them?
+
+Kevin Kelly: Yeah, and part of the reason; there’s a number of different reasons, but one of them was because, I think you mentioned a couple but there’s others. And that was Silicon Valley was so far from the West Coast government, the D.C. government that they –
+
+Tim Ferriss: Or the East Coast government.
+
+Kevin Kelly: Excuse me, the East Coast government, D.C. – that they had to find a whole bunch of different sources for funding. They invented the funding model. Which 128 around Boston was still locked into a lot of the government defense contracts.
+
+Tim Ferriss: Right.
+
+Kevin Kelly: Okay? So that was kind of the difficulty, but a liberation for Silicon Valley, where it was really divorced from the government hand-outs or government subsidies, the government funding.
+
+Not completely, but enough to actually really develop this other, alternative way of financing things.
+
+Tim Ferriss: Venture capital.
+
+Kevin Kelly: Right, venture capital. I think psychologically there was this other division, this other kind of divorcing from the whole California story of no adult supervision, not asking for permission, which started with the ‘49ers and before. I think that also continued to influence the culture. So there was a cultural innovation. Many people say that the greatest invention from Silicon Valley was not the transistor or software, it was this model. It was this innovation model. That is the kind of Meta –
+
+Tim Ferriss: The innovation model meaning the set of beliefs and maxims and so on that those people carried in their heads?
+
+Kevin Kelly: Exactly, right. The venture funding model, the startup model, this method, this culture that would reward.
+
+The joke was you change your job and you walk across the street. And also the fact that you were encouraged to change your job. Far from lifelong employment, but this idea that you’ve been here a couple years, time to move on. So there was a whole bunch of things that are ingredients to that. This book studied this in a more economically rigorous way of why did one surpass the other?
+
+Tim Ferriss: There’s a number of fascinating documentaries on this as well and maybe it’s all sort of hindsight logical, but in reality, 90 percent of it was just random collision of people and factors; I don’t know.
+
+Kevin Kelly: I would also recommend John Markoff’s book with this really trippy title called What the Dormouse Said.
+
+Tim Ferriss: What the Dormouse Said.
+
+Kevin Kelly: Which is about the hippy origins of the personal computer industry. So there’s a whole other strand which is very influential, which was the fact that the hippy generation embraced computers unlike the other technologies that they rejected.
+
+And they embraced them from Doug Engelbart to Steve Jobs, to a lot of the AI guys. A lot of the people in the early computer industry had a little of the hippy background and they saw these things as augmentations, as basically it’s kind of like a new age way to augment the human. So when people left the communes – they tried the communes, they didn’t work. With the long hair. But they learned a lot of skills, including small business skills. Making their candles, and their sandals, and their macramé, selling honey or whatever it was.
+
+So unlike people who went to college and never dropped out; who went to work for the big organizations, the IBM, they were at the craft fairs getting business skills.
+
+Then when they came along, they transferred those directly into this idea of small businesses which were not cool. If you told somebody in the ‘50s that you were at a startup that was a code for “I’m unemployed, I was fired.”
+
+Tim Ferriss: It’s like consultant right? Oh, you mean unemployed. That was the analog.
+
+Kevin Kelly: Right.
+
+Tim Ferriss: Have you ever been to – I know I’m jumping around here – but to Christiania? I think it’s in Copenhagen.
+
+Kevin Kelly: Yes, in Copenhagen.
+
+Tim Ferriss: So there’s this area – for people who haven’t been – called Christiania. I’m pretty sure I’m getting it roughly right. It’s effectively like a hippy/anarchist commune in the middle of or around Copenhagen. There are gates that you walk through and it says here ends the European Union when you walk through. And as you describe, it is people walking their kids around in wheelbarrows, making honey, and making candles. They have breweries. It’s such a funky experience.
+
+Kevin Kelly: It’s a little autonomous region that started off as a squatter city that is now semi-legal in some capacity and they do have their own little government at this point and it’s quite extensive. You could spend – it’s not as quite as big as Singapore.
+
+Tim Ferriss: It’s not that far off.
+
+Kevin Kelly: Right. It’s a worthy experiment to go visit because there are lots of alternative governments and structures. Cultures are really important. Let me just say one thing about travel before we go into other things. I travel a lot, not just to China but to other places, as much as I can because I find that it really keeps my mind flexible. In fact, I find that it’s the most exercise I can do in a short amount of time than anything else. I mean sure I can learn a new language and do all these other things. I find you can do all of those while you’re traveling too.
+
+But travel really forces me to be flexible and to confront others and to think about things differently. Even whether if I have a different idea there, it’s just the habit of trying to think and come at things differently that I find really, really useful; in addition to the fact that you actually literally are looking at your own culture from a different lens but even just the general habit of trying to let go of what you think you know. I go to China above all else because every time I go, I actually have decided I know less than the last time.
+
+There’s so much happening there; it’s happening so fast; it’s so big, the Chinese have no idea what’s happening. I think I know something and then I go and I realize I don’t know what’s happening here either. I know less than the last time I visited.
+
+Tim Ferriss: It’s a different country than the last time you were there.
+
+Kevin Kelly: Right. I think travel is so important, particularly to young people that I really think it should be subsidized at the federal level.
+
+Tim Ferriss: I think gap year should be mandatory.
+
+Kevin Kelly: I think a two-year national service should be a requirement and you can fulfill it anyway you want including going overseas and working at the Peace Corps or a visa or whatever it is. Take two years. Want to go do military? Fine. Want to go to an inner city? Fine. You want to go overseas? Fine. We’ll pay you for two years. Nothing would transform America as having an overseas experience for the majority of people who, by the way, don’t have passports at this moment.
+
+Tim Ferriss: I agree. I could not agree more. We agreed on a few other things earlier when we were talking about podcast questions and I was making some funky mushroom coffee, not of the psychedelic sort, that I’ll describe some other time. But you suggested that I ask people about their email systems. How do they handle inbound email?
+
+Kevin Kelly: Right, because for ordinary people, they get a lot of email. But if you have any level or success or notoriety or prominence, dealing with the incoming in a sane way that actually works is a real mystery to me. People like yourself, or even the other people who get a lot of demands on them, how do you actually deal with email? Do you have more than one account? If you have more than one account, how do you handle it? Do you have your assistant involved?
+
+Tim Ferriss: Etc., etc., there are many different facets to it.
+
+Kevin Kelly: Right, right.
+
+Tim Ferriss: And you mentioned you had a conversation with Jeff Bezos. I said we have to save that for the podcast. So now I have to ask, what was this conversation?
+
+Kevin Kelly: So I had the opportunity to ask Jeff at some point about his email. Because I wanted to send something. I said, “Who do I send it to, how do you do your email?” Again, I think this is probably a ten-year-old answer. So I can’t verify this is happening. But he said, “I finally figured out what to do. So here’s is what it is, is anything you send to me,” and actually, his email is fairly well-circulated. He says, “Anything you send to me, my assistants will read and they are in charge of responding or doing something with it.”
+
+Tim Ferriss: Right, vetting.
+
+Kevin Kelly: No, to give the appropriate response. “But I also read it all, and since I don’t really normally answer it unless there is something. And then if there is something that I want to respond to, I’ll respond to it. So the worst case scenario that you’ll get two replies from me: from my assistant, if it needs to be replied to, and me.” So in other words, everything goes in a parallel circuit; once to his assistants and they deal with what has to be (and most of it’s probably going to be ignored). Those that need to be done something, they may nudge him or whatever.
+
+And he’s also looking at it, and he can reply personally to it. He said the worst is you might get two. That seemed to be – he has one email and I have gotten responses to that email, and sometimes it just goes and obviously he doesn’t respond to it.
+
+Tim Ferriss: Into the ether.
+
+Kevin Kelly: Right.
+
+Tim Ferriss: Do you still have – this is something that I’ve had to get increasingly better at because the tools and tactics as I laid them out, for instance, in The 4-Hour Workweek still work very well; however, I’ve had to develop more nuanced layers on top of what I did because now it’s thousands of emails coming and hitting me, my assistants, everyone. Deciding how to vet and use tools like Boomerang to schedule things to be set in the future or automatic follow-ups, you name it, moving a lot of internal communication, the slack so it’s separate from the inbox, etc. Do you still have an assistant and a separate researcher?
+
+Kevin Kelly: I do. I have an assistant and a full-time researcher, but they don’t do my mail, so I do all my own mail.
+
+Tim Ferriss: What is your researcher currently helping you with, if you can talk about it?
+
+Kevin Kelly: I would love to talk about it. In fact, we just had a review today. So I’ve been working on a project.
+
+Tim Ferriss: A review meaning that you reviewed –
+
+Kevin Kelly: We have an annual review. I have an annual review with the two people who work for me. So once a year we sit down and we do an employee review, we talk about the past year and evaluate what’s coming up. Her name is Camille, and what Camille is working on is we are gathering every long-term forecast that we can find anywhere, in any of the industries or published anywhere. We’re bringing them together and we’re going to try to integrate all the long-term forecasts into one integrated forecast of the future; long-term meaning ten years or more.
+
+Tim Ferriss: So forecasts could be anything from “this is how we see gasoline prices moving in the next 20 years,” to “this is how we anticipate air travel to the number of seats filled in air travel to move in the next 20 years.”
+
+Kevin Kelly: Right. And we’re going even broader, like the future of sports, the number of attendees at sports game, transportation. We are going through the whole list of things. So she’s been working on it for six months and we probably have another six months of what I call the “official future.” Having being trained in GBN, which was a consultancy that did strategy for global companies, the mantra was that “all predictions are wrong,” and generally, particularly official futures; so there’s official extrapolation. You take what’s been happening for the past five years and you extrapolate. They are invariably not correct, because things jig and jag and new things are invented that disrupt the pattern.
+
+But my premise is that while they’re wrong, that they’re still useful. And they would be particularly useful if they were integrated together. So you would say the future of transportation looks like this and the future of electric cars looks like this and they both can’t be right, they have to inform each other in some ways. So that’s the next step of integrating and having these official futures inform each other and to see if I can make a scenario that’s more useful out of the sum of the parts. So she has been working on that for six months.
+
+She also did the research when I was doing the big cover story for Wired on VR. So for five months I was trying out every single VR headset, input, content that I could and I wrote this article. And the way Wired works, like other magazines, is they have this fact checking which is sort of in some way kind of a legal cover-your-ass thing.
+
+Tim Ferriss: Cover your ass thing.
+
+Kevin Kelly: Which means every single statement that I make has to be verified and proven. Like a scholarly article, like a footnote, which is totally insane but that’s what you have to do. So we were involved in – you say something that seems obvious to you, there’s some statement – “VR, people get sick in it, or they have motion sickness.” “Can you prove that? Where does that come from? How do you know about that?” So she did a lot of the hard legwork in finding the documentation for these kinds of statements that aren’t footnoted in the article, but actually are footnoted in what I turn over to them.
+
+So I have a completely scholarly footnoted article. People don’t realize that, like behind the scenes of New Yorker and Wired and places like that, there is a huge amount of – there is a full-time staff that will fact check every single fact.
+
+Tim Ferriss: Oh yeah. It’s a big, dedicated staff.
+
+Kevin Kelly: By the way, books do not do that and newspapers do not do that.
+
+Tim Ferriss: Yeah. We can spend a lot of time talking about all of that.
+
+Kevin Kelly: So going back to my assistants. I have a researcher who does all that kind of research and anything else I need research on, which that’s the main thing, but this was my one dream was to have somebody – this was even before Google that I could ask – I do a lot of travel. So they sometimes do research on simple things, like is it a sane idea to rent a car in Oman or should I get a driver? So you troll the TripAdvisor boards.
+
+Tim Ferriss: The State Department, [inaudible].
+
+Kevin Kelly: It’s just kind of looking around, yeah it’s that kind of stuff.
+
+Tim Ferriss: How do you decide aside from those types of logistics? How do you choose projects for your researcher to help you with? And you could delve into anything that you’d like. So how do you choose?
+
+Kevin Kelly: Like projects in general? What am I going to do next?
+
+Tim Ferriss: Sure, yeah. How do you choose what you’re going to do next?
+
+Kevin Kelly: Okay. So this has taken me a long time to get there, but one of the questions that I – well you have seen these Venn diagrams of things you like to do, things that other people need?
+
+Tim Ferriss: Yeah.
+
+Kevin Kelly: But for me, there is actually a third important circle. And that’s not just things that I want to do, so that has to be a key thing that I’m good at doing, that’s the second thing. Because there’s lots of things I would have fun doing, but I’m not good at. So they have to be things I’m good at. And then there is maybe would be useful to other people. But this other circle that’s become more important to me is, can anybody else do it?
+
+Tim Ferriss: Yeah, right.
+
+Kevin Kelly: If somebody else can do it, I am not going to do it. I spend a lot of time trying to give away ideas and trying to talk about what I’m doing in the hope that someone else comes along and says, “Oh, I’m doing that.” That’s like whew, what a relief because now I’m not doing that. It’s like I’m talking about this future stuff – if I could find out someone else out there – they write to me and they say “I’m doing that.” I’m like oh, my gosh, thank you. Now I don’t have to do that. And so what I’m trying to look for is really good things that I would enjoy, that other people value, that nobody else is going to do.
+
+That I can’t convince anyone else to do. They think it’s a terrible idea or they think it’s a lousy idea, but for some reason I think it’s a good idea and I can’t get anyone else to do it. I can’t talk; no one will steal it from me.
+
+Tim Ferriss: You’re trying to give it away and no one will take it.
+
+Kevin Kelly: I’m trying to give it away and no one’s going to take it. It’s like all right, I have to do that now.
+
+Tim Ferriss: That’s how I feel about books. So I get asked, “Why don’t you write a book on this? Why don’t you write a book on that?” I’m like, “There are already plenty of good books on both of those subjects.”
+
+Kevin Kelly: Right.
+
+Tim Ferriss: It has to be something that bothers me for so long, but seems like such a crackpot idea for everybody else, I can’t buy it anywhere to scratch the itch. And I’m like, okay, well …
+
+Kevin Kelly: That’s me.
+
+Tim Ferriss: Just to fix that neurosis, I have to address it. So titles are important and you mentioned the title of a book just a few minutes ago before we started recording that caught my attention, because we were looking at the slow creep of books and piles on my table, which is ironically right next to this Marie Kondo book on the Japanese magic of tidying up.
+
+Kevin Kelly: Let’s be more accurate. The book about cleaning up is on a stack of other stuff.
+
+Tim Ferriss: Exactly. Which I took a photograph of because it’s a lot better than it was. It used to be like the trash compactor in Star Wars, and this book on Japanese decluttering would just surf this wave of flotsam and jetsam around my house. It’s a lot better now. But you mentioned that another book called All Too Much –
+
+Kevin Kelly: It’s All Too Much, and it actually preceded her book at least in English. I thought it was so valuable, that in this really huge book I did called Cool Tools, I list it as the very first tool, which was how to deal with all this stuff, how not to have a bunch of stuff. I actually gave it a whole page because I thought the message was so profound. Because it’s not about tidying up and cleaning, he talks about the fact that if you have something that is valuable, you need to show it.
+
+Hiding things, if you have collections and they are not visible, then they are not working for you. He’s not against collecting things, but if you collect them they have to be prominent. They have to bring you joy, they have to be doing something in your life. What you want with decluttering is to remove the junk so you have room for your treasure.
+
+All these things where it’s not about the stuff. It’s about your mental state, your openness to new ideas. And the clutter is, in some ways, prohibiting your self-fulfillment, the best you. Because it’s hiding, you’re buried under it. There is this sort of – I wouldn’t call it pop psychology – but it is a little bit about trying to get at the core of what you are about, what your house is about, what your life is about, and making room for these things, and the kind of that techniques he uses are very similar to what the Japanese gal, I can’t remember her name –
+
+Tim Ferriss: Kondo.
+
+Kevin Kelly: Kondo. Which is you pick up something and does that object give you joy? Actually, what she does is different. She says take everything in your house, and she goes by categories. Put all your clothes in the center, make a big pile, and by default, you’re going to get rid of all of them. But as you’re going through, if you pick up something that gives you joy, that’s what you keep.
+
+Everything else is just gone. The same thing about all your other possessions. Category by category you decide they’re all by default going to be gone, and you only retrieve those things that give you joy. That’s a little bit what he’s talking about in that same kind of profound way.
+
+Tim Ferriss: I did try this; I gave it a good college try, and I did find certain aspects of it very helpful, but then the joy part – I picked up these printouts that were legal documents or tax returns and I’m like, not joyful. This is not giving me joy. But it would be very neglectful and irresponsible of me to throw these out. Now what, Marie Kondo? The topic of simplicity is one that I try to consistently return to because our lives tend to interrupt you, right?
+
+Kevin Kelly: Right.
+
+Tim Ferriss: What books or resources have you found helpful for simplifying your life? And if that’s not the right question, you can tackle it a different way.
+
+Kevin Kelly: Well I think it’s all too much of this decluttering and her books are actually helpful in simplifying things. I am maybe not as big a fan of simplicity as you are. I think our lives are inherently more complex than our parents and our grandparents and our children and their grandchildren and future generations will be more complicated. I think that is generally the drift of this thing we call life and evolution and technology, and they’re going to become more and more complicated.
+
+I think right now some people are very upset over our kind of distracted manner or the way we skip through or surf through the nets and internet and social media. I actually think that a very sane response to the environment. Where we have to scan because things are much more complicated and we’ll do more scanning in the future.
+
+I think maybe there’s appropriate kinds of complexity; complications maybe we avoid and complexity is okay. The thing about life is that it surfs a very fine line between rigid order, which is death, and complete chaos. There is this edge of chaos, they call it. There is this edge where there’s this particular kind of falling forward or particular kind of chaotic order, or orderly chaos, or something. I think it’s not rigid simplicity and it’s not just overly chaotic complications. There is a very fine variety of complexity that is not just healthy, but it is the source and the genius of health, wealth, and everything else that we want.
+
+Tim Ferriss: So I think I might be able to ask a better question, which is, in face of the notifications and social media pings and so on and so forth, a lot of people feel anxious and they feel conflicted and over committed. Maybe you just mask it really well, but I’ve never had that feeling from you. I’ve never gotten the impression that you feel those things. Why not? Are there particular rules or ways that you –
+
+Kevin Kelly: There is one thing and that is – and maybe this is kind of a Zen thing. The Zen mantra is “Sit, sit, walk, walk, don’t wobble.”
+
+Tim Ferriss: I haven’t heard that before.
+
+Kevin Kelly: Yeah. So it’s this idea that when I’m with a person, that’s total priority. Anything else is multi-tasking; no, no, no, no. So I have a priority.
+
+The people to people, person to person trumps anything else. If there is anything else going on, whatever. I have given my dedication to this. If I go to a play or a movie, I am at the movie. I am not anywhere else. It’s like 100 percent I am going to listen. If I go to a conference, I am going to go to the conference.
+
+Tim Ferriss: That’s true. I have never seen you on a device while with or near other people.
+
+Kevin Kelly: Right.
+
+Tim Ferriss: Now that I think about it.
+
+Kevin Kelly: Even at Wired. I had the rules of if I’m with a person to person and the phone rings – no, never. If I’m on the phone and a notification rings – no, I’m on the phone. So I think this sense of, and you can have a priority if you want, whatever it is. But it’s sort of like I’m going to give, I’m going to be present, whatever that is, at that time and everything else we’ll deal with it later.
+
+Tim Ferriss: “Sit, sit, walk, walk, don’t wobble.”
+
+Kevin Kelly: Right.
+
+Tim Ferriss: What books have you found have given you – and I always come back to books (it doesn’t have to be books – sources, something that people listening could look at themselves or listen to), have given you rules like that or maxims or sayings that have proved very useful?
+
+Kevin Kelly: Well, I come from religious tradition and I actually think some of the religious texts are very good for that. I think it’s very hard to read the Bible all the way through. By the way, I recommend that you do that at least once in your life. No matter who you are, sit down – well, it will take a long time. But read through the Bible and read a modern version. It will take you some time. It is probably the most amazing thing you haven’t read yet. It’s highly disturbing, highly influential and whatever your opinion about it is, you’re going to be wrong. Whatever you think, whether you think it’s the greatest – read it through it’s an amazing book. I say the same thing about the Koran. Try to read the Sufi stuff. There is nothing that I enjoy more than at night reading Rumi.
+
+Tim Ferriss: Yeah.
+
+Kevin Kelly: I mean it’s just something about it. He’s a Sufi mystic from Afghanistan who is a transcendent, thought leader maybe like Seneca or something. He has tremendous wisdom. So I think the wisdom of the ancients, in general, have a lot to offer us and I think reading the Zen parables, you know, the sound of one hand clapping, Zen mind, beginner mind – these kinds of things. For me, that kind of wisdom – it’s not like you have to slavish or obedient to them. Take what you find useful, move on. But I found a lot of use in those texts.
+
+Tim Ferriss: So we have in a sense these timeless philosophies and belief structures that can help us make better decisions and so on. Then we have subject matter expertise of different types that can become more or less relevant over time.
+
+We were chatting before we started recording about a question that I get asked all the time. Which is, what industry should I be paying attention to in the next three to five years? What skills should I learn? And most of these are business focused – but what skills should I learn to be able to take advantage of new, non-obvious industries in the next 10 to 15 years?
+
+Kevin Kelly: Right.
+
+Tim Ferriss: You mentioned, and I might be getting the wording here off, but sort of tech literacy?
+
+Kevin Kelly: Techno literacy.
+
+Tim Ferriss: Techno literacy, different types of literacy, can you elaborate on that.
+
+Kevin Kelly: Right. So let me put it, again, into a little bit of context. I’ll talk a bit more, but let me just preface and say that I do talk a bit about this in my new book called The Inevitable.
+
+Tim Ferriss: Yeah, I have one of the few copies right here in front of me.
+
+Kevin Kelly: Tim has one of the first copies off the press. It’s talking about the next 20 to 30 years, mostly about digital technology and the trends that I consider non-negotiable, inevitable in the sense that there is not much we can do about it.
+
+There’s a lot we can do about the specifics, but I don’t know about the bigger trends. They are coming whether we want them to or not.
+
+Tim Ferriss: The Inevitable subtitle, “Understanding the 12 Technological Forces that will Shape our Future.”
+
+Kevin Kelly: Right. And one of the first chapter talks about this question of skills. I think that the specifics, like what language should I be learning in school? Or what business skills should I have? I think what I think are more useful and what I counsel even my own kids about, are there are these mental level skills. The skills of learning how to learn, the skills of learning how technology, in general, operates, which is what I would call the techno literacy skills. An example of a techno literacy skill is that besides the initial purchase cost of the technology, whatever you buy you, you now have a maintenance cost.
+
+That maintenance cost is making sure that it’s upgraded or integrated, or just maintaining it in some capacity. So there are several levels of the cost. It’s not just how much does it costs to buy, how much does it cost to maintain in your life. There’s a price to dealing with it when it breaks down, upgrading. It’s sort of like owning a boat, a little bit. It’s not the initial cost of the boat, it’s the maintenance that really is the costly part. And the same thing with anything that we buy. So if you get something into your house, there is now a relationship with that thing. It’s like having a pet or an animal or something. You have to deal with it and its interaction with other things. That’s just an elementary thing. There is also a negative cost too, in terms of whatever it is that we have, there is going to be some downside. Journalists are usually pretty good about identifying. You should pay attention to what people say about the negative aspects of it because they are real.
+
+It’s not that they should discourage you from using the technology, and I’ll argue that it shouldn’t, but we should be aware of them and willing in a certain sense to pay the price.
+
+Tim Ferriss: What would be an example, a clear example to you of a technology with a downside that perhaps is underappreciated or downsides that are underappreciated?
+
+Kevin Kelly: Automobiles kill one million humans on earth every year. Now imagine if we were going to introduce automobiles and say here are cars. It’ll kill one million of us, do you want to drive it?
+
+Tim Ferriss: Not the best pitch I’ve heard.
+
+Kevin Kelly: I know, but that’s what I’m saying. I’m saying there are all these hidden – but that’s real and this is one of the reasons why I think driverless cars are going to – even though they will – here’s the thing. The first driverless car that kills a person, people will go completely bananas, but we are killing one million of them ourselves. That’s not registered for some reason. It’s like, that doesn’t count?
+
+Tim Ferriss: Yeah, they’ve lost the reference point.
+
+Kevin Kelly: Exactly. So there is going to be driverless cars will kill some people, but they are not going to kill as many as we kill. So in evaluating that, in evaluating whether you want to get in – there are going to be, by the way, ethical issues with driverless cars because we give ourselves a pass when we have an accident. It’s like, I didn’t have time to react or I wasn’t thinking. But the driverless car has to be programmed. And so you have to give it a preference. If there is an accident, do you give the passenger safety preference over the pedestrian?
+
+Tim Ferriss: Right. Or do you give the three elementary school kids –
+
+Kevin Kelly: The trolley problem.
+
+Tim Ferriss: Exactly. The trolley problem. Over the seven people who are 70 years old.
+
+Kevin Kelly: Right. So when you go to buy a car and Volvo says, “We give passengers preference,” is that ethical?
+
+Tim Ferriss: Is the programming one of the selling points? You are 12 percent less likely to be sacrificed in compromising environments.
+
+Kevin Kelly: Exactly. So techno literacy is to like say we need to cognizant of this, if there’s cost, if there’s ethical dimensions to this. And there are other techno literacy skills, like the fact that you don’t really want to learn a language, a programming language, you want to learn how to learn a language, because you are going to have to relearn it later on and you want to understand that when you buy something, it is immediately obsolete, right? It’s always, by definition. So one of the things I recommend is you want to buy things five minutes before you need it not ever before. There is no sense in hoarding this stuff because it’s just going to change just in time.
+
+Tim Ferriss: Just in time. Just in case.
+
+Kevin Kelly: Exactly. So there are things, I think those kinds of skills are going to much more useful. I think I might have said this before, but when I was at Wired and we were doing hiring, first of all I never looked at anybody’s educational background. I looked at their experience. The model that I had in my head was you hire for attitude and the skills we’ll train. We’ll train for skills. I wasn’t really hiring people for skill set per se, it was more of their attitude, their orientation, their techno literacy, their ability to learn and adapt. That was far more valuable than the particular skills they had. Now at some level, skills play into it and sure, there is a certain skill requirement, but I think maybe as important is these other levels.
+
+Tim Ferriss: Now it makes me think of this, I think it’s a bit from Neil Gaiman’s commencement speech “Make Good Art,” but he says at some point he realized that there are three important components if you want to keep a job.
+
+It is get along with people, have people like you, deliver things on time, be good at your job. He said, the good thing is you don’t really need all three, you just need two out of the three. If you have two out of the three, they’ll keep you around. Do things on time, have people like you, or be really, really good. He’s like, you only need two of the three.
+
+Kevin Kelly: Do things on time is really great, but in terms of other people who are self-starters, like if you don’t have a job if you’re trying to do something, the equivalent of that is to just do lots of it over and over and over again. I can’t emphasize how important that doing it a lot is, because the only way to get through, the only way to find out what you’re really good at or if no one else can do, is basically a lifelong project.
+
+Tim Ferriss: You have to throw a lot against the wall and see what sticks.
+
+Kevin Kelly: You have to do a lot and lot. The more failures you have, the more successes. It’s a really, very clear ratio that’s linked. You just have to do a lot. That’s the only way you can find out what you’re good at. Because how many college kids, young people coming out, they say “I don’t have a passion. I don’t know what I’m good at.” The only way that I know to find out your passion is to actually work to it by trying lots of stuff and becoming expert at something.
+
+Tim Ferriss: Right. Well, in a way this might sound clichéd, but instead of discovering yourself, you’re creating yourself. These kids (kids – I sound like such an old man) but these young people who graduate from college and then they want to sit down and journal for ten minutes or take multiple choice tests to figure out their Myers Briggs and have their kind of assignment for passion. I’m like, that’s not how this works. You’re not a block of ice that is being chipped away to reveal the sculpture underneath.
+
+You’re actually just a small piece of clay and all the other bits and pieces need to be added. There is a kernel of it that is you, but you need to construct that and the way you do that is by doing these experiments and trying X, Y, and Z and everything else in between. I still feel like I’m doing that.
+
+Kevin Kelly: I’m still doing that. I’m almost 65; I’m still doing that. And the people that I respect the most in my circle are still doing that. They are still asking themselves at 70 years old, what I am going to do when I grow up? I mean, it’s like who am I? What am I here for? Should I be doing this? And that’s actually why I respect them so much because they are still constructing their life rather than discovering it or finding it. They are constructing it and I think that’s a really wonderful metaphor.
+
+Tim Ferriss: You said a while back when we were just putzing around in my living room looking at the living wall and what not; you said there are no VR experts.
+
+Kevin Kelly: Right. So I wrote this big cover story in Wired about VR, and a couple years ago I wrote about AI and, by the way, these are the kinds of things that are in my book, The Inevitable, where I’m looking at these things which are coming. AI is coming in a big way, VR is coming. The particulars of how it arrives, who owns it, how it’s structured – those are not inevitable, those are not predictable. They make a lot of difference to us. So we have a lot of choice in this thing. But one of the things I want to emphasize is that right now, basically, there are no VR experts. It’s completely open. Really, we (collectively) humans have no idea how VR is going to work, what content will really work best in VR, what the necessary amount of equipment will be, what that consumer breakthrough version will be.
+
+Even though there is VR today, the VR today is good enough improve. So it hasn’t been good enough to improve but now today with the Oculus and the Vive and this other stuff, it’s now good enough to improve for reasons I can talk about. It will improve very fast, but there are no experts. So that means that a person out there listening to this, could easily become a VR expert, okay? There are really no AI experts. There are a lot of people working on AI, but compared to what we’ll know in 20 years from now, we don’t know anything. So it’s actually not that difficult to become an AI expert.
+
+Tim Ferriss: So let’s say someone listening said, you know what? I’ve read about VR; this is really exciting. I’m tired of my comparative literature major. I’d like to switch gears and really immerse myself.
+
+What would you suggest they do? If they seemed earnest, intelligent, they were committed, they were like I want to become a VR expert or AI, you can take your pick.
+
+Kevin Kelly: Yeah. There was a guy, Kent Bye, who runs the Voices of VR podcast. Two years ago, he quit his job and has interviewed 400, he’s done 400 interviews of almost every person working in VR. That’s his job now is he just does interviews of the voices of people working in VR. He’s doing the journalistic side. I would say it’s very easy, which is you purchase some gear and you start making VR; you actually do it. You buy or you get a pair of Google VR, Cardboard, which you can get for free. Use your phone and start making VR.
+
+You’ll learn more about it than reading about it, than working, whatever it is. Try to make a VR experience. Make something for five minutes. The issues are incredible. There’s lighting issues, there’s continuity issues. We don’t even have a vocabulary for editing. Like in cinema we have syntax of what a cut is.
+
+Tim Ferriss: Right.
+
+Kevin Kelly: How do you do a jump, a dissolve.
+
+Tim Ferriss: A panning shot of X, Y, and Z.
+
+Kevin Kelly: We don’t have any of that. None of it really works in VR. It doesn’t mean the same thing. So someone has to invent all of those. The interface, the mouse; there is no mouse for VR. There are people who have invented it, but there is nothing that has worked like Windows and the mouse that Engelbart made. So there is so much that has to be invented and that somebody who just decides that they’re going to work at this every day or every day on weekends or whatever it is, can make a huge advance. I think you’ll need to do it because you love it. Because this is not economics; we’re talking about investing into mastery.
+
+Tim Ferriss: I was having a chat with Marc Andreessen recently and he said, what did he say? I just had a complete mental blank. I need more tea. He said a lot of very interesting things. You will hear about them another time because I just had a complete premature Alzheimer’s moment so that’s going to have to be a footnote for later. What are you most excited about right now?
+
+Kevin Kelly: I’m going to take that in the professional sense.
+
+Tim Ferriss: You can take it in any sense. No, I really mean that.
+
+Kevin Kelly: Well, in the personal sense, I’m still very excited about Asia. Asia is the culmination for me of the future.
+
+You asked me before about – I go to China to hear what the future will be and also because I have a love for the Asian traditions that are disappearing very fast and I’m trying to record them. So I go to Asia to photograph these disappearing traditions, ceremonies, and what not. Tim was just joking that I came back from Kerala, India, where I was photographing these massive elephant precessions that the temples have, with 40 elephants parading through and all kinds of ceremonies. I don’t know how long they can continue that.
+
+It’s a very expensive, elaborate spectacle, not just in one place but throughout the rural areas. It’s like other areas that as they become modern, some of these traditions become hard to hold onto. I’m not nostalgic about wanting to keep them or protect them, I just want to record them, because I think they will go away.
+
+So that excites me. I’m working on another book, and that’s personally something I love to do for joy. That’s the only reason. Just because I love to record and document these things and see them. But the other thing I’m excited about in the world of the future is AI. I can’t overestimate or over-enthuse on the disruptive nature that I think AI will be in the broadest sense. Many people use analogies and I have several analogies, but the one that maybe would make sense to most people was the industrial revolution was this huge thing from the world of agriculture, where we used our own physical muscles and the muscles of animals to get things done.
+
+And then we had this thing where we automated that with artificial power, artificial electric power, and steam power, and later gasoline power. This is artificial animal power, artificial human power that we used to make our lives so much easier and so much different. Everything our whole lives – in fact this house has been built using this automated power. Imagine if you had to make it by hand; it’s just insane we couldn’t do it. So all these motors and the harnessing of that power propelled this industrial revolution in the modern world that we have. 150 years ago, farmers would take an item, like a hand pump, and say we’ll make it electric.
+
+So they took things and they electrified them. What we are doing now, we’re at the very beginning of it, is we’re going to take all the things that we electrified and we’re now going to cognify them. We’re going to add intelligence to them.
+
+Everything – and not just things that are electric, but even inert things, like a chair, like the door. People laugh, or they say you’re going to put a computer in a door? 20 years ago or 30 years ago. Yes, go to a hotel today, there is a computer in your door, there is a little card reader. So we’re just going to keep adding this and it’s going to get smarter and smarter in multiple different ways. So that intelligence, what I call artificial smartness, is not human intelligence. It’s like artificial power. It’s like synthetic learning. It’s just very specific, narrow, brute force kind of intelligence. So while we can think of our lives as having – when you drive a car, it’s what? 240 horse power? You have 240 horses at your disposal.
+
+Then we are going to do the same thing with AI like you’re going to have like 250 minds right here to do whatever it is that you want to think about or solve. You just hire this. And so it will be like electricity in the sense that you’re not going to make the AI, you’re going to buy it from the cloud.
+
+Tim Ferriss: It will be like Amazon web services.
+
+Kevin Kelly: Exactly. In fact, Google is selling their AI. You can purchase AI from Google today. And that’s what we’ll do, yes; $.60 cents per thousand instances.
+
+Tim Ferriss: Really?
+
+Kevin Kelly: Yes. Google AI can do amazing things, like it can look at a picture and tell you what’s going on in that picture. And you can actually ask it questions. You can say what’s that person wearing? What color is that hat? What are they doing with it? And then it will tell you back – $.60 a thousand.
+
+Tim Ferriss: So what would your response be to those who have fear of the rise of the machines? Skynet and creating the summoning of demons that we can’t control, etc. How would you respond to that or comment on it?
+
+Kevin Kelly: I would say first of all, it’s possible but very unlikely.
+
+Tim Ferriss: Why do you say that?
+
+Kevin Kelly: A lot of reasons. One is that the general trend is that automation, including this AI, will create more jobs than it destroys. It will take a lot of jobs away. I think in 20 years, at least 50 percent of the people driving trucks will no longer drive trucks. And by the way, truck driving is the most common occupation in the US.
+
+Tim Ferriss: I did not know that.
+
+Kevin Kelly: So 50 percent of those won’t have jobs. Especially long-haul trucks and stuff like that. So there will be jobs. I like to think that there are tasks that are going to be taken away. So automation, including white-collar tasks like mortgage, people working in banks all this kind of stuff, anything. If you have a job that’s defined by productivity or efficiency, that’s a job that is going to go to AI. So productivity is for robots, okay?
+
+Tim Ferriss: Yeah.
+
+Kevin Kelly: Productivity is for robots. What humans are going to be really good at are asking questions, being creative and experiences. So almost everything in our world right now is becoming cheaper and cheaper in cost. The few things that are increasing in cost are all experience based – tickets to a concert, tickets to Hamilton, and tickets to travel, personal coaching, nursing care, and weddings. Those are the things going up in price because they’re not commodifiable, they’re not able to be manufacturable – they are experienced based. They’re not efficient. Science is terribly inefficient. You’re not learning anything unless you’re making mistakes; that’s inefficient by definition. Innovation is inherently inefficient, so we will move to those things, and they don’t all have to be highbrow.
+
+Again, nursing care, being a companion for someone, giving them attention, giving them an experience, so there is a big room there. But I think we’re going to move away from things that are being measured in terms of efficiency because anything that’s concerned with efficiency, whether its white-collar, knowledge work, or physical work, goes to the robots.
+
+Tim Ferriss: What has been the most impressive VR experience or profound that you’ve had?
+
+Kevin Kelly: So this is a good question, because I saw them all and I saw “The Secret of Magic Leap,” which had a really good visual representation, but it turns out –
+
+Tim Ferriss: Magic Leap being augmented reality?
+
+Kevin Kelly: They call it mixed reality, because it’s the kind where you have a clear glass that you’re wearing. Like Google glass, but you have a full vision and there is synthetic or an artificial object or a being or something in your vision. So we could be looking around this room and I will have these glasses on and I could see either a virtual screen, or a virtual tea cup, or a virtual book, or a virtual animal and it would look – it would be really present.
+
+Tim Ferriss: For people who want to just get a sample of this, I’m sure you could just Google it, but there is also a really, I thought, a good piece written by Chris Dixon on “What’s Coming Next in Computing,” I think was the title, the headline, and there is a little animated gif of Magic Leaps.
+
+Kevin Kelly: Magic Leaps, right.
+
+Tim Ferriss: A demonstration of this little sort of, it looks like a Japanimation robot hanging out under someone’s desk.
+
+Kevin Kelly: Desk, right. It’s very vivid and I saw the robot and so there are several things about where it doesn’t work. Where they have to improve is that object is not lit in the same way as the rest of the room, so there is a little mismatch. To light that thing and render it in real time with the light in the room – we are way off on that. So what you have is you have an artificial thing that’s really there. It’s like having a cartoon thing. You know it’s not really real but it really is there.
+
+Tim Ferriss: It’s like Who Framed Roger Rabbit.
+
+Kevin Kelly: Yeah, but that’s very useful. If you’re designing a prototype and you can actually walk around and you can have a virtual screen. So they talk about this being the “last screen” because within it, if you wear these goggles you can have virtual screens that are very highly detailed. I could watch an HD movie in it without any discomfort at all. So you can have as many screens as you want and you’re interacting with them. But you just take off the goggles and they’re gone. Which means you can also make them appear anywhere you want. So this is the future of work and you can actually have teleconferencing, which is another thing were you have a virtual person next to you. That is amazing and it’s something I would pay, I don’t know, thousands of dollars for right now if I could have that.
+
+Tim Ferriss: So were you, in general then, does that mean more impressed by the augmented reality, or mixed reality than virtual reality?
+
+Kevin Kelly: Augmented or mixed reality is the more difficult of the two to do, and if you can do mixed reality, you can do VR just by turning the lights down, making it black. So technically, VR is a subset of the mixed reality.
+
+Tim Ferriss: Understood.
+
+Kevin Kelly: Okay? So the visual accomplishment of Magic Leap is there but that wasn’t the most amazing experience that I had. It turns out that the visual is only 50 percent of your sense of experience. It’s the tactile; it’s the audio and the feeling, and using your hands and your body. The best experience I had that was really amazing was something called the Void, based in Utah. They are making an arcade version on VR, where they provide all the equipment and you go in and you pay for an experience, say for a half an hour. You pay $30.00 for 30 minutes.
+
+And you go in and they’re going to give you a full vest; you’re suited up and it’s amazing. It really is because they mix the real and the virtual. So let me give you an example: there’s something called redirected walking. The way redirected walking is, is imagine you have your goggles on; you see something inside and you turn 90 degrees, a hard 90-degree turn to the right. But what you’ll see is only an 80-degree shift. They are cheating you 10 degrees. And they can compound that cheat so that you think you’re walking in a straight line for a mile across this amazing city scape.
+
+Tim Ferriss: Oh, but they have you going in a slight arc.
+
+Kevin Kelly: But you’re going in a circle.
+
+Tim Ferriss: Okay, that’s wild.
+
+Kevin Kelly: You’re going in a circle and you don’t know that. And they can do redirected touching, where you’re grabbing things and you think you’re grabbing different things, but it’s the same thing. Or even stairs that you think you’re walking up the stairs, but it’s just stairs that are cycling through.
+
+Tim Ferriss: Like they’re rotating.
+
+Kevin Kelly: Right. So they are able to give you a 30-minute, where you’re exploring this incredible thing, and it’s just a little tiny room.
+
+Tim Ferriss: Wow.
+
+Kevin Kelly: Okay? And here’s the other cool thing they did in this. So you’re wearing this vest, this haptic vest that’s vibrating and doing all kinds of stuff. They had you go up this elevator and you’re on the second story and it’s kind of like this Indiana Jones demo that I saw. And there is this floor right before you and it’s rocky and it’s not very stable and you need to get across and you’re walking across and you fall down two stories. And what happens is that you’re on a platform that moves six inches, but you have just fallen two stories, okay?
+
+Tim Ferriss: Wow. That sounds terrifying.
+
+Kevin Kelly: Well no, it’s exhilarating.
+
+Tim Ferriss: So does the floor just drop out from under you like cartoon-style?
+
+Kevin Kelly: Yeah.
+
+Tim Ferriss: And then you’re floating for a second and then you drop?
+
+Kevin Kelly: Yeah, exactly.
+
+Tim Ferriss: Oh, my god.
+
+Kevin Kelly: Well, the point of all this is –
+
+Tim Ferriss: I hope they have great waivers.
+
+Kevin Kelly: The point of all this – because in only moves six inches. The point of all this is that there are all these tricks to what we assign our own believability of what is real, where we are. Just like cinema exploits a trick of our vision. You think Mickey Mouse, which is not a real character, is throwing a baseball, and you see that ball as really moving across the screen but there is no movement right? There is only a series of still images that we can assemble in our brain. VR is exploiting that similar set of new discoveries so our bodies believe that these things are happening. Our minds know.
+
+Tim Ferriss: Well it’s like going from optical illusions to full-body sensory illusions.
+
+Kevin Kelly: Exactly. And this turns out to be very important. So what I say is and what I discovered from looking at this VR, is that we are moving from an internet of information where you can get any information anywhere in the world. Anybody who lives anywhere can have all the information they want, to an internet of experiences. These are very powerful experiences. So it’s not just the experience of horror or falling, but all kinds of other experiences that we’re going to have. And when you’re there, you come out of these VR and it’s not that you remember seeing something, you remember something happening to you. It’s a much different presence. In fact first-person shooter games turn out to be a little too emotionally exhausting when you’re in VR.
+
+Tim Ferriss: They produce PTSD if it gets real ugly.
+
+Kevin Kelly: Yeah. There was this VR documentary of going to a pig slaughter, and you’re in the shoot with the pigs.
+
+Tim Ferriss: Oh, God.
+
+Kevin Kelly: People said I could watch that but I can’t –
+
+Tim Ferriss: Go through it.
+
+Kevin Kelly: – go through it. I can’t be in there. There was another demo someone had and it was called killing the alien where you have to stab this alien being. But there’s haptics involved and stuff.
+
+Tim Ferriss: What do you mean by haptic?
+
+Kevin Kelly: Haptic is this term for tactile, of sense, touch.
+
+Tim Ferriss: Got it.
+
+Kevin Kelly: They call it haptic technology and it means that when you grab something there is a response to it, or you can feel it.
+
+Tim Ferriss: Right, there’s a resistance or texture.
+
+Kevin Kelly: There’s a texture and there’s a lot of work into how do you get that sense that you’ve grab something or you can feel something.
+
+Tim Ferriss: How far do you think we are from VR sex?
+
+Kevin Kelly: Well, let me tell you. I had a great one last night. Well, there’s teledildonics.
+
+Tim Ferriss: Teledildonics – where you can remotely control various sex apparatuses.
+
+Kevin Kelly: I saw these guys who have a technology for what’s called volumetric capture, 3-D volumetric capture.
+
+Tim Ferriss: I’m getting all sorts of terrible images in my head.
+
+Kevin Kelly: Right. So volumetric capture is – they use like seven or more cameras to record a person in all their detail, so that when you see them in VR, they’re moving around and you can see every single hair.
+
+Tim Ferriss: So I have been volumetrically captured before.
+
+Kevin Kelly: Live or just a snapshot?
+
+Tim Ferriss: It was a still.
+
+Kevin Kelly: That’s the difference. This is not a still.
+
+Tim Ferriss: No, understood. But even the still was eerie because it was exactly me. It was mapped with – if you zoomed in you could see these tiny little grids and it was like, whoa, okay.
+
+Kevin Kelly: Right. So the volumetric capture of live movement is amazing because – and you’re in a 3-D presentation of it. I felt uncomfortable even getting close to that person.
+
+Like you’re in their space. You react to it; you really feel like they’re there. If they’re giving it eye contact and a voice, you have a total – like again, going back to the body, maybe your mind says they are not really there but your body is saying they are there, that’s them. It turns out that Second Life is now doing a VR version called Sansa. It’s a thousand times better than the old Second Life because those avatars are getting their body language from that person. They are getting the voice and they have the eye contact. Even if their avatar is not exactly them, you can still see them with their voice and their body movements and their micro expressions, they’re really there.
+
+Tim Ferriss: When do you think the haptic technology will be at a point where –
+
+Kevin Kelly: Okay we are back to sex?
+
+Tim Ferriss: Yeah, oh yeah. Dating in San Francisco is a real pain in the ass. I could skip the pleasantries and just have –
+
+Kevin Kelly: Well, the reason I mention the volumetric capture, as I was saying, this is amazing. I was saying, sex, right? They were saying “Those are the first people who had come to us. All the porno. They were the first; we have got to have that.” I think I’ve heard that PornHub actually has a VR channel now or something.
+
+Tim Ferriss: It wouldn’t surprise me. It’s the most popular website in the world that no one admits to going to.
+
+Kevin Kelly: Right. They have been way ahead in terms of their use of video grammar, the summaries, and stuff like that. So I haven’t seen it personally, but I think that to answer your question, I’m sure that right now there are probably one or two places that have probably put this together.
+
+Tim Ferriss: So if you were a betting man, if you had to be; would you say available to those who can afford it in five years?
+
+Kevin Kelly: Absolutely, less than five years, absolutely less than five years. The Void is, I think they’re already opened. It’s here. To outfit your whole body like this, it’s doable now. I think this is going to be – things are going to be mostly regulated by economics and then the law, like where this is going to –
+
+Tim Ferriss: Yeah, things are going to get really, really messy.
+
+Kevin Kelly: Like is there someone on the other end, or is this a simulation, is this AI?
+
+Tim Ferriss: Right. Are there like actors like The Diamond Age by Neal Stephenson? Are they people who are outfitted with their own haptic suits who you’re interacting with? In which case, which types of laws apply?
+
+Kevin Kelly: Right and if you’re in different states. I think this will be a very sticky problem.
+
+Tim Ferriss: Nice. What are people worried about right now that you think they shouldn’t be worried about? The only reason I ask –
+
+Kevin Kelly: That they shouldn’t be worried about? I think the idea of the AI taking over and killing us all, cross that one off. I think they shouldn’t be worried about GMOs, cross that one off.
+
+Tim Ferriss: They should not be worried?
+
+Kevin Kelly: They should not be worried about GMOs. We genetically modify all the crops that you’re eating. We do them in different ways. We do it through breeding or whatever it is, but they’ve all been modified. Actually, if you want to modify the crops, modifying their genes with CRISPR is a lot better than trying to modify then with breeding because with breeding you have no control over what happens.
+
+Tim Ferriss: It is a much more elegant process. So CRISPR you’re not concerned about?
+
+Kevin Kelly: No. There are things I am concerned about. In fact, I just saw a documentary last night which will be released pretty soon it’s called Zero Days.
+
+The theme of it – it’s very well done, not sensational – it looks at the Stuxnet virus, which was a computer virus that was invented, developed by the US and Israel to demolish the Uranium processing centrifuges in Iran. The message is, they were looking at can you really destroy physical things with a computer virus? The answer is yes, you absolutely can. We are at the point where you can actually affect the physical infrastructure with computers. Then the question is, what the rules are for that? And is that an act of war?
+
+Tim Ferriss: Like the Geneva Convention.
+
+Kevin Kelly: Right. And it turns out there are no rules. And yet, the US and others are developing these technologies and nobody wants to talk about them because they’re all classified and therefore, no one wants to admit to it. Therefore, you can’t even have a conversation about it.
+
+And yet Iran retaliated. They made the largest cyber army in response to the efforts to take them down, which did not work in the end. So there already is cyber-warfare going on, but it’s not being talked about, it’s not being admitted. The US government won’t talk about the offensive. There are all the other countries that are now building capacity. And what are the rules? Is it okay to disrupt the banking system? There’s going to be collateral damage. What’s accepted? I think that we don’t have any rules for cyber war is something I’m really worried about.
+
+Tim Ferriss: Yeah. I remember at a conference a few years ago, this very well-respected technologist got up and talked about precisely this, cyber warfare and some of the scarier scenarios and the potential tactics that could be used.
+
+For instance, if there were a natural disaster in San Francisco and people went to Google (assuming there was still internet connectivity) to try to determine how to respond. If someone could initiate the disaster somehow and then also figure out a way to present certain search results that were misinformation, maybe even more elaborate than is necessary. Like maybe that’s the 007 bad guy, like “I’m going to leave you here with this sophisticated laser set-up while I go have a sandwich. Mr. Bond, I’ll see you in 20 minutes,” and then he gets away?
+
+Maybe it’s a lot simpler than that. Maybe it’s taking out electrical grids with different types of viruses or electromagnetic pulse weaponry. Or, for that matter, I’ve been astonished at how vulnerable a lot of this stuff is to just long-range marksmanship, for instance. It’s like old technology applied to an increasingly fragile, in some capacities, internet of things.
+
+Kevin Kelly: Right, exactly. So when you introduce AI into that, as the US Pentagon has just got some funding to have AI do this kind of stuff; to weaponize AI, basically. I’m also worried about that. Kill decisions, this idea of right now we have legally mandated assassinations in the US. We have assassinated US citizens, okay?
+
+Tim Ferriss: Can you elaborate on that?
+
+Kevin Kelly: With the drones.
+
+Tim Ferriss: Got it.
+
+Kevin Kelly: The drone program will take out a declared individual. We killed what’s his name? He was an American Citizen in Yemen, I guess? And they targeted him and they killed him. There was no trial; there was nothing. So we now have assassination. But these drones usually have people back in Nevada steering them.
+
+And they usually have generals and there’s a whole chain of command involved in the kill decision. But increasingly there is pressure to expand this kind of warfare because you don’t have to have troops on the ground. The American public seems much more sympathetic to sponsoring warfare this – and as that increases, there is a need to have autonomous. So there’s a very long feedback loop to come back and have humans decide on this or that. If you could have autonomous AI-driven drones that didn’t need that, then they could actually be making these decisions. That’s scary; that’s very scary.
+
+Tim Ferriss: Do you think just because this is also a topic of common debate in Silicon Valley in the AI circles. There were some people who say if you look at DeepMind or some of these other AI-focused groups in the US, they have ethics committees; they are collaborating with one another to look at safeguards. The real people you need to be worried about are sort of the fast-moving solo acts in places like China; in places like fill-in-the-blank, who do not have that safety-first mentality. And people would argue that maybe that’s not the case in the US either in certain places. But if someone is going to cause a big mess with AI, what are the characteristics of that?
+
+Kevin Kelly: AI is still so early in it that I wouldn’t hazard a guess, but I do acknowledge and I would emphasize that this is a global enterprise, and the Chinese are very keen on making AI.
+
+The three ingredients you need for AI these days are these deep neural nets, like DeepMind. And then you need huge farms of GPUs, graphical processing units, which have been commoditized but the video game industry.
+
+Tim Ferriss: Like in video chips.
+
+Kevin Kelly: It turns out there are parallel processors that are really affordable. So before, AI was done on super computer parallels that would cost millions and millions of dollars. Then it turns out that these little video chips that you make for video games were parallel processing and they were really cheap. So now they buy these big farms of these cheap video game processors. So you need lots of those. And then you need big data. Big data is sort of the rocket fuel. So the companies like Baidu and Alibaba, who have big data, are actually able to do this kind of AI right now. I think there’s no monopoly on AI right now.
+
+China, Europe, even Japan, will all get into this business and I would expect, just given history, that there will be a disaster, an AI disaster of some sort.
+
+Tim Ferriss: I mean it’s inevitable, right? It’s not to say that AI shouldn’t be pursued; it’s just like anything else.
+
+Kevin Kelly: Someone will abuse it.
+
+Tim Ferriss: If you’re going to have large-scale water projects, there’s going to be some horrible flood that’ll kill a bunch of people or a fill-in-the-blank disaster.
+
+Kevin Kelly: Right. So we have to be ready for that and not freak out about it, which is what I think one of the tendencies will be. Okay, stop AI, research, no more federal funding AI. That will also happen, too. People will respond to that by saying we have to stop AI.
+
+Tim Ferriss: If you had to again, sort of play Nostradamus a little bit, what do you think the first few big wins of AI will be? Where people will really step back and go, whoa.
+
+Kevin Kelly: Yes. It’s going to be, well, two things. I think there will be these huge big wins. But what’s very curious about this is that whenever these wins happen, as they have in the past, then immediately we don’t call it AI. AI is only what we can’t do. What we hope to do is called AI, and once we do it, it’s called machine learning. So the first big win will be a translation. We’ll have a little device that we can wear in our ear and it will hear you speaking Chinese and it will whisper to me English. We’ll have that in, I don’t know, five years or so. But we’re not going to call it AI; no, that’s not AI. They’re just dumb computers doing this stuff. It’s no longer AI. People don’t think of SIRI as AI. That’s just machine learning.
+
+Tim Ferriss: It’s just SIRI.
+
+Kevin Kelly: Driving the car – that’s no longer AI. Of course computers can drive a car; of course they can play chess. Because once it happens, it’s like of course. That’s obviously not AI. AI is always what we can’t do. So there will be these wins like perfect translation. That will be very common. And talking to these assistant bots; that’s the other thing. You’ll have these conversations – let’s do this, do that, Echo.
+
+Tim Ferriss: I was going to say it sounds a lot like early innovation of Echo.
+
+Kevin Kelly: Right, okay. Is that AI? Do people think of it as AI? No, that’s not AI, that’s just Echo, whatever it is. So I think that conversation is the interface mostly to AI for a very long time and we will get really good at that. I think people will ignore it. It will become invisible to them. I think most of the AI will be invisible, like we were talking about Amazon web services. It’s going to be behind the scenes, it’s going to be very particular. I mean right now, your calculator is smarter than you are in arithmetic. It doesn’t freak you out, right? Right? It’s great.
+
+Google is better than you in recall. So we have this very specific artificial smartness and that’s where a lot of this is. Most of the AI is not like human intelligence; that is why we are making it. The whole point is to think different, to make things think differently than us. The reason why we want these AI to drive cars is because they aren’t driving like humans. They aren’t worried about whether they left the stove on or having an argument with the garage. They are just driving better than we can drive. So we’ll make a lot of the stuff that does things that are not – I mean, like when Google is remembering all the webpages in the world, that’s inhuman.
+
+It’s not anything we can do. So a lot of this stuff will be – and once we see the machines doing it, we’ll say well, obviously, we weren’t the only ones who could do that, but now it’s all in retrospect.
+
+Tim Ferriss: Right. Do you, and this is a total left turn, but do you journal? Is that a practice that you have or not really?
+
+Kevin Kelly: It’s an occasional practice and something that I do occasionally at night, late at night.
+
+Tim Ferriss: When do you do it? Meaning what triggers it? What are the occasions that you decide to journal?
+
+Kevin Kelly: I’m trying to figure out; I haven’t been able to determine the trigger, but sometimes I’ll just be seized with this kind of, I need to sit down and just journal stuff and write stuff and doddle. I haven’t been able to detect a pattern, but I have a book that I use and it’s called late night.
+
+I usually do it late night, very late and just kind of I don’t know. Maybe there is a buffer that gets filled or something.
+
+Tim Ferriss: You have to unload it. You have to delete the download folder.
+
+Kevin Kelly: Right, exactly.
+
+Tim Ferriss: Start-up disk almost full. Better get this into my journal. What change in your life or behavioral modification are you proudest of in the last year or recent memory? And which habits or behaviors are you trying to change?
+
+Kevin Kelly: Good question. I think I’m working on; I was Mark Zuckerberg who had this kind like he was going to give a thank you note every day for 30 days or something. So this idea of consciously really trying to express gratitude in a disciplined way is something I have been working on to try to make it more of a habit.
+
+Tim Ferriss: How do you express gratitude? Is it a phone call? Is it a text message?
+
+Kevin Kelly: Generally, it has been an email. I’m not a phone person. I don’t like voicemail; I don’t like talking on the phone. I came into my professional life – I was basically noticed online in writing short, telegraphic, email-ish stuff. So for some reason, email is my medium and I’m most comfortable with email.
+
+Tim Ferriss: So gratitude. Well, on that note, I want to thank you for taking time to have yet another jam session. I always have a blast. What are you up to right now? What would you like people to check out? Where can they find you?
+
+Kevin Kelly: So I have this book that will be released June 6th. It’s called The Inevitable. Published by Viking. It’s, I think, a pretty good outline of the technological trends for the next 20 or 30 years at the highest level; things that we can’t ignore and that we really should be embracing. I think if you are interested in what’s coming, that you will really find it very useful because it’s not really technical. It’s at a high level. And if you’re looking to where things will be in 20 years, I think I have a pretty good map of where that’s going.
+
+Tim Ferriss: So where can people grab it? I’m sure by the time they hear this, they can grab it on Amazon. And where else? kk.org?
+
+Kevin Kelly: Yeah, so kk.org is my homepage and where I hangout. And there’ll be links if you want other languages or the Audible version, the Kindle. I think that it all should be listed there and I may even have a calendar-ish thing going and where I’m going to be.
+
+Tim Ferriss: Showing what you’re up and speaking engagements or whatever.
+
+Kevin Kelly: Right, and in July I’m going to be doing a bunch of stuff, basically appearing on a gazillion podcasts. I’ve dedicated that for the month of July.
+
+Tim Ferriss: This is why I like to do mine early.
+
+Kevin Kelly: Yes, exactly.
+
+Tim Ferriss: Another exclusive Tim Ferriss Show opportunity.
+
+Kevin Kelly: This is an exclusive. I’m so delighted, Tim, that you reached out and made the invitation to be at your glorious home.
+
+Tim Ferriss: I’m thrilled to have you here.
+
+Kevin Kelly: I hope that it was useful to the listeners out there because we did kind of go all over the place.
+
+Tim Ferriss: That’s why they come. They come for the OCD plus the ADHD with a dash of hopefully, definitely intelligence from my guests, and occasionally a glimmer of something approaching semi-intelligence on my part. But everybody check out kk.org. It’s full of all sorts of things that I have recommended many times over the years, including “1,000 True Fans,” of course and much more than that; the “Quantified Self,” everything can be found somewhere at the hub that is kk.org. Where on social media if somebody wanted to say hello would be the best place to say hello?
+
+Kevin Kelly: I do look at the Twitter stream and I’m kevin2kelly. I have Facebook which I don’t look at as much. But actually, I do look at Google Plus.
+
+Tim Ferriss: Oh, you do?
+
+Kevin Kelly: I do because I find that the comments and the conversation is very high quality. Even though there’s not that many people, those that are there are very active and I pay attention.
+
+Tim Ferriss: So Kevin Kelly – if they just search Kevin Kelly on Google Plus?
+
+Kevin Kelly: Yeah, I’m Kevin Kelly on Google Plus.
+
+Tim Ferriss: Perfect, all right. Maybe we’ll put that in the show notes. So everybody listening, you can find everything we’ve talked about, assuming I can track it down, in the show notes at fourhourworkweek.com/podcast.
+
+You can also find links to our previous conversations. We had two very fun conversations, where we went a lot into Kevin’s bio and asked a lot of my usual rapid fire questions that we’ve already covered previously. You can find that and much, much more at fourhourworkweek.com/podcast. Kevin, firstly thank you very much also for taking the time. I always have so much fun. And to everyone listening, as always and until next time, thank you so much for making The Tim Ferriss Show a part of your daily podcast experience.
+
+
+TAGS
+KEVIN KELLY
+	

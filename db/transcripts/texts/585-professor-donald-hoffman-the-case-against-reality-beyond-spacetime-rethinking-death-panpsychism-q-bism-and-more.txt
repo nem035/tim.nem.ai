@@ -1,0 +1,705 @@
+
+
+APRIL 18, 2022 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Professor Donald Hoffman — The Case Against Reality, Beyond Spacetime, Rethinking Death, Panpsychism, QBism, and More (#585)
+
+
+Please enjoy this transcript of my interview with Donald Hoffman ( @donalddhoffman), Professor Emeritus of Cognitive Sciences at the University of California, Irvine. Professor Hoffman received a PhD in computational psychology from MIT and is the author of over 120 scientific papers and three books, including The Case Against Reality: Why Evolution Hid the Truth from Our Eyes. He is the recipient of the Distinguished Scientific Award of the American Psychological Association and the Troland Research Award of the US National Academy of Sciences.
+
+His writing has appeared in Scientific American, New Scientist, LA Review of Books, and Edge, and his work has been featured in Wired, Quanta, The Atlantic, Ars Technica, National Public Radio, Discover Magazine, and Through the Wormhole with Morgan Freeman. His TED Talk, titled “Do We See Reality as It Is?,” has almost 4M views.
+
+
+
+
+
+#585: Professor Donald Hoffman — The Case Against Reality, Beyond Spacetime, Rethinking Death, Panpsychism, QBism, and More
+
+
+
+
+Tim Ferriss: Don, it is a pleasure to see you, and thanks for making the time to come on the show. I appreciate it.
+
+Donald Hoffman: Thank you for your very kind invitation. It’s a pleasure.
+
+Tim Ferriss: I’ve been looking forward to this conversation for some time. I’d like to start with perhaps a name that my listeners will not recognize, and that is the Helmholtz Club. Could you please give us some background and explain what is, or what was, I don’t know the tense on this, the Helmholtz Club?
+
+Donald Hoffman: The Helmholtz Club was a group of neuroscientists primarily and some cognitive scientists like me, that met roughly once a month at the University of California at Irvine, but it was neuroscientists from the whole Southern California area, from UC San Diego, all the way up to UCLA and USC and Caltech, and of course, UC Irvine, and sometimes from UC Riverside.
+
+The point was for us to get together. It was led by Francis Crick and Terry Sejnowski and V.S. Ramachandran, but it was to get neuroscientists together to discuss consciousness. What was the state of neuroscience as it related to consciousness? We were trying to problem solve this open issue in cognitive neuroscience, which is what is the relationship between brain activity and our conscious experiences?
+
+When I was a graduate student at MIT in the early ’80s, it wasn’t really appropriate for graduate students to talk about consciousness. it was a fringe thing, but in the early ’90s, Francis Crick basically made the case that this problem needed to be addressed, consciousness needed to be addressed, and he felt that he could address it in pretty much the same fashion that he had addressed the issue of life.
+
+Life had been an open mystery. You could imagine that there was maybe some élan vital that was some special spirit inside living things that wasn’t inside inanimate things. But when Crick and Watson elucidated the structure of DNA, it became obvious that maybe you didn’t need an élan vital anymore. You could give a reductionist, physicalist account of many of the basic functions of life.
+
+I think what Crick and the Helmholtz Club was really about was doing the same thing for consciousness that Crick and Watson had done for life, which was to take this thing, which right now seems mysterious, and get a neuro reductionist story for it in the same fashion that we got a molecular biological reduction of story for life.
+
+We met and it was a lot of fun. I must say, it was private. We met in secret basically at the University Club at UC Irvine, not because it was clandestine in any bad sense, but because of Francis Crick. If people knew that Francis was there, we would be mobbed and we wouldn’t get anything done. He is, for a good reason, a very, very popular man, and people wanted to talk with him.
+
+We met in secret, and it was invitation only. Each of the members of the club could invite one or two people to join at any given time. But the intention was to keep it really small. There were maybe 15 to 20 of us at most in a meeting. We would start, it was usually on Tuesdays. We would have lunch together and then we would go at it all afternoon.
+
+We would invite two speakers whose neuroscience work seemed pretty interesting, even if they weren’t directly working on consciousness, we thought it might be, we would bring them out and grill them. It was pretty fun. It was intense, but it was not ad hominem or anything. It was really just a very intense time.
+
+We would then adjourn and have dinner together at some restaurant, usually near South Coast Plaza, a place near Irvine. We would go and close the place out, 10, 11 o’clock we’d be there talking, and then we’d finally leave. It was a very intense afternoon, and it was, I must say, a real privilege for me.
+
+I started as a young assistant professor in the group, and I continued all the way through being a full professor, but it was fun for me to see how Francis thought. He was absolutely brilliant even into his late seventies and eighties, he was a complete genius. His understanding of the field, his command of the facts, his logic was beyond anything that I ever could imagine for myself at my prime in my twenties. That was in his late seventies.
+
+He truly was stunning. It was a great pleasure. Of course, the other members, Terry Sejnowski and David Vanness, John Allman and V.S. Ramachandran, the list, it was truly a fun and engaging time. I always left inspired and thinking about consciousness.
+
+Tim Ferriss: Wow. I wish, I wish, I wish there were a current club. Maybe there is where I could be a fly on the wall at the very least with such greats. What I’d like to do before we get too far into this conversation is define some terms.
+
+Consciousness is a word that people have heard in many contexts. It is a term or a concept that in one form or another has been of great interest for thousands of years at a minimum. There are quotes we might unpack later, but quotes I’m fond of that use this word, like Max Planck, the German physicist, “I regard consciousness as fundamental. I regard matter as derivative from consciousness. We cannot get behind consciousness. Everything that we talk about, everything that we regard as existing, postulates consciousness.” Could you please give us a working definition of consciousness?
+
+Donald Hoffman: It’s intuitively your experiences. If you hit your thumb with a hammer, the experience of the pain. If you see a blue sky, it’s the experience of the blue. In some sense with words, we can only point to it, and I have to hope that you have your own experiences that I can point to in this way, indirectly.
+
+But that’s not so different from what we have to do with other things. When I tell you, “What is space?” Well, there’s really — what is empty space? Well, if you’ve never seen, and you’re not cooperative, I can use all the metaphors I want, you’re not going to get it. If you’re blind and I try to say something about the color red, well, you’re not going to get it. In some sense, we’re not in any special problem here with consciousness that we’re not with other things.
+
+To be really clear, when we take a child and we are trying to teach them the name of something like the word rabbit. What does the mother do or father? They sit there and they point, and they point to some furry object that’s sitting there and they say “rabbit,” and the child has to be old enough. A three-month-old is not going to get it, but an 18-month-old will get it, and so they have to have had their own experience.
+
+Their visual system has to be developed well enough. When the mother points, she doesn’t go “biped” or “quadruped” or “mammal.” She doesn’t use those kinds of terms. She uses “rabbit.” She knows, don’t use “quadruped,” because you’re going to mess up your kid. The first thing you need to say is “rabbit.” We learn by ostensive definition, that’s called ostensive definition.
+
+In some sense, we have to also point with ostensive definition to what we by consciousness. We have to say, if you hit your thumb with a hammer, that feeling of pain, that’s part of a conscious experience. When you fall in love, that’s a conscious experience. When you’re in a deep sleep, dreamless sleep, that’s in some sense when you don’t have this conscious experience.
+
+We have to use ostensive definition, but I don’t feel too uncomfortable about that, because we use it all the time and we don’t even know that we’re doing it that way.
+
+Tim Ferriss: All right, so we’re going to certainly come in and out of the territory. Well, I suppose we’re always in the territory of consciousness on some level, but we’ll be explicitly exploring that from a number of different angles. Like a lot of people, I was exposed to your TED Talk, “Do We See Reality as It Is?,” and was struck by the desktop interface metaphor. Could you please just explain that in brief and then we can take that in a number of any directions?
+
+Donald Hoffman: The question is how should we understand our perceptions and their relationship to reality. Most of us just assume that we know the answer, our perceptions show us reality, not all of it, but when I see the moon, there really is a moon. Of course, I don’t see everything about the moon, but I see what I need to see. When I see a carrot, I’m seeing the truth. I’m seeing the correct shape, the correct color, the correct weight if I pick it up.
+
+Of course, I’m not seeing its molecular structure, so there are things I don’t see, but I’m seeing truly if incompletely. The interface theory of perception takes a different tack on what perception is. It says, if we take evolution of a natural selection seriously, we can ask a technical question. Would evolution by natural selection shape sensory systems to tell truths about the physical world around us or whatever the world might be around us?
+
+That’s the technical question. What is the probability that natural selection would shape sensory systems to report true properties of objective reality? You can show through theorems and simulations, some of my graduate students working with me on this, Brian Marion, Justin Mark, and others, and some of my colleagues, Chetan Prakash, Manish Singh, and I have worked on this, Robert Prentner, a number of us have worked on this and the simulations and the mathematics all agree.
+
+The probability is zero. That natural selection would shape any sensory system of any organism to reveal any true properties of objective reality, it’s precisely zero, and one intuition about that is that fitness payoff functions. We can go into this later on if you want. Fitness payoff functions almost surely have no information about objective reality. They are not so-called homomorphism of structures in objective reality.
+
+If we’re tuned to fitness and the fitness payoffs literally are not homomorphism of structures in reality, then there’s no way that our perceptions can be homomorphic to reality, to see the structures of reality. What then, if we take evolution of a natural selection seriously, and I think we should, not because I’m claiming it’s the final story, but it’s the best story we have. Science always, to its credit, gets new theories. And what we thought was the final theory 130 years ago, we now look back on it; Newton was great, but we have much better theories today.
+
+I have the same view about all of our scientific theories that we have today. The reason I take them seriously is not because I think they’re the final word, it’s just that we have, as human beings, no better theories. We have to take our current theories seriously. If we take evolution of a natural selection seriously, of course, as scientists, we’re going to eventually try to show its limitations.
+
+But what it says in its current form is that the probability is zero that our senses have shaped us to see truth about the world around us. What have they shaped us to do? Well, the answer within evolutionary theory is it’s all about fitness. Our sensory systems have shaped us to guide adaptive behavior so that we can live long enough to reproduce, basically.
+
+One way to put that in a metaphor that’s easier to understand is to say that natural selection didn’t shape us to see the truth, but it shaped us with sensory systems that are like a user interface to the truth. Right now, we’re both sitting in front of laptops, and we’re able to — I’ve got gigabytes of memory and all this circuitry inside my laptop. I have no idea about the truth of that.
+
+I know the words, I’m not an engineer of that type, so I don’t really, if I had to toggle voltages inside my computer to do this video with you, it wouldn’t happen. If I actually knew the truth and I had to actually toggle all the bits and bites and so forth and voltages in the computer to make this video happen and you had to do it, it wouldn’t happen. We have a very simple, dumbed-down user interface that lets us control the complexity of the computer without having any expertise in what’s really going on inside.
+
+That’s what evolution did for us. It gave us a simple user interface that lets us stay alive long enough to reproduce, to interact with reality in the ways that we need to interact with it to stay alive and reproduce without having any idea what that reality is. You don’t have a need to know, so you don’t know. That’s just the way it is.
+
+Very few of us know exactly how the desktop interface on our computer works. When you drag an icon to the trash can to delete a file, there’s a lot of stuff going on inside there that’s involved in deleting the file. We’re blissfully ignorant and that’s what evolution has done. It makes us blissfully ignorant about the nature of reality and gives us icons that allow us to control reality.
+
+To be very, very clear, space and time, which we typically think of as fundamental reality, is just the format of our 3D desktop. Instead of a flat desktop, we have a 3D spacetime desktop, and objects in 3D are merely the icons in our desktop. They’re not pointers to objective reality in any sense.
+
+There’s the colors, the shapes, the positions that we see have nothing to do with true colors and shapes and objective reality. They’re just a nice format that evolution gave us, and that format’s going to vary from species to species.
+
+Tim Ferriss: As you said, the theories that we have or the best stories or plausible explanations of how things work, but those will change. They’re constantly in flux and the theories we had, the best theories a hundred years ago, 50 years ago, 20 years ago, two years ago, get replaced.
+
+There’s this constant process for placement as we update, and I’m just going to try to encapsulate some of what you said, and please correct me. Feel free to stop me if I get any of it wrong, but that we are optimized through natural selection for sexual reproduction. There’s no intrinsic value in accurate representation unless it contributes to more effective reproduction.
+
+Hence, the discussion of layers of abstraction and simplification. Just like you would have the desktop and then many layers below that you would have assembly language, many layers below that, machine code. Then you get into the circuitry and so on. What are some of the implications of this research? Because I think for a lot of people listening, consciousness has been the domain of philosophers and pontificators who are operating outside of the scientific method or a world where things are falsifiable or testable.
+
+I would just love to know what excites you about this and what some of the implications are, scientific or otherwise.
+
+Donald Hoffman: Absolutely.
+
+Tim Ferriss: Of revising.
+
+Donald Hoffman: I like your summary. I would make just one little change to the summary that you gave, and that is that evolutionary theorists probably wouldn’t, in general, want to say that evolution optimized us for anything.
+
+Tim Ferriss: Got it.
+
+Donald Hoffman: That we, typically, there’s the term that they use called satisfying. You just have to be a little bit better than the competition.
+
+Tim Ferriss: That’s a good point.
+
+Donald Hoffman: That also then is an interesting thing about it. We’re not the best at anything, we’re just better than the competition, and that’s all we need to be. The idea then that evolution by natural selection has not shaped us to see the truth, it’s just given us a user interface and that space and time themselves are not fundamental. They’re merely a data structure that evolution gave us.
+
+Now, whether what I’ve just said is true or not depends on whether evolution by not natural selection is a fairly accurate theory. I’m just saying that’s what natural selection entails. We may get better theories further on down the line and then we’ll have to revise it. But that’s what we got now.
+
+Why is that interesting with respect to consciousness? Well, the reason it’s interesting there is that I would say my colleagues in cognitive neuroscience and artificial intelligence who and in philosophy of mind, who are interested in consciousness, I would say at least 95 percent of them are physicalists. That is at least 95 percent of the efforts in science, in understanding consciousness, assume that certain objects in space and time are real, that they exist, whether or not they’re perceived, and that they have genuine causal powers.
+
+In particular, for example, neurons and brains. Neurons exist and brains exist, whether or not they’re perceived; they have genuine causal powers and space. Most neuroscientists would just say, “Of course space and time are fundamental. Physical particles exist when they’re not perceived. The brain exists when it’s not perceived; we have to explain how consciousness could arise from physical processes that in themselves are not conscious. At least most physicalists would say they’re not conscious. We can talk about panpsychism and so forth later on.
+
+The standard work of most of my good colleagues, good friends, who are studying this is we will boot up a theory of consciousness from a theory of neuroscience or from a theory of integrated information, a little bit more abstract theory, or a theory of attention schemas in neuroscienceism and so forth. But the idea is that we’re going to start with objects in space and time that we take to be fundamental reality and then boot up a theory of consciousness.
+
+The first thing to say then is, well, if you take evolution by a natural selection seriously, you should not start there. You should not start with space and time and objects in space and time. Those are not fundamental reality.
+
+Now I should also at this point say, I’m a cognitive neuroscientist. What in the world do cognitive neuroscientists know about physics? I’m now talking physics. This is space and time is not fundamental. Surely, the physicists will be happy to put a cognitive neuroscientist in his place, and let him know that he’s out of his league. Indeed, I’m not a physicist.
+
+But the physicists themselves, independent of this work on evolution by a natural selection, are saying, and I quote, “Spacetime is doomed.” This is Nima Arkani-Hamed, David Gross, and many other contemporary, current physicists are — I can go into why they’re saying that. I can actually explain it to a broad audience why the physicists are saying this, but basically physics, at least since Newton, has been about what happens in space and time.
+
+Now, physicists like Nima Arkani-Hamed are saying spacetime is not fundamental. It’s in fact fairly obvious from recent advances in the study of gravity and quantum theory that it cannot be fundamental. They’re spending their careers looking for the deeper structures that are beyond space and time that will give rise to space and time as some kind of simple projection of a much deeper, deeper story.
+
+The state of play is really quite interesting. Cognitive neuroscientists studying consciousness believe in spacetime and objects in spacetime is fundamental. When the physicists are saying, “We’re spending our careers looking for what’s beyond spacetime; spacetime is doomed,’ it’s really time for the cognitive neuroscientists who are studying consciousness to catch up with what the physicists have already said.
+
+Spacetime had a good run. It was a really wonderful framework and it’s over, and by the way, the reductionist methodology, so methodological reductionism, which reductionism and spacetime have been spectacularly successful assumptions of science for centuries, absolutely spectacular, hats off. Those were wonderful assumptions. Science really needed those assumptions.
+
+But it’s the glory of science not to get stuck in its current theories. It’s the glory of science to have theories that tell you where they stop. That’s how you avoid dogmatism. When evolution of a natural selection says probability is zero, that spacetime is fundamental, then the physicists independently say our theory of gravity tells us that spacetime cannot be fundamental, we have our two pillars of modern science saying the same thing. Spacetime has had a good run, but it’s over. The methodology of methodological reductionism, which is the idea that as we go to smaller and smaller scales in space, we find more and more fundamental laws.
+
+How do we explain temperature of the air? Well, if we go to the molecular level, we can understand that molecules bouncing around have a certain kind of kinetic energy, and the mean molecular kinetic energy at the microscopic level can explain what we call the temperature of the air at a more macroscopic level. That kind of going to a reductionist, smaller scale, deeper laws has worked in many ways spectacularly in science. But we now know that there is a hard limit to how small you can go with that approach.
+
+It’s 10 to the minus 33 centimeters. In some sense, that’s not very small. If someone said, “It’s 10 to the minus 20 trillion centimeters,” I would go, “Oh, who cares?” 10 to the minus 20 trillion. That’s tons of zeros, but this is only 10 to the minus 33, the spacetime story stops. It’s not like there’s pixels of spacetime at 10 to the minus 33 centimeters. It’s that spacetime doesn’t make sense.
+
+We need a different framework, and in fact, as you try and we can go into it if you want, but as you try to probe spacetime at higher, higher energies and smaller, smaller scales, you just start actually engaging bigger and bigger volumes of space, not smaller. Gravity destroys reductionism. Reductionism, it worked for a little bit, but it’s deeply false. It’s deeply false.
+
+That’s why this kind of stuff is really interesting for the theory of consciousness. I think a hundred years from now, when scientists and historians of science look back at this period, they’ll look at it with some interest. We have right now clear evidence that spacetime is doomed. Reductionism is false.
+
+We still have this very interesting sociological phenomenon that, I would say probably 98, 99 percent of my colleagues who are seriously studying consciousness are disregarding that and are trying to give reductionist accounts in which spacetime and particles are fundamental, even panpsychism does that. We can talk about it.
+
+I think it’s going to be a century from now when the new physics is probably well established, and we actually understand these new structures deeper than spacetime, and we already have great hints. We can talk about some of the hints. I can talk about them for a broad audience, some of the hints that they already have from Nima Arkani-Hamed and others, cosmological polytopes, amplituhedron.
+
+There are these structures that have names and are being deeply studied, that are much deeper than spacetime. That for which spacetime arises as in some sense of trivial projection. In fact, when you go to these deeper structures, you find deep symmetries that are true of the data that you cannot even express in spacetime.
+
+Spacetime actually becomes a handcuff. It keeps you from actually doing what you need to do. It’s going to be interesting sociologically that the cognitive neuroscientists and philosophers of mind who were studying consciousness in 2020 were disregarding what evolution told them and what physics was telling them that’s the wrong foundation.
+
+Now, what is the right foundation? To say that spacetime isn’t fundamental is not to say what is fundamental. The best ideas we have right now are things like the cosmological polytope, and amplituhedron, associahedron, and so forth that Nima and Juan Maldacena and others are working on.
+
+Here’s where I, then, am looking at consciousness in a different way. I can’t in good conscience attack it from a physicalist framework anymore. I mean that our best theories tell us that’s not the right way to do it, but they don’t tell us what. See, the theories tell us where they stop, but they don’t tell us what the next theory should be.
+
+What we have to do as scientists, and this is part of the fun of science, is we have to be creative. We have to take a leap into the unknown where we say, “What if it was such and such?” Like the cosmological polytope. We write down this mathematical structure. Now then we say, “We have to be able to test our idea, so you have to show a mapping from whatever it is you start with,” like the cosmological polytope.
+
+How does spacetime arise from that polytope? What constraints? We can only measure things in spacetime. That’s where we can do our experiments, Large Hadron Collider or neural EEG or fMRI. We do all our data collection in spacetime not because spacetime is fundamental, but because evolution has forced us to use an interface and that’s what we’re forced to do.
+
+We’re stuck with this interface. We have to project everything into our interface. Whatever deeper structure we get beyond spacetime, we will have to show how it maps onto the interface that evolution gave us, so we can actually do experiments and test it. Of course, any proposal that I make is almost surely wrong. It would be a miracle if I was right. In fact, I’ll go even further than that. I’ll say that science can never have a theory of everything.
+
+Tim Ferriss: Why is that?
+
+Donald Hoffman: That’s because for two different reasons. First, what is the theory? A scientific theory is an explanation. It says if you grant me these assumptions, I can explain these other things. If you grant me molecules, and the idea that they bounce around and have kinetic energy, I can explain temperature and thermodynamics, but I’m assuming those molecules.
+
+The molecules, so whatever you assume, is a thing that you’re not explaining, they’re what I would call the miracles of the theory. Now, of course, you can then try to say, “Well, I can get rid of those miracles.” I can say that particles are themselves what the physicists would call irreducible unitary representations of the Poincaré group, which is the symmetries of spacetime.
+
+I can have my theory of spacetime and say particles are merely these representations of properties of spacetime, but now I’m assuming spacetime. Every scientific theory is going to have this thing where it says, these are my assumptions, and those are the miracles, and that’s what a scientific theory is. By definition, a scientific theory can never be a theory of everything. It’s a theory of everything except its assumptions. The assumptions are the thing it’s not explaining. It’s the miracle.
+
+Tim Ferriss: It’s turtles all the way down.
+
+Donald Hoffman: That’s right. It’s explanations all the way down. There’s another deep reason why that has to be true. It comes from Gödel’s incompleteness theorem. That Gödel showed that any finite axiomatization of mathematics that you make, that’s at least rich enough to account for arithmetic will have a weird property that there are truths that cannot be proven from that system.
+
+He actually showed that there are statements that are true, but cannot be proven from within that system. If you add those true statements to your axioms, to your assumptions, so those axioms are like the assumptions of a scientific theory. Then Gödel’s theorem still comes back and says, well, there’ll be new statements that are true, but that cannot be proven from within that new axiomatization.
+
+What this means is that any conceptual scheme that we come up with will always and only barely scratch the surface of reality. This is a truly humbling point of view is to say, and by every scheme we come up with, you can show that you can actually write down truths that are true, but can’t be proven. Our theories will always never get all of the truths. This is great job security for mathematicians and scientists. We’ll always be doing that. So that’s why I don’t believe my own theory.
+
+Tim Ferriss: Let me hop in just for a minute here and just to tell a story that leads to a question, and it may or may not be related to cosmological polytopes, or a singular or plural. I’m not actually familiar with that term, but just to perhaps also try to highlight a few things that you said. Again, please fact-check anything that I get wrong.
+
+But I’m not a physicist, nor am I a cognitive neuroscientist, but I am an avid watcher of documentaries. I was watching a PBS documentary, which was produced and then made available online pretty recently called Einstein’s Quantum Riddle. There were a lot of credible scientists in this, a lot of scientists and communicators like Sean Carroll, who has a fantastic podcast if people haven’t seen it.
+
+Towards the end of this discussion, because it tracked the chronology of Newtonian physics, which had incredible explanatory power and utility for a very long time, still does, but then it traced the debates between Einstein and Niels Bohr related to the implications of quantum mechanics. And there was a lot of disagreement, these two behemoths meeting multiple times a day for a period of time at this gathering of the greats, and then ultimately getting to the point towards the end of this where they were gathering experimental data to test the hypothesis of quantum entanglement in the Canary Islands. Fascinating documentary, I highly recommend it, and where it wraps up at the end is at the Institute for Advanced Study at Princeton, where I did not spend any time as a researcher, but I was an undergrad nearby for a period of time.
+
+The halls of that place, I mean, have just had the footsteps of so many luminaries, it’s incredible to look at the list. And the director at the time, Robbert with two b’s, he’s Dutch, I cannot pronounce his last name, towards the end of this traced out on a blackboard the possibility of a holographic universe, or the universe as we experience it being a projection of some type, and I think I found on your Twitter, you have a great Twitter feed, by the way.
+
+Donald Hoffman: Thank you.
+
+Tim Ferriss: I found a link to Nature, and a paper, I believe it was a paper called “Simulations Back Up Theory That Universe Is a Hologram,” and this is actually, at this point somewhat, I don’t want to say dated, but it’s older, 2013. Could you elaborate on this holographic model of the universe, this concept?
+
+Donald Hoffman: Right, so this is the physicist now, this is not cognitive neuroscience, but I understand enough to explain it to a broad audience, and that is that they’ve discovered that you can think of the universe as being a hologram. It is called the AdS/CFT, anti-de Sitter/conformal field theory duality. So you can have a field theory without gravity on a boundary, and that turns out to be dual or equivalent to a theory with gravity in the space of one higher dimension. Now it turns out, so this was a major advance. Juan Maldacena was a key figure in doing this, essential figure in doing this, but everybody understands that this is not our space, we don’t live in an anti-de Sitter space.
+
+So the holographic principle works for a space that’s not ours, and one problem with the AdS/CFT holographic principle is that the time on the boundary is the same as the time in what they call the bulk, the bigger space. So you don’t get emergent time, you only get emergent space in this. So the holographic principle as it currently stands is very, very intriguing and suggestive, and it’s leading Juan Maldacena and Nima Arkani-Hamed and others to try to do the same thing for our spacetime, which is a de Sitter space, so we have a different thing than anti-de Sitter space. But I’ll give you just an idea about this holographic principle in a compact sense, and where in some sense the idea first came from.
+
+When they studied black holes, and they were trying to figure out, when you stick stuff into black holes, they get bigger, and in some sense as you put more things, more information into the black hole, they get bigger. And so they wanted to know, how much information could you stick inside a black hole? What’s the amount? And you might think, well, the amount of information, if I wanted to stick hard drives, I could stick hard drives, how much memory I could store onto hard drives, it depends on the volume of the hard drives, so what was the maximum that I could compress hard drives into a certain volume to store information? Well, when they worked out, and this was Steven Hawking who did the math, there was another physicist who first proposed this, but Hawking was the one who actually proved it, the amount of information that you can stick into a black hole does not depend on this volume. It depends on the surface area of the black hole. That’s the universe we live in. You should really let that sink in.
+
+Tim Ferriss: Yeah, that’s swirling for me to wrap my head around.
+
+Donald Hoffman: It’s really, really, I mean, it’s truly stunning, but if you let that sink in, you begin to understand why spacetime is doomed. Spacetime is a great data structure, but it’s not the object that we thought it was. It’s a data structure. It has certain interesting properties. And so the amount of information you can stick in a black hole depends only on the surface area of the black hole, and then it’s easy, physicists have shown that’s true of any region of space. So it’s not just black holes, they first discovered it in black holes with Hawking’s work, but any volume of space, the amount of information you can store, and it has nothing to do with the volume, it has only to do with the surface area.
+
+Tim Ferriss: So bizarre to think about.
+
+Donald Hoffman: So that’s the holographic principle, and so we’re really trying to understand what that means, but it does mean that spacetime is doomed and we’re looking for a deeper story.
+
+Tim Ferriss: So let me hop in. What I’d love to ask is no doubt something that a lot of listeners are wondering, and I’m one doing also. Let’s say spacetime is doomed and that we are, as humans, operating on this very high level of abstraction that serves to satisfice our drive and our evolutionary imperative to procreate.
+
+As we realize that spacetime is doomed, and that these paradigms need to be revised, these theories need to be revised, are there practical ramifications of this in the same way that perhaps at some point quantum mechanics reviewed as an academic exercise, but then before you know it, and it might be contending with the shut up and compute school of thought where let’s not worry about how it works if we can use it to make something work, you’re seeing quantum computing, I think the implications of which are quite profound. What might things look like in the next 5, 10, 20 years as we begin to fundamentally revise how we think of reality, matter, the interplay of consciousness, or the role of consciousness as fundamental, what happens? What might manifest, what might change? Any thought on that?
+
+Donald Hoffman: Yes, quite a bit. Every new advance in science leads to unexpected miraculous technologies. When Maxwell wrote down Maxwell’s equations for electromagnetism in the mid-19th century, he wrote down these equations which captured all of Faraday’s experiments with electricity and magnetism, and so forth. So Faraday had done all these experiments, wonderful stuff. Maxwell realized that all of the experiments could be captured in a few equations. True tour de force. Our modern technology is largely due to Maxwell. I’m talking to you today cross country because of Maxwell, and the technologies that have — Maxwell’s equations stimulated Einstein to come up with special relativity in part.
+
+So I think that the technologies that are, I’m sorry, the scientific theories that are being developed right now, like the cosmological polytope, and so forth, and my understanding is that these guys understand that there’s really hard work ahead, that it may be decades before they can, and this is really, really tough, but once we have a really strong theory that can be mapped back into spacetime to make predictions, here’s the kinds of technologies that you could conceive might come out of that. When we realize that spacetime is not fundamental reality, and we get technologies based on structures beyond spacetime.
+
+If I want to go to Alpha Centauri, I may not need to spend light-years in a ship. I may be able to go outside of spacetime and just get there, and not even through wormholes, just through just understanding the true nature of reality beyond spacetime, realizing that it’s a data structure, we can play with the data structure, we can reverse engineer it, I can just put myself there. So I think the kinds of things that we take as fundamental limits on us right now will not be fundamental limits. So in other words, to answer your question, you really have to think out of the box in ways that, what would happen if spacetime was no longer a limit, you can just go around spacetime?
+
+Right now, for example, the physicist will tell us that because of the expansion of the universe, most to the galaxies that we can see, we could never get to. They’re way too fast, you can go at the speed of light and you’ll never get there. So as fast as we can go through spacetime, I think 90 percent or more of the galaxies are inaccessible to us. Too bad, all that real estate is just gone. Well, what if we don’t have to go through spacetime? Suppose we can use some new structures that the physicists find that projects into spacetime, but is far more comprehensive, and then we get technologies built out of that. We just go around, we go outside of spacetime and pop up where we want. So it’s going to be very, very different. But that technology, sorry, that theory is going to perhaps lead us to a new realm far more interesting than spacetime.
+
+So the work that I’m doing is a theory of conscious agents. So I’m proposing a model in which consciousness is fundamental, and there are enumerable agents beyond spacetime. So if that model is, and again, I would bet against myself, I mean, that’s just a good scientific attitude, to assume that you’re wrong and try to get a theory that as quickly as possible will make predictions that you can test and show you’re wrong. That’s just the good scientific attitude. So with that in mind, I’ll just go with this theory of conscious agents. They are countless conscious agents interacting, so I get a model of how they interact, I get a model of how certain conscious agents, what we call human beings, use a spacetime interface, a data structure of spacetime to interact with them, and we use that data structure, we have portals, right now I have a portal into your consciousness. It’s called your body.
+
+Tim Ferriss: Right.
+
+Donald Hoffman: And we’re using laptops and technology to take pixels, which are an image of your body, and your voice, and it gets projected to me, and I then understand something about your consciousness, and then you understand something about my consciousness, and I think that I’m genuinely changing your consciousness, and you’re genuinely changing things in my consciousness through the portals that we call our body. So we know that there are portals in our spacetime interface into consciousness. So the question that comes from the point of view of what I’m working on, once we understand the theory of conscious agents and how spacetime arises as an interface that some agents use, can we open up new portals in that interface? Maybe hallucinogenic drugs do that, I don’t know, maybe they don’t, but could we develop new technologies that open up new portals into the realm of conscious agents? And if so, are they friendly or hostile? And could they teach us stuff?
+
+So you can see, once you start thinking out of the spacetime box as a scientist, you want to let your imagination go. You don’t want to be constrained, you really have to think outside of the box, but then you always have to take your theory and say, “Okay, I need to make predictions in space and time that my colleagues can go and show me wrong.” That’s why this is not dogmatism and it’s not just pie in the sky, you have to think pie in the sky, you’ve got to think big to write down your theory, you’ve got to think big, but then you also have to say, “Here’s how you can pop my bubble. Do this experiment. That’s how you pop my bubble.”
+
+Tim Ferriss: So question about the conscious agents, I’d love to hear more about how you workshopped this, or simulate or use computer models. In other words, how do you poke and prod at this with the understanding that, as you said, this is a hypothesis worth disproving, and you want there to be some predictive power, or make an attempt at constructing a model that has predictive power. You want it to be falsifiable, you want to tell people how they can burst your bubble.
+
+Donald Hoffman: Exactly.
+
+Tim Ferriss: How do you explore this? How do you explore this, I’m struggling for the right word, but this theory of conscious agents?
+
+Donald Hoffman: Well, so there’s a couple steps. We’ve published a paper that people can look up, it’s called “Objects of Consciousness.” So if you just Google “Objects of Consciousness” and my name, Donald Hoffman, it’s free online, and you can just see a paper where we propose a simple model of consciousness using simple mathematics probability theory, and things called Markovian kernels. And my attitude about it is I’m trying to start off with a very, very simple model, our 1.0 model, the simplest math that I could do that models the idea that conscious agents have experiences, they make decisions, and they act to change the experiences of other conscious agents. That’s the basic idea. Mathematically now you get a dynamical system that’s called a Markovian dynamical system. And so now we can start to study these Markovian dynamical systems, self-conscious agents, and look at how their behavior would predict properties of consciousness, and how they might predict the emergence of spacetime.
+
+So one thing that I’ve been working on, I was working on this very, very heavily a little over a year ago, and then COVID took me down for about a year, so I was out of commission for a year with COVID, long haul COVID, it took out my heart.
+
+Tim Ferriss: Oh, I’m sorry to hear that.
+
+Donald Hoffman: Yeah, it made my heart almost fail. It’s taken me a year to get back on my feet. So I plan to get back to what I was doing before COVID took me out, but the idea that I was pursuing is that the long term behavior of these conscious agents, the so-called asymptotic behavior, has structures that are very interestingly related to structures that Nima Arkani-Hamed is finding beyond spacetime. So I would like to show that the asymptotic behavior of this conscious agent dynamics has a fit with some of the structures, like the amplituhedron cosmological polytope that they’re finding behind spacetime.
+
+But if that were right, then the structures that they’re finding behind spacetime would still be simplifications of the conscious agent dynamic, because they would only capture the asymptotic, the long-term behavior, not the full dynamics of the consciousness. So once again, so we’d have the full dynamics of consciousness, a certain projection of that would lead to the cosmological polytope and the amplituhedron, and a projection of those leads to spacetime. So the idea would be to start with a theory of conscious agents through the asymptotics, project to the cosmological polytope, project to spacetime, and that way we would get consciousness leading to predictions in spacetime that we could test. So that’s a big project, and I’m glad to put it out there so that someone who’s much smarter than me can go ahead and run ahead of me and beat me to it. So I would just be delighted to read about it from someone who could beat me to it on that.
+
+Tim Ferriss: So we’re going to come back to cosmological polytopes, because I feel like after the 17th time it comes up, we should probably return to it and cover it. However, I want to ask you something first, and I’m going to wade into this maybe in a roundabout way, and we’ll see where it goes. Might be a dead end, might not be. But if we’re talking about, if I’m understanding correctly, the possible fundamental error of taking a bottom-up approach to understanding consciousness, that is starting with the neurological structures and using our spacetime tools to build from the smallest upward to explain the phenomenology and the subjective experience that people have that they label consciousness.
+
+How would you answer the question “Is consciousness localized?” And I ask that understanding there’s a lot of controversy around this, and people will look at different types of injuries and either use it as proof for or against the idea that consciousness is locally generated, so to speak, by the three pounds of goo that we hold between our ears. But there are people who take the opposite stance, and even though I think it’s very difficult to test, might look at the brain almost as a receiver of sorts. How do you think about this? And I apologize if it’s a sloppy question, but — 
+
+Donald Hoffman: Great question.
+
+Tim Ferriss: If you wouldn’t mind unpacking that however it seems best, I’d love to hear your thoughts.
+
+Donald Hoffman: Right. So the receiver theory, so a lot of people might think that I’m proposing a receiver theory, that the brain is a receiver for consciousness, and I’m absolutely not, because that theory is assuming that the brain exists and is a real object with real causal powers, and that somehow there’s the brain and there’s consciousness, and somehow consciousness interacts with the brain as a receiver. So that’s absolutely not what I’m saying. Nothing inside space and time has any causal powers, nothing. Everything inside space and time are merely perceptions within consciousness, from this framework. So the brain is an icon in my desktop that appears when I look inside skulls, and as soon as I look away I delete that icon and there is no brain.
+
+So to be very, very clear, right now I have no brain. There is no brain. If you looked inside my skull of course you would see a brain, but that’s an icon that you create on the fly. The icon exists when you create it, and you delete it when you don’t need it. So neurons do not exist when they’re not perceived, nor does spacetime. So that’s my point of view. So again, I could be wrong, but I just want to make very, very clear, it’s not the brain receiver, because that’s giving the brain too much existence. The brains only exist when they’re perceived.
+
+Tim Ferriss: So just to stand in for the audience, some people might be squirming a little bit in their seat here.
+
+Donald Hoffman: Of course.
+
+Tim Ferriss: So if you say that nothing in spacetime, if I’m getting this right, acts as a causal agent, that’s not to say that if someone holds a gun to your head and pulls the trigger that it’s not going to splatter your brain all over the wall behind you, but rather that that is an abstraction on the user interface that we are using. I mean, there can still be consequences, experientially. So is the question then just a, it’s based on false assumptions because it predicates that the brain is actually something that exists and persists whether or not we’re looking inside your skull.
+
+Right, so that is the big assumption, that the brain, that physical objects exist and have causal powers even when they’re not perceived. And by the way, the physicists have tested this. So there’s two very technical terms for this, one is local realism and the other is non-contextual realism. So local realism is the claim that physical objects, like electrons, have properties, like position, momentum, and so forth. Real values of those properties that exist whether or not they’re perceived, and that have influences that propagate no faster than the speed of light. So the realism is the claim that they have the properties, even if they’re not perceived, and the locality, the local, is that they influence no faster than the speed of light. So together it’s called local realism.
+
+And most of us might think that of course local realism is true. It turns out local realism is false, it’s been tested and local realism is dead. It’s simply untrue, and that’s the end of the story. Local realism is false. Non-contextual realism is the claim that, again, realism, the particles, goals, for example, have their properties, like position and momentum, will spin when they’re not observed, and that the values of those properties do not depend on how we measure them. That’s the non-contextuality. And non-contextual realism is false. So local realism is false, non-contextual realism is false, I conclude that particles themselves don’t exist when they’re not perceived. They have no property, they have no position, they’re not there. If you have no position, you’re not there. So they’re not there, and spacetime itself is not there. Spacetime itself is merely a data structure.
+
+And particles, by the way, when physicists say that they’re irreducible representations of the Poincaré group, they’re basically saying that the structure of spacetime, the representations of the structure of spacetime, is what particles are. They fall from the structure of our interface. I think a better framework is to think about this as a data-compressing, error-correcting code that we’re using. If you think about spacetime and particles as part of a data structure for data compression and error-correcting code as part of our sensory interface, I think it’ll be a much more useful framework.
+
+Tim Ferriss: So I may take us into deep water here with my next question, but I’ll ask you, because I know that your next commitment today relates to the subject of death, so in a few hours you have a commitment, not a funeral, but rather an event that is discussing various topics and questions surrounding death. How do you think of death? Given all that we’re talking about, and the first-order, second-order, third-order implications of all of that, how do you think about death?
+
+Donald Hoffman: So physicalism has a very clear implication for death. If spacetime is fundamental, and elementary particles like electrons and quarks and protons and so forth are the fundamental nature of reality and what you are, what your body is, is just an assemblage, a complex assemblage of particles, and your consciousness is somehow an emergent property of certain activities of those particles, say brain activity, then it’s very, very clear that in death, when the brain dissolves, your consciousness dissolves, and that’s the end of the story. That’s it. That’s a very, very clear implication of physicalism. We can talk about panpsychism, but physicalism, strict physicalism, that’s the end of the story.
+
+If consciousness is fundamental and spacetime is just an interface, and our bodies are merely icons that we use to represent certain interactions of conscious agents, and we can go into how I think about that, then on that approach there is the possibility that some aspect of my consciousness survives death. Now there I have to look at the mathematics of the model and go into it, but it may be, for example, that the bare awareness that’s associated with me, just awareness without content, that survives, but all the details of Donald Hoffman and his life story within this interface, maybe that all dissolves. That’s a story about what is consciousness up to, and we can talk about, if consciousness is fundamental, what is it doing and why? What is the dynamics of consciousness about? To answer the question about death we might have to answer that question too.
+
+Tim Ferriss: It’s a big one. Please continue.
+
+Donald Hoffman: Suppose, so I’ll try a stab at that question, because I think it relates to the death question. So what is consciousness doing and why? The right answer is I don’t know, and I’ve only seen one idea that seems deep enough to at least be worth thinking about. I’m not saying it’s the right idea, but only one idea that seems deep enough to at least be a candidate, and it again comes from Gödel’s incompleteness theorem. Gödel says that essentially, no matter how much you explore within a particular conceptual system, you can’t get all the truth, there’s always going to be more to explore, mathematically. So if consciousness is the fundamental nature of reality, and consciousness is all there is, then mathematical structure is only about the possibilities of consciousness. That’s all that there is to be about.
+
+And so what if what consciousness is doing, since the exploration of mathematical structure is in principle unending, then perhaps the exploration of the possibilities of consciousness itself is in principle unending, and therefore consciousness, what it’s up to is exploring all of its potentialities, and the reason it’s continuing to do that, from our perspective it’s continuing to do that, is because there’s no end to it in principle. So consciousness itself is in some sense always learning about itself. And so perhaps then what we are, what people are, and what cats are and what dogs are and what amoebas are, and so forth, is consciousness trying on different headsets, different realities, and exploring and losing itself.
+
+So this is a very interesting idea, that the consciousness chooses to really explore so deeply that it loses itself in the exploration, it doesn’t even know what it is. It becomes a physicalist. It actually thinks that consciousness isn’t fundamental. It goes through the whole bit and then slowly has to wake up, and in so doing it really explores what it’s not and what it is. In some sense to know what you are you have to know what you’re not. And so on that point of view, the Hoffman icon is simply consciousness taking a perspective on itself, looking at itself through a particular spacetime headset, and is taking a little projection, and from that headset there’s a finite, there was a birth, there was growing strong until your twenties and thirties, and then after your forties you start declining, and in your eighties and nineties you die.
+
+And that whole process is just consciousness exploring itself from a particular perspective, in which case maybe the Hoffman icon, and maybe a lot of stuff can be left behind, but in some sense consciousness itself has learned something through that experience, and the eight billion other people, and the quadrillions of amoebas, and the who knows how many viruses, and so forth, consciousness is just trying on innumerable headsets, and when it’s done with that headset, it takes it off, and awareness is perfectly fine, the raw awareness is fine, but the detailed icons that happened to appear, spacetime icons, objects in space and time, brains, neurons, all those things, those were just icons, and you studied them and then you realized pretty cool, Mount Everest, what a beautiful icon, Death Valley, what a beautiful icon, but I’m not that, I’m something even more transcendent than space and time, I’m more transcendent than Death Valley, and so consciousness is just waking up.
+
+I mean, again, I’m trying to tell a story, I’m not saying that it’s correct, but it’s the only story I’ve seen so far that at least is deep enough that it’s worth taking seriously.
+
+Tim Ferriss: Who’s the origin of this story, and can you ever know that it’s accurate, do you think, through testing or experimentation?
+
+Donald Hoffman: So the story that I’m saying right now has an interesting way that she might be able to test it. So this dynamics of conscious agents I mentioned is Markovian dynamics.
+
+Tim Ferriss: Right.
+
+Donald Hoffman: You can create it, you can make it so-called stationary dynamics, in which the entropy of the dynamics doesn’t change. But you can show that even if you have this Markovian dynamics of consciousness, in which the entropy never changes, any projection by conditional probability, any projection looking at that dynamics will see it as increasing in entropy. In other words, the arrow of entropy, the arrow of time, is an artifact of the projection. So consciousness itself has no arrow of time, but you can prove from this mathematics that you get an arrow of time by projection. The proof is trivial, it’s like two or three lines.
+
+So here’s a project that I think would be really be fun. Can we show that when you look at all the different ways that you could project consciousness in this mathematics, the conditions under which all these different arrows of time, the entropy that you get, satisfy the Lorentz transformations. In other words, can we get special relativity out of this? We would have to model also the space aspects of it, what’s happening to space as a projection of the dynamics of these conscious agents. But we see the time aspect, so could we actually show how special relativity arises as just different perspectives that consciousness can take on a fundamental dynamics of consciousness that has no arrow of time? That’s the kind of thing where we could start to make brand new predictions that could be testable.
+
+Tim Ferriss: And I just want to, as a sidebar, say to folks that I know we’re probably serving quite a bit up on the plate to chew on in this conversation, and I would highly recommend folks who are like, good Lord, how do I even wrap my head around 1/10th of this? To consider exploring some of the documentation of, for instance, quantum entanglement, which does get, I think, misappropriated and used by a lot of hand-wavy, new-agey folks, but if you just look at the experimental data and double-slit experiment, and then the later generations of experimental data, like what was done in the Canary Islands, I think they were using two quasars, which is just like, who funds that? I want to know. It’s incredible that somebody actually put the money up for that. It’s pretty awesome. If you start to even dip your toes into that or watch a few presentations by Carlo Ravelli, who is, as I understand it, I mean, a skilled practitioner and physicist, I think he focuses on quantum gravity.
+
+Donald Hoffman: Brilliant.
+
+Tim Ferriss: Yeah. Brilliant guy. So he is not just a stage presenter with a decorative title. This guy actually does serious work. You’ll begin to see just how weird some of this gets when you start to push around the edges. Let’s chat for a second, because it’s a term that has come up, panpsychism. Could you please explain what this is?
+
+Donald Hoffman: So there are various versions of panpsychism, but the basic idea is that if you take elementary particles like electrons, and protons, and so forth, in addition to their physical properties, we have position, momentum, and spin, and so forth. Panpsychists, they also have an elementary unit of consciousness. And when you take an electron and a proton and put them together to form a hydrogen atom, then somehow the consciousness of the electron, the consciousness of their proton together somehow combine to create the new consciousness of the hydrogen atom. And when the two hydrogens get together and an oxygen get together and combine to form water molecule, then the consciousnesses of the hydrogens and oxygens somehow combined to create the consciousness associated with the water molecule. And then by the time you get up to humans, you have so many of these particles coming together that human consciousness emerges somehow.
+
+So you got that — so it takes physicalism too seriously from my point of view. It’s saying that these electrons exist, they really do exist in space and time. So these things are fundamental, fundamental reality. And in addition, they have this other fundamental unit of consciousness. So one analogy that’s sometimes given is that particles had position and momentum in Newtonian theory, but with quantum, you discover that wasn’t enough, you needed something called spin. So they just added spin. So particles now have spin. And so we could do the same thing with consciousness. We had a position, momentum, spin. We now have to just add this other unit of consciousness. They have a unit of consciousness. We’ll do the same thing we did with spin, the idea.
+
+And so my approach I call “conscious realism” where I say consciousness is fundamental reality and spacetime is merely one user interface out of countless that consciousness can use. There’s countless interfaces, spacetime is just one. Panpsychism, at least a version that I’m talking about here, and I think is the standard one, is I think smuggling in the idea that space, time and particles are still somehow fundamental reality. Phil Goff, I think we could have a good discussion about him. I think that that’s what he says, I would love to have him disagree with me.
+
+Tim Ferriss: Who is Philip Goff?
+
+Donald Hoffman: Philip Goff. He’s a very famous panpsychist.
+
+Tim Ferriss: Panpsychist. Just because I think it’d be certainly satisfying for me to know this just based on my curiosity. Are there what you would consider credible scientists who ascribe to panpsychism, or is it relegated to other arenas?
+
+Donald Hoffman: Well, I think that the integrated information theory that Christof Koch and Giulio Tononi are studying, it’s often taken as a panpsychist theory. It says that certain physical systems also have a unit of consciousness. If they have a certain property called integrated information, the right kind of integrated information, then they also have a certain amount of consciousness that’s quantified. The amount is quantified by the degree of phi of the integrated information. So that’s a panpsychist thing, because they’re taking again, space, time, and particles as a reality, as an objective reality. But that reality, if it has certain kinds of properties, also has consciousness. So it’s in that sense, a panpsychist approach. So Tononi and tenon and Christof Koch are, of course, brilliant, brilliant scientists. I mean, the fact that I disagree is irrelevant. These are geniuses.
+
+Tim Ferriss: And I did a bit of reading on this prior to this conversation panpsychism. And having lived in Japan, it struck me how the output of these assumptions and these models is actually very similar to, in some respects, not all, but animist religions like Shintoism. The rock, the moss, the dirt, everything has a consciousness of one type or another, just a quick sidebar, not to say they’re related nor that all panpsychists are Shintoists.
+
+Donald Hoffman: I agree, but that raised a question that I would like to just mention briefly, and that is, I’m saying that the question of which objects are conscious and which are not, or the question of which things are alive and which things are not, the answers that we give right now are an artifact of our interface. If reality is not space and time and physical objects, our interface is then giving us more or less information about some realm beyond space and time, beyond our interface. Now, when I see a cat, I think it’s alive. I see a mouse, I think it’s alive. When I see amoeba, yeah. A virus, I don’t know. I see an electron, I say, “No, definitely not alive.”
+
+Well, is that a genuine, an insight into the nature of reality, or am I mistaking a limitation of my interface for an insight into reality? And so this is the question that arises when you no longer take space and time as fundamental. It opens up the possibility that we’ve actually got the question of life and the question of consciousness so fundamentally wrong that we’re asking it the wrong way. The question, “Could an electron be alive or not?” is the wrong question. In fact, my body is not alive. My body is merely an icon. It’s not alive. In fact, if you close your eyes, my body disappears. If I close my eyes, my body just — this is merely an icon.
+
+So the only question is, which icons on our desktop give us effective portals into life or consciousness? And ones that do not, doesn’t mean that we’re not interacting with life or consciousness. It just means that our interface is giving up. Of course, it had to give up. Reality is too complicated. So once again, this actually shows how important it is. If spacetime is just an interface, we better get on with the program and not fool around with spacetime being fundamental. We’re just asking, we get life wrong. The question of what’s living and not living is in fact the wrong question. So this is how important it is. If spacetime is not fundamental, we need to change our science, how we’re doing our science.
+
+Tim Ferriss: Yeah. It’s going to be quite a Copernican upset. It’s going to make people very, very unhappy for a long time, I expect. Let’s segue to cosmological polytope, which if I ever go back to Burning Man, I feel like that should be my nickname on the playa, cosmological polytope. What is the cosmological polytope?
+
+Donald Hoffman: Well — 
+
+Tim Ferriss: Or the amplituhedron, if I’m getting that right.
+
+Donald Hoffman: Yeah, the amplituhedron and so forth and associahedron. What I’ll talk about is, at high level, what these guys are up to and what they’re finding. So they’re looking for structures beyond spacetime that can give rise to spacetime, and they want to do it in a way that they can test empirically. The tests that they have are of two fundamental kinds. One is the scattering studies that they do at the Large Hadron Collider, where you take subatomic particles of high energies, smash them into each other, and see what sprays out.
+
+What they do is they look at the so-called scattering amplitudes. If you have two gluons hitting each other, and four gluons go spraying out, what is the amplitude or the probability for the various kinds of ways that that can happen? And it turns out the scattering probabilities for these various events is the fundamental data that needs to be explained. Those are the big, big data. And several decades ago, when they were starting to try to build the Superconducting Super Collider in the United States, which didn’t happen, but they realized they were going to be doing so many of these collisions per second. Then most of them would be things that weren’t interesting. So you needed to have some way of analyzing the data very, very quickly and getting rid of the stuff that was not interesting. So you could find the needle in the haystack that was interesting.
+
+So they needed to compute these scattering processes, the so-called scattering amplitudes, and it turned out, but if you got two gluons in and three going out, it was a lot of algebra. And before going out, it was like hundreds of pages of algebra to for one computation, for one amplitude. It was nasty, it was just like — so they were doing it using quantum field theory, and Feynman’s approach to things. And the experimentalist said to the theorist, “Look, we can’t do hundreds of pages of algebra billions of times a second. Supercomputers can’t do this. You’ve got to simplify the math for us.” And so some mathematical physicists said, “Okay, we’ve got to help out our experimentalist friends. So let’s see.”
+
+So they found a miracle, they could collapse all this stuff down to a couple pages. And then another miracle, they collapsed it down to two or three terms. They couldn’t believe it. They thought, “This must be a one-off. But over the decades, they discovered, one after another, all these scattering amplitudes that were going into hundreds of pages of algebra could be collapsed to three or four terms that you could write down by hand. And so they began to go, “Wait.” And so that’s what the amplituhedron and the cosmological polytope, they’re actually showing that there’s this deeper reality. There are deeper symmetries. So what they discovered there are deeper symmetries that are true of the scattering data that cannot be seen in spacetime. So when you let go of spacetime and go to these deep, like the amplitude heater, cosmological, you are now dealing with deeper symmetries than spacetime that are true with the data.
+
+And all of a sudden, the math becomes trivial if you do it in spacetime, because you’ve got the wrong framework. You’re doing it in this projection space. That’s not right, it’s not the deepest reality. When you go to the deeper reality, you see the deeper symmetries and the math becomes trivial. So that’s the thing that makes them think they’re onto something here. We’re seeing new symmetries, the computations become much, much easier. And now, we’re seeing these structures. Now, they don’t know what the structures are about. So this is really an interesting point in the history of physics. So these geniuses are like, “We’re trying to go beyond spacetime.” What the heck is beyond spacetime? How do we go there? What flashlights can you use to probe into the dark beyond?
+
+Tim Ferriss: Now you’re speaking my language.
+
+Donald Hoffman: Right. Right. So that’s the problem. So hats off to these guys like Nima Arkani-Hamed and Juan Maldacena, and these guys. They’re brilliant and they’re brave. So what they’re doing is they’re saying, “We have to, of course, really know all the physics in spacetime,” and they know it backwards and forwards. They know all the scattering stuff, they know all the symmetries. They’re going, “Now we’re discovering that there are these symmetries in the data that can’t be explained in spacetime. We need to go to these deeper structures.” So you have to take a leap. You have to propose these structures, like the cosmological. You have to propose them. And then propose how they map back into spacetime and show that you can make predictions that are testable.
+
+Now the other thing they’re looking at is not just scattering data from the Large Hadron Collider and other colliders. But also, they’re looking at the correlations you see between stars and various objects in space, the two and three-point correlations and so forth. The idea is that they might think of the whole universe as one big scattering event from the Big Bang. And they might be able to get data that you couldn’t get the energies high enough in the colliders that we could build on Earth, but there was much bigger energies of the Big Bang. And so we might be able to probe nature more deeply by looking at the sky and looking at these correlations in the sky.
+
+Tim Ferriss: Wow. Just so I can take a note for myself, who are the researchers or the in what is the institute that if people wanted to do a deeper dive on this, they should look up?
+
+Donald Hoffman: Well, you’ll like this. Nima Arkani-Hamed is at the Institute for Advanced Study at Princeton.
+
+Tim Ferriss: Oh, look at that. That makes sense. It makes sense.
+
+Donald Hoffman: As is, I think, Juan Maldacena as well. So a lot of work is being done there, but Nima’s influence is huge. He’s trained a large group of young people who are working on this. If people are interested in it, I highly recommend Nima Arkani-Hamed gave a semester-long class at Harvard in the fall of 2019. So if you just Google, “Nima Arkani-Hamed Harvard lectures 2019,” you can get everything that I’ve been talking about in all the detail. He’s got 20 more lectures on this thing.
+
+Tim Ferriss: That’s incredible. Okay. So we will put this, for everybody listening, we’ll put those in the show notes since if you, like me, are not quite clear how to spell this person’s, we will get it and we’ll find the links. We’ll put it in the show notes at tim.blog/podcast. I’d love to return to something you mentioned in passing, which is hallucinogenic drugs. So you may or may not know, I’ve been very involved with funding scientific studies over the last, I don’t know what the exact range is, six to eight years within the realm of psychotropic drugs with a focus on psychedelic compounds across a whole spectrum of say, classes. So tryptamines, phenethylamine, but also including some stranger ones like salvinorin A just derived from Salvia divinorum. This is an area of deep interest to me. And I would love to know what you find interesting about hallucinogenic drugs or what questions they raise, anything at all that leads you to find them just an area of interest.
+
+Donald Hoffman: Well, I should first say that I’m interested, but I haven’t actually explored myself. Not that I won’t, but I haven’t yet. But I have many friends who have, and some who’ve really done it systematically, of with 5-MeO-DMT some who have been very, very systematic about it. And others who’ve taken psilocybin and so forth. And the reports that they have are very interesting. In many cases, they do find themselves interacting with other agents, other conscious agents. And some of those agents are teaching them. And some of them are rough. They’re rough teachers and so forth.
+
+And from a physicalist framework, you have to conclude that this is just brain malfunction. This is not an insight into reality. This is the brain being kicked in ways that it wasn’t intended to be kicked with neurotransmitters at levels or concentrations that are not supposed to be there. And that’s the whole story. And the same thing happens at death with near-death experiences. Those are merely brain malfunctions, effectively. But in a theory in which consciousness is fundamental, it still may be the case that these are merely hallucinations and no insights. This is absolutely possible. But it also, I cannot, with my theory of conscious agents, I cannot dismiss the possibility that perhaps the drugs are somehow putting up new portals into this realm of conscious agents. New access that we didn’t have before.
+
+Tim Ferriss: To a different interface?
+
+Donald Hoffman: That’s right, or through a different aspect of our interface that hadn’t opened up before. So from my point of view then, what I really need to have is a theory of portals. I have a portal. The portal is your body, and I’m interacting with your consciousness. And we have one technology. We have one technology by which we know how to open up new portals. One really important technology. It’s very low-tech, but it’s having kids. When you have a kid, you open up a new portal into consciousness. So we do know that there is a way to open up new portals into — 
+
+Tim Ferriss: Could you elaborate on that just a little bit? What do you mean by that?
+
+Donald Hoffman: Well, so you and your significant other decide to have a kid. And you have no idea who that person’s going to be like. But you have a kid. You start off as a sperm and an egg, and nine months later, through a magical process of morphogenesis, which we don’t understand. By the way, Mike Levin at Tufts is doing some beautiful work on morphogenesis, and showing that it’s not just the molecular biology that’s involved. There’s bioelectric fields, electric fields that are actually guiding the body growth, the body morphology and the morphogenesis. It’s truly stunning. So there maybe a lot there, but by the time the child is born, you now have this little portal. You have very little insight into the conscience. You know if it’s happy or sad, if it cries or not.
+
+But over a period of years, you see the portal getting more and more sophisticated. You’re getting and deeper insight into the conscious agent that you’re interacting with. And so studying that and studying the morphogenesis process, we may be able to come up with new technologies that allow us to open new portals into the realm of conscious agents. And who knows? That technology may look like silicon and circuits, who knows? So it might look like artificial intelligences that are conscious. But it would be very, very different from the standard approach to this.
+
+The standard approach of people thinking about this is that if I get my artificial robot complex enough with the right kind of complexity, maybe the first flickerings of consciousness will emerge from the pattern of activity in the hardware somehow. And if I get it really sophisticated, they’ll be more conscious. So somehow, the physics of the AI is fundamental. But if the physics of the AI has the right dynamics, then consciousness might emerge. I’m saying something entirely different. Physics is not fundamental. Spacetime is not fundamental. Consciousness is. What we call physical objects are merely the ways that we play with our interface to open new portals into the realm of conscious agents.
+
+And so once we understand, maybe it’s the amplituhedron, the associahedron, the cosmological, what’s behind spacetime and maybe conscious agents behind that, if we’re lucky. Then, and we understand how the interface is related to it, we then be able to build technologies that open new holes, new portals in our spacetime interface. And then once we’ve done that, once we’ve figured that out, then we’ll have lunch. Then, we might be able to answer your question, which is, “Are these drugs really opening up new portals?” Now, we have a theory of portals. Do the drugs really opening up new portals or are they just screwing up the interface?
+
+Tim Ferriss: Right. Is it just pathological firing or is there more to it?
+
+Donald Hoffman: We have a little work to do.
+
+Tim Ferriss: Yeah. We do have a lot of work to do. And I just want to share a few that may be of interest. So the first is that with many of these compounds, I mean, there are people who I consider, I’m not going to name them by name because a lot of them are under the radar at the moment, but intelligent, thoughtful, rational to the extent that any human is rational, rational actors who are very interested in trying to get a deeper understanding of at least experiment with these entity encounters, which in the example that’s in my mind, surface very consistently with DMT or N,N-DMT, which is very different subjectively, in its experience, than 5-MeO-DMT, 5-methoxy-DMT. And so they’ve looked at means of extending the interactions by changing, say, the mode of administration to intravenous and so on.
+
+At the very least, the questions are very interesting. And I recognize there are a lot of people listening, this is going to sound like we’re going — well, I’m not going to use “we,” it’s unfair to you, Don, that I’m just going to crazy town, but just allow me to be self-indulgent for a second. If you also look at the ethnobotanical and ethnographical studies, and just self-reporting in the histories of tribes, say, in South America use, ayahuasca is just one example, it is largely accepted among the cultures down there. And it hinges on certain cosmological views and so on, but that shared visions are common. So that people in close proximity taking these drugs at the same time often have shared visions. They see the same thing/experience the same thing.
+
+And it’s easy, I think, or on one hand, just dismiss all of this as the ravings and made-up stories of people who have taken drugs that have kicked their brain, as you put it, in ways that the brain is not intended to be kicked. But these things have also been used. And I don’t think the people in these tribes are stupid by any stretch of the imagination. And furthermore, I’d say the pharmacopeia and their knowledge of medicine often outstrips what we would consider modern medicine.
+
+For a long time, curare, which came from the Amazon and played a huge role in the creation of anesthesia as we know it today in hospitals was studied in many different capacities. And there were certain ingredients that were included in these mixtures, such as black pepper or various species of pepper that were thought to be inert. And the conclusion of the Western chemists who were doing the analysis was, “These tribesmen have no idea what they’re talking about. Yeah. They got one or two things right, but this has no bearing.” And that may be true in very many instances. But it turned out that BioPerine, if I’m pronouncing that correctly, in these pepper species increased bioavailability. So it increased the speed of onset of these paralytics.
+
+And I’m going to stop in a second, but this is an area of deep interest. If you look at how, let’s just say, ayahuasca, has been used historically, it’s also been used for hunting and warfare. And I’m not saying any of this holds water, but at the very least, consistent use by humans over millennia would seem to imply some utility. And if one is to believe the claimed utility, it raises questions that we are currently not able to answer from a physicalist paradigm. Anyway, end of speech.
+
+Donald Hoffman: I agree. And I think that this is very much worth exploring. I think that I cannot dismiss and I should not dismiss the possibility that these drugs are opening up portals into this other realm. I mean, it’s also possible that they’re not. We need to have a mathematically precise theory of what we think this realm beyond spacetime is and what portals are. But I don’t dismiss this at all. There’s a brilliant researcher named Monica Gagliano, who has spent time with these native societies and that are using these plants. And she’s got a book called Thus Spoke the Plant.
+
+Tim Ferriss: I love the title.
+
+Donald Hoffman: Monica Gagliano. And she was inspired by these tribes and their work to do new experiments on plants that showed that plants have capabilities that we never thought. They can do classical conditioning. She’s done classical conditioning on plants. Plants can learn to associate a sound with food, and they will grow their roots to just the sound that’s been paired with the food when there’s no food there. So you can do classical conditioning with plants, and she’s got other remarkable discoveries about plants. And so she says there’s a wonderful movie that just came out called Aware, where she and Christof Koch and several other people are interviewed. I highly recommend — the movie’s called Aware. I forgot the subtitle, it’s something like Explorations of Consciousness or something like that for the subtitle. But the movie’s called Aware. It just came out very recently.
+
+So Monica is in that, Christof is in that, and they go through and talk about her experiences with the tribes, that you see her sitting with the tribes, and then you see the experiments that she’s done. So I think that there’s — again, I don’t know what the answer will be here, because until we have the science, the mathematically precise science, we just don’t know. It could just be screwing up the brain in some sense, or it could be a genuine insight. There’s a lot of hard work ahead to do this. But if you’re a physicalist, we know the answer: you’re just screwing up your brain.
+
+Tim Ferriss: Yeah. You’re just completely cuckoo bananas and should be put in a padded room so you can’t damage yourself, which in fairness, some of these things, you do have to be careful with. This book looks fascinating: Thus Spoke the Plant, Monica Gagliano, got 253 ratings. It’s like 4.5, 4.8. And I should also recommend, in conjunction with this, or if people wanted a place to start that is a little shorter, there’s a piece called “The Intelligent Plant” that Michael Pollen wrote for The New Yorker at one point, which also speaks to this, insomuch as plants can sense gravity, the presence of water, feel an obstruction in the way of their roots before coming in contact with them. There’s time-lapse, videography, or photography of plants finding poles to climb up and using mean means that are very unclear. Really, really fascinating piece. That’s a bit older, 2013. So I would imagine that Monica’s book has more up to date.
+
+Donald Hoffman: That’s right. This will give food for thought to vegetarians.
+
+Tim Ferriss: Yeah. Yeah. That’s true. Ethical consideration.
+
+Donald Hoffman: Right. If plants are this intelligent, I mean, are they sentient? From my point of view, of course, that’s the wrong question. The question of which things are conscious and which are living is the wrong question. We’re always interacting with consciousness. When you see something that’s called a plant, you’re interacting with consciousness. It’s just that your symbol is what you call a plant, but you’re really interacting with consciousness.
+
+Tim Ferriss: Ooh, that’s a thorny dilemma for people to sort out — 
+
+Donald Hoffman: Don’t say that.
+
+Tim Ferriss: — for the bioethicists and people have a better understanding. I’d love to ask you about a book which was gifted to me. I did not agree with everything in it, but I did find some of the explanations and thought exercises to be worthy of exploration. Very simple. But are you familiar with the book called Biocentrism?
+
+Donald Hoffman: Yes.
+
+Tim Ferriss: Have you ever heard of this book? What is your opinion of this book?
+
+Donald Hoffman: I think generally it’s okay. I think that he’s letting go of the physicalist framework, which is, I agree with letting go of the physical framework. So I agree with him that physicalism is an inadequate framework. So absolutely/ so I agree with him on that. So the agreements may or may not come in what we propose is beyond spacetime. So I have a particular model of conscious agents that is mathematical, and he may or may not like that. I mean, he may disagree in his case, he doesn’t have any specific mathematical model. So it’s more just using the current evidence to suggest that physicalism is false. That something more lifelike, more conscious, maybe fundamental, but it doesn’t go to the next scientific step, which is, “Okay, give me a mathematical model that’s falsifiable or testable.”
+
+Tim Ferriss: Right. Thank you for answering that. You mentioned a number of names, Nima, something, something Hamed, which I will get right in the show notes. Which scientists, they don’t have to be scientists, but I do like playing within the realm of falsifiable hypotheses, if proven true that have predictive powers, anyone you would suggest taking a look at or who you find interesting in terms of what they are attempting to figure out or testing?
+
+Donald Hoffman: One person I find brilliant and interesting is Chris Fuchs, F-U-C-H-S. He’s a physicist. And one of the founders of QBism, Q-B-I-S-M.
+
+Tim Ferriss: Oh, yeah.
+
+Donald Hoffman: Formerly called Quantum Bayesian. But I think he dropped that and just now calls it QBism.
+
+Tim Ferriss: QBism is catchier.
+
+Donald Hoffman: QBism is catchier and he had some technical reasons for maybe dropping the Quantum Bayesian name. But he, and also David Mermin is another, Ruediger Schack. They’re all quantum QBists. And it’s an interpretation of quantum theory that is very, very close to what I’m saying, that they make the point that each act of observation in physics is an act of fact creation. When you measure the position of the electron, you’re not measuring a preexisting fact, you’re creating the fact in the act of measurement. So that’s the QBist approach. And of course, I find that very, very cordial to what I’m saying, that spacetime is just an interface and these properties are things that we create when we look. They’re data structures. You create, when you look, and then you garbage collect. You destroy it when you don’t need it.
+
+And so particles are things that we create when we need them. And he’s got a paper called “QBism: The Outer Fringes of Quantum Bayesian.” It’s a 2010 paper. I can give you the exact title of it. But in that paper, Chris Fuchs actually describes an experiment, a mathematical experiment that some other mathematical physicist did in which they prove, they show using quantum theory, a series of measurements that you can make, where you can predict with probability, one, what the outcome will be. But you can prove that quantum mechanics is incompatible with the value being there before you measure it.
+
+Tim Ferriss: I think I’ll need you to say that one more time.
+
+Donald Hoffman: That’s right. This is in Chris Fuchs’ paper, but it’s some other work. A series of measurements that you make, where you can prove that with probability one, what the outcome is going to be.
+
+But you can also prove that the outcome did not exist. The value did not exist before you made the measurement. You can prove it. That’s again against the local realism, but it’s also against what Einstein says.
+
+Now Einstein was a realist who said, if you can, without interfering in any way with the system, predict with probability one what the outcome of measurement will be. Then there’s an element of reality corresponding to the thing that you could get with probability one.
+
+It was Einstein. If without disturbing the system, you can predict with probability one what the measurement will be, then there’s an element of reality corresponding to that measured value. That’s what Einstein said.
+
+Very, very, really nice idea. What Chris Fuchs and his paper shows is Einstein was wrong. Here’s something probability one, we know what the outcome is going to be, and we can prove it didn’t exist.
+
+This is, once again, the nail in the coffin of spacetime and particles being fundamental reality. They don’t even exist when they’re not perceived, when they’re not measured.
+
+QBism says every physical measurement is an act of fact creation. You create it in the active observation. That agrees with what I’m finding from evolution by natural selection. You create the symbols you need on the fly to survive long enough to reproduce.
+
+Tim Ferriss: QBism for folks, we’ll put this in the show notes as well, and we’ll get the title of that paper is Q-B-I-S-M, not to be confused with Qubit, although I do recommend for people interested that you maybe listen to my conversation with Steve Jurvetson, who’s very involved with D-Wave and other quantum computing companies, which will also really stretch the boundaries of the mind just to consider what is involved.
+
+These are things that are happening right now. These are the Google and many of these companies have vast resources dedicated to quantum computing. It is of great practical value, but it gets into some very, very strange territory.
+
+I’d love to know what experiments, if you could wave a magic wand, or if you just had a pet billionaire who would fund whatever you thought was worth funding, what type of experiments would you like to see? Or do any experiments come to mind that you would love to see done in the next five, 10 years?
+
+Donald Hoffman: The magic wand, I would say that the stuff I’m working on, we need to just be funded for the next 10 years to really get the mathematics worked out of this third conscious agent.
+
+But in terms of experiments that could be done right now, my take would be, I would go to Nima Arkani-Hamed at Institute for Advanced Study Princeton and say, “Here’s all the money you want.
+
+What experiments do you want to do, because you’re the one who’s actually telling us how to go beyond spacetime? What do we need to do to go beyond spacetime and really understand the structures behind there?”
+
+He’s got some ideas. In fact, perhaps still is the lead on a new collider that was going to be built in China. I don’t know what’s happening on that.
+
+I would say some of the most beneficial experiments we could do right now are the ones that really help us push beyond our current spacetime understanding, and really go into the structures that are beyond spacetime.
+
+That’s going to be our best bet. The stuff that I would do, I think as a neuroscientist and so forth they’re incremental, but his stuff would be transformational.
+
+On my part, I think we have to just go after the mathematical modeling, and then try to tie it into the structures that they’re finding. That’s the best way for science to move forward in the quickest way on this.
+
+Tim Ferriss: I’m going to ask a totally unrelated question. Thank you for that. I’ll just read it for folks. Nima Arkani-Hamed N-I-M-A next word A-R-K-A-N-I-H-A-M-E-D American Canadian physicist. I will be looking into this gentleman. The older I get the more I’ll view other people as young, but he’s done a lot. He’s 49. He’s gotten a lot done.
+
+Donald Hoffman: He’s stunningly brilliant and hardworking.
+
+Tim Ferriss: What are you reading these days? Or what do you have on deck? It could be something that you’ve finished reading, something you’re working on currently, something that you’re looking forward to digging into. I’m just curious what your information diet looks like these days?
+
+Donald Hoffman: Several different fronts. One is on the very technical fronts, I’m studying some information theory in conditional entropy and so forth and then the irreducible representations of the Poincaré group to see if I can’t show how spacetime emerges from these conditional probability projections of the dynamics of consciousness.
+
+The idea is that consciousness has this dynamics that has no arrow of time. There’s no change in entropy. Anytime you look at that dynamics from a perspective, but using conditional probability you get an arrow of entropy. But different ways of looking at it, will give you different entropic rates.
+
+The rates will change depending on how you condition. I would like to show that I could get a group of transformations of these entropies, that then give me back the Poincaré group, for example.
+
+Again, it wouldn’t prove I’m right, but it would at least prove that we have a theory that’s compatible with what we know that can actually map into spacetime. It would actually be tremendous.
+
+I’m looking at technical stuff on Markov chains information theory, and of course the related physics on this. I’m also in a completely different direction.
+
+Because I feel when we’re studying consciousness on its own terms, there’s very few of us as scientists who are trying to study consciousness on its own term.
+
+I’m not trying to think of consciousness as how does neural activity give rise to consciousness and so forth? I’m asking what is consciousness qua consciousness? I want a scientific theory of consciousness that doesn’t assume a physical world as the foundation at all.
+
+Tim Ferriss: Sounds very difficult.
+
+Donald Hoffman: It absolutely is. You have to just reboot everything without all the props that we’ve had of space and time. What do you want in a mathematical model of consciousness?
+
+As I mentioned I published that paper objects of consciousness a few years ago, and people can read what we have there. But I realized that I should listen to various spiritual traditions.
+
+But now spiritual traditions are a mixed bag. I have no doubt that many practitioners have had deep insights, and that I have no doubt that many of the things that they say are dogmatic nonsense.
+
+The question is how to separate the two. Part of it is that they may have had insights, but without the scientific technique of writing down mathematically precise theory, and then testing them. You just can’t make progress.
+
+Even if your insights are deep and correct, you can’t take them and evolve them very far. If you’re just using words, you have to use mathematics and then make testable predictions.
+
+I’ve read the Bible and it’s a mixed bag. I’d get some insights from that. I had a chance to talk with the Dalai Lama and give a talk to him and get some interaction with him.
+
+I’m reading Eckhart Tolle and Rupert Spira. Again, not to pick anything [crosstalk 01:54:16].
+
+Tim Ferriss: Who is Rupert Spira?
+
+Donald Hoffman: Rupert Spira, S-P-I-R-A Rupert Spira.
+
+Tim Ferriss: Who is that?
+
+Donald Hoffman: He’s a spiritual teacher from England and I’ve run across him. I had a chance to have breakfast with him up in San Jose. There’s a Science and Nonduality Conference that I’ve gone to many times.
+
+It’s called Science and Nonduality, meets once a year, until it got messed up with COVID, but it’ll probably restart. They bring together scientists and people from spiritual traditions to have a dialogue, which I found very, very, very useful.
+
+Again, my attitude is as a scientist, I don’t think any of our current scientific theories are correct, including my own. I think a century from now, we’ll all look back and look at our current theories like we look at Newton’s theory.
+
+It was great for its time, but it was time to move on. I think all of scientific theories will be the same way. I have the same attitude about even the spiritual teachers, and the way they think about what they’ve experienced.
+
+On the other hand, I think it’s important for me as a scientist to listen very carefully to what these spiritual teachers are doing. They seem to have explored in ways that perhaps I and other scientists have not.
+
+Can I get insights? I’m spending time reading Eckhart Tolle’s books and Rupert Spira. Just again, taking everything with a grain of salt. But I don’t want to just ignore this. I want to really think about it deeply as I try to get a mathematical model.
+
+Tim Ferriss: I’m just thinking about the convergence of spiritual practice, not just the saturation of religion. But let’s just say the practices and mathematics and just offhand, and this could be completely misguided.
+
+I’m wondering if there have been any pairings of mathematicians and spiritual practitioners in, say, India. There’s such a strong certainly millennia-long set of traditions related to deep practices of various types, but also mathematics.
+
+You have an incredible, I don’t want to say tradition, but you do have a historical record of outstanding mathematicians out of India as well.
+
+Donald Hoffman: I know two of them. I am very, very lucky to count them among my longtime collaborators. Chetan Prakash and Manish Singh. These guys are mathematical geniuses and with also deep spiritual understanding, they have their own spiritual practices.
+
+Chetan has worked with me for over 30 years and Manish for almost 30. Manish was a student of mine, but he’s now my superior. He’s absolutely brilliant.
+
+Any mathematical savvy in our papers is not due to me, it’s due to them. Perhaps any spiritual savvy is also due to them. I don’t know what I do, but anyway, these guys are bright.
+
+Also, I was very fortunate to work with a gentleman named — now, he wasn’t Indian. He was Jewish: Bruce Bennett. He was just a flat-out genius mathematician with also deep spiritual understanding of Eastern spiritual traditions informed his stuff. I’ve been fortunate to be [able] to collaborate with these brilliant mathematicians and so I agree. Absolutely.
+
+Tim Ferriss: I’d love to just know as you’re reading from these religious and spiritual texts, whether it’s scripture like the Bible, or any other source. How do you pull from that? What is your filtering mechanism? Could you give any examples?
+
+Because I think that there are people who can hold let’s just call it rationalist mathematical faculties, while simultaneously having faith-based religion or spiritual practices. They don’t have to be faith-based.
+
+You could be a mystic with direct experience. It’s very different though, to integrate those things. You can have those two things coexist in you, but some would view them as antithetical to one another.
+
+How do you filter? Are there any examples that come to mind of things you’ve pulled from spiritual practices and looked to port over into the scientific?
+
+Donald Hoffman: Sure. A couple things. One from Upanishads, there’s this saying not that which the eye sees, but that where by the eye can see. Know that alone to be Brahma the eternal and not what people here adore. Not that which the ear hears, but that whereby the ear can hear. Know that alone to be Brahma the eternal, not what people — not that which the mind thinks, but that whereby the mind can think, know that to be.
+
+There’s this distinction between pure awareness versus the contents of awareness. When I realized that they were making that distinction, I look back at my math and I realized that when I was writing down these mathematical models of consciousness, they’re probabilistic models.
+
+When you do that, you have to write down a probability space. There’s just this thing, there’s this timeless thing a probability space. Then you have the dynamics occurring on that space.
+
+The mathematics itself also models, there’s this pure awareness beyond time, beyond the dynamics. That’s what I call the probability space.
+
+Then there is the dynamical system of the contents that appear and disappear within that system. I realized that there is this really interesting correspondence between the things that they’re saying.
+
+The contents there’s pure awareness and some sense they’ll say what you are is not any of your contents. You’re not your body. You’re not the sound of your voice. You’re not your possessions.
+
+None of that stuff is you, you are the pure awareness. The pure awareness is what survives death, but not necessarily any content. That does seem to correspond pretty well with some of the mathematics that I wrote down, just because I had to write it down that way.
+
+That’s just what you do when you write down the mathematics. I find these correspondences really interesting, and I want to pursue them further. The other one that I think is really interesting is the insistence.
+
+You get this in many of these spiritual traditions, but I see it really clearly when Eckhart Tolle is explaining these things in his books A New Earth and The Power of Now and so forth.
+
+He points out that thinking is not a very deep intelligence compared to the realm of our reality beyond thought. In these spiritual traditions, one of the things you do in meditation is you let go of thought completely.
+
+Any thoughts that come up, you don’t fight them, but you don’t give them any space. You let them go. The point that they make is that as you do that, and it may take you years to really be able to do that.
+
+You are getting in touch with infinite intelligence that is much, much deeper than any thought intelligence. In fact is the source of all intelligence that comes through our thoughts.
+
+If that’s right, that also makes sense from this Gödel’s incompleteness, the point of view that I’ve been taking on this. That is that consciousness there’s no description of it, including any conceptual thought description that we can give.
+
+That even scratches the surface of the depths that Gödel’s incompleteness theory says is there. I see this correspondence again between letting go of thought. There’s this really interesting thing, we need thought. Without words, we wouldn’t have this conversation.
+
+Tim Ferriss: Hard to podcast. Very difficult.
+
+Donald Hoffman: Hard to podcast. It’s not words are bad and concepts are bad. The question is what is the relationship between conceptual systems, and this intelligence that transcends any conceptual system? That’s the really interesting — now the spiritual traditions will say it’s a pointer relationship where I’m using the word aware as a pointer. Of course, the word aware don’t take it too seriously. You can also call it consciousness whatever, but don’t take the pointer too seriously.
+
+Then some pointers are really bad. We have this notion of good and bad pointers. As a scientist, I’m going now that’s really interesting. What do we mean mathematically by a good pointer, versus a bad pointer?
+
+Can we actually take these ideas and make them more rigorous? For example, I’ll just give a really simple concrete idea of the thing that I’m talking about.
+
+The real numbers, the real line from minus infinity to infinity. That’s a lot of numbers. How about the integers from minus [crosstalk 02:04:07].
+
+Tim Ferriss: I’m no mathematician, it sounds like a lot of numbers.
+
+Donald Hoffman: It’s a lot of numbers. Now just the integers from minus infinity to infinity. Between zero and one, there’s a whole bunch of real numbers. There’s a sense in which the integers are a very good approximation to the real numbers.
+
+There’s so many real numbers between zero and one. Zero is not really telling me anything about the integers between zero and one.
+
+You could say that the integers are a pointer to the real numbers, but it’s a really bad pointer. But now take the rational numbers. A rational number is an integer divided by an integer.
+
+You just take any two integers you get a ratio, those are called the rational numbers. It turns out that the rational numbers are what mathematicians call dense in the real numbers.
+
+You can approximate a real number as close as you want with rational numbers, but not with integers. Now it turns out there’s just as many rational numbers as there are integers. This sounds crazy.
+
+The number of integers equals the number of rational numbers. The integers are a bad pointer to the real numbers, but the rational numbers are a good pointer to the real numbers. They can approximate them.
+
+This is the thing that I see can we take the spiritual idea that what we are is an infinite intelligence that cannot be captured by any finite conceptual system language? For example, speech, thought.
+
+We have this notion of good, bad, and worse pointers. Can we make this idea which has been for thousands of years in the spiritual traditions? Can we now dust it off and make it serviceable in a more rigorous way?
+
+Can we actually take spirituality and turn it into a scientific discipline? Again, which is not to desiccate it and deprive it of its life, but to make it precise and make it actually serviceable actually make predictions.
+
+My father was a minister in a Protestant fundamentalist church. Here’s what I would love to sermon. The guy gets up and sermon is, “Guess what we just discovered mathematically about spirituality this week? You won’t believe it. Here’s this new theory about spirituality.” 
+
+Sign me up. I would love to go to a church like that, where they’re telling you the new discoveries, where rigorous discoveries about good pointers to here’s how to think about consciousness. Here’s a better way to do your meditation.
+
+We now have this mathematics to explain why you should do it this way and not that way. I would just love that thing. I think that science and spirituality eventually could collaborate.
+
+Tim Ferriss: Now question for you would spirituality not at that point, cease to be a useful term in so much as if spirituality is — please feel free to disagree with the wording.
+
+But an attempt to describe with words, these clumsy imprecise labels glimpses somehow, if we look at the mystical traditions into this fabric beyond spacetime.
+
+By the time they converge, we will have the tools and the mathematics to obviate the need for this word spirituality. Is that nonsense that I’m spouting?
+
+Donald Hoffman: I think that’s a very natural question. My attitude is that science itself is in the same boat. Science will never have a theory of everything. Science will always as Newton put it.
+
+Newton described near the end of his life, he described himself as a little boy on the seashore amusing himself with a little shell, or a pebble when the vast ocean of truth lay unexplored all before him.
+
+I think that’s exactly right and that’s the right attitude that science should have, is that no matter how far we get with our scientific theories, we have to understand that we will always be playing with pebbles on the seashore, just like Newton was.
+
+At least Newton was smart enough to understand that he was playing with pebbles. The fact that the spiritual people are also just playing with pebbles on the seashore, but they’re pointing to the ocean beyond and saying, it’s beyond conception. That’s why I think the notion of the pointers is really important.
+
+Tim Ferriss: Yeah, for sure.
+
+Donald Hoffman: Good pointers versus bad pointers. We can never get a theory of that. But if the spiritual traditions are right, and if conscious realism is right, even though you can’t get a theory of it, you can know it by being it.
+
+You can’t know that infinite intelligence through your conceptual analysis. You can get good pointers to it and science can help us get good pointers. But you can only deeply know it by actually letting go of thought and being it.
+
+But then as a scientist, you can go there and be it, and then come back with the goods in your own conceptual system and make progress in your science.
+
+That’s where I see this possibly going. Scientists would actually learn once we let go of our physicalism, would learn actually how that we as scientists are that infinite intelligence, but our conceptual tools are inadequate.
+
+We have to go into that infinite intelligence in pure silence, and then learn how to come back and take whatever insights we have gotten, into terms that we can actually write down to mathematics.
+
+We go back and forth that way. That’s where I see science and spirituality eventually going. It’s going to require a scientist to actually be not only a master of mathematics and the theories, but also a master of letting go of thought, and actually going into the deep intelligence, if this whole approach is correct.
+
+Tim Ferriss: How much pushback/blowback criticism have you had to deal with from the scientific community, for bringing the S word, spirituality, into the fold of conversation? Have you experienced that, or have you not really run into it?
+
+Donald Hoffman: My colleagues have treated me very well. As a scientist, I absolutely not only expect, but request hard-nose pushback. I’ll be the first to say that my theory of conscious agents is probably wrong.
+
+Tim Ferriss: Just to confirm that before we start recording, you were like, the more you push back the better. Love it. Hard questions that’s my job is to contend with that. Just wanted to confirm that, so please continue.
+
+Donald Hoffman: That’s right. I’m not interested in my own dogmatism at all. I would like to be disabused of my own mistakes as quickly as possible.
+
+When my colleagues, what I usually talk with them about is not so much the spiritual side of things, but more evolution of a natural selection entails that physicalism is false.
+
+We have to get over that hump before we even get anywhere near spirituality. That’s where I’ve really pushed with my colleagues, and I’m getting good feedback and good pushback of the kind that I would hope.
+
+There’s a team at Yale for example, that are trying to defend realism. They’re trying to use evolution by natural selection. They’re looking at the simulations we’ve done and the mathematics we’ve done.
+
+They’re trying to find conditions in which systems could evolve to see the truth, if there were the truth. We’re having a very profitable back and forth on that.
+
+My own attitude is that it’s no surprise that you can find certain conditions in evolutionary theory in which under those special conditions organisms could see the truth.
+
+The thing will be that they are probability zero. If you are going to bet, you would not bet on them. That’s a whole other discussion. I’ll just say one thing about it.
+
+Their approach is if you have lots and lots of fitness payoff functions, and you force the organism to only see the world as a unified whole, you can’t carve it up.
+
+Then in that special condition with many thousands of payoff functions that are coming very, very quickly, you can’t adapt to any payoff function. The truth is what you default to.
+
+That’s great. I’m grateful to them for doing that. What we’ve shown is that if you allow an organism to cluster the payoff functions into similar payoff functions, so that you can take these 50 payoff functions are roughly the same. We will just make one payoff function for all of them, for all the various [crosstalk 02:13:42].
+
+Tim Ferriss: Quick question, fitness payoff function. I’m probably very simplistic viewing fitness payoff function as successful reproduction. What would other payoff functions be? If I’m not totally misunderstanding it.
+
+Donald Hoffman: You understand it correctly. Evolutionary theory has been turned into mathematics called evolutionary game theory. In evolutionary game theory, what you do is you set up a game where players have different strategies.
+
+When one strategy interacts with another strategy, it will get a payoff. A dollar amount or something that it gets for that. For each strategy interacting with another strategy, you get a matrix of these payoffs that you get.
+
+Tim Ferriss: I see. You have rules for accruing points effectively.
+
+Donald Hoffman: That’s right. The more points you get, if you get more points than the competition, then you have a greater chance of reproducing effectively.
+
+Tim Ferriss: I see.
+
+Donald Hoffman: Those are the payoff. You have these payoff functions. When you mathematize evolution of a national selection, you get these payoff functions.
+
+Yes, if you allow an organism now that’s dealing with thousands of payoffs and we do. We have thousands of payoffs that we have to deal with. But if you can group them, cluster them into these actions with these payoffs, you have roughly the same payoffs.
+
+Let me make what I call an object out of them. What we call visual objects or physical objects, are merely data structures, by which we put together a bunch of payoff functions together so that we can just use that as a shorthand for if I have an apple you can bite it. You can eat it.
+
+I wouldn’t do other things with it. I wouldn’t try to drink it. I wouldn’t try to mate with it. There are certain payoffs you’re not going to get from an apple. With a stick, I can beat someone with it, but I wouldn’t want to eat it and I wouldn’t try to drink it.
+
+Different objects will have different payoffs. What we’ve showed in our simulations, just in the last couple weeks, so this is just brand new.
+
+This is in response to the team at Yale, we found that what they did was correct. But as soon as you let organisms, cluster the payoff functions into objects, then you get far more payoff for not seeing the truth.
+
+You make these fake objects, which are just data structures for the fitness payoffs. Once again, we actually then see where objects come from. They come not as representations of the truth, but as mere conveniences for representing payoffs.
+
+Tim Ferriss: Don, this has been tremendously fascinating.
+
+I could certainly continue with many questions for many hours, perhaps another time, perhaps a round two. Is there anything else you’d like to say? Anything else you would like to mention, before we bring this first conversation to a close?
+
+Donald Hoffman: I think the thing I would highlight, we’ve talked about it before, but I would highlight it at the very end. That is the nature of science, that good scientists understand that we will never have a theory of everything.
+
+When they talk about a theory of everything, it’s with a wink and a nod, that we will always have. That science is a never ending process of getting deeper and deeper theories, but each theory always makes assumptions.
+
+As scientists, it’s not our duty to believe our theories. It’s our duty to study the theories, really understand them thoroughly, and then try to break them.
+
+The point is to break your theories. When you can break your theory, when you find its limits, that’s when you break out the champagne, because that’s when you’re going to go to the next step. Gödel’s incompleteness theory tells us that this process will never end. There is job security. Go into science.
+
+Tim Ferriss: I love that. Don, people can find you on Twitter @donalddhoffman. You have a fantastic Twitter feed. You really share quite a bit in terms of referees and articles and so on.
+
+That’s Donald D. Hoffman, H-O-F-F-M-A-N. It has been so much fun to have you on and to have this conversation. I appreciate you taking the time.
+
+Donald Hoffman: It was a great pleasure, Tim. Thank you so much.
+
+Tim Ferriss: For everybody listening, we will add copious and detailed links in the show notes as per usual at tim.blog/podcast. Until next time, thank you for tuning in.
+
+
+TAGS
+DONALD HOFFMAN
+	

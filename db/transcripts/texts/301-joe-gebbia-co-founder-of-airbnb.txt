@@ -1,0 +1,1478 @@
+
+
+MARCH 10, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Joe Gebbia (#301)
+
+
+
+
+Please enjoy this transcript of my interview with Joe Gebbia (@jgebbia), co-founder and CPO of Airbnb. 
+You can listen to the full interview here, or by selecting any of the options below.
+
+
+Joe Gebbia -- Co-Founder of Airbnb
+
+Tim Ferriss: My oh my, sweet Christmas pie. This is Tim Ferriss and welcome to another episode of “The Tim Ferriss Show,” where it is my job to deconstruct world-class performers from any and every possible field, ranging from the military to business, from sports to chess, and everything in between.
+
+This particular episode features a friend of mine, a very, very entertaining, very competent, very eclectically skilled Joe Gebbia. Joe Gebbia is a designer. He is cofounder of Airbnb, certainly an entrepreneur, currently Chief Product Officer at Airbnb. He has helped to redesign the way the world travels and how people connect.
+
+Many of you are familiar with Airbnb, of course. It has created an entirely new economy for millions of people in more than 190 countries. But what you don’t know is very likely the first half of the story. What happened before Airbnb?
+
+What were the projects that worked out, the entrepreneurial ventures that failed, the pitches that were so important, the critical decisions, and where do CritBuns fit in? You may not know of CritBuns, but you will. I’m sitting on a butt pad right now as I record this called CritBuns and it is a critical – see what I did there – piece of the puzzle in the story of Joe Gebbia.
+
+He is hilarious. He does deliver the nitty-gritty. And you get to see and get to understand the experiences and decisions, hardship, failures, and successes that then prepared him for Airbnb. It doesn’t happen overnight, folks.
+
+So, there are some long-winding stories in this one. So, fasten your seatbelts. Sit back, relax, and enjoy the ride. Joe Gebbia, G-E-B-B-I-A, you can find at JoeGebbia.com, on Twitter @JGebbia, and on Instagram @JoeGebs, G-E-B-S.
+
+And without further ado, here is Mr. Joe Gebbia.
+
+Joe, welcome to the show.
+
+Joe Gebbia: Tim, thank you so much, buddy.
+
+Tim Ferriss: Yeah, man. I am so excited to finally have you here. So, thanks for flying out.
+
+Joe Gebbia: Of course. My pleasure.
+
+Tim Ferriss: Here we are in Texas. Where to begin? We’ve had the opportunity to get to know each other over the last while, which has been super-fun. We’ve had some unique peak experiences, which I’ll leave nebulous just so everyone’s really uncomfortable with that statement.
+
+Where to begin? We were talking about this. I was having excessive numbers of macchiatos earlier while I was watching you eat your French toast. I think the question to start with is what is your first memory of causing trouble or getting into trouble?
+
+Joe Gebbia: Well, let’s see…
+
+To go back, I think it would probably be around second grade. You have to understand, when I was young, I was really into art. I was into drawing. Around the second grade, the Teenage Mutant Ninja Turtles came out.
+
+Tim Ferriss: Big deal.
+
+Joe Gebbia: Big deal. I was totally hooked – Donatello, Michelangelo, Raphael, everybody. I was in it. So, I started drawing them. I just had such a good time drawing them that I would show them to my classmates, I remember, in the second grade. My classmates started to want to buy them from me.
+
+So, I would mount them on this really special poster board and I’d come into class and I would be selling this for the total of $1.00. If you wanted to get a big one, I would sell you the bigger ones for $2.00. So, I was having a ball doing what I loved, making drawings for classmates, making extra allowance every week. A dollar is a lot of money when you’re in second grade.
+
+Tim Ferriss: It’s a big deal.
+
+Joe Gebbia: It’s a big deal.
+
+So, at one point, my teacher pulls me aside and she says, “I need to talk to you.” And she begins to explain to me that students were so interested in these drawings that they were asking their parents for extra lunch money and the parents were like, “What do you need extra lunch money for?” And they traced it back to me and the teacher shut me down and said, “You can’t be doing this.”
+
+Tim Ferriss: Alright. So, already signs of looming misbehavior.
+
+Joe Gebbia: Yeah, and signs of spotting an opportunity and doing something about it.
+
+Tim Ferriss: Yeah, entrepreneurship.
+
+Joe Gebbia: Yeah. It was also, you could say, my first brush with regulation.
+
+Tim Ferriss: Right. That may or may not come in handy later.
+
+Joe Gebbia: Maybe.
+
+Tim Ferriss: Where were you at the time? Place us geographically – where did you grow up?
+
+Joe Gebbia: My parents are from New York. My grandfather’s heritage is back in Italy and Ireland. Grandfather is in Brooklyn.
+
+My parents grew up in Long Island, moved to Georgia right before they had me. So, I grew up in the deep south. I was in the town of Lawrenceville, which is next to Snellville, which is near Lilburn, which is not far from Norcross, which is kind of close to Atlanta. So, if you went an hour in one direction, you would be in farm fields and horse ranches. It was the south in every kind of way.
+
+Tim Ferriss: So, you’re selling these drawings. Where did that impulse come from? I ask because I’ve had the chance to spend some time with your dad – awesome guy.
+
+Joe Gebbia: That’s true.
+
+Tim Ferriss: We were together at a Date with Destiny event. You had the very good idea of basically created “Animal House” by renting a house together on Joebnb, otherwise known as Airbnb.
+
+Your dad is awesome, A. Also, he seems to be very entrepreneurial. So, that’s why I’m asking. I’m not implying it came straight from your dad, but could you maybe talk about that? And then also, what were some defining characteristics of your childhood?
+
+Joe Gebbia: Well, certainly, both my parents, including my dad, were very entrepreneurial. They both worked for themselves growing up. So, I had this environment where I saw my parents forging their own path. Their success was fully dependent on how hard they worked and how ambitious they were in their careers of what they were doing.
+
+My dad certainly was entrepreneurial. He was always coming home with something on the weekends saying, “I’ve got this new product idea. I’ve got this new service I found.” Our basement was full of these different attempts at different things. So, there was this spirit of trying things out, by all means, in our household.
+
+Tim Ferriss: What were some of the things that your dad tried?
+
+Joe Gebbia: Oh, God. I don’t know, some early internet things in the mid-90s as the internet started to come out. I actually don’t remember.
+
+Tim Ferriss: What were some of the things that caught? What did he end up doing?
+
+Joe Gebbia: Well, he ended up working with my mom and they both were in the health food industry. So, when you go into Whole Foods and you see vitamins and supplements in the vitamin aisle, they were the representative between the manufacturer of those products and getting them to the shelf of those stores.
+
+What was interesting was to tag along with them on business trips where they would drive around the south from South Carolina to Tennessee to Alabama, getting to see how they interacted with these store owners. It wasn’t just Whole Foods. It was also the mom and pop vitamin stores as well.
+
+Tim Ferriss: The independents.
+
+Joe Gebbia: Independents. So, it was really fascinating watching them interact with the store owners and just seeing how far they would go to serve people.
+
+I remember one time specifically we were in Tennessee and it was really late at night. All the other store employees had gone home. It was my dad and myself and the store manager. We’re sitting there stocking shelves.
+
+Tim Ferriss: So, this is Tennessee?
+
+Joe Gebbia: Yeah. We were doing somebody else’s job, but for my dad, it was just about creating a connection with the store owner and I guess going above and beyond what was required of you. So, I really took away from that those observations of watching how your parents treat people. It was really nice to see and it definitely planted a seed in me of going out of your way for those that you’re serving, for your customers.
+
+Tim Ferriss: Was it your dad’s idea to bring you along? Did you ask to be brought along or something else?
+
+Joe Gebbia: That’s a good question. I don’t know.
+
+Tim Ferriss: I remember the very first morning in the house that we rented in Florida.
+
+Joe Gebbia: Yes.
+
+Tim Ferriss: We had heard of Date with Destiny being nicknamed by some people Date with Death because the schedule is so intense, right?
+
+Joe Gebbia: Yeah.
+
+Tim Ferriss: 12, 16 – God knows how many hours. It’s up to the powers that be, the big man, and so on, and it can be very hard to get food. It can be very hard to get a break. And even if you do get a break, maybe there’s a line of 300 people from 60 countries waiting to get a chicken wrap. So, you’re not going to get your chicken wrap.
+
+So, we had stocked up with bars and mixed nuts and yogurt and jerky and everything imaginable and it was scattered all over the place. We got up in the morning and the entire collection of food had been rearranged like a point of sale display. It was in perfect order.
+
+Joe Gebbia: Right.
+
+Tim Ferriss: It was ready for a storefront.
+
+And I was just like, “Did you do that?” to my friend, Naveen. He’s like, “No, I definitely didn’t do that.” And then I knew Emilia hadn’t done it. I was like, “Who did…?” And I was like, “Oh…” Then Joe Sr. was like, “Would you like some eggs? I’m making some eggs. Would you like some?” I was like, “Wow.” So, it makes sense, that attention to detail.
+
+Joe Gebbia: You got a little taste of it that morning.
+
+Tim Ferriss: It was great. I was thrilled. What else did you experience in childhood that stuck with you? I’ll lead with one thing that I originally asked you all about when we initially spent time together also related to Tony Robbins. Tony is the glue that holds us together, which I didn’t expect to really be verbalizing. But it seems, at least up to this point, that he has been a consistent character in the background or in the foreground. He’s a big dude, hard to miss.
+
+But we began talking about tennis because I had just taken my first ever tennis lessons with Jim Lehr and Lorenzo Beltrame, an incredible coach down in Florida. But you were wearing a Nick Bollettieri or Bollettieri Academy shirt. I knew just enough having read the “Open” autobiography by Andre Agassi to recognize the name. So, I asked you about it. So, it seems like tennis was certainly something that was also part of the family.
+
+Joe Gebbia: Oh, my God.
+
+Tim Ferriss: So, maybe you could talk to that.
+
+Joe Gebbia: We had a tennis family, you could say. I think that’s what they call that, where every member of the family plays tennis. We did coaching together. We played in ALTA and USTA together. We did competitions together. It was truly a family sport growing up. So, tennis was a huge part of my life as a kid, amongst a lot of other sports.
+
+I think that of things that stood out to me of childhood, one of the things I’m really grateful for is that whatever my interests were, my parents would support it.
+
+I think they learned this lesson the hard way.
+
+Tim Ferriss: How so?
+
+Joe Gebbia: They got me into violin when I was really young, when I was about four or five years old.
+
+Tim Ferriss: Which you were interested in or not interested in?
+
+Joe Gebbia: No. So, I was taking violin lessons. There was a recital. I don’t remember how old I was, maybe six. At this recital – it’s in Savannah, Georgia. I’m sorry, Augusta, Georgia. I’m definitely out of my depths here. All the kids are bigger than me. I’m not able to keep up with everybody else’s playing. Apparently, I sat down on the front of the stage and just put my violin down. There are my parents in the back, probably with a terrified look on their face.
+
+After that experience, they switched their perspective and said, “We’re going to support whatever his intrinsic interests are.”
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, I was really grateful for that throughout my childhood. Sports, music, and art were the three things that anytime I threw my weight behind something, they were right there to support me, whether it was a sports practice or sports equipment or music lessons or art supplies – whatever the thing was, they were there to support me in it.
+
+Tim Ferriss: If not violin, where did you gravitate towards in music?
+
+Joe Gebbia: It’s funny. In the violin lessons, I do remember this part. I was so eager to finish the violin lessons so that I could go bang on the piano that was in the same music room. Sure enough, I started taking piano lessons and I’ve played ever since.
+
+Tim Ferriss: Cool. So, you still play?
+
+Joe Gebbia: I do. Yeah. I’ve got a piano at home. It’s one of those things. It’s the first thing I do when I get home at the end of the day is I just go jam on the piano.
+
+I either play some of my favorite music from Thelonious Monk or Dave Brubeck or I just make stuff up and kind of riff.
+
+Tim Ferriss: What other entrepreneurial experiences do you recall from elementary school or high school after you got the kibosh thrown on the Teenage Mutant Ninja Turtles?
+
+Joe Gebbia: That certainly wasn’t the end. I distinctly remember a whole bunch of things, probably the common stuff. I started a lawn mowing business in my neighborhood. So, I put flyers on people’s doors in my neighborhood and offered lawn mowing and car washing. So, I’d go mow a lawn for $20.00. That was quick money in my pocket as a kid.
+
+Kind of getting into high school, there was one moment where senior year came around and the senior year T-shirt they did at my high school, it was pretty uninspiring. Let’s just call it that.
+
+I thought, “I bet I could do something better than that.” At this point, I just got my first Mac, my first Apple computer. It had Photoshop on it. It had Illustrator and the graphic software that you needed to make visuals. So, that was actually one of my introductions to Photoshop was I just redesigned the T-shirt.
+
+I didn’t have any money, really, other than the lawn-mowing money that was coming in. I figured out how to get these T-shirts made. I went to a local printer, figured out how to transfer the files to them. Suddenly, I’m sitting on about 300 T-shirts. I realized, “I’ve got to go sell these things.”
+
+Tim Ferriss: Got it. So, you took it upon yourself to redesign – was it the high school T-shirt?
+
+Joe Gebbia: Yeah, the senior T-shirt.
+
+Tim Ferriss: The senior T-shirt. And then you went out and now you have a bunch of inventory.
+
+Joe Gebbia: I’ve got a bunch of inventory and I’ve got to go sell them, which will come up again later in another story.
+
+But yeah, it was fun. Actually, I remember I did better than break even on those. People were really happy to have a really memorable T-shirt.
+
+Tim Ferriss: What did the shirt look like?
+
+Joe Gebbia: It was a riff on the Tide logo, Tide detergent.
+
+Tim Ferriss: Sure.
+
+Joe Gebbia: So, instead of saying Tide, it said Seniors: Class of 2000, Brookwood High School. It did really well.
+
+Tim Ferriss: So, you didn’t bet the farm and lose the farm. You at least broke even.
+
+Joe Gebbia: Yeah. It was fun to learn how to use some of the graphics programs like Photoshop and then also figure out how you turn that into something. How does it leave your screen and become something physical? So, it was a great lesson, if anything.
+
+Tim Ferriss: Now, this was senior year in high school.
+
+Joe Gebbia: Yeah.
+
+Tim Ferriss: What did you think you were going to do when you grew up, per se, at that point or what did you want to do?
+
+Joe Gebbia: So, every year from elementary, middle and high school, the art teacher would tell me, “You need to take more art classes.”
+
+It was a talent that I had that stood out and they recognized it and were telling me about it. So, year over year, I would invest more into art classes. At one point, I was driving down to the Atlanta College of Art on weekends to take figure drawing classes. Sometimes on weeknights, I’d drive down for painting classes.
+
+Then something really incredible happened. I applied for this program called the Governor’s Honors Program in high school, where they take students from around the state of Georgia across all disciplines – math and science and languages and art – and they would pick around 30 students throughout the state for each discipline. And then if you get in, you go to a college campus for the summer and you actually study college-level coursework in whatever the discipline is.
+
+So, I went for art. I had an incredible time. Here I was, surrounded by the best artists in the state of Georgia and other high school students. I had teachers who were collegiate level challenging us the same way they would a college student.
+
+I freaking loved it. There was one woman in particular. Her name was Donna. She was one of those people in life that you have along your journey who helps you see something else about yourself that maybe you don’t quite realize yet.
+
+So, she sat me down one day during this program and really kind of laid out what it might look like if I pursued art after high school. She was one of the first people that got me really excited about – she made it realistic for me to think about if that was even a practical idea.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: She’s like, “There’s one school you have to go to. It’s the Rhode Island School of Design.” I’m like, “The what? Where is that?”
+
+Tim Ferriss: “Is that in the Bahamas? Rhode Island?”
+
+Joe Gebbia: She put RISD on the map for me. It was during that summer I really dove into painting.
+
+I did this painting that was about eight feet by four feet wide, stretched my own canvas, and really threw myself into understanding materials and paint better than ever before. We had a show at the end of the program. Everyone in the art discipline got to have a gallery show. There was my painting on the main wall when you walked in.
+
+It was a moment for me to realize that A, people appreciate the images that I made and my art. Second is I loved it. I really felt challenged. I felt creative. It was allowing me to fulfill all these desires that I had to create things.
+
+Tim Ferriss: How much of that was the environment versus the medium, do you think?
+
+Joe Gebbia: I think probably the environment a little bit more because the medium could have been anything.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: We did raku pottery and firing. We did figure drawing, painting – we were exposed to all kinds of different mediums and materials. I think the environment is what I fell in love with.
+
+Tim Ferriss: The being challenged.
+
+Joe Gebbia: Being challenged, being surrounded by other creatives.
+
+Really, that’s what triggered me to say, “This Rhode Island School of Design thing…” So, the next summer, I did their high school program and got to spend six weeks on campus. Basically, you act like a freshman. They give you, again, college-level courses.
+
+Tim Ferriss: At RISD.
+
+Joe Gebbia: At RISD. I fell in love with the campus, fell in love with the people. As a junior in high school, I’m like, “I’ve got to go here. This is where I feel challenged.”
+
+Tim Ferriss: Then what happens?
+
+Joe Gebbia: Well, before I leave high school, there’s another story about entrepreneurial Joe. I haven’t told this story in a while. So, when I got to high school as a freshman, the senior class right before me had pulled off this amazing senior prank.
+
+So, at our high school, the mascot was a bronco horse. So, it was the Brookwood Broncos. They went down the street a country western store where you get cowboy boots and cowboy hats. It’s called Horsetown East.
+
+On the top of their sign, which was pretty tall – it was a couple of stories’ tall – was this giant, full-size plastic horse. Somehow, the senior class figured out how to get the horse down from the sign and then they put it on top of our school. So, the last day of class, everyone came in and there’s a giant, full-size plastic horse on top of Brookwood.
+
+So, when I showed up as a freshman, everybody was talking about it. Everyone was like, “Did you hear what the senior class did before they graduated?” I just started to think to myself, “I want to out-do that. I’ve got four years to think of something. Surely, I can come up with something better than the horse on top of the school.”
+
+So, I set myself a challenge of figuring out a prank by senior year. So, the years go by. It’s now senior year. We have about four months to go and I still haven’t thought of anything. The clock is ticking. It’s now three months to go. I still haven’t thought of anything. It’s now two months to go.
+
+I get on to Google and I search “high school senior pranks,” just to see what else is out there because I’m still committed to figuring something out. So, I keep coming across the same stuff. You’ve got superglue the locks of the doors. You’ve got fill up cups of water in the gym, put them all next to each other so they knock over.
+
+Then you’ve got put three pigs out into the school and label them one, two, four so that everyone thinks there’s a third pig running around somewhere. It was like the repetition of how many sites were covering these pranks, it was like, “These are not original.”
+
+Tim Ferriss: Right.
+
+Joe Gebbia: That was one of my criteria, “This needs to be something original. I’m not going to just copy another prank.” So, we’re now like three weeks until graduation. I don’t have any prank. I haven’t figured it out yet. My sister was a cheerleader. So, she’d have this cheerleading practice after school. Normally, I’d have to hang around and take her home.
+
+So, I’m outside after school one day and she’s nowhere to be found. This is before cellphones. The way that you tracked somebody down at that time was they’d make some announcement over the intercom system and they’d call their name. So, I go into the front office.
+
+By the way, I went to a high school in Georgia that was one of the largest. We had over 4,000 people in our high school. So, it’s one of the biggest high schools in the state. I thought that to access the intercom, you would go in some room and there would be some big system and it would be super complicated. So, I’m in the front office and I’m looking at the secretary.
+
+I go, “Hey, I’m just trying to find my sister, Kim. Can you page her over the intercom?” And the secretary goes, “Oh, sure, just a minute.” She picks up the phone and she hits pound-zero-zero on the dial pad and then she talks into the phone, “Hey, Kim, Kim Gebbia. Your brother is here. Please come to the front of the building.”
+
+And everything she said into the phone came out over the intercom system. I’m watching this and I’m going, “It’s that easy to get into the intercom system of the largest high school in the state of Georgia? All I you have to do is have access to the phone line and hit pound-zero-zero?” I’m like, “Oh, my God.”
+
+It was this big aha moment as I’m watching this unfold in front of me. I go, “All I have to do is get one of those splitter jacks, plug it into the same phone line and then I could run a cord of another phone somewhere else, in the closet or something, and then I could call in and have access to the whole intercom system.”
+
+So, for a week, I’m toiling on this. I’m like, “How am I going to route a phone cord without anybody noticing it?” And then finally, it dawns on me, “Just get a cordless phone. You can be anywhere in the school and have access to the intercom.”
+
+So, at this point, I recruit one of my buddies, Mark Eisenhower, who, looking back, probably wasn’t the best accomplice for this mission because he was played on the basketball team, was about 6’4” with bright blonde hair.
+
+Tim Ferriss: Not inconspicuous.
+
+Joe Gebbia: Not inconspicuous at all. So, we go to the school that weekend. We have this grand plan that we’ll maybe trick one of the janitors into letting us into the main office and when he leaves, somehow, we’ll plug in this cordless phone into the school. It definitely was not a well-thought out plan at this point, but we didn’t have a lot of time. So, we just went for it. So, we went to the school.
+
+It was on a Sunday afternoon. I think the janitor saw right through us. He did not let us in the office. So, we left a bit empty-handed. But we weren’t giving up. This was too good.
+
+So, I employed another friend. Her name was Chelsea Hughes. So, the three of us came up with a better plan. We would go up on a weekend. There was a community school office that we knew would be open on weekends. That office connected like these inner-chambers to the main office. If we could just get into that one, the thought was we could go through the sequence of other doors to get into the main office.
+
+So, Chelsea went up and tried to figure out where that principal was, that community school director. So, she identified him on the far side of campus. She signaled to Mark. Mark signaled to me. I’m outside in like a black hoodie with my backpack full of the phone, a flashlight.
+
+And Mark gave me the signal.
+
+Tim Ferriss: Full-on “Mr. Robot.”
+
+Joe Gebbia: Totally. I go running in through the lobby of the school right into this community director’s office. It’s pitch-black. I’m going through all the doors. It’s like chamber by chamber until you get to the main office, the front desk. I’m there and I move the desk to the side.
+
+There is this giant jumble of cords underneath it and I’m trying to figure out what the hell is the phone line. Then I trace it back to the wall. I pull out the splitter piece. I put it in. Then I plug in the cordless phone and the phone from the desk into the same line. I’m trying to bury the cord base underneath the pile of cords. At this point, I’m sweating. My heart is racing.
+
+Tim Ferriss: Of course.
+
+Joe Gebbia: I’m in the darkness of this office, definitely not supposed to be there. And all of a sudden, there’s a tap on my shoulder.
+
+Tim Ferriss: Oh, God.
+
+Joe Gebbia: My heart jumps. I turned around. It’s Mark hovering over me. He goes, “Joey, we got to go. Mr. Chelka is on his way.” And I’m like, “Alright, I’m done.”
+
+So, we push the desk back. We go out the back entrance into the parking lot. We meet up with Chelsea. I pull the cordless phone out of my bag. I turn it on and we get a dial tone. We have access to the intercom. So, the next question is, “What do you do with that access?”
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, the next day, I decided that I was going to make a tape mix of different songs to play over the intercom system. I put together a mix of Pink Floyd, “We Don’t Need No Education,” and Alice Cooper’s “School’s Out for Summer.” I got so detailed about this that I had my mom help out at home. She didn’t know he was helping me.
+
+But we had two phone lines in the house, one for their business and one for personal use. I would call one phone line to the other and have the tape player next to it to figure out the right volume on it, the right distance from the phone, and have my mom on the other end telling me if it was loud enough or not.
+
+She helped me calibrate the right volume for the tape player. So, the phone is embedded. The tape mix is made. It’s now the last day of school. I woke up that morning and I was nervous. I’m like, “I’ve got to do this today. Alright. The prank is happening.”
+
+So, I go to school a little bit late on purpose. As it works, I park my car in the parking lot. In one pocket, I’ve got the phone. In the other pocket, I’ve got this tape player, like a Sony Walkman. I’m walking through the parking lot. It’s just me. There’s nobody else. Then all of a sudden, our school police officer shows up on this his golf cart. He turns the corner and he’s coming straight towards me. There’s nobody else around.
+
+It’s just him and me. He’s coming at me and I’m staring at him. I’m like, “Just be cool. Just be cool. He doesn’t know.” As he’s getting closer, my heart is racing faster. I’m like, “Oh, my God.” I’ve got the bulges in my pocket of the phone and tape player. He makes eye contact at me and the gold cart goes by.
+
+So, I walked to the front of the school. There’s like this overhang area where the buses pull up. There are these benches and these glass doors before you go into the main lobby. So, everything is cleared out except for this one kid. He must have been like a freshman or a sophomore or something. He’s sitting there. I’m waiting for him to leave because I didn’t want anybody to see what I’m about to do. He’s not going anywhere.
+
+I’m thinking to myself, “I have to do this now. I can’t wait any longer.” So, I just run up to him. I get right in his face and I go, “Look, you can’t say anything about what you’re about to see.” He was just totally freaked out and he goes, “Okay.”
+
+So, I go behind one of these brick columns that was holding up the overhang and around the column, you could see into the glass doors and where the office is, where the phone base is. So, I pull the phone out. I pull out the tape player. My hands are shaking. I’m just thinking to myself, “Alright, it’s go-time.”
+
+I turn the phone on, get the dial tone. I hit pound-zero-zero. My hands are shaking even more. I take this deep breath. And actually, this beep comes over the whole school to signal there’s announcement. And I can actually hear myself breathing –
+
+Tim Ferriss: Through the intercom.
+
+Joe Gebbia: Through the intercom. I’m thinking to myself, “Alright, I’ve got to do this right now.” So, I hit play on the tape player. I set the two down next to each other. As I’m doing it, I flick the volume all the way just to be safe because I’m thinking to myself, “I don’t want to come across as too soft in the volume.” So, I’m like, “I’ve got to throw the volume all the way up. So, I set the two down next to each other and I walk into the building and that’s when all hell broke loose.
+
+I open the lobby. I go into the lobby doors. The music is blasting out of the intercom system, “School’s out for summer.” It’s like the speakers are about to explode. It’s like so freaking loud. When you get to school late, you had to go to like a check-in line to sign in. So, I’m in the check-in line. There are like two people in front of me.
+
+This is the scene. I’m in this high school lobby. To my left are all the offices, including the one where the phone is. To my right is the gymnasium. Out of the gymnasium, two of my buddies come busting out while this music is blasting. They’re laughing so hard because they realized that it was me. The coach comes out of the gym, starts yelling at them, “Hey, you get back in here. We don’t know what’s going on, but you’ve got to get back in here.”
+
+I’m sitting there with a straight face not cracking a smile. I sign in. And then to get to my class, I have to walk past all these offices. So, while I’m doing that, I hear what’s going on.
+
+They’re yelling at each other. People are sticking their head out of their office, “Is it coming from in there?” “No, I don’t know where it’s coming from.” They’ve got the phone in their hands. You can hear on the intercom them hitting numbers on the phone trying to shut it off. They had no idea where the heck it was coming from.
+
+So, as I’m walking past this sequence of offices, I catch a glimpse into the principal’s secretary’s office and then into the principal’s office, which is even a deeper layer. I catch her face and it’s bright red and she’s yelling at somebody while this music is still playing.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: Now, we’re on to Pink Floyd, at this point. “We don’t need no education…”
+
+Tim Ferriss: So, this has been going on. This is like three, four minutes in at this point.
+
+Joe Gebbia: Yeah. My class is in the very back of the campus. I’m walking through the halls. I’m totally by myself while the music is playing. Every time I walk past a classroom, there’s a little skinny glass window and you can kind of get a glimpse into it.
+
+As I walk past these classes, I take these double looks. People are like on top of their chairs and on top of their desks and people are dancing. I get to my classroom right as the tape ends. Look, I thought for sure they were going to shut this off in like 20 seconds.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, I didn’t make the tape very long. It was only a couple of minutes. If I had made a 20-minute tape, it probably would have played for 20 minutes.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, I get there right as the tape ends. I open the door. People are standing on top of their desks. People are dancing. The teacher is at her desk with her head in her hands – totally lost control of her class. It’s like the record stops. I walk in. Everybody turns and looks at me and goes, “Joey, was that you?” I’m like, “No. I don’t know what that was.”
+
+So, finally, the teacher gets control of the class again. We sit down. Everyone’s looking at me like, “Joe, that was awesome. What was that?” I’m like, “I don’t know. I don’t know.”
+
+So, not two minutes later, there’s a knock on the door. An Administrator walks in. She walks over to the teacher. The class goes dead silent. They whisper something to each other and then they both turn and look at me. The administrator comes by my desk. She goes, “Joey, get your stuff. You’re coming with me.” I’m like sinking in my desk and I’m like, “Oh, no.”
+
+She gets outside. She slams the door. We’re in the hallway. She goes, “You want to tell me what just happened back there?” I go, “I don’t know what you’re talking about.” She’s like, “We’ve got Mark in the office. We know what happened.” I’m like, “I don’t know what you’re talking about.” She goes, “You can make this hard or you can make this easy on yourself.” At that point, I was like…
+
+So, we walk all the way back to the front of the campus. The whole way, she’s berating me, chewing my head off of all the damages that I caused and all the issues that were created with the phone system. We go to the secretary’s office and we walk through and I see Mark there and he’s got his head in his hands.
+
+Tim Ferriss: And Mark is your very tall…
+
+Joe Gebbia: Very tall, very blonde…
+
+Tim Ferriss: Very blonde, very obvious accomplice.
+
+Joe Gebbia: Yes. He was a good buddy and a good friend. I appreciated his help in this endeavor. So, he’s down like this. He’s totally crushed. He sees me and he looks at me and he goes – and I couldn’t tell what he was saying.
+
+Tim Ferriss: So, he’s trying to mouth words at you.
+
+Joe Gebbia: He mouthed something to me. So, what he was saying, he goes, “It was the janitor.” I’m like, “The what?”
+
+Tim Ferriss: Oh…
+
+Joe Gebbia: So, we get through the secretary’s office into the principal’s office, Connie Corley. I’ll never forget her name. They slam the door. I’m standing there with my backpack wearing a green Izod shirt. I’ll never forget this. I’m in my brown khaki pants with my green Izod shirt with my backpack. There’s Connie Corley at her desk with her arms like this, kind of huffing and puffing. Her face is bright red. She’s got the phone and the tape player and the phone cord and the phone base on her desk.
+
+And around her are the 20 administrators, including the school police officer. It’s the biggest school in the state of Georgia. We had our own police officer. They’re all like this.
+
+Tim Ferriss: Arms crossed, huffing and puffing.
+
+Joe Gebbia: Right. I’m like, “Oh, fuck.” My heart is racing. I’m like, “What is going on here?” Every one of them took a turn at me just to yell at me about something. Connie Corley starts yelling at me, “How did you get into the office? You were breaking and entering.” And she’s like really angry. I’m like, “Ugh…” I’m starting to feel a little bit bad about this. I’m not sure where this is going to go. Am I going to get off on this or are there some consequences here? I have no idea.
+
+So, from that, they lead us into this other negotiation room, which I’ve never seen before. It was this long, wooden table with these like leather chairs around the whole side. Principal Corley is at the head of the table. Mark and I are now sitting across from each other.
+
+We’ve got administrators standing over us with their arms crossed like we’re going to make a run for it or something. She starts negotiating with us. This is the part that actually pissed me off the most is that she started to threaten our scholarships. She looked at Mark and, “Mark, I know you’ve got a basketball scholarship to this school in Georgia that you’re going to. I’d hate to have to call the coach and tell him about this incident.”
+
+She looks at me and she goes, “Joey, I know you’re going to that art school in Rhode Island. I’d hate to have to call their admissions office and tell them about this incident.” At that point, I was like, “There’s no way you’re getting in the way of either of our dreams because we tapped into the high school intercom system.”
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, she made an offer. She goes, “We can press charges for breaking and entering and tampering with school property and some other things or you can do this list of things,” which included wiping down computer screens in the library during the summertime, ironically, setting up and taking down the sound equipment for graduation, and like a few other chores and like manual labor, basically.
+
+Tim Ferriss: Yeah.
+
+Joe Gebbia: So, Mark and I, obviously we say, “We’ll do the chores and the manual labor so that we can graduate.”
+
+Tim Ferriss: Right.
+
+Joe Gebbia: Pressing charges somehow equated to not being able to graduate and get your diploma. So, from there, we go into the school police officer’s office. His name was Officer Harrelson.
+
+Tim Ferriss: That’s a good cop name.
+
+Joe Gebbia: Yeah, right? This guy had the deepest kind of grizzly voice that you could imagine, “Office Harrelson here, Brookwood High School.” So, we’re in the office and he calls our parents. This is probably the worst part of the whole story. He did not know the update that we opted in to do the manual labor. He thinks that we’re not graduating high school.
+
+Tim Ferriss: Oh, no.
+
+Joe Gebbia: So, he calls my mom. He goes, “Mrs. Gebbia, this is Officer Harrelson here at Brookwood High School.”
+
+“Yes, ma’am. I’ve got your son in custody here. That’s right, ma’am. It doesn’t look like he’s graduating this year.”
+
+Tim Ferriss: Oh, no.
+
+Joe Gebbia: “Yeah, ma’am. He’s right here. He hands me the phone and I heard this tone of voice from my mom I have never heard since and I never want to hear again. She goes, “You get right home after school. I can’t believe you.” Click.” I’m like, “Mom, but wait, we’re going to graduate.” So, she thinks her son is not graduating high school. I’m like, “Thanks, Officer Harrelson. That was really kind of you.” He does the same thing to Mark.
+
+We’re walking out of his office. This is the best part. He pulls us to the side and he goes, “Mark, Joey, I’ve been at this school for over 20 years. You need to know – that was the best damn prank I’ve ever seen.”
+
+Tim Ferriss: Officer Harrelson.
+
+Joe Gebbia: So, we go through graduation. One little funny stunt that we did is you had your honors cords and different club cords that you wear around your neck.
+
+Mark and I wore phone cords to honor the senior prank. People were raving about it. We came back two weeks later to wipe computer screens in the library. I’ll never forget. We’re outside underneath the same overhang dusting off our rags and all these buses pull up. All these bus drivers start pouring into the school past us. So, they had some bus driver end of year celebration or something.
+
+One of the bus drivers actually walks over to us and she goes, “Are you the two boys that pulled that prank with the intercom system?” And Mark and I look at each other and we’re like, “Yeah.” She goes, “You know you two are legends in this county?” Mark and I are like, “What? How did they hear about it?” All the bus drivers in the county that we lived in.
+
+So, it was just an incredible moment of having an idea, having this ambition to do something that was original.
+
+In this case, there was no property damage. Nobody got hurt, which is, to me, the essence of a great prank. That was part one of the story.
+
+Tim Ferriss: Part one of the story? Well, alright. I’ll bite. What’s part two of the story?
+
+Joe Gebbia: What’s part two of the story. I’m in college. This is about two years later. One of my roommates comes home one day and he says, “Have you heard of that show, it’s on MTV called ‘High School Stories, Pranks, and Controversies?’” I go, “No. What’s it about?”
+
+He’s like, “I just watched it. They showed some high school. They had this high school prank.” I sat up in my chair and go, “Really? Tell me about that.” He goes, “Yeah, they filmed these guys who, get this, they superglued the locks in the doors of this high school.” I’m like, “You have to be kidding me.”
+
+Tim Ferriss: The oldest trick in the book.
+
+Joe Gebbia: MTV is making a show about high school pranks and they’re doing a superglue in the lock prank. I’m like, “I have to get in touch with the producer.” So, I get online and I track down the producer of the show. I sent him an email that was a teaser of the story, but not the full one. I basically said, “If you want to hear the rest of it, here’s my phone number.” Probably about 30 minutes later, my phone rings with a 212 area code.
+
+Tim Ferriss: NYC.
+
+Joe Gebbia: NYC. I get on the phone with this producer and he’s like, “I’m really intrigued by your email. I’m always looking for good stories. What have you got?” I told him the abbreviated version of what you just heard. He’s like, “I love this. I’m going to pitch this to my executive producer. We’re going to get back to you.”
+
+So, about three or four days later, I get another phone call from a 212. “Hey, this is Leslie from MTV. I’m the executive producer here. I really loved your story. I want to hear more about it from you.” So, by the end of the call, she’s in love with the story and she’s like, “You know what we’re going to do? We’re going to send a crew down to Georgia.”
+
+“We want you to come back this summer. We’re going to reenact the whole thing and include it in the next season of our TV show.” So, that summer, we got to go back to Georgia and reenact the whole thing.
+
+Now, however, this was only two years later. The same administration and principal was still there and they did not have a lot of forgiveness.
+
+Tim Ferriss: I was going to say the wounds haven’t healed over quite yet.
+
+Joe Gebbia: The wounds had definitely not healed. They definitely had a grudge because if anything, we just embarrassed them. They had no idea how to turn it off. There’s no damage or anything that was really done that’s permanent. So, they declined reenacting at the school.
+
+So, ironically, we went to one of my rival high schools and re-filmed the whole thing there. And even more ironic is that the principal, the new principal there was a former administrator when I pulled the prank at my other school. So, he was intimately familiar with what had happened. At that point, he could laugh about it.
+
+So, that summer, we reenacted the whole thing, Chelsea and Mark and a got a couple other friends to be extras in the background.
+
+And it aired later that year on MTV.
+
+Tim Ferriss: Amazing. So, it seems like your brushes with mischief just seem to reinforce your appetite for mischief, of sorts, in a way.
+
+Joe Gebbia: Perhaps.
+
+Tim Ferriss: Now, when we were hanging out earlier today, I asked a question that I often ask of friends I’m going to sit down with. It was, “In effect, can you give me any cues – I don’t want to hear the story – can you give me any cues that might lead to a fun discussion?”
+
+Joe Gebbia: Yes.
+
+Tim Ferriss: I said, “I don’t want to know the story because I want to hear it fresh when we’re recording.” And one of them was NBA, time worked with or in NBA. I have no idea what this refers to, but that’s a cue.
+
+Joe Gebbia: Tim, I think this story starts by telling you a fun fact. I’ve seen Michael Jordan naked in person.
+
+Tim Ferriss: This is a good start. Now, we’re talking about locker room, hotel room, barbecue?
+
+Joe Gebbia: I had a high school job where I worked as a ball boy in the NBA for the Atlanta Hawks. That was my job in high school.
+
+Tim Ferriss: Okay.
+
+Joe Gebbia: I love basketball. I’ve played my whole life. I used to read the newsletter every morning when I was growing up over breakfast. I would just consume the newsletter. So, one day, I’m in the sports section and there’s an article about being bat boys for the Atlanta Braves and being ball boys for the Atlanta Hawks. At the very end of the article, it said, “If you’re interested in becoming one, send a letter about yourself to this address.” I’m like, “Oh, my God, yes. that would be so cool.”
+
+So, I sent a letter. Actually, I sent it on the day of the deadline. Months had past and I sent it on the day of the deadline. I kind of forgot about it until that next summer. I get a phone call and this guy introduced himself as Chris Tucker, the head strength coach of the Atlanta Hawks. He goes, “We got your letter. We really liked it. We want you to come down and interview for one of our ball boy positions.” I go, “This is awesome. I’ll be there.”
+
+So, we go down to – at the time, it was the Omni, before they Philips Arena – and I’m interviewing with them, telling them about my life and my love for basketball and these things. I get a call back a few days later that I got the job. So, I’m like a freshman in high school. I’m barely 16, maybe 15 years old. I start working in the locker rooms of the Atlanta Hawks.
+
+Actually, my very first game – I’ll never forget this – was the Hawks versus the Toronto Raptors. They threw me on to the visitors – there are ball boys for the home team and the visiting team.
+
+Tim Ferriss: Can you explain what a ball boy does in basketball?
+
+Joe Gebbia: Absolutely.
+
+Tim Ferriss: I’m an idiot when it comes to group sports or team sports. I know what a ball boy or ball girl does in tennis, but in basketball, I have no idea.
+
+Joe Gebbia: So, there’s different tiers. The entry level tier is you’re wiping the sweat on the floor when a player falls down in the middle of a game. You’ve seen this.
+
+Tim Ferriss: Yeah.
+
+Joe Gebbia: People go out with a mop and the towel and you’re just wiping the sweat so the players don’t slip on the court. That’s like the entry level position. I did plenty of that. As you work your way up the tier, then you work on the side of the court and you actually grab the players’ warmup pants and jacket when they went to check into the game. So, you’d be sitting at half-court with them Then the next tier was you’d work behind the bench and actually assist the trainer.
+
+So, you’d be handing the Gatorade over their shoulder.
+
+Tim Ferriss: Oh, cool.
+
+Joe Gebbia: And when they sit down, give them the towel, give them their warmup, their jacket or their hoodie. The highest level was doing that for the visiting team. So, whatever they needed – set up the locker room before the game, you’d run any errands that need to get done, break the locker room down at the end of the game, that whole thing.
+
+So, you get to the game like three hours early. You end up running errands for the player sometimes. They give you a nice tip. I remember Horace Grant one time gave me a $100.00 bill.
+
+Tim Ferriss: That’s a big deal.
+
+Joe Gebbia: To take back to the bus. Yeah, that was pretty cool. So, my very first game, they threw me to the visitor’s side.
+
+Tim Ferriss: Toronto Raptors.
+
+Joe Gebbia: The Toronto Raptors. It was my first experience of being around some NBA greats – Marcus Camby, I remember, was on the team, this guy I watched play at UMass and really admired. It was my first exposure to a professional sports locker room too.
+
+Everybody comes in and they just take their clothes off to get changed and nobody gives a shit.
+
+Tim Ferriss: Yeah.
+
+Joe Gebbia: It doesn’t matter at the end of the day. But for me it was like, “Whoa, where am I?”
+
+Tim Ferriss: Lots of naked professional athletes.
+
+Joe Gebbia: That was my first experience. Of course, you get used to that. It’s no big deal at a certain point. So, I’m in the NBA. I do the first three seasons. I got to work alongside Lenny Wilkens, the head coach, Dikembe Mutombo, Steve Smith, some of these NBA greats. There were some really incredible moments that happened.
+
+One of them was when the Hawks played the Chicago Bulls. Jordan is still playing. This is 1999, one of his last seasons. I’ll never forget this. You have to imagine the scene. We’re in Philips Arena. The Hawks are actually winning, which was amazing.
+
+The place is going nuts. You can’t even hear yourself think. It’s so loud. People are screaming. They’re playing music over the loud speakers. I’m working the Bulls’ bench. You’ve got Scottie Pippen, Steve Kerr, Dennis Rodman, Phil Jackson, Michael Jordan – the whole crew.
+
+Tim Ferriss: Hell of a roster. Yeah.
+
+Joe Gebbia: Yeah, hell of a roster. So, I’m working the Bulls’ bench. They’re down. Phil Jackson calls a timeout. The place goes nuts because the Hawks are up. In front of me, Jordan plops down. Rodman is on the left. Pippen is on the right.
+
+Phil Jackson is like right here. He’s furious. This guy is using expletives like you would never believe. He’s yelling things. I feel like I can feel his spit hitting my face. I’m right behind Jordan. He’s right here. The place is, again, so loud. People are screaming at the top of their lungs.
+
+I’m doing my job. I give the guys a towel and then I’m giving them the Gatorade. So, I’m like, “I’m going to start with Jordan. Obviously, he’s right in front of me.” So, I reach around – I reach on this side.
+
+Tim Ferriss: Left hand, like over the shoulder.
+
+Joe Gebbia: Yeah, left hand over the shoulder. Jordan is facing this way talking to Pippen, who’s right next to him. I reach around and Rodman, who’s to my left, turns quickly, bumps my elbow. The Gatorade quickly goes upside down and straight into Jordan’s lap. There are only a few times in life I’ve been as terrified as that moment.
+
+Phil Jackson is yelling at me. Michael Jordan spins around and he goes, “Hey, man, watch it.” I’m like, “Oh, my God.” My heart is racing. I’m like, “Jesus Christ.” I did what anybody would do in that moment. If you spill something, you tend to wipe it up.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, I grab the towel and I’m patting down Jordan’s thigh. Now I’m like in the huddle.
+
+Rodman is laughing at me because he realized what he had done. Phil Jackson is like right here spitting. He’s yelling so hard. I’m like, “I’m sorry, Jordan.” I’m trying to dry his leg up with this Gatorade spill that went right into his lap. Oh, man. I’m sweating profusely. The TV crews are like in the huddle too. The cameras are in your face. It was like a high-stress moment as a ball boy. You had one job.
+
+Tim Ferriss: Don’t pour the Gatorade on Jordan’s balls.
+
+Joe Gebbia: Obviously. Unfortunately, Rodman made that quick spin and knocked me.
+
+Tim Ferriss: Not your fault.
+
+Joe Gebbia: So, the buzzer goes off and it’s time to get back on the court. I’m still patting down Jordan’s leg. He’s like, “Come on, man.” I think right after that, he actually had a whole bunch of points. He threw down a slam dunk or something, I think.
+
+The moral of the story there is when you spill Gatorade on Jordan, make sure you clean it up.
+
+Tim Ferriss: It seems like there’s another pattern here, which is getting comfortable with uncomfortable situations or exposing yourself to discomfort so that your comfortable sphere of action expands.
+
+Joe Gebbia: Right.
+
+Tim Ferriss: Once you get to RISD – so, you’re in RISD, were there any formative entrepreneurial experiences that come to mind?
+
+Joe Gebbia: There absolutely were.
+
+Tim Ferriss: I should explain also, if I may interject just for a second, that one of the reasons I wanted to explore a lot of these stories is that it’s easy and I think typical for people to take a single chapter in someone’s life and isolate it and view it as the whole story.
+
+But there’s so much backstory and so much development and so many experiences that lead up to the small piece of the puzzle that people tend to think is the whole puzzle.
+
+Joe Gebbia: Right.
+
+Tim Ferriss: Just for people listening and watching – and I just enjoy your storytelling. So, that’s another piece of it. RISD – this is a level up. You have a lot of talented people at RISD. Any entrepreneurial memories or experiments that come to mind from RISD?
+
+Joe Gebbia: Yes. So, I decided to go to RISD to study fine arts to be a painter. I didn’t really know what that meant. I had this vision of maybe one day being able to exhibit in New York or something, do the gallery scene. I couldn’t actually picture it. But I really wanted to study art and painting.
+
+So, when I got to campus, they had this week of orientation. You get your class schedule and you get to meet upperclassmen. So, I’m talking to this guy.
+
+Tim Ferriss: Fellow student.
+
+Joe Gebbia: A fellow student, upperclassman. He’s saying, “Who do you have for your courses?” Freshman year, they give you the foundation stuff, like drawing, two-dimensional design, three-dimensional design, liberal arts, art history.
+
+So, I’m going through the list of teachers and I say this one teacher’s name that makes his eyebrows go up. I go, “I’ve got Gareth Jones for 3D.” He goes, “You’ve got Gareth Jones? Oh, man.” I go, “What is it? Who is this guy?” He goes, “Just wait for the chess set project.” I go, “What’s the chess set project?” He goes, “You’ll see.”
+
+So, my very first class is with this guy Gareth Jones teaching three-dimensional design. Picture this – we’re in this art studio with these concrete floors, these rickety metal stools, plaster-covered work surfaces.
+
+It’s a little bit cold. It’s September in New England. It’s our very first class. I’m sitting around with 18 other freshmen. We’re all trying to make sense of where we are in the world and what this RISD thing is all about. This is about to be our first impression of what it’s like to be a student at RISD.
+
+So, we’re sitting there. All of a sudden, this guy wearing all black with this big, poufy head of hair comes out. He stands in front of us. He’s got this Welsh accent. He goes, “I just want you all to know that half of you are going to fail my course because you won’t finish the chess set project.”
+
+I’m thinking to myself, “Oh, my God. That’s what it’s going to be like here? Half the people? I look to my left, I look my right, and one of them is going to be gone because they’re going to fail out?”
+
+I’m like, “Oh, my God.” We’re all looking at each other like, “Is he serious?” He goes on to explain the chess set project. So, in addition to your weekly assignments, the chess set project is this semester long project that takes place outside of the classroom on your own time where you have to choose a three-dimensional artist like a sculptor like Henry Moore, an architect like Frank Lloyd Wright, a furniture designer, a fashion designer, and you had to find a book about them.
+
+From that, you had to select pieces of their work to recreate. You did it in the format of a chess set, which means it didn’t have to look like actual chess set pieces. But you take one of their creations and replicate it eight times for your pawn. It had to look exactly like the picture in the book. You took another one of their creations and you had to replicate it twice for the rooks.
+
+Tim Ferriss: In 3D?
+
+Joe Gebbia: In 3D. And you had to do it at 12-inch Scale from just looking at a picture. You had to figure out what it’s made of, what the back side looks like, what the under side looks like.
+
+At this time, I had a growing interest in furniture design. I came across this furniture designer from the 1920s and 30s named Gerrit Rietveld. He was a Dutch architect and designer. He did these really beautiful chairs that are actually in the Museum of Modern Art. They’re classics.
+
+I thought a couple of things. One is, as I got to know Gareth Jones, the professor, it became very clear that this guy was super-opinionated. He would argue to the death to make sure that he was always right. I would watch him just argue students relentlessly to make his point.
+
+Out of that, I just had this growing thinking of like, “Wow, I’d love to prove this guy wrong at some point.” So, I also thought, “I’m going throw myself into this project. There’s no way I’m failing.”
+
+“In fact, I want to complete this project. And if I’m going to commit so much of my time to this, and I’m going to make chairs from this designer, Gerrit Rietveld, at the end of it, I want to come out with something I can use. I don’t want 12-inch chairs. I actually want full-size, functional chairs.” So, I’m like, “This is a really great idea. I’m going to share this with Gareth.”
+
+So, I call him over and I’m like, “Gareth, I want to make full-size, functional chairs.” My expectation at this time was he’s going to give me a high-five and say, “Joe, you can do it. You’ve got this. I believe in you.” Instead, Tim, he goes, “Joe, I really don’t think you can do it. Really focus on the smaller scale.” And he walks away. And I’m like, “No fucking way. Alright, buddy…”
+
+Tim Ferriss: Now, you really have to do it.
+
+Joe Gebbia: “Alright, pal. You just lit every fire that you needed to light to get me to figure out how to do this.” The thing is, I didn’t know how the hell to make a chair. I had never worked with wood before.
+
+I never worked with power tools, like actual machine shop tools. I was really stepping into the unknown on this and I had a semester to figure it out. So, I just committed all of my time to making this project happen. On Saturday nights, my friends would be going to parties on campus and I was in the studio trying to figure out how to make chairs.
+
+So, I started by going to the furniture department and talking to upperclassmen. I actually sat down with the head of the furniture department. Her name was Rosanne Somerson. I told her about my ambitions. She looked at me with kind of a crazy face that’s like, “You’re never going to figure this out.”
+
+But she was encouraging. She pointed me to some upperclassmen who then started to help me understand wood and machines and the tools – table saws and bandsaws and blades and the things that you need to make furniture.
+
+So, piece by piece, I started to figure out how to make these chairs. I was sourcing wood. I had access to the shop that they were giving me.
+
+The thing is, I never told Gareth where I was in the project. So, every check-in, he’d be like, “How’s it coming?” I’m like, “It’s alright.” I would downplay my progress.
+
+Tim Ferriss: Yeah.
+
+Joe Gebbia: Meanwhile, in my dorm room, it’s starting to fill up with these chairs everywhere. So, I worked my butt off that whole semester. I was hacking my way through it. I get to the pawn. I have to pick one of his chairs and make it eight times. He made this beautiful bench out of just four pieces of wood. I’m thinking to myself, “Wow, these benches are really big. That’s a lot of wood. I can’t afford this. I’m just a freshman in college.”
+
+Tim Ferriss: So, you had to cover all your material costs.
+
+Joe Gebbia: Oh, yeah.
+
+Tim Ferriss: That’s an important detail, right?
+
+Joe Gebbia: I had a work study job at the time. I was trying to fund this however I could. So, I’m in the quad one day outside the freshmen dorms. I make an observation. “Everyone is standing around smoking here in the quad.”
+
+“There’s actually nowhere to sit. Huh. I’ve got this bench design that I’m going to make. What if I approach the school, get them to pay for the wood, I’ll make the benches for my project, then they can have them afterwards to put in the quad for people to sit on?”
+
+So, I go to the head of residence life. I pitch him the idea. He loves it. They fund a few thousand dollars’ worth of this inch-thick plywood. In doing so, I get access to the school’s woodshops and the school’s craftsmen who work on campus. So, now, I’ve got their help to help fabricate these benches.
+
+Tim Ferriss: Amazing.
+
+Joe Gebbia: They paid for all the wood, which I definitely could have never afforded. So, by the end of the semester, I’ve amassed 16 full-size functional chairs. Gareth had no clue. I actually finished the last chair at about 2:00 in the morning the day before the final crit.
+
+Tim Ferriss: Crit meaning…
+
+Joe Gebbia: Critique. In art school, you have these critiques, where you put your work out and the professor and the class critique you.
+
+That’s how you learn how to improve as an artist or designer. So, it’s now December. It’s freezing cold outside. It’s Providence. I specifically chose the slot right after lunch to present because I figured when everyone is out getting lunch, I’ll get my roommates and a couple buddies to help me carry all these chairs and assemble them in the space and when people come back, there will be this great reveal moment. Nobody has any clue, except a couple friends, what I’ve pulled off here.
+
+Tim, my only regret for this project is that I did not have a camera in my hand to take a picture of Gareth’s face when he entered the studio. I swear, I’m standing there. He comes marching in. He brings his head up and he looks at the room. You can see him counting in his head, “…15, 16.”
+
+He looks at me and he goes, “Joe, you’ve done it. You’ve proven me wrong.” I’m like, “Yes!” For the rest of the critique, we all sat in my chairs and we talked about the project. I got very high marks, obviously.
+
+It was one of those breakthrough moments where you have somebody you look up to tell you you can’t do something and you are literally tasked with something you’ve never done before, and somehow, you persevere through it. You ask for help. You figure it out.
+
+On the other side of that, I was sitting there in those chairs thinking, “Wow, if I can figure this out, what else could I figure out?” This seemed like an impossible feat before this whole thing started. Here I am. I’m sitting in these chairs. The professor is like beaming at me. It was one of these moments that one has in life, where you cross a threshold of understanding your limits.
+
+At that point, I had a new bar or a new set of limits.
+
+Tim Ferriss: How did you feel from the point that he said that for the rest of the day? What did the rest of the day look like?
+
+Joe Gebbia: Well, first of all, I was so tired. I had been up for – actually, I hadn’t slept for about three days before that. So, over 48 hours, I was without sleep. So, I was delirious, A. B, I was just so relieved. Third, there was this excitement inside of me of like, “I just proved myself wrong. What else can I prove myself wrong on?”
+
+Suddenly, there was so much possibility of anything at this point forward that I had come across that feels impossible, I probably need to take a second look at that and rethink that based on this experience.
+
+Again, how do you make a chair? How do you make 16 full-size functional chairs over the course of a semester? So, what’s cool is that the benches got installed. Students were sitting in them for – they lasted for a couple years after that. So, the legacy of it not only went to the benches, but the story of what had happened became his story that he told every class after that.
+
+Tim Ferriss: That’s really powerful on a bunch off levels, right? I don’t know the guy, of course, at all. But I have to give the professor credit for being willing to say, “You proved me wrong,” because also, just in that moment, the power of that reinforcement for you is a big deal. That’s a really big deal, potentially life-defining inflection point, of sorts.
+
+Secondly, a few things occurred to me. You also created a product, an outcome that people could use versus a scale model.
+
+And you created a story that would then set the bar infinitely higher – not necessarily the pass/fail mark, but the, “You can fucking do this,” mark for students for generations to come, many, many classes to come. That’s a big deal. I’ve said big deal a lot because I think you’re a big deal, Joe.
+
+Joe Gebbia: It’s true.
+
+Tim Ferriss: One question that occurred to me while I was listening to this was related to the moment when he said that you couldn’t do it or he thought you couldn’t do it and how you responded to that. It made me think of a story that I heard from Alexis Ohanian, the cofounder of Reddit. They went in early, relatively early in the development of Reddit to meet with Yahoo. They were showing traffic numbers and analytics to this Yahoo exec.
+
+And the Yahoo exec made this comment, which probably to him or her at the time didn’t seem like a big deal, but they said, “Oh, well, this a rounding error for us.” To my recollection, Alexis and his team went back to the office and they put, “You are a rounding error,” up on the wall to motivate the team.
+
+But not everybody responds to what you could view as a deathblow that way. So, where did you get that from? Is that from sports? Is it from your parents? Is it from somewhere else? Is it just your programming? Where do you think that comes from?
+
+Joe Gebbia: I don’t know if there’s just one source. I think sports is definitely a way to – if I had to point to something, I played so many sports growing up, from tennis, to baseball, to basketball, to track and field, to cross country. Some of those are team sports. Some of those are individual sports.
+
+In any sport that’s competitive, you’re trying to ultimately compete with yourself to do a better performance than you did the last time.
+
+Tim Ferriss: Right.
+
+Joe Gebbia: So, I looked at sports as this constant – I was in a game with myself. Cross country was a great example. That sport, for me, was I feel like where I honed my goal-setting and was able to practice pushing my limits. So, every race, if I crossed the finish line and I could still walk and had energy, to me, that was energy I could use on the course to run a faster race.
+
+So, eventually, I got to this point where I literally would collapse after the finish line. It became so well-known that the medics would be waiting for me and they’d have the ice bags. They’d have the IV just in case. The parents would be there to pick me up. In the last 800 meters to the finish line, I’d always try to find somebody who was running a little bit faster than me.
+
+I would try to accelerate to catch up with them, draft them a little bit. Then sometimes, I’d be neck and neck with them. The finish line is within sight. It’s so close. I would just say out loud to them, “You’re not beating me. You’re not beating me.” I’d use that to motivate myself to try to run faster to get a better time.
+
+Tim Ferriss: That’s amazing. I’m glad you brought up the sports. Part of the reason I asked is that – it’s a slightly different lesson, maybe, or one lesson that I took from sports – I went to two different high schools.
+
+The second high school I went to had mandatory sports, which I felt was really, in retrospect, important for a lot of kids. By being forced to do various sports, primarily wrestling, in my case, if you want to get better, you’re going to train with people who are better than you.
+
+Joe Gebbia: Yes.
+
+Tim Ferriss: By definition, you are going to be beaten by other people. At least in my experience, I started to view any type of failure in that capacity, being beaten, as feedback. It’s like a crit. It’s a sports-based crit. If you have a coach, they’re also going to be pushing you beyond what your perceived limits are.
+
+Joe Gebbia: A hundred percent.
+
+Tim Ferriss: So, you get into the habit, perhaps, subconscious or otherwise, of asking, “Is this impossible really impossible?” I never thought would break a six-minute mile and I just did that. Then I never thought I was going to break a 5:30 mile and my coach just helped me to do that.
+
+Or I figured out this hack, which is chasing the fastest person in front of me and then saying, “You’re not going to beat me. You’re not going to beat me.” Then I collapse in a big mess of a heap at the end. But nonetheless, hey, I just beat 5:30 or whatever it is.
+
+Joe Gebbia: Exactly.
+
+You feel like you’ve pushed the limits of what you thought was possible within yourself. That, for me, was one of the greatest feelings that I had at that time.
+
+Tim Ferriss: What strikes me is that for me, I didn’t have many vehicles for expanding that capability that was as tangible as sports, but design is super tangible. You’re building these chairs and these benches.
+
+Joe Gebbia: Totally.
+
+Tim Ferriss: I should also just mention as a side note, then I want to come back to RISD, that I don’t think it’s ever too late – people might be listening saying, “Well, hey, I didn’t have a great cross country team or wrestling coach in high school. So, I’m kind of up shit’s creek.” No. Actually, you can still develop that with physical training and other outlets to expand your capabilities and your perception of what’s possible.
+
+Joe Gebbia: Sure. It’s so funny because that was a piece of advice I got in seventh grade when I started playing basketball.
+
+The basketball coach said, “Joey, if you want to get better at basketball, you need to play with people who are better than you.” So, when I used to go to the Y to shoot hoops on the weekend, I wouldn’t play with people my age or younger, I’d actually play with the high schoolers, who were much bigger, much stronger, much more talented than I was.
+
+And of course, I got pushed around. You get bumped around by guys who are playing on the varsity team. But my skills, the learning curve that year, I feel like that was like another threshold moment of, “I’m not very good at basketball,” to, “Okay, I’ve got some skills now.”
+
+So, I think since that moment, I’ve always sought to try to find people to play with who are better than me. That will certainly come back up when we talk about Airbnb.
+
+Tim Ferriss: So, the Welshman concedes defeat, so to speak.
+
+Joe Gebbia: Gareth Jones.
+
+Tim Ferriss: Gareth Jones.
+
+Joe Gebbia: By the way, I caught up with him for a coffee about 12 years later.
+
+I had to ask him. Here was my experience with that conversation, “What the hell were you thinking? Why didn’t you get behind me?” He goes, “Joe, come on. I knew that if I told you you couldn’t do it, you would.”
+
+Tim Ferriss: “Oh, you.” Good man.
+
+Joe Gebbia: We have a great relationship and I see him when I go back to campus.
+
+Tim Ferriss: That’s very cool. So, phase shift – you have that experience…
+
+Joe Gebbia: I have that experience. It’s a great segue with sports into my RISD experience. I love basketball, as we’ve been talking about. I walk into the Office of Student Life one day and I go to the guy at the front desk and I say, “I want to play on the basketball team.” He gives me this funny face and he goes, “We don’t have a basketball team.” All of a sudden, there’s this awkward silence of us just staring at each other.
+
+He breaks the silence by saying, “You can start one if you want to.” I go, “Really, what’s involved in that?” He goes, “Well, if you collect a list of 12 other students that want to play, bring it back to me.” I’m like, “That’s it?” I’m like, “Okay.”
+
+So, I run off and I spend a week putting posters up around the dorms and I gather names of 11 other people to play basketball. It wasn’t actually that hard. I come back to him like, “Okay, cool. Now what?” He goes, “Okay. Fill out this form. Take this to the student government meeting on Wednesday to get recognized as a student organization.” I’m like, “Okay.”
+
+So, I go to the meeting. I present the concept, “I want to have a basketball team. Here’s the paperwork. Here are the names and what we might need for a budget.” It gets approved by the student government.
+
+So, then I go back like, “What’s the next step?” He’s like, “Okay, you need to find a gym.” So, one thing led to the other. That year, we started RISD’s first basketball team in 40 years.
+
+We started this team. It was like a hodgepodge group of other students. We would rent gym space at a private high school in Providence to go practice in. At this point, we’re just practicing. There’s no season. There are no games. There’s no other competition. It’s just us scrimmaging each other. We made some really basic uniforms and just got things off the ground.
+
+The next year, when I came back to campus, it was different. I’m like, “Okay, this year, we’re going to make a season. We’re going to play other teams. Let’s turn this into something.” So, I get on the phone and I start calling colleges in New England, calling community colleges, junior varsity schools.
+
+I get on the phone with some of these coaches and I introduce myself, “Hey, this is Joe Gebbia calling from the Rhode Island School basketball team and I’d like to – hello? Hello?”
+
+Pretty much everybody hung up on me in the first couple phone calls. But then there was one college that took my call. I’ll never forget it because I had to sneak out of my graphic design class to take the call. It was Clark University in Massachusetts. I’m on the phone with their head coach. He’s like, “Yeah, okay, cool. We’re not going to send out our varsity team, but I’ll send my JV team.” I’m like, “Perfect, we’ll take it.”
+
+So, on December 4th, 2001, we had the first RISD basketball game, RISD versus Clark University. At this point, it’s so informal for us. We’ve got this basic mesh jerseys that are reversible, basically a practice uniform for anybody else. I’m a player-coach leading the team at this point. We’re in not even our own gym because we don’t have one. We’re in some private high school gym around the corner.
+
+The Clark University bus pulls up. Their players start to get off the bus and I’m going, “Oh, my God.” Their shortest guy is taller than our tallest guy.
+
+The head coach and three assistant coaches and a trainer comes off. Meanwhile, it’s just like 12 scrappy art school students on the court with basic mesh practice jerseys. I think once the coach came down to the court, he kind of recognized what he got himself into and he’s like, “Oh, boy.”
+
+So, we had, I think, about 150 fans, RISD students show up that first game. We got blown out. It was 94 to 49. But in my mind, that was a huge win because we established something. We got a team established and off the ground at RISD.
+
+Tim Ferriss: It’s a real milestone.
+
+Joe Gebbia: Yeah. It was an incredible experience the next couple of years because it was like running a startup. You had to put a team together. You had to raise funding. You had to create a brand. You had to market that brand. You had to get people to the games.
+
+One of the things I was most proud of was at RISD, the workloads are incredibly difficult. Once you get into your majors, they say sometimes you never see anybody again because they’re so focused on the workload.
+
+Other than graduation, the basketball games became the only other time, really, during the year where you’d have the full cross-section of campus under the same roof at the same time – students, faculty, administration, professors, alumni, people from Brown who were just curious and wanted to see what this crazy RISD basketball team was doing.
+
+So, it was this really cool moment where you just bring people together. That was, I think, really the undertones, undercurrents of what the team was really about. Sure, it was about sport, competition, staying in shape, and the camaraderie of being on the team. Second to that, it was also about bringing people together.
+
+Tim Ferriss: That thematically makes sense if we’re time traveling, looking forward quite a bit.
+
+Joe Gebbia: Yeah. That was a great experience. A lot of people ask what the name of the team is. Because we’re an art school, we didn’t have to have traditional names.
+
+RISD and any art school is all about self-expression and not holding back. So, there was a legacy of names on campus that all had a particular theme to them. So, the hockey team on campus is called the Nads. So, when you cheer, it’s, “Go…”
+
+Tim Ferriss: “Go Nads.”
+
+Joe Gebbia: Yes. So, when we started the basketball team, we had to fall in line with the theme. So, the team is called the Balls. Both the Nads and the Balls are supported by the Jock Straps, which is the cheerleading team. There’s a whole theme – maybe we won’t go into it here – there’s a whole theme of sports at RISD that adds to the levity and the humor of it.
+
+Tim Ferriss: Are they all testicle-related?
+
+Joe Gebbia: There was a rowing team at one point called the Shafts. It might have been the lacrosse team, I think, that was called the Shafts.
+
+Tim Ferriss: Side note…
+
+Joe Gebbia: Side note…
+
+Tim Ferriss: Because I’m well caffeinated – do you know where the word avocado comes from?
+
+Joe Gebbia: No, I don’t.
+
+Tim Ferriss: I will tell you. It comes from – I believe it’s I want to say an older Mayan language, but someone can correct me on the internet. I’m sure they will. It comes from a word, ahuacatl, with a -tl at the end, ahuacatl. Avocados grow on trees hanging, one lower than the other in pairs.
+
+Joe Gebbia: Really?
+
+Tim Ferriss: That means testicles. So, current RISD students who might want to start another team, you could go with the Avocados, but it requires a bit of explanation.
+
+Joe Gebbia: What would that sport be?
+
+Tim Ferriss: The most boring juggling team in intermural juggling – remedial juggling team.
+
+Joe Gebbia: Juggling team, the first and only juggling team in college.
+
+Tim Ferriss: So, I have to ask because I’ve been wanting to debut this question for a while – we’ve talked about crit. We’ve talked about balls, which I think is a bit of a reach, but we can segue to buns.
+
+When does CritBuns enter the picture here?
+
+Joe Gebbia: Alright. So, it’s freshman year at RISD. I’m in a drawing class. The way it works again is you come in and it would be an eight-hour class.
+
+So, in the morning, you’d pin your work up on the wall, your drawing assignment from the week before and you would literally spend all day critiquing it or having a crit. People would ask afterwards, “How’d your crit go?” “Oh, man, my crit was so hard. My teacher was so rough on me,” or, “It didn’t go well,” or, “It was great.”
+
+About four hours in – picture the environment. You’re in an art studio – hardwood floors, metal stools, wooden benches, four hours of sitting on these hard, uncomfortable surfaces. Your butt starts to feel it. Everyone’s wiggling around trying to get comfortable. So, by the end of the day, you’re incredibly sore.
+
+I watched as my classmates exited the art studio with this bun print on the seat of their pants because all the charcoal dust, paint and ink that’s on these studio surfaces rubbed off onto our pants. Sure enough, my pants are ruined too.
+
+So, I’m walking back to my dorm room and I’m thinking, “There’s got to be a better way. If we’re going to endure these crits for the next four years, what if you had a seat cushion that you could sit on to make you comfortable and to keep you clean?”
+
+So, I got back my dorm room and I pulled out my sketchbook and I drew that same bun print shape on the seat of our pants and gave it some dimension and I called it CritBuns. At this point, I had no idea how to make a product. It’s just your first year of design school. So, I tucked the sketch away.
+
+Now, fast-forward to five years later. I’ve now done a dual-degree in graphic design and industrial design. At this point, I know how to make a prototype.
+
+I know how to translate something from a sketchbook into a real working prototype. So, I make CritBuns out of hard foam. You can actually sculpt it out of this special foam. Now, I have this full-size, hard representation of the shape, which is like two buns that come together. There’s a handle for portability. I take that hard model, I cast it in rubber and then I pour into the cast an expanding polyurethane foam.
+
+So, when I took the lid off, there it was, looking back at me, the first soft CritBuns seat cushion. It was great because now, I could walk around to classmates. I could say, “What do you guys think? How much would you pay for this? What kind of colors would you want?” And people, of course, cracked a smile when they saw it and they had a good laugh.
+
+But I really hit a wall because had a one-off prototype, but I didn’t know how to get it to the next stage. I certainly didn’t have the money or the funds to do that on my own.
+
+It was around this time my senior that I noticed a poster on campus that says, “Competition for the Design Diploma. Submit your ideas here.” At RISD, they give you your degree, paper degree, and they also give the graduating class a different object every year.
+
+So, I submit CritBuns for the competition and it wins. It gets selected to be given out to every graduate from the RISD class of 2005, which is like freaking incredible. However, they tell me this on May 1st. Graduation is on June 1st.
+
+Tim Ferriss: That’s not a lot of time.
+
+Joe Gebbia: And in between that, I have to deliver two thesis projects for graphic design and industrial design. I definitely don’t have time to take on anything else.
+
+Tim Ferriss: How many students are in the graduating class?
+
+Joe Gebbia: About 600.
+
+Tim Ferriss: 600.
+
+Joe Gebbia: So, I’m so exuberant and excited that like, “Oh, my God. They’ll pay for the manufacturing of a couple hundred cushions.”
+
+At the same time, I’m like, “How the hell am I going to get this done? There is absolutely no time.” So, I get on to Google. I search foam manufacturers. Tim, I called every single search result for the first 15 pages. I was calling people in India. I was calling people in England. I was calling people in Texas. I was calling people in California.
+
+Everybody said the same thing, “Well, son, it’s going to take you about six weeks just to make the metal mold and about another four weeks for production. Sorry.” Click. I just went through everybody and was getting, “No, no, no.” So, then I went to my professors in industrial design and they also said, “It’s never going to happen in time.”
+
+Now, at this point, the school is getting a little bit nervous because the clock is ticking here. They call me and they say, “How’s the project coming?” I’m like, “It’s cool. Don’t worry.” They go, “So, is it going to happen?” I’m like, “Probably.” They go, “Well, you have until Friday at 5:00 to tell us if it’s a go or not.” So, I’m like, “Okay.”
+
+Tim Ferriss: Is this on a Monday, on a Tuesday?
+
+Joe Gebbia: This is Monday. So, fast-forward, it’s 4:00 on Friday afternoon. I have no options. Everybody’s telling me, “No. It’s never going to happen. It’s impossible. The manufacturing is going to take many weeks, if not months.” I’m like, “I don’t have that many weeks. We’ve got three now.”
+
+So, I go outside the industrial design building. It’s like a sunny afternoon. I’m laying on the grass right on the river in Providence. I feel the breeze on my face, the sound of the birds. I’m looking up at the sky. I’m thinking to myself, “I have to figure this out. I’m not going to give up on this. What haven’t I thought of yet?” I realized that the guy that runs the metal shop in the industrial design building, this guy, Steve, I haven’t talked to him yet.
+
+So, I run back into the industrial design building. I go, “Steve, here’s what’s going on.” He goes, “I’ve got this friend, Sam, up in Cumberland, Rhode Island who’s got a tool shop. Why don’t you give him a call? Maybe he’ll help you out.”
+
+So, I get on the phone with this guy, Sam. I just poured out to him. I’m like, “Sam, this is what I want to do.” I give him every ounce of enthusiasm that I have. At the end he goes, “You really want this, don’t you?” I’m like, “Yes, whatever you can do.”
+
+He goes, “Alright. Here’s what I’ll do. I’ll move a couple projects around. If you send me the 3D CAD file today, I can make the tool this weekend and send it wherever you need me to send it on Monday.” I’m like, “Oh, my God. I’m going to call you right back.” I remembered there was a pool float company that I spoke to the week before in Connecticut.
+
+Tim Ferriss: Pool float – so, they make like water wings or whatever you would lay in in your pool.
+
+Joe Gebbia: Yeah, the pool float noodles and things that float in water made out of foam. The guy told me, he said, “We can’t make the mold in time, but if you find somebody else, we can produce the cushion.” The other thing is it had to have a silk screen on the top that said RISD 2005 on it.
+
+So, I call back this guy, Kristoff, at like 4:50 p.m. on a Friday. He should have been gone. I don’t know how I caught him still in the office. I go, “Kristoff, it’s Joe at RISD. I found somebody to make the mold. He’ll have it to you by Monday. Can we make it work?”
+
+He goes, “You really want this, don’t you?” I’m like, “Yes, whatever you can do.” He goes, “Alright, here’s the address to send it to.” So, I literally called the school back – it might as well have been 5:00 – and I’m like, “We got it. Here’s where to send the purchase order.”
+
+Two weeks later, the day before graduation, 600 CritBuns showed up on campus with a silkscreen on top that said RISD: Class of 2005.
+
+Tim Ferriss: The day before.
+
+Joe Gebbia: It was impossible. How do you make 600 CritBuns, 300 red, 300 blue with a silkscreen on top in such a short amount of time when everybody is telling you, “No”? Everybody just started at me like, “This is never going to happen.”
+
+I was exhausted by the time that happened. However, it was so fun to see my classmates running around with CritBuns. Everybody had a pair. It was really fulfilling. It was worth all the effort and all the energy. I finished my two theses successfully on time. I got to graduate and everything.
+
+While a lot of my classmates went off to great jobs, some at NASA doing industrial design, and some at some of the big design firms like IDEO and others, I made a decision. I said, “RISD and design school in general does such an exceptional job of helping you come up with a creative process to think of really original, creative ideas. They usually hit a wall, though, which is that you stop it at the prototype and then you move on to the next project.”
+
+For me, it built up this incredible desire to figure out how do you get to the shelf of a store?
+
+How does your idea transition from that one-off prototype all the way to the shelf of a store? So, I thought, “I want to decode this black box. I have to figure this out.” So, I made a decision that I was going to use CritBuns to help figure out how to get a product from an idea in your head to a sketchbook to the shelf of a store.
+
+So, the day after graduation, I started my first company to make and sell CritBuns. The beauty of it is that I didn’t get paid for the graduation project, but they gave me the metal mold afterward, which is a few thousand dollars. So, with the biggest expense out of the way, I was off to run.
+
+Tim Ferriss: So, what happened to CritBuns? Why aren’t you making CritBuns today?
+
+Joe Gebbia: So, that summer, I started to develop the brand. I thought of the patent, which it has a design patent on. I filed the trademark and everything. I went back to the school that summer and I said, “That was so fun for the graduating class. What if we did this for the incoming class as a welcome to RISD gift?”
+
+They loved the idea and they placed their first order. So, on top of that order, I tacked on my own inventory. So, I did this production run of, I think, a thousand cushions. Two things happened.
+
+The first is that there were now 400 students running around campus with CritBuns actually using them in the studios and I could go talk to them. I could take photos of them. I could actually start to build stories and narratives around how they use the product.
+
+The second thing that happens is – I’ll never forget it – in my apartment in Providence, in the basement of this really old, early 1900s apartment, I had about ten boxes of hundreds of CritBuns, filled up this entire room. I’m sitting there staring at them and thinking, “Oh, boy. Nobody’s coming to my basement to buy these things. I have to go out in the world and figure out how to sell these.”
+
+Tim Ferriss: How dare they.
+
+Joe Gebbia: “How do I sell these things?” So, I put together a sales sheet.
+
+I put on my best shirt and my best shoes and the best professional look that I could have. The first store I walked into was the Brown University bookstore. I asked for the store manager. We sit down in this little conference room. I start to go through my spiel. I put the sales sheet in front of her and a sample cushion. I’m going through the whole thing and giving all my enthusiasm.
+
+And about 30 or so seconds in, she looks at me and she goes, “No, thanks,” and gets up and leaves the room. And I’m just sitting there in this tiny little fluorescent-lit conference room by myself with my cushion and my sales sheet and no sale, actually, a pretty horrible rejection.
+
+So, I walk back to my apartment, a very slow walk, like a Charlie Brown, Snoopy kind of walk. I’m thinking to myself, “That sucked.” I’m like, “How the hell am I going to sell these cushions if that’s the reaction I’m going to get?”
+
+It was in that moment where I remembered this sales equation that I had heard at this entrepreneur weekend at Brown University that I snuck into one time. The guy talking gave this equation for whenever you introduce a new idea into the world. It was an equation for receiving rejection and how to move past rejection. The equation was SW-squared plus WC equals MO.
+
+Tim Ferriss: Wow, hell of a memory. I give myself zero seconds. I already forgot it. One more time?
+
+Joe Gebbia: SW-squared plus WC equals MO.
+
+Tim Ferriss: Alright.
+
+Joe Gebbia: So, SW-squared is some will love your idea, some won’t. Plus, “Who cares?” equals move on.
+
+Tim Ferriss: I like it. I like it.
+
+Joe Gebbia: It was the perfect equation. So, I’m telling myself, “Okay, SW-squared, who cares? I’ve just got to move on.” So, I did. I’m like, “Alright, I’m just going to find another store. Some people are going to love it. Some people aren’t. It doesn’t matter. I’ve just got to keep going. I can’t get hung up and one person is saying no. I need to go keep going until I can find somebody that says yes.”
+
+So, I went to the next store. They said no. I went to the third store. They also said no. I went to the fourth store, which was this little tiny gift boutique store on Thayer Street and Providence.
+
+Tim Ferriss: I know Thayer.
+
+Joe Gebbia: Yes.
+
+Tim Ferriss: I had a Halloween on Thayer. It’s a hell of a Halloween.
+
+Joe Gebbia: It is. That’s a crazy street to be on for Halloween. So, I go into the store. I give them the pitch, the sales sheet. I’m tweaking everything. I’m iterating as I go. The woman goes, “I’d love to buy some cushions from you.” I’m like, “Oh, my God.” She goes, “I’d love to buy four.” I’m thinking inside, “Hell yeah.” She could have bought one and I would have been happy. So, she starts to go into, “Here’s who you can ship them to. Here’s the address.” I go, “No, I’ll go pack them up at my house and bring them back to you today.”
+
+She’s like, “Really?” I’m like, “Yeah.” So, I ran home. I packed up my cushion. I was so excited. I gave them to her. I went back later that night after they closed. It’s dark on Thayer Street. I go to the front of the store and I press my face up against this cold glass and I can see my breath in the glass. There’s a dim light on in the back of the boutique. They’re closed.
+
+I’m scanning the store and I’m squinting. And there it is. I can see CritBuns on the shelf of the store. I’m like, “Fuck yes, I did it.” Everything after that point was downhill. It was like I knew how to walk into the store. I knew how to talk to a buyer.
+
+Tim Ferriss: Downhill in a good sense.
+
+Joe Gebbia: As in easy.
+
+Tim Ferriss: Like you’re pushing the boulder downhill.
+
+Joe Gebbia: Right. Before, I was trying to climb uphill against all these obstacles. Now it was just like coasting downhill.
+
+Tim Ferriss: Now, was that because you had the skills or because you had proven to yourself that you could do it.
+
+Joe Gebbia: Proven to myself I could do it. It was that one proof point.
+
+Tim Ferriss: Four cushions.
+
+Joe Gebbia: Four cushions on the shelf of the store. I’m like, “Hallelujah. Somehow, it happened.” Now, I have even more confidence to walk into a store, meet with a buyer, and ask the question, “What’s the process to get a new product into your store?” I can sit down with them and talk about the product, how original it was.
+
+So, I make trips to Boston and talk to stores there. I go down to New York, talk to Pratt. I talk to School of Visual Arts. I talk to Parsons. I talk to more stores in Providence.
+
+Tim Ferriss: What was the furthest away you traveled to sell CritBuns?
+
+Joe Gebbia: When I’d go home to Atlanta for the holidays, I’d sell them at stores in Atlanta. Everywhere I went, I was always carrying a cushion with me. I’d talk to anybody about it. Everybody I talked to, I was just practicing the sales pitch to get comfortable with it.
+
+So, that product and that concept, it was never meant to be anything huge. It was just meant to be grad school, in essence, to help teach me the whole stack of product development.
+
+I was doing everything out of my apartment, from the distribution, the packaging, the fulfillment, the website, the press. Everything was run from my desktop computer next to my bed in my bedroom. So, on a very small scale, I got like the full ecosystem of what it means to run something, obviously, at a very small, manageable scale, which is perfect.
+
+So, one of the defining moments was I set a goal for myself. I said, “What’s the store shelf that would be the pinnacle for me? What would I be the most proud of?” One of the most heralded shelves for any designer to get on is the shelf at the Design Store at the Museum of Modern Art.
+
+Tim Ferriss: Oh, yeah. Huge.
+
+Joe Gebbia: Huge. Legends are there. You can get Eames’ stuff. You can get George Nelson’s stuff. You can get the greats of the greats, along with modern things, of course.
+
+So, I set my goal. I’m like, “I’m going to figure out how to get CritBuns into the MoMA store.” After two years of just not giving up, I finally got my first order form MoMA. I will never forget that phone call.
+
+Tim Ferriss: Now, you are clearly gifted or you’ve developed and cultivated gifts with art and design. You’ve also had a lot of practice pitching, through good and bad, experiencing rejection and acceptance. So, what got you the acceptance? What was the pitch? What was the process?
+
+Joe Gebbia: At a certain point, I think they realized I wasn’t going to go away. They’re like, “Let’s just order it.”
+
+Tim Ferriss: “It’s just easier to let this guy…”
+
+Joe Gebbia: Maybe. Who knows? I never asked them. But the product ended up selling out of their store.
+
+Tim Ferriss: Did you send people there to buy them?
+
+Joe Gebbia: I didn’t have to.
+
+I definitely made a trip down to New York after I shipped them the order. I walked in and there it was on the shelf at the MoMA and I took a picture. I just thought, “Wow.” If I had told myself three years earlier that I would have made a product that would be on the shelf of the MoMA store, I would have said, “You’re crazy. That’s impossible.”
+
+Tim Ferriss: So, what gave you the hutzpah to pursue it for two years? Was it the fact that there were so many impossibles that you’d proven possible to yourself? Was it something else?
+
+Joe Gebbia: It was just wanting to experience that feeling, like what I imagined it might feel like if I were to ever to accomplish something that was such a stretch goal for me. I don’t know. I developed a relationship with the buyer at the time. I think that evolved into an order, eventually. At that point, what was next?
+
+Tim Ferriss: Now, I’m going to prompt one thing because it just popped into my head. Was MoMA before or after I want to say tradeshow in Japan?
+
+Joe Gebbia: It was before.
+
+Tim Ferriss: It was before?
+
+Joe Gebbia: Yes.
+
+Tim Ferriss: I only remember bits and pieces of this, but can you describe Japan?
+
+Joe Gebbia: Yes. So, the product ended up taking me around the world.
+
+Tim Ferriss: And this was still for colleges.
+
+Joe Gebbia: Well, no. This was for any kind of gift fair or any kind of event where there are other designers selling their things. So, I got connected with this website called designboom.com, one of the biggest design blogs in the world.
+
+They had this thing called the Gift Mart. They basically would invite designers from around the world to come sell their thing at these big Design Week events, where it would be really hard to afford access to it as an independent young designer. They would kind of create that opportunity for you.
+
+Tim Ferriss: Pay for the booth or they have the entire space.
+
+Joe Gebbia: Exactly. You had a small fee to pay, but nothing like the actual cost. So, they subsidized it to make it possible. So, I got involved in that. It took me all over the place. I traveled to Sydney, Australia, where I sold the cushion. I traveled to New York. And I traveled to Tokyo for Design Week one year.
+
+This was fascinating because I got to experience what it was like to sell the cushion in person directly to consumers. It’s one thing to sell to a store manager than it is to sell to an actual customer.
+
+Tim Ferriss: Very different.
+
+Joe Gebbia: The other thing was RISD has these events where the alumni can come together and sell their creations, whether it’s ceramics or furniture or products.
+
+So, at this point, I had figured out, after hundreds of interactions with people face to face – I designed my stand with the cushions, had a big sign that said CritBuns: Supporting Creativity Where Others Can’t.
+
+I actually have seen it so many times at this point I was able to break the sales process down into five steps. There were five stages to the CritBuns sales process. The first stage is what I call the, “What the hell is that?” stage, where people are walking by and they do this doubletake. They look at it and they’re like, “What is that?” But the shape and the color are interesting enough to draw them in.
+
+So, then they get to stage two, which is called the touch and feel phase. They grab the product off the stand. They squeeze it. They realize it’s soft. The first smile comes to their face.
+
+Tim Ferriss: This is also my dating process, by the way. Please continue.
+
+Joe Gebbia: They kind of get a smile on their face and they flip it over and they enter stage three, which is the story phase. So, on the back of the package, I tell the story in a couple of lines – how the product was concepted, how it was created, who made it. So, you see them reading the story, “Ah…” And then they smile and they make the connection of why the thing is the way it is.
+
+Then there’s stage four. Step number four is tried and true. I’ve seen this everywhere. They immediately start going like this with the cushion in their hands because they want to try it out. Does it deliver what it says it’s going to do? Does it make any hard surface more comfortable? So, I always have a demo chair nearby for people to try it out.
+
+So, people sit down on it. As they’re sitting on it, I have a chair next to them and I lean over to them, and I figured out the question to ask. I ask somebody, “How do you see this fitting into your life?” What’s amazing is that people told me all kinds of different uses that I never even imagined for the cushion.
+
+There are actually 35 different uses for it. People use it for camping trips. People take it to baseball games. Soccer moms love it for their kids. Pregnant women love it because it takes pressure off your tailbone when you sit down because it’s got a dip in the middle. People with sciatica love it because, again, the dip in the middle takes pressure off your tailbone. I learned so many uses for the thing just by asking people that question.
+
+The minute that people could connect it to something that’s important in their life, there’s a very high percentage that they bought it. At $19.99, it wasn’t a huge commitment.
+
+Tim Ferriss: Bank-breaker.
+
+Joe Gebbia: So, that was stage four. Stage five I never could have predicted. This was really the magic of learning it’s not only about a product. It’s about a story as well. I would literally watch people buy my product. They’d stand up. They’d turn to the next person in line who would say, “What the hell is that?” And the person who just bought it would literally tell them verbatim the story about the product.
+
+Tim Ferriss: On the back of the package.
+
+Joe Gebbia: They would sell the product for me. I would just sit back and watch this happen. I’m like, “This is amazing.” I realized the power of story in that moment. Design is more than just a product. It’s more than just a digital experience. That cushion is 50 percent foam and 50 percent story. It was a really valuable lesson.
+
+I learned from that every time that I went to these different events. So, here we are in Japan. We’re in Tokyo. It’s really exciting, my first time to Japan. I’m thrilled. My senses are just overwhelmed with everything about Tokyo. I’m at this five-day design event for design week. This is back in like 2008, 2007.
+
+So, I go out there with 40 cushions, which are these two giant boxes. They take up a lot of volume, right? I take those things on the plane and then I take them through the Tokyo subway system. It’s really awkward because you can’t carry them. You have to drag them.
+
+Tim Ferriss: For those people that haven’t been to Tokyo, every once in a while, you’ll encounter a subway car that has lots of space. That is not the default, particularly if you’re going during any busy period.
+
+There are, in fact, certain stations where they have attendants wearing white gloves who will push people into the car so that the doors can close. It is sardines in a can. So, I’m just imagining you dragging these things around.
+
+Joe Gebbia: So, imagine – I’ve got my big backpacker’s backpack. I’ve got these two giant cardboard boxes of 20 CritBuns each that are heavy and awkward. I’m trying to navigate the narrow subway system of Tokyo. I get to my setup at the Design Fair and I’ve got this little tiny folding table. To my left and right and all around me around other designers. This is part of Designboom.
+
+I’m so excited. As people come walking up on day one, I start talking to them to try to tell them the story and nobody speaks English. By the end of day one, I sold a total of zero CritBuns. I’m thinking to myself, “Oh, my God. This is not good. I’m definitely not going home with 40 cushions.”
+
+I need to change the strategy here because this is not going to work. The story is not translating. The power of the story that works so well has no impact here whatsoever. So, thankfully, the young designer next to me was Japanese and we struck up a friendship because we’re going to be together for the next couple of days.
+
+I’m like, “I have a problem here. I need to translate these things.” She’s like, “I can help you translate if you want to make any written material.” So, designed this poster overnight, this giant poster, that is all in Japanese with pictures of CritBuns. I had a picture of a stadium seat with an arrow pointing to it, stadium seat seating in Japanese.
+
+Then I had somebody kneeling in a garden. I had somebody meditating on it. She was so kind to translate for me. I ran to Kinkos that night, got it printed in Downtown Tokyo. The next day, I had this beautiful poster that did all of the explanation.
+
+I had Demo Chair printed out in Japanese on the demo chair. One by one, somebody actually made a sale and I was like, “Oh, my God, this is going to work.” Then I had another guy, who actually happened to be a RISD grad, who was there just visiting. He spoke Japanese. He’s like, “If you help translating, I’m happy to do this for you.”
+
+Bless his heart. He was amazing. He actually would draw people over to my little folding table with my stacks of CritBuns everywhere. He would tell that story in Japanese. I’ll never forget the last day, it was like towards the end of the day. Everything started kind of closing down. We sold the last pair of CritBuns. There is this picture of him and I at this empty table being like, “Oh, my God. I can’t believe we did it.”
+
+So, I was able to pay for my trip, basically, with the sale of these CritBuns. It was just a great lesson in having to figure out how to translate your story beyond just English speakers, in my case. That was a roll and an experience.
+
+So, that project took me all over the place. I got to meet the guy who invented the foam finger.
+
+Tim Ferriss: Sure.
+
+Joe Gebbia: This guy, Geral Fauss, who’s here in Texas, to see if he wanted to do manufacturing at one point. You go into his lobby and he’s got the original foam finger from the 1970s in the glass case, right? Totally random. I got to meet the late Billy Mays, from infomercials.
+
+Tim Ferriss: Oh, yeah, OxiClean and many, many more.
+
+Joe Gebbia: Yeah. “Hey, I’m Billy Mays! Welcome and we’re going to show you this right now!” There was this reality show at one point for inventors and people that made products. For some reason, I was inspired to submit CritBuns. So, I flew to LA one weekend. I’m in this lobby for the casting with all these other inventors. Everybody had like really weird stuff, a lot of stuff for cats. People have like pet cats running around them.
+
+It’s a lot of pet stuff. There’s me in one of my best shirts holding my CritBuns really proud. The producer comes over and they mic me up. They’re like, “Okay, we want you to walk down that hallway and go through those double doors.” That’s all they said. So, I’m like, “Okay.” I got my product. Proud entrepreneur here.
+
+I walk down the hallway. The lights are off. It’s this dark hallway. All you can see are these two illuminated doors at the end. I open the doors and there at this huge conference table is Billy Mays and one other costar. Then there are all these cameras and all these lights pointed at you. He goes, “Hey! I’m Billy Mays! Come on in!”
+
+I sit down in the chair. Suddenly, I’m in this pitch session. It was like “Shark Tank” before “Shark Tank.” I’m having to pitch him on why my product is so great. It wasn’t going so well until he tried it out. He actually got up and he sat down on the floor and he goes, “Oh, yeah. This is pretty good.”
+
+Then they said, “Okay, thanks.” I walked down the hall and there was this blitz of like five minutes of pitch mode. I was getting peppered with all these questions and all these lights on you and these cameras. I did not get on the show. But it was just one of these crazy moments of these unexpected things that these experiences with this product brought me.
+
+Tim Ferriss: So, why are you not the titan of the CritBuns empire? Why did you stop CritBuns?
+
+Joe Gebbia: This goes back to RISD. I switched from being in painting to being into industrial design, largely in part because I learned about Charles and Ray Eames, two designers from the mid-20th century that were a couple. Ray was the wife. Charles was the husband.
+
+They produced design that is legendary. It’s still referenced today. It’s in the MoMA in the permanent collection. It’s iconic. They dedicated their lives to producing the best design to the most people for the least price.
+
+They were really celebrated for democratizing good design and making it accessible. I also had the chair project with Gareth Jones and fell in love with making things and realized that I wanted to switch from the more creative pursuit of painting, which was more about the expression of ideas through that medium, into the expression of ideas through industrial design, which was cool to me because you could make something, objects, and it could be replicated thousands, hundreds of thousands, millions of times.
+
+You could actually touch millions of people with your designs, just like the Eames’ had. So, this was my motivation to switch into industrial design. You could use design to improve people’s lives and it could be done at scale. You could touch a lot of people all at once.
+
+So, RISD, in the industrial design department did something brilliant. Our first year in the program, they put us all in the school vans and they drove us out to the Rhode Island State Landfill.
+
+And here we are, driving through these canyons of trash. You have your face pressed up against the bus window and you can’t even see to the top of the landfill for the state. You get out to the top and you get out of the vans and you’re looking back over this landscape of garbage.
+
+For me, it hit me like a ton of bricks. I’m like, “Wow, I do not want to spend my life making things that contribute to making the landfill bigger. That is not interesting to me.” It was like a really impactful moment where I started to feel a slight sense of guilt that I was now studying a discipline that was about making more stuff.
+
+So, it really kicked off this enthusiasm or consciousness around how do you make stuff that’s environmentally considered.
+
+Tim Ferriss: Cradle to cradle?
+
+Joe Gebbia: “Cradle to Cradle,” yeah, like Bill McDonough’s book, which also came out around this time, was hugely influential. “Natural Capitalism” kind of came out around this time. There was starting to be this other way of thinking about how we consume things in the planet.
+
+Certainly, you feel a responsibility as a designer because you’re pretty close to the origins of those things. Sometimes you don’t decide the strategy of, “Hey, we need to make this product,” but you’re definitely in the field of view of being able to decide what kinds of materials to use, what is the whole lifecycle of a product.
+
+So, with CritBuns, I actually delayed the launch of that for six months because I was trying to find a foam that was environmentally considered. I called everybody. I was talking to people in the Midwest making foam out of soybeans, at one point. I found a woman in England who started to make plastic out of bubblegum that you’d scrape off the sidewalk.
+
+But I couldn’t find anybody that made a foam that was perfect for the product. So, I decided to go forward with the product. That sparked this other idea, which was, “Okay, I’ve learned two things from this. A, the foam doesn’t exist. B, there wasn’t a good source to find the foam in the first place.”
+
+Amazon was starting to really emerge at this time. It was so easy to find a book on Amazon or content. I was like, “Why isn’t there a site where you can find sustainable materials?” I talked to some of my classmates. We had graduated at this point. It became very clear that whether you’re in architecture or fashion design or package design or industrial design, there was a growing consciousness around, “We want to feel good about the things that we’re making.”
+
+So, I realized I’m not a material scientist. Maybe I’m not going to invent a foam. However, I know how to make a website. So, what if I started a site that would allow any designer to connect with the sources of sustainable materials, whether it’s bioplastics or reclaimed glass, organic cotton?
+
+So, a classmate and I partnered up together, a buddy named Matt, and we created this website to help solve our own problem of having access to sustainable materials.
+
+The site started. It was this combination of ecology and intellect. So, we called it Ecolect. It was basically Google for sustainable materials. We’d find manufacturers around the world and we’d plug them into the system. It was basically like a really high-end search engine and community for people who cared about this topic.
+
+So, we slowed down CritBuns to work on this website. The thing is the product remained. I had figured out manufacturing abroad. The CritBuns website was up. It was getting press at this point from around the world. It was getting blogged about. I was shipping orders out of my garage. At this point, I moved to San Francisco.
+
+My garage became CritBuns headquarters. It got into some of the big catalogs in the US. One of them is called Solutions Catalog, which went out to like hundreds of thousands of homes. I had these orders flowing in. I had to employ some friends to come and help pack up CritBuns, these orders of hundreds at a time. It was insane. Great learning experience. In fact, Tim, something I brought for you today.
+
+Tim Ferriss: You’re kidding.
+
+Joe Gebbia: I have one of the original pairs of CritBuns for you, my friend.
+
+Tim Ferriss: Amazing. This is incredible. Thank you so much. Oh, my God, look at this.
+
+Joe Gebbia: You’re very welcome.
+
+Tim Ferriss: CritBuns: A Seat Cushion for Artists and Designers, For the Love of the Crit. On the back, we’ve got Buns TM. “These buns approved for use on hard surfaces, buns not a lifesaving or floatation device.”
+
+Good note. “They’re intended solely for cheek to cheek comfort.” Amazing. Thank you.
+
+Joe Gebbia: You get the story on the back of the label.
+
+Tim Ferriss: Oh, yeah. Here we go. The CritBuns story, “Hours of critiquing from a cold, hard, dirty floor gave a young design student more than a sore bum. It provided the inspiration for a better way: a seat cushion offering day-long comfort and cleaner pants to art students worldwide.”
+
+“The name and shape? They originated from the charcoal bun print students left behind on metal stools and hardwood floors – www.critbuns.com. The term crit is slang for critique. It is the presentation of students’ artwork before professors and peers and is a staple of every art and design school experience.”
+
+Wait a minute, my favorite part – so, you’ve got, “Patents pending, trademark, copyright 2005-2006, Juice Studios LLC. Critiqued in USA, all rights reserved.”
+
+Drop us a line, highbrow@critbuns.com. Printed with soy ink, approved by the CBBOD.” I don’t know what that is. Then you have a bun-shaped barcode on the back for scanning. This is great, man. I can see how…
+
+Joe Gebbia: That chair is already pretty soft.
+
+Tim Ferriss: It is already pretty soft. I think I will save this for my traveling hard surface experiences.
+
+Joe Gebbia: Sure.
+
+Tim Ferriss: Thank you.
+
+Joe Gebbia: You’re very welcome. So, CritBuns sort of is slowing down. It’s funny. Every so often, I still get an order. I still go down to the garage.
+
+Tim Ferriss: Still?
+
+Joe Gebbia: Still. I still pack it up and ship it out. Life has changed quite a bit since then, but it’s a great reminder for me of those early days of just hustling, trying to get stuff done. The enthusiasm and the exuberance of bringing an idea to life, it was a rush.
+
+Tim Ferriss: And then you go from physical to digital. What did you learn from the Ecolect experience?
+
+Joe Gebbia: Well, Ecolect launched at a time – and this might be hard to understand now – but if you go back 10+ years around 2007, Web 2.0 is happening on the internet. Revenue is not cool. It’s crazy to think about now.
+
+Tim Ferriss: The new economy.
+
+Joe Gebbia: Web 2.0, revenue wasn’t cool. Eyeballs were cool. Traffic was great. But revenue didn’t matter. So, unfortunately, we subscribed to that as well with Ecolect and our service was free. We didn’t make any money on it. We bootstrapped the whole thing and never took investment on it.
+
+One thing that we did innovate on that actually did make money for us is we call it the Green Box. The green box was basically like a physical magazine that we shipped out on a quarterly basis that allowed people to build an actual material library for themselves.
+
+So, we’d ship actual samples with these beautifully designed placards that gave you all the information about it with a special integrated hook. So, you can imagine a whole wall of materials that you’d have in your design studio or your design team in house or consultancy, whatever the thing was, or even a design school for materials library.
+
+That did alright except it was so laborious. I’d be down in the garage zip tying things together. I had to design all these cards and then get the stickers. It took way too long versus how much we made. So, around this time, I also have a day job.
+
+Tim Ferriss: What was your day job?
+
+Joe Gebbia: My day job was I got a fellowship from a book publisher called Chronicle Books. They had a fellowship, which is a six-month program for recent graduates, typically for graphic designers. They introduced one for industrial designers. I’m thinking, “Oh, my God, this is perfect.” I’ve got a graphic design background as well.
+
+Tim Ferriss: Chronicle makes beautiful, beautiful books.
+
+Joe Gebbia: Their books are like objects. What I learned there was about the importance of detail and craft.
+
+Tim Ferriss: Now, by fellowship, that sounds like you’re given a stipend to pursue your art. But are you also –
+
+Joe Gebbia: It was like a glorified intern.
+
+Tim Ferriss: Glorified intern. Alright. Much more attractive when you call it a fellowship.
+
+Joe Gebbia: It is, much more desirable. It worked. I got that role for six months. I had a great time there, really got to work alongside some world class graphic designers.
+
+Tim Ferriss: So, that’s how you’re paying the bills while you’re offering this free service.
+
+Joe Gebbia: I’m paying the bills. I eventually get a full-time offer and I’m take it. So, I’m there doing industrial design work working on packaging for high-end books. So, they did the book for George Lucas on “Star Wars.” I got to design the really high-end – this book was huge. It was like 20 pounds. It was like one of those really thick coffee table books.
+
+I did a package for Hugh Hefner. He did a book on the centerfolds, every centerfold since 1954, I believe, starting with Marilyn Monroe. So, I got to design the custom leather briefcase that this book came in with the blind emboss of the Playboy bunny on the front. Anyway, there were a lot of cool projects there.
+
+But at a certain point, Ecolect was growing and I realized that it needed my full-time efforts. So, I made a decision. I said, “I need to either stick with this job,” which was getting very comfortable at that time, “Or I need to take this plunge to really doing the startup full-time.”
+
+So, I quit my job.
+
+Tim Ferriss: 2007, 2008?
+
+Joe Gebbia: 2007. I quit my job to do Ecolect and CritBuns full-time. Around this time, the rent goes up on our apartment. It’s around this time that my former classmate, Brian Chesky, moves in with me to by roommate. This is foreshadowing another major event in my life, but we won’t get there just yet.
+
+Tim Ferriss: Alright.
+
+Joe Gebbia: So, I make this plunge of stepping into Ecolect and CritBuns. Now, all this while, I’m now living in San Francisco. The thing is since high school, since the first dotcom when I was living in Atlanta, I would come home every day and I would be enthralled at the stories I was reading about of all these internet companies that were starting. You had eBay and Amazon and Yahoo and Excite.com and Lycos.
+
+There was so much entrepreneurial spirit. I had this sense that one day, I wanted to run my own thing. I didn’t know what it was going to be. Maybe it was a gallery or something. Who knows what kind of business it would be? So, Chronicle was my path out to San Francisco, which was where I always wanted to be because that first dotcom, all paths led back to the Bay Area.
+
+Tim Ferriss: Oh, for sure.
+
+Joe Gebbia: I’m like, “Well, that seems to be the place to go if you want to get an idea off the ground.” So, I finally move out there. I bring CritBuns with me. I bring the Ecolect concept with me. I’m living in San Francisco.
+
+During RISD, I had this radar on in the back of my mind that people that I met with, friends that I made – I was sort of trying to find somebody else who had similar aspirations that I did, somebody else who may want to cofound something with me in the future one day and be a partner in a business of some kind.
+
+So, at the end of RISD, there was a very short list of people that I felt I would absolutely love to start something with. The guy at the top of the list was this guy named Brian Chesky. We got to know each other threw sports on campus because I ran the basketball team. He ran the hockey team. So, we got to know each other via sports. There was one project that we had together in industrial design where it was for a client in the haircare space.
+
+We got to reinvent haircare products like blow dryers and curling irons. For the final presentation, Brian and I went in with this team and our concepts were so wildly different than everybody else’s that I remember looking at him being like, “Wow, this guy, when we’re in a room together, we can do really creative things.”
+
+As the year went on and before we graduated, I just had this growing feeling that there was something special about this guy. He knew how to rally people together. He knew how to get them excited. He had his own project around fitness that he got people to volunteer their time to help to do design on and marketing on. I just remember being really inspired by him. It’s the night before graduated. He’s about to move to Los Angeles. I was going to stay in Providence to work on CritBuns. I decided to invite him out to dinner to tell him how I feel about this.
+
+So, over a slice of pizza on Thayer Street, I tell him, “Brian, I just want you to know, I think we’re going to start a company one day and I think they’re going to write a book about it.” And he kind of laughs it off, “Yeah, yeah.” He ends up going to Los Angeles. I end up finding my way to San Francisco via Chronicle Books and very quickly once I’m in San Francisco recognize that it is, in fact, an epicenter for entrepreneurship.
+
+There is so much activity going on around me. Web 2.0 – the web is back. I start calling him like, “Brian, I don’t know what’s going on in LA, but you’ve got to get up here. There’s so much activity, so much action happening here.” He’s like, “Yeah, I’ve got some stuff going.” This went on for at least a year. I was trying to recruit him to come to San Francisco.
+
+So, at a certain point, the roommates that I was living with move out and I’m left with this three-bedroom apartment. I call him like, “Brian, I’ve got a room available. It’s now or never. If you’re going to move, this is the perfect window to come up here.”
+
+“I’ve got a room waiting for you with your name on it.” I have to give him a lot of credit. He made a courageous move. He quit his job. He packed his life into his Honda Civic and he drove from Los Angeles to San Francisco and became my roommate.
+
+I have to tell you, Tim, there was this incredible excitement in the air. It was like the band was back together, like, “Alright, what are we going to do? What could we possibly create together?” This is the same week that I quit my job at Chronicle. I’ve got CritBuns and Ecolect in the background. We’re going to come up with something big together, Brian and I.
+
+That’s when I open the mail one day that same week he arrives. It’s a letter from my landlord. It says, “Dear Joe, your rent is now 25 percent higher.” And I run to my online bank account and I see that I actually don’t have enough money in the bank because I have no paychecks coming in to make rent. Brian has the same problem. Suddenly, our backs are against the wall. There’s like this dark, stormy cloud that forms over our apartment.
+
+All the enthusiasm is gone. Now it’s just terror and fear, “How are we not going to get evicted next month? We need to make the rent check.” That’s when I’m sitting in my living room one day that week. I’ve got my laptop open. I’m looking at the website for a design conference for industrial designers coming to San Francisco two weeks later.
+
+It says in big, red letters, “Hotels are sold out in San Francisco.” I’m thinking, “Oh, man, what a bummer for somebody that wants to come last minute. They’ve got nowhere to stay.” I glance over the top of the laptop screen into the vast space of the living room and start to think, “What if I pull my airbed out of the closet and blow it up on the floor? We could host a designer for less than the cost of a hotel and maybe make some money to make our rent check.”
+
+So, I email Brian. He loves the idea. We actually get two more airbeds and we start to think of this experience. What if we offered airport pickup?
+
+What if we gave them a map to San Francisco and a BART pass for the subway and we cooked them breakfast in the morning? So, we created this concept called the AirBed and Breakfast. We made a website, AirBedAndBreakfast.com. It was four pages, pictures of us, pictures of the airbeds. We talked about the neighborhood. We were so proud of our website except who the hell on earth knew to go to AirBedAndBreakfast.com? Nobody.
+
+Tim Ferriss: Not exactly a high-volume search term.
+
+Joe Gebbia: Right. So, one night, we realized that we have a marketing problem. The conference is coming up pretty quick and we need to get the word out. So, we emailed the design blogs, the top design blogs that were covering the conference. Neither of us had been on design blogs before other than Ecolect and CritBuns. It was kind of a hail Mary. We just sent these emails out to like presstips@blank.com.
+
+The next morning, we came down and opened our computers and Tim, it felt like Christmas.
+
+There we were at the top of the design blogs with headlines like, “Need a place for the conference this weekend? Crash with Joe and Brian in their SoMa loft.”
+
+Tim Ferriss: Amazing.
+
+Joe Gebbia: One was like, “Network in your jam-jams on AirBed and Breakfast.” This idea that we had a week or two earlier was now being blogged about to the world in the design community. So, they responded.
+
+We had emails from all over the world from Brazil, from England, Japan or people dying to have one of these airbeds in our living room. People started sending us their LinkedIn profiles and their design portfolios and their resumes trying to convince us to pick them to be one of the lucky three guests.
+
+Tim Ferriss: Amazing.
+
+Joe Gebbia: At one point, my phone rings with an area code that was unfamiliar. I didn’t answer it. Suddenly, I have a voicemail. I’m listening to the voicemail. It’s this guy named Amol. He’s telling me, “My name is Amol. I just saw the AirBed and Breakfast concept. I have to stay with you guys.”
+
+“Call me back. I have to stay at the AirBed and Breakfast. Here’s my phone number.” Then in my inbox, I’ve got like two emails from this guy. I’m like, “How did he find my information?” So, I call him back and he sends his design portfolio. He’s a grad student at Arizona State University studying industrial design. He becomes our first guest.
+
+Then we accept two other people, one woman named Kat, another gentleman named Michael. All were over the age of 30. Kat was a solo traveler from Boston. Michael was a 45-year old husband and father of five from Utah.
+
+There was all this excitement when the guests arrived. We made sure the airbeds were properly inflated. There was a mint on the pillow. We cleaned the place up in advance. We stocked the fridge with OJ and bagels and fresh eggs. We had everything ready to go.
+
+I have to tell you, Tim – the next couple of nights were some of the most exciting because this thing unfolded that we didn’t expect, which is that yeah, we made some money on it, but more than that, we became friends with them and we really got to show them San Francisco through the lens of us, through our favorite things to do, our favorite places to eat.
+
+So, imagine the difference of this – you’re at a conference and at the end of the day, you can retire by yourself to a hotel room that maybe is somewhat generic or lacks some general personality. Or they came back to our apartment, which is lively. We’re cooking dinner together. We’re sharing stories from our days at the conference.
+
+It was like night and day for them. We had such a good experience. We took them to our friends’ house parties after the conference some nights. We took them to the best burritos in the Mission District, to the farmers market at the Ferry Building one morning. At one point, we gave –
+
+Tim Ferriss: That’s a great place to take visitors, the Ferry Building.
+
+Joe Gebbia: It is. There was a PechaKucha talk during the conference.
+
+Tim Ferriss: A what?
+
+Joe Gebbia: PechaKucha. It’s that format where you have like 20 slides in four minutes.
+
+Tim Ferriss: Ah, right.
+
+Joe Gebbia: The slides move and you’ve got to give a quick presentation. So, we gave a presentation about AirBed and Breakfast in the moment that we’re hosting people on AirBed and Breakfast. We had our guests up there with us and talked about this concept that came together two weeks ago. It’s now actually unfolding in front of us right now. It was this really meta moment where the guests are now a part of the presentation about themselves. It was totally insane.
+
+Tim Ferriss: That’s step five of the CritBuns, aka Airbnb, sales process.
+
+Joe Gebbia: Share the story. So, I’ll never forget when saying goodbye to them, the door clicked closed. I look at Brian and I’m like, “Did we just get paid to make friends?” That, Tim, is when the gears began to turn. Maybe there were other people like us who would also enjoy sharing their extra space with people coming to their town who want a local experience.
+
+So, we told my previous roommate, Nate, who I found on Craigslist. He was a computer science graduate from Harvard. When he moved out, Brian moved into his room. Now, Nate, the story with him is we lived together for a couple of months. At night, we’d come home from our day jobs and we would work on our own projects in the living room. I was working on CritBuns. Nate was working on his own startups.
+
+It was remarkable. I’m looking over shoulder thinking, “Wow, this guy loves to work. We have similar work ethics.” I’m like, “If I ever need a computer programmer, I’m going to call on Nate.” Little did I know, Nate was thinking the same thing about me, “If I ever need a designer, I’m going to call on Joe.”
+
+So, Nate moves out. Brian moves in. After this one weekend, a couple of months actually passed and we didn’t move on the concept.
+
+We went home for New Year’s that year. This is 2007. So, it happened in October. We go home for New Year’s in 2007. Invariably, people ask you, “How’s it going? What are you working on? What’s going on in San Francisco?” We’re like, “We’re entrepreneurs.” They go, “Great. What are your entrepreneuring?”
+
+I didn’t really have a lot going on. CritBuns was kind of there. Ecolect was kind of struggling along. There’s no funding at this point. But I did tell people about this crazy weekend where we had these three guests sleeping on airbeds in our apartment. It was remarkable what happened next.
+
+People either leaned in and went, “Oh, my God, that’s amazing. I would love to travel and stay with a local.” The other half of people went, “Oh, my God, you’re crazy. You had a stranger in your home? What were you thinking?”
+
+This like visceral reaction that it caused people in these conversations was like, “Wow. This really gets people fired up in either direction. Maybe there’s something here.”
+
+So, we come back in January. Brian comes back. He’s from New York, Upstate. He comes back. We had similar experiences. He’s like, “Yeah, I told people about it and they either loved it or hated it.” We were like, “Yeah, maybe this is the idea that we should expand on.”
+
+So, we’re like, “Okay, we know we need a real programmer.” So, I’m like, “I’m going to call on Nate.” So, I get a drink with Nate. I tell him about this crazy weekend with these three guests. Nate loves the idea. He’s like, “Wait, we can use the internet to get people offline, back to the real world with each other.” He’s like, “I would love to spend my time on this.”
+
+So, at this point, we think the big opportunity is a website for conferences for people to sleep on airbeds in living rooms. It turns out, it’s a very narrow market. We did not know this at the time. So, our logical next step is, “What’s the next big conference coming up where hotels will sell out?”
+
+Well, it turns out that right here in Austin every March, there’s quite a large conference called SXSW. It also happens to be the place where some preeminent tech companies went to launch and took off like rocket ships, including Foursquare and Twitter and some others.
+
+Tim Ferriss: What year was this?
+
+Joe Gebbia: 2008. We’re like, “We’re going to build the next version for SXSW and this is going to take off just like the others.” So, Nate hunkers down with us. We start to code out the next, more robust version of the site. It becomes more than just four pages. We pull all-nighters for like two weeks. We launch just in time for SXSW. All of this excitement, all of this energy – Tim, we got a total of five hosts, two reservations.
+
+Tim Ferriss: I’m no mathematician, but that ratio doesn’t sound favorable.
+
+Joe Gebbia: One of the reservations was us.
+
+It was actually Brian. Brian stayed with this guy here in Austin named Tien Dung. He had everything laid out. He had the pillow and the towels and the mints. He had some soup cooking in the background. He was a great host. He was taking it really seriously.
+
+At the time, it was just a classified service. You came and you paid somebody on arrival. Brian tells the story that he forgot to go to the ATM machine. So, he gets there and he goes through the whole night and the host has to awkwardly ask him, “By the way, where’s my money?” And Brian’s like, “Oh, no. Shoot, I forgot. I’ll go to the ATM today.”
+
+Brian forgets to go to the ATM. Another night goes by. At this point, the host is like, “What kind of joke is this? These guys just make a website to freeload accommodations when they travel?”
+
+So, Brian eventually got to the ATM and paid him, but he said that experience was incredibly awkward, paying somebody cash in person inside their home. It was not a great experience.
+
+So, afterwards, it was not a successful launch, whatsoever. I think we got one mention on Mashable. It was dismal. We debriefed on the whole thing. We realized two things. We were getting emails from people who were like, “Hey, I want to stay in a home, but there’s no conference in the city. How do I use your service?”
+
+So, we realized something, “Well, maybe this is more than a conference website. Maybe this is a travel website. What if we got rid of the awkwardness of payments in person and allowed people to pay with a credit card in advance online and we just removed that whole awkwardness from the customer experience?”
+
+And in doing so, we’re like, “If we did the transaction online, we could take a small transaction fee.” And the business model was born.
+
+So, at this point, Nate needed a little bit more enthusiasm to get back involved in the concept. Of the three of us, we all balanced each other out really well. Nate is the pragmatist of all three of us. So, he helps ground us in reality and progress and shipping things, while sometimes Brian and I can have our head in the clouds and really dream. It’s a perfect balance.
+
+Nate needs some convincing that this can actually work. So, in the summer of 2008, we realized that we could use some kind of event to give this thing a spark for this thing to take off. If you remember back in 2008, what everybody was talking about, especially in the summertime, the year of a presidential election, John McCain versus Barack Obama.
+
+Obama was attracting these historic, record-breaking crowds. He spoke in Portland to 75,000 people. It was identified in June that the DNC, the Democratic National Convention later that August, there was going to be a bit of a problem. They moved the venue from the basketball arena of 20,000 seats to Invesco Stadium, which had 100,000 seats to attract more people to come to Denver to see Obama speak.
+
+Therein lies a problem with the amount of housing that exists in Denver. They have 20,000 hotel rooms. Most of them were already taken up by delegates. The headlines started to read “Housing Crisis Impending on Denver.” The Mayor started to hold press conferences to say he might open the city parks for people to pitch tents because there was nowhere to sleep.
+
+So, we recognized this and said, “Wait, what if we relaunched in time for the DNC so we can ride the coattails of all this press to gain awareness for the next iteration of AirBed and Breakfast?”
+
+So, Nate loved the idea. We hunker down. We spend the summer rebuilding the site with online payments and the ability to travel anywhere at any time.
+
+Tim Ferriss: So, this was the carrot for Nate.
+
+Joe Gebbia: Nate needed to know that there was some reliable mechanism to create awareness on the horizon because to build a marketplace without any awareness is like…
+
+Tim Ferriss: Difficult, to say the least.
+
+Joe Gebbia: Difficult, to say the least. So, we hit the ground in Denver. I remember we built the website, this shiny new version of AirBed and Breakfast. We get on the phone with press trying to pitch them. We had no idea what we were doing. I’m on the phone with CNN and they basically hang up on me. But I have experience with that from some other projects in the past. So, I’m like, “I’m just going to keep going.”
+
+Tim Ferriss: SW-squared plus WC equals MO.
+
+Joe Gebbia: Beautiful memory. So, what we started to do was actually contact local bloggers in Denver.
+
+CNN is not going to answer a call, but a local blogger loved the story because it was of their neighborhoods and it was very human-oriented of Denver residents opening their homes to support their fellow Obama supporters.
+
+So, these blogs would write about it. It turns out that’s where the newspapers looked for story ideas. So, then the newspapers heard about it. It turns out that’s where the local TV broadcast looks for story ideas. So, then we get a call from NBC’s local affiliate. When NBC does a story, CBS and ABC shortly follow.
+
+So, then, we’ve got the Denver press covered. It turns out that’s what the Boulder press looks to for story ideas. And it started to become a regional story. It turns out when you have a regional story, that’s what CNN looks to for story ideas.
+
+So, within a matter of about two to three weeks, we went from zero listings in Denver to 800 people sharing their homes just through this awareness through press.
+
+Tim Ferriss: Wow.
+
+Joe Gebbia: Again, we had no money. We couldn’t hire a PR firm.
+
+We couldn’t go buy online ads. This was all word of mouth, the press talking about us. Then we get the call from CNN. There was this funny moment where Brian and I are doing a live interview in our living room on a laptop through Skype or something and we’re sharing earbuds.
+
+We look like we’re conjoined to each other because we’re sitting so close. We’re doing this live interview with this guy Errol Barnett on CNN and talking about this website and what it means to people to be able to stay in a home for anybody going to the DNC.
+
+Then when you’d have a CNN story, that’s what international press looked to to create stories. So, then Le Monde picks us up and The Guardian and press out in Europe. It was just amazing to see what happens when an idea or a story starts at the smallest nugget and works its way up this chain, becoming an international story in a matter of three or so weeks.
+
+Tim Ferriss: Amazing.
+
+Joe Gebbia: I have to give credit to Seth Godin because I remember during CritBuns I read his book “All Marketers are Liars.” I remember something that he says in there which I never forgot, which is to make something people want to talk about. It’s like purple cow – make something that’s distinct enough that people want to talk about it, that’s differentiated enough.
+
+I feel like that concept was imbued into the early days of the company, certainly into CritBuns, into Ecolect, and definitely into AirBed and Breakfast at the time. Certainly, I watched it happen in front of me, making something people want to talk about, go from a local Denver blogger story to international press.
+
+Tim Ferriss: Would you consider that one of the first major successful milestones for AirBed and Breakfast?
+
+Joe Gebbia: Yes, because we had a few hundred people staying on the site that weekend, including us. We’ve got to go to Denver.
+
+Tim Ferriss: So, Nate was busy.
+
+Joe Gebbia: Nate was really busy.
+
+So, we had to divide responsibilities. There were just three of us. Nate is doing all the coding, Brian is handling all the press, and I’m handling all the design and the customer service.
+
+Tim Ferriss: So, let me hit pause and let me ask you – would it make sense – we can certainly decide on the fly here – but we’ve got about probably close to three hours. Would it make sense to have this be part one and then follow-up with a part two?
+
+Joe Gebbia: Oh…
+
+Tim Ferriss: What do you think of that? We don’t have to, but we could. What are your thoughts?
+
+Joe Gebbia: I’m open to it. And record it another time?
+
+Tim Ferriss: Yeah. I’m just thinking.
+
+Joe Gebbia: We can totally – let’s leave people on a cliffhanger?
+
+Tim Ferriss: I think this is a good cliffhanger.
+
+Joe Gebbia: Okay. I’ll say — okay, go.
+
+Tim Ferriss: No, go for it. This deserves a round two.
+
+Joe Gebbia: So, we had a few hundred people actually using the service. Brian and I split up responsibilities. Nate is doing the coding. Brian is doing all the press. I’m doing all the customer service from my cellphone.
+
+We have this incredible weekend where our marketplace is working, but you won’t imagine what happens next.
+
+Tim Ferriss: Ooh… Okay. Amazing. This is perfect. This is absolutely perfect. So, to be continued… In the meantime, as sort of a temporary tie-up of part one, is there anything that you would like people to take from this first chronology that we’ve walked people through, any ask of the audience or recommendation, suggestion that you would like – parting words of any type?
+
+Joe Gebbia: I think anytime that you introduce a new idea into the world, there’s bound to be somebody or many people who reject it.
+
+So, I think rejection is inevitable anytime you’re trying something new. In fact, I’d say if you’re not getting rejected, you’re probably not trying anything new. You’re probably not even pushing hard enough on something new.
+
+My advice would be look at rejection in a different way. That equation for me was just a way to reframe rejection as an opportunity to keep going – move on. So, my advice for everybody watching right now is that the gift of an entrepreneur is to reframe things.
+
+Anytime there’s a rejection that you face, turn it into an invitation. Turn it into an invitation to keep going. You can say yes or no. You don’t have to. You at least create this opportunity to persevere, to continue going forward. For me, all the stories I’ve shared so far, from the senior prank with the intercom system through to CritBuns, through to the beginnings of Airbnb are reframing every, “No,” into a, “Cool, that person didn’t like it. I’m going to keep going until I find somebody that does.”
+
+Tim Ferriss: And also, something, at least that I see from the outside looking in when you’re sharing all of these stories and experiences is that you were also over time, by exposing yourself to rejection and reframing, learning to, in some ways, seek out discomfort as opposed to avoid discomfort. That’s one thing that also comes up for me.
+
+On top of that, and why I’m so excited that we were able to get together to talk about many of these stories, which is, of course, a portion of your many life experiences, is that people are already familiar, at this point, with AIRBNB, in all caps, right? Magazine covers, one of the most successful startups in the world, one of the fastest-growing startups of all time, etc.
+
+I think it’s easy because as humans, we want to take shortcuts and create stories that are easily graspable, to think of that as idea, execute, success. It just came out of the blue and was this overnight success. But there’s so much contributing to that and so many diverse experiences that yes, you had, but in some ways, you also helped to engineer.
+
+I think that’s inspiring to know that it wasn’t the byproduct of this immaculate masterplan that required you to be Elon Musk times ten that you executed over a two-week period and then you have an empire. No. That’s not how it unfolds at all.
+
+Joe Gebbia: People think we woke up and Airbnb was just created out of thin air. That couldn’t be further from the truth. I hope if there’s any takeaway from the stories that we’ve talked about today, it’s that there’s a long lineage of trying things, bumping into walls, getting rejected, failing, reframing that failure into learning, and trying to continue forward.
+
+And so, by the time Airbnb came around, it was like I’d been in the gym of entrepreneurship for many years. So, it’s like you don’t wake up and just run a marathon all of a sudden. Nobody does that. You train for it. So, by the time it’s ready for race day, your body is conditioned for it. Your muscles and your system – everything is ready for you to go run 26+ miles.
+
+I think entrepreneurship is the exact same way. I think it’s a misconception when people look at the magazine covers and they read the stories of a successful company and they think, “Wow, the people who started that, they built it and everybody came.” That couldn’t be further from the truth. I think “Field of Dreams” is probably the worst movie to ever happen to entrepreneurship. It created this idea, like, “Oh, wow, if you build it, they will come.” I can tell you, if you build it, they don’t come.
+
+It takes this incredible perseverance and sometimes irrational belief in yourself to bring something to life in the face of lot of adversity and a lot of people saying it can’t happen. So, I hope if there’s any takeaway from the stories that I shared today, it’s that the simple act of spotting an opportunity, coming up with original solution and then taking that third, hardest step of putting something into the world, of trying something, putting your idea into practice – it doesn’t have to be the big idea.
+
+It’s just about being in the gym and doing a rep, the gym of entrepreneurship, doing curls or something. It’s just getting in the habit of those three things. You spot an opportunity, you come up with an original solution, and you put your idea into the world. And the more you can do that, the better you are at spotting the next opportunity. Airbnb just happened to be a part of the lineage of all the things I’ve told you that happened before it.
+
+Tim Ferriss: Can you lay out the equation one more time and what each letter stands for?
+
+Joe Gebbia: Absolutely. SW-squared plus WC equals MO. What that stands for is that when you introduce a new idea to the world, some will love it, some won’t, plus, “Who cares?” equals move on. Keep going until you find the people that do love your idea.
+
+Tim Ferriss: Alright, Joe. Amazing. Where can people say hi to you online, find you. Where can they learn more about the company and anything else that you might want to mention?
+
+Joe Gebbia: I’d say go to Airbnb.com. And if you want to connect with me, you can follow along on Instagram, @JoeGebs.
+
+Tim Ferriss: @JoeGebs.
+
+Joe Gebbia: On Twitter @JGebbia and certainly CritBuns is out there too.
+
+Tim Ferriss: For everybody who’s watching, listening, we will have links to CritBuns, @JoeGebs, and all affiliated links, resources, and so on for everything we talked about in the show notes, as per usual at Tim.blog/podcast. Thank you, everybody, for listening and Joe, thanks for hanging, man. So much fun.
+
+Joe Gebbia: Super fun, Tim. Thanks for having me.
+
+Tim Ferriss: Dot, dot, dot – to be continued.
+
+Joe Gebbia: To be continued.
+
+
+TAGS
+AIRBNB, JOE GEBBIA, TIM FERRISS SHOW, TRANSCRIPT, TRANSCRIPTS
+	

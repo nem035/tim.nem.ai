@@ -1,0 +1,514 @@
+
+
+FEBRUARY 1, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Ray Dalio (#264)
+
+
+Please enjoy this transcript of my interview with Ray Dalio (@raydalio), founder of investment company Bridgewater Associates, which he started out of a two-bedroom apartment at age 26 and which now has roughly $160 billion in assets under management. 
+
+#264: Ray Dalio, The Steve Jobs of Investing
+
+Tim Ferriss:  Hello, my little munchkins, boys, and girls. This is Tim Ferriss and welcome to another episode of The Tim Ferriss Show, where it is always  my job to deconstruct world-class performers to share the thinking, the habits, the tips and tricks that you can apply in your own life, whether those people come from the worlds of sports, from chess, from entertainment, and in this case, from investing. I’m very excited about this conversation you are about to hear. I had a blast. It is with Ray Dalio, who has been called the Steve Jobs of investing. We’ll get to why that is the case.
+
+This is Ray’s first long-form podcast ever, which I am extremely happy to debut here. On Twitter @raydalio, you can say hello. He grew up a middle-class kid from Long Island. He started his investment company, Bridgewater Associates, out of a two-bedroom apartment at age 26. He now has roughly $160 billion in assets under management.
+
+Over 42 years, he built Bridgewater into what Fortune considers the fifth most important private company in the United States. Along the way, he also became one of the 100 most influential people in the world, according to Time, and one of the 100 wealthiest people in the world according to Forbes. Because his unique investment principles have changed industries, CIO magazine is the one who dubbed him “the Steve Jobs of investing.” Very importantly, Ray believes that his success is the result of principles he’s learned, codified and applied to his life and business, and certainly at Bridgewater.
+
+Most of these principles are detailed in his new book, Principles, subtitled Life and Business. I highly recommend this book. It has already changed how I think about making decisions in my life and in my business, how I think about managing, how I think about managing, how I think about communications between teams. I could go on and on and on.
+
+Just check out the blurb from Bill Gates on the cover and it’ll give you an idea of the type of the people who listen to Ray very closely. In this interview, we cover all sorts of ground, including how Ray thinks about investment decisions, how he thinks about correlation, for instance, and so on, the books he would give to every graduating high school or college senior, how he might assess something like cryptocurrency, so walking through the thought process, and much more. We do get into his backstory and how he became an investor and so on. If you want to just jump into a bunch of nitty-gritty investing detail, which does get into the weeds, then you can jump about 90 minutes in. But we do cover a lot of really good stuff and many principles that apply in the first 90. I suggest that you listen to the whole thing, but if you’re super impatient and you want to jump around, you can jump about 90 minutes ahead and check that out. I hope you enjoy this as much as I did.
+
+Without further ado, here is Ray Dalio.
+
+Ray, thanks for coming on the show.
+
+Ray Dalio: Looking forward to it. Thank you for having me.
+
+Tim Ferriss: I have been such a follower and fan of your work and your writing. My audience has been asking when I would reach out to you to have you on the show. This is a very exciting moment for me. I would love to start at the beginning because it seems like we have some shared geographic beginnings. Where did you grow up and how would you describe your childhood?
+
+Ray Dalio: I grew up in Hyde Park, Long Island. I would describe my childhood as being middle-class or maybe a little bit lower-middle-class family. My dad was a jazz musician. My mother was a stay-at-home mom. I was an only child.
+
+Tim Ferriss: Were there any formative experiences you had up until the end of college that ended up informing your decision to become involved with investing?
+
+Ray Dalio: Yeah. When I was a kid, I used to caddy. At the time, the stock market was hot. When I was 12, I got hooked on the markets. I bought a company that – everybody was talking about the markets and I decided I would take my caddying money and put it in the stock market. So I picked a stock, the only stock I knew that was selling for less than $5.00 a share. It was kind of a stupid idea, but I thought if I bought more shares and it went up, I’d make more money. The company was about to go bankrupt and somebody came along and acquired it and I tripled my money.
+
+I was lucky and I was hooked on the stock market. That had a big effect. From then on, it drove my whole addiction to the game and everything I’ve been doing since related to my career.
+
+Tim Ferriss: I think that many people who are listening to this who know your name and your bio have the impression perhaps that every time you’ve stepped up at bat, you’ve hit home runs. That it’s just been an unending streak of home runs. I’d like to humanize the experiences you’ve had a little bit by talking about 1982. I’ll back into it by reading just a short excerpt from your book, which I think paints a good picture. It beings with, “So there I was after eight years in business with no to show for it. Though I had been right much more than I had been wrong, I was all the way back to square one.
+
+At one point, I’d lost so much money, I couldn’t afford to pay the people who worked with me. One by one, I had to let them go. We went down to two employees, Coleman and me. Then Coleman had to go. With tears from all, his family packed up and returned to Oklahoma.”
+
+At that point, you were down to one employee, that’s you. To make ends meet, you had to borrow $4,000.00 from your dad until you could sell your second car. How did that happen? Could you describe what happened that brought you to that point?
+
+Ray Dalio: Let me first say that, by the way, I’m a professional mistake maker. Being in the markets or being an entrepreneur requires one to bet against the consensus. When one does that a fair amount of times, you’re going to be wrong a fair amount of times. I’ve learned a lot more from my mistakes. I just want to let you know that any perception that being right is part of it, no. The main thing is knowing what you don’t know and how to deal with it. But anyway, what happened at the time was that I analyzed the payments that countries owed banks and I calculated that those countries were not going to be able to pay the U.S. back. It was a very controversial view at the time.
+
+As a result of that, I took positions in the markets. I got a lot of attention because Mexico defaulted on its debt and not many people had expected that and I did. I had these positions on. I thought we were going to go into a depression. I thought the stock market was going to go through the floor. I just didn’t understand really. The stock market rose. This was after I had testified to Congress and I was on Wall Street Week. Then I’d lost the money that you referred to. That’s how it happened. In retrospect, it really was the best thing that ever happened to me because it gave me the humility that I needed to become more successful. That was because I shifted my attitude from thinking I’m right to ask myself, how do I know I’m right?
+
+That opened my mind a lot. It made me look for people who disagreed with the smartest. It also made me manage my risks better and so on. That’s the story.
+
+Tim Ferriss: I’d like to dig into mistakes. I think this will be a common thread throughout the conversation. I have read, and correct me if I’m wrong, but that you’re a fan of, for instance, the book Einstein’s Mistakes. Subtitled The Human Failings of Genius. He was one of the great minds of the 20th century and made a lot of mistakes. You have an expression – “Pain plus reflection equals progress.” My understanding is that at Bridgewater you have, for instance, lengthy assessment sessions in which employees discuss their mistakes. What type of post-mortem did you do after all that happened in 1982? Or did that come later, the type of post-game analysis you would do on what led to that mistake?
+
+Ray Dalio: I think for everyone, and for me at the time, when you encounter the mistake, you experience that pain, an emotional pain. That was true for me at the time. Then the pain passes and it requires thought and making the connection of what did I do wrong? And being analytical about it. That was that experience. That led me to do that as a habit. It became an increased habit. I would literally, every time I would make a mistake, I would develop an instinct. So it changed my attitude about mistakes.
+
+I think basically they became like puzzles. If I solve the puzzle, the puzzle being what would I do differently in the future, I would get a gem. That gem would be a principle that would let me do a better job the next time that sort of thing came about.
+
+I wrote those principles down and refined them over a period of time, which is what makes up my book. But it was that process of making enough mistakes and having painful mistakes that led to an instinctual reaction to having reflections on what I could’ve done differently that led to the progress that I’m referring to when I say “pain plus reflection equals progress.” I think we all learn. I don’t think it’s particularly just true of me. I think anybody who’s openminded and smart knows you’re going to learn more from mistakes. There’s so much more you can learn from mistakes.
+
+Mistakes, look, first of all, they’re giving you a loud signal. Rewards keep you doing the same things, and so you don’t grow from successes.
+
+Successes keep you doing the same thing, so you don’t grow from successes. But mistakes, if you can deal with them in the right way is where the growth plus the reflection is where the growth comes from. Anyway, that’s what happened
+
+Tim Ferriss: Could you give an example from your life of a particular mistake and how you did that analysis or reflection after the fact and what you learned from it?
+
+Ray Dalio: I mean, there are just so many mistakes. When I was just getting out of college, I clerked on the floor of the New York Stock Exchange. This is when the dollar was attached to gold. It was a financial crisis. Richard Nixon gets on the television and says there’s no more attachment to gold. Back then, money was like checks in a checkbook that didn’t have much value.
+
+What mattered was the fact that you could get something tangible in the form of gold that you can make the conversion. It was a crisis. Our money wouldn’t be taken in other countries and so on. I walked on the floor of the New York Stock Exchange expecting a collapse and the stock market went through the roof. It never happened to me before. That was the case and I went and researched currency declines in the past and I learned that it happened before, but just not in my lifetime.
+
+One of the things that I’ve learned over the years is that many surprises come because things that happen as surprises never happened in one’s lifetime before. It’s advantageous to look beyond one’s lifetime and beyond one’s own experiences to understand how the world works so that one can anticipate all of those things and learn all the rules of how the world works. That’s the beauty of it, right?
+
+That’s the excitement. To learn how does reality work? What are the cause/effect relationships and then how do I deal with my realities? That’s a case. But there are so many mistakes.
+
+Tim Ferriss: I would like to dig into the research of history; things that have happened outside of your lifetime. Because I read that, for instance, while on one hand, you have Soros, who might credit the influence of Karl Popper, who is one of his teachers at one point. You’ve talked about diving very deeply into past periods of economic upheaval, the Great Depression, or reading daily newspapers from those eras. Are there other practices or approaches that you’ve taken to examine history? Are there any particular types of books or resources that you go into like that to try to get a better picture of reality?
+
+Ray Dalio: Before I deal with the particular economic history, I’ll start off by saying I believe that basically everything is another one of those. In other words, almost everything happens over and over and over again through history. The key to success is to identify what one of those it is and to look how it’s worked in the past many times. Then to understand the cause/effect relationships to develop one’s principles for dealing with it. It could be applied to anything. We were talking about economics.
+
+To talk about politics, nowadays we’re hearing the term “populist.” Populism is something that is a bigger phenomenon than we’re used to in our lifetimes. The time that populism was flourished the most was in the 1930s. Pretty much leading up to World War II. I use that as an example.
+
+I think okay, where were the populists in history? Where were those cases? How does this thing happen? How does it grow? How does it develop? What are the usual linkages and why? That’s been, I think, very helpful more recently in my understanding quite a bit about what’s going on. It’s affected my perspective. It doesn’t have to be just reading history books. It’s in anything. People have a new child and they treat it as though that’s the first time that anybody’s had a child. But to gain perspective, you can apply it – gain that perspective of what’s happened over and over.
+
+It could be applied to anything. If you start thinking that way, it’s radically beneficial. So that way, when I’m referring to that, is in other words what is this? What one of these is it? How do those things work?
+
+What are my principles for dealing with it? Then life is a whole lot easier. If you’re not dealing with it that way, everything is a one-off. You’ll be in the middle of a blizzard of things and you won’t step above those and deal with those instinctual principles. For example, you have your principles. I really admire your stoicism. I think you could rattle those principles off and you make the connection. It’s connected to your realities. We each have our own. I don’t want to keep it in the realm of just economics because it applies to everything.
+
+Tim Ferriss: Definitely. I would love to talk about problem-solving and I’m sure principles will tie in here. Let’s just say hypothetically, and I’m sure this is maybe a real case at Bridgewater over many years. If you have someone who’s working at Bridgewater, very smart, very ambitious, and they’ve made a mistake.
+
+They enter an assessment session. What does the format look like? How do you help them separate symptoms of problems from the root causes of the actual problems?
+
+Ray Dalio: I think the first thing I have to convey is that we have an idea of meritocracy. It’s not like somebody is called into a room and the people like me or the bosses think that they know the answer and that they’re making an assessment of how that person is. Then they write down those notes. No. Everybody’s equal in having an opinion. By and large, if the person that’s receiving – they receive great and bad feedback. I receive great and bad feedback in a non-hierarchical way. We approach it with the idea of how do we find out if it’s true?
+
+So it’s got to be evidence-based. Then we will set up tests. Let’s say if you get bad feedback. We’re talking about bad feedback. It could be for good feedback. But if somebody’s thinking somebody’s not very good at something, they’re speaking honestly. Most importantly, it’s that people can be radically honest with each other. They’ll say, “I don’t think you’re very good at that.” They said, “I am very good at that.” Then you go through a series of tests to think it’s evidence-based to try to find out if somebody’s good or bad at that.
+
+Then you move beyond it to think okay, what can I do to get better or how can guardrail myself so that if I’m weak at something and somebody else is strong at that thing, we can work together? The main thing here is to get at what people are like. To me, it’s a weird world that there’s a phobia about making mistakes.
+
+There’s a phobia about knowing one’s weaknesses. Mistakes are part of the process. Everybody has weaknesses. The greatest people I know have weaknesses and have become successful because they know how to compensate for the weaknesses. They’re aware. The stupidest people I know, least successful people I know, are people who don’t own up to those weaknesses and grow. The exercises that we’re going through are by people who choose to want to be in a radically truthful or radically transparent environment and be evidence-based. But it’s difficult.
+
+It’s difficult because we’re not brought up that way. It takes about 18 months to get used to because there are these subliminal reactions.
+
+Tim Ferriss: Now maybe this is related to the pain button app and maybe not. But could you describe the function of the pain button app and why that was created?
+
+Ray Dalio: Yeah, it’s like I said. Pain plus reflection equals progress. Whatever your form of pain, the best thing to do is to record it. So this app, the way it works is as you experience psychological pain, you just quickly log it. You don’t analyze it at the time, but you capture it. What was it about or who was it with and what happened exactly? The nature of psychological pain is that it passes fairly quickly. The amygdala, this part of the brain, is the part that’s the fight-or-flight part that gets adrenaline and it reacts quickly.
+
+Over a period of time, whatever the form of psychological pain, it diminishes. That’s an opportunity to reflect. Because it’s been captured in the app, it then can allow somebody to go back and reflect on that.
+
+And reflect on what you should do about it when the next one comes along. Is it speak to the person who caused you the pain? Whatever it might be. You write that down and you record it and because it keeps in a graphic way a presentation, it graphs your pains, the different types of pains and the causes, it gives you a biofeedback that allows you to see if your actions are reducing that pain and that might prompt you to change your actions, or it also shows whether you’re following through on your actions.
+
+Let’s say you’re having a problem with the same person, doing the same thing causing you pain, but you’re just bottling it up, then if you choose to keep bottling it up, you’re not going to resolve it. It’s just going to happen over and over again. That’ll show up in the graph. But if you do something about it and you write it down, you can analyze it.
+
+It provides that kind of biofeedback that allows people to make that progress. A lot of people have told me that it’s better than the psychologist because it’s there every day of the week and you can see yourself. What’s causing your pain? What sorts of pain do you have? It makes it an intellectual exercise to come up with strategies to do those things that stop causing you those pains and get you what you want.
+
+Tim Ferriss: For developing, in addition to using this type of logging tool, whether it’s the app or if someone’s carrying around a small journal with them so that they don’t misremember the details of when they’re triggered, for instance, are there any tools that you have found helpful for people in general? Employees, yourself?
+
+One that comes to mind, maybe you could chat about it and I’d love to hear about any others, but is transcendental meditation. I’ve read, for instance, that you’ve said, “Creativity comes from openmindedness and centeredness, seeing things in a non-emotionally charged way.” Could you talk about TM and any other tools that you have found to complement the pain button?
+
+Ray Dalio: Yeah. Let me say the tools, in general, we have developed a whole bunch of tools that would be fun to explain to you in all different ways that are constantly being used. They’re just invaluable. They’re great. But I want to turn my attention to transcendental meditation, which unlike an app-type tool or some other kind of tool, is a practice that I’ve been doing since 1969. A long time.
+
+I think it’s worth noting that everything in our brain, every emotion we feel, is physiological. There are chemicals that go through our brains, electronics that go through our brain. They produce these impacts. Transcendental meditation is a practice that takes one from one’s conscious mind into almost a subconscious state. It allows one to relax and it’s almost a blissful experience. It relieves all stress. It brings one into the subconscious mind. Through brain scans, they see that the amygdala, which is that fight-or-flight part of the brain, calms down. In some cases, they conjecture that it physically changes.
+
+The pre-frontal cortex part of the brain, which is kind of that more thoughtful part, lights up and is enhanced. That practice not only creates an equanimity but by bringing one into the subconscious part of the brain, it significantly enhances the creativity. It essentially opens a passage from the subconscious to the conscious so there can be a reconciliation of those. It’s really from the subconscious where creativity comes from. If you think about it, one doesn’t go muscle creativity like doing a mathematical collection or something. It’s really like if you’re ultra-relaxed, maybe you take a hot shower, and these great ideas come to you.
+
+Or you’re sleeping and these things pop up. They come from your subconscious part of your brain where the intuition comes from. So by opening that passage, essentially, because of the subconscious part of the brain and the conscious part of the brain, it’s wonderful.
+
+It makes one more creative. It makes one calmer. It makes one almost a little bit like a ninja in the sense that everything with that equanimity seems to be coming at you in a more controlled, centered way so that you can react to it well. I’ve found transcendental meditation to be invaluable.
+
+Tim Ferriss: The specifics here are of great interest to me, for a number of reasons. The first is that I practice a few different types of meditation. But I did a TM session this morning, for instance, for 21 minutes because I find it takes about a minute for me just to stop fidgeting and get settled, but when do you typically – do you do two sessions a day? When do you typically do your TM? Do you have a particular location? Any specifics of that practice would be very great to hear.
+
+Because TM has come up a number of times and I find it very secular, which appeals to me, from people like Rick Rubin, legendary music producer, Chase Jarvis, extremely accomplished photographer and CEO. What are some of the details of your practice?
+
+Ray Dalio: Well, I think one of the things is not to worry about the details too much, just do it. But the best way to do it is you do it before breakfast and you do it before dinner, having not eaten much or not eaten. You do it for the 20 minutes as you point out. And that you do it for twice a day. That’s the established practice. I basically do it – let’s say sort of two-thirds of the days and I would say I probably maybe some days will do it once and not twice, but I also always do in, in addition, whenever I have that feeling of doing it.
+
+As a meditation, you probably know that you can feel the difference. So as you’re going through the day, you carry through almost an ability to shift yourself from a state of mind where there might be a twinge of anxiety and then you can bring yourself into that equanimity type of state. But you also, I also find that there’s a time when I say, “I need to go meditate.” Then I’ll just meditate. I’ll meditate where I can and when I can. I prefer a quiet place, comfortable spot. I’m not rigid about the location. But if my circumstances were standing in my way, I would meditate on a plane. I would meditate wherever I could. If it was noisy and I was on a train, I would still meditate.
+
+The meditation may not be as deep. It won’t be as deep. But it is so good. It can be noisy outside and I can still go from one state to another. Not the deep subconscious state, but the state of tension to relaxation. That’s how I do it.
+
+Tim Ferriss: For those people who aren’t familiar with transcendental meditation, it’s thought of as mantra-based meditation. It’s typically characterized by the repetition of a mantra or one or two syllable sound that you do not say out loud. Do you sit down and immediately go into the repetition of the mantra or do you take time to focus on your breath or your bodily sensations before you go into the mantra repetition?
+
+Ray Dalio: I take a few minutes to settle myself down, just as you’re describing. It feels good at that moment and then you go enter it.
+
+Tim Ferriss: Got it. You mentioned before we delved into the TM, other tools that you and the people at Bridgewater have developed. I’d love to hear you describe any of those.
+
+Ray Dalio: Those tools are – people carry around an iPad with them. Whenever we got into meetings, there’s a tool we call a dot collector. It’s a very easy tool to allow people to express what they think is going on and how people are doing. In all meetings, there’s this data that’s collected that shows what everybody is thinking while the meeting is going on. Now, it’s invaluable in many cases because you’re seeing what everybody’s thinking. So it’s so different.
+
+In an ordinary meeting, it’s silent largely. There’s one person speaking at a time. You don’t know what the other people are thinking. In this particular case, what you do is all the time you see how people are seeing things differently. What we do is take that data as it’s happening – the computer does. We have it programmed with algorithms that will look at that data and will then communicate back the advice. This computer mind will then use that to know how they think differently.
+
+By the way, it’s enlightening. You would have no idea how differently people’s brains are working in a meeting or work in general. The things they pay attention to. The way they interpret it is startlingly different. They have the same kind of patterns to them.
+
+That discovery allows people to know how they see things differently and appreciate how other people see things differently. Then when they take that, that allows them to know how to interact better. The computer, through this iPad, is doing processing in the background. It will then also coach them. In other words, when they’re dealing with somebody else, it will provide guidance. It will provide feedback that’s continuous. It’s a tremendous tool because you know what everybody’s thinking.
+
+It’s analyzing how everybody’s thinking, provides that feedback, and gathers information across all of those people and processes it by being able to see relationships that no one person sees. It’s invaluable in an idea meritocracy. We also use it for making decisions. We do something we call believability weighted decision-making.
+
+Tim Ferriss: If you could elaborate could elaborate on that, I’d love to hear more about it.
+
+Ray Dalio: Well, you want to have an idea meritocracy. If you and I were partners and we had a group of people and we were partners, how are we going to decide on the best things to do? Idea meritocracy is when the best ideas win out. You have to have rules for doing that. You have to have procedures. There are three things you need to do. The first is that you have to put your honest thoughts on the table. A lot of people are hesitant to do that. They keep their honest thoughts back.
+
+But if you have a culture in which you can put your honest thoughts on the table and everybody does and that’s the way it operates, now you see what people are really thinking. Great. That’s a good first step. The second step is you have to have thoughtful disagreement. You have to know the art of thoughtful disagreement.
+
+There are processes that we go through in which people are really hearing each other and, as you go through that process, to make better decisions than they could individually. Then the third thing is if disagreements remain, you have to have idea meritocratic ways of getting past that agreement. So how are you going to do that? In most places, it’s either autocratic or democratic. Autocratic means the one with the power makes the decision. The boss makes the decision.
+
+Democratic is one man, one vote, and it treats everybody as though they’re equally valuable. We do what we call believability weighted decision-making. Let’s just imagine what it is before we get to how we get to it. Imagine you knew each person’s believability.
+
+Who’s a better decision maker at what. I’ll use an example. If you had a medical condition and you went to doctors and you had a friend, you would know your doctor’s better than your friend and some doctors are better than other doctors. So consciously, you’re probably weighing those decisions with consideration given to their believabilities. In our place, we have ways of determining people’s believabilites in many different dimensions.
+
+Maybe if it’s an accountant, they would have greater believability in accounting or maybe if it’s somebody who is more creative, there are more points that they actually get and know that person’s more creative. Somebody else might be more reliable and would work well with the person who’s creative. Because we have this believabilities according to all those dimensions, when we make a decision, we make a believability weighted decision.
+
+We literally, on the iPad, say, would you do this? Then everybody votes and it calculates what the vote is on a believability weighted basis, as well as on an absolute basis. That idea meritocracy not only produces better decision making, but it also produces a fairness that everybody believes that the system is fair. That is invaluable because when you have disagreements or you even have assessments, which people are sensitive to, and you do that in a way that everybody agrees is fair, that means that they will go along with it more. The game is fair. It works much better in getting past disagreements. As I said, the third step is how do you get past the disagreements if they remain?
+
+We try to do that in an idea meritocratic way through believeability weighted decision making.
+
+Tim Ferriss: What are some of the rules or guidelines that you have for preventing disagreement from devolving into highly emotionally charged fighting? In other words, is it similar to non-violent communication? Are there specific rules that you think perhaps listeners could also borrow that you’ve found to be very helpful for thoughtful disagreement?
+
+Ray Dalio: There’s a whole series of protocols. For example, there’s what we call the two-minute rule. Two-minute means that if I say the two-minute rule, I’m allowed to speak for two minutes without an interruption. If you say the two-minute rule, you’re allowed to speak for two minutes without an interruption. There are protocols like you repeat what the person is saying.
+
+You must repeat what the person is saying and the points they’re making so that is demonstrates that you’ve taken in and understand what they’re saying. Then you repeat it. We allow disagreement to take place in different formats. It might, rather than being in person, if somebody maybe is too emotional in the moment or maybe they’re not good at thinking on their feet, we allow that disagreement to take place in a format that’s essentially the equivalent of email exchanges. In other words, written format.
+
+Anyway, there are a bunch of those kinds of procedures. They mutually agree on who an arbiter is. In other words, whenever there’s a disagreement that you can’t seem to get by, as a standard practice, the protocol is to say let’s find the person we can agree who will be a moderator and help us through that.
+
+Because they mutually agree on that person, then the rules are fair and it’s an easy thing to do. There are many of those types of protocols that we use. It’s also culturally like a big faux pas or a big thing to lose your cool in that way. Culturally, okay, maybe you need a time out. All those things enter into it.
+
+Tim Ferriss: Those are very helpful and actionable. I’d like to look at the dynamics of making decisions as a solo operator or close to solo operator, just as a complement or a contrast.
+
+If we flash back to when you first began Bridgewater Associates. Out of your two-bedroom apartment at 26 years old. Do you recall any of your first big wins or things that you considered big wins at the time? I’d love to just hear you describe what made those a big win. In other words, the thinking behind it.
+
+Ray Dalio: You know, the funny thing is, I can hardly ever remember my big wins. I do remember my big losses or my big mistakes.
+
+Tim Ferriss: We can talk about those too.
+
+Ray Dalio: It’s so funny because I look at it and I say well, I guess I must have had a bunch of wins or successes because of how things have gone. The business is good.
+
+I’ve done well and all of that. But I think of my history and I really think of those mistakes. I think that’s so great because it shows that’s a much better learning tool. My big wins. The things I remember were the fun things. The guys I played rubgy with, parties, and those kind of things. I don’t remember a particular big winning. Well, I do remember some things. I remember one time when we got the Kodak account. Again, I was in a position, okay, here’s a guy and he’s analyzing the markets and then he has a small team of people who’s analyzing the markets. I didn’t have a long track record.
+
+I didn’t have an institution. I was competing with the big institutions of the world – the J.P. Morgans and everybody. By the way, we beat them. Anyway, what shows is that the power is within the individual. But anyway, I remember when we got the Kodak account because at the time Kodak was a big, important client. Them giving us that account was a big deal for us because it was a stamp of institutional approval. I remember the money mattered too because we would know that we were a bit more financially secure. So I remember that as a big win. I remember it so terrifically because we were asked to submit research information. We were just a small team of people.
+
+We stayed up all night with pizza and beer and all of that. I remember it so sweetly because it was the dream of making our miracle happen and pulling together. That’s the meaningful relationships part. I believe that I want meaningful work and meaningful relationships. That was that was about. We got the account and we won and that was a big deal.
+
+Tim Ferriss: Why did you guys win?
+
+Ray Dalio: I think it’s a combination of being totally unconventional and having better processes and then there’s a hell of a lot of determination. I think three things make up a successful life by and large. First, you have to have audacious goals. Big dreams. Then when you are headed toward those goals, you’re going to have problems.
+
+You’re going to deal with reality. You have to have to deal with those problems and that reality realistically, learning from mistakes, writing down those principles and the like. That’s the second part. Dealing with reality in a practical way where you learn about mistakes. Then the third is determination. Because if you’re going for your goals and you’re encountering your mistakes and you’re learning and you do that with determination, you’re going to get better all the time. You can’t help but get better. You do that a long enough amount of time, and you’re going to far exceed your dreams. My successes far exceeded what I imagined, one bit at a time. It’s just that process.
+
+Tim Ferriss: If you were to conversely look at intelligent people who are unhappy, what do you think the primary causes of that unhappiness are?
+
+Ray Dalio: I think it goes back to this notion of meaningful work and meaningful relationships. Intelligence and happiness probably have no correlation with each other. In studies, it’s repeatedly been shown and money is very little correlated with happiness. The highest correlation with happiness is community. Am I part of a community? Do I feel connections with other people? That’s been literally genetically programmed into us – it’s estimated between a million and two million years ago before we were even mankind.
+
+That sense of meaningful relationships I think is very important. If you have meaningful work, like you’re on a mission, and you have meaningful relationships, I think it’s almost impossible not to be happy. There will be unhappy moments in your life that you encounter thing or that thing, but the people who are unhappy seem to be missing those things.
+
+Tim Ferriss: I think this might be a good place to give listeners a little bit of background that they probably don’t have, which is a conversation that you and I had that I really appreciated when I was very nervous at TED not too long ago, doing a rehearsal of my talk, which explored some of my experiences with manic depression and even a close call with near suicide in college. You were very kind. You came up and spoke to me after I came offstage. I was hoping, perhaps, you could talk about some of what you shared with me and perhaps your son’s experience and what he’s found helpful in mitigating some of these darker or harder moments that he’s also had.
+
+Ray Dalio: Sure, I’d be happy to. I should say that when I described unhappiness in answer to your prior question before, I was not dealing with what also is clinical depression, which is also a different thing. It is a chemical reaction having to do with serotonin and dopamine coming in spurts and sputters and so on. There’s a physiological element that is driving it. That’s a big thing. My son, when he was about 27, filmmaker, very creative, was in his new job in Los Angeles, very excited. He stayed up all night, smoked marijuana, partied all night, very energetic.
+
+He basically went crazy. At the hotel, he took the computer that was at the reception and smashed it. The police came. He was rebellious. They beat him up and so on and so forth. We then began our journey through three years of his bipolar episodes. That was incredibly difficult and eye-opening. In retrospect, a wonderful experience. Some of the most painful experiences in retrospect give you an appreciation that you wouldn’t otherwise have. That was that experience. Ask your questions pertaining to it. I’d be happy to tell you.
+
+The quick answer to this, by the way, is he did things right eventually. He did a long of wrong things in between. But he came out of that three-year period and he became a successful filmmaker. That first movie he made was called Touched with Fire, which was a love story with Katie Holmes on bipolar. He has, through that movie and his speeches and so on, we know, saved a number of lives and also really helped to destigmatize that because those with bipolar are often very creative people. I learned that creative genius is at the edge of insanity. Anyway, what questions do you have about that experience?
+
+Tim Ferriss: I’d love to hear what your son has found to be helpful in terms of tools or resources, approaches, routines, anything that he has found to help him better navigate and manage everything that is part of his makeup, I suppose, much like it is part of my makeup.
+
+Ray Dalio: Sure. There are these really four protocols. I gave him a St. Christopher medal. On the back, I put the initials of those four protocols so that he would keep it close to him. So I know them well. First of all, the first one is T.M., those are the initials. That represented “take medicine,” and by the way, the amount of medicine that he’s taken has, because of his improvements and so on, has diminished quite a lot. But “take medicine.”
+
+It also represented T.M., transcendental meditation. Do the transcendental meditation and take the medicine. No drugs or substance use, none. Be clean. Go to bed never too late. It’s not a matter just of eight hours sleep. We have our rhythms that basically go to bed by 11:00 and maybe once a week you can be up to 1:00 in the morning. And then what we call monitoring. Monitoring is much less important to him now. But at the time, his being open about his bipolar and having people around him know and actually monitoring his behavior so that they can raise a red flag and help him deal with that if he was going in one way or another. Those were the things that were very helpful.
+
+In addition, have to be very careful about changing time zones. So if you’re flying to Europe or far away, you have to do that in a way that you pace it so that it doesn’t get triggered. As I said, he went through this. He’s now one of the most centered people I know. Happily married, given us two grandkids. It’s just been a miracle. I really do believe it’s that combination. He’s learned and shown other people that combination can work for anybody.
+
+Tim Ferriss: That’s extremely helpful and valuable for a lot of people listening. I want to reiterate something that you mentioned because I only realized it in the last maybe two years. That is going to bed earlier. I’ve always been very nocturnal, a night owl. Particularly on book deadlines and so on, going to be at 4:00 or 5:00 or 6:00 in the morning and waking up very late.
+
+That has historically absolutely been correlated with a much more severe and extended downtime. I do just want to reiterate what you said, which is that going to bed by 11:00 has, for me at least, been extremely helpful in mitigating a lot of what we’re talking about.
+
+Ray Dalio: By the way, it is so great that he is open and you are open and you can communicate it. I found out – do you know that 24 percent of the population in one form or another has been diagnosed with some form of mental illness? Some form of challenge. The brain is an organ and it has those things.
+
+Some of the most creative people – you wouldn’t know that Abraham Lincoln and Winston Churchill and Tchaikovsky, the list goes on and on of unbelievably great, brilliant, creative people, simultaneously been challenged by this. By making people aware, in one dimension or another, whether they’re dealing with somebody who has such a challenge, or to destigmatize it and realize – like I look at you – what a role model you are. By being open about that particular challenge, people can really appreciate that. We have a number of bipolar people who work here and when you know how to deal with it, there are tremendous advantages to it too. Because it’s a way of thinking.
+
+There are these mood shifts. But also an unbelievably high percentage of those people are creative, certain professions and so on. But anyway, I just want to compliment you or express my appreciation for you having this conversation and being so open with it. I’m sure you would say, as my son would, it’s very helpful because when everybody around you understands it, it’s helpful to you too.
+
+Tim Ferriss: It is helpful and I really appreciate the kind words, Ray. I should also mention that for decades, I kept this secret and close to the vest. I was very ashamed of just the nature of how my physiology worked ultimately. I was so fearful about talking about a lot of this publicly.
+
+Even the TED talk was – I had a very separate, very different TED talk that I scrapped a few weeks beforehand because I felt morally obligated to talk about this more publicly. In doing so, I felt quite the opposite of what I feared. It was actually an enormous burden and weight lifted off of my shoulders. It’s really been liberating to talk more freely about it.
+
+Ray Dalio: I understand that completely because that’s what my son does. That’s my son’s reaction. If you want to talk about it in a more serious way, I’m quite an expert on the whole thing. The best doctors. I really believe that I could probably be of some help if you feel that it’s not entirely under control.
+
+Tim Ferriss: Thank you. No, I appreciate it. To segue a bit here, so I absolutely appreciate the offer and that’s something I’ll remember. You seem like a very astute cultivator of talent.
+
+What I’d love to know if there are any particular mentors of your own who you could describe or share with us. That could be very early on. It could be in your investing career. Any mentors who come to mind and what they taught you or helped to cultivate in you.
+
+Ray Dalio: I remembered nice, kind people. Not a mentor. I couldn’t go to a mentor. But I remember somebody who, when I was caddying and he was clerking on the floor of the New York Stock Exchange, a very successful Wall Street guy and I used to caddy for him. We would talk about markets. He gave me not only advice, but there were the kindness and the caring and the direction that were helpful.
+
+I don’t know that he was an ongoing mentor, but he was a role model in many ways and did provide guidance, so maybe he was. But not an ongoing mentor. I remember teachers that served that role. But not much. Most of my learning has been from mistakes. I have a terrible rote memory, by the way. I mean, terrible. Anything that doesn’t have a reason for being what it is, I practically can’t remember. I can’t remember phone numbers, names, anything along those lines. I tend to learn not by being taught or going to my memory. I learn through my experiences and my more subliminal learning.
+
+Tim Ferriss: It seems also that you’re well-read. I’d love to actually just go back for a second to Einstein’s Mistakes. When you pick up a book like that – two questions. No. 1, how did you choose that book or find it? No. 2 is how do you read? What is your reading process?
+
+Ray Dalio: The book was given to me because people know that I like that stuff. The way I read, it depends on what I’m reading. But I will skim – and it depends on how much time and a lot of things. But generally speaking, I’ll try to go through a book pretty quickly by being able to sort out what the main ideas are from the digression. So there’s a little bit of a strategy. You know they’ll tell you the story and the story might go on for a while? It then gets to the point they’re trying to make. When I’m going through the stories, I might go quicker. I might be scanning for the top of the paragraph to get an idea what they’re doing and then go into the section that I’m most interested in.
+
+I would say I would be typically reading that way unless it is something in which it’s not that sort of a book. That there’s either something where I’m enjoying the flavor of the wording and the sentence structure and the beauty or the thoughtfulness and that I really want to take that in and I don’t want to scan. I like to get the most out of each book as quickly as I can because the number that I’m trying to go through is comparatively large. I’ve got a pile of books here sitting in front of me. They torment me. I’m very curious. I would say curiosity is a big motivator of mine.
+
+The world has got much too much to offer relative to my capacity to digest it.
+
+Tim Ferriss: What are the books that you currently have in front of you or that are sitting there like undone homework assignments? What do you currently have on the roster or potential roster?
+
+Ray Dalio: I have Sapiens. I have The Greek Hero. Michael Lewis’ The Undoing Project. The Upside of Inequality. The Serengeti Rules. From Bacteria to Bach and Back, which is about the evolution of the mind. A Magic Web. There’s a whole pile over there.
+
+Tim Ferriss: This is fantastic.
+
+Ray Dalio: I do mostly original research. In addition to looking through books and going through it, I really like to get into the data. I’m a researcher, basically.
+
+Tim Ferriss: Is there anything that you’re researching right now or that you’ve researched recently?
+
+Ray Dalio: The bottom 60 percent of the population and what the world and life and the economy are like for them. There are two different economies in the world. The averages are very misleading. The top 2/10ths of 1 percent of the population has a net worth which is about equal to the bottom 90 percent combined. I’m researching more about what that’s like. It’s quite a bleak, difficult picture. That’s the thing I’m researching right now.
+
+Tim Ferriss: What drove you to research that? Is it just to understand the implications and secondary and tertiary implications of that? Or was there something driving that?
+
+Ray Dalio: I think right now we’re in the midst of an era that’s very much like the ‘30s, in which this wealth and opportunity gap and the populism that’s coming from it and the divisions which are great, I mean, large, is a defining moment of our time. This exists around the world. If economies were to go down now, I do believe that there would be a great deal of conflict. I think that we’re seeing the conflict play out politically, not only in the United States, but you’re seeing it in different places or interactions.
+
+I think it’s the defining issue of – maybe that’s overreaching – but it is certainly one of the most important issues of our time and I mean this year, next year, the year following. Because that’s the basis of which are we going to have a conflict or where one side is fighting the other side.
+
+This is a matter of principles. We’re talking about principles again. Are the principles that hold us together as Americans greater than those that divide us? How are we going to be with each other? This understanding of all of these perspectives I think is very important at the time.
+
+Tim Ferriss: I’m definitely going to come back to a related thread on that. But before I get there, I wanted to ask you, of the books that you mentioned that you were not gifted, how did you or why did you choose any of them? Like The Greek Hero, The Undoing Project, Sapiens, From Bacteria to Bach and Back. Any of those. Why did you choose them?
+
+Ray Dalio: I would suppose that each one is different because of the themes of interest. I’m fascinated by evolution. I think evolution is the greatest force in the universe. The purpose of everything is to evolve. We, as individuals, are just vessels for our DNA that’s evolving. I’m fascinated with evolution. I’m fascinated with how the brain works. The Greek Hero is very interesting in terms of – one of the great books is Joseph Campbell’s The Hero with a Thousand Faces, which takes the character going through life and what are the attributes that different people have. So differences in values. It’s an eclectic group of interests. I’m interested in nature a lot, so I tend to – I’m also particularly interested in the ocean.
+
+I will read about nature and the ocean. These are just curiosities but they become themes, I guess. I’m not interested in cooking. I’m not interested in a whole bunch of things. So they do come in these categories.
+
+Tim Ferriss: Are there any particular books that you could mention? Don’t worry, I won’t belabor the book stuff forever. Any books – you mentioned Joseph Campbell – that have had a strong impact on your life or your thinking? Maybe a way to frame that would be, if you were – and certainly one of the books in answer to the question I’m about to pose could be your own, certainly – but if you were to give every graduating senior in college or high school a handful of books, what might you give them?
+
+Ray Dalio: The books I’d give them would be The Lessons of History.
+
+This is the Durants. They were maybe the greatest historians of all time. The wrote 5,000 Years of History, and they probably wrote 5,000 pages on it. They took this book, I think it’s 104 pages, they took the themes of history. It could be from religion, natural resources, who knows, each one of these things. They looked at it for themes of history through history. I think that would be great. River Out of Eden, by Richard Dawkins. Another very short book on evolution. It just really puts things in perspective.
+
+Again, I would say Joseph Campbell’s The Hero with a Thousand Faces. Those would be the three books that I would say that would be the combination. The beauty of particularly two of those books is it’s not going to take long to read them.
+
+The Hero with a Thousand Faces is a little bit dense, but it’s so rich, it’s a good one.
+
+Tim Ferriss: I need to get on buying those as soon as we get off the phone. Why is it – and maybe this isn’t true across the board, but whether it’s in early-stage startups or in the realm of hedge funds or [inaudible] structures or asset management, the best investors that I’ve met almost all have a fascination with evolution. Why is that?
+
+Ray Dalio: Don’t have a clue. I didn’t even know that.
+
+Tim Ferriss: Okay.
+
+Ray Dalio: I didn’t know that.
+
+Tim Ferriss: All right. Then we don’t have to dwell on it. For whatever reason, it just seems to be a pattern. There are a few maxims that I’d like to ask you about.
+
+If these are misquoted, please correct me. The first is “Ask yourself whether you’ve earned the right to have an opinion.” Can you elaborate on that?
+
+Ray Dalio: I mean, yeah. All you want is the right answer, right? There’s such a bias to think that just because you have an opinion, that it’s valuable. That’s really stupid. Right? It’s like in everything, you just want the right opinion wherever it’s going to come from. So if you gain humility, I believe that one of the greatest tragedies of mankind, individuals, is to hold wrong opinions in their head that so easily could be stress-tested to find out if they’re right or wrong.
+
+If you can sort of give that up and think, how do I know I’m right? You’re going to significantly raise your probabilities of making better decisions. That’s the big thing. There are only two things you need to do in life in order to be successful. First, you need to know what the best decisions are. Second, you have to have the courage to make them, to do what’s necessary. On the first, the greatest problem is that people just look inside their heads for their opinions where they can really get rid of the bad ones and take the best that they can get elsewhere.
+
+By doing that, by exploring different people’s views, not just their conclusions, but the reasoning behind their conclusions, they can learn such a tremendous amount.
+
+We talk about books, well, the conversations are much better than books. You can have those conversations and learn when people have differences and just pick the best opinions, right? Isn’t that sensible?
+
+Tim Ferriss: It’s definitely sensible. What are some good questions that someone can ask to explore someone’s reasoning behind their conclusions? It’s so easy for people to become charged. Are there any good questions? For those people, the vast majority are not going to operate with a Bridgewater Associates. What are some good ways to explore or investigate someone else’s reasoning behind their conclusions?
+
+Ray Dalio: I think the real driver of it is when there’s a difference of opinions. Do you have a real curiosity to understand why?
+
+It’s really through the fear of being wrong combined with the curiosity of wondering why somebody would have another opinion. That becomes the motivator. You kind of ask why and do you think that makes sense? Then come back with other questions. I think most people too often start with an opinion. There are psychological tests that show that people start with an opinion and filter information that comes to them to be consistent with their opinion.
+
+Tim Ferriss: Then you’re not living in reality, you’re living in an illusion of confirmation bias, right?
+
+Ray Dalio: Right. Besides being so damaging, it’s so much less enriching.
+
+Tim Ferriss: I think this is related in a sense maybe to another maxim that I’d love for you to elaborate on, which is “Don’t pick your battles, fight them all.” What does that mean?
+
+Ray Dalio: That’s one of the most misunderstood so I’m glad you asked me about it so it’s clear. Many things are symptomatic. Little things are symptomatic of bigger things. Under that principle, it explains if somebody’s behaving and you think that’s not a big thing, but you don’t understand why somebody would do that. It may be symptomatic of a bigger thing. It’s almost, I might say, pull every thread. As you start to pull the threads, you start to see the connections.
+
+Because you’re trying to get at what everything is symptomatic of. That’s what you’re really trying to get. What is the person like? What is that situation like? Why would it manifest itself that way? It’s probably a principle that throws people off and I probably haven’t articulated it very well.
+
+Tim Ferriss: What are some of the biggest challenges that you’ve had within Bridgewater at different phases of its development? Were there any particular forks in the road that are memorable to you where you had to improve or fix something?
+
+Ray Dalio: I’d like to start with the overarching challenge that is a constant challenge. Then we can go back to some of the actual various forks in the road. The overarching challenge is people’s two thems.
+
+In other words, think about it in this way – there are two yous inside you. There is the thoughtful you, prefrontal cortex-type of thoughtful you. Then there’s the subliminal, emotional you. You’re not aware, actually, of the subliminal, emotional you. That’s why it was Freud’s great discovery that there’s this subliminal that’s really controlling you. But you’re not in your consciousness. There are those two yous and they’re often at odds. The classic example would be, of course, something where you did something that you didn’t want to do.
+
+You ate the cake that you didn’t want to eat. Or you punched somebody or something. There are these two yous that are in a battle for each other. What we’ve observed on a constant basis is that in addition to having disagreements between people, we see that the emotional, subliminal them often can be in control of their more thoughtful them.
+
+Those are ongoing battles. That’s basically the battle. That’s the battle that almost everybody all the time is doing. Imagine how confusing it is. You have two yous within you that are battling with each other. Then somebody else you’re dealing with has two within them. It can get difficult.
+
+Tim Ferriss: Every conversation has at least four people involved.
+
+Ray Dalio: Yeah. That’s it. If you can know how to deal with that, that’s a constant struggle. The thing that we find is very few people have a problem intellectually liking what’s going on here.
+
+It’s fair. It’s honest. There’s no politics. Anybody can, in an idea meritocratic way can argue their case. It’s non-hierarchical. It’s fantastic in all of those ways. The challenges that they have are then with their emotional you reconciling with their intellectual you. That’s an ongoing challenge that’s all the time. That’s a theme, I would say, a constant theme. Twists and turns. At every phase in life, you have different challenges. Not having any money, any resources and then having to do things.
+
+For myself, you’re an entrepreneur, no money, no resources, and then having to buy the computer, rent the place, do all of that was one kind of challenge. Then you have the small team and you have those dreams. You work with them and it’s fantastic, but you didn’t have enough resources and then you grow and you have the exact opposite thing happening to you. They produce their own challenges. You have too many people. You don’t get to know each other, as well as you did before, but you have plenty of resources, but you may have the challenge of how to maintain that quality relationship with that large a group of people?
+
+We have 1,500 people at Bridgewater. How does that connectivity, that same kind of excitement and mission and togetherness that happened when we had 5 or 50?
+
+How is that maintained? That’s a new strategy. One always has these different problems and the various inflection points that lead one – the forks in the road are the points that you’re referring to. They’re the junctures you’re referring to. There are just so many of them.
+
+Tim Ferriss: What I’d love to maybe dig into is a word that gets used a lot and I’d love to hear how you define and think about “risk,” specifically. I have a quote here that maybe we could use as a jumping off point. I’m not sure exactly where it’s from. “Risky things are not in themselves risky if you understand them and control them. If you do it randomly and you’re sloppy about it, it can be very risky.”
+
+Then it goes on, their words, not yours, the key to success, their words, is “Figuring out where is the edge and how do I stay the right distance from the edge?” How do you think about risk? That’s a word that a lot of people throw around. I have a feeling that you think about it maybe in more specific terms or more clearly than a lot of folks. How do you think about or define risk?
+
+Ray Dalio: Well, I think the most important thing is there’s the risk of the ruin. The risk of being knocked out of the game. The risk of the unacceptable. Then there’s risk of the painful mistake. They’re a world of difference. I have to know how not to die, know how not to get knocked out of the game. That’s an important risk. Thinking about all the different ways that can happen and making sure all of those ways are covered in No. 1.
+
+Then there’s the other kind of risk, which is to take it. Have the experiences. I guess maybe the example would be if I was skiing come to mind, don’t kill yourself. But if you’re not falling a lot and hurting yourself a lot, you’re probably not learning. So to distinguish between when you say risk-adverse, be very risk-prone in terms of being able to have the experiences that are the learning, risky experiences that even produce some of the pains that allow the learning, but don’t get knocked out of the game. Then I think of risk is how do you do that? How do I improve my return-to-risk ratio?
+
+I know that the most important way that you can do that – there are a few ways – but one of the most important ways is knowing how to diversify one’s bets without reducing one’s returns.
+
+There are a bunch of things that are equally good and you know how to take all those equally good things, but they’re not correlated would mean that I could do a much better job. Just to give you an idea. Think of something as being correlated, like something like a bet. The way we think of that as correlation. But you could almost think of it as a different kind of bet. If it is 60 percent correlated and you start with a particular level of risk, and you add in the second and third and fourth and fifth and a thousand different items to diversify yourself, you will only reduce your risk by about 15 percent, maybe a little bit more than 15 percent if they’re correlated.
+
+If you do that with uncorrelated things, uncorrelated bets, you had 15 uncorrelated bets, you will reduce your risk by over 80 percent. So now the Holy Grail of investing, the thing that I learned, and it’s the most important, is that if I can have 10 or 15, ideally 15, but even if it’s 5, good, uncorrelated bets, that’s the Holy Grail. The Holy Grail is 15 good, uncorrelated bets because if they’re all equally good in expected return, in other words, let’s say they’re all going to have an expected return of 10 percent, by way of example.
+
+Then on average, you won’t lower your expected return because they’re all on average about 10 percent. But in terms of the risk, you will eliminate 80 percent of the risk, so you improve your return-to-risk ratio by a factor of 5. So what I’m saying is that knowing the value of uncorrelated bets is incredibly important. When you’re thinking about it as a business – I think about it basically as a betting strategy in every one of the bets that I make. But if you’re thinking about your businesses, if you can create good but uncorrelated things, that power of diversification is so much more valuable than trying to make any one bet much greater.
+
+I think about diversification. I also think that in terms of bets or raising my probability of being right, one of the most important ways of raising my probability of being right is not being confident that I’m right and being able to go out there and gather the triangulation. So something to me as a technique is quality triangulation, basically. If I can find three people – let’s say it’s a medical decision but it can be any decision – if I can find three people who are excellent experts, who will disagree with each other because they’re committed to the right answer, and I can get triangulation and also listen to their disagreements, I’m significantly raising my probabilities of being right.
+
+There are techniques like that. Humility and triangulation of great people is an excellent way of raising one’s probability of making a good decision.
+
+Tim Ferriss: I’d love to unpeel the layers a little bit on uncorrelated bets. What I’m wondering is – I think about this just in my own life with various types of investing. I’m by no means anyone with a track record like yours. The question that comes to mind for me – or observation rather, and I’d love for you to smash it to pieces if it’s not accurate – but that with a limited dataset you can, if you’re able to crunch some numbers, identify things that go up at the same time or down at the same time, so the correlation. Or that are inversely correlated.
+
+So when A goes up, B tends to go down. At what point do you consider yourself confident something is uncorrelated? It seems like you would need a much larger dataset to conclude confidently that something is uncorrelated.
+
+Ray Dalio: Well, I think there are two ways of determining the correlation that they’re uncorrelated. That is are they – you referred to the first, but I think it’s the worst, but still, has value – which is how did they move together in the past? I think the more important is to understand are they intrinsically different things? If you were going to say I’m going to invest in this Silicon Valley startup and timber in Colorado or something, you know that those are intrinsically different things.
+
+I think you can get a good sense of that by just even knowing what they are. That particular startup will have a particular thing that will make it successful. I don’t know what we could imagine it might be. But it might be having nothing to do with something else. Now I think of what are the fundamental determinants of the price movement? You don’t have to get so precise about it. I like to think it through probably in an overly analytical way. But knowing that they’re intrinsically different is good enough. Now back to your question of the dataset. It then becomes a – I’m going to give you a more complex answer than you probably want.
+
+Tim Ferriss: I love complex. Let’s do it.
+
+Ray Dalio: It has to do with a combination of sample size and environmentally biased differences. In other words, first how much sample size do you have? Is that over many years or did they have something in common that would affect them? If I have many years and a large number of samples in that number of years, I can have a higher level of reliability if I’m just looking at the numbers, than if I had a short-term period. Because correlations will change. Is it a number of years? Is it in a different environment? I have a rule in terms of most of my decision-making.
+
+It has to be timeless and universal. Timeless means if I take a period of time where the correlations or that which I’m discovering true in all those periods of time? I like to go back a long time, but let’s say you have a limited amount of data, that’s a handicap. The more data you have, the better. But still, if I change the periods – in this year was that correlation the same as the correlation in the prior year? Was the correlation the same in the year before that? The correlation, let’s say, of daily returns? Or you could have a correlation of minute returns.
+
+So timeless and as far back as you can go. I like to deal with universal. What I mean by universal is that if I have a decision rule or equities or bonds or an asset class or something, and I see its behavior, did it behave the same, the same drivers, in another country?
+
+Were the correlations, for example, between stocks and bonds in Spain similar to the correlation between stocks and bonds in Brazil? Similar to the correlation between stocks and bonds in the United States? Okay, that’ll give you more of a sense that the correlation between stocks and bonds is X than if you have just it happening in one place. Timeless and universal are just for most decisions rules that I look at. At the end of the day, I get really more comfort by being able to understand the intrinsic determinants.
+
+If I’m talking about investments. Because that’s the subject. We can talk about a lot of other things, but anyway, if I’m talking about correlations of investments, every investment is a lump sum cash payment now for an income stream in the future. If I buy a bond, I give a lump sum payment and they’re going to give me so much per month all the way for whatever the length of the bond is, 20 years or whatever that is. If I’m having a stock, it’s a lump sum payments and then we estimate what are the future cash flows? There is uncertainty about those cash flows. But you will look at those cash flows. They will all be affected by the discount rate, the interest rate, we use to calculate the present value.
+
+There will be an intrinsic reason that they will be correlated and there will be intrinsic reasons that drive their correlation. Let’s say – if I’m getting too technical, please excuse me – all of those investments are going to have the interest rate that we’re using to calculate the present value in common and therefore, that will drive a correlation between that, while the items that affect their cash flows could be different and that would then drive something that one could analyze and see that their correlations would be different from that attribute.
+
+If you break investments down and you look at what the causality is, it’s better than if you’re just looking at past numbers. But you could look at it either of those two ways; ideally both.
+
+Tim Ferriss: For those people who would like to get a better understanding of the underlying factors that affect the economic engine, so to speak, interest rate, etc., what would your recommendation be if they wanted to educate themselves?
+
+Ray Dalio: I did a 30-minute video called How the Economic Machine Works, in which everything that I know that is of most value and describes it in 30 minutes. It’s on YouTube. I’d recommend that they go there. In 30 minutes, they’ll have most of what I think is valuable and understand how it works.
+
+Tim Ferriss: Perfect.
+
+Ray Dalio: It’s a pretty simple machine. It’s like almost anything. If you think about it, most of the important things that are driving almost anything can be described pretty simply, so that’s what I attempted to do in that video on YouTube. It’s been downloaded 5,000,000 times. It’s rated highly. I think it’s helpful.
+
+Tim Ferriss: To everybody listening, I will link to that in the show notes as well so people can easily access that. Just to pose a hypothetical, because I’d love to hear how you approach it. Not necessarily if it’s a long or short decision, although it could be, just to hear how you would even go about assessing a potential opportunity. Because, for instance, I’m very primitive compared to how your operation or how you would approach investing. Living in Silicon Valley, for instance, as long as I have, 17 years now, I have an informational advantage when it comes to choosing and assessing different startup opportunities.
+
+Elsewhere, people might have an analytical or behavioral advantage or fill-in-the-blank. If you were to look at, for instance, cryptocurrency, Bitcoin, all this other stuff, how would you even begin to assess that and whether it poses a good or bad opportunity for investment?
+
+Ray Dalio: Well, everything I look at is I try to look at who are the buyers and sellers and what motivates them and what are they going to do? I break it down. I analyze. I don’t know how I would do that with Bitcoin and I don’t know that it would apply to everything. But as a general theme, if you know who the buyers and sellers are and what their motivations are, how big they are and so on, you can pretty much calculate – you can go a long way to understanding what the price is likely to do in the future. That’s very different from something like value investing.
+
+Which is something that says my lump sum payment today is this and the future cash flows over the next number of years will be this. I’m very much more driven to the buying and selling. In terms of something like a cryptocurrency, first of all, I’m not an expert on the cryptocurrencies. I would think that what I’m describing is super-important to get at because there are two purposes of a currency. Any currency is a medium of exchange or a store-hold of wealth.
+
+When we think of dollars, we use it as a medium of exchange. Or if we’re holding it as a bond, it’s a payment over a period of time and it’s a store-hold of wealth. In the case of cryptocurrencies, right now it’s not a very practical medium of exchange yet.
+
+I have my Bitcoins and I try to go spend them and it’s not easy to go spend them. Then when we think of it as a store-hold of wealth, today it’s primarily a speculative market. It’s not intrinsic value that you’re going to be looking at. It’s really thinking about who are the buyers, who are the sellers, and what they are likely to do in projecting that that’s going to be the driver of investing in a cryptocurrency.
+
+Tim Ferriss: Could you talk a little bit more about assessing the motivations of buyers and sellers? You can do it with any asset class or any kind of hypothetical, but specific example. Because I guess in my mind, as someone who’s very much junior varsity with all of this, the motivations would seem to be, at least if people are speculating, to get rich. Both on the selling side and on the buying side.
+
+How do you dig deeper than that? Any examples would be super-helpful.
+
+Ray Dalio: Every buyer has behavioral characteristics for certain reasons. If you say stocks, to use a very simple example. A typical individual, maybe a mutual fund buyer, will buy after something’s gone up because they think it’s a better investment. They’ll sell, they’ll get scared when it goes down because they’ll get scared and think it’s a worse investment. Whereas, a typical institutional investor or a pension fund will buy when it goes down because they have to rebalance their portfolio to keep an asset allocation mix at a certain level. So if they’re losing money in something and making something in another, then they’ll rebalance in a mechanical way.
+
+There are many different ways of saying who are the biggest ones? Who are the littlest ones? But most importantly, the biggest ones. What are they motivated to do? My understanding in that way, it’s important. You have a lot of different buyers and sellers in different markets for different reasons that when you examine it, it makes sense. Some stock may go public, then the owners have a window that is closed to them to sell it and then the window opens up and then they’re going to sell at that time. I’m just giving you a whole bunch of examples that one can know or attempt to know, that is more than just people wanting to make money.
+
+Somebody’s squeezed. You have a financial squeeze and they need cash so that they’re motivated to sell it because they need cash. There are lots of different reasons.
+
+Tim Ferriss: Right. Meaning a distressed seller, in the last case.
+
+Ray Dalio: Right. And to know on an ongoing basis that the market is made up of that mixture. As much as one can, it is a good way of getting a sense of that.
+
+Tim Ferriss: Very common where I’m sitting right now. I’m in San Francisco. I’ve read – and please correct me if I’m wrong – but from Tony Robbins’ book, which included you, that over a long enough period of time, anyone’s favorite asset class (I’m paraphrasing this) will decrease by 50 to 70 percent or something like that.
+
+Ray Dalio: Yeah, that’s what I said.
+
+Tim Ferriss: Okay, got it.
+
+So what are the implications, the most important implications of that from the behavioral standpoint of investors? How should that change their thinking or behavior?
+
+Ray Dalio: It goes back to the point I was making before that you can come up with a bunch of equally good investments. Generally speaking, all investments are competing. What that means is if one was clearly better than another, more money would go into it, bid up its price, and then it would be comparable, according to the marketplace and the marketplace is pretty smart and out to be successful and being tactical, you have to be better than the marketplace. That isn’t easy. Therefore, the marketplace is pretty smart. All of those assets are going to have, roughly speaking, comparable expected returns other than the surprises that will take place in the future.
+
+You have a choice. You’re either going to be smart enough that you think you’re going to bet against somebody else that they’re going to go up or down, or you’re going to diversify. You can take these assets and achieve a level of balance with those assets, that doesn’t cost you in expected return but provides you a much lower level of risk. If you can reduce your risk and keep your expected return the same, you’ve got to do that.
+
+So diversification, as we were talking about before, can allow an individual – I explained in that book – I thought, by the way, it was a great book because what Tony did was to take concepts and make them very clearly conveyed for the average reader. I explained – he interviewed me in the book – how to achieve that kind of balance so that you’re not going to have that.
+
+Because if you lose 50 or 75 percent of your money in a decline, let’s say 50 percent, that means you need 100 percent return to get back.
+
+Tim Ferriss: Right, to where you started. Yeah.
+
+Ray Dalio: You can’t allow yourself to do that. That’s the risk of ruin thing. Diversification, proper diversification, can reduce your risk without reducing your return.
+
+Tim Ferriss: There are many different ways to diversify. How would your approach differ most, if it does, from David Swenson?
+
+Ray Dalio: My approach is as I was describing it, is to balance the risks based on the two factors, the two determinants that we talked about before. What are the intrinsic drivers of those? Then also what are the timeless and universal correlations of those assets?
+
+To achieve balance. I’m always looking for a value-added, risk-reducing trade. The issue is to look at the intrinsic characteristics and achieve balance.
+
+Tim Ferriss: Where diversification can get very tricky in the world of startup investing, you mentioned, in brief, this lockup period, is where someone – I’m a perfect example of this – has made investments that are illiquid for a period of God knows how long, 7 to 12 years in some cases. What started off as a plan to have 10 percent of one’s liquid net worth invested into startups suddenly becomes 80 percent of the pie chart.
+
+Ray Dalio: Are you saying if you have an 80 percent of your concentrated portfolio in the one particular asset?
+
+Tim Ferriss: That’s right.
+
+Ray Dalio: I would urge you to find out how you’re going to hedge that thing. There are different ways that you can make that hedge. To some extent, it’s buy something. But to some extent, you might go into a contract. It could be done almost – I don’t know the nature of the particular types of investments, but if it’s a particular company with a particular profile that’ll be unique to it, the only way that you’re going to be able to hedge that is to go into some investment bank and actually explain to them the circumstances and find out a structure that they might be able to come across. It’s going to be a highly impure hedge. It needs to be engineered. It’s a very difficult thing.
+
+Because 80 percent of your net worth is tied up, you can’t have the cash to go buy something that’s going to balance it. You wouldn’t want to borrow the cash to buy something different because probably it’s correlation with whatever you’re using as a diversifier is not going to be reliable. You could really get screwed. I don’t know that I have a good answer for that.
+
+Tim Ferriss: It’s a tough one. Because like you said, because I don’t have anywhere close to the cash to take a derivative position to try to hedge, it’s very challenging. Like you also observed, the impure nature of trying to do any kind of secondary with a forward-looking promissory note or something like that. In any case, I don’t want to bore people to tears, but it’s a very common problem in Silicon Valley.
+
+Ray Dalio: It’s difficult because it’s also illiquid. So much money is illiquid. People can be real rich on paper and pretty poor cash wise.
+
+Tim Ferriss: I mentioned tactical and psychological. In a situation like this, where there is no magic answer, there is no necessarily non-obvious solution to this, it’s just a tough position to be in, where you stand to potentially lose a lot. What do you say to yourself? What’s your self-talk in a situation like that where you may just be stuck in a position that you can’t get out of from an investing perspective?
+
+Ray Dalio: Well, I think of how bad am I going to get hurt kind of thing. I’m almost think in portfolio sometimes that it’s better to take a portfolio when you have a certain amount of cash and you think, how bad am I going to get?
+
+And then you could take your risk and put it in another portfolio and separate the portfolios, rather than to blend them together so that you’re actually thinking, okay, how bad is it going to get? Also, it’s the nature of the beast and what’s the big deal? You’re going to – when it comes down to it, you’re going to have a – what can they take away from you? You’re going to have a bed to sleep in. You’re going to have food. You’re going to have friends. The most basic, good things. You’re playing the game and it’s the nature of the beast. For me, I keep thinking, what are they going to take away from me and what’s it really going to mean?
+
+Tim Ferriss: I have read there’s a book titled More Money than God, which I read a few years ago.
+
+There were a number of cases in that book of, over the long term, very successful investors who had hit a point of overwhelm or such high levels of stress that they, based on my recollection, which could be faulty, but effectively hit the reset button. They liquidated all their positions and started over. Is that something you’ve ever done? If so, how did you think about that?
+
+Ray Dalio: No, I’ve never done it because of stress. I’ve liquidated positions to take risk off the table because certain things have happened and I’d say, listen, I just don’t know and I’d rather now take risk off the table. But I do know of one terrific investor who got into a very bad mindset. He just couldn’t make anything work for a period of time. That started to affect his psychology that worsened his decision-making.
+
+What he did was he brought his positions down to such a small level that he was continuing to play the game, but with amounts that wouldn’t have that psychological effect until he could get back into that mindset and get back into the groove.
+
+Tim Ferriss: Did that work for him?
+
+Ray Dalio: That worked for him. Psychology is a big deal. Psychology is a big deal in the markets. That’s why I also find that my rule-based algorithmic type of trading – rule meaning I take a rule, a decision rule, so it’s just the algorithm – is just an expression of my criteria and then I put it into an algorithm. But by knowing how that algorithm works and having it operate next to me – in other words, I’m doing my decision-making in my way and then all my thinking is programmed into the computer so that there’s a parallel decision-making going on by the computer.
+
+It’s been fabulous because that computer ain’t got no emotions. It’s just like – I don’t know a computer chess game – and it’s great. It’s been a fabulous experience to have me and it playing the game together. Taking the emotions out of it is a real plus. I’m a meditator so I would say, I don’t get as emotional as some people do, but when you go through it – because you go through a process in which you’re thinking – let’s say something is going against you. Of course, trades will also go against you. It’s not like you buy something and from that point forward it goes up.
+
+That you then sell it. It’s not like that. If you buy something that’s good value, it might go down before it goes up. Then when you’re wrestling with okay, now do I sell it? It’s not like that’s the moment either. Every moment you don’t know whether you’re missing something or are you wrong or is it just too early? All of that psychology enters into it. You start to think about multiple possibilities. Okay, there’s more opportunity. That’s why the strategies I’m describing, the combination of diversification so no one bet is going to matter so much. So I have a casino of bets. So yeah, if I’m wrong on one or here, it’s okay.
+
+But that casino means all my games are on balance going to pay off. Then that notion of systemizing the decision rules, these things have been very helpful to me.
+
+Tim Ferriss: I think this is a great place to wrap up. I’m just going to read a small piece from your book, which I highly recommend everybody check out. Just to give everybody an idea, one of the testimonial blurbs on the book is from Bill Gates. “Ray Dalio has provided me with invaluable guidance and insights that are now available to you in principle.” I think that this is going to do a lot of good in the world and help people to make better decisions.
+
+Here’s a quick quote. “Every day, each of us is faced with a blizzard of situations we must respond to. Without principles, we would be forced to react to all things life throws at us individually as if we were experiencing each of them for the first time. If instead, we classify these situations into types and have good principles for dealing with them, we will make better decisions more quickly and have better lives as a result.”
+
+I’m very excited to see what this book does in the world. I suppose just as one of the very last questions, why did you decide to put this book out? Why now?
+
+Ray Dalio: I’m at a stage in my life where my objective is no longer to be more successful myself. I’m in a transition. I’m 68 years old and I felt that my No. 1 goal is to help people be successful without me. Having this collection of recipes that’s been built up over that period of time and passing it along so that basically everything that I know of value is in the book, frees me of that responsibility. It is what I feel as a sense of responsibility. I wish everybody would do the same.
+
+Like I’d love to know – how many people’s principles would you love to know? By the way, I’ve been speaking to a number of – I won’t use the names – but a number of very successful people. I know now that they are going to be more inclined to put their recipes out. I think it’ll be fabulous. You should write your principles. You do share your principles in many ways. But as those recipes, and you give these recipe books, and people then can compare one to another and debate them. Operating at that principle level I think is a responsibility that I have to do. It kind of frees me up to go to my next stage of life.
+
+Tim Ferriss: Well, I’ve been taking notes throughout this entire conversation. I’m going to simulate my own pain button.
+
+I have a number of homework assignments that I’m looking forward to tackling. For people listening, they can certainly learn a lot about the book and dig in at principles.com. They can find you on Twitter and elsewhere @raydalio. Is there anything else you would like to suggest or ask or encourage people to do before we wrap this up?
+
+Ray Dalio: No, just have their own principles that they believe in and be open-minded. Write their principles down. Compare them with others. Be guided by principles. Be a principled person. I would say that those things probably will help them be not only more successful, but comfortable with themselves.
+
+Tim Ferriss: Perfect. Well, Ray, I really appreciate all the time. This has been a lot of fun for me and I’ve been looking forward to this ever since we met. You’re so kind after bolstering my confidence after my rehearsal at TED. I really appreciate all of it and the work that you do.
+
+Ray Dalio: You nailed it! It was great. We were both like the same thing – nervous that we were going to do a lousy job and we both got through it well. Anyway, thank you also for your very interesting questions and the wonderful exchange. Thank you.
+
+Tim Ferriss: My pleasure entirely. For everyone listening, links to the book, to Ray’s video explaining the economy, everything that we talked about can be found in the show notes. I will link to everything at tim.blog/podcast, where you can find the show notes for this episode and every other. Until next time, thank you for listening.
+
+
+TAGS
+RAY DALIO
+	

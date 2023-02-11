@@ -1,0 +1,654 @@
+
+
+JANUARY 1, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Marc Andreessen (#163)
+
+
+Please enjoy this transcript of my interview with Marc Andreessen (@pmarca), one of the founding fathers of the modern Internet, one of the few humans ever to create software categories used by more than a billion people, and one of the few who’s established multiple billion-dollar companies. 
+
+#163: Marc Andreessen -- Lessons, Predictions, and Recommendations from an Icon
+
+Tim Ferriss: Hello, my friendly little Magwai. This is Tim Ferriss, and welcome to another episode of the Tim Ferriss show. I am very excited about this one, folks. I’ve wanted to do it for a long time. It took about a year, year and a half to set up. And, of course, every episode it’s my job to try to deconstruct world class performers to tease out the perspectives, habits, routines, favorite books, etc., that make them as good at what they do as they are.
+
+This episode, we have Marc Andreessen @pmarca on Twitter. He is a legendary figure here in Silicon Valley and, indeed, worldwide. Even in the epicenter of tech, it’s hard to find a more fascinating icon. Marc co-created the highly influential Mosaic Internet Browser, the first widely used graphical web browser.
+
+He also co-founded NetScape, which later sold to AOL for $4.2 billion with a B and then, co-founded the Loud Cloud, which sold as Ops Ware to Hewlett Packard for $1.6 billion. He is considered one of the founding fathers of the modern internet. This all makes him one of the few humans ever to create software categories used by more than a billion people, also one of the few who has established multiple billion dollar companies. He is now a co-founder and general partner of the venture capital firm Andreessen Horowitz, where he has quickly become one of the most influential and dominant tech investors in the world.
+
+Now, I want to try to keep this short, but it’s hard. And I think you’ll enjoy at least what I’m about to read. So we refer to an email in this conversation. And our conversation took place at the Sandhill Road offices of Andreessen Horowitz. We refer to an email from Marc to Ben Horowitz in exchange. And this is how it reads because we don’t dig into it in the interview.
+
+This is Page 13 in the Hard Thing About Hard Things by Ben Horowitz, which is a great book. To Marc Andreessen, this is after a media interview where Ben felt that Marc disclosed the company’s strategy prematurely. To Marc Andreessen from Ben Horowitz. Subject:  Launch. I guess we’re not going to wait until the 5th to launch the strategy. Signed, Ben. Within 15 minutes, I, this is Ben, received the following reply. To Ben Horowitz, CC a bunch of folks, from Marc Andreessen. Subject: Launch. Apparently, you do not understand how serious this situation is. We are getting killed, killed, killed out there. Our current product is radically worse than the competition. We have had nothing to say for months. As a result, we’ve lost over $3 billion in market capitalization. We are now in danger of losing the entire company, and it’s all Server Products management’s fault. Next time, do the fucking interview yourself. Fuck you, Marc. So we get into some really fun stuff in this interview that I don’t think Marc has discussed in many places.
+
+We talk about his epic debate versus Peter Thiel. We talk about all of the usual questions, favorite books that he’s gifted to other people, favorite documentaries, movies, morning rituals, what do you put on a billboard, etc. We talk about rules for investing, what he does in partner meetings to make people defend ideas or propose ideas. We take about AI. We talk about the future of Bit Coin, drones, who to watch. We talk about what he would teach in a ninth or tenth grade class, advice to his younger self, what he misses about the mid ‘90s internet, and how he might recreate it. How he thinks about or handles FOMO.
+
+It goes on and on. We really had an extremely detailed and rich conversation. And I hope you enjoy it. And please do say hi to Marc. He’s very active on Twitter @pmarca. Without further ado, please enjoy.
+
+Marc, welcome to the show.
+
+Marc Andreessen: Thanks, Tim.
+
+Tim Ferriss: I am so thrilled to be here. I’ve been hoping to make this happen for quite some time. And I figure we’ll just jump into it. So the first question is strong opinions loosely held. You’re associated with that expression. Can you explain what that means?
+
+Marc Andreessen: Yeah. So it’s kind of a mentality around how to start a company for sure. And it’s a mentality of how to invest for sure. And I think it’s a mentality that’s probably helpful in a lot of other areas of life. And so it’s kind of this – I’m drawn to paradoxes. So I’m drawn to kind of the philosophical term, it’s like a thesis, antithesis, synthesis kind of thing because a lot of people in the Valley have very strong theories. And then, the problem is they carry them too far. There’s [inaudible], so yin and yang kind of thing. And so strong views are very important. Most people do through life and, basically, never develop strong views on things or specifically go along and, basically, buy into the consensus.
+
+And so one of the things I think you want to look for as both a founder and as an investor is you want to look for things that are out of consensus. So something very much opposed to the conventional wisdom, which sounds easy, hard to do, but you want to try do it. And then, if you’re going to start a company around that, if you’re going to invest in that, you better have strong conviction because you’re making a very big bet of time or money or both. The problem is it’s a strong view, great. What happens when the world changes? What happens when something else happens?
+
+And the way the world works kind of in business and investing and other places is just when you think you have everything figured that everything changes. So the sort of system evolves, and things happen. And so what do you do when the world changes? And there what you just see everywhere, I think, in the world and everywhere in business, everywhere investing are people just hate changing their minds. You see it in politics all the time as well. People just get locked into a point of view on things.
+
+And then, you get all of these biases like confirmation bias where people feel like they have to – well, it’s the thing in politics where flip flopping is viewed as bad, right?
+
+Tim Ferriss: Right.
+
+Marc Andreessen: So take, as an example, politician who flip flops is viewed as bad and weak and probably evil. Actually, it’s interesting. If you talk to the world’s best hedge fund managers, they’re the exact opposite. They love changing their mind. I’m one of the few people who will openly admit I love spending time with hedge fund managers. I think they’re awesome.
+
+Tim Ferriss: I feel the same way.
+
+Marc Andreessen: They’re fantastic people. And they are the most open minded people I know. And they love when you tell them that they’re wrong. They get all excited, and their eyes light up. And they’re like why? Why do you think that? And they’re genuinely interested because if you’re right and they’re wrong, they will change their minds. And they’re hedge fund managers, so they’ll literally reverse the trade. If they’re long in a company, they’ll flip around and go short on it. They’re totally fine with that. And that’s how it works. And so what I carry away from that is it’s the weakly held part, which is convicted, convicted, convicted, new facts, change.
+
+But it’s a paradox or it’s attention because it’s determination coupled with flexibility like they’re antithetical. What you see in the startup world are sort of these two kinds of advice then that express this.
+
+And there are people who, with a straight face, will give both of these forms of advice without ever acknowledging they’re in conflict. One of which is fail fast. You want to fail fast. It’s great to fail. You want to discover what’s wrong. You want to fail and do something different. And then, the other is you have to be determined, and you can’t give up. Like how do you possibly reconcile those? And my view of that is that’s where you get the strong view is weakly held.
+
+Tim Ferriss: So how do you advise, in that particular example, for instance, or assess which tact founders or a company should take potentially? Because you look at some examples, let’s just say Uber or something like that, where the model, as it began, is very much similar to where it is now. And then, you have other companies like a Twitter or others where they pivot into a gold mine effectively. And then, obviously, other things have to be laid on top of that to make it successful long term. But having been in the Valley now myself for 15 or 16 years, you see a lot of people who change their mind almost too frequently –
+
+Marc Andreessen: That’s right.
+
+Tim Ferriss: With inconsequential facts perhaps. How do you think about advising a company that’s struggling as to whether they should stay the course or pivot, as they would say?
+
+Marc Andreessen: Yeah. So we see both cases, we see both failure cases. We see companies that are almost – it’s fail fasting. It’s, frankly, completely out of hand. And I’m old fashioned. Where I come from, people like to succeed. I like to say before this word pivot, we didn’t have – when I was a founder, when I first started out, we didn’t have the word pivot. We didn’t have a fancy word for it. We just called it a fuck up. And so I’m old fashioned on this. I like to succeed. I think succeeding should be the goal not failing, and certainly, not failing fast or slow or any other form of failing. So I get really kind of cranked up about this.
+
+But we do see companies that, literally, every time we meet them, they pivoted. And so every time I meet them, they’re off to something new. And it’s like watching a rabbit go through a maze or something. They’re never going to converge in anything because they’re never going to put the time into actually figuring it out and getting it right.
+
+But then, you do see the other case. And this is where the fail fast thing came from is you do see the other case. You see people who just absolutely are determined and will just pound their head against the same walls for years and years and years and years. And you admire them for their determination. And then, at a certain point, it just becomes obstinance. And then, at some point, it becomes self destructiveness. It becomes Don Quixote. You’re just tilting against windmills kind of arbitrarily. And so those are poles. We do see behavior at the poles. The question you’re asking is, of course, the key question, which is like what’s in the middle, how do you know?
+
+And, frankly, I don’t think there’s an answer to that. I think the answer is detriment. I think that’s the test. There are a couple of key tests for founders or, for that matter, investors in these kinds of decisions. I think that’s one of the really core tests is do you, fundamentally, have the judgment to be able to make that call knowing, by the way, that either way could be a big mistake. Nobody is going to tell you – you’re not going to get any confirmation from anybody that, oh yeah, you made the right call. If you change and then succeed, it’s all great.
+
+But, by the way, you might have succeeded at the old thing even better. If you change and fail, you’ll never know whether the old thing would have worked. In science, they call it the counterfactual. You never know the counterfactual. But I’m always thinking in terms of the counterfactuals. I’m always thinking in terms of the way things could have been. The world evolved in a certain way kind of as a consequence of people making all of these decisions on the fly. People could have very easily made a different set of decisions. The world could have ended up in a very different place.
+
+And so the idea that you’re ever going to know the consequence of your decision is probably a fallacy or what the alternative would have been, like the relative result of your decision. And so I just think you basically have to fall back on judgment, and you have to fall back on some sense of the intangibles.
+
+Tim Ferriss: And when you’re looking to say stress test ideas, and if we look at it in say the case of a partner meeting here, so you mentioned hedge fund managers, and I read a profile of Ray Dalio at one point, I guess it’s Bridgewater Capital. And they talked about his meetings and how they stress test ideas and how people need to defend ideas.
+
+How does a good partner meeting go? If someone say proposes, I was going to say a trade, an investment that is a substantial investment, what then happens from that point to a yes or a no decision?
+
+Marc Andreessen: Yeah. So the hedge fund manager can reverse himself. The hedge fund manager, a bad trade, the next day, he can turn around and take the opposite trade. We don’t get to do that. So when we invest, it’s knowing that we’re in for 10 plus years, basically, is our assumption. And by the way, when we make an investment decision, it’s a commitment of dollars. It’s also a commitment of somebody’s time and, by the way, the organization’s time and bandwidth. And there’s only so much of that. And then, the other thing we have in venture is, when we make a decision, we then become committed to that company in that category.
+
+And so we can’t invest in their competitors, including, by the way, their competitors who don’t even exist yet. For example, the investors in Friendster were, more likely than not, completely not only unwilling but also unable to invest in Facebook when it came along because they were conflicted because the founder of Friendster would have said you can’t invest in a competitive company.
+
+So our decisions are big decisions. And they have serious consequences for the future of the firm. So on the one hand, it’s very important to us to have a full discussion and get all the facts on the table and really kind of vet these things out. On the other hand, we’re trying to preserve the contrarianism kind of at the core of what we do, the strong, non consensus views. We’re trying to be able to invest in the things that really are unusual and odd that other people aren’t taking seriously. And one of our theories about venture capital is that everybody thinks, in investing, you either make a good investment or bad investment.
+
+I, actually, think that’s not the big issue. I think the issue, at least in venture capital, is whether you make a good investment or a great investment. And I think good is the enemy of great. We see many companies that are just fine and are just yeah, the founders are good. And the market seems good. And the product seems good. And the customers kind of like it. And they get a little revenue, and it’s kind of all fine. But those companies tend to never go anywhere.
+
+And then, every once in a while, we’ll see these companies that just have some extremely strong strengths, some extremely special, wonderful thing going on that, by the way, may have all kinds of problems and issues.
+
+But there’s something at the core of what it is that’s really special and magical. And those are the ones that we want to do. What we’re trying to do is, basically, stock our portfolio with just investments like that. And so to capture that, it would be very easy in a conversation about the weaknesses of something to beat the idea to death. And you never invest. And so the rule that we have – and then, you would only invest in the consensus ones. You’d only invest in the very good ones as opposed to the great ones. And then, you would fail as a firm.
+
+So we have to do both things at the same time. We have to try really hard to encourage the strong, non consensus thinking but also have the full discussion to make sure that we really stress tested that thinking. So the way we do it is, basically, each of our GP’s has the ability to pull the trigger on a deal without a vote or without consensus. And what we say is if the person closest to the deal has a very strong degree of positive commitment and enthusiasm about it, then, we should do that investment, even if everybody else in the room thinks this is the stupidest thing they’ve ever heard of.
+
+However, you don’t get to just go do that yourself completely on your own without stress testing your own thinking.
+
+And so it’s the responsibility of everybody else in the room to stress test the thinking. And if necessary, we create a red team. We’ll, actually, formally create sort of the counter [inaudible] force, and we’ll designate some set of people to counter argue the other side.
+
+Tim Ferriss: It’s like a debate team.
+
+Marc Andreessen: Yeah, basically, right. And then, the way that we try to – and this is fraught with there are all kinds of ways this could go wrong because what if I bring in a deal, or what if Ben brings in a deal versus the new person bringing a deal or whatever. And so, what Ben and I try to do is we do this to each other. And so whenever he brings in a deal, I just beat the shit out of it. And I might think it’s the best idea I’ve ever heard of, and I’ll just trash the crap out of it and try to get everybody else to pile on.
+
+And then, at the end of it, if he’s still pounding the table saying no, no, this is the thing, then, we all say we’re all in. We’re all behind you. And then, it’s a disagree and commit kind of culture. By the way, he does the same thing to me. So it’s the torture test.
+
+Tim Ferriss: What are some of the keys to fighting well?
+
+It seems key to many different types of relationships, personal, business, or otherwise, the ability to sort of conflict resolve or just fight well and then make up. So it seems like you and Ben have, not my words, but fought like cats and dogs, but you always kind of get over it.
+
+Marc Andreessen: We prefer old, married couple.
+
+Tim Ferriss: Old, married couple. There is a story, I don’t know if it’s accurate, about Netscape early days, something related to an interview with a journalist. Do you know the story I’m talking about?
+
+Marc Andreessen: It’s in Ben’s book.
+
+Tim Ferriss: Right. So here we go.
+
+Marc Andreessen: Including the email you’re about to reference.
+
+Tim Ferriss: So could you describe this for people who are unfamiliar?
+
+Marc Andreessen: For that, you’ve got to read Ben’s book. Let’s just say, we started out relationship with vigorous disagreement, and we’ve continued that to this day.
+
+Tim Ferriss: But how do you –
+
+Marc Andreessen: This is a family podcast. I don’t want to use it.
+
+Tim Ferriss: It’s not a family podcast.
+
+Marc Andreessen: If you want all the bad words, Ben’s book, The Hard Thing About Hard Things, it’s in the book.
+
+Tim Ferriss: And I’ll put it in the show notes. You guys got off to a very aggressive start. How did you identify that Ben was someone worth having those types of disputes with? That there was a value in what he brought to the table as opposed to just another person that you were butting heads with who was not worth keeping at the table?
+
+Marc Andreessen: So honestly, there were three things. So one is he would talk back to me, so he would argue right back at me.
+
+Tim Ferriss: He wouldn’t just go to the fetal position.
+
+Marc Andreessen: He wouldn’t just roll over. He would argue right back. And if you just observe a lot of companies over time or investment firms or whatever, there’s the temptation of everything wants to become a hierarchy. And people have trepidations about speaking truth to power. And a lot of what I’ve always found the really wise and smart leaders are trying to do is they’re trying to actually find the people in the organization who will actually talk back. It’s one of the ways to really get ahead. There are certain organizations where the way to get ahead is to talk back to the leadership.
+
+That’s how you get noticed. By the way, there are other organizations where that doesn’t work at all, and I would recommend getting out of those as fast as possible. We try to be, at least Ben and I want this organization to be one where people will actually speak truth to power and argue back at us just like anybody else, which is why he and I argue so much is because we want to set the precedent. So that was one is he would talk back to me, too, because he was often, if not always, right. And I wouldn’t say always just because nobody is. But he was very smart and very clear thinking.
+
+And then, the third thing is I saw something early in him that he was just amazing working with people, which is not something I think has ever been necessarily true of me. But just watching him in front of a group of people was just routinely magical in terms of how he could communicate with people in a very clear way, how he could be very fact base, but he could really make people feel kind of in a really fundamental way. So that combination made it clear that he was somebody very special.
+
+Tim Ferriss: So we mentioned Ben’s book, which is one of a handful of books that many, many of the best operators, founders I know in Silicon Valley routinely reference.
+
+There are a handful that come to mind. Aside from that, Four Steps to the Epiphany, I guess, would be one. This one here that was right in the lobby of your office, High Output Management, with a new forward by Ben Horowitz, is another which went out of print and then came back into print because it became a bit of a cult classic here in Silicon Valley. Are there any books that you would prescribe to say a would be entrepreneur coming out of college just to increase the likelihood of them succeeding? Are there any other books that come to mind?
+
+Marc Andreessen: Yeah. So High Output Management is one of Andy Grove’s books. It’s the best book on management ever written. He wrote another book called Only the Paranoid Survive, which is one of my favorite topics. And so that is also a very good book we recommend. Ben’s book is good. I think Peter Teal’s book is self recommending and is an excellent book, Zero to One. And then, there are a bunch of others that are good.
+
+Really though, I think, where I got a lot of my education from was reading history. And so I would go back and rather than reading a lot more about the contemporaries, I would go back and read about Edison. I would go back and read about Ford, Rockefeller, JP Morgan. Maybe it’s just me, but I find the period of kind of call it 1870 to 1920 or 1930 really interesting because you have sort of the arrival of many of the technologies that kind of built the world that we live in today.
+
+Tim Ferriss: A disruptive period.
+
+Marc Andreessen: Yeah. And I always find history is, where I didn’t really study history in college or anything, but I find history is this weird thing where the way that you’re taught history in high school, it’s all of these legendary people. And they’re kind of all Olympians and the founding fathers and these great generals or whatever. And it’s like you got the names, you got the dates. And they did these amazing things. And they feel unrelatable. At least where I come from, to even think that you could have anything in common with these people was not something that ever occurred to anybody like the Pantheon kind of the legendary people who have lived.
+
+And I just found the really well written biographies that get you inside of the heads of what it was like to be Walt Disney at age 20 or what it was like to be Carnegie or Mellon or Ford, or what it was like to be, for that matter, William Randolph Hearst or people we’ve all heard of. The really good biographers are really good at getting inside of the head of what it was like to be them then before they became the people who ultimately made it into the history books. And, honestly, a lot of things have changed. But a lot of things haven’t changed. Like people haven’t changed a bit.
+
+And so I always find that, in those histories, you can always see that personality type, yeah, I know 13 people like that. And so I find that there’s actually a lot more to template against and a lot more to kind of think about than people give history credit for.
+
+Tim Ferriss:   Oh, definitely. I had Cyrus the Great recommended to me. I guess that’s [inaudible]. And people don’t change. You see the same archetypes. And you’re like oh, that’s Bob, my co-worker.
+
+He does the same thing. And the biography mention made me think about Walter Isaacson’s book on Ben Franklin who was always sort of untouchable in my mind. But it included all of his foibles and challenges and self doubt. And it really humanized it in a way that actually made me aspire to do bigger things. If you wanted to get someone hooked on biographies, is there any particular book you would recommend?
+
+Marc Andreessen: Oh, there are a bunch. The Walt Disney biography, one of our founders, Brian Chesky, the founder of Airbnb, Walt Disney is his hero. And so he’s gotten me even more deeply into that. So the author, Neal Gabler, who has written the best biography on Walt Disney. And it’s a phenomenal book. Another one I really like, coming out of left field, but there’s Charles Schultz is the creator of Peanuts. The Schultz biography is amazing. And, basically, the biographer makes the case that Peanuts was the longest, continuous work of American art ever made.
+
+It was a 60 year art project with deep foundations in American history and psychology and philosophy. And it’s sort of the reflection of the life of the person who made it. And, of course, Peanuts was a great entrepreneurial accomplishment because it was this very personal thing. But, at the same time, it became this gigantic business success. So I think that one is great. The Wizard of Menlo Park is a great biography of Edison. And Edison was kind of proto Silicon Valley in a lot of ways. And I think he’s really interesting. His record has sustained innovation in many, many different areas and how he then went out to try to commercialize things.
+
+The good news is we are much better at the commercialization part now than people were in those days. We know how to build the companies much better now. But he would just routinely invent things like the phonograph because it was just obvious to him. And he did that for decades. He was the fount of innovation.
+
+And it’s a very inspiring story.
+
+Tim Ferriss: The Netscape story, we touched on it very briefly. And there are many places people can read about that, so I don’t want to take up too much time. But on a related note, I wanted to ask is there anything you miss about mid ‘90s internet?
+
+Marc Andreessen: Oh, yes.
+
+Tim Ferriss: And what would it be?
+
+Marc Andreessen: So when I got to the Valley in 1993/1994, I thought I had missed the whole thing because I thought the PC, I had studied the history. And I used all of this stuff in college. And I knew Apple and Microsoft up in Seattle, but Intel down here. And then, all of the big software companies at the time, Novell, Lotus, and all of these companies, EA, the gaming companies. The great PC companies had gotten built in the ‘70s and ‘80s. And by the time the ‘90s arrived, the PC was done. It was finished, and you could go buy one, and it was great. But it was done.
+
+And, in fact, the overwhelming mood in the Valley when I arrives was that the PC was done and, by the way, the Valley was probably done because there was nothing else to do.
+
+And then, there was this moment where I and various people and then more people and then more people, for whatever reason, it was kind of like we’ve really wrapped our heads around the implication of the internet, which, today, seems obvious. But, at the time, it was a very contrarian – when I got to Silicon Valley, if you said the internet will become a mainstream consumer medium that 3 billion people are going to use worldwide for all forms of human activity, you would have been laughed at. You would have been institutionalized. Here, people would have laughed at you.
+
+And so as we figured that out, then, what happened was it was like, okay, new frontier. And it goes back to kind of the history thing. For a long time, the development of the United States, the new frontier was whatever was further west. And then, eventually, they got all the way to California. And then, they had the gold rush. And then, there was this famous kind of theme in American history is the closing of the frontier. It’s the theme of every western. Every revisionist western that gets made is like there’s no more frontier. The radicals can’t go any further west. They’ll drown in the ocean. So instead what we have is we have kind of virtual frontiers.
+
+We have intellectual frontiers, or we have creative frontiers, or we have entrepreneurial frontiers, technological frontiers. And so the internet kind of represented the opening of a new frontier. And once we recognized that, it was like a-ha, brand new. And then, at that point, that was where all of the enthusiasm came from because it was at that point of, okay, if that’s going to happen then, what do we have to do? And at that point, the list becomes very exciting. We have to do e-commerce. We have to do online publishing. We have to do transactions. We have to do social networking. We have to do auctions.
+
+We have to do all of the big franchise companies that came out of the next 10, 15 – we have to do search. All of the ideas kind of immediately materialized. And then, it was off to the races.
+
+Tim Ferriss: Is there anything comparable right now for you?
+
+Marc Andreessen: So in my view, there always is. The thing is these things look like cults and fringe activities until they break mainstream. And so for me, it’s not – so for example, the mobile rush, basically, since the release of the iPhone, the mobile rush qualified for this. The social networking rush kind of post Facebook qualified for this.
+
+And those are kind of known and well understood. And it’s just straight entrepreneurial opportunities, probably, generally, kind of reaching some level of saturation. A slight digression, we don’t foreclose the possibility that there will be another mobile killer app or another social killer app. But it’s getting harder and harder and harder because more and more people have figured out that you can do these things. And then, the winners have now got very established. One of the ways we think about it is, first, you had Facebook, and then, you had Twitter, and then, you had Instagram, and now, you have Snap Chat.
+
+And those all became big winners. Now, what would it take to make the fifth one? Well, there are only so many icons on the home screen of the phone. The fifth one has to knock one of the other ones off. And so it’s become, as these markets saturate, more of a zero sum game. Or even smart phones. Smart phone is a giant industry. But unit volumes, globally, are now expanding at like single digit percentages. And so the smart phone industry is becoming one that’s mostly people competing directly with each other not creating new things.
+
+And so we would say those opportunities, those businesses are gigantic, and those companies will get much bigger. But there’s not as much entrepreneurial opportunity. The opportunity is more likely to be in the areas that people think are cult and fringe.
+
+Tim Ferriss: Will there be some examples?
+
+Marc Andreessen: We call our test on this what do the nerds do on nights and weekends? Their day job is I work at Oracle, or I work at Salesforce.com or Adobe or Apple or Intel or one of these companies, or not. Or I work at an insurance company, or I work at a bank or whatever, or I’m a student. Whatever. That’s fine. They go do whatever they need to do to make a living. The question is what’s the hobby? What’s the thing at night or on the weekends? So then, things get really interesting. So then, you look at like things like Crypto Currency, Bit Coin. You look at things like a lot of the new advances.
+
+There’s a whole area of health hacking, quantified self is a very interesting new area. There’s food. You’ve actually been part of the catalyst for this. But there’s this whole area of scientific food and food hacking that’s emerging. There is a revolution actually happening I think in robotics because robotics has finally become something tractable where people can do it at home.
+
+There’s AI. Deep learning is right on the tipping point. As a hobbyist, you can now download this thing called TensorFlow from Google, which is a deep learning framework. It’s a framework in the field of AI. It’s for how computers can kind of deal with the real world and do things like self driving cars or self flying drones or all of these things. This is technology that, five years ago, it didn’t really work. Two years ago, you would have had to have been an employee at one of three or four big companies to have access to this technology. And then, Google just open sourced it.
+
+And so now, anybody in the world can download it and run it on their own computer. So all of a sudden, AI is like a tractable thing that you can just have on your own laptop, and you can build new things on top of it. If you want to build a bot, you can build a bot. We backed a founder who had literally built himself his own self driving car.
+
+Tim Ferriss: I read about it.
+
+Marc Andreessen: George. And by the way, him you should interview. But literally, one guy can now build a self driving car.
+
+Ten years ago, this was like a DARPA funded, grand challenge research project. Five years ago, this was a team of 1,000 at Google. And now, it’s George. And so that’s an example of the kind of thing where it just looks like it’s going to tip. And then, there’s one George today. There will be 1,000 Georges tomorrow.
+
+Tim Ferriss: Do you think the dangers of AI that some people talk about are overblown?
+
+Marc Andreessen: Completely, 100 percent, yes.
+
+Tim Ferriss: Can you elaborate?
+
+Marc Andreessen: All of the many things I worry about, the machines rising up and killing us –
+
+Tim Ferriss: Luddite fallacy.
+
+Marc Andreessen: Actually, it’s related to the Luddite fallacy. It’s sharply related. It’s the Promethean fallacy. There is something deep seeded in human psychology where we are always going to invent the thing that’s going to kill us. Fundamentally, we’re going to unlock the power of the Gods. It goes back to the Promethean myth. It’s almost like the concept of original sin. It’s like fire. The big moral of the Promethean myth was fire is the thing that enabled him, and civilization is also the thing that’s going to burn everything down and kill us all.
+
+This is very deeply embedded in our psychology. Frankenstein. The subtitle of the novel, the subtitle was The Modern Prometheus. Frankenstein was a reinterpretation of the Promethean myth, except, in this case, it was literally the monster that was stitched together and then brought back to life through, literally, unholy science. And then, there are even religious versions of it. In Jewish literature, there’s the concept of the golem, which is the creature made out of mud that rises up out of the ghettos of Warsaw or something to kill all of the enemies and then come back, and then, it kills all of the people who created it.
+
+So this is very kind of core – John Henry, the steel driving man. John Henry is the famous song or the sort of story about the railroad worker. And there’s the machine that can hammer in the railroad spikes faster than a human can. And John Henry’s famous showdown between him and the machine. And of course, he wins and then drops dead of a heart attack. And it’s critical in the myth that he drops dead of a heart attack because technology has to get its revenge.
+
+And so it’s just that projected forward. And the reason I’m so confident on this is because it’s just every single era of technological advance, this has always been the response. There’s always been this line of thinking. And then, it turns out it’s a tool. It’s a technology. It’s a tool. It’s something that helps us do things in a better way. It’s overwhelmingly to the benefit of mankind. And then, we wonder why everybody got so worked up over it.
+
+Tim Ferriss: So if we put aside the existential threat piece, the summoning of the demon conversations, if we put that aside entirely, how would you answer someone who worries about job displacement of AI? Because there are some, I think, reasonably smart people who are very fearful of what will happen to society when people are massively displaced. How would you encourage them to think about that?
+
+Marc Andreessen: Yeah. So let’s crystallize the concern. So the World Economic Forum came out with this thing last year that kind of freaked a lot of people out. And they said there will be 5 million jobs destroyed by 2020 by AI.
+
+So let’s run the numbers on that. So that sounds like a lot of jobs. That’s a lot of people. That sounds like a lot of jobs. So then, you look at the American economy just this year, 2016. And we don’t quite have this AI thing working yet. So we can’t blame what I’m about to say on AI. This year, the American economy will destroy 21 million jobs and create about 24.5 million jobs for a net add of about 3.5 million jobs is about the pace we’re on. And that’s this year. And so we will destroy, in the next three months, more jobs than the world economic forum projected will be destroyed by AI over the next five years.
+
+Why don’t people know this? Why is this not obvious? Because whenever you read new stories about job growth, the numbers quoted are always net numbers. So last month, 200,000 jobs, 250,000 jobs got created. And so but those are net jobs. Nobody ever reports the gross numbers. The gross numbers are we destroy more than 5 million jobs a quarter, and we create more than 6 million jobs a quarter, basically, quarter in and quarter out. And so one is people just dramatically underestimate the size and complexity and churn in the American economy as it currently exists.
+
+Another example that would be there is it turns out there are about 5 million people who drive professionally in the US. And so one of the questions with self driving cars is what’s going to happen to the truck drivers and the taxi drivers and everything else? Again, 5 million jobs. Every quarter, we redeploy 5 million people. In the scope and scheme of the American economy, it’s a totally doable thing. The other thing that people don’t appreciate and understand I find mind blowing, which is would you guess, based on everything that people say, that the rate of job creation and destruction in the American economy is rising over time or falling over time?
+
+Tim Ferriss: This seems like a test I’m bound to fail. I don’t have an informed opinion.
+
+Marc Andreessen: Well, I think most people would guess that it’s rising. The view is that technology is having ever greater impact. And so change feels like it’s accelerating. The big theme in the political scene is it feels like the world is kind of getting away from us. Technology is getting away from us. Trade is getting away from us.
+
+Basically, dramatic changes are happening that are historically unprecedented is kind of the feeling. So if you do a poll, almost everybody believes –
+
+Tim Ferriss: It’s definitely being the perception being created.
+
+Marc Andreessen: Right. Almost everybody believes that change is increasing, change is accelerating. Actually, it turns out, in the American economy, the reverse is happening. The rate of both job destruction and creation are falling and have been falling for decades. Like over the last 50 years, they’re not dramaticized down, but they’re, basically, very [inaudible] down. So basically, what’s been happening is, in fact, every year, the American economy gets less dynamic. And you might say oh, that’s good because that means that you’ll have stability.
+
+That means people won’t have to change jobs and all of that stuff. I would argue that’s bad because, what that means is we’re not creating enough opportunity. And if we’re thinking about the future, I think we want to think about opportunity. We want to think about what we’re going to be able to do in the future, and we want to think about what our kids are going to be able to do in the future. What will be the new fields, the new sciences, the new forms of art, the new industries, the new businesses, the new companies, the new jobs that will get created?
+
+Every job that we all have, and everybody listening to this podcast has, got created as a consequence of the process of change, which has been very positive to literally everybody on planet earth.
+
+These have been very, very positive changes in terms of increase in human welfare and opportunity. And so the idea of living in a world where change is becoming less rapid, which is what’s actually happening, to me, that would be the problem. We should want more change. We should want more change because we should want more advances because we should want more opportunity to get creative. We should want more products and services in our lives. We should want more industries created. We should want more medical advances. We should want more advances in art and science and every other field of human activity.
+
+And, basically, the way I view it is we have to fight to get that as opposed to what everybody thinks, which is we have to fight to prevent that.
+
+Tim Ferriss: What’s the smartest way to fight to get that?
+
+Marc Andreessen: If you were willing to go into politics –
+
+Tim Ferriss: Sure, I’m willing.
+
+Marc Andreessen: When you run for office, I will help you put your platform together. Short of that, I think the thing to do, I mean, I think the Valley view and I guess my view is, do what you can to directly contribute to it.
+
+And so do what you can. Do what you can to either try to create the new things, try to create the new products, create the new art, science, technology, products, consumer goods. Create new things. Create businesses around those things. Create companies. Or for that matter, by the way, nonprofits. Create organizations or models that can let things scale so that they can touch more people. And then, a big part of our role is fund them. Fund them and support them and help enable them and train them and get them up and running.
+
+Tim Ferriss: You mentioned, for instance, when you first got to the Valley, there was a feeling on the part of many people that it’s done. These things are finished. I missed the boat, kid. Now, in the venture capital world, there is a term used fairly often, FOMO, fear of missing out. How do you think about or handle FOMO yourself?
+
+Marc Andreessen: Mostly, we just fall right for it. We’re probably just total suckers for it. So fear of missing of out, where fear of missing out comes from, it’s clear and visible signs that something has happened that you’re not a part of.
+
+And so it’s not FOMO of something that hasn’t happened yet. It’s FOMO of something that’s clearly, obviously, happening.
+
+Tim Ferriss: Which, for those people not in the tech investment world, comes in a concrete form. Just as maybe a mundane example, like an email from a founder, hey, we’d love to squeeze you in. We’re overcommitted. So and so and so and so is in. Can you get us docs by tomorrow, if you’re interested? I mean, there’s a lot of sort of cult, cortisol driven emergencies some of which may be real, many of which are illusions.
+
+Marc Andreessen: Yeah. And so I guess there are kind of a couple of ways to handle it. One is you view that as a sign of success. You view that as what it appears to be, which is like the train is leaving the station, and do I want to be on the train or not? That strikes everybody as so clearly wrong. Like that must be wrong. That must be just foolish behavior, which is why it’s been encapsulated into this term called FOMO that’s kind of designed to sound scary.
+
+Like that must be a stupid thing. A lot of people will, at least, say that what they try to do then is kind of take the cynical kind of counter theory, which is like then, by definition, those are probably bad ideas because you’re probably getting played, or you’re probably a sucker along for the latest scam, or the opportunity has passed. Or if it was a good opportunity, why would you be asked to participate in it? And then, you go to the other cynical side of the pole, which is now, and there are certain VC’s who do this, by the way, I’m not ever going to invest in anything hot because it’s going to have that characteristic. So I’m only going to invest in things that aren’t hot.
+
+Tim Ferriss: The uncrowded trade.
+
+Marc Andreessen: Yeah. The thing that nobody else is interested in, and for old companies, we call it value investing. For new companies, we just call that cold sector. It’s just an area in which nobody is interested. And so by the way, I don’t think, in any way, that’s a dumb conclusion. And there are investors who do that, and it works very well for them. My personal preference, what I try to get us to do around here is to just eliminate this as a variable all together and, literally, just not think about it.
+
+And so, if it’s urgent, and we have to invest tomorrow, and then, if they may or may not ever be able to raise money in five years. But I try to get us to do is just ignore that part entirely and, basically, just take that out on both sides, both the hot and the cold. Just take it all out. And then, try to get to the actual thing. Try to get to that yet. So what is it really, this specific company doing this specific thing with this specific technology and these specific people at this specific time? What is that thing? And let’s make our own evaluation of that thing independent of whether it’s hot or cold.
+
+And then, if it makes sense, we’ll invest. And if it doesn’t, we don’t. But we won’t factor in whether it’s hot or cold. Now, the challenge, actually, we’ve worked on this over time, roughly, on average, the things that are hot are priced somewhere between two to four X higher than the things that are cold. At the extreme, from the coldest cold to hottest hot is about four X. And in investing terms, if it’s super hot, it could be 40 pre. If it’s super cold, it’s 10 pre, and for the same fundamental quality level.
+
+And a big part of our answer is, okay, fine. It’s fine. If we’re going to invest, we’ll invest on market terms. If the market terms are 10 because it’s cold, we’ll invest there. If the market terms are 40 because it’s hot, we’ll invest there. But we’ve made our own decision about whether to invest or not. So we just try to strip it away.
+
+Tim Ferriss: Got it.
+
+Marc Andreessen: By the way, easy to say.
+
+Tim Ferriss: Easy to say, hard to do.
+
+Marc Andreessen: Hard to do.
+
+Tim Ferriss: Are there any particular investors outside of venture capital who impress you?
+
+Marc Andreessen: Yeah. So when I study other investors, I either study the people we compete with and collaborate with very closely, I particularly study the value investors on the completely other side of the spectrum. And it’s a fascinating, and I’ve gotten to know some of them directly, kind of thing. Sort of Warren Buffet is the archetype. But also, there are now a lot of famous Valley investors, Seth Klarmon, and a bunch of others that have kind of written books and kind of built up this –
+
+Tim Ferriss: Seth Klarmon is a smart guy.
+
+Marc Andreessen: Yeah. This whole kind of theory of value investing that goes back to Ben Graham in the 1920’s/1930’s. And so there’s this whole world of value investing. And on the one hand, there’s no overlap between the worlds because I like to say, basically, anything Warren Buffet is willing to invest in, we run screaming in the other direction and vice versa.
+
+And that’s as it should be. Basically, he invested in like Heinz Ketchup. And the reason he invested in Heinz Ketchup is because people have been eating Heinz Ketchup on hamburgers for 100 years. And, therefore, the best guess would be that they’re going to continue to eat Heinz Ketchup for the next 100 years. We run screaming from that.
+
+Tim Ferriss: You’re not going to invest in See’s Candy?
+
+Marc Andreessen: No. No. Absolutely not. And, furthermore, every time I hear a story like See’s Candy, I want to go find the new, scientific, super food, Candy Company that’s going to blow them right out of the water. So we’re wired completely opposite in that sense. Basically, he’s betting against change. We’re betting for change. And that’s a very, very big – when he makes a mistake, it’s because something changes that he didn’t expect. When we make a mistake, it’s because something doesn’t change that we thought would. And so they could not be more different in that way.
+
+But what both schools have in common is an orientation towards, I would say, original thinking of really being able to, kind of going back to the previous conversation, willing to really view things as they are as opposed to what everybody says about them or the way they’re believed to be.
+
+Like value investors are always talking about getting to the core of the truth of what’s actually happening in the business. And then, the other is long term. Value investing is the only other place in the market anymore where you can find long term investors. Buffet will actually invest in a company. And he will hold it for 40 years. And that does not happen elsewhere in the market. It’s only the deep value guys who will do that.
+
+Tim Ferriss: It’s funny that, at the extremes, they have that in common.
+
+Marc Andreessen: Yeah. That’s right. Yeah.
+
+Tim Ferriss: You were talking about creating opportunity. If you decided to close a chapter on your career as a venture capitalist, a funder of ideas, a catalyst, and you had to teach a class, so let’s just say ninth grade or freshman year in college, 50 students, what would you teach?
+
+Marc Andreessen: I would be highly inclined towards teaching people how to build things. There’s a book I’ve actually never read, but I love the title.
+
+Tim Ferriss: What’s the title?
+
+Marc Andreessen: It’s called Smart People Should Build Things.
+
+Tim Ferriss: I do like the title.
+
+Marc Andreessen: I almost don’t even want to read the book because, after that title, almost anything it says is going to be a letdown. But the title is absolutely brilliant. It’s one of my two favorite titles.
+
+Tim Ferriss: What’s the second one?
+
+Marc Andreessen: The second one is, I have read this one, Steve Martin’s autobiography. It’s a fantastic life.
+
+Tim Ferriss: Oh, My Life Standing Up?
+
+Marc Andreessen: Actually, sorry, it’s not the title of the book. It’s called My Life Standing Up is the title, but the main lesson of the book; he says the key to success is “be so good they can’t ignore you.” And I think if you just have those two principles like smart people should make things and be so good they can’t ignore you, that’s a pretty good way to orient.
+
+Tim Ferriss: The autobiography is amazing, also, just as a side note. I listened to the audio book.
+
+Marc Andreessen: He’s a comedy genius. But more than that, it’s like the Schultz thing. It’s like the level of thoughtfulness that he put into how it constructed his career. Nothing about his career was an accident, which I thought was fascinating. Anyway, I think it would how to make things. And by the way, I don’t necessarily even just mean just offering new computer programs but how to make things more broadly.
+
+Again, it goes back to how to make new art, how to make new science, how to make new technology, how to make a new company.
+
+Tim Ferriss: How would you teach that?
+
+Marc Andreessen: Projects.
+
+Tim Ferriss: Hands on projects. So you would have said an art assignment. You would have a science/engineering assignment of some type.
+
+Marc Andreessen: Yeah. Or you have an objective. You’d be trying to construct something. It actually turns out one of the reason why computer science has advanced so fast in the last 30 years is because people can make new things on computers without anybody’s permission. And so it lends itself very well to that. But people can also write books without anybody’s permission. And they can also write music without anybody’s permission. And they can also start companies mostly without anybody’s permission in most industries. And so basically, just anywhere where you can actually, yourself, create something new, make something new.
+
+And then, I vary a little bit from [inaudible]. I find making something new that, for sure, there’s part of it. But everybody wants to say it’s creativity. And so therefore, it’s like you want to do something new, have an original idea.
+
+But, again, that makes people feel like it’s an unattainable thing. It’s like how am I possibly going to come up with a new idea in a field where people have been working in it for 100 or 200 years? It just seems implausible. So and I think the great artists and the great scientists and the great business people often have this in common, and it just goes back to history, which is okay. For whatever it is you’re going to make, learn about how things got made in the past and get inside the heads of the people who made things in the past and what they were actually like and then, realize that, actually, they’re not that different from you.
+
+At the time they got started, they were kind of just like you. Steve Jobs said it great. He said, I think in his famous commencement speech, he said, “Everything in the world around is made by somebody who is no smarter than you are.” And so there’s nothing stopping any of the rest of us from doing the same thing. And so I think that would probably be what I would try to do.
+
+Tim Ferriss: Maybe a boring left turn, but I’m interested to ask, and that is what are the companies or who are the people you’re watching most closely in AI, drones, and Crypto Currency?
+
+Marc Andreessen: So we have a bunch of companies that we’ve put our – conflict or interest or put your money where your mouth is, we have both. We have lived up to both principles. So we have two drone companies that I think are spectacular. So Air Ware was our first drone investment, commercial drones, which turns out is going to be just a giant market in industries, oil and gas, and insurance, and all kinds of implications. But what the people are going to see, I think, in their day to day lives is going to be more the other one, which is called Sky Deal, which is a company we back doing autonomous consumer drones.
+
+And this is going to be a very big advance in what you can do at the kind of hobbyist level.
+
+Tim Ferriss: What does an autonomous consumer drone do?
+
+Marc Andreessen: Well, whatever you tell it.
+
+Tim Ferriss: Got it. Okay.
+
+Marc Andreessen: And so they haven’t rolled out the product yet. So I don’t want to spoil too much of the surprise.
+
+Tim Ferriss: Sure.
+
+Marc Andreessen: But it’s, basically, a drone that can full fly itself. It doesn’t require remote control. And so it can be given assignments. And it will go carry out those assignments.
+
+And it can fly through tree branches. It can fly through power lines. It can fly through underground parking garages without any collisions. It can pilot itself, which is, if you’ve tried flying any of the current drones, they don’t work that way.
+
+Tim Ferriss: Hard to do.
+
+Marc Andreessen:    Yes. It’s an exercise in how quickly you crash it. And that technology is about to tip and become very widely useable, and so that’s very exciting. So there’s that.
+
+Tim Ferriss: I’m sorry to interrupt. Commercial drones for insurance, give me an example.
+
+Marc Andreessen: Yeah. Residential insurance you get an insurance inspector. New construction, you’re remodeling or building a new house. And the insurance company is going to insure it. They do an inspection. The inspection involves a person climbing up on the roof and, hopefully, not falling off and taking a bunch of notes on a clipboard and writing up a bunch of stuff. And it, actually, turns out to be a fairly dangerous job. Or another example, cell tower inspection. There are all of these cell towers. There are 30,000 or something cell towers in the US.
+
+They all need to get inspected. Inspection, literally, is a dude on cables. And some of these are big towers. And then, you get to oil and gas. You get to a drilling rig. You got to inspect that thing. Okay, try climbing up to the top of an oil and gas rig. These are dangerous these.
+
+Tim Ferriss: Lethal professions.
+
+Marc Andreessen: Yeah. And but what if you could just fly the drone? What if you could, literally, do the entire thing by air? What if the inspector just rolled up to the house and just took the drone out of the back seat and just launched it up in the air, and the drone flies a pattern above the house, takes comprehensive 2D photographs of everything, and then, creates a 3D representation from the 2D photographs, which you can now do, and then, does all of the recognition, elevations, everything, materials, figures everything out. And then, the inspector is sitting in the driveway in the car with the air conditioning on in no danger.
+
+Tim Ferriss: Safe and sound.
+
+Marc Andreessen: Yeah. And so that kind of thing. Or I’ll give you another. Nobody is doing this yet, but somebody is going to. So if you’re a cop on the beat, 2:00 in the morning, and you get a call that there’s a convenience store and somebody has broken into the convenience store.
+
+You have to go do the check. The check involves going and seeing the lights and all of this stuff and broken glass. But you also have to check the roof. And checking the roof is, actually, a very important thing because if there is a bad guy, and they saw the cops coming, they might have climbed up on the roof, and they might have a gun, and they might shoot at you. And so you’ve got to go clear the roof. And so what do you do? You get your flashlight and your gun, and you climb the ladder, and you poke your head up, and you hope that nobody is on the roof.
+
+Tim Ferriss: Hope no one plays whack-a-mole with your head with a revolver.
+
+Marc Andreessen: Yes, exactly. And so what could we do to help that? How about every police car have a drone in the back seat, and you get to the thing, and from a safe distance, you launch the drone. And the drone does an infrared camera sweep of the roof right before you even walk up to the thing. And by the way, if there’s a bad guy on the roof, what if the drone recognizes there’s a person on the roof, and what if the drone locks onto that person and then just, basically, follows that person wherever they go? And they rabbit. They run for it. And the drone is right there 10 feet above following them the entire time. So all of a sudden, just the job of cop becomes a lot safer.
+
+And this, by the way even goes back to the question you asked, which was like isn’t AI a threat. And it’s like no, no. This is a case, the way those drones are going to work is powered by AI. This is all based on deep learning. This is this new technology, this new AI. It’s the same technology, by the way, that was just used in that Go in the famous now Go thing where the Google AI beat the human player. It’s the same technology. It’s just going to get used for drones. And these are going to be things in our lives that we’re just going to be able to rely on to be able to make our lives safer and better.
+
+And we’re just going to take them completely for granted. And we’re going to work in combination with them. And we’re going to be really glad we have them. And we’re going to be completely unwilling to go back to a world where we didn’t have them. And it’s just going to be obvious. It’s just we have to get this stuff in people’s hands because they can really, I think, really fully see it.
+
+Tim Ferriss: What do most people not understanding about Crypto Currency?
+
+Marc Andreessen: A couple of things. So this will not come as a surprise to you. I thought I understood it, and I really didn’t. Money gets people really cranked up.
+
+Tim Ferriss: Yes, it does.
+
+Marc Andreessen: The entire concept of money is probably, maybe after God, it’s like the single most emotionally loaded concept that we have in humanity. Like money just makes people mad under any circumstances on any topic related to money. And I think it’s just because it’s just something that we all rely on, and it’s something that we always think of as there’s always a sense of unfairness. And so money gets people really cranked up. And so I think there is sort of the idea of Crypto Currency and block chain and this kind of new idea of distributed trust on the internet.
+
+And then, there is this application of that technology, which is a very fundamental application, which is a new kind of money. I think most people are unable to just simply, objectively, dispassionately look at the mechanics of how it works without almost getting preemptively upset, like just angry. How dare the nerds come up with some new form of money? There has got to be something wrong with this. And I will now attempt to find the 30 possible things that could be wrong with this until I find one that, basically, proves that this can’t possibly work because, obviously, it violates the laws of nature and government and whatever, whatever.
+
+And somehow, I’m going to come out on the wrong side of this. And by the way, I’m not even just talking about like regular people. I’m talking about bank CEO’s just are furious. You bring up Bit Coin, and they just get really upset. And I’m like did you get upset about your new toaster? It’s just a technology. It’s just a thing. And you can study it, and you can learn about it, and you can think about it. And you’ll either conclude it’s good or not. But it’s not going to bite you. It’s just a thing. And so the way I look at it, it’s just a thing. We now have this idea of Crypto Currency. It’s a fundamentally new and very important idea.
+
+We now have this ability to have this new kind of currency based on top – everybody has had 18,000 theories of why it’s not possibly going to work. Bit Coin is still working today, exactly the same as it worked last year and the year before that and the year before that. By all the noise and all of the stuff and all of the crashes and this and that and the other thing, it just continues to work. It just is. It’s becoming like air or water. It just is, like it or hate it. It just is.
+
+And so anyway, we’re still very excited. We’re very excited. And we are going to continue to make new investments against it.
+
+Tim Ferriss: Of your current investments or non investments, are there particular companies that you think are breaking new ground or doing interesting things in Crypto?
+
+Marc Andreessen: Yeah. I mean, coin bases are sort of our big bet, but a company that most people have heard of is kind of the easiest way to buy and sell Bit Coin, and they have a whole bunch of stuff they’re doing. And then, we have this company 21 with a really brilliant founder, [inaudible], who actually was a partner here. Very, very smart guy. And he has the highest output per minute of new ideas of anybody I’ve ever met in my life. And by the way, I mean output per minute.
+
+Tim Ferriss: I’ve been to a few dinners with him, and it’s hilarious to just watch the outpouring, especially after one or two glasses of wine. It’s astonishing.
+
+Marc Andreessen: Yeah. It’s like an Edison kind of character. It’s just, literally, thousands of ideas. And then, it’s whatever percentage of the ideas that he can personally get to.
+
+And then, he’ll give the other ideas to everybody else and then wonder why they’re not pursuing them, which is often a good question. And then, the next time you meet him, he’ll have a thousand new ideas. And so his company, people can read about it if they want, but it’s done a bunch of interesting things. He has a whole additional set of ideas he’s pursuing now. I went to this thing up north, and I drove back, and I was on the phone with him for two hours in the middle of the night driving on the freeway, [inaudible] in my ear, idea No. 38. I was like this is awesome.
+
+Tim Ferriss: It could be a worse use of time.
+
+Marc Andreessen: Yeah.
+
+Tim Ferriss: That’s good food for thought. On food for thought, what advice would you give to Marc the 20 something at Netscape? And you can pick the time.
+
+Marc Andreessen: I’ve never for a moment even thought about that. So I don’t do replays well. I don’t do replays well. The question I’ll never answer is what would you have done differently had you known X?
+
+And I never, ever play that game because you didn’t know X. And so, if you’ve ever read the Elvis Cole novels, the great crime novelist, Michael Grace. Elvis Cole is this kind of post modern, LA private detective. They’re great novels. And he’s got this partner, Joe Pike. He’s my favorite fictional character maybe of all time.
+
+Tim Ferriss: Joe Pike.
+
+Marc Andreessen: Joe Pike. He’s a former Marine Force Recon guy, so a lot like your friend Jocko. And in the novels, Joe Pike always wears the same outfit every day. He wears jeans. He wears a sweatshirt with the sleeves cut off and mirrored aviator sunglasses.
+
+Tim Ferriss: I love him already.
+
+Marc Andreessen: And he’s got bright red arrows tattooed on his deltoids pointing forward. And, basically, his entire thing is forward.
+
+Tim Ferriss: So that’s how you feel?
+
+Marc Andreessen: Forward like we don’t stop. We don’t slow down. We don’t revisit past decisions. We don’t second guess. And so, honestly, that question, I have no idea how to answer.
+
+Tim Ferriss: I think you just did.
+
+Marc Andreessen: Okay, good. Onward.
+
+Tim Ferriss: When you think of the word successful, who is the first person who comes to mind and why?
+
+Marc Andreessen: Oh, that’s a great example. That’s a great question. Honestly, my father-in-law for one who could be the subject of a whole podcast.
+
+Tim Ferriss: Can you give us a taste of why that is?
+
+Marc Andreessen: He’s an amazing guy, John Arrillaga. He is one of the small handful of people who, basically, built Silicon Valley. And so he has an amazing life story. But to just do the short version is he went to Stanford on a basketball scholarship in the 1950’s, grew up in a very poor part of the country. He went to get a basketball scholarship, studied, got a bachelors in geography from Stanford. You may have not ever in your life met a lot of people who have a bachelor’s degree in geography.
+
+Tim Ferriss: I have not.
+
+Marc Andreessen: They abolished the major the year he got his degree.
+
+Tim Ferriss: Abolished? That’s a strong word.
+
+Marc Andreessen: He became a real estate broker, commercial real estate broker in like 1958 when the Valley was all orchards. Within two years, he was making ten times more money buying and developing properties as he was as a broker. And his boss fired him because he was making all of the other brokers feel bad. So he continuously, from 1960 to today, he’s been one of the biggest developers in Silicon Valley. Uniquely, by the way, as far as I can tell, uniquely, I’ve never met anybody else. After the first few years, he has not used debts on a project I think in almost 50 years. So he’s a real estate developer who does it –
+
+Tim Ferriss: That’s extremely uncommon.
+
+Marc Andreessen: Entirely on equity. And, basically, he and there’s a small handful of him and his contemporaries who, basically, built, literally, built the Valley. And when I want to – he’s fantastic. I really love him. He’s fantastic. He once sat me down, and he was like, okay, this tech stuff, I understand you guys think it’s a big deal. It’s fine. You should go do it for now. He’s like I just want you to know the real money is in real estate.
+
+Tim Ferriss: He does have a lot of street cred.
+
+Marc Andreessen: And I said yes, sir.
+
+Tim Ferriss: Do you have any particular morning rituals that are important to you?
+
+Marc Andreessen: Sleep in as long as possible.
+
+Tim Ferriss: Sleep in as long as possible? When do you usually wake up?
+
+Marc Andreessen: Try not to blow through any red lights on the way to work.
+
+Tim Ferriss: When do you usually wake up?
+
+Marc Andreessen: So 45 minutes before I have my first meeting. I do what they call the hot docking. It’s like the controlled crash into the office. It’s the whole 14 things to be successful people do in the morning. I can’t even imagine.
+
+Tim Ferriss: Do you drink coffee?
+
+Marc Andreessen: Yes.
+
+Tim Ferriss: You do?
+
+Marc Andreessen: Yes.
+
+Tim Ferriss: That was an emphatic yes.
+
+Marc Andreessen: If it has caffeine in it, I drink it. The perfect day is caffeine for 10 hours, alcohol for 4. It balances everything out really well.
+
+Tim Ferriss: It sounds a lot like my day.
+
+Marc Andreessen: I’m not shy for a second about that.
+
+Tim Ferriss: The Silicon Valley speedball.
+
+Marc Andreessen: That’s right.
+
+Tim Ferriss: Do you have any favorite documentaries or movies?
+
+Marc Andreessen: Lots of favorite movies. I don’t know where to start. Actually, in the last 10 years, it’s TV even more than movies.
+
+Tim Ferriss: Okay. Any favorites?
+
+Marc Andreessen: So Mr. Robot, which I just think is absolute genius. You should get him sometimes, the guy.
+
+Tim Ferriss: He’s great. I’ve never met him.
+
+Marc Andreessen: You probably read about him, heard about him. So he’s personally directing all 10 episodes of the new season. I think he hasn’t actually made a movie, but he’s definitely going to win Oscars or whatever it is people win. And then, Halt and Catch Fire.
+
+Tim Ferriss: I’m not familiar with that.
+
+Marc Andreessen: Halt and Catch Fire is extraordinary. It’s the best fictional portrayal of what a tech start up is actually like.
+
+Tim Ferriss: Halt and Catch Fire.
+
+Marc Andreessen: The title is in the IBM mainframe days, there was a mythical instruction, and it’s sort of an urban legend that there was this specific piece of code that you could write that would cause the computer to stop and catch on fire.
+
+Tim Ferriss: It’s like the Mission Impossible command?
+
+Marc Andreessen: Yeah. And I don’t think it was ever really verified for sure whether or not it existed. But it kind of became this mythical thing. And so it’s loosely the story of the birth of the PC. And particularly, it’s sort of based on how the company Compaq got built in Houston. It’s set in Texas. But it’s, basically, the birth of a new computer company. It’s funny because the reviews are funny. So it’s a historical piece. It’s very serious drama. It gets compared to Mad Men and shows like that. It’s set in the office and the personal lives of everybody. And it’s funny because the critiques reviewed it, and they said it all seems super heated.
+
+Like, the melodrama is too exaggerated of all of the stuff that happens. And everybody that I know in the Valley who has seen it says no, no, that’s actually what it’s like. That’s, actually, 100 percent what it’s like. And I knew that guy. And I saw that thing happen. And I saw that person blow up that way.
+
+Tim Ferriss: It’s like Ben’s book.
+
+Marc Andreessen: Yeah, yeah, exactly. Yeah. It’s fictionalized, but they really – for anybody who really wants to know what it’s actually like to go through one of these things that show is tremendous. And then, of course, Silicon Valley.
+
+Tim Ferriss: Do you have a favorite scene or episode for Silicon Valley?
+
+Marc Andreessen: I’ve, actually, still only seen the first season. I’m not currently. I’m starting to actually become culturally irrelevant because I don’t get any of the new references at all.
+
+Tim Ferriss: I think you’ll survive. You seem to be doing just fine.
+
+Marc Andreessen: I have to binge. The sesame scene in the first season was probably the highlight. Let’s just say loosely based on Peter Thiel.
+
+Tim Ferriss: Yeah. Loosely or not.
+
+Marc Andreessen: Right. Or not, or maybe very precisely, very accurately. Who knows?
+
+Tim Ferriss: If you could have one billboard anywhere with anything on it, what would you put on it? It could not be an advertisement for one of your portfolio companies.
+
+Marc Andreessen: Outside Trump Tower.
+
+Tim Ferriss: Okay.
+
+Marc Andreessen: No, I’m joking. That was too tempting.
+
+Tim Ferriss: What would you put on it though, if you wanted to convey a short message to as many people as possible?
+
+Marc Andreessen:    Oh, I’ve got one.
+
+Tim Ferriss:   All right.
+
+Marc Andreessen: Maybe this is small scale for what you’re looking for, but I’ve got one. I’ve actually thought about hiring a sky writer to do this one.
+
+Tim Ferriss: Let’s do it. Okay.
+
+Marc Andreessen: Right in the heart of San Francisco, it will be a billboard with just two words on it, raise prices.
+
+Tim Ferriss: Raise prices?
+
+Marc Andreessen: Yes.
+
+Tim Ferriss: Can you explain?
+
+Marc Andreessen: The No. 1 thing, just the theme, and we just see it everywhere, the No. 1 theme that our companies have when they get really struggling is they are not charging enough for their product. It has become absolutely conventional wisdom in Silicon Valley that the way to succeed is to price your product as low as possible. And then, under the theory that if it’s low priced, everybody can buy it. And that’s how you get to volume. And we just see over and over and over again people failing with that because they get into a problem called too hungry to eat.
+
+They don’t charge enough for their product to be able to afford the sales and marketing required to actually get anybody to buy it. And so they can’t hire the sales rep. They can’t afford to hire the sales rep to go sell the product. They can’t afford to buy the whatever, TV commercial, whatever it is. They can’t afford it. They cannot afford to go acquire the customers.
+
+Tim Ferriss: Too hungry to eat.
+
+Marc Andreessen: Too hungry to eat. And then, they sit there, and they don’t sell anything. And then, they don’t sell anything, and they get nervous and upset. And then, they cut their prices.
+
+Tim Ferriss: And then, it’s a race to the bottom.
+
+Marc Andreessen: Which just makes the problem worse. And so probably, the single, No. 1 thing we try to get our companies to do is raise prices.
+
+Tim Ferriss: Raise prices.
+
+Marc Andreessen: And by the way, it’s like is your product any good if people won’t pay more for it?
+
+Tim Ferriss: Exactly. A good litmus test.
+
+Marc Andreessen: Good litmus test.
+
+Tim Ferriss: The last two questions. What have you changed your mind about in the last few years?
+
+Marc Andreessen: That’s a good question. So I’ll just give you a very practical one. We started out; we didn’t do any healthcare related stuff here, investments here. And we’ve now done an almost complete 180 on that. And we’re now very deep in health because we think a bunch of really interesting things are happening. And that was a response to the hedge fund thing. We just, basically, had very smart founders coming through here, basically, telling us we were dumb. And, by the way, they were right. We just hadn’t figured it out yet. And so we got serious about it a couple of years ago.
+
+And we have this guy VJ Pande, a former Stanford professor, running this program for us. And it’s extraordinary what’s happening at the kind of intersection of healthcare and computer science. So there’s a lot that’s happening there. The thing that I probably think about the most that I am still trying to work out in my own head is that a combination of Peter Teal, Larry Page, and Elon Musk, in different ways, have provoked a fundamental conversation in the Valley around the sort of moon shots, the big challenges. And so Elon, why can’t we build self driving cars? Why can’t we have new kinds of rocket ships? Why can’t we, literally, go to Mars? Why can’t we cure cancer? Why can’t we do nuclear fusion?
+
+A long list of things that are big things. We talked about earlier a little bit, Silicon Valley has always viewed itself a little bit in the tools business, or a lot in the tools business. Silicon Valley has been getting more and more assertive entering more and more industries directly.
+
+So Uber Lift entering directly into transportation. Airbnb entering directly into real estate. Fin Tech companies entering directly into banking. So our companies are getting more assertive at going into markets that, previously, other founders may not have been willing to go into in the past. And then, Larry, Elon, and Peter, basically, all say in different ways we’re still not doing enough. There are these much bigger things to be done. And why are we waiting for either governments to do them or for large, industrial companies like GE to do them or for research universities to figure them out? Why can’t we do these things?
+
+And there’s one school of thought that says they’re simply too hard. They’re simply too hard. They’re too daunting. They’re too expensive. They’re too different. They don’t have Moore’s Law on their side. There’s a reason we haven’t been doing them. It’s because they’re too difficult. And then, there’s another school of thought that says that’s just being a wimp, and you should go try to do all of these things because, if we’re not going to do it, really, who is? And then, I’m trying to find is there something in the middle? What are the shades of gray? What’s the line?
+
+What’s the line where Tesla made sense, but Tesla that flies didn’t make sense? And there’s a line in there somewhere I think. Or maybe Peter is right, and maybe there isn’t a line. And maybe the next Tesla should be one that flies. And so to me, that’s the provocative thing because it’s a question about stretching the limits. The Icarus myth. How far can we stretch the limits of what we can do before our wings melt?
+
+Tim Ferriss: And it strikes me also that you mentioned Peter, so we wanted flying cars, and we got 140 characters. There were a lot of questions from fans asking how would he suggest entrepreneurs be encouraged to say solve the big problems versus making social media that works, etc.? And I think you made a point, actually, in a debate with Peter, at one point, maybe it was the Milton Conference, could have been elsewhere that Twitter, and I would agree with you, as one example, the 140 characters, has been world changing in a lot of ways.
+
+I mean, you look at political activism. You look at many different examples when you have adoption that is that wide, that global, free with the emergent properties are just unpredictable. You get some incredible use cases.
+
+Marc Andreessen: Including political revolutions.
+
+Tim Ferriss: Exactly. Last question.
+
+Marc Andreessen: So it was a debate at the Milton Conference, which is one of my shining moments. I prepared for weeks for that debate knowing Peter wasn’t going to prepare at all. And I bring that up because I think I was actually able to go toe to toe with him. But I had to sandbag him to do it. He was absolutely shocked that I had prepared for it.
+
+Tim Ferriss: I really enjoyed the conversation.
+
+Marc Andreessen: That was one of my great debating moments is I could almost keep up with Peter. So it was actually funny. His whole slogan, the slogan of his firm, which, as you said, we were promised flying cars, instead we got 140 characters. It’s actually interesting. He will immediately concede that both of those are actually not the point. So first of all, he immediately concedes that flying cars probably don’t make sense.
+
+And then, he immediately concedes that Twitter probably is more important than just being dismissed like that. And so he just, basically, says the slogan is just to provoke the conversation. But to your point, it does provoke the conversation. And I think you’re right. I think it provokes the conversation from both sides, which is okay. Why don’t we have the other – maybe flying cars or not. But why don’t we have nuclear fusion? Why don’t we have all these other things? Why don’t we have supersonic flight? We had the Concord. Now, we don’t even have the Concord. Seriously, it takes nine hours to get to London? Really?
+
+I think it’s a very relevant question. And then, but I also think it provokes the thing on the other side, which is I think the computer stuff, communication stuff, like Twitter and all of these other things, Peter flatly says the iPhone doesn’t count as innovation. And I just think that’s too far. I think the iPhone absolutely counts as innovation. I think it’s one of the most important products ever developed. I think the impact on the world is absolutely enormous and growing. And so I think there is a tendency to write off the stuff that built the Valley. And I don’t agree with that. I think there’s a lot more to do in the core of what we do.
+
+Tim Ferriss: The last question is do you have any ask or request of my audience, people listening, anything you’d like them to consider, ponder, do?
+
+Marc Andreessen: First of all, they should all, for sure, work for our companies. And so please come to our website, A16Z.com. We have job listings. We’d like to get everybody in our orbit. Anybody smart enough to listen to your podcast we definitely want to work for our companies. And then, I would say build new things. And then, if it’s a business that’s promising that needs money, we’re open for business.
+
+Tim Ferriss: Marc, any last places you’d like people to check you out online? Where can they say hello?
+
+Marc Andreessen: Oh, Twitter is good.
+
+Tim Ferriss: Twitter @pmarca. Is that from your Unix handle way back in the day?
+
+Marc Andreessen: It’s an old, old joke. I had a boss one time who was so important that he had his public email address, and then, he had P with his name behind it, which was his private email address. So we thought that was a little bit too much.
+
+And so, we all gave ourselves P when nobody knew who we were. And then, it stuck.
+
+Tim Ferriss: Well, everybody, check out the Andreessen and Horowitz website. I’ll put that in the show notes as well. You should also check out their podcast, which I greatly enjoyed. You can start with one that I really enjoyed was the deconstructing Amazon episode. And thank you so much for the time, Marc. This has been a blast. I really appreciate it.
+
+Marc Andreessen: Thanks, Tim.
+
+Tim Ferriss: And to everyone listening, you can find all of the links and everything else in the show notes, which you can find at fourhourworkweek.com/podcast. And until next time, thank you for listening.
+
+
+TAGS
+MARC ANDREESSEN
+	

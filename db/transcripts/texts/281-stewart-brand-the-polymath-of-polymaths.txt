@@ -1,0 +1,744 @@
+
+
+FEBRUARY 3, 2018 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Stewart Brand (#281)
+
+
+Please enjoy this transcript of my interview with Stewart Brand (@stewartbrand), the president of The Long Now Foundation, established to foster long-term thinking and responsibility, the leader of the Revive & Restore  project, which seeks to bring back extinct animal species such as the passenger pigeon and woolly mammoth, and former founder, editor and publisher of The Whole Earth Catalog (WEC), which changed my life when I was a little kid. 
+
+Stewart Brand - The Polymath of Polymaths
+
+Tim Ferriss: Hey, guys. Tim Ferriss here. Before we jump into this episode, I’m going to do something I very rarely do, and that is to make a direct ask with hat in hand. My brand-new book just came out today. It is called Tribe of Mentors: Short Life Advice from the Best in the World. If you like the podcast, you will love this book. I reached out to 130 people who are the best at what they do in sports, investing, business, acting, directing – you name it, we got it. Cryptocurrency? Done.
+
+It turned out better than I ever could have expected. Many of my friends think of all my books, it is the easiest to read, the easiest to use, so check it out. Please take a look. I put out so much free material. The podcast is free. The 700-plus blog posts are free. Every once in a while, I put out something like this, and it’s not that expensive, so please take a look at TribeOfMentors.com, and it does make a great holiday gift or gift for others.
+
+There’s something for everybody in here. It is really a choose your own adventure guide, a buffet of options for improving your life, both in business and in the personal sphere. So, take a look. I appreciate you taking a look. TribeOfMentors.com or anywhere that books are sold.
+
+Tim Ferriss: Hello, boys and girls, ladies and germs, you sexy little kittens. This is Tim Ferriss, and welcome to another episode of The Tim Ferriss Show, where it is my job to interview and deconstruct world-class performers of all different types to tease out their habits, routines, tactics, thinking, philosophies, and belief structures that you can use.
+
+This episode – kids, if you’re in the car with your parents listening, please put on earmuffs – holy shit. What a treat. I could not be happier with what you are about to listen to, and it’s all because of the guest. By way of background, when I was in Uzbekistan with Kevin Kelly – and, if you haven’t heard of Kevin Kelly, you can check out my interviews with him.
+
+I have argued for a very long time that Kevin may in fact be the real-world Most Interesting Man in the World, but when we were in the back of a taxi in Uzbekistan – long story – who I should have on the podcast, he gave me a very complete list, but the first two names were Tim O’Reilly and Stewart Brand, and when I asked Kevin who he considers as his mentors, the first name he brought up was Stewart Brand.
+
+So, who is Stewart? Stewart is one of the sharpest, most badass guys you’ll ever meet, and he’s kind of like Forrest Gump. He shows up at every possible historical moment you can conceive of. Stewart Brand – @stewartbrand – is the president of the Long Now Foundation, established to creatively foster long-term thinking and responsibility in the framework of the next 10,000 years. Yes, that’s not a typo.
+
+He leads a project there called Revive and Restore, which seeks to bring back extinct animal species such as the passenger pigeon and woolly mammoth. Stewart is very well-known for founding, editing, and publishing The Whole Earth Catalog, which changed my life when I was a little kid – we talk about it – and it also received a National Book Award for its 1972 issue. And, on top of that – and, we delve into this – Steve Jobs talked about it in his most famous commencement speech.
+
+Stewart is the cofounder of The Well and Global Business Network, and the author of books such as Whole Earth Discipline, The Clock of the Long Now, How Buildings Learn, and The Media Lab. He was trained in biology at Stanford and served as an infantry officer in the U.S. Army. Stewart can cover so many different spheres of expertise and speak intelligently on very high concepts ranging from evolution to the nitty-gritty of designing finite – or rather, I should say infinite versus finite gains for different groups of people.
+
+It’s just so much fun to speak with Stewart, and I’ve been hoping to do this interview for a very long time. It came together, and maybe the caffeine level on my side was right – I think Stewart’s always on point, but I’m just thrilled with how everything turned out.
+
+So, as usual, we’ll link to everything in the show notes that you can find at tim.blog/podcast, and there will be a lot of links, but I really hope you enjoy this conversation as much as I did. So, without further ado, please meet the one and only incredible Stewart Brand.
+
+Stewart, welcome to the show.
+
+Stewart Brand: Howdy, Tim.
+
+Tim Ferriss: Howdy. I have wanted to interview you for a very long time indeed, and our mutual friend Kevin Kelly, who I used to say was the real-life Most Interesting Man in the World, but I think you may actually give him a run for his money.
+
+I suppose it’s appropriate that I’m recording this from where I am on Long Island where I grew up because at my parents’ house, which is right next to me, in the shed, I remember going in as a child to find a single copy of The Whole Earth Catalog, and I would go to The Whole Earth Catalog – I remember exactly where it is in the shed – and I would sit down for hours, flipping around in this incredible tome, and I wanted to thank you for that first and foremost because it had a real formative impact on me in my childhood years.
+
+Stewart Brand: That’s amazing. I hear that a lot. I’m curious – do you remember any of what particularly got you going through the Catalog back then?
+
+Tim Ferriss: Yeah, there were a few things. Maybe you can correct – I’ve actually never told anybody this – I want to say that the first thing was that there were geodesic domes or some sort of graphic representation of them, which were fascinating to me at the time.
+
+My grandfather on one side was a classical sculptor, so I was very interested in shapes. I wanted to be an illustrator and a comic book penciler for about 15 years, so anything that represented what I felt was an unusual shape in the physical world was very interesting to me. And then, this could be a false memory, so please correct me if I’m wrong, but as a 9- or 10-year-old – maybe I was even younger – was there any –not necessarily nudity, but were there breasts of any type in The Whole Earth Catalog? If so, that was probably also a big draw for me.
+
+Stewart Brand: Yeah, there were breasts. There was even a crotch, I think, in My Body, My Self, which was this wonderful book by women on women’s health that came out.
+
+It was “Just the facts, ma’am,” graphic, and rich. I think it was a collective of women in Boston who put it together, and it was kind of a revolution of users taking hold of medicine and revamping how it was thought about. Women were – then and now – especially in need of better facts than they were getting from the male medical establishment.
+
+Tim Ferriss: So, I feel like the answer I gave you might be very trivial. Do you have any common answers that pop up often when you ask people that question about what stuck with them or grabbed their attention? I suppose it probably depends on the age at which they came across it, but are there certain things that stick out often for people?
+
+Stewart Brand: Well, a common thing is, “Wow, you did The Whole Earth Catalog. That really affected my life. I still have the original Whole Earth Catalog.” I’ll check and see if they mean the first one that came out in 1968, of which only 1,000 were printed. No, what they mean was their first Whole Earth Catalog, which was probably the last Whole Earth Catalog in 1972. And then, I’ll ask them, “Why do you still have it?”, and there’s this wonderful silence.
+
+I’ve never gotten a good answer. I think it has something to do with a sense of a certain era, or a certain period in the life of that person coming of age and coming into who they were and who they wanted to be, and I guess they felt the Catalog was some kind of enabler or tipping point from one way of thinking about what they could do to another way of thinking about it.
+
+So anyway, a lot of people have kept them. There’s no end of basements and attics that have Whole Earth Catalogs in them.
+
+Tim Ferriss: Now, one fan who comes to mind – and, I’m sure there are many who have name recognition – is Steve Jobs. He referred to you in his Stanford commencement speech, which has become very popular, and he refers to “the amazing publication called The Whole Earth Catalog, one of the bibles of my generation.” Have you spent any time or did you spend any time with Steve and get an idea of why it had such an impact on him?
+
+Stewart Brand: I did spend time with Steve a few times, and we did some videos together for the Library of Congress that you can find on YouTube. The Library of Congress asked both of us to help promote a new program they were doing. We were both glad to do it, so we sat down together and did some fun stuff.
+
+That was also when Steve put out his “personal computers are a bicycle of the mind that vastly enable” and everything. The question I never got to ask Steve was about the end of that commencement speech. What he put out to the Stanford students was what had been on the back cover of The Whole Earth Epilog, which came out in ’73 or ’74. It said, “Stay hungry, stay foolish.” For some reason, that really got Steve. His commencement talk was wonderful because it was basically about – well, he gives three stories, but the main story is that he’s been scared to death by his pancreatic cancer diagnosis and lived, at least for a good important while.
+
+So, from that perspective, he was kind of giving the students a little bit of a signal from the other side of a temporary grave, and that’s part of what made it such an amazing talk. Basically, his final line to the students was “Stay hungry, stay foolish,” and a question I never had the chance to ask Steve – even though I did see him for lunch after that talk – was what got him about that, and various people – including me – have tried to interpret why he in particular was moved by “Stay hungry, stay foolish.”
+
+I think he was putting it out at that point from a position of a whole hell of a lot of power and wealth. He was into issues like The Envier’s Dilemma, of how you keep your business from clinging to its past so much that it becomes part of the past, and how do you keep revolutionizing your own process, your own thinking, your own business, your own whatever?
+
+I think he was using – I’m surmising that he was using “Stay hungry, stay foolish” as a sort of refreshment exercise.
+
+Tim Ferriss: What was intended by “Stay foolish”? I feel like I can interpret “Stay hungry” in a number of ways that I would probably have some consensus on with other people. What about “Stay foolish”? What was intended by that? Could you elaborate a little bit?
+
+Stewart Brand: The back cover of The Whole Earth Epilog was a photograph I commissioned that was meant to look like a sunrise that a hitchhiker might see on some roadside, and it was in relation to a photograph of the earth at the moment of the sun just coming around, making a crescent.
+
+So, the limb of the earth is basically just a crescent of light from the sun. That’s a sunrise happening somewhere on Earth, so I wanted to get that from the surface. But, the dawn – someone’s eyes must meet the dawn. The dawn hitchhiker is headed wherever the next driver is headed, in a way, and that’s a foolish way to get through life, but it’s also a randomizing way to get to wherever you’re going. I think I was promoting the idea that occasionally, you stay random.
+
+Nicky Case just recently gave one of our Long Now talks where he points out that chaos is an important part of keeping creativity, evolution, and everything else going. The story on evolution is what they call fitness landscapes, and as a biologist from the ‘50s, I’m really won over by them.
+
+The idea of a fitness landscape is it’s a series of hills and mountains, and typically, when a species is evolving, it’ll evolve to a local optimum. The local optimum might just be the hill that happened to be nearby. It gets better and better at going up that hill until it gets to the peak, and then it stays there. But, all around it may well be much higher peaks of much greater opportunity, much greater fitness, or whatever it may be.
+
+As long as it’s focusing on being really good at being on top of the hill it’s on, it will never get to those mountains. The only way it will get to those mountains is by being foolish, trying weird stuff, being random, recombining, or mutating down off the hill a little bit – maybe even down into the nearby valley, which looks horrible – and then trying new things that improve on the new slope it’s on, which could well be a higher mountain.
+
+So, what gets you off the low hills of fitness to a potentially high mountain of fitness is randomness. That’s “Stay foolish.”
+
+Tim Ferriss: Has that been a conscious decision on your part throughout your life to insert randomizing function, or has it really just been serendipity?
+
+Stewart Brand: [Laughs]
+
+Tim Ferriss: I’m just wondering – you’ve lived so many lives. I’ve been very intimidated by the interview because I’m like, “How the hell – Where should I start? Where is the beginning? Where is the end?” It’s very challenging. So, I’m just curious if that’s something you’ve thought about as you’ve made decisions in your own life.
+
+Stewart Brand: As near as I can tell, Tim, my version of randomness is a pretty low threshold of boredom.
+
+Tim Ferriss: Okay. Can you elaborate?
+
+Stewart Brand: The way that works is –like with various sports as they came along, when skydiving came along – well, that doesn’t count because I stopped doing that after I had a parachute fail to open.
+
+But, hang-gliding came along, or snowboarding. Those were two sports that I got into as soon as they showed up. I ran out of excitement pretty quickly – up the hill, down the hill, up the hill, down the hill in both cases. I bailed. I have bailed out of a lot of interesting things. It is not good career advice in terms of scoring big because as Brian Eno has pointed out to me and others, the way to make a lot of money is to have a very good idea and to be extremely careful never to have another.
+
+Tim Ferriss: [Laughs] I haven’t heard that before. Oh, man, that’s –
+
+Stewart Brand: It’s true for artists, it’s true in business, and it’s true in all sorts of things. You develop an expertise, get rewarded for it, and if it really looks like it is one of those mountain opportunities, the temptation is to keep storming up the mountain. After a while you can see what the limits are, or you find yourself doing the same mental and physical things day after day, and meanwhile, other stuff is kind of tempting or just shows up.
+
+A lot of my stuff just showed up, Tim. I’m dealing with a biographer now, and he’s raising some of these same questions. When I thought about doing a memoir, I thought about using a title from Arthur Kessler about astronomers called The Sleepwalkers.
+
+Those things where I progressed from one to another – they were not part of any arc of ambition or even narrative arc. They just seemed like a good idea at the time based on what was around me. So, I think biographies – including mine – consist mostly of circumstance and sequence, and then you map character onto that, and any stories you have, you tell backwards.
+
+Tim Ferriss: So, I want to dissect the stories or things that you tell backwards in a second, but first, there’s something you mentioned in passing that I feel like I have to address as a pink elephant in the room that my listeners are going to ask me about if I don’t ask you. You mentioned that you did skydiving for a while, but then you had a parachute not open.
+
+Stewart Brand: Oh, yeah. Sorry, that’s an easy story. I took airborne training when I was an Army officer. When I was stationed at Fort Dix, skydiving was just starting to come along as a thing that you could do. The U.S. Army had a skydiving team and things like that. So, this was in ’61 or ’62. We were in New Jersey, and a couple of the local guys got together, and we started – we would take military chutes, cut gores in the side and a section out of the back, and then put certain strings up to where the gores were. By pulling on the strings, you could sort of steer and sort of go forward.
+
+And then, we’d rent a plane and jump out, and do jump and pull first, and then five-second delays, and so on. It was great fun. By then, teaching basic training at Fort Dix was boring for all of the officers who’d been in for a year and a half at that point.
+
+So, when I got out of the Army in ’62, there was a pretty good amateur skydiving scene going on in northern California, so I joined that and was jumping on the weekends up near Mt. Calistoga in northern Napa Valley. It was a young and dangerous sport at that time. I still had an Army parachute that I’d taken from Army and adapted. I guess I’d had guys who were doing adaptations do it.
+
+One of the times I jumped out, I think was doing a ten-second delay, and I was counting, “One thousand, two thousand, three thousand,” and I got to my count and pulled the parachute – you reach across yourself and pull the ripcord, and the parachute comes out, and there’s this sudden stop, and then a really pleasant minute-long glide down to where you’re going to try to land on the target.
+
+And, this idyll was interrupted by the fact that the parachute was not opening, and I could sense that there was crap going on behind me. The great thing about parachute training in the Army is that you go through a lot of stuff about what you do if the parachute doesn’t open. There’s a reserve chute, a little stuffed-together laundry thing on the front. The main chute is on your back, and the reserve chute is on the front.
+
+One of the things that you’re told is if you have to open the reserve, go for it and then turn sideways in the air because if you’re facing straight down in the standard position that you skydive in, the chute will open around you, and besides being dead on arrival, you’ll already be in a shroud. So, I had this wonderful moment of, “Oh!”
+
+Suddenly, the spotlight is on me. I could see San Francisco in the distance. I was facing that direction and had those cosmic thoughts, and at that point, I also had eight seconds to live before I would be a greasy spot. And, what I found myself doing was what I was trained to do, and this was one of the things that persuaded me that training is better than almost any other form of instruction.
+
+I rotated 90 degrees in the air, reached for the reserve chute and pulled it. It popped out with a terrible jerk, and I had the somewhat faster cruise down to the ground without any ability to control it, which was alarming because the wind was taking me towards some power lines. Anyway, I landed, and that was that, but it was late in the day, so I didn’t go back up – or, maybe I was afraid to go back up.
+
+When I did go back up the following weekend, I did a very dangerous jump and almost hit my head on the step leaving the small plane. I never really stabilized in freefall, and basically, it was a screwed-up jump. That persuaded me that my body was not happy doing parachuting anymore, so I stopped.
+
+Tim Ferriss: Okay, I think that’s a very reasonable conclusion.
+
+Stewart Brand: By the way, what caused the malfunction was the pilot chute that jumps out of your backpack first and pulls out the sleeve, which then reveals the parachute. That’s how it opens in a less-than-sudden way. That pilot chute jumped out, and the tether that it was on managed to tie an overhand knot in the bottom of the sleeve, so even if I’d spent my eight seconds trying to undo the tangle, I would have still been tugging at the knot when I hit the ground.
+
+Tim Ferriss: Were there any other trainings or principles that you took from your military experience that ended up being helpful later?
+
+Stewart Brand: There’s a lot of instruction. I was lucky; I took ROTC at Stanford and took two years active duty after I graduated, and then off I went to Fort Benning to officers’ basic training course. When I was there, I got most of the basics of small unit management and leadership that my generation – the liberal types, mostly – did not get. It was me, John Kerry, and a few others. They were just simple things like, “Okay, you’re responsible for the people in your command. You’re going to critique them to get them doing ever better, especially the sergeants that work for you.
+
+“The way you begin a critique is by telling the sergeant what he” – or now, she – “has been doing very well and thank them for that. It’s got to be close, accurate, and well-observed.” And then, you say, “On the other hand, I think there’s one thing you could be working on,” but probably not more than one thing, or you overwhelm them.
+
+You give them something to work on for improvement and let them know you’re going to be watching to see signs of that improvement, which you will congratulate them for when it shows up, and then come up with some other item of potential improvement. Just that sequence of telling them what they’re doing right before telling them what they’re doing wrong is the kind of thing that good management instruction does. It’s done at taxpayer expense, thank you very much.
+
+Tim Ferriss: I want to talk about –The Whole Earth Catalog a little bit more, and I know that you’ve probably told many stories about The Whole Earth Catalog, but for those people who are listening who don’t have context, I just want to read a short quote, which is from a piece from The Guardian, so they have a little bit of context. I’m going to borrow from a couple of different pieces.
+
+The Whole Earth Catalog has been called “the internet before the internet,” and quoting from this piece, “It wasn’t exactly a book. It was a how-to manual, a compendium, an encyclopedia, a literary review, an opinionated life guide, and a collection of readers’ recommendations and reviews of everything from computational physics to goat husbandry.” Even as a kid reading this book, it seemed that it was the type of project that would take a lot out of a person.
+
+So, rather than necessarily going into the creation of it – although we could certainly get into it – I had not been aware that – at least, based on some of the reading I did – when you shut down The Whole Earth Catalog, what followed was a pretty severe depression.
+
+You and I saw each other not too long ago at TED, where I spoke for the first time on the main stage and decided two weeks beforehand that I would completely redo my presentation and talk about severe depression and how close I came to suicide at one point in college. Would you mind sharing with people a little bit of that period in your life and what you found helpful to regain your footing?
+
+Stewart Brand: Well, I saw that TED Talk, Tim, and a lot of people liked it, and it’s doing very well online. What I especially liked about it was the fear-naming aspect of that, the catalog of things you’re actually worried about, and how you work through each one. What happens if it actually happens? How can you deal with it and head it off? You take it apart in detail rather than just go along with this blank “I’m too afraid to make this move” approach to things.
+
+I really like that, and I think it’s something we’re going to find a way to use for some of the people who get worried about the use of genetics in conservation, which is mostly what I do these days. But, back then, I think I stopped the Catalog partly because I thought it was a good idea to stop something at the peak of its success to see what would happen. It was a kind of feline curiosity.
+
+But, it wasn’t that I then became depressed. I was also eager to shut it down by 1971 because I was depressed, and it was probably a combination of a marriage that had been going sour for a few years and various things that often go on with first-time success. I didn’t yet know how to modulate my work and schedule, so I was living at the office most of that time.
+
+Tim Ferriss: Just to place us, how old were you at that time?
+
+Stewart Brand: I was basically 30, 31, 32 – right in there. By now, people at that age have been through three or four failures and successes or whatnot.
+
+In those days, it was still my first, and I was considered young at the time to be having a certain national-scale publication of great interest to a lot of people. It was not an issue of money. It was a nonprofit, so I was just getting a nonprofit salary of $10,000.00 a year or something like that. I think the fame part was not particularly problematic.
+
+As you know, any kind of fame can lead you into a self-caricature sequence where you wind up being driven around by your image rather than vice versa, but that was not really an issue either. I think it was vacationless overwork and a tough marriage, and it took a couple years to get out of it.
+
+Years later, I had another one. They come, they go. I am now a great fan of drugs like Zoloft that can take – in my case, depression created occasional panic-type attacks, and Zoloft is fabulous against panic attacks.
+
+Tim Ferriss: So, you found that the panic preceded the depression as a triggering event?
+
+Stewart Brand: No, I think it was one of the elements. Who knows what triggers what? Actually, there was a recent trigger in the sense that I had a vertigo experience in the middle of the night when I turned over to the right, and suddenly, the bedroom was spinning. My wife Ryan was trying to settle me down, and we went off to the emergency room, and the guy there said, “Oh, it’s vertigo. It’s pretty common.”
+
+There’s a maneuver to turn your head in a certain way, and you get the thing that’s causing the vertigo in your middle ear. If you go to the right place, it doesn’t do that anymore, and it’s a fabulous correction. But, that particular time was the first time my brain or brain/body had frightened me like that, so I was fearful for a year or two after that. Part of that would be panicking at the kind of things that people panic at – standing around for a long time in public, driving on a bridge, and things like that – and Zoloft is great. It cuts the peak off any kind of panic, and you realize – you don’t get scared about panicking.
+
+Tim Ferriss: Yeah, you don’t start panicking about the panic.
+
+Stewart Brand: You’ve got it. Just by taking the peak of fearfulness away, the whole things gets under control.
+
+Tim Ferriss: Now that we’re on the subject – broadly speaking – of pharmacology, I had heard somebody refer to you as a pioneer in psychedelics, but that you had stopped. I’m curious to know why that is, and if you could give us any backstory on that.
+
+Stewart Brand: Well, I happened to be in the Bay Area when LSD was first being researched. At that point, it was still legal as a psychological fitness –a way to do severely enhanced psychotherapy, which has come around again now. It’s fun to see.
+
+I think a lot of it applied – using MDMA on post-traumatic stress syndrome and things like that, which our friend Richard Rockefeller was pushing strongly until just before he died. That’s good stuff. So, these drugs were around a lot. I never actually bought a psychedelic drug. There was so much of it in the ‘60s at that point that it was just the marijuana, hashish, LSD, or mescaline that people gave me, or the sessions going on that I’d join.
+
+I had formally joined the Native American Church, and I went to a number of peyote meetings and wound up leading one or two as a road man. It sounds like I was doing all the drugs in the world, but compared to my contemporaries, I was pretty modest.
+
+I did see a few people who thought that the solution to problem that might be caused by bad LSD trips was to do more LSD, and I was pretty sure that wasn’t the direction to look for a solution. So, I had some bad trips and some good trips, and the last one was in 1969 on the occasion where Ken Kesey, the Merry Pranksters, and their bus had a race in New Mexico with a hog farm bus – the Great Bus Race. I dosed up on a certain amount of LSD, and that was a fun and amazing experience, and also the last time I did LSD.
+
+After that, I continued to do nitrous oxide for a while, nitrous having the advantage of being completely legal. I had an E tank delivered weekly in my office. With nitrous, you do a flash, and if you like the flash, you can do another.
+
+If you don’t like the flash, then you stop, so it’s a little more self-correcting in that respect. One day, I just kept flashing. I think I was listening to the Beatles – probably Sgt. Pepper – and the world went away, and I was on the whole other side of a large room, and my wife was shaking me, saying, “You’re laughing hysterically.” It is laughing gas, after all. But clearly, I had gone over some edge with nitrous oxide, so I stopped doing that.
+
+Tim Ferriss: Why did you stop doing – was the cessation of LSD, then, a matter of legality at that point?
+
+Stewart Brand: Oh, God, no. Everything was illegal.
+
+Ken Kesey did this bit that he called the Acid Test Graduation, and it was partly a finessing of his legal problems, but it was also an acknowledgement that you go through the doors of perception that Aldous Huxley talks about, and you’re in this cosmic place, and then the trip is over, and you’re back. Then, you go back through, and there’s the cosmic place, and you go back through, you go back through –and there are terrifying versions and exalted versions, but in a sense, it’s the same cosmic place.
+
+So, two things happened. I recognized that there wasn’t a lot of news anymore, and the side effect was that I became much more suspicious about mysticism in general, which I’d studied in college – both Christian mysticism and everybody else’s.
+
+I had a feeling like I’d taken the shortcut into that world, and there wasn’t as much there as I had thought and hoped.
+
+Tim Ferriss: I might come back to that. For people who don’t know the name Ken Kesey, he’s the author of One Flew Over the Cuckoo’s Nest, and then, the Pranksters and the rip-roaring ride that you mentioned also led you to appear – just as a point of trivia; please correct me if I’m wrong – in Tom Wolfe’s The Electric Kool-Aid Acid Test. So, that’s just a side note. You make these appearances in so many defining cultural works or moments, it’s almost like watching Forrest Gump, but with someone who’s not Forrest Gump. It’s really astonishing.
+
+Stewart Brand: Well, I’m on the box of chocolates approach to things. You really do not know what you’re going to get. I got lucky. But, partly by choice, I’m in a creative area – the San Francisco Bay area – that specializes in doing weird stuff. Just by strolling around, you run into a lot and wind up connecting to a lot that ends up being important.
+
+Tim Ferriss: Can you tell us about Blue Marble? Can you tell us about the buttons that you distributed – or, I guess you were selling them – way back in the day and give us a little bit of context?
+
+Stewart Brand: The Blue Marble you’re referring to is the look of the earth from space.
+
+We’re still talking about drugs because I was bored in the spring of 1966, and on my rooftop in North Beach, San Francisco, I took a half a dose – maybe 150 micrograms – of LSD, and just had a nice, long, thoughtful afternoon that was colored by having listened to a fair number of Buckminster Fuller lectures and having read his books over the previous months. He had said that people assume that the resources of the earth of infinite, and in their mind, the earth is flat. If they would just understand that the earth is really a sphere with a limited amount of surface, resources, and everything else, then they would behave better.
+
+I was sitting there, stoned, looking out at the San Francisco skyline, and imagined to myself that I could see that the buildings were all vertical, but they weren’t exactly parallel. They diverged slightly because of the curvature of the earth with a fisheye thing happening in my mind. I imagined that if I went up a little way, I would see that even more strongly. If I went up further still in altitude, the horizon would close on itself and be an obvious circle.
+
+And then, I guess I took my mind further out – this is kind of a Star Maker story; Olaf Stapledon’s story begins this way – and I saw the earth not only as a circle, but as a sphere rotating against a starfield. I thought, “Now, that is really the way to see the earth, but it’s weird that we haven’t seen that.” This was 1966.
+
+Sputnik had gone up in 1956, so the Soviet Union and America had been space for ten years at that point, and there was no end to photographs of the moon and the beginnings of satellite photography of various parts of the earth’s surface, but nobody had ever turned the camera back on the earth from one of these remote probes to see what it looked like from a distance.
+
+And so, the LSD concentration which is – we called it the “psychedelic,” meaning “mind-expanding,” but I think it’s a mind-contracting drug. You’re really focused on your hand, the song that’s playing, the fire, or whatever it is. I was really focused on, “Gee, what do I do to make people aware of the importance of the image of the earth from space?” What I came up with was the concept of the button that you mentioned that would say, “Why haven’t we seen a photograph of the whole Earth yet?”
+
+It was sort of put in paranoid terms so that it would be a question. People would raise the same question I had. “How come we’ve been in space for ten years and this photograph hasn’t been made?” The implication was that it had been made, and that they were hiding it from us.
+
+I printed those buttons up the next week, and made some posters, and I went around selling those buttons for $0.25 from the sandwich board at Sather Gate at UC Berkeley, and then at Stanford, and then at MIT, Harvard Square, and Columbia University. It got into the newspapers, The Village Voice, and I sent buttons to various people, including Buckminster Fuller and Marshall McLuhan, and I sent them to senators and congressmen, and to their secretaries. I sent them to people at NASA. I sent them to people at the Politburo in Moscow.
+
+Anyway, it was just a campaign. So then, when the photographs from Apollo started to come in – good color photographs from the moon missions – I was proven right, that it would make a difference. Indeed, it reframed everything. Up until then in my lifetime, the way you thought about the planet’s fate was in terms of the mushroom cloud of atomic bombs, and from 1969-1970 on, the image with which we thought about the earth’s fate was no longer that of mushroom clouds, it was the photographs of the earth from the outside.
+
+Tim Ferriss: You mentioned Buckminster Fuller. He seems to have been very influential, or certainly had an influence on you in some way. What was most striking about him, or what have you taken from Buckminster Fuller?
+
+Stewart Brand: There’s a wonderful chapter in Peter Drucker’s early memoir, which he called something like Observations of a Bystander, and in it, he has a chapter about the hippie generation – about two of his friends, who were Marshall McLuhan and Buckminster Fuller. He said McLuhan and Fuller were these two voices in the wilderness, shouting away with nobody listening. He said both of them would turn up at his door, come in, and rant their various rants at him, and he would patiently listen to them, encourage them, and show them the door.
+
+What happened in the ‘60s is artists that I was hanging out with in New York – a group called USCO – were paying attention to both Marshall McLuhan and Buckminster Fuller, and they were guiding how we thought about being artists.
+
+Peter Drucker’s perspective was that this was the first generation to take technology and engineering seriously as a guide to important, helpful, intellectual endeavor. Up until then, intellectuals had looked down from a great height, scientists looked down on engineers, and technology was seen as something that one suffered rather than grabbed and ran with. He felt that the ‘60s generation reversed that, and that we started to grab pieces of technology and run for our own horizons with them.
+
+We were ready to listen to prophets of that – such as Marshall McLuhan – saying that the medium is the message, and Buckminster Fuller saying that if all the politicians in the world died next week, the world would barely notice, but if all the scientists and engineers in the world died next week, the world would cease to function. That was a big part of what The Whole Earth Catalog took on, much more from Fuller than from McLuhan in that sense, though I later got to know both of them, especially Bucky.
+
+Tim Ferriss: There’s a quote that I found that may or may not be relevant, but I’d love to explore it a little bit. I believe it’s attributed to you. “You can’t change human nature, but you can change tools, you can change techniques, and by so doing, you can change civilization.”
+
+Is that something you could expand on, and related to that, do you think of thinking as one such tool that you could change instead of human nature? I’d love to know where that came from or how it applies in your own mind.
+
+Stewart Brand: That definitely comes directly from Fuller. Fuller said that a lot, that changing human nature is hard, and when you try, you mostly fail, and it’s discouraging. Changing tools and technology is relatively easy, and you can enable things. We saw that play down in the ‘70s when the New Left was still in vogue and seemingly powerful, and personal computers were coming on. So, here in the Bay Area, you had people in Berkeley demonstrating and saying, “Power to the people,” and you had Steve Jobs and Steve Wozniak basically saying, “Power to people. Just provide the tools, and the rest will come.”
+
+That’s been a pretty reliable framing. A later version of that that I came up with is my proclamation that science is the only news. All the other stuff – the politics – goes in cycles. Fashion goes in very tight little cycles. Even the technology is pretty predictable if you’ve got a good eye on what the science is up to. In a sense, that’s moving almost from a “grab tools and run with them” to “tools are arriving all the time, just pay attention.” I think that’s where most of what we consider progress comes from. Now, does that apply to thinking?
+
+Tim Ferriss: I ask because of the seminars about long-term thinking.
+
+Stewart Brand: Well, that’s for – Busted. I was about to say no, and clearly, I can’t. I got to hang out with people in the Bay Area at SRI in the late ‘60s who were doing a thing called Augmented Human Intellect. This was Doug Engelbart and his merry band at Stanford Research Institute. And now, that has been played out, and John Markoff came out with his good book a year or two ago called Machines of Loving Grace, which basically spells out the ongoing debate between artificial intelligence and intelligence augmentation – I.A. and A.I.
+
+So, augmented intelligence has been going on ever since humans got around to developing a language. Individual intelligence then becomes more social intelligence. I think almost all intelligence is social intelligence anyway. When personal computers came along, they were mainly a communication device. They did some calculation, some modeling, and games and whatnot, but mainly, what they got us was email, the web, and on and on. Social intelligence is really easily augmented with tools.
+
+Now, what do you do with social intelligence? Can you change that? That’s something that you’re in the business of, and I suppose I’m in the business of to a lesser degree. The idea of the Long Now Foundation is to give encouragement and permission to a society that is rewarded for thinking very rapidly in business terms, in scientific terms – a rapid turnaround. You get inside the adversary’s loop, move fast, and break things. The long-term thinking might be proposing that there are some things you probably don’t want to break. They might involve moving slowly and steadily.
+
+I think climate change is the one that our century, our generation has been handed as a thing to which there is no quick fix whatsoever. It’s a big, slow problem caused by absolutely everybody, and any solution is going to have to be big, slow, and caused by approximately everybody. So, that’s not tool, that’s circumstance. That’s situational.
+
+But, I think what we’re proposing is that there are a lot of problems, a lot of issues, or a lot of quite wonderful things in that category of being quite big and slow-moving. With Brian Eno, I wound up developing a pace-layer diagram of civilization where there’s the fast-moving parts like fashion and commerce, and it goes slower when you get to infrastructure, and things move really slow in how governance changes.
+
+And then, you get down to culture, language, and religion, which move really slowly, and nature – with tectonic forces, climate change, and so on – is really big and slow. What’s interesting about that is that the fast parts get all the attention, but the slow parts have all the power. If you want to deal with the powerful forces in the world, bear relation to seeing what can be done with, appreciating, and maybe helping adjust the big, slow things.
+
+Tim Ferriss: So, for instance, if somebody wanted to start exploring some of the slower-moving layers and topics, you’ve been curating SALTs, which I referred to earlier – the Seminars About Long-term Thinking – and you’ve released a very affordable book – I think it’s $2.99 – which is basically a collection of summaries of the talks at this point, which include Michael Pollan, Matt Ridley – It’s a very long list.
+
+Stewart Brand: Tim Ferriss.
+
+Tim Ferriss: Tim Ferriss? There you have it – on meta-learning, which was a lot of fun. For people who perhaps want to take a break from the perishable goods of so-called news – non-scientific news, fashion, and all of that noise – to think about the slower-moving, extremely powerful layers, are there any talks that you might suggest they start with, or any summaries?
+
+Stewart Brand: I’d have to scroll through them, but one that comes to mind is Matt Ridley talking about rational optimism. There’s a good one by Ian Morris on basically how the West won the world –for now.
+
+It’s a sort of Jared Diamond-level understanding of how civilization has moved in relation to the makeup of the planet. Jared Diamond is so neat. Jared gave one of the talks. The main one is his Guns, Germs, and Steel book, though his Collapse book also has some interesting stuff to propose. I’d have to go down the list. Do you have someone that you particularly like?
+
+Tim Ferriss: I’m basically looking for a shopping list because in the last few months, I’ve become particularly sensitive to the fact that I’ve been pulled out by the riptide of noise, so I’m actually looking for a homework list from you more than anything else.
+
+Stewart Brand: Well, I’m looking at the Seminars home page at the Long Now Foundation, and I guess we’ve done 120 or 130 of these talks now, and they’re about as long as this broadcast. They’re 90 minutes, so it’s like a long-form TED Talk. They’re illustrated, so there are really good, edited videos of them. A lot of people use the iPod when they’re riding to work or something like that, as I’m sure they do with your stuff.
+
+The recent ones – Jim Glick did a version of his book Time Travel. It’s some of the most cogent thinking about time that I think we’ve seen in a long time. Kevin Kelly has done two or three now. Jesse Ausubel did one on how nature is rebounding. It’s not widely known that we’re pretty much at peak farmland now, and that’s fantastic.
+
+As more and more of these lab-grown or vat-grown synthetic meats come along, I think we’ll start to have less of the landscaping given over to grazing, which will free up a lot of nature, which is where I’d like to see things going. Geoffrey West did a talk version of his book Scale, which is particularly fantastic.
+
+He focused on cities and how cities are quite different from businesses in the sense that as they get bigger, they become even more innovative, whereas when companies get bigger, they become less innovative. He is a theoretical physicist who has developed a logarithmic scale model of understanding how that happens and why that is the case. It’s stuff like that.
+
+Tim Ferriss: So, these are – Immediately after we’re done talking, I need to jump back in because I’m feeling a deep hunger for revisiting these, and for a lot of them, visiting them for the first time. You mentioned –
+
+Stewart Brand: Why, because you’re tired of the daily melodrama in the White House, or what?
+
+Tim Ferriss: I’m tired of daily melodrama, period. I think that’s whether it’s self-manufactured emergencies or anxiety or shiny objects that are distractions, I’ve actually – and, I don’t want to take us too far off the rails, but I’ve been – I hesitate to use the word “mysticism.”
+
+You mentioned that after having some of these psychedelic experiences, you felt like you’d peeked behind the curtain in a sense, and that some of the appeal or draw of mysticism was decreased. I’ve had the opposite experience and have been increasingly drawn to reading about definitions of reality and looking at perception and the doors of perception, and really trying to pull back from –
+
+I was actually just chatting with Tim O’Reilly about this. If we were to look at reality, our personal experience as perceived through the senses being one abstraction of that, and language being an additional abstraction on top of that, I’ve been trying to return to –I hate to use this term, but I’m not coming up with anything better on the spot – “source” or the layer of least abstraction, to study that to the extent it’s possible because I think it informs everything else that is upstream.
+
+Stewart Brand: So, there’s probably a book or two that is speaking to you at this point. What are they?
+
+Tim Ferriss: Well, I will tell you that I’ve been reading –.
+
+There are books that are speaking to this, but they might not be what people would expect. They’re actually not nonfiction. I think I’ve tried to look in nonfiction for answers, but there is a very kinesthetic feeling of greater truth which will make certain rationalists drop their jaws open.
+
+I’ve spent my whole life operating out of my prefrontal cortex, using spreadsheets and pro and con lists, and I think that for a long time, I viewed my emotions, intuition, or feelings as liabilities and distractions, and nothing else. I’ve come to believe otherwise. I’ve actually spent a lot of time reading certain poetry – which is very much a thing that no one who grew up with me would associate with me – but also reading highly autobiographical fiction that questions the nature of perception.
+
+For instance, Milan Kundera’s The Book of Laughter and Forgetting is just a tremendous work that uses hilarity and absurdity to teach a lot. So, that’s one that comes to mind because I literally just finished it yesterday and it’s sitting on my table. What books are you drawn to right now?
+
+Stewart Brand: I’ll come to that. I wanted to say a little more about – what you’re talking about is taking comfort in the larger frame, the longer frame, and apparently, there was some research done on this a few years back that Danny Hillis has referred to. I have never seen the actual research, but when people are doing they care about for a long-term institution they care about – it might be a church, a branch of the military they’re in, the U.S. government, a species they’re dedicated to – they take comfort in engaging the timeframe of that institution or thing.
+
+And, I think one of the comforts when you’re dealing with an institution that’s lived longer than any human or a natural system that’s been here longer than even humans themselves have been around, and you extend your vine back through the narrative, the sequence of events, or the story of that thing, and then you extend it forward, when you extend it forward, you go by a thing which might otherwise obsess you, which is your own personal death.
+
+Denial of death is a big event, and things that finesse death without denying it by taking on the life of something that lives longer than you do – people get this from their children and grandchildren, obviously.
+
+That’s why the loss of a child is harder on a parent than any other thing, I think. But, this is a place where people like to abide from time to time, and it also feels like the opposite of the daily melodrama, which God knows has its own attractions. Part of having balance is having this other frame of reference, and some get it from religion, and some get it from meditation, and some get it from cleaving to a long-term thing – a species or an institution.
+
+I think it’s one of the reasons that the Long Now Foundation, which is kind of a strange thing to be successful – all it’s doing is saying that long-term thinking is probably good. Let’s build a 10,000-year clock and see if that helps. A surprising number of people say, “Oh, good idea!”, and want to engage in some fashion other than by listening to these talks, or becoming members, or going and hanging out with the clock when it’s finished in a few years. In my case, I’m trying to bring back woolly mammoths, and that’s going to take a couple of centuries, so I’ll just get a start on that when I’m 78. That’s comforting.
+
+Tim Ferriss: There are so many different directions we could go with this.
+
+Stewart Brand: I know. I can see them branching out in your mind there.
+
+Tim Ferriss: The dendrites of possibilities are branching out, and I think I’m going to go –
+
+Much like the parachute not opening, I feel that for the people listening, I have to address the woolly mammoth, so thank you for that easy option. I shouldn’t assume, but I will: Is this related to Revive and Restore?
+
+Stewart Brand: Yeah. Revive and Restore is an organization that my wife, Ryan Phelan, runs. We’ve been working on it for almost five years now. It basically brings genetic technology to wildlife conservation. The general term for what we do in the subdiscipline that’s opening up in conservation biology is called genetic rescue. Mainly, you’re focusing on genetic workarounds for inbreeding and depression in small populations that one would like to have come back and be large population.
+
+May be there’s a small group of California condors left in captive breeding, and you want to get them back out to the wild, which has now happened. The genetic monitoring of that helps with the breeding program, for example. We can head off diseases to dial down severely destructive invasive rodents on ocean islands, for example.
+
+You can do it with genetics – in that case, maybe with gene drive, which is a very aggressive form of genetic information. And then, the extreme case is that we now have recoverable DNA from animals that have gone extinct, whether it’s just 100 years ago like the passenger pigeon or several thousand years ago like the woolly mammoth.
+
+If there are close relatives to those extinct animals that are still living and have working genomes – in the case of the woolly mammoth, it’s Asian elephants – then you can contemplate – or, in the case of George Church at Harvard, begin to apply – the taking of the most mammoth-y of the mammoth genes, their identification, and the use of editing tools like CRISPR to move those genes into the genomes of living elephant cells, moving in the direction of eventually being able to get a cell with a nucleus that basically has a woolly mammoth genome and getting that into a living Asian elephant who can give birth to woolly mammoths.
+
+Obviously, this would go through many steps, and it would move from there to the standard reintroduction techniques of wildlife conservation to get the woolly mammoths up to a population that is self-sustaining, has enough variability that they will not get into an inbreeding bottleneck, and start the process of reintroducing them into their wild, which is the far north where there’s not a lot of people, so they may be able to prosper pretty well.
+
+Eventually, the rest of that story is that woolly mammoths could be part of the revival of what used to be called the Mammoth Steppe, which is the grasslands of the far north, which was once the largest biome on Earth. When humans got through all of that biome and killed off all the large megafauna except for the musk ox, that grassland turned into tundra and boreal forest.
+
+Mammoths would be helpful as we bring back the various grazers of the far north such as the musk ox and the woolly rhinoceros. Mammoths are good as elephants are good all over the world. Everybody had elephants, and what they’re good at is knocking down trees.
+
+Knocking down trees is good because it turns a closed-canopy forest into mosaic, and a mosaic is a much richer ecological environment for all kinds of species, as we see in the parts of Africa that have these animals. The far north could be like the Serengeti is now. That’ll take a while, but we’ll probably do it.
+
+Tim Ferriss: So, to those people who feel fearful of some of what they perceive as implications of this – For instance, what is your response to someone who might say, “We couldn’t have predicted or didn’t predict the downstream effects of when we were eliminating these species. How can we be confident in predicting the consequences of reintroducing megafauna like the woolly mammoth?”
+
+Stewart Brand: Well, that statement – it’s the same with climate – that analysis is usually based on the statement that this is a system so complex that we don’t understand it, and if you screw around with a complex system, you’ll have unintended consequences that you just hate. If that approach were completely adopted, there would be no human medicine because the human body is a very complex system of which we have – at best – partial knowledge, but we screw around with it all the time.
+
+That’s why I and any number of people are still alive, because of medical interventions that were made that we had reason to think might work out, and thanks to a lot of science over time and a lot of failures, they do work out. So, what you do with a complex system that you don’t completely understand is tweak it and see what the tweak does.
+
+Tweaking is good because it’s probably not going to cause a major change. It’ll cause a small, local change; you can see how it works. Ecology is not a predictive science, but it is a great observational science. And so, like with the human body, you can do these experiments, see what happens, build onto your successes, and work around your failures. It’s normal.
+
+Tim Ferriss: I should say that I’m taking a devil’s advocate position. There are also observational datasets you can pull from that don’t involve genetic rescue incorporating something like CRISPR, but are along the lines of the reintroduction of wolves to certain parts of Yellowstone and how that affected elk or deer populations, which affected grazing, which ultimately affected the paths of rivers and so on.
+
+It’s fascinating. There’s some really engaging video that discusses that. Now, is the woolly mammoth a –how much of the interest in the woolly mammoth is specifically about an input that has a really strong ecological output versus a simple fascination with the woolly mammoth?
+
+Stewart Brand: There’s no end of fascination with the woolly mammoth because there’s no end of fascination with elephants, as there well should be. Anybody who’s really spent time with elephants falls in love with elephants. In Asia, the Asian elephants have been a partially domesticated animal for a long time, and the fact that it is still endured – along with the fact that about 100 people are killed by elephants in Asia every year – suggests that not only are they useful, they are loved.
+
+In Africa, they don’t kill people quite as much, but there’s a certain amount of death and destruction that happens with them there. Let’s have an open mind about the fact that there are downsides as well as upsides for having an elephant in your life, but humans and elephants have lived together for a long time, and mostly, we know how to do that.
+
+They are safest for themselves and for us when they are in wildernesses that they pretty much own. The far north in the arctic and subarctic regions would be swell for that in terms of woolly mammoths. I think I went so astray from your question that I lost track of what it was.
+
+Tim Ferriss: Oh, that’s okay. The question was how much of it was a strategic decision for the impact the woolly mammoth could have versus a personal interest or passion for the woolly mammoth that is unrelated to its impact if reintroduced?
+
+Stewart Brand: Well, there’s a scale issue here which I am concerned about as a lifelong conservationist. We hear about biodiversity a lot, but I want to reintroduce the idea of bioabundance. One of the important plants that’s being brought back genetically is the American chestnut, which used to be one quarter of all the trees in the eastern deciduous forest. The blight from Asia came along that killed them. Basically, they’re still around evolutionarily but extinct ecologically. A workaround was found to make American chestnuts that are now completely blight-proof, and those are being bred up.
+
+Because they’re a food plant – people eat chestnuts roasting on the open fire – they are going through the government regulation process, but they’re getting back into the wild already. What they will do is not just introduce one tiny element of biodiversity to the eastern forest, they will introduce food that comes raining down – sweet nuts that everybody eats, including humans.
+
+When they all died off, the animals that lived on those nuts had to start making do with acorns, which happen only from time to time, and they’re bitter. So, the richness of the eastern forest will be made much more bioabundant as these trees come back. The same is true – as you’ve mentioned – with bringing wolves back to Yellowstone. The same is very much true with bringing beavers back to Scotland and England.
+
+They’ve been reintroduced in Sweden, and they are what are called ecosystem engineers that make the ponds, that cut down some of the trees, that make a whole rich environment for lots of other species along with themselves.
+
+Everybody who’s been on safari in Africa – whether it’s South Africa, Kenya, or Tanzania – has had an experience of wildlife on the land where – my God, there’s hippos, giraffes, rhinos, lions, elephants, and a lot of big animals moving around and dealing with one another – wildebeest in huge herds like the American bison used to be in the U.S. The whole world was like that. Africa is just a remnant of what the entire world was like.
+
+I think a whole lot of the world can be that again with the large animals, and that’s my long-term goal. As it happens, one of the largest of the land animals is the woolly mammoth, and it looks like they’re a relatively straightforward one to bring back, so there you have it. Among big animals, the mammoth is a good place to start.
+
+Tim Ferriss: Thank you. That’s extremely helpful. I’d love to expand from that to a discussion of – for lack of a better term – environmentalism in general. This is a quote. Feel free to correct it because often, quotes are misquotes. “[Stewart’s] own big idea is that the best approach to the issues he discusses is pragmatism. He fleshes it out by example rather than discussing is philosophical defense by John Dewey or William James. He reckons it as an engineer’s approach, accepting whatever gets results. For environmentalists, he suggests it means not a shift in ideology, but discarding ideology completely.” The part that grabbed my attention here is “it means not a shift in ideology, but discarding ideology completely.” I was wondering if you could talk a bit about that and what you mean by it.
+
+Stewart Brand: I was part of the creation, I guess, of the so-called modern environmental movement in the ‘60s and ‘70s, and a couple of things got brought into the environmental movement by proximity and osmosis. So, there was a leftist perspective that came in from the New Left at the time, so a lot of the environmental movement was knee-jerk, anti-corporate, and anti-business.
+
+And, there was a lot of romanticism that came from the hippies of “back to the land” and a lot of that kind of stuff, and that romanticism turned into a certain amount of anti-technology and even anti-science sentiment. To be one with nature is to dissolve yourself in the nature that is already there, and don’t fuck with it. Any kind of intervention or any kind of reliance on technology was regarded as a “techno fix,” and therefore contemptible. That set of framings got set in concrete, greatly outlived its usefulness, and started to get in the way.
+
+So, in 2010, I came out with a book that was basically about the rise of ecopragmatism that I called Whole Earth Discipline, and it was looking at things that I thought environmentalists just had wrong. We had it wrong that genetic engineering was a bad thing in agriculture. GMOs were thought to be bad, starting with Friends of the Earth and spreading from there. I saw that happen at the time.
+
+Nuclear was thought to be bad, and when climate change came along, and it was the shortest cut to be able to really reduce the emissions of greenhouse gases, it was discounted for reasons left over from an earlier time. Cities were taken as the problem rather than its solution, but when you look at the demographics, cities are the solution. They’re the greenest thing that humans do.
+
+Geoengineering – intervening in the climate directly to buy ourselves more time, to cut down our emissions – was taken as some kind of profound abomination. As Al Gore told me, “Brand, you want to experiment with the whole planet? Don’t do it.” Again, this is like we were saying about what we do with ecosystems. We tweak things to see what works, go in the direction of what works, and avoid what is not working.
+
+So, I think the environmental movement – to the extent that it can even be called a single thing anymore – is catching up to the real world, and it’s taking a whole lot longer than I would have liked, but I think reality – especially in terms of climate – is just going to keep hammering us.
+
+Tim Ferriss: It seems to me that looking at the projects you’re currently involved with, looking at the projects that you’ve been involved with, you’re very good at enlisting the help and collaboration of other people. I asked Kevin Kelly if there were any particular questions, topics, or facets of your life that might be fun to explore, and one of the bullets that came back was that very few humans have ever turned down a request from you.
+
+How are you so persuasive? I’ll leave it at that. I don’t know how to dig into that. I can try, but let me just keep it general. Why does Kevin have that perception of you, and why are you – if that’s the case – so effectively persuasive, do you think?
+
+Stewart Brand: I don’t get – I don’t ask that much. Basically, I invite people to give these seminars about long-term thinking, and it’s kind of like being invited to give a TED Talk. It’s not that hard to say yes because you’re getting a nice audience by being invited to be on the show. I do run into a fair amount of people who feel one form or another of gratitude or admiration for The Whole Earth Catalog back in the day, and so, a number of years ago, when I asked Craig Venter to give a SALT talk, I was surprised to hear him leaping into saying yes. It turned out he’s of a generation who got his twig bent The Whole Earth Catalog and felt good about payback.
+
+So, a certain amount goes with that. Other stuff has to do with just being around and being public for decade after decade. You get known and recognized enough where you don’t have to establish your bona fides over time because that’s already been done. I don’t think it’s more profound than that.
+
+Tim Ferriss: At the same time, though, I could say you’ve been in the public, met many people, and interacted with a huge group of individuals. When most people have that much interaction over a long period of time, they sometimes make mistakes. Maybe people meet you on a bad day. This may be a strong wording, but you don’t seem to have any known enemies, if that makes sense.
+
+I’ve never heard someone attack you, and maybe that’s just because I haven’t come across it. Why do you think that’s the case? Even if that isn’t the case, why is that the perception?
+
+Stewart Brand: Well, I’m not powerful or rich, so the enemies that go with positions of power – There’s nothing to resist. It’s the same thing that goes with a certain kind of wealth. It’s not there either. I’ve certainly hit people who have opposed me on certain things, sometimes publicly. Mostly, I think that my successes have been public, and my failures have been private. From the outside, it looks like lots of good things.
+
+I don’t really know. I guess I haven’t been associated with things that I later wish that I haven’t been, or that other people wish I had not been. The main politician that I’ve worked closely with was Jerry Brown. Neither he nor I are suffering from his reputation in that respect. So, my associations have worked out very well, and I guess I’m lucky.
+
+Tim Ferriss: Do you have any particular failure that you could share which greatly informed your life after you experienced it, something that could be something that set you up for later success, or a failure that taught you a lot in some way or another?
+
+Stewart Brand: I failed to finish Ranger training in the Army. I quit partway through after getting into it. Ranger training is much harder now than it was then.
+
+Airborne training and jump training is pretty much the same now as it was then. It was five or six weeks of pretty intense stuff, and about halfway through, after having finished the five-mile run part, saving myself from drowning in 32-degree water while weighed down with ammunition bags, and all of that, I just quit one day. I think I told myself was that it was January or February at Fort Benning, that the South was nice and warm, and I was out in the freezing cold and not learning so much, so that was the stupid excuse I gave myself to quit.
+
+It’s like all these intense military trainings that the SEAL team, Delta, or any of those guys do. If you say, “I don’t want to do this anymore,” you are gone in about 30 seconds, which is the right thing to do. And so, what I learned from that is not to quit anything because of a snap decision. I quit lots of stuff, including many successes, but I don’t do it on a snap decision anymore.
+
+Tim Ferriss: Can you think of a –project or anything that you were involved with later where you had the impulse to quit? What was behind it, and what did you do instead?
+
+Stewart Brand: Hmm – I’m making noise because I’m trying to avoid radio silence while I ponder if there’s something that I want to –
+
+Tim Ferriss: I could also come back to that and buy some time, if you like.
+
+Stewart Brand: Sure. Let’s buy time because I’m not getting anything immediate.
+
+Tim Ferriss: All right. I’m going to buy time. Since we were talking about physical training, can you confirm one thing – are you currently 78?
+
+Stewart Brand: Correct.
+
+Tim Ferriss: And, you do CrossFit twice a week?
+
+Stewart Brand: That’s correct.
+
+Tim Ferriss: All right. I have two questions related to CrossFit. You seem to thrive on variety. Like you mentioned, you got bored of snowboarding because it’s up, down, up, down. What appeals to you about CrossFit, and do you have any favorite exercises or workouts?
+
+Stewart Brand: Oh, good God. Well, in relation to getting bored, the wonderful thing about CrossFit for me – among other things – is that it’s a different set of exercises that you encounter every single time. I’ve been going for two and a half years now, and I do not look online to see what the workout is going to be. I show up, I have my jump rope, I’m going to do whatever’s there that day, and it’s always different. Also, because you’re doing it with other people in a competitive mode, there’s a social aspect to it, and there’s going to be a different group of people in the two days I go, though some of them are the same, “Hi, Nick. Hi, Casey.” There are also some that are different. The competitive aspects that you’re going against time and keeping score help to keep it interesting.
+
+It’s a very impressive product – a genius program in terms of getting rid of a lot of the spurious stuff of gyms. There are no machines, no mirrors – there are rowing machines, but that’s it. There’s free-weight work, and the free-weight work is not only for training strength, but the coordination to manage free weights. You don’t have the machine doing the managing part for you.
+
+It made a huge difference for me. I started it at 75, and within a few months, I was 30 pounds lighter. I’m at 157 pounds now, which is the weight I was when I started The Whole Earth Catalog at the age of 30. And then, you stand different – as you know – when you work out.
+
+One of the things I learned to appreciate in the military was being able to stand like you mean it. To stand like you mean it, you’ve got to be fit, and that just makes all the difference. My own sense is that –certainly for males, and maybe for anybody, having a certain amount of fitness and strength makes you proud, and being proud is the most reliable source of happiness that I know.
+
+Tim Ferriss: CrossFit is fascinating to me on many different levels –
+
+Stewart Brand: Good!
+
+Tim Ferriss: I had my first CrossFit workout in ’99 or 2000 – I want to say it was around 2000 – in Mountain View at a Ralph Gracie Jiu-Jitsu Academy where a number of the guys were going to Santa Cruz to train with a bunch of the original CrossFit crew.
+
+And, it has morphed a lot over time, but I remember in that year – and maybe the year after – how many people talked about how there was no demand for yet another group exercise program. It made me think of how Starbucks was turned down by many different investors who said, “Really? Another coffee chain? Nobody needs that.” This leads me to want to ask you about – and, I would love for you to describe it for people who are not familiar with it – you mentioned a name earlier on, which was Doug Engelbart. You were present for what has been called “the Mother of All Demos.”
+
+I’d love for you to describe for people what that was and what the experience and feeling was for you and other people in the room. What I don’t know – because I haven’t read much about it – is if people realized the implications of what they were witnessing. So, if you could take it from here and tell us the story, that would be great.
+
+Stewart Brand: So, beginning with Starbucks and CrossFit, it’s the difference between a good idea and good execution, or even a bad idea and good execution. The execution on CrossFit was impeccable, and you being there at the start of it is impressive. There’s a nice book on it by J.C. Herz called Learning to Breathe Fire, which tells the story of how CrossFit came about.
+
+The title refers to something I saw in the military during basic training and learned to appreciate there, which is that you can take people and force them beyond – get them in a situation where they go beyond their expectations of what they’re capable of, the world opens up for them, and that’s one of the things that we did with basic training.
+
+I would see these trainees come in from Brooklyn and so on, and we would push them, and they would discover that there was so much more that they could do with their bodies – and under certain circumstances, with their minds – than they thought, and they started to grow toward infinity with that realization. So, CrossFit does that for a lot of people. It’s quite intense, and that intensity, as you know – Once you realize you can do stuff that you didn’t think you can do, then things open up.
+
+So, the “Mother of All Demos” was at a 1969 Fall Joint Computer Conference, and this was a demonstration where a group at SRI that I got to be part of as an advisor and filmer showed the results of about three or four years of work doing what Doug Engelbart called “automatic human intellect.” He was using mainframe and mini-computer capabilities to do interactive text and windows. He and his leading engineer Bill English developed the mouse. He gave a demo that was about an hour and a half long in San Francisco that is the greatest high-wire act you’ve ever seen because they had developed –
+
+The computer that was running the demo was not in San Francisco. It was 30 miles south in Menlo Park. Bill English had developed a microwave capability to get the data flowing back and forth between San Francisco and Menlo Park so that the computer-generated demo was happening.
+
+Well, that was a very tin-cans-and-string type of a connection, so getting it to the edge of capability and maintaining it for an hour and a half was astonishing in its own right. So, Bill English was in the room and in Doug Engelbart’s ear. He was on the stage and also on the projected screen, and his face was being cut in and out of the visuals that he was working.
+
+He was showing how you can create text, change text, make various files, move the files around, and connect them to other people. He was showing the mouse and keyboard he developed – a one-handed keyboard – and all of the time that he was going through his spiel, which we had heard once or twice – it was basically him telling the play-out of the work that he and the team had been developing for three or four years – it was hanging over the raggedy edge the whole time. Bill would whisper into his ear, “We lost signal from Menlo Park. Fake it for a while. Doug would just launch into some encomiums for the people that he worked with and hold forth on that while his computer came back up. It really was an awesome demo.
+
+I was not in the room. I was in Menlo Park filming that part of the action – hands on keyboards, what was on the screen, and stuff like that. So, at the end of it, I was just hearing the voice of the person who was in communication with Bill English, who was in communication with Doug on the stage. Everything wound down, and we were looking around. “Is it over?” “Yeah, it’s over.” “Well, did they like it?” “Just a sec, I’ll check.”
+
+It turns out that in the room, there’d been a standing ovation, minds had been blown, Alan Kay redirected his entire career, and various people got completely knocked out and blown away by it all. But, down in Menlo Park, the answer came back, “Um, yup. Apparently, they liked it. Good night, everybody.” So, we just all wandered home.
+
+Tim Ferriss: Oh, wow. Just another day in the office. “Let’s go get some pizza. Thank God it’s over.”
+
+Stewart Brand: Yeah, basically. “We worked hard, and it’s done now. Phew.”
+
+Tim Ferriss: I want to mention one thing about – just to come back, I feel a duty to say one more thing about CrossFit, which is that there are a lot of incredible things and benefits associated with CrossFit. I think there is a risk that people should be aware of, which is the ideology of “Our way is the only way.” So, there is a bit of a culture of intolerance around some people who practice CrossFit, and I would just caution people to be aware of that so that they don’t develop a myopic approach to fitness.
+
+I know a lot of people who are involved with CrossFit, but I’ve also – for instance, after one podcast I did of which the headline was “The Good, the Bad, and the Ugly of CrossFit” – had the founder of CrossFit reach out to schedule a phone call, and I thought it was going to be because the podcast was very complimentary, and I thought it would be a conversation on doing something on the podcast or something else.
+
+Instead, it was this very threatening call because of the headline, even though they had not listened to the audio. So, I would just caution people about anything that paints a very black-and-white picture, that is “us versus them.” That would just be my cautionary tale. On the Mother of All Demos and moving back into tech a little bit, I would love to talk about the expression “information wants to be free.”
+
+Can you comment on this phrase that is attributed to you – “information wants to be free” – and also, if it is the entire quote. I’ve read that it is not. If you could elaborate on that a little bit, I would certainly love to hear it.
+
+Stewart Brand: It keeps coming up from time to time because there’s a paradox out there of information – especially on the web – swarming around, and whether there should be paywalls for scientific journals. My feeling on that is that there should not, but you can see why Elsevier and other organizations that have paywalls for scientific journals are reluctant to take them down because they are extremely remunerative for those organizations. But, I think they are bad for science.
+
+So, that’s a current application of this particular argument. The statement I made goes back to 1984, when Kevin Kelly, Ryan Phelan, and I organized a thing called the Hacker’s Conference. It turned out to be the first Hacker’s Conference. That particular thing has been carried on from year to year since then. One of the people who came to the Hacker’s Conference was Steve Wozniak, along with a lot of the great hackers of the time, such as Lee Felsenstein.
+
+John Markoff was there, and he’s the best reporter of all that material. It was great. There’s a good video about it that you can find online. But, in the course of it, there were a lot of public discussions of the issues at the time being talked about, and one of it was freeware, shareware, and regular commercial products.
+
+Steve Wozniak was making the point that – copy protection was a big question that going around because copy protection would be put on software, so you couldn’t easily copy it and give it to your friends, but on the other hand, the copy protection made it much less convenient to use as a tool, and that was a real debate.
+
+Steve Wozniak was saying – quite rightly – that the engineer puts a couple of years’ work into these things. He or she – it was mostly “he” in those days – should get some kind of remuneration, so it needs to be commercial. I apparently replied, “That’s right; information does want to be expensive, but information also wants to be free.”
+
+As it gets easier and easier to copy anything that’s digital and distribute it equally as easily, that debate is going to go on forever – that information wants to be free, and that it wants to be expensive. Everybody knew that information should be expensive – that was the standard commercial model – but the thing that digital capability was bringing was that there could be vast quantities of information moved around freely, so “information wants to be free” became kind of a slogan or motto of the time – a bumper-sticker shortcut to dealing with a large phenomenon that was happening.
+
+But, the rest of it really was, “–and information wants to be expensive,” and that relationship is not contradictory. It’s paradoxical in the sense that the more of the one, the more of the other. The more information wants to be free, the more it wants to be expensive because there’s that many more values to accrue to very large audiences, et cetera.
+
+I think it’s a debate which is permanent. It’s kind of like the debate around the term “hackers.” Is a hacker a good guy or a criminal? The answer is both. Information will continue to be a source of major commercial activity and a huge source of freely available stuff. My rule on Twitter is that when I link to something, I only link to stuff that is not behind paywalls, so you can look at it itself. Probably, once you get there, that source will show you whatever I linked to, and they’ll all beg you to subscribe and pay for their service, and you might do that.
+
+Tim Ferriss: I was mystified recently – I’m not going to mention the outlet because I might actually get it wrong, but it was a mainstream scientific publication that was only – it was promoting articles in its Twitter account, and they were all behind a paywall.
+
+Stewart Brand: Yeah, I think that’s kind of crazy.
+
+Tim Ferriss: It drove me nuts because I said, “Look –”
+
+Stewart Brand: It’s tricky. You have publications like New Scientist – which is not really a strict scientific publication, but a good publication – they put a paywall on all their stuff, and as a result, I think they have a much smaller audience than – Things from nature or science magazines that look like they’ll want to be widely read by the public often get out from behind the paywall, and that’s good for science, it’s good for public understanding of science, and I think it’s ultimately good for the publications because people realize that there’s lots more good stuff where that came from.
+
+Tim Ferriss: Exactly. If you’re trying to get someone hooked on a drug – whether that is a pharmaceutical or really good information in a curated and edited magazine – it behooves you to give them a sample if it’s really good enough to be addictive. So, if you have a social account where you’re only sharing things behind a paywall, there’s no conceivable user behavior that I can think of where they go click on a headline expecting to read an article, they don’t get the article, and then they’re asked to pay for it.
+
+Stewart Brand: By and large, no. Every now and then, you’re so desperate to see the thing that you pay the $29.95 or whatever it is, but you’re angry.
+
+Tim Ferriss: I would love to – I suppose this is a good segue from “angry” or “frustrated.” A lot of people suffer from clutter, and I have heard that even at the height of paper – before many things were digitized – that you had a completely clean desk, and that is also true of your inbox.
+
+Stewart Brand: Where did you hear that?
+
+Tim Ferriss: Well, I don’t want to incriminate anybody if it’s not true.
+
+Stewart Brand: Do it! Tell me! I’ll track them down and –wonder what happened.
+
+Tim Ferriss: Is that not true? Is that not accurate?
+
+Stewart Brand: It’s not accurate.
+
+Tim Ferriss: All right, we can skip that if it’s not accurate, but if you have any organizational rules or principles that help you to keep your life or projects in order, maybe that’s a graceful lateral move from what is incorrect.
+
+Stewart Brand: I think whatever systems I use are half crap.
+
+I have been rewarded for not getting rid of stuff, which is that – the guy who’s actually suffering from it the most now, by the way, is John Markoff because he’s the guy who took on trying to write a biography of me. It’s a fun book project where I get to help in the research but don’t have to do any of the work.
+
+The poor guy is overloaded with material because I’ve led a relatively stable and continuous life in the Bay Area, and I threw all my interesting stuff into boxes. There are now 70 linear feet at Stanford in their archives, and they’ve probably got another 100-plus feet of my papers yet to come – notebooks that I kept every day – not every day, but that I’ve written in since I was in college and all that stuff.
+
+So, having enough storage space to throw the interesting stuff with the remote idea that it might eventually be interesting enough to go back to turned out to be a cluttering move, not a decluttering move. The decluttering move is to get rid of it. But anyway, it gives poor John lots to work with. I think a result there is that he’ll be able to tell a more accurate and probably less interesting story of me, whereas if there was none of that stuff, it would all be hearsay, and hearsay is more interesting than the real thing.
+
+Tim Ferriss: If you were teaching –let’s say a freshman seminar in college – Stanford, Berkeley, you could take your pick – if you could teach anything you wanted to a class of any size, what would you teach, and why?
+
+Stewart Brand: I don’t think Western Civ is taught anymore. It would probably be called Global Civ now. It was a required course for freshman in ’56 at Stanford for me, and it was a great thing with which to begin a college undergraduate education with. It was sort of an overview of civilization so far. There was also a very good course on comparative religion taught by Frederic Spiegelberg that I took. Those two things are a framing that I’d love to see more of. I don’t think I’m qualified to teach a thing like that, but any person who takes on teaching something like that has got some wonderful research to do.
+
+You have a concept like Big History now. Big History is basically everything from the Big Bang to this week put together in one somewhat coherent narrative, and that’s the kind of thing I think is helpful to have out there. I’m not a very good teacher. I can occasionally give an okay lecture, but teaching is a real talent as well as a skill, and I have neither the talent nor the skill.
+
+Tim Ferriss: Well, let’s just pretend, though, that you had the talent and the skill, but as you put it, you weren’t qualified to teach Western Civilization, but if someone were to, they would have some wonderful research to do. Let’s just pretend that Stanford reaches out to you at some point after this podcast, and they say, “Great news! We would be honored if you would teach a class on Western Civilization. You have time to prepare.” They catch you in a moment of weakness, and you agree.
+
+If you had a few months to prepare for that, how would you go about researching it? What would you read? Who would you talk to? What would your approach be?
+
+Stewart Brand: Tim, this brings up another issue that I think not so many of your guests get into, which is at the age of 78, how many months do I have to prepare anything? My health is great, but the actuarial tables are pretty clear. I find myself not taking on long-term commitments as much. There’s a book I love to do, which would be called How to Be Rich Well, and that would take three or four years of serious research and probably two years of writing. That’s not actually what I want to do at the age of 78. Who knows how much time I have?
+
+Kevin Kelly has probably put it to you, but he’s put it to various people in a similar mode, which is that we’ve both discovered that as you move from project to project in your life, the projects that look like they’re – you start projects all the time.
+
+Most of them don’t take, but the ones you take on that you find yourself continually interested in, that enough other people get interested in, and that make a circuit of the world and start to come to life – to follow through on them and make them come to pass and be a thing in the world is going to take about five years. At various times in your life, you could have a sense of how many five-year sets in your life you might have, and once you get into your 70s, that becomes a number of fingers on one hand.
+
+So, one is not quite as – “Oh, yeah, I guess I’ll really take on that huge five-year commitment that I may not live to finish, given the way the statistics fall.” So, that’s a different answer to your question, but –
+
+There’s very good stuff in that line from Oliver Sachs in his last year, when he was writing like mad the whole time that he knew he was dying. I haven’t read it all, but I saw a glimpse of some of it. He would say things like, “There are some subjects I find I’m not interested in anymore because I really can’t do anything about them, such as climate change.”
+
+Stages of life – the life extension folks are working away, but meanwhile, we’re mostly working with a finite resource here, so part of life management is what you’re doing with the time you’ve got.
+
+Kevin Kelly has a clock on his computer that is counting down to the day he dies according to the current actuarial tables. He knows how many more hours he’s going to live and acts accordingly.
+
+Tim Ferriss: How do you choose your commitments now? How do you filter what to say yes to or what to say no to?
+
+Stewart Brand: Well, there’s a shift in most people’s careers that – actually, you’re having a career if it involves responding to opportunities. In your early career, the algorithm is “yes unless no.” If you get invited to do something, you probably say yes and then find out if it may not be such a good idea. But, at a certain point, that flips to “no unless yes.”
+
+If I get invited to give a talk now, it’s pretty much “no unless yes.” I’m not trying to build a career – there’s a certain amount of work in travel and updating the slides, or whatever the hell that may be, and there are other things I want to put my time on.
+
+But, people who don’t make that shift get into a kind of crazy point – maybe you’ve been there – of trying to move ahead on every opportunity that presents itself, and they’re all good, but in combination, they’re absolutely lethal if you try to take on more than the right number at the same time. And then, when you’re “no unless yes,” the criteria for saying yes changes. At the beginning, you’re pretty relaxed, and you get more and more constrained as time goes by.
+
+Tim Ferriss: So, you mentioned a word that I want to grab onto, which is “finite.” There is a book that has – in the last two years, it’s very odd. Maybe it’s selective attention, like when you buy a new jacket or a new car, and suddenly, it seems like everyone is wearing the same jacket or driving the same car. Chances are, it hasn’t happened overnight; you just pay more attention to it. But, there’s a book that originally came to my attention through Jane McGonigal, who’s brilliant and amazing. This was about two years ago, and it has increasingly been entering my life from different direction. The book is James P. Carse’s Finite and Infinite Games.
+
+Stewart Brand: Oh, good.
+
+Tim Ferriss: Would you please tell people about this book and how it has affected your thinking? Or, just the principle and the distinction between a finite and an infinite game.
+
+Stewart Brand: I got really interested in games back in the early ‘70s, and in fact, I organized a thing called the New Games Tournament. The idea I had there was that – actually, it began with my mentor at the time, a psychologist/biologist/anthropologist named Gregory Bateson.
+
+For some reason, we were thinking about the theory of games and the way it was being played out in terms of the nuclear standoff of the Cold War. He said, “The theory of games is brilliant.” He actually new John von Neumann, who came up with it. He said, “The problem with the theory of games is it doesn’t have a theory about how you change the rules of the game.”
+
+I thought that was a profound thing to say, and a profound thing to ponder and maybe act on. I got myself noticing the way I played games as a kid, and the way kids in general play games if they’re not carted off to Little League, soccer practice, and all that stuff. When they play games, they change the rules all the time. Stickball is sort of a version of baseball that depends entirely on how many people you’ve got in the street, the nature of the street, what you’re going to be able to use as first base, and stuff like that.
+
+Kids are more easily bored than anybody, so they’ll be playing a game, and it’s going along, and it gets kind of boring, so somebody says, “What if we play volleyball, but instead of the way you usually play it, let’s see how long we can go before the ball hits the ground?”
+
+It turns from a competitive into a collaborative game. So, I set up the New Games Tournament as a public place where a bunch of strange games would be provided. I provided a 6’ Earth ball that people invented various games around. It was a big push ball that crowds of people could interact with.
+
+We got a huge ship’s hawser and had a tug-of-war that went across a kind of canyon. It was a 300’ ship’s hawser with a couple hundred people on each side, and it was a Le Mans start, so I had a starter pistol. Both sides had to stand off 10 feet away from the rope. I fired the pistol, they’d both run to the rope, and start pulling. Of course, they’re pulling across a canyon, so the team that’s starting to lose finds itself dangling over this – it was just an arroyo, but they’re dangling in space.
+
+Bystanders would feel sorry for them and join the team that was about to lose to help pull in the other direction, and those guys would start to lose, and bystanders would help them, and it would go back and forth. This kind of immersion property of freely shaping games really interested me, and we had a number of such things – I invented a few games. Some of them were semi-violent, and –
+
+Tim Ferriss: What would be an example of a semi-violent game?
+
+Stewart Brand: One that was called Slaughter. I developed this for the War Resister’s League – this was during the resistance to the Vietnam War, and the War Resister’s League knew that I was doing public events like the Trips Festival, and they asked me if I would do a public even for them.
+
+So, here’s an ex-military guy who’s being asked by these people who want nothing to do with the military to advise them on what kind of event to have, and I said, “You guys need a war in the worst way, but it can be war on your terms.” So, we came up with a series of public events that we did at various campuses at the Bay Area that had, among other things, some warlike games.
+
+The one I invented was called Slaughter. What I knew from hanging out with American Indians and others is that physical games that involve both sexes are really good for young people because you get to – We’re not allowed to say “grab-ass” now, but it’s physical, sweaty interaction that is not explicitly sexual, but everything is sexual at that age.
+
+And so, it’s like dancing, only competitively and more free-form. So, the game I invented for these war resisters who I thought were not sufficiently in their bodies – or probably getting laid enough – would involve very physical interaction. What we did was get a pretty large wrestling mat – maybe 20’ by 20’ – and it was played on your knees because one of the things I realized is that people standing up can make their interactions too violent, and that falling down hurts. The deal was that there are two teams – shirts and non-shirts, socks and non-socks, or whatever – who are on their knees. There’s a starter gun, and they go at each other.
+
+You can “kill” the other players by wrestling them off the edge of the mat and thereby have slaughter. Immediately, people began coming up with all sorts of strategies like teaming up, staying out of the fray and lasting longer, and various things that you can imagine people doing. The deal is that once any part of your body goes over the edge of the mat, you’re dead and you can turn into a referee. And so, the people who have been killed are immediately out there saying, “You’re out! You have to leave.”
+
+I threw in some other complications of medicine balls that had to be put into baskets and things like that. So, it had the advantage of being intensely physical – because people really are having to grab and wrestle each other and move them to the edge of the mat – and simultaneously deal with people defending their basket and moving their ball into the other team’s basket – “Where is it now?” – and there was an overwhelming intensity that is ideal because you get out of your body at that much intensity and that many things to think about at once. So, that was Slaughter.
+
+Tim Ferriss: What was the – did you observe any particular effects on the group from playing this game?
+
+Stewart Brand: They loved it. They fucking loved it. Of course, these war resisters were dying to have physical combat in a way that clearly was not killing anybody. It wasn’t even hurting anybody. We had t-shirts that said, “Play hard, play fair, nobody hurt.” In a way, that was the better thing than war – a competitive situation where you play hard, play fair, and nobody gets hurt. So, it worked out well, and all of this is leading up to a book called Finite and Infinite Games.
+
+A fundamental interest is gamification – thinking of things in game terms and designing things in gaming terms is one of the profound things that civilization has done for a very long time. It’s a way of organizing physical and mental behavior, often in a combination that is just wonderful. Along with the James P. Carse book, the other book is Homo Ludens by Huizinga. Homo Ludens basically says “Man, the player.” Games are basically what we do.
+
+Carse takes apart the games that are win-lose – like elections – as opposed to the games that go on forever, which is democracy. You need them both. Within any election, everybody has to follow the rules that they’ve agreed to, but within democracy, you’re always looking for – “Okay, we’ve got a problem with the rules or we’re bored with the rules. What’s an improvement that we can make?”
+
+The infinite game is the infinite improvement of the games that we play, and that’s civilization’s story. Right now, in democracy, we’re thinking about if we should change the rule of the electoral college versus the popular vote, we’re talking about changing the rules of how to prevent gerrymandering from being such a distorter of the electoral process, and so on.
+
+I think the more people are comfortable with the idea of constantly improving the games we play, the techniques of doing that, and the freedom to do that in the sense that it goes on indefinitely, the better off we are.
+
+Tim Ferriss: As Carse might say, playing with the rules, not just within the rules.
+
+Stewart Brand: Yeah, but you’ve got to do both. That’s one of the points he makes. Within a game, there’s a boundary. There’s going to be rules. Players of the game need to agree on the rules. You see kids do this all the time. They play a game that’s not so interesting. Somebody says, “Well, let’s do it this way.” “No, no –” There’s an argument. After the argument, “Okay, we’ll try it that way.” If it works and they like it, then they’ll keep it, and on it goes. So, there’s the game, and then there’s the argument, and that combination is part of the story.
+
+Tim Ferriss: Is the contrast that I believe you’ve made before between goals and pathways related to all of this, or is it a separate topic? I’d still love to hear you expand on it a bit, whether it’s related to any of your projects – The Whole Earth Catalog or anything else.
+
+I’ve read that goals are not that interesting to you, but pathways are, and I would be – as someone who has traditionally been very goal-focused, I have changed my thinking in recent years about how I select projects to be less explicitly and singularly goal-focused. I would love to hear your distinction between the two – goals and pathways.
+
+Stewart Brand: This comes down to a lot of the career –theories that one hears out there. Follow your passion, figure out what you want to do in life, major in it, get a graduate degree, and go do it. I think that really works for people who have a clear idea that they want to be an X.
+
+But, I only buy that for some people. A lot of us have no idea about what we want to be, or it turns out – I wanted to be a firefight. I fought a forest fire briefly in Michigan when I was young, and I was going to go to the University of Idaho in Moscow and get a PhD in firefighting.
+
+Unfortunately, I had a teacher in prep school who said, “You could go to someplace else like Stanford for your undergraduate degree, and if you want to get a PhD in firefighting, go to Idaho.” That hadn’t really occurred to me, so he saved me from a pretty limited fate of going to the University of Idaho versus Stanford, which in that case had the option of both.
+
+I got to prep school and then to college, and realized that nearly everybody there was smarter and more capable than me. A lot of them knew exactly what they were planning to do. They were going to be lawyers, biologists, physicists, and whatnot.
+
+I had adopted – my older brother Mike had gone to Stanford eight years before me and he knew some of the best teachers there because he’d stumbled into them or heard of them. He said the way to get the best out of college is to find out who the really good teachers are, get a major that limits you minimally, and go to all the good teachers.
+
+So, I did that, and one of the things I got out of that was a wider range of mini-expertises than I would have gotten otherwise, and when I got out of Stanford, I started taking courses at San Francisco Art Institute and San Francisco State College in various skills that I wanted to get in design and photography, among other things.
+
+And so, by the time I was 22, I probably had eight different ways I could have made a living with skills that I had acquired, from being a logger choker setter, to an infantry officer, to a field biologist, to a commercial photographer, and various other things. Most of those things, I did not do.
+
+In fact, of the things that I had trained to do, the only one that really played out was six years later when I started The Whole Earth Catalog. I had taken some courses in writing and in magazine design way the hell back at Stanford, so when I wanted to start what was a magazine – The Whole Earth Catalog – I ignored the advice I had been given, which is that it takes a million dollars to start a magazine, and I started with $10,000.00 or $20,000.00.
+
+But, I had the skills, so – The general rule there is to keep on acquiring skills, and the way they add up lets you do things that turn up that you discover you did not want to do before, but now you can do it.
+
+Tim Ferriss: So, that is – when I mentioned that I changed how I was approaching choosing projects, it’s actually very similar in the sense that Scott Adams, the creator of Dilbert, refers to – I suppose in place of pathways, he would talk about systems thinking, which is a little confusing in some ways, but effectively choosing projects based on the skills and relationships that you develop so that even if said project fails over time, you are accumulating skills on relationships so that when – like you said – an opportunity presents itself that you couldn’t have possibly foreseen and pegged as an objective or a goal three years before, you’re ripe to take advantage of it.
+
+Stewart Brand: Yup.
+
+Tim Ferriss: So, I – I’m sorry, go ahead.
+
+Stewart Brand: That’s it. I’m agreeing with you.
+
+Tim Ferriss: So, we could talk for hours, but I want to be respectful of your time and wrap up shortly. So, you just agreed with me, and that’s actually a perfect segue because you agree, then disagree, and seem very flexible in changing your viewpoints and changing your mind, and you do this publicly. This is uncommon in a lot of worlds.
+
+Stewart Brand: I wish it were common, especially in politics.
+
+Tim Ferriss: So, how did you develop this, or what is the self-talk that allows you to do that so readily?
+
+Stewart Brand: I was trained as a scientist – as a biologist – at Stanford. That was a relatively low-requirement major when I was there. It was one of the reasons I took it, but I also knew I was quite seriously interested in biology. The thing about training as a scientist is that science is the only news. It is going to keep changing. You will be taught that something is probably the case, and then you learn – often within a year or so – that we were actually wrong about that. The people who were strong proponents of that have been exposed to the results of the people who thought that they were probably wrong, and it turns out that they were wrong.
+
+Whether or not they’ve admitted it, everybody else knows it, so let’s move on. And so, that moving on as a result of results is the result of trying stuff – experiments, observations, or whatever – with various hypotheses. You start to get used to the idea that all your opinions are hypotheses, and some of them play out, and some don’t.
+
+As you say, that’s not a standard mode of public discourse, so I think it’s helpful for somebody who changes their mind about something to spread the word. They’re pleased now. I realize that lots of times, somebody’s going to go from one crazy belief to another, and in the ‘60s and ‘70s, we say people buy into a lot of mystical frameworks – gurus and whatnot – and they would move from one to the other.
+
+But then, I think you can go up a level and suggest that if you’re moving from Guru A to Guru B to Guru C, does that suggest that gurus are a waste of time for you? So, there are various levels of being wrong, acknowledging it, and deciding what to do about that.
+
+In some cases, doubling down is the right thing to do because you really think there is something there even though in the first round, it doesn’t look like it’s there for sure. So, you double down a few times, and maybe if you get punished enough for that, you’ll decide that doubling down is no longer the right thing to do for you.
+
+But, I think with politicians, I would love every politician to have pretty good answers to the question of, “Sir or ma’am, in the course of your public serve – and thank you for doing that – what are some things that you noticed you were wrong about and had to change your mind about? Tell us about that.” If they say, “As I’ve always said, I’m never wrong,” you know not to waste your time with them.
+
+Tim Ferriss: Yeah. It’s such an important question. Given the game – so, we were talking about finite and infinite games, and I don’t want to take us too far into the political land because it would be a full other –
+
+Stewart Brand: It would be instantly dated right now. Whatever we say politically is going to be out of date tomorrow.
+
+Tim Ferriss: Right, so I want to focus more on the game that politicians have chosen to play. What is – is it possible to be an effective politician while still answering that question honestly?
+
+I guess there are probably examples of people who have answered that honestly, but then, there are people who answer it honestly and get labeled a flip-flopper or whatever you might call it, and that’s used as ammo against them in elections of various types. So, is –
+
+Stewart Brand: I think a shining example of mind-changing that we have in California is Governor Jerry Brown. I was on his personal staff in his first term back when he was the youngest governor, and I’ve kept in touch with him now that he’s our oldest governor. I remember being part of the entourage, and we would go to some public event like Space Day or something like that which I helped initiate and organize, and there outside the event would be the usual protestors about one thing or another.
+
+I would find myself trying to get Jerry in – “We’re all late, come on, let’s keep moving” – and he would see the protestors, veer off, and go over and talk to them. We were rolling our eyes, but here’s how he would talk to protestors. He would go over whomever it looked like was being a spokesman because they had the loudhailer or something and say, “I’m glad you’re here. What’s on your mind?” They would start to say their trip, and he would listen for a bit, and he’d say, “I think I got it. Let me see if I got it.”
+
+And then, he would say their stance back to them – often, better than they had stated it – and you would see them just melt because the thing they wanted to have happen was for him to be aware of their position and to understand it, and he’d just showed that he’d done that. And then, they had the further hope that since it was known that Jerry occasionally changed his mind and his policy on things, that not only had he heard their position, he might even adopt at some point.
+
+And so, he could always engage and defuse opposition with the fact that he could be persuaded out of a position that he had publicly taken. This made him – he was not a good speaker; he was not a charismatic character for the longest time. He was basically an introvert in public life.
+
+And yet, that characteristic – as much as any other – he made a lot of good policy. He was very bright, and eventually a very capable politician, but that characteristic opened him up to a very successful political career, and I think he came into it partly because he is kind of a contrarian. He likes to go against the flow, and this would be a case where –
+
+He was the son of – he grew up in a political family with Pat Brown, his father, and there were things about the way politics were done that he didn’t approve of, and that was one of them, so he just went against it and won big. Now, for somebody who’s thinking of going into politics – which I would encourage anybody to do – Jerry Brown is one good example.
+
+To me, the most wonderful example is Theodore Roosevelt. There is a three-volume biography of Theodore Roosevelt by an author whose name is escaping me that is totally inspiring. This was an individual with modest gifts who basically set out on your kind of self-improvement project early on. He was kind of a weak kid. He was born to money and got himself out of the strictures of that.
+
+He became a rancher out west and all of the rest of it. He kept reinventing himself and helped reinvent America in profound ways that make you want to take on his kind of self-project and also make you take on public service in the way that he did. Now, one of the campaigns these days is to get more scientists and engineers into not just appointed politics, but elected politics, and I’m all for it. I think that’s what needs to happen.
+
+Tim Ferriss: Is the three-book series by Edmund Morris?
+
+Stewart Brand: That’s the one. It’s beautifully written, beautifully researched, and an astounding subject.
+
+Tim Ferriss: All right. That is on my immediate shopping list.
+
+If someone listening who is not planning to go into politics, who does not have scientific training, like yours truly – I do not; I am not a trained scientist – Well, I don’t know. I am not a formally trained scientist. In any case, are there any books that you would recommend that people could use to help train themselves think more scientifically, and therefore be less hell-bent on holding onto strong opinions when given new information?
+
+Stewart Brand: What a very good question. I wish I had an immediate answer to it. Some of the biographies of good scientists – Edward O. Wilson wrote a rather wonderful memoir called Naturalist, about his becoming one of the great biologists of his time. This is a guy who revolutionized the field of biology five or six times personally.
+
+Tim Ferriss: What was the name again?
+
+Stewart Brand: It’s called Naturalist by Edward O. Wilson, who is one of my inspirations as a biologist. I later got to know him when we worked together on a couple of projects, and it was just awesome to do that. This is a guy who has won the Pulitzer Prize twice, so you’re in the hands of a very good writer. Writings by Freeman Dyson are excellent on how science actually works. They’re mostly collections of essays. One of his books is called Infinite in All Directions, which is the right kind of frame to have in relation to the universe, and science can get you there, as it did for him. The Feynman – Surely You’re Joking, Mr. Feynman! –
+
+Tim Ferriss: Yeah, I was going to bring it up. Such a great book.
+
+Stewart Brand: Those work very well because this was one of the great science teachers as well as one of the great scientists, and watching him think is just good across the board.
+
+Tim Ferriss: Yeah, there’s a fantastic documentary – I want to say it was NOVA, an old television program – it’s hard to find, but it’s called The Joy of Finding Things Out, in which Feynman talks about how, in many ways, his father taught him how to think, how to question authority, and it’s just fantastic if people can track that down. But, Surely You’re Joking, Mr. Feynman! is such a wonderful read.
+
+Stewart Brand: Yup. So, books like that – And, it’s a good question to keep going. Ask it of any people with a science background you get on your series here.
+
+Tim Ferriss: I will. The last – maybe second to last – question: I turned 40 recently, which has led me to think a lot about rules I’ve set for myself, trajectory, and many other things – just to reassess. It wasn’t a crisis of any type; I feel good about it, but I’m trying to ponder many different things. What do you wish you had known at age 40, or is there any advice you’d give me or another 40-year-old? Of course, their specifics would be helpful, but is there anything that you wish you knew or would emphasize for me or me or someone else who just turned 40?
+
+Tim Ferriss: I think “There’s still plenty of time” is not something that comes to mind at age 40. You may think, “It’s all downhill from here,” or, “There’s only so much time left” – all the things that go with not being young, where things are no longer infinite in all directions. They’re starting to be finite in all directions. But, there’s plenty of time, and to some extent, time compresses as your age increases.
+
+I remember when my mother was in her 80s, I said, “What’s time like for you?” She said, “Years are like fenceposts, just whipping by.” I certainly feel that at 78. I feel like I’m spending all my time clipping my fingernails and going to get another goddamn haircut.
+
+And yet, the thing which expands as time goes by – you don’t have to re-derive a lot of stuff from first principles. You’ve already got a number of things squared away, you’ve got a number of friends that you can count on, and you’ve got a number of skills that you can deploy, so when you do take on something new, it’s not like when you were 22, where you have to create the whole world to do it in. You’ve got a lot of skills.
+
+And so, in a way, time is compressed for you in terms of your abilities, and that’ll continue as long as your brain functions. And then, that dials down, and then you’ve presumably got to deal with how your sensations are still pretty intense and how you can get value from them.
+
+Tim Ferriss: Do you have any last recommendations, thoughts, or questions that you’d like to leave with the people listening to this, or any request or ask of the people listening to this?
+
+Stewart Brand: I keep running into versions of something we came across a couple times in this discussion, which is people worrying about unintended consequences, often of new technologies or some new regime of practice – whatever the hell it may be. And often, it’ll be in the mode of “Don’t even explore that area because unintended consequences will occur.”
+
+I think the mode should be, “Well, of course unintended consequences will occur,” and maybe it’s even worth – and, this is in your version of defining your fears – thinking about what the consequences that you’re worried about are, and meanwhile, watch while the thing is tried, try it yourself, and watch for those things that you’re worried about, and also, watch for surprises.
+
+Lots of unintended consequences are surprising. Watch for consequences that are surprisingly good as well as surprisingly bad. As far as I can tell, in most cases, there’s an even split. Hold the expectation that with the ones that are surprisingly good, you can not only stop worrying about the things that you were worried about associated with that, but you can build on them. Also, the ones that are surprisingly bad may indicate that the whole pathway is not so good after all, and you can shut it down or find workarounds.
+
+Basically, it’s trying to flip from being fearful about unintended consequences to being welcoming about situations that might have unintended consequences.
+
+Tim Ferriss: I love that, and on top of that, it makes me think of recognizing that with everything you do and with almost every moment, there are unintended consequences –
+
+Stewart Brand: Exactly. Weird shit happens.
+
+Tim Ferriss: – at all times, and for me, it draws a parallel with – I may be misattributing this, but I believe that at one point, I read about Andy Grove, and in his management approach, he would recognize that whenever you created an incentive, you would simultaneously create a perverse incentive or an incentive to do things that were undesirable.
+
+Perhaps you’re – I’m making this up – you create a commission structure for people who bring in a certain dollar amount of advertising revenue, and you could ask yourself in advance what the perverse incentive would be, and it would be to get someone to spend a lot of money up front, which could lead to advertiser disappointment because it’s front-loaded, and then a high churn rate.
+
+So, when you have a metric for what you desire, what metric could you look for or create to track what you don’t desire? It could be a high churn rate. So, with the assumption that there are always going to be unintended consequences to any material action, how can you measure and track them? I think what we just mentioned is so important.
+
+Well, Stewart, it is such an honor and a joy to have the chance to spend some more time with you in conversation on the phone like this, and it’s so much fun for me. Is there any particular place that people can check out – that you’d like them to check out – online, or places where they could say hello to you on social media?
+
+Stewart Brand: I’m on Twitter @stewartbrand, and the Long Now Foundation has a website, longnow.org, that has all sorts of things. We have a bar in San Francisco. I think there are relatively few nonprofits that have a bar, but we have one at Fort Mason that people welcome at, and all sorts of things are there.
+
+Tim Ferriss: That’s the Interval?
+
+Stewart Brand: Yeah, that’s the Interval, theinterval.org. And then, reviverestore.org is the place where the genetic rescue projects I’m talking about are going on.
+
+We started that within Long Now as a project, and now it’s gone independent and is its own 501(c)3, charging ahead with saving various species and various ecosystems genetically.
+
+Tim Ferriss: Well, Stewart Brand, thank you so much. I really appreciate all the time. I’ve learned a lot, I’ve taken many notes – as I hope other people have – so I just want to express my gratitude for you taking the time.
+
+Stewart Brand: Well, you make it fun for your interviewees, so keep up the good work.
+
+Tim Ferriss: All right. To everybody listening, as always – and, this is going to be one hell of a set of show notes – you can find links to everything that we’ve talked about in the show notes at tim.blog/podcast for this and every other episode. Until next time, and as always, thank you for listening.
+
+Hey, guys. This is Tim again. Just a few more things before you take off. 1). This is five-bullet Friday. Do you want to get a short email from me – would you enjoy getting a short email from me every Friday that provides a little morsel of fun before the weekend? Five-bullet Friday is a very short email where I share the coolest things I’ve found or that I’ve been pondering over the week.
+
+That could include favorite new albums that I’ve discovered. It could include gizmos, gadgets, and all sorts of weird shit that I’ve somehow dug up in the world of the esoteric, as I do. It could include favorite articles that I’ve read and shared with my close friends, for instance.
+
+It’s very short. It’s just a little, tiny bit of goodness before you head off for the weekend. So, if you want to receive that, check it out, just go to Fourhourworkweek.com – that’s Fourhourworkweek.com, all spelled out – and just drop in your email, and you will get the very next one. If you sign up, I hope you enjoy it.
+
+
+TAGS
+STEWART BRAND
+	
