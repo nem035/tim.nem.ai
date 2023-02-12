@@ -1,9 +1,12 @@
-import dotenv from 'dotenv'
-import { createClient } from '@supabase/supabase-js'
+import dotenv from "dotenv";
+import { createClient } from "@supabase/supabase-js";
 
 dotenv.config();
 
-const supabase = createClient(process.env.SUPABASE_URL ?? '', process.env.SUPABASE_KEY ?? '')
+const supabase = createClient(
+  process.env.SUPABASE_URL ?? "",
+  process.env.SUPABASE_KEY ?? ""
+);
 
 const linksAndTexts = [
   [
@@ -2486,18 +2489,21 @@ const linksAndTexts = [
 ];
 
 (async function () {
-  const { data: episodes, error } = await supabase
-    .from('episodes')
-    .select()
+  const { data: episodes, error } = await supabase.from("episodes").select();
 
   if (error) {
     console.error(error);
   } else {
     for (const e of episodes) {
-      const [title, url] = linksAndTexts.find(lt => lt[0].match(/\#\d{1,3}/)[0] === `#${e.slug.slice(0, 5).match(/\d{1,3}/)[0]}`);
-      const { error } = await supabase.from('episodes')
+      const [title, url] = linksAndTexts.find(
+        (lt) =>
+          lt[0].match(/\#\d{1,3}/)[0] ===
+          `#${e.slug.slice(0, 5).match(/\d{1,3}/)[0]}`
+      );
+      const { error } = await supabase
+        .from("episodes")
         .update({ title, url })
-        .eq('id', e.id)
+        .eq("id", e.id);
       if (error) {
         console.error(error);
       }

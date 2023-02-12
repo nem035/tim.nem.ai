@@ -5,7 +5,11 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link rel="stylesheet" href="https://unpkg.com/chota@latest" />
-        <script defer data-domain="tim.nem.ai" src="https://plausible.io/js/script.js"></script>
+        <script
+          defer
+          data-domain="tim.nem.ai"
+          src="https://plausible.io/js/script.js"
+        ></script>
       </Head>
       <body>
         <Main />

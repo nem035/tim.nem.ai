@@ -1,15 +1,13 @@
 :root {
   --color-primary: #00b894;
-  /* brand color */
   --grid-maxWidth: 108rem;
-  /* max container width 1080px */
 }
 
 body.dark {
   --bg-color: #000;
   --bg-secondary-color: #131316;
   --font-color: #f5f5f5;
-  --color-grey: #ccc;
+  --color-grey: #ddd;
   --color-darkGrey: #777;
 }
 
