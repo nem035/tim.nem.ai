@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
+import Script from 'next/script'
 import { useRouter } from "next/router";
 import { Episode } from "./api/ask-question";
 
@@ -72,6 +73,19 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="container">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-QMNFHS9KMN"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-QMNFHS9KMN');
+        `}
+        </Script>
         <h1>Use 🤖 AI to extract 🧠 knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>
