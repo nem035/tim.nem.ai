@@ -1,11 +1,8 @@
-import * as dotenv from 'dotenv';
 import type { NextApiRequest, NextApiResponse } from "next";
 import { encode } from 'gpt-3-encoder';
 import { createClient } from '@supabase/supabase-js'
 import { Configuration, OpenAIApi } from 'openai'
 import stripIndent from 'strip-indent';
-
-dotenv.config();
 
 const supabase = createClient(
   process.env.SUPABASE_URL ?? '',

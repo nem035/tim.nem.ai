@@ -1,8 +1,5 @@
-import * as dotenv from 'dotenv';
 import type { NextApiRequest, NextApiResponse } from "next";
 import { createClient } from '@supabase/supabase-js'
-
-dotenv.config();
 
 const supabase = createClient(
   process.env.SUPABASE_URL ?? '',
@@ -11,9 +8,9 @@ const supabase = createClient(
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse<{ sampleQuestions: Array<string> }>
+  res: NextApiResponse<{ episodes: Array<{ id: number, url: string, guest_name: string }> }>
 ) {
-  const { data: episodes, error } = await supabase.from("episodes").select();
+  const { data: episodes, error } = await supabase.from("episodes").select('id, url, guest_name').order('id', { ascending: false });
   if (error) {
     console.error(error);
     res.status(500);

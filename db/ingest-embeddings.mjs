@@ -3,7 +3,7 @@ import { encode } from 'gpt-3-encoder';
 import { createClient } from '@supabase/supabase-js'
 import { Configuration, OpenAIApi } from 'openai'
 
-dotenv.config({ path: '../.env' });
+dotenv.config();
 
 const supabase = createClient(process.env.SUPABASE_URL ?? '', process.env.SUPABASE_KEY ?? '')
 

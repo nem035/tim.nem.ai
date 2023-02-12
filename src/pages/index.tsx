@@ -95,7 +95,7 @@ function SampleQuestions({
     const fetchSampleQuestions = async () => {
       try {
         setIsFetchingSampleQuestions(true);
-        const response = await fetch("/api/sample-questions");
+        const response = await fetch("/api/get-sample-questions");
         const data = await response.json();
         setSampleQuestions(data.sampleQuestions);
       } catch (error) {
