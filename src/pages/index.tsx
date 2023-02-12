@@ -76,18 +76,14 @@ function Description() {
       <div>
         <p>
           <a href="https://tim.blog/podcast">The Tim Ferriss Show</a> is often the
-          #1 business podcast on all of Apple Podcasts, and it&apos;s been ranked #1
+          #1 business podcast on all of <a href="https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2">Apple Podcasts</a>, and it&apos;s been ranked #1
           out of 500,000+ podcasts on many occasions. It is the first business/interview
           podcast to pass 100,000,000 downloads, it has been selected as &quot;Best of&quot;
-          Apple Podcasts for three years running, and readers of Fortune Magazine&apos; Term Sheet
+          Apple Podcasts for three years running, and readers of <i>Fortune Magazine&apos; Term Sheet</i>
           recently selected The Tim Ferriss Show as their top business podcast.
           It has now surpassed 900M downloads.
         </p>
-        <p>The Tim Ferriss Show is one of the most popular podcasts in the
-          world with more than 900 million downloads.It has been selected for
-          &quot;Best of Apple Podcasts&quot; three times, it is often the #1 interview
-          podcast across all of Apple Podcasts, and it&apos;s been ranked #1 out of
-          400,000+ podcasts on many occasions.</p>
+        <p>Each episode, Tim deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.</p>
       </div>
     </div>
   );
