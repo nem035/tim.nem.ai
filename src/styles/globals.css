@@ -13,7 +13,7 @@ body.dark {
   --color-secondary: #fdcb6e;
 }
 
-.button+.button {
+.button + .button {
   margin-left: 0;
 }
 
@@ -37,11 +37,15 @@ footer {
 .description {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 @media screen and (min-width: 768px) {
   .description {
     flex-direction: row;
+    align-items: center;
+    justify-content: start;
   }
 }
 
@@ -58,6 +62,7 @@ footer {
 
 .answer {
   padding: 1em;
+  padding-top: 0;
   position: relative;
 }
 
@@ -69,24 +74,8 @@ footer {
   color: var(--color-secondary);
 }
 
-@keyframes typing {
-  from {
-    width: 0;
-  }
-
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blinking {
-  from {
-    border-color: transparent;
-  }
-
-  to {
-    border-color: orange;
-  }
+details {
+  margin-bottom: 1em;
 }
 
 .question {
@@ -95,6 +84,8 @@ footer {
   justify-content: center;
   flex-direction: column;
   padding: 1em;
+  padding-bottom: 0;
+  width: 100%;
 }
 
 .question div {

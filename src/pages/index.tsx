@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
-import Script from 'next/script'
+import Script from "next/script";
 import { useRouter } from "next/router";
 import { Episode } from "./api/ask-question";
 
@@ -17,7 +17,7 @@ export default function Home() {
   const [isAnswering, setIsAnswering] = useState(false);
 
   useEffect(() => {
-    if (router.isReady && router.query.q as string) {
+    if (router.isReady && (router.query.q as string)) {
       askQuestion((router.query.q as string) ?? "");
     }
   }, [router.isReady]);
@@ -180,6 +180,38 @@ function SampleQuestions({
 
   return (
     <div className="question">
+      <details>
+        <summary>View sample questions to get you started: </summary>
+        <p className="sample-questions">
+          <button
+            title="Try a random sample question"
+            type="button"
+            disabled={isFetchingSampleQuestions || isAnswering}
+            className="button outline secondary"
+            onClick={() =>
+              askQuestion(sampleQuestions.filter(() => Math.random() > 0.5)[0])
+            }
+          >
+            Random question
+          </button>
+          {isFetchingSampleQuestions ? (
+            <Loader />
+          ) : (
+            sampleQuestions.map((sq, index) => (
+              <button
+                title="Press to ask this question"
+                type="button"
+                disabled={isAnswering ? sq !== question : false}
+                className="button outline primary"
+                key={index}
+                onClick={() => askQuestion(sq)}
+              >
+                {sq}
+              </button>
+            ))
+          )}
+        </p>
+      </details>
       <form>
         <div>
           <input
@@ -209,38 +241,6 @@ function SampleQuestions({
           Ask
         </button>
       </form>
-      <h5>
-        Here are some sample questions to get you started:{" "}
-        <button
-          title="Try a random sample question"
-          type="button"
-          disabled={isFetchingSampleQuestions || isAnswering}
-          className="button outline secondary"
-          onClick={() =>
-            askQuestion(sampleQuestions.filter(() => Math.random() > 0.5)[0])
-          }
-        >
-          Random question
-        </button>
-      </h5>
-      <div className="sample-questions">
-        {isFetchingSampleQuestions ? (
-          <Loader />
-        ) : (
-          sampleQuestions.map((sq, index) => (
-            <button
-              title="Press to ask this question"
-              type="button"
-              disabled={isAnswering ? sq !== question : false}
-              className="button outline primary"
-              key={index}
-              onClick={() => askQuestion(sq)}
-            >
-              {sq}
-            </button>
-          ))
-        )}
-      </div>
     </div>
   );
 }
