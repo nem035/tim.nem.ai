@@ -15,7 +15,7 @@ export default function Home() {
       setIsAnswering(true);
       setAnswer('');
       setQuestion(question);
-      const response = await fetch("/api/search", {
+      const response = await fetch("/api/ask-question", {
         method: "POST",
         body: JSON.stringify({ question }),
       });
