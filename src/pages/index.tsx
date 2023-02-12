@@ -34,6 +34,10 @@ export default function Home() {
         method: "POST",
         body: JSON.stringify({ question }),
       });
+      if (response.status === 504) {
+        setAnswer({ text: 'The server is taking too long to respond. Please try again later.', episodes: [] });
+        return;
+      }
       const data = await response.json();
       setAnswer(data.answer);
     } catch (error) {
@@ -149,7 +153,7 @@ function SampleQuestions({
         </div>
         <button type="submit" disabled={question.length < MIN_CHAR_COUNT || isAnswering} className="button primary" onClick={() => askQuestion(question)}>Ask</button>
       </form>
-      <h5>Here&apos;s some sample questions to get you started:</h5>
+      <h5>Here are some sample questions to get you started:</h5>
       <div className="sample-questions">
         {isFetchingSampleQuestions ? <Loader /> : sampleQuestions.map((sq, index) => (
           <button title="Press to ask this question" type="button" disabled={isAnswering ? sq !== question : false} className="button outline primary" key={index} onClick={() => askQuestion(sq)}>{sq}</button>
