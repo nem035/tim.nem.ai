@@ -67,7 +67,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TFS - AI knowledge explorer</title>
+        <title>Tim Ferris AI knowledge explorer</title>
         <meta name="description" content="tim ferriss ai" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
