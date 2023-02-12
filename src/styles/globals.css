@@ -98,8 +98,25 @@ details {
 
 .question form {
   display: flex;
-  align-items: start;
+  flex-direction: column;
+  align-items: center;
   justify-content: stretch;
+}
+
+button[type="submit"] {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .question form {
+    flex-direction: row;
+    align-items: start;
+    justify-content: stretch;
+  }
+
+  button[type="submit"] {
+    width: auto;
+  }
 }
 
 .sample-questions {
