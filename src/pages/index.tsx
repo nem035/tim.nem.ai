@@ -52,8 +52,8 @@ export default function Home() {
           </a></p>
         <p>The Tim Ferriss Show is one of the most popular podcasts in the
           world with more than 900 million downloads.It has been selected for
-          "Best of Apple Podcasts" three times, it is often the #1 interview
-          podcast across all of Apple Podcasts, and it's been ranked #1 out of
+          &quot;Best of Apple Podcasts&quot; three times, it is often the #1 interview
+          podcast across all of Apple Podcasts, and it&apos;s been ranked #1 out of
           400,000+ podcasts on many occasions.</p>
         <h3>Ask any question to Tim Ferriss or his guests</h3>
         <div className="card qa">
@@ -115,7 +115,7 @@ function SampleQuestions({
         <input className="input" placeholder="Type your question here..." type="text" value={question} onChange={e => setQuestion(e.target.value)} />
         <button type="submit" disabled={question.length < 15 || isAnswering} className="button primary" onClick={() => askQuestion(question)}>Ask</button>
       </form>
-      <h5>Here's some sample questions to get you started:</h5>
+      <h5>Here&apos;s some sample questions to get you started:</h5>
       <div className="sample-questions">
         {isFetchingSampleQuestions ? <Loader /> : sampleQuestions.map((sq, index) => (
           <button type="button" disabled={isAnswering ? sq !== question : false} className="button outline primary" key={index} onClick={() => askQuestion(sq)}>{sq}</button>
