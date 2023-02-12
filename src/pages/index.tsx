@@ -73,7 +73,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="container">
-        <h1>Use AI to extract knowledge from The Tim Ferriss Show</h1>
+        <h1>Use 🤖 AI to extract 🧠 knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>
           Find episodes based on your interests or ask any question to Tim
