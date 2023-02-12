@@ -50,7 +50,7 @@ export default async function handler(
 
   if (error) {
     console.error(error);
-    return res.status(200).json({ answer: `Sorry, I don't know the answer to that question.` });
+    return res.status(200).json({ answer: `Sorry, I'm having a bit of trouble finding the answer. Can you try again?` });
   }
 
   if (transcript_chunks.length === 0) {
@@ -74,12 +74,14 @@ export default async function handler(
     contextText += `${content.trim()}\n---\n`
   }
 
+  const prePrompt = oneLine(`You are a passionate Tim Ferriss Show fan who loves
+  to help people! Given the following context from existing episodes, 
+  answer the question using only that information. Only answer questions about Tim Ferriss Show episodes.
+  If you are unsure of the answer or the answer is not mentioned in any episode, say
+  "Sorry, I don't know the answer to that question."`);
+
   const prompt = stripIndent(`
-    You are a very enthusiastic Tim Ferriss Show representative who loves
-    to help people! Given the following context form existing episodes, 
-    answer the question using only that information. If you are unsure and the answer
-    is not explicitly written in the episode, say
-    "Sorry, I don't know the answer to that question."
+    ${prePrompt}
 
     Context sections:
     ${contextText}
@@ -88,7 +90,7 @@ export default async function handler(
     ${question}
     """
 
-    Answer as markdown (including related code snippets if available):
+    Answer:
   `);
 
   // In production we should handle possible errors
@@ -105,4 +107,8 @@ export default async function handler(
   } = completionResponse.data
 
   res.status(200).json({ answer: text || `Sorry, I don't know the answer to that question.` });
+}
+
+function oneLine(s: string) {
+  return s.replace(/\n/g, ' ').trim();
 }

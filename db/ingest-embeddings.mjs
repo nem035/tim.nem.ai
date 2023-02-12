@@ -3,7 +3,7 @@ import { encode } from 'gpt-3-encoder';
 import { createClient } from '@supabase/supabase-js'
 import { Configuration, OpenAIApi } from 'openai'
 
-dotenv.config();
+dotenv.config({ path: '../.env' });
 
 const supabase = createClient(process.env.SUPABASE_URL ?? '', process.env.SUPABASE_KEY ?? '')
 
@@ -49,7 +49,9 @@ async function generateEmbeddings() {
             embedding,
             episode_id: episode.id
           })
-        console.error(error);
+        if (error) {
+          console.error(error);
+        }
       }
     } else {
       const embedding = await getEmbedding(episode.transcript);
@@ -67,11 +69,12 @@ async function generateEmbeddings() {
           embedding,
           episode_id: episode.id
         })
-      console.error(error);
+
+      if (error) {
+        console.error(error);
+      }
     }
   };
-
-  console.log(error);
 }
 
 async function getEmbedding(input) {
