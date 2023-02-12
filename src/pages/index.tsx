@@ -17,8 +17,8 @@ export default function Home() {
   const [isAnswering, setIsAnswering] = useState(false);
 
   useEffect(() => {
-    if (router.isReady) {
-      setQuestion((router.query.q as string) ?? "");
+    if (router.isReady && router.query.q as string) {
+      askQuestion((router.query.q as string) ?? "");
     }
   }, [router.isReady]);
 
