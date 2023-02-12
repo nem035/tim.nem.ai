@@ -58,7 +58,7 @@ const sampleQuestions = [
   "How to overcome, manage and use fear?",
   "Which questions changed Tim Ferriss' life?",
   "How to become the best version of yourself?",
-  "What does Petter Attie think about fasting?",
+  "What does Petter Attia think about fasting?",
 ];
 
 export default async function handler(
