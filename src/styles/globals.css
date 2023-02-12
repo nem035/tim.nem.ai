@@ -13,7 +13,7 @@ body.dark {
   --color-secondary: #fdcb6e;
 }
 
-.button + .button {
+.button+.button {
   margin-left: 0;
 }
 
@@ -83,9 +83,23 @@ details {
   align-items: stretch;
   justify-content: center;
   flex-direction: column;
-  padding: 1em;
+  padding: 5px;
   padding-bottom: 0;
   width: 100%;
+}
+
+.card {
+  padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .question {
+    padding: 1em;
+  }
+
+  .card {
+    padding: 1em 2em;
+  }
 }
 
 .question div {
