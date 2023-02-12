@@ -189,7 +189,7 @@ export default async function handler(
       choices: [{ text }],
     } = completionResponse.data;
 
-    const episodeIds = trascriptChunks.map((chunk) => chunk.episode_id);
+    const episodeIds = Array.from(new Set(trascriptChunks.map((chunk) => chunk.episode_id)));
     const { data: episodes = [], error: episodesError } = await supabase
       .from("episodes")
       .select("id, url, guest_name, title")
@@ -201,9 +201,9 @@ export default async function handler(
 
     const sortedEpisodes = Array.isArray(episodes)
       ? episodeIds.map(
-          (id, idx) =>
-            episodes.find((episode) => episode.id === id) ?? episodes[idx]
-        )
+        (id, idx) =>
+          episodes.find((episode) => episode.id === id) ?? episodes[idx]
+      )
       : [];
 
     const response = {
