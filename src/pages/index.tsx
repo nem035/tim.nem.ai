@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import Head from "next/head";
+import Image from "next/image";
 
 export default function Home() {
   const [question, setQuestion] = useState("");
@@ -46,15 +47,7 @@ export default function Home() {
       </Head>
       <main className="container">
         <h1>Tim Ferriss AI (made by <a href="https://nem035.com">Nem</a>)</h1>
-        <p>Tim Ferriss is an author of 5 #1 NYT/WSJ bestsellers, investor (FB,
-          Uber, Twitter, 50+ more), and host of{" "} the <a href="https://tim.blog/podcast">
-            Tim Ferriss Show podcast (400M+ downloads)
-          </a></p>
-        <p>The Tim Ferriss Show is one of the most popular podcasts in the
-          world with more than 900 million downloads.It has been selected for
-          &quot;Best of Apple Podcasts&quot; three times, it is often the #1 interview
-          podcast across all of Apple Podcasts, and it&apos;s been ranked #1 out of
-          400,000+ podcasts on many occasions.</p>
+        <Description />
         <h3>Ask any question to Tim Ferriss or his guests</h3>
         <div className="card qa">
           {isAnswering && <Loader />}
@@ -73,6 +66,30 @@ export default function Home() {
         </footer>
       </main>
     </>
+  );
+}
+
+function Description() {
+  return (
+    <div className="description">
+      <Image src="/tfs.jpeg" alt="Tim Ferriss" width={300} height={300} />
+      <div>
+        <p>
+          <a href="https://tim.blog/podcast">The Tim Ferriss Show</a> is often the
+          #1 business podcast on all of Apple Podcasts, and it&apos;s been ranked #1
+          out of 500,000+ podcasts on many occasions. It is the first business/interview
+          podcast to pass 100,000,000 downloads, it has been selected as &quot;Best of&quot;
+          Apple Podcasts for three years running, and readers of Fortune Magazine&apos; Term Sheet
+          recently selected The Tim Ferriss Show as their top business podcast.
+          It has now surpassed 900M downloads.
+        </p>
+        <p>The Tim Ferriss Show is one of the most popular podcasts in the
+          world with more than 900 million downloads.It has been selected for
+          &quot;Best of Apple Podcasts&quot; three times, it is often the #1 interview
+          podcast across all of Apple Podcasts, and it&apos;s been ranked #1 out of
+          400,000+ podcasts on many occasions.</p>
+      </div>
+    </div>
   );
 }
 

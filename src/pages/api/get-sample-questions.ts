@@ -14,6 +14,8 @@ const sampleQuestions = ['How to overcome anxiety?',
   'How to make time for what matters?',
   'How to turn failure into success?',
   'How to make better decisions?',
+  'What are the tradeoffs of working from home?',
+  'What are the tradeoffs of fasting?',
   'What are the lessons behind Metcalfe\'s law?',
   'What is Mark Manson\'s advice for dealing with anxiety?',
   'How does Bill Gurley think about investing in startups?',
@@ -40,6 +42,7 @@ const sampleQuestions = ['How to overcome anxiety?',
   'How to overcome, manage and use fear?',
   'Which questions changed Tim Ferriss\' life?',
   'How to become the best version of yourself?',
+  'What does Petter Attie think about fasting?'
 ]
 
 export default async function handler(

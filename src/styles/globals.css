@@ -5,20 +5,20 @@
   /* max container width 1080px */
 }
 
-main {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-evenly;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
 body.dark {
   --bg-color: #000;
   --bg-secondary-color: #131316;
   --font-color: #f5f5f5;
   --color-grey: #ccc;
   --color-darkGrey: #777;
+}
+
+main {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-evenly;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 input:disabled {
@@ -28,6 +28,14 @@ input:disabled {
 footer {
   width: 100%;
   margin: 2em 0;
+}
+
+.description {
+  display: flex;
+}
+
+.description div {
+  padding: 1em;
 }
 
 .qa {
