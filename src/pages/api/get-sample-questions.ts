@@ -56,7 +56,6 @@ const sampleQuestions = [
   "How does Tony Robbins resolve a conflict?",
   "How does Jocko Willink think about leadership?",
   "What is the art of storytelling?",
-  "How did AirBnB get started?",
   "How to overcome, manage and use fear?",
   "Which questions changed Tim Ferriss' life?",
   "How to become the best version of yourself?",
