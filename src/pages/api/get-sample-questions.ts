@@ -28,7 +28,6 @@ const sampleQuestions = [
   "How to turn your passion into a career?",
   "How to make time for what matters?",
   "How to turn investing failure into success?",
-  "What is holacracy?",
   "How to optimize investment decisions?",
   "What does Jordan Peterson think about the Bible?",
   "What does Tim think about working from home?",
