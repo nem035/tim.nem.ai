@@ -248,7 +248,7 @@ function Answer({
             <ul>
               {answer.episodes.map((episode, index) => (
                 <li key={index}>
-                  <a href={episode.url} target="_blank">
+                  <a href={episode.url} target="_blank" rel="noreferrer">
                     {episode.title}
                   </a>
                 </li>
