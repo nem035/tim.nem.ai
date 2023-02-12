@@ -11,6 +11,7 @@ const sampleQuestions = [
   "Why are the top reasons companies fail?",
   "Can we use psychedelics to treat mental health?",
   "Can we use psychedelics to treat addiction?",
+  "What is Metformin interesting?",
   "Can we use psychedelics to treat depression?",
   "How important is sleep for our health?",
   "What does Rick Rubin look for in a new artist?",
