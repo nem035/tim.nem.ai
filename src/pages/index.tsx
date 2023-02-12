@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import { useRouter } from 'next/router'
+import { Episode } from "./api/ask-question";
 
 const MIN_CHAR_COUNT = 15;
 
@@ -9,8 +10,9 @@ export default function Home() {
   const router = useRouter()
 
   const [question, setQuestion] = useState(router.isReady ? (router.query.q as string) ?? '' : '');
-  const [answer, setAnswer] = useState("");
+  const [answer, setAnswer] = useState({ text: '', episodes: [] });
   const [isAnswering, setIsAnswering] = useState(false);
+  const [tab, setTab] = useState('q');
 
   useEffect(() => {
     if (router.isReady) {
@@ -26,7 +28,7 @@ export default function Home() {
     try {
       router.push(`/?q=${encodeURIComponent(question)}`, undefined, { shallow: true })
       setIsAnswering(true);
-      setAnswer('');
+      setAnswer({ text: '', episodes: [] });
       setQuestion(question);
       const response = await fetch("/api/ask-question", {
         method: "POST",
@@ -36,7 +38,7 @@ export default function Home() {
       setAnswer(data.answer);
     } catch (error) {
       console.error(error);
-      setAnswer('');
+      setAnswer({ text: 'Something went wrong :(', episodes: [] });
     } finally {
       setIsAnswering(false);
     }
@@ -60,9 +62,12 @@ export default function Home() {
       <main className="container">
         <h1>Use AI to extract knowledge from The Tim Ferriss Show</h1>
         <Description />
-        <h3>Ask any question to Tim Ferriss or his guests below:</h3>
+        <h3>Find episodes based on your interests or ask any question to Tim Ferriss or his guests below:</h3>
+        <div className="tabs">
+          <a onClick={() => setTab('q')} className={tab === 'q' ? 'active' : ''}>Ask a question</a>
+          <a onClick={() => setTab('e')} className={tab === 'e' ? 'active' : ''}>Find episodes</a>
+        </div>
         <div className="card qa">
-          {isAnswering && <Loader />}
           <SampleQuestions
             question={question ?? ''}
             isAnswering={isAnswering}
@@ -147,18 +152,26 @@ function SampleQuestions({
       <h5>Here&apos;s some sample questions to get you started:</h5>
       <div className="sample-questions">
         {isFetchingSampleQuestions ? <Loader /> : sampleQuestions.map((sq, index) => (
-          <button type="button" disabled={isAnswering ? sq !== question : false} className="button outline primary" key={index} onClick={() => askQuestion(sq)}>{sq}</button>
+          <button title="Press to ask this question" type="button" disabled={isAnswering ? sq !== question : false} className="button outline primary" key={index} onClick={() => askQuestion(sq)}>{sq}</button>
         ))}
       </div>
     </div>
   );
 }
 
-function Answer({ answer, isAnswering }: { answer?: string, isAnswering: boolean }) {
-  if (answer) {
+function Answer({ answer, isAnswering }: { answer: { text: string, episodes: Array<Partial<Episode>> }, isAnswering: boolean }) {
+  if (answer.text) {
     return (
-      <div className="answer primary">
-        {answer}
+      <div className="answer">
+        <p className="primary"><i>{answer.text}</i></p>
+        <h5>Relevant episodes</h5>
+        <ul>
+          {answer.episodes.map((episode, index) => (
+            <li key={index}>
+              <a href={episode.url}>{episode.slug}</a>
+            </li>
+          ))}
+        </ul>
       </div>
     );
   }
@@ -167,6 +180,7 @@ function Answer({ answer, isAnswering }: { answer?: string, isAnswering: boolean
     return (
       <div className="answer">
         <i>Finding the answer...</i>
+        <Loader />
       </div>
     );
   }

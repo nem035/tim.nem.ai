@@ -1,6 +1,8 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 
-const sampleQuestions = ['How to overcome anxiety?',
+const sampleQuestions = [
+  'How does Jordan Peterson view psychedelics?',
+  'How to overcome anxiety?',
   'How to be more creative?',
   'What does Rick Rubin look for in a new artist?',
   'How does Elan Lee think about Kickstarter?',
