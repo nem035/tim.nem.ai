@@ -1,11 +1,22 @@
 import { useState, useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
+import { useRouter } from 'next/router'
+
+const MIN_CHAR_COUNT = 15;
 
 export default function Home() {
-  const [question, setQuestion] = useState("");
+  const router = useRouter()
+
+  const [question, setQuestion] = useState(router.isReady ? (router.query.q as string) ?? '' : '');
   const [answer, setAnswer] = useState("");
   const [isAnswering, setIsAnswering] = useState(false);
+
+  useEffect(() => {
+    if (router.isReady) {
+      setQuestion(router.query.q as string ?? '');
+    }
+  }, [router.isReady])
 
   const askQuestion = async (question: string) => {
     if (isAnswering || !question) {
@@ -13,6 +24,7 @@ export default function Home() {
     }
 
     try {
+      router.push(`/?q=${encodeURIComponent(question)}`, undefined, { shallow: true })
       setIsAnswering(true);
       setAnswer('');
       setQuestion(question);
@@ -40,19 +52,19 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TFS AI</title>
+        <title>TFS - AI knowledge explorer</title>
         <meta name="description" content="tim ferriss ai" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="container">
-        <h1>Tim Ferriss AI</h1>
+        <h1>Use AI to extract knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>Ask any question to Tim Ferriss or his guests below:</h3>
         <div className="card qa">
           {isAnswering && <Loader />}
           <SampleQuestions
-            question={question}
+            question={question ?? ''}
             isAnswering={isAnswering}
             setQuestion={setQuestion}
             askQuestion={askQuestion}
@@ -126,8 +138,11 @@ function SampleQuestions({
   return (
     <div className="question">
       <form>
-        <input className="input" placeholder="Type your question here..." type="text" value={question} onChange={e => setQuestion(e.target.value)} />
-        <button type="submit" disabled={question.length < 15 || isAnswering} className="button primary" onClick={() => askQuestion(question)}>Ask</button>
+        <div>
+          <input className="input" placeholder="Type your question here..." type="text" value={question} min={MIN_CHAR_COUNT} onChange={e => setQuestion(e.target.value)} />
+          {question.length < MIN_CHAR_COUNT && <i className="error">add {MIN_CHAR_COUNT - question.length} more characters</i>}
+        </div>
+        <button type="submit" disabled={question.length < MIN_CHAR_COUNT || isAnswering} className="button primary" onClick={() => askQuestion(question)}>Ask</button>
       </form>
       <h5>Here&apos;s some sample questions to get you started:</h5>
       <div className="sample-questions">

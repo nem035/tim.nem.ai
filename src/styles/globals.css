@@ -59,9 +59,17 @@ footer {
   width: 60%;
 }
 
+.question div {
+  width: 100%;
+}
+
+.question div i {
+  font-size: 0.75em;
+}
+
 .question form {
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: stretch;
 }
 
