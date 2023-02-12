@@ -182,7 +182,7 @@ export default async function handler(
       model: "text-davinci-003",
       prompt,
       max_tokens: 512,
-      temperature: 0.25,
+      temperature: 0.4,
     });
     const {
       id,
@@ -190,19 +190,30 @@ export default async function handler(
     } = completionResponse.data;
 
     const episodeIds = trascriptChunks.map((chunk) => chunk.episode_id);
-    const { data: episodes, error: episodesError } = await supabase
+    const { data: episodes = [], error: episodesError } = await supabase
       .from("episodes")
       .select("id, url, guest_name, title")
-      .in("id", episodeIds)
-      .order("id", { ascending: false });
+      .in("id", episodeIds);
 
     if (episodesError) {
       console.error(episodesError);
     }
 
+    const sortedEpisodes = Array.isArray(episodes) ? episodeIds.map((id, idx) =>
+      episodes.find((episode) => episode.id === id) ?? episodes[idx]
+    ) : [];
+
+    const response = {
+      answer: {
+        text:
+          text ?? `Sorry, I don't know the answer to that question.`,
+        episodes: sortedEpisodes,
+      },
+    };
+
     const { error: querySavingError } = await supabase.from("queries").insert({
       question_text: question,
-      answer_text: text,
+      answer_text: response.answer.text,
       prompt,
       episode_ids: `[${episodeIds.join(",")}]`,
     });
@@ -211,18 +222,7 @@ export default async function handler(
       console.error(querySavingError);
     }
 
-    res.status(200).json({
-      answer: {
-        text:
-          text ??
-          `Sorry, I don't know the answer to that question.${
-            Number(episodes?.length) > 0
-              ? " Here are some episodes that might help:"
-              : ""
-          }`,
-        episodes: episodes ?? [],
-      },
-    });
+    res.status(200).json(response);
   } catch (error) {
     console.error(error);
     res.status(500).json({

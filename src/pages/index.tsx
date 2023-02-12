@@ -75,8 +75,8 @@ export default function Home() {
         <h1>Use 🤖 AI to extract 🧠 knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>
-          Find episodes based on your interests or ask any question to Tim
-          Ferriss or his guests below:
+          Ask any question to Tim
+          Ferriss or his guests and get an AI-generated reply and relevant episodes
         </h3>
         <div className="card qa">
           <SampleQuestions
@@ -87,7 +87,6 @@ export default function Home() {
           />
           <Answer answer={answer} isAnswering={isAnswering} />
         </div>
-        )
         <footer className="card bg-primary">
           This website is created as a fun learning project and has no
           commercial purpose. Tim Ferriss owns the copyright in and to all
