@@ -3,7 +3,6 @@ import { encode } from 'gpt-3-encoder';
 import { createClient } from '@supabase/supabase-js'
 import { Configuration, OpenAIApi } from 'openai'
 import stripIndent from 'strip-indent';
-import { v4 as uuidv4 } from 'uuid'
 import rateLimit from '../../utils/rate-limit'
 
 const limiter = rateLimit({

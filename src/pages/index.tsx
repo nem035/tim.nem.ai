@@ -67,7 +67,7 @@ export default function Home() {
           <a onClick={() => setTab('q')} className={tab === 'q' ? 'active' : ''}>Ask a question</a>
           <a onClick={() => setTab('e')} className={tab === 'e' ? 'active' : ''}>Find episodes</a>
         </div>
-        <div className="card qa">
+        {tab === 'q' && <div className="card qa">
           <SampleQuestions
             question={question ?? ''}
             isAnswering={isAnswering}
@@ -75,7 +75,7 @@ export default function Home() {
             askQuestion={askQuestion}
           />
           <Answer answer={answer} isAnswering={isAnswering} />
-        </div>
+        </div>}
         <footer className="card bg-primary">
           This website is created as a fun learning project and has no commercial purpose. Tim Ferriss owns the copyright in and to all content in and transcripts
           of The Tim Ferriss Show podcast, with all rights reserved, as well as
