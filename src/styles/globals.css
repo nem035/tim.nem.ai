@@ -13,6 +13,10 @@ body.dark {
   --color-secondary: #fdcb6e;
 }
 
+.button+.button {
+  margin-left: 0;
+}
+
 main {
   display: flex;
   align-items: stretch;
