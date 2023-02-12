@@ -75,8 +75,8 @@ export default function Home() {
         <h1>Use 🤖 AI to extract 🧠 knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>
-          Ask any question to Tim
-          Ferriss or his guests and get an AI-generated reply and relevant episodes
+          Ask any question to Tim Ferriss or his guests and get an AI-generated
+          reply and relevant episodes
         </h3>
         <div className="card qa">
           <SampleQuestions

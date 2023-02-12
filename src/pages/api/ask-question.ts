@@ -199,14 +199,16 @@ export default async function handler(
       console.error(episodesError);
     }
 
-    const sortedEpisodes = Array.isArray(episodes) ? episodeIds.map((id, idx) =>
-      episodes.find((episode) => episode.id === id) ?? episodes[idx]
-    ) : [];
+    const sortedEpisodes = Array.isArray(episodes)
+      ? episodeIds.map(
+          (id, idx) =>
+            episodes.find((episode) => episode.id === id) ?? episodes[idx]
+        )
+      : [];
 
     const response = {
       answer: {
-        text:
-          text ?? `Sorry, I don't know the answer to that question.`,
+        text: text ?? `Sorry, I don't know the answer to that question.`,
         episodes: sortedEpisodes,
       },
     };
