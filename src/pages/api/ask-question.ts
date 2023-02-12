@@ -213,8 +213,14 @@ export default async function handler(
 
     res.status(200).json({
       answer: {
-        text: text || `Sorry, I don't know the answer to that question.`,
-        episodes: episodes || [],
+        text:
+          text ??
+          `Sorry, I don't know the answer to that question.${
+            Number(episodes?.length) > 0
+              ? " Here are some episodes that might help:"
+              : ""
+          }`,
+        episodes: episodes ?? [],
       },
     });
   } catch (error) {

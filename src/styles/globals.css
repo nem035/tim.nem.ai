@@ -1,5 +1,6 @@
 :root {
   --color-primary: #00b894;
+  --color-secondary: #0984e3;
   --grid-maxWidth: 108rem;
 }
 
@@ -9,6 +10,7 @@ body.dark {
   --font-color: #f5f5f5;
   --color-grey: #ddd;
   --color-darkGrey: #777;
+  --color-secondary: #fdcb6e;
 }
 
 main {
@@ -46,6 +48,34 @@ footer {
 .answer {
   padding: 1em;
   position: relative;
+}
+
+.answer-text {
+  font-size: 1.2em;
+  padding-left: 1em;
+  font-style: italic;
+  border-left: 0.15em solid var(--color-secondary);
+  color: var(--color-secondary);
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blinking {
+  from {
+    border-color: transparent;
+  }
+
+  to {
+    border-color: orange;
+  }
 }
 
 .question {

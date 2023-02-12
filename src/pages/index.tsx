@@ -14,7 +14,6 @@ export default function Home() {
   );
   const [answer, setAnswer] = useState({ text: "", episodes: [] });
   const [isAnswering, setIsAnswering] = useState(false);
-  const [tab, setTab] = useState("q");
 
   useEffect(() => {
     if (router.isReady) {
@@ -79,31 +78,16 @@ export default function Home() {
           Find episodes based on your interests or ask any question to Tim
           Ferriss or his guests below:
         </h3>
-        <div className="tabs">
-          <a
-            onClick={() => setTab("q")}
-            className={tab === "q" ? "active" : ""}
-          >
-            Ask a question
-          </a>
-          <a
-            onClick={() => setTab("e")}
-            className={tab === "e" ? "active" : ""}
-          >
-            Find episodes
-          </a>
+        <div className="card qa">
+          <SampleQuestions
+            question={question ?? ""}
+            isAnswering={isAnswering}
+            setQuestion={setQuestion}
+            askQuestion={askQuestion}
+          />
+          <Answer answer={answer} isAnswering={isAnswering} />
         </div>
-        {tab === "q" && (
-          <div className="card qa">
-            <SampleQuestions
-              question={question ?? ""}
-              isAnswering={isAnswering}
-              setQuestion={setQuestion}
-              askQuestion={askQuestion}
-            />
-            <Answer answer={answer} isAnswering={isAnswering} />
-          </div>
-        )}
+        )
         <footer className="card bg-primary">
           This website is created as a fun learning project and has no
           commercial purpose. Tim Ferriss owns the copyright in and to all
@@ -193,11 +177,15 @@ function SampleQuestions({
             min={MIN_CHAR_COUNT}
             onChange={(e) => setQuestion(e.target.value)}
           />
-          {question.length < MIN_CHAR_COUNT && (
-            <i className="error">
-              add {MIN_CHAR_COUNT - question.length} more characters
-            </i>
-          )}
+          <i
+            className="error"
+            style={{
+              visibility:
+                question.length < MIN_CHAR_COUNT ? "visible" : "hidden",
+            }}
+          >
+            add {MIN_CHAR_COUNT - question.length} more characters
+          </i>
         </div>
         <button
           type="submit"
@@ -254,17 +242,21 @@ function Answer({
   if (answer.text) {
     return (
       <div className="answer">
-        <p className="primary">
-          <i>{answer.text}</i>
-        </p>
-        <h5>Relevant episodes</h5>
-        <ul>
-          {answer.episodes.map((episode, index) => (
-            <li key={index}>
-              <a href={episode.url}>{episode.title}</a>
-            </li>
-          ))}
-        </ul>
+        <p className="answer-text">{answer.text}</p>
+        {answer.episodes.length > 0 && (
+          <>
+            <h5>Relevant episodes</h5>
+            <ul>
+              {answer.episodes.map((episode, index) => (
+                <li key={index}>
+                  <a href={episode.url} target="_blank">
+                    {episode.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
       </div>
     );
   }
