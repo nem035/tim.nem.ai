@@ -46,9 +46,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="container">
-        <h1>Tim Ferriss AI (made by <a href="https://nem035.com">Nem</a>)</h1>
+        <h1>Tim Ferriss AI</h1>
         <Description />
-        <h3>Ask any question to Tim Ferriss or his guests</h3>
+        <h3>Ask any question to Tim Ferriss or his guests below:</h3>
         <div className="card qa">
           {isAnswering && <Loader />}
           <SampleQuestions
@@ -64,6 +64,7 @@ export default function Home() {
           of The Tim Ferriss Show podcast, with all rights reserved, as well as
           his right of publicity.
         </footer>
+        <h5>Made by <a href="https://nem035.com">Nem</a></h5>
       </main>
     </>
   );
