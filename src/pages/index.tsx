@@ -133,9 +133,8 @@ function Description() {
           occasions. It is the first business/interview podcast to pass
           100,000,000 downloads, it has been selected as &quot;Best of&quot;
           Apple Podcasts for three years running, and readers of{" "}
-          <i>Fortune Magazine&apos; Term Sheet</i>
-          recently selected The Tim Ferriss Show as their top business podcast.
-          It has now surpassed 900M downloads.
+          <i>Fortune Magazine&apos; Term Sheet</i> recently selected
+          The Tim Ferriss Show as their top business podcast. It has now surpassed 900M downloads.
         </p>
         <p>
           Each episode, Tim deconstructs world-class performers from eclectic
