@@ -187,7 +187,7 @@ export default async function handler(
     tokenCount += encoded.length;
 
     // Limit context to max 1024 tokens (configurable)
-    if (tokenCount > 1024) {
+    if (tokenCount > 512) {
       break;
     }
 
@@ -219,7 +219,7 @@ export default async function handler(
     const completionResponse = await openai.createCompletion({
       model: "text-davinci-003",
       prompt,
-      max_tokens: 512,
+      max_tokens: 256,
       temperature: 0.5,
     });
     const {
