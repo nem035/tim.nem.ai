@@ -193,8 +193,7 @@ export default async function handler(
     contextText += `${content.trim()}\n---\n`;
   }
 
-  const prePrompt = oneLine(`You are a passionate Tim Ferriss Show fan who loves
-  to help people! Given the following context from existing episodes, 
+  const prePrompt = oneLine(`Given the following context from existing episodes of The Tim Ferriss Show, 
   answer the question using only that information. Only answer questions about Tim Ferriss Show episodes.
   If you are unsure of the answer or the answer is not mentioned in any episode, say
   "Sorry, I don't know the answer to that question."`);
