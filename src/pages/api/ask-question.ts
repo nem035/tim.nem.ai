@@ -278,5 +278,5 @@ export default async function handler(
 }
 
 function oneLine(s: string) {
-  return s.replace(/\n/g, " ").trim();
+  return s.replace(/\n/g, " ").replace(/\s+/g, ' ').trim();
 }
