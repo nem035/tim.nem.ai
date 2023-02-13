@@ -5,7 +5,7 @@ import Script from "next/script";
 import { useRouter } from "next/router";
 import { Episode } from "./api/ask-question";
 
-const MIN_CHAR_COUNT = 15;
+const MIN_CHAR_COUNT = 3;
 
 export default function Home() {
   const router = useRouter();
