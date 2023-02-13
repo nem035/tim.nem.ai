@@ -12,6 +12,7 @@ const sampleQuestions = [
   "Why is Metformin interesting?",
   "Why are NFTs interesting?",
   "Why do most startups fail?",
+  "How does sleep affect memory?",
   "How to build a successful startup?",
   "Why is reading books important?",
   "Which guests talk about startups?",
