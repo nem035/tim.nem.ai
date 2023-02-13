@@ -76,14 +76,43 @@ export default async function handler(
     });
   }
 
-  const { question } = JSON.parse(req.body);
+  let question;
+  try {
+    question = JSON.parse(req.body).question;
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({
+      answer: {
+        text: `Sorry, I couldn't parse your question. Can you try again?`,
+        episodes: [],
+      },
+    });
+  }
 
   console.log("question", question);
+
+  if (!question) {
+    return res.status(400).json({
+      answer: {
+        text: `Sorry, I can't give an answer without a question. Can you try again?`,
+        episodes: [],
+      },
+    });
+  }
+
+  if (question.length < 3) {
+    return res.status(400).json({
+      answer: {
+        text: `Sorry, a question must have at least 3 characters. Can you try again?`,
+        episodes: [],
+      },
+    });
+  }
 
   if (question.length > 512) {
     return res.status(400).json({
       answer: {
-        text: `Sorry, a question can't be longer than 512 characters`,
+        text: `Sorry, a question can't be longer than 512 characters. Can you try again?`,
         episodes: [],
       },
     });
@@ -142,7 +171,7 @@ export default async function handler(
     }
     return res.status(200).json({
       answer: {
-        text: `Sorry, I don't know the answer to that question.`,
+        text: `Sorry, I don't know the answer to that question. Can you try again?`,
         episodes: [],
       },
     });
@@ -217,7 +246,7 @@ export default async function handler(
 
     const response = {
       answer: {
-        text: text ?? `Sorry, I don't know the answer to that question.`,
+        text: text ?? `Sorry, I don't know the answer to that question. Can you try again?`,
         episodes: sortedEpisodes,
       },
     };
