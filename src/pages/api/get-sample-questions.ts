@@ -16,6 +16,8 @@ const sampleQuestions = [
   "How to build a successful startup?",
   "Why is reading books important?",
   "Which guests talk about startups?",
+  "What does Tim think about meditation?",
+  "How should I approach meditation?",
   "Can we use psychedelics to treat depression?",
   "How important is sleep for our health?",
   "What does Rick Rubin look for in a new artist?",
