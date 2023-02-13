@@ -133,9 +133,9 @@ export default async function handler(
   const { data, error: matchTranscriptChunksError } = await supabase.rpc(
     "match_transcript_chunks",
     {
-      match_count: 10,
+      match_count: 5,
       query_embedding: embedding,
-      similarity_threshold: 0,
+      similarity_threshold: 0.1,
     }
   );
 
@@ -220,7 +220,7 @@ export default async function handler(
       model: "text-davinci-003",
       prompt,
       max_tokens: 1024,
-      temperature: 0.4,
+      temperature: 0.5,
     });
     const {
       id,
@@ -241,9 +241,9 @@ export default async function handler(
 
     const sortedEpisodes = Array.isArray(episodes)
       ? episodeIds.map(
-          (id, idx) =>
-            episodes.find((episode) => episode.id === id) ?? episodes[idx]
-        )
+        (id, idx) =>
+          episodes.find((episode) => episode.id === id) ?? episodes[idx]
+      )
       : [];
 
     const response = {
