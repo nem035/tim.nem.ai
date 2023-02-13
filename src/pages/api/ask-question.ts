@@ -186,7 +186,6 @@ export default async function handler(
     const encoded = encode(content);
     tokenCount += encoded.length;
 
-    // Limit context to max 1024 tokens (configurable)
     if (tokenCount > 512) {
       break;
     }
