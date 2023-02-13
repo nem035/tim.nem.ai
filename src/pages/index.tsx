@@ -111,7 +111,7 @@ export default function Home() {
           rights reserved, as well as his right of publicity.
         </footer>
         <h5>
-          Made by <a href="https://nem035.com">Nem</a>
+          Made by <a href="https://nem035.com">Nem</a> (<a href="https://twitter.com/nem035" target="_blank" rel="noreferrer">@nem035</a>)
         </h5>
       </main>
     </>
