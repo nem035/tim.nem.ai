@@ -13,7 +13,7 @@ body.dark {
   --color-secondary: #fdcb6e;
 }
 
-.button+.button {
+.button + .button {
   margin-left: 0;
 }
 
