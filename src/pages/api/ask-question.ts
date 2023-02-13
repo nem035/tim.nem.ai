@@ -80,6 +80,15 @@ export default async function handler(
 
   console.log("question", question);
 
+  if (question.length > 512) {
+    return res.status(400).json({
+      answer: {
+        text: `Sorry, a question can't be longer than 512 characters`,
+        episodes: [],
+      },
+    });
+  }
+
   const input = question.replace(/\n/g, " ");
 
   // Generate a one-time embedding for the query itself
