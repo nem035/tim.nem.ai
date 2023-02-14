@@ -41,6 +41,7 @@ type TranscriptChunkEmbedding = {
   embedding: Array<number>;
   token_count: number;
   episode_id: number;
+  similarity: number;
 };
 
 type Query = {
@@ -133,13 +134,11 @@ export default async function handler(
   const { data, error: matchTranscriptChunksError } = await supabase.rpc(
     "match_transcript_chunks",
     {
-      match_count: 5,
+      match_count: 10,
       query_embedding: embedding,
       similarity_threshold: 0.1,
     }
   );
-
-  const trascriptChunks = data as Array<TranscriptChunkEmbedding>;
 
   if (matchTranscriptChunksError) {
     console.error(matchTranscriptChunksError);
@@ -159,6 +158,8 @@ export default async function handler(
       },
     });
   }
+
+  const trascriptChunks = (data as Array<TranscriptChunkEmbedding>).sort((a, b) => b.similarity - a.similarity);
 
   if (trascriptChunks.length === 0) {
     console.log("no chunks found");
@@ -186,22 +187,21 @@ export default async function handler(
     const encoded = encode(content);
     tokenCount += encoded.length;
 
-    if (tokenCount > 512) {
+    if (tokenCount > 1024) {
       break;
     }
 
     contextText += `${content.trim()}\n---\n`;
   }
 
-  const prePrompt = oneLine(`Given the following context from existing episodes of The Tim Ferriss Show, 
+  const prePrompt = oneLine(`Given the following excerpts from existing episodes of The Tim Ferriss Show, 
   answer the question using only that information. Only answer questions about Tim Ferriss Show episodes.
-  If you are unsure of the answer or the answer is not mentioned in any episode, say
-  "Sorry, I don't know the answer to that question."`);
+  If the answer is not mentioned in any excerpt, say "Sorry, I don't know the answer to that question."`);
 
   const prompt = stripIndent(`
     ${prePrompt}
 
-    Context sections:
+    Episode excerpts:
     ${contextText}
 
     Question: """
