@@ -6,6 +6,7 @@ const sampleQuestions = [
   "How to be more creative?",
   "How does Naval view a happy life?",
   "Is Melatonin dangerous?",
+  "What are Cal Newport's lessons from Steve Martin?",
   "How did Exploding Kittens get started?",
   "Can we use psychedelics to treat mental health?",
   "Can we use psychedelics to treat addiction?",
