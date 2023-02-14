@@ -187,21 +187,21 @@ export default async function handler(
     const encoded = encode(content);
     tokenCount += encoded.length;
 
-    if (tokenCount > 1024) {
+    if (tokenCount > 1500) {
       break;
     }
 
     contextText += `${content.trim()}\n---\n`;
   }
 
-  const prePrompt = oneLine(`Given the following excerpts from existing episodes of The Tim Ferriss Show, 
+  const prePrompt = oneLine(`Given the following context from existing episodes of The Tim Ferriss Show, 
   answer the question using only that information. Only answer questions about Tim Ferriss Show episodes.
-  If the answer is not mentioned in any excerpt, say "Sorry, I don't know the answer to that question."`);
+  If the answer is not mentioned or implied in any excerpt, say "Sorry, I don't know the answer to that question."`);
 
   const prompt = stripIndent(`
     ${prePrompt}
 
-    Episode excerpts:
+    Episode context:
     ${contextText}
 
     Question: """
