@@ -159,7 +159,7 @@ export default async function handler(
     });
   }
 
-  const trascriptChunks = (data as Array<TranscriptChunkEmbedding>).sort((a, b) => b.similarity - a.similarity);
+  const trascriptChunks = (data as Array<TranscriptChunkEmbedding>);
 
   if (trascriptChunks.length === 0) {
     console.log("no chunks found");
