@@ -43,7 +43,7 @@ const sampleQuestions = [
   "What does Tim think about working from home?",
   "What are the good and bad sides of fasting?",
   "What are the lessons behind Metcalfe's law?",
-  "What is Mark Manson's advice for dealing with anxiety?",
+  "What is Mark Manson's advice thinking about your career?",
   "How does Bill Gurley think about investing in startups?",
   "What does Dopamine do to our brain?",
   "How can we extend life?",
