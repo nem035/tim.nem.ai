@@ -110,35 +110,6 @@ async function getEmbedding(question: string): Promise<Array<number>> {
   }
 }
 
-async function matchEpisodesByTitleEmbedding(question: string, embedding: Array<number>): Promise<Array<Episode>> {
-  const episodeTitleQuery = {
-    match_count: 3,
-    query_embedding: embedding,
-    min_similarity: 0.2
-  };
-
-  console.log(`episodeTitleQuery`, episodeTitleQuery);
-
-  const { data: episodeTitleMatchesData, error: episodeTitleMatchError } = await supabase
-    .rpc("match_episode_by_title_embedding", episodeTitleQuery)
-
-  if (episodeTitleMatchError) {
-    console.error(episodeTitleMatchError);
-
-    const { error: querySavingError } = await supabase.from("queries").insert({
-      question_text: question,
-      is_error: true,
-      error: episodeTitleMatchError.message,
-    });
-
-    console.error(querySavingError);
-    throw new httpErrors.ServiceUnavailable(`Sorry, I'm having a bit of trouble finding the answer. Can you try again?`);
-  }
-
-  const episodeTitleMatches = (episodeTitleMatchesData as Array<Episode>);
-  return episodeTitleMatches;
-}
-
 async function matchAllEpisodesChunksByTranscriptEmbedding(question: string, embedding: Array<number>): Promise<Array<TranscriptChunkEmbedding>> {
 
   const episodeTranscriptQuery = {
@@ -280,7 +251,6 @@ async function getAnswer(prompt: string): Promise<string> {
     temperature: 0.5,
   });
   const {
-    id,
     choices: [{ text }],
   } = completionResponse.data;
 
@@ -335,10 +305,7 @@ export default async function handler(
   try {
     const question = parseQuestion(req);
     const embedding = await getEmbedding(question);
-    const episodeTitleMatches = await matchEpisodesByTitleEmbedding(question, embedding);
-    const trascriptChunks = episodeTitleMatches.length > 0
-      ? await matchSpecificEpisodesChunksByTranscriptEmbedding(question, embedding, episodeTitleMatches)
-      : await matchAllEpisodesChunksByTranscriptEmbedding(question, embedding);
+    const trascriptChunks = await matchAllEpisodesChunksByTranscriptEmbedding(question, embedding);
 
     if (trascriptChunks.length === 0) {
       return handleNoChunkMatches(question, res);
@@ -347,6 +314,7 @@ export default async function handler(
     const context = combineChunksIntoContext(trascriptChunks);
     const prompt = buildPrompt(context, question);
     const answer = await getAnswer(prompt);
+
     const sortedEpisodes = await getMatchedEpisodesSortedByRelevance(trascriptChunks);
 
     await saveQuery(question, answer, prompt, sortedEpisodes.map((episode) => (episode as Episode).id));
