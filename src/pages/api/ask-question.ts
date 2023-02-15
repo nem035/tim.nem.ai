@@ -142,41 +142,6 @@ async function matchAllEpisodesChunksByTranscriptEmbedding(question: string, emb
   return trascriptChunks;
 }
 
-async function matchSpecificEpisodesChunksByTranscriptEmbedding(question: string, embedding: Array<number>, episodeTitleMatches: Array<Episode>): Promise<Array<TranscriptChunkEmbedding>> {
-
-  const episodeTranscriptQueryWithinEpisodes = {
-    match_count: 10,
-    query_embedding: embedding,
-    min_similarity: 0.2,
-    episode_ids: episodeTitleMatches.map((episode) => episode.id),
-  };
-
-  console.log(`episodeTranscriptQueryWithinEpisodes`, episodeTranscriptQueryWithinEpisodes);
-
-  const { data, error: matchTranscriptChunksError } = await supabase.rpc(
-    "match_transcript_chunks_within_episodes",
-    episodeTranscriptQueryWithinEpisodes
-  );
-
-  if (matchTranscriptChunksError) {
-    console.error(matchTranscriptChunksError);
-    const { error: querySavingError } = await supabase.from("queries").insert({
-      question_text: question,
-      is_error: true,
-      error: matchTranscriptChunksError.message,
-    });
-
-    if (querySavingError) {
-      console.error(querySavingError);
-    }
-
-    throw new httpErrors.ServiceUnavailable(`Sorry, I'm having a bit of trouble finding the answer. Can you try again?`);
-  }
-
-  const trascriptChunks = (data as Array<TranscriptChunkEmbedding>);
-  return trascriptChunks;
-}
-
 async function handleNoChunkMatches(question: string, res: NextApiResponse<AskQuestionResponse>) {
   console.log("no chunks found");
   const { error: querySavingError } = await supabase.from("queries").insert({
