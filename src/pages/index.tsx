@@ -95,6 +95,7 @@ export default function Home() {
           Ask any question to Tim Ferriss or his guests and get an AI-generated
           reply and relevant episodes
         </h3>
+        <p className="text-secondary"><i>Ⓘ Keep in mind that some knowledge isn&apos;t there yet as the current version is based on 451 episodes while TFS has 600+ episodes.</i></p>
         <div className="card qa">
           <SampleQuestions
             question={question ?? ""}
