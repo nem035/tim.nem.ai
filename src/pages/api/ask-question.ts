@@ -220,9 +220,11 @@ function oneLine(s: string) {
 }
 
 function buildPrompt(context: string, question: string): string {
-  const prePrompt = oneLine(`Given the following context from existing episodes of The Tim Ferriss Show, 
-  answer the question using only that information. Only answer questions about Tim Ferriss Show episodes.
-  If the answer is not mentioned or implied in any excerpt, say "Sorry, I don't know the answer to that question."`);
+  const prePrompt = oneLine(`
+    Given the following context from existing episodes of The Tim Ferriss Show, 
+    answer the question using that information. Only answer questions about 
+    Tim Ferriss Show episodes. If the context doesn't contain anything related 
+    to your question, say "Sorry, I don't know the answer to that question."`);
 
   const prompt = stripIndent(`
     ${prePrompt}
