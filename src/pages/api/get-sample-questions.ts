@@ -29,7 +29,7 @@ const sampleQuestions = [
   "How important is sleep for our health?",
   "What does Rick Rubin look for in a new artist?",
   "What does Elan Lee think about Kickstarter?",
-  "What is the best way to learn a new language?",
+  "How to learn a new language?",
   "What are the craziest adventures you've ever had?",
   "How to become a better writer?",
   "How to balance work and life?",

@@ -188,8 +188,8 @@ function buildPrompt(context: string, question: string): string {
   const prePrompt = oneLine(`
     Given the following context from existing episodes of The Tim Ferriss Show, 
     answer the question using that information. Only answer questions about 
-    Tim Ferriss Show episodes. If the context doesn't contain anything related 
-    to your question, say "Sorry, I don't know the answer to that question."`);
+    Tim Ferriss Show episodes. If there's no way to build an answer out of the
+    context, say "Sorry, I don't know the answer to that question."`);
 
   const prompt = stripIndent(`
     ${prePrompt}
