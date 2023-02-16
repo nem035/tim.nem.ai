@@ -119,7 +119,7 @@ async function matchAllEpisodesChunksByTranscriptEmbedding(question: string, emb
   };
 
   const { data, error: matchTranscriptChunksError } = await supabase.rpc(
-    "match_transcript_chunks_all",
+    "match_transcript_chunks",
     episodeTranscriptQuery
   );
 
