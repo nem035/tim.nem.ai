@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import { encode } from "gpt-3-encoder";
 import httpErrors, { HttpError } from 'http-errors';
 import { createClient } from "@supabase/supabase-js";
-import { Configuration, OpenAIApi } from "openai";
+import { ChatCompletionRequestMessage, ChatCompletionRequestMessageRoleEnum, Configuration, OpenAIApi } from "openai";
 import stripIndent from "strip-indent";
 import rateLimit from "../../utils/rate-limit";
 
@@ -160,7 +160,7 @@ async function handleNoChunkMatches(question: string, res: NextApiResponse<AskQu
   });
 }
 
-function combineChunksIntoContext(trascriptChunks: Array<TranscriptChunkEmbedding>, maxTokenSize: number = 2048): string {
+function combineChunksIntoContext(trascriptChunks: Array<TranscriptChunkEmbedding>, maxTokenSize: number = 3584): string {
   let tokenCount = 0;
   let contextText = "";
 
@@ -180,48 +180,43 @@ function combineChunksIntoContext(trascriptChunks: Array<TranscriptChunkEmbeddin
   return contextText;
 }
 
-function oneLine(s: string) {
-  return s.replace(/\n/g, " ").replace(/ +/g, ' ').trim();
-}
-
-function buildPrompt(context: string, question: string): string {
-  const prePrompt = oneLine(`
+function buildMessages(context: string, question: string): Array<ChatCompletionRequestMessage> {
+  const system = {
+    role: ChatCompletionRequestMessageRoleEnum.System,
+    content: stripIndent(`
+    You are TimeFerrisGPT. You are a chatbot that answers questions about The Tim Ferriss Show.
     Given the following context from existing episodes of The Tim Ferriss Show, 
-    answer the question using that information. Only answer questions about 
-    Tim Ferriss Show episodes. If there's no way to build an answer out of the
-    context, say "Sorry, I don't know the answer to that question."`);
-
-  const prompt = stripIndent(`
-    ${prePrompt}
-
+    answer the question using that information. 
+    
     Episode context:
     ${context}
+    
+    Only answer questions about Tim Ferriss Show episodes. Break up answers from each episode into paragraphs.
+     
+    If there's no way to build an answer out of the context, say "Sorry, I don't know the answer to that question".
+    `)
+  }
 
-    Question: """
-    ${question}
-    """
+  const user = {
+    role: ChatCompletionRequestMessageRoleEnum.User,
+    content: question,
+  };
 
-    Answer:
-  `).trim();
-
-  console.log("prompt", prompt);
-  return prompt;
+  return [system, user];
 }
 
-async function getAnswer(prompt: string): Promise<string> {
+async function getAnswer(messages: Array<ChatCompletionRequestMessage>): Promise<string> {
   console.log("creating completion");
 
-  const completionResponse = await openai.createCompletion({
-    model: "text-davinci-003",
-    prompt,
-    max_tokens: 512,
-    temperature: 0.5,
+  const completionResponse = await openai.createChatCompletion({
+    model: "gpt-3.5-turbo",
+    messages,
+    temperature: 0.7,
   });
-  const {
-    choices: [{ text }],
-  } = completionResponse.data;
 
-  return (text ?? `Sorry, I don't know the answer to that question. Can you try again?`).trim();
+  const content = completionResponse.data.choices[0]?.message?.content;
+
+  return (content ?? `Sorry, I don't know the answer to that question. Can you try again?`).trim();
 }
 
 async function getMatchedEpisodesSortedByRelevance(
@@ -250,11 +245,11 @@ async function getMatchedEpisodesSortedByRelevance(
   return sortedEpisodes;
 }
 
-async function saveQuery(question: string, answer: string, prompt: string, episodeIds: Array<number>) {
+async function saveQuery(question: string, answer: string, messages: Array<ChatCompletionRequestMessage>, episodeIds: Array<number>) {
   const { error: querySavingError } = await supabase.from("queries").insert({
     question_text: question,
     answer_text: answer,
-    prompt,
+    prompt: JSON.stringify(messages),
     episode_ids: `[${episodeIds.join(",")}]`,
   });
 
@@ -279,12 +274,12 @@ export default async function handler(
     }
 
     const context = combineChunksIntoContext(trascriptChunks);
-    const prompt = buildPrompt(context, question);
-    const answer = await getAnswer(prompt);
+    const messages = buildMessages(context, question);
+    const answer = await getAnswer(messages);
 
     const sortedEpisodes = await getMatchedEpisodesSortedByRelevance(trascriptChunks);
 
-    await saveQuery(question, answer, prompt, sortedEpisodes.map((episode) => (episode as Episode).id));
+    await saveQuery(question, answer, messages, sortedEpisodes.map((episode) => (episode as Episode).id));
 
     const response = {
       answer: {

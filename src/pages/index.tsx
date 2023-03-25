@@ -280,7 +280,7 @@ function Answer({
   if (isAnswering) {
     return (
       <div className="answer">
-        <i>Finding the answer...</i>
+        <i>Thinking...</i>
         <Loader />
       </div>
     );
