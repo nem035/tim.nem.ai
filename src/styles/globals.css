@@ -13,7 +13,7 @@ body.dark {
   --color-secondary: #fdcb6e;
 }
 
-.button + .button {
+.button+.button {
   margin-left: 0;
 }
 
@@ -67,7 +67,7 @@ footer {
 }
 
 .answer-text {
-  font-size: 1.2em;
+  font-size: 1.1em;
   padding-left: 1em;
   font-style: italic;
   border-left: 0.15em solid var(--color-secondary);

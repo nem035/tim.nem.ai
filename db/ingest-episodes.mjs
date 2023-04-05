@@ -23,6 +23,13 @@ async function getTranscripts() {
 
 async function ingestEpisodes() {
   const transcripts = await getTranscripts();
+  const existingEpisodesSlugs = new Set(
+    (await supabase
+      .from("episodes")
+      .select("slug")
+    ).map((e) => e.slug)
+  );
+
   const episodes = [];
 
   for (const [idx, transcriptSlug] of transcripts.entries()) {
@@ -30,13 +37,20 @@ async function ingestEpisodes() {
       path.join(transcriptsDir, transcriptSlug),
       "utf8"
     );
-    const content = cleanLines(transcript);
-
-    // TODO: extract unique url for each episode
-    const url = `https://tim.blog/2018/09/20/all-transcripts-from-the-tim-ferriss-show/`;
+    const [url, title, ...content] = cleanLines(transcript)
+      .split('\n');
 
     console.log(`#${idx}: ${transcriptSlug}`);
-    episodes.push({ url, transcript: content, slug: transcriptSlug });
+    if (existingEpisodesSlugs.has(transcriptSlug)) {
+      console.log(`skipping ${transcriptSlug}, already exists`);
+      continue;
+    }
+    episodes.push({
+      url: url.trim(),
+      title: title.trim(),
+      transcript: content.join('\n'),
+      slug: transcriptSlug
+    });
   }
 
   const { error } = await supabase.from("episodes").insert(episodes);

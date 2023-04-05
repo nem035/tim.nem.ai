@@ -2486,6 +2486,34 @@ const linksAndTexts = [
     "#654: Dr. Matthew Walker, All Things Sleep Continued — The Hidden Dangers of Melatonin, Tools for Insomnia, Enhancing Learning and Sleep Spindles, The Upsides of Sleep Divorce, How Sleep Impacts Sex (and Vice Versa), Adventures in Lucid Dreaming, The One Clock to Rule Them All, The IP Addresses of Your Memories, and More",
     "https://tim.blog/2023/02/10/dr-matthew-walker-transcript/",
   ],
+  [
+    "#657: Professor John Vervaeke — How to Build a Life of Wisdom, Flow, and Contemplation",
+    "https://tim.blog/2023/02/25/john-vervaeke-transcript/",
+  ],
+  [
+    "#658: CEO Coach Matt Mochary — Live Coaching with Tim, Why Fear and Anger Give Bad Advice, How to Perform Personal Energy Audits, The Power of Accountability Partners, Delegation Tips, Strategies for Hiring the Right People, and More",
+    "https://tim.blog/2023/03/03/matt-mochary-transcript/"
+  ],
+  [
+    "#659: Michael Mauboussin — How Great Investors Make Decisions, Harnessing The Wisdom (vs. Madness) of Crowds, Lessons from Race Horses, and More",
+    "https://tim.blog/2023/03/03/michael-mauboussin-transcript/"
+  ],
+  [
+    "#660: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More",
+    "https://tim.blog/2023/03/10/dr-andrew-huberman-transcript/"
+  ],
+  [
+    "#661: Dr. Peter Attia — The Science and Art of Longevity, Optimizing Protein, Alcohol Rules, Lessons from Glucose Monitoring with CGMs, Boosting Your VO2 Max, Preventing Alzheimer's Disease, Early Cancer Detection, How to Use DEXA Scans, Nature’s Longevity Drug, and More",
+    "https://tim.blog/2023/03/17/peter-attia-outlive-transcript/"
+  ],
+  [
+    "#662: David Deutsch and Naval Ravikant — The Fabric of Reality, The Importance of Disobedience, The Inevitability of Artificial General Intelligence, Finding Good Problems, Redefining Wealth, Foundations of True Knowledge, Harnessing Optimism, Quantum Computing, and More",
+    "https://tim.blog/2023/03/24/david-deutsch-naval-ravikant-transcript/",
+  ],
+  [
+    "#664: Dr. Kelly Starrett — The Magic of Movement and Mobility, Training for Range of Motion, Breathing for Back Pain, Improving Your Balance, and More",
+    "https://tim.blog/2023/04/01/kelly-starrett-transcript/",
+  ]
 ];
 
 (async function () {

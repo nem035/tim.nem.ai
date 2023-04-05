@@ -9,17 +9,21 @@ const supabase = createClient(
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<{
-    episodes: Array<{ id: number; url: string; guest_name: string }>;
+    episodesCount: number;
+    latestEpisode: { id: number; url: string; title: string };
   }>
 ) {
   const { data: episodes, error } = await supabase
     .from("episodes")
-    .select("id, url, guest_name")
-    .order("id", { ascending: false });
+    .select("id, url, title")
+    .order("air_date", { ascending: false });
   if (error) {
     console.error(error);
     res.status(500);
   } else {
-    res.status(200).json({ episodes });
+    res.status(200).json({
+      episodesCount: episodes.length,
+      latestEpisode: episodes[0]
+    });
   }
 }

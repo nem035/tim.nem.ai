@@ -188,10 +188,13 @@ function buildMessages(context: string, question: string): Array<ChatCompletionR
     Given the following context from existing episodes of The Tim Ferriss Show, 
     answer the question using that information. 
     
-    Episode context:
+    Episodes context:
     ${context}
     
-    Only answer questions about Tim Ferriss Show episodes. Break up answers from each episode into paragraphs.
+    Only answer questions about Tim Ferriss Show episodes. 
+    Mention the guests by name if you can.
+    Always split your reply into short markdown paragraphs.
+    Separate paragraphs about each episode with a "---" separator.
      
     If there's no way to build an answer out of the context, say "Sorry, I don't know the answer to that question".
     `)

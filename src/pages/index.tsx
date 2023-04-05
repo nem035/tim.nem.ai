@@ -3,6 +3,25 @@ import Head from "next/head";
 import Image from "next/image";
 import Script from "next/script";
 import { useRouter } from "next/router";
+import {
+  EmailShareButton,
+  FacebookShareButton,
+  LinkedinShareButton,
+  RedditShareButton,
+  TelegramShareButton,
+  TwitterShareButton,
+  ViberShareButton,
+  WhatsappShareButton,
+  EmailIcon,
+  FacebookIcon,
+  LinkedinIcon,
+  RedditIcon,
+  TelegramIcon,
+  TwitterIcon,
+  ViberIcon,
+  WhatsappIcon,
+} from "react-share";
+import ReactMarkdown from 'react-markdown'
 import { Episode } from "./api/ask-question";
 
 const MIN_CHAR_COUNT = 3;
@@ -15,6 +34,16 @@ export default function Home() {
   );
   const [answer, setAnswer] = useState({ text: "", episodes: [] });
   const [isAnswering, setIsAnswering] = useState(false);
+  const [episodesInfo, setEpisodesInfo] = useState<{ episodesCount: number, latestEpisode: { id: number, url: string, title: string } } | null>(null);
+
+  useEffect(() => {
+    const fetchEpisodesInfo = async () => {
+      const response = await fetch("/api/episodes-info");
+      const data = await response.json();
+      setEpisodesInfo(data);
+    };
+    fetchEpisodesInfo();
+  }, []);
 
   useEffect(() => {
     if (router.isReady && (router.query.q as string)) {
@@ -95,7 +124,15 @@ export default function Home() {
           Ask any question to Tim Ferriss or his guests and get an AI-generated
           reply and relevant episodes
         </h3>
-        <p className="text-secondary"><i>Ⓘ Keep in mind that some knowledge isn&apos;t there yet as the current version is based on 451 episodes while TFS has 600+ episodes.</i></p>
+        {episodesInfo && (
+          <>
+            <p className="text-secondary">
+              <h3>Latest episode</h3>
+              <p><i>Ⓘ Keep in mind that some knowledge isn&apos;t there yet as the current version is based on {episodesInfo.episodesCount} episodes while TFS has 600+ episodes.</i></p>
+              <a href={episodesInfo.latestEpisode.url} target="_blank" rel="noreferrer">{episodesInfo.latestEpisode.title}</a>
+            </p>
+          </>
+        )}
         <div className="card qa">
           <SampleQuestions
             question={question ?? ""}
@@ -103,7 +140,7 @@ export default function Home() {
             setQuestion={setQuestion}
             askQuestion={askQuestion}
           />
-          <Answer answer={answer} isAnswering={isAnswering} />
+          <Answer question={question} answer={answer} isAnswering={isAnswering} />
         </div>
         <footer className="card bg-primary">
           This website is created as a fun learning project and has no
@@ -167,7 +204,7 @@ function SampleQuestions({
     const fetchSampleQuestions = async () => {
       try {
         setIsFetchingSampleQuestions(true);
-        const response = await fetch("/api/get-sample-questions");
+        const response = await fetch("/api/sample-questions");
         const data = await response.json();
         setSampleQuestions(data.sampleQuestions);
       } catch (error) {
@@ -249,16 +286,51 @@ function SampleQuestions({
 }
 
 function Answer({
+  question,
   answer,
   isAnswering,
 }: {
+  question: string;
   answer: { text: string; episodes: Array<Partial<Episode>> };
   isAnswering: boolean;
 }) {
   if (answer.text) {
+    const shareText = `I like the answer to "${question}" from Tim Ferriss AI (https://tim.nem.ai):\n\n${answer.text}`;
     return (
       <div className="answer">
-        <p className="answer-text">{answer.text}</p>
+        <p className="answer-text">
+          <ReactMarkdown>{answer.text}</ReactMarkdown>
+        </p>
+        <div className="answer-share-buttons">
+          <EmailShareButton
+            url={window.location.href}
+            subject={"Cool answer from Tim Ferris AI (tim.nem.ai)"}
+            body={answer.text}
+          >
+            <EmailIcon size={32} round />
+          </EmailShareButton>
+          <FacebookShareButton url={window.location.href} quote={shareText}>
+            <FacebookIcon size={32} round />
+          </FacebookShareButton>
+          <LinkedinShareButton url={window.location.href} source={window.location.href} title={shareText} summary={answer.text}>
+            <LinkedinIcon size={32} round />
+          </LinkedinShareButton>
+          <RedditShareButton url={window.location.href} title={shareText}>
+            <RedditIcon size={32} round />
+          </RedditShareButton>
+          <TelegramShareButton url={window.location.href} title={shareText}>
+            <TelegramIcon size={32} round />
+          </TelegramShareButton>
+          <TwitterShareButton title={shareText} url={window.location.href}>
+            <TwitterIcon size={32} round />
+          </TwitterShareButton>
+          <ViberShareButton url={window.location.href} title={shareText}>
+            <ViberIcon size={32} round />
+          </ViberShareButton>
+          <WhatsappShareButton url={window.location.href} title={shareText}>
+            <WhatsappIcon size={32} round />
+          </WhatsappShareButton>
+        </div>
         {answer.episodes.length > 0 && (
           <>
             <h5>Relevant episodes</h5>

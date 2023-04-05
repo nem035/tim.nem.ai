@@ -6,11 +6,13 @@ import puppeteer from "puppeteer";
 import fetch from "node-fetch";
 import kebabCase from "lodash.kebabcase";
 
-dotenv.config();
+dotenv.config({
+  path: path.join(path.dirname(fileURLToPath(import.meta.url)), "../", ".env")
+});
 
 const textDir = path.join(
   path.dirname(fileURLToPath(import.meta.url)),
-  process.env.TEXT_DIR
+  process.env.TRANSCRIPTS_TEXT_DIR
 );
 
 if (!fs.existsSync(textDir)) {
@@ -19,7 +21,7 @@ if (!fs.existsSync(textDir)) {
 
 const pdfDir = path.join(
   path.dirname(fileURLToPath(import.meta.url)),
-  process.env.PDF_DIR
+  process.env.TRANSCRIPTS_PDF_DIR
 );
 
 if (!fs.existsSync(pdfDir)) {
@@ -112,9 +114,9 @@ async function downloadTrancripts() {
         await page.goto(url.href, {
           waitUntil: "domcontentloaded",
         });
-        const text = await (
+        const text = `${url.href}\n\n${title}\n\n${await (
           await page.$("body")
-        ).evaluate((node) => node.innerText);
+        ).evaluate((node) => node.innerText)}`;
         const fileName = `${kebabCase(title).slice(0, 250)}.txt`;
         if (!fs.existsSync(path.join(textDir, fileName))) {
           console.log(`Downloading ${title} from ${url.href}`);
@@ -130,4 +132,4 @@ async function downloadTrancripts() {
   await browser.close();
 }
 
-downloadTrancripts(process.env.URL);
+downloadTrancripts();
