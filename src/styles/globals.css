@@ -60,6 +60,10 @@ footer {
   flex-direction: column;
 }
 
+.text-secondary {
+  color: var(--color-darkGrey)
+}
+
 .answer {
   padding: 1em;
   padding-top: 0;

@@ -126,10 +126,10 @@ export default function Home() {
         </h3>
         {episodesInfo && (
           <>
-            <p className="text-secondary">
-              <h3>Latest episode</h3>
-              <p><i>Ⓘ Keep in mind that some knowledge isn&apos;t there yet as the current version is based on {episodesInfo.episodesCount} episodes while TFS has 600+ episodes.</i></p>
+            <p>
+              <h4>Latest episode</h4>
               <a href={episodesInfo.latestEpisode.url} target="_blank" rel="noreferrer">{episodesInfo.latestEpisode.title}</a>
+              <p className="text-secondary"><i>Ⓘ Keep in mind that some knowledge isn&apos;t there yet as the current version is based on {episodesInfo.episodesCount} episodes while TFS has 600+ episodes.</i></p>
             </p>
           </>
         )}
