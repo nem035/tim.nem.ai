@@ -37,10 +37,11 @@ async function ingestEpisodes() {
       path.join(transcriptsDir, transcriptSlug),
       "utf8"
     );
-    const [url, title, ...content] = cleanLines(transcript)
-      .split('\n');
+    const [metadata, content] = cleanLines(transcript)
+      .split('<--- METADATA --->');
+    const [url, title] = metadata.split('\n');
 
-    console.log(`#${idx}: ${transcriptSlug}`);
+    console.log(`#${idx}: ${title} - ${url}`);
     if (existingEpisodesSlugs.has(transcriptSlug)) {
       console.log(`skipping ${transcriptSlug}, already exists`);
       continue;
@@ -48,7 +49,7 @@ async function ingestEpisodes() {
     episodes.push({
       url: url.trim(),
       title: title.trim(),
-      transcript: content.join('\n'),
+      transcript: content,
       slug: transcriptSlug
     });
   }

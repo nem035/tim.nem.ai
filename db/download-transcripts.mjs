@@ -7,7 +7,7 @@ import fetch from "node-fetch";
 import kebabCase from "lodash.kebabcase";
 
 dotenv.config({
-  path: path.join(path.dirname(fileURLToPath(import.meta.url)), "../", ".env")
+  path: path.join(path.dirname(fileURLToPath(import.meta.url)), ".env")
 });
 
 const textDir = path.join(
@@ -114,7 +114,7 @@ async function downloadTrancripts() {
         await page.goto(url.href, {
           waitUntil: "domcontentloaded",
         });
-        const text = `${url.href}\n\n${title}\n\n${await (
+        const text = `${url.href}\n\n${title}\n\n<--- METADATA --->\n\n${await (
           await page.$("body")
         ).evaluate((node) => node.innerText)}`;
         const fileName = `${kebabCase(title).slice(0, 250)}.txt`;
