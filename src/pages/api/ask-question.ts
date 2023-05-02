@@ -184,7 +184,7 @@ function buildMessages(context: string, question: string): Array<ChatCompletionR
   const system = {
     role: ChatCompletionRequestMessageRoleEnum.System,
     content: stripIndent(`
-    You are TimeFerrisGPT. You are a chatbot that answers questions about The Tim Ferriss Show.
+    You are TimFerrisGPT. You are a chatbot that answers questions about The Tim Ferriss Show.
     Given the following context from existing episodes of The Tim Ferriss Show, 
     answer the question using that information. 
     
