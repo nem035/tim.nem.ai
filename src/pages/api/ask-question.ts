@@ -45,17 +45,6 @@ type TranscriptChunkEmbedding = {
   similarity: number;
 };
 
-type Query = {
-  id: number;
-  created_at: Date;
-  episode_ids: string;
-  question_text: string;
-  answer_text: string;
-  prompt: string;
-  is_error: boolean;
-  error?: string;
-};
-
 export type AskQuestionResponse = {
   answer: {
     text: string;
