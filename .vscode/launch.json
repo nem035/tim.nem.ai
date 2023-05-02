@@ -23,6 +23,13 @@
         "uriFormat": "%s",
         "action": "debugWithChrome"
       }
+    },
+    {
+      "name": "Node.js: debug script",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "node ${relativeFile}",
+      "envFile": "${workspaceFolder}/db/.env"
     }
   ]
 }
