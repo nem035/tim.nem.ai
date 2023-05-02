@@ -16,8 +16,8 @@ See a few examples below on how it works:
 
 |     |  |
 | -------- | ------- |
-|![caffeine](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fcaffeine-sleep.png&w=2048&q=75)||![deep-creative-work](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fcreative-work.png&w=2048&q=75)|
-|![dopamine](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fdopamine.png&w=2048&q=75)||![habits](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fhabits.png&w=2048&q=75)|
+|![caffeine](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fcaffeine-sleep.png&w=2048&q=75)|![deep-creative-work](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fcreative-work.png&w=2048&q=75)|
+|![dopamine](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fdopamine.png&w=2048&q=75)|![habits](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fhabits.png&w=2048&q=75)|
 |![investments](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Finvestment-decisions.png&w=2048&q=75)|![sleep](https://nem035.com/_next/image?url=%2Fimages%2Ftim-ferriss-ai%2Fgood-night-sleep.png&w=2048&q=75)|
 
 ## Run loop
