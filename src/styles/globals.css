@@ -161,6 +161,11 @@ button[type="submit"] {
   margin: 0.25em;
 }
 
+.latest-episode-link {
+  margin-bottom: 1.25em;
+  min-height: 51px;
+}
+
 .lds {
   display: inline-block;
   position: absolute;
