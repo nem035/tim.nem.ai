@@ -1,0 +1,2077 @@
+https://tim.blog/2023/04/23/derek-sivers-transcript/
+
+#668: Derek Sivers — The Joys of an Un-Optimized Life, Finding Paths Less Traveled, Creating Tech Independence (and Risks of the Cloud), Taking Giant Leaps, and Picking the Right “Game of Life”
+
+<--- METADATA --->
+
+Skip to content
+
+3× ANNUAL “BEST OF” APPLE PODCASTS
+
+900+ MILLION EPISODES DOWNLOADED
+
+11,000+ 5-STAR REVIEWS
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+LATEST EPISODE:
+Bobby Hundreds — Building an Iconic Streetwear Brand, Making $7 Million in 40 Minutes, The Power of Garfield, Why Korean Entertainment is Taking Over the World, Maintaining the Mystery, The Fickleness of Fortune, and Developing “Nunchi” (#671)
+HOME
+ 
+NEW? START HERE
+ 
+PODCAST
+All episodes and guests
+Sponsorship and advertising
+Sponsors of The Tim Ferriss Show podcast
+All transcripts from The Tim Ferriss Show
+ 
+NEWSLETTER
+ 
+BOOKS
+Tim’s Books
+The Tim Ferriss Book Club
+ 
+ABOUT
+Tim Ferriss Bio
+Contact
+Media Kit and Samples
+Contact Tim Ferriss
+Corrections? Please Fill Out This Form.
+Jobs
+Causes
+Media Kit and Samples
+Terms of Service
+Privacy Policy
+Search for:
+Search
+POSTED ON
+APRIL 23, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Derek Sivers — The Joys of an Un-Optimized Life, Finding Paths Less Traveled, Creating Tech Independence (and Risks of the Cloud), Taking Giant Leaps, and Picking the Right “Game of Life” (#668)
+5 COMMENTS
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Derek Sivers, (@sivers), author of philosophy and entrepreneurship, known for his surprising, quotable insights and pithy, succinct writing style. He is a former musician, programmer, TED speaker, and circus clown, who sold his first company, CDBaby, for $22 million and gave all the money to charity.
+
+Derek’s books (How to Live, Hell Yeah or No, Your Music and People, Anything You Want) and newest projects are at his website: sive.rs. His upcoming book is Useful Not True.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+P.S. To follow the exact step-by-step “Tech Independence” instructions from Derek, please visit sive.rs/ti.
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Stitcher, Amazon Music, or on your favorite podcast platform. You can watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#668: Derek Sivers — The Joys of an Un-Optimized Life, Finding Paths Less Traveled, Creating Tech Independence (and Risks of the Cloud), Taking Giant Leaps, and Picking the Right Game of Life
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Should we kick this party off? What do you think? So first of all, cheers. 
+
+Derek Sivers: Thanks to Matt.
+
+Tim Ferriss: Matt Mullenweg. Thank you for the Scotch blend, which we shall enjoy here. So I’ll take a sip first.
+
+Derek Sivers: Ooh.
+
+Tim Ferriss: We have Scotch. We have Go Go Goa Black tea. I have a backup of Diet Coke in case this is podcaster speed ball. So I expect this is going to be a fantastic episode.
+
+For those who are not watching or those who may not have video in front of them, we have two different sized Scotch glasses. If you were to walk into Derek’s kitchen, you would find a wide assortment of glasses, namely one other glass. There are only three glasses. It’s like a Russian nesting doll of three separate glasses. And those are the only glasses you have in the house.
+
+Derek Sivers: Yeah. And I didn’t buy any of them. 
+
+Tim Ferriss: Explain. Because you walk the talk of certain types of minimalism. There are those out there who may not believe, or have a healthy skepticism. And I’m telling you guys, he’s got three glasses in his kitchen.
+
+Derek Sivers: And this is my only pair of pants. These three glasses, I don’t even think about it because I just think about having enough.
+
+There’s only me and my kid here. You come over and you say, “Okay, let’s make some Scotch.” And you’re like, “Do you have any glasses?” I was like, “No, that’s all I’ve got.”
+
+I just have these glasses. And honestly, I don’t even know where they came from. But they work, They work and this is enough. And these little bamboo cups I got for my kid so that he wouldn’t break them.
+
+Tim Ferriss: We will come back to this, because as a foreshadowing for people who are listening, if you have not read The Paradox of Choice by Barry Schwartz, he talks about maximizers and satisficers. So I think we’ll probably come back to this in a bunch of different ways. But suffice to say you are the embodiment of minimalism.
+
+You also have two very nice suits that act as your sort of outside in the world attire.
+
+Derek Sivers: Again, it’s this idea of enough. At home I wear junk, basically pajamas. The big baggy t-shirt that somebody handed you at a conference and you would never wear that outside the house.
+
+Michael Browne in London: When I lived in London right before COVID hit, I thought I’m living here by Savile Row in London. I’m about to leave England forever. So I’m going to get a custom-made suit.
+
+So I looked at Sartorial Talks — an interesting YouTube channel diving deep into like the the craft of fine clothing. Tailoring. And he recommended Michael Browne in London.
+
+So I went to Michael Browne and he said, “What would you like?”
+
+I said, “You’re the expert. You know, just dress me.”
+
+So he told me what to wear and I do.
+
+Tim Ferriss: I have a little bit more context here.
+
+He would ask, “So what type of shoes are you going to wear?”
+
+And you’re like, “What should I wear?”
+
+He’d say, “How are you thinking about X?”
+
+And you’d be like, “How should I be thinking about X?”
+
+And this is something I’ve thought more and more about, which is it’s not so much quantity versus quality because there’s a whole spectrum, right? You can have things that are very good and you have half a dozen of them. Of course, you can have one thing that is the best subjectively or objectively, and that’s it. You have one, or you could have a ton of things and not care about this thing. So this is a disposable item or service or fill in the blank in my mind. So I think I think we’ll we’ll probably talk more about this.
+
+But what comes to mind for me also when I think about, say, your suits, they’re great suits. You’re happy with them, you look good in them. And I think about, in contrast, my accumulation of ill-fitting suits, in part because my body weight has fluctuated so much in my life. Right? I’ve gone from 145 to 220 in both cases being pretty lean. So I have like kind of fat boy Tim jacket and then I’ve got like really, really skinny, emaciated Tim jacket and then I’ve got things in between. But I don’t need most of those and yet I still have them.
+
+Kevin Kelly in his new book, called Excellent Advice for Living, said, “You know how you have that bad pen? Throw out the bad pen.”
+
+Derek Sivers: It’s so liberating. Don’t have the bad pen. It’s about self-respect, isn’t it? Even something as simple as a pen. When I’ve done that, I went, “I’m better than this. I’m not going to take this. This pen is not going to rule over me any longer.”
+
+Tim Ferriss: You’re only as good as the worst pen in your house.
+
+So let’s let’s start with with the story. And I have not heard this story because you began telling me and I said, “No, I don’t want to hear it. Let’s save it.”
+
+Scuba diving.
+
+Derek Sivers: And what it taught me about empathy and identity.
+
+Tim Ferriss: I’ll listen to the TED Talk.
+
+Derek Sivers: Oh, God. All right. 
+
+So. I was in Iceland and I never had any intention to go scuba diving, but I was at Thingvellir Park. If you’ve ever been there where the two continental plates meet, the American continental plate meets the Eurasian continental plate, and there’s this deep fissure in the ground, but it’s crystal clear water so you can see all the way down. I was like, “Ooh, I want to go in there.” It just looks like Evian spring water, you know, poured over rocks with nothing clouding the water.
+
+I was in Iceland for a month, so I went to take scuba diving lessons and the instructor was great. The website is dive.is. And at the time it was just him in his basement. And it was me and one other guy learning scuba diving. So we did the practice in the swimming pool and we did all the theoretical stuff. The swimming pool was great and I loved the fact that it’s calm, that you don’t need to panic about holding your breath. It’s just slow and meditative.
+
+But then the first time we went into the cold ocean — and to be clear, I had to wear one of those giant dry suits. Like you’re like a spaceman with four layers of rubber and stuff over the rubber. So it’s very claustrophobic. And then I get into the water and it gets down to about 20m. And I’m just like, “Oh, God, I hate this. I want to go. I need to go. I need to, I just want to go back at home. I want to be on the Internet. I want to be emailing my friend. I want to talk to my friend. I’ve got to get out of here.”
+
+So I rapped on his tank and I went up to the top.
+
+Tim Ferriss: You pointed to go up.
+
+Derek Sivers: Yeah. And I tore off my mask and I said, “I don’t want to. I’m just going to go. You guys go ahead. I’m going to wait on the side. There you go. Go ahead. I’ll just wait.”
+
+And he was so sweet. He was so cool. He looked at me and just stopped for a second and he said, “Hold on a second. It’s a really nice day today. Look around. Look at those mountains. See, it’s a nice day today. Yeah, look. Look at what a look at what a beautiful area we’re in right now. See?”
+
+And then he said, “You know, if you were to leave now, I know you’re flying back in seven days. If I were to leave now, you wouldn’t be able to complete the training and you wouldn’t get your certification. I know you don’t want that. Just relax for a second. It’s all right.”
+
+And so I just relaxed for a second. You inflate your BCD, so you’re just buoyant and you float. And I went, “All right. Yeah.” What was I scared of? So, “Okay, I’m ready.”
+
+And so we go back down and I completed it and it was great. It was no problem. And I love being underwater. It’s wonderful.
+
+That was the completion of my training. So the next day was my first official dive. So we’re there with a dozen other people that have flown to Iceland from around the world, including this couple from Germany that were bragging about how many dives they’ve done. “We’ve done over 100 dives.” They were acting like know-it-alls. But then they’re like, “Oh, dry suit, we’ve never done dry suit before.” And so they’re getting into the dry suit.
+
+Tim Ferriss: Yeah, it’s retro. Yeah, it’s tough. It’s different.
+
+Derek Sivers: And so I get underwater. But this time I’m elated. I’m underwater just where I wanted to be in that crystal clear fissure there in Thingvellir, I was like, wow. And at 20 meters down —
+
+Tim Ferriss: Which is 60 feet. Pretty deep. 
+
+Derek Sivers: It’s the bottom of where you’re supposed to go as a beginner.
+
+And at the bottom I see the German girl by herself and her partner is not there. So I do the dive manners we were taught, where I gave her the “OKAY?” symbol and she gave the “NOT OKAY” symbol.
+
+And I was like, “Oh, wait, am I mis-remembering?” And I was like, “OKAY?” And again, she goes, “NOT OKAY!” And I see her eyes are looking crazy.
+
+And I thought, oh, shit, I’ve been trained for this. Oh, my God. I can do this. Okay. I held on to her BCD, held on to mine, inflated hers a bit, asked if she needed my mouthpiece, and she said no and helped her get up to the surface.
+
+Up at the surface she rips her mask off just like I did. She’s like, “I don’t like this! I don’t like, no, this is not good! I don’t! I hate this! I feel bad now! I want to go!”
+
+And I just imitated the dive instructor exactly. I said, “Well, hold on a second. Look around. It’s a really nice day. Isn’t this great? You see those mountains over there? Just relax a second. I’m here with you. It’s okay.”
+
+And so she calmed down and I saw her do the same thing I did and calm down. And then her boyfriend showed up.
+
+Tim Ferriss: So where the hell was the boyfriend?
+
+Derek Sivers: I don’t know. But he took her away.
+
+Tim Ferriss: So, “You’re on your own, babe. I’m out of here.”
+
+Derek Sivers: I’ve accidentally missed one step in the storytelling of this that I should have included.
+
+The night in between those two days. I went home that night thinking, “What the fuck? I think I just had a panic attack. I’m not one of those people. I have no respect for people who have panic attacks!” Because usually panic attacks, to me, are from people who are just like, “Oh, no, like my cake is late, I’m going to die!” And they freak out over shallow little things. It seems to me that they have no perspective on life. I have no respect for that kind of silly panic. Right? But I had just panicked and it was involuntary.
+
+That night I had this moment of thinking, “Wow, what does that mean? That am I a panic attack person now? Have I changed categories from a not-panic-attack person to a panic-attack person?” I fell asleep with no answers to that. Then the next day had this thing happened with the German couple.
+
+That experience taught me two kinds of empathy. We categorize people. Like the type of person who has a panic attack. We think of a category of person that’s, say, depressed, fat, homeless, divorced, bankrupt. And you think, “I would never be those things. I’m not that kind of person.”
+
+But a lot of these things are involuntary. It’s not like somebody chooses to be depressed. That’s when I realized I had been unfairly categorizing people the same way I had unfairly categorized panic attack people — because now I am one. Right? And addiction. Like somebody who said they would never be an addict and then they find themselves addicted to something that seemed harmless at first. And they have to admit, “Oh, my God, I’m an addict.”
+
+But someday these categories might be me or anybody else. If you’re categorizing people, this might be you.
+
+But then the thing that happened on the second day? There’s another category that we don’t think we could be, which is like hero, rescuer, leader, athlete.
+
+Millionaire! Some people in the past few years have become millionaires, which is something that they held in a different category and thought “I’d never be that.” And suddenly you have to admit, “You know, I’m a multi-millionaire now.” It’s a category.
+
+Tim Ferriss: Things with a positive connotation.
+
+Derek Sivers: So I realized that even those categories can be involuntary, that you can suddenly be a rescuer even if you never intended to be one, just through the power of imitation. You can deliberately step into these roles by imitating others.
+
+Tim Ferriss: So how do you now think about labels that you apply to yourself? And I ask that in part because as you’re speaking, I think of how it can not only be unfair to say “I’m this and not that” or “That person is this and not that,” but if you’re applying it to yourself and you have very narrow categories, so you have very finely tuned labels. I think it makes you fragile because you are susceptible to the the whim of chance in a way that I think is not particularly resilient. Right? If suddenly your circumstances change and you find yourself in a different category, it can be really upsetting.
+
+How do you think about what you call or don’t call yourself? We were talking a little bit about this at lunch before we recorded. Right? There are people that are like, “I have read Stoicism. Now I am a stoic!” And there’s this identity that’s assumed, and these labels that are applied. As much as I love Stoicism, even though I, you know, invoked that name, I do think you have to be careful with labels. So how do you think about that for yourself?
+
+Well-timed for a sip of Scotch.
+
+Derek Sivers: Well, young man. Sit down. Sit down.
+
+By the way, audience, the hardest thing about hitting record on this is that Tim and I have these crazy, all-over-the-place conversations in the forest and whatnot, so it’s hard to remember that we need to close tangents today. Usually we open a tangent and close it two days later.
+
+Tim Ferriss: We have to close tangents today.
+
+Derek Sivers: Okay. So do you want me to go on my anti -ism tangent? Are we there yet?
+
+Tim Ferriss: Well, let’s see. Is there some unfinished business that we need to tidy up first?
+
+Derek Sivers: Well, there’s a tiny idea around the identity, which is to just admit that whatever you are is now and whatever your preference is now.
+
+So when my kid says “I hate tomatoes,” I say “today.” And he goes, “Oh, right, I hate tomatoes today!”
+
+Because it’s leaving open the possibility that you might change your mind tomorrow. And he did! I hate olives. I hate, hate, hate olives so badly. And he picked this up from me, right? So he’s like, “I hate olives, too!” But he was just imitating me. And then we went to Subway one day. I was so proud of him. He walked up to the counter and he said “I would like olives.” And they said, “Do you want anything else?” He said, “Ham, just ham and olives.”
+
+And they loaded this sandwich full of olives. And I looked at it horrified.
+
+He ate it and loved it! And he goes, “I like olives now.” I was like, “Yes.”
+
+I love that switching between identities.
+
+I used to call myself an entrepreneur and other people would call me an entrepreneur. And then I did my first book that was about that. So I got categorized as an entrepreneur.
+
+Tim Ferriss: Great book, by the way.
+
+Derek Sivers: Thank you. Thank you for writing the foreword.
+
+Tim Ferriss: Anything You Want. I recommend people check it out. I’ve read it multiple times. It’s a great book.
+
+Derek Sivers: So for years I kept calling myself an entrepreneur until one day I realized like, wait a second, this is expired! Like somebody who is an athlete in high school can’t keep calling himself an athlete forever.
+
+Tim Ferriss: Ha! Yeah, I’ve learned that one.
+
+Derek Sivers: You have to keep earning that title or it expires, right? Same thing with being a good friend. Same thing with any labels that we call ourselves. You can’t just keep using that forever. You have to keep it up or it expires.
+
+So if you realize that your previous identity is expiring, you have the choice then of either admitting, “I was an entrepreneur; I was a musician.” Or if you don’t want it to expire, well, then you need to do something about it and go actively be a good friend, not just keep calling yourself a good friend. Or go actively be an entrepreneur if you want to keep calling yourself that.
+
+Tim Ferriss: So I may be skipping ahead because I do like mixing tangents. But that’s the nature of conversation, especially when you have Go Go Gadget tea and Scotch involved. So we were talking about this the other night at dinner:
+
+we use language, we’re creatures of language. Part of the reason that we’ve become such a dominant pest on the planet is our ability to use concepts and abstraction. Right. And you had mentioned at one point thinking of yourself after entrepreneur as a writer. How did you make that switch?
+
+Derek Sivers: Looking to your heroes. I call it my people compass. If you’re not sure which way to go, you can ask yourself, “Well, who do I admire? Who do I like?”
+
+So for me, I was not sure what direction I wanted to go. I am an entrepreneur and I’m a programmer and I’m an author. I actually thought about it in that order. Maybe programmer first, entrepreneur. Then writing seemed to be something I was doing as just like a waste product.
+
+Tim Ferriss: Ha! A metabolite of your other focus.
+
+Derek Sivers: It was like as I’m doing my thing, if I learn some lessons, there, I just put them into writing.
+
+But then I noticed that all of my heroes were authors. These were the people I looked up to the most, and that helped me realize my values. It helped reveal my values.
+
+So ultimately we want to be our ideal selves, right? And that your heroes are your idealized self, right? That’s why we idolize certain people, is we want to be like them. So that reveals what your values are.
+
+So in that moment, I went, “Oh, my God, that’s right. In my heart, I’m actually more of an author.” Programming is fun. I love programming. I love what it empowers. I think we’re going to talk about that later. And I’m not an entrepreneur anymore. So in that moment, I was like, “That’s it. I’m really an author now, aren’t I? Wow, that feels weird to me. I never thought of myself as an author.”
+
+But the reason I call it a people compass is related to when you’re not sure what business to start. A lot of people are looking at many different options right now. The way I think about it is asking yourself, “What kind of people do I like being around?” Because these are the people you’re going to be serving. You have to like them. You want to love your customers and love serving them, because ultimately, even if it’s the money, what you really really want is the emotional fulfillment, right?
+
+You might get lucky by strategically choosing an industry or a market that’s on its way up, and you might get really lucky and become a billionaire doing something. But what if your customers are jerks, right? Like, would you be happy getting rich running an all-night vaping store? You think of the kind of customers that would come into your all-night vaping store. Are these the people you want to serve? And would you be happy even if you made $1 million doing that? I think you’d feel pretty mixed about it.
+
+Tim Ferriss: I’m a little embarrassed to tell you about my new startup then. 
+
+Derek Sivers: So it’s asking yourself, “What kind of people do you want to be around?”
+
+Tim Ferriss: Decentralized blockchain baby seal clubbing expeditions? Yeah. Not not sure I want to hang out with the people who might go on that tour.
+
+Derek Sivers: Run by AI.
+
+Tim Ferriss: We may need a refill on the Scotch, the way we’re going.
+
+Derek Sivers: So, yeah, I think that if you set up your business to serve the people that you love being around, even if it makes less money, you’re going to be much happier.
+
+So that’s where I’m at right now. Right now, I’m not an entrepreneur, but I’m starting to get that itch. I’m starting to feel like doing something. And if I do, it’ll just be to be around the people that I already love.
+
+Tim Ferriss: Okay, so let’s poke at that a little bit. Being around the people you love. There are many ways to do that. Why do you think you are maybe leaning towards the entrepreneur vehicle for doing that versus doing other things? Is it what you know? Is there more to it?
+
+Derek Sivers: Hmm. Because it’s asking yourself: what would you do even if it didn’t pay?
+
+I’ll just pick one example. And don’t hold me to this, world, if I don’t end up doing this idea!
+
+Do you know, that seven years ago, on your podcast, I happened to mention that that week we talked, I was enjoying learning the history of hip-hop. And for six years people keep telling me like, “So! History!” It was just — it was that week. Come on!
+
+Tim Ferriss: “Now I like olives, so stop lecturing me about my past self!”
+
+Derek Sivers: So right now an idea I’m having is 100-year hosting — legacy personal websites. Setting up a trust so that your personal website will last on for 100 years or 50 years after you die. This is the kind of thing I care about so deeply that I would do it even if it didn’t pay. I would do it as volunteer work. And I really like people that have personal websites. They’re my kind of people that enjoy technology for its own sake. That took — what do you call that? Umpfkopower?
+
+Tim Ferriss: Zymphgopower?
+
+Derek Sivers: No, no, no, where somebody takes — initiative!
+
+Tim Ferriss: Is that English? Go ahead. I don’t speak Esperanto yet.
+
+Derek Sivers: People that took a little initiative and set up their own website.
+
+I like these people. I like people that have personal websites that aren’t doing it for money. They’re my kind of people and so I would be proud to serve them. So that’s all I meant by that.
+
+Tim Ferriss: Okay, So, so many directions we can go here, I think. You alluded to it, so why not hop to it?
+
+Programming: the empowerment that can provide. Let’s talk about escaping the cloud. All right. Or broadly speaking, tech independence. 
+
+And to set the stage for folks, we were walking down the street here in Wellington. Beautiful Wellington, New Zealand. Central New Zealand. (Ugly Wellington.) Well, yeah, the central area is a little bit like Haight-Ashbury in some respects, but for those people who get the reference. But all in all, beautiful city, lots of hiking trails, shockingly similar to Northern California. I mean, I felt like I was flying into SFO. You have Monterey Pine here, you have eucalyptus, which we both borrowed from Australia. You have nasturtiums. A lot of the vegetation here is similar. It’s really nostalgic and kind of eerie in a way to be here because I feel like I’m back in Northern California. It’s like being in a time machine.
+
+In any case, we were walking around not in the nature side of things, but downtown. And I said, “You know, I’d love to ask you about cybersecurity.” And I said, “Let’s say somebody who’s very technical and hyper paranoid, let’s say they’re a 10. Let’s say your mom is a one. Not to make assumptions about your mom, but I will. Where do you fall on the cybersecurity spectrum?”
+
+And that opened up a fun discussion. We chatted. You also then wrote in your diary about it the next morning.
+
+Derek Sivers: Yeah, because I’m slow like that. You’ll ask me something like that. And in the moment, as we were walking down Courtenay Place, I’ll give some half-ass answer. And then later that night I’m like, “Oh, I’ve got a better one!”
+
+Tim Ferriss: I’ll push back a little bit. Slow is relative. I mean, I think that you were very coherent and you thought about it before you launched off into some type of monologue, which you didn’t. It was a conversation, but you then refined it the next morning.
+
+So let’s let’s talk about this, because you gave a couple of — I wouldn’t say recommendations. You described a few things you do personally that I found very interesting, one of which was you don’t use the cloud. Which I think will get a lot of people’s attention because in part I think there are many people who feel, myself included, that there’s something uncomfortable about it. But I assume since I’m non-technical, there really just is not an alternative. But there is part of me that’s very privacy sensitive and is fundamentally uncomfortable with having all this stuff, all this miscellanea, all these impulsive, ridiculous group chats and whatever backed up somewhere else. For a lot of reasons.
+
+Derek Sivers: Your phone book, your calendar. All of that.
+
+Tim Ferriss: All of that, it’s there’s something deeply uncomfortable about it. And yet I use the off-the-shelf tools because everyone else does. And I just assume there are no alternatives that are feasible for a muggle like myself.
+
+Derek Sivers: Poor Tim. Poor Tim. So incapable. 
+
+Tim Ferriss: All right. So, Doctor, Doctor Sivers, please hold court.
+
+Derek Sivers: So, audience, I prepared. I took notes because although I love Tim’s podcast, I love it most when people come and give us an intense data dump. So I prepared a couple hours and here you go.
+
+I’m going to unapologetically read from my notes to give you the best bang for buck of your time listening.
+
+So tech independence is all about the fact that the main sales pitch of the cloud is “Now, don’t worry your little head about that. Let us take care of it. We’ll keep all of your data. See? Isn’t that easier now? There. We’ve got your data.”
+
+It actually reminded me of something you said in The 4-Hour Body about yoga studios that no, it’s not the best thing for your health, but it’s a more profitable pitch for them to sell you a yoga studio instead of the free weights.
+
+Tim Ferriss: Yeah, There’s a lot of that in fitness overall for sure. So there’s an incentive.
+
+Derek Sivers: This is the tech equivalent of that.
+
+I wish that history had gone such a way that we all had our own little private server at home, but instead the cloud made a better sales pitch saying, “No, no, no, give us all your stuff. We’ll take care of it forever.”
+
+So my idea is if you spend a few hours to learn how to do it yourself, you’ll just have tech independence. What that means is self reliance. It gives you better security, better privacy, better freedom, better flexibility and total control. And it’s a great use of your time to spend a few hours learning to do this, kind of like somebody learning to drive manual transmission. Right? You don’t need to do it. But this is a good life skill to have. Especially imagine if we’re in a world that had more, you know, just 50 years ago.
+
+Tim Ferriss: So or now in a lot of countries, you still can’t drive automatic.
+
+Derek Sivers: Many people have lost their Google accounts. There’s a guy I know who’s a very savvy tech entrepreneur in Singapore who, because he was so tech savvy, he put all of his kid’s photos in the cloud. Since the day his kid was born, he put everything onto Google Photos for 10 years. His kid was 10 years old the day that he started a new company and said, “I’m going to do the Google Apps for business.” And it asked him a quick question: “Would you like to merge this with your existing Gmail account?” He said, “Yes.” He merged it. And the next day his wife was like, “Honey, where are all the photos of our kid?” He went, “They’re in Google Photos.” She said, “No, they’re not.” And he looked, and was like, “Oh, my God, what do you mean they’re gone?” He emailed customer service and they said, “Well, no, you chose to merge your accounts and we warned you that they’re gone.” And he said, “Well, could you please recover them?” They said, “No, they’re gone.” This poor guy has no photos of his kid from age 0 to 10 because he trusted the clown. I mean, sorry, cloud.
+
+Tim Ferriss: He can’t trust those clowns.
+
+Derek Sivers: Sorry. Tech snark.
+
+Tim Ferriss: Oh, you did you do that on purpose?
+
+Derek Sivers: I did.
+
+Tim Ferriss: Oh, that was good.
+
+Derek Sivers: So, yeah, any time when somebody talks about the cloud, you know, change it to an N.
+
+Derek Sivers: The cloud. The clown. Keep all my contacts in the clown.
+
+So everything I’m going to describe here takes just a few hours to set up. This isn’t a major, major thing. It’s not that hard. Listeners of yours are used to being suggested to learn how to do something.
+
+Tim Ferriss: And let me also preface this for a quick second. This is not a tangent by saying I do not experience you. Maybe I’m missing something. Maybe spider holes dug in the backyard. I do not experience you to be a hyper-paranoid person at all. So I just want to mention that because folks might think, “Oh, my God, this guy’s got like 20 years’ worth of oatmeal and like, you know, gold bars and guns in the basement.” I want to sort of set the proper reference point, which is I don’t experience you to be a paranoid person. Not at all.
+
+[MIDROLL?]
+
+Derek Sivers: So first, let me just say the first thing you need is to get your own server, which is as simple as $5 a month.
+
+Go to a company I recommend called vultr.com.
+
+They have something called cloud compute for $5 a month where basically that’s setting up a private slice that’s just yours but on a shared computer. So it’s —
+
+Tim Ferriss: Like a virtual private server.
+
+Derek Sivers: Virtual private server. Exactly. I was trying to not get technical.
+
+Tim Ferriss: A server, for people who don’t know, I know this is going to be old news for a lot of folks. What is a server? Sounds super complicated.
+
+Derek Sivers: It’s not. It’s just a computer that’s always online and publicly accessible. Doesn’t even necessarily need to be public. We’ll get to that.
+
+For setting up your server, there are three options. 
+
+#1 = the $5 a month vultr.com cloud compute.
+
+#2 = search the web for cheap dedicated server.
+
+A dedicated server is an actual piece of hardware that is only yours not shared with anybody else. So if you want more privacy, just spend a little extra money and get a dedicated server. Which means this physical hardware, you’re the only person that has access. They have physical access to it, but you have the only root password and it’s going to be an encrypted hard drive. We’ll get to that.
+
+Third option is go to any used marketplace and find an old used Lenovo ThinkPad, ideally from the T400 series. You can get these for under $200 now and they’re great and they run any old operating system. You would just set this up in your closet and keep the master version of your server in your closet. And then the other things would be mirrors of that. But we’ll get to that in a second.
+
+Okay. So here’s my quick how to — I’m going to tell you a few things here that aren’t complete instructions, but they’re enough for you to search the web. So I’ll tell you what to do. And you can search the web for exactly how.
+
+The first thing you’re going to need to do is to use the Terminal. So the command line in the Mac, it’s built in. You go into the Utilities folder, it’s called Terminal. On Windows it’s called PowerShell. And anybody using Linux, you know what it is.
+
+So the operating system I’m going to recommend, the one I use is called OpenBSD. And we touched on this on the street the other night. The reason I use OpenBSD.
+
+(BSD = Berkeley Software distribution. Actually, I was born in Berkeley, California and kind of like more people named Dennis go into dentistry because there’s an affiliation of names. Freakonomics pointed that out. I always wonder if my affinity with the BSD operating systems is because I was born in Berkeley and the Berkeley, who knows?)
+
+But the reason I got turned on to OpenBSD is because I used to have Linux server as a public server and it was hacked one day and the guy at the data center said, “Yeah, that’s been happening a lot lately. Said you might want to switch to BSD. It’s a lot more secure.”
+
+So OpenBSD is designed from the ground up by super security freaks. And part of why it’s so secure is it’s so simple. It’s a very, very simple operating system that doesn’t do everything under the sun. It does what I’m describing, and it does it really well. And it’s secure as hell.
+
+Tim Ferriss: And it’s got, as I understand it, few lines of code. Which means, let’s just say you’re a writer. The more you write, the higher the frequency of typos. And you don’t want bugs in your code that can be exploited.
+
+Derek Sivers: The less code, the better.
+
+So install OpenBSD and follow the instructions to encrypt one of the disk partitions in there, as you’re installing it.
+
+Then you’re going to use SSH, which stands for Secure Shell, to log into it.
+
+Then on your home computer, use that terminal to generate a private SSH key. You do ssh-keygen -t ed25519. That’s going to generate two keys, a private key and a public key. You upload the public key to your server.
+
+After you do that, edit your SSH configuration file to disable password logins. So now the only way to log into your server is with your private public key that you just generated. Right? Very similar to the crypto public/private thing.
+
+Then you go into your pf.conf settings, you edit your firewall to only allow port 22, which is the port that SSH uses to connect.
+
+Once you’ve done that, voila, now your server is super secure. Nobody can get in except you from your computer with the generated private key through SSH is the only way to connect to that server.
+
+Tim Ferriss: Explain the generated private key.
+
+Derek Sivers: Really just a single command. You type on the terminal “ssh-keygen -t ed25519.” It will ask you for an optional password and it just creates the private key and the public key. Same name, but one has the “.pub” at the end. Then you just use whatever tool you want to upload the pub to your remote server. You put it into the correct place and authorized keys file and voila. Now it will, instead of asking you for your password, just use the private key and the public key matching to let you in.
+
+Tim Ferriss: Got it. So it’s like Marco Polo. Okay. Yeah, we’re in. As opposed to entering a password every time.
+
+Derek Sivers: Right.
+
+And that’s why you want to change the SSH server configuration files to disable passwords. So even if a billion script kiddies were trying to hack your server to guess your password, passwords are just disabled.
+
+Tim Ferriss: Do you think this will become — and I’m non-technical, folks, you’ve probably guessed — but this type of Marco Polo, I can’t remember the proper way the private keys and so on, private/public keys or whatever the term is, will become more and more prevalent as quantum computing and so on allow the current level of encryption to be decrypted more and more effectively? I’m just wondering about, well, this is going to take us off on a major tangent.
+
+Derek Sivers: I think it’s what our phones are already doing behind the scenes with WhatsApp, encrypted chats, or FaceTime or even just our phones themselves. When you type in that code, when you first turn on your phone, I think our phones are already behind the scenes using public/private key. So that’s just the best solution so far, I think.
+
+Tim Ferriss: Side note, if you have a four-digit password on your phone, you can change that to eight-digit. Simple, simple upgrade. Yeah. In settings.
+
+Derek Sivers: So next thing you need a domain name. My recommended place to get a domain name is a wonderfully nerdy, non-commercial site called BookMyName.com. 
+
+Wait till you see the site. It’s wonderful, old school nerdy. There’s no affiliate program there.
+
+As a backup, I use NETIM.com. Both of these are French companies, and there’s a third one in Portland, Oregon that I like called Porkbun.com . All three of these are really good, reputable places to get a domain name. I recommend them. I just like them. I use them.
+
+Once you’ve got your own server, it puts everything else into perspective. So that’s really where I’m coming from when I say I don’t do things in the cloud. It’s because when companies come out and say, “We can take care of this for you,” Yeah, it’s like you’ve already got your bread and peanut butter and jam in the kitchen and somebody says, “We can make a sandwich for you in your own home.” You think “I don’t need your help.”
+
+Tim Ferriss: So for those who heard, the Scotch really just hit me like, Good Lord, that was not very much. But you’ll have extra personality for this episode, folks. So for those people who listen to what you just said and they’re like, “I think I just heard a lot of Klingon, I’m not sure, but I can’t parse what any of that means.” It sounds overwhelming, right? What would you say to them?
+
+Derek Sivers: I care about this so much that I’m going to set up a really dead simple thing that’s basically just “Do this, copy/paste this. This is going to work. Look at that.” So email me.
+
+Tim Ferriss: God damn it. Email? Write a blog!
+
+Derek Sivers: I will. I will. But yeah. Blog post. What’s that?
+
+Tim Ferriss: Yeah. You’ve only written five million blog posts since like 1987.
+
+Derek Sivers: But until. Until I write up — actually, you know what? I registered the domain name cloudfr.ee. I just thought it was clever. Someday I’m going to write this up into a very simple “You don’t need to understand this yet. Just do this. Eventually you’ll understand it.” Because that’s how I learn.
+
+Derek Sivers: Because that’s how we all learned at first, right? It’s often like, “Just do this. You’ll understand it later. Yeah, but for now, just do it.” And I think that’s a fine way to learn if you trust the source. Right. Trust me.
+
+Tim Ferriss: “Where are my photos? Oh, Derek Sivers has all my photos.”
+
+Derek Sivers: Right? Right. That’s what I really wanted. I want your photos!
+
+Tim Ferriss: “Let’s talk describing how to hit a baseball.” You’d be like, “What the fuck? That was like 15 pages of describing. And that sounds too hard.” Actually, no, you’ve just got to try it a few times.
+
+Derek Sivers: Yeah. Okay. So, by the way, you know what’s cute? My kid didn’t know what baseball is. They played baseball last week at school, and he said, “Dad, what’s this thing with the squares? And he hit a home run on his first try.”
+
+Tim Ferriss: Oh, wow. It’s all downhill from there. Tell him to stop.
+
+Derek Sivers: Yeah, exactly. “Everybody was cheering for me, but I didn’t know what I was supposed to do. They told me to run.”
+
+Okay, so now let’s talk about some applications. Okay, so you have a server set up. Here’s what you’re going to do with it.
+
+First, do your contacts and calendar. I don’t like the fact that my phone automatically gives Google all of the contacts and all of my calendars or Apple. So you can set up it’s called Radicale. The website is Radicale.org. It’s absolutely free. Open source.
+
+It sets up what’s known as a CardDAV and a CalDAV server on your server. So this just this will be the new server that you sync your contacts and calendars to.
+
+So it’s dead simple. Blew my mind. You install Radicale on your server. You just basically type one command and it says, “Okay, it’s running,” and you say, “Okay.” And then you go into your phone and instead of telling Apple to manage your calendar and contacts, you just set it to your domain name. And suddenly it says, “Okay, synchronized.” And now every new contact you add and every calendar entry is synchronized with your server, not Apple’s.
+
+Tim Ferriss: And actually, I have gone through this process before and I can tell people it’s quite simple because things have probably changed. But quite a few years ago, if you wanted your iCal on Mac and Google Cal to sync, huge pain in the ass, right? You would have to use a third party. And at least I ended up using CalDAV a long time ago. That’s since changed. But yeah, so this is not this is not very, very hard. Dead easy.
+
+Derek Sivers: That’s why I started with this. Yeah. It’s like the simplest thing to set up.
+
+Tim Ferriss: And the most sensitive in a way. Or some of the most sensitive. Yeah, right.
+
+Derek Sivers: It feels so important to know that my contacts aren’t being sent to other people, and then you see it backed up yourself. Because there are some people that get locked out of their Gmail account or whatever and then they’re just screwed because all their contacts are in there, but you have them yourself.
+
+Okay, so next thing is file storage, where photos, ebooks, movies, documents, everything else. They’re just files.
+
+So the first thing you want to do is to export them out of the apps that are like the walled garden apps like Kindle and Apple’s Photos app. And save it as regular files epub, jpg, mp3, mp4. Just open standards. So you export it out, you save it there. And now you’ve just got regular files.
+
+You don’t need iCloud, you don’t need Dropbox, you don’t need Google Drive. You’ve got your own server.
+
+Every computer has this dead simple little program built into it called rsync. Macs have it built in. Windows I think you might need to install it or maybe it’s there with the new PowerShell.
+
+And all it does is synchronize the difference. So if you have 10,000 files and you’ve changed three of them today and your remote server has 10,000 files, but not the new three, you type “rsync” and it’ll just send the newest three that you’ve changed. That’s it.
+
+Rsync is built in, but you have to manually type “rsync” and the command and your server name and it’ll go. So that’s what I do.
+
+But if you’re a fan of Dropbox, there is a free replacement for Dropbox called Syncthing. Syncthing.net. It’s totally free open source.
+
+Tim Ferriss: I want to give you more Scotch. Just see what it does to your spelling.
+
+Derek Sivers: And it does that more like automatic style instead of manual synchronization.
+
+Tim Ferriss: Well, let me pause. So in your particular case, do you think automatic sync, do you like automatic sync?
+
+Derek Sivers: I don’t. I like having the delay between my servers.
+
+Tim Ferriss: Because if you fuck up —
+
+Derek Sivers: Yes, right. If I accidentally delete a file, even if it’s a week later, we’ll get to — actually, you know what? I’ll talk about this right now.
+
+I have my servers cloned, so that’s actually the next step I would recommend. Once you’ve got this and it’s working for extra security, go back and repeat that first step and set up another server with a different company in a different country and do it again. Do the SSH port thing. Then you can use rsync or Syncthing, not just to clone between your computer and your server, but that server and the other server.
+
+Tim Ferriss: I have a great idea. Okay. You ready?
+
+So this next chapter of Doctor Sivers’ entrepreneur interacting with customers: You like to own personal websites. You could create a service that helps people liberate themselves from the cloud. For those who own personal websites.
+
+You know, it’s just an idea because you seem to be philosophically aligned with this.
+
+Derek Sivers: Yeah. I’m passionate about it. It upsets me when people are bound to the cloud or just going to use everything in the company’s hand. They’re dependent on this. It’s about being dependent! It’s about the self-reliance! People who are dependent on others — like imagine if everybody in their own home was like dependent on somebody else to make them food. They didn’t know how to make their own food. You’d feel bad for them. Like, “Come on, it’s not that hard. Here’s a knife, here’s some bread, some peanut butter. See, you could do it.” That’s how I feel with these things.
+
+Tim Ferriss: You only need three glasses. It’s easy.
+
+Derek Sivers: All the things I didn’t think we’d talk about!
+
+Tim Ferriss: I would also say that it’s not just about being dependent. It’s about being informed. So do you have complete understanding or near-complete understanding of how you are storing sensitive information? When’s the last time anyone listening to this — or even I’ll speak for myself — yours truly — read the complete terms and service? When something pops up and it’s 27 pages and you’re like, “Yeah, yeah, yeah. Okay, click accept.” There’s a lot of stuff buried in there. Yeah, there’s a reason there are armies of lawyers that work on terms of service and that they’re updated constantly.
+
+Derek Sivers: Which is nice to tune into sources, people who care about that stuff deeply — and they can act as a nice natural filter to let you know if somebody is being good or being bad.
+
+That’s how I found BookMyName.com for domains. It was some super nerd that recommended that, they’re like, “Oh, these guys are old school Unix. You want to go with these guys. Like, you know, they’re not these new salesmen trying to, you know, raise venture capital for their domain selling. These are just old school nerds doing it for the right reason.” That’s what I like to hear. These are my people.
+
+So I have three servers now set up in New Zealand, US, and Germany, and I like the delay between them. I have one that I update every night, sometimes multiple times a day manually. Yeah, I just type “rsync” right before I shut down. My computer backs up my whatever today’s work to my remote server and then about once a week I back it up to the second server. Then about once a month I back it up to the third server. And I really like that delay because there have been times that I’ve deleted something and like a whole week later went, “Oh, crap.”
+
+Tim Ferriss: Let me ask, let me ask a dumb question, maybe. Why delete anything? Storage is so cheap.
+
+Derek Sivers: I know. No, I mean more like deleted lines of code, like, “I thought I was done with that.”
+
+Tim Ferriss: There was a revision that you want to undo. 
+
+Derek Sivers: Yeah. And sometimes I’m using Git. But sometimes I’m not. And sometimes it’s gone. It’s rare, but every now and then. Yeah. Yeah.
+
+Okay, so a website is a no-brainer. The OpenBSD operating system comes with its own web server, so I highly recommend it.
+
+No offense, don’t install WordPress.
+
+We love you, Matt. I adore you, Matt, but I think everybody should learn how to do it themselves.
+
+It’s not that hard to do an H1 tag, H2, P tag, UL, LI, href, img src. You can learn it in an hour. And voila, now you can make your own HTML website.
+
+I get this question about once a week by email people saying, “What do you recommend? I want to make my own site.”
+
+Tim Ferriss: Well, hold on. So not not to push back, but just to stress test a little bit. WordPress is open source. Why not use it?
+
+Derek Sivers: You could, but, see, WordPress is like, I think last time I counted 38 billion lines of code. And it does way more than what you need. So it’s kind of like if you said, “I need some scissors,” and somebody handed you to the contents of an entire hardware store. You’re like, “No, I really just need to cut this.”
+
+So I think most people, what they want from a website is, “I have some thoughts. I want to put them in writing for the world to read.” Or “I have a couple photos.” That’s what most people want.
+
+I love WordPress and I used it for years, but it does everything and I think it intimidates people to the point of paralysis.
+
+So that’s why I say, “Well, no, no, no, no, hold on.” My top recommendation is don’t let people tell you that this is complicated because if you look at WordPress or similar services and — by the way, I’m just saying WordPress, I mean, it could be Ghost, it could be any of these things. You get the impression that making a website is hard, but it’s not. It’s just a plain text file that you change the extension from .txt to .html, and you add in a couple bracket tags, and that’s it. And then you upload it and it works and the world can see it.
+
+So I just constantly remind people how simple this can be. And I say that even if you just do it this way for the first month, please, like, make your own static HTML web page.
+
+Tim Ferriss: I think it’s a good exercise, even if you end up later using something else.
+
+Derek Sivers: Exactly right.
+
+Tim Ferriss: That’s what I was getting to.
+
+Derek Sivers: So start by doing it that way. And then if you need something that another service offers, you’ll recognize that you need it because you’ll know.
+
+Tim Ferriss: I agree with that. I mean, I edited the first 30 to 40 episodes in my podcast, which is a lot of work, and I’m not a master at it, and there are far better people who work on it now for these later episodes. But I felt good doing it in the beginning and I was like, all right, if I’m going to delegate anything to the extent that it’s feasible, I’d love to learn how to do each thing. Otherwise, how am I going to assess anything?
+
+Derek Sivers: Okay. I’ll name one last one and then we’re done with this subject. The last thing I’m going to recommend is email.
+
+So at very least get off Gmail and use your own domain name. It’s so important to switch your email to your own domain name.
+
+Tim Ferriss: You can do that with G Suite.
+
+Derek Sivers: I know, but we’re talking about the liberation, the independence. It’s knowing that you aren’t dependent on these guys! So I think it’s crucial to extract yourself from the “We’ll take care of it for you” thing.
+
+So the three things I’m going to recommend in the three different options in order:
+
+The simplest, cutest little one I’ve found is Mailbox.org in Germany. For $1 a month they do nothing but host your email and I think maybe your calendars. But you know, we’ve already talked about that. Mailbox.org, you point your domain name at them. They do your mail. They’re cute, they’re great. They’re all privacy focused.
+
+If you want the luxury full premium suite of like the best email client on earth, you go to Fastmail.com. Fastmail.com is amazing. It’s $5 a month. But again, they’re taking care of it for you.
+
+So, you know, the third option is coming. You can host your email yourself on your own server. It’s dead easy to receive email. It’s a little harder to send email. You’d have to set up a few config files, but it’s not that hard. I do it myself. It’s a bit advanced, but it’s possible.
+
+I assume that that would come maybe as you know, step eight after you’ve done other things right.
+
+Tim Ferriss: That’s like if you’re starting on the bunny slopes, which were the first stages, this is like, okay, now you’re getting on some moguls. Yeah, don’t try this day one. Yeah. Get familiar with the gear first.
+
+So I would be curious to know how you would reply to people who are listening and they’re like “Mailbox.org and Germany Fastmail? I’ve never fucking heard of these things.” Which is not to say they’re not robust and amazing and cute, as you put it, but they’ll say, “I have more confidence in Google being around in five years than I do in these companies, which I know nothing about.” Ultimately, you can have a certain degree of liberation, but if your infrastructure fails or these people put up a “Closed for Business” sign and suddenly the hardware upon which things are being stored is game over, I guess I’m wondering how you would address people with those types of concerns?
+
+Derek Sivers: Everything I’ve recommended here was recommended with that in mind. You should expect that you will outlive most businesses.
+
+I think that is the biggest misconception that people have about Facebook or Apple or Google. It’s likely you might outlive Google and Facebook. You know, those of us who were around in the first dot-com boom.
+
+Derek Sivers: History repeats. Yeah, it’s certainly well within the realm of possibility.
+
+Derek Sivers: It was unthinkable in 1999 that MySpace wouldn’t be around, maybe. What was that, 2003?
+
+Tim Ferriss: So how is how is Mailbox.org better?
+
+Derek Sivers: Everything is done with your own domain name. So if Mailbox.org ever ends — actually, if they just disappeared one day, you’d just log into your domain name router and just route it to another service. Because everything’s being sent to tim@tim.com or whatever. You have your own domain name, you can just route it to a different mail server.
+
+Same thing with the servers I’m talking about. If one of these services in Germany or New Jersey suddenly went under, no big deal, you’ve got your clone, your remote clone, your remote server is a clone of your home thing, right? So all of this is expecting everybody to fail.
+
+So the conclusion is I think this is a great use of your time. It’s liberating, It’s empowering. And then when somebody tries to sell you a service, you’ll know that you can do it yourself if you want to, and you might still choose to have them do it.
+
+Tim Ferriss: Question for you. So if somebody is listening and they say, There’s no fucking way I’m going to do all that, however, I’d be interested in dipping my toe in the water and maybe doing the first thing just to learn some new technology, gain some confidence. I’m not going to do the whole kit and caboodle because it just sounds overwhelming. But like, I want to do sort of a science project with some experimentation. What might you recommend to them?
+
+Derek Sivers: I’d say the first baby step is to get your own domain name, definitely, and then move your email off of Gmail and just go to some third-party provider of email.
+
+Tim Ferriss: Okay. So you’d start with email?
+
+Derek Sivers: I think so. It’s the simplest. It’s the only one in there that’s not truly setting up your own server. Although yeah, I mean, that would obviously — that’s the next step. Just do that first thing and have like a couple hours of something that feels uncomfortable and new to you. But voila, you have a server that’s running anywhere in the world. And once you have a server, everything else is easier. The baby step is to just get your own domain name and switch your email to that and try to just move everything off of Gmail or just let your old Gmail be your junk account.
+
+Tim Ferriss: Okay. Question for you personally, if you had to choose between having your email off of the cloud or calendar and contacts, but you can only choose one, so calendar and contacts come together, emails another, which would you choose?
+
+Derek Sivers: I don’t know why there’s a sense of happiness in having my calendars and contacts be on my own server.
+
+Tim Ferriss: Yeah, I lean that way too. And I don’t know if I could verbalize why that’s the case.
+
+Derek Sivers: Mail sending has become unfortunately difficult because a lot of things get marked as spam unless you do a bunch of more complicated things.
+
+Tim Ferriss: That’s right. I didn’t think about that. I could see that being a huge problem.
+
+Derek Sivers: So the way I actually have my mail server set up right now is all incoming email comes directly into my server, but for sending I actually use a service called Mailgun that just handles the sending so they take care of all the deliverability.
+
+Tim Ferriss: So it’s not an ESP, but it’s helping. Or maybe it is an ESP, like an email service provider. Oh, it is, yeah. I guess for outgoing only. Yeah. I think — I wonder. I think SendGrid does handle some of this as well.
+
+Derek Sivers: Yeah, they’re one of the same.
+
+Derek Sivers: So you’re really just using their SMTP servers just to send the outgoing mail, but receiving it privately. 
+
+Tim Ferriss: SendGrid. Those guys have done such a good job, at least last I checked and I met them when they were just starting. I met them at Techstars a million years ago and this is an example of where being non-technical hurt me because I just didn’t know what I was looking at. The guys were super great, clearly very smart, but I was like, “I don’t understand this.”
+
+Derek Sivers: Can we tell people the Shopify — 
+
+Tim Ferriss: You mean my most expensive mistake ever? 
+
+Derek Sivers: No! My little thing with Tobi.
+
+Tim Ferriss: Oh, yeah, yeah, yeah! I’ll leave that one float by. Selling Shopify early was my most expensive mistake ever as their first advisor and they had, like, 10 employees.
+
+God, do I love the Shopify guys. They’re so great. Tobi, Harley, the whole gang, just great humans. It makes me so happy when the good the good guys and gals do well. It just makes me so happy.
+
+So, cute story. Which I had never heard, which was shocking.
+
+Derek Sivers: Sometimes people ask if I can introduce them to you and I say no. I respect your time.
+
+Tim Ferriss: Yeah, I appreciate that.
+
+Derek Sivers: So, by the way, I love your your email address.
+
+Tim Ferriss: Oh, yeah, yeah, yeah. Which basically says, fuck off.
+
+Derek Sivers: Yeah, basically. Yeah. It’s essentially fuckoff@timferriss.com
+
+Tim Ferriss: It’s not that aggressive, but it makes it clear, like, think twice before sharing.
+
+Derek Sivers: So I love the Ruby programming language. And before there was Ruby on Rails, I learned Ruby in a cabin in Sweden where I was offline for two weeks. So I brought a programming book with me. I was like, “Well, I’m going to be offline for two weeks. I might as well learn something new.” So there was this really unknown little programming language called Ruby. I was like, “That sounds fun.” So I grabbed this Ruby book, installed Ruby on my laptop and went off to this cabin in Sweden in the winter. For two weeks I was offline and I learned Ruby for two weeks.
+
+I came back going, “That was so much fun. I wish I could use this to make websites.” And there was news that there was this guy named David in Denmark who was doing something with websites and Ruby. So I emailed him saying, “Hey, somebody said You’re making like a web framework in Ruby?” And he emailed back saying, “Not ready yet.” That’s all he said.
+
+Tim Ferriss: And for those who don’t know, that’s DHH, David Heinemeier Hansson. 
+
+Derek Sivers: And so then Rails came out about eight months later and at first look, I was just like, “Huh, this is a little confusing. I don’t really get it.”
+
+And so I posted to the Ruby mailing list like, “Can anybody tell me how this works? And I’d be happy to pay somebody for an hour of their time to show me how this works.” So some guy named Tobi said, “I’ll show you Rails for $100. I’ll spend an hour with you.” So I paid Tobi $100 to show me Rails for an hour. And he showed me over the phone. We never met face to face. It was all just over the phone. I was living in L.A.
+
+And Tobi was great. He showed me how Rails works and, like, got me really into it. I was like, “All right, I’m in.” And so my old company, CD Baby, we started converting everything over to Rails.
+
+So a couple of years later, I get this email from Tobi saying, “Hey, not sure you remember me. The guy that taught you Rails. Could you introduce me to Tim Ferriss? Because I’ve got this little e-commerce thing I’m doing.”
+
+Derek Sivers: I was like, e-commerce thing? Pfft! “No. Sorry, dude. I don’t do that.” And so I didn’t introduce you guys.
+
+So I was thrilled later to find out that Tobi’s little e-commerce thing was Shopify.
+
+And then I was thrilled to find out like another year or two later that you were involved.
+
+Tim Ferriss: We met at RailsConf, of all places. I was a speaker at RailsConf, which I felt I was supremely underqualified. I met him in the green room at RailsConf.
+
+Derek Sivers: Yeah? That’s how you met? I was going to ask you.
+
+Tim Ferriss: That’s how we met.
+
+Derek Sivers: Oh, wow. So, yeah, Tobi and I’ve emailed since then about, like, joking about. “Yeah, sorry I didn’t introduce you guys.”
+
+Tim Ferriss: It all worked out. Tobi’s a spectacular human. Big, big fan.
+
+Derek Sivers: It’s kind of funny that somebody listening to this thinks that we might be talking about tech and programming the whole time, but no, that’s it. We’re done. We’re not going to talk about UNIX command line terminal stuff anymore.
+
+Tim Ferriss: Yeah, well, we’ll zig and zag, so let’s zig a little bit. You know, there’s so many options here for where to go next.
+
+I think one I’d actually like to talk about is the unoptimized life. If you’d be open to going there next. What do you think? Yeah. All right, let’s do it.
+
+Derek Sivers: London.
+
+Tim Ferriss: London.
+
+Derek Sivers: 2019.
+
+Tim Ferriss: This is going to be good.
+
+Derek Sivers: On the train from Oxford to London, with my boy. And it was one of those days that looked like it might rain, it might not. So we made a plan on the train. I said, “Okay, if it’s raining, we’re going to go to the museum. And if it’s not raining, we’re going to the zoo.” And he said “Okay.”
+
+So we got to Marylebone Station in central London. We walked out and he said, “You know, Dad, I don’t want to go to the zoo or the museum.” 
+
+I said, “What do you want to do?” 
+
+He said, “Let’s just walk around.”
+
+I said, “Sure, yeah, okay.” 
+
+We just walked around. At every intersection he said, “Let’s go this way.” I said, “Okay.” And so he just led the way through London that day. We walked around for eight hours.
+
+So at one point he was jumping around park benches and met these kids from Croatia, where they got into a little tickling match. At another time in a little alleyway, he saw this huge cardboard box that was like almost as big as he is. And he got into this cardboard box and wore it like a turtle shell. So he walked around London in a cardboard box for like an hour and everybody would do double takes looking at him. And he felt so cool in the cardboard box.
+
+And then at some point, we found ourselves right in front of the West End musical, Wicked. And the show was about to begin in 10 minutes. And I said, “Do you have any tickets? What are the best tickets you have?” They had eighth row center tickets. They had two left. So we’re like, “Yeah, let’s do it. Let’s go see Wicked.”
+
+So he left his cardboard box there. We went in and saw Wicked.
+
+At one point he whispered to me, he said, “Dad, I like the girl next to me.” And later I look over and he’s holding her hand. He held her hand. They held hands.
+
+And so the show was over. We go home and I tuck him into bed that night.
+
+I said, “Did you have a good day?”
+
+He said, “I had a great day.”
+
+I said, “All right, so what was your favorite thing today?”
+
+And he thinks for a bit. And then he said, “The cardboard box.”
+
+And I just marveled at that.
+
+I was just thinking later, like, if I would have planned and said, “No, we’re going to the museum. Come on. It’s an important museum for you to know,” then he wouldn’t have had this unoptimized experience and stumbled into the cardboard box.
+
+And so, of course, you know, I think about life and I think about that day as a metaphor for how we tend to make plans.
+
+Because plans seem to be the tool we use to make the most of our time. But that doesn’t always make sense, does it? Because, like, as you go through life, you keep getting new information moment to moment that helps you make the best decision for that moment, not what you thought would be the best decision earlier when you made plans, which was a prediction.
+
+So I think about like, for example, this stupid house I’m in right now. So this is my stupid house, everybody. I don’t like this house. But here I am.
+
+Tim Ferriss: Guess based on your assortment of matching wear —
+
+Derek Sivers: Right. How much energy I’ve clearly put into this house and making it perfect with all of its decor.
+
+Tim Ferriss: There’s nothing on the walls and no furniture.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: So except for some mice. Legitimately.
+
+Derek Sivers: Yeah. I have three pet mice. We were going to bring them out, but it would be distracting.
+
+So I thought about getting rid of this house and getting a house that was more suited for me. And I actually put an offer on a place and it was a really nice place. It was at the end of Clyde Quay Wharf, which is out there like in the water. And oh, man, it was nice.
+
+And so my offer was accepted and it was the night before I was going to put down the deposit and it was going to be mine.
+
+I fell asleep that night thinking, “I’m going to be so happy tomorrow.”
+
+And then I thought, “Wait, I’m already happy.”
+
+I’m like, “Am I going to be more happy tomorrow? No, I’m already happy.” I was like, “Well, then why am I doing this? Why am I spending a bunch of money if I’m already happy?”
+
+So I yanked it. I didn’t buy it. And here I am in this stupid house because it has no obstacles. It’s warm, it’s quiet. It’s not suited to me perfectly. But that’s okay. It doesn’t get in my way.
+
+Then from there, I think, how many other things in our life are we okay to just not optimize? Right? It depends where you draw the line, right? Your romantic relationship, your job, your family. But nobody has the perfect family of their wishes. Our location, where you live, our diet. Like you have to kind of decide what’s worth optimizing — that we don’t need to optimize everything. It’s okay to have some things be good enough.
+
+And so I’m so glad you brought up The Paradox of Choice by Barry Schwartz. I really internalized that book.The ending of that, where he says like, “Okay, I’ve been describing the problem, so what’s a recommendation?” And he says, “Satisficing. There’s maximizing and there’s satisficing.”
+
+Tim Ferriss: I had no idea you were going to bring this up. This is great.
+
+Derek Sivers: Maximizers have been found to feel worse about the decisions they make. They look into every possible option. They try to make the best possible choice, but studies show that they feel worse about the choice they make.
+
+Whereas satisficers may not make the absolute best possible choice, but they feel much better about the choices they make.
+
+So, yeah, I think a lot of who I am is because of satisficing. And if I seem like I make weird decisions in life, for example like not even continuing to pursue making money, it’s because I’m satisficing. I really took that lesson to heart and have shaped my life around it.
+
+Tim Ferriss: So just for definition terms, right? Because people might think optimizing is trying to eke out the every last iota of improvement, right? But I think what we’re really talking about —
+
+Derek Sivers: Sorry to interrupt. If you were to hear Paul McCartney go, “Hey, Jude,” you’re like, “Whoa!” just to hear him sing two notes.
+
+Yeah. To hear you go, “Optimizing.” That’s like — whoa. That’s classic.
+
+Tim Ferriss: If that is my legacy, so be it. Optimizing. Optimizing.
+
+I think what we’re talking about is where to focus your finite energy on improving versus leaving things as they are. Because I think optimizing when I think of optimizing, optimizing is leading to optimal. What does that even mean? Maybe it’s open ended, so it just continues forever, but it’s a helpful word.
+
+I’m just curious how you currently think about where to focus your energy on improving. Internal or externally versus leaving things be.
+
+And this is a conversation that’s near and dear to me, one of my most effective friends has said, I’m paraphrasing, but he’s like, “Yeah, I optimize for like one or two things and everything else is good enough. Like, I just have to get it to good enough.” Nice. That’s it. And he’s incredibly effective in life and he’s also a very happy guy in general. Hard to know how much of that is out of the box versus due to the decisions and the way he views the world, but it seems to contribute.
+
+So how do you think about, then, where you might maximize versus where you satisfice? Or is it because I know it’s not good enough across the board? I find that hard to believe.
+
+Derek Sivers: Um. Hmm. What do I maximize? I’m not sure.
+
+If it’s really fun. If you think it’s just actually really fun.
+
+Say they get into breadmaking and they’re just like, “I want to set up like the best breadmaking.” They’re just having fun with it. Then great. They can maximize. People who get really into high fidelity audio and they nerd out and they know it’s stupid. But they don’t care. They want this thing with the gold-plated cable connector.
+
+I think if you have fun optimizing, then it’s worth it. If maximizing that is, if the process is fun to you, I think that should be the parameter.
+
+But I think that saying “good enough” is a superpower.
+
+Tim Ferriss: Yeah, I think I really do. I really agree with that. You know.
+
+Derek Sivers: What’s such a good lesson to learn is that nobody cares what you’re not good at.
+
+Tim Ferriss: Okay. I say more like publicly.
+
+Derek Sivers: You’re going to be just known for a few things that you’re good at.
+
+All those things that you’re not good at, nobody cares that you’re not good at them. So just let it go. 
+
+Tim Ferriss: Now for the broader public, I think that’s really useful. But you may have, say, a significant other who cares about some of the things that you’re not particularly good at.
+
+Derek Sivers: Yeah.
+
+Tim Ferriss: There is that.
+
+Tim Ferriss: Yeah, not that I’m recently single and thinking about this all the time or anything.
+
+Derek Sivers: We have spent many hours talking about sex while walking in the forests of New Zealand.
+
+Derek Sivers: Sex and relationships and —
+
+Tim Ferriss: Even before this podcast, Derek setting up all these cameras and all this stuff and then he’s like, “I just need to take a quick shower.” And I was like, “Wait a second. What? Are we about to have sex here? Derek, what’s happening?”
+
+Derek Sivers: I haven’t had a shower since yesterday. I was feeling greasy. It was distracting.
+
+Tim Ferriss: The unoptimized life. What effect has that had on you paying more attention to that? I’m leaving good enough alone because this is something I would like to do more of. And I’ve tried to focus with some success on making fast especially reversible or trivial decisions, right? If it can be undone easily. And this is also with money, right? Attention and money. It’s like if I’m going to default to speed with a lot of things, if it’s not that important or if it’s pretty easy to reverse. And I think that’s been helpful.
+
+Derek Sivers: I think how important it is to be done with something so that you can move on. Like, I don’t want open loops. Unresolved decisions. Sitting unresolved. Sitting undecided for a long time. I feel the weight of those unfinished projects because I’m trying to make it perfect. I feel the weight of those. And so I think I’ve learned the importance of just getting things done and finishing. And to do that, you usually have to say good enough, you know, at some point.
+
+I love the fact that we say we, somebody releases an album, you release a book because there’s a wonderful double-meaning in that word, right? 
+
+Tim Ferriss: Right, I’ve never even thought about that. Released. Yeah, I like that.
+
+Derek Sivers: So I think about that with anything I post on my site, any of my books, it’s like, all right, it’s released, it’s good enough.
+
+Tim Ferriss: All right. I’m going to combine this maybe another Sivers-ism. It’s not really a Sivers-ism, but in terms of how professor Sivers operates in the world. “Useful Not True.” We’ve been talking a bit about this. I wanted to save a lot of it for this conversation with the mics. Where should we start with this?
+
+Derek Sivers: All right. So, again, I’m addressing the audience for a second. So, you know, I figure I’m coming on the podcast. This isn’t just one of our random conversations. This is for the audience. There’s a reason we’re hitting record. It’s for them. We can talk freely without hitting record.
+
+So I had to think, what’s the most useful thing I could share with your audience that I’ve learned? Like in the last seven years since we last spoke? The thing that’s made the biggest difference in my life — a superpower, a big, huge change — to me, it’s been, in short, skepticism.
+
+So if you wonder why I’m so happy, why I’m thriving, why I seem to be doing well, to me, a lot of my happiness comes from this worldview that is radical doubt. It’s skepticism.
+
+And so I’m going to give this the shorthand of calling it “Useful Not True,” but the visual for it is that moment at the end of The Matrix movie when Neo realizes those aren’t bullets, this is just code. You remember all the bullets come his way? Like, “None of these rules apply to me.” That’s deep skepticism. It’s empowering, It’s liberating.
+
+And so what I’m going to do for a few minutes, including little stories, is to play Morpheus to help emancipate the listeners.
+
+So, yes, I call this “Useful Not True.”
+
+Tim Ferriss: Preach, preach! Yeah, there we go.
+
+Derek Sivers: So I’m going to tell you the four bits first. And we’ll use that make sure that we come back to this.
+
+1. Almost nothing is objectively true.
+
+2. Beliefs are placebos. You’ve got to believe whatever works for you.
+
+3. Rules and norms are arbitrary games that can be changed. And I’m preaching to the converted that one.
+
+4. Refuse ideology. You need to accept ideas individually.
+
+Okay. There’s the structure.
+
+So number one, almost nothing is objectively true.
+
+Here’s what’s true. My hand is on the table.
+
+What’s not true is “It’s good to do everything in moderation.”
+
+Here’s what’s not true: “Family is everything.”
+
+Here’s what’s not true: “My mother abandoned me.”
+
+Here’s what’s not true: “AI is the future.”
+
+So all of these things, people say them as if they’re true. Or even when people make an excuse, like, you know, “I would be more successful if it weren’t for my family or my location or whatever.” People say these things as if they’re indisputably true fact.
+
+But to me, the only thing that’s true are the things that both a cat and an alien, or let’s say a cat and an octopus, would agree on.
+
+Tim Ferriss: I come up with so many children’s books ideas in this conversation.
+
+The Cat and the Alien and the Octopus.
+
+Derek Sivers: Because it makes you realize that everything else is just mental interpretation, right? Like, there we go. This is on the table. This is true. Yeah. But everything else, including — what’s this one?
+
+Am I flipping you off right now? Like, am I angry at you right now? No. Just because.
+
+Tim Ferriss: He’s giving me the middle finger.
+
+Derek Sivers: I’m holding up my middle finger with the back of my palm towards Tim.
+
+Even if people say things like, “I hate you,” does it mean that they hate you? No, they said three words. That’s all that actually happened. Their mouth said these words. Everything else is an interpretation or a projection.
+
+We have to consider why people are saying these things. If you start to think why they said something, it helps to dispel it. You can say, “Oh, you know what, They’re they’re probably just believing whatever supports the emotions that they want to feel right now.”
+
+So if somebody has a belief that family is everything, maybe it’s because that was something they told their kids because they want their kids to take care of them when they’re older. So they want their kids to believe that family’s everything, but they have a self-serving reason to believe that.
+
+Tim Ferriss: Yeah, possibly subconscious.
+
+Derek Sivers: Right, right, right. I’m so glad you said this. Have you heard about the split brain stories?
+
+Tim Ferriss: Why did you get up to have a glass of water? That type of stuff. 
+
+Derek Sivers: Yeah. So this is so important to understand that.
+
+During brain surgery, the patient needs to stay awake. And so there was a woman — I don’t know the details of this. It was on the EconTalk podcast — that during brain surgery they were poking around in there and suddenly the woman started laughing — the patient started laughing, and they asked, “Why are you laughing?” And she said, “Oh, well, it’s just it’s really funny the way that that curtain is hanging.” And she really thought that the reason she was laughing is because that’s the way the curtain was hanging. But it was actually because they were poking.
+
+Tim Ferriss: Stimulating part of the rudder there. Yeah.
+
+Derek Sivers: Split brain patients, there are some people whose left and right hemispheres of their brain are not connected. They’ve done tests on these people to say into their right ear, “Please get up and open the window” and they’ll get up and open the window and then they’ll ask their left ear or maybe it’s their eye, “Why did you open the window?” And they’ll say, “Oh, it was just a it was a little cold in here. I hope you don’t mind.” And they really sincerely to the core thought that’s the reason they opened the window.
+
+And there are a couple more examples of this, you know, a message shown to one eye and they did something. Then they asked the other eye, “Why did you do that?” And every time the people make up a reason, they don’t know they’re making it up. They give a reason why they did that and they feel completely confident that that is the reason why they did it.
+
+So to me, this is the most beautiful example. Like we actually don’t know.
+
+So talk about deep skepticism, radical doubt. You shouldn’t even believe anything you tell yourself, even in your private diary when you’re saying, “I can’t. I’m not happy in this location or I can’t do this because of that, or I’m mad at so-and-so.” You need to ask yourself like, okay, that might not be true just because I’m saying it, it might not be true.
+
+Number two, beliefs are placebos. Two people in the same boat, one can say, “This sucks,” and another one can say, “This is great,” but neither one is true. No beliefs are true.
+
+In fact, you know the little story of Richard Branson before there was Virgin Airlines. You’ve heard the tale that he was at an airport and a flight to somewhere was canceled —
+
+Tim Ferriss: It was delayed.
+
+Derek Sivers: And everybody was grumbling, “Oh, this sucks.” And so he kind of went to the 20 people that were angry and said, “Hey, if I charter a plane, will you guys split the cost?” And they said, “Yeah.” So everybody else was angry. He looked at the same situation and said, “This is great.” And that was kind of the launch of Virgin Airlines. No, not launch. You know what I mean? A predecessor.
+
+Tim Ferriss: The genesis story.
+
+Derek Sivers: Genesis, nice word.
+
+So no beliefs are true. When we say “I believe,” it’s an indicator that what we’re about to say next is not true.
+
+Tim Ferriss: Or not evidence-based.
+
+Derek Sivers: Yeah. Not evidence based. Yeah. Because we don’t say “I believe in potatoes.” 
+
+Tim Ferriss: Speak for yourself.
+
+Derek Sivers: We don’t have to because there’s a potato. Yeah. We don’t need to say “I believe” because there it is, it exists.
+
+So I think that whenever we say “I believe…” such or such, it indicates that whatever we say next is not true.
+
+Tim Ferriss: It’s kind of like when science is at the end of a field name. Generally, it’s not science, not always, but very often that’s not the case. I can think of a few exceptions. Neuroscience, computer science. But very often when science gets appended to something, it’s like, “Oh, thou doth protest too much.”
+
+Derek Sivers: I like that. Yeah.
+
+Since no beliefs are true, I think this is liberating to realize that you can just choose whatever belief works for you now that helps you be who you want to be.
+
+This is about personal empowerment. It’s hacking yourself. If a certain belief will help you be who you want to be right now. You don’t need to keep believing it tomorrow. You could believe it for three minutes or three days or you know the rest of your life.
+
+You’re going to find what you look for. So if you choose to believe something, you’ll find evidence to support your belief of anything.
+
+So number three is that rules and norms are arbitrary games.
+
+This is the one where I can’t help but think of your introduction to the world in four hour workweek, giving so many wonderful examples of how you don’t have to accept the world’s norms. But it’s funny how many times the rules of the world are stated as if they’re absolutely true. Like “all applicants must submit their application through the usual channels and wait to hear from us” or “to be an expert in your field, you should have an advanced degree from a university.”
+
+Someone made up these rules and most people follow those rules. But they’re not true. They’re just not absolutely true.
+
+Realizing they’re not true gives you an incredible advantage because you realize you can make up the rules. So this is that Matrix moment where the bullets are flying out and he goes, “Wait a minute, this is just code. Somebody made this up, but I don’t need to run this program.”
+
+But if you do that, people are going to be upset at you. So somebody’s going to get mad at you. And you have to know that even when they say like, “You’re a bad person for doing this.” You have to know that that’s not true either. And I have a cute story about that.
+
+Tim Ferriss: Yeah, this this, I think, begs a number of questions. Living in a broader society about morally acceptable or reprehensible behavior.
+
+Derek Sivers: But that’s when I talk about being who you want to be. We can’t really address people who want to be psychopaths or who want to be damaging because then any time you taught anybody how to do anything, how to fly a plane, “Hey, don’t fly it into the World Trade Center, okay?” How to drive a car? “Don’t drive it into a crowd of people, okay?”
+
+You have to just understand that we’re talking about a tool, not your psychosis that might lead you to be a bad person. Right?
+
+Tim Ferriss: Table that for a minute. 
+
+Derek Sivers: So I have a funny little story that felt almost too risque to tell.
+
+Tim Ferriss: I love too risque. We don’t record these in front of a crowd. We can always edit.
+
+Derek Sivers: Oslo, Norway. My band was on tour and we were there for three nights and for the first two nights there was this girl in the audience that was kind of making eyes at me on the stage. And so the second night I went to go talk to her and we hit it off and we hung out all night long and it was wonderful. And then — but — we didn’t have sex. (That was funny. I was like, can I say this on the air?)
+
+Tim Ferriss: “We did not consummate our attraction.”
+
+Derek Sivers: All right. I’m just going to say it.
+
+So but we kind of regretted it. Then it was the third day and it was the day that I was leaving. And there’s this big kind of central park in the middle of central Oslo, and we’re in the park. And, you know, housekeeping came at 10 a.m., like time to check out, time to go. I’m like, and she was asking them in Norwegian like, “Please, one more hour,” and they said, “No, get out.” She’s like, “Oh.”
+
+So we go out to this park and she’s like, “Oh, God, I wish I could be with you. I wish.” She’s like, “God, I just so want to be with you.” And I was like, “Damn, me too. I wish we could.” And then I looked around and this park is surrounded by Sheraton, Hilton, Marriott. And it was 11:00 a.m. and my ferry was leaving at 4:00 p.m. Oh, and there’s one detail. She was just in the process of breaking up with her fiancé.
+
+Tim Ferriss: A small detail.
+
+Derek Sivers: So this matters because, I said, “Hey, what do you think about getting a hotel for a few hours?”
+
+She was like, “Well, we could.”
+
+I was like, “Yeah, it feels kind of naughty, doesn’t it? Let’s do it.”
+
+“Yeah, okay. You don’t mind?” She’s like, “But I can’t be seen with you.” She said, “Just on the chance that a friend of mine walks by. I can’t be seen going into a hotel with some strange man.”
+
+I said, “Okay, so here’s what we’ll do. I’ll go into the hotel, I’ll get a room, and then I’ll text you the room number and you come up a few minutes later.”
+
+She said, “Okay, good.” So I went into the hotel and whatever hotel it was — I’ll just say Sheraton — it was like, “Welcome to the Sheraton Hotel.”
+
+And I said, “Hi, I’m here for one night. I’d like a room.”
+
+“Great, no problem. Okay. Tomorrow, breakfast will be served over here and such and such. And here’s your room.” Okay. He gives me my keys. So I go up to the room and I text her the room number, and she comes up five minutes later.
+
+So then we have fun for a few hours and it’s great. But now it’s 2:30 and it’s time for me to go get my ferry. So this time we reverse it. I go down alone first.
+
+I go to the guy at the front desk and I say, “Hey, I’ve decided to catch the 4:00 ferry.”
+
+And he said, “Oh, is everything okay? Was there any problem?”
+
+I said, “No, no problem at all. Everything’s great. Just decided to catch an earlier ferry.” So, paying in full. Here it is.
+
+So he’s charging my card. It’s already done. He’s doing the thing. But then he sees her walk by and he goes, “Wait a minute, I don’t like this one bit.” So he remembers that he saw her come in five minutes after me. Now she’s leaving five minutes after me and he goes, (SHOUTING) “This is not some two-bit establishment. This is this is a very reputable hotel. I do not like this. No, you must not do — I don’t like this one bit.” And he was getting really angry.
+
+And I was so happy because — not for the obvious reason. It was so liberating, realizing that I’ve done nothing wrong. Nobody was hurt. This is fully consensual. They were paid for their room and even though he’s angry, he can’t get me in trouble. I haven’t broken the law.
+
+I think that we, so often as kids, we spend so much of our life — the first half of our life — deferring to authority and thinking that authority has power over us. And at a certain point, you realize that you’re free. You’re liberated from that as long as you don’t break the law.
+
+Even if people tell you you’re a bad person, that it’s not true. They’re just saying that because of their rules or whatever.
+
+So this to me was a major turning point in my life, realizing that I was liberated from authority and from judgment.
+
+Tim Ferriss: So a couple of things. So the first is. I read a piece recently. I think the author’s name is Ava. Ava, I don’t know her full name, Book Bear on Substack. And the headline, the title of the piece is Something like “On Not Disappointing Myself.” And it’s a discussion of disappointing others. How disappointing others, but not disappointing yourself, is important. I mean, that’s the kind of upshot of it. Very well written. Introduced to me by a friend named Mike. Thank you, Mike. So I recommend people take a look at that because I think it relates since you made mention of the fiancée.
+
+Though I want to stand in for some of the audience who will say, “Well, wait a second, you said you didn’t do anything wrong, but we live in a society. We do follow rules, otherwise we are with the animals. So what is good, what is bad is based on societal norms?” I’m sure there are people listening who are like, “Well, wait a second, you had fun for a couple of hours with someone who is still engaged.” How would you respond to people who find that morally repugnant?
+
+Derek Sivers: They had broken up but were still living together because she just hadn’t moved out yet.
+
+Tim Ferriss: Okay. All right.
+
+Derek Sivers: I wouldn’t sleep with somebody’s wife.
+
+But no, I know what you mean. But in those moments, you have to ask yourself, “Do I agree with this rule?”
+
+Because, especially if you travel the world, what’s polite in Japan can be rude in New Zealand and vice versa. These different ideas of what is the right and wrong thing to do are completely arbitrary and they change with geography. And so you get to kind of pick or choose and you can choose to fit into the local norms, or sometimes you choose not to because you disagree with them. And that same goes the same with individuals and people that you are liberated from others norms.
+
+You can choose your own.
+
+Tim Ferriss: So there’s a lot of this that I agree with. I also wonder how we avoid maybe we don’t, but sinking into a moral relativism where everything is okay on some level because nothing is objectively good or bad. Therefore, genital mutilation of 12-year-old girls or whatever it is, is totally fine in that culture because the culture is different. Therefore, I’m not going to object to anything like that. Because I am not the arbiter of universal truth. Therefore, everything is okay in different cultures, different places, different households, because everything is relative. How do you think about that?
+
+Derek Sivers: I defer to Sam Harris.
+
+Tim Ferriss: Okay.
+
+Derek Sivers: Did he ever talk about The Moral Landscape on your show?
+
+Tim Ferriss: I don’t think we’ve discussed it explicitly. So why don’t why don’t you, if you wouldn’t mind elaborating?
+
+Derek Sivers: Probably the best elaboration is to tell people to go search for Sam Harris. Moral Landscape. The best TED talk I’ve ever seen. Ever. Sam Harris. The Moral Landscape so beautifully summarizes this idea of judging something morally, objectively based on individual well-being.
+
+Tim Ferriss: Utilitarianism. Like greatest good for the greatest number of people type stuff?
+
+Tim Ferriss: Yeah.
+
+Derek Sivers: He says it better than I can.
+
+Yeah, go find that talk.
+
+Tim Ferriss: I’m curious. There’s a tension sometimes in my mind between living a self-authored unorthodox life that does not conform to convention for the sake of conforming to convention while also trying to have some type of a consistent moral compass.
+
+And that is why sometimes I’m actually very envious of people who are deeply religious. It’s like, “Here are the rules!”
+
+I mean, you want to talk about Paradox of Choice, like how much decision fatigue does that remove? I’m actually very envious of that sometimes. So how do you think about — and I’m not saying you should think about it. I’m just curious — let’s just say outside of breaking the law, you can do anything. Right. There is a just like having 1,500 different types of toothpaste at the supermarket and having to choose one. There is a possible decision fatigue there. Do you use, for yourself, you can define it yourself — like good or bad, or some type of moral framework for helping to narrow the choices that you make available to yourself. How do you think about that? In secular societies, I think about, I wonder about this a lot..
+
+Derek Sivers: I recently read a book I can recommend for anybody called What Everyone [Needs to] Know About Islam. And it was really good. And I finally understand about the different Sharia law, Sharia laws. It’s really congruent, more than anything. If I had to pick one word to give, it’s amazing how congruent it is and what peace that can bring in a society where even the the government laws are aligned with the religious laws which are aligned. Everybody here agrees in this code. It’s not a grey area.
+
+But you asked me the other day about — I said that I’m very influenced by the greater good — doing things that even if it doesn’t serve me personally or privately — if it seems like it’s the right thing to do, I’ll do what seems to be the right thing.
+
+Tim Ferriss: Yeah. Yeah. This came up very organically in our conversation.
+
+Derek Sivers: I don’t remember how. Do you?
+
+Tim Ferriss: Yes, I do remember, because I think I was talking about how I do not identify as a philanthropist, even though I do a lot of nonprofit work, because I actually have a pretty Hobbesian view of human nature in general and think we’ve certainly, on a planetary level, caused more problems than we’ve solved.
+
+And therefore, I don’t phil — like, philosophy, right? Like hydrophilic like philic is to love — phil is the etymology of that. And then the philanthropy is like the Anthropocene or anthropology. It’s human. So like to love humans basically is philanthropy. And I don’t feel like I align with that. I’m actually a like misanthrope a lot of the time.
+
+So I said, no, I don’t think about that and therefore I make decisions about A, B, or C in the following way. When it relates to some of the nonprofit work and scientific research that gets funded through the Saisei Foundation, my foundation.
+
+And that, I think, is what prompted you to say, “I’m not sure if I think of myself as an altruist. But I seem to make decisions for the greater good.” Which I’ve observed in you.
+
+I think that is the rewinding the tape. I think that is the stream of conversation that led to that coming up. But I was asking about how you consider constraining your choices with maybe a lens of morality. And so you were going to say —
+
+Derek Sivers: Well, for me personally, we have this gut feeling of what feels right and feels wrong. Sometimes you actually let your head rule that decision, to say, you know what, I know that personally I might want such and such, but I know that ultimately that it’s not that important. Or maybe the fact that I’m happy anyway. Affects a lot of my decisions that it’s like I don’t need to have some million dollar thing to make me happy. I’m already happy. Like I’ve hit the maximum. There is no such thing as happier. I’m already there. So therefore this million dollars should just go to people who can use it because that’s for the greater good. Like that’s how my brain honestly works.
+
+But you know. This idea of -isms. Ideologies and subscribing. Yeah. You tapped into decision fatigue. It really helps decision fatigue to say, “I’m all in on this,” but I think that people do it to a fault where they read a self-help book and go, “Oh, yeah, this is it. This is the answer. I’m following this now.”
+
+Stoicism, you know, everybody’s suddenly declaring themselves to be a stoic. 
+
+Tim Ferriss: Or religion or CrossFit or veganism. Crypto, for that matter.
+
+Derek Sivers: Something related to you happened to me on a plane years ago that I think is a good example of this. Long, long ago — I think it was 2008 or 9 — I was on a plane from Amsterdam to the US and I saw a guy reading The 4-Hour Workweek and I said, “Hey, great book.” And he goes, “It’s trash, man.”
+
+And I said, “Really?”
+
+And he goes, “This guy is full of himself. This book is trash.”
+
+And I think about that all the time because he found one thing he disliked about you and therefore declared all 400 pages of this book to be trash.
+
+And I think that’s the problem with -isms, is that if you’re trying to buy into a system, it’s all or nothing.
+
+If the leader of a movement says something you don’t like on on social media, well, now the bubble is popped. It’s a fly in the dish. It’s a hair in the meal. It’s a poo in the pool. The whole thing is ruined. Drain the pool.
+
+Tim Ferriss: That’s page four to seven in your Dr. Seuss.
+
+Derek Sivers: Oh, yeah. We’re back to that.
+
+Tim Ferriss: The Cat, the Alien, and the Octopus.
+
+Derek Sivers: But it’s the mindset that wants everything to be a religion. I think that’s deeply built into people.
+
+Tim Ferriss: Yeah. The reductionism. I mean, it simplifies reality. 
+
+Derek Sivers: Simplifies reality. Yeah. I like that.
+
+Tim Ferriss: I mean, you do assume cognitive burden to take the harder path.
+
+Derek Sivers: So on that note, like back to my whole “Useful Not True.” My radical doubt. Super skepticism. Yes. I think we should be skeptical of every -ism. I think we should avoid -isms, avoid ideology, and take ideas piecemeal.
+
+Which means ideally you should be open to taking good ideas from people you don’t like, and the people you do like admitting that some of the things they say, you’re not going to adopt that.
+
+And when somebody does that, to me, that shows a a stronger thinker, a clearer thinker, somebody who’s looking at ideas individually instead of just saying, “I’m all in on this, I am a such and such -ist. Yeah I subscribe to this -ism.”
+
+That to me seems to be a jumping to a conclusion. It’s a punt. It’s like just deferring to the -ism.
+
+Tim Ferriss: Yeah, yeah. This, this is very present for me in the US. And we don’t need to go into politics. But with respect to politics, because I am asked frequently, like, “Are you a Democrat or a Republican? Oh, wait, I think you’re a Libertarian.” I’m like, “I refuse to play that game. Yeah. If you want to talk to me about a specific issue. Yes, let’s talk about it. And if you can if you can not just make the case for your argument.”
+
+Ideally, I mean, this is asking a lot, but like steel-man, a counterargument, just to prove to me you’re not in this to have a shouting match. Okay, then let’s have a conversation. But as soon as you apply — and I think I’m borrowing from Paul Graham on this, of Y Combinator fame — but the more labels you apply to yourself, the stupider you get. I think that’s true.
+
+The more you calcify your thinking and/or just absolve yourself of thinking, which is a luxury. It’s deferring. Which is a luxury, if you want to be an outlier in terms of the impact you have, the happiness you can achieve, that is a luxury you can’t afford is absolving yourself of thinking.
+
+Or maybe it’s a bell curve. Who knows? Maybe, like the people who completely don’t think and the people who think the most are the happiest. Who the hell knows?
+
+I think a lot of it’s probably out of the box. Because there are, I’m sure, people listening who are going to be like, “Wait a second, this guy can’t be any happier. What kind of alien is this guy?” How much of that do you think is out of the box? Just your code versus a cultivated —
+
+Derek Sivers: Do you know Sonja Lyubomirsky?
+
+Tim Ferriss: No.
+
+Derek Sivers: Okay. You know who she is?
+
+Tim Ferriss: Nope.
+
+Derek Sivers: Oh, she wrote one of those books on happiness. After I read Stumbling on Happiness, I went, “Ooh, that was good. That was a good book.” And I went to go find other books on the subject. So she wrote a couple of books on happiness. She’s been studying happiness for decades.
+
+Tim Ferriss: Sonja Lyubomirsky. I’ll find it. Put it in the show notes.
+
+Derek Sivers: So she said in one of her books that that her studies have shown that most people’s happiness is 50 percent DNA and out of their control, and the other 50 percent is in their control. So the best we can do is just control that 50 percent, you know?
+
+Tim Ferriss: It sounds like you’re a stoic — closet stoic.
+
+Derek Sivers: Oh, I am.
+
+Tim Ferriss: Okay. Yeah. Minus the minus the -ism.
+
+Derek Sivers: You talked about Stoicism a bit and I was like, “Pfft. Ancient crap.” And, and then finally in 2010, I read A Guide to the Good Life.
+
+Tim Ferriss: William Irvine, I think. 
+
+Derek Sivers: Whoa! Oh, my God. I thought this was just me. Like, this is everything he’s talking about. This is the way I’ve been thinking since I was a teenager. I don’t know why I picked it up. Maybe. I suspect — I found out years later that the Dale Carnegie book called How to Stop Worrying and Start Living.
+
+Tim Ferriss: Just as a side note, I’ve read that book multiple times. I just went into my Kindle recently to look at my Kindle library, mostly to see like whether it was 70 or 80 percent of the downloaded books that I hadn’t read. And I came across that book and I thought, you know what? This would be a good time to revisit this. They are very overlapping.
+
+Derek Sivers: I just read a couple of years ago in Wikipedia or something that that book was basically spouting stoic values.
+
+Tim Ferriss: Makes perfect sense. It’s a great book, by the way, folks. How to Stop Worrying and Start Living by Dale Carnegie.
+
+Derek Sivers: It was on my grandmother’s bookshelf, and I read it when I was 16. Up until two years ago, I would have said that all the things that Stoicism says, I’ve believed these things since I was a teenager. I thought I made these things up! I thought this was just me being weird. This was my weird approach to life. But then just two years ago, I saw that Wikipedia entry.
+
+Tim Ferriss: You got incepted by Dale Carnegie.
+
+Derek Sivers: Inception. Yeah. 
+
+But point is, I’ve been thinking that way since I was a teenager, and it wasn’t until the age of 40 that I read an actual book on Stoicism. “Whoa! This is how I think!”
+
+But that being said, yeah, I think it’s healthier to watch out for whenever you find yourself wanting to jump all in to an -ism, even if it’s just a book that you just read. If you find yourself blindly saying, “All of this, this is me, this is how I’m going to live now.”
+
+Tim Ferriss: Unless you have the self-awareness or meta-awareness to say, “Okay, I’ll try all this stuff on for size.” This is like me putting on a suit to see what happens. But not like this is THE TRUTH in all caps. “This is who I am.” Identity.
+
+Derek Sivers: Right! That’s totally different!
+
+That’s pluralism versus monism. Mon- is one — to say monism is this. It’s mystical. The number one is somewhat magical and mystical. One love, one world, one answer, one way. It’s very appealing, this idea of one. And it’s very upsetting to think that no, no, no, there are many answers and they conflict and you can believe conflicting things at the same time.
+
+So sorry, I accidentally skipped your skipped answering your question about was it either am I this happy or why am I this happy or why do I think I’m this happy?
+
+Tim Ferriss: Yeah. This researcher who wrote the book after Stumbling on Happiness said 50/50, and then I dragged us into Stoicism.
+
+Derek Sivers: I got the lucky roll of the dice, the DNA dice.
+
+But also, there’s another thing I’ve been doing since I was a teenager, that I found out has another name too. So for my whole life, I very often will open my diary and just put everything into there. I write what happened today, but also the things that I’m thinking.
+
+Whenever I come upon a belief that, to me, feels like a disempowering belief — something that I’ve said — my own beliefs that sound disempowering to me — like “I hate it here. I can’t do what I want here. I need to go somewhere else to do what I want.” — I’ll just keep it general like that — then I’ll stop and ask myself, “Wait a minute. Is that true? That sounds like a disempowering belief. Let me push back on that. I think that belief might be holding me back.”
+
+So I’m constantly doubting everything I write, doubting everything I think, doubting everything I say. And questioning it.
+
+Tim Ferriss: And you do this in writing?
+
+Derek Sivers: Yeah, I do this in writing. My fingers just fly.
+
+So later I found out that this is similar to Cognitive Behavioral Therapy. I’ve been doing this for decades and now I just found out what it’s called. So I just recently read a book on Cognitive Behavioral Therapy and went, “Oh, this sounds like what I’ve been doing.”
+
+Tim Ferriss: So also in the “All roads lead to Rome” type of metaphor: CBT, as I understand it, largely based on many stoic writings.
+
+Derek Sivers: Oh, right! That makes sense. Yeah.
+
+It’s the conclusion of the big arc I was on — the whole “Useful Not True” super-skepticism thing.
+
+You asked me last week, “How do you change your beliefs? How would you recommend somebody do that or how do you do it?”
+
+Tim Ferriss: Yeah, how do you translate that into durable behavioral change? Right? Because it’s one thing to intellectually recognize this is a disempowering belief. It would be much better for me to hold this other belief. It’s one thing to achieve that, and quite a different thing to implement that latter belief in a way that changes your behavior.
+
+Derek Sivers: You stack up evidence. So first, just writing in my diary. About “I need to believe this.” I think I need to believe that the place I’m in right now is a good place to be, not a bad place to be. I think that would be a more empowering belief for me that I can use where I am to do what I want, not need to escape where I am, for example. So then I need to just stack up evidence of this.
+
+Once you’ve decided on the belief that would be better for you to hold, well, you can always find evidence to support any belief, right? You could just stack up evidence.
+
+We’re social beings, so talking with friends about it and asking their thoughts on this. Or telling them “I’m starting to think this.”
+
+Friends, if they care about you and they support you, will often give you other evidence to support the belief you want to have. Saying, “That’s a good point. You know my friend Tracy, such and such or this and she had this happen. So yeah, I think you’re right on with this new idea of yours.”
+
+Friends support it and then you start to internalize it more. Maybe it takes a few days. You take some baby steps to put it into action or a big giant leap to put this into action.
+
+Like some crazy things I’ve done in my life too. I do cut off some options in my life as a giant leap. We can talk about that if you want. Small actions or big actions. You can take the action before necessarily internalizing it.
+
+Tim Ferriss: Fake it before you make it. Do it before you believe it. Act as if.
+
+Derek Sivers: “I should sign up for college.” And you’re just like, “Right. I should.” (imitating typing) “Oh, my God. I just did.”
+
+Even before you’ve convinced yourself you can sign up that little form and take that first step to take the action.
+
+I’ve done a lot of things like that in my life where, to support a new belief, I will take an action first. Then we all have the desire to be congruent with the actions we’ve taken. “Oh, look, I’m this kind of person now. This is my belief now.”
+
+Tim Ferriss: So for folks listening who may find it helpful to have a structured way to cross examine their own beliefs and maybe take an opposing stance and then gather evidence. There’s something called “The Work” by Byron Katie, which is very much this. And I found personally very useful. Super, super useful.
+
+You teased — you weren’t sure whether to open the door or not. Giant leaps. So with the understanding that what you do is not necessarily what you recommend for all people. Is there an example of a giant leap that might make for a story?
+
+Derek Sivers: Yeah. I renounced my US citizenship in 2011.
+
+Tim Ferriss: That’s a big one.
+
+Derek Sivers: I deliberately burned the ships. So I have to explain this metaphor because I found that most people haven’t heard this tale. But we’ve all heard of burning the bridges. So you burn the bridge when you destroy a friendship, a connection with somebody, the bridge between you and another person. But to burn the ships is a reference to a Spanish conquistador that had headed off with three ships to South America somewhere. And when he landed, there were thousands of Aztecs waiting to kill them, and they only had a few hundred men. Of course, I’m messing up the details here, But he turned to one of his men and said, “We must not retreat. Burn the ships. The men need to know that we cannot go back. We must go forward.”
+
+So I wanted to challenge myself to go forward and not go back. After 40 years in America, I felt like, all right, I spent the first 40 years of my life here, I want to spend the next 40 out. But what I found is whenever things got tough, I kept wanting to retreat back to my comfortable California.
+
+So I thought, “I need to burn the ships.” So I did.
+
+Tim Ferriss: Okay, I’m laughing because there’s so many rabbit holes we could go down here. I’m going to I’m going to use my my creative license as the host of this podcast to avoid most of them. But, are you glad you did that?
+
+Derek Sivers: For years, it was one of my biggest mistakes in life.
+
+Tim Ferriss: It made it hard to visit family and friends in the US.
+
+Derek Sivers: Yeah, anybody asks me about it, my advice was always, do not do it. In fact, it still is. Somebody just asked me last week, I was like, do not do it.
+
+Kevin Kelly had this wonderful saying: “The best option is the option that gives you the most options.” And under that wise advice, I think that no, you should not renounce your US citizenship because it’s cutting off options.
+
+A lot of people seem to want to do it for tax reasons. You need to look through that thoroughly. I did not do it for tax reasons. And in fact, my taxes went up after I renounced because most of my income is still US-sourced. So now that all gets taxed at flat 30 percent rate instead of before it was part of a bigger picture. So yeah, my taxes went up and it reduced my options.
+
+So there was something scary that happened just a few months after I renounced my citizenship. My ex, her dad was on his deathbed and we needed to quickly get on a plane that night. But I didn’t have the visa. So I went to the US embassy to get a visa quickly and they rejected me. I was devastated because they just hand you a slip saying, “No, you’ve been denied for a visa. Next!” The slip says, “You may not reapply. This decision is final.”
+
+Tim Ferriss: Useful Not True.
+
+Derek Sivers: I challenged that that rule. I was like, all right, I think somebody just made that up. I’m going to go back and reapply anyway. So I went back with a mountain of evidence and luckily they granted me a visa.
+
+Tim Ferriss: Mountain of evidence for what?
+
+Derek Sivers: I was living in Singapore at the time. My good friend from Bangladesh said, “Derek, this is your first time being refused. I’ve been refused like five times. Look, here’s how to do it. You can’t just go to the embassy and say, Give me a visa, please. You have to show a mountain of evidence that your life is in Singapore. Tell them about your cat, that you have a job, that you have this, that you’re on the board at this company, that you’re speaking at National University of Singapore. Show them your two year rental.”
+
+Tim Ferriss: You’re not a flight risk, right?
+
+Derek Sivers: Not a flight risk. So I went back with the mountain of evidence and a letter from the doctor, from my ex’s dad saying, “Please, he only has a few days to live. Please allow them to come back.” And so I was granted the visa, but it was scary as hell.
+
+So I think that people are often overconfident thinking like, “Hey, I’ll just renounce my citizenship and it’ll lower my taxes. I can go back anytime I want.” But not true. I always say “No, no, no, once. Once you renounce, you might never be allowed in that country ever again. That is not your country anymore.”
+
+So I do not recommend it.
+
+Tim Ferriss: I would say in general, not too broad a brush, but the US frowns upon people who renounce citizenship.
+
+Derek Sivers: Yeah, I’m always aware that I might never be allowed back in ever again.
+
+Tim Ferriss: What is another example of a giant leap? Anything come to mind? I mean, that’s a huge one for sure.
+
+Derek Sivers: Moving.
+
+Tim Ferriss: Was it worth it for you? So you said, I wouldn’t recommend this to most people. And I know we we live looking forward and not behind. We can’t change the past as far as we know now.
+
+Derek Sivers: 12 years later, since doing it, it did come in a little handy in COVID times where — I will skip some family drama details but — there was a big, big pressure on me to move to America. And I was able to just say, “Nope, can’t do it. Don’t want to. Don’t have to. Can’t.” And so finally, after 12 years, it came in handy for that.
+
+But no, to me, that was a huge thing. 
+
+Tim Ferriss: Any other giant leaps?
+
+Derek Sivers: Selling my company came in an instant moment of clarity.
+
+Life is weird when you can hold multiple philosophies in your head at the same time.
+
+This is the whole thing I was talking about with “Useful Not True” — that no beliefs are true, so you can hold them all in your head and just look at them.
+
+Here’s one belief that says you should stick it out when the going gets tough. You need to stay in there.
+
+There’s another belief that says the rewards to effort ratio is off — that I’m spending so much effort and getting so little reward — that you should stop.
+
+You can just hold these in your head and look at them as as paths you could go down, as philosophies you could follow. And then ultimately you just pick one — or you craft one from a hodgepodge, a piecemeal from the from the other bits.
+
+In that moment, I was feeling really frustrated with my company. I’d been doing it for 10 years. I was feeling done like a bit like like somebody who’s been painting a mural for many years or writing a novel for many years and just you put the last brushstroke on, you write the last word and you go “There, I think I’m done.” That’s how I was feeling.
+
+But somebody could have argued, “Okay, go take a vacation and come back and get back to work.” But I played off some different ways of thinking about it.
+
+And in that moment, while driving down Pico Boulevard in L.A. while on the phone with a friend, I was like, “That’s it, dude, I think I’m done. I’m just going to sell the company.” And I decided in that moment.
+
+It wasn’t fully congruent yet. It was just one of many options. But that night I went and called three companies that had been asking to buy my company and I told them yes.
+
+Tim Ferriss: Was there a feeling or a meal or something your friends said that triggered that?
+
+Derek Sivers: He just asked me a bunch of questions. He challenged the things I was saying. He basically did the cognitive behavioral therapy with me. He was pushing back on everything I was saying, challenging it.
+
+So, for example, I said, “I’m sick of having all this responsibility. I don’t want to have to do this and have to do that.”
+
+He said, “You don’t have to do anything.”
+
+I said, “Yeah, I have to pay my taxes.”
+
+He said, “No, you don’t.”
+
+I said, “Yes, I do. You have to pay your taxes.”
+
+He said, “No, Derek, you need to understand this. You don’t have to do anything.”
+
+What’s the dude on Power of Now that went sat on a park bench? Do you remember who wrote Power of Now?
+
+Tim Ferriss: Eckhart Tolle. I never read the book, but heard good things about it.
+
+Derek Sivers: I unfortunately tried to listen to it on a long drive and don’t do that. It’s hazardous. He’s got very soothing voice.
+
+He starts out the story saying that at one point he just went to go lay on a park bench and basically just sat there for a couple of years doing nothing.
+
+It’s a reminder that you don’t have to do anything, that everything is a choice, even paying your taxes, you don’t have to. There will be consequences if you don’t. But let’s always be clear that you’re choosing to do it. You’re choosing to pay your taxes because you’d rather not have the consequences. You’re choosing to pay your employees. You’re choosing to go into work. None of these things are things you have to do. I think he pushed back on that a few times.
+
+Ultimately my value system is such that I most value personal growth. And it felt to me like I’ve been doing this thing for 10 years, so the bigger learning, growing opportunity for me right now is to do something else. It wasn’t a matter of up or down. It was just different.
+
+Tim Ferriss: Yeah. So let’s segue from personal growth to mentors because many people have had mentors. Many people seek mentors. Many people pine after mentors. And if if they could only get a hold of person X and have a cup of tea or a coffee, pick the brain, have a meal.
+
+How would you suggest people ask mentors for help?
+
+Derek Sivers: Here’s what I do. I have three mentors.
+
+Anytime I hit a little dilemma in my life, I write a really good description of my dilemma before I reach out to them, because I don’t want to waste their time. My mentors are VIPs. I don’t want to waste a minute of their time.
+
+So first I write a really good description of the problem and then I summarize it. I summarize the context, the problem. I summarize my options and I summarize my thoughts because I’ve got to make this succinct. I don’t want to send somebody a 20-page-long email. I have to make this as succinct as possible.
+
+Tim Ferriss: What is that in practice look like? Half page?
+
+Derek Sivers: Yeah, half page. Bullet points for everything instead of paragraphs. As succinct as I can.
+
+Then before I send it to them, I try to predict what this person would say.
+
+Tim Ferriss: Each of those three?
+
+Derek Sivers: Right. What that mentor would say. I know the way this guy thinks. I’ve read all his books. I know the way we’ve talked a lot. I know what he would say. So then I internalize that.
+
+Then I address those points that I’m predicting they would say I’m going to address those in advance again, to not waste their time.
+
+Tim Ferriss: So when you say address them, what do you mean by that?
+
+Derek Sivers: Kind of like how I said something five minutes ago, when you asked me a question like, “Can you give me an example of that? Or how do you know this?” I knew you were going to ask that. So here’s my follow up.
+
+I’ll address those in advance again so as not to waste their time. And then again, one last time, I try to predict what they would say.
+
+Tim Ferriss: You have an answer ready for whatever they might come back with.
+
+Derek Sivers: But I include it in the initial summary of my situation.
+
+After I’ve done that whole process, I don’t need to bother anymore because the answer is now clear. Because I’ve just done the work of summarizing everything and imagining what they would say.
+
+So the punchline is, the truth is, I haven’t talked to my mentors in years. And one of them doesn’t even know I exist.
+
+Napoleon Hill talked about the mastermind. Imagine Abraham Lincoln is there. What would Abraham Lincoln say to you?
+
+I also get a lot of emails from people saying, “I need a mentor. Will you mentor me? How do I find a mentor?” And this is my answer.
+
+It’s all in your head. It’s about the summarization of your situation, thinking of it from another person’s point of view.
+
+You can predict what this person would say if you’re a fan of their books and their podcasts and their talks, you know what they would probably say. So do it yourself.
+
+Tim Ferriss: Who is the person who doesn’t know you exist?
+
+Derek Sivers: It was Tyler Cowen. Oh, I just emailed him two weeks ago to say thank you.
+
+Tim Ferriss: Thanks for your years of service.
+
+Derek Sivers: For his continued inspiration. And he sent me back a tiny little thanks.
+
+Seth Godin is one. He knows I exist. We don’t talk that often, but I very often think, “What would Seth Godin say?”
+
+Tim Ferriss: He walks the walk.
+
+Derek Sivers: Very much so. Yeah.
+
+Tim Ferriss: Not as common as you would hope.
+
+Who’s the third?
+
+Derek Sivers: It’s actually changing. I don’t know right now.
+
+Tim Ferriss: Keith Richards.
+
+Derek Sivers: Björk.
+
+Tim Ferriss: Chuck E. Cheese.
+
+Derek Sivers: That’d be great. That’s thoroughly useful. A fictional person can be your mentor.
+
+Like, what would Jesus do? Like people do that. “I’m not sure what to do. What would Jesus do?” That’s a perfectly good mentor.
+
+Tim Ferriss: Yeah. And I think a lot of people would agree with you. And for those people who might wonder, I actually do something very similar.
+
+Derek Sivers: Okay. Can you tell?
+
+Tim Ferriss: Yeah, absolutely. I try to spend time with people I admire and aspire to be more like in some capacity. Right. Because I do think you become the people you spend the most time with.
+
+So to bring up a name that we’ve already brought up, I think actually a lot about Matt Mullenweg because he’s very calm in almost all circumstances, not all. I know what the handful of things that bother him. He’s very, very calm and measured and good at perspectival knowledge taking taking alternative positions, taking the counter position on his own thoughts, his own opinions, his own goals.
+
+And so I often think when I get dysregulated or upset about something, I’m getting wound up. I’m like, “What would Matt do in this? What would Matt say to me if Matt were in my shoes? What would Matt do?”
+
+I’ve also done that in writing exercises where I actually just sit down with my older self who has figured it out. So if if I’m talking to a version of myself who’s 10 years older or 20 years older, who has figured this out. What might that older, wiser version of me say? And I just write out the dialogue. And by the end, I’m like, “Huh!”
+
+It doesn’t always give you some magic solution, but it is astonishing how often that will give you some type of clarity or maybe a relief that helps you to cling less strongly to whatever the challenge or problem or question was that you had in mind. It’s really it’s really remarkable. So I do something very similar, I guess is what I’m saying.
+
+Derek Sivers: Sometimes even just asking. I get emails about once a week where somebody asks me a big question by email and then at the end they say, “Actually, you don’t even really have to answer this. Just honestly, asking you the question helped me get some clarity. Thank you.”
+
+Just the act of opening their email client and saying, “Okay, I want to ask Derek Sivers this thing.”
+
+Tim Ferriss: If I intend to reach out to a mentor about something, I still go through the exercise of trying to crystallize my thinking so I don’t waste their time, even if it’s a really close friend. I don’t want to be lazy. And I don’t want to ask them something that could be resolved with five minutes of Googling or five minutes of introspection.
+
+Whenever I go to anyone I want to be able to say, “Here’s a situation. Here are some of my assumptions. Here’s what I’ve already tried. I’ve tried A, B, C, D, and E, and I’m not quite figuring it out.” And then followed by a super specific question.
+
+But asking the mentors around your imaginary table, and doing that homework, I think, is it’s something that I do and I recommend to everyone.
+
+And there is some selfish motive here. I would like to have fewer than several thousand emails a week that come in with like, “How can I launch my book? Please tell me.”
+
+Derek Sivers: I’ll admit I actually got oddly shy two minutes ago when you asked me who the third one was, because actually, it’s been you! I didn’t want to bother you with things. I was tempted. I’ve got your phone number. I could have just texted you. And I’m like, “No, hold on and I’ll just do it first.” Never mind. I didn’t ask you. Yeah.
+
+Tim Ferriss: Well, thank you. I think about you, Matt —
+
+It’s funny you mentioned Seth, because Seth would be on a short list for me as well of people who really think and — more than think — question the musts, the shoulds, the have-tos. I’m like, wait a fucking second. That’s nonsense.
+
+You know, I feel like you’re very good at that. So that’s part of the reason I’ve read your first book so many times. Now I’m all shy.
+
+Derek Sivers: Should we —
+
+Tim Ferriss: I feel like we should do two things. We should get a slight refill on the Scotch and then maybe talk about games. The games we play. All right. Getting good at games, things of this type.
+
+So a little bathroom and then Scotch break. 
+
+We’re back. Cool. And for people wondering, we just came back from our bathroom/break/scotch-refill.
+
+This is very similar to a lot of our conversations. Like it’s not that different from a lot of our conversations. But I do appreciate how much thought you give to deliverables for the audience. Makes a big fucking difference. Honestly.
+
+Derek Sivers: The greater good. I think about making it interesting conversation for you. But then there’s how-many-people that listen?
+
+Tim Ferriss: Yeah, you’re good at holding both.
+
+Derek Sivers: Looking at you, but I’m thinking of them. No offense.
+
+Tim Ferriss: Wow. We could. We could unpack that for a while.
+
+Derek Sivers: All right. You and your euphemisms.
+
+Tim Ferriss: All right, dark mirror. Here we come.
+
+Uh, cheers, man. Cheers. So nice to see you for.
+
+Derek Sivers: Oh, thanks again, Matt. I don’t know why we think Matt’s there.
+
+Tim Ferriss: Matt’s got the fuzzy hat on, otherwise known as the boom mic. (Sip of Scotch.) Oh. Oh, it is nice. All right.
+
+So we’re all playing games, right? And I think it’s a matter of knowing which games you’re playing outside of some basics. You’ve got shelter, you’ve got food, you cover some of the lower rungs of Maslow’s hierarchy of needs. Beyond that, we’re all playing different games. So knowing which games you’re playing, then choosing the game you want to play, these are these are important topics.
+
+Why don’t I just hand the mic over and let you talk about how you think about this kind of thing playing games.
+
+Derek Sivers: Something that might seem strange about me — that sometimes people say — that I seem weird because of the choices I make in life.
+
+Tim Ferriss: You’re pretty weird. In fairness, it’s a compliment.
+
+Derek Sivers: I try to explain that it’s just because for 10-15 years, I was playing a certain game. I was trying to be successful. I wanted to be famous. I wanted to be a successful musician. I wanted to be rich in that way. And I did it. And in my mind, to my own standards, I won the game.
+
+And when you win the game, say you’re playing Settlers of Catan or Monopoly or poker with friends. When you win the game, what do you usually do? Stop playing! You say, okay, let’s go do something else. I won the game.
+
+So even with, say, addictive video games, So have you ever played Stardew Valley?
+
+Tim Ferriss: No.
+
+Derek Sivers: Oh, don’t.
+
+Tim Ferriss: I probably shouldn’t.
+
+Derek Sivers: It’s adorably addictive. Yeah.
+
+So my ex grew up on a farm, and Stardew Valley is one of those little farming games where you tend to your crops and then you get animals and you get money for selling your crops.
+
+Tim Ferriss: I think the story behind this game is also very interesting.
+
+Derek Sivers: Made by one guy with a passion for many years.
+
+Tim Ferriss: I believe there’s a lot of additional context to that that we don’t have to unpack now. But people people can look into it. It’s a fascinating, fascinating backstory. But yeah, don’t play it because it’s digital heroin.
+
+Derek Sivers: If you want to play a great game that is also non-greedy, I found it because it was recommended on a list of like no-bullshit games that don’t ask you for more money. Once you’re in, you just pay your $9 or something like that up front and then you’ve got the game forever. So that’s cool. Let’s say actually if you are looking for a new game, it is a great game. Stardew Valley is wonderful.
+
+But it’s so wonderful that my ex and I got really into it. She played it for something like 400 hours. The little clock shows you how long you’ve played, and at a certain point she had done everything. She’d made every dish, planted every crop, caught every fish, done every favor for every villager, she was done.
+
+But yet there was this yearning to keep playing because she was so good at it. 
+
+The temptation to keep playing, even though the rewards are done, isn’t that the definition of addiction? Continuing a behavior even though it’s not rewarding you anymore?
+
+So to me, that’s what making money is. It’s a game that I’ve decided to stop playing because I’ve got enough.
+
+But this could apply to anything. Somebody who wanted to be a successful musician. Gotye. (singing) “You didn’t have to cut me out. Now you’re just somebody that I used to know.” That guy. One hit wonder. Gotye from Australia. That was his stage name. He did a beautiful thing: He retired that stage name. He’s like, “There. Did it. I had a massive number one hit. I don’t want to keep singing that song for the rest of my life. There is no more Gotye.” So now he’s just back to his legal name and he’s the drummer and singer in a band called The Basics, and he retired Gotye. He stepped away.
+
+Jacinda Ardern, the most recent prime minister of New Zealand, after six years felt that she had had enough and she quit instead of going through the process of running for re-election. She quit mid-term and she said, “That’s enough. I’m feeling full. I’m feeling spent.”
+
+Serena Williams, I think you know, quit instead of going longer than she should have. She quit after 27 years and like, that was enough. She hit her point. That was enough.
+
+Cameron Diaz. I suddenly, after watching There’s Something About Mary with my kid, I said, “I wonder what ever happened to her.” And I looked up and saw that she was the fifth highest grossing actress in America. The highest paid Hollywood actress over 40. And then she’d had enough. And so she just quit to do other things.
+
+Tim Ferriss: I should interview her. She would probably not say yes, but those stories are fascinating to me. Because people are just like, “Yep, good. Bye.”
+
+Derek Sivers: I think there’s something really admirable about the personal challenge of making yourself do something else.
+
+Most of us stay in the game for too long. So I really admired that Jacinda Ardern did that, when politicians are known for trying to hold on to power as long as they can, right, until they’re forcibly removed, kicking and screaming. I really admire that she did that.
+
+I was super, super influenced by Felix Dennis’ book called How to Get Rich.
+
+Tim Ferriss: Which I just have to say it’s definitely not suitable for family listening, but the audio book is exceptional. I think it’s Roy McMillan, who’s the narrator, and I know that because I looked it up because I was so impressed by the narrator. But he talks about coke and whores.
+
+Derek Sivers: Yeah, that is one specific thing. But that’s so wonderful that he admitted that.
+
+Tim Ferriss: It funny for that reason, right? Because he’s so candid, in a way that you would not normally find in most books like this. So unapologetic on other things. The whole thing is is refreshingly unusual. I enjoyed it.
+
+Derek Sivers: I love that book. And I read that at a key time. It was right about the time that we met like 2008. I was just selling CD Baby, and I was suddenly, you know, coming into more money than I could ever spend in a lifetime. And just about that time, I read Felix Dennis’s book, How to Get Rich. And in it he had this quote that I got ready for our conversation here.
+
+He said, “If I had my time again, knowing what I know today, I would dedicate myself to making just enough to live comfortably as quickly as I could, by the time I was 35. I would then cash out and retire to write poetry and plant trees.”
+
+I read that at a key fork in the road moment for me where I just sold CD Baby and had a ton of money. I was like, “What to do now?” And I read this book from this filthy rich old man being entirely honest, and I thought I should just learn from his experience.
+
+So I took his lesson to heart and I said, “All right, Felix Dennis said if he could do it all again, he would just retire and write poetry and plant trees.” And I haven’t planted any trees yet, but it’s kind of what I’m doing.
+
+So if what I’m doing seems weird, it’s because I took his advice to heart and I’ve quit the game.
+
+Most people go by the the inner compass that says, “I’m really good at this game, so I should keep playing.”
+
+But I think we should all entertain the idea that we could say, “I’m really good at this game show, so I should stop playing.”
+
+Tim Ferriss: Hmm. I’m excited to dig into this because there are so many facets that I want to hear your thoughts on. So first, I want to pick up on something that I did not know, although I guess looking at your history makes some strange sense, but wanting to be famous.
+
+You strike me as someone — and I mean this in a very neutral way — and this is also why I asked you the other day at lunch, what makes you emotional? — you strike me as a very thoughtful, but in some ways unemotional person. Well, not in a bad way, but you don’t have volatile emotions.
+
+Derek Sivers: No.
+
+Tim Ferriss: You don’t have strong displays of emotion. And that could be a misread. I admire that about you, by the way. Just the general, at least from the outside. Maybe it’s like the duck on the pond, right? Calm on the on the top and kicking like hell underneath. I don’t know.
+
+But you have thoughtful, almost serene contentedness. Almost all the time that I interact with you. That is my perception.
+
+Derek Sivers: That’s true.
+
+Tim Ferriss: And that’s remarkable. You seem to have a very, very, very low need for external validation. That’s my perception.
+
+Derek Sivers: Yes, it’s true.
+
+Tim Ferriss: So that makes it odd or for me to hear you say, “I want to be famous” because I’m like, what do you get out of fame if that’s your constitution?
+
+Derek Sivers: You and I have thought for hundreds or thousands of hours about the concept of success, what it means to be successful. I’m 53 now. I have spent almost 40 years or let’s say 35 years thinking about being successful.
+
+Just a few weeks ago in a podcast interview, somebody asked me, “What’s your definition of success?”
+
+And I said “To me, it’s just achieving what you set out to do. That’s your personal success for that thing. I think it’s very individual.
+
+And he said, “Nothing to do with what other people think of you?”
+
+And I went, “What other people think? No! What?”
+
+And he goes, “Yeah. I think for a lot of people they would define their success through the eyes of others.”
+
+I was like, “Why? Why would anybody?”
+
+And he said, “Wait, you seriously have never considered that?”
+
+Tim Ferriss: Wow, he’s barking up the wrong tree. Yeah, he’s got the wrong guy.
+
+Derek Sivers: In 35 years, I had never, ever, ever for a single millisecond considered success as something that would be seen through someone else’s eyes. To me, success has always been hyperpersonal.
+
+Tim Ferriss: Yes. How does fame fit into that?
+
+Derek Sivers:I think a little bit like the things that you talked about being competitive, like your personal tendency.
+
+As a teenager. I was like, “I want to get famous.” Not like as famous as Prince. Prince was like a musical role model for me. He was my musical —
+
+Tim Ferriss: Incredible musician.
+
+Derek Sivers: Yeah. I didn’t want to be that famous. But, like, I don’t know, Brian Eno. That’s a good fame role model where it’s not like he’d get hounded walking down the street.
+
+That was driven by a competitive drive. More like, “Let’s see if I can do it.” Just with that spirit of like, “I think I can do that. I want to try doing that.” And it was also feeling that what I was doing musically was valid and worth hearing.
+
+Tim Ferriss: Someone was asking me recently because I was describing how excited I was to see you. We haven’t hung out in so long. It’s been so fun.
+
+Derek Sivers: 12 years.
+
+Tim Ferriss: God, it’s crazy because we also interact virtually. 
+
+So I was describing to someone that I was excited to see you. And they asked what made you interesting or — I don’t think they said unusual. “Oh, what’s what’s he like? What’s what’s so interesting about him?”
+
+And I said, well, part of what’s interesting is I don’t think I’ve met anyone who has the combination — outside of you — who has the combination of seemingly no need for external validation, yet being a good performer. Right?
+
+You were a ringleader in a circus, right? Musician. You’re really good at imitation: voices, etcetera. You seem to enjoy performing.
+
+Almost everyone, and I do mean almost everyone — and I’m only saying almost because it seems too absolutist to say everyone — but it might be everyone who I know who is a really good performer — it could be comedy. It could be acting, It could be fill in the blank — had that drive to become excellent doing that because they they loved or needed (or both) external validation.
+
+It’s a very uncommon combination, which is why I was asking you about it.
+
+Derek Sivers: So maybe it is because I had that life shift where it’s like I did it to a certain point. I didn’t get as famous as I thought I could, but I was successful enough. Like I bought my house in Woodstock with the money I made touring. By my own definition, I was a pretty successful musician.
+
+Then just at the time that that was getting boring, I accidentally started CD Baby and I just threw all my attention into serving the musicians. So I think that flipped something in my head where it’s like I no longer need the attention for me. I no longer I don’t need any more attention. I don’t need any more validation. And now I don’t even need any more money. I really don’t need anything from anybody.
+
+But yeah, you’re right. I still am socially skilled. I know how to get on stage and talk.
+
+Tim Ferriss: Good at it. Really good at it.
+
+You’re a combination of elements that I don’t usually see together. It’s very very rare.
+
+Derek Sivers: Am I blushing?
+
+Tim Ferriss: You’re blushing. It could be the Scotch.
+
+So the next question that comes to mind for me is whether you have always been a satisficer — to harken back to The Paradox of Choice terminology from Barry Schwartz, or if you’ve ever been a maximizer.
+
+And the reason I ask is because framing games in the way you have, which is once you’re good at a game and you win it’s only natural you would stop playing that game is, to me, the the sequel, the spirit, the essence of a satisficer.
+
+There are people, however, who, let’s just say they want to be a grandmaster in chess. Like “This is my game. I win.” That is a win on the road of additional wins and mastery to strive to become the best in the world.
+
+Or there’s another option, which is someone who has played a game for so long. Let’s just say it’s finances. They finally “win” in quotation marks. They no longer need to work to meet their needs, but they have played one game for so long they don’t know what other game to play. And that Paradox of Choice anxiety leads them to continue playing the same game. I know so many examples of people who have won. They’ve won the Oscar. They’ve made a gazillion dollars, done whatever. They don’t have the same love perhaps they once did for that game, but they continue to play it because subconsciously or consciously they do not know what else to do.
+
+So I know this is a hodgepodge of a question, but it leads back to, I guess, the first, which is have you always been a satisficer?
+
+Derek Sivers: So the the third category of people that don’t know what else they can do, that’s the category that — by my values — I want to physically pick them up and put them into a different scenario. I think it’s just, objectively, “You need to change now. You need to shake it up in order to live a full life. Yeah, you need to see the world from different perspectives. You’ve been doing the same thing for too long.”
+
+That a belief of mine, which means it’s not true. But I believe that you should.
+
+Tim Ferriss: Just because it’s not true doesn’t mean it isn’t valuable.
+
+Tim Ferriss: Right. It’s useful. It’s useful to believe that you shouldr.
+
+Tim Ferriss: I should put a different way. Just because it can’t be proven is true doesn’t mean it isn’t valuable. I know we’re going to get into some semantic rathole here, so continue.
+
+Derek Sivers: So those people, I think absolutely should. Somebody needs to kick them out of the nest, shake them out of their habits. Go do something else.
+
+The only celebrity death that upset me was Kurt Cobain. All the others seemed to be like, okay, they’ve made their contribution to culture and I appreciate them. But like, I wasn’t eagerly awaiting George Harrison’s next album, you know. But Kurt Cobain, fuck, he had so much more to give, but he was miserable. And some like that. Maybe not to that extreme, but let’s just use that as the farthest end spectrum on this kind of person that says they’re miserable doing this thing, but they feel like it’s all they can do. Those people I just want to like, you know, physically restrain them and pick them up and put them into another environment to show them you can do something else. It’s a bigger world.
+
+Tim Ferriss: Or like, you’re good enough. Go to an ashram for two years. You can always come back. You’ll be fine, you know?
+
+Derek Sivers: Right? Yeah.
+
+But just imagine the joy of even simple manual labor. What is at the end of the movie The Last Emperor. This guy has been through this big giant arc. And at the very end of the movie, he’s just, you know, picking weeds in a garden. Because he used to be the emperor, but the Chinese Revolution assigned him to just be a gardener now. And he kind of found his peace with it. And we all have different versions of that we could do.
+
+Like for the most part, for the last 12 years, I’ve just been a full time dad here in New Zealand. I know there are other impressive things I could have done, but this meant the most to me.
+
+Tim Ferriss: Impressive is such bullshit external, right?
+
+What what really drove that home for me is I’m an enthusiastic student of history. And I read Genghis Khan and the Making of the Modern World.
+
+Tim Ferriss: Great book. Yeah.
+
+Tim Ferriss: Really good. Especially the first half or so, is really exceptional. But I realized because they mentioned Alexander the Great in that book, and I realized. Alexander. It’s kind of like Madonna. It’s got one name. I don’t know that dude’s last name! Do you? And, like, I’ve polled audiences. Not a single person has ever raised their hand.
+
+I’m like, okay, this is ostensibly the greatest conqueror the world has ever known, given the constraints and technology at the time. Can’t even name his full name. So just like that, impressive. I don’t know. I’ve just become less and less kind of concerned with that.
+
+Derek Sivers: There were some subquestions in that last one.
+
+Tim Ferriss: I can rewind. Which, by the way, is totally developed skill. That’s not something — This is after doing a lot of podcasts.
+
+Derek Sivers: Dude, I noticed from our walking down the street or walking through a forest and talking, you would pick up on a few words that I said in passing. Two days later, you were like, “Let me ask you some more questions about that.” I was like, “How the fuck did you remember that?”
+
+Tim Ferriss: Yeah, totally trained. Yeah, yeah. Which is wild. 
+
+So I was asking you maximizer versus being satisficer. Have you ever been a maximizer?
+
+Derek Sivers: Yeah. So just like you can’t preach minimalism to somebody who hasn’t felt the pain of having too much stuff. They need to feel the pain of having to look after too many things and having a cluttered house and they go, “Ugh, I need some minimalism.” You can’t just preach it to them. So I think it’s the same thing with maximizing and satisficing.
+
+Satisficing is a lifestyle for me now — something that’s deeply internalized because I’ve felt the pain from trying to maximize decisions and spending hundreds of hours trying to find the best this or best that or make the best decision.
+
+I write in my journals so much, so many pages on something. And in the end, I felt the pain from doing this. Now I need to learn how to say good enough.
+
+I put that into action because of reading Paradox of Choice. I said, “Okay, I need to do this. He’s right. Dude is smarter than me. I’m going to do this.” So yeah, I just internalized it and I did it.
+
+When I catch myself in a moment, like shortly after that I moved to Portland, Oregon, shortly after reading The Paradox of Choice. It’s a pretty car-focused city. The CD Baby office was out in the far northeast and I needed to get a car. And I had just recently read Paradox of Choice, and I said, “I’m going to give myself two hours to choose a car maximum.” And so, yeah, in two hours I did quick research for 30 minutes, went out to some car lots, looked at a few options, and went, “This one is good enough.”
+
+I loved that car. Yeah. Was it the best possible choice? No. Who knows?
+
+Tim Ferriss: Well, for you it was. Minimizing regret. Two hours.
+
+I don’t know who the hyper-effective person is you mentioned earlier, but choosing that there are just a couple things that you care enough about. Like, I am glad that Josh Waitzkin is not a satisficer. I am glad that he went all the way down the rabbit hole.
+
+So I’ll tell you, I don’t think he would mind that. So I believe that it is Josh who actually said that to me where he’s like, “I basically focus on like one or two things. And then the rest, good enough.”
+
+Derek Sivers: Right? Because he’s so intense about those couple of things.
+
+Tim Ferriss: Yeah. You have to.
+
+Tim Ferriss: Yeah he’s another one who walks the walk in a big way. Have you met Josh?
+
+Derek Sivers: No. He’s a role model for me.
+
+Tim Ferriss: You guys would hit it off.
+
+Derek Sivers: He’s one of those invisible mentors. Not officially, but I loved his book, The Art of Learning. And I’ve listened to his interviews, and I really admire him. And so I have many times wondered, like, when I’ve hit some kind of dilemma or situation, like, “What would Josh Waitzkin do in this situation?”
+
+Tim Ferriss: Yeah. I mean, no social. Doesn’t read email. I mean, there are so many conventions that he bocks. It’s really inspiring.
+
+Derek Sivers: Yeah. And so that’s kind of one of those, you know, nobody cares what you’re bad at things.
+
+I’m sure there’s a bunch of stuff that Josh Waitzkin is not good at, and it just doesn’t matter.
+
+Tim Ferriss: Good enough.
+
+Derek Sivers: But have I always been like this? No. I think I had to feel the pain.
+
+Tim Ferriss: What what did you use to maximize, at any point?
+
+Derek Sivers: 10 years ago I overthought where to live. I was feeling very, very free after I sold my company. What do you do if you can do anything but you don’t have to do anything? And where do you go when you don’t have to be anywhere and you can be anywhere? It’s too much freedom.
+
+Tim Ferriss: It’s too much.
+
+Derek Sivers: It’s a complete blank slate with no restrictions at all. I wasn’t even in a relationship. I was just completely unbound.
+
+So I spent far too long in my diary thinking of every possible place on earth I might live and why. I spent hours reading about places that I still haven’t even visited, but I learned all about them. I even know what it takes to move there. And you know, the naturalization law of becoming a citizen there and the steps to becoming a resident there and the pros and cons of living there. And I’ve read books about it, but still haven’t been there. I did that for many countries.
+
+So that’s that’s something that was like 10 years ago. I was still maximizing that. And now here we are in New Zealand where the longest I’ve ever lived somewhere in my life is right here. I used to always move around every two years and I’ve been right here in Wellington 11 years now.
+
+Tim Ferriss: Parked-up. That’s wild.
+
+Derek Sivers: It’s good enough.
+
+Tim Ferriss: Yeah. I mean, there’s a lot to be said for it. 
+
+I want to say for people listening also that you might think, good Lord, like this is pretty head in the clouds, one-percenter stuff in the sense like “That doesn’t apply to me. That’s crazy.”
+
+But I would just point out that — God, I got this from a documentary. It wasn’t Helvetica, which is a great documentary about type font typefaces and fonts and so on. Really cool doc. There’s another one about industrial design, and there was an expression in that that stuck with me to this day, I think it was from a company or one of the founders of Frog Design, but I could be getting that wrong. And it was:
+
+“The extremes inform the mean, but not vice versa.” Something along those lines.
+
+It’s like when they’re when they’re designing, say, garden shears, they’re not designing for the average person. They’re designing for the edge cases. So it’s like the the old paraplegic woman who needs to use it from her wheelchair. And then like the 350-pound bodybuilder who like can’t brush his teeth because his arms are too big. Okay. If you design for those those edge cases at opposite ends of the spectrum, you cover everyone. But if you design for the average person, your error rate is going to be really high.
+
+And so I’ve thought about that in so many different domains. So in this case, I’m saying you’re providing, from a socioeconomic perspective, an edge case, broadly speaking. But there are principles in that exaggerated state that are easy to see, that are harder to see in some of the cases that are closer to the middle of the bell curve.
+
+So we’re exploring these things and the experience of this over-optimizing and Paradox of Choice and burnt cycles on something like location, I think everyone listening can find somewhere, right? They can find some place where they’re over optimizing in that way.
+
+Derek Sivers: Thanks for framing it like that. Sometimes I feel guilty speaking candidly about something that’s actually going on with me, if I know that it doesn’t apply to everybody.
+
+Whatever I do publicly, I try to make it for them. It’s not so much my personal expression as it is me giving back. The world’s given me a lot. This is what I do to give back.
+
+But it’s a nice reminder, the way you just framed it. It’s kind of like Felix Dennis writing his How to Get Rich book. Dude was worth 600 million when he wrote that. He didn’t have to write that book. And he wrote about his extreme case. But for me as a small fry reading it, it was really useful to read what somebody in an extreme situation did, and how he made his choices.
+
+Oh! You know what I’ve been meaning to ask you forever?
+
+Derek Sivers: So when people ask the question, “What would you tell your younger self?” what’s the real question there?
+
+Because I unfortunately have taken that question literally too often. You asked me seven years ago when I said, “Women like sex.” Because to me at that moment, that’s what I wanted to tell my younger self. I felt like culture sold us this story that women don’t like sex, that it’s something men want and women reluctantly give. And so for most of my life, I was trying to be considerate, so I was not entirely sexless, but mostly. And it wasn’t until like my late 40s that it was like, “Oh, my God, women like sex. Nobody told me this. Oh, my God, this changes everything.” I had more sex in the last three years than the rest of my life combined because this this newfound insight.
+
+And so what would I tell my former self? Fuck, yeah. That’s what I would tell my former self. But that’s just me! I don’t think that’s the question
+
+Tim Ferriss: The question is, “What advice would you give me?” Right?
+
+Derek Sivers: You? 
+
+Tim Ferriss: No I’m saying: when someone says, “What advice would you give your younger self?” what they’re really asking is “What advice would you give someone who is not where you are, but who wants to be where you are?” I think that is the translation.
+
+Derek Sivers: What advice would you give someone who wants to be where you are, but is not where you are? Like how to get how do I get where you are?
+
+Tim Ferriss: Yeah. I think that’s what people are generally asking, right?
+
+Because I don’t give a shit what you really — what your younger self would do. They care about what they would do. Rightly so.
+
+But the answers are actually very different if I’m being honest. Right. The answer that I would give to some person whose specifics I don’t understand are very different from the advice I would give to my younger self.
+
+Because in my case, having a history of some very extreme depression and near suicide in college and so on, my advice would be related to self preservation and recommending perhaps certain tools like meditation, like consistent exercise, which I which I had on some level but I think I could have tripled down on consistent exercise, perhaps supervised psychedelic therapies. Et cetera. Which don’t apply to everybody. They just don’t. I think some of those things might apply to some people.
+
+But if someone’s really asking like, “How do I achieve X? How do I have the life that you have?”
+
+Number one, I would say you don’t actually know what life I have. You get the highlight reel and you get what I share in podcasts, but you don’t have the full picture, so be careful what you ask for.
+
+Number two, I don’t understand the assumptions embedded in them wanting X, right? Because if their assumption is — let’s just say and you and I have seen this in ourselves and our experience and the experience of many others, “Once I have X amount of money. All my problems just disappear.” Like the vapour of mist hit by the rising sun, all my problems just vanish. That is an incorrect assumption, right?
+
+But if somebody’s just asking that at a Q-and-A at SXSW, you don’t have the time, you don’t have the space to unpack all of that. So any answer you give is going to be hopefully helpful, but it could be really misdirecting in a way.
+
+Derek Sivers: It’s funny the nature that these questions come to us is usually one question asked, one answer expected.
+
+But if you think of the physical metaphor, just imagine that you are somewhere on Earth right now. Say you’re sitting in somewhere in Argentina. And a phone call comes in and says, “How do I get there? How do we get to where you are?”
+
+I think, “Well, depends where you are. Are you in Brazil? Are you in France? Are you in Finland? Where are you?”
+
+But that would take a back and forth that we don’t have. If somebody asks you one question — “How do I get where you are?” the only honest answer is, “Well, it depends.” But that’s not a soundbite.
+
+Tim Ferriss: You clapped your hands. Is the question you wanted to ask, “What question I think people are asking when they ask?”
+
+Derek Sivers: Yeah, because I’ve always wondered, how do I do I think of that question? I keep getting that question all the time on podcasts. Damn it, this question again. What I would tell my younger self? It came up again just two weeks ago.
+
+Tim Ferriss: It comes up a good amount.
+
+Derek Sivers: Yeah, I need a good answer for that, without the snarky saying, “I don’t understand the question.”
+
+Tim Ferriss: Yeah, it’s not a bad question. It’s just so context specific that it’s not just unhelpful but I think dangerous to give too broad a response. To use your geographic metaphor, you just send somebody off in completely the wrong direction.
+
+Derek Sivers: Go east!
+
+Tim Ferriss: Go east! Take two of these. Call me in the morning. Oh, shit. I’m in Antarctica. Sorry about that. Yeah, I thought you were in France.
+
+Derek Sivers: Can you go east from Antarctica? How do they do directions in Antarctica? 
+
+Tim Ferriss: Yeah, I mean, unless you’re at the South Pole, you could give those. I suppose it gets a little tricky. But the good news is there’s pretty much nobody there. So you’re not going to be giving too many directions to people. They’re going to be at some type of base.
+
+I’ve only been once to Antarctica, actually recorded a podcast in Antarctica in an outdoor tent with someone and a field biologist and photographer, which was super fun.
+
+All roads lead to Matt Mullenweg. I owe him thanks yet again for getting me down there.
+
+Derek Sivers: It was one of my favorite episodes of yours — that conversation with Matt in Antarctica.
+
+Tim Ferriss: Oh, yeah. You know, I actually I recorded two. I did one with Matt and I did one with I want to say her name was Sue Flood, but I could be blanking on the name. This amazing photographer. Wow. Two podcasts in Antarctica.
+
+Derek Sivers: Yeah, that was fun. That’s why I was asking.
+
+Tim Ferriss: If I know Matt at all, I know that there’s probably some Scotch involved with that as well.
+
+Derek Sivers: I like how my son spent time with you in Wellington and wanted to ask you questions about Antarctica. And instead he had a more pressing question, which is, “What is it like to be 16?”
+
+Tim Ferriss: Yeah. “What is 16-year-olds do? How do 16-year-olds walk and behave?” Do you want to explain the context?
+
+Derek Sivers: We took him to see John Wick: Chapter 4.
+
+Tim Ferriss: Turns out that in addition to to biosecurity in New Zealand, the people at the movie theaters are really strict.
+
+Derek Sivers: That was off point for New Zealand. New Zealand is a wonderfully casual culture. Formalities are very uncommon here. But that was a weird moment of strictness where they wouldn’t let my 11-year-old come in to see John Wick, but we were determined to get him in.
+
+Tim Ferriss: Even though he’s seen and memorized all the John Wick movies.
+
+Derek Sivers: Uh, huh, yeah, he’s seen all the previous ones. He’s seen much worse. He’s read the Saga comic books. Oh, yeah. Highly recommended, by the way. Saga. Best graphic novel.
+
+Anyway, so he’s seen it all. So I went in to try to get the tickets while my son and Tim were out on the street and he said, “Can you teach me how to act like I’m 16?”
+
+Tim Ferriss: “How 16-year-olds behave.”
+
+We were fortunate we had some sort of zoo animals in the form of three other 16-year-olds nearby. And so he was trying to mimic it.
+
+And I was like, “Okay, you’re very smart, you’re very verbally intelligent.” He’s a very clever kid. But the body language and the energy is not at all matching a 16-year-old.
+
+So we’ve got to work on this a little bit. He had pulled the sleeves of his sweater. He had his hoodie up. And I was like, “I’m not sure that’s helping. It might be hurting. You look very conspicuous.” And then he pulled down the sleeves to make his arms look longer. But the proportions were all wrong, so he looked kind of like E.T. And I’m like, “I think you’re drawing more attention than you want to draw.” But the whole thing was very cute.
+
+Derek Sivers: He means so much to me that it’s —
+
+I’m proud of myself that I didn’t cry when I told the story about the cardboard box in London. I almost did.
+
+Tim Ferriss: Yeah. And your answer when I asked you what makes you emotional, was “anything related to parenting.”
+
+Derek Sivers: Yeah.
+
+If you guys have ever seen or go see the song “Papaoutai” by the Belgian musician Stromae, it’s basically this. It was a hit single in France and Belgium, and there’s a great music video for it of this guy who’s basically being a bad dad. And when he and I watch that video together, I always cry.
+
+Tim Ferriss: Yeah, you’re kind of tearing up right now.
+
+Derek Sivers: Yeah. Yeah.
+
+Tim Ferriss: Wow.
+
+Derek Sivers: Yeah, it’s serious.
+
+Tim Ferriss: Which is. Which is new in my experience of Derek Sivers. Seeing this.
+
+Why do you think that is?
+
+Derek Sivers: It’s so important. The stakes are — (crying)
+
+Well, yeah. Shit. New experience.
+
+Got to collect myself for a second.
+
+The stakes are so high, that if you do this right, it passes on — (crying)
+
+Wow. What should?
+
+Tim Ferriss: We’re not in any rush. Zero rush.
+
+Derek Sivers: Hmm. It’s funny also collecting my thoughts on how to say this. I don’t have to explain it much. Nobody’s asked directly.
+
+If you do this right, it passes on for many generations —
+
+A kid that’s raised really well can pass on that generosity of spirit, you know?
+
+Somebody that’s raised ignored might pass on that scarcity of spirit, you know?
+
+(crying) Holy shit, I’m not doing this for the media. This is not like trying to be a captured moment. Holy shit.
+
+Um. Yeah. There we go.
+
+Tim Ferriss: Yeah. Thank you for answering that. This is new, also, I’ll say for folks.
+
+What a gift that you have something that you respond this way to.
+
+Derek Sivers: It’s the only thing I do!
+
+You know, it’s funny, my ex, after we broke up, said like, “I’ve known you for so many years. I’ve never seen you get mad. I’ve never seen you cry. I’ve never even really seen you get upset.”
+
+I’m like, “Yeah, I just don’t. Really I’m a happy dude.”
+
+And, yeah, this is the only thing (that makes me cry), but it’s like it’s not an upset cry. It’s like, holy shit, this is such a big deal.
+
+Tim Ferriss: Yeah. Derek, we’ve covered a lot. I’m just saying, I don’t feel like we need to cover anything more. Is there anything you’d like to to say? Any requests to the audience? Anything at all before we wrap up?
+
+Derek Sivers: Yeah, I know you’re going to say this is crazy, but still, to this day, my currency — the thing that matters to me more than money — (obviously many things do) — I still really like meeting people.
+
+I just recently went to India. I went to Chennai and Bangalore for 10 days and I sat down and talked with 50 people in 10 days. I had one- to two-hour-long conversations with 50 people. And a lot of these 50 people are people that I’d been emailing with for years. Like they just contacted me out of the blue because they read my article or they read my book or they heard a podcast and they emailed to introduce themselves. And here it is 10 years later. Now I’m in Bangalore and we finally meet and it was so damn rewarding.
+
+And similarly I went to Helsinki, Finland for the first time and what do I do? I email say “Who do I know in Helsinki?” And there were a number of people that had emailed over the years to introduce themselves. And soon I’m like sitting naked in a sauna with some dude that emailed me because, you know, he read my book. This matters to me more than money.
+
+It’s the reason I do a podcast like this. I’m clearly not selling anything. I don’t have a big ask. But I really like it when people email to introduce themselves, especially if it’s not coming with a loaded question like, “What would you tell your younger self?” Or, “What should I be doing with my life?” 
+
+When people just introduce themselves, it means the world to me. It’s really cool to feel connected with people from around the world — to know that I have friends in India or have friends in Nigeria or friends in Finland. That’s my favorite thing, hearing from strangers.
+
+So honestly, like my website, which I made myself as a static HTML website speaking of our earlier tangent, if you go to sive.rs — just send an email and introduce yourself. That’s my surprising ask.
+
+Tim Ferriss: To other domains point to that?
+
+Derek Sivers: It used to be sivers.org
+
+Tim Ferriss: You still have that I assume.
+
+Derek Sivers: Yeah, I’m keeping that forever. But that’s my minimalism thing. At one point I looked at that like “.org — hmmm…”
+
+Tim Ferriss: Where is .rs?
+
+Derek Sivers: Serbia. Republic of Serbia. One of my favorite tech sites is lobste.rs. 
+
+Tim Ferriss: Wait, what the hell is lobste.rs about?
+
+Derek Sivers: Oh, it’s just it’s just a random domain name they got. But it’s programmers and sysadmins talking tech and it’s fun. It’s like Hacker News minus the business. Oh, I hope I didn’t send a bunch of traffic their way.
+
+But yeah, I looked at the “.org” — I used to have sivers.org and I looked at it, like, “I’m not really an organization, am I? Those four characters aren’t really necessary, are they? I think I could reduce those. So yeah. sive.rs”
+
+Tim Ferriss: Thank you, Derek. So nice. So good to hang out, have some Scotch and —
+
+Derek Sivers: And make me cry. Holy shit. Yeah, That was my first time in, like three or four years.
+
+Tim Ferriss: I’ve never seen you cry. Yeah. Wow. Exclusive to the Tim Ferriss podcast, folks.
+
+Derek Sivers: I’m just trying to help out my friend, you know, get him some more views.
+
+Tim Ferriss: Yes, more views. I’m all about the views. It’s so good to hang, man.
+
+Derek Sivers: You too.
+
+Tim Ferriss: Thanks.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+DEREK SIVERS
+	
+Post navigation
+Previous Post
+PREVIOUS
+Derek Sivers — The Joys of an Un-Optimized Life, Finding Paths Less Traveled, Creating Tech Independence (and Risks of the Cloud), Taking Giant Leaps, and Picking the Right “Game of Life” (#668)
+Next Post
+NEXT
+The Tim Ferriss Show Transcripts: Dr. Gül Dölen on Rethinking Psychedelics, New Applications (Autism, Stroke, and Allergies), The Neurobiology of Beginner’s Mind, Octopuses on MDMA, and The Master Key of Metaplasticity (#667)
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Dr. Peter Attia — The Science and Art of Longevity, Optimizing Protein, Alcohol Rules, Lessons from Glucose Monitoring with CGMs, Boosting Your VO2 Max, Preventing Alzheimer’s Disease, Early Cancer Detection, How to Use DEXA Scans, Nature’s Longevity Drug, and More (#661)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (95)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (17)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (635)
+The Tim Ferriss Show Transcripts (479)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (51)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2023 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

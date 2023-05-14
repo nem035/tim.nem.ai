@@ -27,7 +27,7 @@ async function ingestEpisodes() {
     (await supabase
       .from("episodes")
       .select("slug")
-    ).map((e) => e.slug)
+    ).data.map((e) => e.slug)
   );
 
   const episodes = [];
@@ -39,7 +39,9 @@ async function ingestEpisodes() {
     );
     const [metadata, content] = cleanLines(transcript)
       .split('<--- METADATA --->');
-    const [url, title] = metadata.split('\n');
+    const firstSpace = metadata.indexOf(' ');
+    const url = metadata.slice(0, firstSpace);
+    const title = metadata.slice(firstSpace + 1);
 
     console.log(`#${idx}: ${title} - ${url}`);
     if (existingEpisodesSlugs.has(transcriptSlug)) {
@@ -48,7 +50,7 @@ async function ingestEpisodes() {
     }
     episodes.push({
       url: url.trim(),
-      title: title.trim(),
+      title: title?.trim(),
       transcript: content,
       slug: transcriptSlug
     });

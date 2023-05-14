@@ -111,15 +111,15 @@ async function downloadTrancripts() {
           await downloadPDF(url.href, path.join(pdfDir, fileName));
         }
       } else {
-        await page.goto(url.href, {
-          waitUntil: "domcontentloaded",
-        });
-        const text = `${url.href}\n\n${title}\n\n<--- METADATA --->\n\n${await (
-          await page.$("body")
-        ).evaluate((node) => node.innerText)}`;
         const fileName = `${kebabCase(title).slice(0, 250)}.txt`;
         if (!fs.existsSync(path.join(textDir, fileName))) {
           console.log(`Downloading ${title} from ${url.href}`);
+          await page.goto(url.href, {
+            waitUntil: "domcontentloaded",
+          });
+          const text = `${url.href}\n\n${title}\n\n<--- METADATA --->\n\n${await (
+            await page.$("body")
+          ).evaluate((node) => node.innerText)}`;
           writeToFile(textDir, fileName, text);
         }
       }
