@@ -1,0 +1,638 @@
+https://tim.blog/2023/08/10/dustin-moskovitz-2-transcript/
+
+#686: Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+AUGUST 10, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More (#686)
+1 COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Dustin Moskovitz (@moskov), co-founder and CEO at Asana, a leading work-management platform for teams. Asana’s mission is to help humanity thrive by enabling all teams to work together effortlessly. Prior to Asana, Dustin co-founded Facebook and was a key leader within the technical staff, first in the position of CTO and then later as VP of Engineering. Dustin attended Harvard University as an economics major for two years before moving to Palo Alto, California, to work full time at Facebook.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#686: Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+
+Tim Ferriss: Dustin, nice to see you and nice to reconnect. Thanks for making the time.
+
+Dustin Moskovitz: Absolutely, great to be here, Tim.
+
+Tim Ferriss: I would like to begin with a device in common and it’s a manipulation tool. It’s actually sitting right next to me. I have this anywhere I might happen to be, and for those who can’t see it, it looks almost like I would say an S made of hard plastic. It’s about, let’s just call it two and a half, three feet long with all sorts of knobs and odd-shaped things sticking out of it. What is it that I’m holding up? And I have you to thank for introducing me to it, so let’s explain to folks what we’re talking about.
+
+Dustin Moskovitz: Of course, so this is the Back Buddy. It’s a massage tool. I have my own right here as well, and similarly, wherever I go, I have them at home, in the gym, I travel with a sort of collapsible version. So this is something that I first found maybe 10 years ago, I think literally just by trying to look at the highest-rated Amazon products and I was like, “Oh, wow, this thing has like…” I think at the time, like 45,000 ratings and it was near a five-star rating and I thought, “This must be great.” And so I got one and it’s been almost a love affair ever since and I’ve really gotten to just kind of know it better and better over time.
+
+And even I think last night I found a new kind of angle that really got into under my shoulder blade in just the right way and I’ve really appreciated it, and there’s other products like this, like the Thera Cane, and I’ve tried them. I’m sure some of them are almost as good, but this is the one I really love. They’re really cheap, I think they’re about $30 and they’re completely indestructible. I still have the first one I bought 10 years ago, in addition to probably nine others. So it’s my favorite among many of these kinds of tools.
+
+Tim Ferriss: I’ve been very impressed — just a last little bit on the Back Buddy, using these two very close together knobs for the back of the neck, sort of the neck extensors. I’ve been shocked how effective it is for not just relaxing my neck for extension, but even rotation. Spending 30 seconds on it is surprising. And for 30 percent off, use backbuddy.com/tim. No, there’s no affiliation or anything with the company, but it is a good tool. Now before we started recording, I was mentioning some lower back pain that I’m contending with and you had responded that I think you’ve written an article on addressing back pain and you mentioned specifically lidocaine patches, and this happens to be the second time lidocaine patches have come up in the last 24 hours for the first time in my life. So would you mind expanding on that just a little bit?
+
+Dustin Moskovitz: So I spent a lot of my 20s doing the classic throw-out-your-back thing in innocuous ways. One time I did it while sneezing and I had been tying my shoes, so I had my legs crossed. It’s very frustrating, you throw out your back, and you’re sort of laid up for three or four days. And so it definitely went deep on just trying to get advice on what to do and that can lead you in a lot of directions, including to psychological mechanisms like the Dr. Sarno stuff. And also I just became very acutely aware of it, so I could feel — my back feels like a little tweaked right now, that’s usually what it feels like a couple days before this injury happens, this acute thing. And so I learned that when that happens I need to address it. I either need to relax or I need to do yoga or something like that.
+
+And eventually I found these lidocaine patches. First, I bought the Biofreeze ones, which are menthol-based. They work great too, they’re basically equivalent, but they have a smell and my wife really dislikes it. The lidocaine ones have the same impact, but they don’t have a smell, so I really like those. And basically if you feel this tweak or just now, I use them all the time after a workout, just slap it on my lower back, wear it for six or seven hours, and usually that just helps things really release, even if I’m still sitting up during that six or seven hours not doing anything special. And usually I’ll have a pretty good back crack at the end of that or something like that. I also love to put them kind of between my shoulder blades, again, for the neck tension and it just feels like this incredible hack. It’s totally topical, so it doesn’t mess with your head or make you drowsy or anything like that, and I’ve just really loved them. I buy them probably 20 a month or something like that at this point.
+
+Tim Ferriss: So I want to explain also for folks who may be listening, why most likely we are not sharing video. Maybe we’ll share video of me as some animal avatar that is of your choosing, but the reason I bring this up is in prep, your team sent me a fascinating document that I almost certainly am going to try to emulate because I have been in the process of hiring recently, and this is a guide to you. It’s like a user’s guide for Dustin, and I just want to read a few of the, I suppose, line items on the table of contents briefly, if you don’t mind.
+
+How I view success, how I communicate as an example, as a subcategory. Under that writing is thinking meetings, one-on-ones, group meetings, scheduling, et cetera, personality, and we might come back to this, Enneagram type five, introversion, motivation. Management style, hands off, candor. Underneath that, miscellaneous, what gains and loses my trust, revisiting past decisions, holding stories lightly, and then things Dustin hates. Now, it almost looks like a mood board, which I really appreciate. On the page of things Dustin hates is included being videotaped. So could you please give some context on when you first created this document and for what purpose you created this document?
+
+Dustin Moskovitz: Absolutely, I think there was a sort of phase where a lot of people were doing this and publishing them online and it sort of coincided with — the real catalyst for me was a book — I can’t remember the title, I think it’s The Making of a Manager, but it’s by Julie Zhuo, who’s an old colleague from Facebook at the time, and she was one of the design leads there. It’s a great just sort of tactical book on how to be a manager and includes Julie’s guide to Julie. And in the book it’s sort of framed as this is for your immediate reports, and I originally wrote this doc for them, just for my team. They said, “Hey, this is great. We’d really love for the whole company to actually be exposed to this,” and so now it’s an included onboarding. I don’t really know how many Asanas actually go through the whole thing in onboarding, but I tried to make it kind of fun and interesting to read, so hopefully some of them would.
+
+Part of the reason we did that is because I have some quirks, I’m an introvert in a CEO role, and I care a lot about managing my energy, and what I think of is this extroversion budget. It’s almost like a video game energy bar for me that drains down. And so, especially Anna Binder, who’s the head of people here at Asana, just really encouraged me, “Hey, just a lot easier for everyone to manage your budget if they understand how it works, and so the more people know about you, the better,” and so I put it out there.
+
+And then the things I hate list, I originally also created that, that’s a screenshot of an Asana board and originally created that just for fun with my team. A few of them also have one and they were also just like, “This is a great insight into your personality, so you should include it.” And in the actual Asana board you can click in, I’ve got some snarky comments about each of the things, but just for fun at the bottom there, but it does include some things that happen to be energy drains as well and videotaping is in there.
+
+Tim Ferriss: If you don’t mind drilling into just a few of these that I’m very fascinated by that I’m going to highlight for myself just in terms of revisiting systems in my own company, under management style, you have “Coach for endurance.” Would you mind explaining what that means, what that item describes or covers?
+
+Dustin Moskovitz: Generally, I think a lot of what I’ve learned as a leader over time is just how much of a marathon the work really is, and I think that a lot of culture in tech industry encourages you to sprint just as much as possible and really focuses on short-term productivity measures, and the consequence of that is people burn out. And so definitely something we experienced at Facebook, and I’ve seen Asana as well from time to time is when people leave the company, they’re not necessarily going somewhere else, they’re kind of retiring or they’re taking a long sabbatical. They’ve sort of decided, “In order to have a good break, I actually have to quit entirely. I can’t just do a two- or three-week break and come back and it’ll be too stressful to even have the mental overhead of what’s waiting for me.” And so when we were setting out to do Asana, we knew it was a big project.
+
+It’s enterprise collaboration software, it takes a really long time to build a business around not only a new product, but in our case a new category. And so we knew it wouldn’t be a three- or four-year thing and then we flip the company or something like that. We’d be in it for a long time. Now, it’s been 13 or 14 years and I still have a really long runway in front of me. And so a lot of my mentality is just I’ve got to be able to keep going for as long as possible, not burn out, and I want that for as much as my team as possible because I really heavily value institutional knowledge and the strength you get from having high trust relationships. And so I really try and coach my team around that and I encourage them to do that with their leads and so on throughout the organization.
+
+So one of my favorite phrases is like, “Don’t let the long breaks get in the way of the small breaks,” so sometimes people you’re like, “Oh, a year from now I’m going to take a sabbatical,” and kind of get in this mentality of I’m just going to work really hard for the next year. It’s like, “No, you should still take a three-day weekend, maybe a week vacation or so before that,” and just breaks during your day as well and take your nights and your weekends and all of that is important. So it’s almost like a fractal of the balance between rest and work, and I think you have to actually coach people to do that. They don’t necessarily do it naturally.
+
+Tim Ferriss: That’s actually been one of the biggest challenges for me personally is that I tend to hire very hungry go-getters and sometimes even despite my encouraging to embrace self-care of various types, they burn the candle at both ends and burn out, they burn themselves out. And I’ve experienced that personally, but it’s easy to, I suppose, take for granted that people will automatically do that, which is in my experience, not always the case if you get someone who’s really a hard driver. 
+
+On the topic of energy budgeting or thinking about energy management, you’ve listed a lot of lessons over the years and there’s a lot on wavelength.asana.com that I’d encourage people to check out. 
+
+What I wanted to ask you about is not letting decisions linger for too long, which can be energy training. So let me just read something so that you don’t have to feel like you’re on the spot at a congressional hearing or something.
+
+And here’s an excerpt from one of those posts, and here’s what it says: 
+
+“I’ve learned a lot over the years, but here are a few key learnings that I employ regularly in no specific order.” And I may come back to a few of these, so I’ll just read the five. 
+
+“Number one: Not delegating enough is bad for me and bad for people who could be getting more autonomy and learning more skills. 
+
+“Number two: Acknowledging that everyone else is a partner in what you’re trying to do and not an enemy.
+
+“Three: Recognizing that you agree with people more than you think you do. Where you disagree is probably a difference of input assumptions and not a real conflict.” 
+
+I’ll certainly, I think, come back to that one, but the one I want to ask about is four: 
+
+“Avoiding paradox of choice and making decisions even if you’re unsure of what’s strictly the best one at that very moment. Letting a decision linger for too long is energy-draining; don’t let perfect be enemy of the good.”
+
+And then the last one is: 
+
+“Making sure there are regular checkpoints for reflection and there’s time to think at a high level and not just being tactical all the time is extremely important.” 
+
+So would you mind expanding, if you can, on what that ends up looking like in terms of avoiding the paradox of choice and making decisions perhaps more quickly? Because that is something I think I’m pretty good at, better than the average bear maybe, but I still have a lot of room for improvement and my team is so small that the more open loops we have, the more exhausting it is for everyone, especially me. So I’d love to hear you say more about that.
+
+Dustin Moskovitz: And some of this is aspirational. I think we get in these long decision loops as well, especially at work. First, maybe I should explain the paradox of choice too, do you think your listeners would be — 
+
+Tim Ferriss: Sure, please.
+
+Dustin Moskovitz: So part of the paradox of choice is just this idea that if you have a choice between two things, the longer you consider them both or even being exposed to the second choice kind of makes you devalue either outcome. If you choose path A, you’re always thinking about what could have been with path B and vice versa, and there’s some really interesting psychological research people have done sort of proving this in controlled settings. And so you kind of don’t want to indulge that mindset if you can avoid it, and I think the easiest way to do that is to just pick your battles. So at my level, that involves often maybe just saying, “I don’t care, I don’t have a preference.” Certainly, in my personal life I try and do that as often as possible. My wife is always showing me art for the house or something, and it’s just like, if I don’t have a strong opinion, I don’t express any opinion at all, which it’s worse for her, often she’d want me to, but I prefer not to bind my preference if I don’t have to.
+
+And the sort of other flip side of this is often the choices that are hardest matter the least in exactly this way where the outcomes are going to be really similar. It turns out you didn’t have a strong opinion, and so you shouldn’t spend too much energy on that. So pick your battles is sort of the first way of going about it, and then the second is delegate where possible. And so it doesn’t have to be my choice in the first place, and it’s good to empower people. You have to be a little careful though because if it’s one of these, the outcomes are similar, you have to coach that person too because they might end up locked in the same sort of trap of thinking about it too long and getting drained and things like that.
+
+And then the third is being really clear about your goals. We try and start every meeting with not only, what are the goals of the project we’re talking about, but what are the goals of this meeting, what decisions are we trying to make? And being as clear as possible about what those decisions are and when they need to be made and putting deadlines on them. I have to praise, I saw the best slide I’ve ever seen in a meeting the other day that was just a list of key questions and it was like, “These questions need to be answered by August 15th, these by September 1st, these by September 15th,” and they had recommendations on the first set and I was like, “Great, let’s just answer the first six right now in this meeting.” We did, we got through some of the September 1st ones as well, and if every meeting could have that slide, I think we’d be in really good shape.
+
+Tim Ferriss: I guess that strikes me as sort of a really helpful proxy for what are the goals of this meeting. If people somehow have difficulty translating that because it seems too abstract than just asking, “What are the key questions we have to answer in this meeting?” It seems to perhaps get to a lot of the same ground. 
+
+If we come back to delegating for a moment, and this is going to be looking in the rear view mirror probably, it could be current day, but I’m wondering, since this is also a growth area for me, if we’re taking something that could be viewed as a problem and trying to paint it as more of an opportunity, this is an area where I feel like I can still improve a lot, were there any concrete examples you’d give of things that you found hard to delegate at any point that ultimately were very valuable to delegate? It could be any type of example or it could be a category, it could be something specific just to maybe illustrate overcoming that type of friction. 
+
+Dustin Moskovitz: It’s a tough question. I think that in some sense it’s just an evolution of — at the beginning of Asana, I just owned everything and I had to consciously decide to delegate and often did it too late and needed to hit a breaking point and need to just to declare bankruptcy on something, but in looking back, a lot of those just ended up being effective and good to delegate, but I used to do everything from guiding and presenting it almost every — all hands, all that presentation content was me, and now I’m most often in the audience or I’ve got a short bit or I’m showing up for the Q and A. I used to do the year-end review and try and read about what happened with every goal outcome and every project, and just as the organization scaled, it just was too much and I have to do that more at different levels of abstraction where I’m kind of doing the very highest level one.
+
+And I hear these stories about a lot of startups with like 1,000 people and they say, “Well, the founder is in every interview to make sure this person’s a fit,” and things like that I gave up on long ago. And part of it just takes — I love to make these little spreadsheet models and I have one that’s just sort of showing me how I use my time based on what the recurring meetings are and some things I know are going to happen week-to-week or month-to-month, and I try and go back to it on maybe an annual basis and that can help me see, here is a big time suck, and it’s just sort of out of proportion, can I somehow reduce this to be a more appropriate use of my time or give it to somebody else? And that kind of helps me each step of the way. I don’t know if there’s anything in particular that felt like sort of ripping it out of my heart or something like that.
+
+Tim Ferriss: How do you create or populate the spreadsheet? Because it’s one of those things that in theory to me, for instance, sounds so appealing, yet I would worry that because of task switching or just the number of things floating around in my life that the simple act of inputting into a spreadsheet would consume just a vast amount of time. How do you fill in that spreadsheet? What does it look like in terms of just formatting?
+
+Dustin Moskovitz: Totally, I actually made it into a template we can share in part of the episode notes.
+
+Tim Ferriss: Amazing, that’d be great.
+
+Dustin Moskovitz: But it sort of starts with here are the hours for work, here are the hours for home, here are the hours for sleep, so I’ve got that sort of biggest pie chart. And then for work, I have a tab that’s like, “Here are my recurring meetings, this is how frequently they happen, this is how long they are.” In some cases I have prep time, so for example, we have a board meeting quarterly. It is a three-and-a-half-hour meeting, I need two hours of prep. There’s also some committee meetings. And so this sort amortizes out to something like two hours a month or something like that or 30 minutes a week, so it becomes a part of the chunk, and those things don’t change very often and are really the bulk of it and where the most leverage is in changing something. And so I think that those end up adding up to something like 30 percent of the work time.
+
+And then I have another tab that is more abstract. It’s responding to things in Slack and I sort of swag an estimate for how long I spend on that per week or interacting with customers, and those come up on the customer’s cadence. I don’t have a sort of set block in my calendar for that, but I look back maybe over the past month or two and just sort of estimate, looking backwards, how much time I spent. And then what’s left, I just sort of count as this is desk time, this is focus time, and try and sort of gut check, does this feel right or am I kidding myself about something? And look for other sources of time, and that led me to add in my lunch hour and coffee breaks and stuff like that. And it’s hard the first time, but then every year I’m kind of just tweaking it and that part only takes 20 minutes or so.
+
+Tim Ferriss: Now are you setting — I’m going to get fancy here just so I can sound smart — are you using OKRs or after reviewing the spreadsheet saying, you know what, for the next month or next quarter, I want to hit these percentages? I guess I’m wondering what the assessment looks like if you have questions you’re trying to answer when you review the spreadsheet, just what that process looks like for you.
+
+Dustin Moskovitz: I don’t think I’m quite that quantitative about it. We do have OKRs at Asana, and one thing I do with the help of my assistant, Lauren, is I look at my coming month and I try and organize it under the company objectives. And so some of the objectives are about financial management and that includes all my time engaging with investors and with the finance team here. Some of it’s about the products, some of it’s about engaging with customers. And so if I do have customer meetings, that’s kind of slotting in there.
+
+And I think that’s a good monthly checkpoint for, am I personally contributing to the goals where I think I’m leveraged? Sometimes the sections look too long, sometimes they look too short, and can kind of course correct from there, but I try not to have too many fixed rules other than my energy gauge, am I trending towards burnout or not? Do I have the energy to do the things I need to do? And a lot of that more is day-to-day and week-to-week management. And again, my assistant does a big part of that in making sure I don’t get overloaded too much.
+
+Tim Ferriss: God bless your assistant. People think of me as an extrovert, but I am very, very introverted in terms of energy management. So I also have to budget for that, but I’m such a dancing bear on stage playing extrovert that I sometimes commit to things that are sort of antithetical to my actual programming, but I want to come back to a few things. So the first is just a definition of terms for folks, so OKR stands for objectives and key results. If you want to take a look at that, John Doerr has a book about it. Google also uses OKRs extensively and you can find a lot written on the paradox of choice if people want to look more into that. Barry Schwartz wrote a book called The Paradox of Choice, and there’s the aspect that you described.
+
+There’s also considering too many options and the decision fatigue that that can produce or just creating an excess of decision making, and it seems to me that number five on the list that I read earlier, making sure there are regular checkpoints for reflection, there’s time to think at a high level requires some type of strategic or tactical move to actually implement, or the small things will just crowd out the big things. So I have a few questions around that. The first is, do you still or do people at Asana still follow No Meeting Wednesday or is that sort of case by case? And even if it’s just past tense now, if you could perhaps just explain why that existed, I think that would be helpful for folks.
+
+Dustin Moskovitz: For me, I still follow it quite religiously. It is a bit case by case throughout the company and that often results in people trying to schedule meetings with me on Wednesday. I’m like, “What are you doing? Why are you doing a meeting Wednesday?” And it comes from two places. One maybe — I think it was 2011, Paul Graham had this really famous blog post, the [“Maker’s Schedule, Manager’s Schedule,”] and it was just kind of pointing out that meetings end up on your calendar kind of at the behest of management and team leads and project managers, and that is their entire day. So they’re just kind of stacking their calendar end-to-end, but Ics, especially in software, really need these long focus blocks to get into their work. They need to kind of load up the context and their short-term memory, get into flow, and have a good 90- or 120-minute session to get a useful work out. If you don’t interfere, the natural thing that happens is your calendar gets chopped up and you don’t have any of these two-hour blocks.
+
+You just have these half-hour and hour blocks and you get a little bit of work done, and it’s just overall suboptimal for individual productivity. So No Meeting Wednesday is a hack of just, we are going to synchronize everyone’s calendar, so that they don’t have meeting blocks on Wednesdays. A lot of people at Asana go further, they’ll add additional blocks, maybe Tuesday and Thursday morning, try and find a couple other maybe half-day or third-of-a-day segments where they can try and keep their calendar clear and everyone else tries to respect this as much as they can.
+
+Of course, things happen, customer meetings happen, you’re not always in control of that, but we try and do our best. So partly it’s just about having those focus blocks and partly it’s about having long enough blocks to get into some deep thinking work and be able to have these longer periods of reflection. And I just find, even as a manager, if I have just a half hour, an hour, I’m going to do something small, something tactical, just so I can feel productive. It’s hard to get into that deep thinking state, so that’s really what it’s all about.
+
+Tim Ferriss: Totally, and I want to just mention for people who may want to look it up, again, the “Maker’s Schedule, Manager’s Schedule” by Paul Graham, who’s I guess co-founder of Y Combinator, people may be familiar with that, that article as well as — or I should say essay, I guess, as well as “The Top Idea in Your Mind” are two that I have bookmarked to revisit constantly. I really appreciate how concise and clear his thinking is, and as I also want to confirm, you did get the book title right for Julie Zhuo, I’m not sure how she pronounces her last name, The Making of a Manager.
+
+Dustin Moskovitz: I think it’s Zhuo. Well, you actually, I think you speak Mandarin or something, so maybe I should defer —
+
+Tim Ferriss: Yeah!
+
+Dustin Moskovitz: It could be Zhuo.
+
+Tim Ferriss: It could be any number of things, so Julie, apologies if I’m getting your name wrong, but the title is The Making of a Manager, and the No Meeting Wednesday brings up a question for me of weekly architecture. I find that I do very well if I have some semblance of a weekly architecture. So for instance, we’re recording on a Friday, I tend to record podcasts, if I record podcasts Monday and Friday at 10:00 a.m. wherever I happen to be, or roughly 3:00 p.m. wherever I happen to be, and I’ve found that just reduces so much complexity. It makes communication much more smooth, it makes planning in the long-term much easier in terms of blocking out time over a month, a quarter, et cetera, and then there are, say, for instance for me, team calls and everything happened on a Tuesday, and that’s all formatted in a certain way. Do you have a particular weekly architecture that you aim for or that during periods of high productivity that you’ve followed?
+
+Dustin Moskovitz: Well, I think that the weekly cadence, including No Meeting Wednesday, really defines a lot and a lot falls out from that. So Asana has an office-centric hybrid policy. So Wednesdays, since they have no meetings, you can work from home, totally fluid. Fridays are also pretty fluid, and I’m here on a Friday, but relatively low attendance. And so Monday, Tuesday, Thursday is when a lot of our meetings are going to happen, including my team meets Tuesday afternoon, and I’d love to say I designed that for a particular reason, but really that’s when our calendar is aligned in the right kind of way.
+
+Tim Ferriss: Right.
+
+Dustin Moskovitz: And then I mentioned I have the Tuesday, Thursday morning work blocks for getting more stuff done, and between those and Wednesday, that’s the me time, the IC time. And then, most of the rest of Monday, Tuesday, Thursday will be meetings and then Fridays — 
+
+Tim Ferriss: IC is individual contributor?
+
+Dustin Moskovitz: Yes, yes.
+
+Tim Ferriss: Mm-hmm.
+
+Dustin Moskovitz: I think of it as you can be an IC in your manager role as well. It’s like when you’re not in meetings, you’re producing things and coaching people. And then Friday, partially because I really prefer in-person meetings, ends up being pretty light as well even though I’m here, just a couple meetings and a lot of work block time as well.
+
+Tim Ferriss: Why do you prefer in-person meetings?
+
+Dustin Moskovitz: Well, it’s partially for the same reason I don’t like being video recorded. I find that part of my attention is lost in a video call and it depends a lot on the quality of the connection and the audio and the video. I don’t know what your experience is like but you’re quite pixelated for me right now. And so it’s a little harder to pick up on your body language and your emotional — 
+
+Tim Ferriss: Cues. Totally.
+
+Dustin Moskovitz: Cues and I just find after a video call, I’m so drained. And if it’s a team meeting, I find the — what’s it called? The control flow very difficult. It’s very difficult for people to interrupt or interject or they literally raise their hand to put themselves in the queue and I just find it a lot less efficient than being in a room and having the more natural cadence of dialogue. And again, the AV issues pop up in the team meetings too and it’s a disaster every time. And now, we’re three years into the pandemic and all the same problems from 2020 are still here but they are and I can’t look past it to feeling like it’s good enough.
+
+Tim Ferriss: Yeah. I didn’t really consider the energetic cost of what you’re describing but it’s true. There is something, as much as we try or hope that it will be natural, that is unnatural about looking at The Brady Bunch on a screen and trying to coordinate body language and cues. Yeah. There’s an energetic cost to that.
+
+I want to come back to number three in the list that I mentioned, and it’s going to be a jumping off point. “Recognize that you agree with people more than you think you do. Where you disagree is probably a difference of input assumptions and not a real conflict.” I think this may tie into a question about Conscious Leadership, which I would love to discuss.
+
+And in your book recommendation list that you sent me, I do want to talk about the top recommendation at some point, but there are two books that begin the list and we’ll leave the first as a cliffhanger for now. So top recommendation is The Beginning of Infinity by David Deustch, who I had on the podcast with Naval Ravikant, and I do want to ask you about that because that is not an easy book to read, necessarily.
+
+Dustin Moskovitz: Sure.
+
+Tim Ferriss: Very interesting. And then, right below that is leadership and strategy and the first book is The 15 Commitments to Conscious Leadership. How did you get introduced to conscious leadership or this book?
+
+Dustin Moskovitz: I think it was almost 12 or 14 years ago, I went to an event in Southern California, I can’t even remember where. And it had some great people there including Diana Chapman and actually, Jack Kornfield, who you had on the show last week. It was my first exposure to some of those people. It was a pretty small group. I think there were 15 people in the group. And so really got to know them and ended up deciding to work with Diana as a personal coach. That led to more and more, I think this was even before the book was published.
+
+And then, as we were starting Asana, it became just the framework that we wanted everyone to learn. I think 15 Commitments is really great. I also think it’s very similar to other frameworks but it’s nice to have a similar set of language and this idea of holding stories lightly and understanding the other perspective more. It also relates to something Jack brought up with Byron Katie. So she loves to preface any thought with, “I have a story that…” These are all related ideas. But having The 15 Commitments is something very concrete and language like being above the line below the line. It’s really helpful for everyone in the company to know what those terms mean so that you can shorthand them.
+
+And so now, you’ll go into a meeting and somebody will be in a bad mood and frustrated about a decision we’re making and they’ll just voice out loud, “Hey, I’m below the line about this.” Like, “I’m expressing some frustration but that doesn’t mean stop what you’re doing or I’m throwing my body on the tracks. It just means that’s where I’m at right now. I’d love to shift. Maybe you can help me shift, but just be aware.”
+
+And so that’s very useful and it comes up all the time in my one-on-ones with how I coach people. In fact, I start all my one-on-ones just with, “How are you feeling?” Because often, it will emerge, “Well, they’re feeling below the line or there’s something going on in their life,” and that’s going to affect our conversation and I’d rather know about it than not.
+
+Tim Ferriss: How have you worked with Diana — who’s great — spent a decent amount, not as much as you have but a decent amount of time with her. She is one of a kind and very, very good at what she does. How have you worked with her? If you’re open to discussing it to whatever extent. One-on-one, what does the format look like or what were you hoping to accomplish in working with her? Were you working with her mostly because you were basically test driving language and shared concepts that you hoped to put into Asana? Was it mostly individual in the beginning and out of personal interest?
+
+Dustin Moskovitz: Yeah. It’s interesting. It’s changed over time. I don’t have a one-on-one coaching relationship with her at the moment but a lot of it — when I first started, I was a total novice on the commitments and I had a lot of stories I was holding tightly and they were impacting my energy because I believed them and she really helped me a lot with that. And just now — part of the reason I don’t work with her anymore is I know what she’s going to say every time — 
+
+Tim Ferriss: Yeah. For sure.
+
+Dustin Moskovitz: And so I’ll do the back and forth on my own.
+
+Tim Ferriss: Are you open to, and if not, that’s okay and it could be a hypothetical, but sharing a story that you held tightly? I think that’d be useful.
+
+Dustin Moskovitz: Yeah. I mean, I think the one that has been most difficult for me and I think is maybe universal for entrepreneurs in general is just this sense of huge responsibility to keep going and endure and persevere and do well by your employees, this sort of thing. It’s very easy to feel like you’re trapped and that there’s no other possibility. You’re just Sisyphus as a leader. And I don’t want to scare my employees, I’m not thinking about leaving right now. But I think going through the coaching of this really helped because she would just constantly deny me on anything that I really believed.
+
+It would be terrible if Asana had a different CEO and it’s like, “Well, how’s the opposite of that story true? Maybe a new CEO would bring in a fresh perspective and they’d have more energy,” and things like this or, “It’d be terrible if the Asana shut down and all of our employees wasted all this time and part of their career doing it.” And she’d say, “Well, how’s the opposite of that story true? What about the experiences they got to building Asana? What about the value your customers got while Asana was alive?” And obviously, I’m still there so it’s not like this coaching led me to think I should leave Asana or shut it down. But it helped me understand that I was choosing to be there and every day is, in some sense, a new decision. I can’t just walk away tomorrow, that has other kinds of consequences that I choose not to accept.
+
+But in the longer arc of time, I have agency here, the Asana employees have agency, our customers have agency, and it’s much more productive for me to engage with the problems from above the line rather than from this place of fear and scarcity and anxiety. And there’s time and place for that, you also need to feel all feelings in the commitments framework. But it’s bad if it’s just always a pall on every hour of every day and every decision and you want to not grip around those things. And so it’s useful sometimes to indulge and yeah, how is the story not true? And with Diana, she’ll go all the way to fear of death like, “Imagine your own funeral, whatever your deepest anxiety is, and just try and loosen your grip on that.”
+
+Tim Ferriss: Yeah. And for people who want maybe a name for the technique, there’s more to it and Diana has her own flavor and approach, but the turnarounds that are often associated with Byron Katie. People can find The Work online and worksheets that are really helpful for this if you aren’t able to work with someone like Diana. The 15 Commitments is also an excellent book. And an excellent book not just for companies, it’s a great book if you want to improve your communication with your significant other which is actually how I used a whole large portion of that book with significant others. And — 
+
+Dustin Moskovitz: I just want to add to that the other thing it’s a lot like is cognitive behavioral therapy. So if you want to take a more Western approach, I think it gets at the same ends with very similar methods.
+
+Tim Ferriss: Yeah. Totally. One particular aspect of what Diana Chapman and Jim Dethmer, who’ve both been on the podcast, embrace that I have always — well, this is a story. Part of this whole training helps you to identify the stories but my story is that I have long struggled with having incredibly uncomfortable clearing conversations when there is a conflict or you feel some resentment or whatever it might be.
+
+And I think, historically, there’s been a lot of fear for me around the consequences of trying to have an open conversation about these things. And so my question is how do you handle that if you implement it at Asana, those types of clearing conversations? Or broadly speaking, if this is easier, just disagreements, tension between or among employees and so on?
+
+Dustin Moskovitz: Yeah. It’s a big company so I don’t think it happens the same way everywhere. But what I try and coach people to do and what I experience with my immediate team is that we do try and get into this mode. It’s a little bit Conscious Leadership, it’s a little bit Nonviolent Communication, but speaking unarguably, reflecting back what the other person said to make sure that they feel understood.
+
+I’ve definitely, over the years, my biggest takeaway with conflict is people want to feel heard more than they want the decision change. And so a lot of it is just you’ve got to make the space for that. And if you’re going to do some difficult change management, you just got to accept that there’s going to be some of that and it’s important to do it at the right times, can’t have everyone get involved before the decision is made. But the people who especially need to be bought in and need to help you, the change management after it, they need to be heard before it’s finalized. And then even after it’s communicated, you’re going to have to really listen to people on why they’re disappointed or unhappy and reflect that back to them, not just be a literal sounding board but actually be engaged in empathetic conversation.
+
+And I think that goes the longest way and sometimes people will use Conscious Leadership as a literal clearing script, “The facts are da da da.” “When this happened, I generated this story or I had these feelings.” And this is meant to explicitly get away from language like, “You did this and that made me feel angry.” The whole idea with Conscious Leadership is you’re responsible for your own feelings and you’re going to have a reaction. That doesn’t necessarily mean the person was trying to hurt you or that’s really what happened. Often, it has to do with stuff from your past or your childhood or situations like that, that you don’t want to experience again and your body is bringing them up again.
+
+And so just trying to bring some awareness to that, bring it into the room on the side of the — yeah. There’s two people in the conflict and they’re in different positions of power or different positions with respect to the decision being made but they each need to play their role in a mindful way and be as above the line as they can and be present and that’s really what we’re going for.
+
+Tim Ferriss: Yeah. The Conscious Leadership scripts, I think, are outstanding. You do need some shared vocabulary to play that game with someone. So they need to be signed up for the same set of rules but can be super effective. And I wanted to underscore Nonviolent Communication by Marshall Rosenberg. I listened to the audiobook, which I think has a peace sign? A hand making a peace sign on it. And so don’t necessarily be put off. The cover is a little bizarre, but the format itself, that plus Conscious Leadership and some of the scripts I’d say over the last three to four years really changed how I approach communication in general.
+
+And what I’ve experienced personally, I’ll try to keep this short, but is having some type of structured way of thinking about how you are going to open a conversation also gives you a chance and maybe a catalyst to deescalate whatever emotion happens to be running really hot or really hard. And the simple act of saying something inarguable, right? Starting with, “What I hear you saying is A, B, C. Did I get that right? Is there more?” And then having, “When X happened,” as a video camera would record it, right? “When you wrote this sentence in this email, I felt this. The story I have around that is this. Would you be willing to agree to this?” so having a request at the end. It’s remarkable what you can get accomplished, especially if you have a history of being a bit of a bull in a china shop like I do. The transformation is quite something.
+
+Dustin Moskovitz: Yeah. Sometimes when you’re talking about this, you get the sense of everyone has to be a Zen monk and totally in control of their emotions. And I also just want to really emphasize one of the commitments is feel your feelings. And sometimes, that means purposely going below the line as far as you can. Getting on the drama triangle, making it playful, and just handing it up like really making that person the biggest, scariest, villain monster you can. And I really think that’s an important part of it and everyone’s going to have a different way of doing it, but I think if you try and — I think you’ve talked about struggling with anger management in the past, I think I do that too. If you try and solve that by withholding and containing all that anger, you’ll end up with lower back pain.
+
+Tim Ferriss: Yeah. Right.
+
+Dustin Moskovitz: And it still comes out anyway and it comes out for a totally different situation that’s unrelated to the thing you’re really angry about. And so it’s really important to go through that. And part of the way I do that is maybe I’ll just write it all out, have a Google Doc or Asana task and just go crazy, just stream of consciousness. Sometimes move your body, hit things. I really want to put that in there too as an important part of doing this well. And then, once you’ve processed your feelings and move them through your body, then you can have that above-the-line conversation.
+
+Tim Ferriss: Yeah. I appreciate you saying that. It’s a good reminder for me also that swinging from one extreme to the other and neglecting to express that stuff might very well contribute to my mysterious lower back pain. So I promised listeners that I wouldn’t leave them hanging with the cliffhanger on David Deutsch. So would you mind explaining why that book features so prominently in your book recommendations? And for people who want the title, it’s The Beginning of Infinity, subtitle, Explanations That Transform the World.
+
+Dustin Moskovitz: It’s been a while since I’ve gone through it myself but I’ve read it probably three times. First of all, I find it just really fascinating and enjoyable. Before reading that book, for a long time, I said that Gödel, Escher, Bach was my favorite book, but I had never finished it.
+
+Tim Ferriss: It’s tough. It’s tough.
+
+Dustin Moskovitz: It’s tough. It’s tough. Yeah. But it’s really entertaining. And some of the ways that it’s entertaining, I think, also feature in Beginning of Infinity. He has these sections in between the chapters that are more narrative and fun without nearly as much math. So there’s a little bit but it’s not like GEB where you have to have advanced math degree to get through it.
+
+But the big lesson from it is this idea just that the problems are soluble and we build on knowledge. And no matter how immense a problem seems, as long as it is possible to solve within the laws of natural physics, it generally can be solved. And over time, we’ve had all these crisis moments in humanity where it’s felt like that’s not true. There was a resource running out, there was an irreconcilable conflict, and people just couldn’t see the way to the future.
+
+And what happens is the pressure builds up and you get more and more attention on solving this problem. And lo and behold, it gets solved. And sometimes the reason it’s so scary is a form of status quo bias. So people think, “Everything will be exactly like it is now, except we won’t have this important resource.” I think there’s a story about a particular element that was needed for TVs in the ’50s. Do you know what I’m talking about?
+
+Tim Ferriss: I don’t know that example. The price of oil and oil supply would be another example.
+
+Dustin Moskovitz: Yeah. Totally.
+
+Tim Ferriss: Right.
+
+Dustin Moskovitz: So for a long time with energy, people thought, “Well, we’d run out of oil at some point and that would be the end of energy.” Of course, we have all these alternative sources now that can supplant it and these are also solutions to CO2 problems. The TV one is nice just because there was a while people didn’t think you would be able to have the cathode-ray tube TVs anymore because this element was going to go away. And then, now we have liquid crystal displays that don’t involve the element at all.
+
+And so this is an example of status quo bias because people couldn’t imagine a different way to accomplish the goal of getting a crisp video image to people in a broadcast format. And so he just goes through a bunch of examples like that and gives you this sense of how powerful humanity really is and what the power of compounding knowledge really is.
+
+Tim Ferriss: All right. Let’s leave people to explore that book. And certainly, if they want an overview, they can listen to the podcast with David Deutsch and myself and Naval Ravikant. I let Naval do the heavy lifting on that one for a million and one reasons. But I do feel like the premise that problems are soluble or many problems are soluble is a good jumping off point to effective altruism. You’re one of the largest funders of effective altruism and I’d like to explore this and discuss it a bit. Could you begin maybe with just explaining for folks who don’t know the term, what effective altruism is, and then you can take it wherever you like and I can also certainly help hop in.
+
+Dustin Moskovitz: I feel the need to preface this with there’s some disagreement about what it is. So I’ll tell you my perspective, which I think it’s an idea, and some people call it a movement, but it brings together people who are interested in asking the question, “How do we do the most good?”
+
+And that can take the form of philanthropic donations, it can take the form of how you spend your career like maybe which nonprofit you would work for, or in a lot of cases, they’re part of what’s called earning to give. And so they just choose a normal career with a high-paying job with a plan to then donate some of their earnings as effectively as they can.
+
+And so that leads you to a certain set of ideas. So as a philanthropist, I think of effective altruist as defined by cause agnosticism. So that means rather than coming to philanthropy with what I care about is education or what I care about is climate, you’re coming with just the point of view, “I’d like to do the most good.” And that leads you to different places that sometimes look very strange because it turns out that when you’re the next philanthropist on the margin, the thing that does the most good is often something that’s important that other people aren’t doing for whatever reason. It doesn’t have enough attention or it’s not as sexy or it requires really going deep on the logic of why this is important.
+
+And so you end up not doing the things that most other people are doing. And so the overarching framework that we use for choosing cause areas is it has to be important, hard to do good without working on important things. It has to be tractable, so it has to be possible to make progress. And then, it should be neglected so that you’re doing good because yeah, this is the good that other people aren’t doing. So it’s a form of comparative advantage.
+
+Tim Ferriss: What would some examples be? Because I can imagine if I’m acting as a stand-in for the audience, they’re like, “Well, how do you figure out what is most good or the greatest for the greatest number of fill in the blank?” Is it biased towards and measured in human lives? Is it some other metric? How do you determine what is good? Would you mind giving a few examples of cause areas or specific projects that you’ve ended up landing on based on the type of vetting you’re describing?
+
+Dustin Moskovitz: Yeah, absolutely. And this is where I think some of the subjectivity comes in because I don’t think there is a one answer to what that metric is. So the one that is easiest to understand is global health and well-being. So we do a lot of work particularly in the developing world, particularly around malaria, probably the single largest destination for our grant money. And there, it is often just measured in, yeah, the number of lives saved or the equivalent. So it’s this idea of a quality adjusted life year that lets you convert the value of helping somebody avoid a debilitating disease or maybe takes years off their life or even increases their earning power. How might you make that equivalent to helping a child make it past their fifth year because malaria bed nets are helping them avoid a fatal infection?
+
+So in global health and well-being, that’s where you have the most similarity in the goals and can trade off the different opportunities against each other in a fairly clean way though it can still involve a lot of judgments. So there’s a lot of debate about whether the goal should be about mortality or perhaps subjective happiness or perhaps earning power which is a proxy for economic empowerment, giving people as much choice in the world as possible. But often, you’re debating things that are very similar. You’re going to help avoid a child death through malaria bed nets or perhaps through iodine supplementation. And they have pretty similar — well, maybe that’s not a great example for avoiding a death. Avoiding intestinal worms, so like something that would really mess you up. So that’s an easy compare.
+
+Second big category is animal welfare. And there, we work especially on factory farm animal welfare because that’s where a very large amount of the animals with either full consciousness or a great deal of consciousness live and die in the world. I think I was reading a stat that was something like nine chickens are slaughtered every year year for every human on Earth. So it’s something close to a hundred billion chickens. And so, if you can improve the welfare of those animals a little bit, you can reduce quite a lot of suffering.
+
+And that gets you to a very clear subjective point about the good because a lot of people will say, “This doesn’t matter at all. You should spend infinite money on helping one human before you think at all about these chickens or these cows,” and I don’t think that’s a judgment call. I think it’s fair that people have different points of view on that. But from the perspective as a single funder in the space, it’s something that we feel sympathetic to.
+
+And then, the last category is global catastrophic risks. So there’s been a debate about the name recently but I think the clearest definition is these are things that actually cause extinction or cause modern civilization to be set back 2000 years, something really catastrophic. And this gets debated for a lot of reasons but the philosophical point is whether you care about the ceasing of life or if you just care about suffering. You could take the point of view that it’s great that the people are here and we don’t want the ones that are alive now to suffer. But if the lights went out for everyone else tomorrow, maybe you’re fine with that or maybe you don’t care at all about the people who haven’t been born yet or things like this.
+
+I don’t like to go too far into the future generations because I think in practice it doesn’t matter that much. I think that threats are quite soon and affect the people that are alive today. But there is a set of EAs that are putting a lot of the weight on the, I think it’s 45 trillion theoretical future human lives and making sure that they get to actually experience the world and that something doesn’t stop it before we get there. And so that’s where we work on things like pandemics and biosecurity risks as well as potential risks from advanced artificial intelligence.
+
+Tim Ferriss: All right. We’re going to dive into a couple of follow-ups related to these. The first is related to animal welfare and suffering, which I think a lot about. And I read that you are directionally vegetarian and I would love for you to explain what directionally vegetarian means.
+
+Dustin Moskovitz: I always feel a little sheepish about this because from a pure ethics perspective, I feel like vegans are right. But I also — I know a lot of vegans and vegetarians and I see how they struggle with some of their eating decisions and I know what the experience is like for me. And so I just feel better when there is a little bit of meat in my life but I’ve cut way back. I probably was somebody 10 or 15 years ago that would have some kind of beef meal every single day or chicken meal. And now, there are many days where there’s no meat in my diet and I’m very interested in the alternative meat products, especially the ones from Impossible Foods where the foundation has actually taken an investment and basically, I’m in a place where if the alternative is even half as good or three quarters is good, I’d much rather have that and it gives me the same satiation that real meat does. And mostly, I feel limited by availability. 
+
+So at Asana, I’ve pushed for the culinary team to just serve it more often and we had Impossible Burgers earlier this week. I was like, “Great. Definitely going to eat that one,” and we have some home cooked meals and try and incorporate it there. And in San Francisco, it’s in a fair amount of restaurants, but it’s still pretty rare. But I definitely seek those restaurants out and I found a few great takeout places and I’m just really eager for this future where that’s all that’s in our diet and I feel ready for it. But for the availability, it’s how I think about it.
+
+Tim Ferriss: So if we hop from some of those cause areas to perhaps forward-looking perspectives, is there anything that you’ve been watching and particularly interested in funding or considering funding that is outside of the cause areas that you mentioned?
+
+Dustin Moskovitz: Well, those are pretty sweeping buckets — 
+
+Tim Ferriss: They are broad.
+
+Dustin Moskovitz: Yeah.
+
+Tim Ferriss: On the global catastrophic threats, I don’t know if I’m getting that phrasing correct, but on the pandemic side, it seems like the effective altruism community was focused on pandemics on some level even before 2020 came around and COVID. How do you think about — let’s just focus on that before we get to AI because I know that AI is going to be a whole different kettle of fish. On the pandemic side, what levers do you try to pull? What are most important in terms of high leverage or important perhaps neglected or underexploited, underfunded and so on. With respect to pandemics, how do you think about trying to, I suppose, help with preparedness or other aspects?
+
+Dustin Moskovitz: So we’ve been in this space since 2016, and so in those early years, it was partially just trying to make people understand that this was a real possibility. There really hadn’t been anything since, I guess the first, we don’t call it the Spanish flu anymore, the 1919 pandemic. And so we’ve sort of fallen into this complacency, but we could see that there were a lot of things like globalization that were increasing vulnerability for a global scale pandemic, and that it just felt like a matter of time. So partially raising awareness.
+
+Now, of course, COVID-19 has dramatically increased that, but it hasn’t increased the preparation. So it’s been really disappointing to see not only has there not really been budget for cleaning up this pandemic, but there’s very little money going into preparation for the next one in terms of government skill funding. And so we still feel somewhat defenseless. I think people are a lot more aware. They kind of know what some of the playbook will be if there’s another pandemic. And I’m really encouraged by things like a focus on indoor air quality, I think is a huge deal. 
+
+Tim Ferriss: What do you mean by that?
+
+Dustin Moskovitz: Well, during COVID, and especially if you live through the California wildfires, people got into the HEPA filters and things that are sort of processing the air. There’s some research right now with far-UVC, is kind of like an ultraviolet light that can kill bacteria and viruses in the air. And the only reason we’re not deploying it everywhere is there are unknown long-term health side effects. And so I think we have some grants in this area. I know some people are funding research into exploring that, but I think one of the biggest wins I think we could have is just if a technology like that was as commonplace as air conditioning or water filtration, water quality is something we already have sort of caught onto. This is really important. And we have municipal scale and also personal scale devices that help us with this. And I think doing the same with air quality would go a long way.
+
+But I think the biggest thing that we’ve pushed for is just more surveillance of what’s circulating in the wild. And there was a point in time, I’m sure you remember all these debates about how much COVID actually is there, is there a bias in who’s testing and are the tests accurate and all this?
+
+Tim Ferriss: Yeah, totally.
+
+Dustin Moskovitz: But there’s a shortcut. Well, there’s two shortcuts. One is what’s called a serosurvey. And so you try and get a random sample of people in a local population, you do a blood test and you just sequence everything in their blood and see what’s there. And if we were doing this in every major metro all over the world, even with relatively small samples, you would catch pandemics like COVID-19 well before if they become these global scale outbreaks. In this case, maybe it was being done in China and hidden, or who knows, but by the time we actually became aware of it, just, the cat was out of the bag. It was probably like three months after the first infection. It was too far gone. But if you’re doing this systematically just looking for an emerging pandemic, you’d be much more likely to catch it. The easier way to do it that I think is really interesting is with sewage samples. I don’t know if you’ve seen any of these sites.
+
+Tim Ferriss: No, I have not.
+
+Dustin Moskovitz: Yeah. So there’s a great one in the Bay Area, and they’re literally just looking at sewage runoff and sampling for the concentration of COVID, and now they’ve extended it to monkeypox and various types of flu. And you can literally just look at the Bay Area cities and look at a two-year trend graph of how prevalent these things are. And so actually just this morning, I was reading a news article, “COVID spiking in the Bay Area,” and these sort of scare stories that come up from time to time. And I said, “Hey, this is my trusted source. I’m just going to go see if it’s really spiking.” And there’s a little increase and maybe it’ll become something more, but this feels like something that it removes all these biases from how people test and everything and can just be trusted as something real.
+
+Tim Ferriss: So Dustin, AI, let’s uncork this monster and talk about AI, not saying monster in the pejorative sense, but this might also tie into effective altruism because there’s been a lot of attention and purported attention given to AI. Where would you like to begin? Because this is, of course, a topic that could go in many different directions. Where would it make sense to start?
+
+Dustin Moskovitz: Yeah. Well, lately the place I’ve been starting is kind of getting more into the nuance of the positions. Part of the discourse that’s emerged that really paints everyone into two extremes. You’re either entirely pro-AI or you’re sometimes you can call them doomers or Yuddites, if you’ve seen this term.
+
+Tim Ferriss: Oh, I haven’t even seen — a Yuddite?
+
+Dustin Moskovitz: Yeah, well, it’s — 
+
+Tim Ferriss: What’s a Yuddite?
+
+Dustin Moskovitz: — well, it’s a reference to Eliezer Yudkowsky’s — 
+
+Tim Ferriss: Luddites.
+
+Dustin Moskovitz: Yeah, but upon on — 
+
+Tim Ferriss: What is the Y?
+
+Dustin Moskovitz: Well, for Eliezer Yudkowsky, who’s sort of — 
+
+Tim Ferriss: Okay, I see, Yuddite. Okay. I get it. I get it. Took me a second.
+
+Dustin Moskovitz: Yeah. I feel bad even bringing up the term and making it more popular, but also I love puns so much and I’m like, “Wow, people really nailed that one.” But he kind of represents the other end of the poll of he’s the most worried about AI and is just really worried about it as a global catastrophic risk. Like we were talking about earlier, something that could actually cause human extinction or destroy civilization. But even with Eliezer, and even more so with me, it’s much more nuanced than that. He’s not an actual Luddite, he’s a technologist and really believes in technological future. He believes in the power of AI. He started out enormously pro-AI, and then as he got into it, sort of came to understand some serious risks that felt like he needed to be addressed.
+
+And I think the risks are very serious. I don’t think they’re quite as likely to occur as he does. I have more optimism around humanity’s resiliency and ability to address the problem for the conversation about beginning and infinity. And I’m also just really enthusiastic about AI at the same time. I wake up every day and I’m like, “This is amazing. There are so many cool things I can do. And also I hope it doesn’t kill us.” And I’m always kind of having to hold — 
+
+Tim Ferriss: Yes, don’t kill us.
+
+Dustin Moskovitz: Yeah, exactly. And so I try and give this analogy of when you get into a car, you expect to go to your destination, but you put on a seatbelt and you follow the rules of the road. And there’s a regulatory system and licensing system for drivers that helps ensure mutual safety for everyone, including pedestrians. And so I really think about AI safety like that. We are heading towards something really awesome, but there are some serious risks we need to address, and that requires some concerted effort. And the reason it relates to effective altruism is especially until the last year, a lot of things have been changing. Pretty much nobody was working on this partially because they thought AI was very far off, partially because they didn’t agree that the risks would manifest even when we got there.
+
+Tim Ferriss: What are some of the risks? And I couldn’t help but imagine in my mind, I was thinking when I was 12, for a very long time I wanted to be a marine biologist. And I’m thinking how much of the people in AI are like, 12-year-old boys of a pet great white shark that knows a bunch of cool tricks. But man, you’ve got to be careful with the great white shark. But what are the risks? And I am particularly excited to hear you describe them because you are technical. I am not technical, to be clear. I’m not an engineer. I don’t play one on the internet, but I appreciate perspectives on AI from those people who are able to immerse themselves in some of the more technical aspects. What are the risks for a lay audience? You could get into the weeds a bit. We do have technical folks listening as well, but what are the risks and how do you assign sort of probability to those risks if they haven’t yet come to pass and maybe some of them are already current?
+
+Dustin Moskovitz: Well, I’ll start with the one where there’s a lot more agreement. So we’re talking about — part of our GCR work is on biosecurity, and we talked a lot about pandemics, but we also worry about bioweapons. So somebody purposely engineering a pathogen, and there are people in the world who are trying to do this now and they have various resources available to them. Some of them are successful. Governments try and stop them in various ways. And there’s been no major bioweapon. But language models especially, or even more purpose-built AIs can change this and create more of an offense defense imbalance. And so there’s been some research recently, and Dario Amodei, who’s the CEO of Anthropic, recently testified to Congress about how this works where you’re basically trying to solve any problem and you use a language model to help. But in this case, a sort of malicious goal, if you’re trying to engineer a bioweapon and a language model can help you not get stuck along the way, work around problems and just figure out step by step.
+
+And right now what’s possible is not — the language models don’t help you that much. They help you a little bit, but they’re not at a power level where this is a serious threat, but the worry is in another generation or two or three, they will get to a place where it becomes really enabling for people who have this goal to work around these problems and figure it out, especially if they already have a background in biology, but even if they don’t. And so maybe you’re just enabling a lot more people to come up with this.
+
+And usually when I have this conversation, people try and relate it to nuclear weapons and they’re like, “What’s the equivalent of uranium? You’ve got to regulate that.” And it just turns out with bio that there is nothing like that. We may just be in a place where it’s more like 3D printed guns where you can get commodity hardware and this thing’s helping you and you can do something really dangerous with it. And then you have to think about are there other ways to stop this? Again, the surveillance can help even with a bioweapon that we talked about, but also are there ways to create safeguards around how the language models themselves work that could make the situation safer or at least buy us more time to set up better defense?
+
+Tim Ferriss: Could you say more about this particular example? Because I think about the sort of cost asymmetry and offense versus defense, and maybe there isn’t, not understanding the specifics personally, maybe I’m misthinking this. But I think of, let’s just say micro drone, like swarm drone attacks. And if you have a target, let’s just say there’s a tank that’s the target, and then you have a hundred drones released with explosives or a pack of drones, it’s relatively inexpensive to launch that offense, but it could be very, very expensive. Or even if it’s a very targeted attack using weapons against an individual, but with some type of distributed attack, the defense seems really tough.
+
+What are some of the most promising avenues of defense? Because I’m sure you have, and I have seen, examples of circumventing the restrictions placed on some of these large language models for making something they shouldn’t make or breaking into a neighbor’s house where there are ways that you can circumvent it. I don’t necessarily want to give people a how-to guide in this conversation, but there’s some clever ways to circumvent. What are some of the most promising avenues for establishing some defensive capabilities with these types of things?
+
+Dustin Moskovitz: Well, there’s constraints and there’s defense. So if you go and ask OpenAI ChatGPT, “How do I create a bioweapon?” And it will tell you it’s not going to help you. And as you said, there are ways to jailbreak this. So the first thing you can do is try and improve those, cut off these back doors. And there’s a lot of research going into that right now from the big labs, from academics, and I do think we’ll get iteratively better at this over time. It’s sort of an anti-fragility effect of people are trying to hack these things and we’re figuring out all the hacks and getting better at it. But the other thing I would point out is when you have a hosted service like ChatGPT or Anthropics, Claude, you can also just know your customer, monitor what they’re doing, have terms of service, cut them off, law enforcement can get involved.
+
+And I think those are just important conventional measures, but notably, they don’t imply to the open source models. So whatever you do to try and prevent jailbreaks or try and prevent certain types of questions from being answered, once you have an open source model, those may as well not exist. It’s extremely easy to remove that safety protection. So when I think about the overall AI risk landscape, part of what I’m worried about is just how many different actors there are and varying degrees of concern about this and varying degrees of control. When I think about an individual lab like OpenAI or Anthropic, I feel pretty good. I think they’re doing responsible things. I think they’re doing great safety research, but they’re not the only ones out there.
+
+And so a lot of times when people talk about how will you improve the safety of these or how will you solve alignments, which we’ll get to as well, I’m sure, they think about this kind of idealized lab that’s doing all the right things and they’re keeping the untested AI in a safe box and it’s not connected to the internet or not embedded in critical infrastructure. And that’ll be how we iterate into a safe place. And I’m like, “Yeah, I believe you.” And there are 10 other actors at least that are also doing things. And there’s a penalty for doing the safety work. It costs money and time and means you’re not going to have the latest, greatest, most powerful model on the market. And that sort of game theoretic dynamic is more the thing I’m concerned about and that I think creates a lot of risk.
+
+Tim Ferriss: How do you incentivize — this might not be the right way to think about it — but sort of the closed system players, the proprietary shops? Again, might not be the right terminology, but how do you incentivize them to allocate a lot of resources to safety when you have other players who may not play by those rules or open source options? Which I’ve seen in some discords creating things that you would not believe. How do you create those incentives or just force it to happen? Let me start there. I’ll start there just because I’m curious about how you think about the incentive structures with things like this.
+
+Dustin Moskovitz: Yeah. I mean, I think it’s a really hard problem and even if you solve it in the short run, you may just get to a place where the sort of race dynamics kind of take over. I think we’re really fortunate in who runs the current big labs. I know Sam Altman very well. Adam D’Angelo, who’s a board member of Asana, is also on OpenAI board. I know the Anthropic team really well, closely involved with them. And those leaders are just true believers in the safety issue and they care. It’s like their own lives at stake and their families’ lives at stake. And I think that’s a really powerful force and I think it’s served us well so far. And I think this is also true of many of the leaders inside the other labs that I know less well. And I think that’s the thing that we most have going for us right now.
+
+Part of what we’ve been trying to do is just convince more of the rest to care as well and just have as many people as you can care and then try and make sure those organizations are a little better resourced. I don’t know how long that will go on for, but it’s a good place right now. But there have been some new labs that have been founded very recently where I’m more concerned about this. And in some cases they claim to care about safety. They’ve got a certain approach that sounds good on paper, but I don’t know where it will really go. But just trying to get the labs to communicate with each other and to engage with the research and to just care about the issue in the first place, I think is the best thing we have going for us.
+
+Tim Ferriss: So in addition to bioweapons, which at least as I listened to you describe, it seems to highlight smaller groups or probably individual players, but maybe not state actors, I would imagine as a layperson that disinformation campaigns and really sophisticated campaigns run by state actors will become more and more of something to contend with. But in your mind, what are some of the additional threats that are potentially catalyzed or enabled by AI outside of the bioweapons?
+
+Dustin Moskovitz: Yeah. Well, the other big one we worry about is just the alignment issue. So as you have more and more powerful systems, you discover that it’s harder than you would think to get them to adhere to human values. We care about the things we care about, and sometimes that’s because we’ve sort of poorly specified what we care about. If you just step back and forget AI and talk to humans about philosophy and fairness and equity, there’s no sort of consensus answer right now. These are still philosophical problems, so we can’t even really well-define them for each other, but we’re also trying to instruct this kind of alien-like human system to care about and incorporate and in some cases what are paradoxical goals, but also are very nuanced and have to do with trade-offs. Whereas what they naturally want to do is maximize, achieve a goal as well as possible.
+
+And so this idea of instrumental convergence, which is no matter what goal you give a system, if it’s trying to maximize it, it eventually gets to a place where it wants a lot more resources, it wants control, and it wants to not be shut off. And that’s when you get into concerns about — well, the thing that is most likely to shut off the computers is the humans. And so if you have a sufficiently powerful system that has gathered enough resources, it might decide to contain that threat just as part of achieving some other goal, which maybe we gave it in the first place or maybe it came up with on its own. And I don’t think any of this story requires consciousness, by the way, if people get in a rabbit hole when they engage in that part.
+
+But you’ve got to keep in mind this thing sounds human because it’s a language model and it’s meant to sound as human as possible. We’ve asked it to maximize that goal in itself, but it is not human. It is very alien-like under the surface. We don’t know how it works and we can’t even get it to do some simple constraints like not threaten to kill the end user in a chat script or not give the recipe for napalm if you coax it out in the right way. And later, more powerful systems, you’re going to need to incorporate more important, more nuanced constraints than that. And so there’s a bit of, again, this sort of offense, defense arms race of how good will we get at constraining and aligning the system compared to how fast will it progress?
+
+And by the way, this is a place where I disagree with David Deutsch. He’s very much an accelerationist. He wants there to be no constraints on the AI, and I think the crux of the argument is speed. I basically agree with him that our normal sort of iterative processes can solve all these problems. They are solvable problems. But I don’t know that we’ll have enough time. Usually we have many decades to solve very hard problems. And the nature of AI development is you could have very fast takeoff. This is what part of why Eliezer is so concerned, and literally maybe next year, all of a sudden there’s extremely powerful AI, or even if it’s more moderate than that, maybe 10 years from now we have this extremely powerful AI.
+
+That isn’t obviously enough time. There isn’t obviously enough attention going to the defense side to align things before we get there. And we also don’t know which actor will produce it. Maybe it will be an antagonistic state, or maybe it’ll just be somebody who doesn’t care about the safety issues or is trying to maximize commercialization or something and is stripped out the things that are slowing down the system that cause safety. And all of that just feels very chaotic and a lot of things could go wrong in unpredictable ways.
+
+Tim Ferriss: Okay. So I would love to ask you, just so people don’t curl up in the fetal position under their desk after this, as a very close friend of mine said he almost did after listening to a separate episode that I did with Eric Schmidt, my second conversation with him where we talked a lot about AI. Could you make the optimistic case or give us some of the upside and paint a picture of what things might look like in, I know this is very hard to do and impossible to do accurately unless you’re some type of soothsayer and can peer into your crystal ball. But what might the future look like in three, five, 10 years if we’re able to manifest some of the promise of AI on the positive side?
+
+Dustin Moskovitz: Oh, man, this is so fun. This is the part I like to talk about. There’s so many good things. I recently published a piece in Fortune actually, that’s looking at this through the work lens, because I think that even a lot of the things we’ve talked about so far in the episode, I think can be really amplified with AI. So for example, we’re talking about how people’s schedules get chopped up, and part of this is just we have these very coarse ways of trying to solve the multifaceted problem of there are five people with different work streams and schedules, and you want to get them together while disrupting the focus blocks as little as possible. And really, we do this just by looking at everyone’s calendar and looking for the open slots between them. And sometimes you’ll move one meeting to make an extra space and, “Oh, look often, No Meeting Wednesdays, often clear on everybody’s calendars. Let’s use that.” And you end up chopping up everyone’s calendar. But an AI can do that really well and give you, ideally, sort of do a defragmentation on everyone’s calendar and just keep iterating until it’s as perfect as possible, honoring as many people’s preferences as possible, can also eliminate the need for meetings in many cases. 
+
+One of the things we’re excited about in Asana is identifying more proactively when you even need to call a meeting, when you have a decision that needs to be made, when there’s a conflict. And in lieu of having intelligence around that, you just do course things like “We’re going to get together every week, and share status updates, and re-sync, and see what decisions are coming up now.” And I think that having AI serve more as air traffic control, looking at the work overall in the organization can just lead to not only better business outcomes, but much better individual subjective experiences of how your work happens. And that’s just the tip of the iceberg on work.
+
+And then, I think the thing that people talk about a lot is automating a lot of work that is rote or repetitive and just that also coincides with the work that humans don’t want to do. There’s a lot of knowledge work that looks like that. There’s also a lot of physical work that can be automated with robotics. And I think every time that’s happened, we just get a little closer to the Jetsons-style world where you’re living your best life and spending as little time as possible in the stuff that you don’t want to do.
+
+And additionally, I think there’s this thing that’s a little less explored of having just a really great coach and cheerleader both on an individual basis and for the team. Imagine you have the world’s greatest project manager that’s integrated into every team, and it knows all the best practices from everything, and it knows the context of the specific project you’re working on. And that means you can let go of a lot of things that cause continual partial attention disorder of like, did we really get to a concrete next step here? Did the person really follow up on the thing they were — 
+
+Tim Ferriss: You just said, “Partial attention disorder,” right?
+
+Dustin Moskovitz: Yeah, continual partial — 
+
+Tim Ferriss: That is amazing. That is such a great phrase. Okay, I’m going to write that down.
+
+Dustin Moskovitz: Yeah, it’s a David Allen thing from Getting Things Done.
+
+Tim Ferriss: David Allen. Okay.
+
+Dustin Moskovitz: Yeah.
+
+Tim Ferriss: I didn’t realize it was an acronym from that. Okay. Got it. Continual partial attention deficit. Yeah.
+
+Dustin Moskovitz: Well, in general, this is part of the reason we built Asana is people carry around their task list in their heads, or it’s in their email inbox, and they’re their email inbox all the time. And if you can get it into a system that you trust to show you those things at the right time or sending you reminders at the right time, you can let go of it in the active memory and get more space for presence. And I think AI can be doing this at a much higher level of abstraction for entire teams and entire companies. So you don’t have to worry about is there a dependency that’s going to affect the critical path on this project we’re working on that’s going to eventually mean that a deadline slips?
+
+Right now, that’s a lot of what managers are doing is looking for these problems. But I think an AI can be doing it for you, doing it a lot more effectively, and helping focus the managers on where they’ll be most useful. This is the actual blocking dependency that you need to fix. You need to resource better, you need to scope down, you need to do something to change this. And it can even be doing softer stuff like, hey, marketing and sales are fighting. We can tell just by looking at the text analysis of the conversations they’re having.
+
+And I think that can just go so much further and get rid of a lot of this work about work that we do, a lot of manual processes to try and work around these problems, and have the systems in place that we can catch things some of the time. I think all that can go away so that people can focus much more on the creative productive work that really drives the business forward towards its goals.
+
+Tim Ferriss: Yeah. My team and I use Asana. We have for years. We also use, more recently, ChatGPT, and I’m sure we’ll experiment with more language models, but it is remarkable. And I’ll tell you what’s in the hopper for my follow-up questions so it can gestate with you for a minute, but the AI integrations into Asana that you are most excited about. And part of the reason I ask is right now, we use a number of different tools, but to really focus on Asana, we’re using it not just for tracking the work of other people, but tracking our own work. So trying to take these open loops and put them into a repository such that we can see what is green, yellow, red? And at a glance, keep track of all of these things. Especially, I shouldn’t say especially, but on a small team, the problems that are created if you don’t do that, it’s true for a large team as well, but a lot of people are self-directed. Everyone is self-directed largely, right?
+
+Dustin Moskovitz: Yeah.
+
+Tim Ferriss: And everyone is a direct report of mine effectively. So it’s proven to be a critical piece of our infrastructure and process. On the ChatGPT side, I’m just imagining how these things are going to be integrated in the future. And there are already these integrations with ChatGPT, and I’m imagining when it gets to the WeChat point, where you can say, “I want to make roast pork tonight with these parameters. This is what I like. This is what I don’t like. Have all of the ingredients delivered to me within the next three hours.” And A, B, and C, turn on my oven, pre-heat it, whatever. It’s going to happen quickly. And there’s the downside to that with the napalm example too. But the integrations are really interesting to me, and I’m wondering what you’re most excited about with respect to AI integrations into Asana.
+
+Dustin Moskovitz: Yeah. Well, I think I’ve been talking about some of the longer term versions of, we almost conceptualize it as AI as an extension of your team. And I think a lot of what we’ve seen in products today is the co-pilot mentality of there’s one person trying to accomplish a specific thing, make a dinner tonight, and it’s helping fill in some of the steps or explode small details into a complete plan. And we will definitely do that stuff. We’ve already launched in beta, a writing assistant to help you draft tasks. We can take a task and break it into subtasks. We’ve written the summarization tools that I think are very powerful.
+
+You come back to a thread, and 50 people have gone back and forth in comments. It’d be really great if something just said, “What were the key points? Who was doing most of the speaking?” Catch you up really quickly. That stuff will be really great. But the things that I think are going to be really powerful or about — I like to frame this as push versus pull AI. So what we’ve got now is pull, the user’s always deciding, this is when I’m going to use the writing assistance, this is when I’m going to use the summarization tool. Versus push would be more like what you already see with news feeds today where it’s like the intelligence has decided this is important for you to see, and it’s putting it in a queue or sending you an email.
+
+And then, these ideas, like helping to identify the open loops in the first place, so something that happens in meetings and comment threads is people will identify a decision, and they’ll give some thoughts about it, but they won’t necessarily decide it. And I think it would be really powerful if you just did the language analysis of like, hey, actually this is still undecided, and maybe even assign it to somebody to follow it through to completion. Or you said these three things needed to be done, but you didn’t actually assign them to anybody. And so, like — 
+
+Tim Ferriss: That would be so helpful. I’m going to admit, it’s embarrassing, but some of these things are very aspirational for me still. It’s not a perfectly oiled machine.
+
+Dustin Moskovitz: Yeah, exactly.
+
+Tim Ferriss: So this would be incredibly helpful just to identify what got lost in the shuffle. During the offsite, you guys captured a million different things, and you prioritize them or made an attempt to, but for whatever reason you forgot four out of the 12 top items. And dropping that into a system with some visibility would be super, super helpful.
+
+Dustin Moskovitz: Yeah. So we’d love to take that responsibility off the user’s hands so that they can relax into doing the work, but feel like Asana itself is this super diligent project and goal manager. And even do longer arc things. Like often, you’ll be in a kickoff meeting and you’ll identify key risks to a project. And the idea for this is that somebody will remember those key risks, and come back to them, and notice when they’re manifesting. But in reality, you may or you may not do that. You may forget about them, but the system ideally could remember them and say, “Oh, hey, here’s that thing happening that you talked about at the beginning.” There’s a production delay or the guest was unavailable. I don’t know how to translate it to podcasts.
+
+And just be always watching for you as well as helping you celebrate accomplishments and recognize people for doing great work. You have to not do that in a creepy way, but I think that there is a way to have it feel really positive and feel like it’s truly helping you see more. You don’t have to go through every single task everyone on your team is doing to see when they do something really great.
+
+Tim Ferriss: Totally. And there are so many examples I can think of where push AI would be helpful, assuming that it doesn’t create an information deluge or a paradox of choice issue for people who are maybe confronted with options that they weren’t prepared to select from. But I’ll give you an example recently. I like to organize trips with my very close friends and get them on the calendar well in advance because everybody’s busy. If you don’t do it, it’s just not going to happen. And I’m considering a fishing trip, like a river trip with friends. And all of my full-time employees right now are experimenting with ChatGPT for basically rough drafting different tasks. And for something like that, you could very easily imagine a world in which that’s in Asana, and it’s a bit of a clumsy large task. So it’s not quite the what is the next physical action ala David Allen.
+
+But if you had to draft an itinerary for a fishing trip in a mountainous region, blah, blah, blah, blah, blah, parameter, and then, it could very easily, as ChatGPT did, draft a pretty compelling rough draft. It’s not going to be the final version, but it provides you with enough to save a lot of time on miscellaneous searches and calling through sponsored versus organic, versus this, versus that content varm, versus individual author blog that has the higher page rank or whatever. It just saves so much time on the front end. You could very easily see that auto-populating somehow in an Asana task.
+
+Dustin Moskovitz: Absolutely. Or even whole projects. Right now, we live in this world where you either get the building blocks of Asana, and you fill it in all yourself, or you use a very abstract template like I want to run a marketing campaign. But as you said, you can be very specific. Not only I’m going to do a fishing trip in Montana, but this exact city, and you have it fill in all the tasks, and tell you what the local stores are, and how you’re going to get there. And it can really bridge this gap between nothing and template to giving you customized bespoke projects in as much detail as you give it at the outset. It will engage with all that detail and do a great job.
+
+And I think that’ll really help people a lot. In particular, with one of the complaints we get about Asana a lot is just like, I don’t know if I’m using it wrong. I don’t know if I’m using everything I should be or organizing this in the right way. And having that sort of assistant that is an expert on Asana and an expert on everything in the world can really help give you the confidence that you’re using all the building blocks in the right way. And then, you take it from there.
+
+Tim Ferriss: I wonder, if you don’t mind, zoom out to maybe some of the philosophical level and ask you a question that ties together the energy management we were talking about earlier with time blocking and ensuring that you do things that nourish you, nourish your soul, however you want to think about it, like this trip that I’m considering taking with friends. And the reason I ask is that for at least 100 years, maybe longer, many writers have postulated that with A, B, and C technological advances, we’re going to reach a level of such efficiency and effectiveness that the real question will be how the modern worker takes advantage of this vast amount of leisure time. But somehow, humans being humans, we’ve managed alongside that generally to, I don’t want to say squander, but you find ways to fritter away time, often using many parallel technological advances.
+
+And I think the net-net that I perceive in my audience at least is that we have the tools to be more efficient than ever, but a lot of people still feel a sense of time scarcity. And I’m wondering what you do personally or how you think about that type of time-blocking, making sure the big things or the items that really nourish you find time in your schedule? Maybe that’s a lazy question, but I know it’s one that comes up directly or indirectly a lot for people in my periphery. So I’d be curious to hear anything that you might have to say about that.
+
+Dustin Moskovitz: Yeah. Well, first of all, I’d just say I’m a work in progress on that, so it’s something I am always trying to get better at. And over time, I’ve just learned there are some things that are sacrosanct for me, and they get fixed in my calendar, and things happen. They won’t necessarily happen every week, but if maybe two weeks go in a row, then I’ll find a new block for it and make sure it happens. This includes of course, sleep, exercise, spending time with my wife. We do a date night every Saturday, but sometimes, we’re on a trip or we do something with friends on Saturday, and so we’ll find a different night of the week for that.
+
+And just try and be mindful and intentional about it rather than just — I think maybe 10 years ago, we’d be more like, “Well, I’ve got all these things I’m doing. And if I feel done enough by a certain hour, then I’ll go work out.” And of course, then you fritter away your time, and you never get to it. And so I’ve become a lot more regular and scheduled, and I think that serves me well, and they’re longer arc versions of this. I try and go for a solo hike once every three months. My wife and I have certain vacations we try and do. Some of them are traditions with friends, some of them are just us.
+
+Tim Ferriss: When you say, “Solo hike,” is that like an afternoon stroll, or are we talking about a long vacation? You said, “Every three months.” What does a solo trip like that look like?
+
+Dustin Moskovitz: I live in the Bay Area, which is just phenomenal for hiking. So usually, it’s a day trip.
+
+Tim Ferriss: Yeah. It is incredible. It’s incredible.
+
+Dustin Moskovitz: Yeah. But I’ll do like a 10-mile hike or something in a day.
+
+Tim Ferriss: Got it.
+
+Dustin Moskovitz: I love the Mount Tam area, for example. And I find that very restorative, and I’ll tell people about it after, and they’ll say, “Oh, you should have invited me. I live in that area. I love going on hikes.” And I’m like, “No, no, you don’t understand.”
+
+Tim Ferriss: It’s not how it works.
+
+Dustin Moskovitz: It’s not how it works. This is for me. And I’ve just tried to be reflective on what those things are, and at what cadence I need them, and what works for me, and what doesn’t, and what’s taxing, and what’s restorative, and just try and ever iterate towards better balance over time.
+
+Tim Ferriss: So, if I may pull us back to your book list, which I do not believe is publicly available, but maybe we can share some of them to the extent that you’re comfortable. I’m wondering what of these books you’ve revisited in times of uncertainty, or duress, or stuckness. You have a lot of great books, and they’re categorized in all sorts of different ways. You have psychology, mindfulness, you have management, I think, leadership and strategy, excuse me, epistemology and philosophy. Are there any books that you have returned to, you have biographies, that you’ve returned to when you’re like, “You know what? I feel like I need a refresher or a reminder in maybe high stress or high stakes periods of your life,” if that question makes any sense at all?
+
+Dustin Moskovitz: I’m a little bit of a type A person with this where I’m usually going for a new book. But the way I think of it more is a lot of the books are very similar to each other. And so I think of it more as I’d like to read a book about mindfulness every six months or something like that. And there are authors like Jack Kornfield’s extremely prolific. He has many books. I have one in here that touched me in a personal way, but there are many that are quite good.
+
+Tim Ferriss: Which one? Which one of his books?
+
+Dustin Moskovitz: The one I have in here is A Lamp in the Darkness, which it is particularly useful when going through grief. But he has just a lot of great books on day-to-day living. And so I think I’m more likely to look for which one haven’t I read yet? That a lot of it will overlap, and it’s all some of the same stories anyway, but it’ll just be a different angle on it. And so it’s usually I’m cycling through mindfulness and leadership. Those books, business books, all rhyme with each other as well. And then, more intellectual stuff, like Beginning of Infinity.
+
+Tim Ferriss: If you had to reread a biography that you have read, let’s just say, in the next few months, you had to sit down with something you’ve already read or a person for whom you’ve already read one biography, you could read a new biography of them, I’ll allow that, who might you choose or what book might you choose?
+
+Dustin Moskovitz: I think if I was going to reread a biography, it would be Churchill, and there’s a few different ones, but Walking with Destiny happens to be the one I read. And his life is just extraordinary and feels like fiction to go through it. And in terms of biographers, I think Chernow and Caro are really a cut above, and so anybody they’re writing about, I will become interested in.
+
+Tim Ferriss: Yeah. Their dedication to the craft is just unbelievable. Yeah, totally.
+
+If it’s okay with you, Dustin, I’ll ask a few more questions, and then, we can land the plane. And if these are dead ends, I will take the blame, but I’ll ask just a few of my common questions because I like to ask them. That’s why they’re common. One is the billboard question, and that is if you could put a quote, a phrase, word, an image, anything on a billboard, metaphorically speaking, to get something in front of many, many, many, many people, what might you put on that billboard?
+
+Dustin Moskovitz: Yeah, I don’t know if I have a pithy phrase for this, but — oh, no, I do actually. The title of one of my Medium posts is “Live Well to Work Hard.” I think people create this false dichotomy of work-life balance where they think of it only in terms of the number of hours you have for work and what’s left for life, and don’t really think about the quality of those hours. And over time, it’s come up a lot in this conversation, but just more and more an appreciation for I have to rest really well to be able to do my job well and perform well during the hours that I’m working, but also, all these other parts of life, exercise, yoga, using the Back Buddy, spending time with my wife, and family, and friends.
+
+It’s still all part of me and part of being a whole person. And I think particularly in the tech industry, particularly in your 20s, people think of it more as like, yeah, I’m going to work hard right now, and later, I’ll live my life, and later doesn’t come unless you’re intentional about it. And I think you’ll be more effective than just the sprinting.
+
+Tim Ferriss: Live well to work hard. I’ll link to the medium piece in the show notes as well. And one more book question, because I love books, as you can pick up. If I were to scan this camera around the room, you’d be horrified by the number of stacks of books that I have here, but I tend to accumulate. There’s this term tsundoku, which is like a Japanese term for accumulating stacks of books that you have not read. That’s very much highlighted in the room that I’m in right now. But what book or books have you gifted often to other people, if you’ve gifted any books? It could be recommended.
+
+Dustin Moskovitz: I’m an Audible guy, so I never give a physical book to people, but something that’s come up a lot lately is this book, The Road Back to You, which is about the Enneagram. And I’ll just say up front, it’s written by a former preacher, and he’s got some religious tones. And that doesn’t really appeal to me, but I just found the descriptions of the Enneagram types to be just really spot on, especially the one of my type, type five. And yeah, it felt like reading my diary. And I’ve recommended it to a few other people who had similar experiences. And I had read a bunch about Enneagram before, and it was like, “Oh, this sort of fits. It sort of doesn’t.” And then, this one really spoke to me,
+
+Tim Ferriss: I’ll check it out. The Conscious Leadership folks use Enneagram a lot. I don’t want to speak for all of them, but at least Jim and Diana do. And I know that — I believe when Tobi of Shopify and I last spoke on the podcast, he also mentioned, I think they may type everyone in the company who works at the company. Do you guys do that at Asana, or is that more opt-in for you and a handful of folks who may be interested? Or is that systematized throughout the company in any way?
+
+Dustin Moskovitz: I think it depends on the team. I’ve done it for my directs. We’ve actually done it for the board as well, because it’s often useful to understand the interactions between two types, but I don’t know how far in the company it pervades. Quite a lot of people do know their type though.
+
+Tim Ferriss: So, for people who want to explore that, check it out. Does The Road Back to You, is that a suitable starting place for people who have no familiarity with the Enneagram?
+
+Dustin Moskovitz: Oh, yeah, absolutely.
+
+Tim Ferriss: Perfect. I will link to that as well. Dustin, we’ve covered a lot.
+
+Dustin Moskovitz: Can I give one more recommendation?
+
+Tim Ferriss: Oh, please. Absolutely.
+
+Dustin Moskovitz: This one hasn’t come up in a while, but it was talked about a lot when it was first published, but Scout Mindset. It’s a book by Julia Galef, and she’s a rationalist, and she’s near the effective altruism community. And I think it’s just a good way of getting into that way of thinking. And I think it’s very related to Conscious Leadership. A lot of it is about challenging your stories and just being open and curious in how you think about ideas and learn about the world and something I’ve come back to a lot.
+
+Tim Ferriss: Perfect. Well, Dustin, we have covered a lot of ground, and I am sure I could go for hours and hours more with all of the many notes that I still have around me, but is there anything before you wind to a close that you’d like to mention? Closing comments, requests of the audience, anything at all that you’d like to add?
+
+Dustin Moskovitz: I think we got it all out. Probably as soon as I hang up, I’m sure I’ll come up with something.
+
+Tim Ferriss: You could do a voice addendum, a PS from Dustin if need be. But it’s nice to see you, and thanks for making the time today. I really appreciate it. I have lots of things I’m going to follow up on. I am going to get The Road Back to You because I’ve been meaning to reboot the Enneagram for myself. I’ve had everyone in my company typed. I do find it helpful, even if not in necessarily an interaction, but even so that each person can be perhaps more aware, myself included, of strengths and weaknesses and how your predispositions can show up as handicaps that you may not recognize off the bat, find it very helpful. So I’ll revisit that.
+
+Dustin Moskovitz: Can you say what your type is, Enneagram type?
+
+Tim Ferriss: Yeah, I can. I am a self-preservation six. And that’ll make a lot of sense to people. If they read the description, they’ll be like, “Oh, yeah, shocker, not surprised.” And it’s also fun. It is a fun exercise, and I have found at least practical in more ways than one might expect. There are some people who develop or have severe allergies to the Enneagram. One of my very close friends is one of them. So it’s not for everybody.
+
+Dustin Moskovitz: It’s not for everybody.
+
+Tim Ferriss: But it’s one of the tools, one of the many modalities that can be helpful. And I really appreciate you being so open and willing to dig into a lot of the specifics and cover so much ground. I feel like we got a lot into one conversation, so thank you, Dustin.
+
+Dustin Moskovitz: Yeah, thank you. I highly recommend the experience.
+
+Tim Ferriss: Actually, you know what? One last question. I keep giving these second goodbyes and third goodbyes, but is there anything that you would like to see me discuss more on the podcast or whether that’s topics to explore, particular people? Does anything come to mind that you think could be fruitful to explore on the podcast?
+
+Dustin Moskovitz: Well, I’ll just say I was very delighted that the last episode I heard was Jack Kornfield, and I thought that was one of the best that I’ve heard over the years. And I know he’s been on more than once. But yeah, I feel like you could go a long time on the mindfulness and the self-care. And you do, so it’s not something you’re not doing already. But I think that’s usually my favorite kind of content.
+
+Tim Ferriss: Great. Yeah, thanks. I think of that personally as — I think it was, I can’t remember who first used this phrasing with me, but put your own oxygen mask on before helping others. Just that the importance of self-care if you actually want to do a lot in the world. It’s a good reminder for me, and I’ll be sure to have Jack back. Funny, he’s a perennial favorite. And to everybody listening, we talked about a lot. We made many references. We talked about books, people, different principles and so on, including the template for time tracking that you mentioned, which we will put into the show notes as per usual for everyone to peruse at tim.blog/podcast. And in closing, I’ll just say to everybody out there, Back Buddy, don’t miss it.
+
+Dustin Moskovitz: Should have been my billboard.
+
+Tim Ferriss: Yeah, exactly. Back Buddy. And be just a little bit kinder than is necessary to others and to yourself. And until next time, thanks for tuning in.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+AI, DUSTIN MOSKOVITZ
+	
+Post navigation
+Previous Post
+PREVIOUS
+Dustin Moskovitz, Co-Founder of Asana and Facebook — Energy Management, Coaching for Endurance, No Meeting Wednesdays, Understanding the Real Risks of AI, Embracing Frictionless Work with AI, The Value of Holding Stories Loosely, and More (#686)
+Next Post
+NEXT
+Justin Gary — Taking the Path Less Traveled, The Phenomenon of “Magic: The Gathering,” How Analytical People Can Become “Creative” People, Finding the Third Right Answer, and How to Escape Your Need for Control (#687)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

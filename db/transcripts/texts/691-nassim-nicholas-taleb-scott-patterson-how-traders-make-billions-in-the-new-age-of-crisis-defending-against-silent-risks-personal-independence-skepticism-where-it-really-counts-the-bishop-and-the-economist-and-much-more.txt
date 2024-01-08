@@ -1,0 +1,957 @@
+https://tim.blog/2023/09/08/nassim-nicholas-taleb-scott-patterson-transcript/
+
+#691: Nassim Nicholas Taleb & Scott Patterson — How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+SEPTEMBER 8, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Nassim Nicholas Taleb & Scott Patterson — How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More (#691)
+LEAVE A COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Nassim Nicholas Taleb and Scott Patterson.
+
+Nassim Nicholas Taleb (@nntaleb) spent 21 years as a risk-taker (quantitative trader) before becoming a researcher in philosophical, mathematical, and (mostly) practical problems with probability.
+
+Taleb is the author of a multivolume essay, the Incerto (The Black Swan, Fooled by Randomness, Antifragile, The Bed of Procrustes, and Skin in the Game), covering broad facets of uncertainty. His work has been published into 49 languages.
+
+In addition to his trader life, Taleb has also written, as a backup of the Incerto, more than 70 technical and scholarly papers in mathematical statistics, genetics, quantitative finance, statistical physics, medicine, philosophy, ethics, economics, and international affairs around the notion of risk and probability (grouped in the Technical Incerto).
+
+Taleb is currently Distinguished Professor of Risk Engineering at NYU’s Tandon School of Engineering (retired). His current focus is on the properties of systems that can handle disorder (“antifragile”).
+
+*
+
+Scott Patterson (@pattersonscott) is an investigative reporter for The Wall Street Journal, currently based in Washington DC, working on climate and energy policy. His new book is Chaos Kings: How Wall Street Traders Make Billions in the New Age of Crisis, a profile of the rise of “black-swan traders,” such as Nassim Taleb and Mark Spitznagel, as well as a survey of the many perils the world faces today—and how we might fix them.
+
+Scott has covered everything from Berkshire Hathaway to stock exchanges to high-speed traders to the financial regulators. His first book, The Quants, describes the rise of mathematical finance and delves into its role in the 2008 financial blowup. Dark Pools, his second book, tells how computer traders took control of the US stock market, starting from the birth of computer trading in the 1980s to the explosion of high-frequency trading in the late 2000s.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform. You can watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#691: Nassim N. Taleb & Scott Patterson — How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Well, I’m thrilled to have both of you here. Scott. Thanks for making the journey. I can’t believe we have the shared history of Hoagie Haven. We might provide that context to people later. An iconic landmark of a spot in Princeton, New Jersey. Nassim, nice to see you.
+
+Nassim Nicholas Taleb: Great. Nice to finally to be on that side of the microphone.
+
+Tim Ferriss: Yeah, definitely, man. And I thought we would start with just providing a bit of context for listeners as to how the two of you connected. So Scott, how did the two of you end up meeting?
+
+Scott Patterson: This was the mid-2000s. I was a reporter at The Wall Street Journal. I still am a reporter at The Wall Street Journal. At the time, I was covering hedge funds and among the hedge fund community, there was this book that a lot of hedge fund managers like to talk about, this secret book that they passed around that they said was really great. It was called Fooled by Randomness. So I read that book, I thought it was amazing. But a rumor among these hedge funds managers was that the hedge fund that the author of that book, Nassim Taleb, had run a hedge fund, but it had shut down. But nobody really knew the truth of whether it shut down or not. So as a reporter, that intrigued me. 
+
+I think it was actually Neil Chriss, a very well-known quant hedge fund manager who put us in touch. I talked to Nassim, I got him on the phone and he said, “Yeah, we shut down a couple of years ago, but there’s a new hedge fund that’s starting up by my former colleague, Mark Spitznagel, maybe you want to write about that.” So I had a story that came out in the summer of 2007 that broke the news that Empirica had shut down, at least for the broader public. Also broke the news that a new hedge fund was launching called Universa. Similar strategy. And also that the author of Fooled by Randomness had a new book coming out, called The Black Swan.
+
+Nassim Nicholas Taleb: Which explained the transition from that the author was trying to transit. I kept begging him, I tell him, “No, I don’t want to be known as a hedge fund manager. I don’t want to…” 
+
+Scott Patterson: Yeah. It’s been a reframe for years.
+
+Nassim Nicholas Taleb: I’m done. And I reframe it. “So I don’t want to talk to you except if you talk about my ideas.” He said, “Okay, we’ll talk about your ideas.” This is why I was trying. I said, “Okay, on my grave, I don’t want to be known as a trader, but as a scholar.” And I remember, so he is bringing back a portion of [inaudible], but it was at the right time because he contacted us right before the explosion of 2007. And there’s a weird connection right there that I’ll mention later to you.
+
+Tim Ferriss: There is a very weird connection to me. And let me ask you, Nassim, what prompted you to make the transition? Maybe it was a long time in coming, but to decide ultimately to step out of trading or being active as a player on the field.
+
+Nassim Nicholas Taleb: Because I knew I would never stop. And I still, in my late thirties, early forties, I had time to really do something else. And I realized the following, that when I had a position, and I mean I could be involved in trading, but I didn’t want to be the one flying the plane. See, as a passenger or as a co-pilot maybe. At the time, I said, okay, Mark is much more capable of running this because he loves doing it and I liked the concepts and the ideas, but didn’t like to follow positions. And because it was the minute I would be involved in a trade, it would inhabit me. So I felt like there’s something in my brain that was slowed down by the fact that I had to worry about something else out of sense of responsibility. So Mark didn’t have that. So Mark had — 
+
+Tim Ferriss: He could compartmentalize.
+
+Nassim Nicholas Taleb: He’s not a good compartment. He did nothing else. And he was [inaudible] he did other things, of course, on the side as a distraction. So he was a benefit. So I wanted to transit out. So I said, okay, we’ll take some time off to finish The Black Swan, which I couldn’t finish when I was trading, which actually I started before Fooled by Randomness, incidentally. I started Black Swan and then I said, okay, I’m going to talk about randomness. So I got diverted into Fooled by Randomness, and then I finished The Black Swan. It was almost a 20-year thing.
+
+And I realized that I’d like to be a scholar who eats well, who trades once in a while with a sense of — it was like a military person who has an honorary discharge to do other things. And of course leaves the battleship to those who live for the battle. So that was what happened. And of course the rest is history, as you know. 
+
+But let me mention one thing that probably your listeners and viewers don’t know that of all the people that have been on his podcast, I bet you I’m the first one you’ve met.
+
+Tim Ferriss: It’s quite possible.
+
+Nassim Nicholas Taleb: Okay. So you’re the first one I met. You before I met him, in probably 2001, 2002.
+
+Tim Ferriss: Around that, around that time.
+
+Nassim Nicholas Taleb: And the first time we met, we corresponded and I said, “Oh, this guy has very interesting ideas about hacking things.” And then we went to a restaurant, I think on Madison Avenue, and we ate every single egg they had in the store.
+
+Tim Ferriss: I was a good deal larger at the time. I was in growth mode.
+
+Nassim Nicholas Taleb: So we had all the eggs for some reason. I mean, they were worried about us. How could people, human beings, eat so many eggs? So that was my first physical encounter. We were corresponding before and became friends. And there’s an interesting scene that we had that I have in my mind when Lehman Brothers went bust, which basically after we reconnected, and then he followed our trade and he wrote about it actually about the quality of the trade and the promise of the trade that we’re betting on tail events. Before the Lehman crisis. And on that day, when the day Lehman went bust, I was on a plane incommunicado, I land, and the first thing I got was an SMS from him because I was meeting you for dinner. And the second thing I got is news that Lehman went bust. So from a news from Mark, Lehman went bust. It was the two messages. And that night I think they ran out of pink champagne in the house. We were with Seth Roberts, the late Seth Roberts, a very interesting person who also was studying hacks.
+
+Tim Ferriss: Fascinating guy. Yeah, really genuine, lovely human being. And we did consume vast quantities.
+
+Nassim Nicholas Taleb: And then last, I mean the time before Romania we met, it was at his funeral when he came in and paid for the bill surreptitiously. And I want to retaliate tonight.
+
+Tim Ferriss: So you’ll have the comeback opportunity with the bill this evening. And you’re right, I mean there are very few, maybe no other guests who’ve been on the podcast to predate us meeting in 2001, which is wild. And I was probably 30 to 40 pounds heavier in terms of muscle mass.
+
+Scott Patterson: All that Hoagie Haven.
+
+Tim Ferriss: I was all that Hoagie Haven. I was a lot bigger at that time. So I have many questions about Black Swan and also about the trading career, but actually a letter which I’ll come back to, I think you’ll get the reference. But first I want to ask just for a backdrop for people who may have no familiarity with quants, with betting on tail events, and you have this book, which covers a lot of these topics in depth. So you have multiple books, but in the case of betting on tail events, what is a tail event broadly speaking, and then what are the different ways one can bet on tail events? And you guys can of course pass the mic back and forth, but what are the different styles or approaches to betting on tail events?
+
+Nassim Nicholas Taleb: The thing I would say before it launches that the point is not to bet on tail events. The whole idea of The Black Swan, everything, I’ve been telling everyone, every person I meet — 
+
+Tim Ferriss: To bet on disruption on unforeseen — 
+
+Nassim Nicholas Taleb: No. To not be harmed by silent risk. Okay, that’s the idea. The first thing is don’t be harmed by it. But of course, given that when we study tail events, you say these people are ignoring these risks, so therefore they’re a risk in the system that people generate and don’t see. Hence you can trade on it and go ahead. I mean, this is your department.
+
+Scott Patterson: Yeah, I mean there’s all sorts of different approaches. And I think it’s, when you talk about betting on a tail event, I would say that what Universa does and Empirica before that is I wouldn’t call that a bet. I would call that a risk management strategy. And that in a way is what differentiates them from other hedge funds and traders who do what I would call betting or taking positions based on a belief that something’s going to happen. What Universa does is they are constantly taking on positions that will pay off massively in a tail event so that their clients are constantly protected and they don’t need to make predictions, they never make predictions. It’s something that Mark Spitznagel constantly says is that he is forecasting.
+
+He’s been forecasting gigantic bear market for decades. He’s been right a couple times, but he will admit, “Okay, I can’t predict the timing of it. It’s going to happen one of these days.” And that’s what they provide for their clients is that constant protection. And they do it by buying far out of the money put options. It’s pretty simple. Not easy to implement, I think, which is why you don’t see a lot of hedge funds doing this because — 
+
+Nassim Nicholas Taleb: They do, actually. They do it and then they go bust.
+
+Scott Patterson: Or what happened to Nassim, it’s very stressful. Because you can go years without making money in that strategy because it’s waiting for an extreme event, a very extreme event. Their strategy is betting on a 20 percent decline in the S&P 500 in one month, which I think may have happened once or twice. It happened on Black Monday in 1987 in one day. But they don’t actually need to have that to happen to monetize the strategy. They just need to have a very big decline very rapidly. So that happened in 2008, happened a couple of times in the 2010s and 2020 it happens big time.
+
+Tim Ferriss: So I imagine, I mean, it’s for somebody who’s running a fund like this for you or Mark that there’s the watching the numbers and maybe that form of bleeding chip stress over time. But there’s also, you have investors who probably in theory are very comfortable with the strategy, but who also panic or have other issues.
+
+Nassim Nicholas Taleb: The genius of Universa is that they managed to package a product as insurance that allows the investors to increase their exposure to the market. And think about it, the strategy in and by itself is positive, a huge return. But it’s more interesting is that it was a hedging something that went up. What does the stock market do since then? I mean it went up like twofold — 
+
+Scott Patterson: 30 percent.
+
+Nassim Nicholas Taleb: No, no, no. In total since, say, 2007.
+
+Scott Patterson: Oh, since 2007. Yeah. Triple.
+
+Nassim Nicholas Taleb: Yeah. Went up, say, twofold, maybe. And so it allowed people to have a larger position, larger exposure to the market than they would otherwise. And also there’s a cocktail of other strategies that definitely didn’t fare well because they entail diversification away from stocks. So this one allows you to have stocks. So it’s very weird because Mark is always bearish on the market, but he provides people a product that couples very well with a very long stock position. So that was what was the secret. So given that it’s packaged that way, investors tolerated some drawdown, not too much, on the insurance. You see, well, looking at, you’ve got to look at insurance versus the insured.
+
+Scott Patterson: Yeah.
+
+Nassim Nicholas Taleb: Exactly. Versus the insured versus — I mean, hey, this is my differential P&L. And it’s the same thing when I started trading option, you have an option hedged by stock, and sometimes people only look at the stock performance and some people only have the option performance and tell them no, it’s inseparable. You see this is called the delta. So that was how they managed. But the other trick that you have to understand that we are one-trick, or me intellectually, I’m a one-trick pony, I think of nothing else but tail risk. Everything’s packaged around tail risk that I do intellectually. But Universa is a one-trick pony. Only does one trade. So if you do only one trade and for a couple of decades, believe me, you know the tricks.
+
+You know how much to put on, not too much, not too much. You see, if you do just one trade and then people come to Universa and say, “No, that’s what we do. We don’t want you do this. No.” It’s like you’re making Maseratis and someone comes to you and says, “Hey, won’t you make trucks?” “We don’t do trucks.” “Why don’t you make a bicycle?” “We don’t do bicycles. All we make is one single item, that’s it. One single size.” And that is the main criticism by other, hey, one-trick ponies. And that’s what we are proud about.
+
+Tim Ferriss: That’s the selling point.
+
+Nassim Nicholas Taleb: Is that we are one-trick ponies. And whether in my work intellectually was worried about tail risk or whether the implementation of Universa of their ideas, of Mark’s ideas. One thing, just one single thing. So when you do one thing professionally, you develop some edge.
+
+Tim Ferriss: Yeah. Well, it makes me think of, I’m going to butcher it, but there’s a Bruce Lee quote which says, “Fear not the man who has practiced 10,000 kicks, but the man who’s practiced one kick 10,000 times.”
+
+Nassim Nicholas Taleb: Well, there you go. That’s how it goes.
+
+Tim Ferriss: And let me come back to something that you said, Nassim, which was that a lot of these other shops who maybe attempted something they thought was similar went bust. What were some of the fatal flaws or mistakes that — 
+
+Nassim Nicholas Taleb: Well, the first one, okay, the first flaw, and this, I noticed in our days, a lot of clients that had initially when we started Empirica, were diverted into other funds who were actually mitigating the strategy by instead of say, you can’t buy puts on the S&P 500s, you buy puts that are cheaper in some other commodity. You see. And hope that they would correlate. So there was a dependence on correlation. So I know someone who actually went bust, he said, “Overriding the strategy by buying puts on the S&P 500 and selling puts on the German index to collect more cash out of the trade.” So that way he says, “Oh, we had more staying power.” And his investors were proud until — guess what happened? The German market went [exploding sound] the US market, the thing exploded, and they were out of business.
+
+So a lot of our competitors tried to mitigate the strategy. We were absolutely pure. That’s the other thing is that you notice with the players in Universa, if you see, if you met Mark, you would understand it. There’s no question that’s what we’re going to do. We’re not going to mitigate, no correlation, nothing. Just all we do is artichokes. That’s it. We don’t do nothing. That’s it. Which we don’t cook anything else. We don’t, no. Do you want add mayonnaise? We don’t add mayonnaise. We’ll not add mayonnaise to the artichoke. And in a way, I told you the long road, not the hack, we didn’t hack the trade. The long road is the best. So in a way, I started liking your idea of hacking. And until I discovered over time that basically all the things I’ve enjoyed doing were the things I reverse hacked. So in other words, take a long road.
+
+Right now, last week I did 17 hours of cycling. So that’s a long road. That’s not a short road. Whereas when we met, I was looking for shortcuts. So the Universa they have no shortcuts. And he takes no shortcuts. So I mean I’ve known you now for 15 years, no, I’ve met you 15, 16 years. And I think that forecast, and it was very good that he wrote that book for one reason, to put some story and narrative around the idea of precaution and tail risk for society in general. And also because of fact-checking that document, a lot of these stories are legends of this has happened, this then happened. It was a perfect fact because it is fact-checking, reflecting, audited results and stuff like that. It was fact-checked. So sort of fact-checking the importance of tail hedging for society. And that to me is greater than that details. It just like having finally a document, someone who bothered to look at the details and went through the rigorous — 
+
+Scott Patterson: Many hours of interviews. Documents — 
+
+Tim Ferriss: Double-checking the facts versus anecdote.
+
+Scott Patterson: Yeah.
+
+Tim Ferriss: So what compelled you to write this book? Of all the things that you could write on, why did you choose to write this one?
+
+Scott Patterson: The birth of the idea of the book was in early 2020 and we all remember what was happening in early 2020. The world seemed to be unraveling. We had COVID, we had protests in the streets, we had extreme political uncertainty in this country. Lots of things going on. So the first thing that happened was in April of 2020, it came out that Universa had posted a three-month return of more than 4,000 percent on their positions. Which was quite eye-catching and got a lot of news. I reached out to Mark and was like, “Holy crap, how do you guys do that?”
+
+So that happened. And then I came across a paper that Nassim had co-written in January of 2020 about COVID. It was a glaring warning to the world that this virus was very deadly and people needed to take extreme precautions against what was coming by social distancing, other things, advice to politicians, that they needed to be very aggressive about this. And it kind of occurred to me, I’ve known Nassim and Mark for a long time, and I thought, we are in a period of extreme duress where lots of people are just kind of looking really bad. They’re collapsing, they’re losing money, they’re making really bad decisions about COVID. Everybody is confused. These two guys seem to be coming out of this period of really insane period looking very smart. So I thought, what is it about their worldview that allows them to go into a period that makes a lot of people look dumb, look very smart. There’s something about that that can map from what Universa does to what Nassim does. And it is this view of the world of black swans, of extreme events, of being prepared for them.
+
+Nassim Nicholas Taleb: And know what class of events you should be prepared against. In other words, knowing where the [inaudible] coming from.
+
+Scott Patterson: Which she had been thinking about for years.
+
+Nassim Nicholas Taleb: And pandemics for me was something I was working on since 2007. I even discussed it in The Black Swan, that what you have to worry about is a pandemic before financial meltdown because of connectivity. We’re no longer in the 1800s where you can have a crisis here and not there. Everything’s so connected and — 
+
+Scott Patterson: Yeah and it’s exponential.
+
+Nassim Nicholas Taleb: [crosstalk] in the financial world. And same thing in the physical world. You see, the plague, the great plague took something like 300 and some years to go from Constantinople to the Northern England, 300 and some years. Today it’s the weekend for the whole thing to spread the entire planet.
+
+Scott Patterson: Flying on Lufthansa.
+
+Nassim Nicholas Taleb: And Justinian plague could not come to the Americas. There were no Air France or no ships at the time. And now, visibly they [inaudible]. So what I’m saying is that we are in a different environment. Just like culturally, things can spread. You have the Google effect. The same thing should apply to pandemics. So this is why we were working on — Yaneer and I and other people on pandemics. And particularly a fellow who is probably one of the smartest people I’ve ever met, who was the head of civil service in Singapore at the time and then retired later.
+
+And we were all obsessed with a great pandemic that would come and we thought it was going to be Ebola. So you had to worry about pandemics. And later on I wrote a scientific paper, scholarly paper on pandemics that I didn’t really finish. And when a pandemic struck, we put it in Nature of Physics and it went counter. Nature of Physics is a very prestigious, as you guess, scholarly publication. And it silenced a lot of the epidemiologists who were nitpicking similar to economists, nitpicking. When you have these, what I call extreme properties.
+
+Scott Patterson: And at the time in early 2020, you had a lot of epidemiologists, even the WHO saying, “We don’t understand the nature of this pathogen. We need to wait and figure it out.” The advice was, let’s kind of like the, what’s the movie about climate change? Don’t Look Up. Where the president is saying, “Let’s sit tight and assess.” That’s what the message was we were getting from our health authorities in early 2020, was, “Sit tight and assess.” And that’s a recipe for disaster. Nassim and his group were saying, “Take action now. If you wait around to sit tight and assess, you’re screwed.”
+
+Nassim Nicholas Taleb: Exactly.
+
+Scott Patterson: Because it’s too late.
+
+Nassim Nicholas Taleb: If you must panic, panic early.
+
+Scott Patterson: Panic early.
+
+Nassim Nicholas Taleb: If you must panic, panic now. Like in finance and anything. You get out now. When it was easy, for example, to limit the flights out of Wuhan, you didn’t have to do lockdowns, you could do lockouts. And there were methods used by the Ottomans.
+
+Tim Ferriss: By the Ottomans.
+
+Nassim Nicholas Taleb: The Ottomans and the Austrians had – the world was separate, but they had a lot of traffic and it went through what they call quarantine spots. So you would go into a sort of hospital that has quarantine and there’s seven days one way, nine days the other way, and they would implement that the minute they smelled anything, right?
+
+And they had rules. If you come from India, it’s more days. They had these rules, the Ottoman had these rules and didn’t come from the Ottoman. It’s long experience dealing with pandemics and how you stem them by stopping them at the border. These things were called lazarettos. And towns that did not have lazarettos, Venice, of course, they’re a maritime power, they had lazarettos, they did very well. But Marseilles, France was decimated because they didn’t have lazarettos.
+
+Tim Ferriss: The lessons we need to learn repeatedly.
+
+Nassim Nicholas Taleb: We have to learn from history how people handle that. They cut it in the egg, that’s it.
+
+Tim Ferriss: Yeah.
+
+Nassim Nicholas Taleb: And it’s easier to check people at the border. And you don’t need to have quarantine. You can just test at the border. We didn’t test in the United States at a border until a year and one month into the pandemic. I don’t understand. You have lockdowns, but you don’t have lockouts. I mean, just test people at the border. That would probably reduce — the fellow from Singapore was testing at the border. He said the way to control it is by knowing, especially testing people without they being aware of it. And they started the first thing where you detect temperature. Before anybody knew about these temperature things secretly at Singapore. So it was really, I — 
+
+Tim Ferriss: I guess they had a warmup with SARS. So they had the thermic — 
+
+Nassim Nicholas Taleb: Exactly. But he’s the one who started it and they were doing it secretly before it became public. So people wouldn’t take antipyretic drugs before landing. So the whole idea is that you have to find fixes and they’re not complicated. And one analogy I’m going to give the banking system is that the banking system, banks, masterfully profitable enterprises. They make money off of the float, the money you have left there, the check you didn’t cash or write or stuff like that, they make tons of money. And guess what, they lose all — they blow up on the risk that bring them a tiny amount of money. You see, selling that option that explodes every 10 years by saying, “Oh no, we’re in a different environment, it’ll never happen.” So sitting on dynamite. So that tiny, tiny, tiny tail option is what cost the banking system. They lost more money than ever made in history of banking in 1982. Money center banks that is, and did the same, 2007. And a business that’s usually profitable except for that tail event. So what I’m saying is that, if you just remove that, banks would do well. It’s the same thing in society, if you figure out how to remove that tail risk, sometimes not complicated — 
+
+Tim Ferriss: Well, let me ask, I’ll stand in for the audience and also for myself, and not to throw my audience under the bus. What are the incentives or the circumstances that prevent them from taking a certain percentage of their assets and allocating it to something like a Universa so that they are less at risk in that way?
+
+Nassim Nicholas Taleb: They just don’t have to do that, they could just avoid some trades. But let me explain to you the dynamics of the bonus system, and this led to my book, Skin in the Game, later on. If you have skin in the game, you’ve got to worry about blow-up because it’s your money. If you don’t have skin in the game, you’re a CEO of a company or you’re a fund manager in any kind of financial venture, what is your incentive? Is to print good numbers, because you don’t pay for the downside, so you print good numbers, you collect money on the profits — 
+
+Scott Patterson: Annual bonus.
+
+Nassim Nicholas Taleb: — and annual bonus. So, this I call the generalized Bob Rubin trade, generalized Robert Ruben trade. He made $100 million at CitiBank or CitiCorp, Citi-something, over 10 years, about 10 years, he collected $100 million in compensation. The bank was insolvent in 2008, near insolvent if it weren’t for the taxpayer and it was the last minute. All he had to do is write an apology letter that, “We didn’t see these events. This was a black swan, named after a book by a very, very stubborn man,” something like that. So that’s all you have to do is say, “I’m sorry,” you keep your bonus, [crosstalk] you don’t show up to work. So this, you can generalize, it’s the same thing with supply chain. With the supply chain, a lot of firms concentrated everything on one supplier instead of being diversified. What did that lead to? Better bottom line, but what I call pseudo-efficiency, because they short that option, and it so happened that if their supplier is in Wuhan, guess what, you’ve got a problem.
+
+Tim Ferriss: You’ve got problems.
+
+Nassim Nicholas Taleb: That problem doesn’t show in the numbers, it shows after it happens.
+
+Scott Patterson: It’s the dark side of optimization.
+
+Nassim Nicholas Taleb: Exactly, what I call pseudo-optimization. Like if you drive a Ferrari 500 kilometers per hour, you’re not going to get there faster than if you ride a bicycle, because obviously you’re never going to get there.
+
+Tim Ferriss: So, Nassim, I have a question for you about a letter and then I have a question for you about personalities, Scott. Temperament may be another way to put it. Is it true that you wrote a resignation letter your first day at a trading job and put it in your desk drawer? I read this on the internet, I don’t know if it’s true, you can’t believe everything you read, but it was from The Guardian, so I thought it might be credible.
+
+Nassim Nicholas Taleb: I did that, but I wrote that, but not on the day I started. But I recommended that people write, because you feel relief when you do it. Because then you can continue on your job without feeling like someone’s controlling you.
+
+Tim Ferriss: You’ve got the gun loaded.
+
+Nassim Nicholas Taleb: You have Plan B. The whole idea of Plan B, you thought about that problem. So you write the resignation letter and you don’t date it.
+
+Tim Ferriss: I am very fascinated by your ways of thinking, the way that you’ve embraced different philosophies. And you emailed me an aphorism in 2010, and you can correct me if I get any of the wording wrong, but it stuck with me. So this is in 2010. Here’s the aphorism or the quote: “Robustness is when you care more about the few who like your work than the multitude who hates it (artists); fragility is when you care more about the few who hate your work than the multitude who loves it (politicians).” Have you always had that type of robustness or resilience against criticism? Is that something that is inborn?
+
+Nassim Nicholas Taleb: Maybe because I was never really someone who took established ideas at face value. So you necessarily have, you violate some norms, some thinking norms. And often, people protect those norms by attacking a reputation. And I realized that while writing Fooled by Randomness, I say, “Hey, you’re saying that what I’m doing is random, we’re using the wrong models, these don’t work.” They attack your reputation. I realized quickly that with time, that my reputation was going to be under some kind of fire. And I decided that, no, my reputation is how a few important people or people who know something about the subject view me. And it’s not like I don’t care about my reputation, I only care about my reputation in some circles. And it was people I can talk to to try to explain what it’s about, and it has worked out. But if you have to go defend your reputation and you’re doing the right thing, it’s too much energy wasted and it’s not going to help. Haters are going to hate.
+
+I think this resembles another aphorism inspired by Charlie Munger’s, one of Charlie Munger’s is that, “Do you want to be the most ethical person where people think that you’re corrupt? Or do you want to be the most corrupt person where people think that you’re ethical? Make your choice and use it as guideline.” It’s the same thing. Accept that there’s something in between, that there’s some people I care about and I want them to not lose respect for me. Of course, you start with your mother, you have your children or whatever, your family members. But there are also, there’s a lot of people on the planet and I care about my reputation, but in these circles, not with the general public. So, it allows you to take much, much more aggressive positions, which I’ve done over a long life. And Mark, for example, has a lot of enemies and they’re going to pick on something and they don’t care you’re doing the right things. And how do you know you’re doing the right thing? If people you respect approve of your action, not if the general public does.
+
+Tim Ferriss: So that segues to my question for you, Scott, which is, in the process of doing all of these interviews and interacting with these various players on the field, these practitioners, these investors, and so on, have you identified any patterns that you think, whether nature or nurture, that seem to recur in people who are good at what you described in the book?
+
+Scott Patterson: I would say, across all three books that I’ve written, which are generally focused on Wall Street trading, hedge fund managers, I’ve met a lot of hedge fund managers over the years. None like this guy, I have to say.
+
+Tim Ferriss: We’ll probably come back to that.
+
+Nassim Nicholas Taleb: I’ll tell you, I don’t want to be identified as a fund manager.
+
+Scott Patterson: Yeah, that’s true.
+
+Nassim Nicholas Taleb: It’s an identity thing.
+
+Scott Patterson: Many are very focused on making a lot of money, that’s a very common trait. Mark, he talked to me about how he grew up in the ’80s, he identified with the Reagan era, it was the time of Wall Street, greed is good. He told me, he is like, “Did I have a little greed in me? Yeah, I did, it was the ’80s.” And he grew up in a family that was, his father was a minister in a church. He was sort of a hippie, didn’t believe in pursuit of wealth. Mark took the exact opposite view of that. And so, that was constantly something driving him, was the desire to make money.
+
+A lot of other hedge fund managers I’ve met over the years, they have that drive. And it’s something that many people look at these guys and think, “You’re worth a billion dollars, you’re worth $2 billion, and yet you’re a maniac.” You go into work every day and just go crazy, you drive all your employees crazy because you want to be richer than the next guy. I don’t think Mark has quite that sort of insane level of greed as some do. I’ve met Ken Griffin, the founder of Citadel. Disciple of Ed Thorp, who we talked about, we might talk about later. Cliff Asness, who is a stark enemy of — 
+
+Nassim Nicholas Taleb: Friend, initially. Initially a friend.
+
+Scott Patterson: Yeah. And I have to say, Cliff is a nice guy when you meet him.
+
+Nassim Nicholas Taleb: Not a nice guy, but I’ve had friends who are not nice guys.
+
+Scott Patterson: He can be, he’s also got a dark side. Also somebody extremely focused on being wealthy. Very smart, they’re all extremely smart. And I think that’s one of — and personalities, I think one of the things that has helped drive my books, is these are interesting people. A lot of them are mathematicians, scientists. They come out of university with a different expertise than making money, but then they apply that on Wall Street to making money. So, it’s a combination of, a lot of them, they have to be leaders, they are extremely driven.
+
+It baffles me because I’m not like that. I have a degree in English, and I think that’s actually why I sympathize with Nassim’s writing so much, is I came out of a tradition that I love the works of Dostoevsky and existentialism. And one of my favorite books is The Irrational Man. And I came into Wall Street and started reading about how there’s this belief that people are irrational and the markets are rational and they are predictable because of this. And I thought that is just crazy. To me, I look at financial markets and I see black swans, I see fear and greed. That to me is what drives markets, not rational behavior, rational expectations.
+
+Tim Ferriss: What are some of the things that make Nassim different or unique in those you’ve interacted with? I have some of my own questions and thoughts on this, but I would love to hear yours.
+
+Scott Patterson: Yeah, well, he mentioned his contrarian nature.
+
+Nassim Nicholas Taleb: It’s not a contrarian nature, it’s independence.
+
+Scott Patterson: I’ll let him answer it.
+
+Nassim Nicholas Taleb: In line with it, people say I’m contrarian. I’m with conspiracy theorists on many things and I’m against them on many other things. Some are just contrarian because they have a father problem. So to me, a contrarian is an [inaudible] rather than an attribute. But the other thing is, I thought it was going to be about me, it should be about the idea, the precaution and the other [inaudible].
+
+Scott Patterson: He is a lot more interested in literature and philosophy and not financial markets [inaudible] that’s thing that just drives him. He doesn’t look at the stock market page every day like some people do, he’s — 
+
+Nassim Nicholas Taleb: You have to figure out who are people envious of. So, if you’re in a hedge fund business and you have $500 million in a bank and someone else has $600 million, you’re going to be envious to that person. I was always envious of people who had more erudition than me, more erudite. And you realize that that’s what makes me tick, is I don’t want to — being envious is not good, you see? But at the same time, if you figure out who you tend to envy — I don’t believe in this as you say, “Oh, people having enough.” There’s someone from East Hampton, the fellow who wrote Catch-22, who met the [inaudible] Sorry?
+
+Tim Ferriss: A lot of interesting folks out there.
+
+Nassim Nicholas Taleb: Yeah, he met a financier at the time for hedge funds. And the financier said, “What is it about you…” because he was an author, a very successful one, “…What is it that distinguishes you from me?” He told him, “I know the meaning of enough.” So in other words, he knows you’re upper bound. And effectively, I don’t play that game. I say, there’s a meaning, I am, literally, and I say envious of people who are erudite. Like if someone knows Latin very well, I’m envious. If someone knows Sanskrit, I’m envious. And I discovered that early on. So I made money on Wall Street because I wanted to make money on Wall Street, but I didn’t think it was worth the effort. And luckily, it was a combination with Universa, so I had so much leverage with Mark doing all the stuff, the spillover on me was more than satisfactory. So I have, knock on wood, a lot more than I wished.
+
+Tim Ferriss: Part of the reason I’m asking, we’re talking about the ideas, but the person who’s acting as the vessel or communicator of these ideas, the developer of these ideas is integrally related to, I think the totality that I want to explore. Part of what interests me about your story and your thinking is how various inputs have impacted your thinking around, not just markets but other things. And for instance, like the Stoics and Seneca the Younger and so on, or other philosophical inputs. Did those come early and then aid you, you think, in your career when you were active in the markets? Or did those come later and you sort of always had a deep interest but were able to explore them at a later point?
+
+Nassim Nicholas Taleb: No, actually I started liking the Stoics. And all those people I’ve talked about, I liked them much early on in my life, but I went overboard giving — for every idea I’ve had, I did the exact opposite of what one should do if you had an idea, I say, “Oh, I had this idea,” because I don’t consider myself so different from others. And then particularly when you look at history, so many tens and thousands scholars surviving works. So, I went back and figured out all the scholars of these scholars who had similar ideas or who preceded the ideas and who started things like that. So I went into the empirics, the Eastern Mediterranean, Greco, Levantine, Greco-Roman, mostly using Greek language thinkers, and then of course, to others about this fundamental skepticism. Because I noticed a lot of people are skeptical, particularly conspiracy theorists, they’re skeptical of small things, but not about big ones. So they get taken for a ride. Find me a conspiracy theorist or find me someone who’s naturally skeptical of all things and I’ll show you a turkey. So I wanted to find people who are fundamentally skeptic, being skeptic about important things, not about small things, because — 
+
+Tim Ferriss: What would be an example of a big thing that they would be skeptical of?
+
+Nassim Nicholas Taleb: A big thing like — let me give you an example. I wrote a paper, it never ended up in a book, on the stock market and religion. It’s called “The Bishop and the Economist.” And I said that those who are skeptical about the existence of God or the non-existence of God, that are skeptical about religious matters, typically tend to be complete suckers when it comes to stocks. They believe in a stock market, or believe in some kind of pseudo-scientific theory on whatever it is, they believe in, but they don’t believe in religion. And the reverse, and people who are religious typically they’re harder. And there’s some, I don’t have research on that. There’s a guy called [inaudible], I think, who did some studies about skepticism, people go to religion about affairs, skepticism where it matters. And I wrote about it, I think in The Black Swan, skepticism where it matters. And I noticed that a lot of these big skeptics were not skeptical of God and things you can’t do anything about. They were skeptical of the charlatan. They are skeptical of things, of someone trying to take advantage of you. That’s where you exercise your skepticism. So, among the great skeptics, there is a Bishop Huet, he was probably one of the second most erudite person of his time.
+
+Tim Ferriss: Second most?
+
+Nassim Nicholas Taleb: Second most. There was a guy called Scaliger. The guy is phenomenal. He could translate into Arabic. He was a Roman author, Latin author, and vice versa. Scaliger. There are a lot of — Pierre Bayle. Pierre Bayle has a lot of works, he’s one of those skeptics. Hume was one of those skeptics, but these people preceded Hume. Hume is known because he wrote in a language of a country that had a lot of ships and a lot of trade across the world. But a lot of these ideas came from groups of people in France or among Protestants in France and it was called an [inaudible]. And of course, originates in the Levant. And of course, you have the great al-Ghazali, the Islamic theologian of Iranian origin, who definitely was showing you all these arguments are weak. He could dismantle arguments by showing you could be skeptical about the human arguments about God a lot more than — 
+
+Scott Patterson: I think Spinoza is coming out of that same tradition, very skeptical.
+
+Nassim Nicholas Taleb: — Spinoza came, he was skeptical about the existence, about the text, but that was — these people say, “Okay, trust in these text and be skeptical about things that really matter.” And there was actually skeptical school of medicine, practicing medicine in [inaudible]. So I went back through history to — every time I’ve had an idea, I would go back and see in history who preceded me. And sure enough, I haven’t done enough because every year or so I get a letter from someone, “Hey, how come you missed so-and-so?” And sure enough, I go back to The Incerto and I add that person. And this is why it has survived, the five books, The Incerto. But we’re not here to talk about these five books, but this book.
+
+Tim Ferriss: Well, we’re here to talk about whatever comes up. But I do want to hop over to you, Scott, and maybe discuss something that you had shared with me as a possible bullet in the prep stages for this conversation, which is related to polycrisis and the new age of crisis. What does this refer to?
+
+Scott Patterson: Yeah, it’s the subtitle of my book. Most people have focused on the first part of the subtitle is, How Wall Street Traders Make Billions. Second part is In the New Age of Crisis, And I feel like that hasn’t gotten that much attention. But part of what I’m trying to argue is that we are seeing a magnification of extreme events accelerating and overlapping. There’s an economist, Adam Tooze, who’s coined a phrase called the polycrisis. Which he says these crises that are happening on a global scale are interacting in ways that the whole becomes greater and worse than the sum of the parts. So you’ve got pandemics, you’ve got economic instability, financial crises, climate change, which is a big focus of mine in my daily job at the Journal, which I think is sort of the big one in terms of the ever magnification of crises that we’re seeing, we’re seeing it in the news every day.
+
+And what I wanted to do in the book is look at several of these crises and think about how we should be approaching them in a risk mitigation standpoint using ideas from people like Nassim. I think that the central idea was, as I was talking about the germ of the idea of the book was, can you take ideas that were created on Wall Street for risk mitigation and borrow those and apply those to other forms of risk management? 
+
+And what Nassim and Mark do, is they think about the extreme events and how to protect against them. Nassim co-wrote a paper about this exact issue called “The Precautionary Principle.” 
+
+Tim Ferriss: That’s my next question for Nassim.
+
+Scott Patterson: Yeah, it delineates specific categories of risk that you should take the precautionary principle and apply it to. He has some specific ideas and he can talk about it way better than I can, but these are things that can be global that represent systemic risk to humanity. Things that could be exponential — 
+
+Nassim Nicholas Taleb: And must be fat-tailed. It must be fat-tailed or exponential, yeah.
+
+Scott Patterson: Yeah, exponential things that have these properties that you need to take extreme precaution and not take that risk. Basically, don’t play Russian roulette with these risks. And that’s kind of how the book was structured, was first looking at the growth of the strategy with Mark and Nassim, and then moving on to these other things that the world is facing and seeing if we could think about ways to protect against these risks. Something like climate change, you don’t really want to mess with that. It’s a bit too late but there’s still lots of things that we can do. And that’s, I think, the book in a nutshell. I was going to mention earlier when you asked me about the birth of the idea of the book, when I first suggested it to Nassim and Mark, Nassim said, “No way, I have no interest in doing that with you.” It took a while — 
+
+Tim Ferriss: And then you were like, “I have these black and white photos you might want to take a look at.” So how did you convince him to do it?
+
+Scott Patterson: It warmed down, I think it was more Mark who put the screws on.
+
+Nassim Nicholas Taleb: No, no, no, let me tell you what happened.
+
+Scott Patterson: I actually don’t know, I know that eventually he said — 
+
+Nassim Nicholas Taleb: I extracted the promise from him to not be portrayed, to mention that I don’t self-identify as a finance person. And once he made that promise, I said, “Okay, now we can talk, because finance represents a significant part of my life.”
+
+Scott Patterson: And this has been a theme with Nassim ever since I’ve known him, so to me, it was like — 
+
+Tim Ferriss: Is that the identity piece?
+
+Scott Patterson: Yeah, that he’s not a figure — 
+
+Nassim Nicholas Taleb: It’s an identity thing.
+
+Scott Patterson: And I thought that’s — I agreed because it’s true. He’s not been a trader for a long, long time, and it’s obvious where his interests are.
+
+Tim Ferriss: I have to ask. What would it mean or feel like for you to be broadly identified as a finance person but to think of yourself more as a scholar?
+
+Nassim Nicholas Taleb: I wrote about it in Fooled by Randomness. George Soros, and I met George Soros, one of the persons on the planet who impressed me the most, one of those. And I realized that George Soros missed his career. He wanted to be a philosopher and a thinker. He ended up making money and spending too much time in it and wrote articles and books, or one book. It was not what he wanted out of life. He’s a middle-European intellectual who would’ve liked to be remembered as someone for wild ideas. And he envied, of course, Karl Popper, who he claims was his professor, but it was beyond.
+
+So I wrote about it for [inaudible]. I said, “Here’s this fellow who is, say okay, but he also does to distinguish himself from other financiers, he is also [inaudible] has intellectual aims.” I said, “I don’t want to be that. I want to be someone who produces intellectual work and who happens to have had contact with reality thanks to trading and thanks to Mark and guys who still have some contact with reality.” But I’m not cut for that and I don’t want to be. So when I was writing Fooled by Randomness, it was 2019 that I realized I was not, I don’t want to be like Soros. Because unlike Buffett and the other people, Soros had an identity crisis. He wants to be known as a philosopher. I thought, okay. Life took control of him. He didn’t control life.
+
+Scott Patterson: Buffett told me he wanted to write a book when I used to cover him. And I was leaving the Journal at the time to write my second book and he was like, “Oh, I really always wanted to write a book and I never got around to it.” So there you go with the Oracle of Omaha. He wants to be thought of as an intellectual too.
+
+Nassim Nicholas Taleb: Well, I mean, this is not the same. But the Sage of Omaha has something that I didn’t put in a precautionary principle, but that’s probably very inspiring. But he understood the asymmetry. If you say no a thousand times, he says no [inaudible]. And that’s the precautionary principle.
+
+Tim Ferriss: So could you give people the precautionary principle 101 just to back up?
+
+Nassim Nicholas Taleb: Okay, let me ask you. You’re Tim Ferriss flying to go to Mexico. You go to JFK, and they tell you they have uncertainty about the skills of the pilot, “But we think he’s good,” but there’s uncertainty. What do you do?
+
+Tim Ferriss: I do not fly.
+
+Nassim Nicholas Taleb: You are not going to get on that plane.
+
+Tim Ferriss: I’m not going to get on that plane.
+
+Nassim Nicholas Taleb: Okay, “Life is too important for me.” You’ll take a train, you walk, maybe you ride a bicycle, take a few months, but you’re not going to get on that plane. You change your plans and say, “Okay, there are other plans or other countries too. And other planes.” That’s Warren Buffett with his investments and that’s my precautionary principle. The idea that there’s an asymmetry is that there’s uncertainty about certain things. It’s not good. So the climate, for example, if you have uncertainty about the climate, stop these models. All right. Just don’t pollute or try to use something else. Try to mitigate. So that’s the first part of it. And people get it right away. When I give them a story of a plane or I take water, I say, “This is a glass of water on the table. There’s no evidence that it’s poisonous. Would you drink it?”
+
+Tim Ferriss: I mean, the wording would spook me.
+
+Nassim Nicholas Taleb: There’s no evidence that, but when you tell him, “Hey, you should worry about GMOs,” he says, “There’s no evidence they’re harmful.” There’s no evidence that they’re not harmful. So the asymmetry, where you put the burden of the asymmetry on, that’s a precautionary principle. 
+
+But then what we did is we noticed a lot of people, in fact, it was a counter-precautionary principle. A lot of people were invoking it for nothing to say we’re going to have a non-naive precautionary principle by delineating the areas where you should exercise such precaution systematically as a planet or as a communal group. And what I’ll say, number one, you need fat tails. Now what does fat tail mean? Let me explain to you.
+
+Let’s say you go to planet Mars, okay? Elon would help you get there. You have a connection. And you have no news from Earth. And then on the way back, you hear that a billion people died. Which one is more likely to be the cause? Ebola or car accidents?
+
+Tim Ferriss: Ebola.
+
+Nassim Nicholas Taleb: Ebola. On a given day, if you hear Joe Smith died today, what’s more likely? Ebola or a car accident?
+
+Tim Ferriss: I’m sorry, what was the example?
+
+Nassim Nicholas Taleb: Joe Smith died today.
+
+Tim Ferriss: Oh, car accident.
+
+Nassim Nicholas Taleb: Car accident. There you go. That’s fat tails. Fat tails. You had to identify things backwards that if you hear of a big thing, where did it come from? And you hedge against these. So they have different dynamics because they scale differently. So in The Black Swan, I show the difference with the following metaphor. There are environments where you may have a large deviation, but it’s not going to be consequential because it can’t be very big.
+
+So if I take a thousand people and put them on a scale and add to that sample the largest human being you can find on the planet, how much of the total will he or she represent? It’s 30 basis point. Nothing. Okay. And then if you go from a thousand to 10,000, it dilutes completely. So you can have a tail event that’s not going to be consequential. 
+
+Extremistan is different. Extremistan, if you gather a thousand people and add to that sample the wealthiest person on the planet, how much of the total will he or she represent?
+
+Tim Ferriss: Yeah, all of it.
+
+Nassim Nicholas Taleb: There’ll be a rounding error. There’ll be a rounding error. I mean, they’d be on average on the planet Earth, right? They’d be in total, maybe they have two or three million in total. And then you have a hundred and some billion right next to it. So this is where you have to focus on environment that produces fat tails. And this is what Mark did with Universa. Universa is named after the universal mechanism that generates fat tails. Okay? That was the name of the — so everything, we’re in it basically intellectually, everything, all details. So we had to identify what produces fat tails in the financial markets and why it’s getting thicker.
+
+Fat tails means that you have the greatest contribution comes from smallest number of events. So concentration. Like for example, you have a lot of people, all the ones come from one person. It so happened that under fat tails, the models that we use for risk management on Wall Street, RBS, this is why I have a lot of enemies. This is why I have to protect myself against reputational damage because all the economists saved me. All their models are based on that. So what is fat tail? Practically everything that’s socioeconomic. Life is fat-tailed. What is not fat-tailed? Number of calories we’re going to eat tonight. How many calories can we have in one day tonight?
+
+Tim Ferriss: We can only go for the gold, I’d say. I’d say we could each down 2,000 calories a piece.
+
+Nassim Nicholas Taleb: 2,000. 2,000. Say I go 3,000 for me, I can play with fat and stuff. 3,000, that’s nothing. How many calories do I consume a year? Not a single day is going to make a difference. Can you lose all your money in a single day?
+
+Tim Ferriss: Yes.
+
+Nassim Nicholas Taleb: There we go. So you have two environments and they’re separable. So this is why the universal approach, it makes things separable. The fact that you can identify what is fat-tailed, you identify where models don’t work, you can identify where you have to understand or you have to use more refined tools to figure out stuff. And then also, in fatness of tails, number one, pandemics. Number two, wars. Close second, wars and pandemics.
+
+Tim Ferriss: And so you can use that to prioritize application of the precautionary principle?
+
+Nassim Nicholas Taleb: Bingo. And let me tell you how. For example, if cancer is thin tails, nuclear, thin tail. If you can diversify it, it’s thin tails. If you can have a thousand nuclear reactors, if you can insure it rather than one, it’s thin tail. If you can insure it, thin tail. If you can’t insure it, non-insurable, fat tails. So there’s a lot of things that are believed to be very risky, but they’re not, like nuclear, for me. I mean, not for one of my co-authors, but I’ll settle it with them with a beer or some — what’s his English — 
+
+Scott Patterson: Rupert Read is a co-author of and also a major character in the book. He’s a very environmentally focused person. He’s a leader in climate these days. And yeah, he told me that’s one thing that he disputed. “The Precautionary Principle” paper was missing.
+
+Nassim Nicholas Taleb: Which was written with him first drinking — 
+
+Scott Patterson: Single malt Scotch.
+
+Nassim Nicholas Taleb: Single malt Scotch in an English pub somewhere in northern England, where the portions are smaller than what they give you for espresso in Italy. The espresso, you sip them. So we had to have, again, it’s like with you and the eggs. Okay, so to go back to the insurable, so we don’t have to worry about it. And a very simple example I gave that when Ebola started, or later on when COVID started, people were using the arguments, “Yeah, 3,000 Americans die every year drowning in the swimming pool.” That was something by a guy called Dr. Phil. “Should we shut down pools?” At the time, less than a thousand Americans had died of COVID.
+
+And then I presented the following argument. I said, “If I die drowning in a swimming pool, the odds of my neighbor drowning in her or his swimming pool has not changed. If I die of COVID, the odds of my neighbor dying of COVID has increased.” So you had that transmission that makes it fat-tailed. You see that mechanism of transmission? So this is why you cannot compare as basically the press in the beginning, these so-called established press, was against our ideas because they say it was racist against China. They could not distinguish between risks of car accidents and heart attacks and risks of things spreading. This is why, for example, I am in favor of vaccines. The risk is thin-tailed. And I’m against GMOs because they spread in the environment.
+
+Tim Ferriss: Let me ask you a question so I better understand this. So with the precautionary principle, with the example that you gave of the water, there’s no evidence to suggest this water is poisonous. In my mind, I was wondering if somebody could use a similar argument against a new vaccine.
+
+Nassim Nicholas Taleb: Let me tell you what. With a vaccine, there are two things. Number one, if someone takes a vaccine and then you have part of the population doesn’t have the vaccine, it’s not affected, but there’s something more central here. You’re comparing two risks. We have COVID versus a vaccine. So you have to compare. And we know a lot more about genetic stuff in an individual than we know about how genes spread in a population. And that vaccine story basically in the beginning says, “Why don’t you exercise the precautionary principle?” I say, “I have to worry about a pandemic a lot more.”
+
+Tim Ferriss: In comparison.
+
+Nassim Nicholas Taleb: In comparison to that. Plus, very quickly, after about a billion people had jabs, I was initially skeptical about a vaccine in the sense that let’s wait and see what the story is and are there other ways because I’m really worried about COVID and people don’t understand that the argument they use, exposed COVID is much more dangerous than you think. And the vaccine is what made it tolerable. So when they had a billion jabs, I showed the following thing. That everything that’s genetic, the number of mutations to take place to cause a problem. They have a variance and if they have a variance, it’s as follows.
+
+You would see already in a billion people because it’s so much scrutiny, you would see that tail risk. So to give you an example. Hiroshima, they say on average, took 10 years, two or eight years, whatever, to get cancer. No, we saw it in three months, four months. You see, if you focus on the tail, same as kuru. Kuru takes about 10 years on average, the median, to get kuru from exposure. But you have — 
+
+Tim Ferriss: What is kuru? I don’t know.
+
+Nassim Nicholas Taleb: Kuru is mad cow disease. Things for which we have data of exposure and then early disease, only onset of disease. So I looked at the vaccines with all these conspiracy theories and everything, the focus is enormous and we can see anything. But it followed that class of risks where you have to have mistakes going to take place in a genetic or in DNA. So this is where, after a billion jabs, I said, “Okay, I’m going to go for it.” And visibly, the risk is much smaller. The risk may exist. It’s much smaller than the risk of COVID. And plus, there’s a lot of numbers about COVID people weren’t aware of. Number one, something that people didn’t think about immediately is that COVID raised the risk of death. Your multiple of deaths beyond the age of 30 because we don’t have much of an effect for younger people, or we don’t think so. The force of mortality of — 
+
+Tim Ferriss: Like all-cause mortality?
+
+Nassim Nicholas Taleb: No, it went up from COVID across the board in the same way. So in other words, whether, say for example you’re exposed to COVID, you have 10 percent chance of mortality, 1.1 percent, 10 percent increase in all-cause mortality. It’s the same for young people. So past the age of 30, it’s about the same number. So it could be 20 percent more depending on your exposure. So saying it’s an old people problem, they were dying as a multiple of their mortality rate. So I took the social security numbers just to say, okay, it’s not my numbers. Social security number. Look at it.
+
+If you’re a female 30-year-old, you have one in 700 chance of dying. Male, one in 400 chance of dying, that goes up by 10 percent with COVID. If you’re 80 years old, you have one in whatever, it goes up by 10 percent, or, I mean, the 10 percent depends on the exposure period. But it was almost flat across the population. So I said, “Okay, do you want to increase your children’s chance or young people’s chance of death by x percent plus the effect it has on years lost and life expected is much more dramatic for a 40-year-old than it is for a 90-year-old?” This is how I looked at it. And of course, by then we had eight-billion [inaudible]. So we had the answer.
+
+Tim Ferriss: How do you apply or how do you think about, say, GMOs? This is something I actually don’t know much about. But in terms of the precautionary principle and risk assessment, how do you think of — 
+
+Nassim Nicholas Taleb: I mean, a vaccine is to counter a disease. GMO is just like manipulation that people said, “Oh, we’ve always manipulated animals.” But that’s not true. It’s sort of like there’s a difference between flying and walking and the risk you can encounter. You see? The GMO, the way the gene would spread through the environment. Uncontrolled spread is fat-tailed. Whereas selective reading is very slow. As Rupert Read said, he cited — I don’t know who said that, “If your horse is blind, make sure you ride it slowly.” And so there are two classes, like Mediocristan, Extremistan. Mediocristan, like calories, versus Extremistan, stock market. Selective reading versus GMOs. I mean, you’re jumping so many steps with GMOs. So it’s a different class of risk.
+
+Tim Ferriss: Right, because of the risk of uncontrolled spread.
+
+Nassim Nicholas Taleb: Exactly. And then you have a blight that spreads like COVID did, the whole planet. And we’re much more connected than before. So I said you can do it. And plus, they have never done a proper risk study on GMOs on the environment. Not one. They’re saying there’s no evidence they’re harmful. Look, people are eating it. First of all, you can’t have — you have no — I mean, I’m a scientist. I like to see randomized control studies. I like to see things. I like to see something a little more formal than claims.
+
+And then you don’t realize what happened. No matter what you say about Monsanto, I think would be an underestimation of their evil attribute because they redirect science because they had groups of people who would go and intimidate scientists and people on a salary. Scientists feel afraid to lose their job, lose their post or position. They would contact your boss, they would contact practically everyone. They did that to me, but visibly. It was like water on the duck’s back.
+
+Tim Ferriss: Why did they do it to you?
+
+Nassim Nicholas Taleb: Hundreds of letters to the university.
+
+Tim Ferriss: Because of your commentary on GMO?
+
+Scott Patterson: Because of “The Precautionary Principle” paper.
+
+Nassim Nicholas Taleb: That paper. And then somehow I used the R-word in the past in French. It says, like, “You’re a slow-thinking person,” the R-word.
+
+Tim Ferriss: I got it.
+
+Nassim Nicholas Taleb: And then they would have 15 letters from mothers of children with special needs who don’t like that “A professor at NYU would use such a language that’s insulting to my…” But the point is when they showed me the letters, different names, but it was written almost on the same — 
+
+Tim Ferriss: Letterhead.
+
+Nassim Nicholas Taleb: Exactly. And the language was the same. So they realized that was a smear campaign. Plus there’s a lot of other things they did. Petitions, all kind of things, and online harassment. But with me, it didn’t work. But the people they select for these things are usually dumb. Think about it. Who would engage with smear campaigning? The brightest person you know?
+
+Tim Ferriss: Probably not.
+
+Nassim Nicholas Taleb: Okay, so you can play with them. But so, what Monsanto did is to cover up for whatever they’re doing via intimidation. They disrupted science and they made people believe that, hey, no evidence I’m doing science, this person is a confabulator or whatever it’s called, the Luddite. Yeah, you would’ve been against the fire. Not the same thing.
+
+Tim Ferriss: Anti-science [inaudible]
+
+Nassim Nicholas Taleb: Anti-science, [inaudible], anti-science. And usually, they’re never used by scientists. And they had a few scientists who knew nothing about risk and probability. But anyway, we had fun fighting. It was a long fight. But then what happened? They were bought by Bayer, and Bayer is a little more civilized than Monsanto, and then all that disappeared.
+
+Tim Ferriss: So if we zoom out and look at the precautionary principle, how could that be applied on a policy or regulatory level? If someone’s listening to this and they agree with the premise and they say this makes a lot of sense, how could we implement this on a larger scale level such that we are less vulnerable to say the risks, the possible risks?
+
+Scott Patterson: Well, actually, in Europe, the precautionary principle is widely adapted among international agencies and regulatory agencies. I think that the advance that Nassim and his co-writers made on the principle is that it can be kind of fuzzy. So it can seem to be subjective about how you are applying the principle. I think what they did was create a category grouping, which can be used to designate things. And you could have, I don’t know, you could have panels that would look at it using these categories, but I think if it were adapted more widely among regulatory agencies in the United States just as a principle, as a way to think about certain kinds of risks, then it could be more generally applied and useful. Like I said, in Europe they do use it. GMOs are not widely adapted in Europe and primarily because of the precautionary principle.
+
+Nassim Nicholas Taleb: And they have lobbyists in Europe, by the way. I know because they all attack me. I see them online all the time. Coming from Europe, Italy, for example. Italy, of all places. That place you would damage big times reputationally if you had GMOs in Italian food in Italy, had no tourism. But they still have people there trying to sell. Particularly, that when you sell GMOs, you also can use more Roundup, which is there’s secondary effect on a soil. And it’s the same people who are producing both, right? So one could be an excuse to sell the other.
+
+Scott Patterson: To me, one of the really interesting aspects of the precautionary principle is the notion of uncertainty. And so, when you look at climate change, the uncertainty of models has been used as a cudgel by the deniers and by the fossil fuel industry for decades. That there is a level of uncertainty in these predictions. We don’t really know how bad it’s going to get. We need to sit tight and assess the risks that we’re facing. And what they showed is that uncertainty is a reason for taking precaution. Because if you are uncertain about the potential future destruction or massive degradation of the biosphere because of polluting it with carbon dioxide and methane and other greenhouse gases, maybe you should stop doing that or realize that you’re actually taking a risk. You don’t know what the risk is. So uncertainty is actually a reason for precaution rather than just throwing caution to the wind and just saying, “Well, we don’t know, so what the hell? Let’s just keep going.”
+
+Nassim Nicholas Taleb: But let me say, ironically, what happened to me the first time I formulated the argument, it’s actually in The Black Swan Second Edition, and I was with David Cameron on stage. And I said, “We have uncertainty about these models, so avoid these models and just don’t pollute.” And the paper I later rewrote was with my friend Yaneer and others, by saying, “The more uncertainty there is in a model, the more you have to be…” It’s like the more uncertainty you have about the skills of the pilot, the more — 
+
+Tim Ferriss: Cautious you should be.
+
+Nassim Nicholas Taleb: Exactly. You should take another plane. So what happened the next day? 20 newspaper articles in the UK: “Taleb, Black Swan author, is a climate denier.” Okay. Trying to convince Cameron. So probably had a cautious industry of modelers who would be out of business if you follow these principles. So it’s not like we got a lot more heat from the left than from the right.
+
+Tim Ferriss: But why would they call you a denier if you said — 
+
+Nassim Nicholas Taleb: They used me verbatim without following the whole argument. And they say, “Well, he said that,” and I basically named them by names. And I went after every one of the 20 journalists. I wrote to every journo explaining to them what I said. And I say “They cited me out of context.” And I wrote a chapter in Skin in the Game about how one should debate. An honorable debate is where you represent the person’s opinion. Like what Karl Popper would always very faithfully represent the person’s position and then attack it, whereas, they were taking selected — 
+
+Tim Ferriss: Like cherry-picking and creating a strawman argument.
+
+Nassim Nicholas Taleb: Exactly. And as [inaudible] would say, “Give me a letter written by an honest man and I’ll get him hell.” Huh? So I’ve got — yeah, [inaudible]. The problem that you have with the climate is that a lot of people have an interest in complicating the story. In fact, you just say, “Okay, let’s forget about fossil fuel. Let’s pollute with other things.” Just like I say, “If a drug is dangerous, I use half of that drug then take another…” 
+
+Scott Patterson: The danger is in the dose.
+
+Nassim Nicholas Taleb: Sorry?
+
+Scott Patterson: The danger is in the dose.
+
+Nassim Nicholas Taleb: The danger is in the dose. It’s non-linearity. We put that in “The Precautionary Principle,” the non-linearity, the convexity. That’s the theme of Antifragile. The convexity that you’re — 
+
+Scott Patterson: Actually dosing the atmosphere with carbon dioxide. You’re going to end up with a very bad outcome, eventually.
+
+Nassim Nicholas Taleb: Exactly. So let me give you an example to go back to before when we were talking about when I used the GMO versus selective breeding, tell you why speed and fragility. And the example I use in Antifragile, if I bank a car against a wall at one mile per hour a hundred times, it’s not going to be the risk of your banging it at once at a hundred miles per hour. So this is where if you have acceleration of harm, like if I jump 10 feet, I’m harmed more than twice than if I jump five feet. So we showed where in the presence of acceleration what to do. And that part of the paper was never understood because people don’t understand convexity. Although Antifragile is currently my most successful book, it’s read more in 2023 than it was in 2013, the second year of publication. So same with The Black Swan. I know The Black Swan is read more now than it was a year after publication. But in spite of all of these arguments being presented, people couldn’t grasp our paper. And I discovered why, something I figured out only recently. When I talk to young people, 23 to 24, they know exactly what I’m talking about. Their parents are the problem.
+
+Tim Ferriss: So what is convexity, just to refresh?
+
+Nassim Nicholas Taleb: Okay. And again, we’re going to talk about Universa or other things embedded in the Universa story. That the convexity is if you make more — if the market goes down 10 percent, you make a million dollars; if it goes down 20 percent, you make 10 million dollars, you have convexity. And this is what everything is based on. Well, the general idea — 
+
+Tim Ferriss: [inaudible] looks like — 
+
+Nassim Nicholas Taleb: Sorry, yeah. Then we’d call it convex and concave. And probably the best illustration is how we fared in 2007. And I explained it in The Black Swan right before it happened. I looked at the risk of Fannie Mae by a deserter who’d left Fannie Mae and distributed the risk reports. We looked at the risk of Fannie Mae and noticed that if the market, say an interest rate or risk or mortgage premium or something like that, is increased by a hundred basis points, they lost X. 200 basis points, 20 times X, 300 basis points — I said, “They’re sitting on a barrel of dynamite,” in The Black Swan. 2007, five months later, they started going down and eventually they lost — they booked $600 billion losses. Okay, why? They said, “Oh,” they reacted to me by saying, “Oh, we monitor our risk, we have 15 PhDs.” Okay, whether you’ve got 15 PhD or 15 trillion PhDs, it’s not going to help you with this.
+
+So this is convexity on the losses and we’re doing the reverse on the profit side. And a lot of people get upset the way Mark presented the numbers that he writes to his investors, you file with the SEC, all the numbers are available. They tell them, “Listen, we made 4,000 percent on your maximum loss. Whereas if you invest in the S&P, you could lose a hundred percent of what you have.” So the return you have on the maximum potential loss, in other words when you go to bed in the evening, all you could lose is that much, and how much these options were explosive on their maximum loss. So that was — 
+
+Tim Ferriss: Yeah. Asymmetry.
+
+Nassim Nicholas Taleb: Sorry?
+
+Tim Ferriss: The asymmetrical [inaudible]
+
+Nassim Nicholas Taleb: That was the asymmetry is 4,000-some percent, but that’s not the first time it happened. Nobody noticed. When I was trading and I discovered it before the crisis in 1987, there was the Plaza Accord where a bunch of people got together secretly on a Sunday and made an announcement, “We’re going to support the currencies against the dollar, the dollar is too expensive.” You had a huge move. I was at work. We had a tiny risk, an explosion of my PNL. They brought detectives or inspectors to figure out why the PNL is so large for so little risk. Because you had maximum risk, all you could lose is, say, X thousand dollars and the PNL exploded. That’s how it works. They couldn’t believe — 
+
+Tim Ferriss: This is in the book, by the way.
+
+Nassim Nicholas Taleb: They couldn’t believe it, right? So I decided, “Okay, I’m going to make a living out of it.”
+
+Tim Ferriss: When you say exploded, this is in a bad way or a good way?
+
+Scott Patterson: Good. Good way.
+
+Tim Ferriss: Good way, I see. The PNL.
+
+Scott Patterson: Yeah.
+
+Nassim Nicholas Taleb: Yeah, So the PNL was too large for the risk. They say, you were supposed to only take, say — 
+
+Scott Patterson: You said your computers couldn’t handle the numbers.
+
+Tim Ferriss: Right. So for them — 
+
+Nassim Nicholas Taleb: No, no. The computers, it took — 
+
+Tim Ferriss: It’s high risk, high reward. How are you getting low risk, high reward? That’s what I’m hearing.
+
+Nassim Nicholas Taleb: No, no. They said, “You made too much money, you’ve got to be taking risk. You’re hiding something from us.”
+
+Tim Ferriss: That’s what I meant.
+
+Nassim Nicholas Taleb: And the computers would take something like 10 hours at a time to compute the PNL at the end-of-day PNL, you see?
+
+Tim Ferriss: Mm-hmm.
+
+Nassim Nicholas Taleb: So every time they said, “Go redo it,” and stuff like that, and I was frustrated because they couldn’t understand it. They couldn’t understand it. But this is the same thing happened to Mark, he explained — 
+
+Scott Patterson: This is the trade that they did for — that’s the beginning of the trade that became Empirica, Universa, something like — I remember when I was talking to Mark back in 2008, I think he would never tell me this now, but I was trying to figure out how they had such incredible returns and he gave me an example of a trade that they made, and it was — I forget the timing, but it was like a July 2008, S&P 500 put option, betting on a 20 percent decline in the S&P 500, bought for two bucks. After the crash, he sold it for 60 bucks. That’s the kind of convex, exponential return that you do not get in any other kind of trading. And you take that $2 option and you magnify it over millions and millions of dollars, you get 4,000 percent return.
+
+Nassim Nicholas Taleb: But they’re even more dramatic than $2 becoming $60 because there was — you always look at how people have lost money because when you read reports and stories, they hide the losses because nobody’s going to write a book on how they lost all this money. It’s always invariably the same. There was a story of volume investors, I think, they’re selling out of the money options on gold, and they’re selling for five cents and end up have to buy them for $40. And then there was the Niederhoffer story, same story where he liquidated when he blew up. He blew up many times, but one time he blew up, you can see the prices. He sold them for five, 10 cents and then he had to buy them back and was buying them back up to $40. That’s what I noticed — 
+
+Scott Patterson: It’s called selling volatility.
+
+Nassim Nicholas Taleb: Selling out of money, tails, rare events, and you don’t need large deviations. People panic, they pay anything or sometimes they’re forced to because the clearing houses or counterparties cannot handle the risk. They say, “We are going to close you out. Sorry.” And you close out and there’s no liquidity. It’s like the famous saying, “Sell everything.” And then the clerk, “I told you, sell everything. Why are you not moving?” He said, “Please tell me to whom, sir?” 
+
+Tim Ferriss: Let me ask a question that’s been percolating in my mind, and it may not be a good question, but I’m curious. You mentioned Soros, and I don’t know that much about Soros, I’ve never met him, but I want to say Soros is also known as the man who broke the Bank of England or the British pound.
+
+Nassim Nicholas Taleb: Yeah.
+
+Scott Patterson: Pound sterling.
+
+Tim Ferriss: So one of my questions is, in this increasingly interconnected world where the equivalent of the black plague, whatever that might be, and it could be in pandemic form or otherwise, instead of taking 300 years is over a weekend in terms of spread and things are so interdependent, is there the temptation and the risk of investors catalyzing more crises or different types of crises, not just — I don’t want to say being spectators, but there’s one thing to have an investment methodology that has certain premises and so on, that then results in a windfall return at a certain point in time with tail events. But I’m wondering if — it seems like there are hedge fund managers, I’m not saying this is what you are, but there are investors out there and hedge fund managers who take very active roles in companies. Let’s just say that they want to take a position, activist investors and so on. And I’m wondering if investors will be able to do more damage as the world becomes more interconnected. May not be a good question, I’m just curious.
+
+Scott Patterson: I think that it’s possible. I see the damage coming from negligence and bad risk-taking that ends up creating a contagion effect. Just the same thing that we saw in — 
+
+Tim Ferriss: Not among investors, but in the banking — 
+
+Scott Patterson: Yeah, banking or hedge funds or crypto. I think that financial markets over the past 20 years, and increasingly with electronic trading, are more and more interconnected than ever. And this is something I got in my second book about high-frequency trading, is how you could see the potential risk of some giant move in say a derivative contract or an index, something overseas. Because trading machines are correlating all these assets globally, electronically, at hyper speeds, microsecond speeds, that you could see something move very rapidly into all sorts of asset classes in a way that is impossible to stop because it’s so fast. That could be triggered by a trader or it could be triggered by a computer just going bananas. 
+
+Nassim Nicholas Taleb: We have noticed very early on in the 1990s, a phenomena that international diversification was no longer diversification. Why? Because of that integration. Globalization did a lot of good things, pulled people out of poverty, but a lot of things happened with it. Number one, you can’t diversify anymore because if stocks collapse here, as we saw in ’87, collapsed everywhere for large deviation, and now for mild deviation starting in the 1990s. And also, the funding disappears everywhere or comes everywhere. So this property of globalization is similar to the one that came with it that we’re going to have shortages and then gluts, now in a phase of in between shortage and glut. But shortages can be very deep where containers go up 10x in price, shipping per container, and you’re going to have a lot of the reverse happening because I’ve never seen shortages without gluts. I’ve seen gluts without shortages, but never shortages without glut. But they’re very deep. We didn’t have that before.
+
+We all depend on — the world’s getting bigger and bigger and bigger, but it’s like a large movie theater with the same door. You see, it’s the size of the door that matters when you want to get out, not the size of the theater. So the supply chain is narrow, and getting narrower and it’s got narrower. Now probably will expand and branch out and will have better networks. But people would not understand that. This is why people like to sell tail events because it costs money to diversify your sources of whatever and your supply, and it also costs money to hedge tail risk. Or you think it costs money, you have the illusion, and sure enough, you realize that if a hedge is expensive, think of the absence of hedge, how much more expensive it is.
+
+Tim Ferriss: So what’s your perspective on the capacity of investors to catalyze greater risk? Not necessarily the systemic risk-taking, although this is certainly a factor of say the banking sector or fill in the blank; but very well-funded investors who are looking for black swan or black swan-like opportunities, their ability to create a self-fulfilling prophecy in a sense.
+
+Nassim Nicholas Taleb: Okay as I say, predictions are self — 
+
+Tim Ferriss: And I’m probably not wording that as well as I should.
+
+Nassim Nicholas Taleb: Yeah, okay. But as I say, predictions are self-fulfilling and also self-canceling. You see, early on, self-fulfilling people get on the bandwagon and then sure enough, that’s how the glut takes place after the shortage. But one thing that’s quite — one should realize with the structure of the world in which we live, that although history is not indicator for many things because we live in times of different connectivity and stuff like that, the rules of what can go wrong are very simple. You see? It’s like as with pandemics, the Ottomans and the Austrians figured it out, or lazaretto, okay, it’s simple. Venetians were expert at it. Okay.
+
+The rules are very simple. There are not that many of them. And when we talk about precautionary principle, a lot of people have the illusion that it multiplies into zillions of regulations. No. One comment I would like to make about the regulators, like European regulators, they’re great at being regulators. In other words, they regulate for pleasure. And if you put 200,000 people in Brussels, of course they have great French fries and beef tallow and whatever, good duck fat, whatever. But at the same time what comes with it is these people are going to regulate you out of existence on things that are trivial. They like to do the trivial because it’s easier to sell.
+
+So they regulate vacuum cleaners, how much energy it should be or the speed of your windshield wiper on a farm tractor if it has windshield, that kind of things. But they can’t control the borders. And they didn’t think of COVID. Of all the people we spoke to, because a lot of people try to talk to me about risk, thinking that you should talk to someone like me about risk. And usually I get upset because, “Hey, where’s the next black swan?” “You’re not getting it.” The Singaporean government, because they didn’t fare very well with COVID as much as they did before, I think maybe because my friend was gone or something, but they knew, they said, “Okay, what can go wrong and let’s reverse engineer our hedge.” You see, this is the reverse of what you think and build things in a way, to withstand that kind of shock.
+
+Tim Ferriss: Are there other examples outside of Singapore? I’m very interested in Singapore and I guess, who was it, Lee Kuan Yew and the entire story of Singapore is pretty wild. Any models or leadership outside of Singapore, not necessarily related to COVID although it could be, that you think does a good job of applying precautionary principle or working backwards in the way you described?
+
+Nassim Nicholas Taleb: All traditional societies or traditional communities like Italy would resist GMOs. And also people online may say, “Oh, this is anti-scientific.” They know science is not about that, for example. So it depends on which domain. There’s some people are good at some domain, not others. Like Russia was very good at some classes of risk but not visibly at others.
+
+It depends on countries. Like Italy got paranoid about nuclear and there’s one attribute of our environment that we should realize, is the non-trivial effects of propaganda on the mind of people, particularly when it’s well organized. The KGB was not very good at spying, we discovered, but was very good at disinformation. So everybody panicked about the nuclear because they didn’t want Reagan to put ballistic missiles in Germany. And they infiltrated — Putin knows something about it when he was in [inaudible], they infiltrated all these green movements by directing the greens against nuclear, for example. So I truly think that we’re suffering a lot from this disinformation up to today when people worry about some risks, not others.
+
+Scott Patterson: Another example of that is Germany with Fukushima, that freaked out over something that actually didn’t kill people. Shut down their entire nuclear program and in its place opened up a bunch of coal-fired power plants.
+
+Nassim Nicholas Taleb: Coal, yeah.
+
+Scott Patterson: Which is obviously much more direct risk to humanity than nuclear power plants that don’t kill people.
+
+Nassim Nicholas Taleb: The radiation in Chernobyl — I knew that when I was writing The Black Swan, I didn’t talk about it because I know it was dicey; was lower than that in Utah. But it’s not the point. Chernobyl is too big. If you make small reactors, let them blow up. It’s not going to go beyond — so what happened if you consider — because of convexity you see, one reactor is vastly more dangerous than 10 small ones, and the 10 small ones are not likely to blow up at the same time. So if one reactor — what’s the factor, what’s the multiplier? But they are non-linearities. But definitely when you have a lot of small ones, it can blow up at different times.
+
+One thing about our previous conversation, when you say the banking sector, banking sector — the banking sector is very safe for one reason, it’s a utility. With high-paid bankers living around here, you see have big Soho lofts, $10 million Soho lofts, basically utility because they don’t let it go under. It’s not the one you’ve got to be worried about. It’s the saving it, again, they had to worry about the effect of saving it. We saved it in 2008 with what? Government debt, and it exploded. And then again in 2020 they wrote so much commercial paper, so many things. Again, all these things aimed at saving the financial system bank-wise have spillover effects, but they’re going to save the bank system because you cannot operate without it. Plus another thing has happened, is that banks used to take a lot of risk. Since 2008, risk has migrated from banks to hedge funds. Now it’s less concentrated, but it still can be concentrated.
+
+Tim Ferriss: In what way can that be concentrated?
+
+Nassim Nicholas Taleb: In other words, he has a friend who has a big fund that’s larger than a lot of banks, you see, but — 
+
+Tim Ferriss: Yeah.
+
+Scott Patterson: You mean Citadel?
+
+Nassim Nicholas Taleb: I’m not mentioning names. So there’s a lot of big hedge funds, but I guess they can be diversified. Hedge funds have skin in the game. In other words, the owner of the hedge fund has money in it, unlike a bank where you just have the upside, not the downside. But of course — 
+
+Scott Patterson: There’s long-term capital management, is the counter example.
+
+Nassim Nicholas Taleb: No, it is — 
+
+Scott Patterson: They have skin in the game.
+
+Nassim Nicholas Taleb: Okay, so there’s two things — 
+
+Scott Patterson: Became very systemic.
+
+Nassim Nicholas Taleb: No, no, it is. The skin in the game is a disincentive of course. But also, skin in the game is a filter, you see. So where are the people from — is anybody from Long-Term Capital Management still around?
+
+Scott Patterson: Last I heard John Meriwether, 10 years ago, was trying to start a hedge fund.
+
+Nassim Nicholas Taleb: Well, there you go.
+
+Scott Patterson: No.
+
+Nassim Nicholas Taleb: So if you can’t recover if you’re — the skin in the game has flow-on effect. The reason you don’t see too many crazy drivers is because they’re dead. Because you inflict risk on others, but you experience the same risk, so you tend to exit the pool.
+
+Tim Ferriss: So it seems then, maybe I’m misunderstanding, but that the migration of risk-taking to the hedge funds, assuming that the GPs or the people running the fund have sufficient skin in the game, would seem to be a net positive.
+
+Nassim Nicholas Taleb: Hedge funds are okay, but we have had the risky part, the ones that are most fragile, the private equity, and of course by far people who need funding. Because I don’t know if you realize, but since we had our three bottles of pink champagne, four bottles — whatever. A lot of pink champagne to celebrate Lehman’s departure from this town, since then they put interest rate at close to zero. So when I was a student and everything, for me an investment was something that generates cash flow. So you build something that generates cash flow, so you value cash flow and/or residual value at the end. So you can tolerate negative cash flow if you’re going to get some later on or if — so it’s like us if you discover gold later on. So the business model was cash flow based with a short-term or long-term cash flow. The world has changed, all right? In the funding world, what is the game now, is who you’re going to sell your company to.
+
+Tim Ferriss: I see. So you’re talking about startups in this case?
+
+Nassim Nicholas Taleb: Exactly. Startups or a lot of investments. You buy an apartment, you buy a house, you buy a building, you buy something, or you invest in some crazy idea. And someone was contacting me about LLM models, ChatGPT, by saying, “Oh, we have this startup. I’m investing in this startup.” I looked at the rationale and then he said, “Yeah, I’d be able to sell it in more than two years.” I said, “Listen, this is a trap. Okay?” So companies, say, even Twitter, was operating on a following modus. We go to the market as a cash machine, so don’t even have to generate cash. So basically everything came from — it has Ponzi characteristics. Someone else will buy our company or we’re packaging a company to sell it to someone else.
+
+Now, that started before the great financial crisis, but it was very moderate. Of course it took place during the crazy period of the internet bubble and then died. So we had had episodes of that effect, but now it’s ingrained. And people had now for 15 years of low interest rates. You have people in their forties who’ve never seen interest rates. And they don’t know how to behave, they don’t know how to invest. So I think the most fragile part today is not the banks of course, as we said. And it’s not hedge fund because it’s sort of like mature adults typically. It is those startups and the VCs, the venture capitalists. Venture capitalists actually played quite a nasty game because they cashed out. All of them are rich on companies that never made a penny. You see? I know there’s a lot of — take how many billionaires you have from Silicon Valley, whoever made a penny. It’s valuation maybe, as you say.
+
+Tim Ferriss: Yeah, yeah. There’s a lot to that game. I will say also, I think there are going to be tremendous, just, fatalities in the next probably three quarters in the startup world because there’s been a lot of contraction of funding. Which I think is ultimately probably a good thing, but a lot of these companies are raised [inaudible]
+
+Nassim Nicholas Taleb: It’s not a good thing, it’s a necessary thing.
+
+Tim Ferriss: Yeah, no. Well, right. It’s culling of the herd, so I think we’re going to see a lot of — 
+
+Nassim Nicholas Taleb: But think about it. Finally we’ll get waiters because we have shortage of waiters. We finally would get wait — I mean you go to restaurants and they have one waiter for the whole room. And they said, “We got more waiters, we got more people who will help you mow the grass and stuff.” We’ve got a lot of supply of — 
+
+Tim Ferriss: Former startup founders serving you your Negroni. We’ll see how it shakes out. I’m curious to see. 
+
+Tim Ferriss: Nassim, and are there any ideas, concepts you would like to discuss? Is there anything that we’ve missed? Ed Thorp, we could always talk about Ed Thorp.
+
+Nassim Nicholas Taleb: No. Convexity is at the center of things, and so I started writing on convexity, or studying convexity, between the time we had the — 
+
+Tim Ferriss: The eggs and the champagne?
+
+Nassim Nicholas Taleb: The eggs, no, no. The eggs was 2002. 2001, 2002.
+
+Tim Ferriss: The eggs issue.
+
+Nassim Nicholas Taleb: And since then, I had some 80 scientific papers. So my enemies, they don’t how to handle it, because they can’t say it’s not science. So anyway, but I think that the central thing for me is convexity, and it led me into papers in oncology, in medicine. Because again, oncologists knew stuff, doctors knew stuff, but the language they used did not accommodate this notion of convexity, 10 times one, the non-linearity. They sort of suspected it, but it was not formalized.
+
+So I just published something in oncology. We did a lot of stuff in epidemiology, on tails. So convexity and tails, convexity is the most important. For example, people don’t realize that convexity means you like volatility. Concavity, you don’t. [inaudible] you’re convex. And people missed the point that was already mentioned in a paper I wrote before COVID, on citing sources for lung ventilators. That if you give someone a dose of 100 percent, the person may die. But if you give that person 80 percent, 120 percent, they have a much higher survival rate. Why? Because they like volatility. We like to get things, our system likes to get volatility.
+
+Tim Ferriss: Sure, heart rate variability.
+
+Nassim Nicholas Taleb: Sorry?
+
+Tim Ferriss: Like heart rate variability.
+
+Nassim Nicholas Taleb: Like heart rate — when I wrote Antifragile, I was writing in between 2009 and 2012, nobody believed in heart rate variability. You see? They thought you need a steady heart rate, and it’s a predictor of death. So it’s the same thing for a lot of things, where you have — that’s a convexity effect. So that’s sort of what I’m focusing on now, is these convex responses, convex stuff applied to fields where they need to be applied, like medicine.
+
+And same thing with nutrition. But nutrition figured out early on, intermittent fasting, where it’s a convexity thing. Instead of having a dose throughout the day, you have it and it’s a different response, but there’s a limit. You see? A concentration limit. You’d rather have your calories, once a day is okay. Once a week, not so sure. You see? So there’s an optimum thing. It’s the same thing can be generalized to other things. This is what I’m working on, and it’s taken me a while. All that comes from optionality, option trading.
+
+Tim Ferriss: Does it make sense for people to become familiar even if they never engage with options in some basic education in options trading? Or would you say skip that and study — 
+
+Nassim Nicholas Taleb: Skip that, because they’re going to sell options. I would say they used to say nine-tenths of option players will be sellers. I think it’s 99 out of 100. It’s so appealing, because someone’s going to give them the story, “You sell option, you have steady income.” There’s nothing people like more than steady income. And the reason Mark is in business, because he’s the only person I know who doesn’t care about having the psychological prop up of having steady income. Because everybody else will have steady income, they would debase the trade to have a steady income. And sure enough, you get steady income by selling the tails.
+
+And that is generalized. To give you an idea, companies that have steady income are short an option somewhere. But that can be — 
+
+Tim Ferriss: Say that one more time.
+
+Nassim Nicholas Taleb: Companies that have steady income are short an option somewhere. You see? So it’s not trading option that will help you. It’s looking at optionality in business and in places who will short that optionality. You can have two funds. They all have now same return. One fund can have a lot of short options, and one fund can be robust. You won’t be able from the outside — and security analysts have no idea.
+
+Scott Patterson: Weapons of Mass Destruction, that’s [inaudible].
+
+Tim Ferriss: Weapons of Mass Destruction.
+
+Scott Patterson: Ordinary people should stay away from these derivative contracts. And it’s one of the things that I had to deal with this book, with my editor and people who’ve interviewed me since then, is everybody wants to know how to do the Universa trade. Mom and Pop, how does Mom and Pop protect themselves against these things? Because in the book, I warned, these downturns are very bad for your portfolio. These are things that kill you. If you go down 40, 50 percent — this is something that Mark talks a lot about, you lose 50 percent. To get back to where you were before it happened, you have to make 100 percent.
+
+So these are the things that you really want to protect yourself against. And my editor was like, “Well,” he wanted to know for his — because he was getting scared. How does an ordinary person do this? How do they protect themselves against these big events?
+
+Nassim Nicholas Taleb: My answer is, an ordinary person should focus on her or his business. A dentist should focus on dentistry, not trading gold. I mean, my experience, you see people whose business is not finance, and they think that they’ve got to make money out of their checking account. So what happened is they have so much scrutiny by their own business. Say, they run a bakery, they know the suppliers, this guy pays this guy, they know all the risks. And then they blindly put their money into something they have no idea what’s going on. Okay?
+
+So this is where the sucker — you know what I’m saying? It’s domain independent. Some people are skeptical in one area, but don’t transfer to stock market. It’s the same thing. So there’s something about the stock market, particularly with the weakness of religion that makes people believe in stories of returns, but not believe in theological arguments that we’ve had for 2,000 years. So it’s the same thing. It says, that sucker — and so I tell people, “Listen, what do you do?” “Oh, I have a bakery.” “Focus on baking, and use your money to preserve. That’s not your business.” So this is what you tell a pop and mom. You don’t tell them how to do universal trade. You tell them, you just — 
+
+Scott Patterson: They can’t do it.
+
+Nassim Nicholas Taleb: Yeah.
+
+Scott Patterson: That’s the problem. It’s just not an option.
+
+Tim Ferriss: After being in Silicon Valley for 17 years and having some pretty good luck with startups, I get the question of, “How can I invest in early stage startups?” I’m like, “Don’t. Do not, under any circumstances, do that.”
+
+Scott Patterson: Yeah.
+
+Nassim Nicholas Taleb: Don’t, exactly.
+
+Tim Ferriss: It’s like, unless you’re living in the middle of the switchbox and you’re dedicating your time to that, do not do it.
+
+Nassim Nicholas Taleb: Yeah, unless you’re a trader, don’t trade.
+
+Tim Ferriss: Yeah.
+
+Nassim Nicholas Taleb: Unless you’re a baker, don’t bake. Unless you’re a dynamite maker, okay, don’t make dynamite. And stuff like that, it’s elementary.
+
+Tim Ferriss: This is Scott, the new book, Chaos Kings: How Wall Street Traders Make Billions In the New Age of Crisis, is available where all fine books can be found. And can find you online, ScottPattersonBooks.com. On Twitter, @PattersonScott. And Nassim, where would you like people to engage with you, if they engage with you. Or with your books, understanding that you have begun work on these various, I suppose, parts of your multi-part essay at different points in time. Is there a place where you would suggest people engage with your work first? I suppose it depends on their orientation.
+
+Nassim Nicholas Taleb: Randomly. I think Fooled By Randomness is the one that people like the most. The Black Swan, the one they slight the most. And Antifragile is the one they misuse the most.
+
+Tim Ferriss: Misuse.
+
+Nassim Nicholas Taleb: Misuse, yeah. Because they say, “Oh, yeah. The virus, you get stronger. What doesn’t kill you make you stronger.” I know, but what kills you doesn’t make you stronger. I mean, they’re not getting it right. The first thing to be antifragile is first, you have to eliminate fragilities. You see? That’s the first rule. You eliminate, you tail risk. You don’t open it up. So I don’t know, but I would say Fooled By Randomness is a good start. Or if you’re a lawyer, Skin in the Game. I have no idea, because I’m not thinking in terms of my past books. I’m thinking about the book I’m writing now.
+
+Tim Ferriss: Yeah, what are you working on now? If you can say.
+
+Nassim Nicholas Taleb: Well, two things. There’s a technical Incerto, second volume, which is all the scientific papers around these points. And I’m working now on a book that is pretty much structured like an Ancient Roman, a Latin language treatise with questions and stuff like that. And it’s liberating to be able to write without having the narrative, just point-blank. And in it, I cover all these points. Question, what is convexity? And I’ve decided to do all of that in one book, and it’s going to be called Principia. For example, why the risk of an individual getting this doesn’t translate into a collective risk in the same way — 
+
+Tim Ferriss: Right, the swimming pool versus [inaudible].
+
+Nassim Nicholas Taleb: The swimming pool, stuff like that. And also, why, you can generalize, a lot of it has to do with scalability. People have the idea that we should have virtuous individuals to have a virtuous society. Typically, if you force — no, a lot of greedy individuals can build a virtuous society. That’s the Adam Smith argument, or [inaudible] before.
+
+So the idea of scalability, for example, is the most misunderstood thing. Like a town is not a small village. I started the topic in Antifragile, about how things scale differently. So a town is not a large village, a country is not the same as a municipality. And why, for example, you could be libertarian at the national level, and autocratic at the municipal level. You see? Or communist in the kibbutz, but libertarian at state level. You could have a lot of these gradations, so things are more complicated. Among these things I debunk in it, and then finally, one idea that also be would exposed but structured in it, on the main difference between BS and non-BS, what I call verbalism.
+
+Tim Ferriss: BS, as in bullshit?
+
+Nassim Nicholas Taleb: Yeah.
+
+Tim Ferriss: Yeah, okay. No, I was just making sure I’m understanding.
+
+Nassim Nicholas Taleb: Let’s call it verbalism and non-verbalism. What is non-BS? Because a lot of scientific papers have BS, and a lot of casual things don’t have BS. So I’m exploring all of these in a volume. I may call it Summa, or Principia, to give it an arrogant title. Principia.
+
+Tim Ferriss: Principia, I like it.
+
+Nassim Nicholas Taleb: Or Summa or Principia in [inaudible] or something — 
+
+Tim Ferriss: So what characterizes non-BS? I have to ask. Or BS — 
+
+Nassim Nicholas Taleb: I have rigidity of meaning. Rigidity of meaning. I learned that from arbitrage trading. I learned a lot of things from trading. And arbitrage trading, a law of one price. If you combine things, they should have the same price here in Singapore, or downtown, uptown, combination that you should have no arbitrage. I can’t really buy — I used to do arbitrage. I used to buy, I started doing arbitrages, like buy an option with this, this converted to across [inaudible], and end up with something cheaper than some other one I would short, and then you’d get it. So it should not have a law of one price. It’s a rigidity of meaning.
+
+So whatever words you use always refer to the same thing. That’s what, my criteria of rigidity. In it, by the way, I cite you, in my new book.
+
+Tim Ferriss: Well, hopefully it’s a good citation.
+
+Nassim Nicholas Taleb: What you call retrospective, what you call bigger tiering.
+
+Tim Ferriss: Oh, yeah. Yeah, yeah.
+
+Nassim Nicholas Taleb: Okay. So in other words, I have so-called retrospective, bigger tiering. I have one section, is on scalability, and one section is on the passage of time, how we don’t get time right. And in it, I explain why, for example, it is improper to blame someone, a past individual retrospectively, for values we have today where we didn’t have then.
+
+Tim Ferriss: Yeah.
+
+Nassim Nicholas Taleb: You see? It’s like, for example, “Aristotle did not like — he was a male chauvinist.” I say, “Okay. It is wrong. Yeah, we know now. But he didn’t know.” You see? He didn’t know. It’s just like saying, “Okay, why don’t we blame him for not using a computer?” Okay, there’s no computer at the time. So you’ve got to look at it in these terms. It should not flow back values backwards.
+
+But effectively the Talmud, which I’ve been studying for a while, had a lot of things on it.
+
+Tim Ferriss: How did you — 
+
+Nassim Nicholas Taleb: And let me tell you what it has on it. So for example, they say Noah was virtuous for his day. Someone pointed it out to me in the Talmud, because I got a lot — Twitter is very helpful. But I like these ancient texts to see how they would judge their own. You see? Effectively, when in the 18th century, they had different values than the 15th century. And how did they judge them? And at the same time, wise people know that, “Hey, they did not — it was not part of the customs at the time.”
+
+Tim Ferriss: How did you decide specifically on the Talmud?
+
+Nassim Nicholas Taleb: No, I liked — 
+
+Tim Ferriss: Because that’s not your upbringing.
+
+Nassim Nicholas Taleb: Okay, no. It’s because I like Aramaic, which is closer to my native language. It’s Levantine dialect, Aramaic. And then started having interaction on Twitter with people who are Talmudic scholars. And you — 
+
+Tim Ferriss: Based on the interest in the language?
+
+Nassim Nicholas Taleb: No, I put something in there. No, my interest in language, I have interest in ancient languages more than interest in ideas. But I’m poor with languages, so it’s not taken me anywhere except exploring texts, and I’m enjoying stuff. So you have a collection of ancient wisdom embedded in the Talmud, that is very interesting, because it’s monumental work.
+
+Tim Ferriss: I’m just wondering, I guess, in addition to or amongst the different sacred text or scriptures that you could study, why that stands out?
+
+Nassim Nicholas Taleb: No, what stands out really is more like someone like Aquinas, The Summa Theologica, because written by one person. Whereas the Talmud is a concoction of opinion on opinions. All right?
+
+Tim Ferriss: Yeah.
+
+Nassim Nicholas Taleb: But I like the Talmud only because I have the privilege of understanding Semitic languages, so I’m enjoying it more for linguistic stuff, just for the fun of it.
+
+Tim Ferriss: I see, I get it.
+
+Nassim Nicholas Taleb: And it’s fun to read something and you understand, so this is why I — 
+
+Tim Ferriss: [inaudible].
+
+Nassim Nicholas Taleb: — plus it is, effectively, a body of work that’s quite monumental, that took centuries to build a collection of scholars talking about scholars and discussing one another over time. This is what I like about Aquinas is, took a topic, and boom, put everything in it, all the questions and answer you can have in it. He questioned himself. So this is why I’m much more impressed with Aquinas as an individual. I could never imitate Aquinas. So I could be as a scholar, like one of those who contributed to that Talmud, or one of small contributor — that Talmud, that collective piece of work.
+
+Tim Ferriss: I’m so jealous of your — 
+
+Nassim Nicholas Taleb: Sorry?
+
+Tim Ferriss: I’m jealous of your ability to engage with the Semitic languages, and just be able to access some of the text in its original form. I’m very jealous of that.
+
+Nassim Nicholas Taleb: No, I enjoy that. I don’t do as well with Greek as I should, Ancient Greek. I can do better with modern. But Latin is easier than Semitic languages. But the grammar is more complicated than Aramaic and Latin.
+
+Tim Ferriss: Well, we could go down that rabbit hole. Maybe save that for the next round. I know we have food and booze to get to. But Scott, is there anything else you’d like to mention before we wrap up? Anything that maybe we didn’t get to, or anywhere you’d like to point people that I didn’t mention? Or the next book that you’d like to give a teaser for? Anything at all that you’d like to mention before we wrap up?
+
+Scott Patterson: No, we’ve covered a lot. I really appreciate you taking the time. I appreciate Nassim taking the time. I don’t know about my next book. I mean, I’m right now just completely immersed in this climate, world, and last year of the Biden administration passed the inflation reduction act, which has nothing to do with inflation.
+
+Nassim Nicholas Taleb: Yeah.
+
+Scott Patterson: But that thing is sending shock waves through the climate technology world in ways that’s just — it’s kind of mind-blowing. And it’s changed the game for America, at least, in its attempt to catch up with what China has started more than 10 years ago, to develop these technologies. But it’s going to take a while, but in my opinion, it’s pretty necessary to start doing that.
+
+Tim Ferriss: Yeah. I find the entire space super fascinating. And I know we were talking about the ideas in the current books. We didn’t allocate a lot of real estate to that particular topic, but I was thinking about what you were mentioning about climate change and some of the challenges in engaging different parties. And what I’ve found — I live in Texas, right? A lot of people engaged in the hydrocarbon businesses and so on, and I’ve spent time with a lot of these people, who are not stupid. Right?
+
+Scott Patterson: Yeah.
+
+Tim Ferriss: There’s some very smart people. But you study the incentives, and you see certain behaviors, you looked at the sort of incumbent interests. And where I have found productive conversations to be had is if I avoid certain types of language.
+
+So for instance, if I don’t mention climate change, but I say, “Let’s put aside the question of whether humans are causing this or not,” which is very painful for a lot of people to do, but it’s a great way to fight. But if I’m like, “Look, let’s put that aside and just look at extreme weather events, and look at some of the upset potential with some of these technologies,” like where they could find financial incentives outside of some of their current sandboxes, I’ve had pretty good luck engaging people with that. I don’t always have the most compelling opportunities to immediately present them, necessarily, although there are quite a few out there.
+
+Scott Patterson: I’ve been working on some stories about climate technology in Appalachia. So I’ve had a lot of conversations with Republican lawmakers in states like West Virginia about efforts to bring in renewable energy into the state. And you can have perfectly rational conversations with them, and they love it. And you don’t talk about global warming or climate change, you talk about energy.
+
+Tim Ferriss: Yep.
+
+Scott Patterson: And you talk about why would we not use this new form of energy that’s actually cheaper than everything else, wind and solar? And they get that. They’re like, “We’re energy people, we understand it,” and they’re embracing it.
+
+Tim Ferriss: Yeah, I think energy independence is sort of a bipartisan — 
+
+Scott Patterson: That, in competition with China — 
+
+Tim Ferriss: — in competition. Well, I guess we can save that for round two. But really appreciate the time from both of you.
+
+Scott Patterson: Thank you.
+
+Tim Ferriss: And took a ton of notes. For people listening, also, we’ll have show notes linking to everything that we mentioned, as usual, at tim.blog/podcast. So you’ll be able to find references and links to certainly everything I have in my notes, and a lot more that came up in conversation. Any last parting words?
+
+Nassim Nicholas Taleb: You’re not going to play with dinner this time. I’m paying.
+
+Tim Ferriss: Okay, agreed. Agreed. No games.
+
+Scott Patterson: [inaudible].
+
+Nassim Nicholas Taleb: And last time, he went and paid.
+
+Tim Ferriss: No games. I won’t skulk off and surreptitiously pay for anything. So on that note, off to dinner we go. And thank you very much, guys. And to everybody listening, thanks for tuning in.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+NASSIM NICHOLAS TALEB, SCOTT PATTERSON
+	
+Post navigation
+Previous Post
+PREVIOUS
+Nassim Nicholas Taleb & Scott Patterson — How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More (#691)
+Next Post
+NEXT
+Arthur C. Brooks — How to Be Happy, Reverse Bucket Lists, The Four False Idols, Muscular Philosophies, Practical Inoculation Against the Darkness, and More (#692)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

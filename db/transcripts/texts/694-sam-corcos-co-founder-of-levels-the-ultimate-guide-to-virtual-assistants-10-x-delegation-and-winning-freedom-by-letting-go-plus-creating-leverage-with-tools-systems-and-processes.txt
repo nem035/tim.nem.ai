@@ -1,0 +1,1533 @@
+https://tim.blog/2023/09/21/sam-corcos-transcript/
+
+#694: Sam Corcos, Co-Founder of Levels — The Ultimate Guide to Virtual Assistants, 10x Delegation, and Winning Freedom by Letting Go (Plus: Creating Leverage with Tools, Systems, and Processes)
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+SEPTEMBER 21, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Sam Corcos, Co-Founder of Levels — The Ultimate Guide to Virtual Assistants, 10x Delegation, and Winning Freedom by Letting Go (Plus: Creating Leverage with Tools, Systems, and Processes) (#694)
+1 COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Sam Corcos (@samcorcos), the CEO and co-founder of Levels, an a16z-backed startup that shows you how food affects your health, using continuous glucose monitors and other biosensors.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform. Watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#694: Sam Corcos, Co-Founder of Levels — The Ultimate Guide to Virtual Assistants, 10x Delegation, and Winning Freedom by Letting Go (Plus: Creating Leverage with Tools, Systems, and Processes)
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Sam, nice to see you.
+
+Sam Corcos: You too.
+
+Tim Ferriss: And I have been looking forward to this because I know how organized and systematic you are. And for people who didn’t see what came before this, I asked you as I asked many of my guests what would make this a home run or time well spent. And you said, well, I know that is one of the questions you like to ask based on my research. So let me open my notebook and you add answers. And one of them that we can mention is an ambitious goal, but I think it’s an achievable goal, which is to make this one of the most comprehensive tactical guides to delegation. And within that, there’ll be a lot of process and I have a lot to learn. But let’s begin at the beginning. When did you start taking delegation seriously?
+
+Sam Corcos: Well, so, true story, it came from reading your book almost exactly 10 years ago. And I posted an ad in Craigslist for an EA. I had nothing for her to do. I just knew from reading your book that this is a skill that I need to develop. I ended up hiring Lori, who’s been working with me now for 10 years.
+
+Tim Ferriss: Incredible.
+
+Sam Corcos: Yeah. And she showed up and I thought, okay, what do we do now? What now?
+
+And I made it my mission to find things that I was doing that I could hand off to her. And some of the most common things that Lori does for me now are probably the most helpful one is during the course of the year when I see something that makes for a really good Christmas present for somebody, I’ll just send her a note and say, “Hey, get this for my brother for Christmas.” And then November comes around and there’s the scramble to think like, oh, man, what do I get for Christmas? And she says, “Well, you already purchased these 11 things for all these people.” It’s like, oh, cool.
+
+Tim Ferriss: Fantastic.
+
+Sam Corcos: And she wraps them and she sends them. So it’s pretty easy.
+
+Tim Ferriss: Problem solved. So 4-Hour Workweek, Craigslist, Lori, and 10-year anniversary, pretty remarkable on a whole lot of levels. When you first began working with Lori, what were some of the mistakes that you made? Or, if this is easier, broadly speaking, because you’ve seen so many examples of people attempting to delegate. You’ve seen the good, the bad, and the ugly. You’ve tried a lot of different things, but what are some of the more common mistakes that people make or if we take a step back, why people don’t delegate in the first place, perhaps?
+
+Sam Corcos: Yeah, I’ve seen a lot of them. I think probably the first and simplest one is people have tried and they had a bad experience. And a lot of it comes from a lack of experience from the person who’s doing the delegating, but sometimes it’s just a bad match. We work with a lot of EAs at Levels, and we probably have to rematch maybe 30 percent of our EAs just because there wasn’t a fit. And a specific example of that was Zach, our head of legal, we paired them with an EA, really didn’t see any improvement there. And so we asked him how it’s going. He said, “It’s fine.” And then we decided, let’s just try.
+
+Tim Ferriss: “Everything’s fine. It’s fine.”
+
+Sam Corcos: Exactly. So we decided, all right, let’s rematch. Maybe we’ll find somebody who had a legal background in the Philippines.
+
+Tim Ferriss: So rematch, just so I’m clear on terms, doesn’t mean that you’re matching that person with another person in the organization. It means let’s find an alternate option.
+
+Sam Corcos: Let’s just find a different person to be your EA. A whole new process, different people, different background. And then the second time around, it was night and day difference. She understood all the terminology and his output easily doubled and his stress levels just really dropped. He was able to manage his time, had way more time for deep work, and it really just improved his satisfaction. So I would say that’s a big one. It’s just, if you have one bad experience, don’t assume that you can’t have a good one.
+
+Other reasons, one is imposter syndrome, is another one. I’m reminded of a recent conversation I had where somebody was struggling to delegate, and one of the things they said is, “Well, who am I to tell them to do this task that I don’t want to do?” And I find reframing is usually a good way to do it. One would be, “If I delegated this to you, how would you feel?” And they said, “Well, it’d be really great, it shows that you trust me enough to do this task.” And I said, “Well, by not delegating this to that person, you’re actually stunting their career growth and you’re not giving them that opportunity to prove themselves.” And so those sorts of re-frames can be helpful, but that’s another very common one. I have a couple more notes here.
+
+Tim Ferriss: So I want you to refer to the notes. I want to plant a seed, which is where we’re going to go shortly, because I’d like to zoom and zoom out. Just talk about some of the things that make Levels different, some of the characteristics that make the company different in terms of process, tools, principles, et cetera. So we don’t have to go there right now, but what other line items might you have?
+
+Sam Corcos: Yeah, so another one is people feel like they don’t have enough for a full-time person to do.
+
+Tim Ferriss: I feel like this is very, very common.
+
+Sam Corcos: It’s very common. They’re like, “What would I even have them do?” And usually when you really push them and they finally get one, they say, “Why have I been waiting so long? This is so much better.” But a big part of it is, remember that they are working for you to help you be more productive. And where a lot of people struggle is they end up creating busy work when it’s really not useful for either person to be doing work that is not adding value. So if you find yourself in that situation, just say, “Hey, I only have 20 hours of work this week. Read these books, take a vacation.” Just something that they can do. It’s like, “Hey, do anything else other than create more work for me.” That’s really the way that the relationship needs to go in order for that to be effective.
+
+Tim Ferriss: Are there any, we’re going to bounce around a lot, and we are going to zoom out to the company level in a second, but read these books. Are there any books that you strongly recommend or require as reading for two groups, people in the company, so employees and then EAs of people who work in the company or your EAs?
+
+Sam Corcos: We don’t have a required reading list for the EAs. We have a strongly recommended reading list for a lot of people at the company. And we have a — 
+
+Tim Ferriss: What does the strongly recommended reading list look like?
+
+Sam Corcos: So actually, we have a team book club every month where we read these books and we’ve been around long enough to where we’ve recycled some of them and they’ve come back up. Some that really come up a lot are No Rules Rules, which is the book on Netflix culture, 15 Commitments of Conscious Leadership is another one, which I know you’re familiar with.
+
+Tim Ferriss: Yes, indeed.
+
+Sam Corcos: Another one that I know you’re familiar with is Nonviolent Communication, which really should just be required reading for all people — for all humans.
+
+Tim Ferriss: All humans.
+
+Sam Corcos: Yeah. I have found one sticking point with that book is the title. I recommended it to a friend who had the exact situation that this book was meant to solve. And he said, “Well, the problem I’m dealing with doesn’t involve any violence.” It’s like, no, no, no. It’s not the point. It’s about non-threatening communication. It’s about how do you have these conversations without triggering that fight or flight mentality.
+
+Tim Ferriss: Great framework, not the best branding.
+
+Sam Corcos: Yeah, exactly.
+
+Tim Ferriss: If you were, I’m going to explore this a little bit more, and there may not be much to explore, but if you were to have your EAs read books that you think would aid them in their capacity in being a remover of obstacles, a smoother and creator of process perhaps, are there any that would come to mind? Maybe they’re the same books, who knows?
+
+Sam Corcos: It would probably be something process-oriented.
+
+Tim Ferriss: Like The Checklist Manifesto.
+
+Sam Corcos: Yeah, exactly. Something like The Checklist Manifesto would be a really good choice for that, where it’s just thinking about process.
+
+Tim Ferriss: I’ve been thinking about rereading that myself. I actually had that book face out on one of my bookshelves for several years, just to remind me, keep it simple, stupid. It doesn’t need to be improv jazz every day.
+
+Sam Corcos: Definitely. It’s a short read too.
+
+Tim Ferriss: It is a short read. All right, so company: Levels. What are some of the things that might surprise people out there who have image A of what a startup or a company looks like?
+
+Sam Corcos: It’d probably be a lot of things. We’re trying some pretty radical experiments in organizational design. For example, we’re building in public, all of our investor updates from the beginning of the company, from day one are public on our website. All of our team all-hands weekly are public on our website. We’re super transparent. There’s a phrase that we took, I think this might be from Netflix, which is “Treat people like adults.” And I would say a lot of our values as a company are really downstream of “Treat people like adults,” because when thinking about company culture, what that means, I really think that it means, it is the set of assumptions you can make about the other people around you that you work with without having ever interacted with them before. If you can make the assumption that they are not going to gossip, that they are going to close the loop on your communication so you don’t have to set reminders for yourself, all of the things — 
+
+Tim Ferriss: Can you give me an example of that?
+
+Sam Corcos: Yeah, so the closing loop would be something like when you deliver something, you then send them a message saying, “I completed this task.” And so the more of these open loops you have where you feel like, “Hey, did you ever finish that thing?”
+
+Tim Ferriss: It’s exhausting.
+
+Sam Corcos: It’s exhausting. Exactly. And so just closing the loop on that, and some of these are very simple things.
+
+Tim Ferriss: So the assumption is people will carry something into completion once you have assigned it. A couple of questions just on those two as examples. So I feel like treating people like adults is one thing, but there are a lot of gossipy, mean-spirited, unreliable adults in the world, so probably mature, competent adults. And are there tools that you use to remove some of the need to have follow-up, or is it just assumed that people have their own set of tools like an Asana or something else? I’m just wondering how much the toolkit enables you to help treat others like responsible adults.
+
+Sam Corcos: So there are definitely tools that can help. I would say that a lot of it is really just a commitment to following through.
+
+Tim Ferriss: These are the expected outcomes/responsibility/commandments of being a responsible adult. So this is just table stakes for the culture that we’re building here.
+
+Sam Corcos: Yeah, we have a memo internally, which is I think also published externally. Most of our strategy memos are published externally, but it says that “A lack of communication is a lack of performance.” And this is something that I think a lot of people mistake is they say, “While I did my job, I just didn’t communicate well.” And they say, “Well, sure, I can always improve my communication.” And they feel like it’s not an important thing. And we’ve really taken that to say, “Okay, well, your communication is part of your performance, so I don’t care how well you think you did on this task, if you failed to communicate it while it was being done and you failed to close the loop to let the people know that it was done, who you’re accountable to that is a failure of performance, not a failure of communication as a separate category.”
+
+Tim Ferriss: It’s like an ancillary minor component. It was an integral part of the entire puzzle of performance.
+
+Sam Corcos: For sure. And I would actually add to the tools for the gossipy part as well, that we record all of our meetings. So there’s just a setting on Zoom you can set at the organization level of just default record. And so we have that on and we tell people it’s default record, not mandatory record everything, but over time people get used to it. And you just record more things. Recently — 
+
+Tim Ferriss: How do you explain that to them?
+
+Sam Corcos: “We have a memo.” Yeah.
+
+Tim Ferriss: Well, I think Bridgewater did this, Ray Dalio’s outfit, although he’s not operationally involved much anymore, I don’t think. But in the memo, what was the gist of explaining why it’s not a surveillance state or the reason for it being a surveillance state?
+
+Sam Corcos: Yeah, the gist of it is that the intent of recording is that it is way easier to just get first-person information. Let’s say me and an engineer have a call and we’re working through a problem and somebody else also needs context on it. Your options are okay, every person who could conceivably need this information needs to be in this meeting in real time right now.
+
+Tim Ferriss: Or you translate in some clumsy fashion and things get lost, or “Here’s the recording.”
+
+Sam Corcos: Or “Here’s the recording.” This is literally what we said at the time that we said it. There’s no misinterpretation, there’s no anything. It’s just it is what was said at the time it was said. And there have been many, many times where that has been a useful resource. We’ve actually taken this a step further recently where we now default share all meetings including one-on-ones. That doesn’t mean that you’re required to, if something comes up, if you say something you didn’t mean to say, this is not meant to be like a gotcha thing. If you say something and you say, “Hey, I don’t want to share.” Then you don’t have to share it. There’s a process for auto sharing that you can just stop one of these recordings from being shared. It’s totally fine.
+
+Tim Ferriss: What is the logic on the one-on-ones being recorded?
+
+Sam Corcos: So the one-on-ones have been recorded for a long time. The recent change, which was in the sharing is the sharing. And it’s because the intent is that it’s a forcing function to prevent gossip. One of the things that we took from Netflix is whenever somebody says something to somebody else in maybe a one-on-one context where it feels like gossip about somebody else, the auto response you’re supposed to give is, “Oh, well, what did they say when you told them about that directly?” And if you don’t get a good answer, that’s a problem. And they have enough from at least what I’ve read in the book, enough antibodies in their organization to prevent that from becoming commonplace.
+
+The nice thing about recordings is that it is the forcing function. That one-on-one, unless you say otherwise, is going to be shared with the team. And many times the EAs will tag people who are related in the conversation and you’ll get to see, and it turns gossip is what I would maybe describe as chronic inflammation of an organization. And it turns chronic inflammation into acute inflammation, which is, “Hey, what the Hell? I heard what you said in this meeting. What was that about?” And you say, “Wow, you’re right. I’m sorry.”
+
+Tim Ferriss: “Here’s the chapter on clearing conversations and 15 commitments of conscious data.”
+
+Sam Corcos: Exactly.
+
+Tim Ferriss: “Let’s roll up the sleeves and get this over with.”
+
+Sam Corcos: Exactly. And those things can become chronic problems for months, even years in some cases, and recording them at a minimum, if you end up getting to the end of the conversation and you say, “Hey, can we not share this conversation because I feel like I need to talk to person X about some of the things that I said here before they see this.” At a minimum, it’s a forcing function for that. So it’s really helpful to just create those reinforcement mechanisms.
+
+Tim Ferriss: So for people listening, we are going to come back to delegation and many aspects of delegation, but all of these things tie together, right?
+
+Sam Corcos: Yeah, totally.
+
+Tim Ferriss: They’re interdependent pieces, and I feel like they’re also as loath as I am to use this word, but I do use it occasionally, which is synergistic, right? These have a multiplicative effect in some respects. Let’s talk about one tool, and neither of us have any vested interest in this company or this tool, Loom because I had used Loom occasionally, and then I saw your use and your company use of Loom, which took it to levels I could not even previously imagine. So how is this used? And maybe then you can just touch on a few other tools and then we’re going to come back to EAs and I think we’ll probably start with sourcing and then move on to better delegation. But from a tool perspective, let’s start with Loom, what it is, how you use it, and then maybe you can mention a few others.
+
+Sam Corcos: Loom is probably the most important business-enablement tool of the last five years, certainly in my experience. It’s a very simple tool, which is it’s a low-friction way to record your screen and is some sort of an async message, you have a picture of yourself, you can record your screen, and it is really easy to record a Loom.
+
+Tim Ferriss: And it is ready to share, pretty much instantaneously when you finish recording. So there’s no lag time for uploading something to a sharing service.
+
+Sam Corcos: Totally. And what’s interesting about using this sort of tool is that anything that is in the form of content scales effectively infinitely in a way that in-person time or phone calls do not, Content scales, time does not. It’s pretty simple calculation, but what’s interesting is there’s a mental shift that needs to happen for people. Where I’m reminded of, it reminds me of in the early days of radio, you maybe know some of the history of this, of the first radio programs were just theater plays, read out loud on the radio because they didn’t know what to do with this new medium, it made no sense. And then eventually they figured out, instead of copying our old ways, we can create new patterns that amplify this even more. And I think this is where we are with a lot of these remote work tools. Whereas in the past, pair programming was two people sit behind each other and you watch each other code and you talk and you’re doing it at the same time.
+
+Or you have a really good programmer who’s just doing his normal workflow recording on a Loom, and he’s just narrating what he’s thinking while he’s doing it, and then the other person can watch it at two and a half X, they can pause it, they can rewind, they can take notes. You don’t have to do this live. It’s a piece of content. And then every engineer at your company forever into the future can see the same piece of content. And so there was a really interesting example recently where I shared something with somebody externally and they were commenting on like, “Well, this is a failure because only 40 people watch this.” And I said, “This was an internal meeting. Could you imagine if we had an internal meeting with 40 people in it?” You would say that was a lot of information being transmitted, but there’s this cognitive thing of, well, if it’s a piece of content, it needs to get a million views or it’s a failure.
+
+Tim Ferriss: That’s right. So just out of curiosity, if you’re open to saying, and you’re open to saying a lot, but I understand if it’s not everything, what was the Loom of the 40-person meeting that was shared externally or why was it shared externally?
+
+Sam Corcos: The Loom that was shared was one of our Friday Forums.
+
+Tim Ferriss: What is Friday Forum?
+
+Sam Corcos: Oh, sorry. That’s our team all-hands. We do it every week on Fridays.
+
+Tim Ferriss: How large is the team now?
+
+Sam Corcos: The team’s 40, 50 people.
+
+Tim Ferriss: 40-50 people.
+
+Sam Corcos: And so many people show up live, so they don’t watch the recording. So that’s fine. And then some people watch it after the fact. And so we also have a number of all of our memos. We also use Notion pretty religiously. Once you learn how to use the Notion database features, they’re actually extremely powerful in the amount of leverage you can get from it. And all of our memos have a summary Loom at the top, any sort of meaningful memo. And so somebody will do a five-minute walkthrough of something that they wrote, and many people just watch those Looms. So that’s another thing where people can share.
+
+Tim Ferriss: What is the format or the agenda for the Friday Forum?
+
+Sam Corcos: So every meeting obviously has some intent, and I think it’s important where a lot of people fail is they lose the intent of the meeting. And so we even explicitly state this at the beginning of our Friday Forums, which is this is the place where we celebrate the wins of that week. And so we have the first few minutes, our highlights of the week, then we have usually a special guest, which is oftentimes one of our members from the company who’s had some really positive experience using our product. Then we do highlights from maybe the growth team, maybe highlights from the product team. So the goal is to have people feeling really good about the things that were accomplished during that week.
+
+Tim Ferriss: And how long is that?
+
+Sam Corcos: It’s typically an hour. We do at the end, maybe 20 minutes of personal updates, like personal highlights from the week.
+
+Tim Ferriss: And just for disambiguation for folks who may not be familiar with the company members, you mean customers.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: And then if we double-click on both Loom and Notion again, because I really feel and I have doubled, tripled, quadrupled my use of Loom. I have a couple of specific questions. Where have people been doubtful employees of using Loom? And I think you gave me, and we can always clip anything out of this interview, but an example of videographer, a video editor at one point, which I think is a good example. So maybe you could give that, and how do you make these easily searchable and findable? Because what I find is I use Loom most often in a one-off capacity, say, running through a Google Doc, and I don’t want to add 75 different comments. So I will use that as a way to give my verbal feedback and next actions save a ton of time or at least a ton of my time.
+
+So I’d love to know perhaps some use cases which will challenge what people might perceive as what is possible or not possible with a tool like Loom. And then I’d love for you to say a little bit more about why you use Notion instead of other options like what the use case is. Predominantly, and I’m speaking of someone who doesn’t really use databases, I don’t really use spreadsheets much. I probably should, but I just don’t at this point.
+
+Sam Corcos: I think one of the things with Loom, part of the assumption is that one of the rules that we really try to push people for is only ever do one take, just do one take. Because so many people, when they start using it as a tool, they stumble. I say, “Oh, man, I have to rerecord it.” And they’ll do eight takes for something that really did not need to be. And so we really try to push people towards, if you are in a meeting and you stumbled over your words, nobody would care. And they also don’t care that you did it in a Loom, so just relax. It’s fine. A lot of my Looms, I have multiple minutes in a row of pausing of just thinking, what would I do here? And then in people’s minds it’s like, “Oh, my God, this is so uncomfortable. I’m on a recording and there’s this empty space. What are they going to be thinking?” But if you’re in a meeting, that would be totally normal.
+
+And so one of the things that we do during our onboarding, I believe it’s now week three of our one-month onboarding for new employees is the entire week. Third week is async week where you are only allowed to do verbal and video recordings for communication. You’re not allowed to write anything, you’re not allowed to type anything. So if you want to say, “Hey, great job,” you have to record an audio note and you have to send that, or you have to do a Loom of yourself saying, “Hey, that was good work, thank you.” And then that’s it, and just get used to that.
+
+Tim Ferriss: How do they send the audio note?
+
+Sam Corcos: So Loom also has an audio feature.
+
+Tim Ferriss: I see audio only.
+
+Sam Corcos: Yeah, I think it might only be on mobile, but you can do an audio note on Loom Mobile. And yeah, it’s really, really uncomfortable for people. This is why the forcing function was we had to make this part of onboarding because it was so strange for almost everybody.
+
+Tim Ferriss: So what would you say to folks, and then maybe we’ll talk about the video example as another training tool, but what would you say to people who have the visceral reaction of, “I’m very fast at reading, video and audio memos are really slow.” And I saw this meme going around with this guy standing on a street corner with this big sign over his head, sort of like someone who would ask for money, but it said, “No, I’ll not listen to your three-minute voice memo.” How would you address that concern that this is just going to end up taking more time during, say, an async week? And maybe that’s okay because you’re really just trying to force people to get used to working asynchronously. But what are your thoughts?
+
+Sam Corcos: I mean, that’s definitely the case. There’s no perfect medium. The medium matters depending on the message that you’re trying to communicate. And so long-form memos should be in writing because you’re going to skip over. You’re going to find the parts that are relevant. Writing is a tool for thought, and doing these audio notes is a different tool to convey different types of information. And so I think the short answer is you should use the right tool for the job. A lot of people find that what they use Loom for would be instead of sitting down at a blank piece of paper, they just record themselves with whatever thoughts they have for what will go into it. They send that to their EA, which maybe today would be ChatGPT, but they send it to their EA who outlines it. And then it’s a lot less painful to come into at least partially outlined piece of work rather than starting from a blank page.
+
+Tim Ferriss: The blinking cursor. All right. Would you mind describing, since I’ve teased it excessively now, but the video-editing example, and then how will you make things searchable? Because for instance, I have a very small team, but at one point I was curious as to how people were currently tracking tasks and projects because people have a good amount of flexibility and there are pros and cons to that. We have used a lot of, say, Asana in the past, but some employees work differently and have different approaches. So I wanted them to capture a Loom of their flow. And if you were to ask me right now, gun against the head, “You have to find all of those Looms within the next 30 minutes,” I would be concerned for my safety. I might not find them. So the video example and then how you organize things or naming conventions, maybe. I have no idea. Organize these Looms such that you can find them later.
+
+Sam Corcos: Yeah. So one of the things I would say is that I probably record, in fact, I know the statistic, I probably average about 10 to 20 Looms per day I record. And to be perfectly honest, I maybe share half of them. A lot of them, I just turn it on because maybe I’ll want to use that information. It is costless to record a Loom. And so if nothing happens, then I just, nothing happens. It costs nothing. It costs me nothing to record it. It costs me nothing to not share it. The searchability, it has not been an issue for at least the Looms that I record. They tend not to be things that I would share. They tend not to be things that I would come back to. They’re more in the moment things. I would be willing to bet though that over the course of the next maybe six to 12 months, that as these AI tools continue to get better, search is the most obvious use case for this.
+
+Tim Ferriss: And as far as I can tell in the last, I don’t know when this started, maybe month or two, Loom has already begun to auto title your videos based on, I assume, I’m not sure if it’s AI, but some type of — 
+
+Sam Corcos: Transcripts.
+
+Tim Ferriss: Transcripts, exactly.
+
+Sam Corcos: So there will be a point in the future where you can say, “Hey, can you find me that video that I did with this specific person where we talked about this?” And it’ll definitely be able to find it. Yeah. So I think some of that will just be solved.
+
+Tim Ferriss: So my laziness has a shelf life.
+
+Sam Corcos: Yeah, exactly.
+
+Tim Ferriss: The technology will catch up and solve my lack of process. I’m excited.
+
+Sam Corcos: Exactly. But I will say on the other side, which is the searchability for the recording of tasks, so this is what we use Notion databases for. So our EAs, every process that they do for somebody on our team has its own dedicated page in Notion. And that page has a linked database to a much larger database, which is all tasks that any EA has done for us. You can connect those two together. There’s something called a relation, and you can relate those together and you can create a sub view within that. So imagine you have a task that’s a recurring task, task A. At the bottom, you can create a link to database that filters only for tasks that are related to that. And so in each of those entries, the EA will include a link to the Loom of the date that they did the thing. And so if you want to see when’s the last time somebody did this task, you can go to that specific task page and you can see, “Oh, they did it April 26th, they did it March 3rd.” And you can see each time they did it, and you can click on the recording and you can just watch them do it. And this is most useful for one, it’s just knowing that it’s there. If you say, “Hey, did that get sent?”
+
+Tim Ferriss: Yeah, there’s proof of work.
+
+Sam Corcos: Proof of work. “Did that get sent last week?” You can go there, you can see that it is. And it’s just reassuring to not have to reach out to them and make sure. The other is whenever there’s a bug in the process where this happens often somebody gets a message and you’re like, that’s weird because why would they get that? You can look at the process and you can see, oh, because they pulled the information from here and they didn’t know that I was actually communicating with them over here, so they thought it was one of these kinds. And so you can just say, “Hey, I saw that you did this, not a big deal, but next time, check both of these sources and see which one’s most recent.” And then they update the process and they don’t have those issues as opposed to just ambiguously having it fail and not knowing why.
+
+Tim Ferriss: Yeah. Easier to debug video.
+
+Sam Corcos: Yeah. Oh, yeah. So there’s so many good examples of this — 
+
+Tim Ferriss: And I’m open to more examples or not much.
+
+Sam Corcos: There are so many good examples. So one of the specific tactical things that I always recommend for people for getting better at delegating is just workflow recording. And this is really as simple as when you sit at your computer, turn on a Loom, and then that’s it. Just do your normal work. And a specific example was Tony, who runs multimedia for us. He was doing a lot of video editing and Josh, who does our Friday Forums as well, they do this whole process of video editing, of creating the slides. And almost everybody in their own role says, “Nobody else could do this, it’s way too complicated. You have to pull from here, you’ve got to pull from there.” And I think almost everybody overestimates the complexity of these tasks. It’s really just pattern-matching. And if you record your workflow doing that — 
+
+Tim Ferriss: True for most tasks.
+
+Sam Corcos: Yeah, it’s true for most tasks. For multimedia, he was saying, “Well, how are they going to know what five items from this interview are the most interesting? How are they going to know that? And then how are they going to know to edit and cut those in this particular way?” And then it turns out you record yourself doing that two or three times and then an EA can replicate that with 90 percent accuracy.
+
+Tim Ferriss: And this is with some type of casual running commentary.
+
+Sam Corcos: Yeah. Sometimes not even, it’s just doing it and they can just see what you’re doing. Okay, well he went to this place, he went to that place. Almost everybody that does this is surprised at how quickly somebody can match whatever pattern it is that you’re doing. And there’s a lot less secret knowledge than people expect.
+
+Tim Ferriss: Coming back to EAs and sourcing, how many EAs would you say work with you and your employees?
+
+Sam Corcos: I think I personally have four right now that just work for me doing my task. I think we have maybe 20 in the whole company.
+
+Tim Ferriss: All right. What are the options or some of the better options for sourcing EA talent? And the follow-up, because I like to just put things in the hopper, so it gestates. When you talked about rematching, I’d be curious as to how you assess and decide when to keep or cut someone, if there’s a process for that. I imagine it’s not purely subjective feel, but I’d be curious to learn more about that. So sourcing, what some of the better options are, and then how you evaluate?
+
+Sam Corcos: Yeah, I think there are several ways you can go about sourcing. I’ve always found the best way to do it to work with an agency. We work with Athena, they’re an agency out of the Philippines. They’re really the higher end of agencies and they cost more, and so it really depends on how much you value that. Other options would be you can source them directly, which tend to be cheaper. I think Athena is $15, $20 an hour typically, and you can find talent for $5 an hour if you source it yourself.
+
+Tim Ferriss: How would you source that directly for people who were interested in the lower end?
+
+Sam Corcos: So Upwork is a place where people often go to find them. There’s also another agency that’s on the cheaper side, which is Shepherd. My friend Nick is involved with them. They tend to be more like $5 an hour, but it requires a lot more overhead. So they don’t have their own management team, it’s really you and them figuring it out as opposed to having more of a structure around it.
+
+Tim Ferriss: And Athena came up numerous times for me in the last, I want to say year and a half, and they were actually very, very helpful for sourcing my new chief of staff, which maybe at some point, whenever it makes sense, we could delineate maybe EA from chief of staff and what those terms mean. And in the case of sourcing through Athena, those are all full-time employees?
+
+Sam Corcos: Hm-hmm, yeah.
+
+Tim Ferriss: How many of them are dedicated to one person as opposed to spread across multiple employees?
+
+Sam Corcos: We have this concept of an EA pool, where it’s just available EA talent for whoever needs a specific task done. Over time, they become more and more dedicated as a specific person needs more consistent resourcing or as context becomes more relevant. We recently shifted one of our EAs to full-time on product support who was in the EA pool, but we just have enough tasks now in product that it makes sense to have a single person with dedicated context on that. I don’t know the specific numbers, I would guess we probably have 15 dedicated and maybe five in the general pool at this point.
+
+Tim Ferriss: And how do you think about, and maybe it’s a 100 percent, say, Athena/overseas, that type of EA or support staff, versus those who are in the US or in other locations?
+
+Sam Corcos: One of the biggest challenges that often happens overseas is the time zone difference. The interesting thing about the Philippines specifically is that there’s such a large contingent of people who work for US companies, that there’s effectively a subculture of people who just live America time zone hours, so that tends to be less of an issue or at a minimum there’s significant overlap in lifestyle. I would say that it really depends a lot on what the tasks are that you need. And this actually does, I think, tie into the chief of staff question, which is there’s this spectrum of declarative and imperative of what you would expect from somebody. And so declarative being go write a growth strategy and imperative is here are the tasks that I need you to do consistently over some time period, and there’s a spectrum between those two.
+
+And a chief of staff is somebody where you say, we have this problem, go solve it. Where an EA tends to be somebody where it’s more consistent tasks, like scheduling is a common one, which I actually don’t really do. I use Calendly. I think that’s something that you can just offload to technology. But it’s those sorts of things where it’s more, I don’t necessarily want to say routine, but that might be a better term for it, is things that happen consistently.
+
+Tim Ferriss: They’re also very explicit. They’re discreet, well-defined tasks.
+
+Sam Corcos: Exactly. And they tend to be things that are done consistently over time. A chief of staff, you really don’t want a chief of staff to be stuck. I would describe it more like a gardening role. Chief of staff should not be the person who’s doing a lot of the stuff that you’re doing, that’s just sort of keeping the lights on. They should be somebody that you can trust to take on more meaty projects. In general, they tend not to be happy if they’re in the role where they’re stuck doing simple things like preparing meeting notes beforehand. That tends to be something that you would have somebody who’s able to do that on a more routine basis. This was one of the learnings that I had working with Lori is that old saying “Different strokes for different folks.” And working with Lori for as long as I have, my worst nightmare is being stuck wrapping Christmas presents all day. I could not do it.
+
+Tim Ferriss: I find it pretty meditative. No, but I have a very high degree of, I find certain types of monotony very soothing. I find other types, infinitely grating, but yeah, different strokes for different folks. Maybe I can do your wrapping.
+
+Sam Corcos: Exactly. And so I’m just relentlessly novelty-seeking and I really struggle to do any task more than just a handful of times. I play a lot of board games. I can usually only play a game maybe five or 10 times before I figure out the strategy, and then it’s boring. It’s just a mastery thing of, okay, well I already know how to win most of the time and now it’s just how do I get slightly better?
+
+Tim Ferriss: So gamers find the Goodwill closest to Sam and you’ll find a lot of overflow of perfectly good board games. Got it. Okay. How do you choose your board games?
+
+Sam Corcos: Mostly through recommendations. 
+
+Tim Ferriss: But what are the criteria the recommenders are using before passing to you?
+
+Sam Corcos: Yeah, I really only play complex strategy games, so they tend to be the Euro-style games. It tends to be games that if they come recommended from somebody who I know is a very serious board gamer, then I know it’ll be good. I’m playing a Twilight Imperium on Sunday, which is a full day-long board game.
+
+Tim Ferriss: Sam’s recreation. I do love tabletop games. It’s something that we could geek out on maybe over dinner, but I’m very into it. I don’t want to take us too far off script. We’re talking about EAs and chiefs of staff, also, I think, the degree to which things overlap. For me it’s always been important that no task too small, no task too big, in part because the org size is so small, right? It’s like I have three full-time employees. But let’s come back to both, say, onboarding and how you assess performance, and decide on pass/fail, go/no-go with EAs. What is the process of vetting and pairing and onboarding look like?
+
+Sam Corcos: Onboarding is super important. People put a lot of time into recruiting. They’ll put $50-, $100,000 into hiring somebody and then as soon as they start, they just throw them into the deep end and hope for the best. And so having really good onboarding is super important to that attach rate of people really being able to work effectively.
+
+Tim Ferriss: Attach rate is, I guess, is that the same as retention.
+
+Sam Corcos: Yeah. I mean, however different companies have different definitions of attach rate, but yeah, it’s the ability to work adequately with an EA. And so I think, one of the most important things is setting super clear expectations early, setting good process really helps as well. Something that we look for is proactivity. Somebody who goes out of their way to reduce your workload, instead of somebody who creates work for you.
+
+Tim Ferriss: How do you test for that? Can you test for that in the vetting process or do you have to wait and see?
+
+Sam Corcos: Yeah, you might be able to test for it. This is one of the benefits of working with an agency is — 
+
+Tim Ferriss: They get to know what you need.
+
+Sam Corcos: Yeah, and specifically Athena was started by Jonathan from Thumbtack and his whole thing is 10 x delegation. So they have a whole internal training program to try to make them be more proactive, as opposed to hiring somebody who’s completely fresh and you have to teach them all of these things. This is the trade-off of time. You can train somebody up and it would be less expensive, but it requires more overhead at the beginning. I think the nature of how you train them and how you set these expectations, one of the best ones, this is another tactic, is the playback, which is you set a task and you say, “Repeat back to me.” And this is almost always done in a Loom, “Repeat back to me how you will do this task.”
+
+And oftentimes when you’re just getting started with somebody, they’ll propose how they’re going to go about it and it’s completely wrong and that’s okay. And you say, “Okay, that’s good to know. This is how I want you to do it and going forward for these kinds of tasks, I want you to do it over here.” And then they repeat it back to you and you say, “Great. That’s right.”
+
+Tim Ferriss: Is there any type of, I guess, threading for Looms? How are you, because this is all frequent liaising —
+
+Sam Corcos: Yeah, it’s frequent liaising.
+
+Tim Ferriss: — how are you communicating these Zoom, not Zoom, I’m definitely not the first person who’s done that, Loom links?
+
+Sam Corcos: You do it in threads, but it wouldn’t be in email, it wouldn’t be in Loom specifically. You’d do it in emails or we ended up building our own internal communications tool, because we’re really not happy with Slack. Slack, it is a slot machine. It is the opposite of what you want in a workplace communication tool.
+
+Tim Ferriss: What do you mean by slot machine?
+
+Sam Corcos: As in, it has the same dopamine loop as Twitter.
+
+Tim Ferriss: I see, I see.
+
+Sam Corcos: It’s like you feel like you have to compulsively check Slack, because it’s like, “Oh, is there a new piece of information that I want to check?” And there’s a lot of data on this. RescueTime did a study that I think, most tech workers can’t go more than six minutes without checking their communication tool. And a lot of that is because of Slack, and they’re just constantly checking. They’re trying to write code, but they have this compulsive need to, “I’ll just check, oh, there’s new information and it…” 
+
+Tim Ferriss: RescueTime, little known fact, way back in the day, are one of my first ever angel investments.
+
+Sam Corcos: Is that right?
+
+Tim Ferriss: A hundred years ago.
+
+Sam Corcos: Cool.
+
+Tim Ferriss: Yeah, it’s a great mission. Great mission. I want to talk about information inputs. This may be a good place for a sidebar on this. Avoiding slot machines, news sobriety, the term I’ve used, which I think is probably quite similar is sort of the low-information diet, but what is news sobriety and what does that mean for your day-to-day, month-to-month experience?
+
+Sam Corcos: I’ve been fully news sober for almost 10 years. And I read Ryan Holiday’s book, Trust Me, I’m Lying. That really frightened me about the state of the media and convinced me, this was originally just a one-month experiment. I said, for a month I’m going to consume no current events in any form, no news, no television, no articles, no social media. And instead I’m just going to try a one-to-one replacement of reading books during that time period. And I read eight books that month, which was more than I probably read in the previous five years. And everything about my life was better. I physically felt different, I felt less anxious during the day. And it was interesting when you have that separation for long enough, and I have friends who are panicked about something that they heard, and I would find myself asking, “But does that matter?” And it’s like, wow, I would’ve been in the same frenzy if I was paying attention, and it really doesn’t matter. Almost none of these things are important.
+
+Tim Ferriss: So how do you — and maybe that is the answer, but I’m curious since I’ve received this answer when implementing this to probably a lesser extent, the question of how do you stay informed? Aren’t you worried that you’re missing important things, or some variant of that? I have my own way to respond to that, but I’m curious how you respond to it.
+
+Sam Corcos: Yeah, I think it is one of the coups of the news industry broadly that they’ve managed to convince people that watching the news is what responsible citizens do. And much the same way that the orange juice lobby convinced people that orange juice is healthy, because it has vitamin C, even though it’s really almost indistinguishable from a can of soda, it’s just they’ve convinced us that this is what responsible people do. They read the news and it’s really trash information.
+
+I am usually extremely bad at trivia night, which surprises a lot of people, because I read a lot of books. But the reality is that, my retort is that “I just don’t know trivial things, so I’m bad at trivia.” It’s always “Who’s Kim Kardashian dating now?” I have no idea and I really don’t care. It’s like, “What place in the world had this thing happen?” I don’t know. If it was important, it’ll eventually end up in a book that I will read, but it is exceedingly rare that an event happens that makes any difference to my day-to-day experience.
+
+Tim Ferriss: So practically then and tactically, does that mean you have no social apps on your phone? What are some other features or lack of features that are a consequence of the news sobriety?
+
+Sam Corcos: I don’t have social apps. I have profiles on a lot of them. I used to have a problem with Twitter, and so I created some buffer, which is I don’t have access to my own Twitter account. My EAs have access to my Twitter account. They have my password. If I want to post something, I send it to them and then they post it. And then I don’t get that dopamine feedback loop of, “Oh, my God, X number of people liked my post.” Because also they don’t care, there’s no ego attachment from them on how well my post did. And so they will look at my notifications empirically and just say, “Hey, this might be something that you want to respond to.” And they’ll screenshot it and they’ll send it to me and they’ll say, “Hey, do you want to respond?” All of my DMs on Twitter are managed by my EAs, all of my LinkedIn messages are managed by my EAs.
+
+Tim Ferriss: What are your rules for managing any of those accounts? What are the criteria for flagging or not flagging?
+
+Sam Corcos: This is another one of the tactical things, which is semi-automation, where there are a lot of things that you can do where people are often afraid to give access to somebody like an EA to manage their social media account, because they think, what if they post something or what if they do X?
+
+But you can always semi-automate, which is they take a screenshot and then they propose what they think you should do and they’ll say, I propose that you just like this tweet. Or they’ll say, I propose you respond with this message, or I propose that you respond with this message, and over time you get better and better at teaching them what, just like you can just ignore that one. You just delete it, or you say, “Oh, yeah, I actually know this person from this other place,” which you can find in this other category of information, and I tend to respond with something like this. And over time they get better to the point where I’m probably at like 95 percent of the messages I just say, “Yes.” And it’s very, very simple, but I don’t trust them enough for them to 100 percent fully automate all responses to things, but their proposed recommendations are generally good enough now to where I just say “Yes” to most things.
+
+Tim Ferriss: I want to highlight something, and you can correct me if I’m getting this wrong. I don’t want to misrepresent. Well, I’ll speak for myself that I think it is frequent for people who want to maximize or optimize, fill in the blank, to look for areas where they can remove or reduce friction, but the opposite is really valuable. Where can you add friction, such that your lesser self doesn’t hijack your behavior? So that’d be a good example. And I don’t have any social on my phone right now except for Instagram, because I use it to interact with a handful of my friends. But by and large that is not a part of my life. It is used for mostly broadcast or communication, but it’s largely one direction. And then someone on my team similarly, will highlight notable or interesting messages that I might want to respond to, and then they would typically respond on my behalf and I draft, because I do not have high degree of confidence that my willpower can overcome teams of data scientists — 
+
+Sam Corcos: It can’t.
+
+Tim Ferriss: And gamification. I’m bringing a knife to a gunfight, so I’d rather just not go to the gunfight in the first place.
+
+Let’s come back to onboarding for a second. Repeat back to me, “Hey, I’ll do this task and then you can iterate on that as an example.” What are some other practices or mistakes, either, that you’ve seen in onboarding or ways that you guys have refined your approach to onboarding? Because I’ll speak for myself personally. I’ve become, I think, much better at hiring over time, especially in the last few years. I still think almost certainly I’m very mediocre on onboarding, and there are a hell of a lot more books on hiring than there are on onboarding.
+
+Sam Corcos: Totally.
+
+Tim Ferriss: And I’ve read a bunch of books on hiring, very little said about onboarding generally.
+
+Sam Corcos: Yeah. I think the biggest thing is people really want to jump into it immediately. And so — 
+
+Tim Ferriss: Now by people, do you mean the people — 
+
+Sam Corcos: People who joined.
+
+Tim Ferriss: Who joined.
+
+Sam Corcos: They want to jump into it immediately and we have an onboarding checklist in Notion, we have a template, we copy it for each new person that joins and they have a set of tasks that they do each day. It’s pretty well guided. I can share the template with you if you’re curious.
+
+Tim Ferriss: That’d be amazing. I would love that. Is this for all employees or EAs specifically?
+
+Sam Corcos: All employees.
+
+Tim Ferriss: All employees, okay.
+
+Sam Corcos: And there is a video of me at the start of each week, it’s a Loom, where I specifically say, “Hey, at this point people usually want to skip onboarding and start jumping into their tasks. Don’t do that. It’s always a mistake. Really take onboarding seriously.” Our onboarding process is a full month and we don’t expect people to start producing for a month. And it really does take that long for a lot of people to get fully up to speed, and we help guide them in more slowly, read these books, read this documentation that we have about how we built our culture, especially for our case because the way that we operate is very different than a lot of people’s previous experiences. And so it’s pretty jarring when you see a lot of the transparency. When your first one-on-one gets published to the rest of the company, it’s pretty jarring. And so we try to ease people into these things.
+
+Tim Ferriss: What’s also going to be jarring, is if you become a public company CEO.
+
+Sam Corcos: Yeah, totally.
+
+Tim Ferriss: Things will have to change a bit.
+
+Sam Corcos: Yeah, probably.
+
+Tim Ferriss: But yeah, continue, sorry. That’s a joke.
+
+Sam Corcos: That’s true. And over time people get used to it, over the course of about a month. I think the biggest thing is the cultural assimilation in our case has been the biggest hurdle over the course of onboarding, is getting people reading the memos, practicing some of the things. One of the cultural values that we have is everything’s written in pencil, but also you can change things here. And one of the things that we do is at the end of onboarding, everybody is required to update the onboarding process for something that was out of date, and then post to a channel confirming what they changed and just giving a list of what they changed. And it’s pretty weird for people, especially those who come from larger companies, when they’ve had the same onboarding process that the company’s had for 20 years and then they go in the actual files and edit it themselves. “I’m a new employee, who am I to edit?”
+
+Tim Ferriss: Is there always stuff out of date, or do you throw in, like, “favourite” with an OU just to see if people catch it?
+
+Sam Corcos: Always. There’s always something out of date. There are maybe 50 items in this, and sometimes we deprecate an old memo and replace it with a new one, or there’s some new piece of information that came about that people add in. This ties into one of the concepts that I bring up a lot in the company, is organizational entropy, which is any artifact that you produce immediately starts rotting the moment that you have created it.
+
+Tim Ferriss: It’s like driving a new car off the lot.
+
+Sam Corcos: Yeah. The moment that anything is published in the company, you write a memo, it is already rotting, it is already going to be out of date. And so the concept of entropy is, it is always increasing. And so the only way to keep entropy at bay is you have to add more information, you have to add more energy into the system. So you have to create reinforcement mechanisms for any piece of content that you have. If you have a database of all your memos, you have to check them every once in a while to make sure they’re up to date. You need to create, more energy always has to go in order to keep things fresh and functional.
+
+Tim Ferriss: What are some of the key, this is going to be a cheap question and I recognize it in advance, some of the key modules of those 50 that people may not fully appreciate? Maybe from the outside looking in if they did a quick scan, are there somewhere you’re like, you should pay particular attention to any of these, or some that you might draw attention to? I ask people this quite a lot. Authors, I’m like, “You’ve had this book out for a year. What are you bummed people didn’t pay more attention to?” That kind of thing.
+
+Sam Corcos: Yeah. I think some of them are very specific to the way that we operate, which is async week is a good example of video and audio only for an entire week, because we have to force people into that so you can get comfortable with it. Other things around just cultural assimilation and setting clear expectations, I think that might be something that is universally important. I think another one that’s probably under-invested in at least for remote companies, is setting aside real committed time to talking to all the people that you will likely work with. Having a 30-minute interaction with somebody when you’re in a remote company early on, has a huge impact on your ability to work with that person later on. It just lowers the barrier for, “Hey, I need your help with something,” versus “I don’t know who this person is and I don’t know what they’re going to think about me.” And so we really try to make that a priority within onboarding as well. And that’s probably universal for remote companies, and we’ve been remote from day one.
+
+Tim Ferriss: There is “A Tactical Guide to Working with EAs: How to Make Delegation Your Superpower,” this piece that in your very beautiful, meticulously prepared notes, I’ve got to say this is my dream type of guest where you’re like, wow, okay. If you were drafting, I would feel very confident if you were drafting my responses for LinkedIn. It’s very, very well put together. And the flow, everything is well thought through. In this particular guide and this can also be more expansive than the guide, I’m wondering what other recommendations around delegation you have received positive feedback from. Where people try something and they’re like, “Oh, my God, I can’t believe I didn’t do this earlier.” Or “I didn’t think that was going to work and it actually really worked.” Anything that comes to mind?
+
+Sam Corcos: Yeah. The biggest one is using Loom and just doing workflow recordings. I’ve worked with a lot of people to help them get better at delegating, and the thing that I really emphasize is, figure out how to reduce your perceived risk of doing this thing. Just lower the threshold for how much work you think you need to put into it. That’s another one of the things — 
+
+Tim Ferriss: Into what? Into training someone?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: I see.
+
+Sam Corcos: Yeah, just lower your perceived risk. One of the reasons why people often fail to delegate as well, is they make a lot of assumptions about how much effort’s going to go into it. They’re like, oh, man, well I’m going to have to write a whole process doc, and then I have to — just reduce your assumptions and just say, all right, what is the simplest thing you can do? Do all of the work that you were going to do anyway, exactly the same as you were going to do it and just turn on Loom and record it. And just try that.
+
+It’s effectively zero-effort, zero-cost, and you can have a three-hour Loom and just share that with your EA and say, “Is there anything in here that you think you could do that would help me?” And almost every person that’s done this is amazed at how many things come out of just a simple workflow recording like that. Just figure out how to lower the perceived risk of it.
+
+And this is something that’s different about remote versus in-person, is that when you’re remote, remote first is a concept that I think GitLab came up with, which is whether you’re in person or not, you have the same principles as you would if you were remote. And if you’re remote first, everything that you do is on a computer and it is therefore necessarily content if you want it to be. And so typing at your keyboard could be content, if you wanted it to. It’s like a twitch stream of your actual work, as opposed to something that you’re doing in the real world where you don’t have that. If you’re on a Zoom call with somebody, that could just be content in a way that it wouldn’t be if you’re going on a walk. So really leaning into what’s possible with this remote work style — 
+
+Tim Ferriss: Not just reading the stage play into the radio mic?
+
+Sam Corcos: Yeah, exactly. If you really lean into what’s possible with the everything-is-content model, the amount of leverage that you get is much, much higher. And this is the shift is that people are not super comfortable with that yet. I’ve been working with Cosima, who runs product for us, and she’s been just really getting used to, there’s a lot of process — 
+
+Tim Ferriss: Cosima?
+
+Sam Corcos: Cosima, yeah.
+
+Tim Ferriss: Oh, Cosima, great name. Great name.
+
+Sam Corcos: Yeah. She’s been trying to figure out how to offload some of the tedious things in product where it’s like, make sure these things are up-to-date, shuffle tickets around, do set reminders for things, which often is what product managers do, and we’re figuring out how to offload those to our EAs, so that the product people can spend their time doing higher leverage things like strategy and much longer-term thinking. And it is been interesting to see how she’s overcome this as something where it’s really uncomfortable to just record yourself doing your work. That is a big hurdle for a lot of people is just turning Loom on for three hours.
+
+Tim Ferriss: I wanted to ask you that, so to play devil’s advocate myself. I imagine bringing on an EA, this is someone I don’t know very well, and I would have, now I want you to disabuse me of this or to at least to attempt, be like, if I do a three-hour Loom, I’m going to be getting into all sorts of sensitive stuff. And then maybe if I were to try to create another objection/ type of resistance, it would be I’m just going to be doing probably a bunch of random stuff. I mean, people who’ve read my books and so on might imagine every day is just this surgical Tron race where I’m just threading needles and it’s just this masterful Iron Chef display of performance. That’s not what it looks like. Even on my best days, it looks like I’m either staring, watching paint dry, or it’s a lot of juggling different things.
+
+So I would be like, I’m not convinced this is going to be super helpful, and I might have concerns around privacy or security or whatever it might be. I can’t be alone. What are your thoughts on that? I mean, I think maybe out of the box you are probably much more embracing of full transparency and public sharing than I’m, but I would imagine there are some people who come from maybe a different company or different experience who would have maybe similar thoughts, I’m not sure, but what would you say as my podcast guest/involuntary therapist?
+
+Sam Corcos: I think a big part of the answer is that the worst-case scenario is you turn on a three-hour Loom and then you delete it.
+
+Tim Ferriss: Right, it’s not a live stream.
+
+Sam Corcos: No, it’s not a live stream, and that’s the thing that people really struggle with. The first assumption is if it’s recorded, it’s going on the front page of The New York Times tomorrow, and then at some point you just realize that it’s not.
+
+Tim Ferriss: Yeah, it’s so stupid. It’s just like now that you say it, I’m like, yeah, duh. It’s so obvious and yet, it’s like — 
+
+Sam Corcos: Worst-case scenario, you delete it, or even more realistic, you just don’t share it. It’s like, I don’t know, I went over some weird things in there. I’m just going to not share it, and then you don’t.
+
+Tim Ferriss: Here’s a technical question. Can you blur, I’ve had this experience where I record a Loom, it’s a really good Loom for an external party, and then I notice like, ah shit, I have a tab or something open that displays some sensitive — or my iMessages off to the side, but I did a full-screen recording and it’s like, I don’t want to compromise the people I’m communicating with in that way. Do you have the ability to blur or crop or anything like that?
+
+Sam Corcos: You can edit within Loom. I think they might have introduced a blur feature somewhat recently.
+
+Tim Ferriss: Or just a cropping capability, I have to check. That would be very useful.
+
+Sam Corcos: Yeah, they might have it, because they have an editor within it. There’s definitely, our EAs do this already for our Friday Forums. We sometimes have sensitive information in there that we don’t want to share publicly. The most common one is something related to a third party that they don’t want shared, and so we still talk about it as a team, but then we cut the audio for that part and we blur out anything written about it. And so, there’s definitely a capability to do it, it’s either done in Loom or it’s done externally, but it’s not that hard.
+
+Tim Ferriss: Okay. So we are going to weave back to Calendly, because we were joking/seriously discussing how a lot of people get offended with this tool. But that is the micro level, I don’t want to go immediately to tools, although, people might think that’s where we’re going next. To-do list to calendar.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Could you explain this transition or what that means, to go from to-do list to calendar, for you?
+
+Sam Corcos: Yeah. This is probably the single most important tactic in time management, for me, personally. I tend to be overly optimistic about how much I can achieve.
+
+Tim Ferriss: Okay. Can I pause for one second? So, my ex-girlfriends have always found this hilarious, because I’ll be like, okay, it’s Friday, it’s 2:00 p.m., we have a dinner at 6:00, over the next four hours I’m just going to do A, B, C, D, E, F, and G. And my ex-girlfriends, who I’ve been with for any period of time, will look at me and they’ll say, “You’re never going to get all that done.”
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: “I’ve seen this before, there’s no way you’re going to get even half of that done.” So yes, please continue.
+
+Sam Corcos: Yeah, totally. And I’ve worked a lot of people on our team, people who are friends of mine, through this, and the thing that almost always happens is they have this long to-do list and I say, “All right, here’s what I want you to do, take everything on this to-do list, with the dates that you think they’ll get done by, which is usually this week or next week, and I want you to just put them on your calendar with the amount of time you think it’s going to take, and then we’ll have another follow-up call next week and we’ll see what happens.” And then we have the call, and then they say, this process doesn’t work, I say, why is that? They said, well, I tried to move it over there, but there isn’t enough space in my week to fit all these items. It’s like, yes — 
+
+Tim Ferriss: That’s the point of the exercise.
+
+Sam Corcos: — this is the point of the exercise, is there literally is not enough time, your time is finite and the number of digital items you can add to a to-do list is infinite. You are working with the wrong constraint, which is the amount of items you can fit in a database row, as opposed to the number of things that you can fit in your finite time of your calendar. And so, we then work on, all right, you probably need slack during the course of the day, usually like 50 percent is a good target. Because things come up — 
+
+Tim Ferriss: Oh, I see. Not the tool Slack, but — 
+
+Sam Corcos: Yep. Space, extra space. You need extra space in the day, and so we work on things like, for me, I process a lot of email. I probably do — 
+
+Tim Ferriss: And when you say you need space in the day, could you just briefly say more about that? Because the way I’m hearing that is that you have 50 percent of your time open — 
+
+Sam Corcos: Open.
+
+Tim Ferriss: — but I’m not sure if — now, is that, for instance, tomorrow you would’ve 50 percent of your time open, or does that mean that in advance of scheduling other things, like three weeks from now, each day is 50 percent open?
+
+Sam Corcos: It’s generally 50 percent open, just fully.
+
+Tim Ferriss: Got it.
+
+Sam Corcos: And as you get better at it — I would say I’m probably at 25 percent open, because I’ve been doing this for many years, at least five years, probably longer. To the point where, I can estimate how long it will take me to do something with maybe 90 percent accuracy. It’s like I need to write a memo on this thing, it’s going to take me three and a half hours. And I just know, because I’ve written so many of these, I just know how long it’s going to take.
+
+Tim Ferriss: Right. It takes time to hone that, I would think.
+
+Sam Corcos: Totally.
+
+Tim Ferriss: If you ask most people how many calories do you eat at lunch? They’ll be like, 6,000 million? I don’t know.
+
+Sam Corcos: That’s right. Exactly.
+
+Tim Ferriss: Seven calories? But then over time you can calibrate it. Okay.
+
+Sam Corcos: Yeah. Especially if you retroactively update your calendar as well, which is how long did it actually take me? And when you realize that your estimates were off or they were right, you can start to hone that skill. So, I always try to have people put it at 50 percent open space, because something’s going to come up. A friend calls you, something happens during the day, you get a message that throws you off. The problem is that it’s way easier to pull something in from tomorrow into today, because you had extra space, than it is to have this cascading problem of just disastrous — it’s like, then I have to push this to this day, then the next thing you know, you have this Tetris game that you’re playing a month out, because one thing changed in your schedule, everything breaks. Some of these concepts come from manufacturing, where you have this line, whatever the assembly line is, you need to have slack in the system in order to be able to operate effectively, because something will come up, and if there’s one thing that comes up that breaks everything downstream, that’s a real problem.
+
+And over time, as you get better, you can reduce that amount of slack, but 50 percent is a pretty good goal. So you have, my goal for today, I’m going to have a four-hour block where I’m going to do X, and then I have some time — for me, I know I need to process email or communications broadly, for at least two hours a day, so I just have those blocks every day. They’re just repeated. So when I start scheduling things, it’s like, well, I can’t actually fit this in because, it’s not like I can’t do my email, just my role requires a lot of email. And so, it’s just clear as day, I cannot do this on Thursday, I can do it next week.
+
+Tim Ferriss: So, from a process perspective then, do you start with — I’m imagining not, at this point, but just so I get a really clear understanding. Let’s just say you’re looking at next week, you have these recurring blocks of email, that’s already in there, you may have other repeating blocks, and I would be curious to know what they are, so let’s bookmark that. When you’re looking at, say, the to-dos that will be converted into calendar or not, for the next week, what does that process look like? Do you start with maybe a to-do list and then that goes to your EA and he or she tries to slot them in for the anticipated amount of time? What does that look like from start to finish?
+
+Sam Corcos: Yeah, the answer is you just skip the to-do list step entirely. So when I get a new task — a lot of my tasks effectively come in through email. So, I’ll get an email, and this is also another thing that I worked with a couple of people on, who really, really struggled with email. And the thing they struggle with is using their email as a to-do list, which is a very common thing that people do. The problem, it creates a lot of anxiety when you have this stack of uncategorized things. It could be 15 minutes, it could be 50 hours, you have no idea until you open up each one individually to figure out how much work it is. And so, the same process of translating your to-do list into your calendar, you can do the same thing with email.
+
+Which is, I worked with somebody recently, where I said, “All right, let’s open each email, how long is this going to take you to respond to?” And these are the chunkier ones. He’s like, “30 minutes.” “Great. Mark it as done, copy the link, and put that link in your calendar. So you’re going to spend this 30 minute block responding to this email. What’s the next one?” “That’s going to take me a full hour, because I have to write something for them.”
+
+Tim Ferriss: That’s interesting. So the clearing of the inbox, then, is really in some capacity scheduling the proper amount of time to reply to these things, so you’re not looking at this undifferentiated stack of shit, that you are opening multiple times, marking as unread, going back to, forgetting what you read, reading it the 17th time, or whatever that might be.
+
+Sam Corcos: Yeah. And it’s a stress thing, it is very stressful to have this list of things. It’s just an ambiguous amount of effort. It is stress relieving to see, all right, I will do that on Thursday of next week. And I have nothing pending right now, I have not dropped any balls, because I know that anything that is time sensitive that needed to be done today is already done and there’s nothing, there’s no ambiguous deadlines looming that I’m not aware of, because they’re in my calendar. And if you change it, this is where closing the loop is a helpful factor, which is, if you say, I’m going to block this off for Thursday, you can tell that person, hey, I’ll get back to you on Thursday. And then, if you have to move it, you now know that you can say, hey, something came up, I’ll get it to you on Monday.
+
+And you can just keep them in the loop on that, as opposed to just ambiguously dropping the ball. So, for me, when I get a new task, it just immediately goes into my calendar. So if somebody was to say, “Hey, can you write a memo on this topic so that this team has context on it, of where this has gone over the last year?” I’ll say, “Sure, how soon do you need it?” They’ll say, “Can you have it to me by Wednesday?” I’ll go to my calendar and I’ll block off two hours, because I think that’s about how long it’ll take. I’ll block off two hours on Tuesday that I have open, and I’ll say, “Cool, I’ll have it to you by Tuesday night.” And that’s it, the calendar is the to-do list.
+
+Tim Ferriss: Mm-hmm. What do you have in your calendar as repeating items? And we don’t have to go through all of them necessarily, but I’m curious, this could not only be professional company obligations, but say personal items that you block out. Exercise, any number of things. So you have email processing, you have, I imagine, the Friday Forum, what are some of the other repeating elements that you can block out weeks in advance?
+
+Sam Corcos: Mondays are my meeting days, so I tend to stack all of my meetings on Mondays. It’s common for me to have 14 hours of meetings on Mondays. I just get them all done with, so I don’t have anything else during the week. Fridays I often have meetings as well, but they tend not to be the recurring ones, other than maybe the Friday Forum, or maybe the book club, which I think we do monthly on Fridays. So, Mondays are a lot of my recurring team meetings. Tuesday, Wednesday, Thursday are almost always just open. I tend to leave Wednesdays as a sacrificial anode of — 
+
+Tim Ferriss: What does that mean?
+
+Sam Corcos: As in, when somebody says to me, “Hey, I was trying to book time on your calendar, but you’re booked for the next two months,” then I start sacrificing some of my Wednesdays to allow for meetings to be scheduled. It actually, the term comes from how stainless steel works, where it’s covered in something, I think it’s zinc in that case, and how it works is the zinc starts to get deteriorated before the steel does. So you’re sacrificing a different material in order to keep the steel working well.
+
+Tim Ferriss: Okay, got it. Any personal stuff that comes to mind, like self-care stuff, or is that on automatic in some other way, or taking a backseat?
+
+Sam Corcos: Yeah. I’ve tried doing meditation. I did the Sam Harris — 
+
+Tim Ferriss: Waking Up — 
+
+Sam Corcos: — Waking Up one. I don’t think I’m particularly — I didn’t notice any benefit, I did it for I think a month. I think just my stress levels by default are pretty low, so it could be something — 
+
+Tim Ferriss: Has that always been the case? Or how much of that is by the way you’ve constructed your life versus innate temperament? Do you have any idea?
+
+Sam Corcos: I think it is, some of it’s innate temperament, but a lot of it is how I’ve structured my life, for sure.
+
+Tim Ferriss: What are other things you have done to reduce the ambient chronic levels of stress/metaphorical — metaphoric? Metaphorical? I should know which it is by now. Inflammation. You’re using that on the organizational level, what are some of the other crux moves, or decisions, or fill in the blank that have helped with what you’re describing?
+
+Sam Corcos: I think one of the biggest ones is news sobriety, and I think that encapsulates a lot more. One of my personal philosophies is that I do not allow others to impose upon my attention. And so, if I am getting information, I would like to seek it out and I don’t want other people to take my time against my will, or tell me what I should be thinking or focused on, whether I want to or not. That’s been a big challenge. I think almost everyone underestimates how impactful, even seemingly trivial information is, of seeing a plane crash on the news will make you fear planes, subconsciously. It is an availability bias problem. You can know the statistics, and you can say that it’s safer, but in your mind, if you see it happen or you see something on the news, you assume that it is representative of the world, and it’s really hard to beat. There’s a really good book Factfulness, I don’t know if you’ve heard of that one.
+
+Tim Ferriss: I have heard of it, I haven’t read it.
+
+Sam Corcos: Yeah, it’s a really good book, which really just goes over, there are so many things that are getting better, and yet, almost everyone thinks that those things are getting worse.
+
+Tim Ferriss: I got it. So it’s a numeracy-enhanced version of Angels of Our Better Nature.
+
+Sam Corcos: Yeah, Better Angels of Our Nature. For sure.
+
+Tim Ferriss: I always fuck that title up. I don’t know if it’s a problem with the title or if it’s a problem with my brain, but yes, that’s the one.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Got it. Okay, so there’s the news sobriety, makes sense to me, this has been my experience as well. We are not designed, or I should say not evolved to take on all of the tragedy in the world all the time. We’re not biologically capable. We’re certainly not ideally suited to handle that on an ongoing basis.
+
+Sam Corcos: Yeah. I think people really underestimate the physical impact that it has. Taking maybe an extreme example of — there is information that can affect you physically. Example is, you’re walking through the jungle and a tiger jumps out in front of you, your body will physically change based on that stimulus. That’s a fight or flight response, adrenaline, all kinds of stuff that is bad for you. The same exact thing happens — 
+
+Tim Ferriss: Chronically bad.
+
+Sam Corcos: Chronically bad for you. The same exact thing happens when people watch the news, or they see things that make them anxious. And they say, well, it’s just information. But it’s not a neutral thing, it really does have an impact.
+
+Tim Ferriss: Yeah. If it bleeds, it leads. There are a lot of expressions like this in the news game.
+
+Sam Corcos: Totally.
+
+Tim Ferriss: All right. So, the many implications, the multifaceted payoffs of news sobriety. What else? I feel like there’s more.
+
+Sam Corcos: I do a lot of walks. I try to read at least two books a week, and I do most of those as audiobooks, just going on long walks.
+
+Tim Ferriss: How do you choose your books?
+
+Sam Corcos: A lot of them are through recommendations. I host these salon dinners, maybe roughly once a month, and one of the questions that I always ask people is, the intros are always your name and the last book you read. And so, that’s my hack for getting good book recommendations, and I add them to my wishlist on Audible. And then one of my new rules over the last couple of years is, I will only purchase a book if it is the next book that I’m going to read, because I found that — 
+
+Tim Ferriss: I’m a chronic violator of this.
+
+Sam Corcos: I just found that stacks of books that I have committed to reading, that I have not read, felt like a betrayal of my own commitment to myself.
+
+Tim Ferriss: Do you know there’s a Japanese word for this?
+
+Sam Corcos: No.
+
+Tim Ferriss: The stacks of books and this guilt and obligation that it elicits, tsundoku.
+
+Sam Corcos: Oh, yeah?
+
+Tim Ferriss: Tsundoku is the word for that. It’s a thing.
+
+Sam Corcos: Yeah, yeah. For sure. And I just realized, I’m just going to put it them on my wishlist, and then when I feel like reading a book, when I finish whatever book I’m reading now, I go to it and I scroll through it, what am I feeling like right now? You know what? A biography feels really good, I’m going to download that. So my wishlist is probably 200-300 books.
+
+Tim Ferriss: Holy shit.
+
+Sam Corcos: And so I have a pretty deep backlog.
+
+Tim Ferriss: All right. I want to stick with the — we are going to come back to the salons, because this underscores something for me that has proven very important also. But before we get to that, so you have a backlog of 300 books, how do you choose the next book?
+
+Sam Corcos: It’s purely — 
+
+Tim Ferriss: “Don’t tell me recommendations, because those are all recommendations.”
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: So how do you decide? And are there any books that have been particularly sticky in your mind in the last handful of years?
+
+Sam Corcos: The answer is it’s purely based on feeling. I used to read a lot more books optimistically, of, I should read more about that, even though I don’t really want to, I just feel like I should. And it’s usually a slog, and my rate of reading is way lower when that happens. And so, I now, when I finish a book, I go through, and I’m glancing through the titles, it’s like, you know what? I do actually want to read a book on complexity right now, I’m going to do that. That sounds really interesting. Or I do want to read this science fiction book that I’ve been hearing about.
+
+Tim Ferriss: Got it. So it’s more of “full body yes” type of situation.
+
+Sam Corcos: Yeah, exactly. And all of those books were added to the list because I thought at one point that I would be interested in it, and then things change, maybe I’m not interested in it anymore. And so, yeah, it’s just in the moment, right now, what do I want to read? I found that to be something that really also keeps the velocity up of the books that I want to read.
+
+Tim Ferriss: Okay. Any books that have stood out in the last while, it could be from 10 years ago, it doesn’t really matter. But books that have had made a substantial mark, it doesn’t have to be practical, it could be a fiction book. Although sometimes fiction is practical, I’ll just say that as a sidebar. Anything come to mind?
+
+Sam Corcos: Yeah. One of the books that I find myself frequently coming back to is The Lean Startup.
+
+Tim Ferriss: Yeah, Eric Ries.
+
+Sam Corcos: It’s a classic. I probably reread it every one to two years, and every time I facepalm, how did I forget this? We should obviously be doing this. So there are a lot of books like that. Another one that I frequently come back to is Nonviolent Communication. It’s a similar book, every time I read it, it’s just, I need to be doing more of that. Yeah, there’s a whole series of them. I keep track of all the books that I read on Goodreads.
+
+Tim Ferriss: Okay. So we may share some of those, and certainly the ones that you’ve mentioned, we’ll put in the show notes. The salons.
+
+Sam Corcos: Yep.
+
+Tim Ferriss: Tell me more about this, and also how EAs help with this, if they do help with this. And for people listening, we are going to come back to answer the question, what on Earth does Sam use four EAs for? Which is a very fair question. So this is a way of edging back into that territory. But one of the biggest upgrades in my life in the last few years has been seeking to add the positive before trying to remove the negative, and this hints at a bias that I’ve had for a very long time, as someone who’s hypervigilant, that I very often look for problems to solve, and we’re rewarded throughout life for being good at solving problems in school and so on.
+
+But just removing friction does not a great life make. And so I’ve, in the last few years, blocked out extended trips with friends, extended time off the grid, extended time with very vigorous physical activity or sports, and blocked that out in advance, and I find that as an inoculation against a lot of the stress that can seem pervasive if you don’t have things like that to offset some of the weight of the world, of the job of being a human, et cetera. So the salons are super interesting. What do the salons look like? What does the format look like? And it looks like you have a document showing people how to host salon dinners, so yes, if we can put those in the show notes, that would be great.
+
+Sam Corcos: Yeah, it’s a public doc.
+
+Tim Ferriss: So, let’s talk about the salons, and then how EAs help or don’t help.
+
+Sam Corcos: Yeah, so I’ve been hosting these for a long time, well over 100 of them at this point. The salons I like to host, they tend to be really intellectual. And so, there’s a topic that is usually just something that I am personally very interested in. And so — 
+
+Tim Ferriss: What would be some examples? I mean, is it like, “Death. We’re going to talk about death?”
+
+Sam Corcos: Yeah. Death is one of the salon dinners that we have planned later this year. It’s on death. We had one — 
+
+Tim Ferriss: It’s all the rage.
+
+Sam Corcos: Yeah. We had one a few weeks ago that was on the epistemic commons. On this challenge of sense-making collectively, as we have these different versions of the truth of the world that continue to separate our ability to just agree on what is real as a society is becoming harder and harder over time. We did one shortly before that on expression of love. That was a really good one. And so, they range from deeply intellectual to more personal and experiential. We had a really good one a little while back on human connection and friendship. I always curate the group in some way to make sure that there’s some interesting set of diversity that would make the conversation interesting. So, if it’s something that’s more political, I make sure that maybe half of the group has one point of view and the other half has another. Or the human connection and friendship salon, I wanted to make sure that I had people represented from many different social groups, some people who are very wealthy, some people who are not. People who have different life experiences.
+
+I always try to make sure that people don’t signal anything at the beginning. So the intros are always just your name and the last book you read. And that tends to lead to a much better conversation. And what almost always happens, we did a salon a while back on globalism and nationalism, and it was in New York, and it was about 12 people. And I curated the group, because I know who all these people are, and it went particularly long, it was a very good conversation for at least three hours. And at the end of this dinner, one of the people, I won’t throw him under the bus, but he said, “So, this is all well and good, but we’re just a bunch of New York Democrats talking about this, where are all the Republicans?” And I happen to know that six people there were Republicans, and I just waited, and each person was like, “I’m a Republican, I’m a Republican.” And he was just flabbergasted, “Wait, wait, wait, but I thought we were agreeing on this stuff?” It’s like, yeah, yeah, you were.
+
+Tim Ferriss: What are some of the rules for the dinner? Is it one conversation?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Right. And can you explain just what that means for people who may not have been exposed to this? Because it really is — 
+
+Sam Corcos: Totally.
+
+Tim Ferriss: — alien, or just I’d say uncommon at most group dinners. At most group dinners, to paint the opposite, 12 people splits off into maybe three or four pods having different conversations. So this would be the opposite.
+
+Sam Corcos: Yeah. And it’s pretty well — good moderation is super important.
+
+Tim Ferriss: Are you moderating?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Mm-hmm.
+
+Sam Corcos: And I’m a ruthless moderator. I found — 
+
+Tim Ferriss: What are the keys to ruthlessly moderating? Do you have any key phrases, or do you give people a warning in advance? You’re like, “Hey, I’m a pretty full-contact referee, here.” 
+
+Sam Corcos: Sometimes I do. There have been friends of mine who I know are going to be conversation monopolizers, and so I tell them — 
+
+Tim Ferriss: Impromptu TED Talk givers?
+
+Sam Corcos: Yeah, exactly. And I’ll tell them sometimes in advance, like, “Hey, I’m going to invite you to this, but I don’t want you to talk at all for the first 30 minutes. And I need you to do that, or I can’t have you come to this.” And it’s never been an issue, if you’re just really up front about it. It can be awkward, but just set the ground rules very clearly in advance. Which at the start of the dinner you just say, all right, the rules are, no phones at the table. We have one conversation at the table. If things get off-topic, I’m going to bring it back to the conversation. And so, there was a period, this would’ve been, I don’t know, five, six years ago, when blockchain was the thing everyone — now it’s AI. But back then it was blockchain. I remember — 
+
+Tim Ferriss: Some of the people who were doing blockchain have pivoted into AI.
+
+Sam Corcos: Yeah, totally.
+
+Tim Ferriss: I’ve seen the decks.
+
+Sam Corcos: Yeah. There was a point when every dinner I did would eventually meander into blockchain, no matter the topic. And the one that was the most egregious was, we did a dinner on the wine industry in San Francisco, which is really just an excuse for my friends who have vineyards to bring their nicest bottles of wine. It was fantastic.
+
+Tim Ferriss: I like how you put it on them.
+
+Sam Corcos: Yeah, exactly. It was great. And somehow, somebody was like, “Well, something, something, something, wine on the blockchain.” And you have to bring them back to the conversation. People will have their thing they want to talk about, but all the other people there came for the topic that you originally planned on. And so you have to be ruthless when things get off-topic, and the specific tactical thing that I found to be helpful, I always have a notepad, and so I say, “That sounds like a really good topic for a future salon dinner, so I’m going to make a note right now, and I’ll add that to the list.” 
+
+Tim Ferriss: And then you just draw a picture of a dick, and then move on.
+
+Sam Corcos: Yeah, it’s like, “But let’s bring it back to the topic of this.” And then maybe you call on somebody else to get their opinion.
+
+Tim Ferriss: Sorry, that was a — 
+
+Sam Corcos: Big Lebowski — 
+
+Tim Ferriss: Big Lebowski reference for people who don’t get it. What is the magic size? I think a lot about group size. So you mentioned 12, that’s a lot.
+
+Sam Corcos: That’s the upper bound.
+
+Tim Ferriss: Yeah. Is there a preferred size that you have found for yourself, or does the composition really make a small or a big group work? I’m sure that’s a piece of it. But if somebody wanted to try to experiment with this, read the document, which we’ll put in the show notes, and give a salon a shot, what size would you suggest they start with?
+
+Sam Corcos: The answer is not going to be very straightforward, which is that, there’s a bunch of dials that you have to balance. The best dinners I’ve ever done were six people, who are all super engaged with the topic. That is the perfect number, six highly thoughtful, deep people on the topic. I would say, the problem is you always end up with something like a 20 percent attrition rate. And so, if you invite six people, you might end up with four people. And four people you can do, but it feels less like a salon dinner — 
+
+Tim Ferriss: Maybe better for a board game.
+
+Sam Corcos: Yeah, it may be better for a board game. You can do it, it just doesn’t feel like it’s an event. So, I optimize, I try to get it to eight to 10 is how many I actually want to come, to get to that number, I tend to invite 12, and I usually end up with eight to 10. If you have eight to 10 people, if you have a couple people who are maybe not the most engaged or engaging, it doesn’t throw a wet blanket on the whole event, and you can bring them in slowly. And so, I found eight to 10 is really the number to shoot for that I think balances all those variables particularly well.
+
+Tim Ferriss: And in this case, because of the folks who are being invited, are you doing this yourself? Do you have EAs helping, or is this more of a project that you take ownership of?
+
+Sam Corcos: Yeah, so I generally pick the topic. I always send out some explanatory text of motivating questions, of what is the topic. I use ChatGPT for that. So a recent example for the epistemic commons salon, I asked ChatGPT, “I’m planning on hosting a salon dinner; I need five questions for this topic. Here are the issues that I think are relevant. Can you create some motivating questions for the dinner?” And it nailed it first time. Almost every time it does, it’s pretty remarkable.
+
+Tim Ferriss: And you have created the invitee list?
+
+Sam Corcos: So yeah, I’ve been adding people to the list, as I meet people, as I find people I think would be interesting people to have at these dinners, I just add them to a list. And then, once I come up with a topic and the motivating questions, I pick a date and then I tell one of my EAs to send out the invitations — the whole rest of the process is basically done by them. My only real involvement is I pick a topic and then she compiles all of the people that have opted in, and then it’s usually 20 or so people, depending on where it is. And then I will curate who I think will make for the most interesting conversation from that list.
+
+Tim Ferriss: Question about the email invite, and this is going to be very granular. What does the language in that invite look like? And maybe it’s too much time in Japan, but I’m very sensitive to, overly sensitive, probably, to a lot of social etiquette stuff. Which will tie back to Calendly, so I don’t leave that dangling as an orphan topic. Briefly, we’ll touch on that. Is it — maybe not speculating is the best way to go. What does the email invitation look like? Does it come from you or does it come from your assistant who is writing in your voice? What does that look like?
+
+Sam Corcos: Yeah. So the specific text of the email is in the Notion doc, so that’ll be easy to share. I basically say, I’m hosting another dinner, here’s the topic, here’s where it’s going to be, here are the motivating questions.
+
+Tim Ferriss: I got it. So it’s first person, in your voice, sent from your account by your EA?
+
+Sam Corcos: Yep. Sent from my email by my EA, and at the bottom it says, “Sent on Sam’s behalf by Sam’s EA.” The people then respond to it, those get tracked. And I also, usually about a week before the event, when things have finalized, my EA goes through everyone on the waitlist, and sends them a note saying, sorry, but there wasn’t space in this one, but we hope you can join in a future dinner. I find that’s a nice, instead of just ghosting people, closing the loop on it. And very rarely but occasionally somebody flips out, and then I just remove them from the list and they don’t get invited anymore.
+
+Tim Ferriss: Yeah. Yeah. You don’t want that as 20 percent of your attendee base. Right.
+
+Sam Corcos: Yeah, it’s not worth it.
+
+Tim Ferriss: Calendly, so since you are using your calendar as your fine-tuned to-do list, let’s just say, that means your availability would seem to be much more predictable. So, what is Calendly, how do you use it, and how do you overcome some of the social hurdles that might be associated with it?
+
+Sam Corcos: Calendly, it’s an incredible time-saving tool, where you set times that you’re available, it syncs with Google Calendar. And so, when I have time blocked off to do things, it doesn’t show up as an availability, and you set what hours you’re available. And so people can just pick time on your calendar. This is why I think when I get a Calendly link from somebody, I’m touched, because they’re allowing me to impose upon their attention. They’re saying, “I’m giving you access to my time, whenever is convenient for you.” And that’s a tall order, to get that from somebody. For some reason there are people who are deeply offended by it, and I really do not understand it.
+
+Tim Ferriss: It’s not a small percentage though.
+
+Sam Corcos: It’s not.
+
+Tim Ferriss: It’s a decently high percentage. So have you found any way, just like the “Sent on Sam’s behalf,” at the bottom, I think that’s a contributing ingredient that helps that to work. Are there any ways that you’ve been able to preemptively smooth potentially ruffled feathers with Calendly, or not really?
+
+Sam Corcos: I think the solution is just to slowly filter those people out of your life. I think that’s kind of the answer. If that’s the hill you want to die on, then we’ll be on different hills. It’s okay.
+
+Tim Ferriss: Right. Okay. Makes sense. So, I keep teasing this, it’s like after the next round of commercials. But we are going to come back to what you do with four EAs, but these are all interrelated. Briefly, a question on sort of higher-level principles related to inbox, and then just the tactical question of how do you actually go through your inbox. So the first is you talking about basically, and I’m putting words in your mouth, but trying to recap here, see if I get it right. Basically doing a version of repeating the task back to you. Which is reducing the ability of unwanted or unhelpful or unactionable information to impinge on your life.
+
+So you can be proactive. However, you spend a lot of time in email and for a lot of people, that is the arena that you enter that is full of everyone else’s agenda for your time. So you can become very reactive. So I’m wondering how you think about using email proactively and not becoming overly reactive, getting pulled away from your priorities if you’ve set them. And then I suppose the following question is just how you process email.
+
+Sam Corcos: Yeah. So I am an inbox zero person. I try to hit inbox zero at least once a week, which is the practice of marking all emails that you’ve processed as done. So you get to the end of the week and you have processed all of your emails. It is definitely one of the holes in the strategy where I get lots of uninvited inbound information. I do have a process by which my EAs clear my inbox, where I have a separate category called not important, where they go through and they just move all the things they don’t think I need to see into that.
+
+And I check it every once in a while. And in the early days, every so often they would flag something that’s not important that I actually should have seen, but at this point it’s like a 100 percent success ratio of them seeing my patterns. And typically what I do is I turn on a Loom as I’m going through the not important and I say, “Yep, these all make sense. Oh, this one I should probably keep in because of this reason. This one we should pull in because of this reason.” And then I just share that to them as feedback and then the process just gets better.
+
+It’s probably the biggest hole of people imposing upon my attention. It’s something that I’m trying to work on a solution to. I know there have been interesting companies that have tried different things like you have to pay money to send somebody an email. I don’t know if those ever took off, but that’s an interesting strategy. It’s like just adding some friction. It’s like, “Yeah, if you pay me $100, you can send me an email. That’s okay. And I will read it. I’ll definitely read it if you pay me $100 to get an email. Sure.”
+
+So yeah, I think the nature of the nature of processing email, I think the way to do it most efficiently, I use Superhuman as a tool. Hotkeys are probably the lowest hanging fruit for people to improve their productivity for almost no cost.
+
+Tim Ferriss: Now how do hotkeys differ from keyboard shortcuts in Gmail?
+
+Sam Corcos: It’s the same idea. The thing is most people just don’t take the time to learn it. There’s several studies on this that I can share with you, but it is like free productivity. You spend a handful of minutes, 15 minutes, maybe 10 minutes, one time, learning what hotkeys to use. And most people will see a 10 to 40 percent increase in productivity immediately for the rest of their lives. And yet most people don’t take the time to learn them. It is if you are not using hotkeys to process your email to do — if you’re in Figma, learn the hotkeys. If you’re in Photoshop, learn the hotkeys. It is a free productivity boost for almost no cost.
+
+Tim Ferriss: And in the case of email and you have reply, reply all, archive, what are some other functions that you would access with hotkeys?
+
+Sam Corcos: So mark as done, I think one of the biggest ones is snippets, where you have pre-drafted messages. And this is something that it’s really easy to see when — a good example, my co-founder Casey, when she was struggling with email, I asked her to just record yourself doing email for however long it takes and then I’ll watch it and give you feedback. And this is the workflow thing where she just recorded it, she shared it with me.
+
+And there were many points where I would say, “Hey, during this point have you noticed this is the fourth time you’ve sent this exact same email, and you type it out every time? You should just create a snippet and you should just send it to them. You see this part here where you wrote a very long response. He was actually really just asking for a yes or no. You didn’t have to provide much longer context. You could have said, ‘Yeah, that sounds good. If you need any more context, let me know.’ And that could have been it. You didn’t need to spend 15 minutes on that. You could have just said, ‘Yes, and if you need more, let me know and I can give you more.'”
+
+So don’t make the assumption that you have to spend 15 minutes on it if you usually don’t have to. And so just having that feedback loop is really helpful. And this keeps tying back to Loom as a useful tool for this, but being able to just see it. In the previous era, you would’ve just had a coach standing over your shoulder watching, and now you can do this asynchronously. I can watch it at two and a half x, I can skip over parts that are not relevant. So it’s a really big enablement tool.
+
+Tim Ferriss: And for the sake of clarity to confirm, inbox zero does not mean that you have handled all of the tasks or content associated with those emails. It simply means that you have either responded to them or moved them into another form factor — 
+
+Sam Corcos: Triage.
+
+Tim Ferriss: — like calendar, so that you no longer need that email vestige. You can archive all that?
+
+Sam Corcos: 100 percent. It’s reducing that stress that is created by having this ambiguously long list of potential tasks that you need to do. There’s no way to see in an email that I need this from you by 2:00 today, or I need it from you next month. You have to go through every single one individually in order to get that information.
+
+Tim Ferriss: All right, so the question of the hour. What on Earth do you use four assistants for?
+
+Sam Corcos: I use it for a lot of things. Actually, I have a public Notion database of all of these tasks. I filtered for the ones that contain confidential information, but there’s, I don’t know, 40, 50 of them that are kind of examples.
+
+Tim Ferriss: Great. So we’ll put those in the show notes as well.
+
+Sam Corcos: Yeah. So some simple things are, two days before the call, I send links that provide more context for who I am, what the company does, whatever the thing is. And so two days before, they get that information. They also do follow-ups. So I have a Notion page called “Sam’s Calls” where before I jump on this call, I have all of my call notes stacked and I have context on each one of them. So I open up my calendar, I go to the call, and then I open my notes and it’s your call with this person, here’s a screenshot of the email that you had with them setting up this meeting.
+
+Tim Ferriss: Got it. Your EAs are creating all of this.
+
+Sam Corcos: My EAs are creating all of this behind the scenes. I used to do it myself, but over time I just trained the EAs to do it so I don’t have to do it. And it really just gives me a ton of leverage. So things like almost nobody I know pays attention to their LinkedIn messages anymore. It’s just cesspool. But if you have an EA that you’ve trained to filter out any random requests from dev shops in India, just archive those immediately.
+
+And if there’s anything from these sorts of people, just send me a note and say, “I think you should respond to this.” This is a semi-automation part. Same with Twitter DMs. I don’t manage those. I get a screenshot whenever somebody that they think meets the criteria, that they think I should be talking to, and that’s all managed by them.
+
+And so those are just a handful of examples of the ways in which I can get leverage on my time. Things that I used to maybe do myself, but at this point I have so many of these tasks. Another one that I have my EAs do consistently is I’m really diligent about tracking my time.
+
+It’s one of those interesting things where this is similar to Calendly. I get people who just aggressively negatively respond to the idea that you pay attention to where your time is going.
+
+Tim Ferriss: Really?
+
+Sam Corcos: Oh, yeah. They’re like, “You really need…” 
+
+Tim Ferriss: That’s one that I wouldn’t have expected.
+
+Sam Corcos: They’re like, “Do you really need to optimize every 15 minutes of every day? Don’t you have time for spontaneity?” These are the common things that I hear. The answer is, yeah, of course I have lots of time for spontaneity. I schedule it. It’s like this is a week I’m not planning anything. Anything could happen. But I’m doing it on purpose, not by accident. And I don’t know where that negativity comes from, but I certainly hear that a lot.
+
+So one of the things that they do is I have a set of categories that are things that I think that I want to do with my time. And so every 15-minute increment, I think weekly they go through and they update a spreadsheet of each block, and then they categorize it in one of these 10 categories. And then at the end of the month, I can see how I spent my time. And it is humbling to see how often what I think I’m spending my time on and my stated priorities. It’s like, oh, yeah, I spent so much time doing recruiting last week.
+
+Tim Ferriss: I thought I was eating lentils all month. Turns out it was 80 percent Snickers bars.
+
+Sam Corcos: Exactly. It’s surprising even for I really try to be diligent about it. And even so, I think this ultimately comes from there’s an emotional cost to doing certain things that you don’t like to do.
+
+Tim Ferriss: Yeah, I think there’s huge, for me, at least. Physical too.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: All right. How do you course correct? What does that look like? Are there certain tasks or types of work or interactions that you just categorically do not engage with now? Are there “no” categories for you?
+
+Sam Corcos: I think it’s more that having the awareness. I was talking to somebody recently about this where we did a values exercise and they came up with a set of values that they have. And then it’s a bit of a trick question because then you say, “All right, let’s go over your calendar and how you spent your time.” And they’ll say, “Oh, my values are friends, family, this that.” It’s like, “Oh, how’d you spend your time? It’s YouTube, Instagram. Did you notice how none of these things match?”
+
+Your actual priorities are consuming news. Your actual priority is doing sports, which is fine, there’s nothing wrong with that. But empirically, your priorities are this. How you spend your time are your priorities. And that’s a difficult thing for people to understand. But it really is an epistemological problem where the example would be if you are an ax murderer, but you go your whole life and you never murder someone with an ax, are you actually an ax murderer? The act is what makes you what you are. I think this is Ben Horowitz’s book, What You Do Is Who You Are. That is what it is. And how you spend your time doesn’t matter.
+
+Tim Ferriss: Your calendar is your priorities.
+
+Sam Corcos: Yeah. It is the empirical record of your actual priorities. And almost everybody that I talk to, those two are not matching.
+
+Tim Ferriss: So for those people listening, they might think, well, four assistants, not to beat a dead horse, but I think it’s maybe a semi-dead horse that’s worth beating a little bit more. They might think, “Why four? I imagine that one would be more than enough.” What about, and this comes back to an earlier concern of maybe novice, intermediate, delegators. I consider myself a pretty experienced delegator, and I still think about this and it causes me some hesitancy. Under-utilization. But could you give a few more examples of tasks and why it makes sense for you to have multiple people?
+
+Sam Corcos: Almost all of the tasks that I have them do are recurring ankle-biter tasks that would take me five minutes here and there. And the reality is they just accumulate. So part of it is that almost certainly I will be able to do it faster and more effectively. But this is a comparative advantage thing. If it takes me 10 minutes and it takes them 30 minutes, that’s fine. Because I have other things that I could be doing with my time that are higher value than these tasks.
+
+And so if I could be spending 30 hours a week on these tasks, it might take them 90 hours a week or 100 hours a week of effort to be able to do these tasks, but then I don’t have to do them anymore. And then I can do other things. And so the under-utilization thing has really, I certainly didn’t start with four. I started with one. And she’s been great. And interesting thing about this is we’re really leaning into remote.
+
+She’s in the Philippines. We don’t overlap very much in terms of time zone. I have still not communicated synchronously with her. All of our communication has been async in Looms or in Content or in some form of async manner so that you can reference all of your previous conversations. It’s not like I don’t have any specific reason not to talk to her. It’s just we haven’t needed to do that.
+
+Tim Ferriss: That’s incredible. All right, so we’ll make that list of tasks available. Where are the most common areas for improvement growth opportunities for people who are blue-belt delegators? So these are people who’ve maybe they’ve been working with an EA for six months a year. If they were to send you, you were just magically able to ingest with a port on the back of the head, like The Matrix, a thousand Loom interactions they’ve had, workflows, et cetera. Much like you looked at your co-founder’s email flow. What do you think the most common types of advice would be or issues would be that you would spot?
+
+Sam Corcos: I would say for somebody who’s a blue belt, which I don’t know my belt, I assume that blue belt’s medium belt.
+
+Tim Ferriss: It depends on the system we’re talking about. But yeah, what I mean to say is intermediate.
+
+Sam Corcos: If somebody is intermediate, I would say that one would be creating a system of feedback loops. So something that, because one of the things that fails here, and this was a conversation I recently had with somebody on our team who said that he just doesn’t feel like he’s getting leverage out of his EA, which is surprising because I see how much leverage he gets. And having a system where you keep track of all of the ongoing tasks. And I said,”Okay, cool. Well if you don’t need one, that’s not a big deal. Obviously it costs us less money. But before we do that, let’s go into the database and let’s see all the tasks that this person is doing for you and let’s decide which of these we don’t need.” 
+
+He had something like 30 ongoing tasks. I said, “How about this one?” He’s like, “No, no, I definitely still need that.” “How about this one?” “Yeah, probably should keep that one.” We went through almost all of them. I think we eliminated two of them. Okay, well, it sounds like you’re getting a lot of leverage out of your EA.
+
+Tim Ferriss: Let me ask a strange question. Why would he be interested in having his EA do less?
+
+Sam Corcos: I think it was just — 
+
+Tim Ferriss: Did he feel like he was spending more time on managing them than the work product that was being produced? What is his incentive? How does he benefit from having this conversation?
+
+Sam Corcos: He is somebody who has the company’s best interest in mind and he just doesn’t feel like we’re getting X dollars in value from this person’s tasks. And then we looked at each of the tasks and we looked at how much time each task takes. And the thing is they’re happening behind the scenes. And so he didn’t have a lot of visibility into it. And so this is one of the reasons why we actually internally, why we do the Friday Forum is celebrating wins and having artifacts to represent progress is actually really important.
+
+Tim Ferriss: And by artifact, you just mean some type of captured media, generally?
+
+Sam Corcos: Yeah. It can be anything. It can be an image, something that shows progress over time. People need to feel that things are working and that things are good. If they don’t, you just leave this void where people, the example of the person who felt like he wasn’t getting leverage from his EA, he just hadn’t looked at all the things that they were doing. They were all there. He could have found them, but they were all happening behind the scenes and he forgot that the automation was even happening.
+
+And so just having that visibility. And we ended that conversation going, you actually might need another one because you’re already almost at the limit of this person’s capacity. And we only eliminated two out of something like 40 tasks.
+
+Another one that I would say for people who are blue-belt level delegators is really doing more in parallel tasking. Which is anything that you are going to do anyway, just have your EA or chief of staff do it as well, but don’t put them in the mission-critical path. This is one of the failure modes that a lot of people have.
+
+Tim Ferriss: Could you give a concrete example of what that might look like?
+
+Sam Corcos: Yeah. So let’s say you have something that needs to be delivered on Friday and you were going to do it, but instead you hand it off to your chief of staff. Don’t rely on what their output is to get that delivered on Friday. If you were going to do it yourself, just do it yourself anyway.
+
+Tim Ferriss: What type of task might that be? I’m just trying to imagine. Because for instance, if I had a deliverable that required interacting with a team externally, let’s just say some marketing agency, if we both tried to pursue that task, it would become very, very confusing. So, what type of task?
+
+Sam Corcos: I think an example would be you need to put together a slide deck for a presentation on Friday. And you can put it together and you don’t want to show up in that meeting or an hour before and realize the slides are bad. This is the thing that people often do, is they delegate it and then they forget about it. When really you should just do it in parallel, such that worst-case scenario, you just throw out their version and give them feedback on it.
+
+And what people usually discover is that people do a better job on a first draft with almost no context than you would anticipate. You just give them maybe by Loom some instructions of, I’m doing a presentation on this, here are the messages to read through. It should look something like this, an outline, kind of like that. And then you see what they put together and then if it doesn’t work, you give them feedback. A recent example for us is one of our engineers, Murillo, needed to do a retro on a project that took him about three-ish weeks.
+
+Tim Ferriss: What is a retro?
+
+Sam Corcos: Oh, retro. It’s like a retroactive. It’s a document that just says, “Here’s how the project went. Here’s what went well, here’s what went poorly, here’s what I proposed for next steps.”
+
+Tim Ferriss: It’s the less morbid equivalent of a postmortem?
+
+Sam Corcos: Exactly. It’s the same thing, just a less morbid title. And so he was going to do it himself and I said, “Great, you should do it yourself.” But also, since we do daily async updates, so every day he posted a Loom of his progress that day. I said, “But also in parallel, ask the product EA to do their own retro from what they got in context from your daily updates.”
+
+Tim Ferriss: Just so I understand, the objective of this is for people to become more comfortable with delegating more responsibility?
+
+Sam Corcos: Yep. In the same way that turning on a Loom, worst-case scenario, you just delete it. It’s kind of the same with parallel tasking. Worst-case scenario, you just don’t use what they came out with. And then that’s fine. You were in the same exact position now as you were before. But oftentimes what you’ll discover in the example I gave for the retro, you realize, wow, this is 80 percent is good as the one that I came up with and I thought I had context that only I had.
+
+And so he said, “The thing I learned from that experience was I should put more information in my daily updates so that I don’t have to do any work next time. I just put a little bit more work into my daily updates and then the entire retro can be done by an EA.”
+
+And so it saves you a lot of time and you can build that confidence and you can give feedback. And oftentimes it only takes two or three cycles of that, doing it in parallel, before you can largely be hands off and then they can eventually be in mission-critical positions.
+
+Tim Ferriss: Very helpful. And something I haven’t tried, so I should try it.
+
+So my next question is related to a bullet for an interview, A prior interview you did, or actually no, it was not an interview. It was a podcast. “Founder Dynamics” podcast. And the, I suppose, synopsis, for the purposes of our conversation, is that this is an episode that gives a feel for what it’s like working with you and how other people perceive you. And I recently interviewed Dustin Moskovitz, co-founder of Facebook, co-founder of Asana, current CEO of Asana. And in prep for our conversation, they also did an immaculate job of prep notes and they sent a number of different things.
+
+One of them I had not seen before, and I’ve had some interaction with Dustin over the years, was a, in effect, I can’t remember the title, but it’s “Working with Dustin” as a document. It’s basically a user guide to Dustin and it lays out all sorts of things. His temperament, his preferences, the things he hates, his Enneagram type. And I found it very compelling to the extent that I’m probably going to create something like that. It could also be useful for external parties, contractors, agencies, who knows. Do you have something like that?
+
+Sam Corcos: Yeah, totally.
+
+Tim Ferriss: What form does it take?
+
+Sam Corcos: Exact same format. We both took it from the same person. I don’t remember, I think he referenced it in the podcast, but there’s a specific person who popularized this and we largely use the same format. And it’s also part of our onboarding. One of the deliverables at the end of month one is each new hire writes their own user guide and it’s been super helpful.
+
+Tim Ferriss: Okay. So in that case, could you just, for people who have not listened to the Dustin episode or seen the document, what are some of the key ingredients in that user manual? I wish I could give proper attribution to the person upstream. I can’t recall the name. But we can put it in the show notes for folks.
+
+Sam Corcos: For sure. One of the categories is just background. We do a little bit more work than is typical. We actually hire a writer to do what we call a spotlight where they interview this person and give a whole rundown of interesting things about them until you read a little bit more about them. You learn what their hobbies are, where they grew up, all kinds of stuff.
+
+The more tactical things are like communication patterns. For example, for me, I really, really do not like being interrupted. And so my phone is by default — 
+
+Tim Ferriss: Sorry about the last two hours.
+
+Sam Corcos: No, no. I mean during the day. Yeah, like intraday interruptions. So my phone by default is on do not disturb mode pretty much all the time. It is often in airplane mode. And so when I’m working on things, I really, really do not like getting text messages from people. Anything urgent, because this is something that I’ve just come to accept about myself is that it takes a long time for things to get loaded into memory. And these constant context switching — this is why I load all of my meetings on Monday. If I’m in manager mode as opposed to maker mode, I have no issue context-switching all the time. But if I’m trying to deliver something or I’m trying to write code, and I get disrupted — 
+
+Tim Ferriss: Yeah, you drop all the balls.
+
+Sam Corcos: Yeah, it’s a real problem. I feel it viscerally when I get pulled out of flow state. So I usually tell people that. When you see a deep focused block on my calendar, unless it is a real emergency, don’t text me.
+
+Tim Ferriss: Sure.
+
+Sam Corcos: Send me a note, I’ll get to it at some point. Other people are exactly the opposite, which is they say, “Text me anytime. I like to be a fast responder. That’s my thing.”
+
+Tim Ferriss: Gunslingers.
+
+Sam Corcos: Yep.
+
+Tim Ferriss: Yeah.
+
+Sam Corcos: And there’s nothing wrong with one way or the other, but just learning how to interact with different people, we found it super helpful.
+
+Tim Ferriss: What else would you say about what it is like to work for you or how others perceive you?
+
+Sam Corcos: One thing I would categorize as a misconception, which is that I am extremely diligent and rigorous and disciplined, my default behavior is not disciplined. I’ve worked with some people like my former co-founder, Todd Opalski, who is in Special Forces. He wakes up at four in the morning every day to work out for two hours. He’s one of those guys and he just does it intrinsically.
+
+I schedule early morning meetings like 8:00 a.m. breakfasts, because if I don’t, I won’t wake up. I will sleep until my first meeting. And if that’s at 11:00, then I wake up at 11:00 or I wake up 30 minutes before. And so I’ve created a lot of structure around me to make sure that I’m on the path. Some of it is reducing friction here, increasing friction there. If left to my own devices, I would spend all day on social media and YouTube and I would sleep in and I would not be able to do the work that I need to get done. And so there really is not this intrinsic capability to be super disciplined. It’s around creating structures around me to force me to do the things that I want to do at some higher level.
+
+Tim Ferriss: Yeah, I would say I’m very similar.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Yeah. Oh, yeah, big time. It’s like the scaffolding is really important. Scaffolding is incredibly, incredibly important. And we can always come back to anything that comes to mind related to that, but memo culture over meeting culture. What is the role of memos and why are they important?
+
+Sam Corcos: I think some of this is philosophical, which is — people can debate this, but I do believe sincerely that writing is thought.
+
+Tim Ferriss: Yeah, I agree with that.
+
+Sam Corcos: Yeah. If you cannot write out your ideas, you do not have coherent thoughts. A lot of people can convince themselves in a meeting where they’re talking to people, “Oh, yeah, I made a really good point there.” Or, “We came to a good conclusion.”
+
+Tim Ferriss: “Go back and read the transcript.”
+
+Sam Corcos: Yeah. Exactly. And I did an experiment with this where I tried to figure out. There’s an emotional hurdle to blocking off, in my case, usually a full day to just like, all right, I need to write a memo on company strategy. Today’s the day. It’s like, man, it’s just so much effort to do that. What if I just had a call with somebody and I just spitballed all my ideas and I tried it, I did this with my co-founder and we just bounced back ideas for a couple hours. And then we pulled the transcript and we pulled the useful bits and we had two paragraphs of useful information from a couple hours of conversation. It’s like, man, that was not helpful. It’s just writing is thought. I think where it comes down to is having a really thoughtful memo. It’s an artifact that you can reference in the future. It gives you these data points of what were we thinking at each point in time.
+
+Tim Ferriss: And why are they important? I understand maybe the function, right?
+
+Sam Corcos: Mm-hmm.
+
+Tim Ferriss: But if we zoom out, what is the impact that these memos are designed to achieve?
+
+Sam Corcos: So we have a memo on — 
+
+Tim Ferriss: Memo about memos?
+
+Sam Corcos: Yeah. It’s about long-form memos.
+
+Tim Ferriss: Turtles all the way down.
+
+Sam Corcos: Yeah. It’s on long-form memos and decision-making, which is that — some of this is just a personal preference, but I think there’s some universal truth to it, which is that for me to have confidence that somebody is good at their job and knows what they’re doing, you don’t just get that for free. You have to earn it. And it typically comes from, in my case, a long-form memo. A good example of this, Mike Haney, our head of editorial, I wrote our first editorial strategy and it was okay. It had some broad strokes of — we’re going to focus on this kind of content and not this kind. It was an okay strategy.
+
+And then we brought on Mike Haney, who was from Popular Science magazine, and his first task during onboarding during his first month was put together the next version of our editorial strategy. And it was easily 10 times better than the one that I came up. And it was just like, okay, we clearly hired the right person. Everything in here is better than what I came up with, so I trust him to make these decisions. And so we usually ask people as one of their first tasks, especially if they’re a functional leader, to put together a strategy of what is it that you’re going to do? What are the strategic elements of your function? Convince me that I can trust you to do this effectively. The only way to do that is in writing, having all of your thoughts written out. And some of these memos are pretty long.
+
+Tim Ferriss: This is prose and not bullet points.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: These are full sentences.
+
+Sam Corcos: Some of these are 10, 20, 30, 40 pages. I think our longest memo is like 200 pages.
+
+Tim Ferriss: What was that about?
+
+Sam Corcos: Yeah. But it was a big commitment. It was a commitment of something that would’ve cost about 10 million.
+
+Tim Ferriss: I see.
+
+Sam Corcos: And so I really wanted to make sure that this person knew what it is that they were doing.
+
+Tim Ferriss: And that’s answering the question, what is it you’re going to do and why should I trust you, basically?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: 200 pages.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Good Lord!
+
+Sam Corcos: It took him more than a month to write it.
+
+Tim Ferriss: Is there anything to the uninformed criticism that, if it took 200 pages, maybe the thoughts aren’t all that clear?
+
+Sam Corcos: No, I mean it was an incredibly thoughtful memo.
+
+Tim Ferriss: Oh. All right.
+
+Sam Corcos: It required a lot of context from areas that I did not know before. I needed to be convinced that this was a good idea. And the thing is, people are like, “200, that’s ridic.” It took them about a month of full-time effort, about a month.
+
+Tim Ferriss: He should be a professional writer. That’s faster than me.
+
+Sam Corcos: Yeah. Well, to be fair, it’s not copyedited. It’s not. There’s a lot of scratch notes in there. It’s not intended for distribution. It’s an internal memo, so what people often miss is that this one person’s set of decisions, if it took him a month to come up with this decision, that is going to impact probably 20 or 30 people for the next couple of years. If it takes them an extra week to make the right decision — 
+
+Tim Ferriss: So be it.
+
+Sam Corcos: Yeah, by all means, take an extra week, take an extra month, take however long it takes to make sure that this is the right decision, because it has long-lasting implications for the business. And so you have to weigh these things. You don’t need to write a 200-page memo for something that’s really trivial, but you still have to convince me that this is the right decision. And you can say, “Look, here’s what we think. Here’s a comp that does it really well. It’s going to take us one week to try it.” It’s plausible. Sure, great. Go for it. But if what you’re saying is, “Here’s how I want to spend 20 million over the course of the next two years,” it’s got to be pretty convincing and it’s probably going to be more than a couple bullet points to convince me.
+
+Tim Ferriss: Do you have any style guides or book recommendations that you provide to new hires? They could be junior, they could be senior to make them more effective, written communicators, better writers?
+
+Sam Corcos: We’ve tried. We’ve thought about it. The best style guide that we have is really just our existing memo structure. There’s somebody, David Perell, who does a writing course that we’ve talked about, maybe putting together something for corporate writing, but he hasn’t put that together yet. Hopefully he does at one point. There’s definitely space for something that you can give to people in a corporate setting to help them up level their writing skills. It definitely does filter people out. We’ve had people opt out of our interview process because of the requirement to do writing, and one could argue that those people might not be capable of the kind of thought that we need them to, but certainly people — 
+
+Tim Ferriss: I think they would be incredibly unhappy in the company also.
+
+Sam Corcos: Yeah. For sure.
+
+Tim Ferriss: Good to opt out early.
+
+Sam Corcos: This is one of the failure modes that I think many companies find themselves in with recruiting is that it is fundamentally a matching problem, not a sales problem. And so I share a lot of information during the interview process of all of the reasons why you probably won’t want to work here. And some people are super energized by those. I had an interview very recently where I talked about all of our one-on-ones are recorded and shared. In fact, this conversation that we’re having, in this meeting, this conversation is recorded and will be shared with our whole company. And the response was, “Okay, can we delete this recording? And I don’t want to be part of this anymore.” It’s like, great, we’ve now ended the process. You know?
+
+Tim Ferriss: Best luck in your future endeavors.
+
+Sam Corcos: Yeah, exactly. There’s probably a place where it’s a better fit, but this definitely would not have worked. Yeah, it’s really about finding those points at which somebody will opt out of the process.
+
+Tim Ferriss: Are there any particular memos that have had a disproportionate impact? Putting aside the memo related to the large investment that would be occupying dozens of people for several years, which I recognize we’ve already covered is important, are there any shorter memos that you think have had a wide-ranging or long-lasting impact that you’re particularly proud of? Not necessarily that you wrote. They could be, but — 
+
+Sam Corcos: Yeah. There’s quite a few of them. I think one of them is an article you wrote on organizational entropy, just broadly, on strategies for fighting it. I think that was really helpful for a lot of our managers to just recognize. I was talking to somebody on our team who — this is a bad habit that a lot of engineers find themselves in as well, where you get really deep into a project, and then the code base gets kind of complex and then you say, “I just want to start over.” And then you start over with something smaller, which is lower complexity, but it takes you a long time to just get back to status quo. But now it’s lower complexity.
+
+And then, at some point it starts to get complex again and you say, “I don’t know, let’s just start over.” And it is almost always the case that what’s happening is parts of the code base are rotting and there is no mechanism for keeping the documentation up to date. And the assumption that a lot of people have is once it’s shipped, then it’s done. But really, you’ve just created a new evergreen obligation for yourself. Every new surface that you add is an obligation to maintain — maybe forever.
+
+Tim Ferriss: What do you mean by surface?
+
+Sam Corcos: As in, if you create a new screen on your app, you now have to maintain that forever or somebody does. It’s not just done, and then you can move on with your life. You always have to have some process for saying — 
+
+Tim Ferriss: It’s your bonsai garden.
+
+Sam Corcos: Yeah. Exactly. It is. You have to constantly come up with a process for, hey, this screenshot that we just made on this new website, this will be out of date next time we update our app. And so you have to create a process for, on some regular basis, maybe weekly, maybe monthly, check. Is the current state of our app aligned with this screenshot of this surface? And then you have 50 surfaces. You have to check all of them to make sure. And if your conclusion is that is too much maintenance, then the answer is, well, then you need fewer surfaces and you need to figure out how to reduce that complexity of maintenance.
+
+Tim Ferriss: So next, I would like to chat about your sabbatical briefly, and that may not be the term that you would apply, but you took a year off after your last company. You studied two things, theology and network theory. Why did you choose these two? I understand these words separately, but honestly I have no idea what network theory refers to. So how did you choose these two? And then could you please explain network theory and what has come of that?
+
+Sam Corcos: Yeah, so I had a whole list of topics. Some of them ended up being much simpler or more shallow than I was expecting. One that was simpler, I had all my list of things — 
+
+Tim Ferriss: Bigger calves. How can I get bigger calves?
+
+Sam Corcos: Yeah. Bigger calves. One of them was getting up to speed on the state of AI. This was four years, five years ago now. And the last time, I had done, it was maybe 10 years ago. And it was really hard. There were no libraries. There was no real tooling. And then next time I get into it, a friend recommended the Fast.ai course and it was so easy. My goal was to create something that can recognize images of cats. And it was literally the tutorial and Fast.ai, was to recognize images of cats. And I had planned to do three months on this, and I only ended up spending maybe a week on it, because I get it now. I see what this can do. And so theology was one that I became interested in because my — 
+
+Tim Ferriss: Lots of books available.
+
+Sam Corcos: Yeah. For sure. I grew up — my father is Jewish and secular. My mother is a Richard Dawkins-style atheist. And so I grew up not really knowing anything about religion. We went to temple every once in a while, but more as a cultural thing. And if I’m being honest about it, I probably spent the first 25 years of my life generally condescending towards religious people. And then as I got older, I kept recognizing that these people who I knew were smarter than me were also religious, which was very strange because this would be a really big oversight.
+
+Tim Ferriss: A little cognitive dissonance.
+
+Sam Corcos: Yeah. It’s like — how is this possible? And so my conclusion was that there’s something about religion. It is more likely there’s something I don’t understand than it is all of these people smarter than me are missing something that I think is obvious, and so I spent a lot of time. I interviewed a whole bunch of my religious friends. I went to a Bible study class for 10 weeks, so a Christian Bible study, and it was really, really interesting. I think the — 
+
+Tim Ferriss: May I ask you a question?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: How did you choose Christian Bible study instead of Torah, Talmud, whatever it might be?
+
+Sam Corcos: Some it was — 
+
+Tim Ferriss: Or something else?
+
+Sam Corcos: Yeah. Some of it just very tactically, I knew a lot more about, I went to Sunday school growing up, so I knew a lot more about Jewish tradition. I knew a lot less about Christianity. The version of Christianity that was on my mind was all the bad things, the Crusades, the bigotry, all of those things. What was fascinating going to this Bible study class was how the opposite it was of that. It was all about humility. It was about love and caring and just over and over and over again on all of these courses. It was a very different feel for religion than I was expecting.
+
+What came up, having talked to a whole bunch of religious friends, part of the reason why I also went to it is some of my friends were going to that church and they invited me, what was really interesting was this one friend in particular changed my perception of what religion means to people. I didn’t know this because as long as I’ve known him has been very Christian and he told me how he grew up an atheist. And when he was, I think 30, he was going through a bit of a midlife crisis, if that counts, quarter life crisis, whatever the number is.
+
+Tim Ferriss: Yeah. I mean, we never know.
+
+Sam Corcos: Who knows? And he did an exercise where he wrote down all of the things that he wants out of life, which is he wanted a community of people that shared the same values. He wanted to be married to somebody who shared this set of values. He just came up with this whole list and then had this realization. This is Christianity.
+
+Tim Ferriss: He was like, “Oh, my God, the red doorknob,” or whatever. Oh.
+
+Sam Corcos: He was like, “I just described Christianity.” And so he went to a church and just immediately was like, “This is it. This is what I’ve been missing my whole life was this.” And I talked to a lot of other people. There’s this separation of the ritual, the — 
+
+Tim Ferriss: May I ask a question about that? I’ve been looking for this. Now, this could refer to the total package. It could refer to the values which may be separate from beliefs. Does that make any sense? Right?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: So did he go whole kit and caboodle, including the beliefs, or was it more the combination of all the other facts or elements?
+
+Sam Corcos: Yeah. In his case, he just went. He’s like, “I’m just going to do all of it now.” And it’s an interesting thing. This dive into theology, as it almost always does, ended up taking me down a path towards epistemology as well.
+
+Tim Ferriss: Can you define that just for this?
+
+Sam Corcos: Yeah. What is truth? What does it mean to it mean for something to be real or truthful?
+
+Tim Ferriss: Yeah, or to have knowledge? Right?
+
+Sam Corcos: Yeah. Yeah. And so it is an interesting story because when I talked to some of my other religious friends, they say, “Well, that guy’s not a real Christian because he doesn’t actually believe in God. He came to it through ritual and community and practice, not through some deep spiritual awakening.” And what was interesting was how different religions, or at least, the sample size that I had, which was about 30 people, a lot of the Catholics that I talked to, they had this deep connection to their community, to their rituals of going to church. But I was often surprised at how they could not even answer basic questions about their religion. I remember the first conversation I had with one of my Catholic friends. I said, “All right, let’s talk about Catholicism. What is it that you believe?” And she said, “Well, Catholicism is about the Father and the Son and the Holy Spirit.” I said, “Okay, so father’s God. Son is Jesus. What’s the Holy Spirit?” She said, “I don’t actually know.” It was just — 
+
+Tim Ferriss: That might be okay.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: That might be totally fine. Right?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: It’s like I don’t know how my microwave works, but I use it.
+
+Sam Corcos: Yeah, totally.
+
+Tim Ferriss: And for that particular package, maybe that’s okay. I mean, there’s certainly other factions. I would strongly disagree with that.
+
+Sam Corcos: Totally.
+
+Tim Ferriss: I’m sure.
+
+Sam Corcos: And I came across them.
+
+Tim Ferriss: Yeah. Yeah.
+
+Sam Corcos: Yeah. It was interesting just to see how different people got different values out of religion. One of the most recent salon dinners that we hosted was on the bundling and un-bundling of religion, which is a particularly fun one. It’s basically how, over time, I started to realize the convergence of these bundles where — I was at a dinner with some Burning Man friends, and we all held hands to say gratitudes. It’s like, this is grace.
+
+Tim Ferriss: There’s a lot of reinventing the wheel.
+
+Sam Corcos: Yeah. No, no, it’s totally different. It feels very similar. This feels a lot like saying grace.
+
+Tim Ferriss: Yeah. There’s a great video. It’s an oldie, the one that kicked it all off, maybe, called “[How to Be] Ultra Spiritual” by JP Sears — 
+
+Sam Corcos: Oh. Yeah.
+
+Tim Ferriss: — from way back in the day. Oh, it’s basically alternating between new age hodgepodge spirituality.
+
+Sam Corcos: Oh. Cool.
+
+Tim Ferriss: And very clear monotheistic Judeo-Christian stuff. It’s like same same, kind of.
+
+Sam Corcos: For sure.
+
+Tim Ferriss: Or at least the attempt is made. So where did you then end up after this study? And then we’re going to come back to the network theory, but what was the effect that had on you? Were there any sort of lasting changes of perspective or behavior or priorities or anything?
+
+Sam Corcos: Totally. Yeah. I think the most interesting thing was this recognizing the separation of community ritual, that form of religion, and the deep spiritual belief side of religion. I hosted a salon dinner on this as I often do. I had what I thought was this unique insight. And of course, I brought all my friends who are way better read on this than I did. I opened it with my thoughts around this separation. And one of my friends who was there was like, “Yeah, that sounds a lot like Varieties of Religious Experience” by — who’s the author? William James. And he explained it. It’s like, yeah, that’s exactly the same thing. And he wrote about this more than a hundred years ago. I thought I had this unique insight and it’s something that’s been known for a long time.
+
+I would say one of the things that came out of it more than anything was an appreciation and a deeper respect for the positive aspects of religion and what it does for people. I think the deep dive into epistemology also is pretty mind-bending where it caused me to recognize that — this is actually something that I’m still wrestling with, is that I really do not believe there is such a thing as objective truth. All truth is subjective. You can maybe asymptotically approach truth, but there is no such thing as objective truth. The only way to believe in that is to believe in some specific higher power. Where I struggle with it is that that path almost always leads to postmodernism and to really bad things. And so I struggle — 
+
+Tim Ferriss: Can you define just what do you mean by postmodernism here?
+
+Sam Corcos: Postmodernism, meaning your truth is just as valid as anyone else’s.
+
+Tim Ferriss: Just by complete moral relativism.
+
+Sam Corcos: Yeah. 100 percent. Moral relativism is, exactly, it is postmodernism in a nutshell. It’s like your truth is just as important and real as anybody else’s. There is no commons that we can agree on. It’s just purely individual truth is all that matters, and that leads to bad outcomes. Just in every society that has these postmodernist beliefs, Marxism, as an example, tends to lead to really bad outcomes. And so I’m still struggling to figure out how one believes that without leading to some really negative outcome.
+
+Tim Ferriss: One of my pet theories I’ve had for probably four or five years now, watching the development and ubiquity of, say, social media and watching elections and watching very sophisticated disinformation, misinformation campaigns and how people, I don’t want to say by and large, but a lot of folks have ended up in this post-factual, you just can’t know what is real, apathetic state. Some people certainly then kind of bleed over into nihilism for a lot of other reasons. But my theory, that’s more the observation that leads to the theory, which is there’s going to be a Cambrian explosion of religions. They may not go by. They may not self-describe. The people who lead these things, even if they’re distributed or self-identify, may not describe it as religion, but it’s going to look a hell of a lot. It’s going to look like a duck and quack like a duck, but maybe it calls itself an aquatic chicken? Okay, fine.
+
+Sam Corcos: Yeah. Yeah. I think so too.
+
+Tim Ferriss: I think there’s going to be a lot of micro religions that pop up and maybe not so micro.
+
+Sam Corcos: And they’ll fight and say that it’s not a religion. But the bundling and un-bundling example is — specifically, I brought up the example of all of my Burning Man friends. It’s like you have committed to a bundle and you can call that bundle a religion or you can call it something else, but it definitely rhymes with religion, whatever it is that you’ve bundled here.
+
+Tim Ferriss: I took a class, I’ve been meaning actually to get this professor on the podcast and I need to reach back out to him. I feel badly that I haven’t done this. Professor Gager at Princeton, and he taught a class, I’m not going to get the title exactly right. It was 12,000 years ago when I took the class, but it was something like “Religion, Cults, and Magic in the Greco-Roman World.”
+
+Sam Corcos: Oh. Cool.
+
+Tim Ferriss: Which very quickly gets to the challenge of labeling and has a lot to do with political powers that be. It has a lot to do with scale, size. If it’s five people just doing some Wiccan Earth goddess thing, it’s quite different from five million doing the same thing. And raised a lot of very, very fascinating questions for me that I want to unpack with him. So theology, topic number one. Network theory. What is this?
+
+Sam Corcos: Yeah. So this was another topic that I was particularly interested in, more understanding from First principles. A lot of people know things that are tangentially related to network theory, like the Dunbar’s number, 150 people. People have some general sense that having a strong network is good and I wanted to better understand it from first principle. So it’s both network and graph theory are sort of the two related topics. Network theory, in my experience, is the language that people typically use for interpersonal human networks. And graph theory is more math.
+
+I did a gratitude exercise, maybe five years ago, during the time off, when I just listed all the good things that have happened to me in my life. I think I listed 100 things was the goal. I think 97, 98 of them were because of somebody that I knew, not because of something that I did, which was really surprising. And so I decided I’m going to really put a lot more attention towards who the people are in my life. And so I set a goal, which I still have, of keeping up with 1,000 people that I care about every quarter.
+
+Tim Ferriss: Holy shit.
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: That sounds like a lot of people.
+
+Sam Corcos: It’s a lot. I mean, it takes — 
+
+Tim Ferriss: How did you choose that number?
+
+Sam Corcos: Because it felt — 
+
+Tim Ferriss: 100 was too easy?
+
+Sam Corcos: Yeah, a 100 was too easy.
+
+Tim Ferriss: 2,000 was way too much.
+
+Sam Corcos: Yeah. Basically. Yeah, that’s basically it. 1,000 felt tractable, but hard. I probably haven’t hit 1,000 in a quarter in maybe two years, but I regularly exceed 500.
+
+Tim Ferriss: I feel like my cortisol has spiked so hard since you just mentioned that. Maybe I’m just more introverted. I don’t know energetically how I would manage that level of communication.
+
+Sam Corcos: I think some of it is, and this was something that I learned during the process of really trying to be more intentional about who I spend my time with, one of my values really is friendship and people that I care about. I wasn’t prioritizing that to the degree that I thought that I was given how important it is to my life. Pretty quickly, within, I don’t know, some amount of time, I realized that the list that I had put together of the people I want to stay in touch with, not all of them wanted to stay in touch with me. And that was — 
+
+Tim Ferriss: It is a two-person dance.
+
+Sam Corcos: Yeah. Exactly. And I don’t think I’d fully appreciated that. Energetically, it was very hard.
+
+Tim Ferriss: Sure.
+
+Sam Corcos: Because I was trying to force these people to want to spend time with me, and they clearly didn’t.
+
+Tim Ferriss: Yeah. “Bill Gates, I’d appreciate it if you would reply to some of my letters. Thank you.”
+
+Sam Corcos: Exactly. Yeah. Yeah. And so at some point, I realized I’m just going to change my list. I’m only going to have people on here who I think also want to spend time with me. So it’s in both directions. And so if I keep reaching out and they keep canceling or ignoring, that’s fine. I don’t take it personally anymore. It’s just they maybe have kids now they have different life priorities. It’s 100 percent okay. Maybe in five years we can be friends again. It’s not a big deal. I used to take these things a lot more personally. I just don’t anymore. And so network theory is really understanding why some of these relationships are more valuable in whatever way you choose to describe value. And is it professionally valuable? Is it personally valuable? Whatever the thing is. And there are several categories that are especially relevant for interpersonal human networks, one, it’s a really underappreciated form of network centrality. It was called Eigenvector centrality.
+
+There’s a famous paper by Mark Granovetter, I think written in the ’70s called “The Strength of Weak Ties.”
+
+Tim Ferriss: Cool title.
+
+Sam Corcos: Yeah. It’s a very important paper in network theory, which it talks about how much more important weak ties are than strong ties, how you are more likely to find your next job from somebody who is an acquaintance rather than a friend, how you are more likely to find your life partner from an acquaintance rather than a friend.
+
+Tim Ferriss: Is that because the close friends are so overlapping that there’s sort of the introduction of novelty is less likely?
+
+Sam Corcos: Exactly. It’s known as a dense network. It is a network where all the people in the network know each other. And so, almost necessarily, you already know all those people and you already have all that information. So if there was a job in that group, you would already know about it. And so the second degree and the third degree, Eigenvector, is the end degree outside of your network, are the people who you should really be thinking a lot more about. And that’s where a lot of the value comes from. And so Eigenvector centrality is — when I really understood this concept, I started shifting the way that I spend my time and building a network of — it is infinitely more valuable to have one friend who is in a different dense network than another friend in the same dense network. Because you suddenly have access. Like knowing one person in the apparel space versus zero makes a massive difference. Because they probably know all the people in the apparel space. Knowing one person who’s a professional basketball player is way different than knowing zero because they know all the people in pro basketball. And so this is more, thinking about it from a professional lens of when you’re doing fundraising or you’re building a company, you never know where this value is going to come from. And so finding ways of creating this strong eigenvector centrality, as opposed to what most people think of when they think of popularity is what’s called degree centrality, which is how many people you know. And if you’re the mayor of a small town or — 
+
+Tim Ferriss: Or how many people know you.
+
+Sam Corcos: Sure. This is a slightly different thing, but yes, degree centrality, that would be called diffusion centrality. Degree centrality is basically popularity. If you’re the mayor of a small town, you have high degree centrality but probably nothing beyond that. You are the most connected person in a dense network. Eigenvector centrality is how many people do the people that you know know know? And so it expands really exponentially beyond what you would get from degree centrality.
+
+Tim Ferriss: So let me interject for a second to ask a question. I find that logically makes a lot of sense if you are trying to increase the surface area upon which opportunities and serendipitous introduction/information can stick. And in the last few years, I’ve taken a very different approach. I don’t know the network theory terms for it. But I’ve looked at my calendar, every year I do this, I do a past year review, look at my calendar and identify, among other things, the people who produced the peak low and high emotional valence, right? So if I’m looking at the positive interactions that were disproportionately positive and then the people I interacted with who produced very disproportionate, negative emotional states, I cut out the ladder or dramatically reduce to the extent possible. And then I try to increase the time with the people who are grouped in the former.
+
+What I find is that’s a very small group for me. And so when I’ve had opportunities, and this is probably — life is about trade-offs oftentimes, right? So when I have people offer to make introductions and I know that’s going to consume a certain amount of time, the question that I ask myself is, looking at your calendar, I’m like, okay, I know this is probably going — this could consume many hours. Even if I don’t want to engage, I will now have an open mode of communication with someone which will have some bearing on energetic cost. Am I willing to apply that time to this new person or would I rather apply that to people with whom I would already want to spend more time?
+
+In the sense that I’m like, these are your best friends. Do you spend as much time with these people as you would like to? Did you spend enough time or as much time as you’d like in the last year? For a lot of people, the answer is going to be no. So I’m until I check that, I’m not going to look for new opportunities. Although I’m somewhat — I guess I accomplish maybe what you’re describing through, say, the podcast, right? I’ve had 700 podcast guests in different fields, so it’s pretty easy for me to find something as a just in time introduction as opposed to just in case introduction. But I guess what I’m wondering is at this point you’ve hosted, whatever it is, a hundred salons. I would imagine you have at least one node, like a weak tie, in most places.
+
+Sam Corcos: Oh, for sure.
+
+Tim Ferriss: So what drives — what are the benefits, the potential benefits that come from a thousand people a quarter? That just seems like, at face value to me, incredible overkill, but it might not be. I’m sure I’m missing something.
+
+Sam Corcos: Yeah, I think it depends on one’s goals. And so I think one of the things that would be different is that your signal-to-noise ratio is going to be a lot better than mine because you are, through the podcast, you can get recommendations from people on future guests that are extremely high signal. Somebody’s putting their social capital on the line to say, “You should meet this person.” And I think the nature of it is, I don’t say yes to every intro. Oftentimes I’ll say I’m happy to connect with them, but I probably don’t have any synchronous time available. So I’m happy to correspond by email.
+
+Tim Ferriss: Oh, that’s a good phrase.
+
+Sam Corcos: “I don’t have any synchronous time available, but I’m happy to connect by email.” And then people are usually okay with that. And if they say, “Hey, could you connect me with this person?” It’s like, great. I didn’t need a 30-minute meeting to do that. It’s like, “Happy to, sure. Here.” I think in my case, I’m 34. There’s still a lot of building in terms of network. And so — 
+
+Tim Ferriss: Yeah, you’re prime time in a lot of ways.
+
+Sam Corcos: Yeah. And so there’s a lot of new people, and I would describe them as vectors, but all of these different dense networks, there are many of them that I haven’t even discovered yet that, just through serendipitous meetings, may end up becoming really useful. There was a specific example, which I probably shouldn’t say for work reasons, but there was a serendipitous encounter through a friend who said that they knew somebody who was really into continuous glucose monitors. Could I meet them? And I had a breakfast slot open. I said, “Sure, happy to chat with them.” Six months later, they reached out to me and ended up connecting me to a very important business contact that I had no idea that this person was in touch with. And it was like, wow, who would’ve thought? And so you never know where these sorts of things are going to come from.
+
+Tim Ferriss: Mm-hmm. And I’m glad we’re talking about it. Because what’s fascinating for me is not just how people do things, because without understanding the logic that goes into it, even if you agree or disagree, it’s very hard for me at least to make sense of the actions. I like to understand the logic behind it. I think it’s a cool systematic approach. I nonetheless have a lot of anxiety just thinking about it, but that’s also a me thing. I’m notoriously unavailable. I get so exhausted. I mean, it’s another reason I don’t do I many events of any type or public speaking, et cetera. I can get on a stage and do that, but if there’s any dinner afterwards where there’s like a hundred people in a room, I need two or three days to recover from that. It’s just not in my constitution, I think.
+
+Sam Corcos: I get it.
+
+Tim Ferriss: Yeah.
+
+Sam Corcos: Yeah. I’m very so — I’m an INTJ on the Myers-Briggs. I’m a pretty deep introvert. And I think the way that I’m able to be protective of it is that I don’t do things that I don’t want to do. And doing the Friday Forums, my co-founder does them. And it’s only because everyone said the CEO has to be the one who does it. But I said, “Look, I am not going to be able to do this every week. I can do it for two weeks but then it’s just going to be super draining.” And Josh likes doing this, so he should be the one to do it. Similarly, my co-founder Casey goes on a bunch of podcasts talking about metabolic health. I don’t have the stamina to go on a bunch of podcasts with the same sort of talking points and really pitching the vision of metabolic health.
+
+That’s not something that I can do consistently. And so this comes back to the novelty-seeking thing. And so we had her do it and she’s way better at it than I am. So I am really protective of only doing the things that give me energy. And so people have asked me the question of what is my superpower? That’s a common question that you get. And my answer is honestly pretty pedestrian. It’s just stamina. It’s like, I have no issue working 90, a hundred hours a week. Really it does not bother me at all. And I only realize that as an advantage as I’m seeing other people struggle with this stuff. It’s not that I can work more than other people, it’s that I’m very protective of what I spend my time on and I just want to do more because it’s exciting.
+
+Tim Ferriss: Mm-hmm. So metabolic health, we’ve not really spoken much at all about what the company does, which is very much on purpose because as we had in our communication beforehand, we wanted to focus this podcast on a lot of other areas. But since you also mentioned orange juice earlier in the conversation, can you tell, if this is a sufficient prompt, the juice cart moment? This is at an investor meeting? Would you mind telling that story? It’s a great story.
+
+Sam Corcos: Yeah. It’s funny. At the time, it was my friend Josh. We hadn’t started the company yet and we were thinking about could this software with continuous glucose monitoring, could this be a business? And Josh, he went to a juice cart before the meeting. Every good pitch has some amount of theater to it. And so our idea was we would go, we’d have a thing of juice, and while we’re in the meeting, he’ll sip on it, and then there’ll be the big reveal at the end. Like, “Actually, I can show you right now.” And we would see his glucose go up. And so he went to a juice cart. He got the thing called Health Drink, literally called Health Drink. We have a picture of it. He’s drinking it while we’re in this meeting. And then this is an early investor pitch to see if there’s any traction there. And sure enough, 30 minutes in, we do the scan and he has just rocketed up. Over 200 milligrams per deciliter. And he’s like, “Whoa, wait a second.”
+
+Tim Ferriss: Which is very high.
+
+Sam Corcos: It’s very high. Yeah. And you could just see it in the faces of the investors. They were just like, “Oh, my God, that is — I want one of these.” Like, “I need to get one of these for my wife. This is so cool.” And so that was the first moment we realized there’s some real magic in getting these feedback loops. Because it’s like, you think this is healthy, it’s definitely not. It’s mostly just sugar.
+
+Tim Ferriss: So I’m going to ask you to do the thing that you hate to do, but for the purposes, because I imagine there are people listening who might find the company fascinating enough that they would want to consider applying for a job or something like that. So could be 20 seconds, doesn’t need to be long, but just metabolic health, the mission of the company, you can make it as short or as long as you’d like. But just to give people an idea of what you guys are doing.
+
+Sam Corcos: Totally. So Levels shows you how food affects your health using biosensors, like continuous glucose monitors. The metabolic health crisis is a compounding problem. When we started this company four years ago, the diabetes rate was about 10 percent. It’s now 13 percent. The rate of diabetes is increasing at an increasing rate. Second derivative positive. There are 90 million pre-diabetics in the US. The CDC estimates that 70 percent of those people will be diabetic within 10 years. This is a very serious problem. The numbers are really frightening if something does not dramatically change. So what almost everybody learns is something that is in their diet, oatmeal, ketchup that they don’t realize has sugar in it, they almost always discover something that is causing problems in their life that they didn’t realize. And so the goal of wearing a biosensor where you’re literally measuring molecules in your body is — this is the ground truth. You don’t have to trust Honey Nut Cheerios, which says it’s heart healthy. You don’t have to trust them. You can just see it in your body, in your own data, and you can make your own decisions. So that’s the intent of the company.
+
+Tim Ferriss: And I should also mention to folks, because I’ve used continuous glucose monitors a lot and Levels is an amazing tool, and you’ll also often see things that are very counterintuitive. Or at least not obvious at first glance. Like something that perhaps at smaller quantities is a very healthy food, but at your normal intake quantities, even though it doesn’t seem like a lot, it’s the same amount your friends eat, actually provokes a huge insulin response.
+
+Sam Corcos: For sure.
+
+Tim Ferriss: Or glucose response, I should say. Both. But glucose is a lot easier to use as a measurement. And you might also find that, for instance, people might associate glucose with carbohydrates but not always the case. If you have a rocking gigantic steak, maybe not so gigantic, depends on your personal profile, it’s very surprising how also time of day factors into this.
+
+Sam Corcos: For sure. Big time.
+
+Tim Ferriss: Unless you have the information, which is different from data, I mean, you can be deluged in data but not know how to interpret it. But with an interface like Levels, if you are able to actually get a graspable hold on the signals that matter, it’s pretty shocking, I think, and immensely practical, how much you can modify your behavior.
+
+Sam Corcos: For sure. And very simple things too. Like going on a walk after a meal has a huge impact on your glucose response.
+
+Tim Ferriss: Huge. Yeah.
+
+Sam Corcos: And the thing that got me interested in it, I’m pretty thin. I’m pretty fit. I played sports in college. The thing that got me interested in glucose monitoring, it was the energy swings that — it is crazy to think that I used to believe this, but I was convinced that what you eat, it’s just calories in, calories out. What you eat does not impact how you feel. Makes no difference. It’s all just calories. And then I started wearing a glucose monitor and I had my normal healthy breakfast of orange juice and oatmeal. And I just went on this rollercoaster, and around noon, I’m falling asleep, and I see that I’ve crashed into deep hypoglycemia, and it just clicks. You can read about the stuff, but when you see it in your own data, it’s like, I need — this is it. It’s not caffeine, it’s not sleep. This whole time, it’s been the thing that — I don’t even like oatmeal. I was just doing it because I was told it was healthy and it’s actually the source of a lot of my problems.
+
+Tim Ferriss: And on the walk piece, Marco Canora is an amazing chef. Actually, he is the proprietor of one of my favorite restaurants in New York City, Hearth. And you can also get Brodo bone broth, which is spectacular, right next door, attached to Hearth. And he has really completely recomposed his body. I mean, he, over the last, let’s call it 10 years, combination of different factors, but the use of Levels showed him how much just walking around the block. I mean, we’re not talking about half a mile. A very short walk after eating, what an incredible intervention that was for having an impact on glucose levels. It’s remarkable. So for people who might be interested, you guys looking for any particular types of folks at the moment?
+
+Sam Corcos: I mean, we’re always hiring engineers. So if you’re a TypeScript engineer, front end, backend, my DMs are open on Twitter.
+
+Tim Ferriss: All right. That’s the best way?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: All right. DMs on Twitter. His EAs will be eagerly awaiting your DMs. Last thing I wanted to talk about, because people might be interested, and I’m interested. So minimalism. And this is particularly interesting to me because it raises questions about why you’re doing what you’re doing. Do you like stuff? But it’s more of a philosophical exercise. And then at some point, if you guys have investors, presumably they would like to get a return on their investment. Which means if that happens, then you would get a return on your equity presumably. What happens then? It raises all sorts of questions about the philosophies or the beliefs behind these things or the guiding principles. So what does minimalizing — let’s start with the physical stuff. What does physical minimalism look like for you?
+
+Sam Corcos: Yeah, it’s never been a philosophical practice for me. It’s really just been pragmatic. I was what I think is now called a digital nomad for quite a few years. And over time, just having stuff was really inconvenient. And so over time I just had less and less stuff to the point where all my stuff fits in that backpack at this point.
+
+Tim Ferriss: That is across from us in this recording studio.
+
+Sam Corcos: Yeah. I just don’t have a lot of stuff. I — 
+
+Tim Ferriss: So hold on a second. So does this exclude or include clothing?
+
+Sam Corcos: So I have this pair of pants. This is my only pair of pants. I have three shirts. I have 10 pairs of underwear. I have 10 socks.
+
+Tim Ferriss: That’s it. So you must have tried a lot of pants and shirts then. What are we working with here?
+
+Sam Corcos: These shirts are definitely good. These shirts are definitely quality. These are the Calvin Klein, modal is the material. They’re super breathable. They don’t get smelly. Yeah, these are great. The pants are ones that my wife picked out, so I don’t actually know what they are.
+
+Tim Ferriss: That’s great. They made the cut.
+
+Sam Corcos: They did.
+
+Tim Ferriss: Or maybe there’s some karmic debt and you just have to wear them now. I don’t know.
+
+Sam Corcos: Honestly, they’re a bit too thin, and so whenever it gets hot, I feel like I’m glued to them and it’s very hard to take them off.
+
+Tim Ferriss: Okay. All right. So we’ll stick with the shirt recommendation. What else is in your bag? Is there anything that wouldn’t be obvious? I’m sure there’s a laptop and some cables and charging, et cetera.
+
+Sam Corcos: Yep. A lot more cables than you would anticipate. There’s six or eight different cables that I have to do to connect things.
+
+Tim Ferriss: Dongle city.
+
+Sam Corcos: Yep. I have standard toiletries. I think one that I keep with me that’s maybe a little bit uncommon is — 
+
+Tim Ferriss: Throwing stars.
+
+Sam Corcos: No. I keep something with me, I call them my focus goggles.
+
+Tim Ferriss: Okay.
+
+Sam Corcos: Yeah, they’re like horse blinders. So when you’re on an airplane — I have the attention span of a goldfish. And so if I’m trying to work and the person next to me is watching Transformers, I’m just going to end up watching Transformers with no sound. And so having these just blocks my ability to see anything. I have them here if you want to check them out.
+
+Tim Ferriss: Would you mind? I want to see these things. I might need a pair of these. Okay. All right. So you’ve got to — why don’t you sit down just so people can see this?
+
+Sam Corcos: Yeah.
+
+Tim Ferriss: Because this is also not a big bag.
+
+Sam Corcos: No, it’s not.
+
+Tim Ferriss: This is substantially smaller than my bag, which does not contain all of my earthly belongings.
+
+Sam Corcos: There we go. I mean, obviously some of my stuff is in the hotel room.
+
+Tim Ferriss: Yeah.
+
+Sam Corcos: These are my focus goggles.
+
+Tim Ferriss: Oh, wow. You made these.
+
+Sam Corcos: Oh, yeah, custom built.
+
+Tim Ferriss: This is incredible. Okay, so what we’ve got here, these are — okay, so for people — I’m going to put these on in a second, but for people who can’t see them, so they’re basically almost — 
+
+Sam Corcos: They’re safety glasses.
+
+Tim Ferriss: They’re like shooting range glasses. You have basically created Inuit-style sunglasses in a sense, which people can look up, but by painting something on the surface to create a thin sliver.
+
+Sam Corcos: I took a little bit of masking tape over the middle. This is the third iteration.
+
+Tim Ferriss: Okay. Put some masking tape in the middle and — 
+
+Sam Corcos: And then spray-painted.
+
+Tim Ferriss: And then you spray-painted it. And then you put Kinesio tape or something?
+
+Sam Corcos: Yeah, that’s just a normal athletic tape. And it’s just a — because I’ve been trying with the spacing.
+
+Tim Ferriss: Wow. These are pretty amazing.
+
+Sam Corcos: Yeah. And so they’re good. I’ve tried different versions. So one of the versions — 
+
+Tim Ferriss: Yeah, I was imagining actual blinders, which would be a little — yeah, it might freak out the families around.
+
+Sam Corcos: Yeah. I mean, this also freaks people out.
+
+Tim Ferriss: That is amazing.
+
+Sam Corcos: Yeah, and so it’s the perfect — 
+
+Tim Ferriss: Yeah, we’ll definitely need a photo of this. This might be — I think this should be for the thumbnail for the episode. You should have these on. That would definitely get a couple of extra clicks. All right, those are cool.
+
+Sam Corcos: This is a third version. The first version was just dots, just circles. But turns out, without form factor, you get really dizzy.
+
+Tim Ferriss: That sounds awful.
+
+Sam Corcos: Yeah, it’s bad. So doing the slit works, but then it turns out this slit was a little bit too wide, so I just put some tape on it. But this is the final form of the focus goggles.
+
+Tim Ferriss: Okay. Focus goggles for the win. Anything else you got in there? Any runes that you cast to make critical company decisions?
+
+Sam Corcos: I keep my passport, I keep a copy of the Constitution in my bag.
+
+Tim Ferriss: Okay.
+
+Sam Corcos: Just as a — 
+
+Tim Ferriss: Tell me more.
+
+Sam Corcos: It’s the law. So it’s a good reminder.
+
+Tim Ferriss: Don’t break the law again. Don’t break the law again. No, seriously, what is — I understand it’s the law but most people also don’t want to inadvertently or purposefully break the law, but they don’t carry a copy of the Constitution. So what does that serve in your life?
+
+Sam Corcos: It’s surprising. It takes two hours to read it. It’s a really short document and it is surprising how often it ends up coming up in a discussion or a debate. One recently related to the election, somebody was saying the electoral college is unconstitutional. And I said, “No, no, it’s in the Constitution. It’s article two, section one.” They’re like, “No, no, no, it’s not.” It’s like, “I have a Constitution right here.”
+
+Tim Ferriss: And they’re like, “Oh, okay, fine.”
+
+Sam Corcos: It was definitely — it’s literally in the Constitution. It’s definitely constitutional. They’re like, “Okay, well it shouldn’t be constitutional.” It’s like, fair enough. But it’s definitely constitutional.
+
+Tim Ferriss: All right. How long have you had the Constitution in your bag?
+
+Sam Corcos: Several years. Yeah.
+
+Tim Ferriss: Now is it just for smacking down people who are speaking mistruths and debates or there’s got to be — 
+
+Sam Corcos: Sometimes I reread it. It is a fascinating book, if you want to call it that, on organizational design. For all of its flaws, the United States is the longest standing republic in the world. And so when you think about that from a historic lens, a lot of the things that the people who started the country did were very thoughtful and interesting. And so all these ideas around checks and balances, some of it relates to company building and some of it can be used as an example of what is not relevant from company building. So for example, when you’re building a country, you cannot make assumptions about the positive intent of the other people in the country. So you have to create structures to manage when there are bad actors. When you’re in a company, you can just fire those people. It’s super easy. And so you don’t need to create those same mechanisms. And so where a lot of people — 
+
+Tim Ferriss: Also with, say, it depends on the company, but with equity you can also really help to align incentives in ways that are much harder on a national level.
+
+Sam Corcos: For sure. You cannot assume, if somebody is acting in a way that’s not illegal but is detrimental to the country, you can’t throw them out. They used to have exile as a punishment, which was really interesting. You would just say, “All right, we’re…” Ostracism was a punishment. It’s just, “All right, you can’t be here for 10 years.” That was a real punishment that people would just vote and say, “We don’t like him, he just has to go away.” But you can’t really do that in countries. You totally can do that in a company. And so this ties into when you’re creating systems, you have to understand the people in the system, how they interact.
+
+So if you’re building a company, the idea of treat people like adults, you can make a set of assumptions about all the people here are going to be honest. When people fill out engagement surveys, they will be honest. And if they’re not, you remove them. As opposed to, well, what structures — maybe we add some anonymity, we add some back doors, let’s make some compromises because we have people that are not aligned. Or you can just say, “No, all people are aligned, or they leave.” And then you just don’t have to create all this process that creates distrust and all these other problems that are downstream of that.
+
+Tim Ferriss: All right. So it sounds like, in a way, and I don’t want to put words in your mouth, but this is a idea, catalyst, thought catalyst?
+
+Sam Corcos: Yeah, sure.
+
+Tim Ferriss: Related to organizational design.
+
+Sam Corcos: Yeah, it’s a reminder. Yeah.
+
+Tim Ferriss: Yeah. All right, well, we’ve covered a hell of a lot of ground here. I think we’ve covered pretty much everything that I have in front of me. We could cover a lot more and keep going for hours, I’m sure. Curious when you are going to announce the official formation of your Church of Sam. And is there anything you would like to mention that we didn’t cover? Any closing comments? Anything you’d like to direct people to? Anything at all that you’d like to say before we wind to a close?
+
+Sam Corcos: Yeah. I think this might be something that you’re sick of hearing, but I want you to know that your work has had an incredibly positive impact on a lot of people, myself included. So thank you.
+
+Tim Ferriss: Thanks, Sam. I really appreciate that and I’ve really enjoyed this conversation. I look forward to our dinner. I’m definitely going to dig more into the theology, which is endlessly fascinating to me as well on so many levels. And for everybody listening — where’s the camera? There’s the camera. Shows you how often I have cameras. “We’re over here, Tim. We’re over here.” Oh, yes. Camera one. To everybody listening, we will link to everything we’ve discussed, including much more, because Sam has been very generous with his making lots of documents available publicly. So we will really have rich show notes for this episode at Tim.blog/podcast, as per usual. And until next time, be just a bit kinder than is necessary, both to others and to yourself. Don’t forget the last part. Compassion is incomplete if it doesn’t include yourself. And as always, thanks for tuning in. Thanks, Sam.
+
+Sam Corcos: All right, sweet. Thank you.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+DELEGATION, SAM CORCOS
+	
+Post navigation
+Previous Post
+PREVIOUS
+Sam Corcos, Co-Founder of Levels — The Ultimate Guide to Virtual Assistants, 10x Delegation, and Winning Freedom by Letting Go (Plus: Creating Leverage with Tools, Systems, and Processes) (#694)
+Next Post
+NEXT
+Shane Parrish on Wisdom from Warren Buffett, Rules for Better Thinking, How to Reduce Blind Spots, The Dangers of Mental Models, and More (#695)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

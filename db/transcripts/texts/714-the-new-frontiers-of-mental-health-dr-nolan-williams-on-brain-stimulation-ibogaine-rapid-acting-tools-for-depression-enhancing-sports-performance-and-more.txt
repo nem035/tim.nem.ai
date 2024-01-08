@@ -1,0 +1,1116 @@
+https://tim.blog/2024/01/06/nolan-williams-transcript/
+
+#714: The New Frontiers of Mental Health — Dr. Nolan Williams on Brain Stimulation, Ibogaine, Rapid-Acting Tools for Depression, Enhancing Sports Performance, and More
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+JANUARY 6, 2024 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: The New Frontiers of Mental Health — Dr. Nolan Williams on Brain Stimulation, Ibogaine, Rapid-Acting Tools for Depression, Enhancing Sports Performance, and More (#714)
+LEAVE A COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Dr. Nolan Williams (@NolanRyWilliams). Nolan is an associate professor within the Department of Psychiatry and Behavioral Sciences at Stanford University School of Medicine and director of the Stanford Brain Stimulation Lab. He has a broad background in clinical neuroscience and is triple board certified in general neurology, general psychiatry, and behavioral neurology and neuropsychiatry. Themes of his work include examining spaced learning theory and neurostimulation techniques, development and mechanistic understanding of rapid-acting antidepressants, and identifying objective biomarkers that predict neuromodulation responses in treatment-resistant neuropsychiatric conditions.
+
+Nolan specializes in looking at cutting-edge treatments and new technologies that can be applied to treatment-resistant psychiatric disorders—so, treatment-resistant depression, disorders that are notoriously difficult to address, such as OCD, and many others.
+
+Nolan’s work resulted in an FDA clearance for the world’s first noninvasive, rapid-acting neuromodulation approach for treatment-resistant depression. And I’ve tested this myself, and we get into this in the conversation. He has published papers in Brain, American Journal of Psychiatry, and Proceedings of the National Academy of Sciences. Results from his studies have gained attention in Science and NEJM Journal Watch. He has received two NARSAD Young Investigator Awards, the Gerald L. Klerman Award, and the National Institute of Mental Health Biobehavioral Research Award for Innovative New Scientists.
+
+This is a very special episode that might be an example of peeking around corners and catching a glimpse of the future of mental health treatments in the next five to ten years. We also discuss things like ibogaine that are seemingly unrelated to neuromodulation, as Nolan is very well-versed in multiple disciplines and in multiple toolkits, both pharmacological and non-invasive neuromodulatory. It’s this combination, actually, this rare Venn diagram, that makes him incredibly interesting to me.
+
+I really enjoyed this conversation. I think it is very important, highly tactical, and I hope you enjoy it as much as I did.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+P.S. “Magnesium–Ibogaine Therapy in Veterans with Traumatic Brain Injuries” is now live in Nature Medicine.
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform. Watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#714: The New Frontiers of Mental Health — Dr. Nolan Williams on Brain Stimulation, Ibogaine, Rapid-Acting Tools for Depression, Enhancing Sports Performance, and More
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Dr. Williams. Good to see you, sir.
+
+Dr. Nolan Williams: Yeah, thanks man. Thanks for having me.
+
+Tim Ferriss: And I thought we would start with a personal story, not your personal story, but a story of Deirdre Lehman. Could you tell us who this person is, how it fits into your story? But let’s begin with just a description of Deirdre.
+
+Dr. Nolan Williams: Absolutely. So Deirdre is, I think, maybe in her 50s, 60s, female, in Bay Area, who has suffered from bipolar disorder much of her life, and pretty successfully treated for the mania side of things over the years. Had a psychiatrist taking care of that part in Marin, and happened to slip into this pretty severe depressive episode a couple of years back. Guess it’s been, maybe like four or five years now. And her psychiatrist had actually gone to see a talk that I gave at this mood disorders day, the year before. And we were talking, it was really early on, when we were working on a rapid-acting neurostimulation approach. The psychiatrist had heard the talk and then her patient fell into this really bad suicidal depression.
+
+And so she reached out to me to treat her, and I got on the phone, I’ll never forget, it was a Wednesday. And I got on the phone with her psychiatrist and she was telling me symptomatically how bad off she was. And I was like, “I don’t think we can treat her at outpatient. She’s way too ill. I think she needs to go in the inpatient hospital.” So essentially, gave her some information on how to do that.
+
+So I see her the next morning and she’s in really bad shape.
+
+Tim Ferriss: What does that mean? Does that mean like she’s — 
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: How did that show up?
+
+Dr. Nolan Williams: When people are at the level where they definitively need to go into the hospital, they’re not really totally communicative anymore, and they’ve got some cognitive issues sometimes. So in her case, she couldn’t look you in the eyes. Look at the ground and she was doing this rocking thing, which you can see in pretty severe depression. It’s kind of this catatonia overlap symptoms. She’s at the very end of the spectrum, one of the highest severity patients we’ve ever treated. So she was like, a score of 50, on the moderate side of 60, very, very severe, and just rocking and not really talking. And the husband was counting everything. And she had bipolar one, so she was hypomanic, I think or manic two weeks before and then dropped into this very, very severe depression. So it was her daughter and the husband, and they’re sitting in the room with me and they want me to treat her, and I say, “Listen, it’s Friday, we go Monday to Friday. You have to find a way basically to keep her well from now until Monday. And that means…”
+
+Tim Ferriss: And by well, you mean safe? Preventing self harm?
+
+Dr. Nolan Williams: Yeah, yeah, exactly. So keep her not having a suicide attempt basically from now until Monday. She’s very suicidal. And I said, “You’re going to have to take every knife. I don’t think any guns, but gun, chemical, scissors, everything out of the house, all of it has to go. And you guys have to be on a 24-hour watch until Monday.” And so Monday morning rolls around and we bring her in. And the craziest thing, we had an error, a repair on the motor threshold coil, which is the coil you use to get calibrated on the intensity, and it shorted out the device and blew the capacitor bank up on the first stimulator.
+
+Tim Ferriss: Blew your flux capacitor.
+
+Dr. Nolan Williams: Yeah. Yeah. At 7 a.m. And you can’t imagine how stressful that was. 
+
+So we had a second machine, and I’ll tell you about this later. We were running this trait, hypnotizability modulation study, and it was over at the scanner, so it was pretty far away, and these things weigh like a hundred pounds. So I had to send my team over there, run over there and grab it, bring it over. And luckily we were able to get her going and treat her with a second machine. And she was in really, really bad shape that morning. And by five o’clock that afternoon, she was basically normal. And the next morning she was totally zeroed out and completely normal.
+
+Tim Ferriss: Meaning no suicidality?
+
+Dr. Nolan Williams: Meaning no depression, no nothing. She looked like any person walking the street. Totally normal. And that was in 24 hours. We’ve seen this with bipolar patients quicker. It’ll happen really quick for a bipolar one patient. You can get it done sometimes in a day.
+
+Tim Ferriss: Just for clarity, by “Get it done,” and don’t worry people listening, we’re going to define terms and get into all this, but you’re talking about accelerated TMS?
+
+Dr. Nolan Williams: Yeah, we’re talking about accelerated TMS. So our rapid-acting neurostimulation approach, we’re able to get people out of these states and into normal mood, and in short periods of time, generally 2.6 days on average for major depression patients, but it’s quicker with bipolar we’ve seen, especially with bipolar one patients. So she was totally out of it in 24 hours. And I remember it was right around July 4th or something. And so the whole team left. And I guess we’ll maybe talk about caffeine later too. So my wife and I were like big Philz Coffee fans, and so I’ll never forget this either. So we go down to the Philz Coffee in Palo Alto after I saw them. And I’ll never forget it. Clark Lehman, her husband, also went to Philz, didn’t know I was going to be there. And I look over and this guy’s just kind of staring at me, and I was like, “Hey, how are you? Good to see you again.” I just saw the guy 10 minutes ago, and he’s like, “I still don’t understand what happened.”
+
+And it makes sense, to take somebody from the worst you’ve ever seen them mood-wise to normal in such a short period of time was remarkable for him. And it ended up being that after that period, they actually went out and really were helpful with a lot of the philanthropy that led to all the trials being funded and ultimately the clearance, and Clark and Deirdre really were advocates and have continued to be advocates for this to kind of get it out into the world. And it was totally based off of that experience of basically him feeling helpless and going from that to feeling like it was all solved. And I think she went maybe a year completely asymptomatic, ended up needing to get retreated again at some point, but gets these little touch-ups here and there and is able to stay well ongoing, and, as they tell me, depression’s not her problem anymore. And so that’s good. She’s a great illustrative case of what this can do and I think what the promise of it can be.
+
+Tim Ferriss: What I’d love to talk about next is not necessarily direct mechanism of action, but I’d love to hear you just explain a snippet that I pulled from your conversation with Andrew Huberman, which was a very good conversation. Specifically it was about, and I’m not going to use the right terminology here, so bear with me as a lay person, but the sequencing or abnormal/pathological sequencing of activation or activity in different parts of the brain. So I don’t know if it’s the anterior cingulate.
+
+Dr. Nolan Williams: Yep.
+
+Tim Ferriss: I think you know what I’m alluding to here. Would you mind just explaining that? Because it was something that I had never been exposed to and I found it deeply fascinating. And I’ll just also mention this context for people who are listening to this, that part of what is deeply interesting to me about a number of the different tools and modalities that you explore in depth, is not just the speed of action, but the durability of effect. Super, super potent combination and very unusual, from what I can tell, combination of things. All right. So as far as the sequence of activation goes, could you explain what I’m referring to?
+
+Dr. Nolan Williams: We published a paper in the Proceedings of the National Academy of Science, I guess it’s been about six months ago now. So one of the former research track resident postdocs in the psychiatry program at Stanford, Anish Mitra, who’s now junior faculty, was working with Karl Deisseroth and I during that training phase. And Anish had this interest in a specific way of looking at brain imaging, particularly this type of brain imaging called resting-state functional connectivity MRI. And so resting-state functional connectivity MRI has been around for a long time. The resting state part of it is basically tell the person sit in the MRI scanner and let their mind wander. So that’s kind of the resting state or the default mode, however you want to think about it. And functional connectivity, what that means is it’s the brain regions that have blood flow that is time-locked with each other. And so essentially these connected brain networks, the blood flow will go up or go down in those areas in a time-locked fashion and blood flow is — 
+
+Tim Ferriss: By time-locked, you just mean at the same time?
+
+Dr. Nolan Williams: At the same time.
+
+Tim Ferriss: Correlating.
+
+Dr. Nolan Williams: Yeah, exactly. Yeah. And so why blood flow? Blood flow is a surrogate of electrical activity. It’s hard to see electrical activity deep in the brain. People see it at the surface of the EEG, but with MRI, you use the blood flow as a surrogate of the electrical activity, and it makes sense, if you’re using glucose in a brain region using that network, then you need to have cerebral auto-regulation, so the blood vessels increase and they dilate more blood goes into that area. So it’s just like a response to increased activity. And so you have these increases in blood flow that are supposed to represent electrical activity that are in different separate nodes in the brain, and they come on roughly at the same time. And we’ve known that for a while. Anish got very interested in this idea that the timing of the blood flow is consistently temporally offset between these nodes.
+
+So slightly, that people ignored it for a long time, but he was able through using various math, able to show that there’s a slight offset of the timing such that one brain region slightly comes on before the other. And that’s interesting because that infers some level of causality. And so instead of the whole network coming on at the same time, maybe it’s just one area and it’s signaling the whole network on, and it’s so quick that you see it as all like this, but really it’s more like this, if that makes sense. It’s coming on all at the same time. But from this network node kind of turning this one on, turning that one on or something like that.
+
+Tim Ferriss: The lead domino matters.
+
+Dr. Nolan Williams: Yeah, that’s right. The lead domino. Exactly. And so in the case of mood, it looks like the dorsolateral prefrontal cortex, the area that’s involved in control, precedes slightly the cingulate cortex. In our normal healthy control population, essentially nearly everybody had that directionality. In the depressed cohort, 70 percent of them had it flipped where the cingulate was temporally in front of the dorsolateral, but not everybody. And if you just had that information, then you wouldn’t know what to make of that. Why is it some people and not others? But what was interesting is when he looked at the folks that had it versus the ones that didn’t, the ones that had it were the ones that were responsive to our — when we’ll talk about what SAINT is and the rapid-acting neural stimulation approach in detail, I guess, later. But the folks that responded to SAINT responded to this rapid-acting TMS approach were the ones that had the biomarker and the ones that had no change, did not have the biomarker and looked like a normal healthy control. And the signal on the post scan flipped to look normal in the folks that responded had the biomarker, and then their brain changed after.
+
+And so the post-scan looked just like the pre-scan on the folks that didn’t clinically change in the normal healthy controls. And so we see this sort of test all the time in medicine. 10 people come into the primary care doctor’s office with blurry vision, urinating a lot, drinking a lot, headache. A lot of those folks probably have diabetes, but not all of them. Some of them have migraine headache and need glasses and some other things, and it looks like the diabetes presentation. But when you go and do the blood sugar, the blood sugar is normal. And then the folks that have elevated blood sugar that look like they have diabetes, you go and you give them a diabetic medicine and then it normalizes. So the blood sugar after looks like the blood sugar of a normal healthy, and it looks like the blood sugar of somebody that symptomatically presented but didn’t have diabetes.
+
+And so it was nice to see this and we’re replicating this now. We have money from the National Institutes of Health to do that, but this idea that we’re able to have a test that would change, and the same thing that signals that there’s an abnormality is the thing that changes later. And that’s more rare in psychiatry to be able to have all of that line up. So we’re pretty excited about that and hope to see it. It does replicate in the larger population of patients, but as a conceptual idea, it’s an important conceptual idea, this general idea of being able to use neuroimaging or whatever it is, EG, whatever it is, to type different people that are presenting with similar symptoms and be able to say, “Okay, you’re going to respond to this and not this, or vice versa.” And I think that’s part of what we need for psychiatry, right? Because people spend just so much time in their lives trying to find the answer, and we don’t really have any tests.
+
+Tim Ferriss: Trial and error.
+
+Dr. Nolan Williams: Yeah, it’s a lot of trial and error.
+
+Tim Ferriss: It’s like pharmaceutical ready, fire, aim, in a sense. And this raises, I guess just a meta observation/question. Perhaps you could just discuss this briefly, which is, it seems to me like there have been, and this is part of the impetus for us having this conversation, part of the impetus for me in the last, let’s call it half year, paying a lot of attention to accelerated TMS, which is there have been these dominant paradigms in certain types of, let’s call it psychiatric treatments, for things like depression — treatment-resistant depression. And it seems like a very dominant paradigm for a period of perhaps several decades has been these chemical imbalance theory of psychiatric disorders. So you have a serotonin issue, therefore we’re going to treat it in these following ways. You have such and such an issue, so we’re going to give you SNRIs. And then like you said, it’s a lot of trial and error to figure out what works. And even if something works, it may often only work for a period of time.
+
+So it seems to me, and I want you to absolutely fact check and correct everything that I’m saying, but that part of the reason that the research you’re doing and that others are engaging in is so fascinating is that it presents an alternative paradigm through which you could look at certain disorders, right? Like, oh, wait a second. Well, maybe this person’s car, when you turn the ignition, is just tripping things in the wrong order. And if that’s causal, we could try to address that and then maybe that addresses what we might’ve otherwise perceived as a chemical disorder. I have a lot of follow-up questions, but is that a helpful way to think about this? Or what would you add to that?
+
+Dr. Nolan Williams: I think there’s been, I would argue three eras in psychiatry, what friends of mine have called psychiatry 1.0, 2.0, 3.0, and the first era was this era in and around Freud. And this idea that it was a content issue and a life experience issue, which is partially true. It’s not that that’s not true, it’s just not complete. And so then the solution is a content solution, a initially psychoanalysis all the way through to modern forms of psychotherapy. The limitations of that led us to psychiatry 2.0, right? This idea that we serendipitously found the first antipsychotics, first antidepressants, and we were able to deinstitutionalize primarily schizophrenia patients out of inpatient asylum stays with these drugs, which kind of flew in the face of this being a content issue.
+
+Tim Ferriss: What was the first antipsychotic?
+
+Dr. Nolan Williams: Thorazine.
+
+Tim Ferriss: I was going to say Thorazine.
+
+Dr. Nolan Williams: Yeah, yeah, exactly.
+
+Tim Ferriss: How was that — I don’t want to take you off track. So keep track of where we are. We’re at 2.0. How was it serendipitously discovered?
+
+Dr. Nolan Williams: Yeah, I think, if I remember correctly, I think it was they were trying to — it was like an antibiotic or something like that, and they were trying to develop that drug out for something completely unrelated and happened to give it to some patients with schizophrenia. And they had a dramatic improvement.
+
+Tim Ferriss: I would love to read a book that is just a collection of case studies like this, right?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: It’s like sildenafil, Viagra, it’s like for angina or whatever.
+
+Dr. Nolan Williams: That’s right.
+
+Tim Ferriss: And then the male patients are like, “Why aren’t the male patients sending their meds back? Oh, wait a second.”
+
+Dr. Nolan Williams: That’s right.
+
+Tim Ferriss: Here we go. Fascinating. All right, so right. So Thorazine and the serendipitous discovery of — oh, wait a fucking second. This seems to not necessarily negate, but certainly render incomplete this pre-existing paradigm.
+
+Dr. Nolan Williams: Yeah, that’s right.
+
+Tim Ferriss: And then where does it go from there?
+
+Dr. Nolan Williams: Yeah. So then I think, to your point, there was this accumulate kind of accumulation of assumptions around, well, if we’re moving all of these chemicals around in the brain, then it must be that there’s a deficiency or an imbalance or whatever. And that I think led us to recent history where there’s quite a bit of prescribing of oral antidepressants and all that stuff. And the third era, this circuit era that I think we’re in now, and I’d argue we were entering in 10 years ago, but I think we’re pretty squarely at the beginning of now, flies in the face of that. If I can take a patient as severe as Deirdre Lehman, get her out of it in a very quick timeframe and looking normal and holding that for a long time, and there was no chemical exchange, there’s nothing that went into her system, then it gets you into this newer way of thinking about it.
+
+It’s a circuit problem. The useful thing about this framing, one, it’s seemingly consistently true in the sense that through all the various modalities seeing these differences, but more importantly, it lets you integrate past ideas into that concept. Drugs act on circuits, therapy acts on circuits, but focal neuromodulation is a really direct way of acting on those same circuits. And so from a patient standpoint, I think it’s very empowering because we’re not saying to the patient there’s something inherently missing or too much for you in the sense that you’re constrained to having to take these exogenous chemicals to stay well, but rather there’s a circuit, there’s a miswiring, misfiring sort of problem. And if we can reroute that information, then you can feel well. And I think that there’s a level of empowerment that comes with that.
+
+One of the things that patients always tell me after they get well with some of our stimulation approaches is that they kind of look at it and say, “Well, I may get depressed again, but I don’t think I’ll ever get suicidal at that same level again, because I know that I’ve got a way of getting out of it and it’s my own volition to choose to do that, and it’s something I can tolerate and I feel normal.”
+
+Tim Ferriss: So I’d like to highlight that last part because, not that I’m the world’s foremost expert in suicidal ideation, but as someone who came very close to offing himself in college and really just by a series of lucky events ended up not fulfilling that, it’s the hopelessness. For me and for a lot of people, it’s the feeling that nothing can fix this. I am broken. I’m permanently broken. There is no option other than trying to silence this voice in my head. And the only way I can think of doing that is by ending my life. But once you see, once you experience, even more so, something that alleviates that, especially with any type of durability, doesn’t need to be forever, but some type of durability, and especially if it’s rapid-acting, then you feel like you have a plan B, and that is incredibly empowering. Let me ask you a few questions. The first is this type of neuromodulation, is that synonymous with a term that I came across, I don’t know who coined it, it’s a nice term, electroceuticals, or are those different?
+
+Dr. Nolan Williams: Yeah, I think it’s a broad — yeah, it’s part of that broader term of electroceuticals. Yeah. And so what we had done, I don’t know if this is a good time to get into it.
+
+Tim Ferriss: Let’s do it.
+
+Dr. Nolan Williams: Yeah. What we had done with what we called SAINT, or Stanford Accelerated Intelligent Neuromodulation Therapy, is that we came up with a way of reorganizing conventional TMS, which had been around for some time, reorganizing it in time and in space. And so with conventional RTMS, it had developed in the mid-’80s, first used as a therapeutic within clinical trials by my mentor Mark George when he was at NIH in the mid-’90s and approved by the FDA in the mid to late 2000s, it utilized average skull positions to find an average spot to stimulate, which at the time, given the technology that was available, that was the right call. Right.
+
+Tim Ferriss: Can I pause for one second just to give some additional context?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: What does TMS stand for?
+
+Dr. Nolan Williams: Yeah, so transcranial magnetic stimulation. So it’s this — 
+
+Tim Ferriss: And it was originally developed for what?
+
+Dr. Nolan Williams: As a motor probe by Tony Barker in the UK. And the idea is this idea of Faraday’s law. So Faraday’s law is this idea that you pulse a magnet, you pulse a magnet, you can generate current and electrically conducting substances. So if I take an electromagnet, if I take a TMS machine to the beach and I try to pulse the sand, nothing’s going to happen because sand is not, as you know, electrically conducting at all. It’s an insulator. And so if you put a TMS coil or any electromagnet next to a wire, a copper wire, or speaker wire or whatever, you can generate current in that wire. If you put the coil on the head, it will bypass the skin, scalp, skull, and induce current in the electrically conducting substance in the brain, the kind of brain tissue. And so you’re able to selectively turn on cortical neurons without really interacting with much of the rest of the head.
+
+People do feel something because of the nerves in the scalp, but your brain can’t feel anything. So that’s like scalp nerves. And so if you, as they did in the ’80s, just kind of send a single pulse, it doesn’t really change the brain, but you can probe the brain. So I could take that coil from the mid-’80s and I could put it over my hand representation, make my thumb move, I can put it over my wrist representation in my brain, I can make my wrist move. And it’s organized in this stereotyped way such that essentially the head face area is closer to the ear and you can march up to the midline of the skulls, such that when you get to the midline, you’re able to actually move the foot and the leg. If you have a certain kind of coil, you can do that. And so you can actually probe the entire motor system and make all of it move without having any volition to it.
+
+Tim Ferriss: Question: what is the value of this probe?
+
+Dr. Nolan Williams: So the value of a probe itself is just as they thought — 
+
+Tim Ferriss: Figuring out the mapping.
+
+Dr. Nolan Williams: Yeah, it’s a mapping exercise initially. Where is everything? Is it the same in everybody, is it consistent? And they wanted to have a way of doing that non-invasively. Penrose and others had been doing this invasively as neurosurgeons for a hundred years, I guess 50 years at that point. And so they wanted to be able to emulate what the surgeons could do in epilepsy patients, they’re doing epilepsy surgery non-invasively. And then what folks realized over the next 10 years is we can send a signal into the brain that’s like Morse code and basically send this signal to change the excitability of the brain. And we can measure it if we do it in motor cortex by how much the thumb moves with a set amplitude out of the machine. 
+
+So if I get X movement where I can make from stimulating here, I can make the thumb move X amount, and then I send this Morse code signal onto the brain to tell it to tone down or to kind of be less excitable, and then I send that same intensity back in. The thumb will move half as much, right? And so you’ve toned down cortical excitability. If, instead, I get this measurement of X, and then instead of putting in what we call inhibitory or de-potentiating stimulation, we put in excitatory potentiating stimulation into the brain, and we do that and then we measure again, it’ll be 2X. So we knew by the mid-’90s that we could actually move around how excitable the brain was in these normal, healthy, control volunteer motor cortices, and so the aha moment for Mark and his team was this idea that depression at that time on PET scans, on spec scans, was this kind of hypoactivity, hypometabolism.
+
+Tim Ferriss: Meaning lower?
+
+Dr. Nolan Williams: Lower, yeah. Yeah, sorry, yeah. Lower activity, lower metabolism of the prefrontal cortex, right, where the prefrontal cortex just isn’t as active, isn’t as robust as it is in normal healthy controls. And so, he had this idea, “Well, could we use this excitatory stimulation to drive up activity?” And so that was the aha moment in the kind of first version of this. But they were super careful. There’d been some seizures in the early days from trying to figure out how all this works, and so they wanted to do a stimulation approach that wasn’t going to have much in the way of risk. And so, they had this once a day, very extended protocol, and because of the mid-’90s, it was very hard to get cheap brain scans on patients.
+
+And so this idea that they were going to have to use average coordinates to target it, and so they get average skull measurements, and then they would do a low dose sort of approach once a day and do that out for weeks, and then it’d extended out to months. And so, the original TMS trials and the original approval was this less efficient version that basically utilized kind of a low efficiency signal into the brain, and used kind of average coordinates to place the coil.
+
+Tim Ferriss: So, average coordinates meaning, just by clumsy analogy, “We can’t take an X-ray of you, but we do have a hundred other X-rays that seem to indicate roughly this is where you have your fracture. So we’re going to aim at those coordinates.”
+
+Dr. Nolan Williams: That’s right. Yeah, that’s right.
+
+Tim Ferriss: And the once-a-day protocol, I’ve heard the number 36 from somewhere, but is it somewhere in, generally, like the 30 to 40 session range?
+
+Dr. Nolan Williams: Yeah, that’s exactly right.
+
+Tim Ferriss: So we’re looking at, let’s just call it for a placeholder, 30 to 40 sessions, one per day. And to perhaps not necessarily conjure an image, but remove an image from the minds of some listeners. They may be thinking, “This is A Beautiful Mind. This is somebody chomping down on a wallet or a piece of wood, getting electroconvulsive therapy.”
+
+Dr. Nolan Williams: Yep, yep.
+
+Tim Ferriss: These are not the same thing.
+
+Dr. Nolan Williams: Yeah, it’s actually the opposite, right? So the goal of electroconvulsive therapy, or ECT, which has been around for 100 years, is to produce a therapeutic seizure. It’s effective, it’s associated with, and some people with autobiographical memory troubles, it’s pretty underutilized as a treatment in psychiatry because of these issues, because of particularly One Flew Over the Cuckoo’s Nest and that story, and that movie culturally has actually had an impact on ECT. And it’s one of these things that’s kind of, for a lot of patients, that last ditch resort because of the concerns around the side effects.
+
+TMS is different, right? You’re not trying to induce a seizure. In fact, you’re not trying to have any sort of change in cognition. I always tell patients it’s really boring, and so we have Netflix running in the background and people have their Netflix movie that they keep watching every day. And it’s basically just, once folks get used to it, it’s just part of a routine where they’re sitting there and watching their show or whatever it is and the stimulators turning their brain on. And, yeah. Unlike ECT, there’s no anesthesia, there’s really no need for anything. You can do this in an outpatient setting.
+
+But the old forms of TMS are extremely slow. You can’t use that in a psychiatric emergency. And so this is something that happens over a couple of months, and it’s tricky for some people. If you’re a working person and you have to do TMS during, conventional TMS during business hours, and you basically have to tell your boss or sneak out of the office or whatever it is and go do an hour and a half during the middle of the day, during standard bankers hours to be able to do this, and it’s hard to do that over a couple of months. And it doesn’t address these kind of high acuity emergencies.
+
+And so we got very interested in this idea of can we, like I said earlier, reorganize the stimulation in time and space? Space being, can we personalize it to each person’s brain? I can talk about that in greater detail. And then, can we compress these six-week courses, in this case, into a single day? So that’s why Deirdre was able to get well in a day, is we gave her a whole six-week course in a day.
+
+Tim Ferriss: You gave her how many sessions?
+
+Dr. Nolan Williams: That’s 10 triple dose sessions. And so it’s like 30 total equivalent sessions in a day. And so the FDA cleared 600 pulses of ITBS once a day, five days a week, for six weeks in 2018. And so we give — 
+
+Tim Ferriss: That was for a major depressive disorder?
+
+Dr. Nolan Williams: That was major depressive disorder. And so we give a triple dose every session, so 1,800 pulses. And so, after 10 sessions, you’ve got the equivalent of 30 sessions worth in that first day, and you do that for five days. And so, people are getting the dose equivalent of seven and a half months worth of TMS in five days. And what we found is, surprising to us that it was this linear, is that you just pick up remitters as you progress through the days.
+
+Tim Ferriss: What do you mean by remitters?
+
+Dr. Nolan Williams: People who completely lose all of their depressive symptoms to a level that is within the normal range. So, they’re rating at the same level as somebody who’s not depressed. And we can get people there on an average of 2.6 days, and we’re able to do that by personalizing the target and then being able to deliver treatment into that target, a lot of treatment over a short period of time. And so what’s useful about that is somebody can be in a really pretty bad state on Monday morning, they can take a week off a vacation and may end up being on the inpatient unit or whatever it is, but they can go out, get this done, and get back to work in a timeframe that’s actually reasonable.
+
+And that was really our goal. How do we get people acutely out of these high acuity settings and into a state of wellness quick enough that it doesn’t make a major impact on their lives?
+
+Tim Ferriss: May I add one thing to that?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: Which is, 
+
+Tim Ferriss: I’ve had a number of friends, and I’ve certainly heard of many cases where people with certain professions, airline pilots, firefighters, police officers, there are many more, will not report any type of mental health issue because they will be suspended, in a lot of cases, or relieved of duty. They’ll be forced to take time off. And in a case like this where you have a compressed protocol, there’s the possibility of taking PTO or taking a week off and doing this treatment, whereas like you said, doing it during banker’s hours over months is going to be highly visible, right?
+
+Dr. Nolan Williams: Yes.
+
+Tim Ferriss: And until the entire system changes, which is going to take time if it happens at all, this would be an incredibly attractive alternative protocol — 
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: — if it were to work. So please continue.
+
+Dr. Nolan Williams: Yeah, absolutely. Yeah, and that’s the way that we thought about it, right, is can we take folks who need to get well quickly. I mean, we had people in conventional TMS courses where they started, they’re in really bad shape, they lose their job halfway through. Maybe they get better at the end of it, but it took so long. And so it’s one of these things, if we can compress that up and get them well in a short period of time and get them out of it, it gets people back to their lives and it has a low impact on it.
+
+Tim Ferriss: I know I’m interrupting a lot, but the threading of this I think is important. So we can sort of foreshadow something that is going to be on the minds of a lot of people, which is, what are the downsides, what are the risks? So my question is, was it easy to get the sort of ethics board approval to compress all of this into a much shorter timeframe?
+
+Dr. Nolan Williams: I was able to make a compelling case to the IRB and then eventually to the FDA around safety.
+
+We give 90 percent of the resting motor threshold that’s depth-corrected for atrophy. So if it’s an older patient, they have more prefrontal atrophy, then you can increase the intensity based off of that difference in depth with the motor cortex. But essentially, what their brain is getting is 90 percent of the resting motor threshold, which is kind of a calibrated number that’s based off of these motor, these TMS induced motor movements. It gives us a sense of how to dose the stimulation.
+
+Tim Ferriss: May I translate that briefly?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: I’m sorry to interrupt. So I’ll show a bit of my hand here, which is I’ve undergone two separate weeks with different hardware, different protocols, because I’d never want to talk about things like this unless I’ve put myself in the spaceship and been the monkey shot into space. Which doesn’t mean at this point I am a proselytizer 100 percent for the treatment, but I find it very compelling, at least for investigation. So, to just explain since I recently went through this, each morning, or certainly on the first morning, but on multiple mornings in my case, they will test your motor threshold.
+
+Dr. Nolan Williams: Yep.
+
+Tim Ferriss: Right? And that could be a finger or a hand, it could be a foot, and they’ll watch movement really closely. And then based on that, determine the sort of dose that will be delivered throughout the day during these sessions. And in my case, it was once an hour for 10 hours a day.
+
+Dr. Nolan Williams: So it’s just a way of getting the intensity that you need. And so we know that 90 percent, meaning sub motor threshold, there’s never been a TMS-related seizure for that kind of sub motor threshold intensity. Even giving multiple sessions a day or whatever it is, there’s never been an event like that. It’s always been at a higher kind of intensity of the stimulation in the moment, if that makes sense. So the amount of magnetic field that’s being put out in proximity to the brain. And so it seems to be much more related to that than it does the amount of pulses that you receive in a day. And so I was able to lay that out to the various regulatory bodies and show the evidence that that threshold is really the threshold where risk goes up.
+
+Tim Ferriss: Right. It’s sort of the magnitude of the strength of the pulse, not the frequency or the density.
+
+Dr. Nolan Williams: Exactly. It’s more about the intensity in this case, and less about the density or the amount. So, laying that out, it was acceptable, and various parties deemed it to be non-significant risk, and they let us proceed. Now this is FDA breakthrough status, FDA cleared, and all the way through all of the regulatory processes. And so it’s kind of an on-label approach these days. But back then, I had to make a lot of those arguments. And knock on wood, we still haven’t seen any seizure.
+
+Tim Ferriss: How many people would you say at this point have gone through well-designed, accelerated TMS?
+
+Dr. Nolan Williams: It’s definitely, I’d say more than four or 500 between trials. We have trials where they’re ongoing and I don’t know what the clinical outcome of those trials are because I’m blinded to them, but I do know that AEs, right, we can know what, and we don’t have any serious adverse events in the sense we haven’t had anybody have a seizure yet. So that’s good. But what you do see is headache. People will have a headache. It’s usually from the, not everybody, but a fair percentage of people. And it’s mainly related to the coil-activating skull nerve, scalp nerves, and basically kind of turning the facial musculature on. And that actually goes away over time. So, in the long-term, you can actually see a reduction in migraine headaches and you can see a reduction in pain, all that sort of thing, And people actually have an antinociceptive effect.
+
+Tim Ferriss: Anti, excuse me?
+
+Dr. Nolan Williams: Anti-pain effect.
+
+Tim Ferriss: Ah, pain.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: What was the word you used?
+
+Dr. Nolan Williams: Nociceptive?
+
+Tim Ferriss: New one. All right.
+
+Dr. Nolan Williams: Yeah, yeah, yeah. Yeah. And so, you can actually have an anti-pain effect, and the reason why we think that happens is because you actually — 
+
+Tim Ferriss: Anti-pain, meaning it could help with chronic pain or something like this?
+
+Dr. Nolan Williams: — at least acute experimental pain. There are some chronic pain studies. You can see that you release endogenous opioids from stimulation because you can actually use opioid blockers and block the anti-pain effects of TMS.
+
+Tim Ferriss: Oh, wow.
+
+Dr. Nolan Williams: So, there’s this whole kind of pharmaco stimulation thing that people are looking into. A buddy of mine, Joe Taylor, who’s at Harvard now, did these studies when he was an MD/PhD and he was able to actually show that there is this release and that you can kind of block it with co-administration of opiate-blocking drugs. But yeah, that’s the idea is that there is some acute potential headache risk, and people can get a little fatigued from this. It’s like fatigue, more like you ran a marathon instead of depression related fatigue, just from kind of being there all week.
+
+Tim Ferriss: Look, N-of-1 here, but seems, I spent a lot of time talking to folks as kind of my job. My experience was, headache for sure. I was hesitant to take any type of Tylenol or medication for that just because, and this is, again, as a naive lay person. But I was like, well, if you do take NSAIDs, if you’re doing, say, weight training that can inhibit some of the adaptive response. I’m not sure we fully understand what the hell’s going on here, so I’m just going to deal with the headache. It was tolerable. I mean, you could feel it. The fatigue was the fatigue that you might feel if you were cramming for your final exams every day. It was not the fatigue of apathy and anhedonia, the difficulty or impossibility of finding joy in the things you’d normally find joy with. That type of fatigue is, characteristically, it was very different.
+
+It’s more like, yeah, you just crammed for 20 hours to try to nail your finals because you didn’t prepare, and you’re going to do that every day.
+
+Dr. Nolan Williams: Yeah, that’s the feeling.
+
+Tim Ferriss: Question for you, then. We’re going to get to the results. I want you to discuss the results of SAINT, but I think before we do that, it’s important to maybe describe this patient population. Is it fair to say that you’re seeing, it’d be an exaggeration maybe to say the worst of the worst, but you’re dealing with patients who have had multiple failed interventions. So it seems like that’s important to kind of keep in mind if that is true.
+
+Dr. Nolan Williams: Yeah. And so, in our randomized control trial, people had an average of nine failed, nine years of the current episode. So, they were depressed for nine years on average, straight before they came into our trial, at five plus or minus two med failures, and they had a lifetime load of depression of about 25 years. So, these were folks who’ve been depressed with multiple episodes or very long episodes, and they tried a lot of meds to get out of those episodes. These are not mild cases, right? These are folks who’ve kind of been through it for a long time. And interestingly, going back to the study that we talked about earlier with the flipping of the signal, that flipping of the signal was correlated with higher MADRS scores. And so, the more — 
+
+Tim Ferriss: MADRS is the assessment?
+
+Dr. Nolan Williams: I’m sorry, yeah. Higher depression scores. And so, the higher your depression rating, the higher likelihood you are to have that signal from the data that we collected. And so, and that’s what we’ve seen, right?
+
+Tim Ferriss: Got it. And this switching, just to tie it back to what we were talking about, is that sort of having the wrong lead domino, or if you have a car where you’re trying to start the diesel car without heating the coil first?
+
+Dr. Nolan Williams: Yeah, that’s right.
+
+Tim Ferriss: Type of situation. Yeah.
+
+Dr. Nolan Williams: Yeah, yeah. So, it’s that directionality. And so, that’s what we’ve seen. Folks that are at that kind of more in-stage sort of depression seemed to be more responsive to this. And I think that’s because, in those cases, you’re really correcting this pretty dense brain signaling problem if that PNAS work replicates. And what we’ve also seen is folks that do really well with dorsal later at least are folks who have a pretty impaired attention, and so they actually score up on the concentration item of the depression scales. And so that was something we observed earlier on, that if you’re saying you can’t read a book anymore, you can’t really follow a recipe book to cook your favorite meal or whatever because you just can’t attend to it, then your likelihood of getting better from this is higher.
+
+Whereas folks that are more on the kind of obsessive/depressive side of things that don’t complain as much about cognitive problems and concentration problems, but more about they’re just ruminating and kind of obsessing on things, we’ve found that inhibiting the right frontal pole, orbital frontal cortex, so stimulating here, and we have OCD trials to do that, is pretty effective at shutting that down. So it’s more of a shutting down than a turning up sort of intervention. So, some of it’s actually where the illness intersects with the brain anatomy intersects with the symptomatic presentation to try to derive the best spot to stimulate for those folks. And we have some early studies now where we’re trying to use brain imaging to actually sort folks into buckets neurally, to figure out which target makes sense for their symptomatic presentation.
+
+Tim Ferriss: Based on their personalized fMRI scans?
+
+Dr. Nolan Williams: Yeah. Yeah, yeah.
+
+Tim Ferriss: So I think this would be a good point, and we’ll mention this again at the end, but maybe you could mention any open trials or if people would like to consider enrolling or they know someone who might want to become subject in the study. Is there anything you’d like to mention?
+
+Dr. Nolan Williams: So we have a number of trials that are ongoing at the Stanford Brain Stimulation Lab, so it’s bsl.stanford.edu/clinical-trials. And you can go on the website and then there’s a screening portal and people can go on and fill out their information. And essentially, we have trials for anhedonic depression, we have trials for standard severe treatment-resistant depression, obsessive compulsive disorder, borderline personality disorder, patients who also have depression, bipolar depression, and other pilots, some addiction work that my collaborators are working on, and so folks have that range of symptomatology. Happy to have folks come through and screen. And it’s all free, which is nice. So it’s all basically funded through these trials. And yeah, we’re excited to bring people in and see if it makes sense for them to work with us on this, and it’s a couple of week commitment.
+
+Tim Ferriss: What did the results, or what have the results looked like with SAINT or slight permutations of that, and how do they compare to, let’s just say more conventional treatments for these same conditions?
+
+Dr. Nolan Williams: So in our original pilot study, 90 percent of people experienced remission at the post.
+
+Tim Ferriss: 90 percent?
+
+Dr. Nolan Williams: 90 percent, yep. In the randomized control trial, it was 79 percent of people transited through remission at some point in the four-week follow-up. What’s interesting is it’s not all at the same time point. So if you look at time point by time point, it’s in the 50 to 60 percent range. And the reason for that is because there’s this, colleagues of mine at Cornell, Conor Liston and others, have replicated this finding that there’s a subpopulation of patients that actually has a slower time to remission. And we’ve seen those too. Folks will lose their suicidal ideation, will actually peak their antidepressant effect at one month. It’s usually in older adults, and that’s what we’ve seen is basically it’s only in 50-year-olds and above. We haven’t seen that — 
+
+Tim Ferriss: That sort of delayed remission?
+
+Dr. Nolan Williams: — that delayed remission, yeah. But if you’re putting together 22- to 80-year-olds, you’re going to have some of these folks. But what’s interesting is TMS is also a probe of the system. If you kind of ignore the kind of normal rules of how to define remission, and you just ask the question of who crosses through, 79 percent of our active group crossed through, 13 percent of our control group crossed through. And that tells you something, I think, about the neuroanatomy, that probably something in the 70 percent of folks have this dorsal lateral cingulate problem. And then that was a version of that thinking was seen in our PNAS signaling paper too, about 70 percent of those folks had the flip in the signal.
+
+And so my suspicion is that there’s a subpopulation of people who don’t have that, who have some other diagnosis. It probably looks a lot like depression, but it’s probably a different neuroanatomy. And we’ve seen this sort of phenomenon happen in medicine before. We used to cluster all the Parkinsonism together. So, there’s lots of reasons that Parkinsonism, some of those reasons are idiopathic Parkinson’s disease in the kind of classic sense, the way — 
+
+Tim Ferriss: What does idiopathic mean?
+
+Dr. Nolan Williams: Just that it’s kind of this spontaneous happening of Parkinson’s disease. That’s the core Parkinson’s syndrome that we think about in Michael J. Fox and others.
+
+Tim Ferriss: Yeah.
+
+Dr. Nolan Williams: And then you’ve got other things that look like it, progressive supranuclear palsy, Lewy body dementia, drug-related Parkinsonism. And so, we used to kind of lump — 
+
+Tim Ferriss: Parallel to your diabetes presentation earlier?
+
+Dr. Nolan Williams: Yeah, exactly, exactly. So, we forever lumped all these folks together, and it really took the UK Brain Bank and being able to link, in that case for Parkinson’s, link Parkinson’s pathology to symptomatic presentation.
+
+Tim Ferriss: What is the UK Brain Bank? I’ve never heard of this.
+
+Dr. Nolan Williams: Yeah. So, it’s like a brain — I mean, there’s lots of brain banks or brain donation entities.
+
+Tim Ferriss: Physical brains, or are we talking about scans?
+
+Dr. Nolan Williams: Physical brains after death, post-mortem donations. So, there’s a lot of ways you can donate. If you have a neuropsych disease, you can donate your brain to science. And so, a lot of Parkinson’s patients donated their brains to this brain bank to try to understand what it is. And what they found was, with a deep clinical phenotyping before death, right? And so then folks, you had this kind of deep phenotyping, and then after death, they were able to — 
+
+Tim Ferriss: Sorry, what do you mean by deep phenotyping?
+
+Dr. Nolan Williams: — like a deep, kind understanding of the symptomatology, right? So basically, does this person’s tremor, did their tremor happen on one side or both sides at the same time?
+
+Tim Ferriss: How do things present?
+
+Dr. Nolan Williams: How do things present?
+
+Tim Ferriss: In an observable way?
+
+Dr. Nolan Williams: That’s right, exactly.
+
+Tim Ferriss: In the same way, just folks, so you have genotype, phenotype, right? So, this would be a similar idea. Okay.
+
+Dr. Nolan Williams: Yeah. Yeah. So basically, what they found was, clinically, people that have the kind of standard Parkinson’s disease typically tend to have a presentation of unilateral onset illness, right? Where one side of the body or the other is much worse from a Parkinsonian standpoint than the other. And it’s actually very common for people with Parkinson’s to present where, if it’s a leg onset Parkinson’s or foot’s dragging, or tremor just in one hand, right? And that’s actually what you would expect from normal Parkinson’s. If it’s really symmetric, it’s less likely to be that and it’s more likely to be something else. And they figured that out from essentially the brain biology and forming that, being able to link up substantia nigra problems they found on autopsy with symptoms.
+
+And so I think we’re at the beginning of an era in psychiatry to be able to do the same sort of thing, to take what’s lumped together as depression or anxiety or whatnot, and to be able to parse it into a lot of different, what we call biotypes, or people think about as endophenotypes or whatever these kind specific kind of flavors of that symptomatology. Some linked with a very specific brain physiology or brain functional neuroanatomy, such that you can say that this depression type one needs this treatment. Depression type two needs this treatment, and so on and so forth.
+
+And so that’s really, from my vantage point, the future, right, is being able to really, at an N-of-1 level, at a single-patient level, be able to figure out something about their brain and then use that to help to prescribe what the next step is for them. And if we can do that, we can also cut time, right, because we can go straight to the effective treatment for people and cut all the time around diagnosis. I mean, there’s — 
+
+Tim Ferriss: And it’s not just time, it’s risk, right? In a lot of these cases.
+
+Dr. Nolan Williams: Absolutely. It’s time, it’s risk from potentially the wrong treatment. It’s also risk from waiting.
+
+Tim Ferriss: It’s cost, potentially, also, right?
+
+Dr. Nolan Williams: It’s also cost. Yeah, So, as you know, right, there’s a period of time where the diagnosis is uncertain, and then there’s a period of time where the treatment is uncertain, right? So, for bipolar depression, the average length of time it takes to diagnose somebody with bipolar disorder from a depressive episode onset, so they come in with depression and depression’s their primary presentation, seven years until you get them.
+
+Tim Ferriss: Geez.
+
+Dr. Nolan Williams: Right?
+
+Tim Ferriss: It’s wild.
+
+Dr. Nolan Williams: Right? And then, that’s just to get to that point. Now you’re on the right realm of medications or whatever. Now you’re talking about, in year seven, you’re having to spend whatever it is, like three, five, seven more years trying to find a solution. So you could go from being 25 years old and having this be your first depressive episode, and you’re still trying to figure out what you’re going to do about it at 40, and you see these patients.
+
+Tim Ferriss: Yeah. I’m just imagining you’re reaching into a dark closet and there’s what you think is a screw head, and you’re just trying different tools, but you’re not allowed to touch the screw head.
+
+Dr. Nolan Williams: That’s it.
+
+Tim Ferriss: Versus let’s flip on the light, take a photograph, and then go find the appropriate tool for the job. Just a couple of follow-ups, the numbers that you’re mentioning, the remission rates, the people who pass through, so to speak, how does that compare to frontline conventional treatments right now?
+
+Dr. Nolan Williams: Yeah so I mean, oral antidepressants, so there’s a study called STAR*D, it’s been an interesting year for STAR*D in the sense that some people have reanalyzed that data and there’s open questions about what the percentages are as far as what percentage of people make it to a remitted state after going through this algorithm. But, essentially, STAR*D started with a pretty low side effect burden, oral antidepressants, citalopram, and then transited through higher risks like SNRIs and psychotherapy and lots of other.
+
+Tim Ferriss: What’s the trade name for escitalopram? Do you know what people would know it as?
+
+Dr. Nolan Williams: Lexapro.
+
+Tim Ferriss: Lexapro. Got it.
+
+Dr. Nolan Williams: Yeah. And citalopram, Celexa. So those drugs, and then you go to SNRIs, like Effexor, venlafaxine, and then into the tricyclics and monoamine oxidase inhibitors. And so people would go through this algorithm and then they’d pop out on the other end after five or six or seven different treatments. And then they’d ask the question of, after people go through all of this, what’s their remission rate? So that number’s kind of been called into question, but essentially when you get into med four, which is roughly where insurance used to start to pay for TM, conventional TMS, conventional TMS would beat that pretty well, almost double, compared to you’re talking about lithium or thyroid hormone, things like that. When you start getting into that step, and conventional TMS would beat that.
+
+When you get to those next even more severe steps, you start to lose efficacy with conventional TMS. So you go from a remission rate of around 30 percent with conventional TMS down to about 16 percent when you get into the higher treatment resistance levels. That’s the levels that we ran our trials on, which really that where people normally get about 16 percent remission with conventional TMS. That’s where we were seeing those numbers.
+
+Tim Ferriss: Could you just repeat those numbers where you’re seeing what numbers?
+
+Dr. Nolan Williams: Yeah. So in our open-label trial, 90 percent in our randomized control trial, depending upon how you look at it’s in the 50, 60 percent at each time point or 79 percent if you’re asking did people transit through remission at any point.
+
+Tim Ferriss: Versus 16 percent.
+
+Dr. Nolan Williams: Versus 16 percent.
+
+Tim Ferriss: And this wasn’t a head-to-head.
+
+Dr. Nolan Williams: It’s not a head-to-head thing.
+
+Tim Ferriss: But just so people have some means of comparison. And in terms of pharmaceutical interventions at that point?
+
+Dr. Nolan Williams: Very low. I mean, you’re talking about sub-ten percent efficacy. This is around where electroconvulsive therapy is thought about, this kind of therapeutic seizure thing we were talking about earlier. That’s got about a 48 percent remission rate, but it’s not fast either, and you definitely can’t work the day you get it. And there’s this autobiographical memory thing, so you’re talking about a conventional TMS, like a one- to two-month commitment, and then quite a bit of risk for side effects there.
+
+You’ve got ketamine, which produces about a 30 percent spot remission rate with a single infusion, and that goes up as you administer more ketamine treatments with the IV ketamine forms. But as you go from a single infusion to what they did in this New England Journal paper that was published a couple of months ago, like six treatments over a couple of weeks, it starts to accumulate more time. And so we’re able to, from my standpoint, we’re able to get the most bang for your buck the quickest and with the least kind of interruption, and I think people’s ability to do stuff during that time. But there are other things, ketamine, psilocybin, and other psychedelic drugs that I think you’ve thought about and talked about on this show before that are also coming over the next couple of years.
+
+Tim Ferriss: A few follow up comments and questions. You mentioned a number of things, borderline personality disorder, bipolar as two examples. Part of the reason that I’m so interested in neuromodulation right now, accelerated TMS in particular, although I’m also interested in other things that I know less about like focused ultrasound and so on, which we might get into if we have time, is that many of the conditions that would be screened out there would be exclusionary criteria in, say, a psychedelic-assisted psychotherapy trial —
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: — are eligible for this type of treatment.
+
+Dr. Nolan Williams: Yep.
+
+Tim Ferriss: Which is incredibly interesting. There are people also who might have something that is more common, extreme hypertension, some type of ocular issue where, physiologically, psilocybin shouldn’t technically pose a risk, but if they have a lot of panic, rapid heart rate, etc, there might be complications, right? Elderly patients, etc. So part of the reason this entire realm of treatment possibilities with neuromodulation is interesting is because these tools could be available to people who would not be good candidates for some of these other things that you’re mentioning.
+
+What I’d love to ask you about, because this has been one of the questions that has just stuck in my head, is the topic of delayed remission.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: Having these patients, I can’t remember the number, I was looking at some of the charts, maybe it was three or four people out of N-of-16, I can’t recall.
+
+Dr. Nolan Williams: Yeah, that’s right.
+
+Tim Ferriss: Okay, there we go. Who had this remission at week four.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: Or something like that. How do you explain this and why is it older patients or does it seem to be older patients, and how do you relate it to a few things? So, in the case of, say, SSRIs, some folks also have this, a lot of people, delayed onset of benefits.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: And then you have ketamine, this is going to be a bit of a sloppy question, but I’m sure you can clean it up for me. Then you have ketamine, which is very rapid-acting, and I have heard, I do not have the credibility or the means of parsing all of this. Okay, well, ketamine acts directly on NMDA receptors. Seems like maybe SSRIs do that, but in a very indirect way, and that explains the delayed benefits in some patients. Don’t know if that’s true or not. Don’t know if I’m even wording that correctly.
+
+How do you tie this to or not the delayed remission? Because I’m just like, how does that even work, right? I’m like, okay, if you put a drug in someone’s head and it triggers a cascade or maybe it triggers some type of exceptional neuroplasticity that then shows the fruits of that at weeks, whatever, two, three, four. But I just cannot figure out, I can’t come up with, I haven’t been able to figure out a plausible mechanism for the accelerated TMS and that delayed remission. How do you think about that? Even if it’s speculation.
+
+Dr. Nolan Williams: And it would be speculation, but I think, so we’ve only seen in older adults, we know that the brain plasticity in older adults goes down as a generality. And there are lots of metrics about why folks think that. As you talked about earlier, it’s cramming for a test, you’re actually sending a memory signal into the brain. So the stimulation pattern you’re sending into the brain, this kind of Morse code is really a “Turn on, stay on, remember to stay on” memory signal that’s going into the brain. You’re just basically taking the hippocampus, the part of the brain that’s involved in memory and that signaling that comes out of there, and you’re playing that back through the prefrontal cortex in a way to try to tell the prefrontal cortex to “Turn on, stay on, and remember to stay on.”
+
+I think part of what’s going on is, because that older brain is a little less likely to have flexibility/plasticity, it takes some time for the signal to fully lay its tracks into the brain. We don’t have any sort of biology to back that up yet, but what we’re doing right now, we haven’t analyzed this data yet, is we’re actually scanning people every single day and we’re scanning people multiple times out to the month. NIH funded one — 
+
+Tim Ferriss: By scanning you mean fMRI?
+
+Dr. Nolan Williams: fMRI scanning. Yeah, yeah. So we’re actually getting 10 scans spread out over — 
+
+Tim Ferriss: It’s a lot of coffin time.
+
+Dr. Nolan Williams: It’s a lot. Yeah, yeah. People have been very cool about this. And so we’ve been able to with that, we think that we’re going to be able to potentially spell some of this out. Why are these delayed remitters happening? But my suspicion is that it’s probably a plasticity related issue. Interestingly, ketamine and TMS may have more in common with each other than one would initially think. A lot of the TMS effects are probably, in part, glutamate-related, as is ketamine. And then as we talked about earlier, there’s an endogenous opioid release from TMS. We’ve done some work with opioid-related mechanisms in ketamine.
+
+There’s probably a confluence of not one neurotransmitter system, but an orchestra of neurotransmitter systems that are being affected across these interventions. It’s my suspicion that that’s probably what needs to happen in order for these treatments to be effective. And our old views on this kind of chemical imbalance sort of 1990s view of one neurotransmitter, one neurotransmitter receptor sort of problem in the brain is way too simplistic and that it’s probably a lot more complicated, as one would imagine, a lot more complicated than that.
+
+Tim Ferriss: Outside of accelerated TMS, if you’re looking out, say, over the next five years for rapid-acting, potentially durable antidepressant effects, what other tools or molecules or treatments are most interesting to you?
+
+Dr. Nolan Williams: We have a paper coming out soon in Nature Medicine on looking at at ibogaine as a potential treatment for, in this case for military traumatic brain injury, but a lot of these folks had depression, generalized anxiety disorder, and PTSD. It was an interesting, that was another interesting story, so I was approached back in 2018 by a professor, a senior professor at Stanford who was tapped by some folks to kind of find somebody who’d be willing to partner with a non-profit called VETS at the time who were sending, and I think you’ve interacted with Amber and Marcus Capone a little bit.
+
+Tim Ferriss: I have, yeah, I interviewed Rick Perry and Rick Doblin two years ago at their Veterans Day fundraiser.
+
+Dr. Nolan Williams: Yeah, I was there, I remember. That was an interesting one, yeah.
+
+We partnered up with them and I had to again, go to the Stanford IRB and ask them for another edgy — and you have to give the Stanford IRB credit.
+
+Tim Ferriss: Could you just spell out IRB?
+
+Dr. Nolan Williams: Oh, sorry. Institutional Review Board. It’s the entity that reviews all research protocols at institutions. This is the kind of governing body that’s in place that’s been around for about a hundred years that essentially is a non-conflicted, uninvolved group of senior professors that look at your proposed research and then determine if it’s ethical and safe and answering the questions that you think you’re going to answer. And so just going to them to talk through doing accelerated TMS and saying we were able to talk to them about doing a study where people would come to Stanford, knowing in the IRB, knowingly agree to them, then going down to Mexico to take an illegal-in-the-US root bark extract that’s been utilized for millennia in the country of Gabon and related areas in central West Africa. As you can imagine, this was not a quick turnaround, nor should it have been for the IRB in the sense that I had to convince them this was science worth doing. 
+
+Tim Ferriss: At that time though, is it fair to say you’re the TMS guy, or was it in the air that you also had an interest in exploring something like an iboga or an ibogaine?
+
+Dr. Nolan Williams: People knew that I was very open-minded to things. I’m a pragmatist, right? I mean, for me, the patient’s the most important thing. I have this view of psychiatry that it’s going to look like in-patient cardiology in 20 years where we’re going to use drugs, we’re going to use devices, we’re going to be able to figure out what the best thing is for that patient. To your point, some of these things are good for different problems. I think that was known that I was open to that. We’d just been running this ketamine mechanism trial, so I was tapped to look at this and a couple other people too.
+
+I found out later they’d gone to, like, a lot of people. Apparently, I was the only person that was willing to do this trial. I felt kind of special back then, and then later realized — 
+
+Tim Ferriss: “Oh, wait a second, I was on The Bachelorette and I didn’t even realize.”
+
+Dr. Nolan Williams: Yeah, I was on The Bachelorette and I didn’t realize it. Essentially, yeah, and The Bachelorette was a tricky one. We ended up reluctantly agreeing to this. Admittedly I almost pulled out a couple of times because ibogaine has this street knowledge, and academic knowledge, that it has a death risk. Right, it has a one, roughly one-in-300 risk of death from Torsade de pointes. This arrhythmia, fatal arrhythmia that can happen with certain cardiac-acting drugs, and it works through this, what they call HRG potassium channel. Other things do this or like FDA cleared like cancer drugs and arrhythmia drugs, that’ll do it too, so it’s not — 
+
+In context, it’s like something that happens with lots of different drugs that we use. But I think there was somewhat of a stigma and a bias around particularly an addiction drug. Folks had been trying to get this through the FDA and NIH and whatnot in the ’90s, Howard Lotsof and others, and it was a very complicated drug. And I’d known about it since residency. I’d read about it. I thought that it was like, “Wow, this is the most promising anti-addiction drug on the planet.” But I’d thought it was completely unstudiable, and I kept doing my other stuff.
+
+Tim Ferriss: At that point, how did you come across ibogaine? Where did you find it?
+
+Dr. Nolan Williams: In 2012, 2010, you know, I think — 
+
+Tim Ferriss: Would this have been early Deborah Mash stuff or?
+
+Dr. Nolan Williams: No, no. I come across this book Breaking Open the Head by Daniel Pinchbeck.
+
+Tim Ferriss: Pinchbeck.
+
+Dr. Nolan Williams: Yeah. Yeah. He was a big, I think he wrote for The New Yorker or something, and I was stuck. I was going kite surfing in South America and I was stuck in the San Salvador airport and there was five English-speaking books or something. I picked this book up in the airport.
+
+Tim Ferriss: What? That was in the San Salvador airport?
+
+Dr. Nolan Williams: Yeah, yeah. Yeah.
+
+Tim Ferriss: Wow.
+
+Dr. Nolan Williams: Randomly, right? I got a hold of this book and read it waiting on my flight, which was like eight hours delayed to get to Peru. And so essentially, yeah, he just lays the whole thing out. It was very interesting. He talks about his own personal experience of it, and then I read a lot about it. And there was some work that folks like Ken Alper and others had published on the case report level outcomes, but then also the cardiac problems. So then I figured it was kind of unstudiable. 
+
+And then, yeah, in 2018 I was approached and was asked to do this trial. And so we went to the IRB, spent a year back and forth, and right when they were about to, they approved it, COVID hit. So we were actually supposed to start when COVID happened, and it paused the whole thing. It took a while to get it back online, but it was actually the quickest recruiting study I’ve ever run. We got 30 people done in eight months.
+
+Tim Ferriss: Now is that because of the category of potential death of despair? I mean, is it because of the patient population? Were you dealing with addicts?
+
+Dr. Nolan Williams: So the patient population was, and that was the unique part about this, it was veterans with traumatic brain injury, some of which were alcohol use disorders, so we used to call alcoholism, but more than a third, I think 13 or 14 people out of the 30. But everybody had TBI, a lot of them, most of them had depression, most of them had PTSD. We were running this trial, I put my best neuropsychology postdoc on it and a couple other superstars, and it was running in the background and I was like, we’ll get this into a pretty good journal or whatever, thinking we’d see some people get better, some not, whatever.
+
+I remember I was asked to give a talk about it at a very prestigious university and asked the postdocs, we just wrapped up the immediate post and asked the postdocs to put the data together and we have data to present for them. They showed me the clinical outcomes, and I was completely blown away. It was way better than I think we anticipated, very consistent improvements in basically everybody. Some people would lose it before the month, but most people held it and they’re holding it out to a year now. I was floored. I actually told them to delete all the code and start the analysis over. They had to have done something wrong in the math, which is always fun. The postdoc always, they kind of say yes, and look at you, “You just ruined my weekend.” And so we did it again and it was the same exact findings. So I was wrong, they were right, they had done it the first time, essentially really, really striking. And like I said, by the time this will come out, Nature Medicine will have published this.
+
+Tim Ferriss: Somewhat prestigious.
+
+Dr. Nolan Williams: Somewhat! Top five biomedical journals in the world.
+
+Tim Ferriss: It’s like being nominated for best picture at the Academy Awards, I mean, scientifically speaking, right? It’s up there.
+
+Dr. Nolan Williams: It’s up there. It’s a nice deal. It was very surprising that, for me, that they were going to be open to publishing an open-label paper, which historically you’re going to publish in that kind of a journal, like a randomized trial.
+
+Tim Ferriss: Just for clarity’s sake, for folks listening, so open-label means no placebo control, right?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: And also to just rewind for a second, I want to mention to people that for accelerated TMS, how do you know it’s not placebo effect? You mentioned the control group, but that’s a sham treatment. You’re basically, people feel like they’re getting a treatment, but they’re not actually getting the proper treatment.
+
+Dr. Nolan Williams: Yeah, in that case, you want to ask a blind guess. And that’s actually been a big — so I was going to get into here a big problem with a lot of the psychedelic trials and why there’s a lot of criticism for a lot of the psychedelic trials is that they kind of know that the blind guess is going to be highly skewed. So there was one trial where they did psilocybin for alcohol use disorder. I think it was like 99 percent correct blind guess rating, so the P value was highly significant. In our same studies, to my great surprise, our blind guess was chance.
+
+Tim Ferriss: Could you explain what do you mean by blind guess?
+
+Dr. Nolan Williams: Mr. Smith, who — 
+
+Tim Ferriss: These are the experimenters. Trying to guess who is in which group.
+
+Dr. Nolan Williams: This is the patients trying to guess what they got.
+
+Tim Ferriss: I see.
+
+Dr. Nolan Williams: Yeah. “So, Mr. Smith, you just wrapped up your treatment, which treatment did you get: active or sham, what’s your confidence…” 
+
+Tim Ferriss: Got it.
+
+Dr. Nolan Williams: “…in what you got? And so what we found, which is really interesting for SAINT, was that I didn’t know what people got, but I talked to some of these people and I heard some of this. So it was really interesting. Patients who’d gotten totally better and they’d say things like, “Yeah, I just got lucky with placebo this time,” they ended up getting active. And then the folks that didn’t get any better, that they got sham, would say things like, “I’m not even good enough to respond to the active treatments.” So it was confusing enough for them where they were making the wrong guess 50 percent of the time, which is what you’re looking for, is about 50 percent error rate. And it’s a coin toss.
+
+Tim Ferriss: Sidebar on that, I know this is very kind of staccato the way that I’m trying to hold this conversation, but having gone through two weeks, different hardware, different practitioners, etc., and having had a lot of conversations with technicians and so on, it also seems like for some people it takes a while for their narrative to catch up with the hardware upgrade. In the sense that they say, “Well, maybe I got lucky,” or “Maybe I don’t really feel that much,” and yet their assessments are improving and/or their significant others see dramatic changes, right?
+
+Dr. Nolan Williams: That’s true. That’s not specifically a TMS effect, or a SAINT effect, or accelerated TMS effect. That’s true, I think, for a lot of treatments you see that, I mean, I’ve had calls in since our data’s been out on ibogaine where I’ve had people call me and say, “Hey, Mr. or Mrs. so-and-so, they look amazing.” And they’re not, they don’t think they’re any better. And so I think you can see it across the board, psychedelics, neuro mod. There’s a certain problem called alexithymia in about 25 percent of people with treatment-resistant depression.
+
+Tim Ferriss: Alexythymia.
+
+Dr. Nolan Williams: And so “A” meaning without, “Lex” meaning the ability to describe, “Thymia” mood. And so they can’t really describe their mood, and so they have an inability to accurately rate their mood. And the way you know that is — 
+
+Tim Ferriss: Alexithymia. I’m going to use that at a fancy cocktail party, so, “Tim, how are you doing?” “Sorry, got alexithymia” “Oh, sorry. You may better know that as ‘Difficulty to describe mood.'”
+
+Dr. Nolan Williams: That’s all right. Sorry, I’ll try to back off on the medical jargon.
+
+Tim Ferriss: No, I like it. I’m learning all sorts of words.
+
+Dr. Nolan Williams: Yeah, it’s an interesting term and it’s an interesting phenomenon. You see this in psychiatric conditions. People just have a, if you ask them very specific questions, “Well, when’s the last time you’ve been sad or thought about anything negative?” “Oh, it’s been a week or two.” “Are you depressed?” “Yes.” “Well, why do you know that?” “I don’t know.” They just don’t know.
+
+Tim Ferriss: It’s also like a self-reporting problem too, I think in some cases, right? It’s like if you ask someone, “How many calories did you eat yesterday?” Most people would be off by 30 to 60 percent or something, right?
+
+Dr. Nolan Williams: Yeah, that’s right. I think what, the remedy for that is that you have a clinician rater, and the clinician rater asks these really, really pointed, very detailed questions, and then the patient’s able to answer, and then it’s a formula to calculate what that mood rating is, in that case. Sometimes it’s just off from what their perception is, but when their kind of meta perception of the whole thing. But when you get down to the brass tacks, they’re answering right, and so we’ve seen that and that’s been true across these problems and there’s ways of constructing trials to deal with that. But yeah, we’ve seen that with psychedelics as well. 
+
+So we went after military TBI and yeah, we were just really surprised. And one of the biggest — 
+
+Tim Ferriss: And these were all special operations?
+
+Dr. Nolan Williams: They were basically all Army Rangers, Navy SEAL, former Army Rangers, former Navy SEALs. There’s been a big cohort of these folks that have gone down, I mean, some people in Congress have gone down and done this and have spoken about it publicly. I mean, it’s this National Defense Authorization Act, the NDA, I think has just went through the Senate and the House both approved it yesterday and it’s going to Biden. So to earmark money for ibogaine for trials, which is pretty cool.
+
+The military community and some of the government is pretty aware that this is a possibility. There’s been a lot of advocacy that Amber and Marcus have been involved in. My hope is that coming out of a journal like Nature Medicine that really kind of validates what we were seeing and puts some context to what we observed and what we found in our study, will help to spur more funding and more focus. I think the veteran psychedelic angle is an important one for a lot of ethical moral reasons and a lot of — 
+
+Tim Ferriss: Stuff like a political immunity bracelet, right?
+
+Dr. Nolan Williams: That’s right. That one.
+
+Tim Ferriss: It’s a very important subpopulation and it’s very fortunate that it aligns with driving forward the research around these therapeutic tools.
+
+Dr. Nolan Williams: Yeah, it was super cool to work with those guys.
+
+Tim Ferriss: And this was a monotherapy in the sense that it was just ibogaine. I know that at least in many places in Mexico, they sometimes combine it. Well, they don’t combine it, but they sequence it with 5-MeO-DMT at the tail end. Was this ibogaine alone?
+
+Dr. Nolan Williams: Yeah, it was ibogaine alone, and then we had folks come back later to do the 5-MeO outside of this month follow-up period. But the data that we’re publishing in Nature Medicine is just the ibogaine effect. It was tricky to divorce those two together because that’s what’s been going on, as you know, in Mexico quite a bit. All the acute out to the one-month effects are all ibogaine, direct ibogaine effects, and it’s super cool. 
+
+And the thing that I found really interesting about this drug is that it produces what I think is probably the most stereotyped trip, if you want to call it, or the psychological phenomenon that happens alongside the drug effects. People will describe this earlier life, autobiographical replaying of emotionally salient memories that are kind of epoched in time.
+
+Tim Ferriss: Some people call it life review, right?
+
+Dr. Nolan Williams: Life review or slideshow. Yeah, exactly. It’s interesting, everybody’s kind of got a different version of what the slideshow ends up playing out to be like for them. Some people would say, I found myself in this room and it was on my TV from childhood, and all of a sudden it was playing all these things, or I found myself in a hall of mirrors and it was playing all these things. So kind of like the context can be very different, the mind seems to shape that, but the actual replay seems to be pretty stereotyped. 
+
+Tim Ferriss: Stereotyped, meaning like it’s a pattern that repeats or it is just like a common characteristic.
+
+Dr. Nolan Williams: It’s a common characteristic, and it’s closed-eye only. It’s not open eyes, it’s not for a lot of people. The ibogaine experience is kind of really around this part, this kind of replay part that happens. And from what I have heard, there’s kind of a cathartic re-evaluation of these memories, and interestingly, an ability to not only have insights into your own reasons, which may have been good or bad for feeling or behaving or doing whatever it was, but also reasons for they have some insight and the reasons for the other, which, to me, is the hardest thing to explain. It’s almost like you knew it the whole time.
+
+Tim Ferriss: Can you say it one more time? Say the last part again?
+
+Dr. Nolan Williams: When people have this slideshow or life review, they seem to have it as a third-party person in the experience. What is this Christmas Carol, Scrooge, or whatever, when they go back, they go back in life and you see — 
+
+Tim Ferriss: You become the observer of your own past experience.
+
+Dr. Nolan Williams: Right? It’s kind of like that. Scrooge goes back and sees himself as a kid. He sees himself as when he broke up with his significant, all that stuff. It’s almost like that, like you’re having a similar sort of thing where I’ve used the analogy of Tom Cruise in Minority Report, where you’re able to go back and see these events. And what’s so fascinating, and why I’ve said, and I continue to say I think this is the most sophisticated drug on the planet, is that I think that there’s nothing else that can seem to do this, right, where you have these experiences where you’re able to hold this neutral place, and you’re able to have this sense of where you were and why you did what you did. And you have this sense of the other, and you’re able to, I don’t know, intuit, empathize, I don’t know what that is, you somehow stored it at the time and you weren’t able to fully access it and you’re able to access it, whatever that is. Being able to forgive or to forget or to understand this person’s position as well as your own, and then seemingly unlock the lock on both sides and then kind of dissolve the problem. And people will say, they kind of would work through all of this. And there’s one veteran would say, “Well, I went through all this military stuff, and at the back of the room it was my early childhood trauma.” And so this idea that, at the core of it, for a lot of this ends up being a childhood trauma thing that’s kind of buried below all of it.
+
+And really being able to actually both access that in a way that you can understand that, in many cases, the traumatizer was themselves traumatized and that it’s a pattern of trauma and the ability to kind of resolve it by understanding and this kind of more meta empathic viewpoint. And so that’s where I think the tool’s really going to be important is this ability to have what seems to be a pretty profound or atrophic effect. We were able to see disability improvements from traumatic brain injury, but also this pretty pronounced cathartic reevaluation of past life problematic memories.
+
+Tim Ferriss: All right. As I’m wont to do, let me hop in with just a few comments that we can bounce around if we want and then a whole bunch of questions. So the first comment is with the special operations vets who are friends of mine, what I’ve observed, maybe similar to what you’re describing, that is, part of what has contributed to them being extremely high performers in these high-stress environments is their ability to tightly compartmentalize, which they developed when they were traumatized as kids.
+
+Super high overlap, incredibly high overlap. Of course, there are many other factors that contribute to them being the one person out of 10,000 who doesn’t get washed out of training, being that unbreakable in a sense. But with those friends, and look, it’s a tiny sample size, but of those friends, I wouldn’t say any of them would claim to have PTSD or moral injury, like a feeling of having done the wrong thing. But the TBI, and this is where I want to lead into a question, which is not to negate the fact that a lot of people could have, of course, meet the diagnoses for complex PTSD and so on with the TBI. What makes ibogaine different from some of these other psychedelics? And I want to say one maybe place to explore would be glial cells. Am I making this up?
+
+Dr. Nolan Williams: Glial-derived neurotrophic factor, yeah.
+
+Tim Ferriss: Glial-derived neurotrophic factor. There we go. What makes it different in terms of mechanisms of action, therapeutic effect, compared to some molecules people might be more familiar with — psilocybin or otherwise?
+
+Dr. Nolan Williams: The classic psychedelics, like psilocybin, as you know, primarily affect the 5-HT2A receptors. So there are 5-HT2A agonist, they produce these kind of classic psychedelic experiences from largely from that receptor you can selectively knock out 5-HT2A receptors, you can knock out the psychedelic effect. So we’ve largely thought about this class of psychedelics in that way. Ibogaine is a known neurogen, so it produces a dreamlike state. Some people call it an atypical psychedelic. We’ve elected to use this neurogen term because I think it more accurately reflects what’s going on in the trip and in the way of perceiving what it is. It does have some 5-HT2A action, but that’s probably the minority of the effect. It affects a broad range of other receptor systems. So salvia for instance, is a kappa agonist, right?
+
+And so there’s kappa mu effects, there’s NMDA effects with ibogaine, there’s SERT effects, so serotonin effects. And then there’s this upregulation of BDNF, brain-derived neurotrophic factor, and GDNF, glial-derived neurotrophic factor, and both of those are profound neurotrophic factors for plasticity in the brain. The problem is this has been, psychedelics were thought of as relatively obscure 15, 20 years ago to study. Obviously that’s changed now, but ibogaine is extremely obscure. So there were a handful of studies that were performed and published in good journals over time, but it’s very limited in the data that we have so far. So it’s hard to give you some sort of definitive answer of what’s going on in the brain. And so what I can tell you is that it was a paper published, I think 15 or 20 years ago, where they took mice and they got them to self-administer alcohol. So that’s kind of a way of an addiction model or whatever, an alcohol self-administration or sucrose self-administration, sugar self-administration, it’s like a way of getting, you can put cocaine in the water and get mice to —
+
+Tim Ferriss: Modeling addiction.
+
+Dr. Nolan Williams: Yeah, exactly. And so if you give a mouse ibogaine, you can get them to stop self-administering alcohol. It’s interesting, we saw that in humans that stopped drinking as well in our study, or in this case, you could actually drill a small hole in the mouse’s brain, you can inject GDNF directly into the ventral tegmental area, the area that produces dopamine for more of the pleasure-seeking part of the brain. And it emulated the same effect as the ibogaine, so this GDNF effect in the dopamine system at least, and GDNF is thought to regulate dopamine neurons. And so I think that that’s probably at least a pretty strong part of it and what makes it so unique. But we don’t, I always tell people when I’m talking about this ibogaine stuff, if we gave one of the big pharma companies a hundred billion dollars and said, “Don’t just re-synthesize ibogaine, but make a drug that works like ibogaine,” or, I think even some of the classic psychedelics, but really specifically ibogaine, I think they’d have a hard time doing it because we don’t have the neuroscience to understand what’s going on there. And I think it’s because it’s not a one receptor.
+
+Tim Ferriss: It’s not super clean in that way. It’s like promiscuous. It’s like — 
+
+Dr. Nolan Williams: People use that term “dirty drug,” I think it’s — 
+
+Tim Ferriss: It has the wrong connotation, but yeah.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: LSD is pretty kind of promiscuous.
+
+Dr. Nolan Williams: Yeah, I think promiscuous, I like to think about —
+
+Tim Ferriss: Complex? Sophisticated?
+
+Dr. Nolan Williams: I like to think about it like a symphony.
+
+Tim Ferriss: There we go.
+
+Dr. Nolan Williams: You’re interacting with these neurotransmitter systems in proportions in such a way that it produces this effect. My suspicion is that it’s probably more sophisticated than we want to attribute to, I mean maybe not you, but the scientific community wants to attribute to nature being able to pull off. But it’s this idea that maybe somehow we have this drug that just happens to work the way it works because it’s able to interact with these systems in pretty important ratios or pretty important kind of simultaneous effects. And that’s really what’s driving it. And that’s the part I’m saying it’s going to be hard to reproduce. I mean obviously Sasha Shulgin and others were able to take/emulate similar sort of 5-HT2A effects, but I don’t even think he was able to produce an ibogaine-like multi-receptor sort of symphony like this. There hasn’t really been another drug like it in this way. And so trying to think about what that is and really how to study it’s going to take a new wave of neuroscience tools to be able to capture all the effects in real time.
+
+Tim Ferriss: I have a symphony of follow-up questions. And so I’ll give, you can choose, this is dealer’s choice, you’re the dealer. So we could go with and we will get to all these, but improving the safety profile of ibogaine, which I should also say I’ve had people reach out to me, which is always — can be very uncomfortable for me, but a friend of a very close friend, and in this particular case, someone’s sister was a heroin addict who is now homeless, acting as a prostitute, living under an overpass. And the reason I bring up all that level of detail is that for a lot of interventions in this case, ibogaine at that point, the cardiac risk or some of the risks were known. And there’s a question of is this risky? And the follow-up is compared to what? And in this particular conversation it was, well, she could die tomorrow from an OD or this and the other thing.
+
+So I’m just kind of setting the table with that. But improving the safety profile is one question. Another, because you mentioned the cessation of, or the minimizing of the AUD, so people stopping drinking. We were also talking before recording people stopping drinking caffeine I guess, or coffee.
+
+Dr. Nolan Williams: We saw that.
+
+Tim Ferriss: Okay. Unexpected presumably. And so my question there, which I sort of seeded because I mentioned I would want to talk about this, it’s like any overlap in terms of mechanism around how does this compare to something like Semaglutide or an Ozempic or some of the newer gen, I think Mounjaro, maybe I’m getting that wrong. And then the last one, and I’ve been wanting to ask somebody about this. So you mentioned 5-HT2A, it seems like some psychedelics exert effects also on 5-HT2B receptors. And if I’m not mistaken, there’s some data to suggest that that can — continued stimulation, agonism of that B can lead to some type of cardiac complication as well, some type of ventricular hypertrophy — 
+
+Dr. Nolan Williams: Heart valves.
+
+Tim Ferriss: Valves. Exactly. So the question there is do you think that microdosing, for instance, which has become all the rage, could that potentially have long-term negative cardiac effects?
+
+Dr. Nolan Williams: And not to derail too much, yeah, exactly. The FDA clearance, the FDA guidance document for psychedelics that they released actually on the last day of the psychedelic science meeting, which is really interesting, specifically has a section about this issue of cardiac valvular problems, particularly from these more classic psychedelics. The problem with ibogaine is different. The problem with ibogaine is that it interacts with hERG potassium channel. There are a number of groups, folks at Columbia, folks at UC Davis who have looked at this and their solution is to modify the molecule and to affect it in such a way that it no longer interacts with hERG.
+
+Tim Ferriss: Do you mean noribogaine or something like that? Or is it more of a —
+
+Dr. Nolan Williams: Noribogaine, the primary metabolite of ibogaine that goes after 2D6 is a normal part of the ibogaine process, has a similar cardiac risk profile.
+
+Tim Ferriss: Oh, it does.
+
+Dr. Nolan Williams: So it’s drugs that are, I think they call them like tabernanthe logs or something, but, iboga logs or something, I think is what was coined at Davis, but essentially these are drugs where they try to engineer off that interaction, which may or may not have an effect on its brain effects. I mean generally, and so I want to answer the question I’m trying to ask, and the question I’m trying to ask is, does ibogaine help with certain human illness by modifying the molecule? It’s not ibogaine anymore, it’s something else. And then you’re asking the question, is this something else help — the view is maybe it’s close enough to ibogaine to do something similar. And I’ve taken a different stance on this where I’ve basically taken the frame of how do you preserve the molecule and really lean in on the cardiac risk?
+
+Tim Ferriss: How do you put an airbag in the car instead of redesigning the whole car?
+
+Dr. Nolan Williams: Yeah. Instead of making it 3an airborne shuttle or something, I don’t know, whatever. So it’s putting an airbag in with a high likelihood of saving the person. And so we talk about this in the article, but essentially all the patients that were treated received torsades, like IV magnesium at the start.
+
+Tim Ferriss: What type of magnesium?
+
+Dr. Nolan Williams: So it’s like magnesium sulfate. So it’s basically just like IV bag magnesium. And so what’s really interesting about this arrhythmia torsades that everybody’s worried about is that the treatment for it per the American Heart Association guidelines is to give IV magnesium, which is incredibly safe. And I’ve given many times for various things in the ER and you can just give it to people and you’ll eventually urinate it out or whatever. And so you can give it, get people through this risk period, and then they may be slightly hyper magnesiumic or a little high on their magnesium in their blood and they’ll go out and everything’s all good.
+
+And there’ve been about a thousand operators that have gone down to Mexico so far. And to my knowledge, and we looked into this pretty significantly, there hasn’t been a single case of torsades. Conversely, the New Zealand study that was published a couple of years ago, they had a death out of 10 people. And so we are not doing head-to-head, I can’t tell you for sure what the deal is there, but my suspicion is that if you give, what is the treatment for the problem you’re worried about before you give the thing that can cause that problem, then it’s much more likely that you can knock out the risk or significantly reduce the risk. It’s also about doing it in a monitored bed setting. So Tikosyn, T-I-K-O-S-Y-N, is a drug that is approved for atrial fibrillation and it’s an antiarrhythmic that can be pro-arrhythmic in the same way as ibogaine and actually has more risk than ibogaine.
+
+The rates of torsades are higher with Tikosyn, it’s approved, and it’s totally safe if you do it in a monitored cardiac bed. And so I think that we have to, if we’re, and my suspicion is if we’re going to do a study in the US with ibogaine, we’re just going to need to do it in a monitored cardiac bed with cardiologists involved. And I think if you do that, you’re good. I think the trick is between now and when in theory one could see an approval eventually from the FDA for this, you’re going to have to think about, well, not just can this place in wherever Mexico, wherever it is, provide a good pure form of ibogaine, but what’s the wraparound risk reduction there? And I think that’s what people have to think about as they think about that, taking on that level of risk. It’s not trivial risk, though. It’s a real risk. I think the reason why the veterans that we studied were so interested in going is because, as you point out, there’s a lot of risks from not doing things too.
+
+Tim Ferriss: There’s also a lot of social proof in that community now.
+
+Dr. Nolan Williams: Oh, yeah.
+
+Tim Ferriss: And a friend will go down with their friend to sit in the same room and it’s a tight group, I mean.
+
+Dr. Nolan Williams: It’s a super tight group and it’s pretty cool. And I think it’s, the reason why I did the trial ultimately was because my view was there’s no way that all these very high performing special operators are all going down to Mexico and taking this thing, which is not recreational at all, and spending a week down there dealing with this and then they’re not really getting benefit, they’re getting some sort of pure placebo effect. It just seemed unlikely to me given how treatment-resistant and how many things that these folks had done, how much time they’d spent in the VA hospital and all that good stuff. And so that’s why we did it. And what we found was enough of a consistent finding and this reversal of disability such that the, well, I can’t tell you this works because I don’t have that level of evidence on it, that the signal that this could work is really high. It’s the highest of any kind of brain-acting drug I’ve been involved in looking at.
+
+Tim Ferriss: Okay. Let’s talk about the alcohol and the caffeine. So mechanism of action, I mean, you sort of mentioned the GDNF in the animal models, the direct kind of injection. How do you think about this and does it in any way tie into what we’re seeing with some of these drugs that are, I guess designed for type two diabetics, the semaglutide and Ozempic-like drugs, but they’re having such an effect on various types of cravings that large box retailers are having to revise, sort of in a panic, their sales projections and inventory planning around snack foods and stuff. I mean, it’s wild to see the societal ripple effects.
+
+Dr. Nolan Williams: Walmart apparently has sold less food.
+
+Tim Ferriss: And I have friends who have been obese effectively their entire lives, never had an exercise habit, and now they’re doing pull-ups for the first time, which is again, not an endorsement because I don’t understand, and maybe nobody really quite understands exactly how these things work, but I certainly don’t, so I’m not yet there. But how do you think about this, I mean, are there any overlaps with these? Are they completely different mechanisms just presenting similarly?
+
+Dr. Nolan Williams: Yeah, that’s a great question. There’s no evidence that there’s a direct overlap in mechanism just because I think the kind of CNS kind of psych addictions side of things, people are still in the like, “Is this doing something yet?” It looks like it’s doing something there, but not in any deeper than that. I think we’ll learn about that on the Ozempic drug side of things. And then ibogaine has been relatively underexplored from basic science, science and technology. And my suspicion is, is that is probably similar enough and maybe some of the same mechanisms are being enacted because what you’re finding is a similar phenomenon across both instances. We thought these were diabetes drugs and then there was a significant weight loss observed, and then we thought these were weight loss drugs and then everybody’s quitting all their other habits.
+
+And placebo works by a phenomenon called expectancy. And as you can expect from the term, it’s expecting something. So you’re primed to think that this thing’s going to help for this reason. I’m always really clued in when you have really obscure off target, off non-expectancy phenomenon happening. So in our ibogaine trial, as you mentioned a minute ago, we had basically everybody quit drinking coffee for a period of time and none of them really went into it as most of us don’t, our coffee habit is maybe a concern.
+
+It looks like coffee is protective against Parkinson’s and some other things, so it’s kind of a mixed bag about that, but it’s generally the thing we’re the least worried about trying to deal with, as a generality people are much more focused on dealing with being overweight or focused on their alcohol use problem, or in this case, PTSD and depression and TBI and all these other things that folks were worried about. And so when we started seeing consistent reports of people stopping their caffeine intake, it was really a signal for me. I was like, you know what? That’s really interesting.
+
+I mean, there’s probably a bigger systemic change that’s happening. And what people will tell you, phenomenologically about this, is it puts a pause in between stimulus and response. A phenomenal, and I can’t prove this, this is just what everybody seems to come back and say it puts a period of time between when you normally have a trigger to do something and go do it and it was a habitual action and really kind of gets into this question of free will and all this stuff that people think about, where there’s a moment where instead of making the habitual action, the person finds themselves in a purely unbiased choice phenomenon.
+
+And what people who have opiate-use disorder would say in those scenarios when they would relapse after ibogaine is they’d say, “You know what? I had something about it. I didn’t crave it. I just wanted to do it or something wanted to remember,” or whatever, but it wasn’t this habitual action. And they’d go back and they do ibogaine again after they’d gone back into the addiction and then they had all the negative consequences and they say, “You know what?”
+
+And they got back to that choice again and they’re like, “No, it’s not worth it anymore. I’m going to go this way.” But they were able to pause and make those decisions. And it sounds like from talking to the various veterans that have gone through our study is that they’d approach things like coffee and they’d be like, “I do this, but do I need to do it?” Which is really striking actually, it’s not something that people typically tend to do. You get into all these habitual actions and your life is just made up of a lot of habitual actions and they were able to reevaluate all those habitual actions and then establish new patterns. The drug eventually is going to wear off, as all drugs eventually do, and you probably do lay down a level of habituating again. But if you could, during the period of time when your brain seems to be pretty plastic, shift and lay down new patterns that when the drug wears off assumably, you kind of lock into that new set of patterns.
+
+And I think that’s really interesting and probably a little bit different than the Ozempics in the sense that the Ozempics seem to kind of take away from what folks will say a lot of the seeking or rewarding aspects of things with food or whatever. It’s just — 
+
+Tim Ferriss: Like cravings.
+
+Dr. Nolan Williams: Yeah, cravings. Whereas this seems to introduce a level of choice. What would be very interesting, so you alluded to this earlier, is you take somebody who has a pretty significant addiction like this and you give them an ibogaine sort of drug and then you think about how do you use something like an Ozempic to kind of follow on with that, right? Where you’re able to gate some of it and it’s way out there. And probably not anything anybody’s going to do anytime soon, but it’s an interesting idea of these are essentially habit-affecting drugs that we haven’t had tools to really use before, which I think is pretty cool.
+
+Tim Ferriss: And folks who want to dive deeper into this sort of reopening of, let’s call it critical windows, I mean I’m borrowing that terminology from Professor Gül Dölen, but pretty fun stuff to dig into as well, if you want to scientifically, at least for the time being, reinforce what a lot of experienced facilitators have been saying for a long time, which is the post-period matters a lot. If you’re going to have knee surgery, make sure you do your rehab. All right, let’s hop to a few other questions. One is coming back to ibogaine specifically. The two things that have been of greatest interest to me with respect to ibogaine are TBI, right, so if someone has no addiction, no PTSD, the only issue they have is some form of TBI, do you think there is a role for ibogaine so we can place hold that, there’s part two to this question, which is I’ve heard reports and I haven’t gone into the literature on this site.
+
+I don’t know, maybe this has been explained somewhere, but I’ve certainly heard reports of opiate addicts who have seemed to indicate that ibogaine or iboga opens a window after treatment during which they do not seem to experience much in terms of withdrawal symptoms. And I want to know what the hell is going on there if that seems to be observed. So those are the two questions. Somebody who just has TBI, do you think there might be a role for an ibogaine or something like it, compared to other options, and then the seeming diminishing or disappearance of for a period of time, physical withdrawal symptoms?
+
+Dr. Nolan Williams: Yeah, it’s a little tough with the cohort that we studied because were, it was military TBI. While I understand that the PTSD diagnosis is pretty ubiquitous in the system, it’s probably true in a fair amount of folks, especially folks who’ve been exposed to a lot of combat related trauma and earlier life trauma that in our group, it seemed to be there in most of the participants, so was depression and anxiety. And so we haven’t studied a pure TBI group. And so the confound is without studying a pure TBI group that somehow had, maybe was a competitor in martial arts or something like that, right?
+
+Tim Ferriss: Multiple concussions or whatever,
+
+Dr. Nolan Williams: Something like that where they intended to potentially get hit in the head.
+
+Tim Ferriss: Probably intended to hit other people in the head.
+
+Dr. Nolan Williams: Well for sure, but intended to go into the ring knowing — 
+
+Tim Ferriss: You’re going to get hit.
+
+Dr. Nolan Williams: That you were probably going to get hit and that it wasn’t, because the problem is in a lot of these cases, motor vehicle accidents, there’s really high rates of PTSD in those because there’s not an expectation that you’re about to get hit in the head, but there’s probably a population you could study that’s pure traumatic brain injury where — 
+
+Tim Ferriss: Like football players, right?
+
+Dr. Nolan Williams: Yeah, could be football.
+
+Tim Ferriss: A lot of reported depression, who knows? There could be a lot of other factors involved, but — 
+
+Dr. Nolan Williams: Yeah, football players is another great example.
+
+Tim Ferriss: Highly correlated, yeah.
+
+Dr. Nolan Williams: And those guys know they’re going to hit their head in the game probably at some point. And so that population where it’s more of a pure TBI population, you could ask that same question that we asked in this more mixed population, which is does TBI disability improve? We saw a dramatic improvement in TBI disability at the one month mark, less actually right after it really took a while for it to work, which is — 
+
+Tim Ferriss: If you had to guess, we’re two drinks in, and I’m like, no, just give me your wild-ass guess mechanistically, what’s going on here?
+
+Dr. Nolan Williams: I mean, it’s this symphony, right? Which is sounds kind of like maybe even hokey or a little less direct, but I just think that there’s something about interacting somehow with multiple different neurotransmitter systems at the same time that must produce this. I mean, maybe the GDNF, BDNF alone could do this. I’m not saying it can’t, but I suspect that it’s some more complex process. And the problem is we don’t have great tools to evaluate that, but sometimes nature trumps our human scientific abilities. And I think that ibogaine certainly is there in 2023, it’s like the story of scurvy. We associated eventually after a bunch of weird stuff, we eventually associated eating oranges with improvement in scurvy, but it took us another a hundred years to synthesize vitamin C. And so I think what’s so hard about this scientifically, and to get the scientific community fully on board with these ideas, is that we’re likely going to figure out this works before we have any idea on how it works.
+
+Your second question, which is, I’m going to answer it the same way, is that we don’t, but it’s very unique to ibogaine, and you can take somebody who’s going through florid opioid withdrawals and you can have them not only have a cessation or stopping of a desire to go take more heroin or prescription opiates or whatever it is, but you can have them basically blunt or completely attenuate the physical withdrawal symptoms of withdrawing from opiate use from opiates, right? Which is diarrhea, like, headache, sweating, all this stuff that people will go through when they’re going into opiate withdrawals. And this seems to really knock that out.
+
+It’s likely, again, that because it’s interacting with the opioid receptors, it’s interacting with the glutamate system, but it is, to my knowledge, none of the other psychedelics can do that, ketamine can’t really do that, so this is a pretty unique thing to ibogaine that it can pull this off and why I think it’s such an important drug to understand. I mean, I would argue that because of how broad ibogaine seems to work across now most of the major psychiatric diagnoses with the absence of something like schizophrenia, but anxiety, depression. There’s traumatic brain injury, multiple different addiction types. It’s going to behoove the scientific community to really break down why it does what it does over the next couple of decades, I think, and try to really back engineer what it is, but, yeah, we have no idea.
+
+Tim Ferriss: Outside of the lab and more in the wild, what are some of the more interesting things happening related to ibogaine and iboga? I believe there’s something happening in Kentucky?
+
+Dr. Nolan Williams: Yeah. Yeah, so I’ve been down to Kentucky to testify in front of the Opiate Abatement Commission of Kentucky. It was myself along with Srini Rao from Atai, Deborah Mash, who’s the CEO of DemeRx, was at the University of Miami for a while, and Ken Alper, who was at NYU and is an academic private practice psychiatrist. And so there’s a guy by the name of Bryan Hubbard, which, he’s a very interesting guy. He’s an attorney by training who has worked in a bunch of different domains within Kentucky State government and whatnot. And he, for one reason or another, has become completely convinced that the money that ended up being some of the lawsuit money for some of the opiate overprescription that happened, particularly in Kentucky and West Virginia, but all over the country, should be utilized for novel therapeutics and not just for more of the same sort of treatments that we have available.
+
+The conventional treatments that are available for opiate-use disorder fall under the realm of what we think about as replacement therapy. You’re replacing a higher-risk opiate with a lower-risk opiate, so that’s Suboxone, which contains buprenorphine and methadone, or opiate-blocking drugs like Naltrexone. There’s a fairly high fail rate on those drugs. Part of it is psychosocial. We put people in the right environment. You could probably drive up the rates of that. There’s also a prescription issue. You used to have to have a special FDA license to prescribe it. I used to have this thing and then recently that was knocked out. So everybody with a medical license can prescribe Suboxone. And so there’s kind of a group of drugs that can do some work on this, but there’s certainly folks that we would think about as treatment-resistant opiate-use disorder patients. And the numbers I’m not going to get into because debated or whatever, but whatever those numbers are, it’s a good chunk of folks and they don’t really have much to offer.
+
+And so people have thought about lots of different options for them. And one of the options is brain surgery. So in West Virginia, a group of neurosurgeons are actually doing full on, so there’s a surgical form of neuromodulation called deep brain stimulation where you can actually put an implanted device into the reward system. And also kind of similar to some of these Wegovy kind of drugs, you can drive down some of the pleasure around, and this is more theoretical at this point, but opiate-use, opiates as well as there’s some data out of a couple of different studies with even weight loss for stimulating in the reward circuitry. What’s interesting is that there’s a one-in-100 risk of a head bleed from that treatment, and about a third of them end up, it ends up being a pretty significant head bleed, right?
+
+Tim Ferriss: Yeah.
+
+Dr. Nolan Williams: And so what’s really interesting is you have no one in West Virginia organizing all these hearings about it. It’s just happening. They’re letting people do the science and all that stuff. And I don’t disagree with doing that, by the way. I think it’s a useful thing to explore, and it may be a solution for this, and this is, as we described earlier, such a high-risk phenomenon that a one-in-300 risk is not as bad.
+
+Tim Ferriss: Is it one-in-300 or one-in-100?
+
+Dr. Nolan Williams: One-in-100 risk of a DBS.
+
+Tim Ferriss: Of a head bleed.
+
+Dr. Nolan Williams: It can be a trivial, just blood on the tip of the electrode, which is asymptomatic. About a third of those people are going to be in a more, they’ll have a complication, have a real complication, and then you’ve got about a one-in-300 risk of a torsades risk with ibogaine. And so next door in Kentucky — 
+
+Tim Ferriss: Similar odds. Yeah.
+
+Dr. Nolan Williams: Yeah. You’ve got a similar odd concern, both of which can be kind of dealt with in the hospital. I’d argue that the ibogaine risk is probably a little less actually than the DBS risk if you just kind of look at everything. And when they’re having these significant hearings, there’s a lot of opinions about this and a lot of 
+
+Tim Ferriss: Shocker!
+
+Dr. Nolan Williams: Right? And I’m one of the few people that does all this stuff, so I can kind of, and you juxtapose this — 
+
+Tim Ferriss: That’s part of the reason why we’re having this conversation, because you bridge a bunch of interesting, often separate worlds. So anyway.
+
+Dr. Nolan Williams: Yeah. Thanks, man. Yeah. Yeah. So I went down there and there were a million questions about the cardiac risk and about whether or not this should be done and particularly should state funds be funding this, and there are various opinions about that. My opinion and the reason why I was willing to go down there and support the effort is there are a subpopulation of people in which Suboxone, naltrexone, and methadone don’t work, and we need to spend some money on trying to help those people.
+
+Tim Ferriss: Also working is quote-unquote “working,” has different outcomes if you’re talking about sction therapies as well, right?
+
+Dr. Nolan Williams: That’s right.
+
+Tim Ferriss: Anyway.
+
+Dr. Nolan Williams: Yeah, no, I think you’re totally right. I think there’s, yeah, it’s totally, yeah, is living — 
+
+Tim Ferriss: Replacement.
+
+Dr. Nolan Williams: Yeah, replacement. On opiates, if you’re having to do this your whole life, I mean, it’s tricky. You lose your prescription in a flight to wherever and then now you’re in a really bad place. And so this idea of instead of replacement or substitution or whatever, interruption, which is what ibogaine is going to do, and I think at some level what DBS is going to do too, it’s going to interrupt that system, that circuit that’s driving the seeking behavior and be able to reorganize the brain, such the person approaches the problem in a different way is a promise that I think everybody wants to see. I think the interesting part about this whole phenomenon down there is from the folks that are opposed to this is this view that one, the current treatments are fine or whatever, and then two, that how could it be that this extract from a root in an African country somehow be something that can do what modern humans and pharma can’t do? And it goes back to what I think is a pretty hubristic part of the human psyche, which is that I need to start the fire, I need to hammer the wheel, I need to, and I think at some level — 
+
+Tim Ferriss: The sort of “not invented here” kind of thing.
+
+Dr. Nolan Williams: Yeah. Yeah, right? And I think the idea that somehow this just exists, it goes around the psyche in a way that doesn’t really work. And we saw this with scurvy too, right? I’ve spent a lot of time studying scurvy because I am very interested in this human phenomenon. There were people called anti-fruiters. I’m not kidding you, it’s a real term. And they were in the royal societies in the 1750s. And so we knew from 1498 that folks that were going around the Horn of Africa and going to Asia that way, they’d plant citrus trees all the way there. So we were doing this and at some point, scurvy got worse and all that. And people said, “There’s literally no way that these fruits could be the solution for this. Humans have to solve this. And actually the fruits are probably what’s making it worse.”
+
+So James Lind ran the first clinical trial in the history of humans on scurvy and citrus fruit where he gave all these various weird concoctions like poisons, and they were trying to give people cyanide. They were trying to give people alcohol mixed with acid. This is what they, and so he randomized people on a ship with scurvy to these various things in citrus fruit. And what happened was the citrus fruit receiving people at the end of the week were taking care of everybody else, but it took another a hundred years. And I think this is meta phenomenon of people need to feel like they made it in that culture within that context that this is the latest and greatest thing. It needs to be kind of very proximal in time. It needs to be new, it’s got to be the new thing to be the solution.
+
+And I think that’s part of what’s going on in Kentucky from my view of it. If you look at West Virginia and you just look at the actual information of what’s going on, you’d probably be more likely to cause, and I don’t think that people should, but question the brain surgery thing, if you really get down to it over the ibogaine thing, just on the risk portfolio and having to have an implanted device for the rest of your life. But nobody, there’s nothing there. And it’s because we’re making this. Western society is making this really innovative new treatment that requires a brain surgery and dah, dah, dah. And that’s totally cool from their perspective. And I think that we’ve got to, as a culture and as a scientific community, really change the way that we think about evaluating tests and particularly therapies and look at the inherent scientific complexity and not the temporal proximity and the fact that we made it or whatever, and those sorts of things that I think drive people to have these misconceptions. So yeah, Kentucky’s really interesting, and it’s really an argument about whether or not some of this money should be earmarked and whether or not it should be studied. I think both of those things are a, “Yes, we should be.” It’s the best candidate that we know about and the risks are mitigatable and similar to DBS.
+
+Tim Ferriss: So many facets to this, like insurance reimbursement, scaling, therapists availability, or I should say more medical availability for the duration of stay that would be required with ibogaine versus, there’s so many facets to all of this in terms of, say, getting to patient 10,000, whether it’s this DBS implant surgery or ibogaine, there’s so many levels of nuance, but at the basic science level and the further research that if, I mean, who am I to say? But it seems like the cost and severity and prevalence of the problem is such that the answer is of course, yes.
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: Of course it’s yes. I do want to ask you about synthesis specifically, really diving in because I’m always fascinated by rate-limiting steps and also unintended consequences of using different compounds that occur in nature. But before we get there, I want to very selfishly throw a wild card question around IRBs and funding studies and getting ethical approvals because I would love to see more studies on extended fasts in humans, but to my knowledge, those basically got taken off of the table if I wanted to try to make the case and fund some science related to extended fasts in humans. Any suggestions?
+
+Dr. Nolan Williams: Yeah, I mean I think everything’s studiable if the risk benefit ratio is on the right side of things. I don’t think there’s any, I mean at least at Stanford, I think that’s the evaluation is extended fasts in normal healthy controls. That would be, but I think if you can make an argument for some sort of medical psychiatric, whatever it is, condition that you think that the benefit of doing that significantly outweighs the risk.
+
+Tim Ferriss: I think I can make that case.
+
+Dr. Nolan Williams: Then I think you can do it. And so it really is just that, right? It’s this ethical, and I agree with it, right? It’s this ethical justification that we’re going to be able to do more good by trying to do something like this than to do harm. I mean, if people, a study that would never go through any IRB is we’re going to randomize people to no motorcycle helmet or motorcycle helmet and have them do laps around the university. We pretty much know the answer to that question and the benefit of knowing in a randomized control trial way, the benefit of the answer to that question does not outweigh the risk at the individual patient or participant level of participating in a trial like that. So that trial would never get done. And so I think that’s the way that we have to look at it. So if you’ve got a reason, your reason is you think that there’s going to be some effect on coronary artery disease or something like that, or —
+
+Tim Ferriss: Yeah, I think there are a couple of different approaches I could take just in case there’s anyone listening who wants to do this. And there are extended people study fasting in animals all the time, but it’s for whatever set of reasons at some point it seems to have been taken off the table for human subjects. I mean there is research done, I want to say up until maybe the ’40s and ’50s, but then it kind of vanished. And I’m very interested in if I had to make the case, I would probably make some type of case around what Chris Palmer at Harvard and other people have called metabolic psychiatry. So to look at this almost like the accelerated TMS equivalent of a ketogenic diet for certain psychiatric conditions, because you see some incredible results, and Chris has been on the podcast with, say, ketogenic diet as applied to conditions like schizophrenia, for instance.
+
+I mean remarkable transformations where people get off of half a dozen or dozen medications. And you, I am interested in practical solutions and especially things that are uncrowded from the perspective of scientific support, which for a while has been psychedelics, but certainly accelerated TMS. I’m agnostic when it comes to the tools and I think I’d probably make the metabolic psychiatry argument, but the fact of the matter is I also feel like it’s been so long since we applied modern tools and tracking of biomarkers and so on, everything that we have at hand now to human fasting, that may not be the argument that I would use, but certainly there is that. Okay.
+
+Dr. Nolan Williams: Yeah, absolutely.
+
+Tim Ferriss: So synthesis, there’s a great piece that came out in National Geographic not too long ago by journalist named Rachel Nuwer, I think I’m getting the last name right? N-U-W-E-R. She also has a great book on MDMA and MDMA-assisted psychotherapy, the history and implications that recently came out and she traveled to, I think it was Gabon, although I think there is also, I think you can also find iboga in Cameroon if I’m not mistaken.
+
+And she went on the ground to look at all the implications of global demand for ibogaine and iboga and it’s very, very nuanced, but it seems clear, and I wrote a piece a long time ago on my blog, which was a letter to users of psychedelics, like a plea for a more ethical menu of options, something like that to just point out some of the diminishing natural supplies for say, peyote, right? Almost certainly going to go extinct, use something else, use San Pedro cactus, look at the growth cycles. Just don’t touch it unless you’re part of a culture that has this as an integral part of tradition and healing as would be the case for say, people who are in the Native American Church and so on. But iboga, ibogaine can be had in, I guess, a number of different ways. Maybe you could speak to the known options and then looking forward what some of the most interesting options are for whether it’s extraction or synthesis.
+
+Dr. Nolan Williams: And so there’s kind of the straight extract out of the iboga tree as you’re pointing out, and that one’s probably a pretty big ethical issue because what’s happening, and I think that that National Geographic article really reflect this is that there’s such a global demand that it drives the prices up in the peoples that take ibogaine, iboga and in Gabon in surrounding countries no longer can access it because of the high cost, which is the last thing that you want to have happen. That’s the thing that everybody I think should be trying to avoid first. And so what else can you do? So another way to do this is that there’s another tree in Ghana and other places in Africa that has voacangine, the Voacanga africana tree, and it has voacangine, which is a very similar but not identical alkaloid to ibogaine. It’s actually not even a controlled substance. So voacangine is not on the controlled substances list, and it’s not as much of an issue. There’s not really a current medicinal usage of voacangine or utilization of that within those cultures that have these trees.
+
+Tim Ferriss: It’s also more commercially cultivated, if I’m not mistaken, for maybe fragrances or something. I can’t recall the commercial use.
+
+Dr. Nolan Williams: Yeah, and it’s pretty ubiquitous too. I mean, I’ve heard that it’s not just in Africa, it’s in some of Central and South America, and so you can extract the voacangine and then you can do this simple chemical step to get it to ibogaine. So to do a synthesis pathway of ibogaine from de novo, it’s like 26 plus steps or something like that. But this is the last step before it’s ibogaine from voacangine, and so it’s really pretty straightforward to do that, but you’re still talking about a botanical, right? You’re still talking about essentially growing a plant to derive a chemical out of the plant. So the other way to think about it is you do a full chemical synthesis and people have looked at that and tried to do it. It’s very hard to though, because ibogaine has two chiral centers, so it has the potential for four stereoisomers, and that chemistry is complicated. And so full synthesis is a tricky process.
+
+My suspicion is that whether it be biosynthesis or straight full synthesis, but there’s got to be a way to make this that avoids trees eventually. I think it’s better for the environment. It’s going to be more scalable, is going to be something that standard pharma is going to want to see happen, to really be able to use it. But there’s still some time to get from A to B as far as that goes. So I think it’s not a done deal. It’s not completely figured out yet.
+
+Tim Ferriss: So bridging from that, I mean, this is actually a completely separate question, but also raises some sustainability, ethical questions, 5-MeO-DMT. So five methoxy DMT. So first of all, I would really implore people, I’ll link to this in the show notes as well, read the blog post that I put together. So the 5-MeO-DMT, I mean it’s present in quite a few different plants, different nuts. Most people who have heard it in the zeitgeist to know it within the context of Bufo alvarius, there are other scientific names for this toad, the Sonoran Desert Toad. And that has turned into a huge mess in terms of cartel harvesting and over harvesting from these poor toads. It can be synthesized. There are ways to synthesize that. Hamilton Morris has beat the drum about this. To his credit, there is no, people are not going to like this, but there is no documented indigenous use of the Sonoran Desert Toad, Ken Nelson, look it up, in the ’80s, produced a pamphlet after testing God knows how many things.
+
+Brilliant amateur biochemist. But nonetheless, it is very, very, it is interesting and appealing on a whole number of levels. A lot of people are trying to commercialize it because at least in Earth time, it is a short experience. So that’s going to 10 to 20 minutes, 10 to 15 minutes. So from a business model perspective, I understand the appeal much like I understand the appeal of the newly branded psychoplastogens, right? Psychedelics with the content/mind-altering aspects as removed as possible. We might come back to that, but my question related to this is not so much on the production side because people can read about that separately. And I think it’s important for people to read about. It’s more of practical use following IGA administration, I believe I’ve heard people describe its use on what some people call the gray day following administration. Could you speak to this, because I’m trying to discern for myself how important or critical it is from a therapeutic outcomes perspective versus being a business differentiator? Does that make sense? This is something we put a nice set of icing on top of the cake and that includes this what can often be a sublime experience, not always for people, it can be destabilizing for some folks, but in the form of 5-MeO-DMT. So what’s your take on this?
+
+Dr. Nolan Williams: Yeah, I mean, so we specifically made sure that folks weren’t getting a second kind of confounding drug on top of the ibogaine to figure out what the ibogaine effects were in isolation. And as I described earlier, we had extremely remarkable effects in the absence of doing the 5-MeO. I think what people say about this, the 5-MeO, is that it just takes the edge, at minimum it just seems to take the edge off the gray day, which is a day that happens for not everybody that takes ibogaine, but a fair percentage of people such that there’s a name for it, where people for some reason end up having kind of a bad day in and around like day two, three, where they really have a hard time and then it goes away the next day.
+
+Tim Ferriss: Hard time meaning depressive symptoms — 
+
+Dr. Nolan Williams: For some people.
+
+Tim Ferriss: What is hard? Okay, what makes it hard?
+
+Dr. Nolan Williams: Anxiety.
+
+Tim Ferriss: Anxiety.
+
+Dr. Nolan Williams: Yeah, like anhedonia, low motivation, sadness. I think probably what’s going on is there was a serious kind of flooding of your CNS with a whole host of effects from this drug, and then the brain’s then kind of reacting to that, and then it seems to rebound out on its own without the 5-MeO. But it sounds like, from what I’ve heard, the 5-MeO bridges people out of that, so they don’t have to really have to experience that feeling. Now the question would be, does it do something else beyond that that’s useful? And we have no idea. I suppose what we could have done, or maybe what we could do in a subsequent study is to just randomize people to getting no 5-MeO after or 5-MeO. And we could actually answer that question. Does it have an effect on the long-term? It’s hard because there’s a floor effect of just the profound improvements that we saw just from ibogaine. So you’d have to, my guess is that the statistics would tell you that you have to do a pretty large sample to be able to see something if it’s there with 5-MeO just because everybody’s flooring out just with ibogaine.
+
+Tim Ferriss: When you say flooring out, does that mean that the amplitude of the effect is so great that, just in terms of seeing a large percentage improvement over the ibogaine, you’d need to see something great?
+
+Dr. Nolan Williams: Exactly.
+
+Tim Ferriss: What do you mean by flooring out?
+
+Dr. Nolan Williams: Yeah, yeah. So essentially we’re seeing people drop down within that normal range.
+
+Tim Ferriss: On the assessments.
+
+Dr. Nolan Williams: On the assessments. So you’d need to see — and people are going into the range of a score of five, six, something like that on various scales. The PTSD scales, the depression scales between the normal range, and so you’d have to zero people out with a 5-MeO, essentially. Or the other thing that it may do, which nobody knows probably, is whether or not it makes some of these folks who were, and you’ll see in the paper, there are a couple of people that relapsed at the month mark. Maybe it helps the durability on some people. It could do those things.
+
+So I’m not saying that it doesn’t have a benefit. It would be a hard study to deal with, and I think from a purist, I want to see this go through the FDA and kind do the FDA things and see if we can get the first drug through the process. I don’t want to say it’s a distraction from a US scientific regulatory strategy standpoint, but it’s definitely something that would add complexity. So I think at the level of clinics, they’re doing this in Mexico and they have free-range to use these substances. I don’t think it’s, on the face of it, like a terrible thing to do. I think it makes sense why they’re doing it.
+
+Tim Ferriss: Do you really think that? I guess just to push on that a little bit, I’m like, okay, so people have a hard day, but it’s known that this is a phenomenon so they could prep people for the possibility that they would experience this hard day if they’re not somehow edging into dangerous territory where they’re likely to self-harm. 5-MeO-DMT, I have some experience with it. I understand the appeal, it’s like satcitananda, et cetera, but it’s not risk-free.
+
+Dr. Nolan Williams: Well, you’re strapping yourself to a rocket.
+
+Tim Ferriss: Yeah. That is a big, big gun, right?
+
+Dr. Nolan Williams: Yeah.
+
+Tim Ferriss: Which is not to malign anyone who is using this in a clinical setting, but it’s not risk free. I have friends who are very, very experienced psychonauts. We’re talking like a hundred plus reps with things like ayahuasca who have been pretty much even keel with their various experiments and been knocked pretty sideways for non-trivial periods of time by 5-MeO-DMT. Maybe that’s just the sample set that I’m dealing with.
+
+Dr. Nolan Williams: Yeah, it’s an interesting — and I totally agree with you. Medicine is a discipline and a profession of risk mitigation and risk benefit ratios and everything. Anybody that would proclaim themselves to be a physician scientist that doesn’t believe that isn’t seeing it as it is. Everything that I do is some sort of risk mitigation exercise where I’m looking at this thing has these risks, but this person has these inherent risks, and how do you square all that? I think to your point, it would totally make sense if the person was in such a bad place in the grade A that you were worried about them. I think there’s a justification there.
+
+It seems that they do have some general experience that this was helpful to getting folks out. The reality is that we’re really not going to know much of anything, and a lot of this is going to be in the realm of anecdote until we do the trials in the US and really thoroughly document everything that happens with this draw, with ibogaine, with fibromyalgia, which as you know, people are trying to put through trials and commercialize that.
+
+So I think there’s a moment where we’ll be able to rectify all of this and figure it out. I agree with you too that I think that where MDMA may be a substance that certainly not everybody could use, but a decently broad population-based drug that a fair amount of the population that had PTSD could go after. I think that these substances are more constrained to a smaller population where the risk benefit is right for them. So absolutely, it’s a tricky moment. I think we know just enough to be dangerous in some places, and we got to get through this just enough to be dangerous moment to the we know how to not be dangerous moment as a culture and do that with the scientific process.
+
+Tim Ferriss: Much earlier you were laying out psychiatry 1.0, 2.0, 3.0. I’d love for you to feel free to speculate, right? It’s going to be speculation, but putting aside the — I know it’s hard to do, but shepherding stuff in its simplest form, cleanest form through the FDS, etc. But what might psychiatry 4.0 look like in the sense that — for instance, something that’s on my mind, and I’ll keep it short, is as I understand it at a very primitive level, the way that some of the accelerated TMS protocols work from a hardware perspective is you’re kind hitting nodes at the exterior of the hub and triangulating in a way to hit what you’re trying to hit.
+
+But perhaps you could use, for instance, in my conversation with Nora Volkow of NIDA, she’s talking about focused ultrasound. So maybe you use that to hit the deeper structures directly. You hit the nucleus accumbens or whatever it might be. Then related to that, if we’re talking about Freud and so on, focusing on content, and then you’ve got this sort of neurotransmitter focus, oh, it’s a serotonin issue, and then now you have the electroceutical kind of structural nuance and experimentation. But it seems like these things aren’t necessarily wrong. They’re just, at least if we’re looking at the content, the molecules incomplete.
+
+Dr. Nolan Williams: It’s incomplete. That’s right.
+
+Tim Ferriss: But if you talk to a lot of these guys who go through, and gals, but a lot of these operators of men who go through the ibogaine experience, they will — and maybe there’s a visibility bias because they can’t see what the hell’s going on in their head from a chemical perspective, but they can remember the content, but a lot of people attribute the therapeutic effects to much of the content. There’s reconciliation and so on. So what might psychiatry 4.0 look like?
+
+Dr. Nolan Williams: Yeah, that’s a great question. We have a paper coming out soon where we’re actually trying to use neurostimulation to change trait hypnotizability to make people more suggestible transiently, and it’s probably an ability to zero in on specific content and manipulate that content through circuit based intervention. That’s a pure speculation, but I’ll give you an anecdotal kind of case report example. So there was a patient who got similar sort of deep brain stimulation approach that I was describing earlier that they’re looking at in West Virginia for addiction. That individual received deep brain stimulation, I think in Europe, I think for OCD. He had a normal musical taste. He listened to whatever the range of standard artists, and then he got his deep brain stimulation and he became obsessed with Johnny Cash. Totally sold all of his — 
+
+Tim Ferriss: I didn’t see that coming. All right.
+
+Dr. Nolan Williams: Yeah, totally sold all of his other albums and listened to Johnny Cash. The batteries for the brain stimulators will wear out after time and you need a new one. It’s decently common that if the person’s doing pretty well, then they will forget to come in and then all of a sudden their battery’s dead and then they’ll have a re-emergence of symptoms. So this gentleman did. So I think it was his OCD and his OCD got worse again, and he fell out of favor with Johnny Cash and threw away all of his Johnny Cash albums and started listening to whatever he was listening to before, went in and got a battery changed. The battery was put back in.
+
+Tim Ferriss: He’s like, “For fuck’s sake. I’ve got to go back to the shop and buy my Johnny Cash!”
+
+Dr. Nolan Williams: That’s what he did. So just like we don’t really understand how ibogaine works, we really don’t understand what happened there. It was a very illustrative case, and I love talking about that case because it gets into this area that I think people are really worried about right now, about specific content manipulation. I don’t think we can do that. We don’t have the tools to do that. We have these broad tools that basically change the lens of the world that you look through. I can change your brain in such a way that, for some people, they’re going to see rose color glasses where they saw blue before or whatever.
+
+Tim Ferriss: It’s like, I can give you a different set of glasses to watch the movie, but I can’t change the movie directly.
+
+Dr. Nolan Williams: You can’t change the movie directly. My suspicion is that we’re going to edge into a world where maybe we can change the movie. That’s where it starts to get both very interesting and very ethically complicated. That story about Johnny Cash, that doctor had no intention of doing that because nobody knows how to do that. Maybe they played Johnny Cash in the OR, maybe not. They didn’t report that in the case report, but there’s no clear sense of why that happened either. Is this the first song that was playing in the hospital and he woke up and his brain, the reward system just kind of attached to it or whatever? But it’s one of these things where we’re going to get to a place of sophistication. I think we’re going to be able to do that.
+
+What happens in medicine is, I see it is we are always redefining what’s illness. So it used to be that high blood pressure was 150 over 100 or something, and then it was 140 over 90 and then it’s 130 over 80, and now it’s 125 over 75 or whatever it is. It’s not that the illness has changed. It’s our definition of illness changed. So my suspicion is that as we have enough tools to be able to knock out these major mental illnesses, which were effectively end states, at the end of the day. We let the system go all the way to this kind of completely semi-functional end state where people have semi volition and they’re kind of stuck in these mindsets and these behaviors.
+
+If we can figure out what that is and we have ways of intervening sooner in that process, and we have emerging tools that can help you with this sort of content targeting manipulation sort of thing, then I think you’re going to be talking about much more specific sort of interventions. That’s very sci-fi though. It’s not something that I think there’s even a hint of. I wouldn’t even know how to tell you how to do that now. Our one shot on goal is just to move around this brain trait. We do have a study with Raag Airan where we’re actually packaging ketamine into nano particles, infusing them into through an IV into the bloodstream, and then using ultrasound to open the nano particle ketamine and drop ketamine just in the cingulate, in the area that we were talking about earlier in this case, in pain patients, because it’s easy to measure pain scales and reactivity.
+
+But what I think will be really interesting with that is if you could take that same technology and start to drop various psychedelics into specific brain regions and you can do a behavior mapping exercise, what’s necessary and sufficient to produce the clinical improvement, what’s necessary and sufficient to produce the trip. I think that’s going to be way more important than modifying the molecules, because it’s like a confound. We’re not really answering the question of does tripless ibogaine work? Because it’s not ibogaine. It’s just some other thing.
+
+Tim Ferriss: Right.
+
+Dr. Nolan Williams: But what we really want to know is does tripless ibogaine work because we just put it in the amygdala or just into the cingulate or something like that? That in isolation isn’t sufficient to produce the trip, but it’s sufficient to produce a therapeutic effect. I think if we can pull that off, we’re going to start next year on that, that’s going to be super cool because it’s going to give us the ability to have more of these questions. You could even think about it if you had a long-acting anesthetic where you had somebody with pretty pronounced psychosis, schizophrenia symptoms coming in, and you’re able to shut down their amygdala for a couple of days with an anesthetic just in the amygdala and nowhere else.
+
+They’re totally awake, they’re still with you, but their fear response or into the cingulate, their kind of salience of the environment response, goes down because you’re able to kind of temporarily shut it off, but you’re not having to give a whole body whole brain anesthetic where you’re putting somebody into a medical coma or something. You’re just shutting down this one area. So it’s an interesting — 
+
+Tim Ferriss: Which you could potentially do through neuromodulation and not pharmaceutical, right?
+
+Dr. Nolan Williams: You can, but even with — so people have tried to do that with deep brain stimulation. You can actually do a jamming signal in certain areas and shut it down too. But it ends up being — and that may be the long-term solution, you’re using drugs like focal drugs to test it. It’s a commitment. It’s not something you do in an emergency, but you could in theory do this in the ER. You could take somebody that was acutely psychotic, you could put an anesthetic that could shut down that system for transiently for a couple of days, and you could get them more on board with thinking about what the long-term solution is when the fear system isn’t in place as much. All total speculation. It’s not something I have any direct data to support, but it’s definitely interesting.
+
+Tim Ferriss: Let’s push it into a little bit more sci-fi because it’s fun. Also a lot of things that start in sci-fi end up in sci.
+
+Dr. Nolan Williams: Right, true.
+
+Tim Ferriss: So to speak. You look at Snow Crash by Neal Stephenson and he’s very good. There are many, many examples, but do you think you could change handedness, hand dominance?
+
+Dr. Nolan Williams: That one would be hard. I think it’s possible to do that at childhood. We do do this in stroke. We do this constraint therapy sort of stuff where you actually constrain — if you have a big stroke where you have on one side of the brain, you have a pretty devastating stroke where people can’t move their arm and all that good stuff, or they have minimal movement of their arm and then they have an intact side, that’s totally fine. You actually constrain the intact side and force the person to use the affected side to drink water or to write or whatever. What you’re trying to do is to reorganize the neural system in such a way to where there’s more cross-functional attribution of that side. So we have some evidence there’s ways to do that.
+
+There’s kids who need corpus callosotomies in various different, pretty significant, like, say, epilepsy surgeries when they’re really, really young, like one year old, two years old, three years old, whatever. When you look at those cases, it can lose a pretty substantial part of their brain from whatever surgery they needed to deal with their problem or if they had a trauma or whatever. They can reorganize the system to be able to reallocate resources to be able to do bilateral sort of functions. So it’s mostly that the brain gets fixed. The interesting thing about this idea of critical periods and whether or not, and maybe what ibogaine is doing and whether or not you can make a more plastic brain is this idea that if you could bring the brain to a more juvenile state, then you could probably neuro-rehab it better. That’s going to be, I think one of the questions that’ll come out of the data that we’re going to present is how far can this go?
+
+We saw people go from mild to moderate TBI disability to not on average, which is awesome and never heard of. But if you keep pushing on that, how far could you go with something like that? That’s going to be a question that I don’t have an answer for, but at least there’s a signal there to look. That’s kind of part of what I like about the general work that I try to do is I like to be relatively disrupting and I like to be in spaces where nobody else is working. I start to not like it when everybody’s doing it. So I’m like always now, “Where am I going?” I’m always looking for the thing where nobody’s really in that space studying it. I always like it when people think — if people think it’s really weird, it’s a positive signal that I need to do it kind of thing. So I think certainly this area of using psychedelic drugs to try to treat neuro deficits is not something that a whole lot of people are really looking into right now. So it’s pretty curious and hopefully we can ask some of those questions.
+
+Tim Ferriss: One aspect of the accelerated TMS in terms of — case reports may be too strong word — anecdotal reports that I found interesting, is it seems like some folks report increased visual acuity or color contrast. I found that very interesting for a few reasons. Number one is that it’s very commonly reported, say if you’re on lower doses or higher doses, but let’s just say low to moderate doses of certain psychedelics. It’s sort of like the dial on your HD visual perception is set forward a few clicks.
+
+Dr. Nolan Williams: Yep.
+
+Tim Ferriss: The flowers sparkle just a little bit more. You notice details you would otherwise not notice. The reason I’m bringing this up, that raises a lot of questions, but I’m bringing that up specifically because there are athletes who have talked about the performance enhancing benefits of some types of psychedelic use. I think Aaron Rodgers would be one example of this, although I don’t want to say it’s sort of in session use. It’s I think more longer term implications. However, there are people, certainly I know athletes who have used these things to enhance their perceptual faculties, which then leads me to wonder and almost assume that neuromodulation will be used as a very hard to detect means of performance enhancement in sports.
+
+It’s hard for me to see how that would not be the case with people who are willing to. I think there was some type of poll done at one point. It’s like, would you be willing to take a drug that would guarantee you to get a gold medal, but it would reduce your lifespan by five or 10 years? The answer for this thing could be all made up, who knows? But I remember the report supposedly indicating that the yes answer was very, very high percentage of respondents. So if they’re looking at something that has a lower risk profile and is basically going to be impossible for the world anti-doping association to track, why wouldn’t they try it?
+
+Dr. Nolan Williams: Absolutely. I’ll tell you, we’ve had a number of patients who’ve gone through and they remitted really early, so they lost all their symptoms really early in the week. So day one or two. Then by day three, they’ve zeroed out. Then Thursday, day four or five, they’re coming in and they’re saying, “You know what?” I remember this one guy, he was like, “I was driving by the beach and I saw the sun setting or whatever it was, and I wanted to stop and, for whatever reason, just sit on the beach, and I don’t normally do that.” Then he described how he was completely present in the present moment and able to just be there and present and was watching the water for an hour. He said, “I’ve never been able to do that before, but I used to do these mindfulness courses that I couldn’t understand, and it fell a lot like that. I went and found my book and it sounded like I was having this kind of totally present mindful moment.”
+
+I’ve had a ton of folks come back and tell me this. So if they remit really early and we keep treating them, we treat them through and they get to this kind of more — now that we’ve had folks come through for this and folks come through for psychedelic treatments, it looks like day three, four, five out of a psilocybin experiment where the person’s no longer having any trip, but they’re just calm and peaceful and pretty relaxed and present, and it’s very similar to that. So I think that you’re probably getting a similar or the same state there. I would assume a state where a lot of good performance can happen from you really are truly in this moment not thinking about the present or the future.
+
+I’ve had a lot of folks actually offer, and at some point we need to do this, but offer various philanthropic gifts for me to run trials on athlete performance.
+
+Tim Ferriss: I knew it. I knew it. Of course.
+
+Dr. Nolan Williams: One of our donors said to me, “I will give you the money if you will take me and all of my group of friends.”
+
+Tim Ferriss: All my post-finance guy triathlete friends.
+
+Dr. Nolan Williams: It is basically that. We cycle every morning and randomize us to sham our active stimulation before we get on the bikes and look at it. He’s like, “The reason why this is good is because we make the same exact times and everybody knows their times, and can you change this?” There’s a little bit of evidence for this. It was a paper that was published a couple of years ago where they took people and taught them to do complex motor tasks like hand tasks where it’s like tap digit 1, 3, 5, 1, 3, 5, 1, 3, 5, and then interspersed it with 2, 4, 1, 3, 5, 2, 4, like that. It’s like a complex kind of multi-step finger task.
+
+If you prime the motor learning area before you do that, you can cut the speed of acquisition in half compared to the people that had sham.
+
+Tim Ferriss: That’s non-trivial. Seems non-trivial.
+
+Dr. Nolan Williams: Yeah. So it’s interesting. There’s some really early preliminary data to suggest that you could potentially improve performance with neurostim. The thing about it is that if you could pull something — if you really could have something that people have been thinking about TMS as a treatment for insomnia, others for acute anxiety. If you could come up with something that you could kind of put the brakes on a couple of different symptomatologies and you could make — maybe it’s a TMS device, maybe it’s another technology. You can make it something you could bring home, then you’d have the ability to have this kind of full service sort of process for dealing with things.
+
+I think trying to treat depression and isolation or something like that, you’re never going to be able to scale, I think one treatment alone. But if we get to a place where we can use this for a lot of different functions and actually the hypnotizability stuff, drive people up to be able to receive information better or study better or whatever, do motor tasks better and then turn it off and flip it on to sleep mode. You had a level of more control over your brain than just your own volition. It’s your volition plus your volition to do these things, then I think it’s very interesting. It’s also very sci-fi though. We are not anywhere close to knowing we can do that yet.
+
+Tim Ferriss: Not anywhere close. Yeah, not anywhere close yet. But fun food for thought at the very least. Nolan, one more time. Where can people find your lab online?
+
+Dr. Nolan Williams: So it’s bsl.stanford.edu. It’s the Stanford Brain Stimulation Lab.
+
+Tim Ferriss: Great. Any other websites you’d like to point people to?
+
+Dr. Nolan Williams: No, I think that one’s the place to go.
+
+Tim Ferriss: That’s home base. Anything else you’d like to say before we wind to a close? Any comments? Public complaints?
+
+Dr. Nolan Williams: No, it’s been super fun. I think you’ve definitely gotten yourself quite up to speed and kind of right in the center of a lot of the pulse of this and both on the neurostim side and the — 
+
+Tim Ferriss: Psychedelic pulse.
+
+Dr. Nolan Williams: Yeah, yeah. So appreciate the knowledge coming in and your interests, and I appreciate the ability to have a conversation around these topics.
+
+Tim Ferriss: Thank you for saying that. I really have enjoyed delving into this field. You’ve been incredibly helpful as a resource and a sanity check since I get all excited about things and sometimes can fly off the rails, but it’s been so much fun to engage with this burgeoning, I think hopefully soon to be dramatically expanded, field of experimentation, especially given the remission rates and the durability. The reason I first began exploring this was I saw a friend’s family completely transformed, and the before and after was just truly unbelievable. One of the most unbelievable transformations I’ve ever seen in my life. It happened quickly. I think it was about day three. Many, many failed interventions, really critical situation, lots of self — harm, and it was just like Ctrl Z undo and back to the person they used to be. It’s been durable with, I want to say, let’s call them single day boosters, maybe once a quarter or once every six months.
+
+I think it’s now been durable, I want to say probably a year and a half, which is just phenomenal.
+
+Dr. Nolan Williams: Cool.
+
+Tim Ferriss: So I appreciate the work you do. I appreciate you being the last man standing on the scientific bachelorette, and I suspect that’ll happen again.
+
+Dr. Nolan Williams: Yeah, probably.
+
+Tim Ferriss: Thanks for taking the time for the conversation, man.
+
+Dr. Nolan Williams: Yeah, thank you.
+
+Tim Ferriss: Look forward to watching what you do in the future. And for everybody listening, we will link to everything we discussed in the show notes, including Nolan’s lab at tim.blog/podcast. Until next time, be a little bit kinder than is necessary to others and to yourself, and thanks for tuning in.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+DR. NOLAN WILLIAMS
+	
+Post navigation
+Previous Post
+PREVIOUS
+The New Frontiers of Mental Health — Dr. Nolan Williams on Brain Stimulation, Ibogaine, Rapid-Acting Tools for Depression, Enhancing Sports Performance, and More (#714)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

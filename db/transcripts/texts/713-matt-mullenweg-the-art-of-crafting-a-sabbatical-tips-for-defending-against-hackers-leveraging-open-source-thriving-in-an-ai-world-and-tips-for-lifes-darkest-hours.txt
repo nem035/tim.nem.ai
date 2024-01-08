@@ -1,0 +1,2029 @@
+https://tim.blog/2024/01/02/matt-mullenweg-2-transcript/
+
+#713: Matt Mullenweg — The Art of Crafting a Sabbatical, Tips for Defending Against Hackers, Leveraging Open Source, Thriving in an AI World, and Tips for Life’s Darkest Hours
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+JANUARY 2, 2024 BY TIM FERRISS
+The Tim Ferriss Show Trancripts: Matt Mullenweg — The Art of Crafting a Sabbatical, Tips for Defending Against Hackers, Leveraging Open Source, Thriving in an AI World, and Tips for Life’s Darkest Hours (#713)
+1 COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Matt Mullenweg (@photomatt), co-founder of the open-source publishing platform WordPress, which now powers over 40 percent of all sites on the web. He is the founder and CEO of Automattic, the company behind WordPress.com, WooCommerce, Tumblr, WPVIP, Day One, Texts, and Pocket Casts. Additionally, Matt runs Audrey Capital, an investment and research company. He has been recognized for his leadership by Forbes, Bloomberg Businessweek, Inc., TechCrunch, Fortune, Fast Company, Wired, University Philosophical Society, and Vanity Fair.
+
+Matt is from Houston, Texas, where he attended the High School for the Performing and Visual Arts and studied jazz saxophone. In his spare time, Matt is an avid photographer. He currently splits his time between Houston and San Francisco.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform. You can watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#713: Matt Mullenweg — The Art of Crafting a Sabbatical, Tips for Defending Against Hackers, Leveraging Open Source, Thriving in an AI World, and Tips for Life’s Darkest Hours
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Matthew. Matty.
+
+Matt Mullenweg: Yep.
+
+Tim Ferriss: Dr. Mullenweg.
+
+Matt Mullenweg: Not a doctor. At all.
+
+Tim Ferriss: In my heart of hearts, you’re always a doctor.
+
+Matt Mullenweg: I think in Argentina I got an honorary degree, actually.
+
+Tim Ferriss: Really?
+
+Matt Mullenweg: In that country.
+
+Tim Ferriss: I’m so jelly. Argentina. I haven’t been back in a hundred years, but we’re not here to talk about my aspirations and dreams, although, maybe.
+
+Matt Mullenweg: Yeah, I hope to hear some.
+
+Tim Ferriss: Well, we’ll dive in and out. Bob and weave. For people who don’t have context on the Argentine Dr. Mullenweg, could you give people just a snapshot?
+
+Matt Mullenweg: Sure. Matt Mullenweg, domain ma.tt, which is pretty fun.
+
+Tim Ferriss: Excellent domain.
+
+Matt Mullenweg: I got my domain at .TT sometimes. Born and raised in Houston, Texas, a few hours from here, in Austin. At the age of 19, I co-founded open source software called WordPress, which is a blogging content management system. Fast-forward 20 years, it’s been 20 years now, and runs over a third of all websites in the world. A few years after that, I co-founded or founded a company called Automattic, which is kind of like the for-profit side of commercializing things around WordPress.
+
+Tim Ferriss: Auto-Matt-ic, M-A-T-T?
+
+Matt Mullenweg: Yes. It’s like any egotistical founder, I snuck my name into the company and we started with just sort of Akismet anti-spam and wordpress.com kind of easy ways to get going with WordPress, but since have expanded to e-commerce with WooCommerce, one I’ll talk about with messaging, we’ve done a number, over 25 acquisitions, so we’re trying to be a digital Berkshire Hathaway, like a buyer of first resort for amazing things on the internet. Pretty much everything we do is open source or open web. Oh, we bought Tumblr, so we’re running Tumblr for the last few years, basically trying to — I would like future generations to grow up with a web that is more open, more free, gives more liberty, and so open source is really my life’s work, even above WordPress and anything else. I hope to work on it the rest of my life.
+
+Tim Ferriss: You are one of the rare examples, and I’m so envious of this particular sort of mental state of focus that you have, which is this clarity on what you want to do, something you could do for the rest of your life with that degree of certainty. It’s something that’s always struck me as rare and maybe not as a consequence of being rare but precious in a sense. Anyway, I’m happy for you. I don’t run across that much from a professional perspective, when someone’s like, “I want to do this for the rest of my life.”
+
+Matt Mullenweg: I think it’s because the open source freedom and liberty’s somewhat abstract, so there could be lots of things under that. In fact I just mentioned probably too many things. Some people will call me very unfocused, but you have that too. We talked about it on the last podcast around teaching, learning, education, lifelong — that’s the rest of your life. I think if you can find those principles, you can keep them and then the job might change, other things might change. I’m lucky to work at the same job because I’m probably unemployable anywhere else at this point, but it’s been a lot of fun. Oh, Automattic’s now over 1,900 people in 97 countries. We were fully remote and distributed since 2005, so we’ve been kind of early on a few of those trends, open source, distributed, et cetera.
+
+Tim Ferriss: I know we’ve talked about this before and you’ve certainly talked about it in other places, but we’re going to get into a lot of new territory, before we do that though, open source, just for people who may not have familiarity with that term, what does that mean?
+
+Matt Mullenweg: Normally when you sign up for software, you click through that license that no one ever reads. Ours actually has Easter eggs in it just to see if anyone will find them. Most of those licenses are about all the rights you don’t have. Sometimes you’re not even allowed to look at the thing and see how it works. There’s a whole right to repair movement right now where you can buy things that you’re not even allowed to repair yourself. Open source is the opposite. It’s all about almost like a bill of rights for you as the user. WordPress belongs just as much to Tim Ferriss as it does to me, which is kind of amazing. There’s rights and freedoms you have to use it for any purpose, to modify it, to see how it works, all these sorts of things that no one can take away from you.
+
+Even myself as a co-founder, or even if all the other developers got together, and we all agreed to become evil, we couldn’t take it away from you. It’s that bill of rights, those inalienable rights is the core of open source and there’s lots of examples. Wikipedia is open source applied to an encyclopedia. It used to be really bad and Encarta, Encyclopedia Britannica were way better, but then over time lots of people working together made it better and better. Why did they work on it? For free, for fun, and also because it belongs to them. WordPress has many thousands, probably tens of thousands of contributors at this point. Why do they do that? Is it Tom Sawyer painting the fence or is it the other guy?
+
+Tim Ferriss: Yeah, I need more caffeine to be on my literary references.
+
+Matt Mullenweg: We should both know that. Wow, I’m embarrassed for both of us. Tom Sawyer, and — it’ll be the first thing in the comments.
+
+Tim Ferriss: Huckleberry Finn.
+
+Matt Mullenweg: Huckleberry Finn, yeah. It’s because it actually belongs to people. Sometimes people come in and just fix one bug that’s annoying them. Or sometimes you have the pride of knowing that code you wrote is running on a third of all websites in the world, which is actually a real thrill as an engineer developer, and that’s just a lot of fun.
+
+Tim Ferriss: It’s openly collaborative in that way. Not to state the obvious, but it’s a contrast to actually this news item I saw in — “news” is probably giving it a little bit too much gravitas — but I read this story which seemed credible based on the source, I’m not going to give it too much, but this engineer joins a startup and fixes one or two bugs or develops a feature that he wanted in the product and then put in notice and that was it.
+
+Matt Mullenweg: Two weeks later, yeah. I love that story because I know so many on the spectrum of engineers that would totally do that. It’s a beautiful hack, right, where, “Oh, I’ve just got to get this fixed.” There’s actually companies I would do that. One thing I have considered is secret shopping, seeing if I could get hired by my own company under a fake identity or just something like that. It would be kind of fun.
+
+Tim Ferriss: Why would you do that?
+
+Matt Mullenweg: One, to experience the hiring process, which is difficult for me to debug. It’s set by secondhand accounts. Two, to see how my code still is.
+
+Tim Ferriss: Do companies provide mystery shopper-like services for hiring processes or no, because mystery shoppers, this would be the equivalent of, say, retail where there are companies you can hire, they send people into stores to experience the touch points and the flow or lack of flow and then to report back so you can improve your operations, and you have that for security, right? You can hire people to red team and try to exploit or defeat your security and then you get a report back and you can improve things. Does that exist for something like a hiring process?
+
+Matt Mullenweg: It probably does, but I’m a big believer in, especially executives, going and doing the work themselves. Engaging with the customers, doing customer support, trying out the product, building a website, whatever it is that your thing is. I think that’s so key.
+
+Tim Ferriss: I might be making this up, but something along the lines of two weeks of frontline service. Even if it’s a CFO or someone who’s — 
+
+Matt Mullenweg: No matter the job you’re hired for at Automattic, you start with two weeks of support, and then every single person rotates back in one week per year, and I’m running out of year, so I’m actually squeezing mine in at the very end here.
+
+If you go to wordpress.com support in the next two weeks, you might get me. I talked to executives at Salesforce, I was really impressed. They were saying they spend 50 percent of their time with customers. This was a top executive running an organization of thousands of people. I was like, wow, that’s inspiring to me. I’m probably 25 or 30 percent right now. So it really made me think, am I spending enough time with customers? Also, we might have some executives that are spending closer to zero percent time. How do we make this a cultural thing throughout the company?
+
+Tim Ferriss: You’re an enthusiastic fellow. Part of why I like spending time with you. Good vibes, lots of smiles, lots of laughs. You also find a lot of things that are interesting out at the edges and you’re an immaculate packer of bags also. For those who do not know “What’s in My Bag” every year gives the latest and greatest of Matt’s tech gadgetry and assorted doodads and doohickeys that he’s traveling with as a road warrior who travels, fair to say, most of the time. Your schedule, we’re going to get to my first planned question in a second. I recall maybe it was five months ago, six months ago, who knows, you sent me something along the lines of just in case we can overlap, here’s where I’ll be in the next year, and it was one of the most absurd, it was like a Rolling Stones tour. Are you continuing to do that in terms of travel for the next year?
+
+Matt Mullenweg: Yeah, currently. Why do I go into it? Well, it’s a global community, so one, I have a global company and a global community. Our hack for Automattic, because we’re apart most of the year, is the teams get together a couple times a year. If you’re an individual contributor, you might travel two, three times a year. But as CEO, this means that every week there’s a couple of meetups happening and I try to hit the bigger ones and sometimes the small ones too, but mostly the really big ones where there’s a couple hundred people there, but that’s happening at least once a month. Then for WordPress, there’s three major work camps per year that have thousands of people. There’s all these different — I just did State of the Word in Madrid. You just take those, you’re traveling a week out of the month already, and then you got to add in some fun.
+
+Tim Ferriss: You’re not going to die of a fun deficiency, you know how to have fun.
+
+Matt Mullenweg: Yeah, it really adds up. But, it does take more of a toll than it used to, I’ve got to be totally honest. There were years I did well over 400,000 miles and looking back I was like, I don’t know if I still have some of the energy or I’m getting more radiation in the plane. I don’t know, maybe I’m just getting older.
+
+Tim Ferriss: That does happen to people.
+
+Matt Mullenweg: 40 in a few weeks.
+
+Tim Ferriss: I know. Thank God. No more of this 30 under 30, 40 under 40 nonsense. You’ve accumulated 700 lifetimes worth of those. You mentioned gatherings and the first, I suppose, cone that we’re going to weave around on this slalom of a conversation is things that are exciting you, things you’re excited about, five or more. I enjoy this format. It’s very simple. I haven’t done it much and it’s a shame because I always have a good time doing it. Where would you like to start?
+
+Matt Mullenweg: Well, I mentioned messaging. If you look at Automattic’s history, it was like 2005. Blogging CMS, 2016 Commerce, Blue Commerce, it’s grown to over 30 billion of sales or GMV. We entered our third major area this year, which was messaging. We acquired this company called Texts. You might remember these sorts of programs, but we all have 20 different messaging apps. Texts currently takes 10 of them. It’ll take more in the future. Signal, WhatsApp, Telegram, Facebook Messenger, Instagram Messenger, Twitter DMs, all these sorts of things, some of which have terrible interfaces. It brings them into one power user app right now, desktop only because it’s all ultra secure so it doesn’t break any encryption or run anything in the cloud. It’s all on your device, which is I think very, very important.
+
+Engineers, you have a code of ethics. I think we need to build things extra secure now. It brings them all together. It’s really nice. I often acquire apps or invest in things to make up for my own deficiencies. Like investing in Calm in 2012 or whatever it was, I felt like I needed to meditate. I was so behind on messages. I’m like, “Okay, we’ve got to buy this company and make it available.”
+
+Tim Ferriss: It’s like a much more expensive version of the guy who gets hired and fixes the bugs and then leaves. Buying companies.
+
+Matt Mullenweg: A small team, really, really exciting. I’d love for you to try it, actually.
+
+Tim Ferriss: My team is using it and they love it.
+
+Matt Mullenweg: That’s right. [BLEEP] actually told me about this even before I had heard about it myself. Some credit there. 
+
+Tim Ferriss: The team’s loving it. I have used it and it is a great product. Where can people find it or learn more about it?
+
+Matt Mullenweg: Texts.com. T-E-X-T-S dot com.
+
+Tim Ferriss: Texts.com. All right. Texts.com.
+
+Matt Mullenweg: If you go on desktop and it’s a paid product right now, so 15 bucks a month, five bucks a month if you’re a student or pretend to be a student, but we’re also going to explore some different things. Mobile app is coming out next year in the early part and we’re going to explore some different pricing as well. Maybe making it free for one or two networks paid for more. That’s some very exciting stuff there.
+
+Tim Ferriss: All right, so I want to ask you a strategy question to the extent that you can discuss it. You were kind enough to spend a lot of time with me just as a friend overall, which I really appreciate, love spending time with you, and also just because disclosures are important. I am available at your beck and call, advisor with Automattic from the early days. I am fascinated by not just how you operate in the world, but how you think about the world because that’s a prerequisite for making a lot of, not necessarily contrarian because you can be a different form of sheep as a contrarian too by just doing the opposite of what everyone else does. That’s easy. But picking and choosing where you’re going to be unorthodox or approach things obliquely is more challenging.
+
+The question, and I’m going to set the table with some other examples, but the question is how you choose what you’re going to get into in terms of areas, products, et cetera, because there’s diversification, there’s lack of focus, there’s synergy, these words we can throw around. I would love to know how you think about, for instance, or thought about getting into commerce, which I think is a more obvious leap in my mind than say messaging. What I’ve observed is say in the media landscape, well the media landscape and the social media platform landscapes have collided in such a major way in the last five to 10 years where you have Amazon Studios, you’ve got Netflix, you’ve got messaging, and then video and so on that are seemingly all being pursued on some level by a lot of these large platforms. In the forms of, say WhatsApp or whatever it might be.
+
+How do you choose what to engage in next? You said some people might say, “I’m unfocused,” I don’t consider you unfocused, but there are sometimes hidden or unspoken rationales or logics behind. How do you think about what you’re going to do next?
+
+Matt Mullenweg: I do think about it for a long time. We’ve been thinking about messaging and actually making investments in this space for four or five years. I think a lot about environment and incentives. The reason there used to be these multi-messaging apps 15 years ago and they all stopped working was the networks all blocked them. There is a political environment now which I think is more conducive to being more customer and user-centric. This is our data, this is our messages, it’s all secure, it’s not breaking security or anything, so why shouldn’t we be able to run this.
+
+Tim Ferriss: Can you give an example of a network blocking these multi-message tools in the past?
+
+Matt Mullenweg: Yeah, it happened last week. There was another one called Beeper that supported iMessage and Apple decided to just shut it down. They broke it all and Beeper actually charged its users. They had to refund everyone. It’s also more subtle things they could do. They could just subtly degrade if they make it so your messages don’t go through five percent of the time, it’s not blocking you, but you’re going to stop using it.
+
+Tim Ferriss: It’s like throttling your hotel speed on Wi-Fi. So you upgrade to the premium, you’re like, “Okay, all right.”
+
+Matt Mullenweg: They don’t need to block you, which might draw attention. They can just make you a little wobbly.
+
+Tim Ferriss: More painful.
+
+Matt Mullenweg: It doesn’t take a lot of friction for people to move away, especially in messaging. The regulatory framework, both with the EU doing a lot of sometimes misguided, but also sometimes really smart, they have an act coming in called the DMA that requires some interop between messaging services. We will talk about USB-C, which I’m very excited about. Thank you EU, for forcing Apple to finally drop lightning and give us USB-C. Then in the US I think there is bipartisan, this I actually don’t agree with, but it is a reality, some extra scrutiny on big tech. I think it’s actually good for them. Again, what are their incentives? I think it’s actually really good for them to show that they’re open right now. I don’t want to fight these folks. They’ve got more money than most countries. They could squash us like a bug if they really, really wanted to, but we’re always doing things open source, user-centric, and so it’s — 
+
+Tim Ferriss: It’d be a bad look for them to try to squash.
+
+Matt Mullenweg: If you have the people on your side, I feel like that’s what truly matters in long-term. People are what, short-term, lobbying, et cetera, but long-term in the US, functioning democracy, politics is accountable to its people.
+
+Tim Ferriss: If we come back to what you said and the whole point of this format is scaffolding, and then we can deviate. We’re deviating right now. People may have noticed. Talking about a, let’s just say next, next gen or digital Berkshire Hathaway. Berkshire Hathaway could have, well, originally textiles, but they could have insurance, then they could have something that is — 
+
+Matt Mullenweg: Chocolates. 
+
+Tim Ferriss: Chocolates, right? See’s Candies, things that are completely unrelated on a face-value business level. They’re not integrated in the way that a CMS or having a gajillion blogs and websites running on your platform would combine very easily with WooCommerce, right? Those two pair very nicely. Are you thinking about, say in the case of texts.com that is a standalone in the same way that some of these Berkshire Hathaway might be a standalone?
+
+How do you think about building and acquiring in that way? Are they standalones? How much do they need to help each other or not? In the case of Berkshire, right, the insurance premiums and so on, as I understand it, provide a huge bolus of cash for all sorts of other purposes. The capital can be utilized across the family, in a sense. How do you think about, because there’s so many different ways you could rank order the priorities when looking at potential acquisitions, is it just like customer pain point, converging trend lines in terms of regulation and public sentiment and — 
+
+Matt Mullenweg: Which Berkshire navigates beautifully in highly regulated industries, including insurance, railways. How I think about it, I like to study these people. I know you love doing that too. Study high performers, that’s your thing, right?
+
+Tim Ferriss: I do that sometimes. Yeah, occasionally do that.
+
+Matt Mullenweg: I mean, Charlie Munger, rest in peace, 99 years old. Warren Buffett, I don’t know exactly. I think up there as well. I try to think if Warren Buffett and Charlie Munger were hackers in their 30s or 40s today, what would they build versus what they built in their time with the opportunities in technology afforded? I like to think they do some open source because it’s, obviously, the future. I like the Berkshire for atoms companies versus — atoms versus bits — and in the industries, they’re in — 
+
+Tim Ferriss: A-T-O-M-S.
+
+Matt Mullenweg: I think there would be a lot of coordination costs and they try to optimize for giving the companies under them as much autonomy as possible. They find great leaders and they also try to find great businesses. I think Warren Buffett said something like, “We try to find a business a monkey could run, because someday they will,” something like that. What business is so good, it would survive even bad leadership. What we do with a digital version of that is we lower coordination costs between the different products by open source. They don’t need, like For WooCommerce, to build on top of WordPress. It doesn’t need a meeting, doesn’t need to talk, doesn’t even to know the people developing WordPress. There’s open APIs, open source, there’s a plugin framework, et cetera. That removes a lot of the coordination costs that you normally get in a multi division company.
+
+Tim Ferriss: Now when you say coordination costs, are you talking about people internally, say, full-time employees? Or are you talking about the communities that surround some of these things?
+
+Matt Mullenweg: In proprietary software, if you want to integrate with something, like if I wanted to add a new feature to Mac OS or something like that, I can’t do that. Now, they have APIs, they have operating systems. Smart companies like Slack or Shopify will create marketplaces that you can extend them. However, you’re subject to their terms so they can change their mind. Remember Twitter used to have all those clients, or Facebook did too. They were like, “Oh, we don’t want this anymore. You’re all kicked off.”
+
+Tim Ferriss: Rough Tuesday.
+
+Matt Mullenweg: Don’t build on proprietary platforms. They can pull the rug and will pull the rug at any point. In open source, one, the rug can’t be pulled. Two, typically they’re ultra pluggable. You can really change every line of WordPress.
+
+Tim Ferriss: Not to interrupt, but would you mind giving a real world example of what this lowered integration cost looks like in practice?
+
+Matt Mullenweg: Yeah. Let’s talk about a company like Salesforce, which has done a ton of acquisitions. One criticism of a Salesforce or Cisco or even Google: sometimes their own products don’t integrate with each other as well. Sometimes even external things do. So even with the best acquisitions, and most acquisitions fail by the way, even when you do a really good one, maybe say YouTube, sometimes the integrations aren’t as strong. Remember when YouTube tried to do the Google+ thing?
+
+Tim Ferriss: I do.
+
+Matt Mullenweg: Every single division in Google was incentivized by how much adoption Google+ got. They really tried to push it into everything. A lot of coordination costs, maybe not as responsive to users. That was ultimately an unsuccessful push. Google’s another example. All the messaging platforms they have, you need text just to work with the five messaging platforms at Google. There’s examples like that where you get duplication, you get different incentives of executives, maybe they’re more rewarded for launching new things versus integrating things. Those are coordination costs. This comes up in economics terms where why shouldn’t everyone just be a freelancer?
+
+Well, there’s some coordination costs there. It’s nice to have people employed full-time by a company. Then you don’t need to rehire them every time. They’re not going to be poached by someone else. Maybe you have a gap in the gig and they just take another gig, that sort of thing. I feel like for us, the common platform of open source, particularly WordPress, allows us to plug things in and do acquisitions in a way that is more set up for success. We have a set of products that run directly on WordPress or get distribution from WordPress and Tumblr. That’s, I would say, our core area. There are some which are, I would call, philosophically adjacent. It’s the same philosophy. Day One is a great example. Day One doesn’t share any technology with Tumblr or WordPress, but it’s a fully encrypted local journaling app. Journaling is another word for blogging. You can use it like I do as a local blog. I posted every day for the past 200 or 300 days.
+
+Tim Ferriss: What does “local blog” mean? To the untrained ear, they’d be like, “Wait, so I have a blog that I’m publishing on my own computer? How do people see it?”
+
+Matt Mullenweg: Well, this is why people usually call it a journal. But when you think about it, like a “notes” app, like the Notes app, I don’t know, typically things are undated, right? The metadata associated with them is somewhat loose. Often the list is ordered by most recently modified. That’s kind of a UI. In a blog, it’s reverse chronological. We have a lot of metadata associated. Day One attaches a date, location, we can store the weather when you post it. All these different things that kind of make it a bit richer. When it’s local, we usually call it a journal, just because that’s the concept. Apple just launched a built-in journaling app.
+
+I call it a blog because fundamentally if you kind of look at those principles, it’s got all the same ingredients as you post a blog reverse chronological. Now why do I really like it? I prefer dated entries because I’m usually taking notes each day. Kind of like Benjamin Franklin. He would log everything he does every day. I do that as well. I love the search, I love tagging, I love all those metadata things. Help me find stuff. You can also interlink the notes, which is actually pretty cool. Not unlike a Roam Research or some of these other — Obsidian. You can interlink things.
+
+Tim Ferriss: Okay, so we took a little side alley if we come back to things that you’re excited about.
+
+Matt Mullenweg: I didn’t actually answer your question on messaging.
+
+Tim Ferriss: You did not, yes.
+
+Matt Mullenweg: So why messaging? It is not built on top of WordPress and it’s not part of our publishing kind of thing, but I do believe it is fundamental human right to have private and hopefully in the future, open source messaging. Again, I only want to work on things I feel like I can work on potentially the rest of my life. So publishing commerce and messaging, that covers a lot of human activity.
+
+Tim Ferriss: It does.
+
+Matt Mullenweg: And if you have those things truly free, I think you have a free society. And that’s also exciting to me because how do we help bend the long arc towards more freedom, more liberty across the world? And technology does that better than, I think, any sort of diplomacy or anything else that at least I could work on.
+
+Tim Ferriss: Are there any other people or companies that stand out as being aligned or philosophically adjacent with the ethos you’re describing?
+
+Matt Mullenweg: Oh, yeah. Well, one, there’s a lot more open source companies now. GitLab is a really great one led by Sid. They’re actually even more open than we are. They publish like everything and they’re a public company now, like nine or $10 billion. So that’s pretty cool to have those examples. I think Element, which is built on the Matrix ecosystem, so open source messaging, actually the competitor to text Beeper, really awesome company, I think philosophically very aligned.
+
+So what’s cool is more and more of this is happening. Also, there’s a fun trend where sometimes people who did proprietary companies and then made a ton of money off them, what they do next is often open source. So Jack Dorsey made him a ton of money off Twitter, Square. One, he’s taken Square to more of a crypto direction. He wants to enable that. And two, what’s he funding? Something called Nostr and Bluesky, which are two competing open source Twitters, which is really cool. Brian Acton, co-founder of WhatsApp. What’s he doing today? He’s running Signal, which is an open source nonprofit messaging app, which is amazing. Signal, very philosophically aligned. So Wikipedia, Mozilla, there’s a lot out there both for-profit and nonprofit.
+
+Tim Ferriss: Based on the very little I know, and you track this type of thing much more than I do, but in terms of number of users per full-time employee pre acquisition, how would you place WhatsApp? I mean, it’s — 
+
+Matt Mullenweg: The messaging apps are tops.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I think Instagram was a pretty good size with 13 or 14 when they sold. Telegram’s actually pretty amazing today. Signal is pretty small team. I’m not sure the size of the WhatsApp team now, but they were very, very small when they were acquired. It’s actually pretty incredible because messaging — there’s not really any user support. It’s all self-serve. And so those businesses can scale quite a bit with very few people and it also attracts really amazing engineer. The Texts team is incredible. And so their aspiration is to remain a sub-20, sub-30 team, even as they grow to tens of millions or hundreds of millions of users.
+
+Tim Ferriss: So how do you, as the buyer first resort, hopefully the aspiring buyer, first resort, Berkshire Hathaway, known as Automattic, how do you find these various companies or threads to pull on or how do those people find you?
+
+Matt Mullenweg: Oh, people do reach out sometimes, which is always nice. But yeah, I guess fundamentally it’s usually just driven by me as a user. I’m always trying out new products, friends recommend it. My colleagues actually, of the people we employ, they tend to be very early adopters and very digitally savvy. So I mean, that’s why we launched Bitcoin in 2012 when it was $12. I wish I could say that that was me being brilliant. No, it was one of my colleagues who was like, “Oh, this thing’s so cool, we can add support.” And I think he hacked it over a weekend, and so, all right, cool.
+
+Tim Ferriss: Amazing. I’ll tell you just a quick anecdote that I haven’t mentioned really. I don’t know, I haven’t mentioned it anywhere because why would I? But you mentioned Charlie Munger, rest in peace. I was, if I’m remembering correctly, I mean I was definitely tentatively scheduled, I think it was to interview him the next Tuesday.
+
+Matt Mullenweg: Oh, my goodness.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: He had just started doing podcasts for the first time.
+
+Tim Ferriss: Yep.
+
+Matt Mullenweg: He did the one with the Collisons, right? John Patrick — or Invest Like the Best, I think.
+
+Tim Ferriss: He did, I think it was Acquired. I can’t recall exactly.
+
+Matt Mullenweg: But we’ll link it up. It was a really great episode.
+
+Tim Ferriss: Yeah. So for people who didn’t get a chance, we’ll link to that in the show notes.
+
+Matt Mullenweg: I appreciated that when he passed, for someone who I’ve been so obsessed with for many years, when he passed, I actually had a feeling of wow, what a life well lived and so appreciative how much he’s published over the years. So even though he hadn’t done a lot of these podcasts or modern stuff, he has been doing the meetings and speeches and other things for decades now. So you don’t always have to meet your mentors. I think you talk about that as well. Sometimes it’s really great to just have the book or the speech or something like that and it can really live with you. You can grow up with it, you can reread it over the years, like rereading Siddhartha. I know you have some things that you read. Is it Zorba the Greek?
+
+Tim Ferriss: Zorba the Greek is spectacular. I think we might’ve been together.
+
+Matt Mullenweg: When you found that book.
+
+Tim Ferriss: Yeah, in Greece, when I found that book of all places, in Greece, in Santorini. And absolutely loved that book, yes. So that is one I go back to revisit. There are a lot of books I go back to revisit, Awareness by Anthony de Mello would be another one, very short, very fast. I’m increasingly a fan of rereading, that includes some fiction too, as you mentioned, Zorba the Greek. Any books you reread?
+
+Matt Mullenweg: Siddhartha.
+
+Tim Ferriss: Why? Great cover.
+
+Matt Mullenweg: Yeah, just an interesting story of enlightenment and journey and it’s actually my Twitter bio is, “I can think, I can wait, I can fast.”
+
+Tim Ferriss: That’s a great line. Something like that, yeah.
+
+Matt Mullenweg: I probably have it out of order, but I do them out of order too, so it works. What else do I like to reread? Essays for sure, Paul Graham.
+
+Tim Ferriss: Which essays?
+
+Matt Mullenweg: “Acceleration of Addictiveness” is a really good one.
+
+Tim Ferriss: I haven’t read that one.
+
+Matt Mullenweg: He has one on speed. He just published what I consider his magnum opus, apparently worked on it for a year. I think it’s called “How to Do Great Work” or something like that. Man, that one’s really good. That could be a book. Yeah, it’s interesting that there is authors now blogging essentially, publishing these essays like Slate Star Codex, Scott Alexander, Shane Parrish, Knowledge Project. There’s these writers now that really drive a lot of folks. I mean, your WordPress blog started that genre in a lot of ways, like the longer form, like super essays.
+
+Tim Ferriss: Yeah, yeah, a thousand plus blog posts, a lot of blog posts. And it’s sometimes easy for me to forget that that was essential for the entire, I don’t know if I would call it trajectory, meandering, developing “career” that I’ve had. Without the blog, it doesn’t happen. I mean the blog was started before the first book. It continued — I mean it still continues, 
+
+But I have a question for you related to blogging actually. And then ultimately led to the podcast, but without the blog, very hard to drive people to the podcast and show notes.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: So the blog was both jet fuel and bridge and connective tissue and still continues to be. I have thought a lot about next chapters for myself recently. I love doing the podcast. I plan on continuing doing the podcast. The 10th anniversary is coming up next April.
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: 10 years of, on average, 1.4 episodes per week every week. It’s been going for a long time.
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: And I wasn’t the first podcaster, nor will I be the last, but 10 years is a good stretch and it’s an opportunity to pause and reflect, think about things. And when I was doing that recently, it’s the end of the year, I noticed that often I enter a game that is new. I’m not the first participant, so I’m not at the absolute cutting edge, but I’m on the sharp edge.
+
+Matt Mullenweg: Yeah, yeah. Pretty early.
+
+Tim Ferriss: Yeah, pretty early. And then I stick around for a while and I focus on it with incredible enthusiasm and OCD.
+
+Matt Mullenweg: Ridiculous intensity.
+
+Tim Ferriss: Yeah, intensity. And then it often gets a bit crowded or saturated, and then I do something else.
+
+Matt Mullenweg: Yeah. Yeah.
+
+Tim Ferriss: So that was true a bit with the blog, but it wasn’t so much that blogging got crowded, but other opportunities surfaced. And then there was the startup investing and then that was a focus from, say, 2008 to 2015. Then I took a hiatus for a while. I took a startup vacation, took a complete break from that. That was in tandem with books, took a break from the books after The 4-Hour Chef, that’s when the podcast was started, 2014. Have done that for a while. And now I’m looking at various trends, various types of collective and individual behavior. I’m like, “Okay, there’s a lot more zero-sum behavior. Things are getting very saturated, things are much more algorithmically driven now.” So you can effectively have an attention rug pull where you’re pursuing format X and all of a sudden format X becomes invisible.
+
+That could be long-form audio. Then you get pushed to video and then you get pushed to short video, then you get pushed to clips and now you’re in reels, but you’re not appearing where you used to appear, etc, etc. And I’ve been thinking about what to do next and have posed the question to some folks, I’d be curious to get your two cents, maybe we’ll talk about it over dinner tonight is what you would find interesting for me to do next. And part of what’s baked into that is as was true with these early chapters in each of these new arenas, where do I have a particular differentiator, an ability or access or combination in some weird Venn diagram that gives me an advantage? That was true with the startups because I had the blog actually. I had the platform and the visibility through the first book, which allowed me to become an advisor with various companies and that was what enabled that as well as geographically being located in — 
+
+Matt Mullenweg: Bay Area.
+
+Tim Ferriss: Bay Area.
+
+Matt Mullenweg: Although some cool companies like Shopify or us, which were not really Bay Area companies.
+
+Tim Ferriss: That’s true, that’s true. And actually a lot of my greatest hits are from, they are from outside of the Bay Area. Being in the Bay Area created a certain high level of resonance with discussion in those communities, which then extended to places like Ottawa. What I’ve been also thinking, this is getting a little long, but I really respect your opinion on all this stuff and I know you pay close attention is that the new thing isn’t always a new thing. So for instance, I was chatting, I’m not going to name him because he probably doesn’t want to be named, but I was chatting with a friend of mine and he came back to writing.
+
+He was like, “You can write.” And he’s like, “Everyone has a TV show now, effectively.” If you want to have a podcast, you are building out a studio. And the truth of the matter is people are really good, really good. I mean there are some spectacularly well-produced, well-organized, well-researched, well-executed shows out there and it’s going to get more crowded. I mean you can use, for instance right now, you can go to ChatGPT and say, “Provide me with 10 questions in the flavor of Andrew Huberman, Tim Ferriss, Rich Roll, pick your favorite podcaster, if he or she were interviewing so-and-so,” and it will spit out questions. And they are quite good. They’re not bad.
+
+Matt Mullenweg: That’s hilarious actually.
+
+Tim Ferriss: Yeah, right. So if you have notes in front of you and you’re presentable on camera or via audio, now you’re a formidable competitor. The hurdles used to be a little higher, it used to be a little harder. So I’ve thought about going back to writing, it is very high labor. There’s a reason there’s so many podcasters in the sense when COVID hit, people could have all become writers. When the writer’s strike happened, people could have all become writers. Writing is really, really difficult, I think, so — 
+
+Matt Mullenweg: I’ll interject here if I can.
+
+Tim Ferriss: Interject.
+
+Matt Mullenweg: Also, I felt like your writing process had a lot of solitary.
+
+Tim Ferriss: Yes.
+
+Matt Mullenweg: And what I observed as you got more into podcasting, other things is you really loved the — 
+
+Tim Ferriss: The social piece.
+
+Matt Mullenweg: — social piece of it, yeah.
+
+Tim Ferriss: The interpersonal, like the direct you and I sitting across from a table in a personal piece.
+
+Matt Mullenweg: It’s more of a team doing it. Also, there’s this with the guest and — 
+
+Tim Ferriss: 100 percent.
+
+Matt Mullenweg: — that’s actually a pretty cool element of the format.
+
+Tim Ferriss: Absolutely. That’s a huge piece. You’re totally right. And I think there’s part of me that has recognized how nourishing that is for me. And I’m hesitant to go back into monk mode in the cave staring at a blank page. I don’t know, do you have any thoughts that percolate? We can certainly continue this, I’m just wondering. I mean, at the very least this is just like a confessional, which is nice.
+
+Matt Mullenweg: No, I love that. I love psychoanalyzing Tim. It’s one of my pastimes. That is a good question. And I think how you laid out how the market changes and becomes crowded is very, very true. So the thoughts that come to mind is first, also just as your friend, I would love to see you focus on things where it’s not just outcome based. Because as you talked about this, you’re like, “What about the traffic?” Those are my outcomes. So where are there things? And I think actually podcasting is true for this, where the journey itself is very rewarding for you.
+
+Tim Ferriss: Totally.
+
+Matt Mullenweg: If no one listened to this, this was still a fun afternoon.
+
+Tim Ferriss: Absolutely.
+
+Matt Mullenweg: And we’re just recording what we might do anyway, which is neat.
+
+Tim Ferriss: Best job ever.
+
+Matt Mullenweg: So I think that’s nice. So I would say, I think actually I find writing, although it can be unfun at the time, so rewarding afterwards.
+
+Tim Ferriss: Type two fun.
+
+Matt Mullenweg: Yeah, type two fun. And so I wonder as well if that’s — I’m not sure how much you’re writing right now. I know you did some fiction stuff and some comic stuff and so that’s interesting.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Those questions of creativity.
+
+Tim Ferriss: And those also, when I bleed out of nonfiction is when it gets easier for me to collaborate, which maybe is the way I go, not necessarily fiction per se, but just different formats. That would be an ability to experiment. I mean the other thing is, and I’m not going to have the right attribution, maybe it’s Neil Strauss, maybe it’s Seth Godin, but anyone who’s really been consistently productive in the sense of words on pages, the vast majority, at some point I’ve heard say, “There’s no such thing as writer’s block. It’s when your standards are too high. You just need to lower your standards until you can get out of rough draft.” And I’m of course grossly generalizing, but it’s along those lines.
+
+And so I’ve also thought, I think part of the reason that writing is so intimidating to me is I look at some of my blog posts and they’re not quite Tim Urban, God bless his soul, they’re not 50,000-word posts, but they’re long. I mean these are significant investments of time and energy. And maybe the answer is, “You know what? Just you can’t write more than four paragraphs. That’s it.”
+
+Matt Mullenweg: Some constraints.
+
+Tim Ferriss: Closer to, say, some of Seth’s shorter pieces. Even shorter, much shorter than Paul Graham. I’ll give a nod to Paul also. I have, I think, it’s “The Top Idea in Your Mind” that is one of his essays that I have bookmarked so it’s visible in my browser. There are others of course, I mean the “Maker’s Schedule, Manager’s Schedule,” or “Manager’s Schedule, Maker’s Schedule,” which I think is a perennial reminder worth paying attention to. So I’ve thought about the constraints, maybe making it shorter, but I do think to underscore what you said, the social piece is a big one.
+
+Matt Mullenweg: How do you make it social? So if I were to brainstorm about your blog, some things I’d recommend trying are like what would a really amazing comment section look like? If that were really jazzed up, maybe more like forums, maybe more like building community. You’ve experimented with events before and I think that’s actually pretty exciting. I found a lot of value because I’ve been blogging now for 20 years, and some gardening, so meaning returning to some older pieces, some of which still get traffic. And do the links work? What’s the update to it? At the top, do I link to a new thing? Does this inspire me to write a new version of this?
+
+Tim Ferriss: That’s interesting.
+
+Matt Mullenweg: Really lovely, actually. It feels like you’re creating a corpus, you’re creating a body of work that even the old stuff reflects some of your best today thinking and being able to return to the old Tim or when I return to the old Matt, it’s often sometimes surprising. I’m like, “Wow, I said this?” Sometimes I’m pleasantly surprised. Sometimes I’m like, “Ah, I was young.” But then maybe that’s a cool grist for something new.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Like, “Hey, I said this 15 years ago.” I’m like, “Wow, I’ve learned so much since then,” and maybe you’re at my 15 ago version. And here’s what changed my mind.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I guess we have a list of things to change your mind on, community and also I think multimodal formats. It’s like you’re going to take this podcast and slice it up for TikTok, Shorts, Reels, whatever you’re putting it on. I think people don’t do that enough into blog posts.
+
+Tim Ferriss: Tell me more. What does that mean? You mean converting things into blog posts or taking blog posts and turning them into other derivative –
+
+Matt Mullenweg: No, I think every podcast you do has 10 to 15 blog posts worth of stuff in it.
+
+Tim Ferriss: Oh, I agree.
+
+Matt Mullenweg: Easily.
+
+Tim Ferriss: Easily.
+
+Matt Mullenweg: And so — 
+
+Tim Ferriss: I just don’t want to — I mean, you’ve known me for a long time, so I’m going to start with my fears. Not all the amazing ways this could go, let me talk about all the terrible things that could happen. I guess what I want to be very cautious of is the siren song of high volume content farming.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Because I have seen people who are very good, they’re very smart, but they’re really video first, just churning out just an assembly line of hot dogs of content in every form, including text. So how would you think about quality assurance on that?
+
+Matt Mullenweg: We’ve actually talked about this. We brainstormed a bit on your site around if you imagined Tim.blog, almost like a Wikipedia where each guest was like a topic and that could be referred to in many episodes. And so I think that might be the antidote to this, to where the content, the transcripts, everything. How this works on blogs, it’s kind of clunky right now. I think you have a post for the show and then a post for the — 
+
+Tim Ferriss: Transcript.
+
+Matt Mullenweg: — notes script or transcript. And that should honestly be one URL, like it should be — 
+
+Tim Ferriss: It’s clunky. It’s clunky in part because it’s a lot of stuff. The show notes are very extensive.
+
+Matt Mullenweg: They’re long.
+
+Tim Ferriss: And then the transcripts are very extensive. So it turns into an enormous — it’s basically a book. It turns into a book length.
+
+Matt Mullenweg: I would love if the transcript tied to a player, video and/or audio, so you can click on it and listen. You could listen and read at the same time, sort of like a karaoke scrolling through.
+
+Tim Ferriss: I mean, I use YouTube that way with transcripts.
+
+Matt Mullenweg: Yeah, they have some cool features there. Yeah.
+
+Tim Ferriss: Surprisingly good, surprisingly good.
+
+Matt Mullenweg: I would love for everything to be linked, auto linked. So any time a book is mentioned, anytime an essay is mentioned, that goes to a page which pivots. I want to see every time Paul Graham’s been mentioned across all of your — how many episodes now?
+
+Tim Ferriss: It’s close to 700.
+
+Matt Mullenweg: Yeah. That’s interesting.
+
+Tim Ferriss: I’ve been invoking Paul Graham like Candyman, Candyman, Candyman for years now. But as of yet, we have not had a podcast conversation. Maybe someday.
+
+Matt Mullenweg: I don’t think he does that many.
+
+Tim Ferriss: He does very few. He had a conversation with Tyler Cowen.
+
+Matt Mullenweg: I love that one, it was hilarious.
+
+Tim Ferriss: Which was hilarious. Which was hilarious. And I have the utmost respect for both of those guys. Tyler is also a one of a kind. He has stylistically produced a very novel and helpful show. There is no one like Tyler, he has an inimitable style.
+
+Matt Mullenweg: The rapid-fire question.
+
+Tim Ferriss: The rapid fire, no follow-ups.
+
+Matt Mullenweg: Of different things, yeah, I’m kind of terrified about going on a show. He’s the reason I started blogging. He was a big influence.
+
+Tim Ferriss: Okay, tell me, I’m not sure I knew this, tell me more.
+
+Matt Mullenweg: Because he’s been doing Marginal Revolutions for, I think, over 20 years.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: And when I was in high school, one of the super cool things I did, you did wrestling, I did this economics competition run by the Federal Reserve Bank.
+
+Tim Ferriss: Sexy.
+
+Matt Mullenweg: I know. Let me tell you.
+
+Tim Ferriss: You must have been beating the girls off with a stick.
+
+Matt Mullenweg: Somewhat. My macroeconomic insights were not quite driving the interest I hoped for since beginning the computers and jazz and stuff. So — 
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: But we did this economics competition and it provided, it really opened a lot of opportunities for me. I got to go to Washington DC, meet Alan Greenspan.
+
+Tim Ferriss: What does it mean to have an economics competition? I mean is this econometrics mathematics competition? What are we talking about?
+
+Matt Mullenweg: Yeah, it was an interesting format. So have you heard of the FOMC, the Federal Open Market Committee?
+
+Tim Ferriss: No.
+
+Matt Mullenweg: So that is the committee of bank presidents and Federal Reserve leaders that come together to determine what’s called the Fed Funds Rate, which basically trickles down to be the interest rates.
+
+Tim Ferriss: Man, I bet a lot of people would like to be in that room, wouldn’t they? Yeah.
+
+Matt Mullenweg: It’s a pretty cool meeting.
+
+Tim Ferriss: It must be.
+
+Matt Mullenweg: And they’re basically — 
+
+Tim Ferriss: That’s like the Illuminati.
+
+Matt Mullenweg: And they’ve been doing an amazing job too. Think of all the recessions we’ve avoided and all the problems they don’t have. So it was, I think Volker who said their job is to take the punch bowl away as the party starts going and by turning up the interest rates slows down the economy. So they have a lot of levers and some new ones as well. So the first 15 minutes is we would do a mock meeting. So you would be Greenspan, I’d be Ben Bernanke, like we pretend role play the different presidents and we’d read their essays and speeches and things to try to have their style or their point of view and based on data up to when the competition started. So if new economic data was released that morning, we might incorporate it into the presentation. So do 15 minutes of that. And then the second 15 minutes is they can ask you any question about economics they want.
+
+Tim Ferriss: And do you have to still be in character or is this — 
+
+Matt Mullenweg: No, this is more that they’re quizzing you as like the five high school students. And that part was really fun because it’s a little more improvisational. I love Q and A. And Houston just weirdly ended up being one of the most competitive districts in the country. So the first year we just got creamed. By the way, I went to arts high school. So we had never won an academic competition, ever. Like, Beyoncé went there, Robert Glasper. We weren’t known for academics. But had this awesome teacher, Scott Roman, who was an economics teacher. He was like, “Hey, let’s do this.” So first year we got creamed. Second year we won Houston, won the region.
+
+Tim Ferriss: Hold on.
+
+Matt Mullenweg: And then — 
+
+Tim Ferriss: So second year they’re just like, “All right, we’re giving you guys all the roids. We’re giving you guys all the specialist top secret Chinese training programs.” How did you just go from getting creamed to winning in the second year?
+
+Matt Mullenweg: Yeah, I credit the teacher a lot.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: It was first period, so it was the same class every morning. We all picked different newspapers like Financial Times, Wall Street Journal. We’d read them every morning. We discussed things.
+
+Tim Ferriss: How old were you then at the time?
+
+Matt Mullenweg: It was high school, so it’s — 
+
+Tim Ferriss: Okay, 15, 16, 17.
+
+Matt Mullenweg: — 17, 18 probably.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Or 16, 17. He had us teach each other a lot of things and you really learn something when you have to teach it. So he’d be like, “Scott or Iram, teach about some macroeconomics concept,” and we’d rotate through that. And then a lot of practicing. We’d get together on weekends. Over the summer we went to DC as a summer program.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: But anyway, got to meet Alan Greenspan, which is pretty cool.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: The follow-up to that is the year after there was a conference hosted by the Dallas Federal Reserve Bank honoring Milton Friedman. And because one of my teammates had gone to intern for the Federal Reserve — and actually maybe Mr. Roman might’ve started consulting for them or something like that. I got an invite as a kid. At this point I haven’t done WordPress, I’m just going to University of Houston, barely passing my political science major. So I got to go to this and Tyler Cowen was there, and his blog actually was one of the big — I mentioned the newspapers, I probably learned more from Marginal Revolutions than I did from Financial Times textbooks, etc. And he has textbooks and stuff. So he was there, and this is actually, I blogged about this and so it’s on my blog, a post about meeting him. And I asked him for advice and he said, “Write every day.” And I’ve basically been doing that ever since.
+
+Tim Ferriss: That seems to have worked out.
+
+Matt Mullenweg: And it’s kind of cool also now that I can look up this history.
+
+Tim Ferriss: Okay. I’m going to do a bit of follow up on this. 
+
+Matt Mullenweg: I have 14 more things I’m excited about.
+
+Tim Ferriss: Oh, I know. I know, I know. We’re going to get to — 
+
+Matt Mullenweg: This format —
+
+Tim Ferriss: We’re going to get to the other things. Maybe I have an idea for how we’re going to do that. But with the economics competitions, you said barely passing in political science. And I know you credited the teacher and said he was an excellent teacher. But what was it about the economics, the competition, the teacher or the combination that made you give so much to that versus other classes?
+
+Matt Mullenweg: Well, at one point I got kicked off the team, which — 
+
+Tim Ferriss: You got kicked off?
+
+Matt Mullenweg: Which was, it really worked. I get it now, the psychology of it. So I think by a lot of ways you would rank things or look at strengths I definitely should have been on this five-person team. However, as actually you experienced today, I’m not always the most timely person. This was the first class of the day.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: So I was late a lot to school. And at one point this teacher kicked me off the team and I was like, “This is ridiculous. What do you mean? We’ve got to win. What’s happening?” And then he made the challenge to me. So his other thing, which was actually true, I didn’t really appreciate this until my 20s, but he was like, “You have no physical tone,” or, “You don’t…” I just thought I was a brain in a vat. It didn’t work out. And by the way, the school had no gym, we had no sports. So he was like, “To get back on the team, you need to run two miles with me,” because he was a jogger. And I think he got me a book called Body for Life or something, one of these really — 
+
+Tim Ferriss: Oh. Yeah, Bill Phillips, I think, back in the day.
+
+Matt Mullenweg: And so that was what I had to do to get back on the team. I had two months to run these two miles or whatever and I had to show up on time. So I started showing up on time. And then we did the run. By the way, I really had not trained, but I just made it through sheer force of will because when you’re 17 you could just destroy your body anyway. And so I did that and I was back on the team. We went on to win all these competitions and everything. But that was motivating to me, the harsh consequences, getting kicked off.
+
+Tim Ferriss: Getting kicked off.
+
+Matt Mullenweg: Yeah. And also my day thing at the school was jazz saxophone. And I think music, all performances can be very rigorous. You get first, second, third, fourth chair. You get ranked, you compete. I feel like that feedback loop and also the performing, so being on stage, breath control.
+
+Tim Ferriss: True with the competition as well, like the economics.
+
+Matt Mullenweg: Yeah, you have to perform.
+
+Tim Ferriss: You’re performing.
+
+Matt Mullenweg: When I look back at what set me up for business later, especially at a young age, I think it was musical theater, jazz, performance, that sort of stuff was really huge.
+
+Tim Ferriss: Amazing. So the way we got here, because I’ve learned to rewind, you were saying things should all be automatically linked. Every mention of Paul Graham in the podcast and then I mentioned Candyman, Tyler Cowen, and then we ended up where we ended up. So anything else? I want to continue to brainstorm this with you just in terms and we can continue at dinner just in terms of what experiments might look like to do things differently where I am somehow well positioned doing something that cannot be replicated the next day by a thousand people. I’m interested in trying to answer that question more kind of blue ocean versus red ocean kind of stuff. But let’s come back to your list of exciting things.
+
+Matt Mullenweg: Sure.
+
+Tim Ferriss: And why don’t we do this?
+
+Matt Mullenweg: We can go through some quickly too.
+
+Tim Ferriss: Yeah, mention a couple, this is the process I was thinking of and then we can dig in. We can sort of swoop in.
+
+Matt Mullenweg: This is a quick one, and I mentioned already USB-C. If you know me, you know how much I love cables.
+
+Tim Ferriss: You love cables.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: It’s hard for me to convey verbally how much Matt likes different kind of cables and containing the cables and organizing the cables.
+
+Matt Mullenweg: And gifting the cables.
+
+Tim Ferriss: And gifting.
+
+Matt Mullenweg: I like to give someone a good cable. They think of you every time they charge up.
+
+Tim Ferriss: It’s true. I was just using your external battery pack that you gave me for my birthday the other day and I was like, “Oh, Matt.” Yeah.
+
+Matt Mullenweg: What do you get the guy who does that has everything the coolest battery pack, because I’ve tested 20 of them. So it’s those things.
+
+Tim Ferriss: Yeah, I know you’ve put in the mileage. All right, so USB-C,
+
+Matt Mullenweg: Everything’s growing USB-C now. iPhone is USB-C, I’m down to, I think, one or two things in my life that are not USB-C and it’s glorious. So I’m very excited about that. I’m really excited about AI, honestly, it’s the programming of AI, like the prompt engineering, you can’t really call it programming.
+
+Tim Ferriss: Spellcasting. Yeah.
+
+Matt Mullenweg: It’s like casting spells. It’s ridiculous. And when you hear a good prompt like you just said, it’s like, oh, that’s so cool. And it’s kind of open source-ish in that it’s not really, I guess you could have prepared your prompts. People do, but there’s actually sites now where people buy and sell prompts.
+
+Tim Ferriss: Which is so cool. Yeah, it’s wild.
+
+Matt Mullenweg: So it’s kind of like a new form of programming coming online that, for me, is as exciting as when I first learned to program. It unlocks these superpowers and it’s also just fascinating the things you think would be easy like driving the cars turns out to be really hard. Stuff you thought would be really hard, like writing poetry like Shakespeare, it just kind of spits off in seconds.
+
+Tim Ferriss: Not hard at all.
+
+Matt Mullenweg: Turn this podcast, make it all rhyme. It could do that and that’s kind of ridiculous.
+
+Tim Ferriss: Kind of nuts. Okay, so on the AI side, this has, of course, been a topic in the zeitgeist for a bit now a lot of people are talking about AI. You, unlike me, have some technical chops and you know how to code. I would love to know if you have any controversial, there’s no emotional valence to this, right? Or maybe uncommon thoughts around AI or questions that you’re asking, things you’re looking for that maybe are not what I would get in response from a hundred people. I wouldn’t get 50 of them telling me the same thing.
+
+Matt Mullenweg: That’s hard. I don’t know what 50 people would tell you, but I’ll tell you one thing — 
+
+Tim Ferriss: You get the idea. I mean they would tell me probably what’s in the news cycle or in the media cycle. Even if it’s within the niche community of FinTech on Twitter, they would have those inputs.
+
+Matt Mullenweg: I’ll tell you what I kind of hate about it, which is that it’s gotten me addicted to Twitter again, which I’d broken.
+
+Tim Ferriss: AI?
+
+Matt Mullenweg: AI, because there’s the folks you hear of the Sam Altmans, the Greg Brockmans, etc. And there’s just as interesting and good stuff on random anonymous Twitter accounts with an anime avatar. And so it’s a little ridiculous. A lot of the top researchers have these alts, they call them, or other accounts where they’ll share more stuff and it’s redirected a lot of my reading. I follow a lot of these. Find out stuff within hours of it happening and they link to a lot of scientific papers. So this is the area I don’t understand as well. So I’ve been reading a lot of papers and learning a lot about it.
+
+Tim Ferriss: Is there a place where people can find a group or a list of these people or that’s a taboo, right?
+
+Matt Mullenweg: No, no, there probably are. I don’t publish any list. I don’t use the Twitter list function or X-list function. I think Cyan Banister might. She was very early. She was a first hundred user of ChatGPT, Midjourney.
+
+Tim Ferriss: Wow, good for her.
+
+Matt Mullenweg: Oh she’s definitely one of these people to follow. Okay, so I’ll say Cyan Banister as someone great to follow.
+
+Tim Ferriss: Cyan Banister, we’ll link to Cyan in the show notes.
+
+Matt Mullenweg: And you find one of these people that are often a portal. Roon is another one. R-O-O-N.
+
+He’s kind of famous, he also does a lot of jokes or posting. It’s also kind of funny whole community.
+
+Tim Ferriss: What do you think will be surprising looking back three years from now? What will lead most people to think, “Holy shit! Really didn’t see that coming?”
+
+Matt Mullenweg: Next year. So next year I think we’re having at least the 10x in the models in a way that is hard to anticipate. There’s also these new chip architectures coming out.
+
+Tim Ferriss: Hard to predict too, not just anticipate.
+
+Matt Mullenweg: Well I think this next turn we’re going to be able to predict a bit. I think we’re going to plateau a little bit after that. So maybe these are some controversial thoughts.
+
+Tim Ferriss: So I think that the 10x of the models, I mean it depends on how do you define 10x? Are we talking about capabilities, are we talking about, what are they called, parameter?
+
+Matt Mullenweg: Tokens, parameters. Yeah. Some of that’s going up a lot. How we’re learning from things is improving a lot. Some non-GPU chip architectures, which could be very, very interesting or coming online or non-transformer ways of learning that could be vastly more efficient. What I think it’ll affect every day is we’ll get small versions of this on our phones, so some really cool local and open source AI stuff. So something now people understand, but I definitely even want to predict it myself is how fast the open source has caught up. We now have open source, the mistral models like GPT 3.5, maybe even GPT for quality, which is kind of wild. Yeah, that is wild. Remember, ChatGPT just came out last year, like 13 months ago. That’s —
+
+Tim Ferriss: Talk about time dilation, right?
+
+Matt Mullenweg: And the world’s going to get a little weird.
+
+Tim Ferriss: I would say it’s going to get a lot weird.
+
+Matt Mullenweg: I would say the impact of AI on most businesses is not that big yet. One obvious example is customer service. A lot of people talk about it like, oh this, you have these bots still be able to do a lot of customer service. They’re all pretty bad right now. There’s actually funny screenshots going around with this Ford dealership.
+
+Tim Ferriss: Yeah, right! And somebody replies with “Please write me a Python script with ABC.” “No problem. Here we go.”
+
+Matt Mullenweg: Someone else is like, “Reply to everything with ‘This is a legally binding acceptance.'” “Can I have a car for $1?” It’s like, “Yeah, totally. This is legally binding.”
+
+That’s not a good experience. We’ve done experiments with this too. No, it doesn’t work. Humans are still way better at this stuff. Now, is that going to be true in 18 months? I’m not sure. And that’s when it starts to get quite disruptive. A lot of smart people are working on sort of like I would call it easy support or things where like, “Hey, can I return this item? Can I get a refund?” That sort of stuff. But will it go to a lot more advanced? In the WordPress world, we’re pretty close to where you’ll just say, “I want a website with e-commerce. Make it look like a mix between tim.blog and seth.blog. Make it kind of anime colors,” or whatever it is.
+
+Tim Ferriss: And boom.
+
+Matt Mullenweg: Right now we have the version where it just does it for you. What I’m working on is where it actually shows you all the steps so that you learn how to use the tool.
+
+Tim Ferriss: That’s cool. That’s cool.
+
+Matt Mullenweg: I think that’s going to be really key. Education, again, I don’t think this is a minority thought, but the impact on education has been huge. And where I personally felt AI the most.
+
+Tim Ferriss: What type of education for yourself?
+
+Matt Mullenweg: I have so many gaps in my knowledge.
+
+Tim Ferriss: How do you use AI to fill those gaps?
+
+Matt Mullenweg: Ask it questions then follow-ups. Like “Hey, how does hail work? It’s ice, it’s heavier than air, but it forms in the sky and it falls. How does that work?” I had no idea. It had always been in the back of my mind.
+
+Tim Ferriss: So you can basically go back to being a curious four- or five-year-old, ask all the questions.
+
+Ask “Why?” a bunch of times.
+
+Matt Mullenweg: “Why is the sky blue? What is going on here?”
+
+How amazing is that? And how amazing that adults get the curiosity beaten out of us. But with that childlike curiosity of actual kids coming online with these things. Wow. And Khan Academy is doing some really cool stuff, you can sort of make the chat bot so they’re safer for kids, don’t do weird stuff. I think that’s really key.
+
+Tim Ferriss: So the question I want to ask is related to kids actually. So if you had kids, or let’s just say you were talking to a young group of kids. So you’re talking to the equivalent of, say, the economics team you refer to. So let’s just say 15, 16-year-old kids, clearly smart, have some ambition, they want to do some stuff. What type of career advice might you have for them? 
+
+Because I was discussing this with a friend of mine who has a bunch of kids and he was saying, “I don’t know what to tell my kids.” He’s a technologist. And he’s like, I think lawyers, he’s like right now we’ve basically, I can’t remember the exact AI that he’s using. It’s not ChatGPT, but he’s using a legal specific AI to draft almost all of their agreements. I don’t want to dox him, so I’m not going to give too much more detail.
+
+But this guy’s very smart. He’s using that to replace a lot of at least kind of first round drafting. Now, there are many reasons to have lawyers in law firms besides just drafting. So to be clear, if you need a privatized army to inflict God knows what, then it’s a different conversation. But then you have many aspects of AI that are going to disrupt jobs. I mean they really just are, or people are going to have to bob and wave. Despite what some of our mutual friends might say about no one’s ever going to lose a job and so on. I don’t believe it. What might you advise to someone now, and they could be young or somebody who’s just thinking about a career pivot. How do you AI-proof yourself or at least put on an eight-point harness so you have some defensibility? What are your thoughts?
+
+Matt Mullenweg: Maybe this is something I changed my mind on, but it is one on my list is I used to really advocate to learn to code. These can write pretty good code now. I’ve gone back and forth. So if you’d asked me three months ago, I was like, “No, you don’t need to learn to code anymore.” Now I think I’m back to it’s worth to learn to code the same way it might be useful to learn a martial art even if you’re not going to be defending yourself every day as part of your livelihood. There’s something intrinsically good studying the humanities, etc. So I think learning to code can teach you to understand what’s going on with computers in a way that I think in the AI world will also be very useful. I would tell kids to play with this stuff a ton. The prompt engineering, the playing with it, learning how to learn something I know you’re very passionate about feels pretty timeless. And I’d probably point to that great work essay by Paul Graham. He talks a lot about ambition and how important it is.
+
+No matter what you’re doing, what’s your drive, how are you going to leave a dent in the universe or do your best trying? And I feel like that’s really, really, really important. I’m actually very optimistic about future generations. I’ll tell you something I changed my mind on.
+
+Tim Ferriss: Yeah, let’s do it.
+
+Matt Mullenweg: We’ll jump around a little bit. It’s kind of two parts. One, I used to be worried that we were going to have too many people on Earth. Read this great book Kevin Kelly recommended called Empty Planet, [which] basically says we’re not going to have enough people. Population has already peaked in most developed countries. I think the US is the only nuclear superpower with a growing population over the next 30 years.
+
+Tim Ferriss: What do you attribute that to?
+
+Matt Mullenweg: For us it’s just immigration. So if we mess that up, we’re going to lose this whole — 
+
+Tim Ferriss: Toast. 
+
+Matt Mullenweg: It’s a big competitive advantage for us when you think about when the best people in the world want to send their kids to school here and stay here. If we mess that up, I think we have some other advantage, geographic and resource wise. But yeah, that’s a really important one. I had personally chosen not to have kids. I think it was seven years ago now. I decided six years ago. It’s like I’m not going to have kids. The rest of my life sort of built my life around that. I’ve been rethinking that somewhat. Maybe it’s the ripe old age of 40.
+
+Tim Ferriss: Wow.
+
+Matt Mullenweg: Maybe it’s also knowing that we’re not going to have enough people in the world. I think also I’m a bit more optimistic about the future, especially with the AI stuff that it’s kind of exciting to think someone born today, in 18 years, what are they doing? For most of the past hundred years, you could predict a few things. There’s colleges which have been around for many hundreds of years. There’s a few things that have worked. I don’t know if in 18 years, you have a really super smart precocious kid, you’re going to want to send them to a Harvard or Princeton or any of these things. I think the world might have shifted so much that that’s just a radically different thing. That kind of makes me a little optimistic and curious about it.
+
+Tim Ferriss: What are the reasons do you have for feeling optimistic? So that’s I think a counterpoint to a lot of the dystopian narratives that people would be interested to hear more about. I mean, you’re optimistic kind of by default. Is that fair to say?
+
+Matt Mullenweg: I lean that way.
+
+Tim Ferriss: Lean optimistic to begin with.
+
+Matt Mullenweg: But I sometimes —
+
+Tim Ferriss: Is. This is a big change in the conversation that you and I have had around kids. This is my first time hearing about it.
+
+Matt Mullenweg: That’s why I told you I had some new stuff for you.
+
+Tim Ferriss: Yeah, you certainly do.
+
+Matt Mullenweg: For this as well, has just been inspired. I’ve now 13 or 15 godchildren, and so seeing some of them and being able to be in their lives a bit has been just so rewarding, so cool to see them download new information, the whole thing. I mean, this is not novel at all by the way. Every person I know as a parent has been saying this, “Matt, you don’t understand.” I’m like, okay, maybe I’m starting to get it through my thick head a little bit. Why optimistic? I know that technology is somewhat neutral or could be a double-edged sword. Could be used for good and bad. I guess I have a core assumption to my optimism, which is a fundamental goodness of human nature. And this is actually a big split. Some people think humans are the Hobbesian life is nasty, brutish, and short. Or what’s the survival stuff we read, Neil Strauss’ book.
+
+Tim Ferriss: Oh, Emergency.
+
+Matt Mullenweg: We’re two weeks of food away from everyone just going crazy. And I think growing up in Houston through hurricanes and stuff, I saw some of these disaster situations, including when there was no power and how people came together was quite inspiring. So is there evil in the world? Yes. I mean we see this with some of the autocratic leaders and things, but I would, especially of regular people, not these crazy, evil, terrible people. I would feel pretty good about being teleported to any place in the world and talking to someone. That’s kind of cool. And then especially when we figure out economic stuff and can remove some of these base level issues, survival issues, which we largely have in the developed world. And arguably even in the whole world, the blockers are typically political or these autocrats, we could feed everyone in the world easily right now.
+
+The blockers are usually political. That’s exciting. And then the final thing is just working on it. The best way to predict a future is to invent it. So there’s a way I want the web to work and I work on it and it’s worked. We got a third of the websites on this thing. That’s cool. And that’s forcing the proprietary people to open up more other stuff. You have a world view and you interview people who you want your readers and listeners to listen to because they’ll get influenced by it. I don’t think you’d bring someone on here that you thought was going to mess up their mind or head them down the —
+
+Tim Ferriss: Wrong direction. I’ve not been seduced by the dark side just yet.
+
+Matt Mullenweg: And so that’s part of changing how the world works.
+
+Tim Ferriss: Yeah, totally. And I do use the podcast for that for sure.
+
+Matt Mullenweg: And the books and everything. How many people have you met that are “My life changed somehow?” Yeah. That’s inventing the future. You’ve just been passive. That wouldn’t have been a ripple in the pond.
+
+Tim Ferriss: You know what? We can look it up and put it in the show notes. It’s not Turing, but the best way to predict the future is to invent it. Do you remember the attribution on that?
+
+Matt Mullenweg: I want to say Alan Kay.
+
+Tim Ferriss: Alan Kay. That is it. It’s Alan Kay. What a great line. And how true. What else are you excited about or have you changed your mind on? It may come back to the kids thing. I’m still in shock over this. This is amazing.
+
+Matt Mullenweg: I know. We’ll talk about it more. It’s developing. I say, I don’t know what that looks like for me if it’s traditional, non-traditional. But yeah, we just announced, I just did my State of the Word, which is the annual speech I do. It’s like State of the Union and it’s something I’m very, very excited about. Next year we’re working on, we’re calling it Data Liberation Front.
+
+So basically one reason I think proprietary services have gotten a lot more popular is they do subtle things to lock people in. Remember we talked about the messaging earlier and some of the CMS spaces like Wix don’t even provide an export. So they really, it’s like a roach motel, you’ll check in, you can’t check out. So what we’re doing with this Data Liberation Front is creating an open source directory that provides two-way like import of all this data. So whether that’s an e-commerce in another page builder, because of all these different page builders for WordPress besides Gutenberg, everything. And then once it’s in WordPress, you can get it into anything else that you want because WordPress is kind of universally supported our formats.
+
+We’re also improving the WordPress to WordPress migration format. So we have an export, but it actually isn’t great in that it doesn’t, moving the files and the plugins and everything is still a pain in the butt. So we’re going to make that really, really easy. And so my hope is by radically lowering the friction, it’ll help make the web kind of force everything to be a bit more open.
+
+Tim Ferriss: Data Liberation Front. Catchy name. So it’s in a sense, and this may be a terrible analogy, but it’s like a Google Translate for content — 
+
+Matt Mullenweg: Technology.
+
+Tim Ferriss: — management and technology. From anything to anything. And then from that next top to whatever else,
+
+Matt Mullenweg: It increases competition. This also means that if you’re in WordPress, everyone else is going to do this too. But I think this is ultimately really good for users. And when you think a lock-in like music services, how hard is it to move your playlist in between the music services? Someone actually built something for this, but yeah, that lock-in is, I think, not user friendly.
+
+Tim Ferriss: What are some other ways that you would like to see the technology world or just technologies stirred up in this way where if one person or company were to do X, it would sort of catalyze a bunch of mimicry/competition that would be ultimately better for users and humanity/fill-in-the-blank.
+
+Matt Mullenweg: We’ve talked about messaging. App stores are opening up now. There’s been some judgments against Google around billing systems and other things. A big reason I think the world’s strong proprietary in the past 15 years has been mobile platforms, which are way more locked down than desktops. Everything has to go through their app store. You can’t just run arbitrary software on your phone. You’ll be able to do more stuff like that over the next few years.
+
+Tim Ferriss: So could you just walk me through an example so I understand what you mean?
+
+Matt Mullenweg: Sure.
+
+Tim Ferriss: What it looks like and what it could look like. So currently what the issues are and then what it could look like.
+
+Matt Mullenweg: So today, every app on your phone has to go through the app store. So they go through an approval process.
+
+Sometimes Apple is slow at approving things, sometimes they kick stuff out. Tumblr got kicked out. They typically take a pretty big cut of payments. They force you to use their subscription systems and they take 15 or 30 percent of it, which breaks some business models. So that’s why for a while I think they made exceptions. But when you subscribe to Spotify or Netflix through your phone, it would cost more. If you did it on the web, because they have to pay that cut. And the exceptions they make are somewhat arbitrary. So for example, if you buy a book on Amazon, they don’t make you use their payments or take a 15 or 30 percent cut because the margins or when you order an Uber, they’re not doing that. When you’re tipping through Uber, they don’t take a cut, it just goes direct to the driver. But we added a tipping feature on Tumblr, which again, we’re not taking any money from it, it’s just money going direct between the people. And they made us charge a fee on it.
+
+Tim Ferriss: Like a surcharge.
+
+Matt Mullenweg: For a subscription. It was like a subscription thing and they made us charge a fee and it’s like, wow, if you’re charging a $6 a month subscription to your blog, that becomes four bucks a month. And then I still have to process the credit card even or do something else over that. So it just got very messy. So that’s an example.
+
+Tim Ferriss: So that’s going to change, or it might change.
+
+Matt Mullenweg: Yeah, I think so. I think regulatory pressure is going to forced them to open up. You’ve always been able to jailbreak your phone or you might sideload things using something like TestFlight and you can do testing apps.
+
+Tim Ferriss: Yeah, totally.
+
+Matt Mullenweg: But it’s not really a broad commercial thing. I’m also thinking about this for text. Texts, the multi-messaging app they might not like. So what would it look like if it’s blocked by the app stores? How can we still get it in the hands of the people?
+
+Tim Ferriss: Do you have any ideas that you can share or is that too inside?
+
+Matt Mullenweg: Well, plan A is working with the networks and just saying, “Hey, we want to support your business model. We’re not trying to change any of that. We’re just trying to provide this power user tool.” And there’s a lot of prior art for this. And email clients, you can use Gmail with Mac mail or with Superhuman or any of the other things and their business is fine. And then two, I guess carrot stick, I don’t know if we have a stick against these companies, but working with politicians, working with our user base to do petitions. I don’t know, maybe I’ll camp outside Apple’s office, do a hunger strike at One Infinity Way. I really believe in this stuff because it’s user centric.
+
+So what’s the thing that gets them to do the thing that is really right by their users? What could change? What company could change this all is Apple. And the reason I talk about them a lot isn’t because I don’t like them. I hold them in the very highest esteem. I love Apple a lot and they’re like a $3 trillion company now, but they still act like an underdog sometimes. And so I think a lot about what would a benevolence, elder statesman of Apple look like if they acted like, “Hey, we won. We have hundreds of billions dollars in bank.” There’s very little that could hurt them except hubris.
+
+Companies don’t die from competition. They usually die from suicide. And so whether it’s flying too close to the sun or trying to optimize the last penny from everything in ways that lock in users aren’t freedom promoting, I could see that hurting them majorly. So I want to see the opposite. I want to see a really vibrant Google, Apple, Microsoft, et cetera. And actually Microsoft is probably the best example of this. Used to be quite competitive, quite anti-competitive obviously, and has become quite benevolent over the past decade and one of the most amazing turnarounds and runs. Yeah.
+
+Tim Ferriss: Really remarkable.
+
+Matt Mullenweg: Embrace of open source making things super user centric. They did a lot of really cool stuff there. And I think that’s the playbook for all these big tech companies.
+
+Tim Ferriss: What are some of the lesser known tools of competition or invisible tools of competition in the sense that someone or a platform or fill in the blank larger company making say a messaging service break five percent of the time or be 10 percent slower, right? That’s an sort of invisible means of leverage. I would have to imagine there are examples of under the umbrella term of say, privacy, you could also see some really incredible competitive pressuring/crushing/fill-in-the-blank. So I’m just wondering, as someone who’s worked in technology, understands technology as an operator, an individual contributor, can code, and who also is right in the middle of the switch box, so you see a lot, you get to test a lot that is behind the scenes. What are some of the lesser known tools of sort of invisible competition?
+
+Matt Mullenweg: There’s a lot of dials. Yeah. So I’ll talk about things that are publicly known and people have been caught about versus all the secret things we did. No, I’m kidding. X/Twitter under Elon Musk got caught. Every single link you click on Twitter goes through t.co, a redirect service to certain media sites and other things. They were inserting like a five- to ten-second delay. Again, every little bit of friction, particularly on mobile.
+
+People just press the back button. They go back to the tweet list. So it’s incredible. And there’s studies around this like every a hundred milliseconds, a page takes to load, lower conversion, etc. What else has been caught? Google got caught for, they created this format called AMP, Accelerated Mobile Pages. It was designed to compete, make mobile faster. We actually supported it wholeheartedly and they did it kind of open source and everything like that. Some documents leaked that basically said that, and it’s funny, I think the people who were working on AMP didn’t even know this. I think they were actually true believers in sort of improving the web type of thing. Certainly we didn’t know this, but there was something in AMP that also blocked, I’m not going to get this right, but blocked header bidding or something basically made it harder for other advertising networks to run on these pages in a way that benefited Google. And I think Google particularly has sharp elbows around advertising stuff.
+
+Tim Ferriss: The greatest moneymaker in the history of the internet, you mean.
+
+Matt Mullenweg: I get why they, yeah. And the duopoly there of them and Facebook, them and Meta is entrenched by regulation as well. So Bill Gurley has this amazing presentation, have you seen this?
+
+Tim Ferriss: I’m not sure which one. I’ve seen a few of his presentations.
+
+Matt Mullenweg: He has a new one. It’s basically about regulatory capture. The name is a number of miles, like 27 91. And he goes through a number of examples. Whether it’s COVID test — this is one example. You go to a Walgreens or CVS here, there’s three COVID test brands and each one costs like 21.99. This is a couple of years later. In Europe, they’re like five bucks for two. And apparently the US blocks all the European manufacturers. And again, these assay tests are very basic technologies, like nothing new what’s happening there. And he kind of digs into it and oh, the regulator used to work at two of these companies. Actually that’s interesting. How does this all work? So how regulatory capture, and he tells his story of he was trying to lobby around something and then the politician was like, “Can I have a meeting?” He’s like, “Oh, yeah, I’ll come to you.” He’s like, “Wow, I’m on the West Coast.” He’s like, “No, no, I’ll come to you.” Set up a conference room and someone calls, I’m like, “Hey, we do these like a fundraiser. It’s usually like five grand a seat.” And he is like, “Okay.” Then they call him back, he gets six people together, and then they’re like, “You need a bigger room.” All of a sudden it becomes 10 people. Then the next thing was something like, “We’d love all the people who are married, for their partners to donate as well.” And he’s like, “Well, I don’t have enough seats in the room.” He’s like, “Oh, they don’t need to come to the meeting.” This is a literal story that happened to him.
+
+Tim Ferriss: Wow.
+
+Matt Mullenweg: He was fighting for something really good. It was around municipal Wi-Fi, and it was being blocked by the telecom companies. The Comcasts and Verizons of the world were blocking this. So it’s a great presentation. I would say that’s a follow-up for everyone listening.
+
+Tim Ferriss: We’ll link to that.
+
+Matt Mullenweg: I think that’s also something that companies can do. I know for a fact they hire opposition research. They publish. They sponsor academics and things to publish. This company’s tied up in China or this. It’s all happening to each other all the time. Mostly among big tech. I would say startups don’t do this at all. Medium tech doesn’t do this at all.
+
+Tim Ferriss: Well, is that because they are lawful good, to use D&D parlance, or is it just simply because they don’t have the resources?
+
+Matt Mullenweg: I would say yeah, maybe they don’t have the resources. My steel man for why the bigger companies do this is they also get attacked a lot in probably really underhanded ways. So it’s as much defense as offense. So that would be my sort of charitable interpretation of why they do some of these things.
+
+Tim Ferriss: Do you have any security or basic security or privacy or recommendations for average Joe or Jane? Well, I guess I don’t want to insult my listeners, but just somebody like me. I’m not technical, but if you were to say, “Yeah, one thing you want to be really careful about is this on personal devices and computers, just a lot of people do X. You should really do the opposite of X.”
+
+Matt Mullenweg: The easy stuff. Make sure your apps and operating system are always up-to-date. I actually get really excited. It’s one of the first things I do in the morning is load the app updates. So make yourself excited about it.
+
+Tim Ferriss: Yeah, very important with browsers like Chrome too.
+
+Matt Mullenweg: Yeah, there’s a lot of actively exploited stuff out there. Two, good passwords. Think you’ve talked about this. I like password managers, like 1Password. There’s also this new thing coming out called passkeys.
+
+Tim Ferriss: I have seen this and I don’t know what it means. So I would actually love a one-on-one.
+
+Matt Mullenweg: This is kind of a new thing for your audience. If a service supports passkeys, you should switch to it. So basically it’s a technology which eliminates passwords, use a secure key exchange, and as a user what you’ll see is that you just log in with scanning your face or something and it’s kind of built into the OS in a really secure way. It’s unique. The thing that breaks my heart is when people use the same password on multiple services. Never do that. All my passwords are super random, like 40 character. I couldn’t tell you if I wanted to, but you generate them and that’s kind of what this does in a better way.
+
+Tim Ferriss: Do you mind getting into the weeds for a second? Just on a technical level, what are we talking about? Are these kind of private keys and private messaging like PGP? Am I making that up?
+
+Matt Mullenweg: PGP stands for pretty good privacy. This is a key exchange. Yeah.
+
+Tim Ferriss: What is that? What’s actually happening? I know this is probably going to get way above my pay grade quickly, but password, I understand. Well, to the extent that I think I understand.
+
+Matt Mullenweg: This is actually, I’m not sure the exact length of the key or anything like that, but imagine it like you have a really unique super long password, maybe a couple of thousand characters that is then stored in the secure enclave on your device. So 1Password can also support these, but basically it kind of gets people to use random passwords and it creates a better UI because they’re logging in with their face or their fingerprint or something. So I’d say that’s probably the best way to describe it.
+
+What the protocol is doing is the browsers now support this as a standard, and so they do a challenge response effectively. You’ve used, like, SSH before, probably.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: You can do that with a key. So you can type in a password or you can have a public key stored on the server, which is not sensitive. Someone could have access to your public key and not get to anything. Then your private key, which is secret, and there’s a calculation done between those which says, oh, this is really Tim or the person with the key.
+
+Tim Ferriss: Got it. Okay. Passkeys to revisit. What else are you excited about, Dr. Mullenweg?
+
+Matt Mullenweg: WordCamp Asia. This is actually a joint thing.
+
+Tim Ferriss: Yes. Let’s talk about this. So this is something I am very excited about and I need to finesse some details to make sure it’s going to work, but what are we talking about?
+
+Matt Mullenweg: We’ve had some pretty epic travel adventures.
+
+Tim Ferriss: We’ve had some great — 
+
+Matt Mullenweg: It’s been a while.
+
+Tim Ferriss: It has been a while.
+
+Matt Mullenweg: We’ve hung out more in home bases and things, but the camp traveling.
+
+Tim Ferriss: We’ve been all over. We’ve been to Vietnam, been to Turkey.
+
+Matt Mullenweg: Yeah, Greece.
+
+Tim Ferriss: Greece. We’ve been all over.
+
+Matt Mullenweg: Actually the only time I’ve set foot in Taiwan, which is where WordCamp Asia is this year, was we were connecting to Vietnam. Actually an amazing story there. A cool Tim story as well. There was something wrong with our tickets and they weren’t letting us board. I remember, and this was kind of early, not everyone spoke English or something, and you started breaking out some Mandarin.
+
+Tim Ferriss: I remember that.
+
+Matt Mullenweg: And somehow got us on the plane. I still don’t know what you said.
+
+Tim Ferriss: I remember that. God, I haven’t thought about that in forever. I still have the photograph that you took in a park late night in Vietnam of this little kid with a cute hat with break-dancers in the background. I still have that on my bookshelf.
+
+Matt Mullenweg: Oh, nice.
+
+Tim Ferriss: It brings back some great memories.
+
+Matt Mullenweg: Yes. I’ve never been to Taiwan. So WordCamp Asia, March seventh through ninth, you graciously agreed to come. And part of the pitch, which also I want to do is take a few days off afterwards and explore the country. So yeah, we’ll probably get you in on the last day or something because I’ll do a few days with all the WordPress stuff and then just explore the food. I’ve heard so many good things about Taiwan. It’s also one of those places that, kind of like Hong Kong 15 years ago, maybe you could visit. This is a geographic geopolitical hotspot.
+
+Tim Ferriss: Yeah, there are a lot of open questions around Taiwan.
+
+Matt Mullenweg: Especially over the next few years. So I think it’s kind of a perfect time to be there. I would say we got to figure out what you’re doing at WordCamp Asia. If you want to do a Q&A, I can interview you or give a talk on something you’ve learned. It’s a cool audience.
+
+Tim Ferriss: It is a cool audience. Got to get to some night markets. So I don’t know if you knew this, but I’ve spent time all over East Asia, have loved my time in Japan in various parts of China. I’ve spent time in Taiwan, most recently in Korea, which completely blew my mind. Loved, loved, loved Seoul, which is where I spent time, but I spent, with respect to Taiwan, specifically two summers in Taiwan.
+
+Matt Mullenweg: No way.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Oh, cool.
+
+Tim Ferriss: I spent two summers. This is way before tech made anything easy. This would’ve been ’98, ’99, maybe in that range, somewhere around there. Maybe ’97, actually. A hilarious story. I remember going on these really rough bulletin boards where English was — 
+
+Matt Mullenweg: Physical or online?
+
+Tim Ferriss: Online bulletin boards. The English was not always super straightforward or easy to understand. I was doing my best and I ended up having someone — because I was trying to find a cheap place to stay in Taipei and couldn’t quite figure it out. Didn’t have any money really. So I ended up connecting with someone who said they could organize a homestay, and then I arrived in Taipei. It’s pouring rain, I don’t know a soul. I eventually take a taxi from the airport, torrential downpour, to this supposed homestay and it’s like a dilapidated church. They’re like, “Here’s your bed,” and it’s just a wooden surface.
+
+Matt Mullenweg: Wow.
+
+Tim Ferriss: It’s like a tabletop. I was like — 
+
+Matt Mullenweg: This is where your back got messed up.
+
+Tim Ferriss: I was like, “Oh, boy, I’m really going to have to figure out a plan B.” I had this woman at one point, I was clearly lost, approached me on the street and offered to help me, which just due to a host of reasons I was wary of. I was like, I’m not sure if I want — it just seems uncommon here for this to be a viable offer without strings attached. Turned out to be a good Samaritan. She owned two restaurants in Taipei. She was like, “You know what? Come by any time,” introduced me to all of her friends. So I ended up just getting adopted by this woman and her basically Ratatouille restaurant family.
+
+Matt Mullenweg: That’s amazing. People are fundamentally good.
+
+Tim Ferriss: I am leaning. I do lean. I wish I had less of this on the Hobbesian side, so you’re a good influence on me.
+
+Matt Mullenweg: Balance each other out.
+
+Tim Ferriss: In this case, absolutely delivered on that premise and just had the best time. Taiwan has these fantastic night markets. At the time, it was perfect for me because I was such a night owl. Very late night culture. You’ll go out to dinners. You see this in places like Argentina too, some places in Europe where you’re like, this is bizarre. It is 11 o’clock at night and there’s an entire family out with even little kids having dinner.
+
+Matt Mullenweg: I love that.
+
+Tim Ferriss: This doesn’t make any sense. Absolutely loved it. I had a wonderful time. That was a long time ago now. I’m trying to run the basic math theory. It’s like 20, 30 years ago. This is a long time ago. For that reason and many more, also that we haven’t taken a trip together internationally.
+
+Matt Mullenweg: In a while.
+
+Tim Ferriss: Like a real trip. Right? We’ve collided in various places in Italy, briefly, like boom.
+
+Matt Mullenweg: That was fun.
+
+Tim Ferriss: Yeah, a little course collision. Although actually I take it back. Antarctica. That was a real trip.
+
+Matt Mullenweg: Oh, yeah, that’s a real trip. That was the last podcast. That was a pretty deliberate trip. That was a long one, too.
+
+Tim Ferriss: That was a long one. Two weeks.
+
+Matt Mullenweg: Two weeks, yeah. Was about two weeks.
+
+Tim Ferriss: Exploration, yes, but with lots of constraints, right? Don’t wander off.
+
+Matt Mullenweg: Just a random wanderer.
+
+Tim Ferriss: Yeah, don’t wander off and fall into kilometer crevasse and die. Don’t do that. All right, so WordCamp Asia, what were the dates on that again roughly?
+
+Matt Mullenweg: March seventh to ninth.
+
+Tim Ferriss: All right. March seventh.
+
+Matt Mullenweg: And yeah, Tim’s going to be speaking, so that’s exciting.
+
+Tim Ferriss: Love how I keep saying I need to finesse in the details, but Matt is committing on my behalf. I would like to make it happen. Really, this is a priority. So that is in there. What else are you excited about?
+
+Matt Mullenweg: It kind of ties into that.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: It’s something I haven’t told you.
+
+Tim Ferriss: Oh wow.
+
+Matt Mullenweg: Which is I am taking a sabbatical in 2024.
+
+Tim Ferriss: Sabbatical.
+
+Matt Mullenweg: Yeah. So Automattic has this benefit where every five years you get two to three months fully paid time off.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: A hack on it, to encourage people to take it, is if you don’t take it until year seven, you don’t get another one until year 12. The clock starts when you come back from the previous one. I extol the benefits of this, have literally hundreds and hundreds of people take them, maybe over a thousand at this point. I talk about why it’s so amazing. I’m the biggest hypocrite. In 18 years, I have not taken one myself. Luckily almost every other executive has. So the example gets set, but I finally was like, I just need to pull the trigger. So February, March, April, including during this WordCamp, I’m going to be officially on sabbatical. So I’m honestly terrified.
+
+Tim Ferriss: I’m sure you are.
+
+Matt Mullenweg: I don’t know how to unplug for that. You saw me in Antarctica. I got weird after eight days of no internet.
+
+Tim Ferriss: A lot of people get weird in Antarctica, in fairness. But yeah.
+
+Matt Mullenweg: So I’m going to try to do some detox, maybe some silent retreats working on hobbies, chess, sailing, ping pong. Just fun to unplug stuff. But honestly, I’m kind of scared too. So I’ve got one or two dates that are in there, a friend’s surgery, this WordCamp, but I’m just going to show up a attendee. I’ll speak or something, but I’m not going to help plan it or do anything like that. So even we’re going to have a board meeting in there and it’s going to be a good practice. I talked about this with the team. What are we going to do about this? It’s like, well, I’ll go to the board meeting, but I’ll go to it like a board member.
+
+Tim Ferriss: Observer.
+
+Matt Mullenweg: Not like someone who planned out the agenda and everything like that. So I’ll get the material when the other board members get it versus the multi-week period planning process and everything.
+
+Tim Ferriss: So I would imagine you’re generally a fairly important quarterback/primary actor in board meetings. So who is going to be presenting this information instead of Matt?
+
+Matt Mullenweg: Leaders in the company.
+
+Tim Ferriss: Leaders in the company.
+
+Matt Mullenweg: Our chief financial officer or general counsel are always really big in the board meetings.
+
+Tim Ferriss: Here’s a question for you. I’m very excited about this and I’m very skeptical because you’ve already mentioned a number of — 
+
+Matt Mullenweg: Things that are in there.
+
+Tim Ferriss: — businessy things that you’ve allowed to slide in with some semblance of, “I’m just an observer.”
+
+Matt Mullenweg: Two things.
+
+Tim Ferriss: Two things.
+
+Matt Mullenweg: And it’s partially, I guess I could skip the board meeting. I’m kind of curious though, for this experience. So it’s driven right now by curiosity. So the benefit, a lot of people think obviously the benefits to the person. You get the three months paid time off. So that’s pretty cool. We now have people who’ve done multiple because they’ve been in Automattic 10 or 15 years and some of the testimonials are amazing. Someone was like, “Yeah, I get to take a summer with my kids,” and I think they’re doing their second or third one. They’re like, “This is the last one.”
+
+So after this, they’re going to be in college. I’ll never get this amount of time with them probably again for a long time. But there’s also a benefit to the organization. It’s funny. One thing people ask because they say, well, do people just take these and never come back? That’s basically never happened. We’ve had people resign maybe once or twice out of the thousand, but it’s very rare. But two, if someone’s out for two weeks or three weeks, you just wait for them to come back. You don’t actually look at the systems to what they’re in the critical path for.
+
+Tim Ferriss: A hundred percent agreed.
+
+Matt Mullenweg: When it’s two or three months, the organization needs to figure out how to work without that person. So it’s a great opportunity to identify those bottlenecks. Actually, some financial service firms require this for auditing reasons. If someone’s in a critical path, if some financial thing, it’s actually a good practice to have someone else do that for a while. That’s not really our primary concern, but — 
+
+Tim Ferriss: You can figure out your bus count pretty quickly. It’s like, oh, wait a second.
+
+Matt Mullenweg: It also gives great leadership opportunities. So this was inspired by the former CEO of Automattic, Toni Schneider. He just did this because he’s cool. And he did a three-month road trip with his family. At the time he was CEO, I was president and it gave me an opportunity to practice being the CEO. We saw what worked well and what didn’t. Then also led like, “Oh, we need to do this executive hire because Toni’s really good at something and I’m not, so we need to hire someone to fill that in.” So these are part of the reasons I think it’s awesome for organizations.
+
+Tim Ferriss: First thought, if you had a thousand people do sabbaticals or however many people, but a lot of people do it. Last I checked, you guys are involved in the content business. Have you thought of or has anyone assembled, anywhere, sabbatical best practices? Because this is also on some level synonymous with what I described in The 4-Hour Workweek is the mini-retirement, a primary value of which is you establish systems and stress test systems and processes that outlive the sabbatical. They persist. Is this something you guys have gathered? Is there some type of discussion forum where you have anything like this?
+
+Matt Mullenweg: It’s so funny because, as of today, no, but probably by the time this gets published at automattic.com/sabbatical, we started working on a page. So a lot of people blog their experience.
+
+Tim Ferriss: This is a page that other people, meaning the public, would have access to.
+
+Matt Mullenweg: Yeah, it’d be just /sabbatical. So a lot of people blog about their experience and there’s really all types. Some people have walked the El Camino for a couple months or done the Pacific Coast Crest thing. Some people just stay at home and chill out. It’s all over the map. I don’t think there’s a right way to do it except hopefully not just do what you were doing before. We do kind of really strongly encourage people to unplug. Actually, someone just who’s on sabbatical pinged me on Slack and I was like, “Don’t make me turn off your access.”
+
+Tim Ferriss: You need someone to do that for you. You need to hire a police officer. So at the end of the sabbatical — 
+
+Matt Mullenweg: Put a child lock on my phone or something and I’ll give you the code.
+
+Tim Ferriss: A cookie jar with a timer on it. The end of the sabbatical, the sabbatical was a huge success. Why has it been a huge success? Because there’s doing it to say, “Look, I’m walking the walk and I did my sabbatical,” but that’s not very interesting in and of itself. It’s like, okay, fine.
+
+Matt Mullenweg: Although it is good to be consistent.
+
+Tim Ferriss: It’s good to be consistent, but you could also creep off to your laptop and in theory be on sabbatical, but in practice, be a lurker on all sorts of different business calls and meetings and stuff.
+
+Matt Mullenweg: Oh, that would be pretty terrible.
+
+Tim Ferriss: It would be. So what would success look like?
+
+Matt Mullenweg: Actually something I’m debating is I do love coding and computer stuff, and so playing around with LED programming or something is maybe a sabbatical project. But I’m also like, I’m on the computer all day. So just for a health reason, I think I should really get off. So what’s success? Well, it’s kind of what we talked about for the organization should come back a lot stronger and people should get a lot more robust.
+
+Tim Ferriss: What’s success for you? I’m most interested in Matt Mullenweg.
+
+Matt Mullenweg: I think for me is that I’m recharged. The funny thing is people come back really wanting to work, and a typical thing I hear is it kind of takes a month to unplug for your brain to reset. Month two, you just enjoy things. Like month three, people start to get antsy to return. I don’t know if that’ll happen to me, but that’s a pretty common arc. So I hope I come back with a renewed energy. To be honest, this last two years has been really, really hard. We had lots of business ups and downs. There’s been all sorts of crazy stuff, the AI stuff, and I am a little toasty, to be honest. Not burnt out, but definitely at times a little more stressed than normal where it’s really getting to me. You always talk about how I’m so calm and thank you. But also I’m human too, so it gets to me.
+
+Tim Ferriss: The duck on the pond, kicking like hell underneath.
+
+Matt Mullenweg: So I think that’s the thing I’m looking forward to. What am I scared of? It’s a weird thing, also being scared of people not needing you or irrelevance, which I think is a really core fear for me. It’s maybe not practical at Automattic, but there’s something there.
+
+Tim Ferriss: Is the needing you and relevance, are those the same in your mind? Or are those different things?
+
+Matt Mullenweg: They’re probably different versions. Relevance is maybe in a global context or in the company context and needing you is maybe interpersonal. So when I’ve done some meditations or some other work, that can be a core fear of mine. Then maybe how have I designed organizations to need me in a way that’s not healthy? That’s one of the questions I ask myself. Or if you get a lot of benefit, and I do sometimes — you came in and saved the thing that feels really nice, especially in a CEO job or a job, which is very amorphous. People are like, what do you actually do? Oh, I saved the thing. But then are you hiring people that need saving a lot? Or what’s the sort of shadow side of that? Jerry Colonna, who I think you’ve had on, right?
+
+Tim Ferriss: Oh yeah, absolutely. We had a great episode. He has some very good questions. He has some very good questions.
+
+Matt Mullenweg: My favorite is “How am I complicit in creating the conditions I say I don’t want?”
+
+Tim Ferriss: Such a good question.
+
+Matt Mullenweg: It’s one of the best ones. So I think success for me is also just come back really energized, excited, hopefully with a lot of inspiration and ideas. I get a lot of inspiration from art or stuff outside of WordPress.
+
+Tim Ferriss: Recharged. There are different ways one can use that word. I would imagine we’re talking about recharge physically, intellectually, et cetera, on multiple levels.
+
+Matt Mullenweg: Yeah, definitely want to dial on health stuff.
+
+Tim Ferriss: What would that potentially look like? Getting that outside, forcing him to do a two-mile jog that he actually has to train for.
+
+Matt Mullenweg: Sunlight, nature, nothing novel. This is all like the basic stuff you talked about.
+
+Tim Ferriss: The basics are the basics for a reason.
+
+Matt Mullenweg: And it’s so effective. I’ll probably experiment with some stuff. They just started to be this Blueprint delivery service in San Francisco.
+
+Tim Ferriss: I don’t know what that is.
+
+Matt Mullenweg: Bryan Johnson?
+
+Tim Ferriss: Yeah. Oh yeah, right.
+
+Matt Mullenweg: The Blueprint system. There’s the weird food that’s like a gel or something. There’s now a delivery service for that.
+
+Tim Ferriss: You get your Soylent Green in a bottle.
+
+Matt Mullenweg: I’m actually pretty excited about it. It looks — 
+
+Tim Ferriss: Why not try it out?
+
+Matt Mullenweg: Yeah, I’m not really going to cook this stuff. So yeah, just do some experiments there.
+
+Tim Ferriss: So I asked you what success might look like. Made some headway there. I can ask a million follow-ups, but I’m going to ask a different question. It’s looking at the sabbatical from perhaps the opposite side, which is let’s say after the sabbatical, you or maybe just the people closest to you a’re like, “Yeah, sabbatical didn’t really work out. Kind of failed, kind of fell on its face.” What do you think are the most likely temptations or slipping points or issues that could compromise the sabbatical?
+
+Matt Mullenweg: Well, if somehow my health got worse over it.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: So a lot of the things we’ve talked about and where I find a lot of joy and happiness is typically in being generative, making things, not consuming things. But I think it’s very easy to fall into a consumption.
+
+Tim Ferriss: Into consumption, right.
+
+Matt Mullenweg: Like a hedonistic treadmill type thing. It’s nice sometimes. We’re about to do the holidays all times. I consume some stuff, or it’s nice to take a nice meal on vacation, but if that becomes all the time, we’ve seen that happen to friends who’ve been successful and typically does not look great. The brief history of the world guy, the amazing historian, has a great quote about that.
+
+Tim Ferriss: Oh, you’re thinking about Will Durant.
+
+Matt Mullenweg: Yeah, Durant. I’m going to read it, actually.
+
+Tim Ferriss: Okay. While you’re looking that up, I’ll just say I’m interested in what temptations, because I could name mine. What temptations you think you need to be preemptively guarding against, because the siren song is likely to pull you. How might you be complicit in creating the conditions?
+
+Matt Mullenweg: Yeah, social media. I think I need to be careful about that. Particularly my Twitter/X addiction, news consumption. My most dangerous is where something is sometimes productive or has some positive, but it’s probably net negative on a whole. Or if I spend too many hours on it. Phone time in general, I’d love to get down. Screen time in general. 
+
+Tim Ferriss: Do you think you could just take your entire sabbatical off of social media, just delete them all from your phone, not use them at all.
+
+Matt Mullenweg: It’d be interesting.
+
+Tim Ferriss: They’d still be there when you came back.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: You know enough people. If you really were like, I want to get on the phone while I’m walking outside in the sun and talk to someone like Cyan or Roon and just be like, “Hey, would you mind just giving me the…” 
+
+Matt Mullenweg: “Can you give Twitter to me?”
+
+Tim Ferriss: The most exciting things going on right now in your field? I’ll trade because I’m excited to share blah, blah, blah. You can do that.
+
+Matt Mullenweg: That’s a good idea.
+
+Tim Ferriss: I’m sure you could do that.
+
+Matt Mullenweg: I like these ideas. Keep them coming. Will Durant. This is from Fallen Leaves, which is that posthumous book. “Health lies in action. So what graces youth to be busy is the secret of grace and half the secret of content. Let us ask the gods not for possessions, but for things to do. Happiness is in making things rather than in consuming them.”
+
+Tim Ferriss: That is amazing.
+
+Matt Mullenweg: Isn’t that beautiful?
+
+Tim Ferriss: That is. Can you send that to me, please?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: All right. Will Durant. Was it Will and Ariel, I want to say?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: So prolific and also so incredibly good at crafting prose.
+
+Matt Mullenweg: Did you read the Fallen Leaves book?
+
+Tim Ferriss: No, I haven’t.
+
+Matt Mullenweg: It’s neat. It’s on life, right? So it’s kind of his — and I guess it was discovered after he passed, the manuscript.
+
+Tim Ferriss: Wow.
+
+Matt Mullenweg: Many years, like 30 years after he passed or something.
+
+Tim Ferriss: Incredible.
+
+Matt Mullenweg: So I’m calling it the sa-Matt-ical.
+
+Tim Ferriss: For those who don’t know, Matt is a specialist in dad jokes. This began, I mean, it may have become in the delivery room for all I know. Okay, we may come back, I’m sure with dinner we’ll talk about the sabbatical more, but in terms of things that you’ve changed your mind on or excited about or absurd things you do, any and all of the above, you want to do a lightning round?
+
+Matt Mullenweg: Yeah, I’ve got some changed and I’ve got some absurd.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: Changed, changed my mind on nuclear, actually.
+
+Tim Ferriss: Okay. From what to what?
+
+Matt Mullenweg: Well, I think even when I was a baby, my mom took me to a nuclear protest or something and so as someone caring about the environment, I sort of assumed nuclear was not — I was kind of anti-nuclear, Chernobyl, et cetera. And now I’m pretty fully convinced that it is necessary, we should be building as many of these plants as possible and it’s going to be an amazing part of the bridge to a more carbon-free future.
+
+Tim Ferriss: And you see that in small scale reactors with less likelihood of technical problems and issues that you’ve seen?
+
+Matt Mullenweg: Yeah, all of the above. Let’s take the things that work. They’re expensive. We need to get better at building stuff, China’s really kicking our butt here. We need to stop turning ones off that we’re running. So that sort of stuff, like stop shooting ourselves in the foot, we saw what happened with Germany when they turned a bunch of stuff off, but they’re now turning it back on. So this is going the right way and there’s a lot of investment in the tech here and so let the Bill Gates startup and the other ones, and the Sam Altman, sort of let them ship.
+
+Tim Ferriss: And nuclear in this case refers to fission, we’re talking about fission?
+
+Matt Mullenweg: Yes. And there could be breakthroughs around other things, but I mean people are scared of this, but also the US military has nuclear-powered submarines and aircraft carriers that are going around underwater. We’ve done this very reliably for many decades now. So I feel like that was a wrong turn in history. Some theorize it might’ve been influenced actually by countries or companies with a lot of sort of — 
+
+Tim Ferriss: Vested interest.
+
+Matt Mullenweg: Interest in fossil fuel. But sometimes we do the wrong thing, then we figure it out so nuclear is one of them, psychedelics.
+
+Tim Ferriss: Tell me.
+
+Matt Mullenweg: Thanks to you, we were very early supporters of a lot of research around this.
+
+Tim Ferriss: Yeah, you supported a lot of amazing things.
+
+Matt Mullenweg: And I felt like especially during that period where everything was outlawed really sillily, been very for legalization in a lot of ways for weed, for example. I think there’s some interesting stuff coming out around marijuana, which I had kind of not heard any bad stuff about where like, oh, this can actually create some risk for psychosis. I used to make fun of these things, right? The old documentaries were like, “You smoke one blunt, you go crazy.”
+
+Tim Ferriss: Oh, Reefer Madness stuff.
+
+Matt Mullenweg: Reefer Madness, all this stuff, it was so dumb. But we funded a lot of research and I like that people are researching these things so we can understand the good and the bad of these molecules and how to use them safely. Because we see the impact is so incredible and I have now seen, I think you have as well, where it can go wrong. Super rare, but there’s other stuff, maybe confounding factors.
+
+Tim Ferriss: Yeah, for sure. So that’s a changed your mind on or modified?
+
+Matt Mullenweg: Yeah, I think it used to be very super pro just open legalization of everything. If you’re 18 or above or 21 or above, you can just get it at any store, whatever you want, whenever you want, and now questioning that.
+
+Tim Ferriss: Yeah, I think — 
+
+Matt Mullenweg: What’s your thoughts there? You’ve always been pretty cautious when you talk about it publicly.
+
+Tim Ferriss: Yeah, I’m cautious when I talk about it privately too. I mean, I would say that net if you were to talk to say my ex-girlfriends, I talk more people out of psychedelics than I talk into by a very wide margin, I’d say eight or nine out of 10 would be a case of dissuasion and not persuasion. Simply because, and there are a few reasons for that, one is if someone’s looking for a quick fix and by the nature of their questions and requests, it is clear to me they’re almost certainly not going to do any preparation or integration afterwards, which, I mean, I often compare to say serious knee surgery or shoulder replacement surgery whereby you’re going to do a lot of due diligence, you’re going to do probably strengthening and a number of prehab exercises diligently for a period of time to prepare your body for the surgery, you undergo the surgery, which is very tightly supervised, then you do rehab. And these are all critical components of the therapeutic outcome.
+
+And I think Gül Dölen as an example, who’s been on the podcast and the potential for reopening critical windows is a compelling new theory/hypothesis around some of the amazing outcomes that you see with these conditions like complex PTSD and so on where somebody has the diagnosis of PTSD for 17 years, they’ve failed every intervention, and then at the end of a trial you have something like, I’m pulling this number out of the air, but it’s not that far off, like 67 percent full remission.
+
+Matt Mullenweg: Where the best other alternative is like 15 percent or something.
+
+Tim Ferriss: Not even close, they’re just universes apart. But the importance of the weeks following an experience is one example. So if somebody comes to me and it’s clear to me that they’re like, “What’s the silver bullet? Give it to me on an index card. I’m not going to read any books. I don’t have time for A, B, C, D, or E, but I do have 15 minutes. Should I do 5-MeO-DMT?” I’m like, “Absolutely not. No, you shouldn’t.”
+
+Matt Mullenweg: Well, and so many of these things are X, Y, Z assisted therapy. And so the assisted therapy part is really important.
+
+Tim Ferriss: I would say furthermore, there has been historically, and by historically I mean recent history in the last say 10 years where the conversations around psychedelics have changed quite dramatically. There’s a lot more research, there are many for-profit companies now at this point, which is fantastic on a bunch of levels and also incredibly adds a degree of complexity from an intellectual property and let’s just call it open source perspective that on some levels can be concerning.
+
+Matt Mullenweg: I see both sides of this actually because I want some new molecules.
+
+Tim Ferriss: Yeah, I’m fine with new molecules.
+
+Matt Mullenweg: Can they engineer something that maybe doesn’t have some of the downsides?
+
+Tim Ferriss: Sure. I’m all for novel innovation, but people should not be rewarded with patents that can be used to potentially restrict manufacture of related compounds if they’re not producing something that is truly novel with some utility. That’s my perspective. If we’re talking about — well, we could certainly get into this, but there is a role for new molecules, of course there is. And if you could take for instance, something like LSD and modify it slightly such that it is more of what people might call a psychoplastogen, so it’s not producing a psychedelic effect, but it can be used in an outpatient setting for something like cluster headaches.
+
+Matt Mullenweg: Maybe shorter.
+
+Tim Ferriss: Yeah, fantastic. We could talk about this for hours, but I do think, we were talking about Munger and Buffett earlier, right? Never ask a barber if you need a haircut. I think it’s very important to consider the incentives involved when you are looking at the suggested protocols from a for-profit company. I invest in for-profit companies all the time, I’m clearly pro market-driven solutions on a million different levels and if someone is incentivized to shoehorn a therapy within currently existing frameworks and for that reason and many others including, let’s just say, rate of turnover or volume of patients, they’re pushing for an experience that is 10 to 15 minutes in length in Earth time. I have a lot of questions to ask before I would endorse something like that. But suffice to say, the conversation has been heavily biased towards positive stories.
+
+Matt Mullenweg: And I think maybe overly so because people who went through the winter are like, “Hey, let’s not…”
+
+Tim Ferriss: Easy does it, right?
+
+Matt Mullenweg: And I think I kind of fell for that a little bit.
+
+Tim Ferriss: Yeah, there’s a huge survivorship bias, I think that’s going to change. But especially with smaller numbers and when, for good reason, people feel like they’re part of, let’s just say in the last 10 years, let’s just name a time, so 2015, a lot is starting to happen in the very early stages like the Hopkins Center and so on, people feel like they’re a part of a movement and they want this movement to succeed and there are certain milestones that are incredibly important and potential inflection points for opening up these therapies to eventually millions of people.
+
+And they don’t want to do anything to jeopardize that. So if there is a story, for instance, of someone on the underground who in a psilocybin-assisted session, even though they have no outstanding pre-existing issues outside of say hypertension has a heart attack and dies in session, that is not going to make it to the radiowaves, generally speaking. And there are examples of this, even though something like psilocybin, there’s no known LD50 in terms of lethal dose 50 that would kill say 50 percent of a random sampling of 1,000 people. So physiologically, it’s very well tolerated, but these experiences can be very intense and they’re not well suited to all people nor all conditions. Let’s just take schizophrenia as an example.
+
+Matt Mullenweg: It’s just enough people do anything, like people die at Disney World every day.
+
+Tim Ferriss: Yeah, right, right. Yeah, no, exactly. So it’s also a case where if up to this point you’ve by and large, outside of an indigenous context because really in the United States by and large we’re not contending with that, with the exception of perhaps peyote use in the Native American Church and so on, but if we’re looking at more Western-informed facilitated sessions using these various classical psychedelics, you’re looking at the sample size to date, tens of thousands of people probably who have done — 
+
+Matt Mullenweg: That’s generous.
+
+Tim Ferriss: Yeah, generous, who have done guided sessions typically at high cost, often white glove service, let’s just call it. That is not going to be the experience of the average person if they’re going through Kaiser Permanente or someone else to get MDMA-assisted psychotherapy five years from now. And when you go from 10,000 to 20 to 100,000, shit’s going to happen. That’s just the fact of the matter. You certainly see this with any drug that makes it through phase three and then ends up shipping millions of pills, you discover a lot in the process of doing that, and there are interactions and contraindications that would be very hard to predict until things are in the wild, so to speak.
+
+So I’m on the same page with you in the sense that I really feel with these tools, you mentioned nuclear, I mean our friend who, rest in peace, Roland Griffiths used to say that you’re working with nuclear power, you’re working with psychological nuclear power when you’re using psychedelic compounds, and you need to be incredibly thoughtful.
+
+Matt Mullenweg: It’s a good analogy. It can be radioactive, it can be healing, chemotherapy, and it can also be very harmful.
+
+Tim Ferriss: Absolutely. And it can be generative or it can be destructive and plasticity in and of itself, this word gets used often in a lay discussion as a net positive, but plasticity isn’t automatically a positive thing. It depends a lot on what transpires in that window of plasticity.
+
+Matt Mullenweg: That was my big fear. I’m like, “Hey, I like my mind. I like my life. I don’t want to stir anything up.”
+
+Tim Ferriss: Not sure I want to throw that Play-Doh in the microwave.
+
+Matt Mullenweg: Right? So that’s a lot of my particularly successful friends, their nervousness around it. And I’ve also seen huge positive impacts on many, many people.
+
+Tim Ferriss: Yeah. And I think with many of these things, and another reason I tend to dissuade folks often is if it’s just curiosity, well, it’s kind of like, “I’m just curious, should I go into the reactor and play with some rods?” I’m like, well, if you were to then ask, “Is this risky?” I’d say, “Compared to what?” Okay, compared to not satisfying that curiosity? Yeah, it’s risky. If you were to say, because for instance, in the context of psychedelics, let’s just say ibogaine use specifically, which is very interesting.
+
+Matt Mullenweg: Wow, you took it there.
+
+Tim Ferriss: No, I did, because it has known cardiac risk, people can die using ibogaine, unlike some of these more better known classical psychedelics where there’s very low documented physiological risk. Ibogaine is risky, let’s just say if you’re a psychedelic tourist and you’re like, “I just want to try a bunch of stuff.” Is it risky? Yes, compared to not doing it. If on the other hand, though, you’re talking to someone who is a heroin addict who’s living on the streets who’s at risk of suicide or overdose or fill in the blank, it’s a question of comparison, in which case I think it’s an incredibly promising avenue worth exploring, and there are ways to mitigate some of that risk Dr. Nolan Williams is doing — 
+
+Matt Mullenweg: It could be a shot out of there.
+
+Tim Ferriss: A lot.
+
+Matt Mullenweg: It kind of brings me to my next changed mind thing, which is perhaps an antidote to some of this, which is breathwork.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: So I think I thought breathwork was just kind of whatever.
+
+Tim Ferriss: Dumb.
+
+Matt Mullenweg: There’s a million versions of it and there’s apps for other shit, there’s the Wim Hof stuff, there’s all these sorts of different things. Also, we had a friend from Esalen who’s like, “Oh yeah, all the hippies who did a ton of stuff in the ’70s don’t actually take stuff anymore. They just do breathwork now.” And so some of these things came in from different areas. I’ve just started explore it a lot more, it’s incredibly powerful. We’ve been playing with a shift wave chair, which kind of coordinates the pulses on the chair with breathwork. The breathwork is, I would say, a lot of the benefit of that. And so it’s also a tool you can have with you at all times, you could travel to any country in the world with it.
+
+Tim Ferriss: It’s like with your lungs.
+
+Matt Mullenweg: It’s literally the most basic element of living is breath. And so something cool if that’s perhaps an unlock to a more calm inner state or access to different things.
+
+Tim Ferriss: So what has been your personal experience with breathwork?
+
+Matt Mullenweg: Oh, I feel like there’s breathwork that can make me sleepy, I feel like there’s breathwork that helps me focus. I feel like there’s breathwork, it’s a Tony Robbins thing, you do like this. There’s stuff to give you energy. So particularly I’m very interested in, let me get these words right, endogenous solutions versus — 
+
+Tim Ferriss: Exogenous?
+
+Matt Mullenweg: Exogenous, yeah. So instead of having another green tea or something if I’m tired in the afternoon, maybe what’s a movement of breath I could do?
+
+Tim Ferriss: Something internal, yeah. So exogenous, easy way to remember that is like exoskeleton, people have heard that, right? So outside the body, using something outside the body, endogenous.
+
+Matt Mullenweg: Endoskeleton?
+
+Tim Ferriss: Well, yeah, endoskeleton is probably what we have I guess, although we just call it skeleton. breathwork, I would second that and say that breathwork is something I would view as also a prerequisite even if your intention is to, say, ultimately use psychedelics. I will very often chat with friends who are interested in exploring many of these different tools and I’ll say, “Okay, first thing you do is you’re going to do 30 days of the introductory course on the Waking Up app from Sam Harris.”
+
+Matt Mullenweg: So good.
+
+Tim Ferriss: “You’re going to combine that with reading Awareness by Anthony de Mello. And after the second week or after four weeks, you’re going to do a holotropic breathwork course,” because there are a lot of facilitators and it’s a term, turning towards wholeness is what that means by the way, which is relatively easy to find in most metropolitan areas. And it was developed by Stanislav Grof and others. And you should do at least a weekend course of holotropic breathwork, ideally do two or three separate sessions so that you have a chance to have a breadth of different experience including maybe some challenging or strange or disorienting experiences. And then we can talk about potentially phase two or three if you even need to go there. And a few things happen.
+
+Matt Mullenweg: It’s a good course just for anyone to follow.
+
+Tim Ferriss: Exactly. What happens in many cases is people are like, “This is fantastic. I’m going to continue meditating, and the breathwork has shown me that I don’t need to go to and extreme altered state, and I actually feel so much better. Thank you so much.” And that’s not the end of the journey, but it’s a set of tools that they then take forth without in any way escalating things.
+
+Matt Mullenweg: It’s always with you.
+
+Tim Ferriss: Yeah. It also is just a proof of concept, I think for me, that if you are going to throw the Play-Doh in the microwave with nuclear power, in this case, aka psychedelics, if you’re not willing to do four weeks of things that will benefit you anyway, you shouldn’t throw your Play-Doh in the microwave because there’s a chance that something will goes sideways or that you get destabilized and it requires some really concerted effort with support staff, some type of safety net to put Humpty Dumpty back together again. And if you have not demonstrated the willingness and capability to do that on the front end, I have zero confidence that you’ll be able to do that on the tail end.
+
+Matt Mullenweg: What would you recommend for someone going through a deep depression? Because one of the things about depression is it can be hard to take a shower, to do that 30 days of the thing. So do you have breakouts or things you recommend to interrupt that cycle?
+
+Tim Ferriss: Depression is a multifaceted beast. And for people who don’t have the context for my entire adult life, certainly, although the frequency and severity has changed substantially in the last 10 years, had experienced extended and extensive depressive episodes, almost killed myself in college. I’ve written about that at some length so if you just search “Tim Ferriss suicide,” that post will pop up. It’s one of the more important posts I’ve ever written. It would be certainly top three or so of the blog posts I’ve written. Very proud of that post. I mean, if you look at the comments, you’ll see why, thousands of comments at this point.
+
+But how I relate to suicidal ideation, I think, can be found in that post. But number one, I’m not a doctor, I don’t play one on the internet, but I do have a lot of personal experience of depression, and I’ve been approached by a lot of people with depression, including close friends. And I would say that, as you mentioned, it can be seemingly impossible to summon the will to do anything when you’re severely depressed. I mean, there are people who get almost into catatonia.
+
+Matt Mullenweg: I actually this year experienced it for the first time.
+
+Tim Ferriss: No kidding.
+
+Matt Mullenweg: A very close loved one was going through chemotherapy. And it was interesting, it hit me quite hard, which felt dumb as well because I’m not going through it myself. But what really woke me up is usually you hear me talk about WordPress Automattic, I’m so excited about it. There was a day I just looked at my computer, I was like, “Wow, I don’t care about this,” and that had never happened before. And that was the wake-up, I was like, “Oh man, everything seems kind of grayscale. I feel this apathy.” And it really gave me a lot of empathy for things you’ve described before, but I had an experience personally.
+
+Tim Ferriss: What helped you?
+
+Matt Mullenweg: I don’t know if my example was good, because I do want to know your answer.
+
+Tim Ferriss: I’ll give you my answer.
+
+Matt Mullenweg: For me, some of the external conditions changing, so the chemo getting better and better and ending was part of it. That’s not a great answer because sometimes your external conditions still suck or bad things happen. You can lose loved ones. I got really strict about exercise, I cut out all alcohol. It’s like, “Okay, I just need to detox, clean up, be kind of monk mode.” And I think that’s all I know how to do. Sleep, I probably uninstalled Twitter at that point. It’s kind of things that are on my list anyway, but day to day I would say I try to hit a lot of these things and I’m casual about some of them.
+
+Tim Ferriss: Yeah, so I’ll make a couple of recommendations. I am very cautious about making broad prescriptions because there’s so many different varieties, right? There is everything ranging from, “I’m having a couple of tough weeks and I’m not sure why, but I can still function really well, I’m high functioning,” all the way to, “I want to hang myself tomorrow.” And those are entirely different species.
+
+Matt Mullenweg: Closer to that first one for me.
+
+Tim Ferriss: Yeah, that experience, yeah. So I’d say a few things, a couple of resources I want to recommend. First of all, if you’re suicidal, certainly please call a hotline. And I’ve been through this, you’re not alone. A lot of people face this and even though it feels like it’s permanent, it’s personal, there’s nothing you can do to change it, there are tools and I’m living proof of that. So I mean, I am incredibly happy and fulfilled right now, and I’ve found tools that help to stabilize and facilitate that — not 100 percent of the time because I’m still part of the human experience. So I would just say, you’re not alone. And if it’s an acute experience, please call suicide hotline, and I’ll put that in the show notes.
+
+But if you search my name, “Tim Ferriss suicide,” that post has helped a lot of people. There’s also a post I wrote called something along the lines of “‘Productivity’ Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me),” which has been helpful for a lot of folks. And that also I think just allows people to remove some of the judgment, the self-judgment from the experience, because the experience that is difficult and then there’s the harsh self-judgment that sometimes accompanies it.
+
+Matt Mullenweg: That was tough for me.
+
+Tim Ferriss: Right? Where you might be in a really challenging state, you’re suffering and then you have this voice that says, “Who the fuck are you kidding? Are you joking right now? Your life is great. There’s so many people who have of so many more challenges than you. You don’t even have the right to feel this way. Suck it up buttercup, get it together,” and variations of that, and it makes it a lot worse. So that post I just mentioned, which I’ll link to in the show notes, has helped some people with that.
+
+Lastly, I would say if it’s really acute, there are a few tools that I’m hesitant to recommend because there are, especially in the first, some risks associated. I did a podcast with Dr. John Krystal, who’s the chair of psychiatry at Yale, which was effectively an everything you would ever want to know about ketamine episode. And I think for acute suicidal ideation and risk of self-harm intravenous or IM ketamine is very interesting as a pattern interrupt. And that episode is available for folks. There are risks associated with ketamine, there is addiction potential, it is something to keep an eye on. But again, risky compared to what? If someone’s at risk of acute self-harm, then it’s generally well-tolerated, meaning it doesn’t suppress respiration, it is very well researched. And that is one tool.
+
+Another, that is a newer tool that I’ve been exploring myself also, which we might talk about at dinner because we haven’t talked about, is something called accelerated TMS. And this is transcranial magnetic stimulation. So various types of brain stimulation for addressing treatment-resistant depression and anxiety. There are some newer protocols like the SAINT protocol, which was developed at Stanford, that are incredibly interesting.
+
+Matt Mullenweg: It’s way faster too, because the old treatments take like 30 days, an hour a day or something like that. The new ones are way faster.
+
+Tim Ferriss: Way faster. So you’re taking treatments that would otherwise take a month or two and compressing it into five days. And fascinating, fascinating, cutting-edge stuff that I’m paying a lot of attention to because some of the results are equal to or even greater than with durability. So it’s as fast acting and as durable or to a greater extent fast acting and durable than some of the psychedelic-assisted therapies.
+
+Matt Mullenweg: I think about it as well because we have friends that won’t ever take a psychedelic or some of these things, or actually there’s whole religions, there’s Mormons of this LDS, et cetera. So some of this stuff I think is a really cool accessibility, kind of like the same way breathwork can be.
+
+Tim Ferriss: Absolutely. And for people who might be older, a little frail or with different conditions, higher blood pressure, et cetera, a lot of these folks should not touch psychedelics. They just should not. The risk profile doesn’t make sense. And that would also be true for certain types of disorders. I mean, later research may overturn this, but for the time being, say, schizophrenia, borderline personality disorder, a lot of folks who maybe lean more towards the, and this is not a medical term, but chaotic or entropic disorders versus hyper-rigidity disorders like OCD, I would consider chronic anxiety and depression to be also rigidity issues on some level because they are often thought loops, things that repeat, there is a stuckness. Whereas something like schizophrenia, which I have seen up close and personal, has a different feeling to it. It’s an opposite end of the spectrum in some respects. So I’m very interested in those conditions.
+
+Matt Mullenweg: I’ll check out those posts.
+
+Tim Ferriss: Yeah, for someone who’s having a hard couple of weeks, you mentioned Tony Robbins earlier, I will mention something that I learned from him. I don’t know if he’s the original source of this, but I used to put this at the top of my journals, I would write it out at the top of my journal so that I would see it every morning. And it was basically, let’s call it a flow chart, that’s an overstatement. And it said, “STATE” in all caps with an arrow that went to story and then that went to strategy. So state, story, strategy. And what that’s meant to say is what happens to many people who are depressed or anxious or whatever is they sit down and they try to figure out how to fix the thing, they go straight to strategy. What should I do?
+
+The challenge there is that if you’re looking at the world through gray glasses, the story that you’re going to come up with is going to be most likely a disabling story and then you’re going to come up with strategies that are by and large pretty ineffective. If on the other hand, you start with state. So if you’re in a low energy state, you hop in a cold shower for five minutes, or you do 50 jumping jacks, or you do 20 pushups, anything to change your state from a low energy state to a higher energy state, and that’s governed by all sorts of things — well, let’s keep it simple, so low to higher energy state, then you sit down and because of changes in neurotransmitters or any number of things, you have a more enabling story, right? So you’ve turned the gray maybe a tint or two brighter. Then the strategies you come up with are going to be more effective. So just reminding myself constantly before you jump to the strategy, like the what to do, the how to fix, have you addressed the state? Because this thing in between the story really matters, because if your narrative is like, “Oh, I’m always pessimistic, I’ve never been able to fix this,” you’re starting at a deficit. You have a severe handicap in coming up with approaches that are going to help you. That might be helpful to people as well. Like state, story, strategy, that is the order.
+
+Matt Mullenweg: I’ve got to give credit to my mom, too. She gave me a list of three things that I found really helpful. She was like, “Did you sleep? Are you drinking water?” So sleep, water, and then “Have you been in nature?”
+
+Tim Ferriss: That’s a good checklist.
+
+Matt Mullenweg: I like that because it’s three. Sometimes I just do a check. I’m be like, “Ah, man, this morning is so tough. I felt like I wasn’t grading that meeting.” Then I’ll just like can run that.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Sometimes the body scan, I also ask myself, “Am I hangry?”
+
+Tim Ferriss: The basics, right?
+
+Matt Mullenweg: Because our body emotions come from our system and sometimes it’s saying, “I’m hungry, I’m hungry,” and it’s coming through as something else. Our brain interprets it.
+
+Tim Ferriss: Yeah, totally and to invoke our mutual friend Kevin Kelly in his book of Excellent Advice, which came out not too long ago, great book. Very pithy and one of them is, “If you don’t know what you need, chances are it’s sleep.” Or, “If you don’t know what to do, chances are you need more sleep. If you’re in a depressed state,” and this is something I have to remind myself of, I would be inclined even subconsciously to consume stimulants because that does change your state. But if you consume stimulants and then that disrupts your sleep architecture and then maybe you drink a little booze to take the edge off because you’re trying to get to sleep. This is a vicious cycle.
+
+I had Richard Branson on the podcast years ago and his advice was stop drinking as far as depression goes. He was just like, “In nine out of 10 cases, alcohol is somehow in that picture,” in his lived experience, in his social circles. Those are a few things that come to mind. There are other things certainly, I mean I could go on and on.
+
+I think The Work by Byron Katie and doing turnarounds and interrogating your beliefs is very valuable. If you have a belief that — I’m making this up, but my sister is selfish and always does what she wants, there are many work pages and exercises that are available for free on Byron Katie’s websites. If you just search Byron Katie, B-Y-R-O-N, Katie, K-A-T-I-E, The Work, you’ll find the website. All sorts of PDFs you can take down.
+
+But let’s just say, “My sister is selfish. She only does what she wants.” Okay. You would then create alternative sentences and find supporting evidence for each one. “My sister isn’t selfish, she never does what she wants,” and you have to come up with some examples.
+
+Matt Mullenweg: With some examples.
+
+Tim Ferriss: You might also replace it with like, “I’m selfish, I always do what I want,” and then you come up with some examples. I and others have found these exercises to be incredibly powerful. There are 1,000,001 different varieties of this. For me, the turnarounds are, you have to come up with confirming evidence for statements that were not your starting statement. I find defangs your beliefs, which are thoughts we take to be true.
+
+Matt Mullenweg: I like that a lot. Thing about Charlie Munger, he says you should be able to argue the opposite just as well as you can argue your case.
+
+Tim Ferriss: Yeah. Yeah. When you get thrown on stage, you’ve got to be Bernanke. Useful exercise. Really useful exercise.
+
+Matt Mullenweg: Got a couple more.
+
+Tim Ferriss: Let’s do it.
+
+Matt Mullenweg: I saw the most incredible horrifying stat, which made me change my mind on TikTok.
+
+Tim Ferriss: Oh.
+
+Matt Mullenweg: I’m just going to read this. It was ridiculous. “20 percent of 18- to 29-year-olds,” did you hear this?
+
+Tim Ferriss: No.
+
+Matt Mullenweg: Said, “Do you agree with the statement the Holocaust was a myth?”
+
+Tim Ferriss: Wow.
+
+Matt Mullenweg: Agreed with it and they had the chart of the different eras and like 65 plus it was like zero percent or 0.1 or something, and then it goes up to this 18 to 29, 20 percent. That’s horrifying. Like, oh, my goodness, whatever has led to that sort of misinformation and there’s some indicators that it could be sort of TikTok related.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: Makes me really question is this an adversarial thing? Is this another country goofing the algorithm a little bit in a way that is very scary misinformation.
+
+Tim Ferriss: Yeah. It’s terrifying.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: I mean, you imagine what a geopolitical advantage it would be to be able to just very ever so slightly nudge sentiment about X or person Y in a certain direction.
+
+Matt Mullenweg: Our social networks are not allowed in China.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: There’s no Facebook, there’s no Twitter/X. There’s no Instagram. I think there’s a reason for that. I think if you’d asked me earlier this year or something, I would’ve been like, “Whatever, we’re a free society, we should have everything, that’s dumb. Trump tried to get rid of it.” I was like, “All right, all right,” you know.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Now I’m like, “Huh,” and it was that stat that kind of blew my mind. Got some absurd things.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: Blogging. I think it’s absurd and it’s beautiful.
+
+Tim Ferriss: Absurd meaning it’s like the horse and buggy in the modern world of clips and video and AI? What do you mean?
+
+Matt Mullenweg: It feels that way sometimes.
+
+Tim Ferriss: Right.
+
+Matt Mullenweg: Everyone’s on to something else. I guess newsletters are kind of like blogging, but you know what, there’s something so beautiful about doing it. I’ve been doing a lot more this year and it’s one of the most rewarding things of my year.
+
+Tim Ferriss: What do you find rewarding about it?
+
+Matt Mullenweg: The comments, the interaction, the follow-up. It’s all that. The writing. Well, the act of writing forces you to clarify your thinking. It activates something different in your brain. I mean you know this, I’m preaching to a writer, a real writer. That’s incredible. The act of publishing is incredibly vulnerable, scary. Then all the stuff that happens afterwards, you learn so much from.
+
+Tim Ferriss: Yeah, we need to chat about how to not resurrect, because there’s still good commenters, but how one could create the best comment section on the internet. Because what I’ve noticed, and I’m sure you’ve noticed this, is that with blog posts, a lot of that conversation has sort of left the room to social media.
+
+Matt Mullenweg: Mm-hmm.
+
+Tim Ferriss: The volume of comments and so on is less, but there are exceptions. If I go to, say, the Derek Sivers blog and I look at his comment section.
+
+Matt Mullenweg: Awesome.
+
+Tim Ferriss: Amazing comments section. If I look at Tyler Cowen’s comments.
+
+Matt Mullenweg: Pretty good. Although mixed, there’s a lot of — 
+
+Tim Ferriss: Mixed, but he’s — I mean, I remember.
+
+Matt Mullenweg: He moderates it and he participates himself.
+
+Tim Ferriss: He moderates it. He moderates it.
+
+Matt Mullenweg: I think that’s the secret. You have to participate yourself.
+
+Tim Ferriss: He posed a question, it was like the most underrated geniuses of all time and he nominated Beethoven or I’m screwing it up, but it was some classical music composer and there was an amazing discussion in the comments, which of course may have been, as I think you’re implying, tightly curated.
+
+Matt Mullenweg: I don’t know. I think he’s pretty open. But you set an example.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: By the behavior that you do in the comments and that what you allow, that sets the standard and people follow that.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Also, SEO kind of screws it up, because you get people just trying to get links.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: You really have to be careful about that.
+
+Tim Ferriss: All right, so blogging.
+
+Matt Mullenweg: I changed my mind. Oh, this is my last change mind. It’s a little happier than the last one. Vienna sausages.
+
+Tim Ferriss: Vienna sausages?
+
+Matt Mullenweg: You know the sausages in the can?
+
+Tim Ferriss: I have no idea what you’re talking about.
+
+Matt Mullenweg: Oh, wow. There’s this thing called Vienna sausages.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: I have no idea if they’re from Vienna, but it’s kind of like — how many? Six or seven sausages and a little can this.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: Pops open. It’s one of those — I used to do it, have it as a kid.
+
+Tim Ferriss: Uh-huh. It makes me think they’re not from Vienna.
+
+Matt Mullenweg: I usually am not allowed to shop for myself because I am basically like a kid with a credit card, my parent’s credit card.
+
+Tim Ferriss: Gummi bears and — 
+
+Matt Mullenweg: I bought a bunch of Vienna sausages, because I was like, “Oh, this is going to be healthy.” I brought it home.
+
+Tim Ferriss: As an adult, you’re saying?
+
+Matt Mullenweg: Oh, this was like last month.
+
+Tim Ferriss: Okay. All right. Got it.
+
+Matt Mullenweg: Because I was like, “I’ll put it in my desk drawer.” I like to keep healthy snacks by my desk and where I work and I just assumed it’s sausage must be like — you know the punchline that’s coming. It’s terrible for you.
+
+Tim Ferriss: Yeah, yeah, yeah.
+
+Matt Mullenweg: You read the ingredients, the sodium, the everything. It’s like the meat is mystery meat.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I really thought I had changed my mind on that. I was saying, “Oh yeah, I had a healthy lunch in Vienna sausage,” and someone was a very close loved one, was like, “Oh, that’s not healthy.” I was like, “Yeah, it is,” and we Googled it and I was so wrong.
+
+Tim Ferriss: Okay, so Vienna sausage. Sorry, guys. You’re on the suspended list.
+
+Matt Mullenweg: Absurd stuff. Oh, this is a fun food one as well.
+
+Tim Ferriss: Let’s do it.
+
+Matt Mullenweg: There’s so much good fancy pizza in San Francisco, like Flour + Water, et cetera. One that I really like is called Delfina.
+
+Tim Ferriss: Uh-huh.
+
+Matt Mullenweg: Another thing perhaps with my Texas upbringing that I’m obsessed with is the sauce known as ranch.
+
+Tim Ferriss: Ranch?
+
+Matt Mullenweg: Yeah. Ranch sauce.
+
+Tim Ferriss: Ranch sauce. Like ranch dressing?
+
+Matt Mullenweg: Ranch dressing. Yeah, yeah, yeah.
+
+Tim Ferriss: Yeah. Uh-huh.
+
+Matt Mullenweg: Sauce/dressing. You see, this is why you’re the chef.
+
+Tim Ferriss: Yeah. Ranch sauce. Got it. Okay. Ranch.
+
+Matt Mullenweg: I asked for a ranch in Delfina and they just scoffed.
+
+Tim Ferriss: Uh-huh.
+
+Matt Mullenweg: I have not been scoffed to like that in a while. Then I tried this overseas where there was something, I asked for some ranch and it did not go well. Now contrast at a restaurant called Connessa in San Francisco, a new one.
+
+Tim Ferriss: Condessa? Or Conessa?
+
+Matt Mullenweg: La Conessa.
+
+Tim Ferriss: Conessa, okay.
+
+Matt Mullenweg: They have a lot of ex-Saison people. It’s a casual restaurant, but it’s really good service. They served an amazing pizza. I had the crust, I like to dip the crust in the ranch. I was like, “Do you have any ranch?” I was ready to be disappointed or scoffed at, and he said, “Hold on,” and they actually ran to another restaurant next door to get me some.
+
+Tim Ferriss: Oh, yeah.
+
+Matt Mullenweg: That was amazing. But then I realized, because how do you take more agency in your life? I keep asking for ranch and being shut down. How am I creating the conditions I say I don’t want? I was like, “Oh, you just get those packets.” I went on Amazon and I got like 200 ranch packets for $16 or something.
+
+Tim Ferriss: Yeah, yeah. Nice.
+
+Matt Mullenweg: These have now arrived to my place in San Francisco. It’s going to be in my next “What’s In My Bag,” is some pocket ranch.
+
+Tim Ferriss: Pocket ranch. Yeah, you just keep one or two in every inside pocket on your fancy jackets. I’ve seen you.
+
+Matt Mullenweg: I’m so curious what I’m going to put ranch on in the future, having it available at all times.
+
+Tim Ferriss: Wow. Pocket ranch.
+
+Matt Mullenweg: The absurd — I still insist on looking at every tab and email and I’m tens of thousands, not hundreds of thousands behind at this point. I think I have 500 tabs open right now.
+
+Tim Ferriss: Wait, what?
+
+Matt Mullenweg: This is an absurd thing.
+
+Tim Ferriss: Yeah, yeah, yeah. You have 500 tabs open in your browsers?
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: Yeah. Okay.
+
+Matt Mullenweg: The email thing is like — I’ll even reply to emails from seven or eight years ago. I have that folder and I go through it almost masochistically. The sad thing is on a third of them, it just bounces, because people don’t have the email address anymore.
+
+Tim Ferriss: Why on Earth are you replying to emails from seven or eight years ago? Is this just your Opus day penance?
+
+Matt Mullenweg: There’s probably some of that.
+
+Tim Ferriss: Just cat o’ nine tales on the back for — 
+
+Matt Mullenweg: Wow. I also, like — 
+
+Tim Ferriss: I’m not worthy. I’m not worthy.
+
+Matt Mullenweg: I fully appreciated people who have replied to me when I was nobody or anything like that.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: I kind of want to pay that forward a little bit. I also just am really impressed. I feel like there’s folks who — 
+
+Tim Ferriss: There maybe a point when you’ve repaid that debt.
+
+Matt Mullenweg: What’s that?
+
+Tim Ferriss: I said, I feel like there may be a point where you’ve sufficiently repaid that debt that you don’t need to continue to crawl on your knees on broken glass with your tab of 10-year-old email.
+
+Matt Mullenweg: I didn’t say this was a good idea. You asked for absurd things.
+
+Tim Ferriss: Oh, I know. This is absurd.
+
+Matt Mullenweg: This is absurd.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: I’m still doing that and yeah, maybe I’ll work on that on my sabbatical.
+
+Tim Ferriss: There you go.
+
+Matt Mullenweg: I’ll just answer emails the whole time.
+
+Tim Ferriss: Oh, God.
+
+Matt Mullenweg: Oh, I’m kidding. I’m kidding. I think you might have some of this as well. I have a very ultra-critical eye.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: I’ve been constantly remodeling things instead of just enjoying.
+
+Tim Ferriss: Mm-hmm. Yeah.
+
+Matt Mullenweg: They’re pretty decent and fine already.
+
+Tim Ferriss: Yep.
+
+Matt Mullenweg: This is one of those things that there’s a superpower as well. I can open a web app or a design and immediately spot things down to the pixel.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: But the downside is sometimes I go in an apartment that’s beautiful and I’m like, “Oh, next to that speaker, there’s a little divot in your ceiling.”
+
+Tim Ferriss: I have the same thing.
+
+Matt Mullenweg: That now you’re going to see every time. No, I’m kidding.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: I just cursed your apartment.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: That is a curse as well. I’d like to be able to turn it off to just enjoy things as they are. The wabi-sabi.
+
+Tim Ferriss: Mm-hmm. How do you think you’ll make any progress with that?
+
+Matt Mullenweg: No idea. Maybe someone can leave a comment.
+
+Tim Ferriss: I’ve become a bit better at this. There are cases where I succumb to this fine eye for detail, but I think that — this comes back to the depression question a little bit. I would push back on the idea that some of the interventions I mentioned, like 30 days of meditation are out of reach for people who are having a hard couple of weeks.
+
+I would say that the returns on something, and this is very simple. Number one, the social return on, say, going to a weekend transcendental meditation training, interacting with someone is net positive to begin with. So I’m assuming you can get out of bed. If you’re crippled psychologically and can’t get out of bed, then it’s a different conversation. But if you can get up and you’re just like, “I really just don’t know what to do to get out of this funk,” meditating twice a day for a week, I would say in the vast majority of cases, 20 minutes a session twice a day will make a difference.
+
+It creates a bit of space in the system and a little bit more space. It’s like taking your thought speed down to 0.5 X, so that there’s a little bit more space for you to become aware of the stories and the voice and so on. But honestly, just slowing down, which for me, meditating twice a day does, more than half of the time, I wonder if the benefits that I get from it are just not doing anything for 20 minutes.
+
+I could just lay down on the floor for 20 minutes, but proving to myself that I do not need to rush. I have enough time. I have the luxury of being able to take two 20 minute breaks and then seeing over the course of the week that, “Oh, I actually get better results with less stress when I do this.” Sometimes I think it’s just sitting up straight with good posture for 20 minutes.
+
+Matt Mullenweg: Mm-hmm.
+
+Tim Ferriss: I don’t know what the causal factors are, but I do think there’s a benefit there. I’m bringing it up because I do think that a regular meditation practice has helped me to accept some of the wabi-sabi stuff and where there’s a point of diminishing returns where there’s improvement up to 90 percent right.
+
+Then if you want to improve it from 90 percent right to close to a hundred percent right, first of all, you’re almost never going to get to 100 percent, because things change and things deteriorate. I’m making up a number here, but let’s just say it takes you five hours or 50 hours to get to 90 percent right, it’ll take another 50 hours to do the last 10 percent.
+
+Matt Mullenweg: It’s actually, that’s very different from my experience of meditation.
+
+Tim Ferriss: All right, tell me. You become — 
+
+Matt Mullenweg: This is actually — it’s something I’ve changed my mind on. We’re going to have to talk at dinner, because I — 
+
+Tim Ferriss: You’ve become more monkish?
+
+Matt Mullenweg: Well, no. I think meditation can actually be dangerous at certain levels. That’s something we have to explore.
+
+Tim Ferriss: Mm-hmm. Okay.
+
+Matt Mullenweg: But for me, and maybe it’s how I’m meditating as well, my system gets very sensitive and very observant.
+
+Tim Ferriss: Yeah?
+
+Matt Mullenweg: I also probably try to use meditation a little bit as a mental exercise, improve my cognition, my focus, other things.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: That focus as well, can sometimes or just the sensitivity to the system, talking about downsides of meditation, I know someone who loved blueberries and they got so sensitive to their system they can’t eat blueberries anymore.
+
+Tim Ferriss: From meditation?
+
+Matt Mullenweg: That’s what they claim.
+
+Tim Ferriss: Wow.
+
+Matt Mullenweg: There’s the pursuit of the Jhanas, which is really big in San Francisco now. I’ve got to catch you up on a bunch of weird San Francisco stuff.
+
+Tim Ferriss: All right, so we’ll get caught up on the weird San Francisco stuff. I did just do an episode, which didn’t get as much attention as I would like it to get, but I did an extended episode with Dr. Willoughby Britton I’ll put it in the show notes on the hidden risks of meditation, actually.
+
+Matt Mullenweg: Oh, cool. I’ll check that out.
+
+Tim Ferriss: How they’re addressed and how they overlap with a lot of the risks of psychedelics.
+
+Matt Mullenweg: I believe that, yeah.
+
+Tim Ferriss: Which is not to say like — 
+
+Matt Mullenweg: Don’t do it.
+
+Tim Ferriss: Yeah, a boogeyman in the closet, like you’re going to do TM for 20 minutes and have your brain implode. I’m not saying that.
+
+Matt Mullenweg: Not so that — the dose of that is, I think extremely low risk.
+
+Tim Ferriss: Yeah, yeah.
+
+Matt Mullenweg: I’m thinking more like, yeah, many hundreds of hours.
+
+Tim Ferriss: Then you get into trickier territory. I mean, historically, it’s not like everybody in the world was on meditation apps. Meditation was reserved for a pretty select group of folks, who had a lot of supervision. 20 minutes though, twice a day I find helpful. For example, a mutual friend of ours was at my house recently and for whatever reason, I’m in an older house and there are 87 light switches. There’s so many light switches, it’s so unnecessary. There’s one panel with the switches that is like 10 percent turned. He doesn’t have the fixation on details that I do. But he said to me, he’s like, “I’m astonished that you have not fixed that because that must drive you insane.” He’s known me for a very long time. I was like, “Yeah, this is my daily practice is to look at that.”
+
+Matt Mullenweg: That’s cool.
+
+Tim Ferriss: And be like, “You know what, it’s fine. It’s fucking fine.” There are many other bigger fish to fry. That in a way kind of becomes my practice. It’s in the kitchen. I see it every day and it’s gotten to a point where it doesn’t bother me.
+
+Matt Mullenweg: Well, and if or when we have kids, I think kids also break it up.
+
+Tim Ferriss: Oh, they’re going to break everything.
+
+Matt Mullenweg: Any obsession you have with keeping your house perfect I think goes out the window.
+
+Tim Ferriss: Oh, yeah, yeah. It’s going to be game over.
+
+Matt Mullenweg: I’m almost done.
+
+Tim Ferriss: All right, what you got?
+
+Matt Mullenweg: This last one is really weird and then I have a funny one.
+
+Tim Ferriss: All right.
+
+Matt Mullenweg: The weirdest thing I’ve been exposed to recently, Scott Alexander actually wrote about it, but have you heard about this bacteria you put in your mouth and it eliminates cavities?
+
+Tim Ferriss: No.
+
+Matt Mullenweg: Okay, so we have bacteria in our mouth. It’s a whole microbiome, right?
+
+Tim Ferriss: Yes.
+
+Matt Mullenweg: I guess there’s a mutation on one of the bacteria that they have essentially GMOed a replacement.
+
+Tim Ferriss: Mm-hmm. Okay.
+
+Matt Mullenweg: The bacteria, I guess, normally produces lactate acid.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: The lactic acid is what breaks down your teeth, creates cavities.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: In the ’80s, I guess the scientists discovered this in one of his student’s mouth. It had two mutations and they genetically modified it to add a few more. Basically one, instead of lactic acid, it’ll produce alcohol.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: Really trace amount.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: This is not even one drop, but it’s — 
+
+Tim Ferriss: It’s not like a whiskey distillery in your mouth.
+
+Matt Mullenweg: You’re not getting drunk from having this bacteria. I forget the second one. The third one was basically something where it won’t share this mutation with other bacteria. It takes out the thing that usually allows bacteria to trade stuff. There was a fourth one. I don’t know, we’re going to have to look it up now, because I’ve forgot two of the four things.
+
+But you get a one-time treatment of this. You basically scrub your teeth a lot. You put in this new thing, it takes over. Oh, it takes over from the old version of this bacteria, and that becomes the dominant bacteria in your mouth. It doesn’t, if you kiss the friend or something, doesn’t spread because they would need to have their mouth existing stuff removed first before the new thing could take hold.
+
+Tim Ferriss: Yeah. Their parking spots are full.
+
+Matt Mullenweg: The parking spots are full. I guess the story is this guy tried to get it FDA approved, a scientist, and he created a company around it. The FDA was like, “You need to test this on 100 children or 100 people who live more than — 100 people under 30 who have dentures, who live more than five miles from a school or something like that.
+
+Tim Ferriss: What?
+
+Matt Mullenweg: They created this really messed up thing.
+
+Tim Ferriss: Weird.
+
+Matt Mullenweg: It was basically impossible.
+
+Tim Ferriss: Weird.
+
+Matt Mullenweg: Some hackers heard about this story. First they tried to clone it, then they partnered with the guy to get the formulation, and they’re doing it down in Central America someplace.
+
+Tim Ferriss: What?
+
+Matt Mullenweg: There’s this libertarian. What’s the name of that city that they created?
+
+Tim Ferriss: Oh, it’s — 
+
+Matt Mullenweg: The crypto libertarian one.
+
+Tim Ferriss: It’s like a crypto libertarian thing in El Salvador or something. I’m blanking on the name.
+
+Matt Mullenweg: It’s called Lantern Bioworks.
+
+Tim Ferriss: Okay.
+
+Matt Mullenweg: I have no association, not an investor or anything.
+
+Tim Ferriss: No. Okay.
+
+Matt Mullenweg: I’m thinking about trying this. It’s a little absurd.
+
+Tim Ferriss: Okay. Lantern Bioworks.
+
+Matt Mullenweg: You go down, you get the treatment, a one-time thing. I guess when they’re bootstrapping, the company will be expensive, like $20 grand.
+
+Tim Ferriss: How are they in Central America?
+
+Matt Mullenweg: The goal is to make this a couple of hundred dollars. Oh, because this libertarian city has anything a consenting adult wants to do for a biotreatment, you do.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: As long as you’re informed of the risk. The other thing, they’re going to hopefully commercialize it so they can make it $200.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Then finally they’ll try to bring it back to the US. I guess it’s different regulations around probiotics. Have you tried ZBiotic?
+
+Tim Ferriss: I have, yeah. I tried it this past, I guess maybe six months ago.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: I did not find it. This is to prevent hangovers? This is what we’re talking about?
+
+Matt Mullenweg: Yeah. It helps metabolize the alcohol in your stomach.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: Yeah.
+
+Tim Ferriss: I did not see a huge difference personally, but maybe I wasn’t consuming enough. But yes, I know what the product is.
+
+Matt Mullenweg: Yeah, so same idea. That’s A GMO biotic.
+
+Tim Ferriss: I know people who swear by it, but for me it — 
+
+Matt Mullenweg: I brought some just in case this was going to be one of those podcasts.
+
+Tim Ferriss: Oh, good. Good. Well, look, I’m always up for a second ride at the rodeo.
+
+Matt Mullenweg: Yeah, there’s a different regulation around these probiotics.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: If they can kind of get it reclassified as a probiotic, I think they can maybe bring it to the US. But how cool that may be in the future, we won’t have cavities anymore? Because this will just be something we give to kids as soon as they start to develop teeth.
+
+Tim Ferriss: Wild.
+
+Matt Mullenweg: Then how cool would that be?
+
+Tim Ferriss: Uh-huh. Yeah, wild.
+
+Matt Mullenweg: That’s my weird thing. Then my funny thing is, this is also my “What’s In My Bag” post, but it’s a little device, USB-C of course. You never know when you’re going to need a party, so it plugs in.
+
+Tim Ferriss: This is like a disco ball that plugs into the bottom of your iPhone.
+
+Matt Mullenweg: USB-C.
+
+Tim Ferriss: Yeah, USB-C. That’s amazing.
+
+Matt Mullenweg: You can get adapters for lightning and different stuff. But yeah, especially with the holidays coming up, New Year’s.
+
+Tim Ferriss: That’s fun.
+
+Matt Mullenweg: Just a little pocket party.
+
+Tim Ferriss: Yeah.
+
+Matt Mullenweg: This is so fun.
+
+Tim Ferriss: That is super fun. Amazing. That’s awesome.
+
+Matt Mullenweg: This is $3 or something.
+
+Tim Ferriss: What would someone search to find that?
+
+Matt Mullenweg: It’s on my post. The “What’s In My Bag” post.
+
+Tim Ferriss: Okay. We’ll link to that.
+
+Matt Mullenweg: And I think this was like USB disco light that I saw.
+
+Tim Ferriss: Literally you could hold it, you could cover the whole thing in your hand. It’s very small, but it does look pretty much exactly like a disco light, with USB-C that you plug — 
+
+Matt Mullenweg: That one’s now for you.
+
+Tim Ferriss: Oh, thank you.
+
+Matt Mullenweg: Merry Christmas.
+
+Tim Ferriss: Merry Christmas. Merry Christmas. So great to hang, man.
+
+Matt Mullenweg: Likewise. This has been a lot of fun.
+
+Tim Ferriss: Always, always a great time. We’re going to head out, grab a bite to eat. We’ll continue the conversation. Anything else you’d like to add before we wind to a close?
+
+Matt Mullenweg: No. Photomatt, P-H-O-T-O-M-A-T-T.
+
+Tim Ferriss: Mm-hmm.
+
+Matt Mullenweg: All the socials. But really check out my blog, ma.tt.
+
+Tim Ferriss: Ma.tt We will add everything we talked about to the show notes, so folks can peruse all of these things. There’s going to be a lot at tim.blog/podcast and search Mullenweg. I should probably come up with a more elegant way of directing people to specific episodes.
+
+But if they search you, you’ve been on a bunch. Just look for the most recent episode, assuming that you’re not listening to this a few years hence. As always, till next time, be just a little bit kinder than is necessary. Not just to other people, but to yourself. Remember that, Jack Kornfield. If your compassion does not include yourself, it is incomplete. As always, thanks for tuning in. 
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+MATT MULLENWEG
+	
+Post navigation
+Previous Post
+PREVIOUS
+Matt Mullenweg — The Art of Crafting a Sabbatical, Tips for Defending Against Hackers, Leveraging Open Source, Thriving in an AI World, and Tips for Life’s Darkest Hours (#713)
+Next Post
+NEXT
+24 Highlights from The Tim Ferriss Show to Make You Healthy, Wealthy, and Wise in 2024 
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.

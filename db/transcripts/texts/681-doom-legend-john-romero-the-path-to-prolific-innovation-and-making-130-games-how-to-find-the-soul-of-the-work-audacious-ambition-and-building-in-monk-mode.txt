@@ -1,0 +1,426 @@
+https://tim.blog/2023/07/15/john-romero-transcript/
+
+#681: Doom Legend John Romero — The Path to Prolific Innovation and Making 130+ Games, How to Find the Soul of the Work, Audacious Ambition, and Building in Monk Mode
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+JULY 15, 2023 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Doom Legend John Romero — The Path to Prolific Innovation and Making 130+ Games, How to Find the Soul of the Work, Audacious Ambition, and Building in Monk Mode (#681)
+LEAVE A COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with video game legend John Romero (@romero). John has designed and published more than 130 games since his first sale at the age of 16. A teenage programming prodigy, his major achievements include co-inventing a series of revolutionary computer games—DOOM, Quake, Wolfenstein 3-D, and Commander Keen—that launched the industry’s most popular genre, the first-person shooter.
+
+The memoir DOOM GUY: Life in First Person is his first book.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#681: Doom Legend John Romero — The Path to Prolific Innovation and Making 130+ Games, How to Find the Soul of the Work, Audacious Ambition, and Building in Monk Mode
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS:
+
+Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+
+Tim Ferriss: All right, John, nice to see you, and welcome to the show.
+
+John Romero: Well, thanks for having me. I’m excited.
+
+Tim Ferriss: I thought I would give a few caveats for people listening. Number one, I’m going to operate on the assumption that most people have very little context on your life story, so I will be asking a lot of very basic questions. And I extend my apologies to you and the hardcore gamers out there, but I think that’ll be helpful for folks. And some very, very long-term listeners may recognize your name because it came up in conversation with Alexis Ohanian, who is a friend of mine, co-founder of Reddit, who credits your story with helping inspire the creation of that company. And of course your story and the products of your imagination and hard work have also inspired many, many others. The creation of Oculus VR and the cultural touchstones and the influence of pop culture over decades is really remarkable. So in the process of doing my homework and due diligence for this conversation, the expansive nature of the impact is pretty mind-boggling.
+
+But I want to start in the beginning, and by beginning I mean childhood, because I’d like to provide some connective tissue that then leads into later questions. Could you please just describe where you grew up and what your childhood looked like?
+
+John Romero: I grew up in Tucson, Arizona. I was born in ’67, so I did a lot of my early years in the late ’60s and the early ’70s. I grew up right next to the Yaqui Reservation, and my families, on my dad’s side, has Aztec and Yaqui heritage, but we call ourselves Mexicans and Mexican food was the food that we all ate.
+
+We lived in a pretty poor place. I only lived in that area until about fourth grade, but it was pretty culturally significant to me because I really learned a lot of my Mexican side at that time. And then we moved. My dad went to the grocery store and never came back, and so my mom got a divorce and then met a guy that was a military guy and got married. And then we moved to Northern California, which was very, very different than the desert in Tucson, Arizona. 
+
+Tim Ferriss: I would love to hear you expand a little bit on your time in Tucson and your experience with your biological father because I think it paints perhaps a picture. I was reading a piece in The Washington Post that certainly made it seem very challenging, that chapter of your life. 
+
+John Romero: I don’t know how many generations ago that is, but in human generations it was a long time ago and people definitely acted differently back then. And I guess in the family and in just socially, the circles that my dad ran around in, drinking alcohol was like drinking water. I never saw him actually drink water, it was always beer. And it wasn’t just him, it was basically just about everybody. And people that drink usually will surround themselves with other people that drink because they like doing similar things together. So everybody that I saw always drank. And that always led to all kinds of crazy stuff happening, because when you’ve been drinking, you’re going to be doing all kinds of random stuff. 
+
+INTERLUDE
+
+Tim Ferriss [to listeners]: At this point, I think it might be helpful to provide a little bit of context related to the hardships that John endured and overcame in his childhood. Because I think it informs who he is and speaks to a toughness and resilience that is worth underscoring. So what I’m going to read is an excerpt from a very good piece in The Washington Post titled “Why revered developers John and Brenda Romero started a game studio in Ireland.” And here is that excerpt.
+
+“John grew up in Tucson, Arizona. His biological father was an alcoholic. ‘At that point in time, John would’ve had burn marks on his arms, he would’ve seen his mother getting beat up,” Brenda said. [Brenda is John’s wife.] Money and food were tight. John’s father robbed stores at gunpoint on multiple occasions to get diapers. One day, when John and his younger brother Ralph made a mess in the kitchen, his mother, stressed, told John’s father to ‘get rid of them.’ It wasn’t meant to be literal. ‘He just put us in the truck and drove us out in the middle of the desert and told us to get out and then took off,’ John said. He was six. Ralph was four. John recognized where they were and decided to follow the truck, spending a half-hour in the desert until his mother made his father bring them home.”
+
+So this is one of quite a number of examples, but I think it is worth including here simply because it is part of the context that makes John who he is. 
+
+And with that, back to the interview.
+
+END INTERLUDE
+
+Tim Ferriss [in conversation]: It seems like when your mom met this military man, that it was a real significant chapter shift and shift of environment, shift of experience. And I’m not sure how far ahead we’d be skipping, but could you explain what Aggressor Squadron was and how you became involved with that?
+
+John Romero: The Aggressor Squadron was one of the divisions on the military base that he was stationed at in 1983. That was a place where the pilots — this is the Cold War, by the way. The pilots are learning Russian flight maneuvers, combat maneuvers, and the Aggressor Squadron is where they all learned all of the flight training, I guess, that they needed in case they got in contact with Russians. And the point was not to ever get in contact, because this space was primarily a reconnaissance space where they were flying U-2s and TR-1s to do reconnaissance over Russia, to try and find out what they’re doing. But in case something happened, they would know what would to do. So they flew a lot of other planes out of there. I think F-5s, a lot of F-5s. And anyway, that was the place where he did that. 
+
+When I started school halfway through — at the beginning of 1983 but was halfway through the school year of my sophomore year in school, I could actually choose to take computer programming, which is pretty great in the ’80s. Because it was halfway through the year, the teacher had to approve that it was okay for me to join because I was halfway through learning BASIC. But I already knew BASIC, I was finished with BASIC and I was learning assembly language. And when I talked to the teacher and showed her that I knew assembly and that’s why I’m coding and I know everything about this machine and all that, so she was really impressed the first day that I got into school.
+
+And the second day when I came to school, she told everyone in the class what to work on and then she told me to follow her, and we went to her car and she drove me to the Aggressor Squadron on base and introduced me to Captain Spencer. And he was Top Gun dude. He was a total rocket jockey guy. He ejected out over the Mediterranean, this guy’s done so much stuff. Anyway, he went to a phone, and he said a bunch of different code words into the phone. And then this giant bank vault-looking door opened, big round one, it opened and we went inside of this vault vault, a bank vault-looking thing. It was in the middle of the Aggressor Squadron where they keep classified stuff. And they had already put away the stuff because they knew that he was bringing someone in that didn’t have clearance.
+
+And he took me to the back and I saw this mini computer, it was a Cromemco, and he said, “Here’s our mini computer. I’m just wondering if you knew how to program it?” And so I got on it and I noticed that it was using the CPM operating system and that you could program it in BASIC. So I said, “Yeah, yeah, I know CPM and I know BASIC.” He is like, “You’ve got yourself a job.” So basically I got a job the second day I got to school just because of connections. My teacher saw that I knew how to code and then she ran into this guy later that day and told him about me and he is like, “Bring him on over.” So it was just really, really random.
+
+Tim Ferriss: How did you get your very first taste of computers? When did you get bitten by the bug? Given the humble beginnings where one would assume, especially at that time, that it would be very hard perhaps to come across or get access to computers.
+
+John Romero: Getting access to computers in the ’70s was basically not going to ever happen in someone’s house. Computers weren’t even in the home yet. The personal computer revolution was just barely beginning, so only thousands of people in the United States may have had a computer and they most likely built it themselves. So computers were very early, they weren’t really in houses yet.
+
+But in 1979, my friend — I was addicted to arcades. I played arcade games all the time, or pinball or anything, because it was so much fun and so different. But it cost money and it’s hard for a kid who’s 10 or 11 to actually have the money to spend on arcades. But my friend came to my house and said, “I just found a way for us to play games that doesn’t cost any money.” And I’m like, “Oh, my God.” I jumped on my bike and I followed him, and about a half an hour later we pedal up to the Sierra College computer lab.
+
+It’s summertime in 1979, so I’m 11 years old. And I just follow him and we go into this computer lab, it’s really nice and cold. And basically he shows me this computer and the computer, it’s a mainframe in a room. There’s a room that’s just got a giant computer in it and there’s these terminals, these black and white TV screens with keyboards connected to them. And I mean, there’s like one unit. And so he starts showing me these really early text games, and these text games are Hunt the Wumpus and Star Trek and Poison Cookie and these just really early, early games. And I was just really impressed because I didn’t need to pump in quarters and I could take my time with every move, I could just think about it and then move. That was very, very different.
+
+So I played for a little while and I noticed that there were only probably two students in the room, and I said, “Well, what are they doing on the computer, because it doesn’t look like they’re playing?” He goes, “Oh, no, they’re programming.” And I’m like, “What is that?” He said, “Well, that’s actually what you do to make these games. You have to learn how to tell the computer how to put stuff on the screen and what to do, how to think.” And I’m like, “I want to do that.”
+
+So I just went over and asked one of the students, “What does that mean?” And it’s like print statement and some other stuff. And he tells me what it is and I started asking him some more questions. “What does ‘if’ do, what does that mean?” And so he is explaining it. And eventually, because I’m asking too many questions, he just gets me the book for BASIC that’s there and I just take it over to the computer that I was on and I basically started learning how to code. And with nobody kicking me off the computer, I’m sitting there with a book and I’m starting to teach myself how to program a really basic adventure, which goes from room to room, just with a text description. So basically, on a high level, it’s kind of crazy. 11-year-old goes to computer lab at the college and teaches himself how to code.
+
+Tim Ferriss: Yeah, it’s incredible.
+
+John Romero: And so yeah, that’s what I did. And I didn’t have a computer for three years after that. In the meantime I would go to any computer store in my town or the next town, and if they had a computer there, like Radio Shack has a TRS-80 or something, I would sit down and I would find one of the books that has programming in it and I would just enter the code into the computer and play around with it and figure out if it doesn’t work usually, why it doesn’t work, and try to fix it and then change it. And that’s really slow learning. But that was how I learned how to code in my first introduction to computers was at the college because I never saw them anywhere else.
+
+Tim Ferriss: Pedaling over. And was the main interest, at that point, I would assume the creation of games? And I guess the follow on to that is, was there something about programming that tickled your brain in a particular way? Was there something else intrinsic to programming that appealed to you beyond the output, which would be the games?
+
+John Romero: Gaming was the only reason why I wanted to start learning how to code because I — thinking about arcade games, it was like, “I have no idea how I would even make that.” But looking at the games that I had played on the mainframe was like, “I could probably do that,” because that’s just really simple stuff on the screen. So when I could get things up on the screen quickly and they kind of looked similar to what I was playing, I was like, “I am totally on the right track. This is going to work.” So the interest was only to make games.
+
+But one of the really interesting things about programming, and especially back then, was that the programming experience was extremely immediate. On computers back then you could turn the computer on and it was ready to code, right then. There was no programs to run to code a computer, it was ready. So the iteration speed of learning was as fast as it gets. It’s like, I could type something in and run it. And it either was going to bomb and tell me there’s something wrong or it’s going to work and I’m like, “I just learned something new.” So that iterative, that fast feedback, iterative nature of programming, was really, really conducive to keep my interest in learning how to code and get better at it. And yeah, it was just building on stuff very, very fast. Learning all the keywords, figuring out how to put them all together to do certain things. And not just solving problems, but I’m starting to architect what I want to do.
+
+And so there’s these phases of learning where you start to understand that anything that you can think of, you can make it happen. If you only you have the right words and the right description to, “How do I put a thing on the screen?” Well, that’s with print. “How do I put it over there on the screen?” And then it’s like, there’s some commands for saying exactly how to get to that point on the screen. When you start breaking down all of these little problems and you know how to solve one of these little problems, you start to have a lot of confidence that you can do what you’re hoping to do. And that just makes you want to keep on going.
+
+So solving problems really, if you’re a person who likes to solve problems, programming is absolutely for you because your job and your whole life is solving problems when you are a beginning programmer. You’re climbing these walls constantly to get over them and learn something and go do the new thing.
+
+Tim Ferriss: I’m going to leap forward a bit and then we’re going to go back and fill in some of the gaps. And I’m getting very much in the deep end of my ignorance pool, so I’m going to need you to lead me through what I’m about to read. But I was talking to my brother last night who codes, is involved with technology, and he pointed me ultimately to a rabbit hole that led me to a paragraph, this is going somewhere, on gamerant.com, and I was hoping you could explain what this means.
+
+So, “John Romero ended up making the biggest advancement in gaming since the invention of the video game itself. He was the first person to make a navigable maze appear on a screen, giving gaming a third dimension of movement.” We were just talking about problem solving, and this may require some explanation on your part, but could you walk us through the significance of that and how it came to be?
+
+John Romero: Computer games have been around since the ’70s. And 3D games have also been around since the ’70s, so there were some really primitive games. But first-person, if we’re talking about first-person, which is where people really start to get into 3D, there was really, really early games in the — say, in 1974, is where 3D games really start on mainframe computers, where it’s rendering a hallway scene and maybe a character on the screen in front of you. And when you move, you don’t move smoothly, you move by a chunk of the maze. So it’s a really primitive movement, but it’s like, it’s rendered in 3D.
+
+And not until we get to, say, Battlezone in 1980 does it become very smooth. And Battlezone is line-drawn pyramids and stuff in the back in the scene and, say, another tank. You’re in a tank and there’s another tank, and they’re smoothly moving and coming towards you and you’re having to use tank controls to aim and shoot at it, and everything’s coming for you. But it was a smooth-moving 3D, but it was line-drawn. So the advancements in 3D eventually get to the point where you have solid filled walls so it looks like a color, walls look a certain color, so when you turn it’s not seeing through an invisible wall.
+
+And then they start getting textures in the mid ’80s. So if you play, say, Might & Magic, you’ll see it. I think some Wizardry games also had it. And even Ultima, when you go into the dungeons, you’ll see a rendered 3D view that has texture on it, like someone drew a wall, like an actual bricks or whatever. But it doesn’t move smoothly, it’s moving by chunks. Still, on computers, it was a lot slower to get to that point of smooth movement.
+
+So when we started doing 3D in 1991, we did do solid color walls, but we could move through that maze perfectly smooth and turn any direction we wanted to and see that maze in fluid, full, high-speed 3D, which nobody had seen at that point. Our focus was on trying to make that happen, the speed was the focus for us, getting 3D moving quickly became — at least at that point with that one early game, that was really important for us. It wasn’t to do something really amazing with the 3D, but it was just to get a 3D scene drawing at high speed so you can turn around in one second, you can just do a spin. And that took a lot of computer knowledge of the hardware of the computer.
+
+And also how to draw a scene not using all of the 3D equations that you normally would use to compute a 3D scene, but restricting the way that you could move to reduce the amount of computation that you needed to do to turn the scene into a scene that is visually complex in 3D, do that very quickly, by not having to worry about certain angles that you would see, or turn your head or roll forward or whatever. So it restricted you to only one plane of turning, where you’re just rotating your head around. You can’t look up and you can’t look down and you can’t tilt your head sideways.
+
+So by reducing your motion that way, it reduced the kind of computations that we needed to do.
+
+Tim Ferriss: So if I’m hearing you correctly, and I may not just because of my limitations as a Luddite, or maybe not a Luddite, but more of a muggle in this capacity, but it seems like you applied positive constraints, a number of constraints, so that you could use, let’s call it elegant code, to dramatically improve the speed of the player experience.
+
+And I’d love for you to explain two things for people listening. Number one, when you’re saying “us,” who is “us?” And why do you think you guys were able to create this breakthrough instead of perhaps other teams? Or were other people simply not looking at it the same way you were in terms of optimizing for speed and using that as the primary driver behind the development?
+
+John Romero: So “us” is id Software, which is a company that I co-founded in 1991. We started 1990, but we officially started the company in 1991. And that’s me and John Carmack, Tom Hall, and Adrian Carmack. Adrian and John are not related. And it was just us four that founded this company. And in 1991, which is the first year that we were officially in our own office basically to make games full-time, all day long, at our own company, which is a major achievement for us because like everybody, we have jobs, we had day jobs, but we had created a game in our off time and it did really well and allowed us to basically start the company formally. We were doing side-scrolling games at that time using a technique that no one had ever used before on a PC. It hadn’t been discovered for nine years since the introduction of the PC until John Carmack figured out how to get pixel smooth scrolling horizontally on a PC and it looked like a Nintendo.
+
+Tim Ferriss: Sorry to interrupt, could you give an example, just for people listening, who may not know the terminology? I know it seems self-explanatory, but a side-scrolling game, what would be a well-known side-scrolling game so people can visualize?
+
+John Romero: Yeah, Super Mario Bros. — 
+
+Tim Ferriss: Super Mario.
+
+John Romero: — is a side-scrolling game, and there were thousands of them throughout the ’80s, but on a computer, on a PC, and the PC came out in August of 1981, on the PC, no side-scrolling game could move a dot a time horizontally. It always moved by eight pixels. It just chunked across the screen. So it was very chunky and blocky when it moved. And that’s because even moving the whole screen itself took a lot of time, but to move it by a pixel was kind of unimaginable because there was no way to control that at a high speed. So when John made the breakthrough of 1990 to figure out how to do that horizontal movement, like a Nintendo, like Super Mario Bros. on a Nintendo, how to do that on the PC. That was basically the moment that id Software was born because it was like, we are doing this in our own company.
+
+Oh, my God, no one has ever seen this before. I’m just blown away. And when we finally started the company, I think it was half a year after that moment when we started it, in 1991, we made 13 games that year and we made them at high speed. A game took us two months, but we would make two games at a time. So we were so busy. The first 3D game that we made was called Hovertank One, and that was just to get our feet wet in 3D because we knew that 3D is really where games are going eventually. Because at that point there were very few 3D games and they were very, very slow. None of them made a wall look like there were bricks on it or rocks or whatever it was. It was always some kind of solid color or some little pattern of dots, two different colored dots to make it look like another color that doesn’t really exist.
+
+It’s called dithering when you do that. But it wasn’t really advanced. So our focus was to make the screen appear like other games except make it so we can move through the level smoothly, not in chunks, and to be able to turn in any direction and do that at a very high frame rate because no one had ever done that before. And that was the focus of Hovertank One and that game was made in two months. And that was John’s big breakthrough, was just creating the architecture of that engine and getting the rendering for 3D going at that speed.
+
+Tim Ferriss: 13 games in one year. I know nothing about game development, but I imagine with a relatively small crew, that sounds like a lot of games. What do you think enabled you guys to do that that maybe was not present for other people working on games who had much lower output? What were the ingredients or the approaches or the principles, anything at all? Maybe just tolerance for sleep deprivation. I don’t know. What were the ingredients that allowed you allowed you guys to do that?
+
+John Romero: So the way that we could achieve this game development at such high speed back then was that when we got together as id Software, we had already individually, other than Adrian, who just learned how to put pixels on a computer screen, but he was a fine artist on paper already for his whole life, each one of us four had 10 years of game development experience like all the time. And so we’d already made dozens of games each. Tom Hall, who was our creative director, he was a programmer, an assembly language programmer. He made tons of adventure games. He did action arcade games in assembly language. So he was already a very fluent programmer. John Carmack, of course, coded since he was a kid. I coded since I was 11. So we’d been making games for 10 years and the amount of games that we’d made was dozens each.
+
+And when you make that many games that quickly, you learn how to scope, and scoping is basically defining exactly what that game should be and not adding to it, subtracting from it most likely if you’re going to try and get it done. So scoping is like, this is the amount of time that I have, this is probably the kind of game that we can make and how big we can make it. Let’s do that. And as you get closer and closer to that deadline, you start cutting things away that you don’t need to hit that deadline. So when we did it before meeting each other, when we did it on our own time, we set ourselves our own goals for finishing our own games, and we got really good at scoping. So when we got together and we saw what we could do together, we also scoped together how big those games should be, and we had to deliver within two months.
+
+So we had to know how good every one of us is, how fast we can all work, and then scope a game to that limitation. And because we had 10 years of game dev experience, we could just slam games out super fast, come up with ideas, bam, start from doing the graphics, doing the animation, programming the engine, making the levels, making the level editors to create levels, you name it, all the tools that are in the background that no one sees, to build the game data and put it together in packages that the game can access. There’s so much technology that goes on before you get to gameplay programming, but we were used to doing that already for 10 years. So it was not just the experience that we had, but it was also the focus that we had. We were just so happy to be able to make games all day long as a job, which is really just like the luckiest position ever.
+
+So we could focus on doing that. We could scope our games down really, really well. We knew what to cut when it was time to start cutting stuff if we’re getting closer to our deadline. And because there was no internet back then and no one had cell phones, there was complete and total focus because our phone never rang. There was a phone on the wall and that thing never rang. So there’s no interruptions. Nobody’s coming to the house and knocking on the door in interrupting our thoughts. So we could just focus for 12 hours a day at least, and just code, design, you name it, constantly.
+
+Tim Ferriss: So to build on the emphasis you put on scoping, which I think is certainly applicable to so many different projects, maybe all projects, that certainly applies to book projects and so on that I’ve been involved with, podcasts, thematically choosing where you’ll go and where you will not go. I was doing some research, and I read a discussion of different, I suppose, principles at id Software, and a comment came up, which was “No prototypes,” which was attributed to you, and talks about you guys being your own best testing team and so on. Can’t believe everything you read on the internet, of course, but if this is true, if you could elaborate on what you mean by that.
+
+John Romero: So to get that many games done that fast, you can’t be playing around with making prototypes. Prototypes are like, let’s test this and see if it works, and let’s test that and see it — there’s no testing. It’s like, here’s the game that we’re going to make, here are all the characters that go in the game, here’s how many levels we have, here are all the pieces of the levels that need to be drawn, here’s all the animations that need to be created, all the tools that need to be programmed, all that stuff. There’s no way to do any prototyping if you’re going to get done in two months with four people. So we had no prototypes. We knew how to code already. So because we can just see it in our minds, we can just visualize it, and we communicated with each other just going, okay, it’s going to look like this on the screen.
+
+We’re going to see mountains in the background. On the foreground, we’re going to have another plane and we’re going to have trees there, and up in the trees we’re going to have these characters and their AI is going to be limited to blah, blah, blah, blah. And so we just kind of describe what the game is, and we can do that within just like, let’s say an hour. At the very beginning of the new game, in one hour we can describe that game extensively for what we’re going to create in the next two months. There wasn’t like, well, then we have to figure out this. It was like, there’s no figuring it out. We’re just making it. So there weren’t prototypes. It was just, we’re making the game.
+
+Later on with bigger games that we could spend more time on, we could do R&D, but we still knew what we were making. We just needed to figure out how to make that part of it. But it wasn’t like we built a piece of the game and then throw it away. It was like we would build this functionality in because that was the original design, and if we found out that that functionality actually is a detriment to the game itself or the soul of the game, then we would remove it. But it wasn’t like we were prototyping it. We were making that piece of technology in the game. It was going to be part of the game, but we find out that that is not where the game is really. And then we pull it out. But we didn’t prototype.
+
+Tim Ferriss: So let me ask, I’m sure, a naive question, but if you are going to ensure that, for instance, you can take an element like that and remove it later if it is not contributing to it or reinforcing the soul of the game, do you need to think about that design spec in advance so you don’t end up with a piece you want to remove, but that is interdependent with other elements in the game? In other words, does the architecture, how you approach it, need to be decided in advance so that you have the capability of removing something in that way?
+
+John Romero: When we’re coming up with the design of the game, let’s say in this case it’s Wolfenstein 3D — and the inspiration for Wolfenstein 3D was a 1981 game called Castle Wolfenstein. And it had a lot of really great gameplay features in it that we wanted to put in Wolfenstein 3D, such as when you shoot a guard, you could drag them and hide them around a wall. You could search their bodies, you could go up to storage chests and try and open them and maybe shoot them open. But that makes noise and might call the guards. All these little pieces of design that we wanted to replicate but replicate it in 3D because Castle Wolfenstein was just a top-down game from 1981. It wasn’t 3D, the screen didn’t move around, it was just like characters are marching around on the screen and that’s it.
+
+They might leave the screen and disappear, but your screen was static like many games back in the ’80s. When we were making Wolfenstein 3D, we start programming in the dead body, dragging and the searching, and we started doing that. That was the design. So we already designed that we’re doing it. We already got the code in to do it, and we’re now doing it. We’re playing the game and we’re shooting somebody, going up and searching them. And as we’re playing the game, it feels like that doesn’t match now what this game feels like, because the original game, it was perfect. It matched perfectly with the way that you moved around and the feeling of the original game was more of a stealth game. So Castle Wolfenstein was really the first stealth game made. It was an action arcade game, but it was really primarily about stealthing around and secretly getting out of this castle and escaping it.
+
+And we were doing that in our game as well. It was a recreation. But when we got to the point where we were doing some of the similar actions that were not just run and gun, we knew that that is not what this game’s strength is. The strength of this game is doing this never before seen high speed rendering and high speed movement through this maze. And no one had seen that before. And slowing you down and making the players stop to do something else was anti the focus of the game. So the focus became this is the soul of the game. The soul of this game is high speed, run and gun. Anything that stops you needs to come out. So even though we programmed in that stuff, we pulled it out because it wasn’t true to the new spirit of the game, the one that we were making.
+
+It was like the original game’s idea was transferred to our game, but all of the details of those two games are different. The way that you shoot enemies in the original Castle Wolfenstein was not the way that you do it in our game. Our game is much more fluid and simple and easy to control and very, very fast. And so when we started focusing our design in that part of it, we started removing everything that took away from that speed. But there were some things that we had to leave in, like to open a door and wait for the door to open, that’s actually suspense that we need in the game. And if we didn’t have any doorways, you’re just running through a maze just blowing everything away constantly nonstop, but you have no suspense really.
+
+One of the original games’ focuses was the suspense of wondering if you’d made a noise and alerted the guards to come after you, or if they heard you trying to open a chest in the next room and you can see them in the next room and you’re just trying to open a chest and if you shoot it, then they’re coming in the room and they’re going to try and arrest you. So we had a new focus of our design and that’s why we start removing and changing it.
+
+Tim Ferriss: So let me build on Wolfenstein 3D, and I have a question from a friend of mine because I mentioned to him that we were going to be speaking, his name is Elan Lee, he’s the co-founder, co-creator of Exploding Kittens, not just the single game, but the company that produces many, many tabletop games and card games. And he said, “Holy crap, amazing. Ask him how the pressure of promising the world a game when he didn’t have one somehow cajoled the cells of his body to do the impossible and will one into existence?” And we went back and forth a little bit and he said, “Let me know if you needed any links to early Romero development stories. That guy literally did the impossible.” So could you expand on what he means by promising the world a game when he didn’t have one, and how that cajoled the cells in your body? That may not be the right way to put it, but to do the impossible, just for people who don’t have any of that background.
+
+John Romero: We made Wolfenstein 3D. For me personally, that was my 87th game that I’d made. Right after Wolfenstein 3D, we made Spear of Destiny. That took us two months. That was number 88. There was a game called ShadowCaster that used our technology that we had made. So all the tools that I wrote, all any gameplay code, menu code, all the stuff, we licensed our technology and give it to another company and then they make a game. That’s game number 89 called ShadowCaster. And then game number 90, not that I even was counting back then, it was just like, next game, we’re going to make the next game. At the time, at very end of 1992, after making all of these games, and really when Wolfenstein came out, everything changed because now we have high-speed 3D.
+
+No one had ever seen this before. Ultima Underworld was out, and it was a really great roleplaying game set in 3D, but the 3D let you turn your head and look up and down and all that stuff, which really slowed the game down. So it wasn’t the high-speed game. You would step slowly through a dungeon, but it was 3D. 3D is now happening at this point. If it’s not ours, it’s probably slow, but it is 3D because the world is now going to become 3D, but it’s hard to get to that point. Our focus was speed. That was where we wanted to live. So with the next game, we had had such massive success with Wolfenstein and Spear of Destiny that we jumped basically to the front of the industry with those games.
+
+Immediately, bam, we are now in the lead because nobody was making this, and this was the new thing. High speed 3D is the future, we’re there first and we need to keep our lead. The planning for our next game after that, and our planning was happening at the end of 1992, was the creation of the engine that was a Wolfenstein-plus engine after Spear of Destiny. It led to ShadowCaster, but that engine’s architecture was too limiting for what we had in mind for our next game. So that’s why we licensed that technology out and decided we are not using that 3D engine architecture anymore. And so at that point, we’d made four 3D games, four games in full 3D, high speed, all that. For our fifth game we needed a new architecture and to come up with a list of all of the things that this new game would do, and we were thinking, we need to go beyond anything we’ve ever seen.
+
+And this was the only time we ever did this, the next game needs to be the best game we could imagine playing, that there can’t be a better game in the world than this game. What would that game have? So we made a list, a bullet point list of all the things that this new game should have. Obviously it needs to have light and dark, it has to have light levels, it needs to be spooky, it needs to have bright areas, which we had no lighting in Wolfenstein. It was just full bright. The lights were always on. So we need lighting control. We need height control. We need to be able to go up and down stairs, we need to have giant tall rooms, really cramped rooms. We need walls to be drawn at any angle, which no game in history had ever done at that point where you can have a wall that’s at an angle in a wall that’s jagged and all that.
+
+Every game before this next game was basically a maze game. And when you look at a maze from above, it’s just 90 degree wall curve turns. It’s like those classic mazes, labyrinths, where you’re just drawing a line through the maze. That’s what every single game from the ’70s until that point looked like. Wolfenstein 3D was a high speed maze game. It was the same thing. 90 degree corners all over the place. So this next game would break that barrier. So we’re going to have what we call non-orthogonal walls that could create a space that no one had seen before. We were going to make this game multiplayer so people could play with each other and against each other for the first time because right then, local area networks, they were just barely starting to sell network cards and the cables and all that stuff in all the computer retail stores.
+
+So we would make a game that would take advantage of a network if you ever had it, and it would take advantage of the modem to play against or with your friends. And then we would also make the game open so people could change the game to do whatever they wanted and make it their own, basically. They could make levels, they could make new sounds, new graphics. They could change the whole game basically and mod it. It’s called mods, modification. So we would open it up to modders who wanted to create a new experience using the tech that we created, and we would also give away the first piece of this game for free into the world, and you don’t have to pay for it. You just get it, and if you like it, you had fun, if you want more, then you buy it from us. That’s called shareware.
+
+So we did all of these. We had this whole list of everything we’re going to do, and we were very confident that we could do it because John was already planning the architecture of the engine, he already was very confident in how he was going to be able to do that. And at that point, we were just on top of the world. We had just conquered everything with Wolfenstein 3D and with Spear of Destiny. And so we’re just invincible feeling. So what we did was we took our two-week vacation at the end of 1992, and we came back in January of ’93 at the beginning of the year, and we’re going to start working on this new game that we called DOOM.
+
+And we decided for some reason that we were going to put out a press release and tell everybody what’s going to be in this game, and it will be the greatest game that Earth has seen. And we did. We put a press release out before we even start writing the game. We put a press release out saying, this will be the best game anyone has ever played on a PC, and this is what’s going to be in it, and it’s a breakthrough in game technology and all this crazy stuff. We put a press release out saying that. So we needed to fulfill that. And so we started working on it.
+
+Tim Ferriss: Okay.
+
+John Romero: Crazy. Crazy.
+
+Tim Ferriss: Yeah, it’s nuts. So there are, for instance, as thought exercises, some companies that will write press releases in advance of developing a technology product to help hone their focus on various elements, but that is for internal use only. You guys actually put out the press release. What was the conversation around the press release? Because it’s a smart team, there was some thought, I’m sure, that went into that decision. What was the logic, if there was one behind putting out the press release?
+
+John Romero: I don’t know why we would’ve put out a press release. It doesn’t make any sense. But I think that what happened is Wolfenstein 3D came out — remember at this point, we were so used to making games extremely fast. With Wolfenstein, that was the very first game that we could make in any amount of time that we wanted. There was no deadline on Wolfenstein. We made the shareware version of Wolfenstein in four months and uploaded it. So there was four of us — well, mostly, three of us — oh, no, sorry, there was four of us making Wolfenstein. We had Kevin Cloud in there for the very last month to add graphics and do a bunch of other cool stuff. But we were very fast and we didn’t have a deadline on that game. And it released in May, the shareware. So we had the rest of 1992 just building up this world domination of Wolfenstein.
+
+There was an internet top 100 list of games every week, and Wolfenstein was at the top for the entire year after it came out. It was huge. So we were just on top of the world, but after we released Spear of Destiny, it came out, I believe in September of 1992, and no one had heard anything from us in three months, which back then with these accelerated schedules and people wanting to know what we’re doing, we’re finally now doing interviews with places. We’re doing radio interviews. We have the local TV station in our office interviewing us and recording our screens.
+
+We have them interviewing our publishers. People wanted all kinds of information about what we were doing. So I think at that time it was like, let’s put out a press release telling people what we’re going to start working on, because everyone is asking us constantly what we’re doing next. So let’s just do a press release. And it’s equal information for everyone. It’s not like there’s an exclusive with this one computer magazine, Computer Gaming World or something. There was no exclusive. It was, “Here, everybody, this is what we’re working on, and now we have to dive back down in the ocean and start making it. Don’t bug us.” So I think the press release was probably to let everyone know what we’re going to do next.
+
+Tim Ferriss: That’s incredible. All right. So I want to take a pause here just for a second to ask you about — tell me if I’m pronouncing this correctly. Hyperthymesia? Am I getting that right?
+
+John Romero: Yeah, that’s right.
+
+Tim Ferriss: Okay. So could you just define this for folks? And my question is also to what extent this has been an asset and to what extent this has had maybe a shadow side or been detrimental in any way? So if you could just explain what it is and then hop into that.
+
+John Romero: Yeah, hyperthymesia is a memory disorder where the person with hyperthymesia has a superior autobiographical recall. And it ranges from really good recall of significant events and things that happened in your life that most people would forget over time. With hyperthymesia, you never forget those things. They just don’t go away. You wouldn’t know it if you’re young, but as you get older and you start to lose decades of memories because you don’t use them and they’re not significant anymore, hyperthymesia, you don’t lose them. They’re always there. And the extreme end of hyperthymesia is where you remember every second of your life since you got hyperthymesia, and it could be born with, but sometimes it is an induced memory disorder. So people have been hit in the head with a baseball and boom, they have hyperthymesia and they record every second of their life, which gets to be kind of insane because everything that you’ve ever done is always present in your brain. And having all of these thoughts, all of these memories constantly, it’s a big hindrance, I guess, in just normal operation like just living. My hyperthymesia is really — I remember basically everything that has happened to me, mostly all the significant stuff and things that are connected to it. So like music and movies and programming and games and that kind of stuff, I would remember basically all of that stuff through all the years. And things that I cared about, I would remember those things. I would remember the names of people who wrote games, when those games were published, the year that they were published, all of that stuff. So I would remember everything. So it makes it a lot easier to just say, “Hey, what happened in 1983 when you were doing blah, blah, blah?” And I was like, “Well, I was actually programming this stuff, but I didn’t have my computer, so I had to do it on paper in the kitchen and [inaudible].” I could tell people what I did whenever.
+
+Tim Ferriss: Have you had that, to the best of your knowledge, since birth or was that induced at some point?
+
+John Romero: I think I’ve had it mostly since birth, but it got stronger when I started to learn how to code at really high speed after getting the computer in the house. I was learning so much, so fast. I actually had to take breaks from learning because my head was just packed full of stuff and it needed to settle, and I had to stop myself from learning for a day or two before I could jump back in and fill my head full of stuff again. And due to the nature of what I was learning in the early ’80s, which is learning every byte of memory in an entire computer, because back then, the knowledge of language wasn’t as important as the knowledge of hardware at that time. So I needed to learn all of the hardware of the computer that I was programming and then the languages on top of that, and then start creating off of the top of that information. So that was also forcing function to induce memory of everything basically that was happening.
+
+Tim Ferriss: I have one family member who has, almost certainly, I never had heard this term before, but hyperthymesia. He can recall just about every fact, every experience, significant or trivial, from his past. So he’s much older than I am but can recall the seating arrangement in every class that he was ever in, every word of every foreign language he’s ever studied, et cetera. And what I’ve seen is that, that is a superpower on so many levels but also, as an example, has been challenging for him because negative experiences, arguments, let’s just say slight moral injuries, all of these things are also as ever present for him and it’s very challenging. And I’m wondering if you have seen any, I don’t want to say trade-offs, but challenges related to having such an enhanced memory besides what you’ve mentioned.
+
+John Romero: I’d say that’s totally true for a lot of people that have that. For me, a lot of it is that the, say, negative/hindrance would be that, I think a lot of things are similar in importance even if they aren’t. So I would think that this possibly insignificant detail is more important than anyone else would think. And the reason why I think it is because the way it’s connected to other things. It’s like if that didn’t happen then these other things wouldn’t have happened as well, you know?
+
+Tim Ferriss: Yeah.
+
+John Romero: Yeah. So it’s like not knowing, well, say, for this book, what’s important and what isn’t important. But it was really important, then I went to the heavy metal concert with this person.
+
+Tim Ferriss: So I could see that being — has that been challenging in group environments, team environments where you’re trying to weigh the relative significance but because, in your mind, some of these elements that might not be deemed important by other people are sort of importance-adjacent, so you weigh them more heavily? Has that been challenging in team environments at all?
+
+John Romero: Not really, because I think the most helpful part of that is just knowing what has been made before, what games and game design techniques, programming techniques, approaches to certain control issues, like that stuff. Having that and luckily just having played so many games over so long a time, that has been really helpful to be able to recall solutions or other approaches people have taken that we don’t need to research or figure it out again, reinvent the wheel. It’s like this game in 1984 did this on an Atari 800, and we might be able to do that on the PC or something like that. So it was more helpful to solving issues or being able to make sure that we’re not replicating failed designs of the past and that we were always creating new things I hadn’t seen before, which was really helpful.
+
+Tim Ferriss: How important, or how much of a contributor do you think to the ongoing success of the team was having two games, and therefore two options, for things to work on at any given point in time?
+
+John Romero: I would say that having two games at a time was not — it did not impact really anything because we knew what each of the games was, what we were doing on both those games. One of those games came out a month before the other game, so that was the priority. But what we did was we divided our time into two roughly eight-hour days or seven-hour days. So we would go from 10:00 to 6:00 on one game and then 6:00 to 2:00 on the next game. So we would just all shift because it was really important to be in sync with each other. When we needed to ask questions or whatever, we were all on a project, and it wasn’t like, “Oh, you’re just making a level for the other game. Well, I guess I can’t ask you.” It was like we were always in sync.
+
+So we would shift to the next game and start working on that. And then the next day we start back on the other game. And the reason why we’re doing eight hours and eight hours or seven and seven was because we love making games. We wanted to get these games done. We’re learning a ton. It was super fun being together and making these games. We’d be laughing. It would be new things that we’re inventing. It was like being in a lab where things are going right all the time. So it was super fun and we could do those hours without a problem. And we did it for a whole year. All of 1991 was spent with all the hours that we were awake working on games, two games at a time at least.
+
+Because we were in sync at the same time when we shifted projects, we didn’t get creative block with something. It’s like, “Ah, I can’t even figure out what I’m going to do at this level. I’m going to just make a level for the other game.” We would help each other if anyone got stuck. It’s like, “You know what? I don’t know what I’m going to do for this one section.” And I’m like, “Well, put a meat grinder in there or something.” And it’s like, “Oh, yeah, good idea.” So we would help each other. But most of the time we already knew what we were doing. We kind of freethought everything out before we started working on these games, and we could do it at really high speed. So we just executed because that was the really important part.
+
+We had got the ideas, and we have lots of experience, and it was all about the execution of our ideas and in sync. And luckily, because we had such a small team of four people, that could happen very fast. The bigger the team gets, the harder and longer it takes to make one vision come out the right way, but with four people to have very distinct jobs to do, it works really, really well.
+
+Tim Ferriss: DOOM, we paused at the press release. You go on to create DOOM. When did you, after its release, or maybe in the course of developing it, realize, “Holy shit, this is a monster or it’s going to be a monster. This is going to be bigger than even our grandest press releases could have predicted.” Was there a moment or an event, a day, anything, that comes to mind?
+
+John Romero: Well, several things happened during the development that were interesting in that respect. We knew at the very beginning of making the game that it was going to be the greatest game that we’ve ever played because that was our focus of — why we’re making the game. So we already knew it was going to be awesome and the best game that we had ever played. That was already a given. But while we’re making the game, we got to a point when Tom Hall left the team in August of 1993, and we brought in Sandy Petersen to replace him doing level design work. And then I basically took over as the game designer of the game. And that’s how we started stripping a lot of stuff out of the game like lives and score and getting rid of items that didn’t matter, really streamlining the design.
+
+Sandy was making levels, and at this point, the design language for the level creation was figured out because I needed to solve that problem with like, “What are our levels going to look like that maximizes the use of our technology that no one has seen and creates spaces no one has ever experienced before in a way that is kind of drastic and not a little bit better than Wolfenstein 3D?” It needed to be drastically better than Wolfenstein 3D. So that took some work to come up with this abstract level design style. And when that happened and we started to make stuff, it’s like, “Okay. This is looking really great,” Sandy Petersen immediately started picking up that style because I would sit and talk to him at the very beginning about — like, “Here’s what is important about using this technology that makes us stand out.” And so he started putting those elements in his levels.
+
+And when I got to run Sandy’s levels, not mine — because when I make my own levels, I know everything that’s in it. So I’m just testing to make sure it looks good, it’s working well, the enemies are doing what I want to do, the pacing is correct. When combat happens is when I want it to happen. When exploration happens, I have the area cleared for the player to do that, all of these things. But when I play Sandy’s levels for the first time, I know nothing about it. And I remember the first time when I started playing his levels, I knew what people were going to feel like. Finally, right?
+
+Tim Ferriss: Right.
+
+John Romero: And it was like, “Wow, this is scary.” I’m going through this level, and I’m hearing these monsters moving around. I don’t know where they’re at, but I don’t like that they’re coming for me somehow. And it was great because I finally got to feel in a game design, feel the game experience way what people would feel when they’re playing it.
+
+Now, at that point, I’m so used to the technology that it’s like whatever. Even though it was like it changed everything, no one had seen a screen that looked this way, for us, it was just like another day at work, whatever. So I was just focused on the experience part of it. So that to me was really fun to play a level I didn’t make and experience in a little way what people were going to feel like. And then we got to a point where it’s early October and I, for some reason, look at that press release again and look at the bullet points because I’m just like as a producer type person, I need to make sure we’re putting everything in the game. We didn’t promise stuff that we didn’t deliver on, and we need to mostly get that bullet point list done. And I saw that we were missing multiplayer.
+
+We didn’t even think about it. We thought about it in January, but we get to the point of the game where the game is mostly done now, and it’s early October. And I’m like, “Whoa. Yeah. Whoo. There’s no multiplayer.” I go and I tell John, I’m like, “You will not believe this. Yeah, there’s no multiplayer. Remember, we’re going to do that?” And he is like, “Oh, yeah.” John’s a genius. And so John figured out. He kind of immediately in his brain was just like, “Oh, we’ll just solve it with a peer-to-peer networking model.” So he figured out how he’s going to bolt multiplayer onto the game and make it feel like it’s been there the whole time.
+
+And so it just took him a few hours. He just needed to learn how to get network packets going between computers over our network, and then how to get the game. What data does he send between computers? He’s trying to minimize the amount of data so it’s fast. And he learned within just hours the techniques that he needed to do. And it took a couple days to hammer out some of the speed issues, but it was fast work before. I’d seen him shoot a character. He had two computers going and he’s moving a character in one screen, the other one, you see the guy running around inside the level, it’s like, “Oh, my God. We’ve never seen this before in any game.” And then you shoot him and the guy dies, and it’s like, “Oh, my God, this is going to be the most fun thing in the world.”
+
+And I go back into my office, and I get that code running on my machine and we just start shooting each other, and it’s like, “This is nuts. Oh, my God.” And then I’m imagining the level I’m currently working on and seeing two people fighting in another room from my viewpoint. And I’m just like, “There’s nothing like this on Earth. Oh, my God, this is changing everything.” So I got so excited at that point. So that was another like, “Holy shit, this is going to be so different and blow everybody away and change everything.” So multiplayer was — when I saw that, and this is October, and so that was really amazing. And then the lead up to when we’re about to release the game, we’re not online talking to anybody, but somehow people knew we were getting close. We were starting to get random phone calls at the office.
+
+There’s these weird subcultures going on in Usenet around DOOM and people creating games based on DOOM being the best game that could ever be made. And then creating a really crude version of that and calling it Smashing Pumpkins Into Small Piles Of Putrid Debris. And because that was such a funny thing, we put it as a cheat code in DOOM. Just there was a lot of internet activity around the fact that we’re about to release the game, and we never said anything. So it was really weird that the world was starting to go nuts before we launched the game. And that was the third like, “Okay.”
+
+But up until that point, every game that we made, we would put it out and then our plan is to just wipe that game out with the next one. Like the next game, we’re going to destroy that thing. So it’s like boom, game’s out, next. So we never thought that DOOM was going to be living actively for 30 years, which is this year, it’ll be 30 years old. Stuff is being made for the game on a daily basis all the time. In one of the greatest mods that has been created was released not that long ago, this year. Incredible. It’s called MyHouse.WAD. People are still making insane stuff for the game. But we never thought that was going to happen. We just thought we were going to make a really great game and the next game’s going to wipe it out. That was it. That was the goal.
+
+Tim Ferriss: Let’s hop back to something that you mentioned in passing that you left in 1996. Could you tell the story of how that came to be, how you ended up leaving the company?
+
+John Romero: We started making the last game that I had worked on, at id Softwares named Quake, and we started working on Quake in 1995 as a team. John had already kind of started planning the technology at the end of ’94 when we were finishing DOOM II. He was exploring the technology for the next game, which was going to be a massive, massive jump in technology. And so when we started as a team in 1995 to make Quake, it was like making DOOM, it was like, here’s this giant mountain we got to climb again. There’s a lot of tools, there’s a lot of foundational work that has to get done and let’s do it. So we just started working on it, and the design of the game also was like, remember we started making Quake and we couldn’t because the tech wasn’t going to be there, but this now was going to be the tech that we could use to make Quake, which is why we named it Quake.
+
+So it’s like, we’re going to do that game. That game was a medieval 3D adventure with combat. It wasn’t a first-person shooter because that never existed at that time. It was going to be a 3D action, medieval. We were going to recreate our D&D adventures that we had and put it in full 3D, in a real, full-3D game. So that was the design.
+
+And as I am making the level editor and kind of experimenting with 3D, there’s a lot of other stuff going on at the company because DOOM changed the planet and then DOOM II again was even better than the original DOOM. It was crazy because we only had at the time when we shipped DOOM where it was only six of us and on top of that, we had three other people in the company to handle business, all of the managerial type stuff and all of the technical support type stuff.
+
+Tim Ferriss: That’s incredible. It’s just so wild.
+
+John Romero: It was a very small company. And working on Quake, we had gotten our team up to 10 eventually to make Quake and still with the other three people I think on top of that. The company was 13 people when Quake launched. So we had a very small team and we had the world coming at us, and there was so much to deal with DOOM‘s impact and the articles, the hint guides, the strategy guides, the other projects that we had going that it took up a lot of time, which wasn’t bad because at that time there was a lot of technology creation for Quake going on. And I was creating the level editor for the level design team to start experimenting with, and it was really just two other people on the team doing level design in full 3D for the first time.
+
+And that was Sandy Petersen and American McGee. So it was still pretty small. We still had more people eventually to hire onto the team to get us to 10 by the time Quake was shipped. But at this time there was probably seven of us. It was pretty small. During that time the design that of that medieval game kept getting stronger and stronger. It was getting reinforced with more things that could be done to reinforce the feeling of that medieval world and do new things that we hadn’t seen a game do at that time in lots of different ways.
+
+So it was becoming a really strong design, really strong, really cool. And the problem was that we were spending all of that year kind of spinning our wheels, doing 3D levels, little pieces of levels and stuff, but we didn’t have a gameplay programmer that could actually do anything in the game because the engine wasn’t ready. We’re waiting for that engine to actually happen so we could start using it. 
+
+Tim Ferriss: John, can I pause you for one second? Just for people who hear this word but may not understand how it applies within game development, could you just define engine? In simple terms, what is an engine?
+
+John Romero: So at this point in our game development, we had created this term called engine. And the engine is what drives the game, and that is the thing that puts the images up on the screen. It’s the thing that loads files and saves files. It’s the thing that takes input in and makes gameplay happen. It’s what makes sound come out and music come out of the game. And so the core functionality that is needed for a game to run without any of the graphics and any of the actual sound effects themselves, the core technology is called an engine. Because you can put the data in and it will come out, it will play. You put sound effects in, and then you use game in gameplay code, you define when those will play and they come out. And so it’s an entire set of code that any game can be made from.
+
+So it’s called an engine. And we pioneered the idea of an engine in 1990 with our original Commander Keen game. We started calling it an engine even before we launched Keen. So we start that idea in 1990. Now we’re talking about 1995, which we’d made a lot of games since 1990, 20 something games. So with Quake, we’re creating a new engine, one that can do full 3D, one that has a completely different look to it, has more advanced gameplay code. Everything about it was different.
+
+When we got to November of that year, the engine was finally ready, but the team was burnt out because of the massive effort that it took to create the technology and the fact that they’d been making a lot of data that couldn’t be used because the engine changed so much that what they made was too primitive.
+
+The engine could do more than what they had created. Because every time we were making stuff for the game, the engine would be at a certain point of speed and we’re modifying our levels to make it run well at that speed. But that means it’s a little too primitive because the engine got faster and faster and faster. And by the time we reached November, we could render much more interesting views in the world, but we didn’t build those worlds yet. We were slowly inching towards them. So it was a lot of like, wow, all the stuff I worked on can’t really use it. So people were burned out from that, and the team did not feel like they were up to the task of doing research on a new style of game, which is what Quake was going to be.
+
+It was not going to be a first-person shooter. They basically suggested that we should just make a shooter because we know how to do it. We can nail it. This is brand new tech that’s awesome already. If we just do a shooter, we can all just ship a game and take a rest kind of thing. And I was just like, “No, we need to do this. The whole world knows what this game is. It’s in magazines. Everybody knows what Quake is, and this is what I’m all about is we’re pushing our technology to the limit. Let’s push design to the limit too. Let’s go beyond what we’ve done before and make something new people haven’t seen.” I wanted to make this 3D game experience something no one had seen before that goes beyond our first-person shooter. 
+
+You know, our forte, our expertise was in shooters, so how can we go beyond the shooter and do something that incorporates elements of that that goes beyond it? And so they just really didn’t want to do another unknowable mountain to climb. When is it going to be defined? We don’t have a scope that has an end on it now. We didn’t either with the engine and we didn’t change course while we’re doing it either, which is what really harmed the team. So I basically just gave in and said, “I will design a first-person shooter that will use all of this stuff and what we’ve done to date to the best that we can, and then release it as fast as we possibly can.” So we started doing that from the middle of November. We basically went into crunch mode at that time, even though everyone’s burned out. They were mostly burned out because they weren’t making something that they could see what it was going to be used for. And because we wanted to get it done as fast as possible, we went into what’s called crunch mode, which at that time was seven days a week, all the hours that you can, which is at least 10 a day. And we did that for seven months, seven days a week.
+
+Tim Ferriss: Oh, my God.
+
+John Romero: And it was really hard. And after the game was released, it was like a month and a half before I quit because there was still some work for me to get the game mastered and created to go into stores and be shipped to customers, that kind of thing. I took a vacation, I came back, I mastered all that stuff, and I was already planning for half a year to leave because if we’re not going to commit ourselves to furthering design, it’s just going to become a technology company, then I want to leave and go create a design company.
+
+And so I’ve already planned after that big meeting about a month later, two months later, already planned to leave and start another company with Tom Hall. And he agreed that he would love to do that. So I said, after shipping Quake, then we’ll start doing that. So that’s what happened. After shipping, I started getting in touch with publishers and they also—John Carmack mainly—didn’t want to work with me anymore, so they asked for my resignation. I was like, “Well, I’m going anyway, so let’s sign it.” But it was a very tough game to get through.
+
+Tim Ferriss: What was that experience of separating from the company like for you? Was it challenging? Was it strange to be on your own and to leave behind maybe the identity that you had built with that team? What was that experience just emotionally, psychologically for you?
+
+John Romero: Leaving and starting another company, I was very excited about it. I was excited because I was going to be doing this with Tom, who’s a really great friend, amazing creative force, someone super fun to work with. And we both had tons and tons of experience. So I was really excited about that.
+
+But I really liked working with the other people at it as well. So it was really, it sucked, but it was also exciting, like at the same time. It was like that was a lot of really great work there but I’m also excited about what I can possibly do with without limitations on what, say, design could do. So it was negatives and positives, but I think that it was mostly positive because we’re starting to do something new. And that was really, really fun to do with Tom. And we spent about half a year building relationships with different publishers to start Ion Storm. And finally after six months, figure out who we’re going to side with and signed up with Eidos.
+
+Tim Ferriss: What led you to want to write your memoir, DOOM Guy: Life in First Person? What were the reasons for wanting to write this book and publish this book?
+
+John Romero: So several years ago, I went to do a speaking engagement in Canada, and they basically had heard the story of DOOM‘s development and already knew some of the stuff I talked about. So they said, “Can you do something different? Can you tell us about your early life and what made you the person that would make DOOM. Instead talking about DOOM talk about how you became the person to make DOOM.” So it was like, oh, kind of my life in games, early games. So it’s like, all right, I’ll write that talk. So I basically wrote a talk that had a lot of the stuff that happened in my early childhood with all of the exciting things that had to do with drugs and murders and just the low income stuff, which kind of shocked people. They had never heard any of that before.
+
+And hearing the audience and the questions later was just like people saying, “You should put in a book. Nobody knows about that information.” I was like, “Yeah, I didn’t really ever talk about it before.” And that would be a good idea in fact, because I haven’t seen anything out there that really documents software’s ludography, really like what game started on what date, when did that game ship, what’s the authoritative book on the development of all of this software? Stuff I could actually put that in this history as well.
+
+So it was kind of a twofold reason for writing the book was to get the whole story out there from when I was born until today, and to also be a really great chronicle for everything that happened during those years, and when those things happened, and a bunch of the cool stories that people hadn’t heard before, and just put a lot of really good stuff in there as well.
+
+There was a game that I was working on called Blackroom, and every once in a while I get people asking, “So what’s up with Blackroom?” And I always tell them, “I can’t talk about Blackroom.” Well, Blackroom‘s in this book. So people are going to get to hear everything about Blackroom.
+
+Tim Ferriss: Is it true that DOOM, the name, comes from The Color of Money, or is the origin a different origin story for the name?
+
+John Romero: Yeah, the name for DOOM came from John Carmack. He was watching Tom Cruise’s The Color of Money movie and when he was watching it and he saw that the guy walk up to Tom Cruise, he’s got his cue stick inside of this case on his lap. And the guy’s like, “What’s in there?” And Tom Cruise looks down at it and looks up at the guy and goes, “It’s doom.” He was like, “Wow, that’s a really great name.” We hadn’t heard of a game called DOOM before. So he said, “How about DOOM?” And I was like, “That is awesome. Yeah.”
+
+Tim Ferriss: And that was it. The rest is history. So John, people can find you on Twitter @romero, on Instagram @theromero. Thank you for taking the time. And is there anything else that you’d like to mention? Any other asks or requests of the audience, anything at all that you’d like to mention before we bring this to a close?
+
+John Romero: Well, I mean, I’m really grateful to have had a really fun career making games. It’s been a blast from the early days of learning how to program a computer all the way to today using really advanced technology to make shooters with bigger teams. I’ve seen everything that’s happened during that huge span of time, and it’s been just a really, really, really great time overall. So I’m just really just happy to have had that kind of a life. And all of that is basically in this book.
+
+Tim Ferriss: Excellent. So John, thank you so much for taking the time and I am looking forward to getting a copy of DOOM Guy. People will be able to find it where books are sold. And we’ll link to everything in the show notes as per usual to all my fine listeners at tim.blog/podcast. And until next time, be just a little bit kinder to yourself and to others. And as always, thanks for tuning in.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than 900 million downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+JOHN ROMERO
+	
+Post navigation
+Previous Post
+PREVIOUS
+Doom Legend John Romero — The Path to Prolific Innovation and Making 130+ Games, How to Find the Soul of the Work, Audacious Ambition, and Building in Monk Mode (#681)
+Next Post
+NEXT
+Bill Gurley Interviews Tim Ferriss — Reflecting on 20+ Years of Life and Business Experiments (#682)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Morgan Housel — Contrarian Money and Writing Advice, Three Simple Goals to Guide Your Life, Journaling Prompts, Choosing the Right Game to Play, Must-Read Books, and More (#702)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Performance, and Testosterone (#521)
+The Tim Ferriss Show Transcripts: Dr. Andrew Huberman — The Foundations of Physical and Mental Performance, Core Supplements, Sexual Health and Fertility, Sleep Optimization, Psychedelics, and More (#660)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (52)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (678)
+The Tim Ferriss Show Transcripts (515)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (53)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.
