@@ -1,0 +1,945 @@
+https://tim.blog/2024/02/24/cal-newport-slow-productivity-transcript/
+
+#722: Cal Newport — How to Embrace Slow Productivity, Build a Deep Life, Achieve Mastery, and Defend Your Time
+
+<--- METADATA --->
+
+Skip to content
+TIM FERRISS
+Menu
+
+THE BLOG OF AUTHOR TIM FERRISS
+
+Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+Don't miss out on the 5 coolest things I've found each week.
+
+Join 1.5M+ subscribers and sign up for 5-Bullet Friday, my free weekly email newsletter.
+
+Try it
+POSTED ON
+FEBRUARY 24, 2024 BY TIM FERRISS
+The Tim Ferriss Show Transcripts: Cal Newport — How to Embrace Slow Productivity, Build a Deep Life, Achieve Mastery, and Defend Your Time (#722)The Tim Ferriss Show Transcripts:
+1 COMMENT
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+Share this:
+TwitterFacebookLinkedInEmailMore
+
+Please enjoy this transcript of my interview with Cal Newport, a professor of computer science at Georgetown University, where he is also a founding member of the Center for Digital Ethics. In addition to his academic work, Newport is a New York Times bestselling author who writes for a general audience about the intersection of technology, productivity, and culture. His books have sold millions of copies and been translated into over forty languages. He is also a contributor to The New Yorker and hosts the popular Deep Questions podcast.
+
+His new book is Slow Productivity: The Lost Art of Accomplishment Without Burnout.
+
+Transcripts may contain a few typos. With many episodes lasting 2+ hours, it can be difficult to catch minor errors. Enjoy!
+
+Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Amazon Music, or on your favorite podcast platform. Watch the interview on YouTube here.
+
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+Listen on
+Overcast
+#722: Cal Newport — How to Embrace Slow Productivity, Build a Deep Life, Achieve Mastery, and Defend Your Time
+
+DUE TO SOME HEADACHES IN THE PAST, PLEASE NOTE LEGAL CONDITIONS: Tim Ferriss owns the copyright in and to all content in and transcripts of The Tim Ferriss Show podcast, with all rights reserved, as well as his right of publicity.
+
+WHAT YOU’RE WELCOME TO DO: You are welcome to share the below transcript (up to 500 words but not more) in media articles (e.g., The New York Times, LA Times, The Guardian), on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to “The Tim Ferriss Show” and link back to the tim.blog/podcast URL. For the sake of clarity, media outlets with advertising models are permitted to use excerpts from the transcript per the above.
+
+WHAT IS NOT ALLOWED: No one is authorized to copy any portion of the podcast content or use Tim Ferriss’ name, image or likeness for any commercial purpose or use, including without limitation inclusion in any books, e-books, book summaries or synopses, or on a commercial website or social media site (e.g., Facebook, Twitter, Instagram, etc.) that offers or promotes your or another’s products or services. For the sake of clarity, media outlets are permitted to use photos of Tim Ferriss from the media room on tim.blog or (obviously) license photos of Tim Ferriss from Getty Images, etc.
+
+Tim Ferriss: Let me ask you. If you don’t mind, we’ll just roll right into it. Does that work for you?
+
+Cal Newport: All right. Let’s roll into it. Let’s go. 
+
+Tim Ferriss: Unforced errors. That should be basically a review of the last 10 years. That could be the Walter Isaacson biography of a generation. Unforced Errors. And I feel this way in the sense that we’re talking right now about things horseshoeing back around to many of the, certainly some advantages, but many disadvantages and trappings of, say, television. Despite our best efforts, many of us seem to somehow get corralled into these unforced errors or corral ourselves into unforced errors.
+
+Cal Newport: You could almost write a book called Unforced Errors: The Internet Story. It could just be about all of the ways we wandered off of some of the central motivations of the internet into places that made everyone but a small number of investors really unhappy.
+
+But let’s take what we were talking about just before, because I think it’s actually an example of something that seems at first to be an unforced error in terms of our engagement with the internet, which is going to be video rising, podcast shifting more towards television show-style production. I actually think in that example, there is a good sign. I think there’s something positive in there.
+
+The real unforced error that I think hit content creation was algorithms. The shift of I’m going to create content on behalf of a small number of large companies, that will then curate for each individual user, Facebook, Instagram, Twitter, whatever, they’ll curate with algorithms streams of interesting information from this giant pool of information that people are creating. This, I think, was a huge problem for content quality.
+
+Podcasts, by contrast, we come back to podcasts, is the opposite of the algorithm. One of the reasons why I was excited about this medium as it arose is that there is no algorithms in it. A podcast grows because I listener likes the podcast and tells another listener. It’s very similar to books in that way. “Hey, read this. You should listen to this.”
+
+Growth is slow often with podcasts, but there is no countervailing content curation forced from an algorithm. There’s nothing you can do in a podcast episode that is going to make it go viral in the way that a tweet can or an Instagram can, because you can’t share them that way.
+
+Video, I think, is now inevitable, just because visual’s more interesting. Radio, for example, in the 1920s, 1930s, was a really well-developed technology. Radio shows were very good. Radios were cost-effective. Radios were portable. You could put them in a car. They weren’t too expensive.
+
+And when TV came along, it was much more complicated. It was more expensive. The experience was squashed. They had to stay between these really bright klieg lights on these small stages because of the limitations of the early lenses and detectors. And it just ate radio’s lunch, because visual’s really interesting, so we can’t help but watch when we have a chance to watch.
+
+I think this is where podcasting is going. It’s going to reinvent, basically, linear TV, like it was at the heyday of cable. There’s a lot of channels, and you hear about a show. “Hey, have you heard about this show Mad Men? It’s really good.” The people go and watch it.
+
+But I think that’s actually that net positive, because still, what’s driving this sort of podcast into the video podcast revolution, as long as it has to be quality, which is what you have to fall back on when you don’t have algorithms, I think it’s a good countervailing force to social media. There might be a silver lining to that particular movement.
+
+Tim Ferriss: Let me bounce some thoughts off of you related to that. My feeling is that, and I think you would agree with this, the ecosystem and the dynamics of the podcast world changed very dramatically in the last five, 10 years. The 10th year of this podcast is coming up in April. And I agree that at a certain critical mass, it seems like podcasts and books shared a lot in common.
+
+There were some fundamental differences in the sense that podcasting, consuming audio was a secondary activity for most folks. They were doing something else while they were listening, where it’s much harder to do that with a book, at least in text format, although we’ve seen the commensurate rise almost in exact tandem of audiobooks, certainly, with podcasts, as smart devices and broadband have become more ubiquitous.
+
+I think when podcasts were on a volume basis similar to books insomuch as, let’s just say there’s 100,000 books published in the US per year through major publishers. I have no idea if that number’s accurate. Something like that. Let’s just say a small handful of those make the bestseller lists. Those are used as shopping lists. Now all of a sudden, you have a fixed set of podcasts, but then you have this long tail. People listen to them, and then they recommend them, and so on. Similar.
+
+I think now that you have millions of podcasts, it’s a discovery problem. Maybe it’s similar to books on, say, Amazon. But it seems to be that the recommendations are now hinged on this very much, in some respects, determining variable, which is video.
+
+YouTube has always been a huge asset. I think Rogan was probably the first that I know of to really use clips and YouTube well, as one of the world’s largest search engines, to drive consumption of audio.
+
+But I think there are a couple of other factors like TikTok, for instance, and the both fear of TikTok as a competitor, and then emulation of TikTok by major platforms that has led to this divorce of long form and short form content.
+
+For instance, even for this podcast, we’ve had clips that have, with clear visual attribution, everything in the description related to The Tim Ferriss Show, do 100 million views, and they’ve translated exactly zero to longer form, say, content consumption.
+
+I don’t think we are free of the algorithm, I suppose, is what I’m saying, in the sense that there is still word of mouth. But I’ve noticed a tremendous change in the last handful of years as things get more and more algorithmically driven.
+
+Don’t worry, guys, this isn’t going to be all cynicism and Tim Ferriss talking about the glass half full with respect to podcasting, but — 
+
+Cal Newport: On his podcast. Yeah.
+
+Tim Ferriss: — on my podcast, but I feel like the big cosmic joke, for me, is that if people are consuming long form podcasts as video, by and large, those are in background tabs, or they’re on a phone as they’re listening to Spotify, that is running video, but they’re listening to audio while they’re in the car killing their cellular data or whatever.
+
+In a sense, it’s like you need the video to play the game. You need the machine to recognize and value your video. But in many, many cases, humans are not actually consuming this beautiful product that you’re producing. There are exceptions, and there are some amazing cinematic experiences that get produced.
+
+But the reason that I’m delivering this sort of Scent of a Woman hellfire and brimstone talk about formats is because this relates, I think, to a lot of what I would love to ask you about. I went back through our last conversation, also, and all of the notes on that conversation, because the reason I’m wearing this goofy headset, Audio-Technica, which actually it’s great audio quality, shocked on some level that I didn’t use this earlier, because it clears up a lot of table space for my notes and so on, is that it allows me to be mobile. It allows me to stay true to, one might call it the root document, maybe, the initial intentions and reasons for choosing this medium in the first place.
+
+That could be and probably will be to my commercial detriment. I think it will hurt the growth of the podcast for me not to focus more on video. However, that begets all sorts of questions. Why is growth important? Why is A, B, and C more important than the initial drivers that led you to adopt this medium as your home base, let’s just say?
+
+Cal Newport: Yeah.
+
+Tim Ferriss: What are some of the, for people who aren’t familiar with you, because a lot of people listening to this will be listening to you for the first time, or at least on this podcast for the first time, what are some of the ways that you have pushed back against prevalent social behaviors, social adoption, technology adoption, et cetera, just so folks have an idea?
+
+Cal Newport: Let me set the stage. I’m a computer science professor who also does a lot of writing about technology and the way it intersects with all parts of our lives, our work, our life outside of work, the way we connect with each other. In this role, I do a lot of writing as a contributor to The New Yorker, where I really explore those ideas in depth in addition to my books. I’m often thinking about this. How do we work with technology?
+
+I have a philosophy. This is actually new since the last time I was on your show. I did a New Yorker piece in late 2023 where I introduced this notion I called techno-selectionism. And I said, “This is really the way we should think about dealing with technologies in our life but also in our organizations and our cultures on multiple scales, is it’s hard to predict in advance always the impact a new tool is going to have.”
+
+I always give the example of going back and watching Steve Jobs’ keynote speech in 2007 when he’s introducing the iPhone. He doesn’t even get to the internet features until 30 minutes into the speech. He was just jazzed that your iPod was going to be on the same thing as your phone, and you wouldn’t have to switch back and forth. He had no way of predicting eight years later you were going to have, for example, a teenage mental health crisis.
+
+Techno-selectionism says, “Be willing to actually aggressively step backwards.” Be willing to say, “This looks interesting. Let me try this out. Oh, no. No. No. This is not matching what’s really important to me, so you’re out of here. All right. This, I will do. This, I won’t.”
+
+Be more willing to both experiment and reject after the fact, to move away from these narratives of techno-progressivism that say, “New technology is good, and there are bumps along the way, but you can’t put this genie back in the box.” And I say, “We can build all sorts of new boxes.” And that’s probably the right way to go forward.
+
+In my own life, for example, what I used to be really known for was the fact that I never signed up for traditional social media. I never had a Facebook account or a Twitter account or an Instagram account. And for a long time, I was seen as essentially a crazy person.
+
+I actually wrote about this in that New Yorker piece on techno-selectionism. I wrote about my experience in 2016 writing a Times op-ed that said, “Quit social media,” and how the world fell down on me like, “This cannot stand. This can’t be.” It was like a glitch in the matrix. Someone cannot be saying this in the pages of The New York Times.
+
+The New York Times commissioned a response op-ed. They brought someone in to write an op-ed two weeks later that went point by point through my op-ed and said, “Don’t worry, everyone. You can ignore this. This…”
+
+Tim Ferriss: “Everything’s going to be fine.”
+
+Cal Newport: “…isn’t right. Don’t worry about this.”
+
+Tim Ferriss: In the case of a water landing, assume the brace position. It’s going to be fine.
+
+Cal Newport: Exactly. You’re going to be fine. And of course now, within a couple of years, that’s a very normal position. You say, “Oh, I don’t use Twitter,” and people say, “Good for you,” and move on with their life. Things do change.
+
+I come at things from those perspectives. What is the underlying value here? If a technology or a way I’m using a technology is not serving that value, then we can push back or change it, which is what you were doing, if we bring it back to the headset, which as we were joking before, is going to be a metaphor for the deep life.
+
+The headset you’re wearing right now, what that represents is you have a vision of what you want podcasting to be that does not require you — 
+
+Tim Ferriss: For me. For me.
+
+Cal Newport: — for you, what you care about right now in your life, that does not require you to rent one of these warehouses and build the big sound stage in the middle of the stage and have the crew with the five-camera setup or what have you. That’s techno-selectionism.
+
+I want to put my coda on the video thing, though, is that I don’t think YouTube is the future of video for podcasts. In fact, YouTube and podcasts don’t play well together at all. They really just don’t. Most people are not successful growing their podcasts using YouTube unless it’s really YouTube specified. And so I think that mismatch is dulling the impact of the YouTube algorithm on the podcast ecosystem, because those audiences don’t play well together.
+
+I think the future of video for podcasting, it’s going to be on smart TVs. I think it’ll probably be, I subscribe to this app that has on it — 
+
+Tim Ferriss: Okay. You think people will single task. They’ll watch it.
+
+Cal Newport: Which, by the way, I was talking to our own YouTube guy, and the reason why I’m on YouTube, by the way, is practice. I think video’s going to be key. YouTube itself, right now, is not going to drive my podcast, but I want to be used to this medium.
+
+He was saying on a lot of big shows, and I think he was giving me the numbers from Lex Fridman, smart TVs will often be the number two or the number three most common device on which the podcast is consumed, so a younger generation — 
+
+Tim Ferriss: Really? Currently?
+
+Cal Newport: Yeah, because if you think about it, you can load the YouTube app on your smart TV. Podcasters are now filming in high def 4K. And when you’re watching, you select a podcast. It’s not that different than going to Netflix — 
+
+Tim Ferriss: Just watching TV. Yeah. Sure.
+
+Cal Newport: — and watching a show. Yeah. It takes up a whole show, and they don’t like the stuff that’s on anyways. I think that’s going to be the future, probably, is you’re going to have some app, like okay, I subscribe to this app.
+
+It’s the equivalent of a 2004 linear cable channel that you would’ve had on your menu, and you know what, it’s a nice Netflix interface, and it’s Cal Newport’s latest shows, and Tim’s, and Ryan Holiday’s, whatever, a group of people doing similar stuff. It’s a channel, and you go through a horizontal carousel. Oh, there’s a new episode of whatever. And you watch it on your screen.
+
+I think podcasting’s going to compete with streamers and cable, because the overhead, the key number used to be, in cable, dollar per hour of production cost. And this is why Discovery Channel was the profitable king of the first decade of the 2000s, is that they got that down to something like $400,000 an hour, which was a minuscule cost per hour, because they were doing these reality shows. Podcasts, you can get that down, even with high production values, another order of magnitude or more.
+
+Tim Ferriss: Yeah. One-tenth the cost for the super cinematic stuff, as far as I can tell.
+
+Cal Newport: One-tenth the cost of even the people with the $60,000 tricasters for the three-camera setups, et cetera. That’s a bit of an aside, but that’s where I think, this is who should be thinking about podcasts. YouTube, I don’t like the YouTube algorithm. It doesn’t play well with podcasts. It’s good for a few pod — 
+
+Tim Ferriss: Why do you say that? Because there are the anointed demigods of the YouTube podcast ecosystem, Lex Fridman, certainly Andrew Huberman. There are certain names.
+
+Cal Newport: It’s very hard to do that. It’s very hard.
+
+Tim Ferriss: Jordan Peterson. Gabor Maté, even, for instance. There’s certain people who, once they have been given the elixir of life by the YouTube algorithm, they can fart into a microphone for 10 minutes and get three million views, which is not to diminish what they do. I think, actually, everyone I mentioned has produced some really spectacular content. It’s not to minimize it in any way.
+
+But why do you say it doesn’t play nice? Because it seems like that is the primary arena in which many podcasts are trying to grow their, I would say viewership, because they’re really not podcasts anymore, in the sense that they’re video-first, because the thumbnails and the salacious headlines and the clickbait and so on are all being sold visually. I feel like it’s more, as you put it, kind of competing on a TV menu using visual candy — 
+
+Cal Newport: Yeah. 
+
+Tim Ferriss: — as a TV show, as a visual Charlie Rose, versus as a podcast. It’s almost a misnomer to consider them podcasts at this point, for a lot of folks.
+
+Cal Newport: Yeah. I think that’s true, but I think two things are going on here. One, I think it’s less podcasts just as a per capita basis, less podcasts than we think that are seriously competing in that space.
+
+That’s YouTube land, but there’s so many, this whole middle class of podcasters, by which I mean you’re earning a Kevin Kelly’s “1,000 True Fans” middle class or above income, that just aren’t playing in that arena. It’s a golf podcast. It’s a fitness podcast. It’s what have you. Or it’s on video, but it doesn’t really matter. They have the cameras, and younger people listen to it on the video, but it’s not like that’s driving its growth.
+
+Huberman and Lex, they’re outliers in ways it’s not useful to pursue. To pursue that is similar to being early in your TV career and saying, “Well, let’s just do what Oprah is doing. She has a lot of listeners.” It’s hard to replicate. I think there’s a self-reinforcing ecosystem already that they’re all a part of.
+
+Also, the length of their videos, that tends to be favored by the algorithm. If you go two or three hours and people actually watch it, that’s really favored by the algorithm. And it’s so extreme, though. It’s like the only game in town.
+
+It’s chicken and the egg. People like them, so they’ll watch a full three-hour video. And then the YouTube algorithm’s like, “Oh, my God. People are watching three hours. That’s a lot of time. We’re going to really push this.” But I don’t know that most podcasts need YouTube. But also, even if you do, it just doesn’t work. It’s really difficult. YouTube’s algorithm wants MrBeast way more than it wants Ezra Klein. It’s just the reality of what’s going on with that.
+
+Tim Ferriss: I think there are a bunch of open questions, but I want to come back to the, I’ll attempt to come back to the 30,000-foot view with the techno-selectionism, I think it was, which by the way, folks, if you’re not aware, you may have even mentioned them in your piece. I apologize. I haven’t read it. But the Amish do something very similar. They do adopt new technology. They’re just very strict about how they approach it.
+
+The first thing I’d say is, if podcasts end up on smart TVs, there’s a question about how they end up on smart TVs. Presumably, there’s some platform or hardware company deciding on that, and they might use YouTube as a proxy for who to choose as their content partners, just in terms of popularity. It may indirectly still be a determinant, YouTube, that is, of who gets placement on these.
+
+Otherwise, you’d just run into the same discovery problem that people experience right now, which is like, “I want to find a great podcast.” Well, you can rely on the Spotify algorithm to recommend something similar, but then you run into the issue of “I listened to one country song once, and now I just get served hundreds of country songs every day. How do I change my specifications?”
+
+But to zoom out just on the techno-selectionism side, because I think you mentioned something that’s worth underscoring, I think of new technology like I would think of new drugs, in the sense that at one point in time, for instance, thalidomide was considered a huge breakthrough. And then lo and behold, it has all these horrific side effects and birth defects and so on. And then it was pulled back, and there were rules put in place, and the FDA changed A, B, and C, and so on to make things safer.
+
+There’s no reason to treat technology any differently, in my mind. Drugs are a technology. It’s sort of a subset, but social media, same-same. Wearing a headset where you have the illusion of depth perception, but in reality, you’re looking at a screen that’s less than a few inches from your eyes, and so on. There’s just no real way to know what the long-term ramifications are, which doesn’t mean you become a Luddite.
+
+But even living in Silicon Valley for 17 years, I was sort of a sharp-edge adopter, but not a cutting-edge adopter. I never really took things on personally through self-experimentation or as an investor, really, if they were first of their kind. I always waited around a little bit. And you can still be really early and catch the right waves, even if you have a certain built-in delay.
+
+And that’s how I’m treating a lot of technologies and also behaviors. If technologies are just, and I’m not going to use a dictionary definition here, but let’s just say “tools,” of various types, or it could be behaviors, to accomplish a certain task, solve a certain problem. It could be a stick that a chimpanzee uses on a termite mound, but it could also be a certain type of behavior that you use, which is basically an algorithm. It’s a recipe, step by step, A to L to get something done.
+
+I really want to think about, what are — and this is what makes the best investors in the world also, in my opinion, is they think about not just primary, but secondary and tertiary effects, kind of like the character loosely based on Peter Thiel in the first season of Silicon Valley who’s like, “Who is this Burger King?” And he runs through this whole thing on the sesame seeds, and then he gets to the locusts and he’s like — 
+
+Cal Newport: Yeah. I remember.
+
+Tim Ferriss: “A 30-year cycle is going to coincide!” And the reason I mention that is if we think about, for instance, video, I think many people who are adopting video have never experienced what it is like to have widespread public recognition, visual recognition when they walk around on the street. And so they’re not familiar with that side effect, which people have experienced through other medium, like television. And I have, to my own limited extent, experienced that. I’m not Brad Pitt or anything like that, but I have, certainly.
+
+It is hard for a lot of people I know with popular podcasts that have any video component to go hang out at a coffee shop. They can’t go to a coffee shop and just sit down and read a book, because they’ll get interrupted every five to 10 minutes if it’s in any decently sized city in the US, at least, if they’re US-based podcasters.
+
+And it’s for that reason that I’m also taking the techno-selectionism/Amish approach where I’m like, “Okay. I can afford to wait.” This isn’t true with everything, but I think this ties into also Slow Productivity. I can afford to wait six months. I can afford to wait 12 months. And if I am, and this, I’m giving you credit for this, but it’s certainly one of my favorite, in my case, audiobooks, Born Standing Up, “Be so good they can’t ignore you.” — Steve Martin.
+
+Rule number one. Daniel Day-Lewis was not on TikTok in between all of his movies making omelets or teaching people seven easy steps to financial freedom or what to do when their car crashes or — he was working on his craft and getting so fucking good that every few years, he would just show up and win best actor and then disappear again. All right. Thank you for coming to my TED Talk. 
+
+But let’s come back to Slow Productivity, the new book. I want to talk about this. Subtitle is The Lost Art of Accomplishment without Burnout. Who doesn’t want that?
+
+The last time you were on this podcast, the episode was published February 2022, and you were telegraphing this a bit. You were talking about Slow Productivity a bit, and you were like, “Well, I’m thinking about making this book.”
+
+I’m just curious to know, process-wise, if you’d indulge me, what happened between then and now? Because now, you have a finished book, and people can buy it. And this is maybe a side angle at trying to determine how you choose your primary projects, the things you say yes to, because writing a book takes a lot of energy.
+
+What happened between, let’s just say January 2022 and now, we’re recording January 2024, with respect to this book and making decisions about where to put your time?
+
+Cal Newport: Well, it’s a good case study, excuse me, because I was testing the idea then. I went back and actually pulled out this — 
+
+Tim Ferriss: That’s smart.
+
+Cal Newport: — timeline. I think the first time I used the term slow productivity was maybe 2020 or 2021, right around there. Right before I came on your show the last time, I was ready to ratchet up my testing of the concept so I could also develop it more. I wrote a New Yorker piece that January where the title was “It’s Time to Embrace Slow Productivity.” Now the piece just had one idea of what would eventually become the full-blown philosophy of slow productivity. And then I came on your show and we talked about it some more.
+
+Then pretty soon after I was on your show, I’m writing the book. Seriously, I had pulled together, okay, I think I really understand all the pieces. That’s a two-year ideation process. I get the inspiration for the book in 2020. It’s the mix of the start of the pandemic and some stuff happening in my own life. This is where I began playing with those ideas. 2022, I’m still trying to pull together the ideas in the best possible form. That summer, I’m up in New England writing. I’m up actually writing the book.
+
+Tim Ferriss: This is summer 2022?
+
+Cal Newport: Summer of 2022.
+
+Tim Ferriss: Summer, yep.
+
+Cal Newport: I would’ve handed this in in spring of 2023 is when I would’ve handed in my first manuscript.
+
+Tim Ferriss: That’s fast. Good for you. That’s incredible.
+
+Cal Newport: Well, see, I disappear. Part of my methodology is I disappear in the summer. I’m a professor. Typically, professors in the summer take what’s called summer salary. You don’t actually get paid by your university at a research institution. You don’t get paid in the summer. They pay you for 10 months. And then you can take on, through grants, summer salary to keep working on research is what you’re supposed to do. And, at some point I realized, “Well, I make money from writing books. I don’t actually have to take a salary.”
+
+Tim Ferriss: Now is the university the who’s providing the grant, or is it some independent foundation or whatever?
+
+Cal Newport: No. It would be an independent — right. I’m like a theoretical computer scientist, applied mathematician. We’d get our money from the NSF, for example.
+
+Tim Ferriss: I got it.
+
+Cal Newport: And that’s just what you do because you’re researching and — 
+
+Tim Ferriss: National Science Foundation.
+
+Cal Newport: Exactly, yeah. And I realized, at some point after I got tenure, I don’t actually need that salary. This is what the book advance should be for, and I began disappearing in the summer, yeah, and really, “Let’s write. Let’s really get a head of steam.” And so, within a month or two after being on your show, I was beginning to seriously write that book, and then it’s about a 10-month process for me to get a manuscript done. Then you get about four or five months of editing, and then it locks in. That locked in last summer. Last summer, that book was finally locked in.
+
+Tim Ferriss: I’m going to selfishly just ask you a couple of questions about writing for myself, because I’m working on my first book project at six years, seven years, something like that and — 
+
+Cal Newport: Oh. Excellent.
+
+Tim Ferriss: Well, there are many reasons for it. It’s one of those things that just refused to go away, one of those ideas, where I’m like, “Okay, this is just going to ricochet around inside my skull indefinitely unless I let it out somehow, so let’s do it.” And I’m excited about it. I’m very excited about it.
+
+I also want to, and I keep saying this, I’ve said this for years, so I’m calling bullshit on myself on some level, get back into writing on the blog, and in part because I feel I have more differentiation with that particular capacity. Not that I’m the best writer, but there’s a particular style of writing, there’s a particular way of deconstructing things that people, at least some people, seem to like, from the 1,000 true fans perspective, in the interview format podcast world, there are a lot of very, very good people with very high production quality. So I feel like that arena is becoming more of a red ocean per se, as opposed to a blue ocean, so I’d like to experiment with doing more on the blog.
+
+Also, just to reinforce something you said, because the blog, number one, it’s a platform that I own. It’s on open source, it’s WordPress, and the barrier to comment is a little higher, which I like. There’s a little more friction in the process. People can’t just be like, “That’s so fucking dumb, LOLZ,” on the blog. There’s more involved. There is a little more process involved in terms of leaving comments, so the signal tends to be higher. It allows me to workshop things also, quickly workshop things and see how they land.
+
+And I still think that, for mimetic testing, text is pretty hard to beat. They’re very different laboratories. Text and voice are very different laboratories. I think voice helps you to talk through whatever is percolating, to develop ideas that you can then test really effectively via text, if that makes any sense.
+
+And so I have two questions for you. The first is we, in our last conversation when I interviewed you on the podcast, talked about the humor magazine at Dartmouth, and one of the main things that helped you, not specific to that, or I should say limited to that, was that you’re either writing for editors or writing for acceptance and rejection. You had some feedback loop whereby you could improve your writing. As it stands right now, I’m not going to get much of that from my readers. God bless them, because it’s not their role. It’s a heavy lift. They’re going to either like it or not like it and provide some feedback in the comments. But in terms of becoming a better writer, how would you approach that if you were me writing blog posts? If I have a book, I will have possibly an editor, I will have friends read a chapter here or there, but how would you approach that? 
+
+Because I would like to try to mimic, say, Seth Godin. Like, short blog posts, which I’m fucking terrible at. I tend to be very verbose, which is why all my books are phone books. I want to really make a goal for myself to do short blog posts, because that’ll be more sustainable, hopefully. How would you create that feedback? Because I want to get better.
+
+Cal Newport: I’m happy you’re going back to writing, because I think you’re right, it’s a much harder skill and it’s a much rarer skill. I write constantly. That’s basically my baseline for my career is I’m always writing. I’m always writing. Now it’s mainly books and New Yorker pieces. In the six weeks, counting today and going back six weeks from today when we’re recording, I’ve published three pieces in The New Yorker. I’m just writing, writing, writing, writing — 
+
+Tim Ferriss: Wow.
+
+Cal Newport: — because I think that’s the rare skill, because you’re right, people can become good podcast interviewers, good enough. It’s pretty quick with people.
+
+Tim Ferriss: With ChatGPT, if they’re telegenic and they have a good video setup, they can do it immediately.
+
+“Give me 10 questions in the style of Lex Fridman if he were to interview such-and-such a guest who happens to be my next guest,” and then you’ll get 10 questions and you can finesse them and then you have your iPad and you’re ready to go.
+
+Cal Newport: Yeah, and it turns out, if you have on interesting people, you’re really just getting out of the way, and actually, it’s an advantage. We have this whole new generation of podcasters who just don’t say much, and that turns out to actually work well. Anyways, but writing’s hard as anything. Writing is hard. You can’t write without practice. You’ve written, what, four or five phone books worth of books and tim.blog — 
+
+Tim Ferriss: Five, yeah, published five.
+
+Cal Newport: — five, and that blog was going — 
+
+Tim Ferriss: A thousand blog posts.
+
+Cal Newport: — for a really long time. Right. I think that makes a lot of sense. One idea I would have is particular stylistic targets that you’re working with. All right, with this post or for the next week or the next month, I like what’s happening in this writing over here. This is resonating with me. My taste is saying, “This is good.” Let me deconstruct that and try that in my post, like, “Oh, I like what’s going on here with meter. I like what’s going on here with abstraction or story. Let me try that.”
+
+This is what I did before I had a steady edited gig is that I would deconstruct articles and try to practice particular things I found from them. It was all toolkit building. And then, the bigger the toolkit, the more tools you have available. Then you’re working on a book chapter, what have you, and you can pull out whatever the metaphorical equivalent of the Phillips head screwdriver is here, the saw there. I think the regularity matters too, but it’s that taste issue. 
+
+And this is actually an idea that’s in the new book, the Slow Productivity book, because one of the principles is obsess over quality, and if anything, that becomes the core principle for slowing down.
+
+Tim Ferriss: I pulled that out, because, in my notes, it was on page three or four and I was like, “Okay, this seems like the mother quality…”
+
+Cal Newport: It is.
+
+Tim Ferriss: — in the sense that allows for the birth of all these other qualities. 
+
+Cal Newport: Well, you can’t be busy and frenetic and bouncing off the walls with 100 projects if you’re obsessed about doing something really well. It’s incompatible with that. Now doing something really well means you might have some really intense periods when you’re pulling something together, but it is incompatible with being busy. Chris Nolan, the director, doesn’t even own a smartphone. He is just, “I’m making Oppenheimer and that’s what I’m doing for the next three years. And then, when I’m done, I’m going to go away for six months and just read.” That’s what I do. I cannot be on YouTube. Like your Daniel Day-Lewis example. Because when you obsess over quality, two things happen. One, you can’t be busy because that gets in the way of actually getting really good at something. And then, two, if you’re doing something really well, that actually gives you the autonomy to push the other junk out of your life and slow down even more. As you get better at something, the more say you get over the way your life unfolds. That’s why you’ve been podcasting 10 years, and you can say, “I’m not going to do this video thing right now,” because you’re really good at it. You have some autonomy to figure out how I actually want to do this. I call that principle the glue. It holds everything else together because, without that — 
+
+Tim Ferriss: The glue is the quality first, competency/quality first?
+
+Cal Newport: Obsess over quality, yeah, because the other two principles are do fewer things and work at a natural pace, but if you’re only doing those two things, you’ve set up a sort of adversarial relationship with work in general. It’s like all I’m looking about is how do I do less? I see work adversarially. I want to have more variety in my pacing. You’re trying to get away from, reduce, or change work.
+
+And, if that’s all you’re doing, you’re just building up this negative attitude towards work, which I think, by the way, is one of the dominant reactions to burnout right now in, let’s say, elite culture. It’s just an all-out rejection of work itself, like, well, any drive to do things, it’s a capitalist construction, and the real thing to do is just do nothing, but that doesn’t last.
+
+And the people who are telling you to do this are not doing nothing. They’re striving really hard to make sure that their Substacks and books about doing nothing are going to have a really big audience and they’re giving talks on it. You can’t just focus on the doing less part, you need the obsess over quality part, and that’s where you’re able to still fulfill the human drive to create, and that’s where you still build the leverage to control your life and make a living. And so that’s why I think it’s the glue. You have to do the other things, but if you just do the other things, you’re going to end up doing quiet quitting TikToks or something like that. You’re not going to end up where you want to be.
+
+Tim Ferriss: Oh, no, purgatory. Returning to, because this relates to the writing of Slow Productivity, choosing to spend your entire summer working on this, and I’m a dog with a bone with respect to the writing process, so I will come back to that, but not to bore everybody who is not a writer in the audience, although, by the way, folks, I’m talking about creative process and choosing projects. I want to talk about choosing to write Slow Productivity because wanting to or understanding the importance of, say, obsessing over quality, which I think you would agree is the best promotion, rather than worrying about all the different ways you can market something, product first is a great marketing plan.
+
+You still need to choose which thing to become great at, because you could choose quiet quitting TikToks as your particular specialty, not that there’s anything wrong with that, it’s not for me, but you chose instead to do other things. How do you choose, to use the metaphor, I think it’s probably apocryphal, but the stones, the big rocks to put in your jar before the gravel in the sand? How did you choose Slow Productivity? Why that versus the many other things you could do? Because, presumably, you get all sorts of speaking invites. You could have just crammed a bunch of those into the summer and done really well financially. You could have done who knows what. Maybe you have people emailing you about film adaptations of this, or who knows? You have stuff that gets lobbed over the transom. Maybe you even have great or exciting ideas, 2:00 in the morning, like, “Oh, God, it’d be so cool if I did X.” At the end of the day, you chose to focus on this. Why?
+
+Cal Newport: Well, I mean there’s the general and the specific answer. The general is writing is what I do. That is what I do. I come up with ideas that I think are important and I put them into writing with the best possible craft. I’m not happy if I’m not writing, so that’s why I’m not giving 100 talks a year. It’s why I’m not releasing an app. It’s why you can’t hire the Deep Work Academy consultants. You don’t know how many times people have told me, “We would give you any amount of money to come to our company and redesign our practices to be focused on deep work and less distracted by email.”
+
+Tim Ferriss: I’m sure.
+
+Cal Newport: And I’m like, “No, I’m going to write instead.”
+
+Tim Ferriss: “I wrote the book.”
+
+Cal Newport: “Yeah, read the book.”
+
+Tim Ferriss: “You guys can just buy a bunch of those.”
+
+Cal Newport: “Yeah, buy many, many of those” to try to replicate what they would pay. But then, specifically that idea, I spend years, I spend years cultivating ideas before I’ll select one to write a book about. This is one of the skills I think is lost in the internet age because, again, going back, let’s tie this all to the algorithm, that surfaces something or that promotes something very different. It’s a volume game, among other things. I want to put a lot of stuff out there to see what the algorithm hits. It’s a format game. It’s also a lot of chasing trends game. You say, “Okay, what just took off two days ago on related channels? Now you’re going to get 70 videos all doing the same thing.” It’s a completely different way of thinking.
+
+I think part of my secret sauce, and the secret sauce for a lot of people, it could be at least, is really waiting to get started. I wrote this years ago on our mutual friend, the friend who introduced me to your work, actually, Ramit Sethi. Way back when, in his early blog, I remember writing an article for him that said, “Don’t get started,” was was my advice, because my thought was it’s really hard to get a good idea, and so take your time, and then to cultivate a good idea, it takes years. You have to write, you’re going to dedicate a lot of your life to it, so really don’t get started if you can at all stop, or if you can at all hold back, until you’re really, really sure about it.
+
+And then people say, “Yeah, but I worry that I’m just going to procrastinate forever,” and in some sense it’s like, well, then maybe you’re not meant to do this type of work, but the solution to that is not just, “Let’s just go. Let’s just tweet this. Let’s do this video. Let me jump over this. Let me start using generative AI, if I crypto this thing,” just looking for some quick thing that you can connect. You’ve got to just not want to get started until you can’t help but get started. And I think that’s frustrating for a lot of the internet generation because it takes a really long time.
+
+Tim Ferriss: Yeah. And so I do want the specific, you did mention it, I guess, because you’re a writer, but not to go like it’s turtles all the way down, but I will ask, how did you decide that you’re a writer? Because, looking at your CV, one might conclude yes, he does a lot of writing, but he’s also a computer science theoretician and he’s this and this and this. To say, “I am a writer,” is something that I think also many folks right now who are in any form of content would have a lot of trouble saying, “I am X.” They might say, “I’m a YouTuber,” but usually it’s 15 hyphens, and therein lies many opportunities and also many temptations to be resisted.
+
+I would say, just a few observations, the first is that, as you’re talking about, “Don’t get started,” it makes me think of Warren Buffett and the, “Don’t just do something, stand there.” You don’t need to make a 100,000 investments. You don’t need to be a day trader. Wait for the fat pitch. Figure out what the fat pitch looks like. Figure out what your kind of zone of genius is, what is your advantage?
+
+And I would say, also, it seems to me, and I’m really putting together a question with a million semicolons here, but you do get started, but you’re not overcommitting to half-baked ideas. You are exploring and experimenting and workshopping, which is also, as I think I might’ve mentioned, and another reason why I want to get back to the blog posts, because if you look at, say, The 4-Hour Body, The 4-Hour Body was workshopped for years before it ever came out. It just wasn’t under that name. The first blog post that ever went super mega viral on Digg at the time, D-I-G-G, from Kevin Rose —
+
+Cal Newport: Sure. Kevin, yeah.
+
+Tim Ferriss: — and perhaps a few others, was “From Geek to Freak” about gaining a bunch of muscle. And the response to that, it was what made me very interested in workshopping adjacent material to see if it would be similarly received and if I would enjoy it and if I would be good at it, et cetera, and so that was workshopped for years. That doesn’t mean wasting time. It means that, by the time I decided to really commit resources, the likelihood of success in my mind was, I’m not going to say all but certain, but it was as certain as I could possibly be. I had already tested this. The 4-Hour Workweek was workshopped for, I don’t know, six, seven years in lectures.
+
+How did you decide that you were a writer, that you would identify that way? Because identifying that way is a story that enables you to then be very selective and focused in what you do.
+
+Cal Newport: Right. Well, and it’s a good question because I decided early. I decided I was a writer when I was 20, and I became a professional when I was 21. I signed with my agent when I was 20 and signed my first to deal right after I turned 21. I came to it early because I was a big reader and was verbally precocious. It was the — 
+
+Tim Ferriss: That’s going to be in the title of this podcast. 
+
+Cal Newport: I read a lot.
+
+Tim Ferriss: The glue of high quality and being verbally precocious.
+
+Cal Newport: Verbally precocious, and literally precocious, I suppose. It was gifted and talented reading program. People think the Johns Hopkins talent serves the CTY camps. People think, “Oh, you probably went to one of those for math,” but I was invited for the creative writing one. And I went to college, and I said, as I went to college, “I’m not going to be a writer. It’s really hard. Writing’s really hard…”
+
+Tim Ferriss: True.
+
+Cal Newport: “…so that’s not what I’m going to do.” And I was a walk-on onto the crew team instead, because I had the right build for it. I was like, “This is what I’m going to do. I’m going to do sports. This is great.” And then I just — 
+
+Tim Ferriss: Was that lightweight or regular weight?
+
+Cal Newport: Oh, man, yeah, I believe 160 pounds, this guy. I was rowing at 100 — now there was a lot of sauna and weight-cutting in that.
+
+Tim Ferriss: Oh, brutal, brutal. Yeah.
+
+Cal Newport: Yeah, I was the big guy, you know that from wrestling, but I was the big guy that would cut down. Anyways, and I may have talked about this before on the show, I’m not sure, but long and short of it, I developed a congenital heart condition, a sort of rapid heartbeat, so I had to stop rowing, and so I said, “Maybe I’ll see about writing,” And that’s when I started writing.
+
+Tim Ferriss: I don’t think you mentioned this. I didn’t know that. Yeah.
+
+Cal Newport: Yeah. I was a pretty good rower actually. It was a bunch of recruits on this freshman boat from prep schools, and then it was me and one other walk-on. I was a middle-distance sprinter in high school. I was the right build for it, whatever. I was like, “Looks like I could maybe make a go of this,” and had to stop. It was just out of nowhere, just, “All right, I have a — it’s called an atrial flutter, okay, so I guess I can’t do this anymore.” And so then I said, “I need some sort of activity. I guess grudgingly, grudgingly, I’ll try writing.” And the very first thing I wrote was an op-ed about 9/11 for the student newspaper a couple weeks after 9/11, and I started, I started writing columns for them. I got involved in the humor magazine.
+
+After a year or so of that, I was like, “Oh, maybe I am good at writing,” and that’s when I decided, “I’m going to write a book. Let’s become a writer. Let me write a book.” And that’s what we talked about last time was figuring out how can a 21-year-old sell a book, and it would have to be the right topic, and we did all of that, but that’s when I declared.
+
+But, when it comes to your other part of this question, which is how do you figure out what to work on? I think you have two options, and you can do both. One option is to actually have, like you did or I have, a way of test-driving idea. I use, like you used to do, my newsletter and my blog to test drive it. The fact that you pointed out, you [homed] in on Slow Productivity as something you wanted to talk to me about was a really good signal, okay, this topic probably has legs. I do a lot of that. You’re right. If you read my newsletter, I’m trying a lot of things, most of which will never become a book.
+
+If you don’t have that, then the other option, and this is what I think of as the MFA option, is you have to develop really good taste. You have to actually expose yourself — 
+
+Tim Ferriss: MFA, meaning Master’s in Fine Arts?
+
+Cal Newport: Yeah. If you go back, I took an award, the PEN/Hemingway Award for first time novelist, I just chose whatever year was most recent and here’s the finalists, and I went through their bios. All but one had come through an MFA program, and so what’s going on there? It’s not that these MFA programs, which are creative writing graduate programs, they don’t really teach you. It’s not instructive, like, “Here’s how you do paragraphs,” or, “Here’s techniques you didn’t know,” but it increases your taste, meaning your ability to recognize what’s good and what’s not and what’s possible with good things.
+
+That’s the traditional option, in a pre-internet age, is you get really discerning about other people’s work, you read a lot, and just know this is a good novel and this is not, or I read a lot of New Yorker and I know what makes a really good long-form nonfiction journalist article, and then you can apply that taste to your own work and be your own worst critic, “This isn’t there yet. This isn’t there yet. Oh, this is getting better.”
+
+You either need a way to test what you’re doing, and the internet makes that easier than it was 20 years ago, and/or you really have to put in the work to develop taste so you understand what makes this good, “I’m not there yet, but this is the closest thing I’ve done so far, so let me go after this,” or, “I can see how good this is, so I know I’m not going to try to publish this as a novel, but I could probably do a short story over here.” Taste can also become the way you do it, but one way or the other, you do need some sort of discernment function to figure out what ideas are worth pursuing, because if you’re just going off of inspiration in the moment, that’s a huge crapshoot. You’re really unlikely to be successful that way.
+
+Tim Ferriss: Yeah. And I’m also, maybe this is just because I’m a curmudgeon and one of the old Muppets up in the balcony, Mortimer, but I think offline is incredibly uncrowded and absurdly valuable in the sense that, if you’re looking for real-time feedback, go volunteer for 10 bucks an hour to teach a class at Learning Annex and see what sticks, see what works, see what’s confusing. The feedback loop is so fast. You do that once a week for a month and you are going to know a lot. I You’re going to know more than if you had written a hundred blog post by far, in my opinion. I try to test things live.
+
+And for people who might be curious, people who test material tend to test material in a lot of different ways in my experience. If you listen to, for instance, my Jamie Foxx episode from way back in the day, 2015, it was podcast of the year at the time, back when that was possible, when they were like, “Oh, only a few thousand podcasts to choose from,” but he was, even in that podcast, working on material, seeing what my response was, and you can do that with nonfiction too.
+
+Just as a quick example of taste, I’m listening to a book right now, which I’ve read excerpts of, but it’s called The Power Law by Sebastian Mallaby. It’s about venture capital. He wrote a book, also, called More Money Than God, which is nonfiction, encyclopedic, and beautifully written romp through the world of hedge funds, which blew me away because he was very good at making the esoteric very graspable, similar to, in some senses, Michael Lewis.
+
+But The Power Law book, I know most of the content, I lived in that world for a long time, I know most of the history, and still I was listening to it in the car yesterday, and I was like, “Good God, it’s just so good,” the writing and the timing that we’ve talked about before, and Dave Barry for just setting up the punchline and ending the chapter on the right note, where you’re like, “Oh, that’s so good. It’s just so, so good,” that same way I felt about, say, Joe Abercrombie and this fantasy trilogy, which starts with The Blade Itself, where I was just like, “Oh, God, it’s so well-architected.” It’s not just the prose, but it is the prose as well, so that taste and building up that barometer being so important.
+
+Let me ask you, on the topic of slow productivity, could you give some examples? You mentioned Chris Nolan. Could you give some examples, old and new, of people who, in your mind, exemplify slow productivity?
+
+Cal Newport: I was motivated by slow food, as an example, where they look back to traditional cuisines where cultures had evolved over generation and generation, like what’s the right way to eat in this region of Italy, and the slow food movement would look back at that for inspiration. I look back at what I call traditional knowledge workers, so people who did things with their brain, but not the normal 1950s and onward, “I’m in an office or working at a computer screen,” so artists and philosophers, scientists, the original knowledge workers. They tended to have a lot more freedom and autonomy than we did today. I said, “Great. We can study them to see what did they gravitate towards in terms of how they approached or structured their really important work, because they had freedom and flexibility, so we can identify what matters and then adapt that to modern life.”
+
+A lot of my examples are these traditional knowledge workers, and so one of the early examples is Isaac Newton. And I said, “Okay, we all know he wrote this great masterwork, The Principia. Calculus was just invented in that as part of the effort to specify the laws of gravity that gives celestial order to the way that the cosmos worked. He wrote that thing over decades, decades. He would go and do other things and come back. It wasn’t this frantic push until it’s done, but no one remembers how long he spent working on that. They’re just like, “Yeah, that thing changed the way we understand the world.”
+
+Lin-Manuel Miranda with his first play, In the Heights, the same way. I do his whole story. It’s a seven-year odyssey from when he first performs his first version of that play as a student play, which wasn’t very good, to when it first goes onto a professional stage, its pre-Broadway debut. That’s a seven-year period. And he’s working on it, then he’s not, then he’s working on it again, and he’s not. We don’t know about that now. We’re just like, “Oh, yeah. His first play won a lot of Grammys, then he did Hamilton.” He’s, like, a really good playwright.
+
+Tim Ferriss: Right. If you read Wikipedia, you’re like, “Oh, that was fast.”
+
+Cal Newport: Yeah, you don’t realize — 
+
+Tim Ferriss: A synopsis in one sentence.
+
+Cal Newport: When he left, when he graduated from college, his dad was like, “You really should go to law school.” He took a job as a substitute teacher. He was spending a lot of time with a freestyle rap troupe called Love Supreme that would travel around doing freestyle rap shows. If you zoomed in on a particular day in the almost decade that Lin-Manuel Miranda was working on In the Heights, you’d be like, “Man, you’re so lazy. You’re not even working on your thing. What’s going on? Why aren’t you getting after it? Why aren’t you crushing it?” because things take longer.
+
+I use Georgia O’Keeffe as an example of seasonality, that her productivity as an artist didn’t really pick up until she began saying, “You know what? In the summers, I’m going with Alfred Stieglitz, we’re going to Lake George and I’m going to sit there in a shanty,” she called it the shanty, it was an outbuilding near the lake, “I’m just going to paint and be inspired, and then I’ll come back after the summer and finish the artwork and show them and do all the other sorts of stuff, the most productive years of her life. By actually slowing down for a season every year, her productivity exploded. She became one of the most famous early modernists of that whole era of painting, right? We see those examples.
+
+Well, Marie Curie, at the pinnacle of about to discover in pitchblende, the substance she’s studying, about to isolate radioactivity and win her first of two Nobel prizes, goes to France with her family on vacation for two months. In the moment, you’re like, “What are you doing? You’ve got to be getting after it, you’ve got to be crushing it,” but we don’t see that now. We’re like, “Yeah, she was great. She won two Nobel prizes. Way to go.”
+
+Tim Ferriss: She wasn’t part of that hustle culture.
+
+Cal Newport: There was no hustle culture. That’s the interesting thing. When you go back and study people producing things of real value, using their brain, they were smart and they were dedicated and they worked really hard, but they didn’t hustle and they didn’t work 10-hour days day after day. They didn’t work all-out, year-round. They didn’t push, push, push until this thing was done. It was a more natural variation. They had less on their plate at the same time, and they glued it all together by obsessing over quality.
+
+That’s the Slow Productivity approach. It still produces stuff that you’re really proud of but it doesn’t burn you out, and it doesn’t leave you in this weird out-of-sync balance where work is taking up almost all of your time. 
+
+Tim Ferriss: I think a lot of choosing a path is about choosing trade-offs. If you choose slow productivity, there’s the question of what you should be prepared to face in terms of trade-offs. What are the pressures, expectations, psychological challenges, et cetera, that you should be prepared to face. Why don’t we start there? Because I think most people listening will agree like, “Yes, I don’t want to be doing quiet quitting TikTok videos.” In other words, I’d rather be building the Sistine Chapel instead of sand castles that just get wiped away every time a wave comes in.
+
+The fact of the matter is, I have a mortgage, I’ve got this, I’ve got this, this, this, and I can’t just disappear for months at a time and take two decades to write my masterwork. I can see how a lot of folks would rightly say that, at least at face value. What should people be willing to accept as trade-offs or should be prepared to face if they choose slow productivity, and is it mutually exclusive? Presumably, Lin-Manuel Miranda had a way to buy groceries, and it wasn’t from doing freestyle rap, right? Maybe I’m creating a false dichotomy here.
+
+Cal Newport: Lin was a teacher and was also a columnist. He was writing reviews and columns for a paper while he was working on this in his spare time. The bigger point, the important one, is how do we take an example like Newton and The Principia and apply it to someone who has just a 21st-century corporate, semi-remote hybrid work job for a big company? How do we isolate the principle and then make it pragmatic for people who are not traditional knowledge workers, but just modern knowledge workers?
+
+If we start with the first principle, do fewer things, well, what this really means if you have a normal corporate job is starting to be very explicit about workload management, which is something that everyone does, workload management, but we tend to do it in really inefficient ways, because this is left to the individual in the knowledge work context. In most jobs, not in software development, but in most other jobs, it’s up to you just to manage what’s on your plate. People send you emails and you just say, “Yeah, sure, I’ll do it.”
+
+What most people do, for example, is they wait until they feel really stressed, and then they say, “All right, I have psychological cover to say no, because I’m so overwhelmed that I feel justified in taking the social capital hit for saying no.” This is a terrible way to manage your workload. You can be much more explicit about how you manage your workload. “Here’s how many slots I have. Oh, I filled them.”
+
+I mean, this is really a 4-Hour Workweek style. Let’s get in and write the systems for how we manage workload. You could go to a pull-based system instead of a push-based system. You can do reverse to-do list. There’s a lot of things you can do to make sure that the amount of work on your plate doesn’t get too large, in a way that’s fully compatible. Work at a natural pace. While there’s organizational things you can do here so that you’re not at full intensity, you can also just do this yourself. You can titrate your workload.
+
+I go easier in the summer than I do in the rest of the year, and I can do this in a way that my employer doesn’t notice. It’s pretty subtle in what projects you take on or don’t take on. You can quiet quit for two months and no one notices, whereas if you quiet quit for 20 months, people say, “Okay, wait a second. I know your worth as a human’s not defined by your labor, but your worth to me as an employee is. You’ve got to do something,” right? Two months, they don’t notice.
+
+Tim Ferriss: Quiet quitting is just not doing very much work while you’re employed?
+
+Cal Newport: Quiet quitting is doing the bare minimum, right. It comes out of a place of this late-stage capitalism critique of why should I have to do work, which is a whole other thing. Then if you couple this all with obsessing over quality, that then becomes the accelerant that allows you to do these other things faster and better. As you [home] in on, “Okay, here’s what I’m going to own within this company, and I’m going to get better and better at this and make myself more and more valuable,” now you’re able to much more easily and much more aggressively do fewer things.
+
+Now you’re able to much more easily and aggressively say, “I’m gone in August. I don’t do work in June.” You gain autonomy as you get better, and then you’re able to accelerate these things. The vision is, even if you work for someone else, these principles can be implemented, whether they’re on board or not, and it’s going to get you something like the slow productivity benefits of I’m doing good work, work is not taking up most of my life.
+
+Tim Ferriss: I think we can safely assume that a lot of the audience listening will be self-employed or have some agency, at least as most people would assume, beyond, say, mid-level HR manager at a large company.
+
+Cal Newport: Yeah. Makes it a lot easier, by the way.
+
+Tim Ferriss: Yeah, makes it easier. I think that a lot of folks listening will be self-employed, so we can use that lens if it makes it a little easier. Perhaps they run, who knows, a software, like a B2B SaaS company and they have employees and so on, but they can set rules at the end of the day. They can create systems that build in some of what you’re talking about. What is a pull system instead of a push system?
+
+Cal Newport: Well, the pull system, you say, okay, here’s how many things I work on at a time, so I only pull something new in when I’m done with something, which is different than the default of anyone can push work onto your plate at any time, and it’s up to you to just manage this. You have an unlimited load. A pull system says, “No, this is what I’m working on now. I can’t do something else until I’m done with this.” We can have a holding tank, and this is where it is. Here’s how I estimate when I’m going to get to it. There’s this many things ahead of it.”
+
+Software developers already do this, because they already have Kanban-inspired cards on a whiteboard system where you pull in, “I’m going to work on this feature now,” and over here you have the holding tanks of features that need to be done. When you’re done with the feature you’re working on, it moves to the next column and you can pull something else into its place. You could do this more with more other types of work, the idea being you don’t want to be juggling too much at the same time because the overhead gets to you.
+
+Tim Ferriss: How do you do that personally? 
+
+Cal Newport: The similar alternative to that, for people in highly autonomous roles like mine as a professor/writer, is quota systems. That’s more what I will lean into. Break up work into the different types of things I need to do, and quota. Here’s how many of these I do per semester, how many of these I do at a time. The idea is I still hit the different areas of stuff that is part of my responsibilities, but it’s capped. I have a quota as a professor for here’s how many peer review paper reviews I do per semester.
+
+When I hit that cap, I can now say to someone, “Hey, thanks for thinking about this. I do a lot of paper reviews. I like doing paper reviews. I’ve already hit my quota for the semester, however, so I can’t take any more on this semester.” This is really effective, because for someone to push back against that, they basically just have to argue, “Your quota is wrong. Well, whatever it is is wrong. You should be doing more.” As opposed to saying, “I’m really busy. I don’t know if I have time.” They’re like, “Everyone’s busy. It’d be good for me if you would just do this.”
+
+Tim Ferriss: Yeah. “Don’t worry. I can make this a really light lift for you.” You’re like, “Ah, fuck.”
+
+Cal Newport: Yeah, “Don’t worry about it. We’ll whatever.” There’s nothing more quixotic than the overburdened worker who is trying to not say no, but get the person who’s giving them the work to voluntarily agree to not give them the work. It never works. If someone’s trying to get you to do something, and you’re like, “Well, I guess I could, but I am pretty busy,” they’re never going to say, “You sound busy. Don’t do this.” They’re like, “Yeah? Good. Well, I’m glad you can do it. Here you go. Get this off my plate.” “What are you talking about?” I’ll lean more in into quotas, and I’m really careful about that.
+
+Tim Ferriss: When you say careful, do you mean careful about taking on too much beyond your quotas? Is that what you mean?
+
+Cal Newport: Yeah. I’m very careful about it, yeah. Not only do I have quotas for I only do this much per semester. I’ll think about I’m not going to do any of this work this season, or I’m writing this season so I’m going to disappear and not do this, or this season I’m working on research. Again, I’m very wary of workload and workload management. How many things do I have on my plate? That’s the number I check with a lot of trepidation and a lot of anxiety.
+
+One of my core ideas is the problem about putting a lot of things on your plate, even if they don’t have colliding deadlines or it’s up to you when you finish them, is once something is on your plate and you’ve agreed to do it, it generates overhead. People are going to check in on it. There’s going to be calls you have to jump on to talk about it. It has some cognitive space. What’s been happening a lot in modern knowledge work is that people have put so much stuff on their plate that the overhead of just managing all of this stuff — not doing the work, just the administrative overhead of calls and emails and meetings — takes up most of their schedule.
+
+It’s this weird, almost Sisyphean position that so many knowledge workers are in today, where all day long it’s just talking about their work. It’s, “Okay, maybe late at night or on the weekend, I do a little bit of work.” It makes no sense, right? If your workload gets too big, the overhead takes over more and more of your time, and it takes longer to get through your actual workload. It’s an incredibly inefficient way of executing work.
+
+It’s one of the reasons why, by the way, that this is not a zero-sum game, slow productivity. It doesn’t make you worse at your job, but happier. It actually makes you better at your job. I mean, if I’m an employer, I should like the idea of slow productivity, because my workers are going to produce better stuff. We will make more money if we don’t pile 15 things on their plate, because more of their time is going to be working on value-producing objectives and not talking about objectives that they don’t have time to actually get to.
+
+There’s actually really a useful alignment happening here between clients and entrepreneurs, between employers and employees. Slow productivity produces good stuff. It doesn’t just make the workers happier. It doesn’t just make you happier. You produce better stuff. I mean, your company has more profit. Your clients are happier. You can charge more for the services you offer, so it’s not zero-sum. It’s more win-win than anything else.
+
+Tim Ferriss: I would have to imagine that also, if any company were to have the emperor of the universe dictate that they embrace the tenets of slow productivity for, say, a three- to six-month period of time, the companies that would not do well on at least one level would probably be those who have not clearly defined what the high-leverage, most important things are.
+
+If somebody at the top or if a manager hasn’t actually clearly thought through and taken the measure twice, cut once approach to determining what domino tips over a bunch of other dominoes or makes them irrelevant, they’ll probably be quite bad at slow productivity. I mean, that would make them bad at most types of productivity, I would say, other than just the volume game of tonnage, of, “Here, do another 30 tasks,” but remaining really focused, which I think it’s a risk or I’d say that risk is increased when you are not good at defending yourself against the agendas of everyone else, in a sense, if you take on too much.
+
+From a tactical perspective, you mentioned the, “I’ve committed to only doing five peer-reviewed article reviews per quarter. Really appreciate you thinking of me, but unfortunately I’ve already hit that and I need to focus on A, B, or C,” right? The actual language that is used for defense, I’m very interested in. What other types of language do you use when you get stuff over the transom, which I have to imagine you do? Are there other approaches, other specific types of phrasings, that you have found you come back to because they’re effective?
+
+Cal Newport: Right. Well, extreme clarity is the most important. I think people tend to focus too much in this type of situation on politeness, which is really not that important to the person making the request. They want this thing done, and they want to know if you’re going to do it or not. Now, you don’t want to be rude, but actually clarity is the key. You can have zero wiggle room, and I’m sure you’re very good at this. I mean, anyone who has a lot coming over the transom learns you have to say, “I can’t do this.” Then you can give some explanations, but you can’t give any ambiguity.
+
+You say, “Unfortunately, I can’t do this because,” and you can give some explanations. Most people don’t read past the, “I can’t do this.” They’re already emailing the next person that they’re going to ask about this, once they get to that line. I think short and sweet and clear. Clarity is underrated in this. I mean, what do people really want? They want something done and they also want clarity about when is this going to get done, because they want to be released from having to keep track of something in their mind.
+
+I wrote about this in my last book. And so it’s why this company that made their clients sign a communication agreement. “This is how we are going to talk to you. This is how we’re going to discuss things. You can’t just email or call us whenever. What we’re going to do is we’re going to have,” and this was a few years ago, but I believe their setup was, “We’re going to have this weekly check-in call, and we’re going to take careful notes during this check-in call of any questions you have that we don’t have the answer on right away. We’re going to take careful notes on that, and we’ll post it and get you that information back. This is what we’re going to do.”
+
+One of the two partners of this company was thinking, “This is it, right? We’re going out of business, because clients don’t want anything taken away from them. They want full flexibility. They’re going to see this as weird and eccentric and who are we to say this.” The clients didn’t care. They didn’t care, because what do clients want? If I have an issue, I need to know it’s going to be taken care of. If you have no communication agreement, what that means is, “Okay, I just sent you an email about this as soon as I thought about it.”
+
+Tim Ferriss: It’s nebulous anxiety. You don’t know when something’s going to be addressed.
+
+Cal Newport: “You better get back to me right away, because if you don’t get back to me right away, I worry that you’re going to forget this. I’m just going to keep bothering you about this until you get back to me.” Then you think, “Oh, what the client wants is responsiveness,” but if you give them an alternative, “Here’s a shared document. Write anything that comes up in here, and on our Thursday call, we’re going to go boom, boom, boom. We’re going to go through this whole thing,” that solves the same problem for them. They’re like, “Great, I can just write this here.”
+
+The win for the client is not you responding to an email right away. That’s not what they really care about. The win is that the anxiety of having to keep track of this has been relieved, and I don’t really care how that happens, and I don’t care if I have to write it on a little piece of paper to attach to a homing pigeon that I’m going to send out the window that’s going to make it to the roost that your interns check. I don’t care. I don’t want to have to worry about it.
+
+I think that it’s not about politeness so much. I mean, you don’t want to be rude. It’s not about managing and massaging the relationships. It’s clarity. “Okay, great. You can’t do this.” Or you can do this, but, “Here’s how we’re going to talk about it.” “Okay, good. I trust this will get done. Now I know what’s coming next. I have a hundred other emails in my inbox. I’ve already moved on.” I think clarity, clarity, clarity is the key, once you start actually managing your workloads much more explicitly.
+
+Tim Ferriss: Any other keys for you personally, in terms of whether it’s preemptively stemming the tide by having public rules or blog posts or autoresponse, or something like that that basically says, “These are the things I can’t can do, or will or won’t do”? Do you have any other systems in place or anything like that that lessens the burden of it? Maybe the answer is you just don’t get a lot of this, because people are already very well aware of your existence and positioning in the world as the Deep Work guy, so they don’t send you a ton of stuff. I don’t know.
+
+Cal Newport: Well, I’ll tell you one thing that helps is so many people have switched to a social media paradigm for communication. “Oh, I’m going to DM you on whatever.” The fact that I’m not on, I don’t know. They don’t know how to reach you. People forgot about email. I do have communication channels. Very specific, right? There is no, “Here’s the general way to talk to Cal Newport,” right? I have very specific channels for specific reasons, with clear expectations. I used to call these sender filters, and I still really depend on these today.
+
+“If you have this type of request, you can send it here. If you want to send me a link or something, you can send it here. You’re not going to get a reply, but I probably will see it. If this is an interview request, I’m aiming you at a publicist. If this is a speaking request, I’m aiming you at a speaker. Here’s a big warning about using my academic address. If you send a non-academic thing here, it will not be read, so you’re not outsmarting anyone.”
+
+Then I add on top of that — and this is controversial, but I think it’s common — I add on top of that a second layer of filter, which is a default to not answering. If I don’t know a person and they come in with a request, because I have these filters set up, that’s pretty clear. This is not just a general-purpose address. That’s my final filter.
+
+Tim Ferriss: You make it explicit.
+
+Cal Newport: It’s explicit.
+
+Tim Ferriss: If I don’t know you? How do you phrase that? You’re like, “If I don’t know you, it’s very low likelihood that I’ll reply,” which is fine?
+
+Cal Newport: Well, the particular channels have this, right? It’ll be, “Send this here, this here, this here, this there.” It’ll be clear. “I’m not going to respond probably, but I probably will see it,” and, “I have other people. This is not even going to me.” It’s when people circumvent that. They get to my personal address or they go to my Georgetown, they go to my professor address. My default becomes not to respond, which it’s a little bit controversial, but actually it’s not a bad filter.
+
+I learned that from professors at MIT when I was there. That was how the grand professors at MIT managed their inbox, was, “If I don’t respond, that means you need to try again. This was too vague. This was not in my best interest. You need to try again, whatever you sent here.” It was their way of saying, “No, try again. You need to be more clear, have a more specific ask or something I can actually help with.”
+
+That’s my final wall, is getting past that, and that took me a while. I mean, it took me a while ’til I felt comfortable doing this. My final wall is like, if I don’t know how to respond to this easily, I’m probably just not going to respond to it. That works a lot of things out as well. There’s just not this expectation. This is not a conversation in person. To not answer this email is not the same as you coming up to me and me just pretending you’re not there. It’s a different, asymmetric medium, so you can feel more comfortable about just not answering.
+
+Tim Ferriss: What do you think in this book — I ask this question a lot because there’s usually something that pops up — which is what do you think is tremendously important that people might gloss over? For instance, for The 4-Hour Workweek, it’s the “Filling the Void” chapter. People are like, “Oh, yeah, it must be a nice problem to have. You’ve got to worry about how you fill your time.” I’m like, “Actually, no.” It’s a very, very, very, very important thing because if you are a work machine and you’re always in sixth gear and then you remove work, your life doesn’t just get autopopulated with awesome stuff that makes you fulfilled. You have to plan for it. People gloss over that, because they’re like, “Ah, I’ll worry about that later.” Then they end up in these existential crises.
+
+Is there anything in this book — could be anything, like a philosophical foundational piece, could be strategic or tactical — where you’re like, “Hmm, based on people I’ve talked to, based on proofreaders, based on whatever, if I could draw attention to something I think people might gloss over or not give its full weight of importance,” anything come to mind?
+
+Cal Newport: I think people don’t realize the degree to which they don’t actually have a sensical definition of productivity. There’s a part in the book where I survey 700 of my readers, and one of the questions I ask them is just define productivity. No one has an answer. What most people did was just describe their job, like, “Well, productivity is producing good software.” They just sort of list what it is their job is supposed to be. I think people, they think they know what productivity is and that it’s just a matter of your relationship to that. “Well, productivity, I don’t like it and so I want to do less of it,” but the reality is no one really knows what it means.
+
+I think people don’t realize how chaotic and haphazard and impromptu the way they’re organizing their work is, how chaotic it really is. I don’t think people realize that. What we really did, and by we I mean the whole knowledge sector, is in the 1950s when knowledge work emerged as a major economic sector with really large companies, with a large number of people working in offices, there wasn’t a clear idea how do we measure how someone is productive, because all the ideas about that came from manufacturing and agriculture, and they didn’t apply.
+
+In manufacturing, you could tabulate the labor hours per Model T produced. In agriculture, you could count bushels produced per acre of land. You had numbers, and you could say, “Oh, the assembly line increases this number, so let’s do that instead.” Or, “This Norfolk crop rotation method increases the bushels, so let’s do that instead.” Knowledge work couldn’t have any number like that, because the jobs are more diverse and the organizational systems were autonomous. It’s just up to you to figure out how to organize yourself. There was no organizational-wide way of assigning and monitoring work that you could test and see, “What if we change this? Is it better?”
+
+What happened was we invented this idea called pseudo-productivity, which was we will use activity that’s visible as a proxy for useful effort. It’s just, “Hey, you’re doing something. That’s good. Doing more things is better than less.” That’s where the notion of busyness is good, and how are you on busy. Then what happened, my contention is once we got mobile computing and the internet, and we got networks and email and I could work on my laptop, you can’t combine that with pseudo-productivity because if more activity is better than less, and you have endless work that you can do in any place, you just spiral into just constant working. That’s where you get the burnout. You’re done, right? It kind of works.
+
+Tim Ferriss: You’re going to incinerate on re-entry. Yeah, you’re done.
+
+Cal Newport: Yeah, pseudo-productivity worked for Don Draper. It’s like, “Yeah, okay, visible activity is better, but you can only see me when I’m in the office, and let’s all agree that we can have three martinis at lunch.” It’s like, “Okay, fine. Whatever.” Put the magazine down when someone comes by your office. It doesn’t work with an iPhone. It doesn’t work when you have a MacBook and you could be doing Slack.
+
+I mean, this is the thing I think people miss, is they think they know what productivity means, and they have a lot of opinions about it. My argument actually is you don’t have a sensical definition. We just have this activity is somehow good, which it’s clearly not, especially for non-entry level knowledge work. Busyness doesn’t produce high value.
+
+I think people too often think of something like slow productivity as, “I’m willing to trade off economic output for psychological sustainability. I’m willing to trade off making more money for feeling better about myself.” That’s not what it is. No, what you’re doing now is crazy. It’s like building Model Ts with the lights off. It’s a terrible way to work.
+
+It’s like, no, let’s get a real definition of productivity, that is very sustainable but also is going to produce good stuff.
+
+I think people think they’re stepping away from something that works, but’s hard. “Yeah, this gets it done, but it’s hard on me. Let’s replace it with something.” No, the thing that we’re doing now doesn’t work. It’s not a sensical way of connecting human brains to add value to information. It is not a good way of working. Almost any alternative that’s intentional is going to be better than what we have, so we might as well choose one that’s also sustainable and makes us feel good. I think people get that wrong a lot.
+
+Tim Ferriss: What’s your definition, for yourself, of productivity?
+
+Cal Newport: Well, I go back to go to the book you mentioned, Born Standing Up, which as you know is influential for me. I mean, I wrote a book called So Good They Can’t Ignore You.
+
+Tim Ferriss: It is so good. Yeah, it’s a great book.
+
+Cal Newport: I loved what Martin said in that, which was basically you take a craft that you think is important and that you could be good at and that’s interesting to you, and then you really put on your blinders for a decade. Get really good at something that’s important. Everything else will work itself out. His exact quote was, “Be so good they can’t ignore you. If you do that, everything else has a way of working out.”
+
+That’s really been my thing. I mean, the decision I made in college, after I got that heart condition and I couldn’t row crew anymore, was, “Here’s the two things I’m going to do. I’m going to do computer science and I’m going to write,” and that’s all I did. That was it. “Let me do computer science and let me write. I don’t want to do Instagram. I don’t want to do Twitter. Let me just do that. I just want to get good at this, and let me read people who are really good, and I want to get better and better at this.” That’s where all of my energy was. “Let me just try to do these two things as well as I can.
+
+That’s the way I think about productivity now, is how good is the best thing I’ve produced recently. That’s it. I want to be better at things that are hard and meaningful, and that’s it. I don’t want to be famous. I don’t want to be busy.
+
+Tim Ferriss: By good, you mean an internally driven evaluation of quality, just not to be nitpicky, but right? Good is not — as we already know, based on your description of not using social media — but it’s not likes, it’s not this, it’s not that. How much of it is how you feel about a piece versus, say with The New Yorker, how well something does, the feedback you get from editors or other inputs?
+
+Cal Newport: I think external is good if it’s a trusted evaluation, because you can’t BS yourself, right? Unambiguous indication of value is really, I think, the right thing to chase, because it keeps you honest, like in computer science. When I last talked to you, I was working on a theoretical computer science paper, an algorithms paper, and there’s an idea in there I thought was really good, and I was like, “I think there’s something really interesting here.” We published it and won an award. It was the Best Paper award, right? This was the best paper at this conference in the fall of 2022. That’s important to me. It’s like, “Okay, it’s hard.” It’s hard to write papers. It’s hard to get them passed, accepted. And it’s hard to win an award. That’s something to strive towards. And same thing with The New Yorker. It’s just really hard to write for them. It’s really hard to get a piece accepted. It’s really hard to get a piece out there that seems to be resonating with people. So I’m looking for that. Or even numbers. So I’m not against external numbers. Seeing a book find an audience is important to me because I’m not a good marketer. So if that book finds an audience, all my books that have been super successful have taken years to get there, it’s a mark that something in there is actually working.
+
+So having, let’s call these high value external indicators versus serendipitous or low value external indicators. So I think virality on a YouTube video is a low value external indicator because there’s a lot of serendipity in there. It doesn’t require, it’s not a linear dose function on quality of input. So it’s not the better the video you create just from a sheer quality than the more views it’s going to get. No, it could be whatever. You have a very popular video about peeling a hard-boiled egg.
+
+Tim Ferriss: I was just going to say my most popular YouTube video, it’s eight million views or 10 million views, is how to peel hard-boiled eggs without peeling the whole egg, filmed in my kitchen on a shitty camera God knows when.
+
+Cal Newport: Right.
+
+Tim Ferriss: So if I had followed that as my indicator, can you imagine what my whole YouTube channel and life would be?
+
+Cal Newport: So much peeling.
+
+Tim Ferriss: Like the kitchen hacks, Martha Stewart of YouTube, that’s what I would’ve turned into.
+
+Cal Newport: Well, and by the way, if it makes you feel better, Mark Rober, who’s a major YouTuber, 20, 30 million view videos, his number one video is how to peel a watermelon inside the whatever. So yeah, you guys — 
+
+Tim Ferriss: People have problems with peeling things.
+
+Cal Newport: You could’ve been huge. People have problems with peeling things. But for you though, compare that — 
+
+Tim Ferriss: I’m just thinking about peeling a watermelon. It sounds very high labor. Anyway, thank you.
+
+Cal Newport: Well, somehow he does it without cutting through, I don’t know. And now I’m going to go watch the stupid video, so there you go. But think about compare your eight million views on the egg video to your first book hitting number one in The New York Times Best Seller. I would say number one in The New York Times Best Seller, that’s more of a high value external indicator. It’s very hard to do. It reflects you’ve developed an audience and you’ve spoken to that audience. That’s difficult. That’s difficult to do. That’s a high value external. And so I like the high value external. Money can be, this is controversial, but I learned this from Derek Sivers who told me that money is a great, here’s his quote, “Neutral indicator of value.”
+
+People don’t like to give away their money, so it means something if clients buy your product, it means something if people buy your book. Because it means nothing for me to click to watch your egg video because I don’t know, whatever, what am I going to lose? But to give $20 to get your book, I care about my $20. So I think high value external indicators of value aren’t a bad thing. They’re scary because people don’t like the rejection and they don’t like that it’s very hard. But I think that’s fine because it keeps you honest. It keeps you honest.
+
+Tim Ferriss: What do you think Derek meant by neutral indicator as opposed to positive? I would think it would be a positive indicator, but maybe I’m using a different scale than he is.
+
+Cal Newport: So he meant neutral in the sense of unbiased. This is what he did at every stage of his career is when he had the next thing he wanted to do, so he was working as a record executive for example, and wanted to go full-time with his band, he would wait until the next thing was making as much money as the current thing, and then that’s when he would say, “Let me go do that.” He waited until CD Baby then was creating as much money as he was making as an artist before he went all in and just working on his startup.
+
+But he meant neutral because if you just ask people their opinion on your idea or ask them, “Hey, do you think I should do this?” They’re not neutral. They like you and they want to be nice. So like, “Yeah, man, go for it. Yeah, you should definitely quit your job to do a band. That would be awesome. I wish I could do that.” It’s not useful feedback, it’s not neutral, but as soon as you ask for their money, they become Switzerland. They’re like, “All right, whoa, I…”
+
+Tim Ferriss: Yeah, “We’re going to stay out of this.”
+
+Cal Newport: “…let me evaluate this. I’m not a partisan here.” Like, “Okay, hold on a second. Well, how good is your band? Wait a second. Are you that good?” Yeah, so it’s a different thing. Different thing.
+
+Tim Ferriss: I’m really not qualified to evaluate such a thing.
+
+Cal Newport: Exactly.
+
+Tim Ferriss: Yeah. Derek would stand out to me as someone who’s un-rushed. And I would say also, if this is helpful for folks, if you feel like you have to rush to compete in something or race in some way, chances are you don’t have a great sustainable competitive advantage, I would say almost certainly you don’t have any sustainable competitive advantage. In which case if you telescope out and just ask yourself, “What does this look like? What does my life look like in one year, three years, five years?” It’s going to break. Something’s going to break.
+
+Cal Newport: Yep.
+
+Tim Ferriss: It’s just a question of when it breaks. So you want to preemptively think through how to prevent that or look at other ways to augment your ability to not rush. I think Derek is very, very good at this. Who are some other contemporaries? I know that, and maybe we’ll talk about it, but Jane Austen would be another example. Historically speaking, who are some contemporaries within the last 20 years to stand out? 10 years, just because of the technological landscape. I think about this a lot. How many Newtons, how many da Vincis, how many Mary Curies are just making TikTok videos right now and they’re never actually going to make something that is fulfilling their full potential? I would have to imagine it’s vast swaths of the population. So let’s just say the last five to 10 years or current day, people who stand out to you.
+
+Cal Newport: Well, I think where you see this most often today is in the arts. So I’m a movie buff. You see this with the great directors. It’s, “I’ve got to get the right project.” It takes a long time to get the project together. You spend a long time on that project until it’s right and then you do it. If you look at Tarantino, you look at Greta Gerwig, you look at Chris Nolan, they take their time. Also, they’re not filling in the gap, “Let me be on YouTube, let me be on Twitter. Let me have a really active presence out there.” They take their time. Novelists are very good at this, especially literary novelists because their books need to be really good. That’s their whole selling proposition. So they take their time. A specific example I like is John Grisham. I did this comparison.
+
+I uncovered this old interview of Michael Crichton once. It was an interview of Michael Crichton when he was 27 years old. And so I wrote this essay about Compare Michael Crichton to John Grisham. You’re going to see two different approaches to roughly the same job, which is writing popular genre fiction. Crichton was all about busy. So you read this essay, this was after The Andromeda Strain had come out, and it’s all ambitions for things he wants to do, “I want to direct. I want to do movies. I have five books in development. I’m writing screenplays. I just moved out to L.A.” It’s this huge plan. John Grisham on the other hand, as soon as The Firm did well, it was the second book. His first book was a flop, A Time to Kill when it first came out. But he said, “I’m going to write two and if one of the two works and I’ll keep doing this.” The Firm blew up, did really well.
+
+And as soon as he had some autonomy, he simplified, simplified, simplified to the point where at some point more recently, this would’ve been in the 2000s, he had this long time assistant who worked for him, when she retired he’s like, “I don’t have to hire anyone else because no one bothers me. My agent and my editor know how to contact me. I don’t do anything. I write my book once a year. That’s it. I spend a lot of time doing stuff in my town,” and he was the commissioner of the little league. He had a lot of stuff he did unrelated to work. He just slowed down. He’s like, “I just want to write. That’s all I do. I don’t need to have TV shows and I don’t need to write the screenplays for my books when they get made into things and I don’t need to create a six-part series and direct my whatever and get into television.”
+
+He’s like, “I’m getting paid a lot of money. I’m going to write. That’s what I want to do. I want to simplify.” So Grisham has always stood out to me and I know a couple of people who know him and they underscore this, that he’s like, “I write, I do one book a year and you’re not going to hear from me until it’s done and then you get me for four weeks and I’ll do some publicity,” but people know how he is.
+
+Tim Ferriss: Do the dog and pony show.
+
+Cal Newport: I’ll do it, but at four weeks and then leave me alone.
+
+I’m going to go do other things. He’s a great example. So it’s two different types of ambition. The Crichton ambition is now that I have all these opportunities, I want to do every single one I can. I’ve been starving for years and now I’m at the buffet and I’m going to fill my plate. And Grisham had the complete other mindset. Now that I’m successful, I have the leverage to do nothing. Get out. No, no, no, no, no. I just wanted to do this one thing. Isn’t that great? So he’s definitely slow productivity.
+
+Tim Ferriss: Maybe that’s your next book, The Leverage to Do Nothing. That actually would be a pretty good title.
+
+Cal Newport: I know.
+
+Tim Ferriss: So I’m thinking of Grisham as someone who decided from the outset, to use a rowing example, to, is it sculling? One person, single-person rowing.
+
+Cal Newport: Yeah.
+
+Tim Ferriss: Yeah. So he’s out there on the Charles just thinking about his next book, rowing by himself. And then there are a lot of other people out there who have, and I’ve been in this position before, so I’m not throwing too many stones in my glass house, but you’re like, “How did my life get so fucking complicated?” And you’re like, “Shit.” Instead of sculling, I built Noah’s Ark. I’ve got two of every goddamned animal in here and I have to unload this fucker. If I want to simplify, I have to get these goddamn animals off this boat.” So I want to jump into some ways to simplify.
+
+So if you are able to maintain that from the outset, God bless you. You’re a miracle worker. I wish I could do what you do. Maybe I can. But I often slip, I backslide and then I’m just like, “Okay, now I have to unload Noah’s Ark again.” One of the points in the notes here that I have is work to reduce collaboration overhead, we talked about bad overhead, talking about work instead of doing it, by replacing asynchronous communication with real-time conversations. So this I think will strike a lot of folks as counterintuitive. Could you expand on this please?
+
+Cal Newport: Well, asynchrony is a problem. So asynchrony meaning not real time. So email for example, I send you a message, you read it when you’re ready to read it, then you reply. So it’s not real time. Asynchrony has advantages because there’s an overhead to having to arrange real-time conversation. You and I have to agree somehow. This is when we’re going to get on the phone together. The problem with asynchrony is that if you use it for drawn out conversations, there’s going to be seven back and forth messages for us to decide on something, this now requires me to constantly monitor whatever channel we’re using here. Because if we’re going to get through seven back and forth messages today because we’re trying to decide on something, I have to see most of those messages, let’s say within 10 or 15 minutes of it arriving because we have to knock this ball back and forth enough times, 15 minutes per knock.
+
+We’re already a couple hours into it. So now I have to be checking these inboxes all the time. But if I’m checking these inboxes all the time, I’m seeing lots of other stuff as well. Now I’m in a state, to borrow a term from Linda Stone, of partial continuous attention, which drains my energy. I can’t think, well, I’m exhausted and I can’t produce anything deep. I can’t do any really good work. So asynchrony is one of these things that looks good on paper, but as soon as you start doing back and forth planning or conversations of any type with asynchrony, it destroys everything. It is one of the most potent productivity poisons. And the thing about it is that we think it’s actually making us more efficient, because, “Oh, look, I can just press send and I don’t have to go on a phone.” So instead having regular times to talk real time can actually be much more efficient.
+
+The key is not to have a separate meeting for everything you might need to discuss, because now you have a separate problem, which is your schedule is crowded. So I think the answer to all of this is just office hours. This is it. Every day, this hour to 90 minutes, my phone is on. I have a Slack channel, my door is open and you just punch everything to office hours. Yeah, good question. Grab me at the next office hours you can. Yeah, we should get into that. Grab me at the next office hours you can. Oh, yeah, a bunch of requests are coming in for interviews for my book coming out. Great. Next office hours you can, come and we’ll go through them all. So you consolidate synchrony into a regular periods, so you’re not wasting a lot of time arranging the synchrony. I think that’s a sweet spot for collaboration.
+
+Tim Ferriss: So to get into the nitty-gritty of that, you mentioned Slack. I’m curious from a flow perspective what that looks like. So if you’re communicating with your team via Slack and they’re like, “What about this?” And you’re like, “Grab me at the next office hours,” do you then have a Calendly or some automated tool where it’s like, “Hey, every Friday,” I’m curious what this looks like for you if you use it or how you’ve seen other people implement this just from a flow perspective, “Friday from 1:00 p.m. to 6:00 p.m. I am available in 30 minutes slots,” or whatever.
+
+And then, “Here’s a Calendly link,” if I’m getting the service name correct, “Where you can book a time and we’re not doing it via email,” right? Because one of my personal versions of Hell is group scheduling. I fucking hate it with such a passion. It just — how about Tuesday at two? No, that doesn’t work. What about Thursday at three? How about Monday at this? It’s one of my least favorite things in the world. So from a flow perspective, what does that look like and have you found any particular day or way of clustering office hours to work well for you or for other people?
+
+Cal Newport: Well, first of all, don’t use Slack to coordinate with your team. That’d be the first advice because it’s a tool that’s built around ongoing, at any point conversation could come in. I’ve suggested this a couple times in the pages of The New Yorker, is just stop using Slack essentially. Come back to it. It’s funny actually when Salesforce bought Slack, right after they bought Slack, I had an article that was titled “Slack Built the Right Tool for the Wrong Way to Work,” and it was a critique of this sort of hyperactive hive mind. And Salesforce unrelated, they didn’t know about it, they invited me to come give a high price lecture. And I was like, “Hey, I’m honored, but I should point you towards this article I just published.” And then they came back, and in fairness, this was the marketing company that was organizing this conference for Salesforce.
+
+Tim Ferriss: For sure.
+
+Cal Newport: They came back and said, “Well, yeah, I think we’re okay. I don’t think we need you.” But to your question about office hours, actually you want to lean more into academic style office hours, which are unscheduled. And so if it was a completely in-person situation like we used to be, then it would just be my door is open and that’s how I run office hours with my discrete math students. You look, “Oh, someone’s in your office, I wait till they’re out, then I come in.” But you can simulate this digitally using Zoom, for example, and just have a waiting room. So people come to your Zoom conference, they just know the Zoom link is open for this 90 minutes every afternoon at this set time. So they can just log in there and if you’re talking to someone else, they’re just waiting in the waiting room until you bring them in. And I mentioned Slack, so I probably should have elaborated that, but what some people do is say, “I have a Slack channel called Office Hours, but I only monitor it during my office hours.”
+
+So you just know from 3:00 to 4:30 then we can go back and forth and chat because that’s what I’m here to do is just talk to people. So I will have that Slack channel, that Office Hour channel open from 3:00 to 4:30 and there if we want to go back and forth on Slack, that’s still real time, right? We’re going back and forth in real time. It’s not asynchronous, that’s fine as well, but I’ll never look at that channel outside the office hours. And then you can tack onto this another 30 minutes with 10 minute chunks and a Calendly link where you can say to someone, “Either stop by my office hours or grab one of the one-on-one slots, here’s the link.”
+
+And so you could put those two. I actually have an article out today, the day we’re recording this, called “How to Have a More Productive Year.” And I talk about exactly this, having a open office hour plus an extra 30 minutes of one-on-ones and having a webpage that says, “Here’s how we talk. Show up during these office hours and just rock and roll or grab one of these slots if you want a little bit more time.” And that you just throw that link at people, like confetti at Mardi Gras. Just, “Here, link, link, link.” Just toss it at people to try to squash these asynchronous back and forth.
+
+Tim Ferriss: And that had to be more productive this year, that’s in The New Yorker also?
+
+Cal Newport: Yeah. Yeah. Came out today. Yeah, it’s the New Yorker piece where we just thought, it’s not typical New Yorker fare, but my editor and I were just thinking, “Why don’t we just write an article about how to be more productive?” Now okay, I couldn’t resist because it was The New Yorker. It also has a meta commentary on productivity advice itself. And I go through every decade from the 1950s to the 2000s, the dominant productivity book of that decade and how the advice changes from, there’s some New Yorker-y stuff in there, but there’s also some real hardcore advice.
+
+Tim Ferriss: Did you mention ouroboros? Is there a snake eating its own tail in this piece or no?
+
+Cal Newport: I should have, yeah.
+
+Tim Ferriss: Sneak one into everything.
+
+Cal Newport: I should have done ouroboros. Yes, that’s always a good one. You always have to mention, this is if you write for an elite publication and you mentioned productivity, you always have to mention Frederick Winslow Taylor. This is a pet peeve of mine, is from the mind of people who are professional writers who critique productivity, in their mind, Frederick Winslow Taylor is the central figure of American capitalism and productivity basically means him there with a stopwatch looking at your movements. And he wasn’t that influential of a person. It’s such a pet peeve of mine. Scientific management was not, it was esoteric and cult-like, and it had a following, but it got completely pushed out of the way by Fordism. And the idea of building smart production processes. Winslow Taylor was a weird guy. These time motion studies with these incentive-based pace scales was weird and he was weird and they determined that’s not so important.
+
+What’s important is an assembly line is a much better way to build a car than the other way. The systems matter a lot more. And also forget this weird incentive scale of I’ll pay you 10 cents more if you’re 10 cents faster shoveling whatever. Ford figured out, pay your workers a lot of money because the turnover’s more expensive than trying to whatever. So anyways, it’s a pet peeve of mine. Frederick Winslow Taylor does not yield an outsized influence on the way we think about productivity. Our issues with productivity do not come from Frederick Winslow Taylor. They actually come from Peter Drucker. And there’s a whole other argument I could make here, but that’s my pet peeve, is you don’t have to mention him every time you try to critique productivity. So rant aside.
+
+Tim Ferriss: And Peter Drucker, I’ve got to say, man, hit so many nails on the head. The Effective Executive still to this day, just such an incredible short book that punches above its weight class. So to scratch my own itch here, The New Yorker also has this typographical convention that has always been confusing to me and seems a little highfalutin. Tell me if I’m getting this right. It always stands out, it jumps out like a wart on someone’s face every time I see it. They put an umlaut over, maybe it’s the second vowel that is repeated, like coordinate and they’ll put an umlaut over the second O or something like that. Why do they do that? That’s not in the Chicago book style. What’s going on there? Or is that just a New Yorker thing?
+
+Cal Newport: Well, that’s true. So they do, yeah, umlauts on second vowels. So, reengage, you would have an umlaut and then also focus, they do British, so double S. Because I write a lot about focus, so you double S focused and focusing. That’s there. And then email, the convention for email is, I forgot exactly what it was, but the way they write about emails. No, it’s tradition, right?
+
+Tim Ferriss: I got it.
+
+Cal Newport: It’s an old magazine. It’s been around for a long time. And so there was a style guide invented early on when a lot of this was more up for grabs. And I think it’s tradition, let’s hold on to this style guide to whatever. I don’t know if, there might be a deeper story to it, but that’s what I’ve always understood is that they — 
+
+Tim Ferriss: Yeah, why not? I understood it just fine.
+
+Cal Newport: And they format it the same way. So a lot of that’s tradition. Their whole thing, which I love about it is they’re not chasing trends. I really love that publication. Anyone who reads it, the reason why you should read it is that their whole approach is just to try to make themselves the favorite place that their writers have ever written for. And their whole theory is make your place really, really writer-friendly and writers will write cool things and I think that’s cool. And they have a subscription base so they don’t have to chase web traffic, they don’t have to worry so much about ads. They have a million people who pay a hundred dollars a year for the magazine and you’ve got this great foundation. It’s like, “Okay, so we can just write.” It’s not big. Anyway, not to go on a New Yorker rant.
+
+Tim Ferriss: Well, let me play devil’s advocate on that because it seems like when The New York Times went from predominantly ads to predominantly subscriber revenue, they ended up producing more news coverage to please their base of subscribers and it became a much more exaggerated left-leaning caricature of itself in a way that is not helpful for contending with polarized tribalism and so on, in my opinion.
+
+Cal Newport: Yes.
+
+Tim Ferriss: So you feel like that is not — fundamentally, they’re different outlets. They’re very, very, very different. But are there inherent risks of the business model or the current media dynamics at play for The New Yorker? Because I’ve seen these formerly what I would consider highly credible publications — hold on, I have to — hey, my phone is always off, but I have to pull this up because this example is so nuts.My friend sent me this screenshot because he said, here we go, “The Economist’s stepping up their copy game,” and the screenshot he sent me is, the super text or the super script is “The Swines,” and then it says, “Feral Super Pigs Are Raising Hell on the Canadian Prairies.”
+
+They’re well adapted to the cold with thick fur long legs and tusks as sharp as steak knives, then it has this photo of these pigs running over a hill. And I’m like, “This is The Economist, man. What the fuck is happening?” And I love The Economist. No offense to The Economist. Love The Economist, but I was like, “Oh, man, everybody’s getting pulled down into the mud here in the quest for traffic and attention.” That’s a bit of a ramble. But do you think, how does The New Yorker resist the temptation/incentives/risks of the modern online world as we know it?
+
+Cal Newport: Well, you’re pointing out a real effect. I think it’s a trade-off. If we’re going to talk about trade-offs, it’s a trade-off effect. And I think The Times, it really did have to face this. So when you move to their subscriber model, what they gain is they don’t actually have to do the attention chasing. So this is one thing about The Times, is they don’t need the super feral pig example. They do not have a model based on chasing attention. Where other publications I think had an issue when the web grew, where they began just really pushing volume and trying to find social media virality. So The New York Times rather saved themselves from that, and so they could actually focus on what they wanted to write so they did not have to chase. So that was a positive, but the audience capture effect I think is also real.
+
+So when you don’t have to, and this is now a standard, I think accepted critique in the world of journalism, when you have to service big advertisers, you stay pretty neutral on things because the consumers of those products are all over the place. We want Procter & Gamble to buy a lot of ads in 1995 New York Times, so we’re going to be really good, but down the middle. And you’re absolutely right that when you go to subscriber base, that subscriber base was way more progressive, left-leaning than the public writ large. And then you get the audience capture effect. Now I think there was other dynamics that happened as well where you had the rise of certain ideological frameworks coming out of the colleges and young staffers coming to The New York Times.
+
+Tim Ferriss: Sure.
+
+Cal Newport: But it was the subscription model gave them the cover to, we can change even our definition of news, especially post-Trump. I think it really changed towards our goal here is to promote the right. That’s the best way I could describe what happened there is that when they know there’s something that is clearly right, pushing the thing that is right is a noble thing to do, even more important than certain journalistic standards. The New Yorker avoids that because they’re not a news magazine. I think that’s the main thing, right? They’re not reporting, that’s not their model. So they’ve been a subscription model from the beginning.
+
+Tim Ferriss: They still have a print magazine though they sell the newsstands, right? I don’t know how much of a consideration that is for a business model.
+
+Cal Newport: It’s a big part of their income, right? Because this news magazine is, yeah, so New Yorker subscribers get the magazine and the digital. I think, I don’t know the numbers, but they’re way more combined than with The New York Times. I think I subscribe to The New Yorker, I get the magazine and I get access to the online. So that’s a big part of what they do. But it’s a magazine of ideas. It’s a slow magazine, it’s slow productivity in action. They don’t want to be the first to talk about a news story. That’s not their goal. And also you have to keep in mind The New York Times is massive. It’s massive. They have their own building. It’s thousands of people. It’s a huge company.
+
+Tim Ferriss: I’ve been there, it’s gigantic. Nice building.
+
+Cal Newport: Yeah. The New Yorker has a floor, so it’s a different thing. So The New Yorker is not a news magazine. So then I think then they get the advantages of the subscription model without the disadvantages. The advantages being we don’t have to chase attention or clicks or volume, and so we could just try to write whatever we find to be interesting. It’s like D.T. Max has a piece in a recent issue where it’s just profiling this lady who spent 500 days in a cave, a really interesting article. It’s really well-constructed. She goes into the cave, she comes out, she’s like, “This was great.” And then he’s spending more time with her and slowly it comes out that this was this horrific experience. It’s, like, great. It’s awesome. It’s a really interesting article.
+
+Tim Ferriss: The New Yorker, I would say, probably more, if I were to go back and look at the pie chart of magazine or outlet attribution, I’d say probably The New Yorker has the highest hit rate of inclusion in 5-Bullet Friday, my newsletter.
+
+Cal Newport: Interesting.
+
+Tim Ferriss: In terms of pieces I think are worth sharing, it’s probably got the highest hit rate, at least in the US. Are there any magazines or outlets that you would just cut off a pinky Yakuza-style to write for? Obviously I’m exaggerating, but or would have loved to have written for that never got the chance to write for, like Paris Review or anything else? Is there anything on your wishlist outside of The New Yorker or have you already summited Everest and you’re like, “I’m good?”
+
+Cal Newport: Well, that was my wish. My agent has reminded me of this, that early on in my career I remember watching Jonah Lehrer at the time, who’s my age, early on in his career get some New Yorker slots. And this is how I said to my agent, “What I want to do, this is what I want to do outside my books is write for The New Yorker.” So that was my Everest. I’ve written for the other places, well, I’ve written for The New York Times and Wired and The Atlantic. They’re great places to write and they have huge audiences. So a New York Times piece, I always feel lucky when they publish something of mine because their audience is just huge. If you write something for them, people read it and people see it. And I have written for them. And so that’s also cool. I think one of the coolest jobs in journalism might be New York Times op-ed staff, right?
+
+Tim Ferriss: Yeah, I agree with that.
+
+Cal Newport: Krugman and Brooks and that, because they get to write about ideas, but it’s big swing impact and those things hit a lot of eyeballs. So when Ezra Klein left Vox and took the op-ed spot at The New York Times, I was like, “That doesn’t confuse me at all.” That’s a really cool job because you can affect the national conversation on a regular basis. And I don’t know who can offer that, that you can shape conversation on a regular basis. That’d be a cool job.
+
+Tim Ferriss: It’s true. Yeah, it’s true. It’s true. The New York Times also has some some great stuff. It’s that the discovery problem to come back to that is a little bit harder than say with The New Yorker, unsurprisingly, because you just have such an immense volume of stuff.
+
+Cal Newport: Yeah.
+
+Tim Ferriss: The op-ed narrows that down quite a bit. You are right in terms of impacting the national conversation and getting in front of eyeballs. I suppose that’s another advantage of the subscriber model, although you’re hitting one subset of political spectrum. So there is that, but all’s fair in love and editorial. Well, Cal, we’ve talked about a lot and people should check out the new book, you walk the walk, which is the most, for me, critical litmus test of material, especially if there’s any prescriptive aspect in a productivity self-help way, and I could define productivity, I define it pretty similarly. The new book is Slow Productivity: The Lost Art of Accomplishment without Burnout, and people cannot find you on social. But there’s the YouTube channel Cal Newport Media, so people can find that. There’s the Deep Questions podcast and calnewport.com. Certainly people can find a lot there.
+
+I’m curious maybe as we’re beginning to wind this to a close, if there are any other heuristics or mental models or anything that make slow productivity easier or more appealing for people to embrace. I would for instance say that by and large, I succumb to the shiny objects occasionally, but by and large, I think I fall into the slow productivity camp. For instance, the book that I’m working on now it started five years ago, notes and wrote 72,000 words five years ago and tabled it and shelved it and then have been workshopping things. Just to maybe start with sharing on my side, one of the things that helps me with this is thinking about choosing my projects, which is why I’m so interested in choosing projects, how people choose projects. I choose my projects generally on what skills and relationships they help me to develop, that could transcend that project.
+
+Even if the project ‘fails’ by all external metrics, if I’ve developed or improved relationships, it could be preexisting or new relationships and developed skills that will apply to other things, having a long timeframe is a huge, huge, huge advantage. It’s the ultimate in a world of attention compression, like having a long time horizon is a unbelievable advantage in so many ways. Thinking about my projects and how they snowball in that cumulative way gives me the peace of mind and confidence to take those longer time horizons, if that makes any sense. I’m wondering if there’s anything like that that could just be philosophical one-liners or beliefs that you have that allow you to embrace this without the fear and the FOMO that I think a lot of folks would have.
+
+Cal Newport: Right, and I agree, by the way that I definitely see you as an example of the slow productivity mindset. I think for example, your focus on the podcast, “Okay, this is the main thing I’m going to do. I’m going to stop the book publication cycle. I’m not going to seek out a lot of TV opportunities or whatever.” I think that’s a good example, which is why I’ll be disappointed if your new book turns out to be titled To Peel an Egg: 101 Hacks in Your Kitchen That’ll Amaze Your Friends or whatever, you on the cover.
+
+Tim Ferriss: Kitchen Tricks for Any Occasion.
+
+Cal Newport: Yeah, fully illustrated.
+
+Tim Ferriss: As it stands, no egg peeling in the new book.
+
+Cal Newport: Here’s the heuristic maybe that ties a lot of this together, is that at least for professional stuff in the end it’s craft. Craft is what matters. Respecting craft, developing craft, applying craft, finding meaning in craft. Just keep watching on repeat Jiro Dreams of Sushi, right? Just go back and watch that once a month because the more you think about craft is where I get fulfillment, craft is where I impact the world, craft is where I gain autonomy over my professional life, it can provide for the people I care about and give interesting opportunities in my life. It all comes back down to craft. You slow down, your timeframes become much longer. Psychologically you get so much resilience.
+
+Maybe you couple that, if I’m going to add a second heuristic, is ignore the internet. It’s a crazy making machine. It’s just a crazy making machine. Don’t require random people on social media to be a regular part of your life. Don’t require metrics you have to look at on a day-to-day basis of being important. I could just feel it. My podcast, we put the episodes on YouTube because I think, as we talked about before, video will be the future, not YouTube, but we should practice. I have a YouTube guy and I say, “You can do whatever you want to the thumbnails and the titles. I don’t know, you understand YouTube, but I don’t want to know about how it’s doing. I don’t want to feel any impact from that algorithm.” I want to do my podcast show where there is no cybernetic loop pushing back and changing what you’re doing beyond these super large scales. Over the last six months if we average out downloads, I think we’re trending upwards. Maybe you put those two things together.
+
+Craft is everything. You can build a psychologically resilient, sustainable, successful, professional life on craft and ignore the internet. Do those two things. You’re going to be really happy, especially if you’re talented and have a particular talent or ambition that’s where you should aim it. Don’t let an attention algorithm suck all that skill out of you and basically monetize all that potential into AdSense views that can help Google investors or whatever. Craft, focus on craft and get fulfillment out of craft even beyond results. Then just be incredibly wary about the internet. Maybe I’ll stay away from that, maybe I’ll stay away from that. That’s the two things. Do those two things. It’s night or day, what your life is like is night or day.
+
+Tim Ferriss: Yeah, it makes me think of, I can’t remember the attribution. There are many versions of this, but would you rather fail or partially succeed being who you are or succeed being someone you’re not? Those types of quotes I think about quite a bit because possibly if we take this vanity metric and look, it is a real metric if you’re dependent on advertising on your YouTube videos as an example, but let’s say you looked at your numbers and you were trending down over six months, does that mean you stop? Or does that mean that you are culling the herd and over time refining to the point where you are actually getting to your 1,000 or 10,000 true fans and you went from basically doing speeches at state fairs and now you’re standing on the TED stage. Is that bad?
+
+Cal Newport: No.
+
+Tim Ferriss: No, I’m just saying, you know what I mean? I’m saying maybe there’s a win embedded in what you’re perceiving as a failure, even if it’s trending in the wrong direction, right? Because otherwise, man, the stuff — oh, here, let me show you one. Let me see if I can find it. I’ll show you another one and I’ll describe what this is. This is the YouTube equivalent of The Economist‘s feral super pigs.
+
+Cal Newport: Oh, it gets so much worse on YouTube.
+
+Tim Ferriss: It gets so bad. I was texting with my team, went on YouTube and I was like, “Oh, my God, this is what happens to everyone on YouTube. If they stay on long enough and they get trained by the incentives, this is what happens to everybody.” Let me show you.
+
+Cal Newport: Oh, God.
+
+Tim Ferriss: It’s good. I don’t know if you can see this.
+
+Cal Newport: There’s a woman wearing very little clothes. Is that a robot? What is that?
+
+Tim Ferriss: No. This is a big, huge muscular dude in a toga/sarong type thing walking away. There’s a woman on the other side, he’s saying “Bye,” and she’s got question marks over her head. She’s in a thong pointing away from the camera, holding her ass cheeks, like pulling them apart. Then the headline is “Stoicism: 10 Lessons Men Learn Too Late In Life,” and parentheses, “(Might Hurt Your Feelings).” I’m not saying, look, I’ll give these guys credit because the thumbnail got me, Stoic Wisdom Wonders, 1.9 million views, put up one month ago. I was like, “Oh, man, you’re going to get trained by the algorithm.” If you’re not careful and even if you are careful, if you’re paying attention to the ‘right things,’ everything converges into a chick with a thong spreading her ass cheeks in a thumbnail with what to do before the imminent financial collapse, everything — doesn’t matter if you’re covering climate change, hoping to change the world with renewable energy, you’re going to end up there.
+
+Cal Newport: Noam Chomsky on the structure of manufactured consent, and there’s a woman in a bikini.
+
+Tim Ferriss: There you go. For me, and I’ve got to give these guys credit, they just got a bunch of free promotion, so good for them and it got my attention. I think the approach of treating these tools and new behaviors, because it’s sometimes hard to recognize that we’re engaging with tools, new technology as new drugs. Would you want to be the first chimpanzee injected with this or maybe you wait until you’re the hundredth chimpanzee? You can still be an early adopter, but let’s see what the long-term effects are. If you feel like you got a rush, you’re in the wrong game, you’re just in the wrong game. You could win but be very careful about what winning looks like when you do that telescoping out. Okay, if this just gets faster, if things just change more frequently, if the shifting sands of algorithm favoritism just start pouring from the sky and become much, much harder to track, require me to have, now I don’t have just a full-time thumbnail guy, I’ve got a full-time algo chaser who’s an analytics person and it becomes Moneyball. Do you want to win that game?
+
+Cal Newport: No.
+
+Tim Ferriss: What does it look like? There are going to be people just like, for instance, going to school, a lot of investment banks and so on recruited there and nine out of 10 people, probably 19 out of 20 would wash out. They would just get destroyed because they weren’t built for that. Then one out of 20 was just perfectly built for it. Fantastic. They would thrive in that environment. I do think that when we’re looking at some of these platforms where the numbers are probably even less fair, it’s like, “Okay, 99 out of 100 are going to wash out, and then one will just be the Michael Phelps of YouTube and awesome, good for them.” If everyone tries to do that, what a cataclysm.
+
+There are so many opportunities for slow productivity hiding in plain sight and there are counter examples. If you want a sustainable competitive advantage, and who doesn’t, having a longer time horizon and being unrushed with most things is just about as big as I can think of, at least at this point.
+
+Cal Newport: Yes.
+
+Tim Ferriss: Sorry, rant complete.
+
+Cal Newport: I completely agree with your rant. The numbers on algorithmic attention, just look at real numbers. Let’s use real numbers. I’m going to extend your YouTube rant slightly. Let’s look at real numbers.
+
+Tim Ferriss: Please. Coda.
+
+Cal Newport: What’s the take home CPM essentially on YouTube is low. People are monetizing these videos to the tune of maybe like $5 per thousand views. Whereas for podcasting, it is significantly larger, because it’s at least five times larger than that per ad, and you can have up to four ads per episode. It’s not even comparable. We’re talking orders of magnitude. So just to be concrete, you could have a YouTube channel where you have a million views a month or something like this, but a podcast that has 30,000 regular downloads a week, you have an audience of 30,000. It’s bigger than 1,000 true fans, but not that much bigger. I’ve done the math on that, and that is a professor salary. You could make a very good living off of that and it’s much more stable. If you build up a 30,000 person audience, they’re there for a reason. They’re not going to leave fast either.
+
+That’s something you could then do for years, whereas YouTube is going to be way more fickle and then the technology is going to go away and there’ll be another thing that’s coming into town anyways, or the algorithm’s going to change. Or you started as a channel on Noam Chomsky, and then you end up like MrBeast, who I respect what he’s doing, but he’s the platonic expression of the algorithm. He’ll say this, he’s broken down what matters. You have to have an outrageous but interesting visual thing that you’re going to deliver. You need to show the person right up front, “You’re going to see this, this, and this. Here’s some clips of it.” Then you need it to move every 15 seconds. It’s moving forward. They’re beautifully edited things, but they’re just pure id. It’s just we’re going to drive expensive cars and just go, go, go, go, go, go, go. That’s the distillation of the algorithm. Yeah, there should be some MrBeast out there doing that. But for most other people, build a successful podcast over five years. 
+
+A newsletter is another thing. This is another slow productivity example.
+
+Tim Ferriss: I was just going to say, if you think podcast CPMs are high, look at niche newsletters. If there’s a newsletter to CIOs or hedge fund managers or whatever, we’re talking hundreds of dollars CPM, right?
+
+Cal Newport: Yeah. You don’t have to be famous either. I know so many people have done, have a good newsletter or it’s subscription-based, which is equivalent to, it’s fantastic if people are paying $5 a month, okay, that works out to an incredibly high CPM because you could show that same person a huge number of ads. It’s just a different game. The example I was going to give was the writer Andrew Sullivan, who lives here in DC and he was the editor of The New Republic and wrote for New York Magazine before he got pushed out for political ideological reasons. He has a Substack now, and the way he talks about it, he’s like, “Well, this is great. I have a pretty fair-sized audience. I make a lot of money off of this. Why would I want to do anything else? This is great. I can write for this audience. It’s a big audience. I make more money doing this than I ever made as a magazine writer, and I can write what I want and I don’t need to do anything else, and I don’t need a studio and there’s nothing else I need to do.”
+
+I agree. Anything where an algorithm is driving attention, don’t make that, again, you could, but be wary of it. Also, be wary is my other warning heuristic of checklist productivity. If you learn from a YouTube course, all right, here is how you’re going to make a lot of money on Twitter. What you need to do is these tweet threads where the last tweet in the thread needs to say, “Hey, if you enjoyed this thread, you should follow me because I do these threads every so often.” It’s like you can’t all just follow these same checklists and assume, that’s not the way economies work. It’s not just if I just do these 10 things, pick your niche, make sure on a regular basis you have a thread, format your thread this way and if you do this — it used to be like in our childhood, the Carleton Sheets infomercials where he was like — 
+
+Tim Ferriss: Oh, man, I haven’t heard that name in ages.
+
+Cal Newport: Do you remember those? Yeah.
+
+Tim Ferriss: Yeah.
+
+Cal Newport: It’s kind of the same as checklist productivity on Twitter. His logic was, “Well, think about it. You can put a classified ad for something you’re drop shipping and let’s say you put a classified ad in one paper and you make $10 drop shipping. Well then put it in a hundred papers and you’re going to make a thousand dollars.” Completely leaving out the fact that by far the most common outcome is that zero people buy it no matter how many papers you put it in because they don’t want to buy a random piece of crap from a classified ad. That part was left out. You’re like, “Well, let’s think about it. If you make this much money here, then there’s this many papers, you’ll make this much money.” This is crazy logic, but it reminds me a lot of where you see like if I just do these videos and I do it right and have the right sign-off and I write my titles carefully, it’ll scale. No, most people, nothing will happen.
+
+Algorithmic attention economies, be very wary. Do the slow productivity attention economies, they’re hard, but it’s fantastic if you’re able to establish yourself there. If your books work, your podcast works. It’s way, way better.
+
+Tim Ferriss: I would also say these are not mutually exclusive. If you want to play in the algo arena, go for it. Like, look, I have a YouTube channel and I do this, that, and the other thing. Even podcasting is, let’s be honest, on some level, if Apple decides to kneecap everybody, which happens occasionally, it’s like, “Oh, oops.” I just read this article. It’s actually very well done. I wish I had the proper attribution, but it was something called like “The Great Shrinking Podcast Economy,” something like that. Just the incredible power of platforms to dictate your metrics is hard to overstate. I would say if you want to play that game, because some of it’s fun, I get it. I like competing and I’m not going to be doing any dangerous competitive sports anytime soon, so I’ve got to channel that somewhere. Okay, I could firewall 20 percent of my attention for dicking around with that. That’s fine, or 50, whatever. Have some percentage that you dedicate to trying to find something where you can cultivate this slow productivity.
+
+Cal Newport: Yeah.
+
+Tim Ferriss: So maybe it’s a slow carve out at first, but if you don’t have that, it’s like driving on a racecourse in a sports car where the racecourse changes constantly. Curve seven is no longer curve seven. It used to be a straightaway, now it’s a hairpin curve, and you don’t have an airbag or any type of seatbelt on or eight-point harness.
+
+Cal Newport: You’re going to crash.
+
+Tim Ferriss: Yeah, you’re going to crash eventually. So you need some type of safety net and long time horizon and slow productivity for me at least, it’s been my safety net for 20 years. I have no reason to think that that should change. The more frenetic things get, the faster things change. We didn’t even get to AI, but the more the avalanche of information continues to grow in volume, the more all of these things will be an advantage that I’m discussing. Check out the book, folks, Slow Productivity. Cal, anything else you’d like to mention? Any TikTok videos you’d like to point people to?
+
+Cal Newport: Yeah, exactly. My peeling video channel, which is now going to be a thousand of, by the way.
+
+Tim Ferriss: Peeling squash.
+
+Cal Newport: Yeah, so thanks for introducing that.
+
+Tim Ferriss: Cal Newport peeling squash.
+
+Cal Newport: Yeah, you’ve introduced that notion now. No, this has been great. Yeah, slow productivity, it connects everything together. Do something really well. Get meaning out of it. Then yeah, talk about it on different platforms, have fun, play on it. But you’re right, there’s a difference between I like to take my car to the track because it’s fun and my mortgage depends on me staying on this racing team. It’s a different dynamic that’s going on out there. Slow is just better. I think people are ready for it too. I think this is just where we are is we want something different. The first wave of different we were offered was just stop trying things. Work is bad. Stop trying. Don’t do anything. That didn’t stick because, well, I still like to do things and also I need to feed my family.
+
+I think now we’re getting this second generation of thinking about this, which is do it better. Figure out how do you really want to work? What makes sense? Hopefully this works, but I appreciate talking about it. I put an excerpt, by the way, I’m not on social media, but at calnewport.com/slow we put an excerpt on. So if you’re like, maybe, you can actually read the whole introduction of the book. You’ll appreciate it, Tim, because there’s a lot of John McPhee. I opened the book on John McPhee, and I know as someone who took his course at Princeton, which I’m jealous of, you’ll appreciate the McPhee, it’s rich McPhee content in that free excerpt.
+
+Tim Ferriss: Yeah. I can’t wait. Okay, so I will read that. We’ll put that in the show notes as well. Yeah, I learned more from McPhee in one semester about writing than I have in all of my reading and practice and classes outside of that one seminar. I wish I could go back and take it again frankly. You never know. Who knows? I went back, I actually have all my notes and all of my assignments from that class to this day.
+
+Cal Newport: Like marked up?
+
+Tim Ferriss: I have the marked-up notes, and I go back and sometimes I look at my writing and I’m like, “I think I’m a worse writer now.” I think I’m a better teacher, but my actual prose I think could use some more weight training. I’ll get back into it. The glue of high quality. I should also say that slow productivity, yes, slow is an aspect, but in my mind, and tell me if you disagree with this certainly, but it’s really about proactive productivity instead of reactive productivity. 
+
+Cal Newport: Mm-hmm.
+
+Tim Ferriss: That’s a way like selective productivity, selective and proactive productivity, which happens to usually correspond to more sustainable, long-term thinking.
+
+Cal Newport: Yep, or intentional productivity.
+
+Tim Ferriss: Yeah, intentional.
+
+Cal Newport: Have an actual consistent, coherent philosophy for how I’m going to do my work that’s more sophisticated than just I’ll be busy because at least if I’m busy, I’m not going to self-incriminate like if I’m busy, at least I know I’m trying. That’s people’s default. Be more intentional. I think you’re right, and not everyone, if you’re an investment banker like you talked about, or you’re trying to become a law partner, a very intentional, coherent, reasonable productivity plan involves working all the damn time because specifically that’s what works in that world. For most people, when they’re intentional they realize 80 percent of what I’m doing is just trying to generate smoke from friction, but there’s no fire. It is just, I’m trying to be busy because I don’t know what else to do. Slowness becomes almost always inevitable once you actually start to be intentional about what am I really doing here? What really works, what matters, what doesn’t?
+
+Tim Ferriss: Yeah, if people really pause to think about many of the figures they might respect most for what they’ve accomplished in investing or business, the Warren Buffetts, Jeff Bezos certainly, go back and read the first 10 shareholder letters for Amazon, and you’ll see how well planned and prescient in some respects, it seems obvious in hindsight but so does everything, Bezos was in planning and how methodical and patient, the blend of being relentless and patient is an interesting one.
+
+Cal Newport: Yes.
+
+Tim Ferriss: Holy shit. It’s rare to find relentlessly focused and also very patient with criticism and skepticism and so on. Remarkable. Slow productivity is actually hidden all around us if we pause to look at the people we most respect, almost all of them are going to fall in there somewhere.
+
+Cal Newport: It’s all I do as a writer basically is come up with two word terms for things that widely exist and everyone already knows about. Deep work already exists, I just put a name to it, digital minimalism. It’s like, yeah, I’m just putting a name to a philosophy, that’s my whole secret. I’ve said this before to people about pragmatic nonfiction writing the goal is not to try to teach someone something completely new they didn’t know about. The goal is just to try to help people articulate something they already know deep in their gut is true, they just don’t have a framework or terminology for it. That’s what really has an impact. It’s like, “Yeah, I know slow productivity is better. I just didn’t have a name for it or a framework.” Don’t try to convince people of new things. Explain to them what they already know in a way that lets them take better action.
+
+That’s the secret to prescriptive nonfiction writing is you’re not really teaching people something new. It’s just how do I leverage something my gut tells me is true, I just don’t have my fingers around it all the way?
+
+Tim Ferriss: “Six-minute abs,” if anybody gets the reference. Might be seven-minute abs, but that’s the hitchhiker in [There’s] Something About Mary. Slow Productivity: The Lost Art of Accomplishment without Burnout, people can check it out. We’ll link to, of course, Cal Newport and all the other links in the show notes, tim.blog/podcast. We’ll put everything in there that we’ve spoken about. Thanks so much for taking the time, Cal. Nice to see you.
+
+Cal Newport: Yeah, thanks, Tim. I appreciate it.
+
+Tim Ferriss: For everybody listening or watching, check out the show notes and until next time be a little kinder than is necessary. Maybe a little slower than is necessary. Take your time. The good things will wait because it’s uncrowded, the really important things, those domains are typically very, very uncrowded. Be a little bit kinder to others and to yourself. Take things a little bit more slowly until next time and thanks for tuning in.
+
+The Tim Ferriss Show is one of the most popular podcasts in the world with more than one billion downloads. It has been selected for "Best of Apple Podcasts" three times, it is often the #1 interview podcast across all of Apple Podcasts, and it's been ranked #1 out of 400,000+ podcasts on many occasions. To listen to any of the past episodes for free, check out this page.
+
+TOPICS: 
+CATEGORIES
+THE TIM FERRISS SHOW TRANSCRIPTS
+TAGS: 
+TAGS
+CAL NEWPORT
+	
+Leave a Reply
+
+Comment Rules: Remember what Fonzie was like? Cool. That’s how we’re gonna be — cool. Critical is fine, but if you’re rude, we’ll delete your stuff. Please do not put your URL in the comment text and please use your PERSONAL name or initials and not your business name, as the latter comes off like spam. Have fun and thanks for adding to the conversation! (Thanks to Brian Oberkirch for the inspiration.)
+
+1 COMMENT
+Placket Spawns
+ 1 month ago
+
+Banacek reference? “So he’s out there on the Charles just thinking about his next book, rowing by himself”
+
+0
+ Reply
+Post navigation
+Previous Post
+PREVIOUS
+In Case You Missed It: January 2024 Recap of “The Tim Ferriss Show” (#723)
+Next Post
+NEXT
+Claire Hughes Johnson — How to Take Responsibility for Your Life, Create Rules That Work, Stop Being a Victim, Set Strong Boundaries, and More (#724)
+CLICK TO SUBSCRIBE
+Apple Podcasts
+Spotify
+Overcast
+Twitter
+Instagram
+Facebook
+YouTube
+LinkedIn
+MOST POPULAR IN THE TIM FERRISS SHOW TRANSCRIPTS
+All Transcripts from The Tim Ferriss Show!
+The Tim Ferriss Show Transcripts: Noah Kagan — How to Launch a Million-Dollar Business This Weekend (#717)
+The Tim Ferriss Show Transcripts: Legendary Actor Scott Glenn — How to Be Super Fit at 85, Lessons from Marlon Brando, How to Pursue Your Purpose, The Art of Serendipity, Stories of Gunslingers, and More (#729)
+The Tim Ferriss Show Transcripts: Claire Hughes Johnson — How to Take Responsibility for Your Life, Create Rules That Work, Stop Being a Victim, Set Strong Boundaries, and More (#724)
+TOPICS
+30-Day Challenges (2)
+4-Hour Case Studies (50)
+Automation (7)
+COCKPUNCH (7)
+Comfort Challenges (4)
+Dance (3)
+E-mail Detox (23)
+Entrepreneurship (61)
+Fearless (2)
+Filling the Void (96)
+Gadgets (15)
+Geoarbitrage (8)
+Interviews (29)
+Investing (19)
+Language (16)
+Low-Information Diet (42)
+Marketing (54)
+Mental Performance (43)
+Mini-retirements (24)
+Muse Examples (9)
+Nonsense (5)
+Opening the Kimono – OTK (4)
+Outsourcing Life (17)
+Physical Performance (51)
+Practical Philosophy (39)
+Presentations (3)
+Protecting Time (14)
+Psychedelics (18)
+Quarterly Shipments (3)
+Random (29)
+Remote Offices (7)
+Rockstar Living in… (5)
+Rust and Iron (2)
+Science (6)
+The 4-Hour Body – 4HB (54)
+The 4-Hour Chef – 4HC (39)
+The 4-Hour Chef Recipes (1)
+The Book – 4HWW (45)
+The Slow-Carb Diet (4)
+The Tim Ferriss Experiment – TFX (11)
+The Tim Ferriss Show (696)
+The Tim Ferriss Show Transcripts (531)
+Tim Ferriss Book Club (6)
+Tools of Titans (9)
+Travel (67)
+Tribe of Mentors (11)
+Writing and Blogging (58)
+BOOKS BY TIM FERRISS
+THE 4-HOUR WORKWEEK
+THE 4-HOUR BODY
+THE 4-HOUR CHEF
+TOOLS OF TITANS
+TRIBE OF MENTORS
+Sitemap
+Site Terms of Service
+Privacy Policy
+Do Not Sell or Share My Personal Information
+Copyright © 2007–2024 Tim Ferriss.
+THE 4-HOUR® is a registered trademark of Tim Ferriss.
+All rights reserved.
+Privacy PolicyProudly powered by WordPress / Hosted by Pressable
+
+This site is an Amazon Associate and purchases through Amazon links may earn an affiliate commission.
