@@ -16,7 +16,7 @@ export default async function handler(
   const { data: episodes, error } = await supabase
     .from("episodes")
     .select("id, url, title")
-    .order("air_date", { ascending: false });
+    .order("episode_count", { ascending: false });
   if (error) {
     console.error(error);
     res.status(500);
