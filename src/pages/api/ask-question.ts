@@ -185,7 +185,7 @@ function buildMessages(context: string, question: string): Array<ChatCompletionR
     Always split your reply into short markdown paragraphs.
     Separate paragraphs about each episode with a "---" separator.
      
-    If there's no way to build an answer out of the context, say "Sorry, I don't know the answer to that question".
+    If there's no way to build an answer out of the context, say "Sorry, I wasn't able to the answer to that question. I'm running on affordable hardware and computation can sometimes exceed my resourses. Can you rephrase and try again?".
     `)
   }
 
