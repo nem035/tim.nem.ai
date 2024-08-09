@@ -118,6 +118,7 @@ export default function Home() {
           gtag('config', 'G-QMNFHS9KMN');
         `}
         </Script>
+        <Banner />
         <h1>Use 🤖 AI to extract 🧠 knowledge from The Tim Ferriss Show</h1>
         <Description />
         <h3>
@@ -146,6 +147,14 @@ export default function Home() {
         </h5>
       </main>
     </>
+  );
+}
+
+function Banner() {
+  return (
+    <div className="banner">
+      This project is currently running on a free tier server and may be slow or unresponsive at times.
+    </div>
   );
 }
 

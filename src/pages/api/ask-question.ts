@@ -95,7 +95,7 @@ async function getEmbedding(question: string): Promise<Array<number>> {
     return embedding;
   } catch (error) {
     console.error(error);
-    throw new httpErrors.ServiceUnavailable(`Sorry, I'm having a bit of trouble finding the answer. Can you try again?`);
+    throw new httpErrors.ServiceUnavailable(`Sorry, my service is currently unavailable. Can you try again later?`);
   }
 }
 
@@ -124,7 +124,7 @@ async function matchAllEpisodesChunksByTranscriptEmbedding(question: string, emb
       console.error(querySavingError);
     }
 
-    throw new httpErrors.ServiceUnavailable(`Sorry, I'm having a bit of trouble finding the answer. Can you try again?`);
+    throw new httpErrors.ServiceUnavailable(`Sorry, my service is currently unavailable. Can you try again later?`);
   }
 
   const trascriptChunks = (data as Array<TranscriptChunkEmbedding>);
@@ -201,7 +201,7 @@ async function getAnswer(messages: Array<ChatCompletionRequestMessage>): Promise
   console.log("creating completion");
 
   const completionResponse = await openai.createChatCompletion({
-    model: "gpt-3.5-turbo",
+    model: "gpt-4o-mini",
     messages,
     temperature: 0.7,
   });

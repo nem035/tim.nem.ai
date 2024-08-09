@@ -213,3 +213,17 @@ button[type="submit"] {
 .answer .lds {
   top: -1em;
 }
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1em;
+  background-color: var(--color-primary);
+  color: var(--bg-secondary-color);
+  font-weight: bold;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
